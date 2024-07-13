@@ -2,6 +2,8 @@
 
 To implement the project, we parsed sample of datasets from kaggle which include metadata (all information about dataset) and files of dataset in zip archive or only metadata.
 
+[Storage with datasets from kaggle](https://disk.yandex.ru/d/So2CxXs5J2Ol5g)
+
 # 1. First parse script
 
 ## 1.1. Structure of files

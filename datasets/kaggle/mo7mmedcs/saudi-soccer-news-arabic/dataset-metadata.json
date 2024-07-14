@@ -1,0 +1,43 @@
+{
+  "id": "mo7mmedcs/saudi-soccer-news-arabic",
+  "id_no": 1125669,
+  "datasetSlugNullable": "saudi-soccer-news-arabic",
+  "ownerUserNullable": "mo7mmedcs",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Saudi Soccer News - Arabic",
+  "subtitleNullable": "Daily News for soccer news in Saudi Arabia",
+  "descriptionNullable": "## Context\nNews of MBS league has been more excited in the last years. Since the teams spent more than one billion riyals on contracts, deals and training camps. Also, the competition became more intense due to the small point difference between the top 4 teams. The rank of the league will be affected in the long term if the competition is ongoing like the premier league. The aim of a dataset to do sentiment analysis, prediction and clustering in order to know how the competition is described. The period of news is between December 12, 2020 and January 25, 2021.\n\n## Content\n- Writer: the person or organization who wrote the news.\n- Location: the location of news.\n- Date: the date of news in format yyyy-mm-dd.\n- Time: the time of news in format hh:mm.\n- Title: the title of news.\n- News: the text of news.\n- Class: the type of news which are 0 for informative about teams, 1 is related to the match and 2 for the general news not specific on teams.\n\n## Acknowledgements\nThis provided dataset was supported by instructors in General Assembly, and I appreciate their effort for helping to master the required skills for data scientist.\n\n## Inspiration\nAnalysis the MBS league news : \n- What are the most frequent words in the news per month?\n- Which location has the highest number of news?\n- Building model predicts the class of news?",
+  "datasetId": 1125669,
+  "datasetSlug": "saudi-soccer-news-arabic",
+  "hasDatasetSlug": true,
+  "ownerUser": "mo7mmedcs",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2140,
+  "totalVotes": 5,
+  "totalDownloads": 185,
+  "title": "Saudi Soccer News - Arabic",
+  "hasTitle": true,
+  "subtitle": "Daily News for soccer news in Saudi Arabia",
+  "hasSubtitle": true,
+  "description": "## Context\nNews of MBS league has been more excited in the last years. Since the teams spent more than one billion riyals on contracts, deals and training camps. Also, the competition became more intense due to the small point difference between the top 4 teams. The rank of the league will be affected in the long term if the competition is ongoing like the premier league. The aim of a dataset to do sentiment analysis, prediction and clustering in order to know how the competition is described. The period of news is between December 12, 2020 and January 25, 2021.\n\n## Content\n- Writer: the person or organization who wrote the news.\n- Location: the location of news.\n- Date: the date of news in format yyyy-mm-dd.\n- Time: the time of news in format hh:mm.\n- Title: the title of news.\n- News: the text of news.\n- Class: the type of news which are 0 for informative about teams, 1 is related to the match and 2 for the general news not specific on teams.\n\n## Acknowledgements\nThis provided dataset was supported by instructors in General Assembly, and I appreciate their effort for helping to master the required skills for data scientist.\n\n## Inspiration\nAnalysis the MBS league news : \n- What are the most frequent words in the news per month?\n- Which location has the highest number of news?\n- Building model predicts the class of news?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "nlp",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

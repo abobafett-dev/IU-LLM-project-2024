@@ -1,0 +1,43 @@
+{
+  "id": "avtnshm/india-electricity-data",
+  "id_no": 3895478,
+  "datasetSlugNullable": "india-electricity-data",
+  "ownerUserNullable": "avtnshm",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "India Electricity Data",
+  "subtitleNullable": "India Electricity Position, statwise and yearly",
+  "descriptionNullable": "This dataset contains three files. one from EIA for the yearly capacity and gneration of electricity, one from PIB release for statwise electricity generation, one from Ministry of Power on positions",
+  "datasetId": 3895478,
+  "datasetSlug": "india-electricity-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "avtnshm",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 253,
+  "totalVotes": 12,
+  "totalDownloads": 26,
+  "title": "India Electricity Data",
+  "hasTitle": true,
+  "subtitle": "India Electricity Position, statwise and yearly",
+  "hasSubtitle": true,
+  "description": "This dataset contains three files. one from EIA for the yearly capacity and gneration of electricity, one from PIB release for statwise electricity generation, one from Ministry of Power on positions",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "energy",
+    "intermediate",
+    "time series analysis",
+    "electricity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

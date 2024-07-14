@@ -1,0 +1,44 @@
+{
+  "id": "ayaanmustafa/flower",
+  "id_no": 885902,
+  "datasetSlugNullable": "flower",
+  "ownerUserNullable": "ayaanmustafa",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "Flower",
+  "subtitleNullable": "A simple dataset for flower image classification practice",
+  "descriptionNullable": "",
+  "datasetId": 885902,
+  "datasetSlug": "flower",
+  "hasDatasetSlug": true,
+  "ownerUser": "ayaanmustafa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 2072,
+  "totalVotes": 2,
+  "totalDownloads": 82,
+  "title": "Flower",
+  "hasTitle": true,
+  "subtitle": "A simple dataset for flower image classification practice",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "biology",
+    "deep learning",
+    "image",
+    "multiclass classification",
+    "pre-trained model"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

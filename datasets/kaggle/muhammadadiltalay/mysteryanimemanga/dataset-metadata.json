@@ -1,0 +1,42 @@
+{
+  "id": "muhammadadiltalay/mysteryanimemanga",
+  "id_no": 2339689,
+  "datasetSlugNullable": "mysteryanimemanga",
+  "ownerUserNullable": "muhammadadiltalay",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "MysteryDetective-AnimeManga",
+  "subtitleNullable": "Around 2.5K manga and 1K anime titles.",
+  "descriptionNullable": "Inspiration\nThis data collection is part of a research project on the usage of mystery games in a game based learning context. We are looking at different digital media related to mystery genre for inspiration and data-driven insights to design our games.\n\nContext\nThe purpose of this dataset is to gain insights into popular manga and anime series, and factors driving the popularity.\nI am particularly interested in the following questions:\n\n1. What kind of mystery/detective manga/anime series have the highest rating or fan following (fantasy, science fiction, slice of life)?\n2. Are there any similarities between popular series in terms of story (kinds of mysteries solved, methods used to solve the mysteries)?\n3. Does there exist a correlation between author/studio and manga/anime rating?\n4. Which series are popular in certain demographic audience (young/teen/old males/females)? Can we infer why from the synopsis?\n5. What patterns can be discovered from the data considering the source of the series (manga, novel, TV original, game)?\nKagglers are welcome to contribute through data analysis and visualization. NLP enthusiasts are cheerfully requested to join.\n\nSource\nThe data was scraped from [MyAnimeList](https://myanimelist.net/) website with Mystery and Detective genres.\nOn 14th July 2022, around 2.5K manga and 1K anime titles were scraped.",
+  "datasetId": 2339689,
+  "datasetSlug": "mysteryanimemanga",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammadadiltalay",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 1120,
+  "totalVotes": 9,
+  "totalDownloads": 101,
+  "title": "MysteryDetective-AnimeManga",
+  "hasTitle": true,
+  "subtitle": "Around 2.5K manga and 1K anime titles.",
+  "hasSubtitle": true,
+  "description": "Inspiration\nThis data collection is part of a research project on the usage of mystery games in a game based learning context. We are looking at different digital media related to mystery genre for inspiration and data-driven insights to design our games.\n\nContext\nThe purpose of this dataset is to gain insights into popular manga and anime series, and factors driving the popularity.\nI am particularly interested in the following questions:\n\n1. What kind of mystery/detective manga/anime series have the highest rating or fan following (fantasy, science fiction, slice of life)?\n2. Are there any similarities between popular series in terms of story (kinds of mysteries solved, methods used to solve the mysteries)?\n3. Does there exist a correlation between author/studio and manga/anime rating?\n4. Which series are popular in certain demographic audience (young/teen/old males/females)? Can we infer why from the synopsis?\n5. What patterns can be discovered from the data considering the source of the series (manga, novel, TV original, game)?\nKagglers are welcome to contribute through data analysis and visualization. NLP enthusiasts are cheerfully requested to join.\n\nSource\nThe data was scraped from [MyAnimeList](https://myanimelist.net/) website with Mystery and Detective genres.\nOn 14th July 2022, around 2.5K manga and 1K anime titles were scraped.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "data visualization",
+    "data analytics",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

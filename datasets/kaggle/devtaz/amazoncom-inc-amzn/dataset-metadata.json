@@ -1,0 +1,43 @@
+{
+  "id": "devtaz/amazoncom-inc-amzn",
+  "id_no": 1580078,
+  "datasetSlugNullable": "amazoncom-inc-amzn",
+  "ownerUserNullable": "devtaz",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon.com,Inc.(AMZN) Stock Price from May 15 1997",
+  "subtitleNullable": "Stock Price of Amazon.com from May 15 1997 to June 1 2022",
+  "descriptionNullable": "### Context\n\nThis dataset is stock price of the Amazon Inc till June 1  2022.\n\n\n### Content\n\nWhole dataset has total seven columns. Data, Opening price, High price of the day, lowest price of the day, closing price when market close, adjusted price after market close and the volume. \n\n\n",
+  "datasetId": 1580078,
+  "datasetSlug": "amazoncom-inc-amzn",
+  "hasDatasetSlug": true,
+  "ownerUser": "devtaz",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2899,
+  "totalVotes": 14,
+  "totalDownloads": 172,
+  "title": "Amazon.com,Inc.(AMZN) Stock Price from May 15 1997",
+  "hasTitle": true,
+  "subtitle": "Stock Price of Amazon.com from May 15 1997 to June 1 2022",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is stock price of the Amazon Inc till June 1  2022.\n\n\n### Content\n\nWhole dataset has total seven columns. Data, Opening price, High price of the day, lowest price of the day, closing price when market close, adjusted price after market close and the volume. \n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "time series analysis",
+    "investing",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kanchana1990/singapore-airlines-reviews",
+  "id_no": 4592972,
+  "datasetSlugNullable": "singapore-airlines-reviews",
+  "ownerUserNullable": "kanchana1990",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Singapore Airlines Reviews",
+  "subtitleNullable": "Insights and Experiences from Global Passengers",
+  "descriptionNullable": "\n\n**Overview:**\nThe \"Singapore Airlines Reviews\" dataset aggregates 10,000 anonymized customer reviews, providing a broad perspective on the passenger experience with Singapore Airlines. This extensive collection is instrumental for data-driven insights into customer satisfaction and service quality.\n\n**Data Science Applications:**\nIdeal for sentiment analysis, trend spotting, and predictive analytics, this dataset is a valuable asset for improving customer experience and operational efficiency.\n\n**Column Descriptors:**\n- `published_date`: Date and time of review publication.\n- `published_platform`: Platform where the review was posted.\n- `rating`: Customer satisfaction rating, from 1 (lowest) to 5 (highest).\n- `type`: Specifies the content as a review.\n- `text`: Detailed customer feedback.\n- `title`: Summary of the review.\n- `helpful_votes`: Number of users finding the review helpful.\n\n**Ethical Considerations:**\nCompiled with a commitment to privacy, all personal identifiers have been removed to ensure ethical standards.\n\n**Acknowledgements:**\nThanks to TripAdvisor for the review platform and Singapore Airlines for the service quality reflected in the dataset. The thumbnail features the Singapore Airlines logo, acknowledging the brand's influence on the data.",
+  "datasetId": 4592972,
+  "datasetSlug": "singapore-airlines-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "kanchana1990",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7840,
+  "totalVotes": 41,
+  "totalDownloads": 1465,
+  "title": "Singapore Airlines Reviews",
+  "hasTitle": true,
+  "subtitle": "Insights and Experiences from Global Passengers",
+  "hasSubtitle": true,
+  "description": "\n\n**Overview:**\nThe \"Singapore Airlines Reviews\" dataset aggregates 10,000 anonymized customer reviews, providing a broad perspective on the passenger experience with Singapore Airlines. This extensive collection is instrumental for data-driven insights into customer satisfaction and service quality.\n\n**Data Science Applications:**\nIdeal for sentiment analysis, trend spotting, and predictive analytics, this dataset is a valuable asset for improving customer experience and operational efficiency.\n\n**Column Descriptors:**\n- `published_date`: Date and time of review publication.\n- `published_platform`: Platform where the review was posted.\n- `rating`: Customer satisfaction rating, from 1 (lowest) to 5 (highest).\n- `type`: Specifies the content as a review.\n- `text`: Detailed customer feedback.\n- `title`: Summary of the review.\n- `helpful_votes`: Number of users finding the review helpful.\n\n**Ethical Considerations:**\nCompiled with a commitment to privacy, all personal identifiers have been removed to ensure ethical standards.\n\n**Acknowledgements:**\nThanks to TripAdvisor for the review platform and Singapore Airlines for the service quality reflected in the dataset. The thumbnail features the Singapore Airlines logo, acknowledging the brand's influence on the data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "transportation",
+    "aviation",
+    "nlp",
+    "ratings and reviews",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

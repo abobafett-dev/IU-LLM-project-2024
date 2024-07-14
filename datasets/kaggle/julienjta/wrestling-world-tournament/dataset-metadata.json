@@ -1,0 +1,42 @@
+{
+  "id": "julienjta/wrestling-world-tournament",
+  "id_no": 2453034,
+  "datasetSlugNullable": "wrestling-world-tournament",
+  "ownerUserNullable": "julienjta",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Wrestling World Tournament",
+  "subtitleNullable": "The biggest wrestling tournament \ud83c\udfc6- Informations about the wrestlers and ranks.",
+  "descriptionNullable": "## Context\n\nA **big wrestling tournament** \ud83c\udfc6 was held this year. The 500 best athletes from three different federations across the globe joined us to compete in one-on-one matches. The pools were made randomly no matter the profile of the athlete.  At the end of the tournament, the wrestlers can be ranked according to their number of victories. \n\nWrestling \ud83e\udd3c is a hand-to-hand combat system and a set of combat sports involving grappling-type techniques such as clinch fighting, throws and takedowns, joint locks, pins and other grappling holds. Wrestling techniques have been incorporated into martial arts, combat sports and military systems.\n\n## Content\n\nIn this Dataset, we have information on the different wrestlers such as their gender, weight, height, nationality, but also different scores to measure their strength, agility and mental abilities. More to be added.\n\n## Inspiration\n\nThis dataset is ideal for regression trying to predict the final rank of the wrestler for example.\nClassification can also be performed to predict for example the federation, the country, or the sports the wrestler master or clustering between the different wrestlers.\n\nRemember to upvote if you found the dataset useful \ud83e\udd47 \n\n## Dataset Glossary (Column-Wise)\n\n- **name**: Name of the wrestler.\n- **gender**: Gender of the wrestler.\n- **age**: Age of the wrestler.\n- **height**: Height of the wrestler in cm.\n- **weight**: Weight of the wrestler in kg.\n- **nationality**: Nationality of the wrestler.\n- **sports**: The combat sports mastered by the wrestler.\n- **hours\\_per\\_day**: The number of hours spent a day to work out and practice.\n- **strength**: A strength score given by the federation. Varies between 0 and 10.\n- **agility**: An agility score given by the federation. Varies between 0 and 10.\n- **mental**: A mental score given by the federation. Varies between 0 and 10.\n- **federation**: The federation the wrestler is registered in.\n- **year_start**: The year the wrestler started practicing the sport.\n- **rank**: The final rank obtained by the wrestler after the tournament.\n## Acknowledgement\n\n*This is a fictional dataset generated from a simulation in Python.* All the wrestlers are fictional so are their informations and rank. I will post a notebook explaining how I generated this dataset soon.\n\nDon't forget to upvote \ud83d\udc4d if you like the dataset!\n\n",
+  "datasetId": 2453034,
+  "datasetSlug": "wrestling-world-tournament",
+  "hasDatasetSlug": true,
+  "ownerUser": "julienjta",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5741,
+  "totalVotes": 38,
+  "totalDownloads": 918,
+  "title": "Wrestling World Tournament",
+  "hasTitle": true,
+  "subtitle": "The biggest wrestling tournament \ud83c\udfc6- Informations about the wrestlers and ranks.",
+  "hasSubtitle": true,
+  "description": "## Context\n\nA **big wrestling tournament** \ud83c\udfc6 was held this year. The 500 best athletes from three different federations across the globe joined us to compete in one-on-one matches. The pools were made randomly no matter the profile of the athlete.  At the end of the tournament, the wrestlers can be ranked according to their number of victories. \n\nWrestling \ud83e\udd3c is a hand-to-hand combat system and a set of combat sports involving grappling-type techniques such as clinch fighting, throws and takedowns, joint locks, pins and other grappling holds. Wrestling techniques have been incorporated into martial arts, combat sports and military systems.\n\n## Content\n\nIn this Dataset, we have information on the different wrestlers such as their gender, weight, height, nationality, but also different scores to measure their strength, agility and mental abilities. More to be added.\n\n## Inspiration\n\nThis dataset is ideal for regression trying to predict the final rank of the wrestler for example.\nClassification can also be performed to predict for example the federation, the country, or the sports the wrestler master or clustering between the different wrestlers.\n\nRemember to upvote if you found the dataset useful \ud83e\udd47 \n\n## Dataset Glossary (Column-Wise)\n\n- **name**: Name of the wrestler.\n- **gender**: Gender of the wrestler.\n- **age**: Age of the wrestler.\n- **height**: Height of the wrestler in cm.\n- **weight**: Weight of the wrestler in kg.\n- **nationality**: Nationality of the wrestler.\n- **sports**: The combat sports mastered by the wrestler.\n- **hours\\_per\\_day**: The number of hours spent a day to work out and practice.\n- **strength**: A strength score given by the federation. Varies between 0 and 10.\n- **agility**: An agility score given by the federation. Varies between 0 and 10.\n- **mental**: A mental score given by the federation. Varies between 0 and 10.\n- **federation**: The federation the wrestler is registered in.\n- **year_start**: The year the wrestler started practicing the sport.\n- **rank**: The final rank obtained by the wrestler after the tournament.\n## Acknowledgement\n\n*This is a fictional dataset generated from a simulation in Python.* All the wrestlers are fictional so are their informations and rank. I will post a notebook explaining how I generated this dataset soon.\n\nDon't forget to upvote \ud83d\udc4d if you like the dataset!\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "sports",
+    "classification",
+    "clustering",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

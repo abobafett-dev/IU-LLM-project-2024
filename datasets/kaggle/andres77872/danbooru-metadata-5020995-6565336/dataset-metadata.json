@@ -1,0 +1,43 @@
+{
+  "id": "andres77872/danbooru-metadata-5020995-6565336",
+  "id_no": 3648173,
+  "datasetSlugNullable": "danbooru-metadata-5020995-6565336",
+  "ownerUserNullable": "andres77872",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "danbooru metadata 5020995-6565336",
+  "subtitleNullable": "Danbooru update for medatadata of https://gwern.net/danbooru2021 from 5020995",
+  "descriptionNullable": "# **Why**\nThis dataset is used to keep update my project findit and used in my research projects.\nThe dataset is inspired in the [Gwern proyect](https://gwern.net/danbooru2021).\nI crawled using the danbooru API and convert to JSON to handle.\n\nAt the moment are 1543016 rows from the id 5020995 to 6565336 (2023-08-6)\n\n**Banner image**: https://danbooru.donmai.us/posts/6565336, is the last image ID in the dataset.\n\n",
+  "datasetId": 3648173,
+  "datasetSlug": "danbooru-metadata-5020995-6565336",
+  "hasDatasetSlug": true,
+  "ownerUser": "andres77872",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 184,
+  "totalVotes": 3,
+  "totalDownloads": 17,
+  "title": "danbooru metadata 5020995-6565336",
+  "hasTitle": true,
+  "subtitle": "Danbooru update for medatadata of https://gwern.net/danbooru2021 from 5020995",
+  "hasSubtitle": true,
+  "description": "# **Why**\nThis dataset is used to keep update my project findit and used in my research projects.\nThe dataset is inspired in the [Gwern proyect](https://gwern.net/danbooru2021).\nI crawled using the danbooru API and convert to JSON to handle.\n\nAt the moment are 1543016 rows from the id 5020995 to 6565336 (2023-08-6)\n\n**Banner image**: https://danbooru.donmai.us/posts/6565336, is the last image ID in the dataset.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "search engines",
+    "multiclass classification",
+    "anime and manga",
+    "multilabel classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

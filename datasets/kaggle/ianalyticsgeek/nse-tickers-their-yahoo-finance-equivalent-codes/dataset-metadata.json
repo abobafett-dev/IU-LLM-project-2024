@@ -1,0 +1,39 @@
+{
+  "id": "ianalyticsgeek/nse-tickers-their-yahoo-finance-equivalent-codes",
+  "id_no": 1102748,
+  "datasetSlugNullable": "nse-tickers-their-yahoo-finance-equivalent-codes",
+  "ownerUserNullable": "ianalyticsgeek",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "NSE tickers & their Yahoo Finance equivalent codes",
+  "subtitleNullable": "National Stock Exchange of India - Yahoo Finance equivalent ticker codes",
+  "descriptionNullable": "### Context\n\nNational Stock Exchange (NSE) ticker (stock) names and their Yahoo Finance equivalent ticker codes.\n\n\n### Content\n\nI have added a CSV file that contains all of the NSE ticker names and their Yahoo Finance equivalent ticker codes as on January 15th, 2021\n\n\n### Acknowledgements\n\nNSE India \n\n\n### Inspiration\n\nData can be used for various machine learning techniques to evaluate stock performance or to create best stock portfolios.",
+  "datasetId": 1102748,
+  "datasetSlug": "nse-tickers-their-yahoo-finance-equivalent-codes",
+  "hasDatasetSlug": true,
+  "ownerUser": "ianalyticsgeek",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 4689,
+  "totalVotes": 10,
+  "totalDownloads": 565,
+  "title": "NSE tickers & their Yahoo Finance equivalent codes",
+  "hasTitle": true,
+  "subtitle": "National Stock Exchange of India - Yahoo Finance equivalent ticker codes",
+  "hasSubtitle": true,
+  "description": "### Context\n\nNational Stock Exchange (NSE) ticker (stock) names and their Yahoo Finance equivalent ticker codes.\n\n\n### Content\n\nI have added a CSV file that contains all of the NSE ticker names and their Yahoo Finance equivalent ticker codes as on January 15th, 2021\n\n\n### Acknowledgements\n\nNSE India \n\n\n### Inspiration\n\nData can be used for various machine learning techniques to evaluate stock performance or to create best stock portfolios.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

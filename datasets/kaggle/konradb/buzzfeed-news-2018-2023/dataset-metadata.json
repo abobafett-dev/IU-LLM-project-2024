@@ -1,0 +1,39 @@
+{
+  "id": "konradb/buzzfeed-news-2018-2023",
+  "id_no": 3313572,
+  "datasetSlugNullable": "buzzfeed-news-2018-2023",
+  "ownerUserNullable": "konradb",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "BuzzFeed News 2018 - 2023",
+  "subtitleNullable": "BuzzFeed News \u201cTrending\u201d strips collection",
+  "descriptionNullable": "From the dataset repo: https://github.com/jsvine/buzzfeed-news-trending-strip/tree/main\n\nBuzzFeedNews.com launched in July 2018 as the dedicated homepage for BuzzFeed News. (Previously, BuzzFeed\u2019s news coverage was published on BuzzFeed\u2019s main domain, buzzfeed.com.) One key feature of the site was its \u201cTrending\u201d strip, curated by editors and highlighting up to eight articles at a time. In mid-November 2018, a few months after the site launched, I wrote a script to fetch that list of articles and to save that information to a simple file. The script ran every five minutes (with occasional interruptions) until the newsroom\u2019s final day of operation in May 2023. This repository contains all the data the script collected, in raw and deduplicated forms.\n\nDisclosure: I worked for BuzzFeed\u2019s news division from March 2014 to January 2022. I undertook this project on personal time and out of personal interest, using only the publicly-available homepage; nothing here should be considered to represent the views of BuzzFeed or BuzzFeed News.\n\n\n\n",
+  "datasetId": 3313572,
+  "datasetSlug": "buzzfeed-news-2018-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "konradb",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1584,
+  "totalVotes": 17,
+  "totalDownloads": 174,
+  "title": "BuzzFeed News 2018 - 2023",
+  "hasTitle": true,
+  "subtitle": "BuzzFeed News \u201cTrending\u201d strips collection",
+  "hasSubtitle": true,
+  "description": "From the dataset repo: https://github.com/jsvine/buzzfeed-news-trending-strip/tree/main\n\nBuzzFeedNews.com launched in July 2018 as the dedicated homepage for BuzzFeed News. (Previously, BuzzFeed\u2019s news coverage was published on BuzzFeed\u2019s main domain, buzzfeed.com.) One key feature of the site was its \u201cTrending\u201d strip, curated by editors and highlighting up to eight articles at a time. In mid-November 2018, a few months after the site launched, I wrote a script to fetch that list of articles and to save that information to a simple file. The script ran every five minutes (with occasional interruptions) until the newsroom\u2019s final day of operation in May 2023. This repository contains all the data the script collected, in raw and deduplicated forms.\n\nDisclosure: I worked for BuzzFeed\u2019s news division from March 2014 to January 2022. I undertook this project on personal time and out of personal interest, using only the publicly-available homepage; nothing here should be considered to represent the views of BuzzFeed or BuzzFeed News.\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

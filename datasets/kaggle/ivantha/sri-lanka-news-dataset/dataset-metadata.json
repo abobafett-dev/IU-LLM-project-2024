@@ -1,0 +1,41 @@
+{
+  "id": "ivantha/sri-lanka-news-dataset",
+  "id_no": 2284378,
+  "datasetSlugNullable": "sri-lanka-news-dataset",
+  "ownerUserNullable": "ivantha",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Sri Lanka News Dataset",
+  "subtitleNullable": "150K news articles about Sri Lanka from Dailynews and Newsfirst.",
+  "descriptionNullable": "### Description\nThis dataset contains a set of news articles scraped from [Dailymirror](https://www.dailymirror.lk/) and [Newsfirst](https://www.newsfirst.lk/); two prominent Sri Lankan news websites. \n\n\n### Copyright\n*Articles: The ownership of the articles belongs to the original owners from which this data was scraped.*\n*Dataset image: \u00a9 UNSPLASH/Alex Azabache*\n\n\n### Citations\nIf you use this data in any research work / publication, please cite this dataset as,\n&gt; Oshan Mudannayake. (2022). <i>Sri Lanka News Dataset</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2284378",
+  "datasetId": 2284378,
+  "datasetSlug": "sri-lanka-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ivantha",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1930,
+  "totalVotes": 17,
+  "totalDownloads": 140,
+  "title": "Sri Lanka News Dataset",
+  "hasTitle": true,
+  "subtitle": "150K news articles about Sri Lanka from Dailynews and Newsfirst.",
+  "hasSubtitle": true,
+  "description": "### Description\nThis dataset contains a set of news articles scraped from [Dailymirror](https://www.dailymirror.lk/) and [Newsfirst](https://www.newsfirst.lk/); two prominent Sri Lankan news websites. \n\n\n### Copyright\n*Articles: The ownership of the articles belongs to the original owners from which this data was scraped.*\n*Dataset image: \u00a9 UNSPLASH/Alex Azabache*\n\n\n### Citations\nIf you use this data in any research work / publication, please cite this dataset as,\n&gt; Oshan Mudannayake. (2022). <i>Sri Lanka News Dataset</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2284378",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text mining",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

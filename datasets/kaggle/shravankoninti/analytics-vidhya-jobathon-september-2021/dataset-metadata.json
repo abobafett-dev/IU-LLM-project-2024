@@ -1,0 +1,44 @@
+{
+  "id": "shravankoninti/analytics-vidhya-jobathon-september-2021",
+  "id_no": 1593784,
+  "datasetSlugNullable": "analytics-vidhya-jobathon-september-2021",
+  "ownerUserNullable": "shravankoninti",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Supplement Sales Forecasting",
+  "subtitleNullable": "Analytics Vidhya - JOB-A-THON - Sep 2021  - Forecast store sales for each store",
+  "descriptionNullable": "#  \ud83d\udca5 Supplement Sales Forecasting \ud83d\udd25 \n\nYour Client WOMart is a leading nutrition and supplement retail chain that offers a comprehensive range of products for all your wellness and fitness needs. \n\nWOMart follows a multi-channel distribution strategy with 350+ retail stores spread across 100+ cities. \n\nEffective forecasting for store sales gives essential insight into upcoming cash flow, meaning WOMart can more accurately plan the cashflow at the store level.\n\nSales data for 18 months from 365 stores of WOMart is available along with information on Store Type, Location Type for each store, Region Code for every store, Discount provided by the store on every day, Number of Orders everyday etc.\n\nYour task is to predict the store sales for each store in the test set for the next two months.\n\n\n\n## Evaluation\nThe evaluation metric for this competition is MSLE * 1000 across all entries in the test set.\n\n## Public and Private Split\nTest data is further divided into Public (First 20 Days) and Private (Last 41 Days). You will make the prediction for two months (61 days).\n\nYour initial responses will be checked and scored on the Public data.\nThe final rankings would be based on your private score which will be published once the competition is over.\n\n\n### Acknowledgements\n\nhttps://datahack.analyticsvidhya.com/contest/job-a-thon-september-2021/#ProblemStatement\n\n\n\n\n\n",
+  "datasetId": 1593784,
+  "datasetSlug": "analytics-vidhya-jobathon-september-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "shravankoninti",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 4775,
+  "totalVotes": 8,
+  "totalDownloads": 344,
+  "title": "Supplement Sales Forecasting",
+  "hasTitle": true,
+  "subtitle": "Analytics Vidhya - JOB-A-THON - Sep 2021  - Forecast store sales for each store",
+  "hasSubtitle": true,
+  "description": "#  \ud83d\udca5 Supplement Sales Forecasting \ud83d\udd25 \n\nYour Client WOMart is a leading nutrition and supplement retail chain that offers a comprehensive range of products for all your wellness and fitness needs. \n\nWOMart follows a multi-channel distribution strategy with 350+ retail stores spread across 100+ cities. \n\nEffective forecasting for store sales gives essential insight into upcoming cash flow, meaning WOMart can more accurately plan the cashflow at the store level.\n\nSales data for 18 months from 365 stores of WOMart is available along with information on Store Type, Location Type for each store, Region Code for every store, Discount provided by the store on every day, Number of Orders everyday etc.\n\nYour task is to predict the store sales for each store in the test set for the next two months.\n\n\n\n## Evaluation\nThe evaluation metric for this competition is MSLE * 1000 across all entries in the test set.\n\n## Public and Private Split\nTest data is further divided into Public (First 20 Days) and Private (Last 41 Days). You will make the prediction for two months (61 days).\n\nYour initial responses will be checked and scored on the Public data.\nThe final rankings would be based on your private score which will be published once the competition is over.\n\n\n### Acknowledgements\n\nhttps://datahack.analyticsvidhya.com/contest/job-a-thon-september-2021/#ProblemStatement\n\n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "intermediate",
+    "time series analysis",
+    "neural networks",
+    "tabular",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

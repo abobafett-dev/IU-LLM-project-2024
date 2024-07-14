@@ -1,0 +1,39 @@
+{
+  "id": "revilrosa/music-label-dataset",
+  "id_no": 110094,
+  "datasetSlugNullable": "music-label-dataset",
+  "ownerUserNullable": "revilrosa",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Music Label Dataset",
+  "subtitleNullable": "A synthetically generated music dataset to practice with LSDBMS.",
+  "descriptionNullable": "##Domain\nA synthetically generated music dataset for a small imaginary Music Labels.\n\n##Content\n**ARTISTS**<br>\n - id: artist's unique identifier;<br>\n - real_name: artist's real name;<br>\n - art_name: the career name the artist has chosen for him/herself;<br>\n - role: the artist's main role (singer, guitarist, dancer, drummer... );<br>\n - year_of_birth: the artist's year of birth;<br>\n - email: the artist's email. It's not necessarily unique as it can be also a common email;<br>\n - country: where the artist comes from;<br>\n - city: the city in which the artist lives. It can be in a different country from what stated above;<br>\n - zip_code: the postal zip code.<br>\n\n**ALBUMS**<br>\n- id: the album identifier;<br>\n- artist_id: the artist identifier;<br>\n- album_title: the title of the album;<br>\n- genre: the genre of the album. An artist can release albums of different genres;<br>\n- year_of_pub: the year the album was published;<br>\n- num_of_tracks: how many tracks there are in the album (a small number can mean longer tracks);<br>\n- num_of_sales: how many sales the album has made in the first month after the release;<br>\n- rolling_stone_critic: how magazine Rolling Stone has rated the album;<br>\n- mtv_critic: how MTV has rated the album;<br>\n- music_maniac_critic: how review site Music Maniac has rated the album.<br>\n\n##Acknowledgements\nWe need this dataset for university so probably we will never change it.",
+  "datasetId": 110094,
+  "datasetSlug": "music-label-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "revilrosa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 28068,
+  "totalVotes": 52,
+  "totalDownloads": 3074,
+  "title": "Music Label Dataset",
+  "hasTitle": true,
+  "subtitle": "A synthetically generated music dataset to practice with LSDBMS.",
+  "hasSubtitle": true,
+  "description": "##Domain\nA synthetically generated music dataset for a small imaginary Music Labels.\n\n##Content\n**ARTISTS**<br>\n - id: artist's unique identifier;<br>\n - real_name: artist's real name;<br>\n - art_name: the career name the artist has chosen for him/herself;<br>\n - role: the artist's main role (singer, guitarist, dancer, drummer... );<br>\n - year_of_birth: the artist's year of birth;<br>\n - email: the artist's email. It's not necessarily unique as it can be also a common email;<br>\n - country: where the artist comes from;<br>\n - city: the city in which the artist lives. It can be in a different country from what stated above;<br>\n - zip_code: the postal zip code.<br>\n\n**ALBUMS**<br>\n- id: the album identifier;<br>\n- artist_id: the artist identifier;<br>\n- album_title: the title of the album;<br>\n- genre: the genre of the album. An artist can release albums of different genres;<br>\n- year_of_pub: the year the album was published;<br>\n- num_of_tracks: how many tracks there are in the album (a small number can mean longer tracks);<br>\n- num_of_sales: how many sales the album has made in the first month after the release;<br>\n- rolling_stone_critic: how magazine Rolling Stone has rated the album;<br>\n- mtv_critic: how MTV has rated the album;<br>\n- music_maniac_critic: how review site Music Maniac has rated the album.<br>\n\n##Acknowledgements\nWe need this dataset for university so probably we will never change it.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

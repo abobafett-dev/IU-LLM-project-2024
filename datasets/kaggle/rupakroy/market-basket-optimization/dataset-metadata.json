@@ -1,0 +1,43 @@
+{
+  "id": "rupakroy/market-basket-optimization",
+  "id_no": 2888202,
+  "datasetSlugNullable": "market-basket-optimization",
+  "ownerUserNullable": "rupakroy",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "market_basket_optimization",
+  "subtitleNullable": "contains purchase behavior of products for a retail store ",
+  "descriptionNullable": "The dataset is specially curated for Association Rule Learning using **Apriori and Eclat **using Python to predict Shopping Behavior.\n\nApriori is one of the powerful algorithms to understand association among the products. Take an example of a supermarket where most of the person buys egg also buys milk and also baking soda. Probably the reason is they want to bake a cake for new year's eve.\n\nSo we can see there is an association between eggs, milk as well as baking soda. Now after knowing such association we simply put all the 3 things together in the shelf and that definitely will increase our sales.\n\nLet\u2019s perform Apriori with the help of an example. ",
+  "datasetId": 2888202,
+  "datasetSlug": "market-basket-optimization",
+  "hasDatasetSlug": true,
+  "ownerUser": "rupakroy",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8383,
+  "totalVotes": 32,
+  "totalDownloads": 1214,
+  "title": "market_basket_optimization",
+  "hasTitle": true,
+  "subtitle": "contains purchase behavior of products for a retail store ",
+  "hasSubtitle": true,
+  "description": "The dataset is specially curated for Association Rule Learning using **Apriori and Eclat **using Python to predict Shopping Behavior.\n\nApriori is one of the powerful algorithms to understand association among the products. Take an example of a supermarket where most of the person buys egg also buys milk and also baking soda. Probably the reason is they want to bake a cake for new year's eve.\n\nSo we can see there is an association between eggs, milk as well as baking soda. Now after knowing such association we simply put all the 3 things together in the shelf and that definitely will increase our sales.\n\nLet\u2019s perform Apriori with the help of an example. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "business",
+    "marketing",
+    "tabular",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

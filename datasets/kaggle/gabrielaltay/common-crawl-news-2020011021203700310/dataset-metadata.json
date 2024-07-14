@@ -1,0 +1,40 @@
+{
+  "id": "gabrielaltay/common-crawl-news-2020011021203700310",
+  "id_no": 471777,
+  "datasetSlugNullable": "common-crawl-news-2020011021203700310",
+  "ownerUserNullable": "gabrielaltay",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Common Crawl News 20200110212037-00310",
+  "subtitleNullable": "A single Web ARChive (WARC) file from Common Crawl News",
+  "descriptionNullable": "This dataset contains a single Web ARChive (WARC) file downloaded from the Common Crawl S3 bucket.  It covers part of 2020-01-10 (2020 January 10th).\n\n * https://commoncrawl.org/2016/10/news-dataset-available/\n * https://commoncrawl.org/the-data/get-started/",
+  "datasetId": 471777,
+  "datasetSlug": "common-crawl-news-2020011021203700310",
+  "hasDatasetSlug": true,
+  "ownerUser": "gabrielaltay",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10483,
+  "totalVotes": 1,
+  "totalDownloads": 124,
+  "title": "Common Crawl News 20200110212037-00310",
+  "hasTitle": true,
+  "subtitle": "A single Web ARChive (WARC) file from Common Crawl News",
+  "hasSubtitle": true,
+  "description": "This dataset contains a single Web ARChive (WARC) file downloaded from the Common Crawl S3 bucket.  It covers part of 2020-01-10 (2020 January 10th).\n\n * https://commoncrawl.org/2016/10/news-dataset-available/\n * https://commoncrawl.org/the-data/get-started/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

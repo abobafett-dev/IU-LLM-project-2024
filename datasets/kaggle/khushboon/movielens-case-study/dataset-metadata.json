@@ -1,0 +1,40 @@
+{
+  "id": "khushboon/movielens-case-study",
+  "id_no": 560678,
+  "datasetSlugNullable": "movielens-case-study",
+  "ownerUserNullable": "khushboon",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Movielens - Case Study",
+  "subtitleNullable": "Study the pattern of the ratings & make predictions",
+  "descriptionNullable": "**Background of Problem Statement**\n\nThe GroupLens Research Project is a research group in the Department of Computer Science and Engineering at the University of Minnesota. Members of the GroupLens Research Project are involved in many research projects related to the fields of information filtering, collaborative filtering, and recommender systems. The project is led by professors John Riedl and Joseph Konstan. The project began to explore automated collaborative filtering in 1992 but is most well known for its worldwide trial of an automated collaborative filtering system for Usenet news in 1996. Since then the project has expanded its scope to research overall information by filtering solutions, integrating into content-based methods, as well as, improving current collaborative filtering technology.\n\n**Problem Objective :**\n\nHere, we ask you to perform the analysis using the Exploratory Data Analysis technique. You need to find features affecting the ratings of any particular movie and build a model to predict the movie ratings.",
+  "datasetId": 560678,
+  "datasetSlug": "movielens-case-study",
+  "hasDatasetSlug": true,
+  "ownerUser": "khushboon",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 4795,
+  "totalVotes": 5,
+  "totalDownloads": 158,
+  "title": "Movielens - Case Study",
+  "hasTitle": true,
+  "subtitle": "Study the pattern of the ratings & make predictions",
+  "hasSubtitle": true,
+  "description": "**Background of Problem Statement**\n\nThe GroupLens Research Project is a research group in the Department of Computer Science and Engineering at the University of Minnesota. Members of the GroupLens Research Project are involved in many research projects related to the fields of information filtering, collaborative filtering, and recommender systems. The project is led by professors John Riedl and Joseph Konstan. The project began to explore automated collaborative filtering in 1992 but is most well known for its worldwide trial of an automated collaborative filtering system for Usenet news in 1996. Since then the project has expanded its scope to research overall information by filtering solutions, integrating into content-based methods, as well as, improving current collaborative filtering technology.\n\n**Problem Objective :**\n\nHere, we ask you to perform the analysis using the Exploratory Data Analysis technique. You need to find features affecting the ratings of any particular movie and build a model to predict the movie ratings.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "education"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

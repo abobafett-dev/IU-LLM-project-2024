@@ -1,0 +1,43 @@
+{
+  "id": "mingtr/dataset-of-a-handmade-product",
+  "id_no": 2140251,
+  "datasetSlugNullable": "dataset-of-a-handmade-product",
+  "ownerUserNullable": "mingtr",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Dataset stores on Etsy (for a specific product)",
+  "subtitleNullable": "This dataset is collected in May 2022, focusing on only one type of product.",
+  "descriptionNullable": "**Data sourse**\n- The dataset is collected by web scraping from the website of Etsy.\n- Product of research: handmade house paintings\n- On Etsy: shipping is internationally\n- Currency: EUR\n\n**Description of the features:**\n- weekly sales and total sales are estimated (based on reviews and sales of each store, cannot scrap the exact information because it is private)\n- Raving: buyers are raving, multiple people gave 5 stars over the last 7 days\n- Bestseller: high volumn sales over the past 6 months\n- Release time: the date that a product is listed\n- Etsy pick: a type of badge for sellers on Etsy",
+  "datasetId": 2140251,
+  "datasetSlug": "dataset-of-a-handmade-product",
+  "hasDatasetSlug": true,
+  "ownerUser": "mingtr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 994,
+  "totalVotes": 2,
+  "totalDownloads": 105,
+  "title": "Dataset stores on Etsy (for a specific product)",
+  "hasTitle": true,
+  "subtitle": "This dataset is collected in May 2022, focusing on only one type of product.",
+  "hasSubtitle": true,
+  "description": "**Data sourse**\n- The dataset is collected by web scraping from the website of Etsy.\n- Product of research: handmade house paintings\n- On Etsy: shipping is internationally\n- Currency: EUR\n\n**Description of the features:**\n- weekly sales and total sales are estimated (based on reviews and sales of each store, cannot scrap the exact information because it is private)\n- Raving: buyers are raving, multiple people gave 5 stars over the last 7 days\n- Bestseller: high volumn sales over the past 6 months\n- Release time: the date that a product is listed\n- Etsy pick: a type of badge for sellers on Etsy",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "business",
+    "marketing",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

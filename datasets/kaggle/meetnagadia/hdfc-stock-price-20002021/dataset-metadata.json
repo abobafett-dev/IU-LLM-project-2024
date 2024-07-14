@@ -1,0 +1,44 @@
+{
+  "id": "meetnagadia/hdfc-stock-price-20002021",
+  "id_no": 1543664,
+  "datasetSlugNullable": "hdfc-stock-price-20002021",
+  "ownerUserNullable": "meetnagadia",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "HDFC Stock Price (2000-2021)",
+  "subtitleNullable": "Here is HDFC Bank stock Price from year 2000 to 2021",
+  "descriptionNullable": "### Context\n\nThis is a dataset of HDFC Bank stock price from 2000 to 2021, its has more than 5000 rows. So we can perform EDA and various Regression Techniques to predict future price and how well the Bank stock are performing.\n\n### About Dataset:\n\n- **Date:** A date is a particular day of the month.\n- **Open:** It is the price at which the financial security opens in the market when trading begins. It may or may not be different from the previous day's closing price. Thus, the price in the beginning of trading sessions is called open price or simply open.\n- **High:** Today's high refers to a security's intraday highest trading price. It is represented by the highest point on a day's stock chart. This can be contrasted with today's low, which is the trading day's intraday low price.\n- **Low:** The low is the minimum price of a stock in a period, while high is the maximum value reached by the stock in the same period.\n- **Close:** The close is a reference to the end of a trading session in the financial markets when the markets close for the day. The close can also refer to the process of exiting a trade or the final procedure in a financial transaction in which contract documents are signed and recorded.\n- **Adj Close:**  The adjusted closing price amends a stock's closing price to reflect that stock's value after accounting for any corporate actions. The closing price is the raw price, which is just the cash value of the last transacted price before the market closes.\n- **Volume:** In capital markets, volume, or trading volume, is the amount of a security that was traded during a given period of time. In the context of a single stock trading on a stock exchange, the volume is commonly reported as the number of shares that changed hands during a given day.",
+  "datasetId": 1543664,
+  "datasetSlug": "hdfc-stock-price-20002021",
+  "hasDatasetSlug": true,
+  "ownerUser": "meetnagadia",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5615,
+  "totalVotes": 16,
+  "totalDownloads": 648,
+  "title": "HDFC Stock Price (2000-2021)",
+  "hasTitle": true,
+  "subtitle": "Here is HDFC Bank stock Price from year 2000 to 2021",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is a dataset of HDFC Bank stock price from 2000 to 2021, its has more than 5000 rows. So we can perform EDA and various Regression Techniques to predict future price and how well the Bank stock are performing.\n\n### About Dataset:\n\n- **Date:** A date is a particular day of the month.\n- **Open:** It is the price at which the financial security opens in the market when trading begins. It may or may not be different from the previous day's closing price. Thus, the price in the beginning of trading sessions is called open price or simply open.\n- **High:** Today's high refers to a security's intraday highest trading price. It is represented by the highest point on a day's stock chart. This can be contrasted with today's low, which is the trading day's intraday low price.\n- **Low:** The low is the minimum price of a stock in a period, while high is the maximum value reached by the stock in the same period.\n- **Close:** The close is a reference to the end of a trading session in the financial markets when the markets close for the day. The close can also refer to the process of exiting a trade or the final procedure in a financial transaction in which contract documents are signed and recorded.\n- **Adj Close:**  The adjusted closing price amends a stock's closing price to reflect that stock's value after accounting for any corporate actions. The closing price is the raw price, which is just the cash value of the last transacted price before the market closes.\n- **Volume:** In capital markets, volume, or trading volume, is the amount of a security that was traded during a given period of time. In the context of a single stock trading on a stock exchange, the volume is commonly reported as the number of shares that changed hands during a given day.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "time series analysis",
+    "statistical analysis",
+    "linear regression",
+    "investing",
+    "sklearn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

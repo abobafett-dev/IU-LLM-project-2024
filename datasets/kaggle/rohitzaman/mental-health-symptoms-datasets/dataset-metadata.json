@@ -1,0 +1,42 @@
+{
+  "id": "rohitzaman/mental-health-symptoms-datasets",
+  "id_no": 833754,
+  "datasetSlugNullable": "mental-health-symptoms-datasets",
+  "ownerUserNullable": "rohitzaman",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Mental Disorder symptoms datasets",
+  "subtitleNullable": "Symptoms of various mental disorder labeled with disorder name",
+  "descriptionNullable": "### Background of creating the Datasets\n\nAs we know there are a lot of people who have different mental disorders around the world. To recognize the disorders there are some fixed symptoms for detecting various mental disorders. For predicting any disorder it was very much important to have datasets having symptoms and mental disorder name.So I have collected symptoms and disorder name from various websites.I have used R programming language for creating the datasets.   \n\n### Description of the Datasets\nOn the datasets there are 25 columns where 24 columns are boolean types and 1 column is string type.\n",
+  "datasetId": 833754,
+  "datasetSlug": "mental-health-symptoms-datasets",
+  "hasDatasetSlug": true,
+  "ownerUser": "rohitzaman",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 12938,
+  "totalVotes": 18,
+  "totalDownloads": 1509,
+  "title": "Mental Disorder symptoms datasets",
+  "hasTitle": true,
+  "subtitle": "Symptoms of various mental disorder labeled with disorder name",
+  "hasSubtitle": true,
+  "description": "### Background of creating the Datasets\n\nAs we know there are a lot of people who have different mental disorders around the world. To recognize the disorders there are some fixed symptoms for detecting various mental disorders. For predicting any disorder it was very much important to have datasets having symptoms and mental disorder name.So I have collected symptoms and disorder name from various websites.I have used R programming language for creating the datasets.   \n\n### Description of the Datasets\nOn the datasets there are 25 columns where 24 columns are boolean types and 1 column is string type.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "diseases",
+    "health",
+    "psychology"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

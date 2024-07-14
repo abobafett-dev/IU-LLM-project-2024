@@ -1,0 +1,43 @@
+{
+  "id": "krairy/bitcoin-daily-price-and-vol-jul-2010-mar-2024",
+  "id_no": 4631316,
+  "datasetSlugNullable": "bitcoin-daily-price-and-vol-jul-2010-mar-2024",
+  "ownerUserNullable": "krairy",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Bitcoin daily (Jul 2010-Mar 2024)",
+  "subtitleNullable": "The longest bitcoin trading history on Kaggle",
+  "descriptionNullable": "The longest Bitcoin price series on Kaggle. Collected from various sources - so you don't have to.\n\nOpen, High, Low, Close prices (in US Dollars) and trading Volume data.\n\nIs bitcoin a scam or the new gold? Is it a good asset for investments? \nCan you mine the seasonality patterns? Can you predict the price of bitcoin next year? Would it help to augment this series with exogeneous data, for instance, summary of SEC conferences or Elon Musk's ~~tweets~~ posts?\nCan the bitcoin price be handy to *predict* other events, for instance, the sentiment in the news? \nLet's find out!\n\n**Sources**\n7.2010-09.2014: [Investing.com](https://www.investing.com/crypto/bitcoin/historical-data)\n09.2014-03.2014: YahooFinance API (with yfinance)",
+  "datasetId": 4631316,
+  "datasetSlug": "bitcoin-daily-price-and-vol-jul-2010-mar-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "krairy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 4053,
+  "totalVotes": 18,
+  "totalDownloads": 872,
+  "title": "Bitcoin daily (Jul 2010-Mar 2024)",
+  "hasTitle": true,
+  "subtitle": "The longest bitcoin trading history on Kaggle",
+  "hasSubtitle": true,
+  "description": "The longest Bitcoin price series on Kaggle. Collected from various sources - so you don't have to.\n\nOpen, High, Low, Close prices (in US Dollars) and trading Volume data.\n\nIs bitcoin a scam or the new gold? Is it a good asset for investments? \nCan you mine the seasonality patterns? Can you predict the price of bitcoin next year? Would it help to augment this series with exogeneous data, for instance, summary of SEC conferences or Elon Musk's ~~tweets~~ posts?\nCan the bitcoin price be handy to *predict* other events, for instance, the sentiment in the news? \nLet's find out!\n\n**Sources**\n7.2010-09.2014: [Investing.com](https://www.investing.com/crypto/bitcoin/historical-data)\n09.2014-03.2014: YahooFinance API (with yfinance)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "time series analysis",
+    "tabular",
+    "investing",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "jacobheldt/syntheticeue-ai-generated-images-dataset",
+  "id_no": 4400698,
+  "datasetSlugNullable": "syntheticeue-ai-generated-images-dataset",
+  "ownerUserNullable": "jacobheldt",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "SyntheticEye AI-Generated Images Dataset",
+  "subtitleNullable": "A Comprehensive Dataset of Diverse AI-Generated Images",
+  "descriptionNullable": "## SyntheticEye AI-Generated Images Dataset\nThis dataset contains more than 25,000 images showing diverse objects, humans, and scenes. This dataset is curated by the SyntheticEye initiative, which aims at building an accessible and reliable detector to classify AI-generated images. The images were generated using the following advanced image generation models:\n- [Stable Diffusion 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1)\n- [Openjourney-v4](https://huggingface.co/prompthero/openjourney-v4)\n- [min-dalle](https://github.com/kuprel/min-dalle)\n- [SDXL-Turbo](https://huggingface.co/stabilityai/sdxl-turbo) \n## Image Details\n- The images in this dataset vary in size. For tasks such as classification, we recommend resizing or cropping the images to a uniform resolution for optimal results.\n## Applications\nThis dataset could be utilized for a wide range of applications including but not limited to the development of detectors for AI-generated images. It is a valuable resource for training and testing machine learning models, especially classifiers.\n## Ethical Considerations\nAll images in this dataset are synthetic, ensuring no real individual's privacy is compromised. SyntheticEye is committed to ethical AI practices. Additionally, this dataset is primarily intended for research purposes and charitable projects, promoting responsible use of AI-generated data.\n## Updates\nWe want to expand the scope and utility of this dataset continuously, making it an even more valuable asset to the community.\n## Access and Use\nThe SyntheticEye AI-Generated Images Dataset is available on Kaggle for researchers, academicians, and ML practitioners. While it is not mandatory, we appreciate users crediting SyntheticEye in any projects or publications that utilize this dataset.",
+  "datasetId": 4400698,
+  "datasetSlug": "syntheticeue-ai-generated-images-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "jacobheldt",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 506,
+  "totalVotes": 7,
+  "totalDownloads": 95,
+  "title": "SyntheticEye AI-Generated Images Dataset",
+  "hasTitle": true,
+  "subtitle": "A Comprehensive Dataset of Diverse AI-Generated Images",
+  "hasSubtitle": true,
+  "description": "## SyntheticEye AI-Generated Images Dataset\nThis dataset contains more than 25,000 images showing diverse objects, humans, and scenes. This dataset is curated by the SyntheticEye initiative, which aims at building an accessible and reliable detector to classify AI-generated images. The images were generated using the following advanced image generation models:\n- [Stable Diffusion 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1)\n- [Openjourney-v4](https://huggingface.co/prompthero/openjourney-v4)\n- [min-dalle](https://github.com/kuprel/min-dalle)\n- [SDXL-Turbo](https://huggingface.co/stabilityai/sdxl-turbo) \n## Image Details\n- The images in this dataset vary in size. For tasks such as classification, we recommend resizing or cropping the images to a uniform resolution for optimal results.\n## Applications\nThis dataset could be utilized for a wide range of applications including but not limited to the development of detectors for AI-generated images. It is a valuable resource for training and testing machine learning models, especially classifiers.\n## Ethical Considerations\nAll images in this dataset are synthetic, ensuring no real individual's privacy is compromised. SyntheticEye is committed to ethical AI practices. Additionally, this dataset is primarily intended for research purposes and charitable projects, promoting responsible use of AI-generated data.\n## Updates\nWe want to expand the scope and utility of this dataset continuously, making it an even more valuable asset to the community.\n## Access and Use\nThe SyntheticEye AI-Generated Images Dataset is available on Kaggle for researchers, academicians, and ML practitioners. While it is not mandatory, we appreciate users crediting SyntheticEye in any projects or publications that utilize this dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "artificial intelligence",
+    "computer science",
+    "beginner",
+    "intermediate",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

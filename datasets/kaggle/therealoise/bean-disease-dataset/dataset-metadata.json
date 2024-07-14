@@ -1,0 +1,44 @@
+{
+  "id": "therealoise/bean-disease-dataset",
+  "id_no": 2581570,
+  "datasetSlugNullable": "bean-disease-dataset",
+  "ownerUserNullable": "therealoise",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "bean disease dataset",
+  "subtitleNullable": "For Image Classification",
+  "descriptionNullable": "The original dataset was obtained from **[AI-Lab Makerere](https://github.com/AI-Lab-Makerere/ibean/)**. The images were captured in bean fields by the Makerere AI lab in collaboration with the National Crops Resources Research Institute (NaCRRI), Uganda's national body in charge of agricultural research.\n\nThe dataset was already split into train, test, and validation sets. However, I merged the train, test, and validation images manually, and used the XnViewMP program to rename the files.\n\nThere are three classes in the dataset:\n* Angular Leaf Spot,\n* Bean rust, and\n* Healthy",
+  "datasetId": 2581570,
+  "datasetSlug": "bean-disease-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "therealoise",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 5582,
+  "totalVotes": 20,
+  "totalDownloads": 620,
+  "title": "bean disease dataset",
+  "hasTitle": true,
+  "subtitle": "For Image Classification",
+  "hasSubtitle": true,
+  "description": "The original dataset was obtained from **[AI-Lab Makerere](https://github.com/AI-Lab-Makerere/ibean/)**. The images were captured in bean fields by the Makerere AI lab in collaboration with the National Crops Resources Research Institute (NaCRRI), Uganda's national body in charge of agricultural research.\n\nThe dataset was already split into train, test, and validation sets. However, I merged the train, test, and validation images manually, and used the XnViewMP program to rename the files.\n\nThere are three classes in the dataset:\n* Angular Leaf Spot,\n* Bean rust, and\n* Healthy",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "plants",
+    "agriculture",
+    "beginner",
+    "intermediate",
+    "food",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

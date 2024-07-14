@@ -1,0 +1,48 @@
+{
+  "id": "sayamkumar/top-global-news-headlines",
+  "id_no": 4613140,
+  "datasetSlugNullable": "top-global-news-headlines",
+  "ownerUserNullable": "sayamkumar",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Top Global News Headlines",
+  "subtitleNullable": "Suitable for NLP text summarization tasks",
+  "descriptionNullable": "**Description:**\n\nThe \"Global News Articles\" dataset was acquired through the NewsAPI, a powerful tool that provides access to a vast collection of news articles from various sources around the world. The dataset contains a curated selection of news articles covering a wide range of topics, including politics, business, technology, health, and more.\n\n**Context:**\n\nIn today's fast-paced world, staying informed about global events is essential. This dataset aims to provide researchers, journalists, and analysts with a comprehensive source of news articles for analysis and insight generation. By leveraging the NewsAPI, we have gathered a diverse set of articles to facilitate research, trend analysis, sentiment analysis, and other data-driven tasks.\n\n**Inspiration:**\n\nThe inspiration behind creating this dataset stems from the growing need for reliable and easily accessible news data for analytical purposes. With the proliferation of digital media and the abundance of news sources available online, there is a wealth of information waiting to be tapped into. This dataset serves as a valuable resource for anyone interested in studying trends, patterns, and developments in the global news landscape.\n\n**Sources:**\n\nThe primary source of the data is the NewsAPI, which aggregates news articles from thousands of sources worldwide. The dataset includes articles from reputable news outlets, blogs, and online publications. Only the title, content, and headlines features have been extracted from the articles to provide concise yet informative data for analysis.\n\n**Acquisition of Data through NewsAPI:**\n\n- Accessing NewsAPI: The data acquisition process begins with accessing the NewsAPI platform, which provides developers with access to real-time and historical news articles.\n- Querying for Articles: Using predefined search criteria or custom queries, we retrieve a diverse set of news articles covering various topics and regions.\n- Extracting Features: From each article, we extract essential features such as the title, content, and headlines to capture the main points and key information.\n- Compilation of Dataset: The data is compiled into a structured dataset, ready for exploration and analysis by researchers and analysts.\n\nBy leveraging the capabilities of NewsAPI, we have curated a valuable dataset that provides insights into global news trends, enabling informed decision-making and analysis in diverse fields.",
+  "datasetId": 4613140,
+  "datasetSlug": "top-global-news-headlines",
+  "hasDatasetSlug": true,
+  "ownerUser": "sayamkumar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 503,
+  "totalVotes": 5,
+  "totalDownloads": 53,
+  "title": "Top Global News Headlines",
+  "hasTitle": true,
+  "subtitle": "Suitable for NLP text summarization tasks",
+  "hasSubtitle": true,
+  "description": "**Description:**\n\nThe \"Global News Articles\" dataset was acquired through the NewsAPI, a powerful tool that provides access to a vast collection of news articles from various sources around the world. The dataset contains a curated selection of news articles covering a wide range of topics, including politics, business, technology, health, and more.\n\n**Context:**\n\nIn today's fast-paced world, staying informed about global events is essential. This dataset aims to provide researchers, journalists, and analysts with a comprehensive source of news articles for analysis and insight generation. By leveraging the NewsAPI, we have gathered a diverse set of articles to facilitate research, trend analysis, sentiment analysis, and other data-driven tasks.\n\n**Inspiration:**\n\nThe inspiration behind creating this dataset stems from the growing need for reliable and easily accessible news data for analytical purposes. With the proliferation of digital media and the abundance of news sources available online, there is a wealth of information waiting to be tapped into. This dataset serves as a valuable resource for anyone interested in studying trends, patterns, and developments in the global news landscape.\n\n**Sources:**\n\nThe primary source of the data is the NewsAPI, which aggregates news articles from thousands of sources worldwide. The dataset includes articles from reputable news outlets, blogs, and online publications. Only the title, content, and headlines features have been extracted from the articles to provide concise yet informative data for analysis.\n\n**Acquisition of Data through NewsAPI:**\n\n- Accessing NewsAPI: The data acquisition process begins with accessing the NewsAPI platform, which provides developers with access to real-time and historical news articles.\n- Querying for Articles: Using predefined search criteria or custom queries, we retrieve a diverse set of news articles covering various topics and regions.\n- Extracting Features: From each article, we extract essential features such as the title, content, and headlines to capture the main points and key information.\n- Compilation of Dataset: The data is compiled into a structured dataset, ready for exploration and analysis by researchers and analysts.\n\nBy leveraging the capabilities of NewsAPI, we have curated a valuable dataset that provides insights into global news trends, enabling informed decision-making and analysis in diverse fields.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "tensorflow",
+    "pytorch",
+    "transformers",
+    "text generation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "ayushtiwari2323",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

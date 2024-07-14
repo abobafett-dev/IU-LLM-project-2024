@@ -1,0 +1,42 @@
+{
+  "id": "kpittos/news-articles",
+  "id_no": 2469898,
+  "datasetSlugNullable": "news-articles",
+  "ownerUserNullable": "kpittos",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "News Articles in Greek",
+  "subtitleNullable": "72k news articles and titles from 2012 to 2022",
+  "descriptionNullable": "# Context\nThis CSV dataset contains around 72k news headlines and text from the year 2012 to 2022 obtained from tvxs.gr.\n\n# Content\n- Id: Unique id\n- date: YYYY-MM-DD\n- title: \u03a4he title of the article\n- text: The text of the article",
+  "datasetId": 2469898,
+  "datasetSlug": "news-articles",
+  "hasDatasetSlug": true,
+  "ownerUser": "kpittos",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1338,
+  "totalVotes": 13,
+  "totalDownloads": 113,
+  "title": "News Articles in Greek",
+  "hasTitle": true,
+  "subtitle": "72k news articles and titles from 2012 to 2022",
+  "hasSubtitle": true,
+  "description": "# Context\nThis CSV dataset contains around 72k news headlines and text from the year 2012 to 2022 obtained from tvxs.gr.\n\n# Content\n- Id: Unique id\n- date: YYYY-MM-DD\n- title: \u03a4he title of the article\n- text: The text of the article",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "tabular",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

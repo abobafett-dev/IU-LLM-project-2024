@@ -1,0 +1,44 @@
+{
+  "id": "mhantor/mri-based-brain-tumor-images",
+  "id_no": 1250260,
+  "datasetSlugNullable": "mri-based-brain-tumor-images",
+  "ownerUserNullable": "mhantor",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Brain MRI Images",
+  "subtitleNullable": "Brain tumor detection and classification",
+  "descriptionNullable": "### Context\n\nThe dataset is organized into one folder (Brain_tumor_images) and contains two subfolders for each image category (Normal/Tumor) with 400 magnetic resonance (MR) images.\n- Normal (170 MRI)\n- Tumor (230 MRI)\n\n### Acknowledgements\n\nAll the images collected for the data set have been downloaded from the Internet.\n\n### Inspiration\nAutomated methods to detect and classify human diseases from medical images.",
+  "datasetId": 1250260,
+  "datasetSlug": "mri-based-brain-tumor-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "mhantor",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 7140,
+  "totalVotes": 20,
+  "totalDownloads": 753,
+  "title": "Brain MRI Images",
+  "hasTitle": true,
+  "subtitle": "Brain tumor detection and classification",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe dataset is organized into one folder (Brain_tumor_images) and contains two subfolders for each image category (Normal/Tumor) with 400 magnetic resonance (MR) images.\n- Normal (170 MRI)\n- Tumor (230 MRI)\n\n### Acknowledgements\n\nAll the images collected for the data set have been downloaded from the Internet.\n\n### Inspiration\nAutomated methods to detect and classify human diseases from medical images.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "data analytics",
+    "deep learning",
+    "image",
+    "cancer",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

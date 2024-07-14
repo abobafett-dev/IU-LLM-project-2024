@@ -1,0 +1,43 @@
+{
+  "id": "asaniczka/helpful-life-tips-from-reddit-dataset-13k-tips",
+  "id_no": 3801091,
+  "datasetSlugNullable": "helpful-life-tips-from-reddit-dataset-13k-tips",
+  "ownerUserNullable": "asaniczka",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Helpful Life Tips from Reddit Dataset (13K Tips)",
+  "subtitleNullable": "Posts over 1000 upvotes from r/lifeProTips & r/YouShouldKnow. 2005 - 2022",
+  "descriptionNullable": "&gt; Discover truly valuable life tips shared by real humans.\n\n## About the Dataset:\n\nReddit is a treasure trove of genuine life experiences from millions of people. Subreddits like r/lifeProTips and r/YouShouldKnow are well-known for containing some of the best and most practical tips that anyone can apply to their life.\n\nThis dataset is a cleaned version of the [split reddit dump by u/Watchful1](https://www.reddit.com/r/pushshift/comments/11ef9if/separate_dump_files_for_the_top_20k_subreddits/).\n\n&gt; Each row in the dataset contains a helpful life tip.\n\n## Interesting Task Ideas:\n\n1. Develop a web app that presents users with an interesting tip each day.\n2. Explore the data to determine the most popular types of tips.\n3. Build a recommendation system that suggests relevant tips based on specific life situations or topics.\n4. Develop AI-powered models that generate useful life tips using the examples in the dataset.\n5. Analyze popular life topics and their corresponding tips to uncover patterns and common themes.\n\n---\n\nIf you find this dataset valuable, don't forget to hit the upvote button! \ud83d\ude0a\ud83d\udc9d\n\n---\n\n### Checkout my other datasets\n\n[Gender Wage Gap in the USA](https://www.kaggle.com/datasets/asaniczka/gender-wage-gap-in-the-usa-1973-2022)\n\n[USA Hispanic-White Wage Gap Dataset ](https://www.kaggle.com/datasets/asaniczka/usa-hispanic-white-wage-gap-dataset-1973-2022)\n\n[USA Unemployment Rates by Demographics & Race](https://www.kaggle.com/datasets/asaniczka/unemployment-rates-by-demographics-1978-2023)\n\n[USA Wage Comparison for College vs. High School](https://www.kaggle.com/datasets/asaniczka/usa-wage-comparison-for-college-vs-high-school)\n\n[Employment-to-Population Ratio for USA ](https://www.kaggle.com/datasets/asaniczka/employment-to-population-ratio-for-usa-1979-2023)",
+  "datasetId": 3801091,
+  "datasetSlug": "helpful-life-tips-from-reddit-dataset-13k-tips",
+  "hasDatasetSlug": true,
+  "ownerUser": "asaniczka",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1885,
+  "totalVotes": 32,
+  "totalDownloads": 257,
+  "title": "Helpful Life Tips from Reddit Dataset (13K Tips)",
+  "hasTitle": true,
+  "subtitle": "Posts over 1000 upvotes from r/lifeProTips & r/YouShouldKnow. 2005 - 2022",
+  "hasSubtitle": true,
+  "description": "&gt; Discover truly valuable life tips shared by real humans.\n\n## About the Dataset:\n\nReddit is a treasure trove of genuine life experiences from millions of people. Subreddits like r/lifeProTips and r/YouShouldKnow are well-known for containing some of the best and most practical tips that anyone can apply to their life.\n\nThis dataset is a cleaned version of the [split reddit dump by u/Watchful1](https://www.reddit.com/r/pushshift/comments/11ef9if/separate_dump_files_for_the_top_20k_subreddits/).\n\n&gt; Each row in the dataset contains a helpful life tip.\n\n## Interesting Task Ideas:\n\n1. Develop a web app that presents users with an interesting tip each day.\n2. Explore the data to determine the most popular types of tips.\n3. Build a recommendation system that suggests relevant tips based on specific life situations or topics.\n4. Develop AI-powered models that generate useful life tips using the examples in the dataset.\n5. Analyze popular life topics and their corresponding tips to uncover patterns and common themes.\n\n---\n\nIf you find this dataset valuable, don't forget to hit the upvote button! \ud83d\ude0a\ud83d\udc9d\n\n---\n\n### Checkout my other datasets\n\n[Gender Wage Gap in the USA](https://www.kaggle.com/datasets/asaniczka/gender-wage-gap-in-the-usa-1973-2022)\n\n[USA Hispanic-White Wage Gap Dataset ](https://www.kaggle.com/datasets/asaniczka/usa-hispanic-white-wage-gap-dataset-1973-2022)\n\n[USA Unemployment Rates by Demographics & Race](https://www.kaggle.com/datasets/asaniczka/unemployment-rates-by-demographics-1978-2023)\n\n[USA Wage Comparison for College vs. High School](https://www.kaggle.com/datasets/asaniczka/usa-wage-comparison-for-college-vs-high-school)\n\n[Employment-to-Population Ratio for USA ](https://www.kaggle.com/datasets/asaniczka/employment-to-population-ratio-for-usa-1979-2023)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social science",
+    "beginner",
+    "survey analysis",
+    "social networks",
+    "text conversation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

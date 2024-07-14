@@ -1,0 +1,43 @@
+{
+  "id": "qwqextra/redditsuicidewatch",
+  "id_no": 1050463,
+  "datasetSlugNullable": "redditsuicidewatch",
+  "ownerUserNullable": "qwqextra",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "RedditSuicideWatch",
+  "subtitleNullable": "Suicidal Post From Reddit",
+  "descriptionNullable": "### Usage\n\nDataset collected from Reddit in order to give a provide a way or approach to solve these mystery behind suicide and suicidal related behaviour\n\n\n### About\n\nContains only two attribute\nText - Post of body of text\nSuicidal - Class labelled as Yes - denotes Suicidal text\n\n\n\n### What need to be done\nLet reveal the scene behind the mysterious suicide or suicidal related behaviour",
+  "datasetId": 1050463,
+  "datasetSlug": "redditsuicidewatch",
+  "hasDatasetSlug": true,
+  "ownerUser": "qwqextra",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1768,
+  "totalVotes": 2,
+  "totalDownloads": 128,
+  "title": "RedditSuicideWatch",
+  "hasTitle": true,
+  "subtitle": "Suicidal Post From Reddit",
+  "hasSubtitle": true,
+  "description": "### Usage\n\nDataset collected from Reddit in order to give a provide a way or approach to solve these mystery behind suicide and suicidal related behaviour\n\n\n### About\n\nContains only two attribute\nText - Post of body of text\nSuicidal - Class labelled as Yes - denotes Suicidal text\n\n\n\n### What need to be done\nLet reveal the scene behind the mysterious suicide or suicidal related behaviour",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "psychology",
+    "nlp",
+    "text mining",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

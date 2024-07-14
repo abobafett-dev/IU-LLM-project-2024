@@ -1,0 +1,43 @@
+{
+  "id": "julichitai/multilabel-small-car-and-color-dataset",
+  "id_no": 3742174,
+  "datasetSlugNullable": "multilabel-small-car-and-color-dataset",
+  "ownerUserNullable": "julichitai",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Multilabel car and color dataset",
+  "subtitleNullable": "3 car models with different colours to apply multi-label classification ",
+  "descriptionNullable": "**Context**\n\nThis dataset was created in order for me to practice multi-label classification based.\nThe dataset contains 3 different cars in 3 different colors. The main objective of multi-label classification is to be able to label items found in photos based on these categories.\n\n**Content**\n\nThe dataset consist of 2735 images that where scraped from Yandex, includes the following categories:\n\nrio red: 431<br>\nrio blue: 262<br>\nrio black: 306<br>\ntiggo red: 262<br>\ntiggo blue: 273<br>\ntiggo black: 286<br>\nmatiz red: 346<br>\nmatiz blue: 334<br>\nmatiz black: 235\n\n\n\n**Acknowledgements**\n\nI scraping Google and Bing using [cwerner's fastclass](https://github.com/cwerner/fastclass) package.",
+  "datasetId": 3742174,
+  "datasetSlug": "multilabel-small-car-and-color-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "julichitai",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4882,
+  "totalVotes": 22,
+  "totalDownloads": 583,
+  "title": "Multilabel car and color dataset",
+  "hasTitle": true,
+  "subtitle": "3 car models with different colours to apply multi-label classification ",
+  "hasSubtitle": true,
+  "description": "**Context**\n\nThis dataset was created in order for me to practice multi-label classification based.\nThe dataset contains 3 different cars in 3 different colors. The main objective of multi-label classification is to be able to label items found in photos based on these categories.\n\n**Content**\n\nThe dataset consist of 2735 images that where scraped from Yandex, includes the following categories:\n\nrio red: 431<br>\nrio blue: 262<br>\nrio black: 306<br>\ntiggo red: 262<br>\ntiggo blue: 273<br>\ntiggo black: 286<br>\nmatiz red: 346<br>\nmatiz blue: 334<br>\nmatiz black: 235\n\n\n\n**Acknowledgements**\n\nI scraping Google and Bing using [cwerner's fastclass](https://github.com/cwerner/fastclass) package.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "computer vision",
+    "classification",
+    "image",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

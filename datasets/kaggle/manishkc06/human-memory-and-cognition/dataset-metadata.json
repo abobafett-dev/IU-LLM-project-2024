@@ -1,0 +1,42 @@
+{
+  "id": "manishkc06/human-memory-and-cognition",
+  "id_no": 1089916,
+  "datasetSlugNullable": "human-memory-and-cognition",
+  "ownerUserNullable": "manishkc06",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Human Memory and Cognition",
+  "subtitleNullable": "Characterize cognitive processes involved in storytelling",
+  "descriptionNullable": "### Context\n\nModels of human cognition hold that information processing occurs in a series of stages. Cognitive psychology, in particular, is concerned with the internal mental processes that begin with the appearance of an external stimulus and result in a behavioural response.\n\n\n### Content\n\nExplore human cognitive processes around the generation of narratives\u2013with a focus on the language employed in stories about events that have been experienced versus imagined. Investigate and characterize cognitive processes involved in storytelling, contrasting imagination and recollection of events with the help of Data Science.\n\nBuild a machine learning model that would help you to categorize cognitive processes involved in storytelling - *Imagined*, *Recalled*or *Retold*.\n\nThese are the columns in the data:\n\n- `AssignmentId`: Unique ID of this story\n\n- `WorkTimeInSeconds`: Time in seconds that it took the worker to do the entire HIT (reading instructions, story writing, questions)\n\n- `WorkerId`: Unique ID of the worker (random string, not MTurk worker ID)\n\n- `annotatorAge`: Lower limit of the age bucket of the worker. Buckets are: 18-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55+\n\n- `annotatorGender`: Gender of the worker\n\n- `annotatorRace`: Race/ethnicity of the worker\n\n- `distracted`: How distracted were you while writing your story? (5-point Likert)\n\n- `draining`: How taxing/draining was writing for you emotionally? (5-point Likert)\n\n- `frequency`: How often do you think about or talk about this event? (5-point Likert)\n\n- `importance`: How impactful, important, or personal is this story/event to you? (5-point Likert)\n\n- `logTimeSinceEvent`: Log of time (days) since the recalled event happened\n\n- `mainEvent`: Short phrase describing the main event described\n\n- `memType`: Type of story (recalled, imagined, retold) - The target variable\n\n- `mostSurprising`: Short phrase describing what the most surprising aspect of the story was\n\n- `openness`: Continuous variable representing the openness to experience of the worker\n\n- `recAgnPairId`: ID of the recalled story that corresponds to this retold story (null for imagined stories). Group on this variable to get the recalled-retold pairs.\n\n- `recImgPairId`: ID of the recalled story that corresponds to this imagined story (null for retold stories). Group on this variable to get the recalled-imagined pairs.\n\n- `similarity`: How similar to your life does this event/story feel to you? (5-point Likert)\n\n- `similarityReason`: Free text annotation of similarity\n\n- `story`: Story about the imagined or recalled event (15-25 sentences)\n\n- `stressful`: How stressful was this writing task? (5-point Likert)\n\n- `summary`: Summary of the events in the story (1-3 sentences)\n\n- `timeSinceEvent`: Time (number of days) since the recalled event happened\n\n \n\nLikert scaling is a bipolar scaling method, measuring either positive or negative response to a statement.\n\n### Acknowledgements\n\nMaarten Sap, Eric Horvitz, Yejin Choi, Noah A. Smith, and James Pennebaker (2020) _Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models._ ACL.\n\n\n### Inspiration\n\nExplore the human cognitive process using machine learning.",
+  "datasetId": 1089916,
+  "datasetSlug": "human-memory-and-cognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "manishkc06",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 8877,
+  "totalVotes": 19,
+  "totalDownloads": 768,
+  "title": "Human Memory and Cognition",
+  "hasTitle": true,
+  "subtitle": "Characterize cognitive processes involved in storytelling",
+  "hasSubtitle": true,
+  "description": "### Context\n\nModels of human cognition hold that information processing occurs in a series of stages. Cognitive psychology, in particular, is concerned with the internal mental processes that begin with the appearance of an external stimulus and result in a behavioural response.\n\n\n### Content\n\nExplore human cognitive processes around the generation of narratives\u2013with a focus on the language employed in stories about events that have been experienced versus imagined. Investigate and characterize cognitive processes involved in storytelling, contrasting imagination and recollection of events with the help of Data Science.\n\nBuild a machine learning model that would help you to categorize cognitive processes involved in storytelling - *Imagined*, *Recalled*or *Retold*.\n\nThese are the columns in the data:\n\n- `AssignmentId`: Unique ID of this story\n\n- `WorkTimeInSeconds`: Time in seconds that it took the worker to do the entire HIT (reading instructions, story writing, questions)\n\n- `WorkerId`: Unique ID of the worker (random string, not MTurk worker ID)\n\n- `annotatorAge`: Lower limit of the age bucket of the worker. Buckets are: 18-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55+\n\n- `annotatorGender`: Gender of the worker\n\n- `annotatorRace`: Race/ethnicity of the worker\n\n- `distracted`: How distracted were you while writing your story? (5-point Likert)\n\n- `draining`: How taxing/draining was writing for you emotionally? (5-point Likert)\n\n- `frequency`: How often do you think about or talk about this event? (5-point Likert)\n\n- `importance`: How impactful, important, or personal is this story/event to you? (5-point Likert)\n\n- `logTimeSinceEvent`: Log of time (days) since the recalled event happened\n\n- `mainEvent`: Short phrase describing the main event described\n\n- `memType`: Type of story (recalled, imagined, retold) - The target variable\n\n- `mostSurprising`: Short phrase describing what the most surprising aspect of the story was\n\n- `openness`: Continuous variable representing the openness to experience of the worker\n\n- `recAgnPairId`: ID of the recalled story that corresponds to this retold story (null for imagined stories). Group on this variable to get the recalled-retold pairs.\n\n- `recImgPairId`: ID of the recalled story that corresponds to this imagined story (null for retold stories). Group on this variable to get the recalled-imagined pairs.\n\n- `similarity`: How similar to your life does this event/story feel to you? (5-point Likert)\n\n- `similarityReason`: Free text annotation of similarity\n\n- `story`: Story about the imagined or recalled event (15-25 sentences)\n\n- `stressful`: How stressful was this writing task? (5-point Likert)\n\n- `summary`: Summary of the events in the story (1-3 sentences)\n\n- `timeSinceEvent`: Time (number of days) since the recalled event happened\n\n \n\nLikert scaling is a bipolar scaling method, measuring either positive or negative response to a statement.\n\n### Acknowledgements\n\nMaarten Sap, Eric Horvitz, Yejin Choi, Noah A. Smith, and James Pennebaker (2020) _Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models._ ACL.\n\n\n### Inspiration\n\nExplore the human cognitive process using machine learning.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "health",
+    "psychology",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

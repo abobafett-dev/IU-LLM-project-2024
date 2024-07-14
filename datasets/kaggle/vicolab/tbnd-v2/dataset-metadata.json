@@ -1,0 +1,42 @@
+{
+  "id": "/tbnd-v2",
+  "id_no": 309682,
+  "datasetSlugNullable": "tbnd-v2",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "TBND_V2",
+  "subtitleNullable": "Transient Biometrics Nails Dataset V02",
+  "descriptionNullable": "## Transient Biometrics\n\nThere is plenty of scope for biometric recognition systems to become more socially acceptable, in the sense that society could accept and use such systems in day-to-day scenarios. The acceptability issue remains particularly open when dealing with non-critical scenarios and collaborative subjects. For instance, individuals will not happily offer their fingerprints just to have access to their hotel room. The points raised above limits the use of biometric technologies in a multitude of noncritical situations. This is why we introduce Transient Biometrics.\n\nWith this Transient Biometrics Nails Dataset we introduce a new idea to address the acceptability issue inherent to biometric solutions. This approach, designed for collaborative individuals, instead of recording permanent data, records transient data, i.e. data that do change over time and are thus canceled by nature. Users, who know that the biometric data they offer is going to be useless for recognition purposes after a certain amount of time, are likely to be more willing to offer it, even for day-to-day applications. This approach is termed transient biometrics; the idea is to use features with a short permanence, giving a diminutive period of recognition.\n\n### Context\n\nAn extended version of an experimental dataset, called transient biometrics nails dataset (TBND), was created. TBND is composed of images of the right index finger. During acquisition the subject was instructed to lay her finger over a flat white surface and a simple point-and-shoot camera was used to acquire an image without the the use of a flash. No explicit instructions with respect to force applied were given and thus our results incorporate arbitrary force differences between users and capture sessions. Acquisition was thus done in a semi-controlled environment; apart from the white background and indirect lighting, the images present variation with respect to scale, focal plane and illumination. \n\n\n### Content\n\nThe dataset consists of three subsets, each one compromising the same 93 subjects, but varying on acquisition date. The first subset D01 consists of images acquired on the first acquisition day. The second subset D02 is composed of images acquired one day later. The third subset D30 was acquired 1 month after the first acquisition date. Given acquisition restrictions, the acquisitions of D30 have up to two days\u2019 tolerance. This represents a massive expansion of the originally collected dataset [TBND V01 ](https://www.kaggle.com/vicolab/tbnd-v1)\n\n### Acknowledgements\n\n\u26a0 IN THE CASE YOU PUBLISH MATERIAL BASED ON THIS DATASET THEN IN YOUR ACKNOWLEDGEMENTS, PLEASE MENTION THE BASE WORK AS A REFERENCE\n\n```\n@Article{Barros Barbosa2016,\nauthor=\u201dBarros Barbosa, Igor\nand Theoharis, Theoharis\nand Abdallah, Ali E.\u201d,\ntitle=\u201dOn the use of fingernail images as transient biometric identifiers\u201d,\njournal=\u201dMachine Vision and Applications\u201d,\nyear=\u201d2016\u2033,\nvolume=\u201d27\u2033,\nnumber=\u201d1\u2033,\npages=\u201d65\u201376\u2033,\nissn=\u201d1432-1769\u2033,\ndoi=\u201d10.1007/s00138-015-0721-y\u201d,\nurl=\u201dhttp://dx.doi.org/10.1007/s00138-015-0721-y\u201d\n}\n```\n\n### Inspiration\n\n* What is the performance of your favorite multi-class classifier?\n* Is there any evidence for a diminishing classification performance as times passes?\n* If you were to design a direct approach that computes a distance between images (without learning), what is the achieved classification performance?\n* How can transfer knowledge from the previous iteration of this dataset [TBND V01 ](https://www.kaggle.com/vicolab/tbnd-v1)",
+  "datasetId": 309682,
+  "datasetSlug": "tbnd-v2",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 4379,
+  "totalVotes": 17,
+  "totalDownloads": 334,
+  "title": "TBND_V2",
+  "hasTitle": true,
+  "subtitle": "Transient Biometrics Nails Dataset V02",
+  "hasSubtitle": true,
+  "description": "## Transient Biometrics\n\nThere is plenty of scope for biometric recognition systems to become more socially acceptable, in the sense that society could accept and use such systems in day-to-day scenarios. The acceptability issue remains particularly open when dealing with non-critical scenarios and collaborative subjects. For instance, individuals will not happily offer their fingerprints just to have access to their hotel room. The points raised above limits the use of biometric technologies in a multitude of noncritical situations. This is why we introduce Transient Biometrics.\n\nWith this Transient Biometrics Nails Dataset we introduce a new idea to address the acceptability issue inherent to biometric solutions. This approach, designed for collaborative individuals, instead of recording permanent data, records transient data, i.e. data that do change over time and are thus canceled by nature. Users, who know that the biometric data they offer is going to be useless for recognition purposes after a certain amount of time, are likely to be more willing to offer it, even for day-to-day applications. This approach is termed transient biometrics; the idea is to use features with a short permanence, giving a diminutive period of recognition.\n\n### Context\n\nAn extended version of an experimental dataset, called transient biometrics nails dataset (TBND), was created. TBND is composed of images of the right index finger. During acquisition the subject was instructed to lay her finger over a flat white surface and a simple point-and-shoot camera was used to acquire an image without the the use of a flash. No explicit instructions with respect to force applied were given and thus our results incorporate arbitrary force differences between users and capture sessions. Acquisition was thus done in a semi-controlled environment; apart from the white background and indirect lighting, the images present variation with respect to scale, focal plane and illumination. \n\n\n### Content\n\nThe dataset consists of three subsets, each one compromising the same 93 subjects, but varying on acquisition date. The first subset D01 consists of images acquired on the first acquisition day. The second subset D02 is composed of images acquired one day later. The third subset D30 was acquired 1 month after the first acquisition date. Given acquisition restrictions, the acquisitions of D30 have up to two days\u2019 tolerance. This represents a massive expansion of the originally collected dataset [TBND V01 ](https://www.kaggle.com/vicolab/tbnd-v1)\n\n### Acknowledgements\n\n\u26a0 IN THE CASE YOU PUBLISH MATERIAL BASED ON THIS DATASET THEN IN YOUR ACKNOWLEDGEMENTS, PLEASE MENTION THE BASE WORK AS A REFERENCE\n\n```\n@Article{Barros Barbosa2016,\nauthor=\u201dBarros Barbosa, Igor\nand Theoharis, Theoharis\nand Abdallah, Ali E.\u201d,\ntitle=\u201dOn the use of fingernail images as transient biometric identifiers\u201d,\njournal=\u201dMachine Vision and Applications\u201d,\nyear=\u201d2016\u2033,\nvolume=\u201d27\u2033,\nnumber=\u201d1\u2033,\npages=\u201d65\u201376\u2033,\nissn=\u201d1432-1769\u2033,\ndoi=\u201d10.1007/s00138-015-0721-y\u201d,\nurl=\u201dhttp://dx.doi.org/10.1007/s00138-015-0721-y\u201d\n}\n```\n\n### Inspiration\n\n* What is the performance of your favorite multi-class classifier?\n* Is there any evidence for a diminishing classification performance as times passes?\n* If you were to design a direct approach that computes a distance between images (without learning), what is the achieved classification performance?\n* How can transfer knowledge from the previous iteration of this dataset [TBND V01 ](https://www.kaggle.com/vicolab/tbnd-v1)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "classification",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

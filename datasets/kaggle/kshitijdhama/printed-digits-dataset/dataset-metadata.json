@@ -1,0 +1,43 @@
+{
+  "id": "kshitijdhama/printed-digits-dataset",
+  "id_no": 1204578,
+  "datasetSlugNullable": "printed-digits-dataset",
+  "ownerUserNullable": "kshitijdhama",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Printed Digits Dataset",
+  "subtitleNullable": "Printed Numerical Digits Image Dataset. ",
+  "descriptionNullable": "Contains around 3000 images of digitally printed numeric dataset.\nEach image is of dimension 28x28 and is grayscale. This dataset was purposely created for sudoku digits classification hence it shows blank image for 0 (zeros).\nThis dataset originally had 177 images, afterwards augmentation was performed.",
+  "datasetId": 1204578,
+  "datasetSlug": "printed-digits-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kshitijdhama",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 13410,
+  "totalVotes": 25,
+  "totalDownloads": 951,
+  "title": "Printed Digits Dataset",
+  "hasTitle": true,
+  "subtitle": "Printed Numerical Digits Image Dataset. ",
+  "hasSubtitle": true,
+  "description": "Contains around 3000 images of digitally printed numeric dataset.\nEach image is of dimension 28x28 and is grayscale. This dataset was purposely created for sudoku digits classification hence it shows blank image for 0 (zeros).\nThis dataset originally had 177 images, afterwards augmentation was performed.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "computer vision",
+    "classification",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

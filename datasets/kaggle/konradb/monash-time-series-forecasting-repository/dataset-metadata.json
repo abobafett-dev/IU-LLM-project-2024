@@ -1,0 +1,42 @@
+{
+  "id": "konradb/monash-time-series-forecasting-repository",
+  "id_no": 3433331,
+  "datasetSlugNullable": "monash-time-series-forecasting-repository",
+  "ownerUserNullable": "konradb",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Monash Time Series Forecasting Repository",
+  "subtitleNullable": "Repository containing datasets of related time series for global forecasting",
+  "descriptionNullable": "From the repository: \n\nOur aim is to introduce the first comprehensive time series forecasting repository containing datasets of related time series to facilitate the evaluation of global forecasting models. All datasets are intended to use only for research purpose. Our repository contains 30 datasets including both publicly available time series datasets (in different formats) and datasets curated by us. Many datasets have different versions based on the frequency and the inclusion of missing values, making the total number of dataset variations to 58. Furthermore, it includes both real-world and competition time series datasets covering varied domains.\n\nWe have also characterised each dataset and executed several baseline methods with them.\n\nWe recommend you to read our paper for a detailed discussion of the datasets, their original sources, feature analysis and baseline evaluation. If you use our work, please cite the paper \"Rakshitha Godahewa, Christoph Bergmeir, Geoffrey I. Webb, Rob J. Hyndman, Pablo Montero-Manso, Monash Time Series Forecasting Archive\".\n\n            @InProceedings{godahewa2021monash,\n              author = \"Godahewa, Rakshitha and Bergmeir, Christoph and Webb, Geoffrey I. and Hyndman, Rob J. and Montero-Manso, Pablo\",\n              title = \"Monash Time Series Forecasting Archive\",\n              booktitle = \"Neural Information Processing Systems Track on Datasets and Benchmarks\",\n              year = \"2021\"\n            }\n\n\nKB comment: I am very grateful to the authors for making such a fantastic resource available - to be quite honest, I was tired of searching for datasets for \"Time Series with Konrad\", so this one is a total godsend :-) ",
+  "datasetId": 3433331,
+  "datasetSlug": "monash-time-series-forecasting-repository",
+  "hasDatasetSlug": true,
+  "ownerUser": "konradb",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5751,
+  "totalVotes": 54,
+  "totalDownloads": 589,
+  "title": "Monash Time Series Forecasting Repository",
+  "hasTitle": true,
+  "subtitle": "Repository containing datasets of related time series for global forecasting",
+  "hasSubtitle": true,
+  "description": "From the repository: \n\nOur aim is to introduce the first comprehensive time series forecasting repository containing datasets of related time series to facilitate the evaluation of global forecasting models. All datasets are intended to use only for research purpose. Our repository contains 30 datasets including both publicly available time series datasets (in different formats) and datasets curated by us. Many datasets have different versions based on the frequency and the inclusion of missing values, making the total number of dataset variations to 58. Furthermore, it includes both real-world and competition time series datasets covering varied domains.\n\nWe have also characterised each dataset and executed several baseline methods with them.\n\nWe recommend you to read our paper for a detailed discussion of the datasets, their original sources, feature analysis and baseline evaluation. If you use our work, please cite the paper \"Rakshitha Godahewa, Christoph Bergmeir, Geoffrey I. Webb, Rob J. Hyndman, Pablo Montero-Manso, Monash Time Series Forecasting Archive\".\n\n            @InProceedings{godahewa2021monash,\n              author = \"Godahewa, Rakshitha and Bergmeir, Christoph and Webb, Geoffrey I. and Hyndman, Rob J. and Montero-Manso, Pablo\",\n              title = \"Monash Time Series Forecasting Archive\",\n              booktitle = \"Neural Information Processing Systems Track on Datasets and Benchmarks\",\n              year = \"2021\"\n            }\n\n\nKB comment: I am very grateful to the authors for making such a fantastic resource available - to be quite honest, I was tired of searching for datasets for \"Time Series with Konrad\", so this one is a total godsend :-) ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "manufacturing",
+    "time series analysis",
+    "news",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

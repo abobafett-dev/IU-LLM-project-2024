@@ -1,0 +1,44 @@
+{
+  "id": "kapatsa/snowmoscow",
+  "id_no": 2305442,
+  "datasetSlugNullable": "snowmoscow",
+  "ownerUserNullable": "kapatsa",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Snow Cover Dataset",
+  "subtitleNullable": "Dates of first snowfalls and snow covers in Moscow in 1965-2005",
+  "descriptionNullable": "This dataset consists of dates in format (DD.MM.YYYY)\n- of the first snowfall of the season `first_snow`\n- of the first snow cover of the season `snow_cover`\n- of the first *stable* snow cover of the season `snow_cover`\n\nThe data spans 60 years of observations in the Moscow region (1946-2005).\n\n## Some possible questions\n\n1. Does this data support the global warming hypothesis? Do we see statistically significant deviations from the past?\n2. Can we predict the date of stable snow cover based on the first snowfall?\n3. Is there a periodic pattern in these time series? Is it possible to forecast next year's snowfall/cover date based on the past observations?\n\n\n",
+  "datasetId": 2305442,
+  "datasetSlug": "snowmoscow",
+  "hasDatasetSlug": true,
+  "ownerUser": "kapatsa",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1872,
+  "totalVotes": 8,
+  "totalDownloads": 95,
+  "title": "Snow Cover Dataset",
+  "hasTitle": true,
+  "subtitle": "Dates of first snowfalls and snow covers in Moscow in 1965-2005",
+  "hasSubtitle": true,
+  "description": "This dataset consists of dates in format (DD.MM.YYYY)\n- of the first snowfall of the season `first_snow`\n- of the first snow cover of the season `snow_cover`\n- of the first *stable* snow cover of the season `snow_cover`\n\nThe data spans 60 years of observations in the Moscow region (1946-2005).\n\n## Some possible questions\n\n1. Does this data support the global warming hypothesis? Do we see statistically significant deviations from the past?\n2. Can we predict the date of stable snow cover based on the first snowfall?\n3. Is there a periodic pattern in these time series? Is it possible to forecast next year's snowfall/cover date based on the past observations?\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "atmospheric science",
+    "weather and climate",
+    "time series analysis",
+    "tabular",
+    "datetime",
+    "lubridate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

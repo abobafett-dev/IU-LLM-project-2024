@@ -1,0 +1,43 @@
+{
+  "id": "anshkapxxr/processed-pizza-sales-dataset",
+  "id_no": 4883308,
+  "datasetSlugNullable": "processed-pizza-sales-dataset",
+  "ownerUserNullable": "anshkapxxr",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Processed Pizza Sales Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "Each day sales is divided into three parts(rows) i.e. Morning sales, afternoon sales, night sales of the pizza shop.\nSo, you can make something to predict the sales of pizza shop time_phase wise (either it is Morning, Afternoon or Night)\n\n\nThe Original Dataset is - https://www.kaggle.com/datasets/shilongzhuang/pizza-sales",
+  "datasetId": 4883308,
+  "datasetSlug": "processed-pizza-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "anshkapxxr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 72,
+  "totalVotes": 1,
+  "totalDownloads": 10,
+  "title": "Processed Pizza Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Each day sales is divided into three parts(rows) i.e. Morning sales, afternoon sales, night sales of the pizza shop.\nSo, you can make something to predict the sales of pizza shop time_phase wise (either it is Morning, Afternoon or Night)\n\n\nThe Original Dataset is - https://www.kaggle.com/datasets/shilongzhuang/pizza-sales",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "income",
+    "regression",
+    "restaurants",
+    "retail and shopping",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

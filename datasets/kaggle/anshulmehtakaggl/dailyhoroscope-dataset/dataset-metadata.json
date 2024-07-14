@@ -1,0 +1,39 @@
+{
+  "id": "anshulmehtakaggl/dailyhoroscope-dataset",
+  "id_no": 2305899,
+  "datasetSlugNullable": "dailyhoroscope-dataset",
+  "ownerUserNullable": "anshulmehtakaggl",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Daily-Horoscope Dataset",
+  "subtitleNullable": "Analyze horoscope patterns over months, years for different signs.",
+  "descriptionNullable": "#### Daily Horoscope for Different Signs.\nHas the data with multiple other aspects like Description (that can be used for NLU),  Compatibility - Compatibility matching, Datetime data to do some Time series analysis on the changing mood, changing color for different signs over the years.. in short, a very dynamic dataset.\n\n#### Frequency of update\nDaily Updated.\n",
+  "datasetId": 2305899,
+  "datasetSlug": "dailyhoroscope-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "anshulmehtakaggl",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 4350,
+  "totalVotes": 25,
+  "totalDownloads": 482,
+  "title": "Daily-Horoscope Dataset",
+  "hasTitle": true,
+  "subtitle": "Analyze horoscope patterns over months, years for different signs.",
+  "hasSubtitle": true,
+  "description": "#### Daily Horoscope for Different Signs.\nHas the data with multiple other aspects like Description (that can be used for NLU),  Compatibility - Compatibility matching, Datetime data to do some Time series analysis on the changing mood, changing color for different signs over the years.. in short, a very dynamic dataset.\n\n#### Frequency of update\nDaily Updated.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "religion and belief systems"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

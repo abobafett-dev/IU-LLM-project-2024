@@ -1,0 +1,43 @@
+{
+  "id": "marzho/gunpla-dataset",
+  "id_no": 5143023,
+  "datasetSlugNullable": "gunpla-dataset",
+  "ownerUserNullable": "marzho",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Gunpla Dataset",
+  "subtitleNullable": "High Grade, Real Grade, Master Grade, Perfect Grade, and SD Gundam model kits",
+  "descriptionNullable": "A dataset of all (except some limited, Premium Bandai, Gundam Base, and event releases) High Grade, Real Grade, Master Grade, Perfect Grade, and some SD Gundam plastic model kits, from the original *Mobile Suit Gundam* to the recent *Witch from Mercury* and *Gundam SEED Freedom*.\n\nEach file contains the name of the product/mobile suit, its release date (including upcoming releases as of June 2024), its first appearance within a Gundam anime (or manga, book, game, etc.), its continuity within the wider Gundam franchise (when applicable), and its manufacturer's suggested retail price (Japanese yen).\n\nNote that some entries have missing data due to lack of info. All release dates are in YYYY-MM or YYYY-MM-DD format.\n\nUpdate June 4 2024: \n* Updated names to recognize special characters.\n* Updated MSRP for the MG Gundam One Year War version.\n* Changed G-Reco's name to \"Gundam Reconguista in G\" as that's the actual name on Wikipedia and other official sites.",
+  "datasetId": 5143023,
+  "datasetSlug": "gunpla-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "marzho",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 431,
+  "totalVotes": 6,
+  "totalDownloads": 39,
+  "title": "Gunpla Dataset",
+  "hasTitle": true,
+  "subtitle": "High Grade, Real Grade, Master Grade, Perfect Grade, and SD Gundam model kits",
+  "hasSubtitle": true,
+  "description": "A dataset of all (except some limited, Premium Bandai, Gundam Base, and event releases) High Grade, Real Grade, Master Grade, Perfect Grade, and some SD Gundam plastic model kits, from the original *Mobile Suit Gundam* to the recent *Witch from Mercury* and *Gundam SEED Freedom*.\n\nEach file contains the name of the product/mobile suit, its release date (including upcoming releases as of June 2024), its first appearance within a Gundam anime (or manga, book, game, etc.), its continuity within the wider Gundam franchise (when applicable), and its manufacturer's suggested retail price (Japanese yen).\n\nNote that some entries have missing data due to lack of info. All release dates are in YYYY-MM or YYYY-MM-DD format.\n\nUpdate June 4 2024: \n* Updated names to recognize special characters.\n* Updated MSRP for the MG Gundam One Year War version.\n* Changed G-Reco's name to \"Gundam Reconguista in G\" as that's the actual name on Wikipedia and other official sites.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "arts and entertainment",
+    "tabular",
+    "anime and manga",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

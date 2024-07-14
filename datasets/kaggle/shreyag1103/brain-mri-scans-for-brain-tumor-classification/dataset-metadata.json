@@ -1,0 +1,49 @@
+{
+  "id": "shreyag1103/brain-mri-scans-for-brain-tumor-classification",
+  "id_no": 3772930,
+  "datasetSlugNullable": "brain-mri-scans-for-brain-tumor-classification",
+  "ownerUserNullable": "shreyag1103",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Brain MRI Scans for brain tumor classification",
+  "subtitleNullable": "1311 brain tumor MRI scans belonging to four classes",
+  "descriptionNullable": "This dataset contains a collection of 1,311 high-resolution Brain MRI (Magnetic Resonance Imaging) scans, specifically curated for brain tumor detection and classification. Each MRI image is labeled with one of four classes: \"pituitary,\" \"meningioma,\" \"glioma,\" or \"no tumor.\" The dataset serves as a valuable resource for developing and evaluating machine learning models, particularly Convolutional Neural Networks (CNNs), for the automated detection and classification of brain tumors.\n\nDataset Details:\nTotal Number of Images: 1,311\nClasses:\n  1. Pituitary (300 images)\n  2. Meningioma (306 images)\n  3. Glioma (300 images)\n  4. No Tumor (405 images)\n\nPotential Applications:\n1. Medical Diagnosis and Research: This dataset can be used to build and train CNN models for automated brain tumor detection and classification, aiding medical professionals in accurate diagnosis and research efforts.\n2. Deep Learning Model Evaluation: Researchers and data scientists can use this dataset to benchmark and evaluate various pretrained CNN architectures, such as VGG16, VGG19, Densenet121, and others, for their effectiveness in brain tumor classification.\n3. Transfer Learning: Practitioners can leverage the pretrained models on this dataset to explore transfer learning techniques, fine-tuning, and feature extraction methods to improve classification accuracy.\n\nKey Features:\n- High-quality MRI images with diverse tumor types.\n- Balanced distribution of classes.\n- Preprocessing may include skull stripping, resizing, and normalization for consistency.\n- Ground-truth labels for each image to facilitate supervised learning.\n\nDisclaimer:\nThis dataset has been synthetically developed from another open source dataset for the purpose of a research project and is provided for research and educational purposes only. Any medical decisions should be made by trained healthcare professionals, and the dataset should not be used for clinical diagnosis or treatment decisions.",
+  "datasetId": 3772930,
+  "datasetSlug": "brain-mri-scans-for-brain-tumor-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "shreyag1103",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 4508,
+  "totalVotes": 18,
+  "totalDownloads": 832,
+  "title": "Brain MRI Scans for brain tumor classification",
+  "hasTitle": true,
+  "subtitle": "1311 brain tumor MRI scans belonging to four classes",
+  "hasSubtitle": true,
+  "description": "This dataset contains a collection of 1,311 high-resolution Brain MRI (Magnetic Resonance Imaging) scans, specifically curated for brain tumor detection and classification. Each MRI image is labeled with one of four classes: \"pituitary,\" \"meningioma,\" \"glioma,\" or \"no tumor.\" The dataset serves as a valuable resource for developing and evaluating machine learning models, particularly Convolutional Neural Networks (CNNs), for the automated detection and classification of brain tumors.\n\nDataset Details:\nTotal Number of Images: 1,311\nClasses:\n  1. Pituitary (300 images)\n  2. Meningioma (306 images)\n  3. Glioma (300 images)\n  4. No Tumor (405 images)\n\nPotential Applications:\n1. Medical Diagnosis and Research: This dataset can be used to build and train CNN models for automated brain tumor detection and classification, aiding medical professionals in accurate diagnosis and research efforts.\n2. Deep Learning Model Evaluation: Researchers and data scientists can use this dataset to benchmark and evaluate various pretrained CNN architectures, such as VGG16, VGG19, Densenet121, and others, for their effectiveness in brain tumor classification.\n3. Transfer Learning: Practitioners can leverage the pretrained models on this dataset to explore transfer learning techniques, fine-tuning, and feature extraction methods to improve classification accuracy.\n\nKey Features:\n- High-quality MRI images with diverse tumor types.\n- Balanced distribution of classes.\n- Preprocessing may include skull stripping, resizing, and normalization for consistency.\n- Ground-truth labels for each image to facilitate supervised learning.\n\nDisclaimer:\nThis dataset has been synthetically developed from another open source dataset for the purpose of a research project and is provided for research and educational purposes only. Any medical decisions should be made by trained healthcare professionals, and the dataset should not be used for clinical diagnosis or treatment decisions.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "medicine",
+    "classification",
+    "deep learning",
+    "image",
+    "cancer",
+    "convolution"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "vishalag11",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

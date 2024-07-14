@@ -1,0 +1,47 @@
+{
+  "id": "natlee/myanimelist-comment-dataset",
+  "id_no": 274208,
+  "datasetSlugNullable": "myanimelist-comment-dataset",
+  "ownerUserNullable": "natlee",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "MyAnimeList Comment Dataset (MALCoD)",
+  "subtitleNullable": "130K commnets with ratings from MyAnimeList.net as 2019.",
+  "descriptionNullable": "\nThis dataset, comprising over 130K comments from [MyAnimeList.net](http://MyAnimeList.net) since 2006, was gathered using an open-source crawler program [MyAnimeList-Comment-Crawler](https://github.com/NatLee/MyAnimeList-Comment-Crawler). Each comment is tagged with ratings from 0 to 10. \n\nNotice that the crawler is fitting the new version of MyAnimeList. The new version of this dataset can be found in [MALCoDv2](https://www.kaggle.com/datasets/natlee/myanimelist-comment-dataset-v2).\n\nUnlike similar datasets like [azathoth42/myanimelist](https://www.kaggle.com/azathoth42/myanimelist) and [CooperUnion/anime-recommendations-database](https://www.kaggle.com/CooperUnion/anime-recommendations-database), this dataset focuses on comments. \n\n*Note: All information gathered here are publicly available, there was no need to be registered anywhere to access the data.*\n\n\n## Content\n\n1. `animeReviewsOrderByTime.csv` - Contains comments up until the first half of 2019 with details like comment ID, Anime work ID, Anime work name, post time, episodes watched at the time of comment, user, number of people who found the comment useful, various ratings, and the comment content.\n\n2. `animeListGenres.csv` - Lists over 10K unique Anime works with details like Anime work ID, English name, synonyms of Japanese name, Japanese name, number of episodes, and genres.\n\n3. `animeList.csv` - Contains the Anime work ID and its corresponding genres.\n\n4. `reviewsByWork.json` - Provides annual summaries, including sentiment classification prediction values trained from another project [GURA-gru-unit-for-recognizing-affect](https://github.com/NatLee/GURA-gru-unit-for-recognizing-affect).\n\n\nThis dataset can be utilized for sentiment analysis, natural language processing, or to analyze Anime trends and genre popularity. An analysis on trends can be found in the code notebook [analysis-trend-and-interest-with-the-tendency](https://www.kaggle.com/code/natlee/analysis-trend-and-interest-with-the-tendency).\n\n## Acknowledgements\n\nThe dataset was independently crawled from [MyAnimeList.net](http://MyAnimeList.net).\n\n## Citation\n\n```\nN. Lee, \"MyAnimeList Comment Dataset (MALCoD),\" Kaggle, 2019. [Online]. Available: https://www.kaggle.com/datasets/natlee/myanimelist-comment-dataset.\n```\n\n",
+  "datasetId": 274208,
+  "datasetSlug": "myanimelist-comment-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "natlee",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12073,
+  "totalVotes": 37,
+  "totalDownloads": 666,
+  "title": "MyAnimeList Comment Dataset (MALCoD)",
+  "hasTitle": true,
+  "subtitle": "130K commnets with ratings from MyAnimeList.net as 2019.",
+  "hasSubtitle": true,
+  "description": "\nThis dataset, comprising over 130K comments from [MyAnimeList.net](http://MyAnimeList.net) since 2006, was gathered using an open-source crawler program [MyAnimeList-Comment-Crawler](https://github.com/NatLee/MyAnimeList-Comment-Crawler). Each comment is tagged with ratings from 0 to 10. \n\nNotice that the crawler is fitting the new version of MyAnimeList. The new version of this dataset can be found in [MALCoDv2](https://www.kaggle.com/datasets/natlee/myanimelist-comment-dataset-v2).\n\nUnlike similar datasets like [azathoth42/myanimelist](https://www.kaggle.com/azathoth42/myanimelist) and [CooperUnion/anime-recommendations-database](https://www.kaggle.com/CooperUnion/anime-recommendations-database), this dataset focuses on comments. \n\n*Note: All information gathered here are publicly available, there was no need to be registered anywhere to access the data.*\n\n\n## Content\n\n1. `animeReviewsOrderByTime.csv` - Contains comments up until the first half of 2019 with details like comment ID, Anime work ID, Anime work name, post time, episodes watched at the time of comment, user, number of people who found the comment useful, various ratings, and the comment content.\n\n2. `animeListGenres.csv` - Lists over 10K unique Anime works with details like Anime work ID, English name, synonyms of Japanese name, Japanese name, number of episodes, and genres.\n\n3. `animeList.csv` - Contains the Anime work ID and its corresponding genres.\n\n4. `reviewsByWork.json` - Provides annual summaries, including sentiment classification prediction values trained from another project [GURA-gru-unit-for-recognizing-affect](https://github.com/NatLee/GURA-gru-unit-for-recognizing-affect).\n\n\nThis dataset can be utilized for sentiment analysis, natural language processing, or to analyze Anime trends and genre popularity. An analysis on trends can be found in the code notebook [analysis-trend-and-interest-with-the-tendency](https://www.kaggle.com/code/natlee/analysis-trend-and-interest-with-the-tendency).\n\n## Acknowledgements\n\nThe dataset was independently crawled from [MyAnimeList.net](http://MyAnimeList.net).\n\n## Citation\n\n```\nN. Lee, \"MyAnimeList Comment Dataset (MALCoD),\" Kaggle, 2019. [Online]. Available: https://www.kaggle.com/datasets/natlee/myanimelist-comment-dataset.\n```\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "movies and tv shows",
+    "text",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "leomauro",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

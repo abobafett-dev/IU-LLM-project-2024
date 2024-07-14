@@ -1,0 +1,44 @@
+{
+  "id": "mhazhary/trashify-image-dataset",
+  "id_no": 2026018,
+  "datasetSlugNullable": "trashify-image-dataset",
+  "ownerUserNullable": "mhazhary",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Trashify Image Dataset",
+  "subtitleNullable": "356 pictures of trashes in three category (metal, paper, and plastic).",
+  "descriptionNullable": "# Trashify Image Datasets\nThis is the datasets for classification of trash types with Machine Learning using MobileNet V2 model on Sipeed Maix Go board. This datasets contain 356 pictures of trashes in three category (metal, paper, and plastic).\nVisit the [repository](https://github.com/iotub/trashify) for source code of trash classification with Sipeed Maix Go.\n## Artificial Intelligence Research Team (IoT UB 2020)\n| Name                   | Student ID      | Profile Link                                                                                         |\n| ---------------------- |:---------------:|:----------------------------------------------------------------------------------------------------:|\n| M. Hanif Azhary        | 175060300111043 | [[LinkedIn](https://linkedin.com/in/mhazhary)] [[Github](https://github.com/mhazhary)]               |\n| Dandy Fajar Mahendra   | 175060301111045 | [[LinkedIn](https://linkedin.com/in/dandyfajarm)] [[Github](https://github.com/Dafandra98)]          |\n| Delia Dwi Novrianti    | 185060301111002 | [[LinkedIn](https://linkedin.com/in/deliadn)]                                                        |\n| Monifa Arini           | 185060301111016 | [[LinkedIn](https://linkedin.com/in/monifa-arini-8651651b1)] [[Github](https://github.com/monifaar)] |\n| Fatchur Rozi Al-Fitrah | 185060300111048 | [[LinkedIn](https://linkedin.com/in/fatchurroziaf)]                                                  |",
+  "datasetId": 2026018,
+  "datasetSlug": "trashify-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mhazhary",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2675,
+  "totalVotes": 11,
+  "totalDownloads": 222,
+  "title": "Trashify Image Dataset",
+  "hasTitle": true,
+  "subtitle": "356 pictures of trashes in three category (metal, paper, and plastic).",
+  "hasSubtitle": true,
+  "description": "# Trashify Image Datasets\nThis is the datasets for classification of trash types with Machine Learning using MobileNet V2 model on Sipeed Maix Go board. This datasets contain 356 pictures of trashes in three category (metal, paper, and plastic).\nVisit the [repository](https://github.com/iotub/trashify) for source code of trash classification with Sipeed Maix Go.\n## Artificial Intelligence Research Team (IoT UB 2020)\n| Name                   | Student ID      | Profile Link                                                                                         |\n| ---------------------- |:---------------:|:----------------------------------------------------------------------------------------------------:|\n| M. Hanif Azhary        | 175060300111043 | [[LinkedIn](https://linkedin.com/in/mhazhary)] [[Github](https://github.com/mhazhary)]               |\n| Dandy Fajar Mahendra   | 175060301111045 | [[LinkedIn](https://linkedin.com/in/dandyfajarm)] [[Github](https://github.com/Dafandra98)]          |\n| Delia Dwi Novrianti    | 185060301111002 | [[LinkedIn](https://linkedin.com/in/deliadn)]                                                        |\n| Monifa Arini           | 185060301111016 | [[LinkedIn](https://linkedin.com/in/monifa-arini-8651651b1)] [[Github](https://github.com/monifaar)] |\n| Fatchur Rozi Al-Fitrah | 185060300111048 | [[LinkedIn](https://linkedin.com/in/fatchurroziaf)]                                                  |",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "categorical",
+    "earth and nature",
+    "environment",
+    "pollution",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

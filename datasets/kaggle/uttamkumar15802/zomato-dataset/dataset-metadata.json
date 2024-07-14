@@ -1,0 +1,39 @@
+{
+  "id": "uttamkumar15802/zomato-dataset",
+  "id_no": 2911116,
+  "datasetSlugNullable": "zomato-dataset",
+  "ownerUserNullable": "uttamkumar15802",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Zomato Dataset",
+  "subtitleNullable": "Unleashing Insight into the Restaurant Industry: A Deep Dive into Zomato Dataset",
+  "descriptionNullable": "`res_id`: A unique identifier for each restaurant in the dataset.\n`name`: The name of the restaurant.\n`type`: The type of restaurant, such as Cafe, Bar, or Fine Dining.\n`address`: The street address of the restaurant.\n`city`: The city where the restaurant is located.\n`locality`: The neighborhood or locality where the restaurant is located.\n`latitude`: The latitude coordinate of the restaurant's location.\n`longitude`: The longitude coordinate of the restaurant's location.\n`cuisines`: The types of cuisine served at the restaurant.\n`timings`: The opening and closing times of the restaurant.\n`average_cost_for_two`: The average cost for two people to dine at the restaurant.\n`price_range`: The price range of the restaurant, such as Inexpensive, Moderate, or Expensive.\n`highlights`: The features of the restaurant, such as Takeaway, Outdoor Seating, or Live Music.\n`aggregate_rating`: The overall rating of the restaurant based on customer reviews.\n`votes`: The total number of customer reviews for the restaurant.\n`photo_count`: The number of photos uploaded by customers for the restaurant.\n`opentable_support`: Whether the restaurant supports online reservations through OpenTable.\n`delivery`: Whether the restaurant offers delivery.\n`state`: The state or province where the restaurant is located.\n`area`: The area within the city where the restaurant is located.",
+  "datasetId": 2911116,
+  "datasetSlug": "zomato-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "uttamkumar15802",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 560,
+  "totalVotes": 1,
+  "totalDownloads": 90,
+  "title": "Zomato Dataset",
+  "hasTitle": true,
+  "subtitle": "Unleashing Insight into the Restaurant Industry: A Deep Dive into Zomato Dataset",
+  "hasSubtitle": true,
+  "description": "`res_id`: A unique identifier for each restaurant in the dataset.\n`name`: The name of the restaurant.\n`type`: The type of restaurant, such as Cafe, Bar, or Fine Dining.\n`address`: The street address of the restaurant.\n`city`: The city where the restaurant is located.\n`locality`: The neighborhood or locality where the restaurant is located.\n`latitude`: The latitude coordinate of the restaurant's location.\n`longitude`: The longitude coordinate of the restaurant's location.\n`cuisines`: The types of cuisine served at the restaurant.\n`timings`: The opening and closing times of the restaurant.\n`average_cost_for_two`: The average cost for two people to dine at the restaurant.\n`price_range`: The price range of the restaurant, such as Inexpensive, Moderate, or Expensive.\n`highlights`: The features of the restaurant, such as Takeaway, Outdoor Seating, or Live Music.\n`aggregate_rating`: The overall rating of the restaurant based on customer reviews.\n`votes`: The total number of customer reviews for the restaurant.\n`photo_count`: The number of photos uploaded by customers for the restaurant.\n`opentable_support`: Whether the restaurant supports online reservations through OpenTable.\n`delivery`: Whether the restaurant offers delivery.\n`state`: The state or province where the restaurant is located.\n`area`: The area within the city where the restaurant is located.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "restaurants"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

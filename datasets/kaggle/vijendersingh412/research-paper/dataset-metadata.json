@@ -1,0 +1,42 @@
+{
+  "id": "vijendersingh412/research-paper",
+  "id_no": 951471,
+  "datasetSlugNullable": "research-paper",
+  "ownerUserNullable": "vijendersingh412",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Research Paper",
+  "subtitleNullable": "NLP Based Research Papers",
+  "descriptionNullable": "### Context\n\nThe dataset consists of top research papers in NLP domain with its metadata.xls file containing detailed information. \n\n### Content\n\nThe dataset contains description of research paper, its domain, its sub domain and link of origin to correct paper. Each research paper starts with unique number followed by underscore and name of research paper. The unique number is is assigned to Sno of metadata sheet.\n\n\n### Acknowledgements\n\nThis is just a start of making a dataset for research purpose and using this dataset for recommendation system or solving other problems. You are welcome to contribute in this. And can also share the problem you are solving and I can help without any cost. \n\n### Problem Use Case\n\nCollaborating Filtering\nEDA on NLP research paper\nDocument Classification\nCreating own Embedding for NLP domain applications\n\n### Inspiration\n\nThe data is open to the world's largest data science community. Please share your doubts, problems and how we can make this better. \u270c\ufe0f \n\nOpen to direct chat @ https://in.linkedin.com/in/vijendersingh412 \ud83e\udd1d ",
+  "datasetId": 951471,
+  "datasetSlug": "research-paper",
+  "hasDatasetSlug": true,
+  "ownerUser": "vijendersingh412",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 2663,
+  "totalVotes": 4,
+  "totalDownloads": 123,
+  "title": "Research Paper",
+  "hasTitle": true,
+  "subtitle": "NLP Based Research Papers",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe dataset consists of top research papers in NLP domain with its metadata.xls file containing detailed information. \n\n### Content\n\nThe dataset contains description of research paper, its domain, its sub domain and link of origin to correct paper. Each research paper starts with unique number followed by underscore and name of research paper. The unique number is is assigned to Sno of metadata sheet.\n\n\n### Acknowledgements\n\nThis is just a start of making a dataset for research purpose and using this dataset for recommendation system or solving other problems. You are welcome to contribute in this. And can also share the problem you are solving and I can help without any cost. \n\n### Problem Use Case\n\nCollaborating Filtering\nEDA on NLP research paper\nDocument Classification\nCreating own Embedding for NLP domain applications\n\n### Inspiration\n\nThe data is open to the world's largest data science community. Please share your doubts, problems and how we can make this better. \u270c\ufe0f \n\nOpen to direct chat @ https://in.linkedin.com/in/vijendersingh412 \ud83e\udd1d ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "earth and nature",
+    "education",
+    "nlp"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

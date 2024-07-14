@@ -1,0 +1,40 @@
+{
+  "id": "/alexnet",
+  "id_no": 6880,
+  "datasetSlugNullable": "alexnet",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "AlexNet",
+  "subtitleNullable": "AlexNet Pre-trained Model for PyTorch",
+  "descriptionNullable": "# AlexNet\n\n---\n\n## ImageNet Classification with Deep Convolutional Neural Networks<br>\n\nWe trained a large, deep convolutional neural network to classify the 1.2 million\nhigh-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different\nclasses. On the test data, we achieved top-1 and top-5 error rates of 37.5%\nand 17.0% which is considerably better than the previous state-of-the-art. The\nneural network, which has 60 million parameters and 650,000 neurons, consists\nof five convolutional layers, some of which are followed by max-pooling layers,\nand three fully-connected layers with a final 1000-way softmax. To make training\nfaster, we used non-saturating neurons and a very efficient GPU implementation\nof the convolution operation. To reduce overfitting in the fully-connected\nlayers we employed a recently-developed regularization method called \u201cdropout\u201d\nthat proved to be very effective. We also entered a variant of this model in the\nILSVRC-2012 competition and achieved a winning top-5 test error rate of 15.3%,\ncompared to 26.2% achieved by the second-best entry.\n\n**Authors: Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton**<br>\n**https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks**\n\n---\n\n\n![AlexNet Architecure][1]\n*Top of the image is cut-off even in the original paper :D*\n\n\n---\n\n### What is a Pre-trained Model?\nA pre-trained model has been previously trained on a dataset and contains the weights and biases that represent the features of whichever dataset it was trained on. Learned features are often transferable to different data. For example, a model trained on a large dataset of bird images will contain learned features like edges or horizontal lines that you would be transferable your dataset. \n\n### Why use a Pre-trained Model?\nPre-trained models are beneficial to us for many reasons. By using a pre-trained model you are saving time. Someone else has already spent the time and compute resources to learn a lot of features and your model will likely benefit from it. \n\n\n  [1]: https://imgur.com/zgzKqHp.jpg",
+  "datasetId": 6880,
+  "datasetSlug": "alexnet",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 24056,
+  "totalVotes": 23,
+  "totalDownloads": 1181,
+  "title": "AlexNet",
+  "hasTitle": true,
+  "subtitle": "AlexNet Pre-trained Model for PyTorch",
+  "hasSubtitle": true,
+  "description": "# AlexNet\n\n---\n\n## ImageNet Classification with Deep Convolutional Neural Networks<br>\n\nWe trained a large, deep convolutional neural network to classify the 1.2 million\nhigh-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different\nclasses. On the test data, we achieved top-1 and top-5 error rates of 37.5%\nand 17.0% which is considerably better than the previous state-of-the-art. The\nneural network, which has 60 million parameters and 650,000 neurons, consists\nof five convolutional layers, some of which are followed by max-pooling layers,\nand three fully-connected layers with a final 1000-way softmax. To make training\nfaster, we used non-saturating neurons and a very efficient GPU implementation\nof the convolution operation. To reduce overfitting in the fully-connected\nlayers we employed a recently-developed regularization method called \u201cdropout\u201d\nthat proved to be very effective. We also entered a variant of this model in the\nILSVRC-2012 competition and achieved a winning top-5 test error rate of 15.3%,\ncompared to 26.2% achieved by the second-best entry.\n\n**Authors: Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton**<br>\n**https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks**\n\n---\n\n\n![AlexNet Architecure][1]\n*Top of the image is cut-off even in the original paper :D*\n\n\n---\n\n### What is a Pre-trained Model?\nA pre-trained model has been previously trained on a dataset and contains the weights and biases that represent the features of whichever dataset it was trained on. Learned features are often transferable to different data. For example, a model trained on a large dataset of bird images will contain learned features like edges or horizontal lines that you would be transferable your dataset. \n\n### Why use a Pre-trained Model?\nPre-trained models are beneficial to us for many reasons. By using a pre-trained model you are saving time. Someone else has already spent the time and compute resources to learn a lot of features and your model will likely benefit from it. \n\n\n  [1]: https://imgur.com/zgzKqHp.jpg",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

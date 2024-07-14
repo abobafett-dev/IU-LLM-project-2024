@@ -1,0 +1,39 @@
+{
+  "id": "lorentzyeung/top-240-recommended-restaurants-in-la-2023",
+  "id_no": 3750478,
+  "datasetSlugNullable": "top-240-recommended-restaurants-in-la-2023",
+  "ownerUserNullable": "lorentzyeung",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top 240 Recommended Restaurants in L.A. 2023",
+  "subtitleNullable": "Leveraging Web Scraping to Uncover Consumer Preferences and Restaurant Character",
+  "descriptionNullable": "# Introduction\nThis dataset is a comprehensive collection of information about the top 240 restaurants recommended in Los Angeles, as listed on Yelp. It aims to provide valuable insights into various aspects of these restaurants, such as customer reviews, star ratings, styles of cuisine, and more. The data was collected using a Python script that leverages web scraping techniques to extract relevant information from Yelp's website.  240 restaurants are identified and their URLs are retrieved.\n\nOnly the latest 10 comments/reviews are collected for each restaurant. The objective is to unveil the recent performance of the restaurants rather than that in their lifetime.\n\n## Methodology\nThe data was scraped from Yelp's search results for top recommended restaurants in Los Angeles. The Python script uses the BeautifulSoup library to parse the HTML content and extract the required data. \n\n## Summary of Results\nThe dataset contains a total of 240 entries, each representing a top-recommended restaurant in Los Angeles according to Yelp. Each entry is enriched with various details like star ratings, number of reviews, styles of cuisine, and customer comments, among others.\n\n## Column Descriptions\n**Rank**: The ranking number of the restaurant in the list of top-recommended restaurants by Yelp\n**CommentDate**: The date when the comment was posted.\n**Date**: The date when the data was scraped.\n**RestaurantName**: The name of the restaurant.\n**Comment**: Customer comments about the restaurant.\n**Address**: The physical address of the restaurant.\n**StarRating**: The average star rating of the restaurant.\n**NumberOfReviews**: The total number of reviews the restaurant has received.\n**Style**: The style or type of cuisine the restaurant offers.\n**Price**: The price range of the restaurant, usually represented in terms of dollar signs (e.g., $$).\n\n## Suggested Usages of the Dataset\n**Market Research**: Understand the competitive landscape of restaurants in Los Angeles.\n**Customer Sentiment Analysis**: Analyze customer comments to gauge public sentiment about different restaurants.\n**Trend Analysis**: Identify popular styles of cuisine or other trends in the restaurant industry.\n**Price Benchmarking**: Compare the price ranges of different restaurants to identify potential market gaps.\n**Location Strategy**: Use the address data to strategize the best locations for opening a new restaurant.\n\nBy leveraging this dataset, stakeholders can make more informed decisions in various domains, from business strategy to customer engagement.",
+  "datasetId": 3750478,
+  "datasetSlug": "top-240-recommended-restaurants-in-la-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "lorentzyeung",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2591,
+  "totalVotes": 23,
+  "totalDownloads": 457,
+  "title": "Top 240 Recommended Restaurants in L.A. 2023",
+  "hasTitle": true,
+  "subtitle": "Leveraging Web Scraping to Uncover Consumer Preferences and Restaurant Character",
+  "hasSubtitle": true,
+  "description": "# Introduction\nThis dataset is a comprehensive collection of information about the top 240 restaurants recommended in Los Angeles, as listed on Yelp. It aims to provide valuable insights into various aspects of these restaurants, such as customer reviews, star ratings, styles of cuisine, and more. The data was collected using a Python script that leverages web scraping techniques to extract relevant information from Yelp's website.  240 restaurants are identified and their URLs are retrieved.\n\nOnly the latest 10 comments/reviews are collected for each restaurant. The objective is to unveil the recent performance of the restaurants rather than that in their lifetime.\n\n## Methodology\nThe data was scraped from Yelp's search results for top recommended restaurants in Los Angeles. The Python script uses the BeautifulSoup library to parse the HTML content and extract the required data. \n\n## Summary of Results\nThe dataset contains a total of 240 entries, each representing a top-recommended restaurant in Los Angeles according to Yelp. Each entry is enriched with various details like star ratings, number of reviews, styles of cuisine, and customer comments, among others.\n\n## Column Descriptions\n**Rank**: The ranking number of the restaurant in the list of top-recommended restaurants by Yelp\n**CommentDate**: The date when the comment was posted.\n**Date**: The date when the data was scraped.\n**RestaurantName**: The name of the restaurant.\n**Comment**: Customer comments about the restaurant.\n**Address**: The physical address of the restaurant.\n**StarRating**: The average star rating of the restaurant.\n**NumberOfReviews**: The total number of reviews the restaurant has received.\n**Style**: The style or type of cuisine the restaurant offers.\n**Price**: The price range of the restaurant, usually represented in terms of dollar signs (e.g., $$).\n\n## Suggested Usages of the Dataset\n**Market Research**: Understand the competitive landscape of restaurants in Los Angeles.\n**Customer Sentiment Analysis**: Analyze customer comments to gauge public sentiment about different restaurants.\n**Trend Analysis**: Identify popular styles of cuisine or other trends in the restaurant industry.\n**Price Benchmarking**: Compare the price ranges of different restaurants to identify potential market gaps.\n**Location Strategy**: Use the address data to strategize the best locations for opening a new restaurant.\n\nBy leveraging this dataset, stakeholders can make more informed decisions in various domains, from business strategy to customer engagement.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "restaurants"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

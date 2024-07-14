@@ -1,0 +1,43 @@
+{
+  "id": "vysakhvms/coupons",
+  "id_no": 2302656,
+  "datasetSlugNullable": "coupons",
+  "ownerUserNullable": "vysakhvms",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Coupons",
+  "subtitleNullable": "Reward Coupons Dataset",
+  "descriptionNullable": "This dataset contains information related to Retail/E-commerce sales and the type of rewards selected by the customers. The dataset consist of only 150 records.\n\nThe dataset contains the following columns:\nGender, Age, Item1, Item2, Item3, Coupon\n\nGender- Categorical variable. It denotes the customer's gender.\nAge - Numerical variable. It denotes the age of the customer.\nItem1 - Categorical variable. It denotes the first item purchased.\nItem2 - Categorical variable. It denotes the second item purchased.\nItem3 - Categorical variable. It denotes the third item purchased.\nCoupon - Categorical variable. It denotes the type of coupon selected by the customer.\n\nCoupon is our target variable.",
+  "datasetId": 2302656,
+  "datasetSlug": "coupons",
+  "hasDatasetSlug": true,
+  "ownerUser": "vysakhvms",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1950,
+  "totalVotes": 17,
+  "totalDownloads": 218,
+  "title": "Coupons",
+  "hasTitle": true,
+  "subtitle": "Reward Coupons Dataset",
+  "hasSubtitle": true,
+  "description": "This dataset contains information related to Retail/E-commerce sales and the type of rewards selected by the customers. The dataset consist of only 150 records.\n\nThe dataset contains the following columns:\nGender, Age, Item1, Item2, Item3, Coupon\n\nGender- Categorical variable. It denotes the customer's gender.\nAge - Numerical variable. It denotes the age of the customer.\nItem1 - Categorical variable. It denotes the first item purchased.\nItem2 - Categorical variable. It denotes the second item purchased.\nItem3 - Categorical variable. It denotes the third item purchased.\nCoupon - Categorical variable. It denotes the type of coupon selected by the customer.\n\nCoupon is our target variable.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "classification",
+    "logistic regression",
+    "retail and shopping",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

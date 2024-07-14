@@ -1,0 +1,40 @@
+{
+  "id": "stanley11291985/hk-macroeconomics-data",
+  "id_no": 435140,
+  "datasetSlugNullable": "hk-macroeconomics-data",
+  "ownerUserNullable": "stanley11291985",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "HK macroeconomics data",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nWe are trying to forecast the HK flat price using various macro economics data.\n\n### Content\n\nVarious macro data was scrapped and upsampled to daily data.\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nWe are trying to build a multivariate time series model to forecast the HK private housing price.",
+  "datasetId": 435140,
+  "datasetSlug": "hk-macroeconomics-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "stanley11291985",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 5336,
+  "totalVotes": 6,
+  "totalDownloads": 438,
+  "title": "HK macroeconomics data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWe are trying to forecast the HK flat price using various macro economics data.\n\n### Content\n\nVarious macro data was scrapped and upsampled to daily data.\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nWe are trying to build a multivariate time series model to forecast the HK private housing price.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "economics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

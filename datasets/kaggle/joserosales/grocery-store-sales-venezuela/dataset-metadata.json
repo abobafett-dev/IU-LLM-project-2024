@@ -1,0 +1,43 @@
+{
+  "id": "joserosales/grocery-store-sales-venezuela",
+  "id_no": 3018278,
+  "datasetSlugNullable": "grocery-store-sales-venezuela",
+  "ownerUserNullable": "joserosales",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Grocery Store sales Venezuela",
+  "subtitleNullable": "Dayly Sales from a little Grocery store in Barinas-Venezuela",
+  "descriptionNullable": "This data contains the sales from a little grocery store located in Barinas, Venezuela, \" Mercabari: Abasto y Carniceria \" from 1/6/2020 to 18/3/2023.\n\nThe grocery store sells approximately 732 products: beef , chicken (the butcher shop start to work in 1/9/2020), juices, refreshments, candies, delicatessen, food and variaties.\n\nAmounts before 1/10/2021 were adapted to the new monetary reconvertion, where 6 zeros were removed from the curruncy\n\n",
+  "datasetId": 3018278,
+  "datasetSlug": "grocery-store-sales-venezuela",
+  "hasDatasetSlug": true,
+  "ownerUser": "joserosales",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1156,
+  "totalVotes": 4,
+  "totalDownloads": 192,
+  "title": "Grocery Store sales Venezuela",
+  "hasTitle": true,
+  "subtitle": "Dayly Sales from a little Grocery store in Barinas-Venezuela",
+  "hasSubtitle": true,
+  "description": "This data contains the sales from a little grocery store located in Barinas, Venezuela, \" Mercabari: Abasto y Carniceria \" from 1/6/2020 to 18/3/2023.\n\nThe grocery store sells approximately 732 products: beef , chicken (the butcher shop start to work in 1/9/2020), juices, refreshments, candies, delicatessen, food and variaties.\n\nAmounts before 1/10/2021 were adapted to the new monetary reconvertion, where 6 zeros were removed from the curruncy\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data visualization",
+    "time series analysis",
+    "data analytics",
+    "retail and shopping",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

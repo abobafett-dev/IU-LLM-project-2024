@@ -1,0 +1,44 @@
+{
+  "id": "andrewmvd/covid19-xray-severity-scoring",
+  "id_no": 2120456,
+  "datasetSlugNullable": "covid19-xray-severity-scoring",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Covid-19 Xray Severity Scoring",
+  "subtitleNullable": "4k xrays with expert annotations for prognostic scoring",
+  "descriptionNullable": "# Abstract\n&gt; Coronavirus Disease 2019 (COVID-19) made its mark in the world. At present, chest-computed tomography imaging is considered the most effective method for the detection of lung abnormalities in early-stage disease and quantitative assessment of severity and progression of COVID-19 pneumonia.\nAlthough chest X-ray (CXR) is considered not sensitive for the detection of pulmonary involvement in the early stage of the disease, however, in the current emergency settings, CXR can be a useful diagnostic tool for monitoring the rapid progression of lung abnormalities in infected patients, particularly in intensive care units wherein the application of CTs is not practical.\n\n# Understanding Covid-19 Severity Scores\n&gt; To assess the sevirity of covid-19 progression, the so called brixia score developed by the original authors sections the lung into six zones:\n![](https://brixia.github.io/img/scores.png)\n\n&gt; After that each lung section is assigned a severity score by taking into account the extent and depth of observed abnormalities:\n- 0: no lung abnormalities;\n- 1: interstitial infiltrates;\n- 2: interstitial (dominant), and alveolar infiltrates;\n- 3: interstitial, and alveolar (dominant) infiltrates.\n\n\n\n# How to use this dataset\n&gt; - Create a regression/classification model to predict the overall severity of Covid-19 infection;\n- Create a regression/classification model to predict the severity of Covid-19 infection of each lung section;\n\n\n# Highlighted Notebooks\n&gt; - Your kernel can be featured here!\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n\n\n# Acknowledgements\nIf you use this dataset in your research, please credit the authors.\n&gt; ### Citation\n&gt; - Alberto Signoroni, Mattia Savardi, Sergio Benini, Nicola Adami, Riccardo Leonardi, Paolo Gibellini, Filippo Vaccher, Marco Ravanelli, Andrea Borghesi, Roberto Maroldi, Davide Farina,\nBS-Net: Learning COVID-19 pneumonia severity on a large chest X-ray dataset, Medical Image Analysis, Volume 71, 2021, 102046, ISSN 1361-8415, https://doi.org/10.1016/j.media.2021.102046.\n\n&gt; - Borghesi A, Maroldi R. COVID-19 outbreak in Italy: experimental chest X-ray scoring system for quantifying and monitoring disease progression. Radiol Med. 2020 May;125(5):509-513. doi: 10.1007/s11547-020-01200-3. Epub 2020 May 1. PMID: 32358689; PMCID: PMC7194501.\n\n&gt; ### License\nOther, available on this [link](https://brixia.github.io/).\n\n\n&gt; ### Splash banner\nIcon by [Kosonicon](https://www.flaticon.com/authors/kosonicon).",
+  "datasetId": 2120456,
+  "datasetSlug": "covid19-xray-severity-scoring",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 4214,
+  "totalVotes": 35,
+  "totalDownloads": 383,
+  "title": "Covid-19 Xray Severity Scoring",
+  "hasTitle": true,
+  "subtitle": "4k xrays with expert annotations for prognostic scoring",
+  "hasSubtitle": true,
+  "description": "# Abstract\n&gt; Coronavirus Disease 2019 (COVID-19) made its mark in the world. At present, chest-computed tomography imaging is considered the most effective method for the detection of lung abnormalities in early-stage disease and quantitative assessment of severity and progression of COVID-19 pneumonia.\nAlthough chest X-ray (CXR) is considered not sensitive for the detection of pulmonary involvement in the early stage of the disease, however, in the current emergency settings, CXR can be a useful diagnostic tool for monitoring the rapid progression of lung abnormalities in infected patients, particularly in intensive care units wherein the application of CTs is not practical.\n\n# Understanding Covid-19 Severity Scores\n&gt; To assess the sevirity of covid-19 progression, the so called brixia score developed by the original authors sections the lung into six zones:\n![](https://brixia.github.io/img/scores.png)\n\n&gt; After that each lung section is assigned a severity score by taking into account the extent and depth of observed abnormalities:\n- 0: no lung abnormalities;\n- 1: interstitial infiltrates;\n- 2: interstitial (dominant), and alveolar infiltrates;\n- 3: interstitial, and alveolar (dominant) infiltrates.\n\n\n\n# How to use this dataset\n&gt; - Create a regression/classification model to predict the overall severity of Covid-19 infection;\n- Create a regression/classification model to predict the severity of Covid-19 infection of each lung section;\n\n\n# Highlighted Notebooks\n&gt; - Your kernel can be featured here!\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n\n\n# Acknowledgements\nIf you use this dataset in your research, please credit the authors.\n&gt; ### Citation\n&gt; - Alberto Signoroni, Mattia Savardi, Sergio Benini, Nicola Adami, Riccardo Leonardi, Paolo Gibellini, Filippo Vaccher, Marco Ravanelli, Andrea Borghesi, Roberto Maroldi, Davide Farina,\nBS-Net: Learning COVID-19 pneumonia severity on a large chest X-ray dataset, Medical Image Analysis, Volume 71, 2021, 102046, ISSN 1361-8415, https://doi.org/10.1016/j.media.2021.102046.\n\n&gt; - Borghesi A, Maroldi R. COVID-19 outbreak in Italy: experimental chest X-ray scoring system for quantifying and monitoring disease progression. Radiol Med. 2020 May;125(5):509-513. doi: 10.1007/s11547-020-01200-3. Epub 2020 May 1. PMID: 32358689; PMCID: PMC7194501.\n\n&gt; ### License\nOther, available on this [link](https://brixia.github.io/).\n\n\n&gt; ### Splash banner\nIcon by [Kosonicon](https://www.flaticon.com/authors/kosonicon).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "dentistry",
+    "health",
+    "image",
+    "health conditions",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

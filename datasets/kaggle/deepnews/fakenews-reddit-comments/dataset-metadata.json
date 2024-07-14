@@ -1,0 +1,41 @@
+{
+  "id": "deepnews/fakenews-reddit-comments",
+  "id_no": 852167,
+  "datasetSlugNullable": "fakenews-reddit-comments",
+  "ownerUserNullable": "deepnews",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Reddit comments for fact checked fake/true news",
+  "subtitleNullable": "Reddit comments collected for fact checked news from Snopes, Politifact etc.",
+  "descriptionNullable": "",
+  "datasetId": 852167,
+  "datasetSlug": "fakenews-reddit-comments",
+  "hasDatasetSlug": true,
+  "ownerUser": "deepnews",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 3503,
+  "totalVotes": 3,
+  "totalDownloads": 237,
+  "title": "Reddit comments for fact checked fake/true news",
+  "hasTitle": true,
+  "subtitle": "Reddit comments collected for fact checked news from Snopes, Politifact etc.",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "deep learning",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

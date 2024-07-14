@@ -1,0 +1,43 @@
+{
+  "id": "adefebrian/140k-cryptocurrency-transaction-data",
+  "id_no": 2950813,
+  "datasetSlugNullable": "140k-cryptocurrency-transaction-data",
+  "ownerUserNullable": "adefebrian",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "140k Cryptocurrency Transaction Data ",
+  "subtitleNullable": "140k transaction records from a DEX obtained from etherscan",
+  "descriptionNullable": "The provided dataset includes **140,000** transaction records from a decentralized exchange (DEX) obtained from **etherscan**. The data covers transactions that occurred between February 1, 2023, and February 28, 2023. The dataset includes the following columns:\n\n**Txn Hash**: a unique identifier for each transaction.\n**Blockno**: the block number in which the transaction was confirmed.\n**UnixTimestamp**: the Unix timestamp of the transaction.\n**Date Time (UTC)**: the date and time (in UTC) of the transaction.\n**Action**: whether the transaction involved a buy or sell action.\n**Amount (Out)**: the amount of the output token involved in the transaction.\n**Token (Out)**: the symbol or name of the output token.\n**Amount (In)**: the amount of the input token involved in the transaction.\n**Token (In)**: the symbol or name of the input token.\n**Swapped Rate**: the swapped rate between the input and output tokens.\n**Swapped Pair**: the pair of input and output tokens that were swapped.\n**DEX**: the decentralized exchange on which the transaction was executed.\n\nWith this dataset, it is possible to analyze trading activity on the DEX during this time period and uncover trends and patterns in token trading volumes and price movements. The data can be used to gain insights into user behavior and preferences, such as which tokens were the most traded and which trading pairs were the most popular. The dataset can also be used to identify trading strategies that were successful or unsuccessful during this time period.\n\n\n\n",
+  "datasetId": 2950813,
+  "datasetSlug": "140k-cryptocurrency-transaction-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "adefebrian",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 618,
+  "totalVotes": 5,
+  "totalDownloads": 66,
+  "title": "140k Cryptocurrency Transaction Data ",
+  "hasTitle": true,
+  "subtitle": "140k transaction records from a DEX obtained from etherscan",
+  "hasSubtitle": true,
+  "description": "The provided dataset includes **140,000** transaction records from a decentralized exchange (DEX) obtained from **etherscan**. The data covers transactions that occurred between February 1, 2023, and February 28, 2023. The dataset includes the following columns:\n\n**Txn Hash**: a unique identifier for each transaction.\n**Blockno**: the block number in which the transaction was confirmed.\n**UnixTimestamp**: the Unix timestamp of the transaction.\n**Date Time (UTC)**: the date and time (in UTC) of the transaction.\n**Action**: whether the transaction involved a buy or sell action.\n**Amount (Out)**: the amount of the output token involved in the transaction.\n**Token (Out)**: the symbol or name of the output token.\n**Amount (In)**: the amount of the input token involved in the transaction.\n**Token (In)**: the symbol or name of the input token.\n**Swapped Rate**: the swapped rate between the input and output tokens.\n**Swapped Pair**: the pair of input and output tokens that were swapped.\n**DEX**: the decentralized exchange on which the transaction was executed.\n\nWith this dataset, it is possible to analyze trading activity on the DEX during this time period and uncover trends and patterns in token trading volumes and price movements. The data can be used to gain insights into user behavior and preferences, such as which tokens were the most traded and which trading pairs were the most popular. The dataset can also be used to identify trading strategies that were successful or unsuccessful during this time period.\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "time series analysis",
+    "statistical analysis",
+    "neural networks",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

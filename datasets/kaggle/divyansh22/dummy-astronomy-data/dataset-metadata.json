@@ -1,0 +1,43 @@
+{
+  "id": "divyansh22/dummy-astronomy-data",
+  "id_no": 1396185,
+  "datasetSlugNullable": "dummy-astronomy-data",
+  "ownerUserNullable": "divyansh22",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Star-Galaxy Classification Data",
+  "subtitleNullable": "Images of stars and galaxies taken from 1.3m telescope in Nainital, India",
+  "descriptionNullable": "This data was created as a part of my project at Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital, India. The images were captured by the in-house 1.3m telescope of the observatory situated in Devasthal, Nainital, India. The original images captured were 2kx2k in size which was reduced to 64x64 cutouts from the images to isolate the sources in a single image.\n\nFor labelling the images, image segmentation was used to identify the sources in the image, and finally the center coordinates of the found sources were queried with the SDSS database to give a label corresponding to each 64x64 cutout.\n\nFinally, the cutouts were saved in different directories according to the label suggested by the SDSS query search.\n\nThis data is generated from scratch using the real-world data. Use this dataset to train computer vision models to classify stellar sources like stars and galaxies in the telescope images. ",
+  "datasetId": 1396185,
+  "datasetSlug": "dummy-astronomy-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "divyansh22",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 14352,
+  "totalVotes": 27,
+  "totalDownloads": 1249,
+  "title": "Star-Galaxy Classification Data",
+  "hasTitle": true,
+  "subtitle": "Images of stars and galaxies taken from 1.3m telescope in Nainital, India",
+  "hasSubtitle": true,
+  "description": "This data was created as a part of my project at Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital, India. The images were captured by the in-house 1.3m telescope of the observatory situated in Devasthal, Nainital, India. The original images captured were 2kx2k in size which was reduced to 64x64 cutouts from the images to isolate the sources in a single image.\n\nFor labelling the images, image segmentation was used to identify the sources in the image, and finally the center coordinates of the found sources were queried with the SDSS database to give a label corresponding to each 64x64 cutout.\n\nFinally, the cutouts were saved in different directories according to the label suggested by the SDSS query search.\n\nThis data is generated from scratch using the real-world data. Use this dataset to train computer vision models to classify stellar sources like stars and galaxies in the telescope images. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "astronomy",
+    "science and technology",
+    "intermediate",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

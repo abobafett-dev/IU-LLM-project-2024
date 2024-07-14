@@ -1,0 +1,50 @@
+{
+  "id": "kmader/colorectal-histology-mnist",
+  "id_no": 54223,
+  "datasetSlugNullable": "colorectal-histology-mnist",
+  "ownerUserNullable": "kmader",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Colorectal Histology MNIST",
+  "subtitleNullable": "Collection of textures in colorectal cancer histology",
+  "descriptionNullable": "# Overview\n\nThe dataset serves as a much more interesting MNIST or CIFAR10 problem for biologists by focusing on histology tiles from patients with colorectal cancer. In particular, the data has 8 different classes of tissue (but Cancer/Not Cancer can also be an interesting problem).\n\n## Challenge\n- Classify tiles correctly into one of the eight classes\n- Which classes are most frequently confused? \n- What features can be used (like texture, see scikit-image) to improve classification?\n- How can these models be applied to the much larger 5000x5000 models? How can this be done efficiently?\n\n\n## Acknowledgements\nThe dataset has been copied from Zenodo: https://zenodo.org/record/53169#.W6HwwP4zbOQ with [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.53169.svg)](https://doi.org/10.5281/zenodo.53169)\n\n made by: Kather, Jakob Nikolas; Z\u00f6llner, Frank Gerrit; Bianconi, Francesco; Melchers, Susanne M; Schad, Lothar R; Gaiser, Timo; Marx, Alexander; Weis, Cleo-Aron\n\nThe copy here is to make it more accessible to Kaggle users and allow kernels providing basic analysis of the data\n\n## Content\n\nThis data set represents a collection of textures in histological images of human colorectal cancer. It contains two files:\n\n\"Kather_texture_2016_image_tiles_5000.zip\": a zipped folder containing 5000 histological images of 150 * 150 px each (74 * 74 \u00b5m). Each image belongs to exactly one of eight tissue categories (specified by the folder name). \n\"Kather_texture_2016_larger_images_10.zip\": a zipped folder containing 10 larger histological images of 5000 x 5000 px each. These images contain more than one tissue type. \nImage format\n\nAll images are RGB, 0.495 \u00b5m per pixel, digitized with an Aperio ScanScope (Aperio/Leica biosystems), magnification 20x. Histological samples are fully anonymized images of formalin-fixed paraffin-embedded human colorectal adenocarcinomas (primary tumors) from our pathology archive (Institute of Pathology, University Medical Center Mannheim, Heidelberg University, Mannheim, Germany).\n\n## Ethics statement\n\nAll experiments were approved by the institutional ethics board (medical ethics board II, University Medical Center Mannheim, Heidelberg University, Germany; approval 2015-868R-MA). The institutional ethics board waived the need for informed consent for this retrospective analysis of anonymized samples. All experiments were carried out in accordance with the approved guidelines and with the Declaration of Helsinki.\n\n## More information / data usage\n\nFor more information, please refer to the following article. Please cite this article when using the data set.\n\nKather JN, Weis CA, Bianconi F, Melchers SM, Schad LR, Gaiser T, Marx A, Zollner F: Multi-class texture analysis in colorectal cancer histology (2016), Scientific Reports (in press)\n\n## Contact\n\nFor questions, please contact:\nDr. Jakob Nikolas Kather\nhttp://orcid.org/0000-0002-3730-5348\nResearcherID: D-4279-2015",
+  "datasetId": 54223,
+  "datasetSlug": "colorectal-histology-mnist",
+  "hasDatasetSlug": true,
+  "ownerUser": "kmader",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 58572,
+  "totalVotes": 155,
+  "totalDownloads": 5277,
+  "title": "Colorectal Histology MNIST",
+  "hasTitle": true,
+  "subtitle": "Collection of textures in colorectal cancer histology",
+  "hasSubtitle": true,
+  "description": "# Overview\n\nThe dataset serves as a much more interesting MNIST or CIFAR10 problem for biologists by focusing on histology tiles from patients with colorectal cancer. In particular, the data has 8 different classes of tissue (but Cancer/Not Cancer can also be an interesting problem).\n\n## Challenge\n- Classify tiles correctly into one of the eight classes\n- Which classes are most frequently confused? \n- What features can be used (like texture, see scikit-image) to improve classification?\n- How can these models be applied to the much larger 5000x5000 models? How can this be done efficiently?\n\n\n## Acknowledgements\nThe dataset has been copied from Zenodo: https://zenodo.org/record/53169#.W6HwwP4zbOQ with [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.53169.svg)](https://doi.org/10.5281/zenodo.53169)\n\n made by: Kather, Jakob Nikolas; Z\u00f6llner, Frank Gerrit; Bianconi, Francesco; Melchers, Susanne M; Schad, Lothar R; Gaiser, Timo; Marx, Alexander; Weis, Cleo-Aron\n\nThe copy here is to make it more accessible to Kaggle users and allow kernels providing basic analysis of the data\n\n## Content\n\nThis data set represents a collection of textures in histological images of human colorectal cancer. It contains two files:\n\n\"Kather_texture_2016_image_tiles_5000.zip\": a zipped folder containing 5000 histological images of 150 * 150 px each (74 * 74 \u00b5m). Each image belongs to exactly one of eight tissue categories (specified by the folder name). \n\"Kather_texture_2016_larger_images_10.zip\": a zipped folder containing 10 larger histological images of 5000 x 5000 px each. These images contain more than one tissue type. \nImage format\n\nAll images are RGB, 0.495 \u00b5m per pixel, digitized with an Aperio ScanScope (Aperio/Leica biosystems), magnification 20x. Histological samples are fully anonymized images of formalin-fixed paraffin-embedded human colorectal adenocarcinomas (primary tumors) from our pathology archive (Institute of Pathology, University Medical Center Mannheim, Heidelberg University, Mannheim, Germany).\n\n## Ethics statement\n\nAll experiments were approved by the institutional ethics board (medical ethics board II, University Medical Center Mannheim, Heidelberg University, Germany; approval 2015-868R-MA). The institutional ethics board waived the need for informed consent for this retrospective analysis of anonymized samples. All experiments were carried out in accordance with the approved guidelines and with the Declaration of Helsinki.\n\n## More information / data usage\n\nFor more information, please refer to the following article. Please cite this article when using the data set.\n\nKather JN, Weis CA, Bianconi F, Melchers SM, Schad LR, Gaiser T, Marx A, Zollner F: Multi-class texture analysis in colorectal cancer histology (2016), Scientific Reports (in press)\n\n## Contact\n\nFor questions, please contact:\nDr. Jakob Nikolas Kather\nhttp://orcid.org/0000-0002-3730-5348\nResearcherID: D-4279-2015",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature",
+    "biology",
+    "education",
+    "health",
+    "image",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "stronggale",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "manovirat/groceries-sales-data",
+  "id_no": 530011,
+  "datasetSlugNullable": "groceries-sales-data",
+  "ownerUserNullable": "manovirat",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Sales_data",
+  "subtitleNullable": "Daily Sales data of a grocery store",
+  "descriptionNullable": "### Context\n\nABC grocery store line has opened a new store in January 2018. Now, they would like to understand the sales pattern for that store so that they should invest more money or they should open store at some other place.\n\n\n### Content\n\nThe data consists of daily sales data for 2 years from Feb, 2018 to Feb,2020. There are 2 columns\n1. Date\n2. Sales in dollars\n\nThe objective of this data-set is to predict future sales for the particular store so that they optimize the investment plan accordingly.\n",
+  "datasetId": 530011,
+  "datasetSlug": "groceries-sales-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "manovirat",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 12046,
+  "totalVotes": 12,
+  "totalDownloads": 1706,
+  "title": "Sales_data",
+  "hasTitle": true,
+  "subtitle": "Daily Sales data of a grocery store",
+  "hasSubtitle": true,
+  "description": "### Context\n\nABC grocery store line has opened a new store in January 2018. Now, they would like to understand the sales pattern for that store so that they should invest more money or they should open store at some other place.\n\n\n### Content\n\nThe data consists of daily sales data for 2 years from Feb, 2018 to Feb,2020. There are 2 columns\n1. Date\n2. Sales in dollars\n\nThe objective of this data-set is to predict future sales for the particular store so that they optimize the investment plan accordingly.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "exploratory data analysis",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

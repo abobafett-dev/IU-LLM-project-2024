@@ -1,0 +1,45 @@
+{
+  "id": "ahajib/travian-dataset",
+  "id_no": 23817,
+  "datasetSlugNullable": "travian-dataset",
+  "ownerUserNullable": "ahajib",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Travian Dataset",
+  "subtitleNullable": "Suitable for evaluating link prediction and community detection algorithms",
+  "descriptionNullable": "**Travian Network Datasets**\n\nThe aim of this project is to study the structure of different types of networks that emerge in massively multi-player online games. Travian is a popular browser-based real-time strategy game with more than 5 million players. Players form alliances of up to 60 members under a leader or a leadership team. Each game cycle lasts a fixed period (a few months).\nThis network dataset was designed for studying multiplex network problems, in particular community detection since the ground truth for alliance membership is available. It was extracted from data from a study of virtual organizations conducted by researchers across several institutions, including the University of Arkansas. Data was collected from a 3x server (with a 3.5 month game cycle) based in Germany. These networks are from a 30 day game period.\n\n**Attacks:** This network contains information about raids that occurred between players. The main goal of a raid in Travian is to loot resources.\n\n**Messages:**  Travian has an in-game messaging system (IGM) for player communication. The network contains information about these messages. Based on our analysis, around 70% of messages exchange occur between users in the same alliance, making it a reasonable benchmark for community detection algorithms. Along with the dataset itself, the community structure is also provided.\n\n**Trades:** Represents trades between players (both players must possess a marketplace). Similar to messages, the trades network is appropriate for testing community detection methods. The community structure for the trades network is also available.\n\n**Community Structure:** We treat the alliance membership information as the community structure.\n\n**Citation**\nIf you want to use the network data please cite one of the following papers:\n\n - \"Conflict and Communication in Massively-Multiplayer Online Games\",\n   Alireza Hajibagheri, Kiran Lakkaraju, Gita Sukthankar, Rolf T.\n   Wigand, and Nitin Agrawal. Proceedings of the International\n   Conference on Social Computing, Behavioral-Cultural Modeling, and\n   Prediction. 2015.\n - \"Using Massively Multiplayer Online Game Data to Analyze the Dynamics\n   of Social Interactions\", \nAlireza Hajibagheri, Gita Sukthankar, Kiran\n   Lakkaraju, Hamidreza Alvari, Rolf T Wigand, Nitin Agarwal. Social\n   Interaction in Virtual Worlds. 2017. \n\n\n**Other Publications**\n\nOther aspects of the Travian data have been used by the University of Arkansas team and their colleagues to study virtual teams and organizations. Please see the following publications for more information:\n\n - Social Network Indices as Performance Predictors in a Virtual\n   Organization\n - Cooperation, Coordination, and Trust in Virtual Teams: Insights from\n   Virtual Games\n - A Multi-Level View of the Antecedents and Consequences of Trust in\n   Virtual Leaders\n - The Dynamics of Shared Leadership: Building Trust and Enhancing\n   Performance\n\n**Current Contributors**\n\n - University of Arkansas: Nitin Agarwal, Rolf T. Wigand\n - Sonobi: Alireza Hajibagheri\n - University of Central Florida: Gita Sukthankar\n - Sandia National Labs: Kiran Lakkaraju\n\n**Sponsors**\n\n - University of Arkansas: NSF-0838231\n - University of Central Florida: NSF IIS-0845159",
+  "datasetId": 23817,
+  "datasetSlug": "travian-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahajib",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 9046,
+  "totalVotes": 13,
+  "totalDownloads": 455,
+  "title": "Travian Dataset",
+  "hasTitle": true,
+  "subtitle": "Suitable for evaluating link prediction and community detection algorithms",
+  "hasSubtitle": true,
+  "description": "**Travian Network Datasets**\n\nThe aim of this project is to study the structure of different types of networks that emerge in massively multi-player online games. Travian is a popular browser-based real-time strategy game with more than 5 million players. Players form alliances of up to 60 members under a leader or a leadership team. Each game cycle lasts a fixed period (a few months).\nThis network dataset was designed for studying multiplex network problems, in particular community detection since the ground truth for alliance membership is available. It was extracted from data from a study of virtual organizations conducted by researchers across several institutions, including the University of Arkansas. Data was collected from a 3x server (with a 3.5 month game cycle) based in Germany. These networks are from a 30 day game period.\n\n**Attacks:** This network contains information about raids that occurred between players. The main goal of a raid in Travian is to loot resources.\n\n**Messages:**  Travian has an in-game messaging system (IGM) for player communication. The network contains information about these messages. Based on our analysis, around 70% of messages exchange occur between users in the same alliance, making it a reasonable benchmark for community detection algorithms. Along with the dataset itself, the community structure is also provided.\n\n**Trades:** Represents trades between players (both players must possess a marketplace). Similar to messages, the trades network is appropriate for testing community detection methods. The community structure for the trades network is also available.\n\n**Community Structure:** We treat the alliance membership information as the community structure.\n\n**Citation**\nIf you want to use the network data please cite one of the following papers:\n\n - \"Conflict and Communication in Massively-Multiplayer Online Games\",\n   Alireza Hajibagheri, Kiran Lakkaraju, Gita Sukthankar, Rolf T.\n   Wigand, and Nitin Agrawal. Proceedings of the International\n   Conference on Social Computing, Behavioral-Cultural Modeling, and\n   Prediction. 2015.\n - \"Using Massively Multiplayer Online Game Data to Analyze the Dynamics\n   of Social Interactions\", \nAlireza Hajibagheri, Gita Sukthankar, Kiran\n   Lakkaraju, Hamidreza Alvari, Rolf T Wigand, Nitin Agarwal. Social\n   Interaction in Virtual Worlds. 2017. \n\n\n**Other Publications**\n\nOther aspects of the Travian data have been used by the University of Arkansas team and their colleagues to study virtual teams and organizations. Please see the following publications for more information:\n\n - Social Network Indices as Performance Predictors in a Virtual\n   Organization\n - Cooperation, Coordination, and Trust in Virtual Teams: Insights from\n   Virtual Games\n - A Multi-Level View of the Antecedents and Consequences of Trust in\n   Virtual Leaders\n - The Dynamics of Shared Leadership: Building Trust and Enhancing\n   Performance\n\n**Current Contributors**\n\n - University of Arkansas: Nitin Agarwal, Rolf T. Wigand\n - Sonobi: Alireza Hajibagheri\n - University of Central Florida: Gita Sukthankar\n - Sandia National Labs: Kiran Lakkaraju\n\n**Sponsors**\n\n - University of Arkansas: NSF-0838231\n - University of Central Florida: NSF IIS-0845159",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "video games",
+    "earth and nature",
+    "social science",
+    "computer science",
+    "time series analysis",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

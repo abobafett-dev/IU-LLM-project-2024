@@ -1,0 +1,43 @@
+{
+  "id": "vincentv/anime-style-transfer",
+  "id_no": 3233581,
+  "datasetSlugNullable": "anime-style-transfer",
+  "ownerUserNullable": "vincentv",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Anime Style Transfer",
+  "subtitleNullable": "Anime style transfer on more than 900 faces",
+  "descriptionNullable": "This dataset can be used to train models for style transfer and contains two folders:\n- `train`: 820 images of faces and their corresponding anime drawing faces\n- `test`: 93 images of faces and their corresponding anime drawing faces\n\nEach folder is made of two subfolders `images` and `labels` with matching filenames.",
+  "datasetId": 3233581,
+  "datasetSlug": "anime-style-transfer",
+  "hasDatasetSlug": true,
+  "ownerUser": "vincentv",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 661,
+  "totalVotes": 2,
+  "totalDownloads": 38,
+  "title": "Anime Style Transfer",
+  "hasTitle": true,
+  "subtitle": "Anime style transfer on more than 900 faces",
+  "hasSubtitle": true,
+  "description": "This dataset can be used to train models for style transfer and contains two folders:\n- `train`: 820 images of faces and their corresponding anime drawing faces\n- `test`: 93 images of faces and their corresponding anime drawing faces\n\nEach folder is made of two subfolders `images` and `labels` with matching filenames.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "deep learning",
+    "image",
+    "anime and manga",
+    "image style transfer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

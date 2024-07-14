@@ -1,0 +1,47 @@
+{
+  "id": "sidarcidiacono/news-sentiment-analysis-for-stock-data-by-company",
+  "id_no": 1213651,
+  "datasetSlugNullable": "news-sentiment-analysis-for-stock-data-by-company",
+  "ownerUserNullable": "sidarcidiacono",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "News Sentiment Analysis for Stock Data by Company",
+  "subtitleNullable": "NASDAQ & DJIA Data with Symbol and Sentiment Analysis Labels",
+  "descriptionNullable": "### Context\n\nOpportunities to analyze the general market based on sentiment analysis of news exist plentifully, but there are few opportunities to discover or predict the performance of a specific stock based on relevant headlines. This by-company prediction is more useful to users than general binary classifications of an entire market - but I found in my research that properly labeled data for this use case didn't exist publicly. \n\n\n### Content\n\nUsing web scraping methods written by colleague Yin Chang, we were able to obtain news headlines from Reddit r/WorldNews, as well as corresponding market data through Yahoo Finance.  With these two vital pieces, I was able to then write this data. \n\nEach headline corresponds with a stock symbol (currently only tracking US markets - companies represented by the NASDAQ and DJIA) and a sentiment label. The sentiment labels are as follows: \n\n0 -&gt; The stock went down by market close the day the article was published **(negative)**\n\n1 -&gt; The stock went up by market close the day the article was published **(positive)**\n\n2 -&gt; The stock stayed the same by market close the day the article was published **(neutral)**\n\n\n### Acknowledgements\n\nI would like to thank my colleague Yin Chang for writing the code that makes obtaining this data possible. ",
+  "datasetId": 1213651,
+  "datasetSlug": "news-sentiment-analysis-for-stock-data-by-company",
+  "hasDatasetSlug": true,
+  "ownerUser": "sidarcidiacono",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5938,
+  "totalVotes": 10,
+  "totalDownloads": 612,
+  "title": "News Sentiment Analysis for Stock Data by Company",
+  "hasTitle": true,
+  "subtitle": "NASDAQ & DJIA Data with Symbol and Sentiment Analysis Labels",
+  "hasSubtitle": true,
+  "description": "### Context\n\nOpportunities to analyze the general market based on sentiment analysis of news exist plentifully, but there are few opportunities to discover or predict the performance of a specific stock based on relevant headlines. This by-company prediction is more useful to users than general binary classifications of an entire market - but I found in my research that properly labeled data for this use case didn't exist publicly. \n\n\n### Content\n\nUsing web scraping methods written by colleague Yin Chang, we were able to obtain news headlines from Reddit r/WorldNews, as well as corresponding market data through Yahoo Finance.  With these two vital pieces, I was able to then write this data. \n\nEach headline corresponds with a stock symbol (currently only tracking US markets - companies represented by the NASDAQ and DJIA) and a sentiment label. The sentiment labels are as follows: \n\n0 -&gt; The stock went down by market close the day the article was published **(negative)**\n\n1 -&gt; The stock went up by market close the day the article was published **(positive)**\n\n2 -&gt; The stock stayed the same by market close the day the article was published **(neutral)**\n\n\n### Acknowledgements\n\nI would like to thank my colleague Yin Chang for writing the code that makes obtaining this data possible. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "investing",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "yingyinchang",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

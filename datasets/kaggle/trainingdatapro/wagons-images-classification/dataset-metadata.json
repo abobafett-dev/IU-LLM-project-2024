@@ -1,0 +1,42 @@
+{
+  "id": "trainingdatapro/wagons-images-classification",
+  "id_no": 3759943,
+  "datasetSlugNullable": "wagons-images-classification",
+  "ownerUserNullable": "trainingdatapro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Wagons Images Classification ",
+  "subtitleNullable": "Images of loaded and unloaded trains and their classification",
+  "descriptionNullable": "# Wagons Images Classification - Object Detection dataset\nThe dataset consists of images depicting **loaded and unloaded** wagons. The data are organasied in two folders for loaded and unloaded wagons and assisted with .CSV file containing text classification of the images.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=wagons-images-classification)** to buy the dataset\n\nThis dataset can be useful for various tasks, such as *image classification, object detection and data-driven analyses related to wagon loading and unloading processes. \n\nThe dataset is useful for **rail transport sphere**, it can be utilised for automation the identification and classification of the wagons and further optimization of the processes in the industry. \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F23ccd6c06ef7180a4a915d1844b61cb5%2FFrame%2020.png?generation=1695199830804705&alt=media)\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=wagons-images-classification)** to discuss your requirements, learn about the price and buy the dataset\n\n# Content\n- **loaded**: includes images of loaded wagons\n- **unloaded**: includes images of unloaded wagons\n- **.csv file**: contains information about the dataset\n\n### File with the extension .csv\nincludes the following information for each media file:\n- **image_name**: link to access the image,\n- **type**: type of the wagon in the image (**loaded/unloaded**)\n\n# Wagon images might be collected and labeled in accordance with your requirements.\n\n## **[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=wagons-images-classification)** provides high-quality data annotation tailored to your needs\n\n*keywords: wagon bogie, training images, wagon segmentation, mine wagon pushers, locomotive, wagon traversers, wagon tippers, railways dataset, global railways, rail transport, transportation, railroad, computer vision dataset, image dataset, image-to-image dataset, object detection, images dataset, image classification, pictures, photo*",
+  "datasetId": 3759943,
+  "datasetSlug": "wagons-images-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "trainingdatapro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 689,
+  "totalVotes": 9,
+  "totalDownloads": 77,
+  "title": "Wagons Images Classification ",
+  "hasTitle": true,
+  "subtitle": "Images of loaded and unloaded trains and their classification",
+  "hasSubtitle": true,
+  "description": "# Wagons Images Classification - Object Detection dataset\nThe dataset consists of images depicting **loaded and unloaded** wagons. The data are organasied in two folders for loaded and unloaded wagons and assisted with .CSV file containing text classification of the images.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=wagons-images-classification)** to buy the dataset\n\nThis dataset can be useful for various tasks, such as *image classification, object detection and data-driven analyses related to wagon loading and unloading processes. \n\nThe dataset is useful for **rail transport sphere**, it can be utilised for automation the identification and classification of the wagons and further optimization of the processes in the industry. \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F23ccd6c06ef7180a4a915d1844b61cb5%2FFrame%2020.png?generation=1695199830804705&alt=media)\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=wagons-images-classification)** to discuss your requirements, learn about the price and buy the dataset\n\n# Content\n- **loaded**: includes images of loaded wagons\n- **unloaded**: includes images of unloaded wagons\n- **.csv file**: contains information about the dataset\n\n### File with the extension .csv\nincludes the following information for each media file:\n- **image_name**: link to access the image,\n- **type**: type of the wagon in the image (**loaded/unloaded**)\n\n# Wagon images might be collected and labeled in accordance with your requirements.\n\n## **[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=wagons-images-classification)** provides high-quality data annotation tailored to your needs\n\n*keywords: wagon bogie, training images, wagon segmentation, mine wagon pushers, locomotive, wagon traversers, wagon tippers, railways dataset, global railways, rail transport, transportation, railroad, computer vision dataset, image dataset, image-to-image dataset, object detection, images dataset, image classification, pictures, photo*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "rail transport",
+    "classification",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

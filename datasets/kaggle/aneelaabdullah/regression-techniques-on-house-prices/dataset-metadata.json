@@ -1,0 +1,43 @@
+{
+  "id": "aneelaabdullah/regression-techniques-on-house-prices",
+  "id_no": 2507566,
+  "datasetSlugNullable": "regression-techniques-on-house-prices",
+  "ownerUserNullable": "aneelaabdullah",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Regression Techniques on House Prices",
+  "subtitleNullable": "\"https://www.kaggle.com/c/house-prices-advanced-regression-techniques\"",
+  "descriptionNullable": "About Dataset\n\nEdit\nContext:\nThis data gives predicted sales prices of the houses.\n\nContent:\nThere are only 2 variables which gives house property ID and predicted variable is in last Sales price of the house.\n\nAcknowledgements:\nPlease compare all the variable with respect to sales price and try to create different model, come up with the solution for sales price predictions of the house.\n\nTechnique Used:\nData Cleansing\nHandling Categorical Features\nConcatenation\nXGBoost Regressor",
+  "datasetId": 2507566,
+  "datasetSlug": "regression-techniques-on-house-prices",
+  "hasDatasetSlug": true,
+  "ownerUser": "aneelaabdullah",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 1080,
+  "totalVotes": 6,
+  "totalDownloads": 143,
+  "title": "Regression Techniques on House Prices",
+  "hasTitle": true,
+  "subtitle": "\"https://www.kaggle.com/c/house-prices-advanced-regression-techniques\"",
+  "hasSubtitle": true,
+  "description": "About Dataset\n\nEdit\nContext:\nThis data gives predicted sales prices of the houses.\n\nContent:\nThere are only 2 variables which gives house property ID and predicted variable is in last Sales price of the house.\n\nAcknowledgements:\nPlease compare all the variable with respect to sales price and try to create different model, come up with the solution for sales price predictions of the house.\n\nTechnique Used:\nData Cleansing\nHandling Categorical Features\nConcatenation\nXGBoost Regressor",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "xgboost",
+    "regression",
+    "seaborn",
+    "ml ethics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

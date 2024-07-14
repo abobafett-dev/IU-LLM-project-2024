@@ -1,0 +1,49 @@
+{
+  "id": "antoniobrych/brazilian-stocks-dataset-5-years-of-1-minute-data",
+  "id_no": 4154935,
+  "datasetSlugNullable": "brazilian-stocks-dataset-5-years-of-1-minute-data",
+  "ownerUserNullable": "antoniobrych",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Brazilian Stocks Dataset: 5 years of 1 minute data",
+  "subtitleNullable": " 5-Year Journey into Brazilian Stocks via 1-Minute Intervals",
+  "descriptionNullable": "1 minute tick size data is relatively hard to find, so I decided to share with the community data on Brazilian stocks. High granularity data, such as 1 minute, is extremely useful at some applications, such as algorithmic trading.",
+  "datasetId": 4154935,
+  "datasetSlug": "brazilian-stocks-dataset-5-years-of-1-minute-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "antoniobrych",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 132,
+  "totalVotes": 6,
+  "totalDownloads": 15,
+  "title": "Brazilian Stocks Dataset: 5 years of 1 minute data",
+  "hasTitle": true,
+  "subtitle": " 5-Year Journey into Brazilian Stocks via 1-Minute Intervals",
+  "hasSubtitle": true,
+  "description": "1 minute tick size data is relatively hard to find, so I decided to share with the community data on Brazilian stocks. High granularity data, such as 1 minute, is extremely useful at some applications, such as algorithmic trading.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "economics",
+    "time series analysis",
+    "tabular",
+    "regression",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "gabrielabad",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

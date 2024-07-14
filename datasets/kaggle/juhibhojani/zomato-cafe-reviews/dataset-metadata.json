@@ -1,0 +1,44 @@
+{
+  "id": "juhibhojani/zomato-cafe-reviews",
+  "id_no": 3639205,
+  "datasetSlugNullable": "zomato-cafe-reviews",
+  "ownerUserNullable": "juhibhojani",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Zomato Cafe Reviews",
+  "subtitleNullable": "CafeCritic: A Flavorful Dataset of Caf\u00e9 Reviews",
+  "descriptionNullable": "**CafeCritic: A Flavorful Dataset of Cafe Reviews**\n\nUncover the essence of cafe experiences with CafeCritic, a comprehensive dataset that captures the aroma and ambiance of cafes through genuine customer reviews. This dataset contains essential information including an index, cafe name, overall rating, cuisine, average cost for two, city, and insightful reviews. Dive into the world of cafes and explore their flavors through the discerning lens of patrons.\n\n**Columns**:\n- *Index*: A unique identifier for each review entry.\n- *Name*: The name of the cafe being reviewed.\n- *Overall Rating*: The overall rating provided by the reviewer.\n- *Cuisine*: The type of cuisine offered by the cafe.\n- *Rate for Two*: The average cost for two people dining at the cafe.\n- *City*: The city where the cafe is located.\n- *Review*: A detailed review written by the customer, capturing their experience.\n\n**Applications**:\nEnhance culinary research, sentiment analysis, and urban exploration by utilizing the CafeCritic dataset to gain insights into cafe culture, customer preferences, and city-specific dining trends.",
+  "datasetId": 3639205,
+  "datasetSlug": "zomato-cafe-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "juhibhojani",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6895,
+  "totalVotes": 42,
+  "totalDownloads": 1379,
+  "title": "Zomato Cafe Reviews",
+  "hasTitle": true,
+  "subtitle": "CafeCritic: A Flavorful Dataset of Caf\u00e9 Reviews",
+  "hasSubtitle": true,
+  "description": "**CafeCritic: A Flavorful Dataset of Cafe Reviews**\n\nUncover the essence of cafe experiences with CafeCritic, a comprehensive dataset that captures the aroma and ambiance of cafes through genuine customer reviews. This dataset contains essential information including an index, cafe name, overall rating, cuisine, average cost for two, city, and insightful reviews. Dive into the world of cafes and explore their flavors through the discerning lens of patrons.\n\n**Columns**:\n- *Index*: A unique identifier for each review entry.\n- *Name*: The name of the cafe being reviewed.\n- *Overall Rating*: The overall rating provided by the reviewer.\n- *Cuisine*: The type of cuisine offered by the cafe.\n- *Rate for Two*: The average cost for two people dining at the cafe.\n- *City*: The city where the cafe is located.\n- *Review*: A detailed review written by the customer, capturing their experience.\n\n**Applications**:\nEnhance culinary research, sentiment analysis, and urban exploration by utilizing the CafeCritic dataset to gain insights into cafe culture, customer preferences, and city-specific dining trends.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "data analytics",
+    "text",
+    "cooking and recipes",
+    "food",
+    "restaurants"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

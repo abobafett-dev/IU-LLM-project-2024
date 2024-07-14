@@ -1,0 +1,41 @@
+{
+  "id": "cornellius/grimms-brother-fairy-tale-dataset",
+  "id_no": 916078,
+  "datasetSlugNullable": "grimms-brother-fairy-tale-dataset",
+  "ownerUserNullable": "cornellius",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Grimm's Brother Fairy Tale Dataset",
+  "subtitleNullable": "English Translated of the Grimm's Brother Fairy Tale Collection",
+  "descriptionNullable": "### Context\n\nI always enjoy Fairy Tale and I want to analyze the Grimm's Brother fairy tale dataset. \n\n### Content\n\nThe data were taken from the Grimm's Brother English Translation Fairy Tale https://www.grimmstories.com/en/grimm_fairy-tales/index\n\nThere are 4 columns in this data; Title, Story, Rating, Voter numbers.\n \n### Acknowledgements\n\nThe data are taken from this website https://www.grimmstories.com/en/grimm_fairy-tales/index\n\n\n### Inspiration\n\nMany questions you could ask from this dataset, such as what topics often arise and why some fairy tale  are famous and some are not.",
+  "datasetId": 916078,
+  "datasetSlug": "grimms-brother-fairy-tale-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "cornellius",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 3446,
+  "totalVotes": 4,
+  "totalDownloads": 235,
+  "title": "Grimm's Brother Fairy Tale Dataset",
+  "hasTitle": true,
+  "subtitle": "English Translated of the Grimm's Brother Fairy Tale Collection",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI always enjoy Fairy Tale and I want to analyze the Grimm's Brother fairy tale dataset. \n\n### Content\n\nThe data were taken from the Grimm's Brother English Translation Fairy Tale https://www.grimmstories.com/en/grimm_fairy-tales/index\n\nThere are 4 columns in this data; Title, Story, Rating, Voter numbers.\n \n### Acknowledgements\n\nThe data are taken from this website https://www.grimmstories.com/en/grimm_fairy-tales/index\n\n\n### Inspiration\n\nMany questions you could ask from this dataset, such as what topics often arise and why some fairy tale  are famous and some are not.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "literature",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

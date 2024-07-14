@@ -1,0 +1,41 @@
+{
+  "id": "zusmani/paradise-papers",
+  "id_no": 5020,
+  "datasetSlugNullable": "paradise-papers",
+  "ownerUserNullable": "zusmani",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Paradise Papers",
+  "subtitleNullable": "Data Scientists Against Corruption",
+  "descriptionNullable": "## Context\n\nI've uploaded a [dataset][1] previously that contains Paradise Papers, Panama Papers, Bahamas and Offshore Leaks. I've been getting a lot of requests to upload Paradise papers alone to make it less confusing for my fellow data scientists. Here it is, the complete cache of Paradise Papers released so far. I will keep updating it.\n\nThe Paradise Papers is a cache of some 13GB of data that contains 13.4 million confidential records of offshore investment by 120,000 people and companies in 19 tax jurisdictions (Tax Heavens - [an awesome video to understand this][2]); that was published by the International Consortium of Investigative Journalists (ICIJ) on November 5, 2017. Subsequent data was released on November 20, 2017. Here is a brief [video][3] about the leak. The people include Queen Elizabeth II, the President of Columbia (Juan Manuel Santos), Former Prime Minister of Pakistan ([Shaukat Aziz][4]), U.S Secretary of Commerce (Wilbur Ross) and many more. According to an estimate by the Boston Consulting Group, the amount of money involved is around $10 trillion. The leak contains many famous companies, including Facebook, Apple, Uber, Nike, Walmart, Allianz, Siemens, McDonald\u2019s and Yahoo.\n\nIt also contains a lot of U. S President [Donald Trump allies][5] including Rax Tillerson, Wilbur Ross, Koch Brothers, Paul Singer, Sheldon Adelson, Stephen Schwarzman, Thomas Barrack and Steve Wynn etc. The complete list of Politicians involve is available here.\n\nI am calling all data scientists to help me stop the corruption and reveal the patterns and linkages invisible for the untrained eye.\n\n## Content\n\nThe data is the effort of more than 100 journalists from 60+ countries\n\nThe original data is available under creative common license and can be downloaded from this [link.][6]\n\nI will keep updating the datasets with more leaks and data as it\u2019s available\n\n## Acknowledgements\n\n[International Consortium of Investigative Journalists (ICIJ][7])\n\n## Inspiration\n\nSome ideas worth exploring:\n\n    How many companies and individuals are there in all of the leaks data\n\n    How many countries involved\n\n    Total money involved\n\n    What is the biggest best tax heaven\n\n    Can we compare the corruption with human development index and make an argument that would correlate corruption with bad conditions in that country\n\n    Who are the biggest cheaters and where they live\n\n    What role Fortune 500 companies play in this game\n\nI need your help to make this world corruption free in the age of NLP and Big Data\n\n\n  [1]: https://www.kaggle.com/zusmani/paradisepanamapapers\n  [2]: https://www.icij.org/investigations/paradise-papers/watch-snax-haven-hide-secret-sauce-save-millions/\n  [3]: https://www.icij.org/investigations/paradise-papers/watch-the-paradise-papers-secrets-of-the-global-elite/\n  [4]: https://offshoreleaks.icij.org/stories/shaukat-aziz\n  [5]: https://www.icij.org/investigations/paradise-papers/us-president-donald-trumps-influencers/\n  [6]: https://offshoreleaks.icij.org/pages/database\n  [7]: https://offshoreleaks.icij.org/",
+  "datasetId": 5020,
+  "datasetSlug": "paradise-papers",
+  "hasDatasetSlug": true,
+  "ownerUser": "zusmani",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 9653,
+  "totalVotes": 63,
+  "totalDownloads": 614,
+  "title": "Paradise Papers",
+  "hasTitle": true,
+  "subtitle": "Data Scientists Against Corruption",
+  "hasSubtitle": true,
+  "description": "## Context\n\nI've uploaded a [dataset][1] previously that contains Paradise Papers, Panama Papers, Bahamas and Offshore Leaks. I've been getting a lot of requests to upload Paradise papers alone to make it less confusing for my fellow data scientists. Here it is, the complete cache of Paradise Papers released so far. I will keep updating it.\n\nThe Paradise Papers is a cache of some 13GB of data that contains 13.4 million confidential records of offshore investment by 120,000 people and companies in 19 tax jurisdictions (Tax Heavens - [an awesome video to understand this][2]); that was published by the International Consortium of Investigative Journalists (ICIJ) on November 5, 2017. Subsequent data was released on November 20, 2017. Here is a brief [video][3] about the leak. The people include Queen Elizabeth II, the President of Columbia (Juan Manuel Santos), Former Prime Minister of Pakistan ([Shaukat Aziz][4]), U.S Secretary of Commerce (Wilbur Ross) and many more. According to an estimate by the Boston Consulting Group, the amount of money involved is around $10 trillion. The leak contains many famous companies, including Facebook, Apple, Uber, Nike, Walmart, Allianz, Siemens, McDonald\u2019s and Yahoo.\n\nIt also contains a lot of U. S President [Donald Trump allies][5] including Rax Tillerson, Wilbur Ross, Koch Brothers, Paul Singer, Sheldon Adelson, Stephen Schwarzman, Thomas Barrack and Steve Wynn etc. The complete list of Politicians involve is available here.\n\nI am calling all data scientists to help me stop the corruption and reveal the patterns and linkages invisible for the untrained eye.\n\n## Content\n\nThe data is the effort of more than 100 journalists from 60+ countries\n\nThe original data is available under creative common license and can be downloaded from this [link.][6]\n\nI will keep updating the datasets with more leaks and data as it\u2019s available\n\n## Acknowledgements\n\n[International Consortium of Investigative Journalists (ICIJ][7])\n\n## Inspiration\n\nSome ideas worth exploring:\n\n    How many companies and individuals are there in all of the leaks data\n\n    How many countries involved\n\n    Total money involved\n\n    What is the biggest best tax heaven\n\n    Can we compare the corruption with human development index and make an argument that would correlate corruption with bad conditions in that country\n\n    Who are the biggest cheaters and where they live\n\n    What role Fortune 500 companies play in this game\n\nI need your help to make this world corruption free in the age of NLP and Big Data\n\n\n  [1]: https://www.kaggle.com/zusmani/paradisepanamapapers\n  [2]: https://www.icij.org/investigations/paradise-papers/watch-snax-haven-hide-secret-sauce-save-millions/\n  [3]: https://www.icij.org/investigations/paradise-papers/watch-the-paradise-papers-secrets-of-the-global-elite/\n  [4]: https://offshoreleaks.icij.org/stories/shaukat-aziz\n  [5]: https://www.icij.org/investigations/paradise-papers/us-president-donald-trumps-influencers/\n  [6]: https://offshoreleaks.icij.org/pages/database\n  [7]: https://offshoreleaks.icij.org/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "politics",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-3.0",
+      "name": "CC-BY-SA-3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bharatsahu/house-price-prediction-dataset-insurancehub-usa",
+  "id_no": 811614,
+  "datasetSlugNullable": "house-price-prediction-dataset-insurancehub-usa",
+  "ownerUserNullable": "bharatsahu",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "House Price Prediction Dataset : InsuranceHub- USA",
+  "subtitleNullable": "Insurance related data to calculate House pricing",
+  "descriptionNullable": "### Context\n\nInsurance companies collect multiple features of a House and select which houses can be insured and what amount they can charge the Premium from them.\nSo here I have collected data from multiple insurance companies in USA where features with house prices are given\n\n### Content\n\nThis data set has many property details from address to their location co ordinates nad many other features, use them to predict the House price\n\n### Inspiration\n\nMultiple regression datasets have been published every one unique in their own way, Use of location coordinates and some other co-ordinates are new here.",
+  "datasetId": 811614,
+  "datasetSlug": "house-price-prediction-dataset-insurancehub-usa",
+  "hasDatasetSlug": true,
+  "ownerUser": "bharatsahu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 6017,
+  "totalVotes": 11,
+  "totalDownloads": 612,
+  "title": "House Price Prediction Dataset : InsuranceHub- USA",
+  "hasTitle": true,
+  "subtitle": "Insurance related data to calculate House pricing",
+  "hasSubtitle": true,
+  "description": "### Context\n\nInsurance companies collect multiple features of a House and select which houses can be insured and what amount they can charge the Premium from them.\nSo here I have collected data from multiple insurance companies in USA where features with house prices are given\n\n### Content\n\nThis data set has many property details from address to their location co ordinates nad many other features, use them to predict the House price\n\n### Inspiration\n\nMultiple regression datasets have been published every one unique in their own way, Use of location coordinates and some other co-ordinates are new here.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "linear regression",
+    "insurance"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "prathamsaraf1389/spotify-global-top-50-daily-update",
+  "id_no": 3072981,
+  "datasetSlugNullable": "spotify-global-top-50-daily-update",
+  "ownerUserNullable": "prathamsaraf1389",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Spotify Global Top 50 (Daily Update)",
+  "subtitleNullable": "Discover Daily-updated Spotify Global Top 50 -World's Most Popular Songs Dataset",
+  "descriptionNullable": "**About Dataset**\nSpotify Global Top 50 (Daily Update)\n\n**Context**\nSpotify is one of the most popular music streaming platforms in the world. Every day, the platform curates a list of the top 50 most streamed songs from around the globe. This dataset provides information about these top 50 songs, including their names, the artists who performed them, the album name, release date, track popularity, track duration, and more.\n\n\n***Disclaimer***\nThis dataset is only used for research purposes, users must abide by the relevant laws and regulations of their location, please do not use it for illegal purposes. The user shall bear all the consequences caused by illegal use.\n\n**Content**\nThe dataset contains information about the top 50 most streamed songs on Spotify, including their track name, artist name, album name, release date, duration, popularity, explicit lyrics, and images of the album cover art.\n\nThe data is available in CSV format and is updated daily. The dataset can be used to analyze trends in global music streaming, track the popularity of individual songs and artists, and gain insights into the preferences of Spotify users around the world.\n\nApart from this the images folder contains the cover art in 640 * 640 image size with the naming convention {trackname}_{name_of_artist[0]}\n\n**Inspiration**\nThis dataset can be used by music enthusiasts, researchers, and data scientists to gain insights into the music industry, track trends, and discover new and popular artists. It can also be used to develop recommendation systems for music streaming platforms, understand the preferences of users, and predict the success of new songs and albums.\n\n",
+  "datasetId": 3072981,
+  "datasetSlug": "spotify-global-top-50-daily-update",
+  "hasDatasetSlug": true,
+  "ownerUser": "prathamsaraf1389",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12264,
+  "totalVotes": 52,
+  "totalDownloads": 1878,
+  "title": "Spotify Global Top 50 (Daily Update)",
+  "hasTitle": true,
+  "subtitle": "Discover Daily-updated Spotify Global Top 50 -World's Most Popular Songs Dataset",
+  "hasSubtitle": true,
+  "description": "**About Dataset**\nSpotify Global Top 50 (Daily Update)\n\n**Context**\nSpotify is one of the most popular music streaming platforms in the world. Every day, the platform curates a list of the top 50 most streamed songs from around the globe. This dataset provides information about these top 50 songs, including their names, the artists who performed them, the album name, release date, track popularity, track duration, and more.\n\n\n***Disclaimer***\nThis dataset is only used for research purposes, users must abide by the relevant laws and regulations of their location, please do not use it for illegal purposes. The user shall bear all the consequences caused by illegal use.\n\n**Content**\nThe dataset contains information about the top 50 most streamed songs on Spotify, including their track name, artist name, album name, release date, duration, popularity, explicit lyrics, and images of the album cover art.\n\nThe data is available in CSV format and is updated daily. The dataset can be used to analyze trends in global music streaming, track the popularity of individual songs and artists, and gain insights into the preferences of Spotify users around the world.\n\nApart from this the images folder contains the cover art in 640 * 640 image size with the naming convention {trackname}_{name_of_artist[0]}\n\n**Inspiration**\nThis dataset can be used by music enthusiasts, researchers, and data scientists to gain insights into the music industry, track trends, and discover new and popular artists. It can also be used to develop recommendation systems for music streaming platforms, understand the preferences of users, and predict the success of new songs and albums.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "music",
+    "beginner",
+    "recommender systems",
+    "multimodal"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

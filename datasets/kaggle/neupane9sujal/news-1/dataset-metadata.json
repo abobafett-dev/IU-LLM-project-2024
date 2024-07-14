@@ -1,0 +1,40 @@
+{
+  "id": "neupane9sujal/news-1",
+  "id_no": 3471631,
+  "datasetSlugNullable": "news-1",
+  "ownerUserNullable": "neupane9sujal",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Fake news",
+  "subtitleNullable": "Look out for fake news!!!",
+  "descriptionNullable": "This dataset can be used for fake news detection and has following columns:\n* **title**: the title of news article\n* **text**: news column\n* **label**: label whether the articles is real or fake\n\nIt can be used for text classification for beginners to learn from.",
+  "datasetId": 3471631,
+  "datasetSlug": "news-1",
+  "hasDatasetSlug": true,
+  "ownerUser": "neupane9sujal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 139,
+  "totalVotes": 1,
+  "totalDownloads": 22,
+  "title": "Fake news",
+  "hasTitle": true,
+  "subtitle": "Look out for fake news!!!",
+  "hasSubtitle": true,
+  "description": "This dataset can be used for fake news detection and has following columns:\n* **title**: the title of news article\n* **text**: news column\n* **label**: label whether the articles is real or fake\n\nIt can be used for text classification for beginners to learn from.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "joshjms/kawaii",
+  "id_no": 2963395,
+  "datasetSlugNullable": "kawaii",
+  "ownerUserNullable": "joshjms",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Manga Dataset",
+  "subtitleNullable": "All information on manga, almost 70,000 manga entries.",
+  "descriptionNullable": "Contains all manga from MAL. Data retrieved from MAL API and Jikan API.\n\n`manga.csv` - Manga details\n`genre.csv` - Genre details\n`manga_genre.csv` - Genre of each manga\n`recommendations.csv` - Recommendation pairs of manga\n\nNo need to credit me, all I did is scrape and take \u2764\ufe0f\n\nIf I do violate any laws, or for any inquiries and extra information, please notify me in [REDACTED]\n\nI love you guys \u2764\ufe0f\ud83d\ude0d\ud83d\ude0b",
+  "datasetId": 2963395,
+  "datasetSlug": "kawaii",
+  "hasDatasetSlug": true,
+  "ownerUser": "joshjms",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1040,
+  "totalVotes": 9,
+  "totalDownloads": 87,
+  "title": "Manga Dataset",
+  "hasTitle": true,
+  "subtitle": "All information on manga, almost 70,000 manga entries.",
+  "hasSubtitle": true,
+  "description": "Contains all manga from MAL. Data retrieved from MAL API and Jikan API.\n\n`manga.csv` - Manga details\n`genre.csv` - Genre details\n`manga_genre.csv` - Genre of each manga\n`recommendations.csv` - Recommendation pairs of manga\n\nNo need to credit me, all I did is scrape and take \u2764\ufe0f\n\nIf I do violate any laws, or for any inquiries and extra information, please notify me in [REDACTED]\n\nI love you guys \u2764\ufe0f\ud83d\ude0d\ud83d\ude0b",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

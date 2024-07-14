@@ -1,0 +1,44 @@
+{
+  "id": "huseyingunduz/diatom-dataset",
+  "id_no": 1187591,
+  "datasetSlugNullable": "diatom-dataset",
+  "ownerUserNullable": "huseyingunduz",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Diatom Dataset",
+  "subtitleNullable": "Diatom Detection, Segmentation and Classification Benchmark Dataset",
+  "descriptionNullable": "## Context\n\nDiatoms are a group of algae found in oceans, freshwater, moist soils, and surfaces. They are one of the most common phytoplankton species found in nature. There are more than 200 genera of diatoms, as well as about 200,000 species. They produce approximately 20-25% of the oxygen on the planet. \n\nAccurate detection, segmentation and classification of diatoms is very important, especially in terms of determining water quality and ecological change.\n\n## Content\nThe dataset contains 2,197 color images with 3,027 diatoms from 68 species. The resolution of the images is 2112\u00d71584 pixels. \n\nThe dataset is organized into 3 folders. The contents of each folder are as follows.\n\n**images :**  Contains all original microscopic diatom images.  \n**annotations :**  Contains, the annotations of each diatom images. \n**xmls :** Contains, image size of the microscopic image and species, bounding box information of each annotations.\n\n##Citation\n\n @article{gunduz2022, title={Segmentation of diatoms using edge detection and deep learning}, volume={30}, DOI={10.55730/1300-0632.3938}, number={6}, journal={Turkish Journal of Electrical Engineering & Computer Sciences}, author={Gunduz, Huseyin and Solak, Cuneyt Nadir and Gunal, Serkan}, year={2022}, pages={ 2268\u20132285}} \n\n## Acknowledgements\n\nLicense: [BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)\n\n\n",
+  "datasetId": 1187591,
+  "datasetSlug": "diatom-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "huseyingunduz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 5148,
+  "totalVotes": 12,
+  "totalDownloads": 293,
+  "title": "Diatom Dataset",
+  "hasTitle": true,
+  "subtitle": "Diatom Detection, Segmentation and Classification Benchmark Dataset",
+  "hasSubtitle": true,
+  "description": "## Context\n\nDiatoms are a group of algae found in oceans, freshwater, moist soils, and surfaces. They are one of the most common phytoplankton species found in nature. There are more than 200 genera of diatoms, as well as about 200,000 species. They produce approximately 20-25% of the oxygen on the planet. \n\nAccurate detection, segmentation and classification of diatoms is very important, especially in terms of determining water quality and ecological change.\n\n## Content\nThe dataset contains 2,197 color images with 3,027 diatoms from 68 species. The resolution of the images is 2112\u00d71584 pixels. \n\nThe dataset is organized into 3 folders. The contents of each folder are as follows.\n\n**images :**  Contains all original microscopic diatom images.  \n**annotations :**  Contains, the annotations of each diatom images. \n**xmls :** Contains, image size of the microscopic image and species, bounding box information of each annotations.\n\n##Citation\n\n @article{gunduz2022, title={Segmentation of diatoms using edge detection and deep learning}, volume={30}, DOI={10.55730/1300-0632.3938}, number={6}, journal={Turkish Journal of Electrical Engineering & Computer Sciences}, author={Gunduz, Huseyin and Solak, Cuneyt Nadir and Gunal, Serkan}, year={2022}, pages={ 2268\u20132285}} \n\n## Acknowledgements\n\nLicense: [BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "business",
+    "computer science",
+    "computer vision",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

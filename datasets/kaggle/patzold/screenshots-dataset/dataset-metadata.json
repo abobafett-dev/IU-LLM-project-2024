@@ -1,0 +1,40 @@
+{
+  "id": "patzold/screenshots-dataset",
+  "id_no": 1523314,
+  "datasetSlugNullable": "screenshots-dataset",
+  "ownerUserNullable": "patzold",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Screenshots Dataset",
+  "subtitleNullable": "Tweets, Posts, News & more",
+  "descriptionNullable": "This dataset contains screenshots of various social media posts, news articles, and chats. Every image has a corresponding JSON file with content information, such as headlines or send messages. All JSON files have been automatically generated using [Pluto](https://github.com/Patzold/Pluto).",
+  "datasetId": 1523314,
+  "datasetSlug": "screenshots-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "patzold",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 2717,
+  "totalVotes": 3,
+  "totalDownloads": 123,
+  "title": "Screenshots Dataset",
+  "hasTitle": true,
+  "subtitle": "Tweets, Posts, News & more",
+  "hasSubtitle": true,
+  "description": "This dataset contains screenshots of various social media posts, news articles, and chats. Every image has a corresponding JSON file with content information, such as headlines or send messages. All JSON files have been automatically generated using [Pluto](https://github.com/Patzold/Pluto).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

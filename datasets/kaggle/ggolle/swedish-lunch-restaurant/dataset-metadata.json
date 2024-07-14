@@ -1,0 +1,43 @@
+{
+  "id": "ggolle/swedish-lunch-restaurant",
+  "id_no": 858446,
+  "datasetSlugNullable": "swedish-lunch-restaurant",
+  "ownerUserNullable": "ggolle",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Sales Prediction Regression - Lunch Restaurant",
+  "subtitleNullable": "Prediction how many lunches and sodas will be sold?",
+  "descriptionNullable": "## Context \ud83e\uddec\n\nWhen we get out as Data Scientists in the real world, ***the data is messy***. This was a case at Stockholm Business School in Advanced Operations Management used to predict how much inventory the restaurant should hold each week. \n\n## Objectives \u2705\n* **The main objective of this dataset** is data cleaning and feature engineering and then predicting the sales of lunches and sodas each week. \n* Another challenge for students (majority international students who didn't know Swedish) is that **the PDFs with lunches is in Swedish and needs to be translated before analysis can be made**. Not all the time we get the data in the language format we want, and this small dataset tests that. \n\n## Content \ud83d\udcc8\n\n- ```LunchPDFs``` - PDFs of what type of lunch will be served\n- ```RoomBookings``` - Excel files with data on occupancy rate for the nearby lecture halls\n- ```SalesData.xlsx``` - Excel file with the actual sales data for each given day\n\n### Tips \u270f\ufe0f\n* **Nyttjandegrad (%)** = **\"Occupancy rate\" in percentage form** in the sammanst\u00e4llning (summary of the week) excel sheet \n* Try to figure out what types of lunches are sold and see if there are certain types of protein or vegetarian options that can assist in the sales predictions of lunches and sodas. \n* Extract the occupancy rates of the rooms to in the RoomBooking excel sheets to see how much that affects the sales. \n\n\nGood luck! \ud83d\udc4a",
+  "datasetId": 858446,
+  "datasetSlug": "swedish-lunch-restaurant",
+  "hasDatasetSlug": true,
+  "ownerUser": "ggolle",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 11636,
+  "totalVotes": 27,
+  "totalDownloads": 1397,
+  "title": "Sales Prediction Regression - Lunch Restaurant",
+  "hasTitle": true,
+  "subtitle": "Prediction how many lunches and sodas will be sold?",
+  "hasSubtitle": true,
+  "description": "## Context \ud83e\uddec\n\nWhen we get out as Data Scientists in the real world, ***the data is messy***. This was a case at Stockholm Business School in Advanced Operations Management used to predict how much inventory the restaurant should hold each week. \n\n## Objectives \u2705\n* **The main objective of this dataset** is data cleaning and feature engineering and then predicting the sales of lunches and sodas each week. \n* Another challenge for students (majority international students who didn't know Swedish) is that **the PDFs with lunches is in Swedish and needs to be translated before analysis can be made**. Not all the time we get the data in the language format we want, and this small dataset tests that. \n\n## Content \ud83d\udcc8\n\n- ```LunchPDFs``` - PDFs of what type of lunch will be served\n- ```RoomBookings``` - Excel files with data on occupancy rate for the nearby lecture halls\n- ```SalesData.xlsx``` - Excel file with the actual sales data for each given day\n\n### Tips \u270f\ufe0f\n* **Nyttjandegrad (%)** = **\"Occupancy rate\" in percentage form** in the sammanst\u00e4llning (summary of the week) excel sheet \n* Try to figure out what types of lunches are sold and see if there are certain types of protein or vegetarian options that can assist in the sales predictions of lunches and sodas. \n* Extract the occupancy rates of the rooms to in the RoomBooking excel sheets to see how much that affects the sales. \n\n\nGood luck! \ud83d\udc4a",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "time series analysis",
+    "linear regression",
+    "regression",
+    "restaurants"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

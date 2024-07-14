@@ -1,0 +1,43 @@
+{
+  "id": "varpit94/breaking-bad-tv-show-all-seasons-episodes-data",
+  "id_no": 1458950,
+  "datasetSlugNullable": "breaking-bad-tv-show-all-seasons-episodes-data",
+  "ownerUserNullable": "varpit94",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Breaking Bad TV show: All seasons, episodes data",
+  "subtitleNullable": "What made this TV show awesome?",
+  "descriptionNullable": "### Context\n\nBreaking Bad is an American neo-Western crime drama television series created and produced by Vince Gilligan. In 2013, Breaking Bad entered the Guinness World Records as the most critically acclaimed show of all time. The show received numerous awards, including 16 Primetime Emmy Awards, eight Satellite Awards, two Golden Globe Awards, two Peabody Awards, two Critics' Choice Awards, and four Television Critics Association Awards.. \n\n### Content\n\nThe dataset provides details for each episode of Breaking Bad. Following are the fields:\n* Date\n* Season\n* Episode\n* Title\n* Directed by\n* Written by\n*  Duration_mins\n* Summary\n* Rating_IMDB\n* U.S. viewers_million\n",
+  "datasetId": 1458950,
+  "datasetSlug": "breaking-bad-tv-show-all-seasons-episodes-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "varpit94",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7740,
+  "totalVotes": 22,
+  "totalDownloads": 576,
+  "title": "Breaking Bad TV show: All seasons, episodes data",
+  "hasTitle": true,
+  "subtitle": "What made this TV show awesome?",
+  "hasSubtitle": true,
+  "description": "### Context\n\nBreaking Bad is an American neo-Western crime drama television series created and produced by Vince Gilligan. In 2013, Breaking Bad entered the Guinness World Records as the most critically acclaimed show of all time. The show received numerous awards, including 16 Primetime Emmy Awards, eight Satellite Awards, two Golden Globe Awards, two Peabody Awards, two Critics' Choice Awards, and four Television Critics Association Awards.. \n\n### Content\n\nThe dataset provides details for each episode of Breaking Bad. Following are the fields:\n* Date\n* Season\n* Episode\n* Title\n* Directed by\n* Written by\n*  Duration_mins\n* Summary\n* Rating_IMDB\n* U.S. viewers_million\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "exploratory data analysis",
+    "tabular",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

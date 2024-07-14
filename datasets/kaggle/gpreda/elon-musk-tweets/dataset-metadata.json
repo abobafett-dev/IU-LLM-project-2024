@@ -1,0 +1,42 @@
+{
+  "id": "gpreda/elon-musk-tweets",
+  "id_no": 2342642,
+  "datasetSlugNullable": "elon-musk-tweets",
+  "ownerUserNullable": "gpreda",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Elon Musk Tweets",
+  "subtitleNullable": "Tweets of Elon Musk collected using tweepy",
+  "descriptionNullable": "## Context\n\n\nTweets by Elon Musk are very popular, he is currently one of the most followed users on Twitter, with &gt;100M followers. He is also constantly tweeting, and therefore the content generated is really interesting.\n\n![](https://storage.googleapis.com/kaggle-datasets-images/2342642/4438151/919dc4a0c5b82411dcb1a7064b67855c/dataset-cover.png?t=2022-11-03-08-15-31)\n\n\n\n## Content\nThis dataset is collected daily using tweepy and Twitter API\nThe source of the dataset is: public tweets by Elon Musk\n\n## Data columns\n\nThe following columns are included:\n- ID  \n- User name  \n- User location  \n- User description   \n- User created  \n- User followers  \n- User friends   \n- User favorites   \n- User verified  \n- Date   \n- Text   \n- Hashtags  \n- Source   \n- Retweets   \n- Is retweet   \n\n\n## Ideas for analysis\n\nYou can use this dataset (daily updated) to test your skills with NLP tools and techniques.\n",
+  "datasetId": 2342642,
+  "datasetSlug": "elon-musk-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "gpreda",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 18352,
+  "totalVotes": 82,
+  "totalDownloads": 1932,
+  "title": "Elon Musk Tweets",
+  "hasTitle": true,
+  "subtitle": "Tweets of Elon Musk collected using tweepy",
+  "hasSubtitle": true,
+  "description": "## Context\n\n\nTweets by Elon Musk are very popular, he is currently one of the most followed users on Twitter, with &gt;100M followers. He is also constantly tweeting, and therefore the content generated is really interesting.\n\n![](https://storage.googleapis.com/kaggle-datasets-images/2342642/4438151/919dc4a0c5b82411dcb1a7064b67855c/dataset-cover.png?t=2022-11-03-08-15-31)\n\n\n\n## Content\nThis dataset is collected daily using tweepy and Twitter API\nThe source of the dataset is: public tweets by Elon Musk\n\n## Data columns\n\nThe following columns are included:\n- ID  \n- User name  \n- User location  \n- User description   \n- User created  \n- User followers  \n- User friends   \n- User favorites   \n- User verified  \n- Date   \n- Text   \n- Hashtags  \n- Source   \n- Retweets   \n- Is retweet   \n\n\n## Ideas for analysis\n\nYou can use this dataset (daily updated) to test your skills with NLP tools and techniques.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text mining",
+    "text",
+    "news",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

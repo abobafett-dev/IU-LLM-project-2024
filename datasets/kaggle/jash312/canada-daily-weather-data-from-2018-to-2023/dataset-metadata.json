@@ -1,0 +1,43 @@
+{
+  "id": "jash312/canada-daily-weather-data-from-2018-to-2023",
+  "id_no": 4504768,
+  "datasetSlugNullable": "canada-daily-weather-data-from-2018-to-2023",
+  "ownerUserNullable": "jash312",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Canada Daily Weather Data from 2018 to 2023",
+  "subtitleNullable": "Exploring Climate Dynamics: A Detailed Daily Weather Dataset Across Canada",
+  "descriptionNullable": "This dataset encapsulates monthly weather information meticulously collected from 2018 to 2023, encompassing all provinces in Canada. Originally organized as monthly files for individual weather stations, the data has been thoughtfully combined to provide a comprehensive overview. The dataset includes essential features such as Mean Temperature (\u00b0C), Heating Degree Days (\u00b0C), Cooling Degree Days (\u00b0C), Total Rainfall (mm), Total Snowfall (cm), Total Precipitation (mm), Snow on the Ground (cm), Direction of Maximum Gust (10s deg), and Speed of Maximum Gust (km/h). This consolidated dataset serves as a valuable resource for detailed analysis, shedding light on climatic variations and trends specific to each province across Canada over the specified time period.\n\nexample individual file name: climate_daily_PROVTERR_XXXXXXX_YYYY-MM_P1D.csv\n\nwhere,\n\nclimate : Constant string indicating the data source, namely climate data\n\ndaily : Constant string indicating daily climate data\n\n\nPROVTERR : 2-letter code for the province or territory, and 1 string for National coverage. \n\nXXXXXXX : Climate_ID of the climate stations\n\nYYYY : Year of the climate daily data\n\nMM : Month of the climate daily/monthly data\n\nP1D : Constant string indicating 1 day time step (ISO8601 standard)\n\ncsv : Constant string indicating the CSV format\n\n\n\nhttps://www.canada.ca/en/environment-climate-change/services/climate-change/canadian-centre-climate-services/display-download/technical-documentation-daily-data.html",
+  "datasetId": 4504768,
+  "datasetSlug": "canada-daily-weather-data-from-2018-to-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "jash312",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 336,
+  "totalVotes": 4,
+  "totalDownloads": 77,
+  "title": "Canada Daily Weather Data from 2018 to 2023",
+  "hasTitle": true,
+  "subtitle": "Exploring Climate Dynamics: A Detailed Daily Weather Dataset Across Canada",
+  "hasSubtitle": true,
+  "description": "This dataset encapsulates monthly weather information meticulously collected from 2018 to 2023, encompassing all provinces in Canada. Originally organized as monthly files for individual weather stations, the data has been thoughtfully combined to provide a comprehensive overview. The dataset includes essential features such as Mean Temperature (\u00b0C), Heating Degree Days (\u00b0C), Cooling Degree Days (\u00b0C), Total Rainfall (mm), Total Snowfall (cm), Total Precipitation (mm), Snow on the Ground (cm), Direction of Maximum Gust (10s deg), and Speed of Maximum Gust (km/h). This consolidated dataset serves as a valuable resource for detailed analysis, shedding light on climatic variations and trends specific to each province across Canada over the specified time period.\n\nexample individual file name: climate_daily_PROVTERR_XXXXXXX_YYYY-MM_P1D.csv\n\nwhere,\n\nclimate : Constant string indicating the data source, namely climate data\n\ndaily : Constant string indicating daily climate data\n\n\nPROVTERR : 2-letter code for the province or territory, and 1 string for National coverage. \n\nXXXXXXX : Climate_ID of the climate stations\n\nYYYY : Year of the climate daily data\n\nMM : Month of the climate daily/monthly data\n\nP1D : Constant string indicating 1 day time step (ISO8601 standard)\n\ncsv : Constant string indicating the CSV format\n\n\n\nhttps://www.canada.ca/en/environment-climate-change/services/climate-change/canadian-centre-climate-services/display-download/technical-documentation-daily-data.html",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "weather and climate",
+    "time series analysis",
+    "data analytics",
+    "tabular",
+    "canada"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

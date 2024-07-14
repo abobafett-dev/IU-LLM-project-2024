@@ -1,0 +1,42 @@
+{
+  "id": "ulkapatel/b-e-b-tech-college-rank-data",
+  "id_no": 4557515,
+  "datasetSlugNullable": "b-e-b-tech-college-rank-data",
+  "ownerUserNullable": "ulkapatel",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "B.E / B.Tech College Rank Data",
+  "subtitleNullable": "List of BE/B.Tech Colleges in India Based on IndiaToday 2024 Ranking",
+  "descriptionNullable": "This data is according to IndiaToday (news channel) ratings, which were available on the collegedunia website. I web scraped it from there and cleaned it. A Jupyter Notebook is provided for the scraping information.",
+  "datasetId": 4557515,
+  "datasetSlug": "b-e-b-tech-college-rank-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "ulkapatel",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 566,
+  "totalVotes": 5,
+  "totalDownloads": 130,
+  "title": "B.E / B.Tech College Rank Data",
+  "hasTitle": true,
+  "subtitle": "List of BE/B.Tech Colleges in India Based on IndiaToday 2024 Ranking",
+  "hasSubtitle": true,
+  "description": "This data is according to IndiaToday (news channel) ratings, which were available on the collegedunia website. I web scraped it from there and cleaned it. A Jupyter Notebook is provided for the scraping information.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "india",
+    "engineering",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

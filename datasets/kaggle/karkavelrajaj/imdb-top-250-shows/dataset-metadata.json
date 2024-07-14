@@ -1,0 +1,43 @@
+{
+  "id": "karkavelrajaj/imdb-top-250-shows",
+  "id_no": 2759958,
+  "datasetSlugNullable": "imdb-top-250-shows",
+  "ownerUserNullable": "karkavelrajaj",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IMDB Top 250 Shows",
+  "subtitleNullable": "This dataset is having the data of top 250 Shows as per their IMDB rating",
+  "descriptionNullable": "This dataset is having the data of the top 250 Shows as per their IMDB rating listed on the official website of IMDB\n\n**Features**\n\n- rank                   - Show Rank as per IMDB rating\n- show_id             - Show ID\n- title                    - Name of the Show\n- year                   - Year of Show release\n- link                     - URL for the Show\n- imdb_votes        - Number of people who voted for the IMDB rating\n- imdb_rating       - Rating of the Show\n- certificate          - Show Certification\n- duration             - Duration of the Show\n- genre                 - Genre of the Show\n- cast_id               - ID of the cast member who have worked on the Show\n- cast_name         - Name of the cast member who have worked on the Show\n- director_id         -  ID of the director who have directed the Show\n- director_name   -  Name of the director who have directed the Show\n- writer_id             -  ID of the writer who have wrote script for the Show\n- writer_name       -  Name of the writer who have wrote script for the Show\n- storyline             -  Storyline of the Show\n- user_id               -   ID of the user who wrote review for the Show\n- user_name         -   Name of the user who wrote review for the Show\n- review_id            -  ID of the user review\n- review_title         -  Short review\n- review_content   -  Long review\n\n**Inspiration**\n\nIMDB is one of the main sources which people use to judge the movie or show. IMDB rating plays an important role for a lot of people watching a movie or show. I watched Planet Earth II after finding out that it's at the top of the list on IMDB. I've created this dataset so that people can play with this dataset and do a lot of things as mentioned below\n\n- Dataset Walkthrough\n- Understanding Dataset Hierarchy\n- Data Preprocessing\n- Exploratory Data Analysis\n- Data Visualization\n- Making Recommendation System\nThis is a list of some of that things that you can do on this dataset. It's not definitely limited to the one that is mentioned there but a lot more other things can also be done.        ",
+  "datasetId": 2759958,
+  "datasetSlug": "imdb-top-250-shows",
+  "hasDatasetSlug": true,
+  "ownerUser": "karkavelrajaj",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1189,
+  "totalVotes": 4,
+  "totalDownloads": 200,
+  "title": "IMDB Top 250 Shows",
+  "hasTitle": true,
+  "subtitle": "This dataset is having the data of top 250 Shows as per their IMDB rating",
+  "hasSubtitle": true,
+  "description": "This dataset is having the data of the top 250 Shows as per their IMDB rating listed on the official website of IMDB\n\n**Features**\n\n- rank                   - Show Rank as per IMDB rating\n- show_id             - Show ID\n- title                    - Name of the Show\n- year                   - Year of Show release\n- link                     - URL for the Show\n- imdb_votes        - Number of people who voted for the IMDB rating\n- imdb_rating       - Rating of the Show\n- certificate          - Show Certification\n- duration             - Duration of the Show\n- genre                 - Genre of the Show\n- cast_id               - ID of the cast member who have worked on the Show\n- cast_name         - Name of the cast member who have worked on the Show\n- director_id         -  ID of the director who have directed the Show\n- director_name   -  Name of the director who have directed the Show\n- writer_id             -  ID of the writer who have wrote script for the Show\n- writer_name       -  Name of the writer who have wrote script for the Show\n- storyline             -  Storyline of the Show\n- user_id               -   ID of the user who wrote review for the Show\n- user_name         -   Name of the user who wrote review for the Show\n- review_id            -  ID of the user review\n- review_title         -  Short review\n- review_content   -  Long review\n\n**Inspiration**\n\nIMDB is one of the main sources which people use to judge the movie or show. IMDB rating plays an important role for a lot of people watching a movie or show. I watched Planet Earth II after finding out that it's at the top of the list on IMDB. I've created this dataset so that people can play with this dataset and do a lot of things as mentioned below\n\n- Dataset Walkthrough\n- Understanding Dataset Hierarchy\n- Data Preprocessing\n- Exploratory Data Analysis\n- Data Visualization\n- Making Recommendation System\nThis is a list of some of that things that you can do on this dataset. It's not definitely limited to the one that is mentioned there but a lot more other things can also be done.        ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "exploratory data analysis",
+    "data visualization",
+    "recommender systems"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "petitbonney/cifar10-image-recognition",
+  "id_no": 366471,
+  "datasetSlugNullable": "cifar10-image-recognition",
+  "ownerUserNullable": "petitbonney",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "CIFAR-10",
+  "subtitleNullable": "Object Recognition in Images",
+  "descriptionNullable": "Numpy crompressed version of [\"CIFAR-10 - Object Recognition in Images\" Competition](https://www.kaggle.com/c/cifar-10) dataset.",
+  "datasetId": 366471,
+  "datasetSlug": "cifar10-image-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "petitbonney",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 9340,
+  "totalVotes": 11,
+  "totalDownloads": 1298,
+  "title": "CIFAR-10",
+  "hasTitle": true,
+  "subtitle": "Object Recognition in Images",
+  "hasSubtitle": true,
+  "description": "Numpy crompressed version of [\"CIFAR-10 - Object Recognition in Images\" Competition](https://www.kaggle.com/c/cifar-10) dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "art",
+    "computer science",
+    "programming",
+    "classification",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

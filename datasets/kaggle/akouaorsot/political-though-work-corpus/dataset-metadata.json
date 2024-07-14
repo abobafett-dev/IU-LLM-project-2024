@@ -1,0 +1,46 @@
+{
+  "id": "akouaorsot/political-though-work-corpus",
+  "id_no": 1456744,
+  "datasetSlugNullable": "political-though-work-corpus",
+  "ownerUserNullable": "akouaorsot",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Political & Philosophical Thought Bibliography",
+  "subtitleNullable": "Over 13.6m Words and 1.8k Works from Human Thought for Modeling and Analysis",
+  "descriptionNullable": "Please see the Discussion for updates and to voice your concerns and suggestions!\n\nIn the vein to keep bringing good philosophical works, this dataset offers a different corpus focused on political thought. It contains the corpus of both pre-modern and modern times. Given the constant evolution of such a burgeoning field, I will try to keep the list updated on a weekly or bi-weekly basis adding more classic works or recent gems I found. Though the initial intent was to have a Natural Language Processing task, it is yours to explore and be creative as the possibilities in data are infinite. After web scrapping the original texts, I created some functions to clean and tokenized them. So, you will find an auto-increment column and the four other columns as follows: book title, publishing date, authors, text, text clean.\n\nAnd above all, it is thanks to Project Gutenberg, a phenomenal platform for all book lovers and generally knowledge avid people, that I could obtain those texts at no cost. So, please support them in their continuous effort in making knowledge accessible: https://www.gutenberg.org/\n\nIn the following bullet points, I would propose possible exploration routes but do not feel constrained to go above and beyond:\n\n* An exploratory analysis on term frequency\n* A word cloud of a specific author's ideas or the general themes among all authors\n* A Recommendation system for someone wanting to read those books with an evolving string of ideas",
+  "datasetId": 1456744,
+  "datasetSlug": "political-though-work-corpus",
+  "hasDatasetSlug": true,
+  "ownerUser": "akouaorsot",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3113,
+  "totalVotes": 17,
+  "totalDownloads": 165,
+  "title": "Political & Philosophical Thought Bibliography",
+  "hasTitle": true,
+  "subtitle": "Over 13.6m Words and 1.8k Works from Human Thought for Modeling and Analysis",
+  "hasSubtitle": true,
+  "description": "Please see the Discussion for updates and to voice your concerns and suggestions!\n\nIn the vein to keep bringing good philosophical works, this dataset offers a different corpus focused on political thought. It contains the corpus of both pre-modern and modern times. Given the constant evolution of such a burgeoning field, I will try to keep the list updated on a weekly or bi-weekly basis adding more classic works or recent gems I found. Though the initial intent was to have a Natural Language Processing task, it is yours to explore and be creative as the possibilities in data are infinite. After web scrapping the original texts, I created some functions to clean and tokenized them. So, you will find an auto-increment column and the four other columns as follows: book title, publishing date, authors, text, text clean.\n\nAnd above all, it is thanks to Project Gutenberg, a phenomenal platform for all book lovers and generally knowledge avid people, that I could obtain those texts at no cost. So, please support them in their continuous effort in making knowledge accessible: https://www.gutenberg.org/\n\nIn the following bullet points, I would propose possible exploration routes but do not feel constrained to go above and beyond:\n\n* An exploratory analysis on term frequency\n* A word cloud of a specific author's ideas or the general themes among all authors\n* A Recommendation system for someone wanting to read those books with an evolving string of ideas",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "philosophy",
+    "nlp",
+    "nltk"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "washingtongold",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

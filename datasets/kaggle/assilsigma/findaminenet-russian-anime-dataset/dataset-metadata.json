@@ -1,0 +1,42 @@
+{
+  "id": "assilsigma/findaminenet-russian-anime-dataset",
+  "id_no": 3018291,
+  "datasetSlugNullable": "findaminenet-russian-anime-dataset",
+  "ownerUserNullable": "assilsigma",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Russian Anime Dataset (findanime.net)",
+  "subtitleNullable": "Anime list from Russian site",
+  "descriptionNullable": "This data set includes 7774 anime, including 31 columns such as title, short title, url, translation, description, number of episodes, genres, rating value, ratings count, world rating, characters rating, plot rating, in process feedback, viewed feedback, in favor feedback, categories, release year, authors, studios, directors, designers, characters, seiyuu, translators, tags, popularity, reviews, quotes, similar anime and image source url.\n\n#### Data source: [findanime.net](https://findanime.net)\n\n| Column | Description |\n| --- | --- |\n| Short title | Russian name of each anime |\n| Href | Link for each anime on findanime.net |\n| Image src | Image link for each anime on findanime.net |\n| Tags | Tags (e. g. detective, seinen, school) |\n| Translation | Availability of translation into Russian (translated - '\u043f\u0435\u0440\u0435\u0432\u0435\u0434\u0435\u043d\u043e', no translation - '\u043d\u0435\u0442 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430') |\n| Description | Description for each anime in several sentences |\n| Count episodes | Count of episodes in anime |\n| Rating | Anime rating from 0 to 5 |\n",
+  "datasetId": 3018291,
+  "datasetSlug": "findaminenet-russian-anime-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "assilsigma",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 236,
+  "totalVotes": 1,
+  "totalDownloads": 40,
+  "title": "Russian Anime Dataset (findanime.net)",
+  "hasTitle": true,
+  "subtitle": "Anime list from Russian site",
+  "hasSubtitle": true,
+  "description": "This data set includes 7774 anime, including 31 columns such as title, short title, url, translation, description, number of episodes, genres, rating value, ratings count, world rating, characters rating, plot rating, in process feedback, viewed feedback, in favor feedback, categories, release year, authors, studios, directors, designers, characters, seiyuu, translators, tags, popularity, reviews, quotes, similar anime and image source url.\n\n#### Data source: [findanime.net](https://findanime.net)\n\n| Column | Description |\n| --- | --- |\n| Short title | Russian name of each anime |\n| Href | Link for each anime on findanime.net |\n| Image src | Image link for each anime on findanime.net |\n| Tags | Tags (e. g. detective, seinen, school) |\n| Translation | Availability of translation into Russian (translated - '\u043f\u0435\u0440\u0435\u0432\u0435\u0434\u0435\u043d\u043e', no translation - '\u043d\u0435\u0442 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430') |\n| Description | Description for each anime in several sentences |\n| Count episodes | Count of episodes in anime |\n| Rating | Anime rating from 0 to 5 |\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "russia",
+    "beginner",
+    "text",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

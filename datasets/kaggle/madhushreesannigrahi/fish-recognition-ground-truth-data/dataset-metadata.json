@@ -1,0 +1,45 @@
+{
+  "id": "madhushreesannigrahi/fish-recognition-ground-truth-data",
+  "id_no": 4059399,
+  "datasetSlugNullable": "fish-recognition-ground-truth-data",
+  "ownerUserNullable": "madhushreesannigrahi",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Fish Recognition Ground-Truth data",
+  "subtitleNullable": "Multi-class fish classification dataset",
+  "descriptionNullable": "This fish data is acquired from a live video dataset resulting in 27370 verified fish images. The whole dataset is divided into 23 clusters and each cluster is presented by a representative species, which is based on the synapomorphies characteristic from the extent that the taxon is monophyletic. The representative image indicates the distinction between clusters shown in the figure below, e.g. the presence or absence of components (anal-fin, nasal, infraorbitals), specific number (six dorsal-fin spines, two spiny dorsal-fins), particular shape (second dorsal-fin spine long), etc. This figure shows the representative fish species name and the numbers of detections. The data is very imbalanced where the most frequent species is about 1000 times more than the least one. The fish detection and tracking software described in [1] is used to obtain the fish images. The fish species are manually labeled by following instructions from marine biologists [2].\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F5980358%2F5cc6093c54b3dc535bed661e93fc7a12%2Fgt_labels.png?generation=1700950637892694&alt=media)\n\n[Original page](https://homepages.inf.ed.ac.uk/rbf/fish4knowledge/GROUNDTRUTH/RECOG/) created by Phoenix X. Huang, Bastiaan B. Boom and Robert B. Fisher. Permission is granted for anyone to copy, use, modify, or distribute this data and accompanying documents for any purpose, provided this copyright notice is retained and prominently displayed, along with a note saying that the original data are available from our web page and refering to [2]. The data and documents are distributed without any warranty, express or implied. As the data were acquired for research purposes only, they have not been tested to the degree that would be advisable in any important application. All use of these data is entirely at the user's own risk.\n\nAcknowledgments: This research was funded by European Commission FP7 grant 257024, in the Fish4Knowledge project.\n\n- [1]. B. J. Boom, P. X. Huang, C. Spampinato, S. Palazzo, J. He, C. Beyan, E. Beauxis-Aussalet, J. van Ossenbruggen, G. Nadarajan, J. Y. Chen-Burger, D. Giordano, L. Hardman, F.-P. Lin, R. B. Fisher, \"Long-term underwater camera surveillance for monitoring and analysis of fish populations\", Proc. Int. Workshop on Visual observation and Analysis of Animal and Insect Behavior (VAIB), in conjunction with ICPR 2012, Tsukuba, Japan, 2012.\n\n- [2]. B. J. Boom, P. X. Huang, J. He, R. B. Fisher, \"Supporting Ground-Truth annotation of image datasets using clustering\", 21st Int. Conf. on Pattern Recognition (ICPR), 2012.\n",
+  "datasetId": 4059399,
+  "datasetSlug": "fish-recognition-ground-truth-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "madhushreesannigrahi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 874,
+  "totalVotes": 3,
+  "totalDownloads": 93,
+  "title": "Fish Recognition Ground-Truth data",
+  "hasTitle": true,
+  "subtitle": "Multi-class fish classification dataset",
+  "hasSubtitle": true,
+  "description": "This fish data is acquired from a live video dataset resulting in 27370 verified fish images. The whole dataset is divided into 23 clusters and each cluster is presented by a representative species, which is based on the synapomorphies characteristic from the extent that the taxon is monophyletic. The representative image indicates the distinction between clusters shown in the figure below, e.g. the presence or absence of components (anal-fin, nasal, infraorbitals), specific number (six dorsal-fin spines, two spiny dorsal-fins), particular shape (second dorsal-fin spine long), etc. This figure shows the representative fish species name and the numbers of detections. The data is very imbalanced where the most frequent species is about 1000 times more than the least one. The fish detection and tracking software described in [1] is used to obtain the fish images. The fish species are manually labeled by following instructions from marine biologists [2].\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F5980358%2F5cc6093c54b3dc535bed661e93fc7a12%2Fgt_labels.png?generation=1700950637892694&alt=media)\n\n[Original page](https://homepages.inf.ed.ac.uk/rbf/fish4knowledge/GROUNDTRUTH/RECOG/) created by Phoenix X. Huang, Bastiaan B. Boom and Robert B. Fisher. Permission is granted for anyone to copy, use, modify, or distribute this data and accompanying documents for any purpose, provided this copyright notice is retained and prominently displayed, along with a note saying that the original data are available from our web page and refering to [2]. The data and documents are distributed without any warranty, express or implied. As the data were acquired for research purposes only, they have not been tested to the degree that would be advisable in any important application. All use of these data is entirely at the user's own risk.\n\nAcknowledgments: This research was funded by European Commission FP7 grant 257024, in the Fish4Knowledge project.\n\n- [1]. B. J. Boom, P. X. Huang, C. Spampinato, S. Palazzo, J. He, C. Beyan, E. Beauxis-Aussalet, J. van Ossenbruggen, G. Nadarajan, J. Y. Chen-Burger, D. Giordano, L. Hardman, F.-P. Lin, R. B. Fisher, \"Long-term underwater camera surveillance for monitoring and analysis of fish populations\", Proc. Int. Workshop on Visual observation and Analysis of Animal and Insect Behavior (VAIB), in conjunction with ICPR 2012, Tsukuba, Japan, 2012.\n\n- [2]. B. J. Boom, P. X. Huang, J. He, R. B. Fisher, \"Supporting Ground-Truth annotation of image datasets using clustering\", 21st Int. Conf. on Pattern Recognition (ICPR), 2012.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "computer vision",
+    "deep learning",
+    "multiclass classification",
+    "fish and aquaria",
+    "image classification",
+    "image segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

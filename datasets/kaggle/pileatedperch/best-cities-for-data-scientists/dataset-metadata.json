@@ -1,0 +1,43 @@
+{
+  "id": "pileatedperch/best-cities-for-data-scientists",
+  "id_no": 833992,
+  "datasetSlugNullable": "best-cities-for-data-scientists",
+  "ownerUserNullable": "pileatedperch",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Best Cities for Data Scientists",
+  "subtitleNullable": "Best cities in the U.S. to live and work as a Data Scientist",
+  "descriptionNullable": "## Context\n\nThis dataset contains some data to try to answer the question, \"What's the best city to live and work in as a Data Scientist?\" I include data from the U.S. News & World Report Best Places to Live and Best States Rankings; city scores from Nomad List; rent indices from Zillow; and the number of jobs openings on Indeed.com. All data is publicly available online and manually compiled by myself.\n\n## Data Sources\n\n- [U.S. News Best Places to Live in the U.S.](https://realestate.usnews.com/places/rankings/best-places-to-live)\n- [U.S. News Best States Rankings](https://www.usnews.com/news/best-states)\n- [Nomad List](https://nomadlist.com/)\n- [Zillow Research Housing Data](https://www.zillow.com/research/data/)\n- [Wikipedia List of metropolitan statistical areas](https://en.wikipedia.org/wiki/List_of_metropolitan_statistical_areas)\n- [Indeed.com](https://www.indeed.com/)\n\nThe U.S. News Best Places and Best States Rankings are updated annually. They were last updated in Dec 2019, so I assume the next update will come in Dec 2020.\n\n## Dataset Info\n\n### Data from Best Places\n\nFor data points from the U.S. News Best Places, drill down into the page for each metro area. I have to manually collect these data points, and not all of them are fully populated. If there's interest, I'll upload a new version with more data filled in.\n\n### About Nomad Scores\n\nNomad List publishes scores for each city that update in real time every 10 mins. These scores are affected by the current weather in each city. Therefore, the scores vary quite a bit seasonally as well as during the day. [Learn more here](https://nomadlist.com/faq#ranking). I've sampled the scores at different times of year and different times of day. Timestamps are in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format. Nomad Scores are not available for all metros in the dataset.\n\n## Inspiration\n\n1. Can you combine the data for each metro into an aggregate score (or multiple scores) to determine the best places to live?\n2. Should climate be factored into your scores? If so, how?\n3. Can you aggregate violent and property crime rates into an aggregate crime rate?\n4. Can you combine a quantitative score with a ranking measure to obtain a total score?\n5. Can you aggregate all the sampled Nomad Scores to obtain an overall Nomad Score for the metro? How should you weight each score?\n6. Should you include the number of Data Scientist job postings in your total score for the metro? If so, how?",
+  "datasetId": 833992,
+  "datasetSlug": "best-cities-for-data-scientists",
+  "hasDatasetSlug": true,
+  "ownerUser": "pileatedperch",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 5494,
+  "totalVotes": 6,
+  "totalDownloads": 287,
+  "title": "Best Cities for Data Scientists",
+  "hasTitle": true,
+  "subtitle": "Best cities in the U.S. to live and work as a Data Scientist",
+  "hasSubtitle": true,
+  "description": "## Context\n\nThis dataset contains some data to try to answer the question, \"What's the best city to live and work in as a Data Scientist?\" I include data from the U.S. News & World Report Best Places to Live and Best States Rankings; city scores from Nomad List; rent indices from Zillow; and the number of jobs openings on Indeed.com. All data is publicly available online and manually compiled by myself.\n\n## Data Sources\n\n- [U.S. News Best Places to Live in the U.S.](https://realestate.usnews.com/places/rankings/best-places-to-live)\n- [U.S. News Best States Rankings](https://www.usnews.com/news/best-states)\n- [Nomad List](https://nomadlist.com/)\n- [Zillow Research Housing Data](https://www.zillow.com/research/data/)\n- [Wikipedia List of metropolitan statistical areas](https://en.wikipedia.org/wiki/List_of_metropolitan_statistical_areas)\n- [Indeed.com](https://www.indeed.com/)\n\nThe U.S. News Best Places and Best States Rankings are updated annually. They were last updated in Dec 2019, so I assume the next update will come in Dec 2020.\n\n## Dataset Info\n\n### Data from Best Places\n\nFor data points from the U.S. News Best Places, drill down into the page for each metro area. I have to manually collect these data points, and not all of them are fully populated. If there's interest, I'll upload a new version with more data filled in.\n\n### About Nomad Scores\n\nNomad List publishes scores for each city that update in real time every 10 mins. These scores are affected by the current weather in each city. Therefore, the scores vary quite a bit seasonally as well as during the day. [Learn more here](https://nomadlist.com/faq#ranking). I've sampled the scores at different times of year and different times of day. Timestamps are in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format. Nomad Scores are not available for all metros in the dataset.\n\n## Inspiration\n\n1. Can you combine the data for each metro into an aggregate score (or multiple scores) to determine the best places to live?\n2. Should climate be factored into your scores? If so, how?\n3. Can you aggregate violent and property crime rates into an aggregate crime rate?\n4. Can you combine a quantitative score with a ranking measure to obtain a total score?\n5. Can you aggregate all the sampled Nomad Scores to obtain an overall Nomad Score for the metro? How should you weight each score?\n6. Should you include the number of Data Scientist job postings in your total score for the metro? If so, how?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "united states",
+    "demographics",
+    "jobs and career",
+    "travel"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

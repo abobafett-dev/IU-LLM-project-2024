@@ -1,0 +1,40 @@
+{
+  "id": "p0licat/groceriestimeseries",
+  "id_no": 1031063,
+  "datasetSlugNullable": "groceriestimeseries",
+  "ownerUserNullable": "p0licat",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Groceries-TimeSeries",
+  "subtitleNullable": "Time series with items, prices and quantities.",
+  "descriptionNullable": "### Context \nWhat your compiled shopping lists with prices would look like.\n\n### Time range\nLess than 4 months.\n\n### Sources\nPersonally gathered.",
+  "datasetId": 1031063,
+  "datasetSlug": "groceriestimeseries",
+  "hasDatasetSlug": true,
+  "ownerUser": "p0licat",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 2606,
+  "totalVotes": 3,
+  "totalDownloads": 102,
+  "title": "Groceries-TimeSeries",
+  "hasTitle": true,
+  "subtitle": "Time series with items, prices and quantities.",
+  "hasSubtitle": true,
+  "description": "### Context \nWhat your compiled shopping lists with prices would look like.\n\n### Time range\nLess than 4 months.\n\n### Sources\nPersonally gathered.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "time series analysis",
+    "statistical analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

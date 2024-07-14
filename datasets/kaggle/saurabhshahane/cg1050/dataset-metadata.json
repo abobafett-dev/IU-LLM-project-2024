@@ -1,0 +1,40 @@
+{
+  "id": "saurabhshahane/cg1050",
+  "id_no": 1237999,
+  "datasetSlugNullable": "cg1050",
+  "ownerUserNullable": "saurabhshahane",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Original and Tampered Image Dataset",
+  "subtitleNullable": "CG1050 (Original and Tampered Image Classification)",
+  "descriptionNullable": "### Context\n\nThis dataset complements the dataset known as CG-1050 (v1) in which 1050 tampered images and their corresponding original counterpart were provided. Now, the objective is to provide the specific block (cropped image) in which the manipulation was performed. It is organized in two directories: training and validation. In each directory there are two sub-directories, one for the original cropped images, and the other for the tampered cropped images. The manipulated region is around the 25% to 75% of the cropped image. This dataset can be used for training and validation machine learning based models for classification of tampered images.\n\n### Acknowledgements\n\nCastro, Maikol; Ballesteros L, Dora Maria; Renza, Diego (2019), \u201cCG-1050 v2: Original and tampered images \u201d, Mendeley Data, V1, doi: 10.17632/28xhc4kyfp.1\n\n",
+  "datasetId": 1237999,
+  "datasetSlug": "cg1050",
+  "hasDatasetSlug": true,
+  "ownerUser": "saurabhshahane",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 8571,
+  "totalVotes": 14,
+  "totalDownloads": 911,
+  "title": "Original and Tampered Image Dataset",
+  "hasTitle": true,
+  "subtitle": "CG1050 (Original and Tampered Image Classification)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset complements the dataset known as CG-1050 (v1) in which 1050 tampered images and their corresponding original counterpart were provided. Now, the objective is to provide the specific block (cropped image) in which the manipulation was performed. It is organized in two directories: training and validation. In each directory there are two sub-directories, one for the original cropped images, and the other for the tampered cropped images. The manipulated region is around the 25% to 75% of the cropped image. This dataset can be used for training and validation machine learning based models for classification of tampered images.\n\n### Acknowledgements\n\nCastro, Maikol; Ballesteros L, Dora Maria; Renza, Diego (2019), \u201cCG-1050 v2: Original and tampered images \u201d, Mendeley Data, V1, doi: 10.17632/28xhc4kyfp.1\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image",
+    "public safety"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

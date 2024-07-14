@@ -1,0 +1,53 @@
+{
+  "id": "kokyew93/nihdata",
+  "id_no": 456279,
+  "datasetSlugNullable": "nihdata",
+  "ownerUserNullable": "kokyew93",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "NIHdata",
+  "subtitleNullable": "Re-imagine healthcare by speeding up the cardio diagnoses process",
+  "descriptionNullable": "# Mini Project Description\nThe project intention is to allow Novartis NBS graduate hires to have an opportunity to explore the application of machine learning (deep learning to be specify) on healthcare industry.\n\n## Team Formation\nCurrently, the project team consists of the following associates:\n\n* Ngew Kok Yew (PLS)\n* Leong Kai Jie (IT)\n* Chris Wan (IT)\n* Megat (IT)\n* Nazlyn (IT)\n\n# Citations\n* Wang X, Peng Y, Lu L, Lu Z, Bagheri M, Summers RM. ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases. IEEE CVPR 2017, ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf\n\n* NIH News release: NIH Clinical Center provides one of the largest publicly available chest x-ray datasets to scientific community\n\n* Original source files and documents: https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/36938765345",
+  "datasetId": 456279,
+  "datasetSlug": "nihdata",
+  "hasDatasetSlug": true,
+  "ownerUser": "kokyew93",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 5113,
+  "totalVotes": 4,
+  "totalDownloads": 213,
+  "title": "NIHdata",
+  "hasTitle": true,
+  "subtitle": "Re-imagine healthcare by speeding up the cardio diagnoses process",
+  "hasSubtitle": true,
+  "description": "# Mini Project Description\nThe project intention is to allow Novartis NBS graduate hires to have an opportunity to explore the application of machine learning (deep learning to be specify) on healthcare industry.\n\n## Team Formation\nCurrently, the project team consists of the following associates:\n\n* Ngew Kok Yew (PLS)\n* Leong Kai Jie (IT)\n* Chris Wan (IT)\n* Megat (IT)\n* Nazlyn (IT)\n\n# Citations\n* Wang X, Peng Y, Lu L, Lu Z, Bagheri M, Summers RM. ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases. IEEE CVPR 2017, ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf\n\n* NIH News release: NIH Clinical Center provides one of the largest publicly available chest x-ray datasets to scientific community\n\n* Original source files and documents: https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/36938765345",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "cnn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "direbuzer",
+      "role": "writer"
+    },
+    {
+      "username": "leongkaijie",
+      "role": "writer"
+    },
+    {
+      "username": "megatilham",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

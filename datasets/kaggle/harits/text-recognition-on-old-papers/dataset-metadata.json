@@ -1,0 +1,42 @@
+{
+  "id": "harits/text-recognition-on-old-papers",
+  "id_no": 1427125,
+  "datasetSlugNullable": "text-recognition-on-old-papers",
+  "ownerUserNullable": "harits",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Text Recognition on Old Papers",
+  "subtitleNullable": "Recognize letters of images in text format",
+  "descriptionNullable": "### Context\n\nOptical Character Recognition (OCR) is a software that can convert the text in image format into a text format that can be read in an application, such as a scanner used to copy or read text. To recognize the text accurately, we need an algorithm that supports the pattern recognition process of the text. \n\n\n### Content\n\nThis dataset was obtained from the test case generated from the SPOJ EYES \u2013 Robo Eye website in text format. Each test case in the dataset has 200 rows with 200 characters in each row, where the character can be '.' which represents white on the page, and 'X' which represents black in text. The total number of letters in the text ranges from 3-6 characters. The font type in the test case is Arial, Courier, or Times New Roman. The dataset can be obtained at the following link https://www.spoj.com/problems/EYES/. The dataset can be reproduced for training needs and evaluation of the character classification model for text letters in the image dataset. \n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nChallenges:\nThe text that will be recognized in the image dataset has various variations such as the type of font used, the attachment between letters that merge into one letter, and the presence of a noise component that is bound to the character component of the letter which causes a decrease in the quality of the data image. In addition, there is scaling and rotation of the text. ",
+  "datasetId": 1427125,
+  "datasetSlug": "text-recognition-on-old-papers",
+  "hasDatasetSlug": true,
+  "ownerUser": "harits",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2853,
+  "totalVotes": 12,
+  "totalDownloads": 110,
+  "title": "Text Recognition on Old Papers",
+  "hasTitle": true,
+  "subtitle": "Recognize letters of images in text format",
+  "hasSubtitle": true,
+  "description": "### Context\n\nOptical Character Recognition (OCR) is a software that can convert the text in image format into a text format that can be read in an application, such as a scanner used to copy or read text. To recognize the text accurately, we need an algorithm that supports the pattern recognition process of the text. \n\n\n### Content\n\nThis dataset was obtained from the test case generated from the SPOJ EYES \u2013 Robo Eye website in text format. Each test case in the dataset has 200 rows with 200 characters in each row, where the character can be '.' which represents white on the page, and 'X' which represents black in text. The total number of letters in the text ranges from 3-6 characters. The font type in the test case is Arial, Courier, or Times New Roman. The dataset can be obtained at the following link https://www.spoj.com/problems/EYES/. The dataset can be reproduced for training needs and evaluation of the character classification model for text letters in the image dataset. \n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nChallenges:\nThe text that will be recognized in the image dataset has various variations such as the type of font used, the attachment between letters that merge into one letter, and the presence of a noise component that is bound to the character component of the letter which causes a decrease in the quality of the data image. In addition, there is scaling and rotation of the text. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "software",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

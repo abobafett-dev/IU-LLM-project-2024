@@ -1,0 +1,41 @@
+{
+  "id": "brendanartley/kaokore-faces",
+  "id_no": 1099174,
+  "datasetSlugNullable": "kaokore-faces",
+  "ownerUserNullable": "brendanartley",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Kaokore Faces TFrecords",
+  "subtitleNullable": "tfrecords of the Kaokore japanese face dataset",
+  "descriptionNullable": "### Context\n\nThis dataset is the Kaokore Japanese Face dataset. Currently there are 1000 of the images on this file but in the next version I will include all 8000 images. Find the original dataset here --&gt; [KaoKore Dataset](https://github.com/rois-codh/kaokore)\n\n- This data is for research purposes only and not for commercial use. (see github link above for more info)\n\n\n### Content\n\nAll the images are 256x256 and stored in a tfrecord format. \n\n\n### Acknowledgements\n\nThanks to @rois-codh on github for sharing this awesome dataset!\n",
+  "datasetId": 1099174,
+  "datasetSlug": "kaokore-faces",
+  "hasDatasetSlug": true,
+  "ownerUser": "brendanartley",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1410,
+  "totalVotes": 6,
+  "totalDownloads": 27,
+  "title": "Kaokore Faces TFrecords",
+  "hasTitle": true,
+  "subtitle": "tfrecords of the Kaokore japanese face dataset",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is the Kaokore Japanese Face dataset. Currently there are 1000 of the images on this file but in the next version I will include all 8000 images. Find the original dataset here --&gt; [KaoKore Dataset](https://github.com/rois-codh/kaokore)\n\n- This data is for research purposes only and not for commercial use. (see github link above for more info)\n\n\n### Content\n\nAll the images are 256x256 and stored in a tfrecord format. \n\n\n### Acknowledgements\n\nThanks to @rois-codh on github for sharing this awesome dataset!\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

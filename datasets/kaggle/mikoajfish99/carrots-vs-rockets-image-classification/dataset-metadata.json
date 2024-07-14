@@ -1,0 +1,43 @@
+{
+  "id": "mikoajfish99/carrots-vs-rockets-image-classification",
+  "id_no": 2957698,
+  "datasetSlugNullable": "carrots-vs-rockets-image-classification",
+  "ownerUserNullable": "mikoajfish99",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Carrots vs Rockets - Image Classification",
+  "subtitleNullable": "Build an Image Classification Model",
+  "descriptionNullable": "The \"Carrots vs Rockets - Image Classification\" dataset is a collection of images downloaded from various sources, containing photographs of both carrots and rockets. This dataset has been compiled for the purpose of training and evaluating image classification algorithms.\n\nThe dataset contains a total of 306 images. The images have been labeled as either \"carrot\" or \"rocket\" and are stored in separate directories.\n\nThis dataset can be used for a variety of tasks related to image classification, including developing and testing deep learning algorithms, evaluating the effectiveness of different image features and classification techniques, and comparing the performance of different models.\n\nResearchers and practitioners interested in using this dataset are encouraged to cite the original sources of the images and to acknowledge any modifications made to the dataset for their particular use. The dataset may be useful for tasks such as automated vegetable sorting or satellite image analysis.",
+  "datasetId": 2957698,
+  "datasetSlug": "carrots-vs-rockets-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "mikoajfish99",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 1781,
+  "totalVotes": 18,
+  "totalDownloads": 186,
+  "title": "Carrots vs Rockets - Image Classification",
+  "hasTitle": true,
+  "subtitle": "Build an Image Classification Model",
+  "hasSubtitle": true,
+  "description": "The \"Carrots vs Rockets - Image Classification\" dataset is a collection of images downloaded from various sources, containing photographs of both carrots and rockets. This dataset has been compiled for the purpose of training and evaluating image classification algorithms.\n\nThe dataset contains a total of 306 images. The images have been labeled as either \"carrot\" or \"rocket\" and are stored in separate directories.\n\nThis dataset can be used for a variety of tasks related to image classification, including developing and testing deep learning algorithms, evaluating the effectiveness of different image features and classification techniques, and comparing the performance of different models.\n\nResearchers and practitioners interested in using this dataset are encouraged to cite the original sources of the images and to acknowledge any modifications made to the dataset for their particular use. The dataset may be useful for tasks such as automated vegetable sorting or satellite image analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "binary classification",
+    "food",
+    "image classification",
+    "convolution"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

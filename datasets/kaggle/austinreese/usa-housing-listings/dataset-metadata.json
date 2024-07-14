@@ -1,0 +1,41 @@
+{
+  "id": "austinreese/usa-housing-listings",
+  "id_no": 467554,
+  "datasetSlugNullable": "usa-housing-listings",
+  "ownerUserNullable": "austinreese",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "USA Housing Listings",
+  "subtitleNullable": "Homes for sale within the United States",
+  "descriptionNullable": "##Context\nCraigslist is the world's largest collection of privately sold housing options, yet it's very difficult to collect all of them in the same place. I built this dataset as a means in by which to perform experimental analysis on the United States states as a whole instead of isolated urban housing markets.\n\n##Content\nThis data is scraped every few months, it contains most all relevant information that Craigslist provides on retail sales\n\n",
+  "datasetId": 467554,
+  "datasetSlug": "usa-housing-listings",
+  "hasDatasetSlug": true,
+  "ownerUser": "austinreese",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 42992,
+  "totalVotes": 70,
+  "totalDownloads": 6072,
+  "title": "USA Housing Listings",
+  "hasTitle": true,
+  "subtitle": "Homes for sale within the United States",
+  "hasSubtitle": true,
+  "description": "##Context\nCraigslist is the world's largest collection of privately sold housing options, yet it's very difficult to collect all of them in the same place. I built this dataset as a means in by which to perform experimental analysis on the United States states as a whole instead of isolated urban housing markets.\n\n##Content\nThis data is scraped every few months, it contains most all relevant information that Craigslist provides on retail sales\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "housing",
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

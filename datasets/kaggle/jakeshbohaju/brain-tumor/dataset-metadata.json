@@ -1,0 +1,41 @@
+{
+  "id": "jakeshbohaju/brain-tumor",
+  "id_no": 519333,
+  "datasetSlugNullable": "brain-tumor",
+  "ownerUserNullable": "jakeshbohaju",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Brain Tumor",
+  "subtitleNullable": "Extracted features for brain tumor",
+  "descriptionNullable": "### Brain Tumor\nThis is a brain tumor feature dataset including five first-order features and eight texture features with the target level (in the column Class).\n\n* First Order Features\n    - Mean\n    - Variance\n    - Standard Deviation\n    - Skewness\n    - Kurtosis\n\n* Second Order Features\n    - Contrast\n    - Energy\n    - ASM  (Angular second moment)\n    - Entropy\n    - Homogeneity\n    - Dissimilarity\n    - Correlation\n    - Coarseness\t\n\n\nImage column defines image name and Class column defines either the image has tumor or not (1 = Tumor, 0 = Non-Tumor)",
+  "datasetId": 519333,
+  "datasetSlug": "brain-tumor",
+  "hasDatasetSlug": true,
+  "ownerUser": "jakeshbohaju",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 133501,
+  "totalVotes": 271,
+  "totalDownloads": 17077,
+  "title": "Brain Tumor",
+  "hasTitle": true,
+  "subtitle": "Extracted features for brain tumor",
+  "hasSubtitle": true,
+  "description": "### Brain Tumor\nThis is a brain tumor feature dataset including five first-order features and eight texture features with the target level (in the column Class).\n\n* First Order Features\n    - Mean\n    - Variance\n    - Standard Deviation\n    - Skewness\n    - Kurtosis\n\n* Second Order Features\n    - Contrast\n    - Energy\n    - ASM  (Angular second moment)\n    - Entropy\n    - Homogeneity\n    - Dissimilarity\n    - Correlation\n    - Coarseness\t\n\n\nImage column defines image name and Class column defines either the image has tumor or not (1 = Tumor, 0 = Non-Tumor)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "physics",
+    "classification",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

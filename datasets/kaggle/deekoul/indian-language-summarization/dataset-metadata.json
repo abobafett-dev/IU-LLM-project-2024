@@ -1,0 +1,37 @@
+{
+  "id": "deekoul/indian-language-summarization",
+  "id_no": 2451018,
+  "datasetSlugNullable": "indian-language-summarization",
+  "ownerUserNullable": "deekoul",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Indian Language News Text Summarization Dataset",
+  "subtitleNullable": "Hindi, Gujarati text and summary news dataset",
+  "descriptionNullable": "The dataset for this task is built using articles and headline pairs from several leading newspapers of the country. The authors provide ~10,000 news articles for each language.  \nSource:[ilsumm 2022 dataset](https://ilsum.github.io/ilsum/2022/dataset.html)\n\nNote: I have no authority over this dataset.",
+  "datasetId": 2451018,
+  "datasetSlug": "indian-language-summarization",
+  "hasDatasetSlug": true,
+  "ownerUser": "deekoul",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 1537,
+  "totalVotes": 1,
+  "totalDownloads": 262,
+  "title": "Indian Language News Text Summarization Dataset",
+  "hasTitle": true,
+  "subtitle": "Hindi, Gujarati text and summary news dataset",
+  "hasSubtitle": true,
+  "description": "The dataset for this task is built using articles and headline pairs from several leading newspapers of the country. The authors provide ~10,000 news articles for each language.  \nSource:[ilsumm 2022 dataset](https://ilsum.github.io/ilsum/2022/dataset.html)\n\nNote: I have no authority over this dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

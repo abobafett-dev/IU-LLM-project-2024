@@ -1,0 +1,41 @@
+{
+  "id": "attilakiss/secondhand-car-market-data-parsing-dataset-v1",
+  "id_no": 706809,
+  "datasetSlugNullable": "secondhand-car-market-data-parsing-dataset-v1",
+  "ownerUserNullable": "attilakiss",
+  "usabilityRatingNullable": 0.7352941176470589,
+  "titleNullable": "secondhand car market hungary",
+  "subtitleNullable": "main attributes of an advertisement collected from the biggest site",
+  "descriptionNullable": "The dataset originates from the biggest used car advertisement site of Hungary. This dataset is a result of a web-parsing project, that could be fund in a [GitHub repo](https://github.com/atttilakiss/Project-HaHU_KA)  \nThe following information had to be acknowledged:\n\n* two main tables: advertisements (about 38k records); catalogs (about 16k records)\n\n advertisements:\n* contains the main details of the advertisement\n* contains the sales status (manually updated, moderately reliable)\n* in order to prevent privacy issues the following columns had been replaced with 'NA's: \n     * 'description', \n     * 'advertisement_url'\n\n\ncatalogs:\n* technical details of the car represented in each advertisement\n* this data not available for every advertisement\n\nthe ERP diagram of the dataset:\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4992084%2Fbbd0131c0a60958e01214c9c6fb8320f%2Fenhanced_db_structure.png?generation=1591872945600780&alt=media)\n",
+  "datasetId": 706809,
+  "datasetSlug": "secondhand-car-market-data-parsing-dataset-v1",
+  "hasDatasetSlug": true,
+  "ownerUser": "attilakiss",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7352941176470589,
+  "hasUsabilityRating": true,
+  "totalViews": 5506,
+  "totalVotes": 8,
+  "totalDownloads": 445,
+  "title": "secondhand car market hungary",
+  "hasTitle": true,
+  "subtitle": "main attributes of an advertisement collected from the biggest site",
+  "hasSubtitle": true,
+  "description": "The dataset originates from the biggest used car advertisement site of Hungary. This dataset is a result of a web-parsing project, that could be fund in a [GitHub repo](https://github.com/atttilakiss/Project-HaHU_KA)  \nThe following information had to be acknowledged:\n\n* two main tables: advertisements (about 38k records); catalogs (about 16k records)\n\n advertisements:\n* contains the main details of the advertisement\n* contains the sales status (manually updated, moderately reliable)\n* in order to prevent privacy issues the following columns had been replaced with 'NA's: \n     * 'description', \n     * 'advertisement_url'\n\n\ncatalogs:\n* technical details of the car represented in each advertisement\n* this data not available for every advertisement\n\nthe ERP diagram of the dataset:\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4992084%2Fbbd0131c0a60958e01214c9c6fb8320f%2Fenhanced_db_structure.png?generation=1591872945600780&alt=media)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "automobiles and vehicles",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

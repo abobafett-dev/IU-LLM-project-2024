@@ -1,0 +1,43 @@
+{
+  "id": "gruffgemini/steam-games-dataset",
+  "id_no": 3445840,
+  "datasetSlugNullable": "steam-games-dataset",
+  "ownerUserNullable": "gruffgemini",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Steam games dataset",
+  "subtitleNullable": "User tags info and data from howlongtobeat.com on about 60000 Steam games",
+  "descriptionNullable": "The dataset includes information on about 60000 video games from Steam platform. The key information is user tags, which describe the nature and prominent features of the game. The data also includes information about the average length of the game (taken from howlongtobeat.com).\n\nThe dataset can be a great help in building a recommendation system that doesn't rely on peer preferences.",
+  "datasetId": 3445840,
+  "datasetSlug": "steam-games-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "gruffgemini",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5460,
+  "totalVotes": 37,
+  "totalDownloads": 823,
+  "title": "Steam games dataset",
+  "hasTitle": true,
+  "subtitle": "User tags info and data from howlongtobeat.com on about 60000 Steam games",
+  "hasSubtitle": true,
+  "description": "The dataset includes information on about 60000 video games from Steam platform. The key information is user tags, which describe the nature and prominent features of the game. The data also includes information about the average length of the game (taken from howlongtobeat.com).\n\nThe dataset can be a great help in building a recommendation system that doesn't rely on peer preferences.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "video games",
+    "beginner",
+    "recommender systems",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

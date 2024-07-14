@@ -1,0 +1,42 @@
+{
+  "id": "phisinger/bike-counting-berlin",
+  "id_no": 1876925,
+  "datasetSlugNullable": "bike-counting-berlin",
+  "ownerUserNullable": "phisinger",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "Cycling Count Berlin",
+  "subtitleNullable": "Bicycle traffic data in Berlin 2012-2020",
+  "descriptionNullable": "### Context\n\nCycling is an essential part in the journey towards a more sustainable mobility and transportation. To prove the importance of usage of bicycles, Berlin installed several counting stations at different locations. Since 2012 the administration of Berlin collects and publish data about the number of cyclists in Berlin. The original raw data can be found [here](https://www.berlin.de/sen/uvk/verkehr/verkehrsplanung/radverkehr/weitere-radinfrastruktur/zaehlstellen-und-fahrradbarometer/). I transformed the data to a more convient structure to work with (in my opinion).\n\n\n### Content\n\nThe provided Excel file has multiple measurement tables (data_20XX). Each table contains data for one year (2012 until 2020). One row contains data for one hour. In the first years there is only one station providing data; since 2016 there are more stations with data. Error and missing values are indicated by the value '-1'.\n- `DateTime`: Date and time of the measurement\n- `Station`: acronym of the measurement station (reference to the data_location table, see below)\n- `cyclists`: Sum of cyclists in this hour at this station\n\nThe table `data_location` contains following data about the station\n- `Zaehlstelle`: acronym of the measurement station\n- `Beschreibung - Fahrtrichtung`: real name and location of the measurement station\n- `Breitengrad`: latitude of station\n- `Laengengrad`: longitude of station\n- `Installationsdatum`: date of installation of station\n\n### Acknowledgements and Licence\n\nThis data is originally provided by \"Senatsverwaltung f\u00fcr Umwelt, Mobilit\u00e4t, Verbraucher- und Klimaschutz - Abteilung Verkehr, Am K\u00f6llnischen Park 3,\n10179 Berlin\" or [Administation of Berlin](https://www.berlin.de/sen/uvk/verkehr/verkehrsplanung/radverkehr/akteure-und-gremien/ansprechpersonen/) under the license [**dl-de/by-2-0**](https://www.govdata.de/dl-de/by-2-0). The original raw data can be found [here](https://www.berlin.de/sen/uvk/verkehr/verkehrsplanung/radverkehr/weitere-radinfrastruktur/zaehlstellen-und-fahrradbarometer/). I transformed the data to a more convient structure to work with (in my opinion).\n\n### Inspiration\n\nI love cycling and this data set provides some insights of cycling traffic at different locations in Berlin. This data set is well suited for time series analysis and forecasting! More over you can practice your feature engeineering skills by augmenting the data with more features...",
+  "datasetId": 1876925,
+  "datasetSlug": "bike-counting-berlin",
+  "hasDatasetSlug": true,
+  "ownerUser": "phisinger",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 1585,
+  "totalVotes": 5,
+  "totalDownloads": 131,
+  "title": "Cycling Count Berlin",
+  "hasTitle": true,
+  "subtitle": "Bicycle traffic data in Berlin 2012-2020",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCycling is an essential part in the journey towards a more sustainable mobility and transportation. To prove the importance of usage of bicycles, Berlin installed several counting stations at different locations. Since 2012 the administration of Berlin collects and publish data about the number of cyclists in Berlin. The original raw data can be found [here](https://www.berlin.de/sen/uvk/verkehr/verkehrsplanung/radverkehr/weitere-radinfrastruktur/zaehlstellen-und-fahrradbarometer/). I transformed the data to a more convient structure to work with (in my opinion).\n\n\n### Content\n\nThe provided Excel file has multiple measurement tables (data_20XX). Each table contains data for one year (2012 until 2020). One row contains data for one hour. In the first years there is only one station providing data; since 2016 there are more stations with data. Error and missing values are indicated by the value '-1'.\n- `DateTime`: Date and time of the measurement\n- `Station`: acronym of the measurement station (reference to the data_location table, see below)\n- `cyclists`: Sum of cyclists in this hour at this station\n\nThe table `data_location` contains following data about the station\n- `Zaehlstelle`: acronym of the measurement station\n- `Beschreibung - Fahrtrichtung`: real name and location of the measurement station\n- `Breitengrad`: latitude of station\n- `Laengengrad`: longitude of station\n- `Installationsdatum`: date of installation of station\n\n### Acknowledgements and Licence\n\nThis data is originally provided by \"Senatsverwaltung f\u00fcr Umwelt, Mobilit\u00e4t, Verbraucher- und Klimaschutz - Abteilung Verkehr, Am K\u00f6llnischen Park 3,\n10179 Berlin\" or [Administation of Berlin](https://www.berlin.de/sen/uvk/verkehr/verkehrsplanung/radverkehr/akteure-und-gremien/ansprechpersonen/) under the license [**dl-de/by-2-0**](https://www.govdata.de/dl-de/by-2-0). The original raw data can be found [here](https://www.berlin.de/sen/uvk/verkehr/verkehrsplanung/radverkehr/weitere-radinfrastruktur/zaehlstellen-und-fahrradbarometer/). I transformed the data to a more convient structure to work with (in my opinion).\n\n### Inspiration\n\nI love cycling and this data set provides some insights of cycling traffic at different locations in Berlin. This data set is well suited for time series analysis and forecasting! More over you can practice your feature engeineering skills by augmenting the data with more features...",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "transportation",
+    "time series analysis",
+    "lstm"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

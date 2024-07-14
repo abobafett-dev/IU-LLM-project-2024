@@ -1,0 +1,43 @@
+{
+  "id": "karkavelrajaj/imdb-top-250-movies",
+  "id_no": 2987095,
+  "datasetSlugNullable": "imdb-top-250-movies",
+  "ownerUserNullable": "karkavelrajaj",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IMDB Top 250 Movies",
+  "subtitleNullable": "This dataset is having the data of top 250 Movies as per their IMDB rating",
+  "descriptionNullable": "This dataset is having the data of the top 250 Movies as per their IMDB rating listed on the official website of IMDB\n\n**Features**\n\n- rank                   - Movie Rank as per IMDB rating\n- movie_id            - Movie ID\n- title                    - Name of the Movie \n- year                   - Year of Movie release\n- link                     - URL for the Movie \n- imdb_votes        - Number of people who voted for the IMDB rating\n- imdb_rating       - Rating of the Movie \n- certificate          - Movie Certification\n- duration             - Duration of the Movie \n- genre                 - Genre of the Movie \n- cast_id               - ID of the cast member who have worked on the Movie \n- cast_name         - Name of the cast member who have worked on the Movie \n- director_id         -  ID of the director who have directed the Movie \n- director_name   -  Name of the director who have directed the Movie \n- writer_id             -  ID of the writer who have wrote script for the Movie \n- writer_name       -  Name of the writer who have wrote script for the Movie \n- storyline             -  Storyline of the Movie \n- user_id               -   ID of the user who wrote review for the Movie \n- user_name         -   Name of the user who wrote review for the Movie \n- review_id            -  ID of the user review\n- review_title         -  Short review\n- review_content   -  Long review\n\n**Inspiration**\n\nIMDB is one of the main sources which people use to judge the movie or show. IMDB rating plays an important role for a lot of people watching a movie or show. I watched The Shawshank Redemption after finding out that it's at the top of the list on IMDB. I've created this dataset so that people can play with this dataset and do a lot of things as mentioned below\n\n- Dataset Walkthrough\n- Understanding Dataset Hierarchy\n- Data Preprocessing\n- Exploratory Data Analysis\n- Data Visualization\n- Making Recommendation System\nThis is a list of some of that things that you can do on this dataset. It's not definitely limited to the one that is mentioned there but a lot more other things can also be done.",
+  "datasetId": 2987095,
+  "datasetSlug": "imdb-top-250-movies",
+  "hasDatasetSlug": true,
+  "ownerUser": "karkavelrajaj",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13750,
+  "totalVotes": 40,
+  "totalDownloads": 2706,
+  "title": "IMDB Top 250 Movies",
+  "hasTitle": true,
+  "subtitle": "This dataset is having the data of top 250 Movies as per their IMDB rating",
+  "hasSubtitle": true,
+  "description": "This dataset is having the data of the top 250 Movies as per their IMDB rating listed on the official website of IMDB\n\n**Features**\n\n- rank                   - Movie Rank as per IMDB rating\n- movie_id            - Movie ID\n- title                    - Name of the Movie \n- year                   - Year of Movie release\n- link                     - URL for the Movie \n- imdb_votes        - Number of people who voted for the IMDB rating\n- imdb_rating       - Rating of the Movie \n- certificate          - Movie Certification\n- duration             - Duration of the Movie \n- genre                 - Genre of the Movie \n- cast_id               - ID of the cast member who have worked on the Movie \n- cast_name         - Name of the cast member who have worked on the Movie \n- director_id         -  ID of the director who have directed the Movie \n- director_name   -  Name of the director who have directed the Movie \n- writer_id             -  ID of the writer who have wrote script for the Movie \n- writer_name       -  Name of the writer who have wrote script for the Movie \n- storyline             -  Storyline of the Movie \n- user_id               -   ID of the user who wrote review for the Movie \n- user_name         -   Name of the user who wrote review for the Movie \n- review_id            -  ID of the user review\n- review_title         -  Short review\n- review_content   -  Long review\n\n**Inspiration**\n\nIMDB is one of the main sources which people use to judge the movie or show. IMDB rating plays an important role for a lot of people watching a movie or show. I watched The Shawshank Redemption after finding out that it's at the top of the list on IMDB. I've created this dataset so that people can play with this dataset and do a lot of things as mentioned below\n\n- Dataset Walkthrough\n- Understanding Dataset Hierarchy\n- Data Preprocessing\n- Exploratory Data Analysis\n- Data Visualization\n- Making Recommendation System\nThis is a list of some of that things that you can do on this dataset. It's not definitely limited to the one that is mentioned there but a lot more other things can also be done.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "exploratory data analysis",
+    "data visualization",
+    "recommender systems"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

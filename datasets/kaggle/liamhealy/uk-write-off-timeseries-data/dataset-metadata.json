@@ -1,0 +1,44 @@
+{
+  "id": "liamhealy/uk-write-off-timeseries-data",
+  "id_no": 4269852,
+  "datasetSlugNullable": "uk-write-off-timeseries-data",
+  "ownerUserNullable": "liamhealy",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "UK Write-Off Rates",
+  "subtitleNullable": "UK write-off time series data (monthly: 1993 - 2023)",
+  "descriptionNullable": "# Description:\n\nThe Bank of England Individual Write-off Dataset is a comprehensive and meticulously curated collection of time-series data spanning the period from 1993 to 2023. This dataset provides valuable insights into the dynamics of write-off activities related to individuals' financial transactions, encompassing various credit facilities. The primary focus of the dataset is on write-off occurrences in the domains of secured credit, credit cards, and other unsecured credit facilities.\n\n# Key Features:\n\n**Time Range (1993-2023):** The dataset covers a substantial 30-year period, allowing users to analyze long-term trends, patterns, and fluctuations in individual write-off data.\n\n**Granular Time Series:** Time series data is available at a granular level, providing monthly or quarterly breakdowns of write-off events. This level of detail enables users to identify seasonal trends, economic cycles, and other time-dependent patterns.\n\n**Secured Credit:** The dataset includes detailed information on write-offs related to secured credit. This encompasses loans and financial transactions backed by collateral, such as mortgages and other secured assets.\n\n**Credit Cards:** A specific focus is given to write-offs associated with credit card transactions. This subset of data provides insights into consumer behavior, credit card usage trends, and the risk factors contributing to write-off events.\n\n**Other Unsecured Credit Facilities:** Beyond secured credit and credit cards, the dataset also encompasses other unsecured credit facilities. This category includes personal loans, lines of credit, and other financial instruments without collateral requirements.\n\n**Detailed Write-off Metrics:** The dataset provides comprehensive metrics related to write-offs, such as the amount written off, the reasons for write-offs, and potentially demographic information of the individuals involved. This allows for a nuanced understanding of the factors contributing to write-off events.",
+  "datasetId": 4269852,
+  "datasetSlug": "uk-write-off-timeseries-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "liamhealy",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 374,
+  "totalVotes": 10,
+  "totalDownloads": 56,
+  "title": "UK Write-Off Rates",
+  "hasTitle": true,
+  "subtitle": "UK write-off time series data (monthly: 1993 - 2023)",
+  "hasSubtitle": true,
+  "description": "# Description:\n\nThe Bank of England Individual Write-off Dataset is a comprehensive and meticulously curated collection of time-series data spanning the period from 1993 to 2023. This dataset provides valuable insights into the dynamics of write-off activities related to individuals' financial transactions, encompassing various credit facilities. The primary focus of the dataset is on write-off occurrences in the domains of secured credit, credit cards, and other unsecured credit facilities.\n\n# Key Features:\n\n**Time Range (1993-2023):** The dataset covers a substantial 30-year period, allowing users to analyze long-term trends, patterns, and fluctuations in individual write-off data.\n\n**Granular Time Series:** Time series data is available at a granular level, providing monthly or quarterly breakdowns of write-off events. This level of detail enables users to identify seasonal trends, economic cycles, and other time-dependent patterns.\n\n**Secured Credit:** The dataset includes detailed information on write-offs related to secured credit. This encompasses loans and financial transactions backed by collateral, such as mortgages and other secured assets.\n\n**Credit Cards:** A specific focus is given to write-offs associated with credit card transactions. This subset of data provides insights into consumer behavior, credit card usage trends, and the risk factors contributing to write-off events.\n\n**Other Unsecured Credit Facilities:** Beyond secured credit and credit cards, the dataset also encompasses other unsecured credit facilities. This category includes personal loans, lines of credit, and other financial instruments without collateral requirements.\n\n**Detailed Write-off Metrics:** The dataset provides comprehensive metrics related to write-offs, such as the amount written off, the reasons for write-offs, and potentially demographic information of the individuals involved. This allows for a nuanced understanding of the factors contributing to write-off events.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "banking",
+    "data visualization",
+    "time series analysis",
+    "data analytics",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bretmathyer/telemedicine-used",
+  "id_no": 3418366,
+  "datasetSlugNullable": "telemedicine-used",
+  "ownerUserNullable": "bretmathyer",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "US Telemedicine Use 2021",
+  "subtitleNullable": "Four week period from 2021",
+  "descriptionNullable": "To rapidly monitor recent changes in the use of telemedicine, the National Center for Health Statistics (NCHS) and the Health Resources and Services Administration\u2019s Maternal and Child Health Bureau (HRSA MCHB) partnered with the Census Bureau on an experimental data system called the Household Pulse Survey. This 20-minute online survey was designed to complement the ability of the federal statistical system to rapidly respond and provide relevant information about the impact of the coronavirus pandemic in the U.S.\n\nThe U.S. Census Bureau, in collaboration with five federal agencies, launched the Household Pulse Survey to produce data on the social and economic impacts of the COVID-19 pandemic on American households. The Household Pulse Survey was designed to gauge the impact of the pandemic on employment status, consumer spending, food security, housing, education disruptions, and dimensions of physical and mental wellness.\n\nThe survey was designed to meet the goal of accurate and timely estimates. It was conducted by an internet questionnaire, with invitations to participate sent by email and text message. The sample frame is the Census Bureau Master Address File Data. Housing units linked to one or more email addresses or cell phone numbers were randomly selected to participate, and one respondent from each housing unit was selected to respond for him or herself. Estimates are weighted to adjust for nonresponse and to match Census Bureau estimates of the population by age, sex, race and ethnicity, and educational attainment. All estimates shown meet the NCHS Data Presentation Standards for Proportions.\n\nData retrieved from [data.gov](https://catalog.data.gov/dataset/telemedicine-use-in-the-last-4-weeks-5229c)\n\nThe license is unknown, but federal data sets are open.\n\nI made a data-cleaning notebook, feel free to use the export file.",
+  "datasetId": 3418366,
+  "datasetSlug": "telemedicine-used",
+  "hasDatasetSlug": true,
+  "ownerUser": "bretmathyer",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 610,
+  "totalVotes": 1,
+  "totalDownloads": 153,
+  "title": "US Telemedicine Use 2021",
+  "hasTitle": true,
+  "subtitle": "Four week period from 2021",
+  "hasSubtitle": true,
+  "description": "To rapidly monitor recent changes in the use of telemedicine, the National Center for Health Statistics (NCHS) and the Health Resources and Services Administration\u2019s Maternal and Child Health Bureau (HRSA MCHB) partnered with the Census Bureau on an experimental data system called the Household Pulse Survey. This 20-minute online survey was designed to complement the ability of the federal statistical system to rapidly respond and provide relevant information about the impact of the coronavirus pandemic in the U.S.\n\nThe U.S. Census Bureau, in collaboration with five federal agencies, launched the Household Pulse Survey to produce data on the social and economic impacts of the COVID-19 pandemic on American households. The Household Pulse Survey was designed to gauge the impact of the pandemic on employment status, consumer spending, food security, housing, education disruptions, and dimensions of physical and mental wellness.\n\nThe survey was designed to meet the goal of accurate and timely estimates. It was conducted by an internet questionnaire, with invitations to participate sent by email and text message. The sample frame is the Census Bureau Master Address File Data. Housing units linked to one or more email addresses or cell phone numbers were randomly selected to participate, and one respondent from each housing unit was selected to respond for him or herself. Estimates are weighted to adjust for nonresponse and to match Census Bureau estimates of the population by age, sex, race and ethnicity, and educational attainment. All estimates shown meet the NCHS Data Presentation Standards for Proportions.\n\nData retrieved from [data.gov](https://catalog.data.gov/dataset/telemedicine-use-in-the-last-4-weeks-5229c)\n\nThe license is unknown, but federal data sets are open.\n\nI made a data-cleaning notebook, feel free to use the export file.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "healthcare",
+    "science and technology"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

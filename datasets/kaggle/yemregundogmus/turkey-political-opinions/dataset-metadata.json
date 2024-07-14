@@ -1,0 +1,43 @@
+{
+  "id": "yemregundogmus/turkey-political-opinions",
+  "id_no": 26366,
+  "datasetSlugNullable": "turkey-political-opinions",
+  "ownerUserNullable": "yemregundogmus",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Turkey Political Opinions",
+  "subtitleNullable": "Turkey Political Opinions with Age, Sex, Education, City Features",
+  "descriptionNullable": "We need your verdict to build a better model\n&gt; If you have a free time and you provide us with the data via the following link, we are rewarded.\n&gt; link: https://docs.google.com/forms/d/e/1FAIpQLSdGEjXtk_dExehcOgck28nTZ2ncBfMazqcYbYMlJSlcJ5_5JA/viewform\n\n## Context\n10 questions related to this political orientation were asked, and a yes / no feedback was received from them. Apart from that, the gender of the person, age, level of education, region where he lived was added to the questions.\n\n## Content\nThe time range of the data covers 2018. May 11, 2018 through May 13, 2018 was collected via google forms.\n\n## Acknowledgements\nyemregundogmus own the dataset he is a University student in first class statistics, [Click][1] for see his projects or other datasets\n\n## Inspiration\nThis data set is interesting because it reveals the point of view of Turkish people towards political events. With this dataset, people can determine the point of view against the events at the time of election and make a selection work according to it. Or machine-learning algorithms may be required to make forecasts from the machine. In conclusion Decision-Tree can be seen how people's political thoughts have influenced party-based.\n\n## Data Information\n **Features :** \n\n* Cinsiyet : Sex Feature\n* Yas : Age Feature\n* Bolge : Areas inhabited in Turkey\n* Egitim : Education Level \n* (Soru = Question) (Questions include Turkey)\n* Soru1/Question1: Do you think our Economic Status is good?\n* Soru2/Question2: Need Reform in Education?\n* Soru3/Question3: Resolve Privatization Are You?\n* Soru4/Question4: Should the state use a penalty like death penalty for certain crimes?\n* Soru5/Question5: Do you find our journalists neutral enough?\n* Soru6/Question6: From 22:00 am Then Are You Supporting the Prohibition to Buy Drinks?\n* Soru7/Question7: Do You Want to Live in a Secular State?\n* Soru8/Question8: Are you supporting the abortion ban?\n* Soru9/Question9: Do you think that the extraordinary state (Ohal) restricts Freedoms?\n* Soru10/Question10: Would you like a new part of the parliament to enter?\n* Parti : Political View\n\n**Data Review :**\n\n* Evet = Yes \n* Hay\u0131r = No \n* Erkek = Male \n* Kad\u0131n = Female\n* Yas = Age\n* Bolge = City \n* Egitim = Education \n* \u0130lkokul = primary school\n* OrtaOkul = junior high school\n* Lise = High School\n* Lisans = University\n* Lisans \u00dcst\u00fc = MA\n\n\n  [1]: https://www.kaggle.com/yemregundogmus",
+  "datasetId": 26366,
+  "datasetSlug": "turkey-political-opinions",
+  "hasDatasetSlug": true,
+  "ownerUser": "yemregundogmus",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 29136,
+  "totalVotes": 97,
+  "totalDownloads": 2650,
+  "title": "Turkey Political Opinions",
+  "hasTitle": true,
+  "subtitle": "Turkey Political Opinions with Age, Sex, Education, City Features",
+  "hasSubtitle": true,
+  "description": "We need your verdict to build a better model\n&gt; If you have a free time and you provide us with the data via the following link, we are rewarded.\n&gt; link: https://docs.google.com/forms/d/e/1FAIpQLSdGEjXtk_dExehcOgck28nTZ2ncBfMazqcYbYMlJSlcJ5_5JA/viewform\n\n## Context\n10 questions related to this political orientation were asked, and a yes / no feedback was received from them. Apart from that, the gender of the person, age, level of education, region where he lived was added to the questions.\n\n## Content\nThe time range of the data covers 2018. May 11, 2018 through May 13, 2018 was collected via google forms.\n\n## Acknowledgements\nyemregundogmus own the dataset he is a University student in first class statistics, [Click][1] for see his projects or other datasets\n\n## Inspiration\nThis data set is interesting because it reveals the point of view of Turkish people towards political events. With this dataset, people can determine the point of view against the events at the time of election and make a selection work according to it. Or machine-learning algorithms may be required to make forecasts from the machine. In conclusion Decision-Tree can be seen how people's political thoughts have influenced party-based.\n\n## Data Information\n **Features :** \n\n* Cinsiyet : Sex Feature\n* Yas : Age Feature\n* Bolge : Areas inhabited in Turkey\n* Egitim : Education Level \n* (Soru = Question) (Questions include Turkey)\n* Soru1/Question1: Do you think our Economic Status is good?\n* Soru2/Question2: Need Reform in Education?\n* Soru3/Question3: Resolve Privatization Are You?\n* Soru4/Question4: Should the state use a penalty like death penalty for certain crimes?\n* Soru5/Question5: Do you find our journalists neutral enough?\n* Soru6/Question6: From 22:00 am Then Are You Supporting the Prohibition to Buy Drinks?\n* Soru7/Question7: Do You Want to Live in a Secular State?\n* Soru8/Question8: Are you supporting the abortion ban?\n* Soru9/Question9: Do you think that the extraordinary state (Ohal) restricts Freedoms?\n* Soru10/Question10: Would you like a new part of the parliament to enter?\n* Parti : Political View\n\n**Data Review :**\n\n* Evet = Yes \n* Hay\u0131r = No \n* Erkek = Male \n* Kad\u0131n = Female\n* Yas = Age\n* Bolge = City \n* Egitim = Education \n* \u0130lkokul = primary school\n* OrtaOkul = junior high school\n* Lise = High School\n* Lisans = University\n* Lisans \u00dcst\u00fc = MA\n\n\n  [1]: https://www.kaggle.com/yemregundogmus",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "politics",
+    "classification",
+    "feature engineering",
+    "deep learning",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

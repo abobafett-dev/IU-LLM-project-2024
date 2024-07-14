@@ -1,0 +1,40 @@
+{
+  "id": "michelhatab/hotel-reviews-bookingcom",
+  "id_no": 2851240,
+  "datasetSlugNullable": "hotel-reviews-bookingcom",
+  "ownerUserNullable": "michelhatab",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Hotel Reviews Booking.com",
+  "subtitleNullable": "Reviews for an hotel in Larnaca-Cyprus",
+  "descriptionNullable": "### Acknowledgements\n\nThe data was scraped from [La Veranda Hotel on Booking.com](https://www.booking.com/hotel/cy/la-veranda.en-gb.html). All data in the file is publicly available to everyone already. Please be noted that data is originally owned by [Booking.com](https://www.booking.com/hotel/cy/la-veranda.en-gb.html).\n\n### Data Context\n\nThis dataset contains 1,500 customer reviews for an hotel in Larnaca-Cyprus. The hotel opened exactly one year before the data was scraped, and these reviews provide valuable insight into the experiences of guests who stayed at the property during its first year of operation.\n\n### Data Content\nThe columns in the dataset are:\n\n1. `Title`: A brief summary of the review written by the guest.\n2. `Positive Review`: A detailed account of what the guest liked about their stay at the hotel.\n3. `Negative Review`: A detailed account of what the guest did not like about their stay at the hotel.\n4. `Score`: A rating out of 10 given by the guest to reflect their overall experience.\n5. `Guest Name`: The name of the guest who wrote the review.\n6. `Guest Country`: The country of origin of the guest who wrote the review.\n7. `Room Type`: The type of room that the guest stayed in during their visit.\n8. `Number of Nights`: The number of nights the guest stayed at the hotel.\n9. `Visit Date`: The date the guest stayed at the hotel.\n10. `Group Type`: Whether the guest was traveling alone or with a group.\n11. `Property Response`: A response from the hotel to the guest's review.\n\n*Please note that:*\n*- Guest Name could be 'Anonymous'*\n\n### Inspiration\nThis data can be useful for a variety of purposes, including **understanding customer satisfaction levels**, **identifying areas for improvement**, and **analyzing guest demographics and behavior**. \n\nFor instance,\nThe `Score` and `Positive Review`/`Negative Review` columns can be used to gauge overall satisfaction and pinpoint specific areas of improvement.\nThe `Guest Country` and `Number of Nights` columns can be used to analyze guest demographics and behavior, such as the nationalities and length of stays of guests at the hotel.\n\nThis data is an excellent resource for hotel managers and researchers looking to gain a deeper understanding of customer experiences at hotels.",
+  "datasetId": 2851240,
+  "datasetSlug": "hotel-reviews-bookingcom",
+  "hasDatasetSlug": true,
+  "ownerUser": "michelhatab",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 18924,
+  "totalVotes": 42,
+  "totalDownloads": 2954,
+  "title": "Hotel Reviews Booking.com",
+  "hasTitle": true,
+  "subtitle": "Reviews for an hotel in Larnaca-Cyprus",
+  "hasSubtitle": true,
+  "description": "### Acknowledgements\n\nThe data was scraped from [La Veranda Hotel on Booking.com](https://www.booking.com/hotel/cy/la-veranda.en-gb.html). All data in the file is publicly available to everyone already. Please be noted that data is originally owned by [Booking.com](https://www.booking.com/hotel/cy/la-veranda.en-gb.html).\n\n### Data Context\n\nThis dataset contains 1,500 customer reviews for an hotel in Larnaca-Cyprus. The hotel opened exactly one year before the data was scraped, and these reviews provide valuable insight into the experiences of guests who stayed at the property during its first year of operation.\n\n### Data Content\nThe columns in the dataset are:\n\n1. `Title`: A brief summary of the review written by the guest.\n2. `Positive Review`: A detailed account of what the guest liked about their stay at the hotel.\n3. `Negative Review`: A detailed account of what the guest did not like about their stay at the hotel.\n4. `Score`: A rating out of 10 given by the guest to reflect their overall experience.\n5. `Guest Name`: The name of the guest who wrote the review.\n6. `Guest Country`: The country of origin of the guest who wrote the review.\n7. `Room Type`: The type of room that the guest stayed in during their visit.\n8. `Number of Nights`: The number of nights the guest stayed at the hotel.\n9. `Visit Date`: The date the guest stayed at the hotel.\n10. `Group Type`: Whether the guest was traveling alone or with a group.\n11. `Property Response`: A response from the hotel to the guest's review.\n\n*Please note that:*\n*- Guest Name could be 'Anonymous'*\n\n### Inspiration\nThis data can be useful for a variety of purposes, including **understanding customer satisfaction levels**, **identifying areas for improvement**, and **analyzing guest demographics and behavior**. \n\nFor instance,\nThe `Score` and `Positive Review`/`Negative Review` columns can be used to gauge overall satisfaction and pinpoint specific areas of improvement.\nThe `Guest Country` and `Number of Nights` columns can be used to analyze guest demographics and behavior, such as the nationalities and length of stays of guests at the hotel.\n\nThis data is an excellent resource for hotel managers and researchers looking to gain a deeper understanding of customer experiences at hotels.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "ratings and reviews",
+    "hotels and accommodations"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

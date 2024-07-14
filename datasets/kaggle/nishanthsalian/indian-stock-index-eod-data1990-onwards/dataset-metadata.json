@@ -1,0 +1,42 @@
+{
+  "id": "nishanthsalian/indian-stock-index-eod-data1990-onwards",
+  "id_no": 1095729,
+  "datasetSlugNullable": "indian-stock-index-eod-data1990-onwards",
+  "ownerUserNullable": "nishanthsalian",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Indian Stock Market EOD Data(1990 onwards)",
+  "subtitleNullable": "OHLCV and more EOD data for all Indian stocks, VIX, indices on NSE, since 1990",
+  "descriptionNullable": "### Context \n\nIn-order to validate various trading strategies and to come up with new trading strategies, historical data is a must.\nOnce historical data is available, there are various backtesting tools such as \"[Backtesting.py](https://pypi.org/project/Backtesting/)\" and technical anlaysis tools such as \"[ta](https://technical-analysis-library-in-python.readthedocs.io/en/latest/index.html)\" which helps users to easily validate their strategies and generate extensive reports.\n\nPlease upvote for better reach and wider collaboration, if you find the dataset useful\n\n### Content\nThis dataset contains detailed data for all indices(Eg: NIFTY, BANKNIFTY etc) including volatility index VIX and stocks listed on NSE since 1990\nFor indices, it has end of day (EOD) Open, High, Low, Close, Volume (OHLCV) and Turnover data\nFor stocks, it has EOD [OHLC](https://en.wikipedia.org/wiki/Open-high-low-close_chart#:~:text=An%20open%2Dhigh%2Dlow%2D,one%20day%20or%20one%20hour.), previous close, last price and [Vwap](https://www.investopedia.com/terms/v/vwap.asp#:~:text=The%20volume%20weighted%20average%20price%20(VWAP)%20is%20a%20trading%20benchmark,TradingView.) (Volume weighted average price) data\n\nThe data is structured into the below folder hierarchy\n1. data\\_YearStart\\_YearEnd (Depicts the time period of the data)\n 1. index\\_data (contains csv files for all indices including VIX)\n   --Contains OHLCV data for the indices in files named as \"indexCode.csv\"\n   --It also contains PE,PB and dividend data for the indices in a files named as \"indexCode\\_pe\\_pb.csv\"\n 1. stock\\_data (contains csv files for all stocks listed on NSE)\n    --Contains OHLCV and VWap data for the stocks  in files named as \"stockCode.csv\"\n\nSpaces and \"&\" in filenames are replaced with  \"_\" and \"\\_N\\_\" respectively\n\nFor Intraday index data please refer [Indian Stock Market Index Intraday Data(2008-2020)](https://www.kaggle.com/nishanthsalian/indian-stock-index-1minute-data-2008-2020) dataset\n\n### Acknowledgements\n\nThis data is sourced from [nse](http://www.nseindia.com/) using [nsepy](https://nsepy.xyz/) and [nsetools](https://pypi.org/project/nsetools) \nThe data is unprocessed and retained as obtained from the source.\n\nPhoto Credits: [Jason Leung](https://unsplash.com/@ninjason) on [Unsplash](https://unsplash.com/photos/SAYzxuS1O3M) ",
+  "datasetId": 1095729,
+  "datasetSlug": "indian-stock-index-eod-data1990-onwards",
+  "hasDatasetSlug": true,
+  "ownerUser": "nishanthsalian",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 10471,
+  "totalVotes": 39,
+  "totalDownloads": 1154,
+  "title": "Indian Stock Market EOD Data(1990 onwards)",
+  "hasTitle": true,
+  "subtitle": "OHLCV and more EOD data for all Indian stocks, VIX, indices on NSE, since 1990",
+  "hasSubtitle": true,
+  "description": "### Context \n\nIn-order to validate various trading strategies and to come up with new trading strategies, historical data is a must.\nOnce historical data is available, there are various backtesting tools such as \"[Backtesting.py](https://pypi.org/project/Backtesting/)\" and technical anlaysis tools such as \"[ta](https://technical-analysis-library-in-python.readthedocs.io/en/latest/index.html)\" which helps users to easily validate their strategies and generate extensive reports.\n\nPlease upvote for better reach and wider collaboration, if you find the dataset useful\n\n### Content\nThis dataset contains detailed data for all indices(Eg: NIFTY, BANKNIFTY etc) including volatility index VIX and stocks listed on NSE since 1990\nFor indices, it has end of day (EOD) Open, High, Low, Close, Volume (OHLCV) and Turnover data\nFor stocks, it has EOD [OHLC](https://en.wikipedia.org/wiki/Open-high-low-close_chart#:~:text=An%20open%2Dhigh%2Dlow%2D,one%20day%20or%20one%20hour.), previous close, last price and [Vwap](https://www.investopedia.com/terms/v/vwap.asp#:~:text=The%20volume%20weighted%20average%20price%20(VWAP)%20is%20a%20trading%20benchmark,TradingView.) (Volume weighted average price) data\n\nThe data is structured into the below folder hierarchy\n1. data\\_YearStart\\_YearEnd (Depicts the time period of the data)\n 1. index\\_data (contains csv files for all indices including VIX)\n   --Contains OHLCV data for the indices in files named as \"indexCode.csv\"\n   --It also contains PE,PB and dividend data for the indices in a files named as \"indexCode\\_pe\\_pb.csv\"\n 1. stock\\_data (contains csv files for all stocks listed on NSE)\n    --Contains OHLCV and VWap data for the stocks  in files named as \"stockCode.csv\"\n\nSpaces and \"&\" in filenames are replaced with  \"_\" and \"\\_N\\_\" respectively\n\nFor Intraday index data please refer [Indian Stock Market Index Intraday Data(2008-2020)](https://www.kaggle.com/nishanthsalian/indian-stock-index-1minute-data-2008-2020) dataset\n\n### Acknowledgements\n\nThis data is sourced from [nse](http://www.nseindia.com/) using [nsepy](https://nsepy.xyz/) and [nsetools](https://pypi.org/project/nsetools) \nThe data is unprocessed and retained as obtained from the source.\n\nPhoto Credits: [Jason Leung](https://unsplash.com/@ninjason) on [Unsplash](https://unsplash.com/photos/SAYzxuS1O3M) ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

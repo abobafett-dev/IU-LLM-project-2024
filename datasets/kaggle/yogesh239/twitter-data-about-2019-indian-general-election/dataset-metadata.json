@@ -1,0 +1,43 @@
+{
+  "id": "yogesh239/twitter-data-about-2019-indian-general-election",
+  "id_no": 2844368,
+  "datasetSlugNullable": "twitter-data-about-2019-indian-general-election",
+  "ownerUserNullable": "yogesh239",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Twitter Data - Indian General Election 2019",
+  "subtitleNullable": "Public Tweets about Lok Sabha election 2019 as well as tweets from PM candidates",
+  "descriptionNullable": "Indian General Lok Sabha elections were held in 2019 between the timestamp of 11 April to 19 May. Various parties, particularly political leaders, used Twitter extensively during general election campaign.  Twitter served as a site for real-time public discussions about the #LokSabhaElections2019. The volume of conversation surrounding #LokSabhaElections2019, including Tweets from candidates, political parties, citizens, and the news media, resulted in more than **396 million Tweets** on the platform from 1 January 2019 to 23 May 2019, representing a nearly 600% increase from 2014.\nKeeping this in mind, Election related tweets has been extracted from twitter between the timeline from 1 January 2019 to 23 May 2019. Use of popular keywords and hashtags were made that were trending at the time of campaign. Also used the usernames of the political leaders and political parties. \n&gt;Hashtags - #LokSabhaElections2019, #IndianElection2019, #NarendraModi, #RahulGandhi, #BJP, #INC\n&gt;Keywords - Jobs, Religion, National Security, Agriculture, employment, Demonetisation\n\nBetween the same timeline tweets from Narendra Modi & Rahul Gandhi are also collected extracted with some constraints to maintain the relevant to election. \nOnly Tweets written in English are collected hence total tweets count is lower than expected. The data is collected and then cleaned so as to get unique tweets\nData contains: \n&gt;Date - timestamp of the tweet being public.\n&gt;Tweet - full text tweet by user \n&gt;User - Twitter username of user of which the tweet belongs to\n\n\n",
+  "datasetId": 2844368,
+  "datasetSlug": "twitter-data-about-2019-indian-general-election",
+  "hasDatasetSlug": true,
+  "ownerUser": "yogesh239",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3418,
+  "totalVotes": 21,
+  "totalDownloads": 793,
+  "title": "Twitter Data - Indian General Election 2019",
+  "hasTitle": true,
+  "subtitle": "Public Tweets about Lok Sabha election 2019 as well as tweets from PM candidates",
+  "hasSubtitle": true,
+  "description": "Indian General Lok Sabha elections were held in 2019 between the timestamp of 11 April to 19 May. Various parties, particularly political leaders, used Twitter extensively during general election campaign.  Twitter served as a site for real-time public discussions about the #LokSabhaElections2019. The volume of conversation surrounding #LokSabhaElections2019, including Tweets from candidates, political parties, citizens, and the news media, resulted in more than **396 million Tweets** on the platform from 1 January 2019 to 23 May 2019, representing a nearly 600% increase from 2014.\nKeeping this in mind, Election related tweets has been extracted from twitter between the timeline from 1 January 2019 to 23 May 2019. Use of popular keywords and hashtags were made that were trending at the time of campaign. Also used the usernames of the political leaders and political parties. \n&gt;Hashtags - #LokSabhaElections2019, #IndianElection2019, #NarendraModi, #RahulGandhi, #BJP, #INC\n&gt;Keywords - Jobs, Religion, National Security, Agriculture, employment, Demonetisation\n\nBetween the same timeline tweets from Narendra Modi & Rahul Gandhi are also collected extracted with some constraints to maintain the relevant to election. \nOnly Tweets written in English are collected hence total tweets count is lower than expected. The data is collected and then cleaned so as to get unique tweets\nData contains: \n&gt;Date - timestamp of the tweet being public.\n&gt;Tweet - full text tweet by user \n&gt;User - Twitter username of user of which the tweet belongs to\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "politics",
+    "beginner",
+    "text",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

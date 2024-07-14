@@ -1,0 +1,43 @@
+{
+  "id": "dataindia/indian-restaraunt-numbers-data",
+  "id_no": 928607,
+  "datasetSlugNullable": "indian-restaraunt-numbers-data",
+  "ownerUserNullable": "dataindia",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Indian_Restaraunt_Numbers_Data",
+  "subtitleNullable": "Data describes about the number of visitors visiting a leading Indian Restaurant",
+  "descriptionNullable": "### Context\n\nThis data describes about the number of visitors visiting a leading Indian Restaurant chain in the northern part of India. We hope you guys analyse, learn, find, forecast, and find interesting real-world insights from this data.\n\n### Content\n\nThe actual name of the restaurant has been masked to prevent privacy concerns. All regulatory permissions and considerations have been taken before publishing this dataset. Please note that this dataset is only to be used for academic and research purposes only. Prior consent is required before the commercial use of this data\n\n\n### Acknowledgements\nWe would like to thank Zomato, Yelp, and the Ministry of Tourism using which this dataset was prepared.\n\nFor more information on Zomato API and Zomato API key\n\u2022 Visit : https://developers.zomato.com/api#headline1\n\u2022 Data Collection: https://developers.zomato.com/documentation",
+  "datasetId": 928607,
+  "datasetSlug": "indian-restaraunt-numbers-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "dataindia",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 2981,
+  "totalVotes": 6,
+  "totalDownloads": 236,
+  "title": "Indian_Restaraunt_Numbers_Data",
+  "hasTitle": true,
+  "subtitle": "Data describes about the number of visitors visiting a leading Indian Restaurant",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data describes about the number of visitors visiting a leading Indian Restaurant chain in the northern part of India. We hope you guys analyse, learn, find, forecast, and find interesting real-world insights from this data.\n\n### Content\n\nThe actual name of the restaurant has been masked to prevent privacy concerns. All regulatory permissions and considerations have been taken before publishing this dataset. Please note that this dataset is only to be used for academic and research purposes only. Prior consent is required before the commercial use of this data\n\n\n### Acknowledgements\nWe would like to thank Zomato, Yelp, and the Ministry of Tourism using which this dataset was prepared.\n\nFor more information on Zomato API and Zomato API key\n\u2022 Visit : https://developers.zomato.com/api#headline1\n\u2022 Data Collection: https://developers.zomato.com/documentation",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "time series analysis",
+    "survey analysis",
+    "cooking and recipes",
+    "restaurants"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

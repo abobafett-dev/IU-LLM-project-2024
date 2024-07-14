@@ -1,0 +1,41 @@
+{
+  "id": "tiwill/saham-idx",
+  "id_no": 1111924,
+  "datasetSlugNullable": "saham-idx",
+  "ownerUserNullable": "tiwill",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Pergerakan Saham di Bursa Efek Indonesia",
+  "subtitleNullable": "Pergerakan saham-saham di Bursa Efek Indonesia",
+  "descriptionNullable": "### Konten\n\nDataset ini merupakan data pergerakan harga saham tiap harinya di Bursa Efek Indonesia. Seluruh informasi emiten diambil dengan pergerakannya sejak 29 Juli 2019. Baca status update data di [sini](https://github.com/wildangunawan/Dataset-Saham-IDX).\n\n\n### Kepemilikan Data\n\nSeluruh data yang berada di sini merupakan milik PT Bursa Efek Indonesia. Sesuai dengan ketentuan PT Bursa Efek Indonesia, data ini tidak boleh digunakan untuk kepentingan komersial. Kreator dataset tidak bertanggung jawab apabila pengguna dataset tidak mematuhi peraturan ini dan tidak dapat dituntut secara hukum.\n\n### Frekuensi Update\n\nBerhubung Kaggle API tidak support untuk upload folder maka saya tidak dapat mengupload data secara otomatis ke Kaggle setiap harinya. Saya harus secara manual mengklik \"Update\" di dataset saya agar Kaggle memfetch otomatis data dari Github atau menggunakan auto fetch yang paling cepat hanya seminggu sekali.\n\nOleh karena itu, untuk Kaggle, saya memutuskan untuk menggunakan fitur auto fetch tersebut. Untuk tetap dapat menggunakan dataset paling terbaru, silakan kunjungi [projek ini](https://github.com/wildangunawan/Dataset-Saham-IDX) di Github saya.",
+  "datasetId": 1111924,
+  "datasetSlug": "saham-idx",
+  "hasDatasetSlug": true,
+  "ownerUser": "tiwill",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 28324,
+  "totalVotes": 80,
+  "totalDownloads": 3051,
+  "title": "Pergerakan Saham di Bursa Efek Indonesia",
+  "hasTitle": true,
+  "subtitle": "Pergerakan saham-saham di Bursa Efek Indonesia",
+  "hasSubtitle": true,
+  "description": "### Konten\n\nDataset ini merupakan data pergerakan harga saham tiap harinya di Bursa Efek Indonesia. Seluruh informasi emiten diambil dengan pergerakannya sejak 29 Juli 2019. Baca status update data di [sini](https://github.com/wildangunawan/Dataset-Saham-IDX).\n\n\n### Kepemilikan Data\n\nSeluruh data yang berada di sini merupakan milik PT Bursa Efek Indonesia. Sesuai dengan ketentuan PT Bursa Efek Indonesia, data ini tidak boleh digunakan untuk kepentingan komersial. Kreator dataset tidak bertanggung jawab apabila pengguna dataset tidak mematuhi peraturan ini dan tidak dapat dituntut secara hukum.\n\n### Frekuensi Update\n\nBerhubung Kaggle API tidak support untuk upload folder maka saya tidak dapat mengupload data secara otomatis ke Kaggle setiap harinya. Saya harus secara manual mengklik \"Update\" di dataset saya agar Kaggle memfetch otomatis data dari Github atau menggunakan auto fetch yang paling cepat hanya seminggu sekali.\n\nOleh karena itu, untuk Kaggle, saya memutuskan untuk menggunakan fitur auto fetch tersebut. Untuk tetap dapat menggunakan dataset paling terbaru, silakan kunjungi [projek ini](https://github.com/wildangunawan/Dataset-Saham-IDX) di Github saya.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "economics",
+    "beginner",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

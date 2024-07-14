@@ -1,0 +1,43 @@
+{
+  "id": "robertocarlosmendoza/normdata",
+  "id_no": 3269574,
+  "datasetSlugNullable": "normdata",
+  "ownerUserNullable": "robertocarlosmendoza",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Pre-processed Spanish-lang suicide tendency texts",
+  "subtitleNullable": "suicidal and non-suicidal categories ",
+  "descriptionNullable": "The dataset is used to analyze suicidal tendencies in texts, the original dataset is in English, messages extracted from different social networks such as twitter and reddit.\nthe dataset was cleaned up by removing special characters, double spacing, stopwords and normalized with lemmatization\n\nContent\nThe dataset is a collection of posts from the \"SuicideWatch\" and \"depression\" subreddits of the Reddit platform. The posts are collected using Pushshift API. All posts that were made to \"SuicideWatch\" from Dec 16, 2008(creation) till Jan 2, 2021, were collected while \"depression\" posts were collected from Jan 1, 2009, to Jan 2, 2021. All posts collected from SuicideWatch are labeled as suicide, While posts collected from the depression subreddit are labeled as depression. Non-suicide posts are collected from r/teenagers.\n\nDataset original version https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch",
+  "datasetId": 3269574,
+  "datasetSlug": "normdata",
+  "hasDatasetSlug": true,
+  "ownerUser": "robertocarlosmendoza",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 626,
+  "totalVotes": 6,
+  "totalDownloads": 74,
+  "title": "Pre-processed Spanish-lang suicide tendency texts",
+  "hasTitle": true,
+  "subtitle": "suicidal and non-suicidal categories ",
+  "hasSubtitle": true,
+  "description": "The dataset is used to analyze suicidal tendencies in texts, the original dataset is in English, messages extracted from different social networks such as twitter and reddit.\nthe dataset was cleaned up by removing special characters, double spacing, stopwords and normalized with lemmatization\n\nContent\nThe dataset is a collection of posts from the \"SuicideWatch\" and \"depression\" subreddits of the Reddit platform. The posts are collected using Pushshift API. All posts that were made to \"SuicideWatch\" from Dec 16, 2008(creation) till Jan 2, 2021, were collected while \"depression\" posts were collected from Jan 1, 2009, to Jan 2, 2021. All posts collected from SuicideWatch are labeled as suicide, While posts collected from the depression subreddit are labeled as depression. Non-suicide posts are collected from r/teenagers.\n\nDataset original version https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "data cleaning",
+    "nlp",
+    "feature engineering",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

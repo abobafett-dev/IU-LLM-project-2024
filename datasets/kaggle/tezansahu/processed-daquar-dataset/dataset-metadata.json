@@ -1,0 +1,43 @@
+{
+  "id": "tezansahu/processed-daquar-dataset",
+  "id_no": 1876338,
+  "datasetSlugNullable": "processed-daquar-dataset",
+  "ownerUserNullable": "tezansahu",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "DAQUAR Dataset (Processed) for VQA",
+  "subtitleNullable": "DAtaset for QUestion Answering on Real-world images",
+  "descriptionNullable": "### Context\n\nThe first significant Visual Question Answering (VQA) dataset was the[ DAtaset for QUestion Answering on Real-world images (DAQUAR)](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/visual-turing-challenge/). It contains 6794 training and 5674 test question-answer pairs, based on images from the NYU-Depth V2 Dataset. That means about 9 pairs per image on average.\n\nThis dataset is a processed version of the Full DAQUAR Dataset where the questions have been normalized (for easier consumption by tokenizers) & the image IDs, questions & answers are stored in a tabular (CSV) format, which can be loaded & used as-is for training VQA models.\n\n\n### Content\n\nThis dataset contains the processed DAQUAR Dataset (full), along with some of the raw files from the original dataset.\n\nProcessed data:\n- `data.csv`: This is the processed dataset after normalizing all the questions & converting the {question, answer, image_id} data into a tabular format for easier consumption.\n- `data_train.csv`: This contains those records from data.csv which correspond to images present in `train_images_list.txt`\n- `data_eval.csv`: This contains those records from data.csv which correspond to images present in `test_images_list.txt`\n- `answer_space.txt`: This file contains a list of all possible answers extracted from `all_qa_pairs.txt` _(This will allow the VQA task to be modelled as a multi-class classification problem)_\n\nRaw files:\n- `all_qa_pairs.txt`\n- `train_images_list.txt`\n- `test_images_list.txt`\n\n### Acknowledgements\n\nMalinowski, Mateusz, and Mario Fritz. \"A multi-world approach to question answering about real-world scenes based on uncertain input.\" Advances in neural information processing systems 27 (2014): 1682-1690.\n\n",
+  "datasetId": 1876338,
+  "datasetSlug": "processed-daquar-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tezansahu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 5439,
+  "totalVotes": 5,
+  "totalDownloads": 684,
+  "title": "DAQUAR Dataset (Processed) for VQA",
+  "hasTitle": true,
+  "subtitle": "DAtaset for QUestion Answering on Real-world images",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe first significant Visual Question Answering (VQA) dataset was the[ DAtaset for QUestion Answering on Real-world images (DAQUAR)](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/visual-turing-challenge/). It contains 6794 training and 5674 test question-answer pairs, based on images from the NYU-Depth V2 Dataset. That means about 9 pairs per image on average.\n\nThis dataset is a processed version of the Full DAQUAR Dataset where the questions have been normalized (for easier consumption by tokenizers) & the image IDs, questions & answers are stored in a tabular (CSV) format, which can be loaded & used as-is for training VQA models.\n\n\n### Content\n\nThis dataset contains the processed DAQUAR Dataset (full), along with some of the raw files from the original dataset.\n\nProcessed data:\n- `data.csv`: This is the processed dataset after normalizing all the questions & converting the {question, answer, image_id} data into a tabular format for easier consumption.\n- `data_train.csv`: This contains those records from data.csv which correspond to images present in `train_images_list.txt`\n- `data_eval.csv`: This contains those records from data.csv which correspond to images present in `test_images_list.txt`\n- `answer_space.txt`: This file contains a list of all possible answers extracted from `all_qa_pairs.txt` _(This will allow the VQA task to be modelled as a multi-class classification problem)_\n\nRaw files:\n- `all_qa_pairs.txt`\n- `train_images_list.txt`\n- `test_images_list.txt`\n\n### Acknowledgements\n\nMalinowski, Mateusz, and Mario Fritz. \"A multi-world approach to question answering about real-world scenes based on uncertain input.\" Advances in neural information processing systems 27 (2014): 1682-1690.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "nlp",
+    "computer vision",
+    "tabular",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

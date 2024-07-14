@@ -1,0 +1,42 @@
+{
+  "id": "ceshine/third-eye-data-tv-news-archive-chyrons",
+  "id_no": 165580,
+  "datasetSlugNullable": "third-eye-data-tv-news-archive-chyrons",
+  "ownerUserNullable": "ceshine",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Third Eye Data: TV News Archive chyrons",
+  "subtitleNullable": "Chyrons from BBC News, CNN, Fox News, and MSNBC",
+  "descriptionNullable": "This is a direct clone of [Third Eye Data: TV News Archive chyrons](https://archive.org/details/third-eye) from archive.org.\n\n## Introduction\n\nThe TV News Archive's Third Eye project captures the chyrons\u2013or narrative text\u2013that appear on the lower third of TV news screens and turns them into downloadable data and a Twitter feed for research, journalism, online tools, and other projects. At project launch (September 2017) we are collecting chyrons from BBC News, CNN, Fox News, and MSNBC\u2013more than four million collected over just two weeks. Chyrons have public value because:\n\n  *  Breaking news often appears on chyrons before TV newscasters begin reporting or video is available, whether it's a hurricane or a breaking political story.\n  *  Which chyrons a TV news network chooses to display can reveal editorial decisions that can inform public understanding of how news is filtered for different audiences.\n  *  Providing chyrons as data\u2013and also on Twitter\u2013in near real-time can serve as a alert system, showing how TV news stations are reporting the news. Often the chyrons are ahead of the general conversation on Twitter.\n\n## Data Source\n\nThe work of the Internet Archive's TV architect Tracey Jaquith, the Third Eye project **applies OCR** to the \"lower thirds\" of TV cable news screens to capture the text that appears there. The chyrons are not captions, which provide the text for what people are saying on screen, but rather are text narrative that accompanies news broadcasts.\n\n### Filtering\n\nCreated in real-time by TV news editors, chyrons sometimes include misspellings. The OCR process also frequently adds another element where text is not rendered correctly, leading to entries that may be garbled. To make sense out of the noise, Jaquith applies algorithms that choose the most representative chyrons from each channel collected over 60-second increments. This cleaned-up feed is what fuels the Twitter bots that post which chyrons are appearing on TV news screens. \n\n**This Kaggle dataset only provides data from the filtered feed.**\n\n## Data Notes\n\n*  Dates/times are in UTC (Coordinated Universal Time).\n*  \"Duration\" column is in seconds\u2013the amount of time that particular chyron appeared on the screen.\n*  To view clips in context on the TV News Archive, paste \"https://archive.org/details/\" before the field that begins with a channel name. For example, \"FOXNEWSW_20170919_100000_FOX__Friends/start/792\" becomes \"https://archive.org/details/FOXNEWSW_20170919_100000_FOX__Friends/start/792\"",
+  "datasetId": 165580,
+  "datasetSlug": "third-eye-data-tv-news-archive-chyrons",
+  "hasDatasetSlug": true,
+  "ownerUser": "ceshine",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 3650,
+  "totalVotes": 4,
+  "totalDownloads": 64,
+  "title": "Third Eye Data: TV News Archive chyrons",
+  "hasTitle": true,
+  "subtitle": "Chyrons from BBC News, CNN, Fox News, and MSNBC",
+  "hasSubtitle": true,
+  "description": "This is a direct clone of [Third Eye Data: TV News Archive chyrons](https://archive.org/details/third-eye) from archive.org.\n\n## Introduction\n\nThe TV News Archive's Third Eye project captures the chyrons\u2013or narrative text\u2013that appear on the lower third of TV news screens and turns them into downloadable data and a Twitter feed for research, journalism, online tools, and other projects. At project launch (September 2017) we are collecting chyrons from BBC News, CNN, Fox News, and MSNBC\u2013more than four million collected over just two weeks. Chyrons have public value because:\n\n  *  Breaking news often appears on chyrons before TV newscasters begin reporting or video is available, whether it's a hurricane or a breaking political story.\n  *  Which chyrons a TV news network chooses to display can reveal editorial decisions that can inform public understanding of how news is filtered for different audiences.\n  *  Providing chyrons as data\u2013and also on Twitter\u2013in near real-time can serve as a alert system, showing how TV news stations are reporting the news. Often the chyrons are ahead of the general conversation on Twitter.\n\n## Data Source\n\nThe work of the Internet Archive's TV architect Tracey Jaquith, the Third Eye project **applies OCR** to the \"lower thirds\" of TV cable news screens to capture the text that appears there. The chyrons are not captions, which provide the text for what people are saying on screen, but rather are text narrative that accompanies news broadcasts.\n\n### Filtering\n\nCreated in real-time by TV news editors, chyrons sometimes include misspellings. The OCR process also frequently adds another element where text is not rendered correctly, leading to entries that may be garbled. To make sense out of the noise, Jaquith applies algorithms that choose the most representative chyrons from each channel collected over 60-second increments. This cleaned-up feed is what fuels the Twitter bots that post which chyrons are appearing on TV news screens. \n\n**This Kaggle dataset only provides data from the filtered feed.**\n\n## Data Notes\n\n*  Dates/times are in UTC (Coordinated Universal Time).\n*  \"Duration\" column is in seconds\u2013the amount of time that particular chyron appeared on the screen.\n*  To view clips in context on the TV News Archive, paste \"https://archive.org/details/\" before the field that begins with a channel name. For example, \"FOXNEWSW_20170919_100000_FOX__Friends/start/792\" becomes \"https://archive.org/details/FOXNEWSW_20170919_100000_FOX__Friends/start/792\"",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "health",
+    "nlp",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "rootuser/worldnews-on-reddit",
+  "id_no": 415,
+  "datasetSlugNullable": "worldnews-on-reddit",
+  "ownerUserNullable": "rootuser",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Worldnews on Reddit from 2008 to Today",
+  "subtitleNullable": "Perfect for NLP or other tasks",
+  "descriptionNullable": "Reddit is a social network which divide topics into so called 'subreddits'.\n\nIn subreddit 'worldnews', news of the whole world are published. The dataset contains following columns:\ntime_created - a Unix timestamp of the submission creation date\ndate_created - creation time in %Y-%m-%d\nup_votes - how often the submission was upvoted\ndown_votes - how often the submission was downvoted\ntitle - the title of the submission\nover_18 - if the submission is for mature persons\nauthor - the reddit username of the author\nsubreddit - this is always 'worldnews'\n\nWith the dataset, you can estimate several things in contrast to world politics and special events.",
+  "datasetId": 415,
+  "datasetSlug": "worldnews-on-reddit",
+  "hasDatasetSlug": true,
+  "ownerUser": "rootuser",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 57332,
+  "totalVotes": 65,
+  "totalDownloads": 3975,
+  "title": "Worldnews on Reddit from 2008 to Today",
+  "hasTitle": true,
+  "subtitle": "Perfect for NLP or other tasks",
+  "hasSubtitle": true,
+  "description": "Reddit is a social network which divide topics into so called 'subreddits'.\n\nIn subreddit 'worldnews', news of the whole world are published. The dataset contains following columns:\ntime_created - a Unix timestamp of the submission creation date\ndate_created - creation time in %Y-%m-%d\nup_votes - how often the submission was upvoted\ndown_votes - how often the submission was downvoted\ntitle - the title of the submission\nover_18 - if the submission is for mature persons\nauthor - the reddit username of the author\nsubreddit - this is always 'worldnews'\n\nWith the dataset, you can estimate several things in contrast to world politics and special events.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "linguistics",
+    "psychology",
+    "internet",
+    "news",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

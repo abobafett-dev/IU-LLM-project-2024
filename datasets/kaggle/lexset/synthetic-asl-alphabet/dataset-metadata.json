@@ -1,0 +1,43 @@
+{
+  "id": "lexset/synthetic-asl-alphabet",
+  "id_no": 2275641,
+  "datasetSlugNullable": "synthetic-asl-alphabet",
+  "ownerUserNullable": "lexset",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Synthetic ASL Alphabet",
+  "subtitleNullable": "Synthetic image dataset of alphabet in American Sign Language",
+  "descriptionNullable": "This dataset created by [Lexset] (https://www.lexset.ai/) contains 27000 images of the alphabet signed in American Sign Language. Each image is 512 x 512. The data is separated into a training and testing set. Within each set, there are 27 folders, one for each letter and an extra folder of random backgrounds. Each training folder contains 900 examples while each testing folder contains 100 examples.\n\nThese images were created using Lexset's synthetic data generation platform Seahaven: https://seahaven.lexset.ai/\n\nThe sister data of synthetic asl-number signs can be found [here](https://www.kaggle.com/datasets/lexset/synthetic-asl-numbers)\n",
+  "datasetId": 2275641,
+  "datasetSlug": "synthetic-asl-alphabet",
+  "hasDatasetSlug": true,
+  "ownerUser": "lexset",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 11475,
+  "totalVotes": 38,
+  "totalDownloads": 1793,
+  "title": "Synthetic ASL Alphabet",
+  "hasTitle": true,
+  "subtitle": "Synthetic image dataset of alphabet in American Sign Language",
+  "hasSubtitle": true,
+  "description": "This dataset created by [Lexset] (https://www.lexset.ai/) contains 27000 images of the alphabet signed in American Sign Language. Each image is 512 x 512. The data is separated into a training and testing set. Within each set, there are 27 folders, one for each letter and an extra folder of random backgrounds. Each training folder contains 900 examples while each testing folder contains 100 examples.\n\nThese images were created using Lexset's synthetic data generation platform Seahaven: https://seahaven.lexset.ai/\n\nThe sister data of synthetic asl-number signs can be found [here](https://www.kaggle.com/datasets/lexset/synthetic-asl-numbers)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "healthcare",
+    "computer vision",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

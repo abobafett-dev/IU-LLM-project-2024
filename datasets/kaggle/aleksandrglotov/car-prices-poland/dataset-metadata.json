@@ -1,0 +1,45 @@
+{
+  "id": "aleksandrglotov/car-prices-poland",
+  "id_no": 1878058,
+  "datasetSlugNullable": "car-prices-poland",
+  "ownerUserNullable": "aleksandrglotov",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Car Prices Poland",
+  "subtitleNullable": "Predict sale prices for cars in Poland ",
+  "descriptionNullable": "Hello\nI am a Python developer and train the ability to parse, analyze data and create neural networks. I decided to share the dataset I'm currently working with. Maybe it will be useful to someone. Why a car? I love cars! As well as programming. If you are interested in me as a specialist, please contact me glotoffalexandr@gmail.com (I'm looking for a new job)\n\nThe dataset was assembled in January 2022. Data from a well-known car sale site in Poland (which is public). Selenium and request were used for parsing (python of course)\n\nThe dataset contains information about the make, model, generation, year of production, mileage, engine type and volume, localization and price\n\nI have ideas for expanding the model: add body type, configuration, color, power, etc.\n\nI see many ways to use models created on the basis of this dataset, I will describe them in notebooks",
+  "datasetId": 1878058,
+  "datasetSlug": "car-prices-poland",
+  "hasDatasetSlug": true,
+  "ownerUser": "aleksandrglotov",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 26331,
+  "totalVotes": 58,
+  "totalDownloads": 4518,
+  "title": "Car Prices Poland",
+  "hasTitle": true,
+  "subtitle": "Predict sale prices for cars in Poland ",
+  "hasSubtitle": true,
+  "description": "Hello\nI am a Python developer and train the ability to parse, analyze data and create neural networks. I decided to share the dataset I'm currently working with. Maybe it will be useful to someone. Why a car? I love cars! As well as programming. If you are interested in me as a specialist, please contact me glotoffalexandr@gmail.com (I'm looking for a new job)\n\nThe dataset was assembled in January 2022. Data from a well-known car sale site in Poland (which is public). Selenium and request were used for parsing (python of course)\n\nThe dataset contains information about the make, model, generation, year of production, mileage, engine type and volume, localization and price\n\nI have ideas for expanding the model: add body type, configuration, color, power, etc.\n\nI see many ways to use models created on the basis of this dataset, I will describe them in notebooks",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "europe",
+    "computer science",
+    "programming",
+    "automobiles and vehicles",
+    "deep learning",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

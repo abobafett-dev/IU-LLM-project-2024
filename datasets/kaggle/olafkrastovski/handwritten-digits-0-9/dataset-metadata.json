@@ -1,0 +1,43 @@
+{
+  "id": "olafkrastovski/handwritten-digits-0-9",
+  "id_no": 2692213,
+  "datasetSlugNullable": "handwritten-digits-0-9",
+  "ownerUserNullable": "olafkrastovski",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Handwritten Digits 0 - 9",
+  "subtitleNullable": "European (Swiss) handwritten digits 90x140px",
+  "descriptionNullable": "Since the MNIST dataset contains only American style numbers, it is difficult to classify isolated numbers (especially 1 and 7). This dataset contains about 21,600 numbers from 0 - 9 in European (Swiss) notation. The single images are in full color .jpg with a size of 90x140px. It is possible that from time to time a small black border exists in the numbers. Please take this into account in your evaluations. \nhave fun :-)\n",
+  "datasetId": 2692213,
+  "datasetSlug": "handwritten-digits-0-9",
+  "hasDatasetSlug": true,
+  "ownerUser": "olafkrastovski",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 5282,
+  "totalVotes": 18,
+  "totalDownloads": 1119,
+  "title": "Handwritten Digits 0 - 9",
+  "hasTitle": true,
+  "subtitle": "European (Swiss) handwritten digits 90x140px",
+  "hasSubtitle": true,
+  "description": "Since the MNIST dataset contains only American style numbers, it is difficult to classify isolated numbers (especially 1 and 7). This dataset contains about 21,600 numbers from 0 - 9 in European (Swiss) notation. The single images are in full color .jpg with a size of 90x140px. It is possible that from time to time a small black border exists in the numbers. Please take this into account in your evaluations. \nhave fun :-)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "europe",
+    "computer science",
+    "classification",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

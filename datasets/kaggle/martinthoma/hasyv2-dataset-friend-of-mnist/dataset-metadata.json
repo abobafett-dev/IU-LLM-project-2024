@@ -1,0 +1,48 @@
+{
+  "id": "martinthoma/hasyv2-dataset-friend-of-mnist",
+  "id_no": 1916,
+  "datasetSlugNullable": "hasyv2-dataset-friend-of-mnist",
+  "ownerUserNullable": "martinthoma",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "HASYv2  Dataset ( Friend Of MNIST)",
+  "subtitleNullable": "Computer Vision and Pattern Recognition",
+  "descriptionNullable": "**Brief Description**\n\nHandwritten mathematical symbols\n\n**Preprocessing**\n\nAll symbols are centered and of size 32px x 32px.\n\n**Instances**\n\n168233\n\n**Format**\n\nImages and Text\n\n**Default Task**\n\nClassification\n\n**Reference**\n\nThis paper describes the HASYv2 dataset. HASY is a publicly available, free of charge dataset of single symbols similar to MNIST. It contains 168233 instances of 369 classes. HASY contains two challenges: A classification challenge with 10 pre-defined folds for 10-fold cross-validation and a verification challenge. \n\nThe HASYv2 dataset (PDF Download Available). Available from: https://arxiv.org/pdf/1701.08380.pdf [accessed Aug 11, 2017].\n\n**Creator**\n\nMartin Thoma",
+  "datasetId": 1916,
+  "datasetSlug": "hasyv2-dataset-friend-of-mnist",
+  "hasDatasetSlug": true,
+  "ownerUser": "martinthoma",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 8379,
+  "totalVotes": 16,
+  "totalDownloads": 556,
+  "title": "HASYv2  Dataset ( Friend Of MNIST)",
+  "hasTitle": true,
+  "subtitle": "Computer Vision and Pattern Recognition",
+  "hasSubtitle": true,
+  "description": "**Brief Description**\n\nHandwritten mathematical symbols\n\n**Preprocessing**\n\nAll symbols are centered and of size 32px x 32px.\n\n**Instances**\n\n168233\n\n**Format**\n\nImages and Text\n\n**Default Task**\n\nClassification\n\n**Reference**\n\nThis paper describes the HASYv2 dataset. HASY is a publicly available, free of charge dataset of single symbols similar to MNIST. It contains 168233 instances of 369 classes. HASY contains two challenges: A classification challenge with 10 pre-defined folds for 10-fold cross-validation and a verification challenge. \n\nThe HASYv2 dataset (PDF Download Available). Available from: https://arxiv.org/pdf/1701.08380.pdf [accessed Aug 11, 2017].\n\n**Creator**\n\nMartin Thoma",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social science",
+    "computer science",
+    "image",
+    "multiclass classification",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "adityaecdrid",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

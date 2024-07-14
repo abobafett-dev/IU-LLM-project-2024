@@ -1,0 +1,43 @@
+{
+  "id": "dp5995/gym-exercise-mediapipe-33-landmarks",
+  "id_no": 3314599,
+  "datasetSlugNullable": "gym-exercise-mediapipe-33-landmarks",
+  "ownerUserNullable": "dp5995",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Multi-Class Exercise Poses for Human Skeleton",
+  "subtitleNullable": "An In-Depth Analysis of Human Skeleton Movements in Exercise Poses",
+  "descriptionNullable": "This comprehensive exercise pose dataset consists of 2701 rows and 133 columns, providing valuable insights into human skeleton movements during various exercises. With a focus on analyzing different exercise poses, the dataset encompasses seven distinct classes: Rest, Left Bicep, Right Bicep, Left Shoulder, Right Shoulder, Left Tricep, and Right Tricep.\n\nEach row corresponds to a specific exercise, while the columns represent different aspects of the human skeleton model. The dataset captures the coordinates (X, Y, Z), and visibility values of 33 landmarks, resulting in a total of 132 values per exercise. These landmarks serve as key reference points to evaluate body positions and movements accurately.\n\nThe dataset is invaluable for researchers, data scientists, and fitness enthusiasts seeking to understand human skeleton kinetics during exercise routines. It enables comprehensive analysis of body posture, movement patterns, and joint angles, facilitating in-depth insights into exercise performance and form.\n\nThis dataset is an ideal resource for machine learning enthusiasts who wish to develop and evaluate models for exercise pose recognition, gesture analysis, and exercise tracking systems. The rich annotation and class labels make it suitable for tasks such as activity recognition, pose estimation, and exercise recommendation systems.\n\nBy contributing this dataset to Kaggle, I aim to foster collaboration, knowledge sharing, and further advancements in the analysis of human skeleton movements. Researchers and data scientists can leverage this dataset to devise innovative approaches and algorithms to improve fitness monitoring, performance tracking, and personalized exercise guidance.",
+  "datasetId": 3314599,
+  "datasetSlug": "gym-exercise-mediapipe-33-landmarks",
+  "hasDatasetSlug": true,
+  "ownerUser": "dp5995",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 1884,
+  "totalVotes": 6,
+  "totalDownloads": 176,
+  "title": "Multi-Class Exercise Poses for Human Skeleton",
+  "hasTitle": true,
+  "subtitle": "An In-Depth Analysis of Human Skeleton Movements in Exercise Poses",
+  "hasSubtitle": true,
+  "description": "This comprehensive exercise pose dataset consists of 2701 rows and 133 columns, providing valuable insights into human skeleton movements during various exercises. With a focus on analyzing different exercise poses, the dataset encompasses seven distinct classes: Rest, Left Bicep, Right Bicep, Left Shoulder, Right Shoulder, Left Tricep, and Right Tricep.\n\nEach row corresponds to a specific exercise, while the columns represent different aspects of the human skeleton model. The dataset captures the coordinates (X, Y, Z), and visibility values of 33 landmarks, resulting in a total of 132 values per exercise. These landmarks serve as key reference points to evaluate body positions and movements accurately.\n\nThe dataset is invaluable for researchers, data scientists, and fitness enthusiasts seeking to understand human skeleton kinetics during exercise routines. It enables comprehensive analysis of body posture, movement patterns, and joint angles, facilitating in-depth insights into exercise performance and form.\n\nThis dataset is an ideal resource for machine learning enthusiasts who wish to develop and evaluate models for exercise pose recognition, gesture analysis, and exercise tracking systems. The rich annotation and class labels make it suitable for tasks such as activity recognition, pose estimation, and exercise recommendation systems.\n\nBy contributing this dataset to Kaggle, I aim to foster collaboration, knowledge sharing, and further advancements in the analysis of human skeleton movements. Researchers and data scientists can leverage this dataset to devise innovative approaches and algorithms to improve fitness monitoring, performance tracking, and personalized exercise guidance.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exercise",
+    "intermediate",
+    "computer vision",
+    "classification",
+    "decision tree"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

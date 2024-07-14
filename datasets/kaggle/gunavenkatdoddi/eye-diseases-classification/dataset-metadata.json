@@ -1,0 +1,41 @@
+{
+  "id": "gunavenkatdoddi/eye-diseases-classification",
+  "id_no": 2440665,
+  "datasetSlugNullable": "eye-diseases-classification",
+  "ownerUserNullable": "gunavenkatdoddi",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "eye_diseases_classification",
+  "subtitleNullable": "Eye Disease Retinal Images",
+  "descriptionNullable": "The dataset consists of Normal, Diabetic Retinopathy, Cataract and Glaucoma retinal images where each class have approximately 1000 images. These images are collected from various sorces like IDRiD, Oculur recognition, HRF etc.",
+  "datasetId": 2440665,
+  "datasetSlug": "eye-diseases-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "gunavenkatdoddi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 61067,
+  "totalVotes": 106,
+  "totalDownloads": 10829,
+  "title": "eye_diseases_classification",
+  "hasTitle": true,
+  "subtitle": "Eye Disease Retinal Images",
+  "hasSubtitle": true,
+  "description": "The dataset consists of Normal, Diabetic Retinopathy, Cataract and Glaucoma retinal images where each class have approximately 1000 images. These images are collected from various sorces like IDRiD, Oculur recognition, HRF etc.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "image",
+    "eyes and vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

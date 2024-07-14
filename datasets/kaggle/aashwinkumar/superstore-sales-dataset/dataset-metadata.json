@@ -1,0 +1,39 @@
+{
+  "id": "aashwinkumar/superstore-sales-dataset",
+  "id_no": 4751087,
+  "datasetSlugNullable": "superstore-sales-dataset",
+  "ownerUserNullable": "aashwinkumar",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Superstore Sales DataSet",
+  "subtitleNullable": "",
+  "descriptionNullable": "**Superstore Sales Dataset**\n\n**Overview**:\nThe Superstore Sales dataset provides comprehensive sales data for multiple products sold by a retail superstore. This dataset is suitable for exploring various aspects of sales analysis, including trend analysis, product performance, geographical segmentation, and consumer behavior.\n\n**Key Features:**\n\nSales Data: Includes information on sales transactions, such as order date, order ID, quantity, and sales value.\nProduct Information: Provides details about the products sold, including product category, subcategory, and product ID.\n\nGeographical Segmentation: Contains information on the geographical location of sales, including country, state, and city.\n\nProfit Analysis: Includes data on profits generated from sales transactions, enabling profitability analysis at various levels of granularity.\n\nConsumer Segmentation: Provides insights into consumer behavior and preferences through segmentation variables such as customer ID, segment, and region.\n\n**Potential Use Cases:**\nTime Series Analysis: Explore sales trends over time to identify seasonality, trends, and patterns.\n\nProduct Performance Analysis: Analyze the performance of different product categories and subcategories to identify top-selling products and opportunities for growth.\n\nGeographic Analysis: Understand regional variations in sales performance and consumer behavior to optimize marketing strategies and inventory management.\n\nCustomer Segmentation: Segment customers based on purchasing behavior and demographics to tailor marketing campaigns and improve customer retention.\n\n**Dataset Information:**\n\nSource: https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset\nFormat: CSV (Comma-Separated Values)\nSize: 2.17 MB\nColumns: order_id, order_date, ship_date,\tship_mode, customer_name, segment, state, country, market, region\tproduct_id, category, sub_category, product_name, sales, quantity, discount, profit, shipping_cost\t, order_priority, year\n\n**License:**\nThe dataset is available under the Apache 2.0. Please refer to the dataset source for licensing details.\n\n\n**Acknowledgments:**\nWe acknowledge the contributors and creators of the Superstore Sales dataset for making it publicly available for analysis and research purposes.\n\nFind the URL of My GitHub repository where the project is hosted. [Superstore Sales Data Dashboard Project](https://github.com/Aashwin-Kumar/Superstore-Sales-Data-Dashboard)",
+  "datasetId": 4751087,
+  "datasetSlug": "superstore-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "aashwinkumar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 229,
+  "totalVotes": 0,
+  "totalDownloads": 34,
+  "title": "Superstore Sales DataSet",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "**Superstore Sales Dataset**\n\n**Overview**:\nThe Superstore Sales dataset provides comprehensive sales data for multiple products sold by a retail superstore. This dataset is suitable for exploring various aspects of sales analysis, including trend analysis, product performance, geographical segmentation, and consumer behavior.\n\n**Key Features:**\n\nSales Data: Includes information on sales transactions, such as order date, order ID, quantity, and sales value.\nProduct Information: Provides details about the products sold, including product category, subcategory, and product ID.\n\nGeographical Segmentation: Contains information on the geographical location of sales, including country, state, and city.\n\nProfit Analysis: Includes data on profits generated from sales transactions, enabling profitability analysis at various levels of granularity.\n\nConsumer Segmentation: Provides insights into consumer behavior and preferences through segmentation variables such as customer ID, segment, and region.\n\n**Potential Use Cases:**\nTime Series Analysis: Explore sales trends over time to identify seasonality, trends, and patterns.\n\nProduct Performance Analysis: Analyze the performance of different product categories and subcategories to identify top-selling products and opportunities for growth.\n\nGeographic Analysis: Understand regional variations in sales performance and consumer behavior to optimize marketing strategies and inventory management.\n\nCustomer Segmentation: Segment customers based on purchasing behavior and demographics to tailor marketing campaigns and improve customer retention.\n\n**Dataset Information:**\n\nSource: https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset\nFormat: CSV (Comma-Separated Values)\nSize: 2.17 MB\nColumns: order_id, order_date, ship_date,\tship_mode, customer_name, segment, state, country, market, region\tproduct_id, category, sub_category, product_name, sales, quantity, discount, profit, shipping_cost\t, order_priority, year\n\n**License:**\nThe dataset is available under the Apache 2.0. Please refer to the dataset source for licensing details.\n\n\n**Acknowledgments:**\nWe acknowledge the contributors and creators of the Superstore Sales dataset for making it publicly available for analysis and research purposes.\n\nFind the URL of My GitHub repository where the project is hosted. [Superstore Sales Data Dashboard Project](https://github.com/Aashwin-Kumar/Superstore-Sales-Data-Dashboard)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

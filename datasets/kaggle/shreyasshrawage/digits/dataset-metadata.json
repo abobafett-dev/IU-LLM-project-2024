@@ -1,0 +1,43 @@
+{
+  "id": "shreyasshrawage/digits",
+  "id_no": 1368432,
+  "datasetSlugNullable": "digits",
+  "ownerUserNullable": "shreyasshrawage",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Digits",
+  "subtitleNullable": "digits dataset for classification",
+  "descriptionNullable": "### Context\n\nThis is digits dataset created specifically for beginners to get started with their ML journey.  \n\n\n### Content\n\nDataset consist of digit's images each dimensioned 56 X 56.\nThe images were collected using the javascript dom library p5.js for image classification project made using ml5.js . \n",
+  "datasetId": 1368432,
+  "datasetSlug": "digits",
+  "hasDatasetSlug": true,
+  "ownerUser": "shreyasshrawage",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 1498,
+  "totalVotes": 2,
+  "totalDownloads": 55,
+  "title": "Digits",
+  "hasTitle": true,
+  "subtitle": "digits dataset for classification",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is digits dataset created specifically for beginners to get started with their ML journey.  \n\n\n### Content\n\nDataset consist of digit's images each dimensioned 56 X 56.\nThe images were collected using the javascript dom library p5.js for image classification project made using ml5.js . \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "programming",
+    "beginner",
+    "classification",
+    "image",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "marquis03/bean-leaf-lesions-classification",
+  "id_no": 3953171,
+  "datasetSlugNullable": "bean-leaf-lesions-classification",
+  "ownerUserNullable": "marquis03",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Bean Leaf Lesions Classification",
+  "subtitleNullable": "3 Types of Bean Leaf Lesions Image Classification",
+  "descriptionNullable": "The dataset contains photographs of three legume leaf lesion states, including 1034 images in the training set and 133 images in the calibration set, with a data size of 155 MB. the following leaf lesion states are supported to be recognized: healthy, angular_leaf_spot, and bean_rust.",
+  "datasetId": 3953171,
+  "datasetSlug": "bean-leaf-lesions-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "marquis03",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7180,
+  "totalVotes": 35,
+  "totalDownloads": 1180,
+  "title": "Bean Leaf Lesions Classification",
+  "hasTitle": true,
+  "subtitle": "3 Types of Bean Leaf Lesions Image Classification",
+  "hasSubtitle": true,
+  "description": "The dataset contains photographs of three legume leaf lesion states, including 1034 images in the training set and 133 images in the calibration set, with a data size of 155 MB. the following leaf lesion states are supported to be recognized: healthy, angular_leaf_spot, and bean_rust.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "agriculture",
+    "computer vision",
+    "classification",
+    "image",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

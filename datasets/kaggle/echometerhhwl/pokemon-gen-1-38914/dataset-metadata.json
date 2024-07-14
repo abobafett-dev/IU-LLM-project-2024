@@ -1,0 +1,43 @@
+{
+  "id": "echometerhhwl/pokemon-gen-1-38914",
+  "id_no": 3547344,
+  "datasetSlugNullable": "pokemon-gen-1-38914",
+  "ownerUserNullable": "echometerhhwl",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Gen 1 Pokemon (35k images)",
+  "subtitleNullable": "Very large pokemon dataset with only .jpg and .png files",
+  "descriptionNullable": "A combination of [17000 gen 1 dataset](https://www.kaggle.com/datasets/mikoajkolman/pokemon-images-first-generation17000-files) & [22k gen 1 dataset](https://www.kaggle.com/datasets/bhawks/pokemon-generation-one-22k)\n- contains only .jpg and .png files, although some contains transparency\n- the name of every file is its md5 hash\n- actually contains 35627 images not 38914\n - welp too late to fix that",
+  "datasetId": 3547344,
+  "datasetSlug": "pokemon-gen-1-38914",
+  "hasDatasetSlug": true,
+  "ownerUser": "echometerhhwl",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 930,
+  "totalVotes": 4,
+  "totalDownloads": 132,
+  "title": "Gen 1 Pokemon (35k images)",
+  "hasTitle": true,
+  "subtitle": "Very large pokemon dataset with only .jpg and .png files",
+  "hasSubtitle": true,
+  "description": "A combination of [17000 gen 1 dataset](https://www.kaggle.com/datasets/mikoajkolman/pokemon-images-first-generation17000-files) & [22k gen 1 dataset](https://www.kaggle.com/datasets/bhawks/pokemon-generation-one-22k)\n- contains only .jpg and .png files, although some contains transparency\n- the name of every file is its md5 hash\n- actually contains 35627 images not 38914\n - welp too late to fix that",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "art",
+    "games",
+    "image",
+    "anime and manga",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

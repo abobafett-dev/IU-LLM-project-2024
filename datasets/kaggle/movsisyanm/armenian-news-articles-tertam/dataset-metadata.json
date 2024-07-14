@@ -1,0 +1,40 @@
+{
+  "id": "movsisyanm/armenian-news-articles-tertam",
+  "id_no": 1621383,
+  "datasetSlugNullable": "armenian-news-articles-tertam",
+  "ownerUserNullable": "movsisyanm",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Armenian News Articles - Tert.am",
+  "subtitleNullable": "Scraped from Tert.am, contains the dates, titles, and content of articles.",
+  "descriptionNullable": "Scraped by Mher Movsisyan on 28-29 of September, 2021 from www.tert.am.\nNote: May contain duplicates due to the articles being in two different categories at once.",
+  "datasetId": 1621383,
+  "datasetSlug": "armenian-news-articles-tertam",
+  "hasDatasetSlug": true,
+  "ownerUser": "movsisyanm",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2114,
+  "totalVotes": 10,
+  "totalDownloads": 92,
+  "title": "Armenian News Articles - Tert.am",
+  "hasTitle": true,
+  "subtitle": "Scraped from Tert.am, contains the dates, titles, and content of articles.",
+  "hasSubtitle": true,
+  "description": "Scraped by Mher Movsisyan on 28-29 of September, 2021 from www.tert.am.\nNote: May contain duplicates due to the articles being in two different categories at once.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

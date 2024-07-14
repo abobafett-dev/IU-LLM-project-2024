@@ -1,0 +1,44 @@
+{
+  "id": "taranmarley/market-yield-us-treasury-securities-percent",
+  "id_no": 1937413,
+  "datasetSlugNullable": "market-yield-us-treasury-securities-percent",
+  "ownerUserNullable": "taranmarley",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Market Yield U.S. Treasury Securities (Percent)",
+  "subtitleNullable": "Daily Yield on U.S. Treasury Securities",
+  "descriptionNullable": "United States Treasury securities are government debt instruments issued by the United States Department of the Treasury to finance government spending as an alternative to taxation. This dataset has the measured yield of these instruments by daily percentage measurements at 10 year constant maturity and is not seasonally adjusted. This could be an interesting dataset for time series analysis.\n\nCitation:\nBoard of Governors of the Federal Reserve System (US), Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity [DGS10], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/DGS10, February 15, 2022. \n\nLegal Info on Copyright which is Public Domain (citation Requested):\nhttps://fred.stlouisfed.org/legal/",
+  "datasetId": 1937413,
+  "datasetSlug": "market-yield-us-treasury-securities-percent",
+  "hasDatasetSlug": true,
+  "ownerUser": "taranmarley",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1142,
+  "totalVotes": 2,
+  "totalDownloads": 40,
+  "title": "Market Yield U.S. Treasury Securities (Percent)",
+  "hasTitle": true,
+  "subtitle": "Daily Yield on U.S. Treasury Securities",
+  "hasSubtitle": true,
+  "description": "United States Treasury securities are government debt instruments issued by the United States Department of the Treasury to finance government spending as an alternative to taxation. This dataset has the measured yield of these instruments by daily percentage measurements at 10 year constant maturity and is not seasonally adjusted. This could be an interesting dataset for time series analysis.\n\nCitation:\nBoard of Governors of the Federal Reserve System (US), Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity [DGS10], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/DGS10, February 15, 2022. \n\nLegal Info on Copyright which is Public Domain (citation Requested):\nhttps://fred.stlouisfed.org/legal/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "finance",
+    "banking",
+    "time series analysis",
+    "tabular",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

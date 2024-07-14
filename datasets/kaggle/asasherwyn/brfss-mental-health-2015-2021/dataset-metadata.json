@@ -1,0 +1,42 @@
+{
+  "id": "asasherwyn/brfss-mental-health-2015-2021",
+  "id_no": 2871535,
+  "datasetSlugNullable": "brfss-mental-health-2015-2021",
+  "ownerUserNullable": "asasherwyn",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "BRFSS Mental Health 2015-2021",
+  "subtitleNullable": "US mental health survey data from 2015-2021",
+  "descriptionNullable": "## Context\nThe Behavioral Risk Factor Surveillance System (BRFSS) is the Unites States\u2019s premier system of health-related telephone surveys that collect state data about U.S. residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services. Established in 1984 with 15 states, BRFSS now collects data in all 50 states as well as the District of Columbia and three U.S. territories. BRFSS completes more than 400,000 adult interviews each year, making it the largest continuously conducted health survey system in the world.\n\nBy collecting behavioral health risk data at the state and local level, BRFSS has become a powerful tool for targeting and building health promotion activities.\n\n**This is a subest of \"Behavioral Risk Factor Surveillance System (BRFSS) Prevalence Data (2011 to present).\" It is organized by state and year, goes from 2015 to 2021, and contains responses to the following mental health questions:**\n\n- Days when mental health status not good (variable calculated from one or more BRFSS questions) `BRFSS QuestionID: _MENT14D`\n- Do you have serious difficulty concentrating, remembering, or making decisions? `BRFSS QuestionID: DECIDE`\n\n## Datasets\n`BRFSS Mental Health.csv`: Contains responses to the mental health questions listed above. 385 rows and 12 columns.\n`BRFSS Mental Health column KEY.csv`: Contains a key to help understand the column names in the dataset.\n`BRFSS location_id KEY.csv`: Contains a key to help understand the location ids used in the dataset.\n\n## Columns\nThere is a column for state, year, and then column pairs for responses the above questions. The column pairs generally come in the following format:\n**respXXX_value** - which is the percentage of respondants who gave that response for that question for that location/year.\n**respXXX_sample** - which is the number of respondants who gave that response for that question for that location/year.\n\n## Source\n[https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-P/dttw-5yxu](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-P/dttw-5yxu)\n\n**This data comes under public domain licensing. Please use it responsibly and ethically. Thank you :)**\n\n*Thumbnail image thanks to: [https://unsplash.com/photos/8R-mXppeakM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink](https://unsplash.com/photos/8R-mXppeakM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)*",
+  "datasetId": 2871535,
+  "datasetSlug": "brfss-mental-health-2015-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "asasherwyn",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 897,
+  "totalVotes": 4,
+  "totalDownloads": 103,
+  "title": "BRFSS Mental Health 2015-2021",
+  "hasTitle": true,
+  "subtitle": "US mental health survey data from 2015-2021",
+  "hasSubtitle": true,
+  "description": "## Context\nThe Behavioral Risk Factor Surveillance System (BRFSS) is the Unites States\u2019s premier system of health-related telephone surveys that collect state data about U.S. residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services. Established in 1984 with 15 states, BRFSS now collects data in all 50 states as well as the District of Columbia and three U.S. territories. BRFSS completes more than 400,000 adult interviews each year, making it the largest continuously conducted health survey system in the world.\n\nBy collecting behavioral health risk data at the state and local level, BRFSS has become a powerful tool for targeting and building health promotion activities.\n\n**This is a subest of \"Behavioral Risk Factor Surveillance System (BRFSS) Prevalence Data (2011 to present).\" It is organized by state and year, goes from 2015 to 2021, and contains responses to the following mental health questions:**\n\n- Days when mental health status not good (variable calculated from one or more BRFSS questions) `BRFSS QuestionID: _MENT14D`\n- Do you have serious difficulty concentrating, remembering, or making decisions? `BRFSS QuestionID: DECIDE`\n\n## Datasets\n`BRFSS Mental Health.csv`: Contains responses to the mental health questions listed above. 385 rows and 12 columns.\n`BRFSS Mental Health column KEY.csv`: Contains a key to help understand the column names in the dataset.\n`BRFSS location_id KEY.csv`: Contains a key to help understand the location ids used in the dataset.\n\n## Columns\nThere is a column for state, year, and then column pairs for responses the above questions. The column pairs generally come in the following format:\n**respXXX_value** - which is the percentage of respondants who gave that response for that question for that location/year.\n**respXXX_sample** - which is the number of respondants who gave that response for that question for that location/year.\n\n## Source\n[https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-P/dttw-5yxu](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-P/dttw-5yxu)\n\n**This data comes under public domain licensing. Please use it responsibly and ethically. Thank you :)**\n\n*Thumbnail image thanks to: [https://unsplash.com/photos/8R-mXppeakM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink](https://unsplash.com/photos/8R-mXppeakM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "mental health",
+    "healthcare",
+    "health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

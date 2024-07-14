@@ -1,0 +1,41 @@
+{
+  "id": "nobatgeldi/nasnet-large-no-top",
+  "id_no": 1092054,
+  "datasetSlugNullable": "nasnet-large-no-top",
+  "ownerUserNullable": "nobatgeldi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "NASNet Large No Top",
+  "subtitleNullable": "NASNet-Large is a CNN that is trained on more than a million images",
+  "descriptionNullable": "### Context\n\nNASNet-Large is a convolutional neural network that is trained on more than a million images from the ImageNet database [1]. The network can classify images into 1000 object categories, such as a keyboard, mouse, pencil, and many animals. As a result, the network has learned rich feature representations for a wide range of images. The network has an image input size of 331-by-331.\n\n### Content\n\nNASNet \u2014 Neural Architecture Search Network (Image Classification) Pretrained dataset\n\nIn NASNet, though the overall architecture is predefined, as shown above, the blocks or cells are not predefined by authors. Instead, they are searched by the reinforcement learning search method.\n\n### Acknowledgements\nThanks to Goole for this dataset\nhttps://storage.googleapis.com/tensorflow/\n",
+  "datasetId": 1092054,
+  "datasetSlug": "nasnet-large-no-top",
+  "hasDatasetSlug": true,
+  "ownerUser": "nobatgeldi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1660,
+  "totalVotes": 7,
+  "totalDownloads": 27,
+  "title": "NASNet Large No Top",
+  "hasTitle": true,
+  "subtitle": "NASNet-Large is a CNN that is trained on more than a million images",
+  "hasSubtitle": true,
+  "description": "### Context\n\nNASNet-Large is a convolutional neural network that is trained on more than a million images from the ImageNet database [1]. The network can classify images into 1000 object categories, such as a keyboard, mouse, pencil, and many animals. As a result, the network has learned rich feature representations for a wide range of images. The network has an image input size of 331-by-331.\n\n### Content\n\nNASNet \u2014 Neural Architecture Search Network (Image Classification) Pretrained dataset\n\nIn NASNet, though the overall architecture is predefined, as shown above, the blocks or cells are not predefined by authors. Instead, they are searched by the reinforcement learning search method.\n\n### Acknowledgements\nThanks to Goole for this dataset\nhttps://storage.googleapis.com/tensorflow/\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "clothing and accessories",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

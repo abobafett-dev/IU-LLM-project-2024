@@ -1,0 +1,44 @@
+{
+  "id": "kiranbudati/news-articles",
+  "id_no": 2565724,
+  "datasetSlugNullable": "news-articles",
+  "ownerUserNullable": "kiranbudati",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "News Articles",
+  "subtitleNullable": "More than 30K news articles collected from different sources world wide",
+  "descriptionNullable": "**Description**\nThis dataset is created from different free news apis, consists of 90k+ articles from different countries.\nThe data consists of news articles from 600+ sources from 26 counties, and with more than 16 categories. \n\n**Tasks**\n1. 70% of the articles categorized as news, need to correctly classify with remaining articles. ",
+  "datasetId": 2565724,
+  "datasetSlug": "news-articles",
+  "hasDatasetSlug": true,
+  "ownerUser": "kiranbudati",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 405,
+  "totalVotes": 1,
+  "totalDownloads": 41,
+  "title": "News Articles",
+  "hasTitle": true,
+  "subtitle": "More than 30K news articles collected from different sources world wide",
+  "hasSubtitle": true,
+  "description": "**Description**\nThis dataset is created from different free news apis, consists of 90k+ articles from different countries.\nThe data consists of news articles from 600+ sources from 26 counties, and with more than 16 categories. \n\n**Tasks**\n1. 70% of the articles categorized as news, need to correctly classify with remaining articles. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "intermediate",
+    "nlp",
+    "text",
+    "news",
+    "nltk"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

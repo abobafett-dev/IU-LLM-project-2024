@@ -1,0 +1,40 @@
+{
+  "id": "mh0386/facial-emotion",
+  "id_no": 4229744,
+  "datasetSlugNullable": "facial-emotion",
+  "ownerUserNullable": "mh0386",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Facial Emotion",
+  "subtitleNullable": "Images of people showing eight different emotions",
+  "descriptionNullable": "The Facial Emotion dataset is a comprehensive collection of high-resolution color images capturing facial expressions across a diverse range of human emotions. The dataset features individuals presenting a nuanced representation of their emotional states. Each image is labeled with one of eight distinct emotions, allowing for detailed analysis and training of machine learning models in the field of facial emotion recognition.",
+  "datasetId": 4229744,
+  "datasetSlug": "facial-emotion",
+  "hasDatasetSlug": true,
+  "ownerUser": "mh0386",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1973,
+  "totalVotes": 14,
+  "totalDownloads": 316,
+  "title": "Facial Emotion",
+  "hasTitle": true,
+  "subtitle": "Images of people showing eight different emotions",
+  "hasSubtitle": true,
+  "description": "The Facial Emotion dataset is a comprehensive collection of high-resolution color images capturing facial expressions across a diverse range of human emotions. The dataset features individuals presenting a nuanced representation of their emotional states. Each image is labeled with one of eight distinct emotions, allowing for detailed analysis and training of machine learning models in the field of facial emotion recognition.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

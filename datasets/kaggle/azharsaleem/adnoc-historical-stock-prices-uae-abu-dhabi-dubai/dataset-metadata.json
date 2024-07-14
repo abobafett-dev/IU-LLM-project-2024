@@ -1,0 +1,43 @@
+{
+  "id": "azharsaleem/adnoc-historical-stock-prices-uae-abu-dhabi-dubai",
+  "id_no": 5123557,
+  "datasetSlugNullable": "adnoc-historical-stock-prices-uae-abu-dhabi-dubai",
+  "ownerUserNullable": "azharsaleem",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "ADNOC Historical Stock Prices: UAE Abu Dhabi Dubai",
+  "subtitleNullable": "The Oil Giant\u2019s Ledger: Analyzing ADNOC's Historical Stock Fluctuations",
+  "descriptionNullable": "<h1 style=\"font-family: &quot;poppins&quot;; font-weight: bold; color: rgba(0, 128, 0, 1)\">\ud83d\udc68\u200d\ud83d\udcbb Author: Azhar Saleem</h1>\n\n[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/azharsaleem18) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/azharsaleem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azhar-saleem/) \n\n[![YouTube](https://img.shields.io/badge/YouTube-Profile-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AzharSaleem19) [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/azhar.saleem1472/) [![TikTok](https://img.shields.io/badge/TikTok-Profile-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@azhar_saleem18) \n\n[![Twitter/X](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://twitter.com/azhar_saleem18) [![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/azhar_saleem18/) [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=email)](mailto:azharsaleem6@gmail.com)\n\n## Description\nThis dataset represents the historical stock prices of Abu Dhabi National Oil Co. (ADNOC), a major player in the oil and gas industry headquartered in Abu Dhabi, United Arab Emirates. ADNOC operates through a variety of segments, including B2B (Commercial) and B2C (Retail), providing a broad spectrum of petroleum products and services. The data covers daily stock prices and includes various attributes from a specific period. This dataset is ideal for conducting detailed data analysis, predictive modeling in machine learning, deep learning applications, and comprehensive business or stock market analysis.\n\n## Columns in the Dataset\n1. **Date**: The date on which the stock prices were recorded. Format: YYYY-MM-DD.\n2. **Open**: The price at which the stock first traded upon the opening of an exchange on a given trading day (in AED).\n3. **High**: The highest price at which the stock traded during the trading day (in AED).\n4. **Low**: The lowest price at which the stock traded during the trading day (in AED).\n5. **Close**: The price at which the stock last traded upon the close of an exchange on a given trading day (in AED).\n6. **Volume**: The total number of shares or contracts traded for the stock in a single trading day.\n7. **Price_Change**: The difference in the opening and closing price of the stock for the day (in AED).\n8. **Percentage_Change**: The percentage change in the stock price from the opening to the closing of the trading day.\n9. **Average_Price**: The average price of the stock for the day, calculated as the average of the high and low prices (in AED).\n10. **Range**: The range between the high and low prices of the stock for the day (in AED).\n\n## Usage Notes\nThis data can be used for a variety of analytical purposes including but not limited to trend analysis, volatility studies, predictive analytics in financial markets, and comparative stock performance studies. The data is provided in CSV format for easy integration into various data analysis tools and platforms.\n\n## Source\nAbu Dhabi National Oil Co. (ADNOC) United Arab Emirates.",
+  "datasetId": 5123557,
+  "datasetSlug": "adnoc-historical-stock-prices-uae-abu-dhabi-dubai",
+  "hasDatasetSlug": true,
+  "ownerUser": "azharsaleem",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 66,
+  "totalVotes": 3,
+  "totalDownloads": 22,
+  "title": "ADNOC Historical Stock Prices: UAE Abu Dhabi Dubai",
+  "hasTitle": true,
+  "subtitle": "The Oil Giant\u2019s Ledger: Analyzing ADNOC's Historical Stock Fluctuations",
+  "hasSubtitle": true,
+  "description": "<h1 style=\"font-family: &quot;poppins&quot;; font-weight: bold; color: rgba(0, 128, 0, 1)\">\ud83d\udc68\u200d\ud83d\udcbb Author: Azhar Saleem</h1>\n\n[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/azharsaleem18) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/azharsaleem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azhar-saleem/) \n\n[![YouTube](https://img.shields.io/badge/YouTube-Profile-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AzharSaleem19) [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/azhar.saleem1472/) [![TikTok](https://img.shields.io/badge/TikTok-Profile-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@azhar_saleem18) \n\n[![Twitter/X](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://twitter.com/azhar_saleem18) [![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/azhar_saleem18/) [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=email)](mailto:azharsaleem6@gmail.com)\n\n## Description\nThis dataset represents the historical stock prices of Abu Dhabi National Oil Co. (ADNOC), a major player in the oil and gas industry headquartered in Abu Dhabi, United Arab Emirates. ADNOC operates through a variety of segments, including B2B (Commercial) and B2C (Retail), providing a broad spectrum of petroleum products and services. The data covers daily stock prices and includes various attributes from a specific period. This dataset is ideal for conducting detailed data analysis, predictive modeling in machine learning, deep learning applications, and comprehensive business or stock market analysis.\n\n## Columns in the Dataset\n1. **Date**: The date on which the stock prices were recorded. Format: YYYY-MM-DD.\n2. **Open**: The price at which the stock first traded upon the opening of an exchange on a given trading day (in AED).\n3. **High**: The highest price at which the stock traded during the trading day (in AED).\n4. **Low**: The lowest price at which the stock traded during the trading day (in AED).\n5. **Close**: The price at which the stock last traded upon the close of an exchange on a given trading day (in AED).\n6. **Volume**: The total number of shares or contracts traded for the stock in a single trading day.\n7. **Price_Change**: The difference in the opening and closing price of the stock for the day (in AED).\n8. **Percentage_Change**: The percentage change in the stock price from the opening to the closing of the trading day.\n9. **Average_Price**: The average price of the stock for the day, calculated as the average of the high and low prices (in AED).\n10. **Range**: The range between the high and low prices of the stock for the day (in AED).\n\n## Usage Notes\nThis data can be used for a variety of analytical purposes including but not limited to trend analysis, volatility studies, predictive analytics in financial markets, and comparative stock performance studies. The data is provided in CSV format for easy integration into various data analysis tools and platforms.\n\n## Source\nAbu Dhabi National Oil Co. (ADNOC) United Arab Emirates.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "time series analysis",
+    "deep learning",
+    "investing",
+    "oil and gas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

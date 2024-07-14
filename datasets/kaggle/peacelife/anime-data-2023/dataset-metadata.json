@@ -1,0 +1,43 @@
+{
+  "id": "peacelife/anime-data-2023",
+  "id_no": 3573383,
+  "datasetSlugNullable": "anime-data-2023",
+  "ownerUserNullable": "peacelife",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Anime_Data_2023",
+  "subtitleNullable": "Anime dataset of 17000 animes with image urls.",
+  "descriptionNullable": "**MyAnimeList Database 2023**'\n\nThis dataset contains information about 17.562 anime. In particular, this dataset contain:\n\n- Anime List with all the necessary information with image urls of all the anime.\n- Information about anime like Genres, Japanese Name, Type, etc are included.\n- The data is the latest data scrapped from Myanimelist website.\n\nAlso, the code used to collect the data is available at https://github.com/peace027/Anime_Collaborative_Filtering_Recommendation_Model.\n\n***Warning: this dataset includes information about anime for adults (hentai).***\n\nContent\nThe data was scrapped between July 15th and July 22th.\n\nAnime_Data.csv contain general information of every anime (17.562 different anime) like Genres, Japanese Name, Type, etc. This file have the following columns:\n- MAL_ID: MyAnimelist ID of the anime. (e.g. 1)\n- Name: full name of the anime. (e.g. Cowboy Bebop)\n- Score: average score of the anime given from all users in MyAnimelist database. (e.g. 8.78)\n- Genres: comma separated list of genres for this anime. (e.g. Action, Adventure, Comedy, Drama, Sci-Fi, Space)\n- English name: full name in english of the anime. (e.g. Cowboy Bebop)\n- Japanese name: full name in japanses of the anime. (e.g. \u30ab\u30a6\u30dc\u30fc\u30a4\u30d3\u30d0\u30c3\u30d7)\n- Type: TV, movie, OVA, etc. (e.g. TV)\n- Episodes': number of chapters. (e.g. 26)\n- Aired: broadcast date. (e.g. Apr 3, 1998 to Apr 24, 1999)\n- Source: Manga, Light novel, Book, etc. (e.g Original)\n- Duration: duration of the anime per episode (e.g 24 min. per ep.)\n- Status: status of the anime (e.g Finished Airing)\n- Rating: age rate (e.g. R - 17+ (violence & profanity))\n- Ranked: position based in the score. (e.g 28)\n- Popularity: position based in the the number of users who have added the anime to their list. (e.g 39)\n- Synopsis: a brief summary of the anime written by one of the reviews of the anime.\n- ImageURLs: list of url links for every anime.\n\n*Acknowledgements*\nThanks to:\n- MyAnimeList for providing anime data.\n\n*Inspiration*\n- Use this information to display recommendations along with the anime details.\n\n*Ideas to the future*\n- Build the same dataset with manga and novel.\n",
+  "datasetId": 3573383,
+  "datasetSlug": "anime-data-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "peacelife",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 386,
+  "totalVotes": 1,
+  "totalDownloads": 51,
+  "title": "Anime_Data_2023",
+  "hasTitle": true,
+  "subtitle": "Anime dataset of 17000 animes with image urls.",
+  "hasSubtitle": true,
+  "description": "**MyAnimeList Database 2023**'\n\nThis dataset contains information about 17.562 anime. In particular, this dataset contain:\n\n- Anime List with all the necessary information with image urls of all the anime.\n- Information about anime like Genres, Japanese Name, Type, etc are included.\n- The data is the latest data scrapped from Myanimelist website.\n\nAlso, the code used to collect the data is available at https://github.com/peace027/Anime_Collaborative_Filtering_Recommendation_Model.\n\n***Warning: this dataset includes information about anime for adults (hentai).***\n\nContent\nThe data was scrapped between July 15th and July 22th.\n\nAnime_Data.csv contain general information of every anime (17.562 different anime) like Genres, Japanese Name, Type, etc. This file have the following columns:\n- MAL_ID: MyAnimelist ID of the anime. (e.g. 1)\n- Name: full name of the anime. (e.g. Cowboy Bebop)\n- Score: average score of the anime given from all users in MyAnimelist database. (e.g. 8.78)\n- Genres: comma separated list of genres for this anime. (e.g. Action, Adventure, Comedy, Drama, Sci-Fi, Space)\n- English name: full name in english of the anime. (e.g. Cowboy Bebop)\n- Japanese name: full name in japanses of the anime. (e.g. \u30ab\u30a6\u30dc\u30fc\u30a4\u30d3\u30d0\u30c3\u30d7)\n- Type: TV, movie, OVA, etc. (e.g. TV)\n- Episodes': number of chapters. (e.g. 26)\n- Aired: broadcast date. (e.g. Apr 3, 1998 to Apr 24, 1999)\n- Source: Manga, Light novel, Book, etc. (e.g Original)\n- Duration: duration of the anime per episode (e.g 24 min. per ep.)\n- Status: status of the anime (e.g Finished Airing)\n- Rating: age rate (e.g. R - 17+ (violence & profanity))\n- Ranked: position based in the score. (e.g 28)\n- Popularity: position based in the the number of users who have added the anime to their list. (e.g 39)\n- Synopsis: a brief summary of the anime written by one of the reviews of the anime.\n- ImageURLs: list of url links for every anime.\n\n*Acknowledgements*\nThanks to:\n- MyAnimeList for providing anime data.\n\n*Inspiration*\n- Use this information to display recommendations along with the anime details.\n\n*Ideas to the future*\n- Build the same dataset with manga and novel.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data cleaning",
+    "data analytics",
+    "image",
+    "japan",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

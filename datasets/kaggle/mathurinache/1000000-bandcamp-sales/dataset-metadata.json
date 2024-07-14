@@ -1,0 +1,42 @@
+{
+  "id": "mathurinache/1000000-bandcamp-sales",
+  "id_no": 1778463,
+  "datasetSlugNullable": "1000000-bandcamp-sales",
+  "ownerUserNullable": "mathurinache",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "1,000,000 Bandcamp sales",
+  "subtitleNullable": "1,000,000 items from Bandcamp's sales feed between 9/9/2020 and 10/2/2020",
+  "descriptionNullable": "### Context\n\nThis dataset contains 1,000,000 items from Bandcamp's sales feed between 9/9/2020 and 10/2/2020, and is a slice of the whole dataset used in The Chaos Bazaar. It contains the following columns:\n\n_id: unique identifier combining the sale's URL and UTC timestamp.\nurl: the path to the item on Bandcamp. Use this column to join this dataset to the dataset of Bandcamp items.\nartist_name: Name of the artist.\nalbum_title: Title of the album, if applicable.\nart_url: path to the item's art image.\nitem_type: denotes the type of object. a for digital albums, p for physical items, and t for digital tracks.\nslug_type: also denotes the type of object. a for all albums, p for merch, and t for tracks.\nutc_date: the UTC timestamp of the sale datetime.\ncountry_code: country code of the buyer.\ncountry: full country code name of the buyer.\nitem_price: price of the item in the seller's currency.\ncurrency: the seller's currency.\namount_paid: amount paid in the seller's currency.\namount_paid_fmt: amount paid in the seller's currency, with the currency symbol.\namount_paid_usd: amount paid converted to US Dollars.\namount_over_fmt: amount voluntarily paid over the item price in the seller's currency.\n\n### Content\n\nContents come from [https://components.one/datasets/bandcamp-sales](https://components.one/datasets/bandcamp-sales)\n\n\n### Acknowledgements\n\n![BandCamp](https://www.metalzone.fr/wp-content/uploads/2020/03/bandcamp-logo.jpg)\n\n### Inspiration\n\nItem/Product NLP Analysis/forecasting price",
+  "datasetId": 1778463,
+  "datasetSlug": "1000000-bandcamp-sales",
+  "hasDatasetSlug": true,
+  "ownerUser": "mathurinache",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4496,
+  "totalVotes": 20,
+  "totalDownloads": 301,
+  "title": "1,000,000 Bandcamp sales",
+  "hasTitle": true,
+  "subtitle": "1,000,000 items from Bandcamp's sales feed between 9/9/2020 and 10/2/2020",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains 1,000,000 items from Bandcamp's sales feed between 9/9/2020 and 10/2/2020, and is a slice of the whole dataset used in The Chaos Bazaar. It contains the following columns:\n\n_id: unique identifier combining the sale's URL and UTC timestamp.\nurl: the path to the item on Bandcamp. Use this column to join this dataset to the dataset of Bandcamp items.\nartist_name: Name of the artist.\nalbum_title: Title of the album, if applicable.\nart_url: path to the item's art image.\nitem_type: denotes the type of object. a for digital albums, p for physical items, and t for digital tracks.\nslug_type: also denotes the type of object. a for all albums, p for merch, and t for tracks.\nutc_date: the UTC timestamp of the sale datetime.\ncountry_code: country code of the buyer.\ncountry: full country code name of the buyer.\nitem_price: price of the item in the seller's currency.\ncurrency: the seller's currency.\namount_paid: amount paid in the seller's currency.\namount_paid_fmt: amount paid in the seller's currency, with the currency symbol.\namount_paid_usd: amount paid converted to US Dollars.\namount_over_fmt: amount voluntarily paid over the item price in the seller's currency.\n\n### Content\n\nContents come from [https://components.one/datasets/bandcamp-sales](https://components.one/datasets/bandcamp-sales)\n\n\n### Acknowledgements\n\n![BandCamp](https://www.metalzone.fr/wp-content/uploads/2020/03/bandcamp-logo.jpg)\n\n### Inspiration\n\nItem/Product NLP Analysis/forecasting price",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "recommender systems",
+    "e-commerce services",
+    "online communities",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

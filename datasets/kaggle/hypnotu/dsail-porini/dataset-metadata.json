@@ -1,0 +1,40 @@
+{
+  "id": "hypnotu/dsail-porini",
+  "id_no": 3698309,
+  "datasetSlugNullable": "dsail-porini",
+  "ownerUserNullable": "hypnotu",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "DSAIL_Porini",
+  "subtitleNullable": "Kenyan Conservancy Animals",
+  "descriptionNullable": "Lorna Mugambi, Jason N. Kabi, Gabriel Kiarie, Ciira wa Maina,\nDSAIL-Porini: Annotated camera trap image data of wildlife species from a conservancy in Kenya,\nData in Brief,\nVolume 46,\n2023,\n108863,\nISSN 2352-3409,\nhttps://doi.org/10.1016/j.dib.2022.108863.\n(https://www.sciencedirect.com/science/article/pii/S2352340922010666)\nAbstract: For years, zoologists, ecologists, and researchers at large have been using instruments such as camera traps in acquiring images of wild animals non-intrusively for ecological research. The main reason behind ecological research is to increase the understanding of various interactions in ecosystems while providing supporting data and information. Due to climate change and the destruction of animal habitats in recent years, researchers have been conducting studies on diminishing populations of various species of interest and the effectiveness of habitat restoration practices. By collecting and examining wild animal image data, inferences such as the health, breeding rate, and population of a particular species can be made. This paper presents an annotated camera trap dataset, DSAIL-Porini11Porini is Swahili for \u201cin the wild\u201d., consisting of images of wildlife species captured in a conservancy in Nyeri, Kenya. 6 wildlife species are captured in this dataset: impala, bushbuck, Sykes\u2019 monkey, defassa waterbuck, common warthog, and Burchell's zebra. This dataset was collected using camera traps based on the Raspberry Pi 2, Raspberry Pi Zero, and OpenMV Cam H7. It provides an example of images collected using relatively low-cost hardware platforms. The image dataset can be used in training and testing object detection and classification machine learning models.\nKeywords: Image classification; Object detection; Machine learning; Ecological data",
+  "datasetId": 3698309,
+  "datasetSlug": "dsail-porini",
+  "hasDatasetSlug": true,
+  "ownerUser": "hypnotu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 211,
+  "totalVotes": 1,
+  "totalDownloads": 22,
+  "title": "DSAIL_Porini",
+  "hasTitle": true,
+  "subtitle": "Kenyan Conservancy Animals",
+  "hasSubtitle": true,
+  "description": "Lorna Mugambi, Jason N. Kabi, Gabriel Kiarie, Ciira wa Maina,\nDSAIL-Porini: Annotated camera trap image data of wildlife species from a conservancy in Kenya,\nData in Brief,\nVolume 46,\n2023,\n108863,\nISSN 2352-3409,\nhttps://doi.org/10.1016/j.dib.2022.108863.\n(https://www.sciencedirect.com/science/article/pii/S2352340922010666)\nAbstract: For years, zoologists, ecologists, and researchers at large have been using instruments such as camera traps in acquiring images of wild animals non-intrusively for ecological research. The main reason behind ecological research is to increase the understanding of various interactions in ecosystems while providing supporting data and information. Due to climate change and the destruction of animal habitats in recent years, researchers have been conducting studies on diminishing populations of various species of interest and the effectiveness of habitat restoration practices. By collecting and examining wild animal image data, inferences such as the health, breeding rate, and population of a particular species can be made. This paper presents an annotated camera trap dataset, DSAIL-Porini11Porini is Swahili for \u201cin the wild\u201d., consisting of images of wildlife species captured in a conservancy in Nyeri, Kenya. 6 wildlife species are captured in this dataset: impala, bushbuck, Sykes\u2019 monkey, defassa waterbuck, common warthog, and Burchell's zebra. This dataset was collected using camera traps based on the Raspberry Pi 2, Raspberry Pi Zero, and OpenMV Cam H7. It provides an example of images collected using relatively low-cost hardware platforms. The image dataset can be used in training and testing object detection and classification machine learning models.\nKeywords: Image classification; Object detection; Machine learning; Ecological data",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kingburrito666/elon-musk-tweets",
+  "id_no": 1153,
+  "datasetSlugNullable": "elon-musk-tweets",
+  "ownerUserNullable": "kingburrito666",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Elon Musk Tweets, 2010 to 2017",
+  "subtitleNullable": "All Elon Musk Tweets from 2010 to 2017",
+  "descriptionNullable": "# Content\n\n - tweet id, contains tweet-stamp\n - date + time, date and time of day (24hr)\n - tweet text, text of tweet, remove 'b'\n\n# usage\n\nWhat's someone going to do with a bunch of tweets?\n\n - Maybe someone would want to generate text using this dataset\n - or do sentiment analysis\n - Or find out the most likely time of day Elon would tweet.\n - pie his tweets per month, ITS DATA!!\n\nEither way its up to you!\n\n# Inspiration:\n\n![elon][1]\n\n\n  [1]: http://iotblog.ir/wp-content/uploads/2017/01/eloninfograph.jpg",
+  "datasetId": 1153,
+  "datasetSlug": "elon-musk-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "kingburrito666",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 12164,
+  "totalVotes": 27,
+  "totalDownloads": 877,
+  "title": "Elon Musk Tweets, 2010 to 2017",
+  "hasTitle": true,
+  "subtitle": "All Elon Musk Tweets from 2010 to 2017",
+  "hasSubtitle": true,
+  "description": "# Content\n\n - tweet id, contains tweet-stamp\n - date + time, date and time of day (24hr)\n - tweet text, text of tweet, remove 'b'\n\n# usage\n\nWhat's someone going to do with a bunch of tweets?\n\n - Maybe someone would want to generate text using this dataset\n - or do sentiment analysis\n - Or find out the most likely time of day Elon would tweet.\n - pie his tweets per month, ITS DATA!!\n\nEither way its up to you!\n\n# Inspiration:\n\n![elon][1]\n\n\n  [1]: http://iotblog.ir/wp-content/uploads/2017/01/eloninfograph.jpg",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "celebrities",
+    "internet",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

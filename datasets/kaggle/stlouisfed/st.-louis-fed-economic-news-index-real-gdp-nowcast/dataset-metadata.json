@@ -1,0 +1,42 @@
+{
+  "id": "/st.-louis-fed-economic-news-index-real-gdp-nowcast",
+  "id_no": 260285,
+  "datasetSlugNullable": "st.-louis-fed-economic-news-index-real-gdp-nowcast",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "St. Louis Fed Economic News Index Real GDP Nowcast",
+  "subtitleNullable": "Explore Time Series from the St. Louis Fed",
+  "descriptionNullable": "### Content  \n\nSt. Louis Fed\u2019s Economic News Index (ENI) uses economic content from key monthly economic data releases to forecast the growth of real GDP during that quarter. In general, the most-current observation is revised multiple times throughout the quarter. The final forecasted value (before the BEA\u2019s release of the advance estimate of GDP) is the static, historical value for that quarter. For more information, see Grover, Sean P.; Kliesen, Kevin L.; and McCracken, Michael W. \u201cA Macroeconomic News Index for Constructing Nowcasts of U.S. Real Gross Domestic Product Growth\" (https://research.stlouisfed.org/publications/review/2016/12/05/a-macroeconomic-news-index-for-constructing-nowcasts-of-u-s-real-gross-domestic-product-growth/ )  \n\n### Context  \n\nThis is a dataset from the [Federal Reserve Bank of St. Louis](https://www.stlouisfed.org/) hosted by the Federal Reserve Economic Database (FRED). FRED has a data platform found [here](https://fred.stlouisfed.org/) and they update their information according to the frequency that the data updates. Explore the Federal Reserve Bank of St. Louis using Kaggle and all of the data sources available through the St. Louis Fed [organization page](https://www.kaggle.com/stlouisfed)!  \n\n* Update Frequency: This dataset is updated daily.\n\n* Observation Start: 2013-04-01  \n* Observation End  : 2019-10-01  \n\n\n### Acknowledgements\n\nThis dataset is maintained using FRED's [API](https://research.stlouisfed.org/docs/api/fred/) and Kaggle's [API](https://github.com/Kaggle/kaggle-api).\n\t  \n\n[Cover photo](https://unsplash.com/photos/OpmxZC0a48A) by [Ferdinand St\u00f6hr](https://unsplash.com/@fellowferdi) on [Unsplash](https://unsplash.com/)  \n_Unsplash Images are distributed under a unique [Unsplash License](https://unsplash.com/license)._",
+  "datasetId": 260285,
+  "datasetSlug": "st.-louis-fed-economic-news-index-real-gdp-nowcast",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 3996,
+  "totalVotes": 1,
+  "totalDownloads": 29,
+  "title": "St. Louis Fed Economic News Index Real GDP Nowcast",
+  "hasTitle": true,
+  "subtitle": "Explore Time Series from the St. Louis Fed",
+  "hasSubtitle": true,
+  "description": "### Content  \n\nSt. Louis Fed\u2019s Economic News Index (ENI) uses economic content from key monthly economic data releases to forecast the growth of real GDP during that quarter. In general, the most-current observation is revised multiple times throughout the quarter. The final forecasted value (before the BEA\u2019s release of the advance estimate of GDP) is the static, historical value for that quarter. For more information, see Grover, Sean P.; Kliesen, Kevin L.; and McCracken, Michael W. \u201cA Macroeconomic News Index for Constructing Nowcasts of U.S. Real Gross Domestic Product Growth\" (https://research.stlouisfed.org/publications/review/2016/12/05/a-macroeconomic-news-index-for-constructing-nowcasts-of-u-s-real-gross-domestic-product-growth/ )  \n\n### Context  \n\nThis is a dataset from the [Federal Reserve Bank of St. Louis](https://www.stlouisfed.org/) hosted by the Federal Reserve Economic Database (FRED). FRED has a data platform found [here](https://fred.stlouisfed.org/) and they update their information according to the frequency that the data updates. Explore the Federal Reserve Bank of St. Louis using Kaggle and all of the data sources available through the St. Louis Fed [organization page](https://www.kaggle.com/stlouisfed)!  \n\n* Update Frequency: This dataset is updated daily.\n\n* Observation Start: 2013-04-01  \n* Observation End  : 2019-10-01  \n\n\n### Acknowledgements\n\nThis dataset is maintained using FRED's [API](https://research.stlouisfed.org/docs/api/fred/) and Kaggle's [API](https://github.com/Kaggle/kaggle-api).\n\t  \n\n[Cover photo](https://unsplash.com/photos/OpmxZC0a48A) by [Ferdinand St\u00f6hr](https://unsplash.com/@fellowferdi) on [Unsplash](https://unsplash.com/)  \n_Unsplash Images are distributed under a unique [Unsplash License](https://unsplash.com/license)._",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "social science",
+    "economics",
+    "Two Sigma x Kaggle Finance Data Repo"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

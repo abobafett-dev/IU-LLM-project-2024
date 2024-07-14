@@ -1,0 +1,42 @@
+{
+  "id": "niteshfre/chessman-image-dataset",
+  "id_no": 292862,
+  "datasetSlugNullable": "chessman-image-dataset",
+  "ownerUserNullable": "niteshfre",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Chessman image dataset",
+  "subtitleNullable": "For chess lover in data science",
+  "descriptionNullable": "I am chess lover that is the reason behind to create this dataset. \nIt consist sub folders with the name as all chessman such as rook, king, queen, etc and these folders contains all the images.\nThis is well set dataset for multi class classification ...",
+  "datasetId": 292862,
+  "datasetSlug": "chessman-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "niteshfre",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 42467,
+  "totalVotes": 91,
+  "totalDownloads": 6990,
+  "title": "Chessman image dataset",
+  "hasTitle": true,
+  "subtitle": "For chess lover in data science",
+  "hasSubtitle": true,
+  "description": "I am chess lover that is the reason behind to create this dataset. \nIt consist sub folders with the name as all chessman such as rook, king, queen, etc and these folders contains all the images.\nThis is well set dataset for multi class classification ...",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "classification",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

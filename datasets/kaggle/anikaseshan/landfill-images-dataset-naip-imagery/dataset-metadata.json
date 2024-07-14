@@ -1,0 +1,39 @@
+{
+  "id": "anikaseshan/landfill-images-dataset-naip-imagery",
+  "id_no": 4464633,
+  "datasetSlugNullable": "landfill-images-dataset-naip-imagery",
+  "ownerUserNullable": "anikaseshan",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Landfill Images Dataset - NAIP Imagery",
+  "subtitleNullable": "Tiff Image Files of Landfill Data in the Continental United States",
+  "descriptionNullable": "This dataset was used to train a image classification machine learning model so that it could successfully identify landfills in the continental United States given a satellite image. The positive images dataset contains tiff images of landfills from the National Agriculture Imagery Program. The negative images dataset contains tiff images of random points in the United States that do not contain landfills.",
+  "datasetId": 4464633,
+  "datasetSlug": "landfill-images-dataset-naip-imagery",
+  "hasDatasetSlug": true,
+  "ownerUser": "anikaseshan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 97,
+  "totalVotes": 4,
+  "totalDownloads": 18,
+  "title": "Landfill Images Dataset - NAIP Imagery",
+  "hasTitle": true,
+  "subtitle": "Tiff Image Files of Landfill Data in the Continental United States",
+  "hasSubtitle": true,
+  "description": "This dataset was used to train a image classification machine learning model so that it could successfully identify landfills in the continental United States given a satellite image. The positive images dataset contains tiff images of landfills from the National Agriculture Imagery Program. The negative images dataset contains tiff images of random points in the United States that do not contain landfills.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "energy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

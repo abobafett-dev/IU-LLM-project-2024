@@ -1,0 +1,39 @@
+{
+  "id": "thedevastator/anime-face-dataset-by-character-name",
+  "id_no": 2451850,
+  "datasetSlugNullable": "anime-face-dataset-by-character-name",
+  "ownerUserNullable": "thedevastator",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Anime Faces Classification",
+  "subtitleNullable": "Classify Face Images Of Amine Characters",
+  "descriptionNullable": "This dataset is suitable for the image classification model. Train image classification model to classify anime characters by face image. This dataset includes 130 characters with 75 images each, scrapped from Danbooru.\n\nThe dataset was first Introduced by Naftali et al. in [AniWho: A Quick and Accurate Way to Classify Anime Character Faces in Images](https://paperswithcode.com/paper/aniwho-a-quick-and-accurate-way-to-classify)\n\n[Link to original source](https://paperswithcode.com/dataset/anime-face-dataset-by-character-name)\n\n\n### List of characters:\nAbigail williams\nAegis\nAisaka Taiga\nAlbedo\nAnastasia\nAqua\nArcue Brunestud\nAsia Argento\nAstolfo\nAsuna Yuuki\nAtago\nAyanami Rei\nBelfast\nBremerton\nC.C.\nEru Chitanda\nChloe Von Einzbern\nCleveland\nd.va\nDido\nEmilia\nEnterprise\nFormable\nFubuki\nFujibayashi Kyou\nFujiwara Chika\nFurukawa Nagisa\nGawr Gura\nGilgamesh\nGiorno Giovanna\nHanekawa Tsubasa\nHatsune Miku\nHayasaka Ai\nHirasawa Yui\nHyuuga Hinata\nIchigo\nIllyasviel Von Einzbern\nirisviel Von Einzbern\nIshtar\nIroha Isshiki\nJonathan Joestar\nKamado Nezuko\nKa Madoka\nKanbaru Suruga\nKarin Kakudate\nKarna\nMisato Katsuragi\nKeqing\nKirito\nKiryu Coco\nKizuna Ai\nShinobu Kochou\nShouko Komi\nLaffey\nC\u00fa Chulainn\nKurisu Makise\nMash Kyrielight\nSakura Matou\nMegumin\nMei\nMeltryllis\nAqua Minato\nMikoto Misaka\nKaori Miyazono\nCalliope Mori\nYuki Nagato\nAzusa Nakano\nItsuki Nakano\nNakano Miku\nNakano Nino\nNakano Yotsuba\nNami\nOkayu Nekomata\nRobin Nico\nIna'nis Ninomae\nMaki Nishikino\nSouji Okita\nMio Ookami\nOugi Oshino\nShinobu Oshino\nOuro Kronii\nPaimon\nPlatelet\nRam\nRaphtalia\nRem Rezero\nRias Gremory\nMedusa\nShiki Ryougi\nSakura Futaba\nMai Sakurajima\nRiko Sakurauchi\nChie Satonaka\nSemiramis\nSengoku Nadeko\nHitagi Senjougahara\nHotaru Share\nKaguya Shinomiya\nShirakami Fubuki\nNaoto Shirogane\nShirogane Noel\nShishiro Botan\nShuten-Douji\nSinon\nAsuka Langley Souryuu\nST AR-15\nSuper Sonico\nSuzuhara Lulu\nHaruhi Suzumiya\nTaihou\nTakagi-San\nAnn Takamaki\nRikka Takanashi\nTakao\nRikka Takarada\nHifumi Takimoto\nTowa Tokoyami\nRin Toosaka\nNozomi Toujou\nYoshiko Tsushima\nUnicorn\nPekora Usada\nErice Utsumi\nAmelia Watson\nWaver Velvet\nXenovia Quarta\nYui\nYui Yuigahama\nYukino Yukinoshita\nZero Two\n\n",
+  "datasetId": 2451850,
+  "datasetSlug": "anime-face-dataset-by-character-name",
+  "hasDatasetSlug": true,
+  "ownerUser": "thedevastator",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 3127,
+  "totalVotes": 18,
+  "totalDownloads": 217,
+  "title": "Anime Faces Classification",
+  "hasTitle": true,
+  "subtitle": "Classify Face Images Of Amine Characters",
+  "hasSubtitle": true,
+  "description": "This dataset is suitable for the image classification model. Train image classification model to classify anime characters by face image. This dataset includes 130 characters with 75 images each, scrapped from Danbooru.\n\nThe dataset was first Introduced by Naftali et al. in [AniWho: A Quick and Accurate Way to Classify Anime Character Faces in Images](https://paperswithcode.com/paper/aniwho-a-quick-and-accurate-way-to-classify)\n\n[Link to original source](https://paperswithcode.com/dataset/anime-face-dataset-by-character-name)\n\n\n### List of characters:\nAbigail williams\nAegis\nAisaka Taiga\nAlbedo\nAnastasia\nAqua\nArcue Brunestud\nAsia Argento\nAstolfo\nAsuna Yuuki\nAtago\nAyanami Rei\nBelfast\nBremerton\nC.C.\nEru Chitanda\nChloe Von Einzbern\nCleveland\nd.va\nDido\nEmilia\nEnterprise\nFormable\nFubuki\nFujibayashi Kyou\nFujiwara Chika\nFurukawa Nagisa\nGawr Gura\nGilgamesh\nGiorno Giovanna\nHanekawa Tsubasa\nHatsune Miku\nHayasaka Ai\nHirasawa Yui\nHyuuga Hinata\nIchigo\nIllyasviel Von Einzbern\nirisviel Von Einzbern\nIshtar\nIroha Isshiki\nJonathan Joestar\nKamado Nezuko\nKa Madoka\nKanbaru Suruga\nKarin Kakudate\nKarna\nMisato Katsuragi\nKeqing\nKirito\nKiryu Coco\nKizuna Ai\nShinobu Kochou\nShouko Komi\nLaffey\nC\u00fa Chulainn\nKurisu Makise\nMash Kyrielight\nSakura Matou\nMegumin\nMei\nMeltryllis\nAqua Minato\nMikoto Misaka\nKaori Miyazono\nCalliope Mori\nYuki Nagato\nAzusa Nakano\nItsuki Nakano\nNakano Miku\nNakano Nino\nNakano Yotsuba\nNami\nOkayu Nekomata\nRobin Nico\nIna'nis Ninomae\nMaki Nishikino\nSouji Okita\nMio Ookami\nOugi Oshino\nShinobu Oshino\nOuro Kronii\nPaimon\nPlatelet\nRam\nRaphtalia\nRem Rezero\nRias Gremory\nMedusa\nShiki Ryougi\nSakura Futaba\nMai Sakurajima\nRiko Sakurauchi\nChie Satonaka\nSemiramis\nSengoku Nadeko\nHitagi Senjougahara\nHotaru Share\nKaguya Shinomiya\nShirakami Fubuki\nNaoto Shirogane\nShirogane Noel\nShishiro Botan\nShuten-Douji\nSinon\nAsuka Langley Souryuu\nST AR-15\nSuper Sonico\nSuzuhara Lulu\nHaruhi Suzumiya\nTaihou\nTakagi-San\nAnn Takamaki\nRikka Takanashi\nTakao\nRikka Takarada\nHifumi Takimoto\nTowa Tokoyami\nRin Toosaka\nNozomi Toujou\nYoshiko Tsushima\nUnicorn\nPekora Usada\nErice Utsumi\nAmelia Watson\nWaver Velvet\nXenovia Quarta\nYui\nYui Yuigahama\nYukino Yukinoshita\nZero Two\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ktsprabhu/imdb-top-4070-explore-the-cinema-data",
+  "id_no": 3621612,
+  "datasetSlugNullable": "imdb-top-4070-explore-the-cinema-data",
+  "ownerUserNullable": "ktsprabhu",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "IMDb Top 4070: Explore the Cinema Data",
+  "subtitleNullable": "Python - Exploratory Data Analysis",
+  "descriptionNullable": "**Description**:\nDive into the world of exceptional cinema with our meticulously curated dataset, \"IMDb's Gems Unveiled.\" This dataset is a result of an extensive data collection effort based on two critical criteria: IMDb ratings exceeding 7 and a substantial number of votes, surpassing 10,000. The outcome? A treasure trove of 4070 movies meticulously selected from IMDb's vast repository.\n\nWhat sets this dataset apart is its richness and diversity. With more than 20 data points meticulously gathered for each movie, this collection offers a comprehensive insight into each cinematic masterpiece. Our data collection process leveraged the power of Selenium and Pandas modules, ensuring accuracy and reliability.\n\nCleaning this vast dataset was a meticulous task, combining both Excel and Python for optimum precision. Analysis is powered by Pandas, Matplotlib, and NLTK, enabling to uncover hidden patterns, trends, and themes within the realm of cinema.\n\n**Note**: The data is collected as of April 2023.\nFuture versions of this analysis include Movie recommendation system\nPlease do connect for any queries,\nAll Love, No Hate.",
+  "datasetId": 3621612,
+  "datasetSlug": "imdb-top-4070-explore-the-cinema-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "ktsprabhu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 207,
+  "totalVotes": 1,
+  "totalDownloads": 35,
+  "title": "IMDb Top 4070: Explore the Cinema Data",
+  "hasTitle": true,
+  "subtitle": "Python - Exploratory Data Analysis",
+  "hasSubtitle": true,
+  "description": "**Description**:\nDive into the world of exceptional cinema with our meticulously curated dataset, \"IMDb's Gems Unveiled.\" This dataset is a result of an extensive data collection effort based on two critical criteria: IMDb ratings exceeding 7 and a substantial number of votes, surpassing 10,000. The outcome? A treasure trove of 4070 movies meticulously selected from IMDb's vast repository.\n\nWhat sets this dataset apart is its richness and diversity. With more than 20 data points meticulously gathered for each movie, this collection offers a comprehensive insight into each cinematic masterpiece. Our data collection process leveraged the power of Selenium and Pandas modules, ensuring accuracy and reliability.\n\nCleaning this vast dataset was a meticulous task, combining both Excel and Python for optimum precision. Analysis is powered by Pandas, Matplotlib, and NLTK, enabling to uncover hidden patterns, trends, and themes within the realm of cinema.\n\n**Note**: The data is collected as of April 2023.\nFuture versions of this analysis include Movie recommendation system\nPlease do connect for any queries,\nAll Love, No Hate.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "computer science",
+    "programming",
+    "exploratory data analysis",
+    "tabular",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

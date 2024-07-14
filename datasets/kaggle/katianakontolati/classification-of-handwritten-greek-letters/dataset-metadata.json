@@ -1,0 +1,43 @@
+{
+  "id": "katianakontolati/classification-of-handwritten-greek-letters",
+  "id_no": 629549,
+  "datasetSlugNullable": "classification-of-handwritten-greek-letters",
+  "ownerUserNullable": "katianakontolati",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Classification of Handwritten Greek Letters",
+  "subtitleNullable": "Images of Greek letters",
+  "descriptionNullable": "### Context\n\nGreek letters bring a lot of good memories to STEM enthusiasts! The motivation behind this work was the urge to have a dataset with lowercase Greek letters  to test different machine learning methods for classification. In contrast to the classic handwritten digits dataset, the one presented here has more labels (24) , which makes it a bit more challenging. It was very fun making it, and I hope that the data science community will find it useful. \n\n### Content\n\nThe training dataset consists of 240 images of Greek letters (10 for each letter). The test dataset consists of 96 images (4 for each letter). We provide both the grayscale original high-resolution images in 2 zip files (train and test) and the low-resolution images (14x14 pixels) used for the classification in another 2 zip files (train and test). Finally, matrices that correspond to each low-resolution (14x14) image are given in 2 .csv files (train and test). Numbers in cells represent the grayscale intensities.\n\nThe last column in both .csv files contains the labels/ ground truth, that is the 24 different letters. Each letter corresponds to a number in a way that it is explained below:\n\n\nLetter Symbols =&gt; Letter Labels\n\u03b1=&gt;1, \u03b2=&gt;2, \u03b3=&gt;3, \u03b4=&gt;4, \u03b5=&gt;5, \u03b6=&gt;6, \u03b7=&gt;7, \u03b8=&gt;8, \u03b9=&gt;9, \u03ba=&gt;10,\n\u03bb=&gt;11, \u03bc=&gt;12, \u03bd=&gt;13, \u03be=&gt;14, \u03bf=&gt;15, \u03c0=&gt;16, \u03c1=&gt;17, \u03c3=&gt;18, \u03c4=&gt;19, \u03c5=&gt;20,\n\u03c6=&gt;21, \u03c7=&gt;22, \u03c8=&gt;23, \u03c9=&gt;24\n\n\nIn summary we have:\n\n### *1. The original high-resolution images* \n(train _high _resolution.zip, test _high _resolution.zip)\n\n### *2. The low-resolution (14x14) images*\n(train _letters _images.zip, test _letters _images.zip)\n\n### *3. Training dataset* \nGrayscale intensities- with 240 rows/data, 196 columns/features, column 197 contains the labels  (train.csv)\n\n### *4. Test dataset* \nGrayscale intensities- with 96 rows/data, 196 columns/features, column 197 contains the labels (test.csv)\n\n\n**Tip**:   Only the .csv files are needed for the classification, the images are for illustration purposes.\n\n\n### Acknowledgements\nThis database is published for free to be used by any visitor of the \u039aaggle website. \n\n### Usage\nClassification. See if you can create a powerful classifier that does not confuse \u03c6 with \u03c8 for example!",
+  "datasetId": 629549,
+  "datasetSlug": "classification-of-handwritten-greek-letters",
+  "hasDatasetSlug": true,
+  "ownerUser": "katianakontolati",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 9680,
+  "totalVotes": 9,
+  "totalDownloads": 605,
+  "title": "Classification of Handwritten Greek Letters",
+  "hasTitle": true,
+  "subtitle": "Images of Greek letters",
+  "hasSubtitle": true,
+  "description": "### Context\n\nGreek letters bring a lot of good memories to STEM enthusiasts! The motivation behind this work was the urge to have a dataset with lowercase Greek letters  to test different machine learning methods for classification. In contrast to the classic handwritten digits dataset, the one presented here has more labels (24) , which makes it a bit more challenging. It was very fun making it, and I hope that the data science community will find it useful. \n\n### Content\n\nThe training dataset consists of 240 images of Greek letters (10 for each letter). The test dataset consists of 96 images (4 for each letter). We provide both the grayscale original high-resolution images in 2 zip files (train and test) and the low-resolution images (14x14 pixels) used for the classification in another 2 zip files (train and test). Finally, matrices that correspond to each low-resolution (14x14) image are given in 2 .csv files (train and test). Numbers in cells represent the grayscale intensities.\n\nThe last column in both .csv files contains the labels/ ground truth, that is the 24 different letters. Each letter corresponds to a number in a way that it is explained below:\n\n\nLetter Symbols =&gt; Letter Labels\n\u03b1=&gt;1, \u03b2=&gt;2, \u03b3=&gt;3, \u03b4=&gt;4, \u03b5=&gt;5, \u03b6=&gt;6, \u03b7=&gt;7, \u03b8=&gt;8, \u03b9=&gt;9, \u03ba=&gt;10,\n\u03bb=&gt;11, \u03bc=&gt;12, \u03bd=&gt;13, \u03be=&gt;14, \u03bf=&gt;15, \u03c0=&gt;16, \u03c1=&gt;17, \u03c3=&gt;18, \u03c4=&gt;19, \u03c5=&gt;20,\n\u03c6=&gt;21, \u03c7=&gt;22, \u03c8=&gt;23, \u03c9=&gt;24\n\n\nIn summary we have:\n\n### *1. The original high-resolution images* \n(train _high _resolution.zip, test _high _resolution.zip)\n\n### *2. The low-resolution (14x14) images*\n(train _letters _images.zip, test _letters _images.zip)\n\n### *3. Training dataset* \nGrayscale intensities- with 240 rows/data, 196 columns/features, column 197 contains the labels  (train.csv)\n\n### *4. Test dataset* \nGrayscale intensities- with 96 rows/data, 196 columns/features, column 197 contains the labels (test.csv)\n\n\n**Tip**:   Only the .csv files are needed for the classification, the images are for illustration purposes.\n\n\n### Acknowledgements\nThis database is published for free to be used by any visitor of the \u039aaggle website. \n\n### Usage\nClassification. See if you can create a powerful classifier that does not confuse \u03c6 with \u03c8 for example!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "artificial intelligence",
+    "computer science",
+    "software",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

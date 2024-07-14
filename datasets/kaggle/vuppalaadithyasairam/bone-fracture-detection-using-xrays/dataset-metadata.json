@@ -1,0 +1,42 @@
+{
+  "id": "vuppalaadithyasairam/bone-fracture-detection-using-xrays",
+  "id_no": 2634341,
+  "datasetSlugNullable": "bone-fracture-detection-using-xrays",
+  "ownerUserNullable": "vuppalaadithyasairam",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "bone fracture detection using x-rays",
+  "subtitleNullable": "Fractured portions of several joints depicted in x-rays",
+  "descriptionNullable": "This dataset comprises of fractured and non-fractured x-ray images of several joints. The task is to build an image classifier to detect fractures in given x-ray image. This dataset comprises of different joints in the upper extremities, isolation of individual joints is recommended for enhanced performance of classifiers.",
+  "datasetId": 2634341,
+  "datasetSlug": "bone-fracture-detection-using-xrays",
+  "hasDatasetSlug": true,
+  "ownerUser": "vuppalaadithyasairam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 26355,
+  "totalVotes": 50,
+  "totalDownloads": 4284,
+  "title": "bone fracture detection using x-rays",
+  "hasTitle": true,
+  "subtitle": "Fractured portions of several joints depicted in x-rays",
+  "hasSubtitle": true,
+  "description": "This dataset comprises of fractured and non-fractured x-ray images of several joints. The task is to build an image classifier to detect fractures in given x-ray image. This dataset comprises of different joints in the upper extremities, isolation of individual joints is recommended for enhanced performance of classifiers.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "binary classification",
+    "health conditions",
+    "keras",
+    "pytorch"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

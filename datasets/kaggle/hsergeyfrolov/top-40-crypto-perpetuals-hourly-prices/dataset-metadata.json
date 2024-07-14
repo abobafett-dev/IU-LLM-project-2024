@@ -1,0 +1,42 @@
+{
+  "id": "hsergeyfrolov/top-40-crypto-perpetuals-hourly-prices",
+  "id_no": 5158206,
+  "datasetSlugNullable": "top-40-crypto-perpetuals-hourly-prices",
+  "ownerUserNullable": "hsergeyfrolov",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Top-40 crypto perpetuals hourly prices",
+  "subtitleNullable": "OHLCV data for top-40 perpetual crypto contracts | 1 hour | (2020-2024)",
+  "descriptionNullable": "Dataset consist of candles price data (open, high, low, close, volume) for 40 perpetual contracts on Binance. Individual datasets for every symbol were merged and all missing values were removed. ",
+  "datasetId": 5158206,
+  "datasetSlug": "top-40-crypto-perpetuals-hourly-prices",
+  "hasDatasetSlug": true,
+  "ownerUser": "hsergeyfrolov",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 102,
+  "totalVotes": 8,
+  "totalDownloads": 14,
+  "title": "Top-40 crypto perpetuals hourly prices",
+  "hasTitle": true,
+  "subtitle": "OHLCV data for top-40 perpetual crypto contracts | 1 hour | (2020-2024)",
+  "hasSubtitle": true,
+  "description": "Dataset consist of candles price data (open, high, low, close, volume) for 40 perpetual contracts on Binance. Individual datasets for every symbol were merged and all missing values were removed. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "time series analysis",
+    "investing",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

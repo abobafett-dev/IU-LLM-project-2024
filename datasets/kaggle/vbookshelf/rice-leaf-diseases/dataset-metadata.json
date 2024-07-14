@@ -1,0 +1,45 @@
+{
+  "id": "vbookshelf/rice-leaf-diseases",
+  "id_no": 522658,
+  "datasetSlugNullable": "rice-leaf-diseases",
+  "ownerUserNullable": "vbookshelf",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Rice Leaf Diseases Dataset",
+  "subtitleNullable": "Images of disease infected rice plant leaves",
+  "descriptionNullable": "### Context\n\n\n<i>Of the three major crops \u2013 rice, wheat and maize \u2013 rice is by far the most important food crop for people in low- and lower-middle-income countries. Although rich and poor people alike eat rice in low-income countries, the poorest people consume relatively little wheat and are therefore deeply affected by the cost and availability of rice.</i>\n\n<i>In many Asian countries, rice is the fundamental and generally irreplaceable staple, especially of the poor. For the extreme poor in Asia, who live on less than $1.25 a day, rice accounts for nearly half of their food expenditures and a fifth of total household expenditures, on average. This group alone annually spends the equivalent of $62 billion (purchasing power parity) on rice. Rice is critical to food security for many of the world\u2019s poor people.</i>\n\n~ Quote from [ricepedia.org](http://ricepedia.org/challenges)\n\n\n### Content\n\nThis dataset contains 120 jpg images of disease infected rice leaves. The images are grouped into 3 classes based on the type of disease. There are 40 images in each class.\n\n<b>Classes</b>\n\n- Leaf smut\n- Brown spot\n- Bacterial leaf blight\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1086574%2F440c2d8d39025fc8be9929836686cbc1%2Frice_leaves.png?generation=1582347404740337&alt=media)\n\nThis dataset is associated with the following paper:\n[Detection and Classification of Rice Plant Diseases](https://www.researchgate.net/profile/Harshadkumar_Prajapati/publication/318437440_Detection_and_classification_of_rice_plant_diseases)\n\nThe authors  gathered these leaves from a rice field in a village called Shertha in Gujarat, India.\n\n\n### Citation\n\nPrajapati HB, Shah JP, Dabhi VK. Detection and classification of rice plant diseases. Intelligent Decision Technologies. 2017 Jan 1;11(3):357-73, doi: 10.3233/IDT-170301.\n\nUCI Machine Learning Repository\nhttps://archive.ics.uci.edu/ml/datasets/Rice+Leaf+Diseases#\n\n\n### Acknowledgements\n\nMany thanks to the research team at the Department of Information Technology, Dharmsinh Desai University for making this dataset publicly available.\n\n\n### Inspiration\n\n- Build a dataset like this that includes more types of rice leaf diseases. Collect samples of both healthy and disease infected rice leaves from a farming community.  Label the dataset using information from local farmers or from plant pathologists. \n- Build a model to automatically classify rice leaf diseases.\n- Deploy your model as a Tensorflow.js [web app](http://rice.test.woza.work/) so it can be accessed from anywhere in the world. \n- Plantix is an excellent example of an impactful agtech mobile app. This [video](https://www.youtube.com/watch?v=N9dFC7gROCU) has more info.\n\nHeader image by HoangTuan_photography on Pixabay.",
+  "datasetId": 522658,
+  "datasetSlug": "rice-leaf-diseases",
+  "hasDatasetSlug": true,
+  "ownerUser": "vbookshelf",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 143922,
+  "totalVotes": 200,
+  "totalDownloads": 15157,
+  "title": "Rice Leaf Diseases Dataset",
+  "hasTitle": true,
+  "subtitle": "Images of disease infected rice plant leaves",
+  "hasSubtitle": true,
+  "description": "### Context\n\n\n<i>Of the three major crops \u2013 rice, wheat and maize \u2013 rice is by far the most important food crop for people in low- and lower-middle-income countries. Although rich and poor people alike eat rice in low-income countries, the poorest people consume relatively little wheat and are therefore deeply affected by the cost and availability of rice.</i>\n\n<i>In many Asian countries, rice is the fundamental and generally irreplaceable staple, especially of the poor. For the extreme poor in Asia, who live on less than $1.25 a day, rice accounts for nearly half of their food expenditures and a fifth of total household expenditures, on average. This group alone annually spends the equivalent of $62 billion (purchasing power parity) on rice. Rice is critical to food security for many of the world\u2019s poor people.</i>\n\n~ Quote from [ricepedia.org](http://ricepedia.org/challenges)\n\n\n### Content\n\nThis dataset contains 120 jpg images of disease infected rice leaves. The images are grouped into 3 classes based on the type of disease. There are 40 images in each class.\n\n<b>Classes</b>\n\n- Leaf smut\n- Brown spot\n- Bacterial leaf blight\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1086574%2F440c2d8d39025fc8be9929836686cbc1%2Frice_leaves.png?generation=1582347404740337&alt=media)\n\nThis dataset is associated with the following paper:\n[Detection and Classification of Rice Plant Diseases](https://www.researchgate.net/profile/Harshadkumar_Prajapati/publication/318437440_Detection_and_classification_of_rice_plant_diseases)\n\nThe authors  gathered these leaves from a rice field in a village called Shertha in Gujarat, India.\n\n\n### Citation\n\nPrajapati HB, Shah JP, Dabhi VK. Detection and classification of rice plant diseases. Intelligent Decision Technologies. 2017 Jan 1;11(3):357-73, doi: 10.3233/IDT-170301.\n\nUCI Machine Learning Repository\nhttps://archive.ics.uci.edu/ml/datasets/Rice+Leaf+Diseases#\n\n\n### Acknowledgements\n\nMany thanks to the research team at the Department of Information Technology, Dharmsinh Desai University for making this dataset publicly available.\n\n\n### Inspiration\n\n- Build a dataset like this that includes more types of rice leaf diseases. Collect samples of both healthy and disease infected rice leaves from a farming community.  Label the dataset using information from local farmers or from plant pathologists. \n- Build a model to automatically classify rice leaf diseases.\n- Deploy your model as a Tensorflow.js [web app](http://rice.test.woza.work/) so it can be accessed from anywhere in the world. \n- Plantix is an excellent example of an impactful agtech mobile app. This [video](https://www.youtube.com/watch?v=N9dFC7gROCU) has more info.\n\nHeader image by HoangTuan_photography on Pixabay.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "plants",
+    "business",
+    "health",
+    "agriculture",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

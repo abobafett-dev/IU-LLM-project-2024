@@ -1,0 +1,42 @@
+{
+  "id": "braniac2000/retail-dataset",
+  "id_no": 2310924,
+  "datasetSlugNullable": "retail-dataset",
+  "ownerUserNullable": "braniac2000",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Retail dataset",
+  "subtitleNullable": "Contains order data of various customers",
+  "descriptionNullable": "\n##Context##\nSales records for the year 2011-2014 with 3 Product, 17 sub-categories  over different segments is recorded. Objective is to expand the business in profitable regions based on the growth percentage and profits.\n##Data Dictionary\n\n**Order ID:** A unique ID given to each order placed.\n**Order Date:** The date at which the order was placed.\n**Customer Name:** Name of the customer placing the order.\n**Country:** The country to which the customer belongs to.\n**State:** The state to which the customer belongs from the country.\n**City:**Detail about the city to which the customer resides in.\n**Region:** Contains the region details.\n**Segment:**The ordered product belongs to what segment.\n**Ship Mode:** The mode of shipping of the order to the customer location.\n**Category:** Contains the details about what category the product belongs to.\n**Sub :** Category: Contains the details about what sub - category the product belongs to.\n**Product Name:**The name of the product ordered by the customer.\n**Discount:** The discount applicable on a product.\n**Sales:** The actual sales happened for a particular order.\n**Profit:** Profit earned on an order.\n**Quantity:**The total quantity of the product ordered in a single order.\n**Feedback:** The feedback given by the customer on the complete shopping experience. If feedback provided, then TRUE. If no feedback provided, then FALSE.\n\n##Inspiration\nThis data-set can be helpful to analyze data to develop marketing strategies and to measure parameters like customer retention rate,churn rate etc.\n\n# Up-Vote\u2b06\ufe0f for more  such dataset\n\n",
+  "datasetId": 2310924,
+  "datasetSlug": "retail-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "braniac2000",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 7304,
+  "totalVotes": 16,
+  "totalDownloads": 1288,
+  "title": "Retail dataset",
+  "hasTitle": true,
+  "subtitle": "Contains order data of various customers",
+  "hasSubtitle": true,
+  "description": "\n##Context##\nSales records for the year 2011-2014 with 3 Product, 17 sub-categories  over different segments is recorded. Objective is to expand the business in profitable regions based on the growth percentage and profits.\n##Data Dictionary\n\n**Order ID:** A unique ID given to each order placed.\n**Order Date:** The date at which the order was placed.\n**Customer Name:** Name of the customer placing the order.\n**Country:** The country to which the customer belongs to.\n**State:** The state to which the customer belongs from the country.\n**City:**Detail about the city to which the customer resides in.\n**Region:** Contains the region details.\n**Segment:**The ordered product belongs to what segment.\n**Ship Mode:** The mode of shipping of the order to the customer location.\n**Category:** Contains the details about what category the product belongs to.\n**Sub :** Category: Contains the details about what sub - category the product belongs to.\n**Product Name:**The name of the product ordered by the customer.\n**Discount:** The discount applicable on a product.\n**Sales:** The actual sales happened for a particular order.\n**Profit:** Profit earned on an order.\n**Quantity:**The total quantity of the product ordered in a single order.\n**Feedback:** The feedback given by the customer on the complete shopping experience. If feedback provided, then TRUE. If no feedback provided, then FALSE.\n\n##Inspiration\nThis data-set can be helpful to analyze data to develop marketing strategies and to measure parameters like customer retention rate,churn rate etc.\n\n# Up-Vote\u2b06\ufe0f for more  such dataset\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "time series analysis",
+    "data analytics",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

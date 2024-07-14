@@ -1,0 +1,39 @@
+{
+  "id": "ebiswas/bangla-largest-newspaper-dataset",
+  "id_no": 1105150,
+  "datasetSlugNullable": "bangla-largest-newspaper-dataset",
+  "ownerUserNullable": "ebiswas",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Bangla Newspaper Dataset - ebD",
+  "subtitleNullable": "Largest Bangla news article dataset from numerous authentic source, 2.2M news",
+  "descriptionNullable": "### Context\n\nNews contents are a great source of finding insights for NLP tasks. This dataset contains 2.2M news articles from 3 of the most reliable/popular online, and publicly available newspapers in Bangladesh. \n\n# Contains most of the available news until April 13, 2022.\n\n\n### Content\n\n`Source -`\n1. [Prothom-alo](https://www.prothomalo.com/)\n    - `https://www.prothomalo.com/api/v1`\n2. [Jugantor](https://www.jugantor.com/)\n     - `https://www.jugantor.com/old/`\n     - `https://www.jugantor.com/archive/online-edition/`\n     - `https://www.jugantor.com/news-archive/`\n3. [Ittefaq](https://www.ittefaq.com.bd/)\n     - `https://www.ittefaq.com.bd/archive/online-edition/`\n     - `https://archive1.ittefaq.com.bd/archive/`\n\n**Dataset Stats:**\n`# total records` = 2, 204, 710\n\n`Prothom-alo `\n```\nFile Information -\n\npro-part-0.json -&gt; 90000\nTags -&gt; 13\nCategory -&gt; 19\n\npro-part-1.json -&gt; 90000\nTags -&gt; 22 \nCategory -&gt; 22\n\npro-part-2.json -&gt; 90000\nTags -&gt; 11 \nCategory -&gt; 20\n\npro-part-3.json -&gt; 90000\nTags -&gt; 768 \nCategory -&gt; 26\n\npro-part-4.json -&gt; 90000\nTags -&gt; 1289 \nCategory -&gt; 25\n\npro-part-5.json -&gt; 90000\nTags -&gt; 1034 \nCategory -&gt; 70\n\npro-part-6.json -&gt; 90000\nTags -&gt; 897 \nCategory -&gt; 67\n\npro-part-7.json -&gt; 90000\nTags -&gt; 862 \nCategory -&gt; 69\n\npro-part-8.json -&gt; 90000\nTags -&gt; 1272 \nCategory -&gt; 93\n\npro-part-9.json -&gt; 90000\nTags -&gt; 2948 \nCategory -&gt; 94\n\npro-part-10.json -&gt; 90000\nTags -&gt; 3639 \nCategory -&gt; 148\n\npro-part-11.json -&gt; 79471\nTags -&gt; 4668 \nCategory -&gt; 196\n```\n\n`Jugantor `\n```\nFile Information -\njug-part-0.json -&gt; 238, 147\ncategory -&gt; 43\n\njug-part-1.json -&gt; 238, 454\ncategory -&gt; 108\n\njug-part-2.json -&gt; 124, 666\ncategory -&gt; 36\n\njug-part-3.json -&gt; 115, 406\ncategory -&gt; 30\n```\n\n`Ittefaq`\n```\nFile Information -\n\nitte-part-0.json -&gt; 143064\nTags -&gt; 8514  \nCategory -&gt; 38\n\nitte-part-1.json -&gt; 91716\nTags -&gt; 0  \nCategory -&gt; 16\n\nitte-part-2.json -&gt; 91754\nTags -&gt; 0  \nCategory -&gt; 17\n\nitte-part-3.json -&gt; 91877\nTags -&gt; 0  \nCategory -&gt; 13\n\nitte-part-4.json -&gt; 90155\nTags -&gt; 0  \nCategory -&gt; 21\n```\n\n### Note\nThis dataset is not totally cleaned, especially `body` data of prothom-alo.\n\n### Acknowledgements\n\nAll data-rights reserved to [Prothom-alo](https://www.prothomalo.com/), [Jugantor](https://www.jugantor.com/), and [Ittefaq](https://www.ittefaq.com.bd/)\n\n\n### Inspiration\n\n- Can you predict news tags/categories?\n- Bangla word embeddings.\n- Headline generation from news-body/ news summarization.\n\n### Citation\nIf you intend to use this dataset, please cite the following -\n```\n@misc{enam biswas_2021, \ntitle={Bangla Newspaper Dataset - ebD}, \nurl={https://www.kaggle.com/dsv/1857507}, \nDOI={10.34740/KAGGLE/DSV/1857507}, \npublisher={Kaggle}, \nauthor={Enam Biswas}, \nyear={2021} }\n```\nPlease feel free to contact - [Enam Biswas](https://www.linkedin.com/in/enam-biswas/) if you have any kind of questions. \n\n### Other datasets by me\n- [IMDb Largest Review Dataset](https://www.kaggle.com/dsv/1836923) - Over 5.5M reviews/ 1.2M spoilers.\n- [Place Review Dataset - Niche (USA)](https://www.kaggle.com/dsv/1842046) - Over `700, 000` reviews of USA neighborhood.",
+  "datasetId": 1105150,
+  "datasetSlug": "bangla-largest-newspaper-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ebiswas",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5670,
+  "totalVotes": 8,
+  "totalDownloads": 270,
+  "title": "Bangla Newspaper Dataset - ebD",
+  "hasTitle": true,
+  "subtitle": "Largest Bangla news article dataset from numerous authentic source, 2.2M news",
+  "hasSubtitle": true,
+  "description": "### Context\n\nNews contents are a great source of finding insights for NLP tasks. This dataset contains 2.2M news articles from 3 of the most reliable/popular online, and publicly available newspapers in Bangladesh. \n\n# Contains most of the available news until April 13, 2022.\n\n\n### Content\n\n`Source -`\n1. [Prothom-alo](https://www.prothomalo.com/)\n    - `https://www.prothomalo.com/api/v1`\n2. [Jugantor](https://www.jugantor.com/)\n     - `https://www.jugantor.com/old/`\n     - `https://www.jugantor.com/archive/online-edition/`\n     - `https://www.jugantor.com/news-archive/`\n3. [Ittefaq](https://www.ittefaq.com.bd/)\n     - `https://www.ittefaq.com.bd/archive/online-edition/`\n     - `https://archive1.ittefaq.com.bd/archive/`\n\n**Dataset Stats:**\n`# total records` = 2, 204, 710\n\n`Prothom-alo `\n```\nFile Information -\n\npro-part-0.json -&gt; 90000\nTags -&gt; 13\nCategory -&gt; 19\n\npro-part-1.json -&gt; 90000\nTags -&gt; 22 \nCategory -&gt; 22\n\npro-part-2.json -&gt; 90000\nTags -&gt; 11 \nCategory -&gt; 20\n\npro-part-3.json -&gt; 90000\nTags -&gt; 768 \nCategory -&gt; 26\n\npro-part-4.json -&gt; 90000\nTags -&gt; 1289 \nCategory -&gt; 25\n\npro-part-5.json -&gt; 90000\nTags -&gt; 1034 \nCategory -&gt; 70\n\npro-part-6.json -&gt; 90000\nTags -&gt; 897 \nCategory -&gt; 67\n\npro-part-7.json -&gt; 90000\nTags -&gt; 862 \nCategory -&gt; 69\n\npro-part-8.json -&gt; 90000\nTags -&gt; 1272 \nCategory -&gt; 93\n\npro-part-9.json -&gt; 90000\nTags -&gt; 2948 \nCategory -&gt; 94\n\npro-part-10.json -&gt; 90000\nTags -&gt; 3639 \nCategory -&gt; 148\n\npro-part-11.json -&gt; 79471\nTags -&gt; 4668 \nCategory -&gt; 196\n```\n\n`Jugantor `\n```\nFile Information -\njug-part-0.json -&gt; 238, 147\ncategory -&gt; 43\n\njug-part-1.json -&gt; 238, 454\ncategory -&gt; 108\n\njug-part-2.json -&gt; 124, 666\ncategory -&gt; 36\n\njug-part-3.json -&gt; 115, 406\ncategory -&gt; 30\n```\n\n`Ittefaq`\n```\nFile Information -\n\nitte-part-0.json -&gt; 143064\nTags -&gt; 8514  \nCategory -&gt; 38\n\nitte-part-1.json -&gt; 91716\nTags -&gt; 0  \nCategory -&gt; 16\n\nitte-part-2.json -&gt; 91754\nTags -&gt; 0  \nCategory -&gt; 17\n\nitte-part-3.json -&gt; 91877\nTags -&gt; 0  \nCategory -&gt; 13\n\nitte-part-4.json -&gt; 90155\nTags -&gt; 0  \nCategory -&gt; 21\n```\n\n### Note\nThis dataset is not totally cleaned, especially `body` data of prothom-alo.\n\n### Acknowledgements\n\nAll data-rights reserved to [Prothom-alo](https://www.prothomalo.com/), [Jugantor](https://www.jugantor.com/), and [Ittefaq](https://www.ittefaq.com.bd/)\n\n\n### Inspiration\n\n- Can you predict news tags/categories?\n- Bangla word embeddings.\n- Headline generation from news-body/ news summarization.\n\n### Citation\nIf you intend to use this dataset, please cite the following -\n```\n@misc{enam biswas_2021, \ntitle={Bangla Newspaper Dataset - ebD}, \nurl={https://www.kaggle.com/dsv/1857507}, \nDOI={10.34740/KAGGLE/DSV/1857507}, \npublisher={Kaggle}, \nauthor={Enam Biswas}, \nyear={2021} }\n```\nPlease feel free to contact - [Enam Biswas](https://www.linkedin.com/in/enam-biswas/) if you have any kind of questions. \n\n### Other datasets by me\n- [IMDb Largest Review Dataset](https://www.kaggle.com/dsv/1836923) - Over 5.5M reviews/ 1.2M spoilers.\n- [Place Review Dataset - Niche (USA)](https://www.kaggle.com/dsv/1842046) - Over `700, 000` reviews of USA neighborhood.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "msjahid/bean-crop-disease-diagnosis-and-spatial-analysis",
+  "id_no": 5066884,
+  "datasetSlugNullable": "bean-crop-disease-diagnosis-and-spatial-analysis",
+  "ownerUserNullable": "msjahid",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Marconi Lab Bean Crop Disease Diagnosis",
+  "subtitleNullable": "Bean Plant Pathologies Dataset for Deep Learning Tasks",
+  "descriptionNullable": "# Bean Plant Pathologies Dataset for Deep Learning Tasks\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1937611%2Fdfd469a53c05df5a4a4bd99f17a20aef%2Fpage-disease.jpg?generation=1716441981485165&alt=media)\n\n## Overview\nThis dataset is a subset of the Makerere University Beans Image Dataset, specifically curated for diagnosing diseases in bean crops and conducting spatial analysis. It includes images categorized into four classes: healthy bean leaves, Angular Leaf Spot (ALS) in bean leaves, Bean Rust in bean leaves, and an additional 'unknown' class. These images are instrumental in classifying and detecting various bean leaf conditions, aiding in the identification of target bean leaf classes and distinguishing them from other visuals. The dataset was utilized in a project leveraging edge computing and deep learning for real-time identification of bean plant pathologies.\n\n## Dataset Contents\n- **Classification Task:** Contains images distributed among the four classes: healthy, ALS, Bean Rust, and the unknown class.\n- **Detection Task:** Features annotations for ALS and Bean Rust, along with unlabeled healthy images to enhance the learning of detection models.",
+  "datasetId": 5066884,
+  "datasetSlug": "bean-crop-disease-diagnosis-and-spatial-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "msjahid",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 869,
+  "totalVotes": 27,
+  "totalDownloads": 100,
+  "title": "Marconi Lab Bean Crop Disease Diagnosis",
+  "hasTitle": true,
+  "subtitle": "Bean Plant Pathologies Dataset for Deep Learning Tasks",
+  "hasSubtitle": true,
+  "description": "# Bean Plant Pathologies Dataset for Deep Learning Tasks\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1937611%2Fdfd469a53c05df5a4a4bd99f17a20aef%2Fpage-disease.jpg?generation=1716441981485165&alt=media)\n\n## Overview\nThis dataset is a subset of the Makerere University Beans Image Dataset, specifically curated for diagnosing diseases in bean crops and conducting spatial analysis. It includes images categorized into four classes: healthy bean leaves, Angular Leaf Spot (ALS) in bean leaves, Bean Rust in bean leaves, and an additional 'unknown' class. These images are instrumental in classifying and detecting various bean leaf conditions, aiding in the identification of target bean leaf classes and distinguishing them from other visuals. The dataset was utilized in a project leveraging edge computing and deep learning for real-time identification of bean plant pathologies.\n\n## Dataset Contents\n- **Classification Task:** Contains images distributed among the four classes: healthy, ALS, Bean Rust, and the unknown class.\n- **Detection Task:** Features annotations for ALS and Bean Rust, along with unlabeled healthy images to enhance the learning of detection models.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "plants",
+    "computer vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

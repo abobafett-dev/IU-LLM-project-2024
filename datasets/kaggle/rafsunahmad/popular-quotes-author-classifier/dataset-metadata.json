@@ -1,0 +1,43 @@
+{
+  "id": "rafsunahmad/popular-quotes-author-classifier",
+  "id_no": 4237712,
+  "datasetSlugNullable": "popular-quotes-author-classifier",
+  "ownerUserNullable": "rafsunahmad",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Books  Author Classifier",
+  "subtitleNullable": "Classify Popular Quotes Written by Popular Writer",
+  "descriptionNullable": "This is a dataset contain popular quotes written by popular writers in the world. This dataset contain two columns, first column contain popular quotes written by writers and second column contain writers name. This is binary text classification problem.\n### **To load the data in the Kaggle notebook or any where else use the given code:**\n```\nencodings_to_try = ['utf-8', 'Latin-1', 'ISO-8859-1']\n\nfor encoding in encodings_to_try:\n    try:\n        df = pd.read_csv('/kaggle/input/classify-news-into-category/News Categoires.csv', encoding=encoding)\n        print(\"File read successfully with encoding:\", encoding)\n        print(df.head())\n        break\n    except UnicodeDecodeError:\n        pass\n\ndf.head()\n``` ",
+  "datasetId": 4237712,
+  "datasetSlug": "popular-quotes-author-classifier",
+  "hasDatasetSlug": true,
+  "ownerUser": "rafsunahmad",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 866,
+  "totalVotes": 10,
+  "totalDownloads": 117,
+  "title": "Books  Author Classifier",
+  "hasTitle": true,
+  "subtitle": "Classify Popular Quotes Written by Popular Writer",
+  "hasSubtitle": true,
+  "description": "This is a dataset contain popular quotes written by popular writers in the world. This dataset contain two columns, first column contain popular quotes written by writers and second column contain writers name. This is binary text classification problem.\n### **To load the data in the Kaggle notebook or any where else use the given code:**\n```\nencodings_to_try = ['utf-8', 'Latin-1', 'ISO-8859-1']\n\nfor encoding in encodings_to_try:\n    try:\n        df = pd.read_csv('/kaggle/input/classify-news-into-category/News Categoires.csv', encoding=encoding)\n        print(\"File read successfully with encoding:\", encoding)\n        print(df.head())\n        break\n    except UnicodeDecodeError:\n        pass\n\ndf.head()\n``` ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "banking",
+    "economics",
+    "nlp",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "world-bank",
+      "name": "world-bank",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

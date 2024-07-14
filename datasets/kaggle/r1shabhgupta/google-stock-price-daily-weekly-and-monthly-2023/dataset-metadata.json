@@ -1,0 +1,43 @@
+{
+  "id": "r1shabhgupta/google-stock-price-daily-weekly-and-monthly-2023",
+  "id_no": 3136510,
+  "datasetSlugNullable": "google-stock-price-daily-weekly-and-monthly-2023",
+  "ownerUserNullable": "r1shabhgupta",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Google Stock Price: Daily, Weekly & Monthly (2023)",
+  "subtitleNullable": "Unlocking the Secrets of Google's Stock Price: A Comprehensive Data Analysis.",
+  "descriptionNullable": "**Please UPVOTE if you find this dataset useful**\n\n**Google** is one of the world's largest and most successful technology companies, known primarily for its search engine and online advertising platform. Founded in 1998, the company has grown rapidly over the years, expanding into a range of new markets and industries, including mobile devices, software, and cloud computing.\n\n**Google's Stock**\nGoogle's stock, or GOOGL, is a popular choice for investors due to the company's strong financial performance and position as a leader in the technology industry. Its revenue is primarily derived from its advertising business, and the company is heavily invested in emerging technologies. While subject to market volatility, Google's stock is considered a strong long-term investment due to the company's financials and position in the industry.\n\n**About the dataset**\nThe Google Stock Price dataset contains historical price information for Google's stock, covering the period from March 2013 to the present. The dataset is made up of seven columns, each providing unique information about Google's stock performance.\n\nThe first column is the 'date' column, which provides the date on which the stock price was recorded. The second column is the 'price' column, which displays the opening price of the stock on the given date. The third column is the 'high' column, which represents the highest price at which the stock was traded during the day. The fourth column is the 'low' column, which displays the lowest price at which the stock was traded during the day.\n\nThe fifth column is the 'close' column, which represents the closing price of the stock on the given date. The sixth column is the 'volume' column, which displays the total number of shares traded on the given date. The final column is the 'adj close' column, which displays the adjusted closing price of the stock on the given date.\n\nThe dataset provides a wealth of information for investors and analysts looking to gain insights into Google's stock performance. By analyzing the data over time, users can identify patterns and trends, evaluate the impact of external factors on stock price, and make informed investment decisions.\n\nThe dataset is ideal for conducting advanced data analysis, including regression analysis, time series analysis, and predictive modeling. It can also be used to create informative visualizations, such as line graphs and candlestick charts, to better understand trends and patterns in Google's stock performance.",
+  "datasetId": 3136510,
+  "datasetSlug": "google-stock-price-daily-weekly-and-monthly-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "r1shabhgupta",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10081,
+  "totalVotes": 36,
+  "totalDownloads": 2284,
+  "title": "Google Stock Price: Daily, Weekly & Monthly (2023)",
+  "hasTitle": true,
+  "subtitle": "Unlocking the Secrets of Google's Stock Price: A Comprehensive Data Analysis.",
+  "hasSubtitle": true,
+  "description": "**Please UPVOTE if you find this dataset useful**\n\n**Google** is one of the world's largest and most successful technology companies, known primarily for its search engine and online advertising platform. Founded in 1998, the company has grown rapidly over the years, expanding into a range of new markets and industries, including mobile devices, software, and cloud computing.\n\n**Google's Stock**\nGoogle's stock, or GOOGL, is a popular choice for investors due to the company's strong financial performance and position as a leader in the technology industry. Its revenue is primarily derived from its advertising business, and the company is heavily invested in emerging technologies. While subject to market volatility, Google's stock is considered a strong long-term investment due to the company's financials and position in the industry.\n\n**About the dataset**\nThe Google Stock Price dataset contains historical price information for Google's stock, covering the period from March 2013 to the present. The dataset is made up of seven columns, each providing unique information about Google's stock performance.\n\nThe first column is the 'date' column, which provides the date on which the stock price was recorded. The second column is the 'price' column, which displays the opening price of the stock on the given date. The third column is the 'high' column, which represents the highest price at which the stock was traded during the day. The fourth column is the 'low' column, which displays the lowest price at which the stock was traded during the day.\n\nThe fifth column is the 'close' column, which represents the closing price of the stock on the given date. The sixth column is the 'volume' column, which displays the total number of shares traded on the given date. The final column is the 'adj close' column, which displays the adjusted closing price of the stock on the given date.\n\nThe dataset provides a wealth of information for investors and analysts looking to gain insights into Google's stock performance. By analyzing the data over time, users can identify patterns and trends, evaluate the impact of external factors on stock price, and make informed investment decisions.\n\nThe dataset is ideal for conducting advanced data analysis, including regression analysis, time series analysis, and predictive modeling. It can also be used to create informative visualizations, such as line graphs and candlestick charts, to better understand trends and patterns in Google's stock performance.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "time series analysis",
+    "investing",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

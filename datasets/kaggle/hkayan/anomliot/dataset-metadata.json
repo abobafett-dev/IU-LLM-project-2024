@@ -1,0 +1,41 @@
+{
+  "id": "hkayan/anomliot",
+  "id_no": 1436528,
+  "datasetSlugNullable": "anomliot",
+  "ownerUserNullable": "hkayan",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "AnoML-IoT",
+  "subtitleNullable": "The Anomaly Detection Dataset",
+  "descriptionNullable": "#The AnoML-IoT Pipeline\n\n**Tools/Components utilized during the AnoML-IoT evalution:**\n\n\n*   Grove sensors:\n    *    [Grove - Temperature&Humidity Sensor (High-Accuracy &Mini) v1.0](https://wiki.seeedstudio.com/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-v1.0/)   \n    *    [Grove - Light Sensor](https://wiki.seeedstudio.com/Grove-Light_Sensor)\n    *    [Grove - Loudness Sensor](https://wiki.seeedstudio.com/Grove-Loudness_Sensor/) \n    *    [Grove - Air Quality Sensor v1.3](https://wiki.seeedstudio.com/Grove-Air_Quality_Sensor_v1.3/)\n    *    [Digi XBee 3 Zigbee 3 RF Module](https://www.digi.com/products/embedded-systems/digi-xbee/rf-modules/2-4-ghz-rf-modules/xbee3-zigbee-3)\n    *    [Grove - UART Wifi V2](https://wiki.seeedstudio.com/Grove-UART_Wifi_V2/)\n*    Microcontollers:\n    *    [Arduino Nano 33 BLE Sense](https://www.raspberrypi.org/products/raspberry-pi-pico/specifications/)\n    *    [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/specifications/)\n    *    [Arduino Nano RP2040 Connect](https://docs.arduino.cc/hardware/nano-rp2040-connect)\n*    Shields:\n    *    [Grove - Bee Socket](https://wiki.seeedstudio.com/Grove-Bee_Socket/)    \n    *    [Grove Shield for Pi Pico V1.0](https://wiki.seeedstudio.com/Grove-Bee_Socket)\n    *    [Arduino Tiny Machine Learning Shield](https://store.arduino.cc/tiny-machine-learning-kit)\n\n*    Single-board computer:\n    *    [Raspberry Pi 4 Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)\n\n*    Software tools:\n    *    [Putty](https://www.putty.org/)\n    *    [Raspberry Pi Imager](https://www.raspberrypi.org/software/)\n    *    [Node-RED](https://nodered.org/)\n    *    [Arduino IDE 1.8.15](https://www.arduino.cc/en/software)\n    *    [Visual Studio Code](https://code.visualstudio.com/)\n    *    [Google Colab](https://colab.research.google.com/)\n\nHow to generate a dataset via Grove sensors and Arduino is explained [here.](https://github.com/hkayann/grove-dataset-generation)\n\nWe created anomalies at the following time intervals:\n* 18:21:46 - 19:37:16 (first day)\n* 02:26:36 - 04:15:56 (second day)\n* 08:54:46 - 10:45:36 (second day)",
+  "datasetId": 1436528,
+  "datasetSlug": "anomliot",
+  "hasDatasetSlug": true,
+  "ownerUser": "hkayan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 6382,
+  "totalVotes": 3,
+  "totalDownloads": 372,
+  "title": "AnoML-IoT",
+  "hasTitle": true,
+  "subtitle": "The Anomaly Detection Dataset",
+  "hasSubtitle": true,
+  "description": "#The AnoML-IoT Pipeline\n\n**Tools/Components utilized during the AnoML-IoT evalution:**\n\n\n*   Grove sensors:\n    *    [Grove - Temperature&Humidity Sensor (High-Accuracy &Mini) v1.0](https://wiki.seeedstudio.com/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-v1.0/)   \n    *    [Grove - Light Sensor](https://wiki.seeedstudio.com/Grove-Light_Sensor)\n    *    [Grove - Loudness Sensor](https://wiki.seeedstudio.com/Grove-Loudness_Sensor/) \n    *    [Grove - Air Quality Sensor v1.3](https://wiki.seeedstudio.com/Grove-Air_Quality_Sensor_v1.3/)\n    *    [Digi XBee 3 Zigbee 3 RF Module](https://www.digi.com/products/embedded-systems/digi-xbee/rf-modules/2-4-ghz-rf-modules/xbee3-zigbee-3)\n    *    [Grove - UART Wifi V2](https://wiki.seeedstudio.com/Grove-UART_Wifi_V2/)\n*    Microcontollers:\n    *    [Arduino Nano 33 BLE Sense](https://www.raspberrypi.org/products/raspberry-pi-pico/specifications/)\n    *    [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/specifications/)\n    *    [Arduino Nano RP2040 Connect](https://docs.arduino.cc/hardware/nano-rp2040-connect)\n*    Shields:\n    *    [Grove - Bee Socket](https://wiki.seeedstudio.com/Grove-Bee_Socket/)    \n    *    [Grove Shield for Pi Pico V1.0](https://wiki.seeedstudio.com/Grove-Bee_Socket)\n    *    [Arduino Tiny Machine Learning Shield](https://store.arduino.cc/tiny-machine-learning-kit)\n\n*    Single-board computer:\n    *    [Raspberry Pi 4 Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)\n\n*    Software tools:\n    *    [Putty](https://www.putty.org/)\n    *    [Raspberry Pi Imager](https://www.raspberrypi.org/software/)\n    *    [Node-RED](https://nodered.org/)\n    *    [Arduino IDE 1.8.15](https://www.arduino.cc/en/software)\n    *    [Visual Studio Code](https://code.visualstudio.com/)\n    *    [Google Colab](https://colab.research.google.com/)\n\nHow to generate a dataset via Grove sensors and Arduino is explained [here.](https://github.com/hkayann/grove-dataset-generation)\n\nWe created anomalies at the following time intervals:\n* 18:21:46 - 19:37:16 (first day)\n* 02:26:36 - 04:15:56 (second day)\n* 08:54:46 - 10:45:36 (second day)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "computer science",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

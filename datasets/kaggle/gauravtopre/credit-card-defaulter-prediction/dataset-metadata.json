@@ -1,0 +1,43 @@
+{
+  "id": "gauravtopre/credit-card-defaulter-prediction",
+  "id_no": 1966610,
+  "datasetSlugNullable": "credit-card-defaulter-prediction",
+  "ownerUserNullable": "gauravtopre",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Credit Card Defaulter Prediction",
+  "subtitleNullable": "Credit Card Default Payment in Taiwan",
+  "descriptionNullable": "### Content\n\nIn recent years, the credit card issuers in Taiwan faced the cash and credit card debt crisis and the delinquency is expected to peak in the third quarter of 2006 (Chou,2006). In order to increase market share, card-issuing banks in Taiwan over-issued cash and credit cards to unqualified applicants. At the same time, most cardholders, irrespective of their repayment ability, overused credit card for consumption and accumulated heavy credit and cash\u2013card debts. The crisis caused the blow to consumer finance confidence and it is a big challenge for both banks and cardholders\n\n\n### Acknowledgements\n\nCredit for this dataset belongs to [UCI ML Repository ](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)\n\n### Column Information\n\nPAY_0: Repayment status in September, 2005 (-1=pay duly, 1=payment delay for one month, 2=payment delay for two months,8=payment delay for eight - months, 9=payment delay for nine months and above)\nPAY_2: Repayment status in August, 2005 (scale same as above)\nPAY_3: Repayment status in July, 2005 (scale same as above)\nPAY_4: Repayment status in June, 2005 (scale same as above)\nPAY_5: Repayment status in May, 2005 (scale same as above)\nPAY_6: Repayment status in April, 2005 (scale same as above)\nBILL_AMT1: Amount of bill statement in September, 2005 (NT dollar)\nBILL_AMT2: Amount of bill statement in August, 2005 (NT dollar)\nBILL_AMT3: Amount of bill statement in July, 2005 (NT dollar)\nBILL_AMT4: Amount of bill statement in June, 2005 (NT dollar)\nBILL_AMT5: Amount of bill statement in May, 2005 (NT dollar)\nBILL_AMT6: Amount of bill statement in April, 2005 (NT dollar)\nPAY_AMT1: Amount of previous payment in September, 2005 (NT dollar)\nPAY_AMT2: Amount of previous payment in August, 2005 (NT dollar)\nPAY_AMT3: Amount of previous payment in July, 2005 (NT dollar)\nPAY_AMT4: Amount of previous payment in June, 2005 (NT dollar)\nPAY_AMT5: Amount of previous payment in May, 2005 (NT dollar)\nPAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)\n\n\n",
+  "datasetId": 1966610,
+  "datasetSlug": "credit-card-defaulter-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravtopre",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 18420,
+  "totalVotes": 51,
+  "totalDownloads": 2373,
+  "title": "Credit Card Defaulter Prediction",
+  "hasTitle": true,
+  "subtitle": "Credit Card Default Payment in Taiwan",
+  "hasSubtitle": true,
+  "description": "### Content\n\nIn recent years, the credit card issuers in Taiwan faced the cash and credit card debt crisis and the delinquency is expected to peak in the third quarter of 2006 (Chou,2006). In order to increase market share, card-issuing banks in Taiwan over-issued cash and credit cards to unqualified applicants. At the same time, most cardholders, irrespective of their repayment ability, overused credit card for consumption and accumulated heavy credit and cash\u2013card debts. The crisis caused the blow to consumer finance confidence and it is a big challenge for both banks and cardholders\n\n\n### Acknowledgements\n\nCredit for this dataset belongs to [UCI ML Repository ](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)\n\n### Column Information\n\nPAY_0: Repayment status in September, 2005 (-1=pay duly, 1=payment delay for one month, 2=payment delay for two months,8=payment delay for eight - months, 9=payment delay for nine months and above)\nPAY_2: Repayment status in August, 2005 (scale same as above)\nPAY_3: Repayment status in July, 2005 (scale same as above)\nPAY_4: Repayment status in June, 2005 (scale same as above)\nPAY_5: Repayment status in May, 2005 (scale same as above)\nPAY_6: Repayment status in April, 2005 (scale same as above)\nBILL_AMT1: Amount of bill statement in September, 2005 (NT dollar)\nBILL_AMT2: Amount of bill statement in August, 2005 (NT dollar)\nBILL_AMT3: Amount of bill statement in July, 2005 (NT dollar)\nBILL_AMT4: Amount of bill statement in June, 2005 (NT dollar)\nBILL_AMT5: Amount of bill statement in May, 2005 (NT dollar)\nBILL_AMT6: Amount of bill statement in April, 2005 (NT dollar)\nPAY_AMT1: Amount of previous payment in September, 2005 (NT dollar)\nPAY_AMT2: Amount of previous payment in August, 2005 (NT dollar)\nPAY_AMT3: Amount of previous payment in July, 2005 (NT dollar)\nPAY_AMT4: Amount of previous payment in June, 2005 (NT dollar)\nPAY_AMT5: Amount of previous payment in May, 2005 (NT dollar)\nPAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "banking",
+    "exploratory data analysis",
+    "classification",
+    "logistic regression",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

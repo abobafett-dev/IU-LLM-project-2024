@@ -1,0 +1,41 @@
+{
+  "id": "angevalli/3d-computer-vision-building-paris-amsterdam-pompei",
+  "id_no": 3292887,
+  "datasetSlugNullable": "3d-computer-vision-building-paris-amsterdam-pompei",
+  "ownerUserNullable": "angevalli",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "3D Computer Vision Building Paris Amsterdam Pompei",
+  "subtitleNullable": "Images of buildings for 3D recognition",
+  "descriptionNullable": "Corpus of images of buildings in Paris, Keble College at University of Oxford, Amsterdam and Pompe\u00ef for depth recognition. Useful for testing DLT and RANSAC techniques. Useful for 3D recognition and image classification as well. Good for introduction to openCV and perception of images",
+  "datasetId": 3292887,
+  "datasetSlug": "3d-computer-vision-building-paris-amsterdam-pompei",
+  "hasDatasetSlug": true,
+  "ownerUser": "angevalli",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 249,
+  "totalVotes": 2,
+  "totalDownloads": 26,
+  "title": "3D Computer Vision Building Paris Amsterdam Pompei",
+  "hasTitle": true,
+  "subtitle": "Images of buildings for 3D recognition",
+  "hasSubtitle": true,
+  "description": "Corpus of images of buildings in Paris, Keble College at University of Oxford, Amsterdam and Pompe\u00ef for depth recognition. Useful for testing DLT and RANSAC techniques. Useful for 3D recognition and image classification as well. Good for introduction to openCV and perception of images",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image",
+    "image depth estimation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

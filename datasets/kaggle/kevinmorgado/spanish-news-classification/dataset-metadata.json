@@ -1,0 +1,42 @@
+{
+  "id": "kevinmorgado/spanish-news-classification",
+  "id_no": 2677086,
+  "datasetSlugNullable": "spanish-news-classification",
+  "ownerUserNullable": "kevinmorgado",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Spanish News Classification",
+  "subtitleNullable": "Natural Language Processing in Spanish",
+  "descriptionNullable": "This dataset was built with a web scraping tool for the Dataton 2022 of Bancolombia for training supervised models to use in a News recommendation of the following categories:\n\n1. Macroeconomics\n2. Sustainability\n3. Innovation\n4. Regulations\n5. Alliances\n6. Reputation\n7. Other\n\n# Columns\nThis CSV document consists of the following columns:\n\n1. **Url:** source of the information, but it could be unavailable in some months\n2. **News:** text of the news - used for classification\n3. **Type:** Label of type of news.",
+  "datasetId": 2677086,
+  "datasetSlug": "spanish-news-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "kevinmorgado",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 2780,
+  "totalVotes": 25,
+  "totalDownloads": 723,
+  "title": "Spanish News Classification",
+  "hasTitle": true,
+  "subtitle": "Natural Language Processing in Spanish",
+  "hasSubtitle": true,
+  "description": "This dataset was built with a web scraping tool for the Dataton 2022 of Bancolombia for training supervised models to use in a News recommendation of the following categories:\n\n1. Macroeconomics\n2. Sustainability\n3. Innovation\n4. Regulations\n5. Alliances\n6. Reputation\n7. Other\n\n# Columns\nThis CSV document consists of the following columns:\n\n1. **Url:** source of the information, but it could be unavailable in some months\n2. **News:** text of the news - used for classification\n3. **Type:** Label of type of news.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "beginner",
+    "nlp",
+    "spanish"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

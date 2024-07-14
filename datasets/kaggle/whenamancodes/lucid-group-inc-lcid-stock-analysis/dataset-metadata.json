@@ -1,0 +1,43 @@
+{
+  "id": "whenamancodes/lucid-group-inc-lcid-stock-analysis",
+  "id_no": 2520358,
+  "datasetSlugNullable": "lucid-group-inc-lcid-stock-analysis",
+  "ownerUserNullable": "whenamancodes",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Lucid Group, Inc. (LCID) Stock Analysis",
+  "subtitleNullable": "Lucid Group, Inc. (LCID) Stock Analysis",
+  "descriptionNullable": "Stock Market Analysis of Lucid Group, Inc. (LCID) from it's Founding / Listing Years which is 2020 to 2022\n\n## Data Dictionary\n| Columns | Description |\n| --- | --- |\n| Date | Date of Listing (YYYY-MM-DD) |\n| Open | Price when the market opens |\n| High | Highest recorded price for the day |\n| Low | Lowest recorded price for the day |\n| Close | Price when the market closes |\n| Adj Close | Modified closing price based on corporate actions |\n| Volume | Amount of stocks sold in a day |\n\n# About Lucid Group, Inc. (LCID)\nLucid Group, Inc. is an American electric vehicle manufacturer headquartered in Newark, California. The company was founded in 2007. Deliveries of the Dream Edition launch versions were made available to the first group of 520 reservation holders on October 30, 2021.",
+  "datasetId": 2520358,
+  "datasetSlug": "lucid-group-inc-lcid-stock-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "whenamancodes",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 314,
+  "totalVotes": 1,
+  "totalDownloads": 42,
+  "title": "Lucid Group, Inc. (LCID) Stock Analysis",
+  "hasTitle": true,
+  "subtitle": "Lucid Group, Inc. (LCID) Stock Analysis",
+  "hasSubtitle": true,
+  "description": "Stock Market Analysis of Lucid Group, Inc. (LCID) from it's Founding / Listing Years which is 2020 to 2022\n\n## Data Dictionary\n| Columns | Description |\n| --- | --- |\n| Date | Date of Listing (YYYY-MM-DD) |\n| Open | Price when the market opens |\n| High | Highest recorded price for the day |\n| Low | Lowest recorded price for the day |\n| Close | Price when the market closes |\n| Adj Close | Modified closing price based on corporate actions |\n| Volume | Amount of stocks sold in a day |\n\n# About Lucid Group, Inc. (LCID)\nLucid Group, Inc. is an American electric vehicle manufacturer headquartered in Newark, California. The company was founded in 2007. Deliveries of the Dream Edition launch versions were made available to the first group of 520 reservation holders on October 30, 2021.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "data visualization",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

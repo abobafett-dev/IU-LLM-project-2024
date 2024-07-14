@@ -1,0 +1,39 @@
+{
+  "id": "nandaprasetia/csv-200-20newsgroups",
+  "id_no": 4939790,
+  "datasetSlugNullable": "csv-200-20newsgroups",
+  "ownerUserNullable": "nandaprasetia",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "CSV 200 20NewsGroups",
+  "subtitleNullable": "Preprocessed NLP Dataset with Empty Data Removal and Text Length Filtering",
+  "descriptionNullable": "**Description** : This dataset contains a preprocessed collection of text data, processed by removing empty rows and rows containing float values, and selecting texts with token lengths ranging from 15 to 200. It is suitable for natural language processing (NLP) exercises and text classification tasks.\n\n**Dataset Content** :\n\n- documents: Text from the processed documents.\n- labels: Label categories or topics for each document.\n- label_names: Name of label categories or topics.\n\n**Data Processing** :\n\n- Empty or NaN data have been removed from the dataset.\n- Data containing float values have been removed as they are irrelevant for text analysis.\n- Texts with tokens less than 15 or more than 200 have been removed from the dataset.\n\n**Dataset Source** : This dataset is prepared by Nanda Prasetia for the purpose of NLP exercises.\n\n**Purpose** : This dataset is designed to facilitate exercises and research in the field of natural language processing (NLP), text classification, and related topics. It is sourced from the 20 Newsgroups dataset provided by scikit-learn.\n\n**Why Use This Dataset** :\n\n1. Clean and Preprocessed: The dataset has undergone preprocessing, removing empty rows and irrelevant data, making it ready for analysis and model training.\n1. Ideal for NLP Exercises: It is suitable for practicing various NLP tasks such as text classification, sentiment analysis, and topic modeling.\n1. Well-Labeled: Each document is labeled with a category or topic, making it suitable for supervised learning tasks.\n1. Respectful of Licensing: This dataset is sourced from the 20 Newsgroups dataset provided by scikit-learn, ensuring compliance with licensing regulations.\n\n**Usage Example** : This dataset can be used to:\n\n- Train text classification models to identify topics or categories of documents.\n- Perform sentiment analysis or emotion classification on text.\n- Explore data and visualize text characteristics.\n\n**Dataset Creation** : The dataset was created using the notebook available at [this link](https://www.kaggle.com/code/nandaprasetia/view-csv-500-20newsgroups).\n\nBy Nanda Prasetia\n\n**Disclaimer** : This dataset is derived from the 20 Newsgroups dataset provided by scikit-learn. For more information about the original dataset and its licensing, please refer to scikit-learn's documentation.",
+  "datasetId": 4939790,
+  "datasetSlug": "csv-200-20newsgroups",
+  "hasDatasetSlug": true,
+  "ownerUser": "nandaprasetia",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 45,
+  "totalVotes": 1,
+  "totalDownloads": 4,
+  "title": "CSV 200 20NewsGroups",
+  "hasTitle": true,
+  "subtitle": "Preprocessed NLP Dataset with Empty Data Removal and Text Length Filtering",
+  "hasSubtitle": true,
+  "description": "**Description** : This dataset contains a preprocessed collection of text data, processed by removing empty rows and rows containing float values, and selecting texts with token lengths ranging from 15 to 200. It is suitable for natural language processing (NLP) exercises and text classification tasks.\n\n**Dataset Content** :\n\n- documents: Text from the processed documents.\n- labels: Label categories or topics for each document.\n- label_names: Name of label categories or topics.\n\n**Data Processing** :\n\n- Empty or NaN data have been removed from the dataset.\n- Data containing float values have been removed as they are irrelevant for text analysis.\n- Texts with tokens less than 15 or more than 200 have been removed from the dataset.\n\n**Dataset Source** : This dataset is prepared by Nanda Prasetia for the purpose of NLP exercises.\n\n**Purpose** : This dataset is designed to facilitate exercises and research in the field of natural language processing (NLP), text classification, and related topics. It is sourced from the 20 Newsgroups dataset provided by scikit-learn.\n\n**Why Use This Dataset** :\n\n1. Clean and Preprocessed: The dataset has undergone preprocessing, removing empty rows and irrelevant data, making it ready for analysis and model training.\n1. Ideal for NLP Exercises: It is suitable for practicing various NLP tasks such as text classification, sentiment analysis, and topic modeling.\n1. Well-Labeled: Each document is labeled with a category or topic, making it suitable for supervised learning tasks.\n1. Respectful of Licensing: This dataset is sourced from the 20 Newsgroups dataset provided by scikit-learn, ensuring compliance with licensing regulations.\n\n**Usage Example** : This dataset can be used to:\n\n- Train text classification models to identify topics or categories of documents.\n- Perform sentiment analysis or emotion classification on text.\n- Explore data and visualize text characteristics.\n\n**Dataset Creation** : The dataset was created using the notebook available at [this link](https://www.kaggle.com/code/nandaprasetia/view-csv-500-20newsgroups).\n\nBy Nanda Prasetia\n\n**Disclaimer** : This dataset is derived from the 20 Newsgroups dataset provided by scikit-learn. For more information about the original dataset and its licensing, please refer to scikit-learn's documentation.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

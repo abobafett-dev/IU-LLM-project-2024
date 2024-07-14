@@ -1,0 +1,42 @@
+{
+  "id": "mcandocia/running-heart-rate-recovery",
+  "id_no": 104585,
+  "datasetSlugNullable": "running-heart-rate-recovery",
+  "ownerUserNullable": "mcandocia",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Running and Heart Rate Data",
+  "subtitleNullable": "Running and Heart rate summary, stop, start and lap event data",
+  "descriptionNullable": "### Context\n\nI have been collecting GPS, heart rate, and temperature data from my runs over the past year. This data corresponds to the stopwatch stop & start events.\n\n\n### Content\n\nEach row contains data from when I stopped my watch and started it again, as well as some summarized data over various time windows before the stop, as well as a few variables describing the overall run (e.g., average temperature, average longitude/latitude).\n\n\n### Inspiration\n\nI wanted to see how my heart rate dropped based on various variables. I've used nonlinear regression to get a decent model in terms of heart rate, rest time, and temperature, but it seems to overestimate heart rate recovery for higher temperatures in more intense runs.",
+  "datasetId": 104585,
+  "datasetSlug": "running-heart-rate-recovery",
+  "hasDatasetSlug": true,
+  "ownerUser": "mcandocia",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 22189,
+  "totalVotes": 31,
+  "totalDownloads": 1624,
+  "title": "Running and Heart Rate Data",
+  "hasTitle": true,
+  "subtitle": "Running and Heart rate summary, stop, start and lap event data",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI have been collecting GPS, heart rate, and temperature data from my runs over the past year. This data corresponds to the stopwatch stop & start events.\n\n\n### Content\n\nEach row contains data from when I stopped my watch and started it again, as well as some summarized data over various time windows before the stop, as well as a few variables describing the overall run (e.g., average temperature, average longitude/latitude).\n\n\n### Inspiration\n\nI wanted to see how my heart rate dropped based on various variables. I've used nonlinear regression to get a decent model in terms of heart rate, rest time, and temperature, but it seems to overestimate heart rate recovery for higher temperatures in more intense runs.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "running",
+    "sports",
+    "health",
+    "heart conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

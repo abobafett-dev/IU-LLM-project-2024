@@ -1,0 +1,43 @@
+{
+  "id": "samuelogbeh/jumia-customer-reviews",
+  "id_no": 3429037,
+  "datasetSlugNullable": "jumia-customer-reviews",
+  "ownerUserNullable": "samuelogbeh",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "EDA, Sentiment Analysis on Jumia Product Reviews",
+  "subtitleNullable": "Utilizing Python and BS soup to gain insights on products",
+  "descriptionNullable": "I'm just starting out in the data science field, so I took some time to web scrape data for EDA. The website is jumia.ng, an online shopping platform. The data in question is product customer reviews",
+  "datasetId": 3429037,
+  "datasetSlug": "jumia-customer-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "samuelogbeh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 250,
+  "totalVotes": 1,
+  "totalDownloads": 28,
+  "title": "EDA, Sentiment Analysis on Jumia Product Reviews",
+  "hasTitle": true,
+  "subtitle": "Utilizing Python and BS soup to gain insights on products",
+  "hasSubtitle": true,
+  "description": "I'm just starting out in the data science field, so I took some time to web scrape data for EDA. The website is jumia.ng, an online shopping platform. The data in question is product customer reviews",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "exploratory data analysis",
+    "retail and shopping",
+    "ratings and reviews",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "arsenijsgolicins/bachs-contrapunctus-14",
+  "id_no": 3945958,
+  "datasetSlugNullable": "bachs-contrapunctus-14",
+  "ownerUserNullable": "arsenijsgolicins",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Bach's Contrapunctus 14",
+  "subtitleNullable": "Bach's unfinished piece",
+  "descriptionNullable": "The data is taken from the Santa Fe Time Series Analysis and Prediction Competition from 1993. It is the piece by Johann Sebastian Bach - Contrapunctus 14 (Cp. XIV). \n\nThe data is a 4-dimensional vector sequence representing musical voices - Soprano, Alto, Tenor, and Bass in a x-representation format. The lengths of the vectors correspond to the lengths of the selected musical fragment. Each value is a real number denoting the sound frequency (a pitch of a note), which can be read and voiced in MIDI. Values of 0 denote pauses, or breaks, with no sound. The duration of the note is represented by the repeating value in the next value of the sequence. One note has the (arbitrary) length of sixteenth, and so 16 numbers make a bar.",
+  "datasetId": 3945958,
+  "datasetSlug": "bachs-contrapunctus-14",
+  "hasDatasetSlug": true,
+  "ownerUser": "arsenijsgolicins",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 54,
+  "totalVotes": 1,
+  "totalDownloads": 5,
+  "title": "Bach's Contrapunctus 14",
+  "hasTitle": true,
+  "subtitle": "Bach's unfinished piece",
+  "hasSubtitle": true,
+  "description": "The data is taken from the Santa Fe Time Series Analysis and Prediction Competition from 1993. It is the piece by Johann Sebastian Bach - Contrapunctus 14 (Cp. XIV). \n\nThe data is a 4-dimensional vector sequence representing musical voices - Soprano, Alto, Tenor, and Bass in a x-representation format. The lengths of the vectors correspond to the lengths of the selected musical fragment. Each value is a real number denoting the sound frequency (a pitch of a note), which can be read and voiced in MIDI. Values of 0 denote pauses, or breaks, with no sound. The duration of the note is represented by the repeating value in the next value of the sequence. One note has the (arbitrary) length of sixteenth, and so 16 numbers make a bar.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "intermediate",
+    "advanced",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

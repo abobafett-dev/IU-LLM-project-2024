@@ -1,0 +1,43 @@
+{
+  "id": "tusharsarkar/cryptodatapart1",
+  "id_no": 1835578,
+  "datasetSlugNullable": "cryptodatapart1",
+  "ownerUserNullable": "tusharsarkar",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Crypto-data-part1",
+  "subtitleNullable": "Prices of top cryptocurrencies",
+  "descriptionNullable": "### Context\n\nThings like Block chain, Bitcoin, Bitcoin cash, Ethereum, Ripple etc are constantly coming in the news articles I read. So I wanted to understand more about it and this post helped me get started. Once the basics are done, the data scientist inside me started raising questions like:\n\nHow many cryptocurrencies are there and what are their prices and valuations?\nWhy is there a sudden surge in the interest in recent days?\nSo what next?\nNow that we have the price data, I wanted to dig a little more about the factors affecting the price of coins. I started of with Bitcoin and there are quite a few parameters which affect the price of Bitcoin. Thanks to Blockchain Info, I was able to get quite a few parameters on once in two day basis.\n\nThis will help understand the other factors related to Bitcoin price and also help one make future predictions in a better way than just using the historical price.\n\n\n### Content\n\nThe dataset has one csv file for each currency. Price history is available on a daily basis from April 28, 2013. This dataset has the historical price information of some of the top crypto currencies by market capitalization.\n\nDate : date of observation\nOpen : Opening price on the given day\nHigh : Highest price on the given day\nLow : Lowest price on the given day\nClose : Closing price on the given day\nVolume : Volume of transactions on the given day\n",
+  "datasetId": 1835578,
+  "datasetSlug": "cryptodatapart1",
+  "hasDatasetSlug": true,
+  "ownerUser": "tusharsarkar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 2071,
+  "totalVotes": 17,
+  "totalDownloads": 195,
+  "title": "Crypto-data-part1",
+  "hasTitle": true,
+  "subtitle": "Prices of top cryptocurrencies",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThings like Block chain, Bitcoin, Bitcoin cash, Ethereum, Ripple etc are constantly coming in the news articles I read. So I wanted to understand more about it and this post helped me get started. Once the basics are done, the data scientist inside me started raising questions like:\n\nHow many cryptocurrencies are there and what are their prices and valuations?\nWhy is there a sudden surge in the interest in recent days?\nSo what next?\nNow that we have the price data, I wanted to dig a little more about the factors affecting the price of coins. I started of with Bitcoin and there are quite a few parameters which affect the price of Bitcoin. Thanks to Blockchain Info, I was able to get quite a few parameters on once in two day basis.\n\nThis will help understand the other factors related to Bitcoin price and also help one make future predictions in a better way than just using the historical price.\n\n\n### Content\n\nThe dataset has one csv file for each currency. Price history is available on a daily basis from April 28, 2013. This dataset has the historical price information of some of the top crypto currencies by market capitalization.\n\nDate : date of observation\nOpen : Opening price on the given day\nHigh : Highest price on the given day\nLow : Lowest price on the given day\nClose : Closing price on the given day\nVolume : Volume of transactions on the given day\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "bayesian statistics",
+    "finance",
+    "text mining",
+    "time series analysis",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

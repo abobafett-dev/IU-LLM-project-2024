@@ -1,0 +1,44 @@
+{
+  "id": "prathameshbhalekar/images-scraped-from-unsplash",
+  "id_no": 966471,
+  "datasetSlugNullable": "images-scraped-from-unsplash",
+  "ownerUserNullable": "prathameshbhalekar",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Categorized Images From Unsplash",
+  "subtitleNullable": "web scrapped images from https://unsplash.com/",
+  "descriptionNullable": "### Context\nThis is data scrapped from unsplash website as it has multiple categories of images using scrapy. You can find the spider here : [GitHub](https://github.com/prathameshbhalekar/GallerI/tree/main/DatasetPreparation/scraping)\n### Application\nIt is used for classification in an image classification android application. You can find it here :  [GitHub](https://github.com/prathameshbhalekar/GallerI)",
+  "datasetId": 966471,
+  "datasetSlug": "images-scraped-from-unsplash",
+  "hasDatasetSlug": true,
+  "ownerUser": "prathameshbhalekar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 1353,
+  "totalVotes": 5,
+  "totalDownloads": 43,
+  "title": "Categorized Images From Unsplash",
+  "hasTitle": true,
+  "subtitle": "web scrapped images from https://unsplash.com/",
+  "hasSubtitle": true,
+  "description": "### Context\nThis is data scrapped from unsplash website as it has multiple categories of images using scrapy. You can find the spider here : [GitHub](https://github.com/prathameshbhalekar/GallerI/tree/main/DatasetPreparation/scraping)\n### Application\nIt is used for classification in an image classification android application. You can find it here :  [GitHub](https://github.com/prathameshbhalekar/GallerI)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature",
+    "business",
+    "health",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "tarunpaparaju/pretrained-resnet34-for-birdcall-classification",
+  "id_no": 737265,
+  "datasetSlugNullable": "pretrained-resnet34-for-birdcall-classification",
+  "ownerUserNullable": "tarunpaparaju",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Pretrained ResNet-34 for birdcall classification",
+  "subtitleNullable": "A ResNet-34 model trained on Cornell Birdcall Identification",
+  "descriptionNullable": "### Content\n\nThis dataset contains a <code>ResNet-34</code> model trained on Mel spectrograms from the [Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition) dataset. It can be used to identify bird species from audio clips with high accuracy (around 55% on unseen clips) spanning 264 different species mentioned on https://www.xeno-canto.org/.\n\n________________________________________________________________________________________________________________________________________________________________________________\n\n### Usage\n\nTo use this pre-trained model with PyTorch, you first need to convert your audio clip to a Mel spectrogram image to feed into the model. Refer to [my kernel on birdcall classification](https://www.kaggle.com/tarunpaparaju/birdcall-identification-spectrogram-resnet) to understand how to generate these Mel spectrograms. Make sure your audio signal is of length <code>1000000</code> and set the spectrogram features to <code>256</code>. Then finally convert the image to a 3-channel version (repetition) and apply classic ImageNet normalization with <code>albumentations</code>. Once you convert the audio clip/s to Mel spectrograms, define the ResNet model and the load the pre-trained weights from this dataset. The code snippet below demonstrates how to set up the model with pre-trained weights. Now, you can use this model to classify bird species!\n\n________________________________________________________________________________________________________________________________________________________________________________\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=\"650px\" src=\"https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1351163%2Fd1aed4b170f94ec95d97fff9163330b6%2Fcarbon.png?generation=1593065716014933&alt=media\">\n\nP.S.: I forgot to add <code>torch.load</code> in the final line. Call <code>torch.load</code> before setting the state dict.",
+  "datasetId": 737265,
+  "datasetSlug": "pretrained-resnet34-for-birdcall-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "tarunpaparaju",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 5280,
+  "totalVotes": 12,
+  "totalDownloads": 92,
+  "title": "Pretrained ResNet-34 for birdcall classification",
+  "hasTitle": true,
+  "subtitle": "A ResNet-34 model trained on Cornell Birdcall Identification",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThis dataset contains a <code>ResNet-34</code> model trained on Mel spectrograms from the [Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition) dataset. It can be used to identify bird species from audio clips with high accuracy (around 55% on unseen clips) spanning 264 different species mentioned on https://www.xeno-canto.org/.\n\n________________________________________________________________________________________________________________________________________________________________________________\n\n### Usage\n\nTo use this pre-trained model with PyTorch, you first need to convert your audio clip to a Mel spectrogram image to feed into the model. Refer to [my kernel on birdcall classification](https://www.kaggle.com/tarunpaparaju/birdcall-identification-spectrogram-resnet) to understand how to generate these Mel spectrograms. Make sure your audio signal is of length <code>1000000</code> and set the spectrogram features to <code>256</code>. Then finally convert the image to a 3-channel version (repetition) and apply classic ImageNet normalization with <code>albumentations</code>. Once you convert the audio clip/s to Mel spectrograms, define the ResNet model and the load the pre-trained weights from this dataset. The code snippet below demonstrates how to set up the model with pre-trained weights. Now, you can use this model to classify bird species!\n\n________________________________________________________________________________________________________________________________________________________________________________\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=\"650px\" src=\"https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1351163%2Fd1aed4b170f94ec95d97fff9163330b6%2Fcarbon.png?generation=1593065716014933&alt=media\">\n\nP.S.: I forgot to add <code>torch.load</code> in the final line. Call <code>torch.load</code> before setting the state dict.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer science",
+    "signal processing",
+    "deep learning",
+    "multiclass classification",
+    "transfer learning",
+    "audio"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

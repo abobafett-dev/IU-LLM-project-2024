@@ -1,0 +1,44 @@
+{
+  "id": "gratefuldata/intraday-stock-data-1-min-sp-500-200821",
+  "id_no": 1332278,
+  "datasetSlugNullable": "intraday-stock-data-1-min-sp-500-200821",
+  "ownerUserNullable": "gratefuldata",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Intraday Stock Data (1 min) - S&P 500 - 2008-21  ",
+  "subtitleNullable": "12 years of 1 minute bars for data science / machine learning ",
+  "descriptionNullable": "### Context\n\nGranular stock bar data for research is difficult to find and expensive to buy.  I've compiled this library from a variety of sources and am making it available for free.\n\n### Content\n\nOne compressed CSV file with 9 columns and 2.07 million rows worth of 1 minute SPY bars.  Columns included are date, open, close, high, low, volume, barCount, and average as well as an index added by Kaggle.\n\n",
+  "datasetId": 1332278,
+  "datasetSlug": "intraday-stock-data-1-min-sp-500-200821",
+  "hasDatasetSlug": true,
+  "ownerUser": "gratefuldata",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 10473,
+  "totalVotes": 37,
+  "totalDownloads": 1156,
+  "title": "Intraday Stock Data (1 min) - S&P 500 - 2008-21  ",
+  "hasTitle": true,
+  "subtitle": "12 years of 1 minute bars for data science / machine learning ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nGranular stock bar data for research is difficult to find and expensive to buy.  I've compiled this library from a variety of sources and am making it available for free.\n\n### Content\n\nOne compressed CSV file with 9 columns and 2.07 million rows worth of 1 minute SPY bars.  Columns included are date, open, close, high, low, volume, barCount, and average as well as an index added by Kaggle.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "time series analysis",
+    "text",
+    "regression",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

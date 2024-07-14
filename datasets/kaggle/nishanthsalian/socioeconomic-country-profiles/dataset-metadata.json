@@ -1,0 +1,46 @@
+{
+  "id": "nishanthsalian/socioeconomic-country-profiles",
+  "id_no": 895611,
+  "datasetSlugNullable": "socioeconomic-country-profiles",
+  "ownerUserNullable": "nishanthsalian",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Socio-Economic Country Profiles",
+  "subtitleNullable": "Contains 95 socio-economic metrics of 66 countries",
+  "descriptionNullable": "### Context\n\nThere can be multiple motivations for analyzing country specific data, ranging from identifying successful approaches in healthcare policy to identifying business investment opportunities, and many more. Often, all these various goals would have to analyze a substantially overlapping set of parameters. Thus, it would be very good to have a broad set of country specific indicators at one place.\n\nThis data-set is an effort in that direction. Of-course there are still plenty more parameters out there. If anyone is interested to integrate more parameters to this dataset, you are more than welcome.\n\n\n### Content\n\nThis dataset contains about 95 statistical indicators of the 66 countries. It covers a broad spectrum of areas including\n\nGeneral Information\nBroader Economic Indicators\nSocial Indicators\nEnvironmental & Infrastructure Indicators\nMilitary Spending\nHealthcare Indicators\nTrade Related Indicators e.t.c.\n\n\nThis data-set for the year 2017 is an amalgamation of data from [SRK's](https://www.kaggle.com/sudalairajkumar) [Country Statistics - UNData](https://www.kaggle.com/sudalairajkumar/undata-country-profiles), [Numbeo](https://numbeo.com) and [World Bank](https://www.worldbank.org/).\n\nThe entire data-set is contained in one file described below:\n\nsoci_econ_country_profiles.csv - The first column contains the country names followed by 95 columns containing the various  indicator variables.\n\n\n\n### Acknowledgements\n\nThis is a data-set built on top of [SRK's](https://www.kaggle.com/sudalairajkumar) [Country Statistics - UNData](https://www.kaggle.com/sudalairajkumar/undata-country-profiles) which was primarily sourced from [UNData](http://data.un.org/Host.aspx?Content=About).\n\nAdditional data such as \"Cost of living index\", \"Property price index\", \"Quality of life index\" have been extracted from [Numbeo](https://numbeo.com) and a number of metrics related to \"trade\", \"healthcare\", \"military spending\", \"taxes\" etc are extracted from [World Bank data source](https://www.worldbank.org/).\nGiven that this is an amalgamation of data from three different sources, only those countries(about 66) which have sufficient data across all the three sources are considered.\n\n\nPlease read the [Numbeo](https://numbeo.com) terms of use and policies[here](https://www.numbeo.com/common/terms_of_use.jsp)\nPlease read the [WorldBank](https://www.worldbank.org/) terms of use and policies [here](https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets)\nPlease read the [UN](http://data.un.org/Host.aspx?Content=About) terms of use and policies [here](http://data.un.org/Host.aspx?Content=UNdataUse)\n\n\nPhoto Credits : [Louis Maniquet](https://unsplash.com/@louis_mna) on [Unsplash](https://unsplash.com/)\n\n",
+  "datasetId": 895611,
+  "datasetSlug": "socioeconomic-country-profiles",
+  "hasDatasetSlug": true,
+  "ownerUser": "nishanthsalian",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 13094,
+  "totalVotes": 28,
+  "totalDownloads": 1683,
+  "title": "Socio-Economic Country Profiles",
+  "hasTitle": true,
+  "subtitle": "Contains 95 socio-economic metrics of 66 countries",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThere can be multiple motivations for analyzing country specific data, ranging from identifying successful approaches in healthcare policy to identifying business investment opportunities, and many more. Often, all these various goals would have to analyze a substantially overlapping set of parameters. Thus, it would be very good to have a broad set of country specific indicators at one place.\n\nThis data-set is an effort in that direction. Of-course there are still plenty more parameters out there. If anyone is interested to integrate more parameters to this dataset, you are more than welcome.\n\n\n### Content\n\nThis dataset contains about 95 statistical indicators of the 66 countries. It covers a broad spectrum of areas including\n\nGeneral Information\nBroader Economic Indicators\nSocial Indicators\nEnvironmental & Infrastructure Indicators\nMilitary Spending\nHealthcare Indicators\nTrade Related Indicators e.t.c.\n\n\nThis data-set for the year 2017 is an amalgamation of data from [SRK's](https://www.kaggle.com/sudalairajkumar) [Country Statistics - UNData](https://www.kaggle.com/sudalairajkumar/undata-country-profiles), [Numbeo](https://numbeo.com) and [World Bank](https://www.worldbank.org/).\n\nThe entire data-set is contained in one file described below:\n\nsoci_econ_country_profiles.csv - The first column contains the country names followed by 95 columns containing the various  indicator variables.\n\n\n\n### Acknowledgements\n\nThis is a data-set built on top of [SRK's](https://www.kaggle.com/sudalairajkumar) [Country Statistics - UNData](https://www.kaggle.com/sudalairajkumar/undata-country-profiles) which was primarily sourced from [UNData](http://data.un.org/Host.aspx?Content=About).\n\nAdditional data such as \"Cost of living index\", \"Property price index\", \"Quality of life index\" have been extracted from [Numbeo](https://numbeo.com) and a number of metrics related to \"trade\", \"healthcare\", \"military spending\", \"taxes\" etc are extracted from [World Bank data source](https://www.worldbank.org/).\nGiven that this is an amalgamation of data from three different sources, only those countries(about 66) which have sufficient data across all the three sources are considered.\n\n\nPlease read the [Numbeo](https://numbeo.com) terms of use and policies[here](https://www.numbeo.com/common/terms_of_use.jsp)\nPlease read the [WorldBank](https://www.worldbank.org/) terms of use and policies [here](https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets)\nPlease read the [UN](http://data.un.org/Host.aspx?Content=About) terms of use and policies [here](http://data.un.org/Host.aspx?Content=UNdataUse)\n\n\nPhoto Credits : [Louis Maniquet](https://unsplash.com/@louis_mna) on [Unsplash](https://unsplash.com/)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "business",
+    "education",
+    "finance",
+    "military",
+    "social science",
+    "economics",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

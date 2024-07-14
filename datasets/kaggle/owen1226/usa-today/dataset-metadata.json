@@ -1,0 +1,39 @@
+{
+  "id": "owen1226/usa-today",
+  "id_no": 641312,
+  "datasetSlugNullable": "usa-today",
+  "ownerUserNullable": "owen1226",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "USA Today",
+  "subtitleNullable": "Dataset of usetoday.com",
+  "descriptionNullable": "### Context\n\nThis dataset contains 2082016 headlines from usetoday.com from 2012 to 2020 year. \nThis dataset can be used to:\n    1. classify tags for untracked news articles \n    2. identify the type of language used in different news articles.\n\n\n### Content\n\nEach news headline has a corresponding categories in the \"level2\" column. Categories and corresponding article counts are as follows:\n\nsports               977004\nnews                 518083\nlife                 193051\nmoney                127934\ntech                  75241\ntravel                54649\nopinion               45101\nentertainment         21839\nweather               10214\ncollege                9390\ngameon                 7746\nhappyeverafter         7528\ntheoval                6962\ntodayinthesky          5344\nnletter                5006\npopcandy               4624\ncruiselog              2630\nonpolitics             2308\ndriveon                1292\nexperience             1221\ndispatches              992\nyour-take               746\nnation                  546\nidolchatter             542\ncybertruth              496\nhotelcheckin            314\ninteractives            230\nondeadline              226\ntechnologylive          144\nlightpost               120\nvirtual-reality         104\ncommunity-hub            55\nentertainthis            52\naugmented-reality        47\nhome                     40\ngraphics                 31\naerial-journalism        26\nbistro                   18\nsome                     18\ngamehunters              12\ngrateful                 10\nworld                     8\nncaaf                     6\nncaaw                     6\nmlb                       6\nsystem                    6\nfantasy                   4\nmovies                    4\n...\n\n\n### Acknowledgements\n\nThis dataset was collected from usetoday.com from 2012 to 2018 year.\n\n\n### Inspiration\n\nHow do you map the categories of \"level2\" and \"level3\" to your own categories?",
+  "datasetId": 641312,
+  "datasetSlug": "usa-today",
+  "hasDatasetSlug": true,
+  "ownerUser": "owen1226",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 2129,
+  "totalVotes": 6,
+  "totalDownloads": 81,
+  "title": "USA Today",
+  "hasTitle": true,
+  "subtitle": "Dataset of usetoday.com",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains 2082016 headlines from usetoday.com from 2012 to 2020 year. \nThis dataset can be used to:\n    1. classify tags for untracked news articles \n    2. identify the type of language used in different news articles.\n\n\n### Content\n\nEach news headline has a corresponding categories in the \"level2\" column. Categories and corresponding article counts are as follows:\n\nsports               977004\nnews                 518083\nlife                 193051\nmoney                127934\ntech                  75241\ntravel                54649\nopinion               45101\nentertainment         21839\nweather               10214\ncollege                9390\ngameon                 7746\nhappyeverafter         7528\ntheoval                6962\ntodayinthesky          5344\nnletter                5006\npopcandy               4624\ncruiselog              2630\nonpolitics             2308\ndriveon                1292\nexperience             1221\ndispatches              992\nyour-take               746\nnation                  546\nidolchatter             542\ncybertruth              496\nhotelcheckin            314\ninteractives            230\nondeadline              226\ntechnologylive          144\nlightpost               120\nvirtual-reality         104\ncommunity-hub            55\nentertainthis            52\naugmented-reality        47\nhome                     40\ngraphics                 31\naerial-journalism        26\nbistro                   18\nsome                     18\ngamehunters              12\ngrateful                 10\nworld                     8\nncaaf                     6\nncaaw                     6\nmlb                       6\nsystem                    6\nfantasy                   4\nmovies                    4\n...\n\n\n### Acknowledgements\n\nThis dataset was collected from usetoday.com from 2012 to 2018 year.\n\n\n### Inspiration\n\nHow do you map the categories of \"level2\" and \"level3\" to your own categories?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

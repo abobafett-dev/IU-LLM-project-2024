@@ -1,0 +1,45 @@
+{
+  "id": "anmolkumar/topic-modeling-for-research-articles-20",
+  "id_no": 926453,
+  "datasetSlugNullable": "topic-modeling-for-research-articles-20",
+  "ownerUserNullable": "anmolkumar",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Topic Modeling for Research Articles 2.0",
+  "subtitleNullable": "Analytics Vidhya - HackLive 3: Guided Hackathon - NLP",
+  "descriptionNullable": "# Analytics Vidhya - Topic Modeling for Research Articles 2.0\nResearchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more and more difficult. Tagging or topic modelling provides a way to give clear token of identification to research articles which facilitates recommendation and search process. \n\nEarlier on the Independence Day we conducted a Hackathon to predict the topics for each article included in the test set. Continuing with the same problem, In this Live Hackathon we will take one more step ahead and predict the tags associated with the articles.\n\nGiven the abstracts for a set of research articles, predict the tags for each article included in the test set. \nNote that a research article can possibly have multiple tags. The research article abstracts are sourced from the following 4 topics: \n\n1. Computer Science\n2. Mathematics\n3. Physics\n4. Statistics\n\nList of possible tags are as follows:\n\n[Tags, Analysis of PDEs, Applications, Artificial Intelligence,Astrophysics of Galaxies, Computation and Language, Computer Vision and Pattern Recognition, Cosmology and Nongalactic Astrophysics, Data Structures and Algorithms, Differential Geometry, Earth and Planetary Astrophysics, Fluid Dynamics,Information Theory, Instrumentation and Methods for Astrophysics, Machine Learning, Materials Science, Methodology, Number Theory, Optimization and Control, Representation Theory, Robotics, Social and Information Networks, Statistics Theory, Strongly Correlated Electrons, Superconductivity, Systems and Control]\n \n# Data Dictionary \n\n- train.csv\n\n| Column |Description  |\n| --- | --- |\n|id| Unique ID for each article|\n|ABSTRACT\t|Abstract of the research article|\n|Computer Science|Whether article belongs to topic computer science (1/0)|\n|Mathematics\t|Whether article belongs to topic Mathematics (1/0)|\n|Physics\t|Whether article belongs to topic physics (1/0)|\n|Statistics|\tWhether article belongs to topic Statistics (1/0)|\n|Tags\t(TARGET) |There are 25 columns of possible tags with (1/0) :1 : if article belongs to that tag 0 : if article doesn't belong to that tag|\n\n- test.csv\n\n| Column |Description  |\n| --- | --- |\n|id| Unique ID for each article|\n|ABSTRACT\t|Abstract of the research article|\n|Computer Science|Whether article belongs to topic computer science (1/0)|\n|Mathematics\t|Whether article belongs to topic Mathematics (1/0)|\n|Physics\t|Whether article belongs to topic physics (1/0)|\n|Statistics|\tWhether article belongs to topic Statistics (1/0)|\n\n- sample_submission.csv\n\n| Column |Description  |\n| --- | --- |\n|id| Unique ID for each article|\n|Tags\t(TARGET) |There are 25 columns of possible tags with (1/0) :1 : if article belongs to that tag 0 : if article doesn't belong to that tag|\n\n# Evaluation Metric\nSubmissions are evaluated on micro F1 Score between the predicted and observed tags for each article in the test set",
+  "datasetId": 926453,
+  "datasetSlug": "topic-modeling-for-research-articles-20",
+  "hasDatasetSlug": true,
+  "ownerUser": "anmolkumar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 6847,
+  "totalVotes": 14,
+  "totalDownloads": 283,
+  "title": "Topic Modeling for Research Articles 2.0",
+  "hasTitle": true,
+  "subtitle": "Analytics Vidhya - HackLive 3: Guided Hackathon - NLP",
+  "hasSubtitle": true,
+  "description": "# Analytics Vidhya - Topic Modeling for Research Articles 2.0\nResearchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more and more difficult. Tagging or topic modelling provides a way to give clear token of identification to research articles which facilitates recommendation and search process. \n\nEarlier on the Independence Day we conducted a Hackathon to predict the topics for each article included in the test set. Continuing with the same problem, In this Live Hackathon we will take one more step ahead and predict the tags associated with the articles.\n\nGiven the abstracts for a set of research articles, predict the tags for each article included in the test set. \nNote that a research article can possibly have multiple tags. The research article abstracts are sourced from the following 4 topics: \n\n1. Computer Science\n2. Mathematics\n3. Physics\n4. Statistics\n\nList of possible tags are as follows:\n\n[Tags, Analysis of PDEs, Applications, Artificial Intelligence,Astrophysics of Galaxies, Computation and Language, Computer Vision and Pattern Recognition, Cosmology and Nongalactic Astrophysics, Data Structures and Algorithms, Differential Geometry, Earth and Planetary Astrophysics, Fluid Dynamics,Information Theory, Instrumentation and Methods for Astrophysics, Machine Learning, Materials Science, Methodology, Number Theory, Optimization and Control, Representation Theory, Robotics, Social and Information Networks, Statistics Theory, Strongly Correlated Electrons, Superconductivity, Systems and Control]\n \n# Data Dictionary \n\n- train.csv\n\n| Column |Description  |\n| --- | --- |\n|id| Unique ID for each article|\n|ABSTRACT\t|Abstract of the research article|\n|Computer Science|Whether article belongs to topic computer science (1/0)|\n|Mathematics\t|Whether article belongs to topic Mathematics (1/0)|\n|Physics\t|Whether article belongs to topic physics (1/0)|\n|Statistics|\tWhether article belongs to topic Statistics (1/0)|\n|Tags\t(TARGET) |There are 25 columns of possible tags with (1/0) :1 : if article belongs to that tag 0 : if article doesn't belong to that tag|\n\n- test.csv\n\n| Column |Description  |\n| --- | --- |\n|id| Unique ID for each article|\n|ABSTRACT\t|Abstract of the research article|\n|Computer Science|Whether article belongs to topic computer science (1/0)|\n|Mathematics\t|Whether article belongs to topic Mathematics (1/0)|\n|Physics\t|Whether article belongs to topic physics (1/0)|\n|Statistics|\tWhether article belongs to topic Statistics (1/0)|\n\n- sample_submission.csv\n\n| Column |Description  |\n| --- | --- |\n|id| Unique ID for each article|\n|Tags\t(TARGET) |There are 25 columns of possible tags with (1/0) :1 : if article belongs to that tag 0 : if article doesn't belong to that tag|\n\n# Evaluation Metric\nSubmissions are evaluated on micro F1 Score between the predicted and observed tags for each article in the test set",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "auto racing",
+    "earth and nature",
+    "business",
+    "education",
+    "computer science",
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

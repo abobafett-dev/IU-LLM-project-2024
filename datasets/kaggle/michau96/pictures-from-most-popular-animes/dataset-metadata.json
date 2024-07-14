@@ -1,0 +1,42 @@
+{
+  "id": "michau96/pictures-from-most-popular-animes",
+  "id_no": 1913536,
+  "datasetSlugNullable": "pictures-from-most-popular-animes",
+  "ownerUserNullable": "michau96",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Pictures from most popular animes",
+  "subtitleNullable": "701 pictures from one hundred most popular animes by myanimest.net",
+  "descriptionNullable": "## Context\n\nmyanimelist.net is the most popular site where fans of Japanese animated films and series share their opinions on various productions. The portal works in a similar way to IMDb and allows users to rate various positions and then create various types of rankings based on them. In this database you will find a distribution of votes on a scale from 1 to 10 for the 100 most popular (most often cast) anime votes from a specific point in time.\n\n\n## Content\n\nThe data is grouped into folders where one folder corresponds to one series. We have a total of 100, as we took the 100 most popular anime based on the current ranking on the site. In each of the folders we can find pictures from the \"pics\" tab for a specific anime title. The number of pictures in each series differ from each other and for some there is only one picture, and for some even a dozen. Data was obtained using webscraping. Python was used for this process with the \"BeautifulSoup\", \"requests\", \"re\", \"urllib\", and \"os\" packages. For each movie or series, we managed to link to the pictures, and by using the HTML page preview, we managed to find direct links to the pictures. Then, in the loop, we managed to download each picture in turn and save to the appropriate folder with the appropriate name based on the link and the title of the series.\n\n## Inspiration\n\nThe inspiration to create a notebook based on this data may be a comparative analysis of the titles among themselves based on the pictures or the creation of a model which, based on the pictures, can predict which anime they come from. Unfortunately, there is little data in each category, which means that working with a small amount of data can be quite a challenge.\n\n<br>\n\nPhoto by <a href=\"https://unsplash.com/@dexezekiel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Dex Ezekiel</a> on <a href=\"https://unsplash.com/s/photos/anime?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>",
+  "datasetId": 1913536,
+  "datasetSlug": "pictures-from-most-popular-animes",
+  "hasDatasetSlug": true,
+  "ownerUser": "michau96",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1730,
+  "totalVotes": 17,
+  "totalDownloads": 79,
+  "title": "Pictures from most popular animes",
+  "hasTitle": true,
+  "subtitle": "701 pictures from one hundred most popular animes by myanimest.net",
+  "hasSubtitle": true,
+  "description": "## Context\n\nmyanimelist.net is the most popular site where fans of Japanese animated films and series share their opinions on various productions. The portal works in a similar way to IMDb and allows users to rate various positions and then create various types of rankings based on them. In this database you will find a distribution of votes on a scale from 1 to 10 for the 100 most popular (most often cast) anime votes from a specific point in time.\n\n\n## Content\n\nThe data is grouped into folders where one folder corresponds to one series. We have a total of 100, as we took the 100 most popular anime based on the current ranking on the site. In each of the folders we can find pictures from the \"pics\" tab for a specific anime title. The number of pictures in each series differ from each other and for some there is only one picture, and for some even a dozen. Data was obtained using webscraping. Python was used for this process with the \"BeautifulSoup\", \"requests\", \"re\", \"urllib\", and \"os\" packages. For each movie or series, we managed to link to the pictures, and by using the HTML page preview, we managed to find direct links to the pictures. Then, in the loop, we managed to download each picture in turn and save to the appropriate folder with the appropriate name based on the link and the title of the series.\n\n## Inspiration\n\nThe inspiration to create a notebook based on this data may be a comparative analysis of the titles among themselves based on the pictures or the creation of a model which, based on the pictures, can predict which anime they come from. Unfortunately, there is little data in each category, which means that working with a small amount of data can be quite a challenge.\n\n<br>\n\nPhoto by <a href=\"https://unsplash.com/@dexezekiel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Dex Ezekiel</a> on <a href=\"https://unsplash.com/s/photos/anime?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "image",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

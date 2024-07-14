@@ -1,0 +1,43 @@
+{
+  "id": "mpware/persuade-2-0",
+  "id_no": 4892997,
+  "datasetSlugNullable": "persuade-2-0",
+  "ownerUserNullable": "mpware",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Persuade 2.0",
+  "subtitleNullable": "Persuade 2.0 only dataset copy from GitHub",
+  "descriptionNullable": "Persuade 2.0 available from https://github.com/scrosseye/persuade_corpus_2.0. \n<br>It contains essays from students covering topics among:\n- Online course/classes.\n- Student summer projects.\n- Cell phone use in school.\n- School policy for sports participation.\n- Asking advice/opinion for decision making.\n- Cell phone use while driving.\n- Student extracurricular activities.\n- Student community services.\n- Driverless cars safety cost and legal issues.\n- Emotions/facial expressions recognition.\n- Solar planets exploration (Venus, Mars).\n- Voting/Election.\n- Limiting car usage for cleaner air.\n- Experience as seagoing cowboy.\n\n<br>Provided as CSV format.",
+  "datasetId": 4892997,
+  "datasetSlug": "persuade-2-0",
+  "hasDatasetSlug": true,
+  "ownerUser": "mpware",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1550,
+  "totalVotes": 22,
+  "totalDownloads": 115,
+  "title": "Persuade 2.0",
+  "hasTitle": true,
+  "subtitle": "Persuade 2.0 only dataset copy from GitHub",
+  "hasSubtitle": true,
+  "description": "Persuade 2.0 available from https://github.com/scrosseye/persuade_corpus_2.0. \n<br>It contains essays from students covering topics among:\n- Online course/classes.\n- Student summer projects.\n- Cell phone use in school.\n- School policy for sports participation.\n- Asking advice/opinion for decision making.\n- Cell phone use while driving.\n- Student extracurricular activities.\n- Student community services.\n- Driverless cars safety cost and legal issues.\n- Emotions/facial expressions recognition.\n- Solar planets exploration (Venus, Mars).\n- Voting/Election.\n- Limiting car usage for cleaner air.\n- Experience as seagoing cowboy.\n\n<br>Provided as CSV format.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social issues and advocacy",
+    "text classification",
+    "token classification",
+    "text generation",
+    "text conversation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

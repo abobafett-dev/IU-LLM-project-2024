@@ -1,0 +1,39 @@
+{
+  "id": "rajdeepchakravorty/inshorts-news-scrape-data",
+  "id_no": 2179336,
+  "datasetSlugNullable": "inshorts-news-scrape-data",
+  "ownerUserNullable": "rajdeepchakravorty",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Inshorts_news_scrape_data",
+  "subtitleNullable": "\"News Unveiled: Inshorts Dataset Snapshot for Future News Recommendations!\"",
+  "descriptionNullable": "This data was extracted from the news website Inshorts using a web scraper. This data can ultimately be used to develop a recommendation system for various types of news.\nThe dataset contains 4 Columns\n1. Headlines\n2. News\n3. Date\n4. Time",
+  "datasetId": 2179336,
+  "datasetSlug": "inshorts-news-scrape-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "rajdeepchakravorty",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 45,
+  "totalVotes": 2,
+  "totalDownloads": 9,
+  "title": "Inshorts_news_scrape_data",
+  "hasTitle": true,
+  "subtitle": "\"News Unveiled: Inshorts Dataset Snapshot for Future News Recommendations!\"",
+  "hasSubtitle": true,
+  "description": "This data was extracted from the news website Inshorts using a web scraper. This data can ultimately be used to develop a recommendation system for various types of news.\nThe dataset contains 4 Columns\n1. Headlines\n2. News\n3. Date\n4. Time",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "tornikeonoprishvili/pepe-memes-dataaset",
+  "id_no": 2730103,
+  "datasetSlugNullable": "pepe-memes-dataaset",
+  "ownerUserNullable": "tornikeonoprishvili",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "REEE dataset (pepe edition)",
+  "subtitleNullable": "Pepe memes, 512x512 format in JPEG",
+  "descriptionNullable": "\n# Introduction\n\nThe funny green frog of fun has entered Kaggle datasets. Go ahead and use it however you see fit! Here you are provided with with +2300 JPEG images of pepe the frog. Images are scaled to have max dimensions of 512x512. \n\n# Tasks \n\n- Generate unique and insanely rare pepe images using ML.\n- Use CLIP-like model in order to predict the `000000_file_names.jpg` for each image.\n- Cluster images into groups, find out what these groups have in common.\n- Download all of the images to your hard-drive for safekeeping.\n\nBut, most importantly... **have FUN**!\n",
+  "datasetId": 2730103,
+  "datasetSlug": "pepe-memes-dataaset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tornikeonoprishvili",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1525,
+  "totalVotes": 7,
+  "totalDownloads": 95,
+  "title": "REEE dataset (pepe edition)",
+  "hasTitle": true,
+  "subtitle": "Pepe memes, 512x512 format in JPEG",
+  "hasSubtitle": true,
+  "description": "\n# Introduction\n\nThe funny green frog of fun has entered Kaggle datasets. Go ahead and use it however you see fit! Here you are provided with with +2300 JPEG images of pepe the frog. Images are scaled to have max dimensions of 512x512. \n\n# Tasks \n\n- Generate unique and insanely rare pepe images using ML.\n- Use CLIP-like model in order to predict the `000000_file_names.jpg` for each image.\n- Cluster images into groups, find out what these groups have in common.\n- Download all of the images to your hard-drive for safekeeping.\n\nBut, most importantly... **have FUN**!\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "art",
+    "mental health",
+    "computer science",
+    "image",
+    "image style transfer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

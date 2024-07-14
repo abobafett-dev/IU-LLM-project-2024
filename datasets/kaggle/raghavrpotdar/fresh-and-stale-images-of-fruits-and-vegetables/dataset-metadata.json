@@ -1,0 +1,54 @@
+{
+  "id": "raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables",
+  "id_no": 1346850,
+  "datasetSlugNullable": "fresh-and-stale-images-of-fruits-and-vegetables",
+  "ownerUserNullable": "raghavrpotdar",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Fresh and Stale Images of Fruits and Vegetables",
+  "subtitleNullable": "Apple Banana BitterGourd Capsicum Orange Tomato",
+  "descriptionNullable": "### Context\n\nThis dataset contains images of 6 fruits and vegetables: apple, banana, bitter gourd, capsicum, orange, and tomato. The images of each fruit or vegetable are grouped into two categories: fresh and stale. The purpose behind the creation of this dataset is the development of a machine learning model to classify fruits and vegetables as fresh or stale. This feature is a part of our final year project titled \u2018Food Aayush\u2019. [(Github Link)](https://github.com/narenkhatwani/FoodAayush)\n\n\n### Data Collection and Preprocessing\nFor collecting the images to create the dataset, images of the fruits and vegetables were captured daily using a mobile phone camera. Depending on the visual properties of the fruit or vegetable in each image and on the day when the image was captured, each image was labelled as fresh or stale. Additionally, videos of the fruits and vegetables were taken, and the frames of these videos were extracted to collect a large number of images conveniently. The machine learning model requires a 224 x 224-pixel image. So, the images were cropped to extract the center square of the image and resized in 512 x 512 pixels using a data pre-processing library in Keras. \n[Frame Extraction](https://www.kaggle.com/raghavrpotdar/video-frame-extractor)\n\nData Augmentation: We used ImageDataGenerator library from Keras for augmentation. We on average created 20 augmentations per image which indeed improve our models accuracy.\n[Data Augmentation](https://www.kaggle.com/raghavrpotdar/data-augmentation-of-fruits-images)\n\n### Acknowledgements\nWe would like to give credit to this dataset as we have obtained the images in some of the classes from here.\n[Dataset](https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification)\n\n\n### Inspiration\nOur BE final year project, titled \u2018Food Aayush\u2019, is an application that can be used for the classification of fruits and vegetables as fresh or stale, the classification of cooking oils into different rancidity levels, and the analysis of various parameters related to the nutritional value of food and people\u2019s dietary intake. We have trained a machine learning model for the classification of fruits and vegetables. This dataset was created for training the machine learning model.\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 1346850,
+  "datasetSlug": "fresh-and-stale-images-of-fruits-and-vegetables",
+  "hasDatasetSlug": true,
+  "ownerUser": "raghavrpotdar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 33569,
+  "totalVotes": 56,
+  "totalDownloads": 5153,
+  "title": "Fresh and Stale Images of Fruits and Vegetables",
+  "hasTitle": true,
+  "subtitle": "Apple Banana BitterGourd Capsicum Orange Tomato",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains images of 6 fruits and vegetables: apple, banana, bitter gourd, capsicum, orange, and tomato. The images of each fruit or vegetable are grouped into two categories: fresh and stale. The purpose behind the creation of this dataset is the development of a machine learning model to classify fruits and vegetables as fresh or stale. This feature is a part of our final year project titled \u2018Food Aayush\u2019. [(Github Link)](https://github.com/narenkhatwani/FoodAayush)\n\n\n### Data Collection and Preprocessing\nFor collecting the images to create the dataset, images of the fruits and vegetables were captured daily using a mobile phone camera. Depending on the visual properties of the fruit or vegetable in each image and on the day when the image was captured, each image was labelled as fresh or stale. Additionally, videos of the fruits and vegetables were taken, and the frames of these videos were extracted to collect a large number of images conveniently. The machine learning model requires a 224 x 224-pixel image. So, the images were cropped to extract the center square of the image and resized in 512 x 512 pixels using a data pre-processing library in Keras. \n[Frame Extraction](https://www.kaggle.com/raghavrpotdar/video-frame-extractor)\n\nData Augmentation: We used ImageDataGenerator library from Keras for augmentation. We on average created 20 augmentations per image which indeed improve our models accuracy.\n[Data Augmentation](https://www.kaggle.com/raghavrpotdar/data-augmentation-of-fruits-images)\n\n### Acknowledgements\nWe would like to give credit to this dataset as we have obtained the images in some of the classes from here.\n[Dataset](https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification)\n\n\n### Inspiration\nOur BE final year project, titled \u2018Food Aayush\u2019, is an application that can be used for the classification of fruits and vegetables as fresh or stale, the classification of cooking oils into different rancidity levels, and the analysis of various parameters related to the nutritional value of food and people\u2019s dietary intake. We have trained a machine learning model for the classification of fruits and vegetables. This dataset was created for training the machine learning model.\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "batata0712",
+      "role": "writer"
+    },
+    {
+      "username": "adithyashrivastava",
+      "role": "writer"
+    },
+    {
+      "username": "rahulsohandani",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "threnjen/40-years-of-air-quality-index-from-the-epa-daily",
+  "id_no": 1556851,
+  "datasetSlugNullable": "40-years-of-air-quality-index-from-the-epa-daily",
+  "ownerUserNullable": "threnjen",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "1980-2021 Daily Air Quality Index from the EPA",
+  "subtitleNullable": "Daily AQI Statistics for the USA from 1980 - May 2021",
+  "descriptionNullable": "### Content\n\nThis set includes daily reports of air quality index from various US Metro areas, as well as geographic data for the collection locations. This set has over 10 million rows.\n\nWant a smaller set? I also have ANNUAL metrics available [here](https://www.kaggle.com/threnjen/40-years-of-air-quality-index-from-the-epa-yearly). The yearly dataset is ~34k rows.\n\n### Acknowledgements\n\nData sourced directly from the [Environmental Protection Agency](https://aqs.epa.gov/aqsweb/airdata/download_files.html)\nBanner: Photo by <a href=\"https://unsplash.com/@shaikhulud?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Maxim Tolchinskiy</a> on <a href=\"https://unsplash.com/s/photos/pollution?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n  \n\n### Inspiration\n\nThis data offers opportunities for historical evaluation and visualization. What trends do we see in air quality over the years? Are there any predictions to be make for future air quality based on recent trends?\n\n\nLike this dataset? [See my other datasets](https://www.kaggle.com/threnjen/datasets)!",
+  "datasetId": 1556851,
+  "datasetSlug": "40-years-of-air-quality-index-from-the-epa-daily",
+  "hasDatasetSlug": true,
+  "ownerUser": "threnjen",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 14074,
+  "totalVotes": 41,
+  "totalDownloads": 1571,
+  "title": "1980-2021 Daily Air Quality Index from the EPA",
+  "hasTitle": true,
+  "subtitle": "Daily AQI Statistics for the USA from 1980 - May 2021",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThis set includes daily reports of air quality index from various US Metro areas, as well as geographic data for the collection locations. This set has over 10 million rows.\n\nWant a smaller set? I also have ANNUAL metrics available [here](https://www.kaggle.com/threnjen/40-years-of-air-quality-index-from-the-epa-yearly). The yearly dataset is ~34k rows.\n\n### Acknowledgements\n\nData sourced directly from the [Environmental Protection Agency](https://aqs.epa.gov/aqsweb/airdata/download_files.html)\nBanner: Photo by <a href=\"https://unsplash.com/@shaikhulud?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Maxim Tolchinskiy</a> on <a href=\"https://unsplash.com/s/photos/pollution?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n  \n\n### Inspiration\n\nThis data offers opportunities for historical evaluation and visualization. What trends do we see in air quality over the years? Are there any predictions to be make for future air quality based on recent trends?\n\n\nLike this dataset? [See my other datasets](https://www.kaggle.com/threnjen/datasets)!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "atmospheric science",
+    "weather and climate",
+    "beginner",
+    "data visualization",
+    "regression",
+    "social issues and advocacy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "U.S. Government Works",
+      "name": "U.S. Government Works",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

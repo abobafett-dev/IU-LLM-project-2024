@@ -1,0 +1,64 @@
+{
+  "id": "yazanqiblawey/sars-mers-xray-images-dataset",
+  "id_no": 654198,
+  "datasetSlugNullable": "sars-mers-xray-images-dataset",
+  "ownerUserNullable": "yazanqiblawey",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "COVID-19, SARS, MERS X-ray Images Dataset",
+  "subtitleNullable": "A Dataset with COVID-19, SARS and MERS X-ray images and lung masks ",
+  "descriptionNullable": "# #New version (4) has been released in 12-01-2022: The update includes the lung masks for all  X-ray images.\nA team of researchers from Qatar University, Doha, Qatar and the University of Dhaka, Bangladesh have created a database of posterior-to-anterior (PA) or anterior-to-posterior (AP) X-rays images for COVID-19, Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS). Currently, the database includes 423 positive COVID-19 images, 134 positive SARS images and 144 positive MERS images with the corresponding lung masks.\n\n**Image Formats**\n- All the images are in Portable Network Graphics (PNG) file format.  \n\n**Objective**\n Researchers can use this database to produce useful and impactful scholarly work on COVID-19, which can help in tackling this pandemic.\n\n**Citation**\nPlease cite the following paper if you used this dataset\n\n&gt; Tahir, A., Qiblawey, Y., Khandakar, A. et al. Deep Learning for Reliable Classification of COVID-19, MERS, and SARS from Chest X-ray Images. *Cogn Comput (2022)*. https://doi.org/10.1007/s12559-021-09955-1\n\nAlso Cite this dataset as following \n` @misc{yazan qiblawey_muhammad chowdhury_anas Tahir_amith khandakar_tawsifur rahman_uzair khurshid_2020, title={COVID-19, SARS, MERS X-ray Images Dataset}, url={https://www.kaggle.com/dsv/1572508}, DOI={10.34740/KAGGLE/DSV/1572508}, publisher={Kaggle}, author={Yazan Qiblawey and Muhammad Chowdhury and Anas Tahir and Amith Khandakar and Tawsifur Rahman and Uzair Khurshid}, year={2020} }`\n\n**Acknowledgments**\nThanks to Italian Society of Medical and Interventional Radiology (SIRM) COVID-19 Database [1], Novel Corona Virus 2019 Dataset, Radiopaedia, Chest Imaging (Spain) at thread reader and online articles and news-portals (until April 16th), SIRM COVID-19 database, Joseph Paul Cohen et al.[2] database.\n\n**References**\n[1] S.I. S. o. M. a. I. Radiology. (2020). COVID-19 Database. Available: https://www.sirm.org/category/senza-categoria/covid-19/\n[2] Joseph Paul Cohen and Paul Morrison and Lan Dao, \"COVID-19 image data collection\", arXiv:2003.11597, 2020 https://github.com/ieee8023/covid-chestxray-dataset.\n",
+  "datasetId": 654198,
+  "datasetSlug": "sars-mers-xray-images-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yazanqiblawey",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 4964,
+  "totalVotes": 10,
+  "totalDownloads": 237,
+  "title": "COVID-19, SARS, MERS X-ray Images Dataset",
+  "hasTitle": true,
+  "subtitle": "A Dataset with COVID-19, SARS and MERS X-ray images and lung masks ",
+  "hasSubtitle": true,
+  "description": "# #New version (4) has been released in 12-01-2022: The update includes the lung masks for all  X-ray images.\nA team of researchers from Qatar University, Doha, Qatar and the University of Dhaka, Bangladesh have created a database of posterior-to-anterior (PA) or anterior-to-posterior (AP) X-rays images for COVID-19, Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS). Currently, the database includes 423 positive COVID-19 images, 134 positive SARS images and 144 positive MERS images with the corresponding lung masks.\n\n**Image Formats**\n- All the images are in Portable Network Graphics (PNG) file format.  \n\n**Objective**\n Researchers can use this database to produce useful and impactful scholarly work on COVID-19, which can help in tackling this pandemic.\n\n**Citation**\nPlease cite the following paper if you used this dataset\n\n&gt; Tahir, A., Qiblawey, Y., Khandakar, A. et al. Deep Learning for Reliable Classification of COVID-19, MERS, and SARS from Chest X-ray Images. *Cogn Comput (2022)*. https://doi.org/10.1007/s12559-021-09955-1\n\nAlso Cite this dataset as following \n` @misc{yazan qiblawey_muhammad chowdhury_anas Tahir_amith khandakar_tawsifur rahman_uzair khurshid_2020, title={COVID-19, SARS, MERS X-ray Images Dataset}, url={https://www.kaggle.com/dsv/1572508}, DOI={10.34740/KAGGLE/DSV/1572508}, publisher={Kaggle}, author={Yazan Qiblawey and Muhammad Chowdhury and Anas Tahir and Amith Khandakar and Tawsifur Rahman and Uzair Khurshid}, year={2020} }`\n\n**Acknowledgments**\nThanks to Italian Society of Medical and Interventional Radiology (SIRM) COVID-19 Database [1], Novel Corona Virus 2019 Dataset, Radiopaedia, Chest Imaging (Spain) at thread reader and online articles and news-portals (until April 16th), SIRM COVID-19 database, Joseph Paul Cohen et al.[2] database.\n\n**References**\n[1] S.I. S. o. M. a. I. Radiology. (2020). COVID-19 Database. Available: https://www.sirm.org/category/senza-categoria/covid-19/\n[2] Joseph Paul Cohen and Paul Morrison and Lan Dao, \"COVID-19 image data collection\", arXiv:2003.11597, 2020 https://github.com/ieee8023/covid-chestxray-dataset.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "computer science",
+    "classification",
+    "deep learning",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "mc16262",
+      "role": "writer"
+    },
+    {
+      "username": "tawsifurrahman",
+      "role": "writer"
+    },
+    {
+      "username": "amithkhandakar",
+      "role": "writer"
+    },
+    {
+      "username": "anasmohammedtahir",
+      "role": "writer"
+    },
+    {
+      "username": "uzairk7",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

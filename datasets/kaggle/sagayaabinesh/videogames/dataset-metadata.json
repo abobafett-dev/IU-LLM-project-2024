@@ -1,0 +1,39 @@
+{
+  "id": "sagayaabinesh/videogames",
+  "id_no": 3282984,
+  "datasetSlugNullable": "videogames",
+  "ownerUserNullable": "sagayaabinesh",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "VideoGames",
+  "subtitleNullable": "Here is a exploratory data analysis of a video game datset! Happy Kaggling! :)",
+  "descriptionNullable": "Here Is The Video Games Dataset That I Used For The Exploratory Data Analysis! :)\n\nData Description:\n\nRank: The ranking of the video game based on its global sales, with 1 being the highest-selling game.\n\nName: The title or name of the video game.\n\nPlatform: The gaming platform or console on which the game was released (e.g., Wii, NES, GB, DS).\n\nYear: The year in which the video game was released.\n\nGenre: The category or type of gameplay experience the game offers (e.g., Sports, Platform, Racing, Role-Playing, Puzzle, Misc, Shooter).\n\nPublisher: The company responsible for publishing and distributing the video game.\n\nNA_Sales: The total sales (in millions) of the video game in North America (NA).\n\nEU_Sales: The total sales (in millions) of the video game in Europe (EU).\n\nJP_Sales: The total sales (in millions) of the video game in Japan (JP).\n\nOther_Sales: The total sales (in millions) of the video game in regions other than North America, Europe, and Japan.\n\nGlobal_Sales: The total worldwide sales (in millions) of the video game, combining sales from all regions.",
+  "datasetId": 3282984,
+  "datasetSlug": "videogames",
+  "hasDatasetSlug": true,
+  "ownerUser": "sagayaabinesh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 1620,
+  "totalVotes": 6,
+  "totalDownloads": 332,
+  "title": "VideoGames",
+  "hasTitle": true,
+  "subtitle": "Here is a exploratory data analysis of a video game datset! Happy Kaggling! :)",
+  "hasSubtitle": true,
+  "description": "Here Is The Video Games Dataset That I Used For The Exploratory Data Analysis! :)\n\nData Description:\n\nRank: The ranking of the video game based on its global sales, with 1 being the highest-selling game.\n\nName: The title or name of the video game.\n\nPlatform: The gaming platform or console on which the game was released (e.g., Wii, NES, GB, DS).\n\nYear: The year in which the video game was released.\n\nGenre: The category or type of gameplay experience the game offers (e.g., Sports, Platform, Racing, Role-Playing, Puzzle, Misc, Shooter).\n\nPublisher: The company responsible for publishing and distributing the video game.\n\nNA_Sales: The total sales (in millions) of the video game in North America (NA).\n\nEU_Sales: The total sales (in millions) of the video game in Europe (EU).\n\nJP_Sales: The total sales (in millions) of the video game in Japan (JP).\n\nOther_Sales: The total sales (in millions) of the video game in regions other than North America, Europe, and Japan.\n\nGlobal_Sales: The total worldwide sales (in millions) of the video game, combining sales from all regions.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sebastianpinillos/pokemon-match-ups",
+  "id_no": 970060,
+  "datasetSlugNullable": "pokemon-match-ups",
+  "ownerUserNullable": "sebastianpinillos",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Pokemon Match ups",
+  "subtitleNullable": "Pokemon matchups based on their basic stats",
+  "descriptionNullable": "### Context\n\nThis dataset was worked for the development of a prediction algorithm using Logistic Regression for the Concurrent Programming course.\n\n### Content\n\nThe dataset contains the information of a 1 vs 1 of pok\u00e9mon battles, including the versions of the new generations up to the Galar region (without considering the expansion passes). For the evaluation of the winner, only the basic stats and possible type advantages are considered, so for the moment we forget more complex concepts such as: natures, special stats, abilities and others.\n\n### Inspiration\n\nPokemon always caught my attention and I found the idea of \u200b\u200bworking with the possibility of their existence and how their direct confrontations would unfold in an open environment.",
+  "datasetId": 970060,
+  "datasetSlug": "pokemon-match-ups",
+  "hasDatasetSlug": true,
+  "ownerUser": "sebastianpinillos",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 2760,
+  "totalVotes": 6,
+  "totalDownloads": 136,
+  "title": "Pokemon Match ups",
+  "hasTitle": true,
+  "subtitle": "Pokemon matchups based on their basic stats",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset was worked for the development of a prediction algorithm using Logistic Regression for the Concurrent Programming course.\n\n### Content\n\nThe dataset contains the information of a 1 vs 1 of pok\u00e9mon battles, including the versions of the new generations up to the Galar region (without considering the expansion passes). For the evaluation of the winner, only the basic stats and possible type advantages are considered, so for the moment we forget more complex concepts such as: natures, special stats, abilities and others.\n\n### Inspiration\n\nPokemon always caught my attention and I found the idea of \u200b\u200bworking with the possibility of their existence and how their direct confrontations would unfold in an open environment.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "games",
+    "video games",
+    "computer science",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

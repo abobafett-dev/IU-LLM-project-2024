@@ -1,0 +1,41 @@
+{
+  "id": "cccccao/janestreet-parquet",
+  "id_no": 1117374,
+  "datasetSlugNullable": "janestreet-parquet",
+  "ownerUserNullable": "cccccao",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "janestreet_parquet",
+  "subtitleNullable": "This is a faster parquet version of train.csv from the janestreet",
+  "descriptionNullable": "### Brief Introduction\n\nThis is a faster `.parquet` format version converted from the [jane street market prediction data](https://www.kaggle.com/c/jane-street-market-prediction/data)\nYou can use `pandas.read_parquet()` function to read this data like this:\n```\ndata = pd.read_parquet('../input/janestreet-parquet/train.parquet')\n```",
+  "datasetId": 1117374,
+  "datasetSlug": "janestreet-parquet",
+  "hasDatasetSlug": true,
+  "ownerUser": "cccccao",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 1729,
+  "totalVotes": 6,
+  "totalDownloads": 97,
+  "title": "janestreet_parquet",
+  "hasTitle": true,
+  "subtitle": "This is a faster parquet version of train.csv from the janestreet",
+  "hasSubtitle": true,
+  "description": "### Brief Introduction\n\nThis is a faster `.parquet` format version converted from the [jane street market prediction data](https://www.kaggle.com/c/jane-street-market-prediction/data)\nYou can use `pandas.read_parquet()` function to read this data like this:\n```\ndata = pd.read_parquet('../input/janestreet-parquet/train.parquet')\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "time series analysis",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

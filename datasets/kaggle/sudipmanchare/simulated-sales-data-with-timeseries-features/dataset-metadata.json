@@ -1,0 +1,42 @@
+{
+  "id": "sudipmanchare/simulated-sales-data-with-timeseries-features",
+  "id_no": 3478191,
+  "datasetSlugNullable": "simulated-sales-data-with-timeseries-features",
+  "ownerUserNullable": "sudipmanchare",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Sales Data with Timeseries Features",
+  "subtitleNullable": "Time-series sales data generated using NumPy, can be used to test models",
+  "descriptionNullable": "Time-series sales data generated using NumPy, can be used to test and play around with forecasting models. \nCode for the same can be found as a notebook named 'Sales Data Code' which can be found under the Code section or my profile.\nIt is tuned in such a way that weekends portray high sales than weekdays, that is the seasonality coefficient has been set to 7.\nThe data is scalable and can be increased by simply tweaking the parameters of the accompanying code\n",
+  "datasetId": 3478191,
+  "datasetSlug": "simulated-sales-data-with-timeseries-features",
+  "hasDatasetSlug": true,
+  "ownerUser": "sudipmanchare",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6362,
+  "totalVotes": 16,
+  "totalDownloads": 1122,
+  "title": "Sales Data with Timeseries Features",
+  "hasTitle": true,
+  "subtitle": "Time-series sales data generated using NumPy, can be used to test models",
+  "hasSubtitle": true,
+  "description": "Time-series sales data generated using NumPy, can be used to test and play around with forecasting models. \nCode for the same can be found as a notebook named 'Sales Data Code' which can be found under the Code section or my profile.\nIt is tuned in such a way that weekends portray high sales than weekdays, that is the seasonality coefficient has been set to 7.\nThe data is scalable and can be increased by simply tweaking the parameters of the accompanying code\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "programming",
+    "time series analysis",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

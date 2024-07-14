@@ -1,0 +1,40 @@
+{
+  "id": "gauravduttakiit/soybean-seeds-stage-prediction",
+  "id_no": 3748522,
+  "datasetSlugNullable": "soybean-seeds-stage-prediction",
+  "ownerUserNullable": "gauravduttakiit",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Soybean Seeds Stage Prediction",
+  "subtitleNullable": "Soybean seeds lifecycle stage prediction",
+  "descriptionNullable": "The dataset includes five types of individual soybean seed images, totalling 5513: intact, spotted, immature, broken, and skin-damaged. Furthermore, there are over 1000 images of soybean seeds in each category. Those images of individual soybeans were classified into five categories based on the Standard of Soybean Classification (GB1352-2009). The soybean images with the seeds in physical touch were captured by an industrial camera. Subsequently, individual soybean images (227\u00d7227 pixels) were divided from the soybean images (3072\u00d72048 pixels) using an image-processing algorithm with a segmentation accuracy of over 98%. The dataset can serve to study the classification or quality assessment of soybean seeds.\n\nOriginal Dataset : https://www.kaggle.com/datasets/warcoder/soyabean-seeds",
+  "datasetId": 3748522,
+  "datasetSlug": "soybean-seeds-stage-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravduttakiit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 242,
+  "totalVotes": 4,
+  "totalDownloads": 18,
+  "title": "Soybean Seeds Stage Prediction",
+  "hasTitle": true,
+  "subtitle": "Soybean seeds lifecycle stage prediction",
+  "hasSubtitle": true,
+  "description": "The dataset includes five types of individual soybean seed images, totalling 5513: intact, spotted, immature, broken, and skin-damaged. Furthermore, there are over 1000 images of soybean seeds in each category. Those images of individual soybeans were classified into five categories based on the Standard of Soybean Classification (GB1352-2009). The soybean images with the seeds in physical touch were captured by an industrial camera. Subsequently, individual soybean images (227\u00d7227 pixels) were divided from the soybean images (3072\u00d72048 pixels) using an image-processing algorithm with a segmentation accuracy of over 98%. The dataset can serve to study the classification or quality assessment of soybean seeds.\n\nOriginal Dataset : https://www.kaggle.com/datasets/warcoder/soyabean-seeds",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "agriculture",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

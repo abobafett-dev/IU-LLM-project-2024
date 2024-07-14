@@ -1,0 +1,43 @@
+{
+  "id": "abdullahkhanuet22/olx-cars-dataset",
+  "id_no": 4187439,
+  "datasetSlugNullable": "olx-cars-dataset",
+  "ownerUserNullable": "abdullahkhanuet22",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cars Dataset",
+  "subtitleNullable": "Best dataset for building Predictive models, Recommendation systems or report. ",
+  "descriptionNullable": "Available Dataset **having 9000+ rows**, containing featuring details of used cars available on [OLX website](https://www.olx.com.pk/cars_c84) for sale. Datasets belongs to cars mostly used in **Pakistan**, captures real data without any dummy entries. Dataset contains car details of **11 famous companies** e.g., Suzuki, Toyota, Honda, Hyundai, Daihatsu and Mercedes etc. Further, company models are also mentioned such as Suzuki company models are Bolan, Alto, Wagon R, Swift, Baleno etc.\n\n## **What you can do with this dataset?**\n- Best for building powerful Regression model with target variable of Prices or other according to your requirement.\n- Recommendation system\n- Generate In-depth Data Analysis Report \n\n## Key Attributes:\n- Car ID and its Name\n- Model\n- Company\n- Year of Purchase\n- KM's driven\n- Price\n- Fuel type\n- Registration city\n- Transmission\n- Condition means car is used or new\n- Seller Location\n- Features of cars\n- Images of selling car\n- Car page as a proof for ensuring that information is real\n\n\n&gt;You can add or remove columns for efficient model building.\n",
+  "datasetId": 4187439,
+  "datasetSlug": "olx-cars-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "abdullahkhanuet22",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7347,
+  "totalVotes": 25,
+  "totalDownloads": 1680,
+  "title": "Cars Dataset",
+  "hasTitle": true,
+  "subtitle": "Best dataset for building Predictive models, Recommendation systems or report. ",
+  "hasSubtitle": true,
+  "description": "Available Dataset **having 9000+ rows**, containing featuring details of used cars available on [OLX website](https://www.olx.com.pk/cars_c84) for sale. Datasets belongs to cars mostly used in **Pakistan**, captures real data without any dummy entries. Dataset contains car details of **11 famous companies** e.g., Suzuki, Toyota, Honda, Hyundai, Daihatsu and Mercedes etc. Further, company models are also mentioned such as Suzuki company models are Bolan, Alto, Wagon R, Swift, Baleno etc.\n\n## **What you can do with this dataset?**\n- Best for building powerful Regression model with target variable of Prices or other according to your requirement.\n- Recommendation system\n- Generate In-depth Data Analysis Report \n\n## Key Attributes:\n- Car ID and its Name\n- Model\n- Company\n- Year of Purchase\n- KM's driven\n- Price\n- Fuel type\n- Registration city\n- Transmission\n- Condition means car is used or new\n- Seller Location\n- Features of cars\n- Images of selling car\n- Car page as a proof for ensuring that information is real\n\n\n&gt;You can add or remove columns for efficient model building.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "intermediate",
+    "linear regression",
+    "tabular",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

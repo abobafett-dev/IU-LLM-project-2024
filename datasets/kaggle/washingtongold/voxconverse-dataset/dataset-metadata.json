@@ -1,0 +1,44 @@
+{
+  "id": "washingtongold/voxconverse-dataset",
+  "id_no": 1877225,
+  "datasetSlugNullable": "voxconverse-dataset",
+  "ownerUserNullable": "washingtongold",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "VoxConverse Dataset",
+  "subtitleNullable": "50+ Hours of Annotated Multi-speaker Audio",
+  "descriptionNullable": "The [**Vox Converse** dataset](https://www.robots.ox.ac.uk/~vgg/data/voxconverse/) was created by the [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/) at Oxford. It contains 50+ hours of multi-speaker audio pulled from YouTube videos, usually in a political debate or news segment context to ensure multi-speaker dialogue. Read the paper [here](https://arxiv.org/abs/2007.01216).\n\nThis dataset is provided on Kaggle for simple ease of access and processing. `vosconverse_dev_wav/audio/` contains `.wav` files corresponding to `.rttm` (rich transcription time-marked) files in `labels/dev/`. Read about `.rttm` file organization in Appendix A of [this document](https://web.archive.org/web/20170119114252/http://www.itl.nist.gov/iad/mig/tests/rt/2009/docs/rt09-meeting-eval-plan-v2.pdf). You can read a text representation of a `.rttm` file with the [`pydiarization`](https://pypi.org/project/pydiarization/) library. Each `.rttm` file marks the start and duration of when a unique speaker is talking in the associated audio clip.\n\nYou can use this dataset to identify when a particular person is speaking, detect when the speaker changes, and other audio applications.\n\nNotes from the Visual Geometry Group:\n\n&gt; The VoxConverse dataset is available to download for research purposes under a Creative Commons Attribution 4.0 International License. The copyright remains with the original owners of the video.\n\n&gt; In order to obtain videos with a large amount of overlapping speech, we used data consisting of political debates and news segments. The views and opinions expressed by speakers in the dataset are those of the individual speakers and do not necessarily reflect positions of the University of Oxford, Naver Corporation, or the authors of the paper.\n\n&gt; We would also like to note that the distribution of identities in this dataset may not be representative the global human population. Please be careful of unintended societal, gender, racial, linguistic and other biases when training or deploying models trained on this data.\n\nAll credit goes to the VGG.",
+  "datasetId": 1877225,
+  "datasetSlug": "voxconverse-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "washingtongold",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 2519,
+  "totalVotes": 4,
+  "totalDownloads": 357,
+  "title": "VoxConverse Dataset",
+  "hasTitle": true,
+  "subtitle": "50+ Hours of Annotated Multi-speaker Audio",
+  "hasSubtitle": true,
+  "description": "The [**Vox Converse** dataset](https://www.robots.ox.ac.uk/~vgg/data/voxconverse/) was created by the [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/) at Oxford. It contains 50+ hours of multi-speaker audio pulled from YouTube videos, usually in a political debate or news segment context to ensure multi-speaker dialogue. Read the paper [here](https://arxiv.org/abs/2007.01216).\n\nThis dataset is provided on Kaggle for simple ease of access and processing. `vosconverse_dev_wav/audio/` contains `.wav` files corresponding to `.rttm` (rich transcription time-marked) files in `labels/dev/`. Read about `.rttm` file organization in Appendix A of [this document](https://web.archive.org/web/20170119114252/http://www.itl.nist.gov/iad/mig/tests/rt/2009/docs/rt09-meeting-eval-plan-v2.pdf). You can read a text representation of a `.rttm` file with the [`pydiarization`](https://pypi.org/project/pydiarization/) library. Each `.rttm` file marks the start and duration of when a unique speaker is talking in the associated audio clip.\n\nYou can use this dataset to identify when a particular person is speaking, detect when the speaker changes, and other audio applications.\n\nNotes from the Visual Geometry Group:\n\n&gt; The VoxConverse dataset is available to download for research purposes under a Creative Commons Attribution 4.0 International License. The copyright remains with the original owners of the video.\n\n&gt; In order to obtain videos with a large amount of overlapping speech, we used data consisting of political debates and news segments. The views and opinions expressed by speakers in the dataset are those of the individual speakers and do not necessarily reflect positions of the University of Oxford, Naver Corporation, or the authors of the paper.\n\n&gt; We would also like to note that the distribution of identities in this dataset may not be representative the global human population. Please be careful of unintended societal, gender, racial, linguistic and other biases when training or deploying models trained on this data.\n\nAll credit goes to the VGG.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "beginner",
+    "intermediate",
+    "advanced",
+    "audio",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

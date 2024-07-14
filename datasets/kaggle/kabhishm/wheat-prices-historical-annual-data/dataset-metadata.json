@@ -1,0 +1,41 @@
+{
+  "id": "kabhishm/wheat-prices-historical-annual-data",
+  "id_no": 2755479,
+  "datasetSlugNullable": "wheat-prices-historical-annual-data",
+  "ownerUserNullable": "kabhishm",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Wheat Prices - Historical Annual Data",
+  "subtitleNullable": "List of historical wheat prices from 1960-2022",
+  "descriptionNullable": "The list contains details on the historical annual prices from 1960-2022.\n\n###**COLUMN DESCRIPTION**\n- 'year': year\n- 'avg_closing _price': the average closing price\n- 'year_open': price when the year opened\n- 'year_high': highest price of the year\n- 'year_low': lowest price of the year\n- 'annual_perc _change': annual percentage change\n\n###**FILE DESCRIPTION**\nFile name: wheat_prices.csv\n\nPhoto by <a href=\"https://unsplash.com/@melissaaskew?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Melissa Askew</a> on <a href=\"https://unsplash.com/photos/y4xZxzN754M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n  ",
+  "datasetId": 2755479,
+  "datasetSlug": "wheat-prices-historical-annual-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "kabhishm",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1346,
+  "totalVotes": 8,
+  "totalDownloads": 174,
+  "title": "Wheat Prices - Historical Annual Data",
+  "hasTitle": true,
+  "subtitle": "List of historical wheat prices from 1960-2022",
+  "hasSubtitle": true,
+  "description": "The list contains details on the historical annual prices from 1960-2022.\n\n###**COLUMN DESCRIPTION**\n- 'year': year\n- 'avg_closing _price': the average closing price\n- 'year_open': price when the year opened\n- 'year_high': highest price of the year\n- 'year_low': lowest price of the year\n- 'annual_perc _change': annual percentage change\n\n###**FILE DESCRIPTION**\nFile name: wheat_prices.csv\n\nPhoto by <a href=\"https://unsplash.com/@melissaaskew?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Melissa Askew</a> on <a href=\"https://unsplash.com/photos/y4xZxzN754M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "agriculture",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

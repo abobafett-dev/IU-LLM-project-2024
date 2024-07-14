@@ -1,0 +1,44 @@
+{
+  "id": "suraj520/music-dataset-song-information-and-lyrics",
+  "id_no": 3305794,
+  "datasetSlugNullable": "music-dataset-song-information-and-lyrics",
+  "ownerUserNullable": "suraj520",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Music Dataset: Song Information and Lyrics",
+  "subtitleNullable": "A Comprehensive Collection of Songs with Metadata and Lyrics for Research & Dev",
+  "descriptionNullable": "**The Dataset's Purpose:**\nThis dataset's goal is to give a complete collection of music facts and lyrics for study and development. It aspires to be a useful resource for a variety of applications such as music analysis, natural language processing, sentiment analysis, recommendation systems, and others. This dataset, which combines song information and lyrics, can help academics, developers, and music fans examine and analyse the link between listeners' preferences and lyrical content.\n\n**Dataset Description:**\n\nThe music dataset contains around 660 songs, each with its own set of characteristics. The following characteristics are included in the dataset:\n\nName: The title of the song.\nLyrics: The lyrics of the song.\nSinger: The name of the singer or artist who performed the song.\nMovie: The movie or album associated with the song (if applicable).\nGenre: The genre or genres to which the song belongs.\nRating: The rating or popularity score of the song from Spotify.\n\nThe dataset is intended to give a wide variety of songs from various genres, performers, and films. It includes popular songs from numerous ages and places, as well as a wide spectrum of musical styles. The lyrics were obtained from publically accessible services such as Spotify and Soundcloud, and were converted from audio to text using speech recognition algorithms. While every attempt has been taken to assure correctness, please keep in mind that owing to the limits of the data sources and voice recognition algorithms, there may be  inaccuracies or missing lyrics encountered upon transcribing.\n\n**Use Cases in Research and Development:**\n\nThis music dataset has several research and development applications. Among the possible applications are:\n\n1. Music Analysis: By analysing the links between song elements such as genre, vocalist, and rating, researchers can acquire insights into the features and patterns of various music genres.\n2. Natural Language Processing (NLP): NLP researchers may use the lyrics to create language models, sentiment analysis algorithms, topic modelling approaches, and other text-based music studies.\n3. Recommendation Systems: Using the information, developers may create recommendation systems that offer music based on user preferences, lyrics sentiment, or genre similarities.\n4. Music Generating Machine Learning Models: The dataset may be used to train machine learning models for generating new lyrics or making music compositions.\n5. Music Sentiment Analysis: To get insights into the emotional components of music and its influence on listeners, researchers might analyse the feelings conveyed in song lyrics.\n6. Movie Soundtracks Analysis: Researchers can explore the association between song attributes and their use in movie soundtracks by investigating the movie attribute.\n\nOverall, the goal of this music dataset is to provide a rich resource for academics, developers, and music fans to investigate the complicated relationships between song features, lyrics, and numerous research and development applications in the music domain.\n\n\n\n",
+  "datasetId": 3305794,
+  "datasetSlug": "music-dataset-song-information-and-lyrics",
+  "hasDatasetSlug": true,
+  "ownerUser": "suraj520",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 11699,
+  "totalVotes": 56,
+  "totalDownloads": 1751,
+  "title": "Music Dataset: Song Information and Lyrics",
+  "hasTitle": true,
+  "subtitle": "A Comprehensive Collection of Songs with Metadata and Lyrics for Research & Dev",
+  "hasSubtitle": true,
+  "description": "**The Dataset's Purpose:**\nThis dataset's goal is to give a complete collection of music facts and lyrics for study and development. It aspires to be a useful resource for a variety of applications such as music analysis, natural language processing, sentiment analysis, recommendation systems, and others. This dataset, which combines song information and lyrics, can help academics, developers, and music fans examine and analyse the link between listeners' preferences and lyrical content.\n\n**Dataset Description:**\n\nThe music dataset contains around 660 songs, each with its own set of characteristics. The following characteristics are included in the dataset:\n\nName: The title of the song.\nLyrics: The lyrics of the song.\nSinger: The name of the singer or artist who performed the song.\nMovie: The movie or album associated with the song (if applicable).\nGenre: The genre or genres to which the song belongs.\nRating: The rating or popularity score of the song from Spotify.\n\nThe dataset is intended to give a wide variety of songs from various genres, performers, and films. It includes popular songs from numerous ages and places, as well as a wide spectrum of musical styles. The lyrics were obtained from publically accessible services such as Spotify and Soundcloud, and were converted from audio to text using speech recognition algorithms. While every attempt has been taken to assure correctness, please keep in mind that owing to the limits of the data sources and voice recognition algorithms, there may be  inaccuracies or missing lyrics encountered upon transcribing.\n\n**Use Cases in Research and Development:**\n\nThis music dataset has several research and development applications. Among the possible applications are:\n\n1. Music Analysis: By analysing the links between song elements such as genre, vocalist, and rating, researchers can acquire insights into the features and patterns of various music genres.\n2. Natural Language Processing (NLP): NLP researchers may use the lyrics to create language models, sentiment analysis algorithms, topic modelling approaches, and other text-based music studies.\n3. Recommendation Systems: Using the information, developers may create recommendation systems that offer music based on user preferences, lyrics sentiment, or genre similarities.\n4. Music Generating Machine Learning Models: The dataset may be used to train machine learning models for generating new lyrics or making music compositions.\n5. Music Sentiment Analysis: To get insights into the emotional components of music and its influence on listeners, researchers might analyse the feelings conveyed in song lyrics.\n6. Movie Soundtracks Analysis: Researchers can explore the association between song attributes and their use in movie soundtracks by investigating the movie attribute.\n\nOverall, the goal of this music dataset is to provide a rich resource for academics, developers, and music fans to investigate the complicated relationships between song features, lyrics, and numerous research and development applications in the music domain.\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "intermediate",
+    "advanced",
+    "text mining",
+    "text",
+    "audio synthesis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

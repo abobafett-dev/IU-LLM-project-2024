@@ -1,0 +1,42 @@
+{
+  "id": "paultimothymooney/natural-adversarial-examples-imageneta",
+  "id_no": 280740,
+  "datasetSlugNullable": "natural-adversarial-examples-imageneta",
+  "ownerUserNullable": "paultimothymooney",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Natural Adversarial Examples (ImageNet-A)",
+  "subtitleNullable": "Naturally occurring adversarial examples to challenge image classifiers",
+  "descriptionNullable": "### Context\n\nNatural adversarial examples -- real-world, unmodified, and naturally occurring examples that cause classifier accuracy to significantly degrade.\n\n### Content\n\n1907.07174.pdf -- original publication\n\nnatural-adv-examples-master.zip -- github repo that accompanied the publication\n\natural-adv-examples-master.zip -- dataset of images of adversarial examples\n\n### Acknowledgements\n\nData from: https://people.eecs.berkeley.edu/~hendrycks/imagenet-a.tar\n\nLicense: MIT =&gt; https://github.com/hendrycks/natural-adv-examples/blob/master/LICENSE\n\n@article{hendrycks2019nae,\n  title={Natural Adversarial Examples},\n  author={Dan Hendrycks and Kevin Zhao and Steven Basart and Jacob Steinhardt and Dawn Song},\n  journal={arXiv preprint arXiv:1907.07174},\n  year={2019}\n}\n\nhttps://github.com/hendrycks/natural-adv-examples\n\nPhoto by [Anthony Brolin on Unsplash](https://unsplash.com/photos/10Zxsivo4LY)\n",
+  "datasetId": 280740,
+  "datasetSlug": "natural-adversarial-examples-imageneta",
+  "hasDatasetSlug": true,
+  "ownerUser": "paultimothymooney",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 7410,
+  "totalVotes": 13,
+  "totalDownloads": 198,
+  "title": "Natural Adversarial Examples (ImageNet-A)",
+  "hasTitle": true,
+  "subtitle": "Naturally occurring adversarial examples to challenge image classifiers",
+  "hasSubtitle": true,
+  "description": "### Context\n\nNatural adversarial examples -- real-world, unmodified, and naturally occurring examples that cause classifier accuracy to significantly degrade.\n\n### Content\n\n1907.07174.pdf -- original publication\n\nnatural-adv-examples-master.zip -- github repo that accompanied the publication\n\natural-adv-examples-master.zip -- dataset of images of adversarial examples\n\n### Acknowledgements\n\nData from: https://people.eecs.berkeley.edu/~hendrycks/imagenet-a.tar\n\nLicense: MIT =&gt; https://github.com/hendrycks/natural-adv-examples/blob/master/LICENSE\n\n@article{hendrycks2019nae,\n  title={Natural Adversarial Examples},\n  author={Dan Hendrycks and Kevin Zhao and Steven Basart and Jacob Steinhardt and Dawn Song},\n  journal={arXiv preprint arXiv:1907.07174},\n  year={2019}\n}\n\nhttps://github.com/hendrycks/natural-adv-examples\n\nPhoto by [Anthony Brolin on Unsplash](https://unsplash.com/photos/10Zxsivo4LY)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "classification",
+    "image",
+    "adversarial learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

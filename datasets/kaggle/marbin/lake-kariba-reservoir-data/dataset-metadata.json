@@ -1,0 +1,42 @@
+{
+  "id": "marbin/lake-kariba-reservoir-data",
+  "id_no": 2885271,
+  "datasetSlugNullable": "lake-kariba-reservoir-data",
+  "ownerUserNullable": "marbin",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Lake Kariba Reservoir Data",
+  "subtitleNullable": "Time series for world's largest artificial lake and reservoir by volume",
+  "descriptionNullable": "&gt;Lake Kariba is the world's largest artificial lake and reservoir by volume. It lies 1,300 kilometers (810 mi) upstream from the Indian Ocean, along the border between Zambia and Zimbabwe. Lake Kariba was filled between 1958 and 1963 following the completion of the Kariba Dam at its northeastern end, flooding the Kariba Gorge on the Zambezi River.\n\nThe source of the data is Zambezi River Authority. Data is published weekly, but expected update frequency on Kaggle is monthly.\n\nFile contains 6 daily time series with start day 01/01/2020:\n\n- Lake level (m)\n- Usable Storage (%)\n- Live Storage x 109m3\n- Turbine Discharge (m3/s)\n- Spillage (m3/s)\n- Total Outflow (m3/s)",
+  "datasetId": 2885271,
+  "datasetSlug": "lake-kariba-reservoir-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "marbin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 364,
+  "totalVotes": 6,
+  "totalDownloads": 57,
+  "title": "Lake Kariba Reservoir Data",
+  "hasTitle": true,
+  "subtitle": "Time series for world's largest artificial lake and reservoir by volume",
+  "hasSubtitle": true,
+  "description": "&gt;Lake Kariba is the world's largest artificial lake and reservoir by volume. It lies 1,300 kilometers (810 mi) upstream from the Indian Ocean, along the border between Zambia and Zimbabwe. Lake Kariba was filled between 1958 and 1963 following the completion of the Kariba Dam at its northeastern end, flooding the Kariba Gorge on the Zambezi River.\n\nThe source of the data is Zambezi River Authority. Data is published weekly, but expected update frequency on Kaggle is monthly.\n\nFile contains 6 daily time series with start day 01/01/2020:\n\n- Lake level (m)\n- Usable Storage (%)\n- Live Storage x 109m3\n- Turbine Discharge (m3/s)\n- Spillage (m3/s)\n- Total Outflow (m3/s)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "africa",
+    "environment",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

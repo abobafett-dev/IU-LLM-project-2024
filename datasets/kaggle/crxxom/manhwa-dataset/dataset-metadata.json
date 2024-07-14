@@ -1,0 +1,43 @@
+{
+  "id": "crxxom/manhwa-dataset",
+  "id_no": 3507370,
+  "datasetSlugNullable": "manhwa-dataset",
+  "ownerUserNullable": "crxxom",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Manhwa dataset",
+  "subtitleNullable": "Contains 2k+ manhwa (korea comics)",
+  "descriptionNullable": "This dataset contains all manhwa from MAL, including detailed descriptions and information regarding the manhwa to help you discover underrated manhwa!\n\n**Features included in this dataset:**\n\n1. type (all manhwa in this dataset)\n2. title (title of the manhwa)\n3. chapters (number of chapters)\n4. status (whether it's finished or still on-going)\n5. genres \n6. favourites (number of people that favourited the manhwa in mal)\n7. popularity (a popularity ranking)\n8. rank\n9. score (average score of the manhwa)\n10. members (number of members in mal)\n11. synopsis (the description/plot of the manhwa)\n12. volumns (number of volumes)\n13. authors \n14. publish_time\n",
+  "datasetId": 3507370,
+  "datasetSlug": "manhwa-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "crxxom",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 726,
+  "totalVotes": 12,
+  "totalDownloads": 123,
+  "title": "Manhwa dataset",
+  "hasTitle": true,
+  "subtitle": "Contains 2k+ manhwa (korea comics)",
+  "hasSubtitle": true,
+  "description": "This dataset contains all manhwa from MAL, including detailed descriptions and information regarding the manhwa to help you discover underrated manhwa!\n\n**Features included in this dataset:**\n\n1. type (all manhwa in this dataset)\n2. title (title of the manhwa)\n3. chapters (number of chapters)\n4. status (whether it's finished or still on-going)\n5. genres \n6. favourites (number of people that favourited the manhwa in mal)\n7. popularity (a popularity ranking)\n8. rank\n9. score (average score of the manhwa)\n10. members (number of members in mal)\n11. synopsis (the description/plot of the manhwa)\n12. volumns (number of volumes)\n13. authors \n14. publish_time\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "comics and animation",
+    "anime and manga",
+    "korea",
+    "korean"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

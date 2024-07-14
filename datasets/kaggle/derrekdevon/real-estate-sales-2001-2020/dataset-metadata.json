@@ -1,0 +1,43 @@
+{
+  "id": "derrekdevon/real-estate-sales-2001-2020",
+  "id_no": 4126647,
+  "datasetSlugNullable": "real-estate-sales-2001-2020",
+  "ownerUserNullable": "derrekdevon",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Real Estate Sales 2001-2020",
+  "subtitleNullable": "Real estate listings and sales from 2001-2021",
+  "descriptionNullable": "Here's a short description of the dataset:\n\nSerial Number: Is just a unique set of digits to identify each transaction\n\nList year: This is the year that the particular property was put up for sale.\n\nDate Recorded: Is the date that the transaction was completed. That is, the year the property was bought.\n\nTown: The town where this property is located.\n\nAddress: The property's address.\n\nAssessed Value: How much the property is generally considered to be worth.\n\nSale Amount: How much the property was actually sold for.\n\nSales Ratio: The ratio measures how close the selling price of the property is to it's assessed value.\n\nProperty Type: What kind of property it is.\n\nResidential Type: If it is a residential property, what type is it.\n\nYears until sold: Number of years before the property was finally sold\n\n\nThis dataset can be used for analysis and even machine learning projects. For those doing analysis, I invite you to try and answer these questions: \n* Average assessed value of properties from year to year?\n* Average sale amount of properties from year to year? \n* Average sales ratio of properties from year to year? \n* How long, on average, did it take for the different property types to get sold? \n* How long, on average, did it take for the different residential types to get sold? \n* Which towns saw the most property sales in 2021? \n\nFor those more interested in using this dataset in machine learning projects to forecast future property prices, I invite you also. Let's learn from your work.\n",
+  "datasetId": 4126647,
+  "datasetSlug": "real-estate-sales-2001-2020",
+  "hasDatasetSlug": true,
+  "ownerUser": "derrekdevon",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9985,
+  "totalVotes": 35,
+  "totalDownloads": 2172,
+  "title": "Real Estate Sales 2001-2020",
+  "hasTitle": true,
+  "subtitle": "Real estate listings and sales from 2001-2021",
+  "hasSubtitle": true,
+  "description": "Here's a short description of the dataset:\n\nSerial Number: Is just a unique set of digits to identify each transaction\n\nList year: This is the year that the particular property was put up for sale.\n\nDate Recorded: Is the date that the transaction was completed. That is, the year the property was bought.\n\nTown: The town where this property is located.\n\nAddress: The property's address.\n\nAssessed Value: How much the property is generally considered to be worth.\n\nSale Amount: How much the property was actually sold for.\n\nSales Ratio: The ratio measures how close the selling price of the property is to it's assessed value.\n\nProperty Type: What kind of property it is.\n\nResidential Type: If it is a residential property, what type is it.\n\nYears until sold: Number of years before the property was finally sold\n\n\nThis dataset can be used for analysis and even machine learning projects. For those doing analysis, I invite you to try and answer these questions: \n* Average assessed value of properties from year to year?\n* Average sale amount of properties from year to year? \n* Average sales ratio of properties from year to year? \n* How long, on average, did it take for the different property types to get sold? \n* How long, on average, did it take for the different residential types to get sold? \n* Which towns saw the most property sales in 2021? \n\nFor those more interested in using this dataset in machine learning projects to forecast future property prices, I invite you also. Let's learn from your work.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "real estate",
+    "economics",
+    "marketing",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

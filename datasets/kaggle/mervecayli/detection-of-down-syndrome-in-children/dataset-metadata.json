@@ -1,0 +1,42 @@
+{
+  "id": "mervecayli/detection-of-down-syndrome-in-children",
+  "id_no": 3469358,
+  "datasetSlugNullable": "detection-of-down-syndrome-in-children",
+  "ownerUserNullable": "mervecayli",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Detection of Down Syndrome in Children",
+  "subtitleNullable": "Images of children with and without Down syndrome and feature-extracted dataset.",
+  "descriptionNullable": "Down syndrome is a genetic disorder and results from having an extra copy of the 21st chromosome. In this case, the sum of the chromosomes, which is normally 46, increases to 47. This extra genetic material causes the physical and developmental characteristics associated with Down syndrome. Down syndrome occurs on average in every 800 births. There are around 6 million individuals with Down syndrome all over the world.\n\nPhysical characteristics of individuals with Down syndrome may include a flat facial profile, small head, short neck, almond-shaped eyes, and protruding tongue. Individuals with Down syndrome may be short and overweight. There may be a degree of intellectual disability, which can range from mild to moderate.\n\nDown syndrome can also cause certain health problems such as heart disease, hearing loss, vision problems and thyroid problems.\n\nWith these difficulties, people with Down syndrome can make a living. They can go to school, work at work, and build relationships. With the appropriate education, support, and availability, people with Down syndrome can fulfill their potential.\n\nSince Down syndrome is not such a rare condition, increasing detection rates are beneficial for society in many ways. For this reason, studies have been carried out on the detection of Down syndrome, although not many.\n\nDATASET:\nSince more than one classification method will be tried in the project, I prepared a large and multi-featured data set. The dataset consists of 1500 photographs of children with down syndrome and 1500 healthy children. Things I paid attention to while preparing this dataset:\nAge groups: Although the word child covers the age range of 0-18, photographs of children aged 0-15 were used mostly because there is no age information in many data and it is difficult to determine the age of individuals with Down syndrome.\nGlasses: It can also cause vision problems with Down syndrome. This is a high rate. That's why many children with down syndrome wear glasses. However, in order that this situation does not have an effect on the decision structure of the model we will train, photographs of children with Down syndrome with glasses, photographs of children with Down syndrome without glasses, photographs of healthy children with glasses and photographs of healthy children without glasses were tried to be balanced.\nSkin color: Since skin color is not a determining factor for Down syndrome, balanced photographs of many skin colors were tried to be used in the data set.\nEye color: Since eye color is not a determining factor for Down syndrome, balanced photographs of many skin colors were tried to be used in the data set.\nHair: Since the hair color, shape and condition of the hair are not a determining feature for Down syndrome, it was tried to be kept in a balanced way.\n\nFeature Extraction:\nThe data set was created by converting the data into numerical values for the algorithms to be used in the project. For this data set, two different features were used, namely the distance between the eyes and the distance between the eyes.",
+  "datasetId": 3469358,
+  "datasetSlug": "detection-of-down-syndrome-in-children",
+  "hasDatasetSlug": true,
+  "ownerUser": "mervecayli",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 4786,
+  "totalVotes": 16,
+  "totalDownloads": 926,
+  "title": "Detection of Down Syndrome in Children",
+  "hasTitle": true,
+  "subtitle": "Images of children with and without Down syndrome and feature-extracted dataset.",
+  "hasSubtitle": true,
+  "description": "Down syndrome is a genetic disorder and results from having an extra copy of the 21st chromosome. In this case, the sum of the chromosomes, which is normally 46, increases to 47. This extra genetic material causes the physical and developmental characteristics associated with Down syndrome. Down syndrome occurs on average in every 800 births. There are around 6 million individuals with Down syndrome all over the world.\n\nPhysical characteristics of individuals with Down syndrome may include a flat facial profile, small head, short neck, almond-shaped eyes, and protruding tongue. Individuals with Down syndrome may be short and overweight. There may be a degree of intellectual disability, which can range from mild to moderate.\n\nDown syndrome can also cause certain health problems such as heart disease, hearing loss, vision problems and thyroid problems.\n\nWith these difficulties, people with Down syndrome can make a living. They can go to school, work at work, and build relationships. With the appropriate education, support, and availability, people with Down syndrome can fulfill their potential.\n\nSince Down syndrome is not such a rare condition, increasing detection rates are beneficial for society in many ways. For this reason, studies have been carried out on the detection of Down syndrome, although not many.\n\nDATASET:\nSince more than one classification method will be tried in the project, I prepared a large and multi-featured data set. The dataset consists of 1500 photographs of children with down syndrome and 1500 healthy children. Things I paid attention to while preparing this dataset:\nAge groups: Although the word child covers the age range of 0-18, photographs of children aged 0-15 were used mostly because there is no age information in many data and it is difficult to determine the age of individuals with Down syndrome.\nGlasses: It can also cause vision problems with Down syndrome. This is a high rate. That's why many children with down syndrome wear glasses. However, in order that this situation does not have an effect on the decision structure of the model we will train, photographs of children with Down syndrome with glasses, photographs of children with Down syndrome without glasses, photographs of healthy children with glasses and photographs of healthy children without glasses were tried to be balanced.\nSkin color: Since skin color is not a determining factor for Down syndrome, balanced photographs of many skin colors were tried to be used in the data set.\nEye color: Since eye color is not a determining factor for Down syndrome, balanced photographs of many skin colors were tried to be used in the data set.\nHair: Since the hair color, shape and condition of the hair are not a determining feature for Down syndrome, it was tried to be kept in a balanced way.\n\nFeature Extraction:\nThe data set was created by converting the data into numerical values for the algorithms to be used in the project. For this data set, two different features were used, namely the distance between the eyes and the distance between the eyes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "image",
+    "python",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

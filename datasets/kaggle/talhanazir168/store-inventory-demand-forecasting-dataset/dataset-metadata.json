@@ -1,0 +1,39 @@
+{
+  "id": "talhanazir168/store-inventory-demand-forecasting-dataset",
+  "id_no": 3945621,
+  "datasetSlugNullable": "store-inventory-demand-forecasting-dataset",
+  "ownerUserNullable": "talhanazir168",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Store Inventory demand forecasting dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "The dataset is related to store inventory demand forecasting, specifically for tracking the number of items sold at different stores on specific dates. Below is a description of the data fields and the purpose of each file in the dataset.\n\n**train.csv - Training Data:**\n\nThis file contains historical data used for training machine learning models to forecast store inventory demand.\n**Data Fields:**\n**date:** The date of the sale data. It represents the specific date when the sales occurred.\nstore: A unique identifier or ID for each store. This helps in distinguishing between different store locations.\n**item:** A unique identifier or ID for each item that is sold in the stores.\n**sales:** The number of items sold at a particular store on a specific date. This is the target variable for the forecasting task, which you aim to predict for future dates.\n**test.csv - Test Data:**\n\nThis file contains data that is used for evaluating the performance of machine learning models and forecasting accuracy. It is typically used to predict future dates, which are not present in the training data.\n**Data Fields (similar to the train.csv file):**\n**date:** The date for which you need to make sales predictions.\n**store:** Store IDs for which you need to forecast sales.\n**item:** Item IDs for which you need to forecast sales.",
+  "datasetId": 3945621,
+  "datasetSlug": "store-inventory-demand-forecasting-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "talhanazir168",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 1285,
+  "totalVotes": 5,
+  "totalDownloads": 219,
+  "title": "Store Inventory demand forecasting dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The dataset is related to store inventory demand forecasting, specifically for tracking the number of items sold at different stores on specific dates. Below is a description of the data fields and the purpose of each file in the dataset.\n\n**train.csv - Training Data:**\n\nThis file contains historical data used for training machine learning models to forecast store inventory demand.\n**Data Fields:**\n**date:** The date of the sale data. It represents the specific date when the sales occurred.\nstore: A unique identifier or ID for each store. This helps in distinguishing between different store locations.\n**item:** A unique identifier or ID for each item that is sold in the stores.\n**sales:** The number of items sold at a particular store on a specific date. This is the target variable for the forecasting task, which you aim to predict for future dates.\n**test.csv - Test Data:**\n\nThis file contains data that is used for evaluating the performance of machine learning models and forecasting accuracy. It is typically used to predict future dates, which are not present in the training data.\n**Data Fields (similar to the train.csv file):**\n**date:** The date for which you need to make sales predictions.\n**store:** Store IDs for which you need to forecast sales.\n**item:** Item IDs for which you need to forecast sales.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

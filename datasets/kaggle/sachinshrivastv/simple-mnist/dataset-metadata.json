@@ -1,0 +1,43 @@
+{
+  "id": "sachinshrivastv/simple-mnist",
+  "id_no": 3476398,
+  "datasetSlugNullable": "simple-mnist",
+  "ownerUserNullable": "sachinshrivastv",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Simple MNIST",
+  "subtitleNullable": "MNIST dataset for multi class classification",
+  "descriptionNullable": "This is simple MNIST dataset of handwritten digit 0-9 each of 25. with label and file path all image (28,28,1). Grayscale image of classification problem\n\nColumns attribute\n\nfile: path of image\nlabel: label of image 0-9",
+  "datasetId": 3476398,
+  "datasetSlug": "simple-mnist",
+  "hasDatasetSlug": true,
+  "ownerUser": "sachinshrivastv",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 316,
+  "totalVotes": 2,
+  "totalDownloads": 56,
+  "title": "Simple MNIST",
+  "hasTitle": true,
+  "subtitle": "MNIST dataset for multi class classification",
+  "hasSubtitle": true,
+  "description": "This is simple MNIST dataset of handwritten digit 0-9 each of 25. with label and file path all image (28,28,1). Grayscale image of classification problem\n\nColumns attribute\n\nfile: path of image\nlabel: label of image 0-9",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "classification",
+    "multiclass classification",
+    "multilabel classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

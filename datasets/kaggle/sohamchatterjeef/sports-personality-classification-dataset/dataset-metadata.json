@@ -1,0 +1,46 @@
+{
+  "id": "sohamchatterjeef/sports-personality-classification-dataset",
+  "id_no": 3736569,
+  "datasetSlugNullable": "sports-personality-classification-dataset",
+  "ownerUserNullable": "sohamchatterjeef",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Sports Image Classification",
+  "subtitleNullable": "A comprehensive collection of images for sports used for classification purposes",
+  "descriptionNullable": "The Sports Personalities Image Dataset (SPID) is a comprehensive collection of high-resolution images featuring five iconic sports personalities from different disciplines. This dataset is curated for various applications, including computer vision, facial recognition, and sports-related analytics. ",
+  "datasetId": 3736569,
+  "datasetSlug": "sports-personality-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sohamchatterjeef",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 217,
+  "totalVotes": 1,
+  "totalDownloads": 20,
+  "title": "Sports Image Classification",
+  "hasTitle": true,
+  "subtitle": "A comprehensive collection of images for sports used for classification purposes",
+  "hasSubtitle": true,
+  "description": "The Sports Personalities Image Dataset (SPID) is a comprehensive collection of high-resolution images featuring five iconic sports personalities from different disciplines. This dataset is curated for various applications, including computer vision, facial recognition, and sports-related analytics. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "sports",
+    "python",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Permissive - Version 1.0",
+      "name": "Community Data License Agreement - Permissive - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "ritwika03",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

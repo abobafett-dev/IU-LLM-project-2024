@@ -1,0 +1,39 @@
+{
+  "id": "werus23/g2net-generated-signals",
+  "id_no": 2587335,
+  "datasetSlugNullable": "g2net-generated-signals",
+  "ownerUserNullable": "werus23",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "G2Net Generated Signals",
+  "subtitleNullable": "",
+  "descriptionNullable": "for [my training notebook ](https://www.kaggle.com/code/werus23/g2net-pytorch-with-generated-data/data). \n\nGenerated using Pyfstat. Used basic params for noise and signal generation. Didn't add noise to signal until preprocessing step. \n\nGeneration notebook [here](https://www.kaggle.com/code/werus23/g2net-generating-signals/notebook)",
+  "datasetId": 2587335,
+  "datasetSlug": "g2net-generated-signals",
+  "hasDatasetSlug": true,
+  "ownerUser": "werus23",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 1081,
+  "totalVotes": 20,
+  "totalDownloads": 144,
+  "title": "G2Net Generated Signals",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "for [my training notebook ](https://www.kaggle.com/code/werus23/g2net-pytorch-with-generated-data/data). \n\nGenerated using Pyfstat. Used basic params for noise and signal generation. Didn't add noise to signal until preprocessing step. \n\nGeneration notebook [here](https://www.kaggle.com/code/werus23/g2net-generating-signals/notebook)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

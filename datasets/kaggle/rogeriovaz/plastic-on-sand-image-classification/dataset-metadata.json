@@ -1,0 +1,37 @@
+{
+  "id": "rogeriovaz/plastic-on-sand-image-classification",
+  "id_no": 2253128,
+  "datasetSlugNullable": "plastic-on-sand-image-classification",
+  "ownerUserNullable": "rogeriovaz",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Plastic on Sand Image Classification",
+  "subtitleNullable": "Can you find which beach images have plastic? ",
+  "descriptionNullable": "Sand beach images to classify if there is plastic on it.\n2 classes and 76 images in each directory.\nSome images include other objects that are not trash or plastic.",
+  "datasetId": 2253128,
+  "datasetSlug": "plastic-on-sand-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "rogeriovaz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 1458,
+  "totalVotes": 9,
+  "totalDownloads": 167,
+  "title": "Plastic on Sand Image Classification",
+  "hasTitle": true,
+  "subtitle": "Can you find which beach images have plastic? ",
+  "hasSubtitle": true,
+  "description": "Sand beach images to classify if there is plastic on it.\n2 classes and 76 images in each directory.\nSome images include other objects that are not trash or plastic.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

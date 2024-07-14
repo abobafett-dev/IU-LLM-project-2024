@@ -1,0 +1,46 @@
+{
+  "id": "ybifoundation/pharma-drug-sales",
+  "id_no": 2941393,
+  "datasetSlugNullable": "pharma-drug-sales",
+  "ownerUserNullable": "ybifoundation",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Pharma Drug Sales",
+  "subtitleNullable": "Business Intelligence using Pharma Sales with Python, Power BI or Tableau",
+  "descriptionNullable": "Pharma Drug sales dataset consist of transaction collected for a period 2014-2019 on hourly frequency, drug type and quantity. Group of drugs in dataset constructed from 57 drugs for various medical uses.",
+  "datasetId": 2941393,
+  "datasetSlug": "pharma-drug-sales",
+  "hasDatasetSlug": true,
+  "ownerUser": "ybifoundation",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 7021,
+  "totalVotes": 114,
+  "totalDownloads": 1358,
+  "title": "Pharma Drug Sales",
+  "hasTitle": true,
+  "subtitle": "Business Intelligence using Pharma Sales with Python, Power BI or Tableau",
+  "hasSubtitle": true,
+  "description": "Pharma Drug sales dataset consist of transaction collected for a period 2014-2019 on hourly frequency, drug type and quantity. Group of drugs in dataset constructed from 57 drugs for various medical uses.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data visualization",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "yblfoundation",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "amandam1/120-dog-breeds-breed-classification",
+  "id_no": 2106495,
+  "datasetSlugNullable": "120-dog-breeds-breed-classification",
+  "ownerUserNullable": "amandam1",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "120 Dog Breeds - classification",
+  "subtitleNullable": "Dog breed classification - Stanford",
+  "descriptionNullable": "Approx. 150 images each folder.\n\n### Breed list:\nAfrican hunting dog\nDhole\nDingo\nMexican hairless\nStandard poodle\nMiniature poodle\nToy poodle\nCardigan\nPembroke\nBrabancon griffon\nKeeshond\nChow\nPomeranian\nSamoyed\nGreat pryenees\nNewfoundland\nLeonberg\nPug\nBasenji\nAffenpinscher\nSiberian husky\nMalamute\nEskimo dog\nSaint Bernard\nGreat Dane\nFrench Bulldog\nTibetan Mastiff\nBoxer\nEntlebucher\nAppenzeller\nBernese mountain dog\nGreat Swiss mountain dog\nMiniature pinscher\nDoberman\nGerman shepherd\nRottweiler\nBouvier des Flandres\nBorder collie\nCollie\nShetland sheepdog\nOld english sheepdog\nKomondor\nKelpie\nBriard\nMalinois\nGroenendael\nSchipperke\nKuvasz\nIrish water spaniel\nSussex spaniel \nCocker spaniel\nWelsh springer spaniel\nEnglish springer\nClumber\nBrittany spaniel\nGorden setter\nIrish setter\nEnglish setter\nVizsla\nGerman shorthaired pointer\nChesapeake bay retriever\nLabrador retriever\nGolden retriever\nCurly coated retriever\nFlat coated retriever\nLhasa\nWest highland white terrier\nSoft coated wheaten terrier\nSilky terrier\nTibetan terrier\nScotch terrier\nStandard schnauzer\nGiant schnauzer\nMiniature schnauzer\nBoston bull\nDandie Dinmont\nAustralian terrier\nCairn\nAiredale\nSealyham terrier\nLakeland terrier\nWire haired fox terrier\nYorkshire terrier\nNorwich terrier\nNorfolk terrier\nIrish terrier\nKerry blue terrier\nBorder terrier\nBedlington terrier\nAmerican Staffordshire terrier\nStaffordshire bull terrier\nWeimaraner\nScottish deerhound\nSaluki\nOtterhound\nNorwegian elkhound\nIbizan hound\nWhippet\nItalian greyhound\nIrish wolfhound\nBorzoi\nRedbone\nEnglish foxhound\nWalker hound\nBlack and tan coonhound\nBluetick\nbloodhound\nBeagle\nBasset\nAfgan hound\nRhodesian ridgeback\nToy terrier\nPapillon\nBlenheim spaniel\nShih Tzu\nPekinese\nMaltese dog\nJapanese spaniel\nChihuahua",
+  "datasetId": 2106495,
+  "datasetSlug": "120-dog-breeds-breed-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "amandam1",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 7481,
+  "totalVotes": 26,
+  "totalDownloads": 959,
+  "title": "120 Dog Breeds - classification",
+  "hasTitle": true,
+  "subtitle": "Dog breed classification - Stanford",
+  "hasSubtitle": true,
+  "description": "Approx. 150 images each folder.\n\n### Breed list:\nAfrican hunting dog\nDhole\nDingo\nMexican hairless\nStandard poodle\nMiniature poodle\nToy poodle\nCardigan\nPembroke\nBrabancon griffon\nKeeshond\nChow\nPomeranian\nSamoyed\nGreat pryenees\nNewfoundland\nLeonberg\nPug\nBasenji\nAffenpinscher\nSiberian husky\nMalamute\nEskimo dog\nSaint Bernard\nGreat Dane\nFrench Bulldog\nTibetan Mastiff\nBoxer\nEntlebucher\nAppenzeller\nBernese mountain dog\nGreat Swiss mountain dog\nMiniature pinscher\nDoberman\nGerman shepherd\nRottweiler\nBouvier des Flandres\nBorder collie\nCollie\nShetland sheepdog\nOld english sheepdog\nKomondor\nKelpie\nBriard\nMalinois\nGroenendael\nSchipperke\nKuvasz\nIrish water spaniel\nSussex spaniel \nCocker spaniel\nWelsh springer spaniel\nEnglish springer\nClumber\nBrittany spaniel\nGorden setter\nIrish setter\nEnglish setter\nVizsla\nGerman shorthaired pointer\nChesapeake bay retriever\nLabrador retriever\nGolden retriever\nCurly coated retriever\nFlat coated retriever\nLhasa\nWest highland white terrier\nSoft coated wheaten terrier\nSilky terrier\nTibetan terrier\nScotch terrier\nStandard schnauzer\nGiant schnauzer\nMiniature schnauzer\nBoston bull\nDandie Dinmont\nAustralian terrier\nCairn\nAiredale\nSealyham terrier\nLakeland terrier\nWire haired fox terrier\nYorkshire terrier\nNorwich terrier\nNorfolk terrier\nIrish terrier\nKerry blue terrier\nBorder terrier\nBedlington terrier\nAmerican Staffordshire terrier\nStaffordshire bull terrier\nWeimaraner\nScottish deerhound\nSaluki\nOtterhound\nNorwegian elkhound\nIbizan hound\nWhippet\nItalian greyhound\nIrish wolfhound\nBorzoi\nRedbone\nEnglish foxhound\nWalker hound\nBlack and tan coonhound\nBluetick\nbloodhound\nBeagle\nBasset\nAfgan hound\nRhodesian ridgeback\nToy terrier\nPapillon\nBlenheim spaniel\nShih Tzu\nPekinese\nMaltese dog\nJapanese spaniel\nChihuahua",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "classification",
+    "cnn",
+    "image",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "shashankshukla123123/nifty-50-multiple-timeframe",
+  "id_no": 4228116,
+  "datasetSlugNullable": "nifty-50-multiple-timeframe",
+  "ownerUserNullable": "shashankshukla123123",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Nifty 50 Multiple timeframe",
+  "subtitleNullable": "Comprehensive Analysis of Nifty 50 Across Various Timeframes",
+  "descriptionNullable": "# Comprehensive Analysis of Nifty 50 Across Various Timeframes\n\nThis dataset provides a comprehensive view of the **Nifty 50** index, captured at multiple timeframes. The data spans from **October 4, 2016** to **November 24, 2023**, providing a rich historical view of the index's performance.\n\n## Dataset Details\n\nThe dataset includes the following timeframes:\n\n- 1 minute\n- 3 minutes\n- 5 minutes\n- 10 minutes\n- 15 minutes\n- 30 minutes\n- 1 hour\n- 1 day\n\nFor each timeframe, the dataset provides the following information:\n\n- **Index**: The index value at the start of the timeframe.\n- **Open**: The opening price at the start of the timeframe.\n- **High**: The highest price reached during the timeframe.\n- **Low**: The lowest price reached during the timeframe.\n- **Close**: The closing price at the end of the timeframe.\n- **Volume**: The total volume of shares traded during the timeframe.\n\n## Sample Data\n\nHere is a glimpse of the dataset:\n\n| Index | Date & Time | Open | High | Low | Close | Volume |\n|-------|-------------|------|------|-----|-------|--------|\n| 0 | 2016-10-03T00:00:00+05:30 | 8666.15 | 8745.2 | 8635 | 8738.1 | 0 |\n| 1 | 2016-10-04T00:00:00+05:30 | 8770 | 8783.65 | 8736.1 | 8769.15 | 0 |\n| 2 | 2016-10-05T00:00:00+05:30 | 8806.35 | 8806.95 | 8731.4 | 8743.95 | 0 |\n| 3 | 2016-10-06T00:00:00+05:30 | 8768.7 | 8781.15 | 8684.65 | 8709.55 | 0 |\n| 4 | 2016-10-07T00:00:00+05:30 | 8721.7 | 8723.7 | 8663.8 | 8697.6 | 0 |\n| 5 | 2016-10-10T00:00:00+05:30 | 8735.35 | 8745.8 | 8703.95 | 8708.8 | 0 |\n| 6 | 2016-10-13T00:00:00+05:30 | 8671.5 | 8681.55 | 8541.35 | 8573.35 | 0 |\n\nThis dataset is ideal for anyone interested in analyzing the Nifty 50 index across various timeframes, studying market trends, or developing trading strategies.\n",
+  "datasetId": 4228116,
+  "datasetSlug": "nifty-50-multiple-timeframe",
+  "hasDatasetSlug": true,
+  "ownerUser": "shashankshukla123123",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 235,
+  "totalVotes": 5,
+  "totalDownloads": 43,
+  "title": "Nifty 50 Multiple timeframe",
+  "hasTitle": true,
+  "subtitle": "Comprehensive Analysis of Nifty 50 Across Various Timeframes",
+  "hasSubtitle": true,
+  "description": "# Comprehensive Analysis of Nifty 50 Across Various Timeframes\n\nThis dataset provides a comprehensive view of the **Nifty 50** index, captured at multiple timeframes. The data spans from **October 4, 2016** to **November 24, 2023**, providing a rich historical view of the index's performance.\n\n## Dataset Details\n\nThe dataset includes the following timeframes:\n\n- 1 minute\n- 3 minutes\n- 5 minutes\n- 10 minutes\n- 15 minutes\n- 30 minutes\n- 1 hour\n- 1 day\n\nFor each timeframe, the dataset provides the following information:\n\n- **Index**: The index value at the start of the timeframe.\n- **Open**: The opening price at the start of the timeframe.\n- **High**: The highest price reached during the timeframe.\n- **Low**: The lowest price reached during the timeframe.\n- **Close**: The closing price at the end of the timeframe.\n- **Volume**: The total volume of shares traded during the timeframe.\n\n## Sample Data\n\nHere is a glimpse of the dataset:\n\n| Index | Date & Time | Open | High | Low | Close | Volume |\n|-------|-------------|------|------|-----|-------|--------|\n| 0 | 2016-10-03T00:00:00+05:30 | 8666.15 | 8745.2 | 8635 | 8738.1 | 0 |\n| 1 | 2016-10-04T00:00:00+05:30 | 8770 | 8783.65 | 8736.1 | 8769.15 | 0 |\n| 2 | 2016-10-05T00:00:00+05:30 | 8806.35 | 8806.95 | 8731.4 | 8743.95 | 0 |\n| 3 | 2016-10-06T00:00:00+05:30 | 8768.7 | 8781.15 | 8684.65 | 8709.55 | 0 |\n| 4 | 2016-10-07T00:00:00+05:30 | 8721.7 | 8723.7 | 8663.8 | 8697.6 | 0 |\n| 5 | 2016-10-10T00:00:00+05:30 | 8735.35 | 8745.8 | 8703.95 | 8708.8 | 0 |\n| 6 | 2016-10-13T00:00:00+05:30 | 8671.5 | 8681.55 | 8541.35 | 8573.35 | 0 |\n\nThis dataset is ideal for anyone interested in analyzing the Nifty 50 index across various timeframes, studying market trends, or developing trading strategies.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "data cleaning",
+    "time series analysis",
+    "data analytics",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Permissive - Version 1.0",
+      "name": "Community Data License Agreement - Permissive - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

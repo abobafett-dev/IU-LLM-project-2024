@@ -1,0 +1,43 @@
+{
+  "id": "warcoder/soyabean-seeds",
+  "id_no": 3724896,
+  "datasetSlugNullable": "soyabean-seeds",
+  "ownerUserNullable": "warcoder",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Soybean Seeds",
+  "subtitleNullable": "Soybean seeds lifecycle stage prediction",
+  "descriptionNullable": "The dataset includes five types of individual soybean seed images, totalling 5513: intact, spotted, immature, broken, and skin-damaged. Furthermore, there are over 1000 images of soybean seeds in each category. Those images of individual soybeans were classified into five categories based on the Standard of Soybean Classification (GB1352-2009). The soybean images with the seeds in physical touch were captured by an industrial camera. Subsequently, individual soybean images (227\u00d7227 pixels) were divided from the soybean images (3072\u00d72048 pixels) using an image-processing algorithm with a segmentation accuracy of over 98%. The dataset can serve to study the classification or quality assessment of soybean seeds.\n\n",
+  "datasetId": 3724896,
+  "datasetSlug": "soyabean-seeds",
+  "hasDatasetSlug": true,
+  "ownerUser": "warcoder",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2613,
+  "totalVotes": 16,
+  "totalDownloads": 351,
+  "title": "Soybean Seeds",
+  "hasTitle": true,
+  "subtitle": "Soybean seeds lifecycle stage prediction",
+  "hasSubtitle": true,
+  "description": "The dataset includes five types of individual soybean seed images, totalling 5513: intact, spotted, immature, broken, and skin-damaged. Furthermore, there are over 1000 images of soybean seeds in each category. Those images of individual soybeans were classified into five categories based on the Standard of Soybean Classification (GB1352-2009). The soybean images with the seeds in physical touch were captured by an industrial camera. Subsequently, individual soybean images (227\u00d7227 pixels) were divided from the soybean images (3072\u00d72048 pixels) using an image-processing algorithm with a segmentation accuracy of over 98%. The dataset can serve to study the classification or quality assessment of soybean seeds.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "agriculture",
+    "computer vision",
+    "deep learning",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "fatemehmehrparvar/skin-cancer-detection",
+  "id_no": 4449488,
+  "datasetSlugNullable": "skin-cancer-detection",
+  "ownerUserNullable": "fatemehmehrparvar",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Skin Cancer Detection",
+  "subtitleNullable": "Skin Lesion Segmentation",
+  "descriptionNullable": "**Description**\n\nMelanoma is considered the most deadly form of skin cancer and is caused by the development of a malignant tumour of the melanocytes.  The objective of the skin cancer detection project is to develop a framework to analyze and assess the risk of melanoma using dermatological photographs taken with a standard consumer-grade camera.\n\n**About Dataset**\n\nThe dataset is maintained by VISION AND IMAGE PROCESSING LAB, University of Waterloo. The images of the dataset were extracted from the public databases DermIS and DermQuest, along with manual segmentations of the lesions.\n",
+  "datasetId": 4449488,
+  "datasetSlug": "skin-cancer-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "fatemehmehrparvar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 2829,
+  "totalVotes": 43,
+  "totalDownloads": 359,
+  "title": "Skin Cancer Detection",
+  "hasTitle": true,
+  "subtitle": "Skin Lesion Segmentation",
+  "hasSubtitle": true,
+  "description": "**Description**\n\nMelanoma is considered the most deadly form of skin cancer and is caused by the development of a malignant tumour of the melanocytes.  The objective of the skin cancer detection project is to develop a framework to analyze and assess the risk of melanoma using dermatological photographs taken with a standard consumer-grade camera.\n\n**About Dataset**\n\nThe dataset is maintained by VISION AND IMAGE PROCESSING LAB, University of Waterloo. The images of the dataset were extracted from the public databases DermIS and DermQuest, along with manual segmentations of the lesions.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "image",
+    "cancer",
+    "image classification",
+    "image segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

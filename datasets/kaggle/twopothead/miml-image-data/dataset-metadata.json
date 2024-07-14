@@ -1,0 +1,40 @@
+{
+  "id": "twopothead/miml-image-data",
+  "id_no": 25068,
+  "datasetSlugNullable": "miml-image-data",
+  "ownerUserNullable": "twopothead",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "miml_image_data",
+  "subtitleNullable": "multi-instance multi-label classification under natural scene",
+  "descriptionNullable": "### Context\n\nThe complete description of dataset is given on http://lamda.nju.edu.cn/data_MIMLimage.ashx. The dataset contains 2000 natural scenes images.\n\n\n### Content\n\nThe image data set consists of 2,000 natural scene images, where a set of labels is artificially assigned to each image. \nThe following table gives the detailed description of the number of images associated with different label sets, where all the possible class labels are desert, mountains, sea, sunset and trees. The number of images belonging to more than one class (e.g. sea+sunset) comprises over 22% of the data set, many combined classes (e.g. mountains+sunset +trees) are extremely rare. On average, each image is associated with 1.24 class labels.\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. Credits for this dataset go to Z.-H. Zhou from NJU LAMDA. Thank you so much!\n\nThe data set has been used in:\n\nZ.-H. Zhou and M.-L. Zhang. Multi-instance multi-label learning with application to scene classification. In: Advances in Neural Information Processing Systems 19 (NIPS'06) (Vancouver, Canada), B. Sch?lkopf, J. Platt, and T. Hofmann, eds. Cambridge, MA: MIT Press, 2007, pp.1609-1616.\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 25068,
+  "datasetSlug": "miml-image-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "twopothead",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 8952,
+  "totalVotes": 12,
+  "totalDownloads": 895,
+  "title": "miml_image_data",
+  "hasTitle": true,
+  "subtitle": "multi-instance multi-label classification under natural scene",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe complete description of dataset is given on http://lamda.nju.edu.cn/data_MIMLimage.ashx. The dataset contains 2000 natural scenes images.\n\n\n### Content\n\nThe image data set consists of 2,000 natural scene images, where a set of labels is artificially assigned to each image. \nThe following table gives the detailed description of the number of images associated with different label sets, where all the possible class labels are desert, mountains, sea, sunset and trees. The number of images belonging to more than one class (e.g. sea+sunset) comprises over 22% of the data set, many combined classes (e.g. mountains+sunset +trees) are extremely rare. On average, each image is associated with 1.24 class labels.\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. Credits for this dataset go to Z.-H. Zhou from NJU LAMDA. Thank you so much!\n\nThe data set has been used in:\n\nZ.-H. Zhou and M.-L. Zhang. Multi-instance multi-label learning with application to scene classification. In: Advances in Neural Information Processing Systems 19 (NIPS'06) (Vancouver, Canada), B. Sch?lkopf, J. Platt, and T. Hofmann, eds. Cambridge, MA: MIT Press, 2007, pp.1609-1616.\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

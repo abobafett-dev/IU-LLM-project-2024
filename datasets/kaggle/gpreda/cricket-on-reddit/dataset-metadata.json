@@ -1,0 +1,39 @@
+{
+  "id": "gpreda/cricket-on-reddit",
+  "id_no": 1555484,
+  "datasetSlugNullable": "cricket-on-reddit",
+  "ownerUserNullable": "gpreda",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cricket on Reddit",
+  "subtitleNullable": "News, banter and occasional serious discussion on the great game",
+  "descriptionNullable": "### Context\n\nCricket (r/Cricket), is a subreddit where people divagate, blander and sometime discuss seriously about this great game.\n\nThe data is not filtered.\n\n### Collection\n\nReddit posts from subreddit r/Cricket, downloaded from https://www.reddit.com/r/Cricket using praw (The Python Reddit API Wrapper).\n\nScript used for collection can be found here: [Reddit extract content](https://github.com/gabrielpreda/reddit_extract_content)\n\n### Content\n\nData contains both posts and comments.\nBoth posts and comments contains the following fields:\n* title - relevant for posts    \n* score - relevant for posts - based on impact, number of comments  \n* id - unique id for posts/comments  \n* url - relevant for posts - url of post thread  \n* commns_num - relevant for post - number of comments to this post  \n* created - date of creation  \n* body - relevant for posts/comments - text of the post or comment  \n* timestamp - timestamp  \n\n### Acknowledgements\n\nAll merit goes to the contributors to the posts of subreddit r/Cricket. I only collects them daily.\n\n### Inspiration\nYou can use the data to:\n* Perform sentiment analysis;  \n* Identify discussion topics;  ",
+  "datasetId": 1555484,
+  "datasetSlug": "cricket-on-reddit",
+  "hasDatasetSlug": true,
+  "ownerUser": "gpreda",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10052,
+  "totalVotes": 26,
+  "totalDownloads": 192,
+  "title": "Cricket on Reddit",
+  "hasTitle": true,
+  "subtitle": "News, banter and occasional serious discussion on the great game",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCricket (r/Cricket), is a subreddit where people divagate, blander and sometime discuss seriously about this great game.\n\nThe data is not filtered.\n\n### Collection\n\nReddit posts from subreddit r/Cricket, downloaded from https://www.reddit.com/r/Cricket using praw (The Python Reddit API Wrapper).\n\nScript used for collection can be found here: [Reddit extract content](https://github.com/gabrielpreda/reddit_extract_content)\n\n### Content\n\nData contains both posts and comments.\nBoth posts and comments contains the following fields:\n* title - relevant for posts    \n* score - relevant for posts - based on impact, number of comments  \n* id - unique id for posts/comments  \n* url - relevant for posts - url of post thread  \n* commns_num - relevant for post - number of comments to this post  \n* created - date of creation  \n* body - relevant for posts/comments - text of the post or comment  \n* timestamp - timestamp  \n\n### Acknowledgements\n\nAll merit goes to the contributors to the posts of subreddit r/Cricket. I only collects them daily.\n\n### Inspiration\nYou can use the data to:\n* Perform sentiment analysis;  \n* Identify discussion topics;  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cricket"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

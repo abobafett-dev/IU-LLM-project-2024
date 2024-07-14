@@ -1,0 +1,41 @@
+{
+  "id": "gpiosenka/car-parts-40-classes",
+  "id_no": 4480592,
+  "datasetSlugNullable": "car-parts-40-classes",
+  "ownerUserNullable": "gpiosenka",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "50 Types of Car Parts -Image Classification",
+  "subtitleNullable": "50 classes of car part types",
+  "descriptionNullable": "This is a dataset of images of 50 types of car parts. It includes a train set, a test set and a validation set. There are 50 classes of car parts. The train set is not balanced. Class Ignition Coil has the most training images = 200. Class Leaf Spring has the least images = 110. The validation and test sets each have 5 images for each of the 50 classes. Images are of dimensions 224 X 224 X3 in jpg format. All images are originals there are no augmented images in the dataset.",
+  "datasetId": 4480592,
+  "datasetSlug": "car-parts-40-classes",
+  "hasDatasetSlug": true,
+  "ownerUser": "gpiosenka",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3232,
+  "totalVotes": 19,
+  "totalDownloads": 473,
+  "title": "50 Types of Car Parts -Image Classification",
+  "hasTitle": true,
+  "subtitle": "50 classes of car part types",
+  "hasSubtitle": true,
+  "description": "This is a dataset of images of 50 types of car parts. It includes a train set, a test set and a validation set. There are 50 classes of car parts. The train set is not balanced. Class Ignition Coil has the most training images = 200. Class Leaf Spring has the least images = 110. The validation and test sets each have 5 images for each of the 50 classes. Images are of dimensions 224 X 224 X3 in jpg format. All images are originals there are no augmented images in the dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "multiclass classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

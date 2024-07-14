@@ -1,0 +1,43 @@
+{
+  "id": "deepaktheanalyst/books-details-dataset",
+  "id_no": 3601703,
+  "datasetSlugNullable": "books-details-dataset",
+  "ownerUserNullable": "deepaktheanalyst",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Books_details_dataset",
+  "subtitleNullable": "\"Goodreads Books: Ratings, Reviews, Genres & More\"",
+  "descriptionNullable": "**Dataset Description: Goodreads Book Data**\n\n**1. Introduction:**\nThis dataset contains information about various books obtained by web scraping the Goodreads website using the Python libraries `requests`, `Beautiful Soup`, and `multithreading`. The data provides insights into books from different categories, including their titles, authors, ratings, number of ratings, number of reviews, descriptions, and genres.\n\n**2. Data Collection:**\nThe data was collected by scraping multiple categories on the Goodreads website. The scraping process involved making HTTP requests to the web server using the `requests` library, parsing the HTML content using `Beautiful Soup`, and implementing `multithreading` to accelerate the data collection process. The dataset encompasses a diverse collection of books from different genres and categories.\n\n**3. Data Columns:**\nThe dataset includes the following columns:\n\n1. `title`: The title of the book.\n2. `author`: The author(s) of the book.\n3. `rating`: The average rating of the book based on user reviews on Goodreads.\n4. `no_of_ratings`: The total number of ratings the book has received on Goodreads.\n5. `no_of_reviews`: The total number of reviews the book has received on Goodreads.\n6. `description`: A brief description or summary of the book.\n7. `genres`: The genres or categories the book belongs to.\n\n**4. Data Format:**\nThe dataset is presented in a tabular format (e.g., CSV, Excel), where each row represents a unique book and its corresponding attributes. The data is organized in a structured manner to enable easy analysis and insights.\n\n**5. Data Quality:**\nEfforts were made to ensure data accuracy during the web scraping process. However, it is essential to note that the data's reliability depends on the quality of information available on the Goodreads website at the time of scraping. Minor inconsistencies or missing data points may be present due to variations in the website's structure or content changes over time.\n\n**6. Potential Use Cases:**\nThis dataset can be utilized for various purposes, including but not limited to:\n- Book recommendation systems based on ratings and genres.\n- Analyzing popular authors and their books.\n- Understanding the relationship between the number of ratings, reviews, and the overall rating.\n- Exploring the distribution of books across different genres.\n\n**7. Citation:**\nIf you use this dataset for research or analysis, it is essential to acknowledge the data source by providing a citation to Goodreads, the Python libraries used, and mentioning the use of web scraping techniques.\n\nPlease note that before sharing or using this dataset, you should comply with Goodreads' terms of service and respect copyright laws regarding the books' content.",
+  "datasetId": 3601703,
+  "datasetSlug": "books-details-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "deepaktheanalyst",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 491,
+  "totalVotes": 2,
+  "totalDownloads": 89,
+  "title": "Books_details_dataset",
+  "hasTitle": true,
+  "subtitle": "\"Goodreads Books: Ratings, Reviews, Genres & More\"",
+  "hasSubtitle": true,
+  "description": "**Dataset Description: Goodreads Book Data**\n\n**1. Introduction:**\nThis dataset contains information about various books obtained by web scraping the Goodreads website using the Python libraries `requests`, `Beautiful Soup`, and `multithreading`. The data provides insights into books from different categories, including their titles, authors, ratings, number of ratings, number of reviews, descriptions, and genres.\n\n**2. Data Collection:**\nThe data was collected by scraping multiple categories on the Goodreads website. The scraping process involved making HTTP requests to the web server using the `requests` library, parsing the HTML content using `Beautiful Soup`, and implementing `multithreading` to accelerate the data collection process. The dataset encompasses a diverse collection of books from different genres and categories.\n\n**3. Data Columns:**\nThe dataset includes the following columns:\n\n1. `title`: The title of the book.\n2. `author`: The author(s) of the book.\n3. `rating`: The average rating of the book based on user reviews on Goodreads.\n4. `no_of_ratings`: The total number of ratings the book has received on Goodreads.\n5. `no_of_reviews`: The total number of reviews the book has received on Goodreads.\n6. `description`: A brief description or summary of the book.\n7. `genres`: The genres or categories the book belongs to.\n\n**4. Data Format:**\nThe dataset is presented in a tabular format (e.g., CSV, Excel), where each row represents a unique book and its corresponding attributes. The data is organized in a structured manner to enable easy analysis and insights.\n\n**5. Data Quality:**\nEfforts were made to ensure data accuracy during the web scraping process. However, it is essential to note that the data's reliability depends on the quality of information available on the Goodreads website at the time of scraping. Minor inconsistencies or missing data points may be present due to variations in the website's structure or content changes over time.\n\n**6. Potential Use Cases:**\nThis dataset can be utilized for various purposes, including but not limited to:\n- Book recommendation systems based on ratings and genres.\n- Analyzing popular authors and their books.\n- Understanding the relationship between the number of ratings, reviews, and the overall rating.\n- Exploring the distribution of books across different genres.\n\n**7. Citation:**\nIf you use this dataset for research or analysis, it is essential to acknowledge the data source by providing a citation to Goodreads, the Python libraries used, and mentioning the use of web scraping techniques.\n\nPlease note that before sharing or using this dataset, you should comply with Goodreads' terms of service and respect copyright laws regarding the books' content.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "advanced",
+    "recommender systems",
+    "nltk",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

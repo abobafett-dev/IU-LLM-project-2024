@@ -1,0 +1,44 @@
+{
+  "id": "dhufrfarooq/physiognomy-dataset",
+  "id_no": 4253887,
+  "datasetSlugNullable": "physiognomy-dataset",
+  "ownerUserNullable": "dhufrfarooq",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "physiognomy dataset",
+  "subtitleNullable": "object detection dataset for facial features recognition ",
+  "descriptionNullable": "Dataset Description: Object Detection Dataset for Facial Features\nOverview:\nThis dataset is specifically designed for object detection tasks, focusing on facial features such as eyes, nose, and eyebrows. It is curated to be compatible with the YOLOv8 object detection framework and features annotations for six distinct classes related to facial characteristics.\n\nDataset Specifications:\nFramework Compatibility: YOLO\nAnnotation Type: Pascal VOC\nClasses:\nBrown Eyes\nBlue Eyes\nPointy Nose\nRounded Nose\nStraight Eyebrows\nRound Eyebrows\nData Augmentation:\nTo enhance the robustness and diversity of the dataset, various augmentation techniques have been applied to the images, including:\n\nFlip: Horizontal and Vertical flips are applied.\nGrayscale: Approximately 50% of the images have been converted to grayscale.\nExposure: Adjustments ranging between -21% and +21% have been made to the image exposure.\nData Split:\nThe dataset has been divided into three distinct subsets for training, validation, and testing purposes:\n\nTraining Set: 96% (2,691 Images)\nValidation Set: 2% (51 Images)\nTest Set: 2% (51 Images)\nUsage:\nResearchers and practitioners can utilize this dataset to develop and evaluate object detection models specifically tailored for facial feature recognition. The annotated classes and comprehensive augmentation techniques aim to facilitate the creation of robust and accurate models capable of identifying various facial characteristics.\n\nNote:\nProper citation and adherence to licensing agreements are recommended when using this dataset for research.\n\nBy providing a detailed and well-structured dataset, this resource aims to contribute to advancements in object detection methodologies, particularly in the domain of facial feature recognition.\n[paper](https://ieeexplore.ieee.org/abstract/document/10304905)",
+  "datasetId": 4253887,
+  "datasetSlug": "physiognomy-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "dhufrfarooq",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 376,
+  "totalVotes": 6,
+  "totalDownloads": 23,
+  "title": "physiognomy dataset",
+  "hasTitle": true,
+  "subtitle": "object detection dataset for facial features recognition ",
+  "hasSubtitle": true,
+  "description": "Dataset Description: Object Detection Dataset for Facial Features\nOverview:\nThis dataset is specifically designed for object detection tasks, focusing on facial features such as eyes, nose, and eyebrows. It is curated to be compatible with the YOLOv8 object detection framework and features annotations for six distinct classes related to facial characteristics.\n\nDataset Specifications:\nFramework Compatibility: YOLO\nAnnotation Type: Pascal VOC\nClasses:\nBrown Eyes\nBlue Eyes\nPointy Nose\nRounded Nose\nStraight Eyebrows\nRound Eyebrows\nData Augmentation:\nTo enhance the robustness and diversity of the dataset, various augmentation techniques have been applied to the images, including:\n\nFlip: Horizontal and Vertical flips are applied.\nGrayscale: Approximately 50% of the images have been converted to grayscale.\nExposure: Adjustments ranging between -21% and +21% have been made to the image exposure.\nData Split:\nThe dataset has been divided into three distinct subsets for training, validation, and testing purposes:\n\nTraining Set: 96% (2,691 Images)\nValidation Set: 2% (51 Images)\nTest Set: 2% (51 Images)\nUsage:\nResearchers and practitioners can utilize this dataset to develop and evaluate object detection models specifically tailored for facial feature recognition. The annotated classes and comprehensive augmentation techniques aim to facilitate the creation of robust and accurate models capable of identifying various facial characteristics.\n\nNote:\nProper citation and adherence to licensing agreements are recommended when using this dataset for research.\n\nBy providing a detailed and well-structured dataset, this resource aims to contribute to advancements in object detection methodologies, particularly in the domain of facial feature recognition.\n[paper](https://ieeexplore.ieee.org/abstract/document/10304905)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "people",
+    "computer vision",
+    "image",
+    "yolo",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

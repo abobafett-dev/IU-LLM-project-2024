@@ -1,0 +1,40 @@
+{
+  "id": "estratic/data-breaches-2004-2017-en-20180218",
+  "id_no": 13574,
+  "datasetSlugNullable": "data-breaches-2004-2017-en-20180218",
+  "ownerUserNullable": "estratic",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Data Breaches 2004-2017 (EN)",
+  "subtitleNullable": "English version of Data Breaches 2004-2017 greater than 30K records ",
+  "descriptionNullable": "### Context\n\nData breaches. Incidents in the world, that compromised more than 30000 records, between 2004 and 2017. English version. I wanted to visualize the data including the possibility to compare numbers between variable levels. I did some improvements in levels of variables as well as data, and I did a visualization. I also uploaded [this version of the dataset in Spanish][1]. I did the visualization with Tableau software.\n\nIn this post in my blog, you can read more about it: [Spanish version][2] and [English version][3]. You can also see the visualization in this link: [Spanish version][4] and [English version][5]. \n\n### Content\n\nThe dataset has 270 observations and 11 variables. Most of them, are categorical variables. Incidents happened between 2004 and 2017. Last updated: February 2018. Format: CSV2.\n\nVariables (columns) [EN]:\n\n - Entity: name of the organization (public or private) that had the breach. String\n - Alternative Name: other known names of the entity. String\n - Story: tells a summary of what happened. String\n - Year: year of the breach. Date\n - Records Lost: number of records that the breach compromised.Integer\n - Sector: organization's main sector (or field of business). String\n - Method of Leak: main cause of the breach. String\n - 1st source (link): 1st. url with more info about the breach. String\n - 2nd source (link): 2nd. url with more info about the breach. String\n - 3rd source (link): 3rd. url with more info about the breach. String\n - Source name: name of the source of news, official reports, blog, etc. included. Note that some of them have changed after I replaced some previous broken links that the original dataset had. String\n\n### Acknowledgements\n\n[Informationisbeautiful.net][6]. Before the improvements, a first dataset was downloaded from this site, by the end of 2017. \n\n\n### Inspiration\n\nThe main question to be answered with the data visualization was \"What quantities of records were compromised by important data breaches, in organizations and sectors, between 2004 and 2017, and what was the reason?\". I wanted to have a visual answer that allows to compare numbers between year, sector, and method of leak. It would be great to improve the dataset adding new variables for data mining in the future. Achieving a complete and exhaustive \"Data Breaches 2004-2017\" dataset, would help to an in-depth analysis of incidents in this period. 2017 has been the worst year in the history.\n\n\n  [1]: https://www.kaggle.com/estratic/brechas-datos-2004-2017-es-20180218\n  [2]: https://www.estratic.com/2018/02/09/visualizando-brechas-de-datos-2004-2017/\n  [3]: https://www.estratic.com/2018/02/09/visualizing-data-breaches-2004-2017-2/\n  [4]: https://www.estratic.com/brechas-de-datos/\n  [5]: https://www.estratic.com/data-breaches-viz/\n  [6]: http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/",
+  "datasetId": 13574,
+  "datasetSlug": "data-breaches-2004-2017-en-20180218",
+  "hasDatasetSlug": true,
+  "ownerUser": "estratic",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 21741,
+  "totalVotes": 26,
+  "totalDownloads": 2781,
+  "title": "Data Breaches 2004-2017 (EN)",
+  "hasTitle": true,
+  "subtitle": "English version of Data Breaches 2004-2017 greater than 30K records ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nData breaches. Incidents in the world, that compromised more than 30000 records, between 2004 and 2017. English version. I wanted to visualize the data including the possibility to compare numbers between variable levels. I did some improvements in levels of variables as well as data, and I did a visualization. I also uploaded [this version of the dataset in Spanish][1]. I did the visualization with Tableau software.\n\nIn this post in my blog, you can read more about it: [Spanish version][2] and [English version][3]. You can also see the visualization in this link: [Spanish version][4] and [English version][5]. \n\n### Content\n\nThe dataset has 270 observations and 11 variables. Most of them, are categorical variables. Incidents happened between 2004 and 2017. Last updated: February 2018. Format: CSV2.\n\nVariables (columns) [EN]:\n\n - Entity: name of the organization (public or private) that had the breach. String\n - Alternative Name: other known names of the entity. String\n - Story: tells a summary of what happened. String\n - Year: year of the breach. Date\n - Records Lost: number of records that the breach compromised.Integer\n - Sector: organization's main sector (or field of business). String\n - Method of Leak: main cause of the breach. String\n - 1st source (link): 1st. url with more info about the breach. String\n - 2nd source (link): 2nd. url with more info about the breach. String\n - 3rd source (link): 3rd. url with more info about the breach. String\n - Source name: name of the source of news, official reports, blog, etc. included. Note that some of them have changed after I replaced some previous broken links that the original dataset had. String\n\n### Acknowledgements\n\n[Informationisbeautiful.net][6]. Before the improvements, a first dataset was downloaded from this site, by the end of 2017. \n\n\n### Inspiration\n\nThe main question to be answered with the data visualization was \"What quantities of records were compromised by important data breaches, in organizations and sectors, between 2004 and 2017, and what was the reason?\". I wanted to have a visual answer that allows to compare numbers between year, sector, and method of leak. It would be great to improve the dataset adding new variables for data mining in the future. Achieving a complete and exhaustive \"Data Breaches 2004-2017\" dataset, would help to an in-depth analysis of incidents in this period. 2017 has been the worst year in the history.\n\n\n  [1]: https://www.kaggle.com/estratic/brechas-datos-2004-2017-es-20180218\n  [2]: https://www.estratic.com/2018/02/09/visualizando-brechas-de-datos-2004-2017/\n  [3]: https://www.estratic.com/2018/02/09/visualizing-data-breaches-2004-2017-2/\n  [4]: https://www.estratic.com/brechas-de-datos/\n  [5]: https://www.estratic.com/data-breaches-viz/\n  [6]: http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "data visualization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

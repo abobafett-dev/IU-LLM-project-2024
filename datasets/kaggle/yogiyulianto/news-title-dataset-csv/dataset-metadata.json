@@ -1,0 +1,43 @@
+{
+  "id": "yogiyulianto/news-title-dataset-csv",
+  "id_no": 1888923,
+  "datasetSlugNullable": "news-title-dataset-csv",
+  "ownerUserNullable": "yogiyulianto",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "News Title Dataset CSV",
+  "subtitleNullable": "News title dataset with csv format and have 4 categories",
+  "descriptionNullable": "### Context\n\nNews title dataset with 4 categories like business,technology,entertainment and medical. you can use this dataset for learning Natural Language Processing(NLP) with tools you love.\n\n### Acknowledgements\n\nThis dataset i get from technical test as Data Scientist in Bagidata, you guys can check the company at this URL https://bagidata.com/",
+  "datasetId": 1888923,
+  "datasetSlug": "news-title-dataset-csv",
+  "hasDatasetSlug": true,
+  "ownerUser": "yogiyulianto",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 991,
+  "totalVotes": 3,
+  "totalDownloads": 115,
+  "title": "News Title Dataset CSV",
+  "hasTitle": true,
+  "subtitle": "News title dataset with csv format and have 4 categories",
+  "hasSubtitle": true,
+  "description": "### Context\n\nNews title dataset with 4 categories like business,technology,entertainment and medical. you can use this dataset for learning Natural Language Processing(NLP) with tools you love.\n\n### Acknowledgements\n\nThis dataset i get from technical test as Data Scientist in Bagidata, you guys can check the company at this URL https://bagidata.com/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "nlp",
+    "text",
+    "news",
+    "nltk"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

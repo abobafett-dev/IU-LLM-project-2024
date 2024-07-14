@@ -1,0 +1,39 @@
+{
+  "id": "viswajithkn/instacart-predict-shopping-time",
+  "id_no": 70809,
+  "datasetSlugNullable": "instacart-predict-shopping-time",
+  "ownerUserNullable": "viswajithkn",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Instacart Predict Shopping Time",
+  "subtitleNullable": "Multivariate Time series analysis anyone?",
+  "descriptionNullable": "### Context\n\nThe idea is to predict the shopping time given a shopper id, store id, and the day the shopping was done.\n\n\n### Content\n\nThe training data contains by trip id the stores visited, the shopper id, the shopping start and end time.\n\n\n### Acknowledgements\n\nI would like to acknowledge the data science team of Instacart for sending this out to me as a part of their recruitment process. \n\n\n### Inspiration\n\nFrom the data is it possible to perform a multivariate time series analysis to predict shopping time? How to go about analysis on such data? I have added a preliminary analysis.",
+  "datasetId": 70809,
+  "datasetSlug": "instacart-predict-shopping-time",
+  "hasDatasetSlug": true,
+  "ownerUser": "viswajithkn",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 9091,
+  "totalVotes": 12,
+  "totalDownloads": 603,
+  "title": "Instacart Predict Shopping Time",
+  "hasTitle": true,
+  "subtitle": "Multivariate Time series analysis anyone?",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe idea is to predict the shopping time given a shopper id, store id, and the day the shopping was done.\n\n\n### Content\n\nThe training data contains by trip id the stores visited, the shopper id, the shopping start and end time.\n\n\n### Acknowledgements\n\nI would like to acknowledge the data science team of Instacart for sending this out to me as a part of their recruitment process. \n\n\n### Inspiration\n\nFrom the data is it possible to perform a multivariate time series analysis to predict shopping time? How to go about analysis on such data? I have added a preliminary analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

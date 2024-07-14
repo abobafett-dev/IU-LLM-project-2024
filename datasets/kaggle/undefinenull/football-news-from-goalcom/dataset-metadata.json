@@ -1,0 +1,43 @@
+{
+  "id": "undefinenull/football-news-from-goalcom",
+  "id_no": 2450963,
+  "datasetSlugNullable": "football-news-from-goalcom",
+  "ownerUserNullable": "undefinenull",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Football News from GOAL.COM",
+  "subtitleNullable": "Breaking News from www.goal.com",
+  "descriptionNullable": "Dataset of football news. Scraped from https://www.goal.com/en/news/[1-300]. The dataset contains news from the winter transfer window to the summer transfer window in 2022. It contains news headlines, tags, posting times, links, and you can get news details through the links.",
+  "datasetId": 2450963,
+  "datasetSlug": "football-news-from-goalcom",
+  "hasDatasetSlug": true,
+  "ownerUser": "undefinenull",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 299,
+  "totalVotes": 6,
+  "totalDownloads": 38,
+  "title": "Football News from GOAL.COM",
+  "hasTitle": true,
+  "subtitle": "Breaking News from www.goal.com",
+  "hasSubtitle": true,
+  "description": "Dataset of football news. Scraped from https://www.goal.com/en/news/[1-300]. The dataset contains news from the winter transfer window to the summer transfer window in 2022. It contains news headlines, tags, posting times, links, and you can get news details through the links.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "nlp",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

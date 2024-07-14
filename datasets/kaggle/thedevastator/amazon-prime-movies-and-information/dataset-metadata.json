@@ -1,0 +1,41 @@
+{
+  "id": "thedevastator/amazon-prime-movies-and-information",
+  "id_no": 2818969,
+  "datasetSlugNullable": "amazon-prime-movies-and-information",
+  "ownerUserNullable": "thedevastator",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Amazon Prime Movies and Information",
+  "subtitleNullable": "A Wide Collection of Rated Movies for Analyzing Global Trends in Media",
+  "descriptionNullable": "_____\n# Amazon Prime Movies and Information\n### A Wide Collection of Rated Movies for Analyzing Global Trends in Media\nBy Irnadia Fardila [[source]](https://data.world/nadnadnad)\n_____\n\n### About this dataset\n&gt; This dataset contains a comprehensive list of popular Amazon Prime titles and their associated information. With over 700 movies from around the world, viewers have plenty from which to choose. Included in the data are details on genre, runtime, release year, country of origin, cast and crew along with added-value information such as a synopsis and IMDB ratings. Get lost in cinematic gems ranging from foreign classics to major blockbusters or simply start your journey by finding out which movie has been most recently added! Making it easy to browse through all that Amazon Prime offers without missing one interesting title\n\n### More Datasets\n&gt; For more datasets, click [here](https://www.kaggle.com/thedevastator/datasets).\n\n### Featured Notebooks\n&gt; - \ud83d\udea8 **Your notebook can be here!** \ud83d\udea8! \n\n### How to use the dataset\n&gt; This dataset contains information about Amazon Prime movies, including title, director, cast, country, release year, rating, duration and description. It is useful for anyone interested in streaming media on Amazon Prime. \n&gt; \n\n\n### Research Ideas\n&gt; - Recommending similar films or TV shows based on genre, director, cast, and other data from the dataset.\n&gt; - Constructing a collaborative filtering recommendation engine using the titles and ratings of films/TV shows in this dataset.\n&gt; - Creating a visual representation of viewing trends of different genres in different countries over time using release year data and plotting them on graphs or maps using country information from the dataset\n\n### Acknowledgements\n&gt; If you use this dataset in your research, please credit the original authors.\n&gt; [Data Source](https://data.world/nadnadnad)\n&gt; \n&gt;\n\n\n### License\n&gt; \n&gt; \n&gt; See the dataset description for more information.\n\n### Columns\n\n**File: amazon_prime_titles.csv**\n| Column name   | Description                                      |\n|:--------------|:-------------------------------------------------|\n| **Title**     | The title of the media in question. (String)     |\n| **Director**  | The director of the media. (String)              |\n| **Country**   | The country where the media was filmed. (String) |\n| **Rating**    | The rating of the media. (String)                |\n| **Type**      | The type of media (movie or TV show). (String)   |\n\n### Acknowledgements\n&gt; If you use this dataset in your research, please credit the original authors.\n&gt; If you use this dataset in your research, please credit [Irnadia Fardila](https://data.world/nadnadnad).\n\n",
+  "datasetId": 2818969,
+  "datasetSlug": "amazon-prime-movies-and-information",
+  "hasDatasetSlug": true,
+  "ownerUser": "thedevastator",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 436,
+  "totalVotes": 1,
+  "totalDownloads": 62,
+  "title": "Amazon Prime Movies and Information",
+  "hasTitle": true,
+  "subtitle": "A Wide Collection of Rated Movies for Analyzing Global Trends in Media",
+  "hasSubtitle": true,
+  "description": "_____\n# Amazon Prime Movies and Information\n### A Wide Collection of Rated Movies for Analyzing Global Trends in Media\nBy Irnadia Fardila [[source]](https://data.world/nadnadnad)\n_____\n\n### About this dataset\n&gt; This dataset contains a comprehensive list of popular Amazon Prime titles and their associated information. With over 700 movies from around the world, viewers have plenty from which to choose. Included in the data are details on genre, runtime, release year, country of origin, cast and crew along with added-value information such as a synopsis and IMDB ratings. Get lost in cinematic gems ranging from foreign classics to major blockbusters or simply start your journey by finding out which movie has been most recently added! Making it easy to browse through all that Amazon Prime offers without missing one interesting title\n\n### More Datasets\n&gt; For more datasets, click [here](https://www.kaggle.com/thedevastator/datasets).\n\n### Featured Notebooks\n&gt; - \ud83d\udea8 **Your notebook can be here!** \ud83d\udea8! \n\n### How to use the dataset\n&gt; This dataset contains information about Amazon Prime movies, including title, director, cast, country, release year, rating, duration and description. It is useful for anyone interested in streaming media on Amazon Prime. \n&gt; \n\n\n### Research Ideas\n&gt; - Recommending similar films or TV shows based on genre, director, cast, and other data from the dataset.\n&gt; - Constructing a collaborative filtering recommendation engine using the titles and ratings of films/TV shows in this dataset.\n&gt; - Creating a visual representation of viewing trends of different genres in different countries over time using release year data and plotting them on graphs or maps using country information from the dataset\n\n### Acknowledgements\n&gt; If you use this dataset in your research, please credit the original authors.\n&gt; [Data Source](https://data.world/nadnadnad)\n&gt; \n&gt;\n\n\n### License\n&gt; \n&gt; \n&gt; See the dataset description for more information.\n\n### Columns\n\n**File: amazon_prime_titles.csv**\n| Column name   | Description                                      |\n|:--------------|:-------------------------------------------------|\n| **Title**     | The title of the media in question. (String)     |\n| **Director**  | The director of the media. (String)              |\n| **Country**   | The country where the media was filmed. (String) |\n| **Rating**    | The rating of the media. (String)                |\n| **Type**      | The type of media (movie or TV show). (String)   |\n\n### Acknowledgements\n&gt; If you use this dataset in your research, please credit the original authors.\n&gt; If you use this dataset in your research, please credit [Irnadia Fardila](https://data.world/nadnadnad).\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "data visualization",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

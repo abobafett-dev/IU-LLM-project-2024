@@ -1,0 +1,45 @@
+{
+  "id": "nikhilbartwal001/celeba",
+  "id_no": 1176847,
+  "datasetSlugNullable": "celeba",
+  "ownerUserNullable": "nikhilbartwal001",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Celeb Faces Attributes Dataset (CelebA)",
+  "subtitleNullable": "200k+ images of celebrities with 40 attribute annotations",
+  "descriptionNullable": "### About the dataset\n\n**[CelebFaces Attributes Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) (CelebA)** is a large-scale face attributes dataset with **more than 200K celebrity images**, each with **40 attribute annotations**. The images in this dataset cover large pose variations and background clutter. CelebA has large diversities, large quantities, and rich annotations, including\n\n- **10,177** number of **identities**,\n\n- **202,599** number of **face images**, and\n\n- **5 landmark locations, 40 binary attributes** annotations per image.\n\nThe dataset can be employed as the training and test sets for the following computer vision tasks: face attribute recognition, face detection, landmark (or facial part) localization, and face editing & synthesis.\n\n### License and Agreement\n\n- The CelebA dataset is available for non-commercial research purposes only.\n- All images of the CelebA dataset are obtained from the Internet which are not property of MMLAB, The Chinese University of Hong Kong. The MMLAB is not responsible for the content nor the meaning of these images.\n- You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.\n- You agree not to further copy, publish or distribute any portion of the CelebA dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.\n\n### Citation\n\n@inproceedings{liu2015faceattributes,\n title = {Deep Learning Face Attributes in the Wild},\n author = {Liu, Ziwei and Luo, Ping and Wang, Xiaogang and Tang, Xiaoou},\n booktitle = {Proceedings of International Conference on Computer Vision (ICCV)},\n month = {December},\n year = {2015} \n}\n\nPlease contact [Ping Luo](http://personal.ie.cuhk.edu.hk/~pluo/) and [Ziwei Liu](https://liuziwei7.github.io/) for questions about the dataset.",
+  "datasetId": 1176847,
+  "datasetSlug": "celeba",
+  "hasDatasetSlug": true,
+  "ownerUser": "nikhilbartwal001",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 4136,
+  "totalVotes": 7,
+  "totalDownloads": 302,
+  "title": "Celeb Faces Attributes Dataset (CelebA)",
+  "hasTitle": true,
+  "subtitle": "200k+ images of celebrities with 40 attribute annotations",
+  "hasSubtitle": true,
+  "description": "### About the dataset\n\n**[CelebFaces Attributes Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) (CelebA)** is a large-scale face attributes dataset with **more than 200K celebrity images**, each with **40 attribute annotations**. The images in this dataset cover large pose variations and background clutter. CelebA has large diversities, large quantities, and rich annotations, including\n\n- **10,177** number of **identities**,\n\n- **202,599** number of **face images**, and\n\n- **5 landmark locations, 40 binary attributes** annotations per image.\n\nThe dataset can be employed as the training and test sets for the following computer vision tasks: face attribute recognition, face detection, landmark (or facial part) localization, and face editing & synthesis.\n\n### License and Agreement\n\n- The CelebA dataset is available for non-commercial research purposes only.\n- All images of the CelebA dataset are obtained from the Internet which are not property of MMLAB, The Chinese University of Hong Kong. The MMLAB is not responsible for the content nor the meaning of these images.\n- You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.\n- You agree not to further copy, publish or distribute any portion of the CelebA dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.\n\n### Citation\n\n@inproceedings{liu2015faceattributes,\n title = {Deep Learning Face Attributes in the Wild},\n author = {Liu, Ziwei and Luo, Ping and Wang, Xiaogang and Tang, Xiaoou},\n booktitle = {Proceedings of International Conference on Computer Vision (ICCV)},\n month = {December},\n year = {2015} \n}\n\nPlease contact [Ping Luo](http://personal.ie.cuhk.edu.hk/~pluo/) and [Ziwei Liu](https://liuziwei7.github.io/) for questions about the dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "celebrities",
+    "movies and tv shows",
+    "business",
+    "classification",
+    "image",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

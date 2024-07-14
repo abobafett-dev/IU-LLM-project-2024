@@ -1,0 +1,43 @@
+{
+  "id": "anpoeliu/asos-trustpilot-review-data-from-2022-oct-2023-jan",
+  "id_no": 4291580,
+  "datasetSlugNullable": "asos-trustpilot-review-data-from-2022-oct-2023-jan",
+  "ownerUserNullable": "anpoeliu",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "ASOS Trustpilot Review Data From 2022 Oct-2023 Jan",
+  "subtitleNullable": "ASOS Trustpilot Review Data From 2022 Oct-2023 Jan",
+  "descriptionNullable": "Overview:\nThis dataset, named 'ASOS_Trustpilot_4.5.csv', contains customer reviews collected from Trustpilot for ASOS, a British online fashion and cosmetic retailer. The dataset appears to be a snapshot of customer feedback with various attributes such as review titles, texts, dates, locations, and ratings.\n\nContent:\nThe CSV file includes the following columns:\n\nName: The name of the reviewer. There are 1828 unique values which suggest a wide range of customers.\nDate: The date of the review, ranging from at least November 25, 2021, to January 6, 2023.\nReview_Title: The title given by the reviewer to their feedback.\nReview_Text: The full text of the customer review.\nLocation: The geographical location of the reviewer, indicated by country codes such as 'GB' for Great Britain and 'US' for the United States.\nRating: The star rating given by the reviewer, on a scale of 1 to 5.\n\nInspiration:\nResearchers and data analysts can use this dataset to perform sentiment analysis, customer satisfaction studies, or to train machine learning models to predict customer ratings based on review texts. It may also be used to analyze the geographical distribution of ASOS's customer base and the correlation between review sentiments and star ratings.\n\nUsage:\nThis dataset is made available for educational and academic purposes. Please ensure to cite the source when using the data in your projects.",
+  "datasetId": 4291580,
+  "datasetSlug": "asos-trustpilot-review-data-from-2022-oct-2023-jan",
+  "hasDatasetSlug": true,
+  "ownerUser": "anpoeliu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 126,
+  "totalVotes": 2,
+  "totalDownloads": 25,
+  "title": "ASOS Trustpilot Review Data From 2022 Oct-2023 Jan",
+  "hasTitle": true,
+  "subtitle": "ASOS Trustpilot Review Data From 2022 Oct-2023 Jan",
+  "hasSubtitle": true,
+  "description": "Overview:\nThis dataset, named 'ASOS_Trustpilot_4.5.csv', contains customer reviews collected from Trustpilot for ASOS, a British online fashion and cosmetic retailer. The dataset appears to be a snapshot of customer feedback with various attributes such as review titles, texts, dates, locations, and ratings.\n\nContent:\nThe CSV file includes the following columns:\n\nName: The name of the reviewer. There are 1828 unique values which suggest a wide range of customers.\nDate: The date of the review, ranging from at least November 25, 2021, to January 6, 2023.\nReview_Title: The title given by the reviewer to their feedback.\nReview_Text: The full text of the customer review.\nLocation: The geographical location of the reviewer, indicated by country codes such as 'GB' for Great Britain and 'US' for the United States.\nRating: The star rating given by the reviewer, on a scale of 1 to 5.\n\nInspiration:\nResearchers and data analysts can use this dataset to perform sentiment analysis, customer satisfaction studies, or to train machine learning models to predict customer ratings based on review texts. It may also be used to analyze the geographical distribution of ASOS's customer base and the correlation between review sentiments and star ratings.\n\nUsage:\nThis dataset is made available for educational and academic purposes. Please ensure to cite the source when using the data in your projects.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "nlp",
+    "text mining",
+    "text",
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

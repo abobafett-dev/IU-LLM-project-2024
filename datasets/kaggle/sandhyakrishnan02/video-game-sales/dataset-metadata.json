@@ -1,0 +1,40 @@
+{
+  "id": "sandhyakrishnan02/video-game-sales",
+  "id_no": 2578220,
+  "datasetSlugNullable": "video-game-sales",
+  "ownerUserNullable": "sandhyakrishnan02",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Video Game Sales",
+  "subtitleNullable": "Video Game Sales in millions",
+  "descriptionNullable": "This dataset contains a list of video games. A scrape of vgchartz.com generated it. \nFields include\n\n- Rank - Ranking of overall sales\n- Name - The games name\n- Platform - Platform of the game's release (i.e. PC,PPS4, etc.)\n- Year - Year of the game's release\n- Genre - Genre of the game\n- Developer - Developer of Game.\n- Publisher - Publisher of the game\n- NA_Sales - Sales in North America (in millions)\n- PAL_Sales - Sales in PAL region(in millions)\n- JP_Sales - Sales in Japan (in millions)\n- Other_Sales - Sales in the rest of the world (in millions)\n- Global_Sales - Total worldwide sales.\n\nCredit: GREGORY SMITH. You can check out his dataset [here](https://www.kaggle.com/datasets/gregorut/videogamesales) Code for scraping is also available at his [github](https://github.com/GregorUT/vgchartzScrape)\n",
+  "datasetId": 2578220,
+  "datasetSlug": "video-game-sales",
+  "hasDatasetSlug": true,
+  "ownerUser": "sandhyakrishnan02",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3981,
+  "totalVotes": 16,
+  "totalDownloads": 794,
+  "title": "Video Game Sales",
+  "hasTitle": true,
+  "subtitle": "Video Game Sales in millions",
+  "hasSubtitle": true,
+  "description": "This dataset contains a list of video games. A scrape of vgchartz.com generated it. \nFields include\n\n- Rank - Ranking of overall sales\n- Name - The games name\n- Platform - Platform of the game's release (i.e. PC,PPS4, etc.)\n- Year - Year of the game's release\n- Genre - Genre of the game\n- Developer - Developer of Game.\n- Publisher - Publisher of the game\n- NA_Sales - Sales in North America (in millions)\n- PAL_Sales - Sales in PAL region(in millions)\n- JP_Sales - Sales in Japan (in millions)\n- Other_Sales - Sales in the rest of the world (in millions)\n- Global_Sales - Total worldwide sales.\n\nCredit: GREGORY SMITH. You can check out his dataset [here](https://www.kaggle.com/datasets/gregorut/videogamesales) Code for scraping is also available at his [github](https://github.com/GregorUT/vgchartzScrape)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games",
+    "finance"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "erak1006/capstone-credit-card-fraud-detection",
+  "id_no": 4140206,
+  "datasetSlugNullable": "capstone-credit-card-fraud-detection",
+  "ownerUserNullable": "erak1006",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Capstone - Credit Card Fraud Detection",
+  "subtitleNullable": "Credit Card Fraud Detection by Aditya Kumar Pal",
+  "descriptionNullable": "**Problem Statement**\nThe problem statement chosen for this project is to predict fraudulent credit card transactions with the help of machine learning models.\n\n&gt;In this project, you will analyse customer-level data that has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group.\n\n**Business Problem Overview**\nFor many banks, retaining high profitable customers is the number one business goal. Banking fraud, however, poses a significant threat to this goal for different banks. In terms of substantial financial losses, trust and credibility, this is a concerning issue to both banks and customers alike.\n\nIt has been estimated by Nilson Report that by 2020, banking frauds would account for $30 billion worldwide. With the rise in digital payment channels, the number of fraudulent transactions is also increasing in new and different ways. \n\nIn the banking industry, credit card fraud detection using machine learning is not only a trend but a necessity for them to put proactive monitoring and fraud prevention mechanisms in place. Machine learning is helping these institutions to reduce time-consuming manual reviews, costly chargebacks and fees as well as denials of legitimate transactions.\n\n**Understanding and Defining Fraud**\nCredit card fraud is any dishonest act or behaviour to obtain information without proper authorisation from the account holder for financial gain. Among different ways of committing frauds, skimming is the most common one, which is a way of duplicating information that is located on the magnetic strip of the card. Apart from this, following are the other ways:\n\n&gt;Manipulation/alteration of genuine cards\nCreation of counterfeit cards\nStealing/loss of credit cards\nFraudulent telemarketing\n \n**Data dictionary**\nThe data set includes credit card transactions made by European cardholders over a period of two days in September 2013. Out of a total of 2,84,807 transactions, 492 were fraudulent. This data set is highly unbalanced, with the positive class (frauds) accounting for 0.172% of the total transactions. The data set has also been modified with principal component analysis (PCA) to maintain confidentiality. Apart from \u2018time\u2019 and \u2018amount\u2019, all the other features (V1, V2, V3, up to V28) are the principal components obtained using PCA. The feature 'time' contains the seconds elapsed between the first transaction in the data set and the subsequent transactions. The feature 'amount' is the transaction amount. The feature 'class' represents class labelling, and it takes the value of 1 in cases of fraud and 0 in others.",
+  "datasetId": 4140206,
+  "datasetSlug": "capstone-credit-card-fraud-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "erak1006",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 651,
+  "totalVotes": 3,
+  "totalDownloads": 114,
+  "title": "Capstone - Credit Card Fraud Detection",
+  "hasTitle": true,
+  "subtitle": "Credit Card Fraud Detection by Aditya Kumar Pal",
+  "hasSubtitle": true,
+  "description": "**Problem Statement**\nThe problem statement chosen for this project is to predict fraudulent credit card transactions with the help of machine learning models.\n\n&gt;In this project, you will analyse customer-level data that has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group.\n\n**Business Problem Overview**\nFor many banks, retaining high profitable customers is the number one business goal. Banking fraud, however, poses a significant threat to this goal for different banks. In terms of substantial financial losses, trust and credibility, this is a concerning issue to both banks and customers alike.\n\nIt has been estimated by Nilson Report that by 2020, banking frauds would account for $30 billion worldwide. With the rise in digital payment channels, the number of fraudulent transactions is also increasing in new and different ways. \n\nIn the banking industry, credit card fraud detection using machine learning is not only a trend but a necessity for them to put proactive monitoring and fraud prevention mechanisms in place. Machine learning is helping these institutions to reduce time-consuming manual reviews, costly chargebacks and fees as well as denials of legitimate transactions.\n\n**Understanding and Defining Fraud**\nCredit card fraud is any dishonest act or behaviour to obtain information without proper authorisation from the account holder for financial gain. Among different ways of committing frauds, skimming is the most common one, which is a way of duplicating information that is located on the magnetic strip of the card. Apart from this, following are the other ways:\n\n&gt;Manipulation/alteration of genuine cards\nCreation of counterfeit cards\nStealing/loss of credit cards\nFraudulent telemarketing\n \n**Data dictionary**\nThe data set includes credit card transactions made by European cardholders over a period of two days in September 2013. Out of a total of 2,84,807 transactions, 492 were fraudulent. This data set is highly unbalanced, with the positive class (frauds) accounting for 0.172% of the total transactions. The data set has also been modified with principal component analysis (PCA) to maintain confidentiality. Apart from \u2018time\u2019 and \u2018amount\u2019, all the other features (V1, V2, V3, up to V28) are the principal components obtained using PCA. The feature 'time' contains the seconds elapsed between the first transaction in the data set and the subsequent transactions. The feature 'amount' is the transaction amount. The feature 'class' represents class labelling, and it takes the value of 1 in cases of fraud and 0 in others.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "banking",
+    "exploratory data analysis",
+    "data cleaning",
+    "text",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

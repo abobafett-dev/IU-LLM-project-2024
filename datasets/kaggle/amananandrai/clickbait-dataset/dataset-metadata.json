@@ -1,0 +1,42 @@
+{
+  "id": "amananandrai/clickbait-dataset",
+  "id_no": 609158,
+  "datasetSlugNullable": "clickbait-dataset",
+  "ownerUserNullable": "amananandrai",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Clickbait Dataset",
+  "subtitleNullable": "Dataset of news articles for classification into clickbait and non-clickbait",
+  "descriptionNullable": "### Dataset for Classification of news headlines into clickbait or non-clickbait.\n\nThe data is collected from various news sites.\nThe clickbait headlines are collected from sites such as \u2018BuzzFeed\u2019, \u2018Upworthy\u2019, \u2018ViralNova\u2019, \u2018Thatscoop\u2019, \u2018Scoopwhoop\u2019 and \u2018ViralStories\u2019.\nThe relevant or non-clickbait headlines are collected from many trustworthy news sites such as  \u2018WikiNews\u2019, \u2019New York Times\u2019, \u2018The Guardian\u2019, and  \u2018The Hindu\u2019.\nWe can apply different classification algorithms to classify the data into clickbait and non-clickbait. \n\n\n\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 609158,
+  "datasetSlug": "clickbait-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "amananandrai",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 32171,
+  "totalVotes": 34,
+  "totalDownloads": 2644,
+  "title": "Clickbait Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset of news articles for classification into clickbait and non-clickbait",
+  "hasSubtitle": true,
+  "description": "### Dataset for Classification of news headlines into clickbait or non-clickbait.\n\nThe data is collected from various news sites.\nThe clickbait headlines are collected from sites such as \u2018BuzzFeed\u2019, \u2018Upworthy\u2019, \u2018ViralNova\u2019, \u2018Thatscoop\u2019, \u2018Scoopwhoop\u2019 and \u2018ViralStories\u2019.\nThe relevant or non-clickbait headlines are collected from many trustworthy news sites such as  \u2018WikiNews\u2019, \u2019New York Times\u2019, \u2018The Guardian\u2019, and  \u2018The Hindu\u2019.\nWe can apply different classification algorithms to classify the data into clickbait and non-clickbait. \n\n\n\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "text",
+    "binary classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

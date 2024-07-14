@@ -1,0 +1,49 @@
+{
+  "id": "atharvaarya25/footstep-power-generation",
+  "id_no": 3540762,
+  "datasetSlugNullable": "footstep-power-generation",
+  "ownerUserNullable": "atharvaarya25",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Footstep Power Generation Tile",
+  "subtitleNullable": "The new era of renewable energy",
+  "descriptionNullable": "Competition: DJ STRIKE 2023 \n\nAwarded: 3rd Place\n\nPublished: Research Paper (ISBN: 978- 93-5768-409-5)\n\nProceedings: AVISHKAR 2023 \n\nOther participations: Schneider Electric GO GREEN Competition\n\n#**Project Summary**\n\nDeveloped a piezoelectric tile generating an average of 1mW per step. Data extracted from sensors(Voltage sensor, Current sensor) was sent to Firebase with respect to Exploratory Data Analysis (EDA) for pattern identification. The power stored in the battery could charge a phone for 10 minutes.\n\n# **About Dataset**\n\n1. The dataset was manually created over a period of 3 weeks with prototype and product testing. The dataset was made in college with the help of different students from various branches.\n\n2. It contains 3 numerical features voltage (V), current (mA), and weight (kgs). 1 categorical feature that is the step location of the person on the square tile - center, edge, or corner.\n\n3. It also contains null values so be sure to find and drop them with your data analysis skills. Null values occurred due to loose connection of sensors or internal tile connection.\n",
+  "datasetId": 3540762,
+  "datasetSlug": "footstep-power-generation",
+  "hasDatasetSlug": true,
+  "ownerUser": "atharvaarya25",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 600,
+  "totalVotes": 6,
+  "totalDownloads": 26,
+  "title": "Footstep Power Generation Tile",
+  "hasTitle": true,
+  "subtitle": "The new era of renewable energy",
+  "hasSubtitle": true,
+  "description": "Competition: DJ STRIKE 2023 \n\nAwarded: 3rd Place\n\nPublished: Research Paper (ISBN: 978- 93-5768-409-5)\n\nProceedings: AVISHKAR 2023 \n\nOther participations: Schneider Electric GO GREEN Competition\n\n#**Project Summary**\n\nDeveloped a piezoelectric tile generating an average of 1mW per step. Data extracted from sensors(Voltage sensor, Current sensor) was sent to Firebase with respect to Exploratory Data Analysis (EDA) for pattern identification. The power stored in the battery could charge a phone for 10 minutes.\n\n# **About Dataset**\n\n1. The dataset was manually created over a period of 3 weeks with prototype and product testing. The dataset was made in college with the help of different students from various branches.\n\n2. It contains 3 numerical features voltage (V), current (mA), and weight (kgs). 1 categorical feature that is the step location of the person on the square tile - center, edge, or corner.\n\n3. It also contains null values so be sure to find and drop them with your data analysis skills. Null values occurred due to loose connection of sensors or internal tile connection.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "energy",
+    "renewable energy",
+    "electronics",
+    "time series analysis",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "ishanshrivastava28",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

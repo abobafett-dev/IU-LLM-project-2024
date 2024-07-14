@@ -1,0 +1,42 @@
+{
+  "id": "greninja1729/naruto-shippuden-imdb-ratings",
+  "id_no": 1849202,
+  "datasetSlugNullable": "naruto-shippuden-imdb-ratings",
+  "ownerUserNullable": "greninja1729",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Naruto Shippuden IMDb ratings",
+  "subtitleNullable": "IMDb ratings along with number of IMDb votes and Japanese episode air date",
+  "descriptionNullable": "###**NARUTO SHIPPUDEN**\n\nNaruto Shippuden is a famous anime popular among youths all over the world. Set up in the ninja/shinobi world, this anime focuses on the story of an ambitious shinobi Naruto Uzumaki, a citizen of Konohagakure, who dreams of being the Hokage of the village hoping that the villagers who had shunned him because of the demon fox spirit sealed inside him, would someday acknowledge him as the individual he is.\n\n\n\n###**Content of data**\n\nThe data consists of the following columns:\n\n- *episode_number _overall* : The overall episode number of the anime\n- *season* : Season number of the episode\n- *episode_number _in _ season* : The episode number within the corresponding season\n- *Title* : Title of the episode\n- *Directed by* : Director of the episode\n- *Written by* : Writer of the episode\n- *original_air _date* :  The original Japanese air date of the episode\n- *english_air _date* : The English air date of the episode (Only available up to episode 404 since the English dub versions of episodes 405-500 were not aired at the time of data creation)\n- *rating* : IMDb rating of each episode\n- *votes* : Number of votes on each episode on IMDb\n- *description* : Short description of the contents of the episode\n- *type* : Type of episode (Filler/Manga Canon/Mixed Canon-Filler)\n\n###**Data sources**\n\nThe data is obtained using web scraping from Wikipedia, IMDb website pages of Naruto Shippuden, and Fiction Horizon web article on filler episode list of Naruto Shippuden as given below : \n\n[Wikipedia Naruto Shippuden episode list webpage](https://en.wikipedia.org/wiki/List_of_Naruto:_Shippuden_episodes)\n\n[IMDb Naruto Shippuden webpage](https://www.imdb.com/title/tt0988824/)\n\n[Fiction Horizon web article  on Naruto Shippuden Filler episodes](https://fictionhorizon.com/naruto-naruto-shippuden-filler-list-the-complete-guide/)\n\n### Thank you\n \nData last updated on: July 19, 2022\n\n### Version History\n\n* Version 1  (Uploaded on January 9, 2022) : (now deleted)\n\n* Version 2 (Uploaded on January 18, 2022): Earlier version had English episode air dates only up to episode 368 whereas this version has the English episode air dates up to episode 370. Also, the earlier missing Director and Writer names for some episodes have been added in this version.\n\n* Version 3 (Uploaded on July 18, 2022): The original air dates of the anime have been added for all 500 episodes while the English air dates have been updated up to episode 404.\n\n* Version 4 (Uploaded on July 19, 2022): A new field denoting the type of corresponding episode (Filler/ Manga Canon/ Mixed Canon-Filler) was added to version-3 data.",
+  "datasetId": 1849202,
+  "datasetSlug": "naruto-shippuden-imdb-ratings",
+  "hasDatasetSlug": true,
+  "ownerUser": "greninja1729",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 4415,
+  "totalVotes": 10,
+  "totalDownloads": 306,
+  "title": "Naruto Shippuden IMDb ratings",
+  "hasTitle": true,
+  "subtitle": "IMDb ratings along with number of IMDb votes and Japanese episode air date",
+  "hasSubtitle": true,
+  "description": "###**NARUTO SHIPPUDEN**\n\nNaruto Shippuden is a famous anime popular among youths all over the world. Set up in the ninja/shinobi world, this anime focuses on the story of an ambitious shinobi Naruto Uzumaki, a citizen of Konohagakure, who dreams of being the Hokage of the village hoping that the villagers who had shunned him because of the demon fox spirit sealed inside him, would someday acknowledge him as the individual he is.\n\n\n\n###**Content of data**\n\nThe data consists of the following columns:\n\n- *episode_number _overall* : The overall episode number of the anime\n- *season* : Season number of the episode\n- *episode_number _in _ season* : The episode number within the corresponding season\n- *Title* : Title of the episode\n- *Directed by* : Director of the episode\n- *Written by* : Writer of the episode\n- *original_air _date* :  The original Japanese air date of the episode\n- *english_air _date* : The English air date of the episode (Only available up to episode 404 since the English dub versions of episodes 405-500 were not aired at the time of data creation)\n- *rating* : IMDb rating of each episode\n- *votes* : Number of votes on each episode on IMDb\n- *description* : Short description of the contents of the episode\n- *type* : Type of episode (Filler/Manga Canon/Mixed Canon-Filler)\n\n###**Data sources**\n\nThe data is obtained using web scraping from Wikipedia, IMDb website pages of Naruto Shippuden, and Fiction Horizon web article on filler episode list of Naruto Shippuden as given below : \n\n[Wikipedia Naruto Shippuden episode list webpage](https://en.wikipedia.org/wiki/List_of_Naruto:_Shippuden_episodes)\n\n[IMDb Naruto Shippuden webpage](https://www.imdb.com/title/tt0988824/)\n\n[Fiction Horizon web article  on Naruto Shippuden Filler episodes](https://fictionhorizon.com/naruto-naruto-shippuden-filler-list-the-complete-guide/)\n\n### Thank you\n \nData last updated on: July 19, 2022\n\n### Version History\n\n* Version 1  (Uploaded on January 9, 2022) : (now deleted)\n\n* Version 2 (Uploaded on January 18, 2022): Earlier version had English episode air dates only up to episode 368 whereas this version has the English episode air dates up to episode 370. Also, the earlier missing Director and Writer names for some episodes have been added in this version.\n\n* Version 3 (Uploaded on July 18, 2022): The original air dates of the anime have been added for all 500 episodes while the English air dates have been updated up to episode 404.\n\n* Version 4 (Uploaded on July 19, 2022): A new field denoting the type of corresponding episode (Filler/ Manga Canon/ Mixed Canon-Filler) was added to version-3 data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "tabular",
+    "text",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

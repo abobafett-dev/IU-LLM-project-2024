@@ -1,0 +1,44 @@
+{
+  "id": "ashtonronald/ap-dataset",
+  "id_no": 3372778,
+  "datasetSlugNullable": "ap-dataset",
+  "ownerUserNullable": "ashtonronald",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "AP dataset",
+  "subtitleNullable": "Andhra Pradesh electricity demand forecast dataset",
+  "descriptionNullable": "The following dataset was prepared to facilitate energy demand forecasting for the state of Andhra Pradesh, India.  The dataset contains multiple columns(conventionally used for energy demand forecast) from the period of 1st January, 2019 to 14th May, 2023.",
+  "datasetId": 3372778,
+  "datasetSlug": "ap-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ashtonronald",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 450,
+  "totalVotes": 6,
+  "totalDownloads": 58,
+  "title": "AP dataset",
+  "hasTitle": true,
+  "subtitle": "Andhra Pradesh electricity demand forecast dataset",
+  "hasSubtitle": true,
+  "description": "The following dataset was prepared to facilitate energy demand forecasting for the state of Andhra Pradesh, India.  The dataset contains multiple columns(conventionally used for energy demand forecast) from the period of 1st January, 2019 to 14th May, 2023.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "weather and climate",
+    "energy",
+    "time series analysis",
+    "electricity",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Public Domain Dedication and Licence (PDDL)",
+      "name": "ODC Public Domain Dedication and Licence (PDDL)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

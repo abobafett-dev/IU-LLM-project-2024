@@ -1,0 +1,43 @@
+{
+  "id": "mathurinache/ballon-dor-2021-images",
+  "id_no": 1729156,
+  "datasetSlugNullable": "ballon-dor-2021-images",
+  "ownerUserNullable": "mathurinache",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Ballon d'Or 2021 Images",
+  "subtitleNullable": "Images Classification on Top30 Soccer Players",
+  "descriptionNullable": "### Context\n\nThese photos  are collected using Scrapebox using name of  30 top soccer players (Ballon d'Or 2021)\n![Ballon d'Or Image](http://infos-sport.com/wp-content/uploads/2021/08/ballon-dor.jpg)\n\n### Content\n\nFrom Bing Images\n\n### Inspiration\n\nYou can use this data to train images classification.",
+  "datasetId": 1729156,
+  "datasetSlug": "ballon-dor-2021-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "mathurinache",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 3424,
+  "totalVotes": 8,
+  "totalDownloads": 82,
+  "title": "Ballon d'Or 2021 Images",
+  "hasTitle": true,
+  "subtitle": "Images Classification on Top30 Soccer Players",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThese photos  are collected using Scrapebox using name of  30 top soccer players (Ballon d'Or 2021)\n![Ballon d'Or Image](http://infos-sport.com/wp-content/uploads/2021/08/ballon-dor.jpg)\n\n### Content\n\nFrom Bing Images\n\n### Inspiration\n\nYou can use this data to train images classification.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "computer science",
+    "computer vision",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

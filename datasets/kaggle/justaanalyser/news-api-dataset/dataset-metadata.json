@@ -1,0 +1,42 @@
+{
+  "id": "justaanalyser/news-api-dataset",
+  "id_no": 2006612,
+  "datasetSlugNullable": "news-api-dataset",
+  "ownerUserNullable": "justaanalyser",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "News_Api_Dataset",
+  "subtitleNullable": "Dataset for Top Headlines of news from various Sources",
+  "descriptionNullable": "",
+  "datasetId": 2006612,
+  "datasetSlug": "news-api-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "justaanalyser",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 709,
+  "totalVotes": 1,
+  "totalDownloads": 26,
+  "title": "News_Api_Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset for Top Headlines of news from various Sources",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "tabular",
+    "image",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

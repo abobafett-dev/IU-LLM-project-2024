@@ -1,0 +1,43 @@
+{
+  "id": "amerzishminha/forest-fire-smoke-and-non-fire-image-dataset",
+  "id_no": 3135864,
+  "datasetSlugNullable": "forest-fire-smoke-and-non-fire-image-dataset",
+  "ownerUserNullable": "amerzishminha",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Forest_Fire_Smoke_and_Non_Fire_Image_Dataset",
+  "subtitleNullable": "FireEye - A Dataset for Forest Fire and Smoke Detection and Recognition",
+  "descriptionNullable": "The 'Forest Fire, Smoke, and Non-Fire Image Dataset' is a meticulously organized collection of images sourced from reputable platforms such as Kaggle, Yandex, and various other forest fire image galleries available on Google. This dataset has been specifically developed to create a robust system for accurately detecting forest fires and smoke using multiclass image classification techniques.\n\n**DATASET COMPOSITION**\nThis dataset comprises a total of 42,900 images, distributed across three categories: \"fire,\" \"smoke,\" and \"non-fire.\" It is a balanced dataset divided into training and testing set folders. The training set includes 10,800 samples for each category: fire, smoke, and non-fire. Additionally, 3,500 samples for each category were set aside in the testing set to evaluate the system's effectiveness.\n\n**CLASS BALANCE**\nThe dataset is intentionally balanced to provide an equal representation of each category, ensuring that the model is not biased towards any particular class. This balance is maintained in both the training and testing sets.\n\n**USE CASE**\nThe dataset is suitable for training and evaluating models designed for fire and smoke detection in images. Researchers, developers, and data scientists can use this dataset to build and validate algorithms that can identify and classify instances of fire and smoke accurately.\n\n**ACKNOWLEDGMENT**\nImages in this dataset have been sourced from publicly available repositories. We thank the creators for their contributions.",
+  "datasetId": 3135864,
+  "datasetSlug": "forest-fire-smoke-and-non-fire-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "amerzishminha",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 3589,
+  "totalVotes": 9,
+  "totalDownloads": 753,
+  "title": "Forest_Fire_Smoke_and_Non_Fire_Image_Dataset",
+  "hasTitle": true,
+  "subtitle": "FireEye - A Dataset for Forest Fire and Smoke Detection and Recognition",
+  "hasSubtitle": true,
+  "description": "The 'Forest Fire, Smoke, and Non-Fire Image Dataset' is a meticulously organized collection of images sourced from reputable platforms such as Kaggle, Yandex, and various other forest fire image galleries available on Google. This dataset has been specifically developed to create a robust system for accurately detecting forest fires and smoke using multiclass image classification techniques.\n\n**DATASET COMPOSITION**\nThis dataset comprises a total of 42,900 images, distributed across three categories: \"fire,\" \"smoke,\" and \"non-fire.\" It is a balanced dataset divided into training and testing set folders. The training set includes 10,800 samples for each category: fire, smoke, and non-fire. Additionally, 3,500 samples for each category were set aside in the testing set to evaluate the system's effectiveness.\n\n**CLASS BALANCE**\nThe dataset is intentionally balanced to provide an equal representation of each category, ensuring that the model is not biased towards any particular class. This balance is maintained in both the training and testing sets.\n\n**USE CASE**\nThe dataset is suitable for training and evaluating models designed for fire and smoke detection in images. Researchers, developers, and data scientists can use this dataset to build and validate algorithms that can identify and classify instances of fire and smoke accurately.\n\n**ACKNOWLEDGMENT**\nImages in this dataset have been sourced from publicly available repositories. We thank the creators for their contributions.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "forestry",
+    "artificial intelligence",
+    "deep learning",
+    "transfer learning",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

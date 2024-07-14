@@ -1,0 +1,41 @@
+{
+  "id": "hmendonca/imagenet-1k-tfrecords-ilsvrc2012-part-1",
+  "id_no": 1733978,
+  "datasetSlugNullable": "imagenet-1k-tfrecords-ilsvrc2012-part-1",
+  "ownerUserNullable": "hmendonca",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "ImageNet 1K TFrecords ILSVRC2012 - part 1",
+  "subtitleNullable": "Original raw images packed in TFrecord format - ImageNet 2012 - 1000 classes",
+  "descriptionNullable": "### ImageNet 2012 - 1000 classes\nOriginal raw images packed in TFrecord format\n2nd half of training jpeg images at original resolution, in addition to [https://www.kaggle.com/hmendonca/imagenet-1k-tfrecords-ilsvrc2012-part-0](https://www.kaggle.com/hmendonca/imagenet-1k-tfrecords-ilsvrc2012-part-0)",
+  "datasetId": 1733978,
+  "datasetSlug": "imagenet-1k-tfrecords-ilsvrc2012-part-1",
+  "hasDatasetSlug": true,
+  "ownerUser": "hmendonca",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 7554,
+  "totalVotes": 17,
+  "totalDownloads": 771,
+  "title": "ImageNet 1K TFrecords ILSVRC2012 - part 1",
+  "hasTitle": true,
+  "subtitle": "Original raw images packed in TFrecord format - ImageNet 2012 - 1000 classes",
+  "hasSubtitle": true,
+  "description": "### ImageNet 2012 - 1000 classes\nOriginal raw images packed in TFrecord format\n2nd half of training jpeg images at original resolution, in addition to [https://www.kaggle.com/hmendonca/imagenet-1k-tfrecords-ilsvrc2012-part-0](https://www.kaggle.com/hmendonca/imagenet-1k-tfrecords-ilsvrc2012-part-0)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

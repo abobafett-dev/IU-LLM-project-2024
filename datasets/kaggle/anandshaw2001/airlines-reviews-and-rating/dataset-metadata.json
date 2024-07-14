@@ -1,0 +1,43 @@
+{
+  "id": "anandshaw2001/airlines-reviews-and-rating",
+  "id_no": 4662252,
+  "datasetSlugNullable": "airlines-reviews-and-rating",
+  "ownerUserNullable": "anandshaw2001",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Airlines Reviews and Rating",
+  "subtitleNullable": "Airlines Reviews and Rating",
+  "descriptionNullable": "The Airlines Reviews and Ratings dataset is a comprehensive collection of passenger feedback on various aspects of their flight experiences across different airlines. This dataset aims to provide insights into passenger satisfaction and airlines' service quality, offering valuable data for analysis in the travel and hospitality industry, customer service improvement, and predictive modeling for customer satisfaction. Airlines Reviews and Ratings Dataset, a rich collection designed to explore the multifaceted aspects of air travel experiences across various airlines worldwide. This dataset encompasses a broad range of data points, from aircraft types and user reviews to detailed service ratings, offering a unique lens through which to analyze and predict airline performance from a passenger perspective.\n\n\n# **Column Details:**\n\n- **Aircraft Type:** Type of aircraft used for the flight.\n- **Users Reviews:** Textual reviews provided by the users.\n- **Country:** The country of the airline or the flight origin/destination.\n- **Type of Travellers:** Categorizes travellers (e.g., Solo, Family, Business...).\n- **Route:** The flight route taken.\n- **Seat Types:** Class of the seat (Economy, Business, First Class...).\n- **Seat Comfort:** Rating of the seat comfort.\n- **Date Flown:** When the flight took place./The flight date.\n- **Cabin Staff Service:** Rating of the service provided by the cabin staff.\n- **Ground Service/Floor:** Rating of the ground service, including check-in and boarding.\n- **Food & Beverages:** Rating of the food and beverage quality.\n- **Wifi & Connectivity:** Rating of the wifi and connectivity options available.\n- **Inflight Entertainment:** Rating of the inflight entertainment options.\n- **Value For Money:** Overall value for money rating.\n- **Recommended:** Whether the reviewer recommends the airline or not.",
+  "datasetId": 4662252,
+  "datasetSlug": "airlines-reviews-and-rating",
+  "hasDatasetSlug": true,
+  "ownerUser": "anandshaw2001",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8356,
+  "totalVotes": 35,
+  "totalDownloads": 1722,
+  "title": "Airlines Reviews and Rating",
+  "hasTitle": true,
+  "subtitle": "Airlines Reviews and Rating",
+  "hasSubtitle": true,
+  "description": "The Airlines Reviews and Ratings dataset is a comprehensive collection of passenger feedback on various aspects of their flight experiences across different airlines. This dataset aims to provide insights into passenger satisfaction and airlines' service quality, offering valuable data for analysis in the travel and hospitality industry, customer service improvement, and predictive modeling for customer satisfaction. Airlines Reviews and Ratings Dataset, a rich collection designed to explore the multifaceted aspects of air travel experiences across various airlines worldwide. This dataset encompasses a broad range of data points, from aircraft types and user reviews to detailed service ratings, offering a unique lens through which to analyze and predict airline performance from a passenger perspective.\n\n\n# **Column Details:**\n\n- **Aircraft Type:** Type of aircraft used for the flight.\n- **Users Reviews:** Textual reviews provided by the users.\n- **Country:** The country of the airline or the flight origin/destination.\n- **Type of Travellers:** Categorizes travellers (e.g., Solo, Family, Business...).\n- **Route:** The flight route taken.\n- **Seat Types:** Class of the seat (Economy, Business, First Class...).\n- **Seat Comfort:** Rating of the seat comfort.\n- **Date Flown:** When the flight took place./The flight date.\n- **Cabin Staff Service:** Rating of the service provided by the cabin staff.\n- **Ground Service/Floor:** Rating of the ground service, including check-in and boarding.\n- **Food & Beverages:** Rating of the food and beverage quality.\n- **Wifi & Connectivity:** Rating of the wifi and connectivity options available.\n- **Inflight Entertainment:** Rating of the inflight entertainment options.\n- **Value For Money:** Overall value for money rating.\n- **Recommended:** Whether the reviewer recommends the airline or not.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "income",
+    "business",
+    "ratings and reviews",
+    "investing",
+    "travel"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

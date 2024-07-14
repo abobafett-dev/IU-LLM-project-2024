@@ -1,0 +1,43 @@
+{
+  "id": "andreaspalmgren/stockholm-mean-air-temperature-time-series",
+  "id_no": 1995010,
+  "datasetSlugNullable": "stockholm-mean-air-temperature-time-series",
+  "ownerUserNullable": "andreaspalmgren",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Stockholm Mean Air Temperature [Time series]",
+  "subtitleNullable": "Monthly Mean Air Temperature in Stockholm between 1980-2020",
+  "descriptionNullable": "### Context\nThe dataset contains monthly mean air temperature in Stockholm, Sweden. With a time period of 1980-2020, the last four years has been split into a test set. \n\n- Column 1: Year\n- Column 2-13: Monthly mean air temperature for January through December\n\nTemperature is given in \u00b0C rounded to one decimal.\n\n### Acknowledgements\nAnders Moberg (2021) Stockholm Historical Weather Observations \u2014 Monthly mean air temperatures since 1756. Dataset version 3. Bolin Centre Database. https://doi.org/10.17043/stockholm-historical-monthly-temperature-3\n",
+  "datasetId": 1995010,
+  "datasetSlug": "stockholm-mean-air-temperature-time-series",
+  "hasDatasetSlug": true,
+  "ownerUser": "andreaspalmgren",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 2504,
+  "totalVotes": 11,
+  "totalDownloads": 287,
+  "title": "Stockholm Mean Air Temperature [Time series]",
+  "hasTitle": true,
+  "subtitle": "Monthly Mean Air Temperature in Stockholm between 1980-2020",
+  "hasSubtitle": true,
+  "description": "### Context\nThe dataset contains monthly mean air temperature in Stockholm, Sweden. With a time period of 1980-2020, the last four years has been split into a test set. \n\n- Column 1: Year\n- Column 2-13: Monthly mean air temperature for January through December\n\nTemperature is given in \u00b0C rounded to one decimal.\n\n### Acknowledgements\nAnders Moberg (2021) Stockholm Historical Weather Observations \u2014 Monthly mean air temperatures since 1756. Dataset version 3. Bolin Centre Database. https://doi.org/10.17043/stockholm-historical-monthly-temperature-3\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "europe",
+    "weather and climate",
+    "data visualization",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

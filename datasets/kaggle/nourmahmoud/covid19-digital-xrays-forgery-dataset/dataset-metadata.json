@@ -1,0 +1,43 @@
+{
+  "id": "nourmahmoud/covid19-digital-xrays-forgery-dataset",
+  "id_no": 2797897,
+  "datasetSlugNullable": "covid19-digital-xrays-forgery-dataset",
+  "ownerUserNullable": "nourmahmoud",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "COVID-19 Digital X-rays Forgery Dataset",
+  "subtitleNullable": "Uncover the hidden manipulations in COVID-19 X-ray images",
+  "descriptionNullable": "This is a tampered dataset from the original dataset \u201cCOVID-19 Radiography Database.\u201d [Online]. Available: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database. \n\nCM - Copy Move Forgery Technique \nS - Splicing Forgery Technique \n\nThis dataset consist of 9 classes and they are\n{\nCOVID-19 2000 images\nCM COVID-19 2000 images\nS COVID-19 2000 images\nViral Pneumonia 1340 images\nCM Viral Pneumonia 1340 images\nS Viral Pneumonia 850 images\nNormal 2000 images\nCM Normal 2000 images\nS Normal 2000 images\n}\n\nif you use this dataset, kindly, cite \nKhalifa, Nour Eldeen; abd El-Latif, eman I. (2022), \u201cCOVID-19 Digital X-rays Forgery Dataset\u201d, Mendeley Data, V1, doi: 10.17632/3bzv6t24ts.1",
+  "datasetId": 2797897,
+  "datasetSlug": "covid19-digital-xrays-forgery-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "nourmahmoud",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 1013,
+  "totalVotes": 10,
+  "totalDownloads": 105,
+  "title": "COVID-19 Digital X-rays Forgery Dataset",
+  "hasTitle": true,
+  "subtitle": "Uncover the hidden manipulations in COVID-19 X-ray images",
+  "hasSubtitle": true,
+  "description": "This is a tampered dataset from the original dataset \u201cCOVID-19 Radiography Database.\u201d [Online]. Available: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database. \n\nCM - Copy Move Forgery Technique \nS - Splicing Forgery Technique \n\nThis dataset consist of 9 classes and they are\n{\nCOVID-19 2000 images\nCM COVID-19 2000 images\nS COVID-19 2000 images\nViral Pneumonia 1340 images\nCM Viral Pneumonia 1340 images\nS Viral Pneumonia 850 images\nNormal 2000 images\nCM Normal 2000 images\nS Normal 2000 images\n}\n\nif you use this dataset, kindly, cite \nKhalifa, Nour Eldeen; abd El-Latif, eman I. (2022), \u201cCOVID-19 Digital X-rays Forgery Dataset\u201d, Mendeley Data, V1, doi: 10.17632/3bzv6t24ts.1",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "classification",
+    "image",
+    "multiclass classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

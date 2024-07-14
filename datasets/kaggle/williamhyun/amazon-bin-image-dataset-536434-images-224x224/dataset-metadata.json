@@ -1,0 +1,42 @@
+{
+  "id": "williamhyun/amazon-bin-image-dataset-536434-images-224x224",
+  "id_no": 2117240,
+  "datasetSlugNullable": "amazon-bin-image-dataset-536434-images-224x224",
+  "ownerUserNullable": "williamhyun",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Amazon Bin Image Dataset (536,434 images, 224x224)",
+  "subtitleNullable": "536,434 images @ 224x224 pixels + metadata SQLite database",
+  "descriptionNullable": "**Note that you can download quickly via CLI. (Kaggle Environment: 1min 36s, Colab: 1min)**\n```\n! kaggle datasets download williamhyun/amazon-bin-image-dataset-536434-images-224x224\n```\n\n## Amazon Bin Image Dataset\n\nThe Amazon Bin Image Dataset contains 536,434 images and metadata from bins of a pod in an operating Amazon Fulfillment Center. The bin images in this dataset are captured as robot units carry pods as part of normal Amazon Fulfillment Center operations. This dataset has many images and the corresponding medadata.\n\nThe image files have three groups according to its naming scheme.\n\n- A file name with 1~4 digits (1,200): 1.jpg ~ 1200.jpg\n- A file name with 5 digits (99,999): 00001.jpg ~ 99999.jpg\n- A file name with 6 digits (435,235): 100000.jpg ~ 535234.jpg\n\n**Amazon Bin Image Dataset (536,434 images, 224x224)** dataset aims to provide a **resized** image files and a full metadata SQLite file for Kaggle Kernel environments. You can download a single 4GB archive file via `Download` button on this page.\n\n### Documentation\n- https://github.com/awslabs/open-data-docs/tree/main/docs/aft-vbi-pds\n\n### Download\n- https://registry.opendata.aws/amazon-bin-imagery/\n- https://github.com/awslabs/open-data-registry/blob/main/datasets/amazon-bin-imagery.yaml",
+  "datasetId": 2117240,
+  "datasetSlug": "amazon-bin-image-dataset-536434-images-224x224",
+  "hasDatasetSlug": true,
+  "ownerUser": "williamhyun",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 4054,
+  "totalVotes": 26,
+  "totalDownloads": 240,
+  "title": "Amazon Bin Image Dataset (536,434 images, 224x224)",
+  "hasTitle": true,
+  "subtitle": "536,434 images @ 224x224 pixels + metadata SQLite database",
+  "hasSubtitle": true,
+  "description": "**Note that you can download quickly via CLI. (Kaggle Environment: 1min 36s, Colab: 1min)**\n```\n! kaggle datasets download williamhyun/amazon-bin-image-dataset-536434-images-224x224\n```\n\n## Amazon Bin Image Dataset\n\nThe Amazon Bin Image Dataset contains 536,434 images and metadata from bins of a pod in an operating Amazon Fulfillment Center. The bin images in this dataset are captured as robot units carry pods as part of normal Amazon Fulfillment Center operations. This dataset has many images and the corresponding medadata.\n\nThe image files have three groups according to its naming scheme.\n\n- A file name with 1~4 digits (1,200): 1.jpg ~ 1200.jpg\n- A file name with 5 digits (99,999): 00001.jpg ~ 99999.jpg\n- A file name with 6 digits (435,235): 100000.jpg ~ 535234.jpg\n\n**Amazon Bin Image Dataset (536,434 images, 224x224)** dataset aims to provide a **resized** image files and a full metadata SQLite file for Kaggle Kernel environments. You can download a single 4GB archive file via `Download` button on this page.\n\n### Documentation\n- https://github.com/awslabs/open-data-docs/tree/main/docs/aft-vbi-pds\n\n### Download\n- https://registry.opendata.aws/amazon-bin-imagery/\n- https://github.com/awslabs/open-data-registry/blob/main/datasets/amazon-bin-imagery.yaml",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "classification",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "hskhawaja/russia-ukraine-conflict",
+  "id_no": 2391372,
+  "datasetSlugNullable": "russia-ukraine-conflict",
+  "ownerUserNullable": "hskhawaja",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Russia Ukraine Conflict",
+  "subtitleNullable": "News coverage on recent Russia-Ukraine conflict",
+  "descriptionNullable": "###Context\n\nOn 24 February 2022, Russia invaded Ukraine in a major escalation of the Russo-Ukrainian War that began in 2014. The invasion caused Europe's largest refugee crisis since World War II, with more than 6.3 million Ukrainians fleeing the country and a third of the population displaced (*Source: Wikipedia*).\n\n###Content\n\nThis dataset is a collection of 407 news articles from NYT and Guardians related to ongoing conflict between Russia and Ukraine. The publishing date of articles ranges from Feb 1st, 2022 to Jul 31st, 2022. \n\n###What you can do?\n\nHere are some ideas to explore:\n\n- Discourse analysis of Russia-Ukraine conflict (How the war has evolved over months?)\n- Identify most talked about issues (refugees, food, weapons, fuel, etc.)\n- Extract sentiment of articles for both Russia and Ukraine\n- Which world leaders have tried to become mediators?\n- Number of supporting countries for both Russia and Ukraine\n- Map how NATO alliance has been affected by the war\n\nI am looking forward to see your work and ideas and will keep adding more ideas to explore.",
+  "datasetId": 2391372,
+  "datasetSlug": "russia-ukraine-conflict",
+  "hasDatasetSlug": true,
+  "ownerUser": "hskhawaja",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 7749,
+  "totalVotes": 41,
+  "totalDownloads": 1789,
+  "title": "Russia Ukraine Conflict",
+  "hasTitle": true,
+  "subtitle": "News coverage on recent Russia-Ukraine conflict",
+  "hasSubtitle": true,
+  "description": "###Context\n\nOn 24 February 2022, Russia invaded Ukraine in a major escalation of the Russo-Ukrainian War that began in 2014. The invasion caused Europe's largest refugee crisis since World War II, with more than 6.3 million Ukrainians fleeing the country and a third of the population displaced (*Source: Wikipedia*).\n\n###Content\n\nThis dataset is a collection of 407 news articles from NYT and Guardians related to ongoing conflict between Russia and Ukraine. The publishing date of articles ranges from Feb 1st, 2022 to Jul 31st, 2022. \n\n###What you can do?\n\nHere are some ideas to explore:\n\n- Discourse analysis of Russia-Ukraine conflict (How the war has evolved over months?)\n- Identify most talked about issues (refugees, food, weapons, fuel, etc.)\n- Extract sentiment of articles for both Russia and Ukraine\n- Which world leaders have tried to become mediators?\n- Number of supporting countries for both Russia and Ukraine\n- Map how NATO alliance has been affected by the war\n\nI am looking forward to see your work and ideas and will keep adding more ideas to explore.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "russia",
+    "nlp",
+    "text mining",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "devsubhash/fitness-trackers-products-ecommerce",
+  "id_no": 1703404,
+  "datasetSlugNullable": "fitness-trackers-products-ecommerce",
+  "ownerUserNullable": "devsubhash",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fitness Trackers Products Ecommerce",
+  "subtitleNullable": "Different products from various Brands with specifications, ratings & reviews",
+  "descriptionNullable": "This is a fitness tracker product dataset consisting of different products from various brands with their specifications, ratings and reviews for the Indian market. The data has been collected from an e-commerce website (Flipkart) using webscraping technique.\n\n### Content\n\nThis dataset contains 565 samples with 11 attributes. There are some missing values in this dataset. Here are the columns in this dataset-\n\n    Brand Name: This indicates the manufacturer of the product (fitness tracker)\n    Device Type: This has two categories- FitnessBand and Smartwatch\n    Model Name: This indicates the variant/Product Name\n    Color: This includes the color of the Strap/Body of the fitness tracker\n    Selling Price: This column has the Selling Price or the Discounted Price of the fitness tracker\n    Original Price: This includes the Original Price of the product from the manufacturer.\n    Display: This categorical variable shows the type of display for the fitness tracker. eg: AMOLED, LCD,OLED, etc.\n    Rating (Out of 5): Average customer ratings on a scale of 5.\n    Strap Material: Details of the material used for the strap of the fitness tracker.\n    Average Battery Life (in days): Quoted average battery life from the manufacturer based on the individual product pages. (It is not the scraped data)\n    Reviews: count of product reviews received.\n\n### Inspiration\n\nThis dataset could be used to find answers to some interesting questions like -\n    1. Is there a significant demand for fitness trackers in the Indian market?\n    2. Information on the top 5 brands for fitness bands and smart watches\n    3. Is there a correlation between the prices and product specifications, ratings, etc.\n    4. Different types of fitness trackers, their price segments for different users",
+  "datasetId": 1703404,
+  "datasetSlug": "fitness-trackers-products-ecommerce",
+  "hasDatasetSlug": true,
+  "ownerUser": "devsubhash",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 20397,
+  "totalVotes": 66,
+  "totalDownloads": 2783,
+  "title": "Fitness Trackers Products Ecommerce",
+  "hasTitle": true,
+  "subtitle": "Different products from various Brands with specifications, ratings & reviews",
+  "hasSubtitle": true,
+  "description": "This is a fitness tracker product dataset consisting of different products from various brands with their specifications, ratings and reviews for the Indian market. The data has been collected from an e-commerce website (Flipkart) using webscraping technique.\n\n### Content\n\nThis dataset contains 565 samples with 11 attributes. There are some missing values in this dataset. Here are the columns in this dataset-\n\n    Brand Name: This indicates the manufacturer of the product (fitness tracker)\n    Device Type: This has two categories- FitnessBand and Smartwatch\n    Model Name: This indicates the variant/Product Name\n    Color: This includes the color of the Strap/Body of the fitness tracker\n    Selling Price: This column has the Selling Price or the Discounted Price of the fitness tracker\n    Original Price: This includes the Original Price of the product from the manufacturer.\n    Display: This categorical variable shows the type of display for the fitness tracker. eg: AMOLED, LCD,OLED, etc.\n    Rating (Out of 5): Average customer ratings on a scale of 5.\n    Strap Material: Details of the material used for the strap of the fitness tracker.\n    Average Battery Life (in days): Quoted average battery life from the manufacturer based on the individual product pages. (It is not the scraped data)\n    Reviews: count of product reviews received.\n\n### Inspiration\n\nThis dataset could be used to find answers to some interesting questions like -\n    1. Is there a significant demand for fitness trackers in the Indian market?\n    2. Information on the top 5 brands for fitness bands and smart watches\n    3. Is there a correlation between the prices and product specifications, ratings, etc.\n    4. Different types of fitness trackers, their price segments for different users",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exercise",
+    "health",
+    "internet",
+    "tabular",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

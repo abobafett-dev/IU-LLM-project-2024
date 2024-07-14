@@ -1,0 +1,44 @@
+{
+  "id": "saketk511/travel-dataset-guide-to-indias-must-see-places",
+  "id_no": 4379450,
+  "datasetSlugNullable": "travel-dataset-guide-to-indias-must-see-places",
+  "ownerUserNullable": "saketk511",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Travel Dataset: Guide to India's Must See Places",
+  "subtitleNullable": "Unveiling the Wonders: From Iconic Landmarks to Hidden Gems",
+  "descriptionNullable": "Dataset Description:\nThis dataset is a curated exploration guide that encompasses must visit destinations across India. It serves as an extensive resource for travelers and enthusiasts alike, offering detailed insights into each location's unique characteristics. From historical landmarks to religious shrines and natural wonders, this dataset is a window to India's diverse and rich cultural heritage.\n\nColumn Descriptions:\n\nZone: Geographical region of the place within India, categorizing it into zones like Northern, Southern, etc.\nState: The state in which the place is located, providing a regional context.\nCity: The city or town where the destination is situated.\nName: The name of the tourist spot or landmark.\nType: Classification of the place, such as Temple, War Memorial, or Natural Park.\nEstablishment Year: The year in which the place was established or discovered.\nTime Needed to Visit (hrs): Estimated duration in hours to thoroughly visit the place.\nGoogle Review Rating: The average Google review rating for the place, indicative of its popularity and visitor satisfaction.\nEntrance Fee in INR: The cost of admission in Indian Rupees.\nAirport within 50km Radius: Indicates if there is an airport within 50 kilometers of the place for accessibility.\nWeekly Off: The day of the week when the place is closed to visitors.\nSignificance: The importance or role of the place, such as Historical, Religious, or Environmental.\nDSLR Allowed: Indicates whether visitors are permitted to use DSLR cameras at the location.\nNumber of Google Reviews (in lakhs): The total number of Google reviews in lakhs (hundreds of thousands) that the place has received.\nBest Time to Visit: Suggested time of the day for visiting the place to have the best experience.\n\nEnhance your data visualization, perform exploratory data analysis (EDA), and apply classification algorithms using this diverse dataset to uncover captivating insights into India's top destinations.\n\nImage attribue : Photo by Flo Maderebner: https://www.pexels.com/photo/couple-sitting-on-rock-beside-lake-238622/",
+  "datasetId": 4379450,
+  "datasetSlug": "travel-dataset-guide-to-indias-must-see-places",
+  "hasDatasetSlug": true,
+  "ownerUser": "saketk511",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8263,
+  "totalVotes": 41,
+  "totalDownloads": 1880,
+  "title": "Travel Dataset: Guide to India's Must See Places",
+  "hasTitle": true,
+  "subtitle": "Unveiling the Wonders: From Iconic Landmarks to Hidden Gems",
+  "hasSubtitle": true,
+  "description": "Dataset Description:\nThis dataset is a curated exploration guide that encompasses must visit destinations across India. It serves as an extensive resource for travelers and enthusiasts alike, offering detailed insights into each location's unique characteristics. From historical landmarks to religious shrines and natural wonders, this dataset is a window to India's diverse and rich cultural heritage.\n\nColumn Descriptions:\n\nZone: Geographical region of the place within India, categorizing it into zones like Northern, Southern, etc.\nState: The state in which the place is located, providing a regional context.\nCity: The city or town where the destination is situated.\nName: The name of the tourist spot or landmark.\nType: Classification of the place, such as Temple, War Memorial, or Natural Park.\nEstablishment Year: The year in which the place was established or discovered.\nTime Needed to Visit (hrs): Estimated duration in hours to thoroughly visit the place.\nGoogle Review Rating: The average Google review rating for the place, indicative of its popularity and visitor satisfaction.\nEntrance Fee in INR: The cost of admission in Indian Rupees.\nAirport within 50km Radius: Indicates if there is an airport within 50 kilometers of the place for accessibility.\nWeekly Off: The day of the week when the place is closed to visitors.\nSignificance: The importance or role of the place, such as Historical, Religious, or Environmental.\nDSLR Allowed: Indicates whether visitors are permitted to use DSLR cameras at the location.\nNumber of Google Reviews (in lakhs): The total number of Google reviews in lakhs (hundreds of thousands) that the place has received.\nBest Time to Visit: Suggested time of the day for visiting the place to have the best experience.\n\nEnhance your data visualization, perform exploratory data analysis (EDA), and apply classification algorithms using this diverse dataset to uncover captivating insights into India's top destinations.\n\nImage attribue : Photo by Flo Maderebner: https://www.pexels.com/photo/couple-sitting-on-rock-beside-lake-238622/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data visualization",
+    "data analytics",
+    "travel",
+    "matplotlib",
+    "seaborn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

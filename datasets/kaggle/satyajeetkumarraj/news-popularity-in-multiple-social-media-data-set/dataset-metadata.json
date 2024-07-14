@@ -1,0 +1,39 @@
+{
+  "id": "satyajeetkumarraj/news-popularity-in-multiple-social-media-data-set",
+  "id_no": 4672175,
+  "datasetSlugNullable": "news-popularity-in-multiple-social-media-data-set",
+  "ownerUserNullable": "satyajeetkumarraj",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "News Popularity in Multiple Social Media data set",
+  "subtitleNullable": "Large data set of news items and their respective social feedback",
+  "descriptionNullable": "This is a large data set of news items and their respective social feedback on multiple platforms: Facebook, Google+ and LinkedIn. \nThe collected data relates to a period of 8 months, between November 2015 and July 2016, accounting for about 100,000 news items on four different topics: economy, microsoft, obama and palestine. \nThis data set is tailored for evaluative comparisons in predictive analytics tasks, although allowing for tasks in other research areas such as topic detection and tracking, sentiment analysis in short text, first story detection or news recommendation.\n\nFurther details on the process of building the data set are provided in the article mentioned in the 'Relevant Papers' section.\n\nAn .R file is provided to provide a simple introduction to handling the data set.",
+  "datasetId": 4672175,
+  "datasetSlug": "news-popularity-in-multiple-social-media-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "satyajeetkumarraj",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 475,
+  "totalVotes": 4,
+  "totalDownloads": 49,
+  "title": "News Popularity in Multiple Social Media data set",
+  "hasTitle": true,
+  "subtitle": "Large data set of news items and their respective social feedback",
+  "hasSubtitle": true,
+  "description": "This is a large data set of news items and their respective social feedback on multiple platforms: Facebook, Google+ and LinkedIn. \nThe collected data relates to a period of 8 months, between November 2015 and July 2016, accounting for about 100,000 news items on four different topics: economy, microsoft, obama and palestine. \nThis data set is tailored for evaluative comparisons in predictive analytics tasks, although allowing for tasks in other research areas such as topic detection and tracking, sentiment analysis in short text, first story detection or news recommendation.\n\nFurther details on the process of building the data set are provided in the article mentioned in the 'Relevant Papers' section.\n\nAn .R file is provided to provide a simple introduction to handling the data set.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

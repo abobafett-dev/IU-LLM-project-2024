@@ -1,0 +1,41 @@
+{
+  "id": "nikitricky/chitankainfo-works",
+  "id_no": 1763590,
+  "datasetSlugNullable": "chitankainfo-works",
+  "ownerUserNullable": "nikitricky",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Chitanka.info works",
+  "subtitleNullable": "9910 Works from the Bulgarian literature website chitanka.info",
+  "descriptionNullable": "This dataset consists of 10,000 literary works in the Bulgarian language, scraped from the website [chitanka.info](https://chitanka.info/). The dataset includes text and cover images of the works, stored in separate directories with the name of the work ID. Additional details of each work, such as year, genre, type, author, etc., are provided in `data.json`. \n\nThe dataset can be used for various natural language processing tasks, such as language modeling, text classification, and sentiment analysis, among others. Additionally, it can be used for training image recognition models for book cover classification. Researchers and practitioners can use this dataset to build and test models for these tasks and evaluate their performance on a large-scale dataset.",
+  "datasetId": 1763590,
+  "datasetSlug": "chitankainfo-works",
+  "hasDatasetSlug": true,
+  "ownerUser": "nikitricky",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1489,
+  "totalVotes": 13,
+  "totalDownloads": 45,
+  "title": "Chitanka.info works",
+  "hasTitle": true,
+  "subtitle": "9910 Works from the Bulgarian literature website chitanka.info",
+  "hasSubtitle": true,
+  "description": "This dataset consists of 10,000 literary works in the Bulgarian language, scraped from the website [chitanka.info](https://chitanka.info/). The dataset includes text and cover images of the works, stored in separate directories with the name of the work ID. Additional details of each work, such as year, genre, type, author, etc., are provided in `data.json`. \n\nThe dataset can be used for various natural language processing tasks, such as language modeling, text classification, and sentiment analysis, among others. Additionally, it can be used for training image recognition models for book cover classification. Researchers and practitioners can use this dataset to build and test models for these tasks and evaluate their performance on a large-scale dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "nlp",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

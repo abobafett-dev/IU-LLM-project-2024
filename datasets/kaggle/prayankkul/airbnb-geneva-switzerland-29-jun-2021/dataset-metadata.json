@@ -1,0 +1,43 @@
+{
+  "id": "prayankkul/airbnb-geneva-switzerland-29-jun-2021",
+  "id_no": 1508759,
+  "datasetSlugNullable": "airbnb-geneva-switzerland-29-jun-2021",
+  "ownerUserNullable": "prayankkul",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Airbnb_Geneva_Switzerland_29_JUN_2021",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nSince 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in  Geneva, Switzerland, JUN 2021\n.\n\n\n### Content\n\nThis data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions. Data scientist can try to predict the price based on various features.\nData Set has three files\n1. calendar.csv : Detail about Booking original price and adjusted Price etc.\n2. review. csv : Customer review for each booking\n3. lisiting.csv : Various feature about booking and price of booking\n\n\n### Acknowledgements\n\nThis public dataset is part of Airbnb, and the original source can be found on this [Airbnb Website](http://insideairbnb.com/get-the-data.html).\n\n### Inspiration\n1. This dataset can help to understand various factor influenced customer Satisfaction based on review\n2. This Dataset can help to predict the booking on amount based listed properties\n3. Which hosts are the busiest and why?  ",
+  "datasetId": 1508759,
+  "datasetSlug": "airbnb-geneva-switzerland-29-jun-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "prayankkul",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 2010,
+  "totalVotes": 4,
+  "totalDownloads": 110,
+  "title": "Airbnb_Geneva_Switzerland_29_JUN_2021",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nSince 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in  Geneva, Switzerland, JUN 2021\n.\n\n\n### Content\n\nThis data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions. Data scientist can try to predict the price based on various features.\nData Set has three files\n1. calendar.csv : Detail about Booking original price and adjusted Price etc.\n2. review. csv : Customer review for each booking\n3. lisiting.csv : Various feature about booking and price of booking\n\n\n### Acknowledgements\n\nThis public dataset is part of Airbnb, and the original source can be found on this [Airbnb Website](http://insideairbnb.com/get-the-data.html).\n\n### Inspiration\n1. This dataset can help to understand various factor influenced customer Satisfaction based on review\n2. This Dataset can help to predict the booking on amount based listed properties\n3. Which hosts are the busiest and why?  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "real estate",
+    "classification",
+    "regression",
+    "ratings and reviews",
+    "hotels and accommodations"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

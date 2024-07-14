@@ -1,0 +1,43 @@
+{
+  "id": "imsparsh/dockship-boat-type-classification",
+  "id_no": 1142001,
+  "datasetSlugNullable": "dockship-boat-type-classification",
+  "ownerUserNullable": "imsparsh",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Dockship - Boat Type Classification",
+  "subtitleNullable": "The aim of this challenge is to classify images into given types of boats.",
+  "descriptionNullable": "Welcome to Boat Type Classification Challenge!\n----------------------------------------------\n\n`The aim of this challenge is to classify images into given types of boats.`\n\nThe dataset contains images of 9 types of boats. It contains two directories&nbsp;\"TRAIN\"&nbsp;and&nbsp;\"TEST\"&nbsp;with 1162 and 300 images respectively.&nbsp;The training&nbsp;images are provided in the directory of the specific class itself. The names of the directories are \"class labels\" to be used for submission. The aim is to classify the \"TEST\" images into one of the 9 classes.\n\nClasses:\n\n1.  ferry_boat\n2.  gondola\n3.  sailboat\n4.  cruise_ship\n5.  kayak\n6.  inflatable_boat\n7.  paper_boat\n8.  buoy\n9.  freight_boat\n\nThe final submission must include:\n----------------------------------\n\noutput.csv (single file) having results for \"TEST\" directory which contains 300 images. The first row should correspond to the column names \"Filename\" and \"Class\".\n\n\"sample_submission.csv\" is also provided as an example.\n\nChallenge Link - [Boat Type Classification AI Challenge](https://dockship.io/challenges/5ffc13382e6d744ab77c970a/boat-type-classification-ai-challenge/overview)",
+  "datasetId": 1142001,
+  "datasetSlug": "dockship-boat-type-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "imsparsh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 7918,
+  "totalVotes": 11,
+  "totalDownloads": 635,
+  "title": "Dockship - Boat Type Classification",
+  "hasTitle": true,
+  "subtitle": "The aim of this challenge is to classify images into given types of boats.",
+  "hasSubtitle": true,
+  "description": "Welcome to Boat Type Classification Challenge!\n----------------------------------------------\n\n`The aim of this challenge is to classify images into given types of boats.`\n\nThe dataset contains images of 9 types of boats. It contains two directories&nbsp;\"TRAIN\"&nbsp;and&nbsp;\"TEST\"&nbsp;with 1162 and 300 images respectively.&nbsp;The training&nbsp;images are provided in the directory of the specific class itself. The names of the directories are \"class labels\" to be used for submission. The aim is to classify the \"TEST\" images into one of the 9 classes.\n\nClasses:\n\n1.  ferry_boat\n2.  gondola\n3.  sailboat\n4.  cruise_ship\n5.  kayak\n6.  inflatable_boat\n7.  paper_boat\n8.  buoy\n9.  freight_boat\n\nThe final submission must include:\n----------------------------------\n\noutput.csv (single file) having results for \"TEST\" directory which contains 300 images. The first row should correspond to the column names \"Filename\" and \"Class\".\n\n\"sample_submission.csv\" is also provided as an example.\n\nChallenge Link - [Boat Type Classification AI Challenge](https://dockship.io/challenges/5ffc13382e6d744ab77c970a/boat-type-classification-ai-challenge/overview)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "computer vision",
+    "classification",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

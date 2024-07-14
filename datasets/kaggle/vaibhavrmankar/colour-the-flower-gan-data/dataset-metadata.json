@@ -1,0 +1,44 @@
+{
+  "id": "vaibhavrmankar/colour-the-flower-gan-data",
+  "id_no": 1704924,
+  "datasetSlugNullable": "colour-the-flower-gan-data",
+  "ownerUserNullable": "vaibhavrmankar",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Color_The_Flower_Dateset ",
+  "subtitleNullable": "\"black-and-white to color\" flower dateset  containing  ~ 11859 images ",
+  "descriptionNullable": "### Context\nRecent advancement in the Generative adversarial networks has shown new wonders to the world one of them is coloring the old black and white images. Flowers are the most colorful things in nature. They exist in verities of colors and shapes with diverse backgrounds. \n\n\n### Content\n\nIn this dataset, we have added publicly accessible flower images in black and white and color format for the purpose of training the powerful Machine learning model that can perfectly color the flowers. \n\n\n\nThe Data folder contains the train and test folders\n\nThe train folder contains approximately 11K images and the test folder contains approximately 1K images \n\nEach image is formed by horizontally concatenating the color image(512x512) and black and white image(512X512) of the same flower \n\nEach image dimentations :\n- Width: 1024 Pixels \n- Height: 512 Pixels \n\n\n\n### Acknowledgements\n\nThe flower image is taken from the Tensorflow image dataset \n\n@InProceedings{Nilsback08,\n   author = \"Nilsback, M-E. and Zisserman, A.\",\n   title = \"Automated Flower Classification over a Large Number of Classes\",\n   booktitle = \"Proceedings of the Indian Conference on Computer Vision, Graphics and Image Processing\",\n   year = \"2008\",\n   month = \"Dec\"\n}\n\n@ONLINE {tfflowers,\nauthor = \"The TensorFlow Team\",\ntitle = \"Flowers\",\nmonth = \"jan\",\nyear = \"2019\",\nurl = \"http://download.tensorflow.org/example_images/flower_photos.tgz\" }\n",
+  "datasetId": 1704924,
+  "datasetSlug": "colour-the-flower-gan-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "vaibhavrmankar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 3600,
+  "totalVotes": 8,
+  "totalDownloads": 253,
+  "title": "Color_The_Flower_Dateset ",
+  "hasTitle": true,
+  "subtitle": "\"black-and-white to color\" flower dateset  containing  ~ 11859 images ",
+  "hasSubtitle": true,
+  "description": "### Context\nRecent advancement in the Generative adversarial networks has shown new wonders to the world one of them is coloring the old black and white images. Flowers are the most colorful things in nature. They exist in verities of colors and shapes with diverse backgrounds. \n\n\n### Content\n\nIn this dataset, we have added publicly accessible flower images in black and white and color format for the purpose of training the powerful Machine learning model that can perfectly color the flowers. \n\n\n\nThe Data folder contains the train and test folders\n\nThe train folder contains approximately 11K images and the test folder contains approximately 1K images \n\nEach image is formed by horizontally concatenating the color image(512x512) and black and white image(512X512) of the same flower \n\nEach image dimentations :\n- Width: 1024 Pixels \n- Height: 512 Pixels \n\n\n\n### Acknowledgements\n\nThe flower image is taken from the Tensorflow image dataset \n\n@InProceedings{Nilsback08,\n   author = \"Nilsback, M-E. and Zisserman, A.\",\n   title = \"Automated Flower Classification over a Large Number of Classes\",\n   booktitle = \"Proceedings of the Indian Conference on Computer Vision, Graphics and Image Processing\",\n   year = \"2008\",\n   month = \"Dec\"\n}\n\n@ONLINE {tfflowers,\nauthor = \"The TensorFlow Team\",\ntitle = \"Flowers\",\nmonth = \"jan\",\nyear = \"2019\",\nurl = \"http://download.tensorflow.org/example_images/flower_photos.tgz\" }\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "plants",
+    "intermediate",
+    "computer vision",
+    "gan",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

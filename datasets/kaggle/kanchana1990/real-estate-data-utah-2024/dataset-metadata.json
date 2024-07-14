@@ -1,0 +1,43 @@
+{
+  "id": "kanchana1990/real-estate-data-utah-2024",
+  "id_no": 5068113,
+  "datasetSlugNullable": "real-estate-data-utah-2024",
+  "ownerUserNullable": "kanchana1990",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Real Estate Data Utah 2024",
+  "subtitleNullable": "Utah Real Estate Data: Trends, Price Prediction, and Property Analysis",
+  "descriptionNullable": "\n\n\n## Dataset Overview\n\nThis dataset contains real estate listings from Utah, comprising 4,440 entries and 14 columns. The data includes various attributes of properties such as type, description, year built, number of bedrooms and bathrooms, garage spaces, lot size, square footage, stories, listing price, and the date the property was last sold. The data was ethically mined from Realtor.com using an API provided by Apify.\n\n## Data Science Applications\n\nGiven the size of the dataset (4,440 entries) and the available columns, this dataset is well-suited for various data science applications, including but not limited to:\n\n- **Regression Analysis:** Predict property listing prices based on features like square footage, number of bedrooms and bathrooms, year built, and lot size.\n- **Classification:** Classify properties into different types or price ranges.\n- **Time Series Analysis:** Analyze trends in property sales over time using the `lastSoldOn` column.\n- **Feature Engineering:** Create new features such as price per square foot or age of the property at the time of sale to enhance predictive models.\n\n## Column Descriptors\n\n- **type:** Type of property (e.g., single_family, land)\n- **text:** Description of the property\n- **year_built:** Year the property was built\n- **beds:** Number of bedrooms\n- **baths:** Total number of bathrooms\n- **baths_full:** Number of full bathrooms\n- **baths_half:** Number of half bathrooms\n- **garage:** Number of garage spaces\n- **lot_sqft:** Lot size in square feet\n- **sqft:** Property size in square feet\n- **stories:** Number of stories\n- **lastSoldOn:** Date the property was last sold\n- **listPrice:** Listing price of the property\n- **status:** Current status of the property (e.g., for_sale)\n\n## Ethically Mined Data\n\nThis dataset was ethically mined from Realtor.com using an API provided by Apify. The data collection process ensured compliance with ethical standards and respect for the source of the information. The dataset is intended for educational and analytical purposes, promoting transparency and responsible data use.\n\n## Acknowledgements\n\n- **Apify:** For providing the API used to mine the data.\n- **Realtor.com:** For being the source of the data.\n- **DALL-E 3:** For generating the thumbnail image for this dataset.\n\n",
+  "datasetId": 5068113,
+  "datasetSlug": "real-estate-data-utah-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "kanchana1990",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1115,
+  "totalVotes": 46,
+  "totalDownloads": 210,
+  "title": "Real Estate Data Utah 2024",
+  "hasTitle": true,
+  "subtitle": "Utah Real Estate Data: Trends, Price Prediction, and Property Analysis",
+  "hasSubtitle": true,
+  "description": "\n\n\n## Dataset Overview\n\nThis dataset contains real estate listings from Utah, comprising 4,440 entries and 14 columns. The data includes various attributes of properties such as type, description, year built, number of bedrooms and bathrooms, garage spaces, lot size, square footage, stories, listing price, and the date the property was last sold. The data was ethically mined from Realtor.com using an API provided by Apify.\n\n## Data Science Applications\n\nGiven the size of the dataset (4,440 entries) and the available columns, this dataset is well-suited for various data science applications, including but not limited to:\n\n- **Regression Analysis:** Predict property listing prices based on features like square footage, number of bedrooms and bathrooms, year built, and lot size.\n- **Classification:** Classify properties into different types or price ranges.\n- **Time Series Analysis:** Analyze trends in property sales over time using the `lastSoldOn` column.\n- **Feature Engineering:** Create new features such as price per square foot or age of the property at the time of sale to enhance predictive models.\n\n## Column Descriptors\n\n- **type:** Type of property (e.g., single_family, land)\n- **text:** Description of the property\n- **year_built:** Year the property was built\n- **beds:** Number of bedrooms\n- **baths:** Total number of bathrooms\n- **baths_full:** Number of full bathrooms\n- **baths_half:** Number of half bathrooms\n- **garage:** Number of garage spaces\n- **lot_sqft:** Lot size in square feet\n- **sqft:** Property size in square feet\n- **stories:** Number of stories\n- **lastSoldOn:** Date the property was last sold\n- **listPrice:** Listing price of the property\n- **status:** Current status of the property (e.g., for_sale)\n\n## Ethically Mined Data\n\nThis dataset was ethically mined from Realtor.com using an API provided by Apify. The data collection process ensured compliance with ethical standards and respect for the source of the information. The dataset is intended for educational and analytical purposes, promoting transparency and responsible data use.\n\n## Acknowledgements\n\n- **Apify:** For providing the API used to mine the data.\n- **Realtor.com:** For being the source of the data.\n- **DALL-E 3:** For generating the thumbnail image for this dataset.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "united states",
+    "housing",
+    "real estate",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

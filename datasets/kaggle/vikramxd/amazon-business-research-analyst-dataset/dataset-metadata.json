@@ -1,0 +1,49 @@
+{
+  "id": "vikramxd/amazon-business-research-analyst-dataset",
+  "id_no": 2566966,
+  "datasetSlugNullable": "amazon-business-research-analyst-dataset",
+  "ownerUserNullable": "vikramxd",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Amazon Business Research Analyst Dataset",
+  "subtitleNullable": "Cleaned Dataset for the Amazon Business Research Analyst Hiring Challenge",
+  "descriptionNullable": "Amazon.com strives to be Earth's most customer-centric company where people can find and discover virtually anything they want to buy online. By giving customers more of what they want - low prices, vast selection, and convenience - Amazon.com continues to grow and evolve as a world-class e-commerce platform. Amazon's evolution from Web site to an e-commerce partner to a development platform is driven by the spirit of innovation that is part of the company's DNA. The world's brightest technology minds come to Amazon.com to research and develop technology that improves the lives of shoppers and sellers around the world.\n\nThe Business Research analyst (RA) will be responsible for continuous improvement projects across the RBS teams leading to each of its delivery levers. The long-term goal of the RA role is to eliminate Defects that impact selling partners or customer experience, and the secondary goal is to enhance GMS (General merchandise sales)/ FCF (Free cash flow). This will require collaboration with local and global teams, which have a process and technical expertise. RA is an Independent Contributor (IC) to perform a Big Data Analysis to identify defect patterns/process gaps for complex problems, create long-term solutions to eliminate defects/issuesAmazon.com strives to be Earth's most customer-centric company where people can find and discover virtually anything they want to buy online. By giving customers more of what they want - low prices, vast selection, and convenience - Amazon.com continues to grow and evolve as a world-class e-commerce platform. Amazon's evolution from Web site to an e-commerce partner to a development platform is driven by the spirit of innovation that is part of the company's DNA. The world's brightest technology minds come to Amazon.com to research and develop technology that improves the lives of shoppers and sellers around the world.\n\nThe Business Research analyst (RA) will be responsible for continuous improvement projects across the RBS teams leading to each of its delivery levers. The long-term goal of the RA role is to eliminate Defects that impact selling partners or customer experience, and the secondary goal is to enhance GMS (General merchandise sales)/ FCF (Free cash flow). This will require collaboration with local and global teams, which have a process and technical expertise. RA is an Independent Contributor (IC) to perform a Big Data Analysis to identify defect patterns/process gaps for complex problems, create long-term solutions to eliminate defects/issues and report impact/results. RA should work across VP teams, and regional and/or cross-regional organizations to drive improvements. Leads projects and opportunities across the Operations (FCs, CS, Supply Chain, Transportation, Engineering) that are business critical, and maybe global in nature\n\n\nEvaluation Metric \n** 100*(metric.r2_score(y-pred, y))**",
+  "datasetId": 2566966,
+  "datasetSlug": "amazon-business-research-analyst-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "vikramxd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 28373,
+  "totalVotes": 60,
+  "totalDownloads": 4334,
+  "title": "Amazon Business Research Analyst Dataset",
+  "hasTitle": true,
+  "subtitle": "Cleaned Dataset for the Amazon Business Research Analyst Hiring Challenge",
+  "hasSubtitle": true,
+  "description": "Amazon.com strives to be Earth's most customer-centric company where people can find and discover virtually anything they want to buy online. By giving customers more of what they want - low prices, vast selection, and convenience - Amazon.com continues to grow and evolve as a world-class e-commerce platform. Amazon's evolution from Web site to an e-commerce partner to a development platform is driven by the spirit of innovation that is part of the company's DNA. The world's brightest technology minds come to Amazon.com to research and develop technology that improves the lives of shoppers and sellers around the world.\n\nThe Business Research analyst (RA) will be responsible for continuous improvement projects across the RBS teams leading to each of its delivery levers. The long-term goal of the RA role is to eliminate Defects that impact selling partners or customer experience, and the secondary goal is to enhance GMS (General merchandise sales)/ FCF (Free cash flow). This will require collaboration with local and global teams, which have a process and technical expertise. RA is an Independent Contributor (IC) to perform a Big Data Analysis to identify defect patterns/process gaps for complex problems, create long-term solutions to eliminate defects/issuesAmazon.com strives to be Earth's most customer-centric company where people can find and discover virtually anything they want to buy online. By giving customers more of what they want - low prices, vast selection, and convenience - Amazon.com continues to grow and evolve as a world-class e-commerce platform. Amazon's evolution from Web site to an e-commerce partner to a development platform is driven by the spirit of innovation that is part of the company's DNA. The world's brightest technology minds come to Amazon.com to research and develop technology that improves the lives of shoppers and sellers around the world.\n\nThe Business Research analyst (RA) will be responsible for continuous improvement projects across the RBS teams leading to each of its delivery levers. The long-term goal of the RA role is to eliminate Defects that impact selling partners or customer experience, and the secondary goal is to enhance GMS (General merchandise sales)/ FCF (Free cash flow). This will require collaboration with local and global teams, which have a process and technical expertise. RA is an Independent Contributor (IC) to perform a Big Data Analysis to identify defect patterns/process gaps for complex problems, create long-term solutions to eliminate defects/issues and report impact/results. RA should work across VP teams, and regional and/or cross-regional organizations to drive improvements. Leads projects and opportunities across the Operations (FCs, CS, Supply Chain, Transportation, Engineering) that are business critical, and maybe global in nature\n\n\nEvaluation Metric \n** 100*(metric.r2_score(y-pred, y))**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "exploratory data analysis",
+    "ensembling",
+    "decision tree",
+    "tabular",
+    "automl"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "gaveshjain",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

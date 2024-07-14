@@ -1,0 +1,42 @@
+{
+  "id": "jeffheaton/iris-computer-vision",
+  "id_no": 995046,
+  "datasetSlugNullable": "iris-computer-vision",
+  "ownerUserNullable": "jeffheaton",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Iris Computer Vision",
+  "subtitleNullable": "Classify Fisher's three classic irises by image",
+  "descriptionNullable": "Most data scientists are familiar with [Fisher's Iris Dataset](https://www.kaggle.com/uciml/iris). The original Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the UCI Machine Learning Repository. The dataset presented here provides images for the space species of iris that were chosen by Fisher.   Can you classify iris images with computer vision?",
+  "datasetId": 995046,
+  "datasetSlug": "iris-computer-vision",
+  "hasDatasetSlug": true,
+  "ownerUser": "jeffheaton",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 22115,
+  "totalVotes": 32,
+  "totalDownloads": 2773,
+  "title": "Iris Computer Vision",
+  "hasTitle": true,
+  "subtitle": "Classify Fisher's three classic irises by image",
+  "hasSubtitle": true,
+  "description": "Most data scientists are familiar with [Fisher's Iris Dataset](https://www.kaggle.com/uciml/iris). The original Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the UCI Machine Learning Repository. The dataset presented here provides images for the space species of iris that were chosen by Fisher.   Can you classify iris images with computer vision?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer vision",
+    "classification",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

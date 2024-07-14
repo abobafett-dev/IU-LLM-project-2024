@@ -1,0 +1,41 @@
+{
+  "id": "devarajv88/walmart-sales-dataset",
+  "id_no": 5115691,
+  "datasetSlugNullable": "walmart-sales-dataset",
+  "ownerUserNullable": "devarajv88",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "e-Commerce (Walmart) Sales Dataset",
+  "subtitleNullable": "Customer Purchase Patterns and Demographics",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F15074417%2F93489278324ec0979ae2bd04a4cb5ce0%2F1_tgc5PuEaW36qa-60V7_KaA.jpg?generation=1717072504492120&alt=media)\n\nWalmart is a globally recognized retail giant, renowned for offering a wide range of products at competitive prices, and providing a convenient shopping experience for millions of customers worldwide.\n\nAnalyzing this dataset offers valuable insights into Walmart's customer base and purchasing behavior. It reveals details about customer demographics, product preferences, and spending patterns. This comprehensive dataset is a valuable resource for understanding various aspects of Walmart's operations, such as marketing strategies, customer segmentation, and product demand. It can enhance strategic decision-making in areas like inventory management, targeted marketing, and customer relationship management.\n\n**The datset contains the following columns:**\n1. **User_ID**:\tUser ID\n2. **Product_ID**:\tProduct ID\n3. **Gender**:\tSex of User\n4. **Age**:\tAge in bins\n5. **Occupation**:\tOccupation(Masked)\n6. **City_Category**:\tCategory of the City (A,B,C)\n7. **StayInCurrentCityYears**:\tNumber of years stay in current city\n8. **Marital_Status**:\tMarital Status\n9. **ProductCategory**:\tProduct Category (Masked)\n10. **Purchase**:\tPurchase Amount\n\n**Potential Usecases**\n1. **Customer Segmentation**\n2. **Market Basket Analysis**\n3. **Personalized Marketing**\n4. **Demand Forecasting**\n5. **Product Recommendation Systems**\n6. **Customer Lifetime Value (CLV) Analysis**\n7. **Sales and Revenue Analysis**\n8. **Urban vs. Rural Analysis**\n9. **Occupational Influence on Purchases**\n10. **Customer Loyalty Programs**\n11. **Marital Status and Shopping Behavior**\n12. **Price Sensitivity Analysis**\n13. **Optimizing pricing strategies to maximize sales and profitability**",
+  "datasetId": 5115691,
+  "datasetSlug": "walmart-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "devarajv88",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 15380,
+  "totalVotes": 54,
+  "totalDownloads": 3810,
+  "title": "e-Commerce (Walmart) Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "Customer Purchase Patterns and Demographics",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F15074417%2F93489278324ec0979ae2bd04a4cb5ce0%2F1_tgc5PuEaW36qa-60V7_KaA.jpg?generation=1717072504492120&alt=media)\n\nWalmart is a globally recognized retail giant, renowned for offering a wide range of products at competitive prices, and providing a convenient shopping experience for millions of customers worldwide.\n\nAnalyzing this dataset offers valuable insights into Walmart's customer base and purchasing behavior. It reveals details about customer demographics, product preferences, and spending patterns. This comprehensive dataset is a valuable resource for understanding various aspects of Walmart's operations, such as marketing strategies, customer segmentation, and product demand. It can enhance strategic decision-making in areas like inventory management, targeted marketing, and customer relationship management.\n\n**The datset contains the following columns:**\n1. **User_ID**:\tUser ID\n2. **Product_ID**:\tProduct ID\n3. **Gender**:\tSex of User\n4. **Age**:\tAge in bins\n5. **Occupation**:\tOccupation(Masked)\n6. **City_Category**:\tCategory of the City (A,B,C)\n7. **StayInCurrentCityYears**:\tNumber of years stay in current city\n8. **Marital_Status**:\tMarital Status\n9. **ProductCategory**:\tProduct Category (Masked)\n10. **Purchase**:\tPurchase Amount\n\n**Potential Usecases**\n1. **Customer Segmentation**\n2. **Market Basket Analysis**\n3. **Personalized Marketing**\n4. **Demand Forecasting**\n5. **Product Recommendation Systems**\n6. **Customer Lifetime Value (CLV) Analysis**\n7. **Sales and Revenue Analysis**\n8. **Urban vs. Rural Analysis**\n9. **Occupational Influence on Purchases**\n10. **Customer Loyalty Programs**\n11. **Marital Status and Shopping Behavior**\n12. **Price Sensitivity Analysis**\n13. **Optimizing pricing strategies to maximize sales and profitability**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "exploratory data analysis",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

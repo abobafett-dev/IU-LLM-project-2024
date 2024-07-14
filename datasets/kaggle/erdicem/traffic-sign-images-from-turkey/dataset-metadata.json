@@ -1,0 +1,42 @@
+{
+  "id": "erdicem/traffic-sign-images-from-turkey",
+  "id_no": 878660,
+  "datasetSlugNullable": "traffic-sign-images-from-turkey",
+  "ownerUserNullable": "erdicem",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Traffic Sign Images From Turkey ",
+  "subtitleNullable": "single-image classification challenge. Basic computer vision project",
+  "descriptionNullable": "### Context\n\nI want that proje consists of basics of computer vision department. So I prepare this data that collect to images of google and I applied Data Augmentation method for providing variation and enough number of image.\n\n### Content\n\nAll images don't have 32X32 pixel but in my notebook I read 32 pixel all of them you can see it. Total Row : 21249. \n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nMost of students make a computer vision project. I hope that this data help them understanding basic of computer vision.",
+  "datasetId": 878660,
+  "datasetSlug": "traffic-sign-images-from-turkey",
+  "hasDatasetSlug": true,
+  "ownerUser": "erdicem",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 8754,
+  "totalVotes": 20,
+  "totalDownloads": 647,
+  "title": "Traffic Sign Images From Turkey ",
+  "hasTitle": true,
+  "subtitle": "single-image classification challenge. Basic computer vision project",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI want that proje consists of basics of computer vision department. So I prepare this data that collect to images of google and I applied Data Augmentation method for providing variation and enough number of image.\n\n### Content\n\nAll images don't have 32X32 pixel but in my notebook I read 32 pixel all of them you can see it. Total Row : 21249. \n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nMost of students make a computer vision project. I hope that this data help them understanding basic of computer vision.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "business",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "sujithmandala/predicting-the-hourly-electricity-consumption",
+  "id_no": 4844918,
+  "datasetSlugNullable": "predicting-the-hourly-electricity-consumption",
+  "ownerUserNullable": "sujithmandala",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Predicting the Hourly Electricity Consumption",
+  "subtitleNullable": "Time Series Analysis",
+  "descriptionNullable": "This dataset can then be used to develop and validate time series forecasting models.\nThe dataset contains 2 columns:\n- Timestamp\n- Hourly Electricity Consumption",
+  "datasetId": 4844918,
+  "datasetSlug": "predicting-the-hourly-electricity-consumption",
+  "hasDatasetSlug": true,
+  "ownerUser": "sujithmandala",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 260,
+  "totalVotes": 6,
+  "totalDownloads": 31,
+  "title": "Predicting the Hourly Electricity Consumption",
+  "hasTitle": true,
+  "subtitle": "Time Series Analysis",
+  "hasSubtitle": true,
+  "description": "This dataset can then be used to develop and validate time series forecasting models.\nThe dataset contains 2 columns:\n- Timestamp\n- Hourly Electricity Consumption",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "electricity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

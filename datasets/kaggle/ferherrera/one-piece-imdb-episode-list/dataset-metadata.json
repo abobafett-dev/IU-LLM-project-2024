@@ -1,0 +1,39 @@
+{
+  "id": "ferherrera/one-piece-imdb-episode-list",
+  "id_no": 3853040,
+  "datasetSlugNullable": "one-piece-imdb-episode-list",
+  "ownerUserNullable": "ferherrera",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "One Piece IMDb Episode Info and Rating",
+  "subtitleNullable": "First 1077 One Piece episodes' number, title, plot, date and rating. ",
+  "descriptionNullable": "**About Dataset**\nThis dataset contains general and rating information about the latest One Piece episodes (first 1077), available through IMDb's website. This dataset was created by downloading and scraping the html file of the page containing the information of all of the episodes in October 10, 2023.\n\n**Content:**\nindex\nEpisode Number: The number of the episode.\nTitle: The title of the episode.\nPlot: The episode's plot/synopsis.\nDate: The release date of the episode.\nRating: The average rating of the episode at the date the dataset was created.\n\n**Dataset Information:**\nSize: 262KB\nFormat: CSV\nColumns: 5 + index\nRows: 1077 + header\n\nThe data has been scraped for educational and research purposes only and done responsibly by downloading the page once. Thanks to IMDb for providing this information.\n\n**Data source:** \nhttps://www.imdb.com/title/tt0388629/episodes/?season=1",
+  "datasetId": 3853040,
+  "datasetSlug": "one-piece-imdb-episode-list",
+  "hasDatasetSlug": true,
+  "ownerUser": "ferherrera",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 255,
+  "totalVotes": 4,
+  "totalDownloads": 43,
+  "title": "One Piece IMDb Episode Info and Rating",
+  "hasTitle": true,
+  "subtitle": "First 1077 One Piece episodes' number, title, plot, date and rating. ",
+  "hasSubtitle": true,
+  "description": "**About Dataset**\nThis dataset contains general and rating information about the latest One Piece episodes (first 1077), available through IMDb's website. This dataset was created by downloading and scraping the html file of the page containing the information of all of the episodes in October 10, 2023.\n\n**Content:**\nindex\nEpisode Number: The number of the episode.\nTitle: The title of the episode.\nPlot: The episode's plot/synopsis.\nDate: The release date of the episode.\nRating: The average rating of the episode at the date the dataset was created.\n\n**Dataset Information:**\nSize: 262KB\nFormat: CSV\nColumns: 5 + index\nRows: 1077 + header\n\nThe data has been scraped for educational and research purposes only and done responsibly by downloading the page once. Thanks to IMDb for providing this information.\n\n**Data source:** \nhttps://www.imdb.com/title/tt0388629/episodes/?season=1",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

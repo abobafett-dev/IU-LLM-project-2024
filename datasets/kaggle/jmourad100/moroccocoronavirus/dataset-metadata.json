@@ -1,0 +1,45 @@
+{
+  "id": "jmourad100/moroccocoronavirus",
+  "id_no": 566027,
+  "datasetSlugNullable": "moroccocoronavirus",
+  "ownerUserNullable": "jmourad100",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Morocco-coronavirus",
+  "subtitleNullable": "Evolution of Covid-19 in Morocco",
+  "descriptionNullable": "### Content\nThis Dataset contains daily data about the situation of Covid-19 in Morocco.\n\n## How to use it?\nThe dataset includes 16 columns: date, confirmed cases, deaths, Recovered, and count of cases across each of the 12 Moroccan regions. \nIt is a good source for data visualization or exploring different models of disease transmission.\n\nThe dataset will be updated according to the official data each day at +01:00(GMT)\n\n### Source:\n- http://www.covidmaroc.ma/pages/Accueil.aspx\n- https://who.sprinklr.com/region/emro/country/ma\n- https://www.hespress.com/ ||  https://covid.hespress.com/\n- https://covidata.2m.ma/\n- https://www.marocovid.com/\n- https://www.facebook.com/ministere.sante.ma/",
+  "datasetId": 566027,
+  "datasetSlug": "moroccocoronavirus",
+  "hasDatasetSlug": true,
+  "ownerUser": "jmourad100",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 18345,
+  "totalVotes": 26,
+  "totalDownloads": 1311,
+  "title": "Morocco-coronavirus",
+  "hasTitle": true,
+  "subtitle": "Evolution of Covid-19 in Morocco",
+  "hasSubtitle": true,
+  "description": "### Content\nThis Dataset contains daily data about the situation of Covid-19 in Morocco.\n\n## How to use it?\nThe dataset includes 16 columns: date, confirmed cases, deaths, Recovered, and count of cases across each of the 12 Moroccan regions. \nIt is a good source for data visualization or exploring different models of disease transmission.\n\nThe dataset will be updated according to the official data each day at +01:00(GMT)\n\n### Source:\n- http://www.covidmaroc.ma/pages/Accueil.aspx\n- https://who.sprinklr.com/region/emro/country/ma\n- https://www.hespress.com/ ||  https://covid.hespress.com/\n- https://covidata.2m.ma/\n- https://www.marocovid.com/\n- https://www.facebook.com/ministere.sante.ma/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "moussaid",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

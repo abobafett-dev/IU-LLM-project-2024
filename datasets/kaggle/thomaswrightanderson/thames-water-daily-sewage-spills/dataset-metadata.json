@@ -1,0 +1,44 @@
+{
+  "id": "thomaswrightanderson/thames-water-daily-sewage-spills",
+  "id_no": 4345899,
+  "datasetSlugNullable": "thames-water-daily-sewage-spills",
+  "ownerUserNullable": "thomaswrightanderson",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Thames Water Daily Sewage Overflow Time Series",
+  "subtitleNullable": "Daily Sewage Overflows by Thames Water April 2022 - January 2024",
+  "descriptionNullable": "**Context**\n\nThames Water is one the UK's largest water providers, serving over 15 million customers in South East England. Like other UK water providers, in recent years they have come under increasing fire over their sewage overflow pollution, occurring as a result of: ageing wastewater infrastructure and increasing customer demand. As part of a billion pound wastewater improvement and transparency scheme, Thames Water also became the first UK water provider to release real-time data on sewage overflows available [here](https://data.thameswater.co.uk/s/. )\n\n**Motivation**\n\nAs an avid outdoors person, wild swimmer and supporter of the [surfers against sewage](https://www.sas.org.uk/) charity, I believe it is extremely important for information on this issue to be publicly available. In the critical mission of reducing sewage pollution, transparency and access to publicly available data are paramount for water companies like Thames Water. By openly sharing information about their wastewater management practices, discharge levels, and environmental impact, these companies foster accountability and public awareness within the communities they serve and enable collaborative efforts to address sewage pollution effectively.\n\n**How to use**\n\n- An aggregated version at daily temporal resolution, which has been combined with precipitation data from around the catchment. Explore trends over time and attempt to model future sewage overflow durations given precipitation conditions.\n- A deaggregated version, where each row is a unique sewage overflow spill event. Events continuing overnight are split at midnight onto a new row. These data also includes the locations of spill events, making for some interesting geospatial analysis possibilities. If you have your own data to append other ways of processing the data, this is the dataset to do it on.\n\n\n\nI hope you all find this data as interesting as I have to process and explore! I will upload an EDA and modelling notebook soon. \n\nI strongly recommend looking into the Surfers against Sewage charity if you are interested in supporting the cause to reduce sewage pollution and increase awareness!",
+  "datasetId": 4345899,
+  "datasetSlug": "thames-water-daily-sewage-spills",
+  "hasDatasetSlug": true,
+  "ownerUser": "thomaswrightanderson",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 910,
+  "totalVotes": 12,
+  "totalDownloads": 119,
+  "title": "Thames Water Daily Sewage Overflow Time Series",
+  "hasTitle": true,
+  "subtitle": "Daily Sewage Overflows by Thames Water April 2022 - January 2024",
+  "hasSubtitle": true,
+  "description": "**Context**\n\nThames Water is one the UK's largest water providers, serving over 15 million customers in South East England. Like other UK water providers, in recent years they have come under increasing fire over their sewage overflow pollution, occurring as a result of: ageing wastewater infrastructure and increasing customer demand. As part of a billion pound wastewater improvement and transparency scheme, Thames Water also became the first UK water provider to release real-time data on sewage overflows available [here](https://data.thameswater.co.uk/s/. )\n\n**Motivation**\n\nAs an avid outdoors person, wild swimmer and supporter of the [surfers against sewage](https://www.sas.org.uk/) charity, I believe it is extremely important for information on this issue to be publicly available. In the critical mission of reducing sewage pollution, transparency and access to publicly available data are paramount for water companies like Thames Water. By openly sharing information about their wastewater management practices, discharge levels, and environmental impact, these companies foster accountability and public awareness within the communities they serve and enable collaborative efforts to address sewage pollution effectively.\n\n**How to use**\n\n- An aggregated version at daily temporal resolution, which has been combined with precipitation data from around the catchment. Explore trends over time and attempt to model future sewage overflow durations given precipitation conditions.\n- A deaggregated version, where each row is a unique sewage overflow spill event. Events continuing overnight are split at midnight onto a new row. These data also includes the locations of spill events, making for some interesting geospatial analysis possibilities. If you have your own data to append other ways of processing the data, this is the dataset to do it on.\n\n\n\nI hope you all find this data as interesting as I have to process and explore! I will upload an EDA and modelling notebook soon. \n\nI strongly recommend looking into the Surfers against Sewage charity if you are interested in supporting the cause to reduce sewage pollution and increase awareness!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "environment",
+    "pollution",
+    "energy",
+    "data visualization",
+    "time series analysis",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

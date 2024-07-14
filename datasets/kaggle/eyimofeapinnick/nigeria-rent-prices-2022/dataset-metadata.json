@@ -1,0 +1,43 @@
+{
+  "id": "eyimofeapinnick/nigeria-rent-prices-2022",
+  "id_no": 2680460,
+  "datasetSlugNullable": "nigeria-rent-prices-2022",
+  "ownerUserNullable": "eyimofeapinnick",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Nigeria Rent Prices (2022)",
+  "subtitleNullable": "Dataset consisting of rent prices of residential properties in Nigeria",
+  "descriptionNullable": "The dataset for this project was obtained from a Nigerian real estate company called PropertyPro NG (https://www.propertypro.ng/). The extracted dataset contained information such as the rent of residential properties e.g. homes, apartments across different cities in  Nigeria in 2022.\n\nThe price of this properties are in the Nigerian Naira (NGN)\n\nUsing web scraping technology through Python and BeautifulSoup4, the data was scraped from their listing page of properties in Nigeria. \n\nThe goal is to predict the sales price of a property. This would be a good challenge for practicing your feature engineering skills like:\n- Extracting the type of property from the Title/More Info e.g. Duplex, Semi-Duplex, Apartment, Flat\n-  Extracting the State, City, Neighborhood or Estate of the property from the Location\n- Converting the strings in the Bathroom, Toilet or Bedroom columns into numbers\n- Converting the Price column into a numerical object and extracting the Price Period e.g per year, per sqm from the same column\n\n\n|NAME OF COLUMN| DESCRIPTION OF COLUMN|DATA OBJECT|\n| --- | --- | --- |\n|Title| Title of the property e.g. Brand New 5 Bedroom Semi-Detached Duplex |String|\n|More Info| More Information about the property e.g. 4 BEDROOM HOUSE FOR RENT |String|\n|Location|Location of the property e.g. Hrc Estate Beside Vgc Estate, Vgc Lekki Lagos|String|\n|Serviced|Whether the property has been serviced e.g. sockets have been installed or other renovations.|Integer|\n|Newly Built|Whether the property was newly built|Integer|\n|Furnished|Whether the property has been furnished|Integer|\n|Bedrooms|Number of bedrooms on the property|String|\n|Bathrooms|Number of bathrooms on the property|String|\n|Toilets|Number of toilets on the property|String|\n|Price|The price of the property|String **(Target)**|\n",
+  "datasetId": 2680460,
+  "datasetSlug": "nigeria-rent-prices-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "eyimofeapinnick",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 1301,
+  "totalVotes": 10,
+  "totalDownloads": 279,
+  "title": "Nigeria Rent Prices (2022)",
+  "hasTitle": true,
+  "subtitle": "Dataset consisting of rent prices of residential properties in Nigeria",
+  "hasSubtitle": true,
+  "description": "The dataset for this project was obtained from a Nigerian real estate company called PropertyPro NG (https://www.propertypro.ng/). The extracted dataset contained information such as the rent of residential properties e.g. homes, apartments across different cities in  Nigeria in 2022.\n\nThe price of this properties are in the Nigerian Naira (NGN)\n\nUsing web scraping technology through Python and BeautifulSoup4, the data was scraped from their listing page of properties in Nigeria. \n\nThe goal is to predict the sales price of a property. This would be a good challenge for practicing your feature engineering skills like:\n- Extracting the type of property from the Title/More Info e.g. Duplex, Semi-Duplex, Apartment, Flat\n-  Extracting the State, City, Neighborhood or Estate of the property from the Location\n- Converting the strings in the Bathroom, Toilet or Bedroom columns into numbers\n- Converting the Price column into a numerical object and extracting the Price Period e.g per year, per sqm from the same column\n\n\n|NAME OF COLUMN| DESCRIPTION OF COLUMN|DATA OBJECT|\n| --- | --- | --- |\n|Title| Title of the property e.g. Brand New 5 Bedroom Semi-Detached Duplex |String|\n|More Info| More Information about the property e.g. 4 BEDROOM HOUSE FOR RENT |String|\n|Location|Location of the property e.g. Hrc Estate Beside Vgc Estate, Vgc Lekki Lagos|String|\n|Serviced|Whether the property has been serviced e.g. sockets have been installed or other renovations.|Integer|\n|Newly Built|Whether the property was newly built|Integer|\n|Furnished|Whether the property has been furnished|Integer|\n|Bedrooms|Number of bedrooms on the property|String|\n|Bathrooms|Number of bathrooms on the property|String|\n|Toilets|Number of toilets on the property|String|\n|Price|The price of the property|String **(Target)**|\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "africa",
+    "real estate",
+    "feature engineering",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

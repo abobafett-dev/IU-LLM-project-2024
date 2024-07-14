@@ -1,0 +1,40 @@
+{
+  "id": "sarynasser/germeval-2017-prepared-dataset",
+  "id_no": 4030996,
+  "datasetSlugNullable": "germeval-2017-prepared-dataset",
+  "ownerUserNullable": "sarynasser",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "GermEval 2017 Prepared dataset",
+  "subtitleNullable": "Dataset from GermEval 2017 about sentiment analysis tasks.",
+  "descriptionNullable": "GermEval is annual competition about NLP tasks.\nhttps://sites.google.com/view/germeval2017-absa/home\n22,000 messages from various social media and web sources.\nCustomer reviews about \u201cDeutsche Bahn\u201d (the main train service provider in Germany).\nContains Text, relevance, Category, target(aspect), polarity of the aspect, document polarity.\nThe dataset is not mine.\n",
+  "datasetId": 4030996,
+  "datasetSlug": "germeval-2017-prepared-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sarynasser",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 65,
+  "totalVotes": 2,
+  "totalDownloads": 5,
+  "title": "GermEval 2017 Prepared dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset from GermEval 2017 about sentiment analysis tasks.",
+  "hasSubtitle": true,
+  "description": "GermEval is annual competition about NLP tasks.\nhttps://sites.google.com/view/germeval2017-absa/home\n22,000 messages from various social media and web sources.\nCustomer reviews about \u201cDeutsche Bahn\u201d (the main train service provider in Germany).\nContains Text, relevance, Category, target(aspect), polarity of the aspect, document polarity.\nThe dataset is not mine.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

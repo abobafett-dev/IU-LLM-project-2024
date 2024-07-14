@@ -1,0 +1,42 @@
+{
+  "id": "johnyoungsorensen/salt-lake-city-traffic",
+  "id_no": 2351982,
+  "datasetSlugNullable": "salt-lake-city-traffic",
+  "ownerUserNullable": "johnyoungsorensen",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Salt Lake City Traffic",
+  "subtitleNullable": "Predict and Visualize Traffic in Salt Lake City, Utah",
+  "descriptionNullable": "Hourly traffic data for 50 locations near Salt Lake City Utah during January 2022. I created this dataset to analyze the temporal and spatial correlations in traffic. \n\nData was sourced at: https://www.udot.utah.gov/connect/business/traffic-data/traffic-statistics/\n\nLongitude and Latitude coordinates for each point are found in the meta-data file.",
+  "datasetId": 2351982,
+  "datasetSlug": "salt-lake-city-traffic",
+  "hasDatasetSlug": true,
+  "ownerUser": "johnyoungsorensen",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 749,
+  "totalVotes": 7,
+  "totalDownloads": 72,
+  "title": "Salt Lake City Traffic",
+  "hasTitle": true,
+  "subtitle": "Predict and Visualize Traffic in Salt Lake City, Utah",
+  "hasSubtitle": true,
+  "description": "Hourly traffic data for 50 locations near Salt Lake City Utah during January 2022. I created this dataset to analyze the temporal and spatial correlations in traffic. \n\nData was sourced at: https://www.udot.utah.gov/connect/business/traffic-data/traffic-statistics/\n\nLongitude and Latitude coordinates for each point are found in the meta-data file.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "united states",
+    "intermediate",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

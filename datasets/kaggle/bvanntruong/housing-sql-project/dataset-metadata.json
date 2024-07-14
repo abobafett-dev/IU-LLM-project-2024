@@ -1,0 +1,45 @@
+{
+  "id": "bvanntruong/housing-sql-project",
+  "id_no": 3397178,
+  "datasetSlugNullable": "housing-sql-project",
+  "ownerUserNullable": "bvanntruong",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Housing - SQL Project",
+  "subtitleNullable": "Nashville housing information",
+  "descriptionNullable": "This dataset contains information about housing sales in Nashville, TN such as property, owner, sales, and tax information. \nThe SQL queries I created for Data Cleaning can be found [here](https://github.com/bvanntruong/EXCELproject.NashvilleHousing/blob/main/HousingQuery.sql).",
+  "datasetId": 3397178,
+  "datasetSlug": "housing-sql-project",
+  "hasDatasetSlug": true,
+  "ownerUser": "bvanntruong",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 11351,
+  "totalVotes": 42,
+  "totalDownloads": 1597,
+  "title": "Housing - SQL Project",
+  "hasTitle": true,
+  "subtitle": "Nashville housing information",
+  "hasSubtitle": true,
+  "description": "This dataset contains information about housing sales in Nashville, TN such as property, owner, sales, and tax information. \nThe SQL queries I created for Data Cleaning can be found [here](https://github.com/bvanntruong/EXCELproject.NashvilleHousing/blob/main/HousingQuery.sql).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "housing",
+    "business",
+    "real estate",
+    "data cleaning",
+    "data analytics",
+    "social issues and advocacy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "mdkabinhasan/sports-ball-dataset",
+  "id_no": 4348595,
+  "datasetSlugNullable": "sports-ball-dataset",
+  "ownerUserNullable": "mdkabinhasan",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Sports Ball Dataset",
+  "subtitleNullable": "Image Dataset of Sports Ball",
+  "descriptionNullable": "#Context\nThis is a clean image dataset of sports balls collected using [DuckDuckGo](https://duckduckgo.com/) search engine. There are 10 classes. <br>\n1. Football\n2. Basketball\n3. Volleyball\n4. Rugby\n5. Golf\n6. Cricket\n7. Tennis\n8. Bowling\n9. Billiards\n10. Baseball <br>\nThis dataset is already cleaned and validated using `Fast.Ai`.<br>\n&gt;**The scraped program** of this dataset is in [Sports-Ball-Recognizer](https://github.com/kavinh07/Sports-Ball-Recognizer.git) GitHub repository.\n\n\n#Content\nThe file contains 10 folders. Each folder represents the label of the images inside it.\n\n&gt; \ud83d\udcc2**Sports-Ball-Dataset**\n&gt;&gt; \ud83d\udcc2 **Football:** 224 images.\n&gt;&gt; \ud83d\udcc2 **Basketball:** 278 images.\n&gt;&gt; \ud83d\udcc2 **Volleyball:** 261 images.\n&gt;&gt; \ud83d\udcc2 **Rugby:** 307 images.\n&gt;&gt; \ud83d\udcc2 **Golf:** 264 images.\n&gt;&gt; \ud83d\udcc2 **Cricket:** 255 images.\n&gt;&gt; \ud83d\udcc2 **Tennis:** 273 images.\n&gt;&gt; \ud83d\udcc2 **Bowling:** 286 images.\n&gt;&gt; \ud83d\udcc2 **Billiards:** 279 images.\n&gt;&gt; \ud83d\udcc2 **Baseball:** 272 images.\n\n\n#Data Preparation\n- **Data Collection:** Downloaded from DuckDuckGo using term name and adding extra string ' only balls images'. A total of 2872 images were collected initially. After unlinking the damaged data, the total number of images was 2776.\n- **Dataloader:** Used FastAI DataBlock API to set up the DataLoader.\n- **Data Augmentation:** FastAI provides default data augmentation which operates in GPU.\n- **Data Cleaning:** Since I collected data from the browser, there were many noises. Also, some images contained irrelevant data. I cleaned and updated data using FastAI ImageClassifierCleaner.<br>\n#Acknowledgement\nPlease include citations for this dataset if you use it in your own research.<br>\n#Inspiration\nThis dataset can be used for sports ball classification.\n\n\n",
+  "datasetId": 4348595,
+  "datasetSlug": "sports-ball-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mdkabinhasan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 763,
+  "totalVotes": 5,
+  "totalDownloads": 94,
+  "title": "Sports Ball Dataset",
+  "hasTitle": true,
+  "subtitle": "Image Dataset of Sports Ball",
+  "hasSubtitle": true,
+  "description": "#Context\nThis is a clean image dataset of sports balls collected using [DuckDuckGo](https://duckduckgo.com/) search engine. There are 10 classes. <br>\n1. Football\n2. Basketball\n3. Volleyball\n4. Rugby\n5. Golf\n6. Cricket\n7. Tennis\n8. Bowling\n9. Billiards\n10. Baseball <br>\nThis dataset is already cleaned and validated using `Fast.Ai`.<br>\n&gt;**The scraped program** of this dataset is in [Sports-Ball-Recognizer](https://github.com/kavinh07/Sports-Ball-Recognizer.git) GitHub repository.\n\n\n#Content\nThe file contains 10 folders. Each folder represents the label of the images inside it.\n\n&gt; \ud83d\udcc2**Sports-Ball-Dataset**\n&gt;&gt; \ud83d\udcc2 **Football:** 224 images.\n&gt;&gt; \ud83d\udcc2 **Basketball:** 278 images.\n&gt;&gt; \ud83d\udcc2 **Volleyball:** 261 images.\n&gt;&gt; \ud83d\udcc2 **Rugby:** 307 images.\n&gt;&gt; \ud83d\udcc2 **Golf:** 264 images.\n&gt;&gt; \ud83d\udcc2 **Cricket:** 255 images.\n&gt;&gt; \ud83d\udcc2 **Tennis:** 273 images.\n&gt;&gt; \ud83d\udcc2 **Bowling:** 286 images.\n&gt;&gt; \ud83d\udcc2 **Billiards:** 279 images.\n&gt;&gt; \ud83d\udcc2 **Baseball:** 272 images.\n\n\n#Data Preparation\n- **Data Collection:** Downloaded from DuckDuckGo using term name and adding extra string ' only balls images'. A total of 2872 images were collected initially. After unlinking the damaged data, the total number of images was 2776.\n- **Dataloader:** Used FastAI DataBlock API to set up the DataLoader.\n- **Data Augmentation:** FastAI provides default data augmentation which operates in GPU.\n- **Data Cleaning:** Since I collected data from the browser, there were many noises. Also, some images contained irrelevant data. I cleaned and updated data using FastAI ImageClassifierCleaner.<br>\n#Acknowledgement\nPlease include citations for this dataset if you use it in your own research.<br>\n#Inspiration\nThis dataset can be used for sports ball classification.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "sports",
+    "intermediate",
+    "data analytics",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

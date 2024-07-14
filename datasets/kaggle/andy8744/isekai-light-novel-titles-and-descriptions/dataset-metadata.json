@@ -1,0 +1,43 @@
+{
+  "id": "andy8744/isekai-light-novel-titles-and-descriptions",
+  "id_no": 1883465,
+  "datasetSlugNullable": "isekai-light-novel-titles-and-descriptions",
+  "ownerUserNullable": "andy8744",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Isekai Anime Light Novel Titles and Descriptions",
+  "subtitleNullable": "1300+ rows in isekai light novel titles and descriptions",
+  "descriptionNullable": "### Context\n\nInspired by Gigguk's [This Light Novel Does Not Exist](https://www.youtube.com/watch?v=21zDl4sX3nE) video, I wanted to make my own isekai light novel title generating AI. I thought it would also be interesting to do it with the description/blurb or the novel too.\n\n### Content\n\nThe data was collected from novelupdates.com, filtered by tags \"Fantasy World\" and \"Alternate World\". A python script using selenium and bs4 was used to scrape the data from the website. \n\nSince some titles are very short, it is recommended to filter them out for best results. \n\nThe link is also provided if additional metadata is needed such as cover image, tags and recommendations. \n\n### Acknowledgements\n\nData collected from https://www.novelupdates.com/ by @andy8744 \n\n\n### Inspiration\n\nTry generate your own light novel titles or descriptions. Or how about both? \n\nGenerate text with your LSTMs then try retraining GPT-2 to do the same. How does the results differ? \n\nPredict the genre based on the title and description. (multi-class classification)[This Light Novel Does Not Exist.](https://www.youtube.com/watch?v=21zDl4sX3nE)",
+  "datasetId": 1883465,
+  "datasetSlug": "isekai-light-novel-titles-and-descriptions",
+  "hasDatasetSlug": true,
+  "ownerUser": "andy8744",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3247,
+  "totalVotes": 14,
+  "totalDownloads": 256,
+  "title": "Isekai Anime Light Novel Titles and Descriptions",
+  "hasTitle": true,
+  "subtitle": "1300+ rows in isekai light novel titles and descriptions",
+  "hasSubtitle": true,
+  "description": "### Context\n\nInspired by Gigguk's [This Light Novel Does Not Exist](https://www.youtube.com/watch?v=21zDl4sX3nE) video, I wanted to make my own isekai light novel title generating AI. I thought it would also be interesting to do it with the description/blurb or the novel too.\n\n### Content\n\nThe data was collected from novelupdates.com, filtered by tags \"Fantasy World\" and \"Alternate World\". A python script using selenium and bs4 was used to scrape the data from the website. \n\nSince some titles are very short, it is recommended to filter them out for best results. \n\nThe link is also provided if additional metadata is needed such as cover image, tags and recommendations. \n\n### Acknowledgements\n\nData collected from https://www.novelupdates.com/ by @andy8744 \n\n\n### Inspiration\n\nTry generate your own light novel titles or descriptions. Or how about both? \n\nGenerate text with your LSTMs then try retraining GPT-2 to do the same. How does the results differ? \n\nPredict the genre based on the title and description. (multi-class classification)[This Light Novel Does Not Exist.](https://www.youtube.com/watch?v=21zDl4sX3nE)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "text",
+    "multiclass classification",
+    "anime and manga",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

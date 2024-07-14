@@ -1,0 +1,43 @@
+{
+  "id": "protobioengineering/fukushima-earthquake-2016-matsushiro-japan",
+  "id_no": 4430275,
+  "datasetSlugNullable": "fukushima-earthquake-2016-matsushiro-japan",
+  "ownerUserNullable": "protobioengineering",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fukushima 2016 Earthquake Seismogram (Matsushiro)",
+  "subtitleNullable": "A seismogram for the 2016 Fukushima Earthquake as recorded in Matsushiro, Japan",
+  "descriptionNullable": "This data was downloaded from the [SAGE Wilber 3 dashboard](https://ds.iris.edu/wilber3/), which has downloadable seismograms from [seismic stations](https://www.sciencedirect.com/topics/engineering/seismic-station) around the world.\n\n[SAGE](https://www.iris.edu/hq/sage) is the Seismological Facility for the Advancement of Geoscience, and they have [dozens of online data tools and APIs for getting seismic data](https://ds.iris.edu/ds/nodes/dmc/tools/##).\n\nThe seismogram data is measured in [millimeters of ground displacement](https://www.usgs.gov/faqs/seismometers-seismographs-seismograms-whats-difference-how-do-they-work).\n\nWhen using the data, please credit the EarthScope Consortium and see their [\"How to Cite\" page](https://www.earthscope.org/how-to-cite/).\n\nPhoto by [Tuan P. on Unsplash](https://unsplash.com/photos/a-view-of-a-city-with-mountains-in-the-background--OKddMFpMFA).",
+  "datasetId": 4430275,
+  "datasetSlug": "fukushima-earthquake-2016-matsushiro-japan",
+  "hasDatasetSlug": true,
+  "ownerUser": "protobioengineering",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 255,
+  "totalVotes": 5,
+  "totalDownloads": 27,
+  "title": "Fukushima 2016 Earthquake Seismogram (Matsushiro)",
+  "hasTitle": true,
+  "subtitle": "A seismogram for the 2016 Fukushima Earthquake as recorded in Matsushiro, Japan",
+  "hasSubtitle": true,
+  "description": "This data was downloaded from the [SAGE Wilber 3 dashboard](https://ds.iris.edu/wilber3/), which has downloadable seismograms from [seismic stations](https://www.sciencedirect.com/topics/engineering/seismic-station) around the world.\n\n[SAGE](https://www.iris.edu/hq/sage) is the Seismological Facility for the Advancement of Geoscience, and they have [dozens of online data tools and APIs for getting seismic data](https://ds.iris.edu/ds/nodes/dmc/tools/##).\n\nThe seismogram data is measured in [millimeters of ground displacement](https://www.usgs.gov/faqs/seismometers-seismographs-seismograms-whats-difference-how-do-they-work).\n\nWhen using the data, please credit the EarthScope Consortium and see their [\"How to Cite\" page](https://www.earthscope.org/how-to-cite/).\n\nPhoto by [Tuan P. on Unsplash](https://unsplash.com/photos/a-view-of-a-city-with-mountains-in-the-background--OKddMFpMFA).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "earth science",
+    "geology",
+    "time series analysis",
+    "japan"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

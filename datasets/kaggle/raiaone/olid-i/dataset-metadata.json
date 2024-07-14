@@ -1,0 +1,43 @@
+{
+  "id": "raiaone/olid-i",
+  "id_no": 3472313,
+  "datasetSlugNullable": "olid-i",
+  "ownerUserNullable": "raiaone",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "OLID I",
+  "subtitleNullable": "An Open Leaf Image Dataset of Bangladesh's Major Crops",
+  "descriptionNullable": "Artificial intelligence (AI) has taken the globe by storm since its inception, and the enormous agriculture sector is no exception. The progress of any AI-assisted mechanism is heavily reliant on massive training data. Although the application of AI in plant leaf management has garnered prominence in recent years, there is still a dearth of data, especially in the case of tropical and subtropical crops. In light of this, we present a public dataset containing 4,749 leaf images which include healthy, nutritionally deficient, and pest-infested leaves of tomato (*Solanum lycopersicum*), eggplant (*Solanum melongena*), cucumber (*Cucumis sativus*), bitter gourd (*Momordica charantia*), snake gourd (*Trichosanthes cucumerina*), ridge gourd (*Luffa acutangula*), ash gourd (*Benincasa hispida*), and bottle gourd (*Lagenaria siceraria*). The dataset comprises 57 unique classes with high-resolution photos (3024 x 3024). The images have been captured at three different sites in Bangladesh in natural field settings and arduously labeled by an expert panel. This collection features the highest number of plant stress classes and the first multi-label classification problem in the agro-domain. The effective utilization of our dataset will result in an abundance of leaf disease diagnosis algorithms, pest identification and classification tools, and nutritional deficiency estimation strategies, to highlight a few.\n\n**Note:** The excel file comprises a detailed class distribution.\n\nLink to the associated article: [https://doi.org/10.3389/fpls.2023.1251888](url)",
+  "datasetId": 3472313,
+  "datasetSlug": "olid-i",
+  "hasDatasetSlug": true,
+  "ownerUser": "raiaone",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 3558,
+  "totalVotes": 16,
+  "totalDownloads": 549,
+  "title": "OLID I",
+  "hasTitle": true,
+  "subtitle": "An Open Leaf Image Dataset of Bangladesh's Major Crops",
+  "hasSubtitle": true,
+  "description": "Artificial intelligence (AI) has taken the globe by storm since its inception, and the enormous agriculture sector is no exception. The progress of any AI-assisted mechanism is heavily reliant on massive training data. Although the application of AI in plant leaf management has garnered prominence in recent years, there is still a dearth of data, especially in the case of tropical and subtropical crops. In light of this, we present a public dataset containing 4,749 leaf images which include healthy, nutritionally deficient, and pest-infested leaves of tomato (*Solanum lycopersicum*), eggplant (*Solanum melongena*), cucumber (*Cucumis sativus*), bitter gourd (*Momordica charantia*), snake gourd (*Trichosanthes cucumerina*), ridge gourd (*Luffa acutangula*), ash gourd (*Benincasa hispida*), and bottle gourd (*Lagenaria siceraria*). The dataset comprises 57 unique classes with high-resolution photos (3024 x 3024). The images have been captured at three different sites in Bangladesh in natural field settings and arduously labeled by an expert panel. This collection features the highest number of plant stress classes and the first multi-label classification problem in the agro-domain. The effective utilization of our dataset will result in an abundance of leaf disease diagnosis algorithms, pest identification and classification tools, and nutritional deficiency estimation strategies, to highlight a few.\n\n**Note:** The excel file comprises a detailed class distribution.\n\nLink to the associated article: [https://doi.org/10.3389/fpls.2023.1251888](url)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "plants",
+    "artificial intelligence",
+    "computer vision",
+    "multilabel classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

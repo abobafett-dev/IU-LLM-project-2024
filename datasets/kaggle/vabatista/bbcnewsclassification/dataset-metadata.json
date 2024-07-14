@@ -1,0 +1,39 @@
+{
+  "id": "vabatista/bbcnewsclassification",
+  "id_no": 2616186,
+  "datasetSlugNullable": "bbcnewsclassification",
+  "ownerUserNullable": "vabatista",
+  "usabilityRatingNullable": 0.3125,
+  "titleNullable": "BBC News classification",
+  "subtitleNullable": "",
+  "descriptionNullable": "Dataset downloaded from: http://mlg.ucd.ie/datasets/bbc.html",
+  "datasetId": 2616186,
+  "datasetSlug": "bbcnewsclassification",
+  "hasDatasetSlug": true,
+  "ownerUser": "vabatista",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.3125,
+  "hasUsabilityRating": true,
+  "totalViews": 416,
+  "totalVotes": 0,
+  "totalDownloads": 50,
+  "title": "BBC News classification",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Dataset downloaded from: http://mlg.ucd.ie/datasets/bbc.html",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

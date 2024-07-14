@@ -1,0 +1,42 @@
+{
+  "id": "mysarahmadbhat/world-cup",
+  "id_no": 1521779,
+  "datasetSlugNullable": "world-cup",
+  "ownerUserNullable": "mysarahmadbhat",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "World Cup",
+  "subtitleNullable": "Data from all World Cup matches between 1930-2014, by athlete.",
+  "descriptionNullable": "Data from all World Cup results (1930-2014), details for each match (Date, Stage, City, Ref, Home Team, Away Team, Goals, Goals at Half, etc), and details for events (goals, assists, etc) by athlete.\n\nRecommended Analysis\nDig into attendance data...\nHow has attendance trended over time? (both average per game and total per year)\nDo certain cities tend to draw bigger crowds?\nDo certain teams see larger attendance?\nWhich teams have won the most games? How has number of wins by country trended over time?\n\nBased on the Home Team and Away Team columns, does there seem to be a \"home team advantage\"?\n\nDo any teams seem to be stronger in either the first half or the second half? (think about both offense and defense)\n\nWhich players had the most successful scoring careers? How about the longest careers?",
+  "datasetId": 1521779,
+  "datasetSlug": "world-cup",
+  "hasDatasetSlug": true,
+  "ownerUser": "mysarahmadbhat",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 2197,
+  "totalVotes": 6,
+  "totalDownloads": 234,
+  "title": "World Cup",
+  "hasTitle": true,
+  "subtitle": "Data from all World Cup matches between 1930-2014, by athlete.",
+  "hasSubtitle": true,
+  "description": "Data from all World Cup results (1930-2014), details for each match (Date, Stage, City, Ref, Home Team, Away Team, Goals, Goals at Half, etc), and details for events (goals, assists, etc) by athlete.\n\nRecommended Analysis\nDig into attendance data...\nHow has attendance trended over time? (both average per game and total per year)\nDo certain cities tend to draw bigger crowds?\nDo certain teams see larger attendance?\nWhich teams have won the most games? How has number of wins by country trended over time?\n\nBased on the Home Team and Away Team columns, does there seem to be a \"home team advantage\"?\n\nDo any teams seem to be stronger in either the first half or the second half? (think about both offense and defense)\n\nWhich players had the most successful scoring careers? How about the longest careers?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "geospatial analysis",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

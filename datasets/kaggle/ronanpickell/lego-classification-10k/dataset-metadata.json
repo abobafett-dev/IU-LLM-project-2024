@@ -1,0 +1,43 @@
+{
+  "id": "ronanpickell/lego-classification-10k",
+  "id_no": 3049624,
+  "datasetSlugNullable": "lego-classification-10k",
+  "ownerUserNullable": "ronanpickell",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "LEGO Classification 10k",
+  "subtitleNullable": "High Quality Image Classification for the 200 Most Popular LEGO Parts",
+  "descriptionNullable": "Use this data for training custom LEGO object classification models. This highly realistic data is fully synthetic, and attempts to mimic photo-realism as closely as possible.\n\nThese images are in context, meaning objects are set in environments with random floor textures, random lighting conditions, and each image has the possibility of containing other LEGO parts, with occasional obstruction. This creates the opportunity to train an extremely robust model that is exposed to realistic expectations.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8076882%2Fe5993b7a445dfb68c8a6808633fa7418%2Ffull.png?generation=1679848642254129&alt=media)\n\nFEATURES\n\u2714 200 Most Popular LEGO Parts\n\u2714 50 Images Per LEGO Part\n\u2714 10,000 Total Images\n\u2714 64x64 RGB Images\n\u2714 In Context Images\n\nThis data was created through a mixed usage of the Blender Python API alongside many other Python packages including Matplotlib, Pillow, and PyAutoGUI.\n\nFor the full version of this dataset: https://www.kaggle.com/datasets/ronanpickell/b200c-lego-classification-dataset\n\nSpecial Thanks\n\nBrick Architect (https://brickarchitect.com) for knowledge and resources on LEGO parts and colors.\nLDraw (https://www.ldraw.org/) for 3D part models.",
+  "datasetId": 3049624,
+  "datasetSlug": "lego-classification-10k",
+  "hasDatasetSlug": true,
+  "ownerUser": "ronanpickell",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 740,
+  "totalVotes": 6,
+  "totalDownloads": 54,
+  "title": "LEGO Classification 10k",
+  "hasTitle": true,
+  "subtitle": "High Quality Image Classification for the 200 Most Popular LEGO Parts",
+  "hasSubtitle": true,
+  "description": "Use this data for training custom LEGO object classification models. This highly realistic data is fully synthetic, and attempts to mimic photo-realism as closely as possible.\n\nThese images are in context, meaning objects are set in environments with random floor textures, random lighting conditions, and each image has the possibility of containing other LEGO parts, with occasional obstruction. This creates the opportunity to train an extremely robust model that is exposed to realistic expectations.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8076882%2Fe5993b7a445dfb68c8a6808633fa7418%2Ffull.png?generation=1679848642254129&alt=media)\n\nFEATURES\n\u2714 200 Most Popular LEGO Parts\n\u2714 50 Images Per LEGO Part\n\u2714 10,000 Total Images\n\u2714 64x64 RGB Images\n\u2714 In Context Images\n\nThis data was created through a mixed usage of the Blender Python API alongside many other Python packages including Matplotlib, Pillow, and PyAutoGUI.\n\nFor the full version of this dataset: https://www.kaggle.com/datasets/ronanpickell/b200c-lego-classification-dataset\n\nSpecial Thanks\n\nBrick Architect (https://brickarchitect.com) for knowledge and resources on LEGO parts and colors.\nLDraw (https://www.ldraw.org/) for 3D part models.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "intermediate",
+    "image",
+    "multiclass classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

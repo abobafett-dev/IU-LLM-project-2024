@@ -1,0 +1,37 @@
+{
+  "id": "jcyzag/covid19-lockdown-dates-by-country",
+  "id_no": 577109,
+  "datasetSlugNullable": "covid19-lockdown-dates-by-country",
+  "ownerUserNullable": "jcyzag",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "COVID-19 Lockdown dates by country",
+  "subtitleNullable": "A list of countries and the dates that each country went into lockdown.",
+  "descriptionNullable": "### Context\n\nPlease **upvote** the dataset if you find it useful!\n\nNOTE: I have update the data set to match the country &province names to match the country names used in the forecasting competition https://www.kaggle.com/c/covid19-global-forecasting-week-3. \n\nIt is assumed that this data will be useful to help predict or forecast the total numbers of confirmed cases and deaths. A lockdown is started to help retard the spread of the virus. \n\nLet me know if you find any mistakes so I can correct them. \n\n\n\n### Content\n\nThe data was acquired by going through each country that had at least 1 confirmed case. Searching for news articles, wikipedia and government websites to identify when the lockdown was started. A lockdown is assumed when schools/universities and any non-essential businesses are closed. \n\n\n### Inspiration\n\nThere are three main questions this dataset hopes to help try and solve:\n1. provide context to help forecast/predict number of cases\n2. provide context to help forecast/predict number of deaths\n3. identify the effectiveness of a lockdown",
+  "datasetId": 577109,
+  "datasetSlug": "covid19-lockdown-dates-by-country",
+  "hasDatasetSlug": true,
+  "ownerUser": "jcyzag",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 38295,
+  "totalVotes": 61,
+  "totalDownloads": 4284,
+  "title": "COVID-19 Lockdown dates by country",
+  "hasTitle": true,
+  "subtitle": "A list of countries and the dates that each country went into lockdown.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nPlease **upvote** the dataset if you find it useful!\n\nNOTE: I have update the data set to match the country &province names to match the country names used in the forecasting competition https://www.kaggle.com/c/covid19-global-forecasting-week-3. \n\nIt is assumed that this data will be useful to help predict or forecast the total numbers of confirmed cases and deaths. A lockdown is started to help retard the spread of the virus. \n\nLet me know if you find any mistakes so I can correct them. \n\n\n\n### Content\n\nThe data was acquired by going through each country that had at least 1 confirmed case. Searching for news articles, wikipedia and government websites to identify when the lockdown was started. A lockdown is assumed when schools/universities and any non-essential businesses are closed. \n\n\n### Inspiration\n\nThere are three main questions this dataset hopes to help try and solve:\n1. provide context to help forecast/predict number of cases\n2. provide context to help forecast/predict number of deaths\n3. identify the effectiveness of a lockdown",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

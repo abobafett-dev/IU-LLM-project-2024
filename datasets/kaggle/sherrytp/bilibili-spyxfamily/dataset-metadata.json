@@ -1,0 +1,43 @@
+{
+  "id": "sherrytp/bilibili-spyxfamily",
+  "id_no": 2707317,
+  "datasetSlugNullable": "bilibili-spyxfamily",
+  "ownerUserNullable": "sherrytp",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Bilibili Spy X Family",
+  "subtitleNullable": "Spy X Family Comments on Bilibili.com",
+  "descriptionNullable": "### Context\n\n[SPY X Family](https://en.wikipedia.org/wiki/Spy_%C3%97_Family) is an anime television series adaptation produced by Wit Studio and CloverWorks starting April 2022, and the second half premiered in October 2022. \n\n[Bilibili.com](https://www.bilibili.com) is an Internet company based in Shanghai, China, that went IPO on Nasdaq. Many people compare it to Youtube.com, but it definitely adds more with the real-time commenting features and could be a representative of the young generation of Chinese. \n\n### Content\n\nData collected as of December 6, 2022 on Bilibili.com. \nScrapping codes are stored in the gist of my GitHub profile. \n\n### Column Descriptions \nid - Author ID of the review designated by Bilibili\nauthor - Author of the review\ncomment- Review Comment\nlike - Number of likes reacted to this corresponding comment\nunlike - Number of dislikes reacted to this corresponding comment\nstar1-5 to calculate a like score: `icon-star icon-star-light` means the star was lighted, while `icon-star` means the star was not lighted. \n\n**Example**\n \nstar1 = `icon-star icon-star-light` and star2-5 = `icon-star` : score 1 out of 5 \n\nstar1-5 = `icon-star icon-star-light` : score 5 out of 5 \n\n\n### Acknowledgements\nThe comment data is scraped from `https://www.bilibili.com/bangumi/media/md28237119/#short`, and contains only short comments (the long comments are more like a long article about the viewer's thoughts, so they may relate highly to their experience rather than the anime itself). Thanks to Bilibili.com for the copyright of this show and [CSDN](https://www.csdn.net) discussion forum for python scraping assistance. \n\n### Inspiration\nI hope this dataset serves as an interesting NPL topic in anime reviews and foreign language studying. Free to do any data visualization or text analysis on your own. Don't hesitate to ask me questions about the data or share your interesting idea. ) ",
+  "datasetId": 2707317,
+  "datasetSlug": "bilibili-spyxfamily",
+  "hasDatasetSlug": true,
+  "ownerUser": "sherrytp",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1243,
+  "totalVotes": 10,
+  "totalDownloads": 95,
+  "title": "Bilibili Spy X Family",
+  "hasTitle": true,
+  "subtitle": "Spy X Family Comments on Bilibili.com",
+  "hasSubtitle": true,
+  "description": "### Context\n\n[SPY X Family](https://en.wikipedia.org/wiki/Spy_%C3%97_Family) is an anime television series adaptation produced by Wit Studio and CloverWorks starting April 2022, and the second half premiered in October 2022. \n\n[Bilibili.com](https://www.bilibili.com) is an Internet company based in Shanghai, China, that went IPO on Nasdaq. Many people compare it to Youtube.com, but it definitely adds more with the real-time commenting features and could be a representative of the young generation of Chinese. \n\n### Content\n\nData collected as of December 6, 2022 on Bilibili.com. \nScrapping codes are stored in the gist of my GitHub profile. \n\n### Column Descriptions \nid - Author ID of the review designated by Bilibili\nauthor - Author of the review\ncomment- Review Comment\nlike - Number of likes reacted to this corresponding comment\nunlike - Number of dislikes reacted to this corresponding comment\nstar1-5 to calculate a like score: `icon-star icon-star-light` means the star was lighted, while `icon-star` means the star was not lighted. \n\n**Example**\n \nstar1 = `icon-star icon-star-light` and star2-5 = `icon-star` : score 1 out of 5 \n\nstar1-5 = `icon-star icon-star-light` : score 5 out of 5 \n\n\n### Acknowledgements\nThe comment data is scraped from `https://www.bilibili.com/bangumi/media/md28237119/#short`, and contains only short comments (the long comments are more like a long article about the viewer's thoughts, so they may relate highly to their experience rather than the anime itself). Thanks to Bilibili.com for the copyright of this show and [CSDN](https://www.csdn.net) discussion forum for python scraping assistance. \n\n### Inspiration\nI hope this dataset serves as an interesting NPL topic in anime reviews and foreign language studying. Free to do any data visualization or text analysis on your own. Don't hesitate to ask me questions about the data or share your interesting idea. ) ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "recommender systems",
+    "anime and manga",
+    "chinese",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "EU ODP Legal Notice",
+      "name": "EU ODP Legal Notice",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

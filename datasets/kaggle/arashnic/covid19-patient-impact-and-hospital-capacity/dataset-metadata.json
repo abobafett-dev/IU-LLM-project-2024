@@ -1,0 +1,40 @@
+{
+  "id": "arashnic/covid19-patient-impact-and-hospital-capacity",
+  "id_no": 1035597,
+  "datasetSlugNullable": "covid19-patient-impact-and-hospital-capacity",
+  "ownerUserNullable": "arashnic",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "COVID-19 Patient Impact and Hospital Capacity ",
+  "subtitleNullable": "Discover facility-level granularity in hospitals during the pandemic",
+  "descriptionNullable": "\n### Content\n\nThis dataset provides facility-level data for hospital utilization aggregated on a weekly basis (Friday to Thursday). These are derived from reports with facility-level granularity across two main sources: (1) HHS TeleTracking, and (2) reporting provided directly to HHS Protect by state/territorial health departments on behalf of their healthcare facilities.\n\nThe hospital population includes all hospitals registered with Centers for Medicare & Medicaid Services (CMS) as of June 1, 2020. It includes non-CMS hospitals that have reported since July 15, 2020. It does not include psychiatric, rehabilitation, Indian Health Service (IHS) facilities, U.S. Department of Veterans Affairs (VA) facilities, Defense Health Agency (DHA) facilities, and religious non-medical facilities.\n\nFor a given entry, the term \u201ccollection_week\u201d signifies the start of the period that is aggregated. For example, a \u201ccollection_week\u201d of 2020-11-20 means the average/sum/coverage of the elements captured from that given facility starting and including Friday, November 20, 2020, and ending and including reports for Thursday, November 26, 2020.\n\nReported elements include an append of either \u201c_coverage\u201d, \u201c_sum\u201d, or \u201c_avg\u201d.\n\n- A \u201c_coverage\u201d append denotes how many times the facility reported that element during that collection week.\n- A \u201c_sum\u201d append denotes the sum of the reports provided for that facility for that element during that collection week.\n- A \u201c_avg\u201d append is the average of the reports provided for that facility for that element during that collection week.\n#    \nThe file will be updated weekly. No statistical analysis is applied to impute non-response. For averages, calculations are based on the number of values collected for a given hospital in that collection week. Suppression is applied to the file for sums and averages less than four (4). In these cases, the field will be replaced with \u201c-999,999\u201d.\n\nThis data is preliminary and subject to change as more data become available. Data is available starting on July 31, 2020.\n\nSometimes, reports for a given facility will be provided to both HHS TeleTracking and HHS Protect. When this occurs, to ensure that there are not duplicate reports, deduplication is applied according to prioritization rules within HHS Protect.\n\n##### *[Data Dictionary](https://healthdata.gov/covid-19-reported-patient-impact-and-hospital-capacity-facility-data-dictionary)*\n\n\n\n\n### Acknowledgements\n\nThe data provided by HealthData.gov. On this site, you can find data on a wide range of topics, including environmental health, medical devices, Medicare & Medicaid, social services, community health, mental health, and substance abuse.\n\n\n### Inspiration\n\n-Covid-19 research",
+  "datasetId": 1035597,
+  "datasetSlug": "covid19-patient-impact-and-hospital-capacity",
+  "hasDatasetSlug": true,
+  "ownerUser": "arashnic",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 2908,
+  "totalVotes": 5,
+  "totalDownloads": 173,
+  "title": "COVID-19 Patient Impact and Hospital Capacity ",
+  "hasTitle": true,
+  "subtitle": "Discover facility-level granularity in hospitals during the pandemic",
+  "hasSubtitle": true,
+  "description": "\n### Content\n\nThis dataset provides facility-level data for hospital utilization aggregated on a weekly basis (Friday to Thursday). These are derived from reports with facility-level granularity across two main sources: (1) HHS TeleTracking, and (2) reporting provided directly to HHS Protect by state/territorial health departments on behalf of their healthcare facilities.\n\nThe hospital population includes all hospitals registered with Centers for Medicare & Medicaid Services (CMS) as of June 1, 2020. It includes non-CMS hospitals that have reported since July 15, 2020. It does not include psychiatric, rehabilitation, Indian Health Service (IHS) facilities, U.S. Department of Veterans Affairs (VA) facilities, Defense Health Agency (DHA) facilities, and religious non-medical facilities.\n\nFor a given entry, the term \u201ccollection_week\u201d signifies the start of the period that is aggregated. For example, a \u201ccollection_week\u201d of 2020-11-20 means the average/sum/coverage of the elements captured from that given facility starting and including Friday, November 20, 2020, and ending and including reports for Thursday, November 26, 2020.\n\nReported elements include an append of either \u201c_coverage\u201d, \u201c_sum\u201d, or \u201c_avg\u201d.\n\n- A \u201c_coverage\u201d append denotes how many times the facility reported that element during that collection week.\n- A \u201c_sum\u201d append denotes the sum of the reports provided for that facility for that element during that collection week.\n- A \u201c_avg\u201d append is the average of the reports provided for that facility for that element during that collection week.\n#    \nThe file will be updated weekly. No statistical analysis is applied to impute non-response. For averages, calculations are based on the number of values collected for a given hospital in that collection week. Suppression is applied to the file for sums and averages less than four (4). In these cases, the field will be replaced with \u201c-999,999\u201d.\n\nThis data is preliminary and subject to change as more data become available. Data is available starting on July 31, 2020.\n\nSometimes, reports for a given facility will be provided to both HHS TeleTracking and HHS Protect. When this occurs, to ensure that there are not duplicate reports, deduplication is applied according to prioritization rules within HHS Protect.\n\n##### *[Data Dictionary](https://healthdata.gov/covid-19-reported-patient-impact-and-hospital-capacity-facility-data-dictionary)*\n\n\n\n\n### Acknowledgements\n\nThe data provided by HealthData.gov. On this site, you can find data on a wide range of topics, including environmental health, medical devices, Medicare & Medicaid, social services, community health, mental health, and substance abuse.\n\n\n### Inspiration\n\n-Covid-19 research",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "hospitals and treatment centers"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

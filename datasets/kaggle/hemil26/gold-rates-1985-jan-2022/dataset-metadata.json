@@ -1,0 +1,43 @@
+{
+  "id": "hemil26/gold-rates-1985-jan-2022",
+  "id_no": 1894833,
+  "datasetSlugNullable": "gold-rates-1985-jan-2022",
+  "ownerUserNullable": "hemil26",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Gold rates (1985 - Present)",
+  "subtitleNullable": "Gold rates of six major countries(India, US, UAE, China, Europe, Great Britain)",
+  "descriptionNullable": "### Context\n\nGold rates differ from place to place, here is the dataset which included major six countries' Gold rates. This data can also be viewed as a Time Series data.\n\n\n\n### Content\n\nThis dataset contains two csv files - \n-**Daily gold rates** : which includes daily data of gold rates from 1st Jan 1985 to 8th September 2023\n-**Annual average gold rates** : this file includes average annual gold rate in their national currency from 1978 to 2021\n-The rates are in their national currencies and per troy ounce\n-Currencies included are USD, INR, AED, EUR, GBP, CNY\n\n### Acknowledgements\n\nThis data was collected from [https://www.gold.org/goldhub](https://www.gold.org/goldhub) and then cleaned.\nBanner by [Unsplash](https://unsplash.com/photos/xXq_6_Kwysc)\n\n\n### Inspiration\n\n**Things which can be done with this data:**\n- Time series analysis and prediction\n- EDA and Visualization of the gold rates \n- Country that has highest and lowest rate in their national currency (Latest Years)\n\n",
+  "datasetId": 1894833,
+  "datasetSlug": "gold-rates-1985-jan-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "hemil26",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 18632,
+  "totalVotes": 109,
+  "totalDownloads": 3540,
+  "title": "Gold rates (1985 - Present)",
+  "hasTitle": true,
+  "subtitle": "Gold rates of six major countries(India, US, UAE, China, Europe, Great Britain)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nGold rates differ from place to place, here is the dataset which included major six countries' Gold rates. This data can also be viewed as a Time Series data.\n\n\n\n### Content\n\nThis dataset contains two csv files - \n-**Daily gold rates** : which includes daily data of gold rates from 1st Jan 1985 to 8th September 2023\n-**Annual average gold rates** : this file includes average annual gold rate in their national currency from 1978 to 2021\n-The rates are in their national currencies and per troy ounce\n-Currencies included are USD, INR, AED, EUR, GBP, CNY\n\n### Acknowledgements\n\nThis data was collected from [https://www.gold.org/goldhub](https://www.gold.org/goldhub) and then cleaned.\nBanner by [Unsplash](https://unsplash.com/photos/xXq_6_Kwysc)\n\n\n### Inspiration\n\n**Things which can be done with this data:**\n- Time series analysis and prediction\n- EDA and Visualization of the gold rates \n- Country that has highest and lowest rate in their national currency (Latest Years)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "beginner",
+    "intermediate",
+    "tabular",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

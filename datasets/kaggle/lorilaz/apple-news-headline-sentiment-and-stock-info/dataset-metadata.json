@@ -1,0 +1,40 @@
+{
+  "id": "lorilaz/apple-news-headline-sentiment-and-stock-info",
+  "id_no": 1286566,
+  "datasetSlugNullable": "apple-news-headline-sentiment-and-stock-info",
+  "ownerUserNullable": "lorilaz",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Apple News Headline Sentiment and Stock info",
+  "subtitleNullable": "Daily Stock Price and Sentiment Compound score 2006-2016",
+  "descriptionNullable": "This dataset was compiled using information from the Apple Bidec dataset here: https://www.kaggle.com/BidecInnovations/stock-price-and-news-realted-to-it/\n\nWhat differs in this dataset is that I noticed some discrepancies in the Stock information contained in the original Bidec dataset.  In this dataset I have retained the Compound Score from the original Bidec dataset and combined this with the stock information from Yahoo! Finance.  In addition to the Yahoo! figures being more accurate and accounting for stock splits, the dataset now also contains the Volume feature which was not contained in the original Bidec Dataset.\n\nIf you would like to see the actual Headlines that were fed into the Vader/NLTK to get the sentiment, you can view this information on the URL I reference above and going to the original dataset.\n\nColumns:\nDate\ncompound - The Compound score is a metric that calculates the sum of all the lexicon ratings which have been normalized between -1(most extreme negative) and +1 (most extreme positive).\nLow - lowest stock price of the day\nOpen - price stock opened at\nVolume - volume of shares traded\nHigh - highest stock price of the day\nClose - Closing price\nAdjusted Close - The adjusted closing price amends a stock's closing price to reflect that stock's value after accounting for any corporate actions.",
+  "datasetId": 1286566,
+  "datasetSlug": "apple-news-headline-sentiment-and-stock-info",
+  "hasDatasetSlug": true,
+  "ownerUser": "lorilaz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 3214,
+  "totalVotes": 1,
+  "totalDownloads": 131,
+  "title": "Apple News Headline Sentiment and Stock info",
+  "hasTitle": true,
+  "subtitle": "Daily Stock Price and Sentiment Compound score 2006-2016",
+  "hasSubtitle": true,
+  "description": "This dataset was compiled using information from the Apple Bidec dataset here: https://www.kaggle.com/BidecInnovations/stock-price-and-news-realted-to-it/\n\nWhat differs in this dataset is that I noticed some discrepancies in the Stock information contained in the original Bidec dataset.  In this dataset I have retained the Compound Score from the original Bidec dataset and combined this with the stock information from Yahoo! Finance.  In addition to the Yahoo! figures being more accurate and accounting for stock splits, the dataset now also contains the Volume feature which was not contained in the original Bidec Dataset.\n\nIf you would like to see the actual Headlines that were fed into the Vader/NLTK to get the sentiment, you can view this information on the URL I reference above and going to the original dataset.\n\nColumns:\nDate\ncompound - The Compound score is a metric that calculates the sum of all the lexicon ratings which have been normalized between -1(most extreme negative) and +1 (most extreme positive).\nLow - lowest stock price of the day\nOpen - price stock opened at\nVolume - volume of shares traded\nHigh - highest stock price of the day\nClose - Closing price\nAdjusted Close - The adjusted closing price amends a stock's closing price to reflect that stock's value after accounting for any corporate actions.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "science and technology",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "notkrishna/goodreads-top-100-classical-books-of-all-time",
+  "id_no": 1787944,
+  "datasetSlugNullable": "goodreads-top-100-classical-books-of-all-time",
+  "ownerUserNullable": "notkrishna",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Goodreads Top 100 Classics",
+  "subtitleNullable": "These are the top 25 of that list as compiled by Entertainment Weekly.",
+  "descriptionNullable": "### Context\n\nThese are the top 25 of that list as compiled by Entertainment Weekly. All had to have been published in the last 25 years (1983-2008). Add more, vote for your favorites, or tell us where they went wrong!\n\nBeing an avid book reader and a member of goodreads.com, I always wanted to combine my love for data and books. So here's goodreads top 100 classics in the last 25 years.\n\n\n### Content\n\nThe data was acquired by scrapping [goodreads.com](goodreads.com). Goodreads is an American social cataloging website and a subsidiary of Amazon that allows individuals to search its database of books, annotations, quotes, and reviews. Users can sign up and register books to generate library catalogs and reading lists. It's one of the biggest community for readers with books ranging from classics to more new releases. \n\nI have been part of this community for a long time and wanted to share this data with you kaggle community to see their work.\n\n\n### Acknowledgements\nSource:\n[Goodreads Top 100 classics](https://www.goodreads.com/list/show/1324.Top_100_New_Classics)\n### Inspiration\n\nYour data will be in front of the world's largest readers' community. What questions do you want to see answered?",
+  "datasetId": 1787944,
+  "datasetSlug": "goodreads-top-100-classical-books-of-all-time",
+  "hasDatasetSlug": true,
+  "ownerUser": "notkrishna",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3666,
+  "totalVotes": 16,
+  "totalDownloads": 383,
+  "title": "Goodreads Top 100 Classics",
+  "hasTitle": true,
+  "subtitle": "These are the top 25 of that list as compiled by Entertainment Weekly.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThese are the top 25 of that list as compiled by Entertainment Weekly. All had to have been published in the last 25 years (1983-2008). Add more, vote for your favorites, or tell us where they went wrong!\n\nBeing an avid book reader and a member of goodreads.com, I always wanted to combine my love for data and books. So here's goodreads top 100 classics in the last 25 years.\n\n\n### Content\n\nThe data was acquired by scrapping [goodreads.com](goodreads.com). Goodreads is an American social cataloging website and a subsidiary of Amazon that allows individuals to search its database of books, annotations, quotes, and reviews. Users can sign up and register books to generate library catalogs and reading lists. It's one of the biggest community for readers with books ranging from classics to more new releases. \n\nI have been part of this community for a long time and wanted to share this data with you kaggle community to see their work.\n\n\n### Acknowledgements\nSource:\n[Goodreads Top 100 classics](https://www.goodreads.com/list/show/1324.Top_100_New_Classics)\n### Inspiration\n\nYour data will be in front of the world's largest readers' community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "beginner",
+    "exploratory data analysis",
+    "statistical analysis",
+    "text",
+    "matplotlib"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

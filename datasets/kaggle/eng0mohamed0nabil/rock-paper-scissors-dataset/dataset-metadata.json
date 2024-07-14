@@ -1,0 +1,44 @@
+{
+  "id": "eng0mohamed0nabil/rock-paper-scissors-dataset",
+  "id_no": 813760,
+  "datasetSlugNullable": "rock-paper-scissors-dataset",
+  "ownerUserNullable": "eng0mohamed0nabil",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Rock Paper Scissors dataset",
+  "subtitleNullable": "Rock Paper Scissors dataset",
+  "descriptionNullable": "This dataset refers to rock , paper and scissors game with different shapes and colors of hands . It contains three files:\n1. first file for training \n2. second file for testing \n3. third file for validation",
+  "datasetId": 813760,
+  "datasetSlug": "rock-paper-scissors-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "eng0mohamed0nabil",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4415,
+  "totalVotes": 9,
+  "totalDownloads": 189,
+  "title": "Rock Paper Scissors dataset",
+  "hasTitle": true,
+  "subtitle": "Rock Paper Scissors dataset",
+  "hasSubtitle": true,
+  "description": "This dataset refers to rock , paper and scissors game with different shapes and colors of hands . It contains three files:\n1. first file for training \n2. second file for testing \n3. third file for validation",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "deep learning",
+    "dnn",
+    "cnn",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 3.0 Unported (CC BY 3.0)",
+      "name": "Attribution 3.0 Unported (CC BY 3.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

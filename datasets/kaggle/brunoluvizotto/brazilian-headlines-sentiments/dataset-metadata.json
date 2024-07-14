@@ -1,0 +1,39 @@
+{
+  "id": "brunoluvizotto/brazilian-headlines-sentiments",
+  "id_no": 743837,
+  "datasetSlugNullable": "brazilian-headlines-sentiments",
+  "ownerUserNullable": "brunoluvizotto",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Brazilian Headlines Sentiments",
+  "subtitleNullable": "Analyzing sentiments of news agencies headlines with a scraper",
+  "descriptionNullable": "### Context\n\nThe political environment in Brazil has been extremely active in the last few years. News agencies are facing accusations of protecting some people or acting against other people, depending on their political orientation. The sentiment analysis in this dataset may be used to identify which news agencies are more or less friendly to which politicians.\n\n\n### Content\n\nI developed a scraper that scrapes multiple Brazilian news agencies websites every half an hour for the headlines containing some keywords. Then it translates the headlines to English (the original headlines are in Portuguese) and analyzes the headlines sentiments using Google's Natural Language API (both in Portuguese and English) and stores the results into a database. It also has a \"onlineStartDate\" (the datetime when the headline has been seen online for the first time), a \"onlineEndDate\" (the datetime when the headline was last seen online), a \"onlineTotalTimeMS\" (total online time in milliseconds) and a \"isOnline\" columns. This database is used to create this dataset.\n\nI strongly recommend using the English sentiment analysis, since the sentiment analysis API seems to work much better in English than in Portuguese. I may redo the sentiment analysis once the Portuguese API is more reliable.\n\nCurrently, the websites being collected are (they started being collected in different dates):\nUOL: https://www.uol.com.br/\nFolha de S\u00e3o Paulo: https://www.folha.uol.com.br/\nO Antagonista: https://www.oantagonista.com/\nG1: https://g1.globo.com/\nR7: https://www.r7.com/\nSenso Incomum: https://www.sensoincomum.org\nTer\u00e7a Livre: https://www.tercalivre.com.br/\n\nAnd the keywords are (the president, former presidents, governors, ministers, former ministers and possible candidates for mayor of S\u00e3o Paulo and Rio de Janeiro):\nBolsonaro, Moro, Lula, Wagner Ros\u00e1rio, Guedes, Freixo, Weintraub, Doria, Orlando Silva, Osmar Terra, Marsili, Salles, Covas, Campos Neto, Eduardo Paes, Russomano, Onyx, Lorenzoni, Tereza Cristina, Azevedo, Mandetta, Heleno, Fred Luz, Hasselmann, M\u00e1rcio Fran\u00e7a, Boulos, Levi, Bebianno, Andr\u00e9 Mendon\u00e7a, Marcos Pontes, Clarissa Garotinho, Teich, Sabar\u00e1, Damares, Ernesto Ara\u00fajo, Braga Netto, Regina Duarte, Crivella and Rodrigo Amorim\n\n\n### Inspiration\n\nIt would be great to see which news agencies are more or less friendly to which politicians and if the news agencies publish positive or negative headlines at night, or during the day. Or during weekdays or weekends.\nIf the headlines are displayed for more or less time depending on the sentiment. Or after some negative fact, which agencies \"forget\" to talk about the fact.\nWordclouds might also be fun.",
+  "datasetId": 743837,
+  "datasetSlug": "brazilian-headlines-sentiments",
+  "hasDatasetSlug": true,
+  "ownerUser": "brunoluvizotto",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 3719,
+  "totalVotes": 9,
+  "totalDownloads": 120,
+  "title": "Brazilian Headlines Sentiments",
+  "hasTitle": true,
+  "subtitle": "Analyzing sentiments of news agencies headlines with a scraper",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe political environment in Brazil has been extremely active in the last few years. News agencies are facing accusations of protecting some people or acting against other people, depending on their political orientation. The sentiment analysis in this dataset may be used to identify which news agencies are more or less friendly to which politicians.\n\n\n### Content\n\nI developed a scraper that scrapes multiple Brazilian news agencies websites every half an hour for the headlines containing some keywords. Then it translates the headlines to English (the original headlines are in Portuguese) and analyzes the headlines sentiments using Google's Natural Language API (both in Portuguese and English) and stores the results into a database. It also has a \"onlineStartDate\" (the datetime when the headline has been seen online for the first time), a \"onlineEndDate\" (the datetime when the headline was last seen online), a \"onlineTotalTimeMS\" (total online time in milliseconds) and a \"isOnline\" columns. This database is used to create this dataset.\n\nI strongly recommend using the English sentiment analysis, since the sentiment analysis API seems to work much better in English than in Portuguese. I may redo the sentiment analysis once the Portuguese API is more reliable.\n\nCurrently, the websites being collected are (they started being collected in different dates):\nUOL: https://www.uol.com.br/\nFolha de S\u00e3o Paulo: https://www.folha.uol.com.br/\nO Antagonista: https://www.oantagonista.com/\nG1: https://g1.globo.com/\nR7: https://www.r7.com/\nSenso Incomum: https://www.sensoincomum.org\nTer\u00e7a Livre: https://www.tercalivre.com.br/\n\nAnd the keywords are (the president, former presidents, governors, ministers, former ministers and possible candidates for mayor of S\u00e3o Paulo and Rio de Janeiro):\nBolsonaro, Moro, Lula, Wagner Ros\u00e1rio, Guedes, Freixo, Weintraub, Doria, Orlando Silva, Osmar Terra, Marsili, Salles, Covas, Campos Neto, Eduardo Paes, Russomano, Onyx, Lorenzoni, Tereza Cristina, Azevedo, Mandetta, Heleno, Fred Luz, Hasselmann, M\u00e1rcio Fran\u00e7a, Boulos, Levi, Bebianno, Andr\u00e9 Mendon\u00e7a, Marcos Pontes, Clarissa Garotinho, Teich, Sabar\u00e1, Damares, Ernesto Ara\u00fajo, Braga Netto, Regina Duarte, Crivella and Rodrigo Amorim\n\n\n### Inspiration\n\nIt would be great to see which news agencies are more or less friendly to which politicians and if the news agencies publish positive or negative headlines at night, or during the day. Or during weekdays or weekends.\nIf the headlines are displayed for more or less time depending on the sentiment. Or after some negative fact, which agencies \"forget\" to talk about the fact.\nWordclouds might also be fun.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

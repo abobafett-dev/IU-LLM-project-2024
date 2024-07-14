@@ -1,0 +1,43 @@
+{
+  "id": "krupadharamshi/mobile-data",
+  "id_no": 5017817,
+  "datasetSlugNullable": "mobile-data",
+  "ownerUserNullable": "krupadharamshi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Mobile data",
+  "subtitleNullable": "Mobile Data Analysis: Exploring X, Y, and Z Metrics",
+  "descriptionNullable": "This dataset comprises three variables, labeled X, Y, and Z, representing various mobile metrics. With numerical values spanning a range. Due to its simplicity and straightforward structure, this dataset is suitable for basic regression or clustering models. It's simplicity, featuring just three numerical columns, is perfect for beginners to grasp basic data analysis concepts quickly. Its straightforward structure allows newcomers to practice essential statistical techniques with ease, fostering a solid foundation in data exploration and interpretation.",
+  "datasetId": 5017817,
+  "datasetSlug": "mobile-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "krupadharamshi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2180,
+  "totalVotes": 13,
+  "totalDownloads": 223,
+  "title": "Mobile data",
+  "hasTitle": true,
+  "subtitle": "Mobile Data Analysis: Exploring X, Y, and Z Metrics",
+  "hasSubtitle": true,
+  "description": "This dataset comprises three variables, labeled X, Y, and Z, representing various mobile metrics. With numerical values spanning a range. Due to its simplicity and straightforward structure, this dataset is suitable for basic regression or clustering models. It's simplicity, featuring just three numerical columns, is perfect for beginners to grasp basic data analysis concepts quickly. Its straightforward structure allows newcomers to practice essential statistical techniques with ease, fostering a solid foundation in data exploration and interpretation.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data visualization",
+    "time series analysis",
+    "clustering",
+    "linear regression",
+    "matplotlib"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

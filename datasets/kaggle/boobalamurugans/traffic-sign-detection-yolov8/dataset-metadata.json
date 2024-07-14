@@ -1,0 +1,37 @@
+{
+  "id": "boobalamurugans/traffic-sign-detection-yolov8",
+  "id_no": 4425131,
+  "datasetSlugNullable": "traffic-sign-detection-yolov8",
+  "ownerUserNullable": "boobalamurugans",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Traffic-sign-detection-YOLOV8",
+  "subtitleNullable": "",
+  "descriptionNullable": "# Traffic Sign Detection Dataset\n\nThis dataset is designed for training and evaluating a YOLOv8-based model for traffic sign detection. Traffic sign detection is a crucial task in autonomous driving systems, advanced driver-assistance systems (ADAS), and smart city applications. This dataset aims to provide a comprehensive collection of annotated images for various types of traffic signs commonly found in urban and highway environments.",
+  "datasetId": 4425131,
+  "datasetSlug": "traffic-sign-detection-yolov8",
+  "hasDatasetSlug": true,
+  "ownerUser": "boobalamurugans",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 170,
+  "totalVotes": 1,
+  "totalDownloads": 31,
+  "title": "Traffic-sign-detection-YOLOV8",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "# Traffic Sign Detection Dataset\n\nThis dataset is designed for training and evaluating a YOLOv8-based model for traffic sign detection. Traffic sign detection is a crucial task in autonomous driving systems, advanced driver-assistance systems (ADAS), and smart city applications. This dataset aims to provide a comprehensive collection of annotated images for various types of traffic signs commonly found in urban and highway environments.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

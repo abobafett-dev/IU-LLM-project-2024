@@ -1,0 +1,44 @@
+{
+  "id": "kaballa/cryptoner-ml-model",
+  "id_no": 2880263,
+  "datasetSlugNullable": "cryptoner-ml-model",
+  "ownerUserNullable": "kaballa",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Crypto Headlines + NER Model",
+  "subtitleNullable": "Named Entity Recognition Model trained on Crypto News from Newspapers",
+  "descriptionNullable": "Over 26,000 headlines from dozens of different newspapers about blockchain and cryptocurrency-related topics.\nThe .csv file includes data about all articles. Sort language column by \"en\" or \"de\" to filter.\n\nThe dataset also contains .spacy files with labelled data to train a named entity recognition model with the entities: Person, Organisation and Cryptocurrencies. \n\n![Sources](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F13576312%2Fb4db9811f9f2aeb6f7c3f5915dd918aa%2FNews-Scraper-Crypto-MongoDB-Charts.png?generation=1678209384283020&alt=media)",
+  "datasetId": 2880263,
+  "datasetSlug": "cryptoner-ml-model",
+  "hasDatasetSlug": true,
+  "ownerUser": "kaballa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 866,
+  "totalVotes": 1,
+  "totalDownloads": 118,
+  "title": "Crypto Headlines + NER Model",
+  "hasTitle": true,
+  "subtitle": "Named Entity Recognition Model trained on Crypto News from Newspapers",
+  "hasSubtitle": true,
+  "description": "Over 26,000 headlines from dozens of different newspapers about blockchain and cryptocurrency-related topics.\nThe .csv file includes data about all articles. Sort language column by \"en\" or \"de\" to filter.\n\nThe dataset also contains .spacy files with labelled data to train a named entity recognition model with the entities: Person, Organisation and Cryptocurrencies. \n\n![Sources](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F13576312%2Fb4db9811f9f2aeb6f7c3f5915dd918aa%2FNews-Scraper-Crypto-MongoDB-Charts.png?generation=1678209384283020&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "spaCy",
+    "currencies and foreign exchange",
+    "multilabel classification",
+    "english",
+    "german"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

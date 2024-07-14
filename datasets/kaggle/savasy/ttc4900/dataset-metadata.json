@@ -1,0 +1,40 @@
+{
+  "id": "savasy/ttc4900",
+  "id_no": 7603,
+  "datasetSlugNullable": "ttc4900",
+  "ownerUserNullable": "savasy",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "A Benchmark Data for Turkish Text Categorization",
+  "subtitleNullable": "Turkish Text News Corpus",
+  "descriptionNullable": "### Context\n\nThe data set is taken from kemik group \nhttp://www.kemik.yildiz.edu.tr/\nThe data are pre-processed for the text categorization, collocations are found, character set is corrected, and so forth. \nWe named TTC4900 by mimicking the name convention of TTC 3600 dataset shared by the study http://journals.sagepub.com/doi/abs/10.1177/0165551515620551\n\nIf you use the dataset in a paper,  please refer https://www.kaggle.com/savasy/ttc4900 as footnote and cite one of the papers as follows:\n\n* A Comparison of Different Approaches to Document Representation in Turkish Language, SDU Journal of Natural and Applied Science, Vol 22, Issue 2, 2018\n* A comparative analysis of text classification for Turkish language, Pamukkale University Journal of Engineering Science Volume 25 Issue 5, 2018 \n* A Knowledge-poor Approach to Turkish Text Categorization with a Comparative Analysis, Proceedings of CICLING 2014, Springer LNCS, Nepal, 2014.\n\n### Content\nEach row represents the documents, and the categories\n\n### Acknowledgements\nThanks to kemik group, \n\n### Inspiration\n\nText Categorization,  BOW, LSI, Deep Learning Approaches are the techniques to be applied",
+  "datasetId": 7603,
+  "datasetSlug": "ttc4900",
+  "hasDatasetSlug": true,
+  "ownerUser": "savasy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 27304,
+  "totalVotes": 43,
+  "totalDownloads": 3287,
+  "title": "A Benchmark Data for Turkish Text Categorization",
+  "hasTitle": true,
+  "subtitle": "Turkish Text News Corpus",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe data set is taken from kemik group \nhttp://www.kemik.yildiz.edu.tr/\nThe data are pre-processed for the text categorization, collocations are found, character set is corrected, and so forth. \nWe named TTC4900 by mimicking the name convention of TTC 3600 dataset shared by the study http://journals.sagepub.com/doi/abs/10.1177/0165551515620551\n\nIf you use the dataset in a paper,  please refer https://www.kaggle.com/savasy/ttc4900 as footnote and cite one of the papers as follows:\n\n* A Comparison of Different Approaches to Document Representation in Turkish Language, SDU Journal of Natural and Applied Science, Vol 22, Issue 2, 2018\n* A comparative analysis of text classification for Turkish language, Pamukkale University Journal of Engineering Science Volume 25 Issue 5, 2018 \n* A Knowledge-poor Approach to Turkish Text Categorization with a Comparative Analysis, Proceedings of CICLING 2014, Springer LNCS, Nepal, 2014.\n\n### Content\nEach row represents the documents, and the categories\n\n### Acknowledgements\nThanks to kemik group, \n\n### Inspiration\n\nText Categorization,  BOW, LSI, Deep Learning Approaches are the techniques to be applied",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

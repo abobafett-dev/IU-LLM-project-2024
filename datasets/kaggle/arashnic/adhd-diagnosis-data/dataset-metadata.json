@@ -1,0 +1,43 @@
+{
+  "id": "arashnic/adhd-diagnosis-data",
+  "id_no": 4418975,
+  "datasetSlugNullable": "adhd-diagnosis-data",
+  "ownerUserNullable": "arashnic",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "ADHD Diagnosis Data",
+  "subtitleNullable": "Health, activity, and heart rate data from adult patients diagnosed with ADHD",
+  "descriptionNullable": "HYPERAKTIV is a public dataset containing health, activity, andheart rate data from adult patients diagnosed with attention deficit hyperactivity disorder, better known as ADHD. The dataset consists of data collected from 51 patients with ADHD and 52 clinical-controls. In addition to the activity and heart rate data,  also includes a series of patient attributes such as their age, sex, and information about their mental state, as well as output data from a computerized neuropsychological test.\n\n\n\n**Dataset structure**\n\nThe dataset is organized into four different items that can be found in the root directory. The directory activity_data contains the activity data collected from all participants, organized into separate files. Each file starts with few lines of metadata before the activity measurements start. The directory hrv_data contains the heart rate data collected from all participants, and like the activity data, it is separated into one file per participant. Each file starts\nwith two lines of metadata before the IBI values start. The file CPT_II_ConnersContinuousPerformanceTest.csv contains the individual responses of the 360 CPT-II test trials, the omission and commission errors, and the ADHD Confidence Index. The file names features.csv contains the pre-extracted features used to perform the experiments presented in Section 7. Each line in the file corresponds to features for a single participant. Lastly, the file patient_info.csv contains all the information featured in Section 4. The file consists of 32 different columns, where each line corresponds to features for a single participant.[More...](https://dl.acm.org/doi/pdf/10.1145/3458305.3478454)\n\n\n**Dataset details**\n\nThe dataset  contains **time series** of motor activity and heart rate, output from a neuropsychological computer test, the conclusions and sum scores of various diagnostic assessment tools, as well as the participant\u2019s sex, age, and prescribed medications. Sex is given as zero (female) and one (male). Participant ages are presented in four groups, where 1 = 17-29 years, 2 = 30-39 years, 3 = 40-49 years and 4 = 50-67 years. Of the 85 patients that recorded motor activity, 23 patients belonged to age group 1, 26 patients to age group 2, 24 to age group 3, and\n12 to age group 4. The majority of the participants were not on medications. Among the participants diagnosed with ADHD who provided motor activity recordings, 73 percent were not medicated and only one individual was prescribed stimulants.[More...](https://dl.acm.org/doi/pdf/10.1145/3458305.3478454)\n\n**Acknowledgement**\n\nSteven Alexander Hicks et al. [HYPERAKTIV: An Activity Dataset from Adult Patients with\nAttention-Deficit/Hyperactivity Disorder (ADHD)](https://dl.acm.org/doi/pdf/10.1145/3458305.3478454)\n\n  \n\n",
+  "datasetId": 4418975,
+  "datasetSlug": "adhd-diagnosis-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "arashnic",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 7078,
+  "totalVotes": 17,
+  "totalDownloads": 820,
+  "title": "ADHD Diagnosis Data",
+  "hasTitle": true,
+  "subtitle": "Health, activity, and heart rate data from adult patients diagnosed with ADHD",
+  "hasSubtitle": true,
+  "description": "HYPERAKTIV is a public dataset containing health, activity, andheart rate data from adult patients diagnosed with attention deficit hyperactivity disorder, better known as ADHD. The dataset consists of data collected from 51 patients with ADHD and 52 clinical-controls. In addition to the activity and heart rate data,  also includes a series of patient attributes such as their age, sex, and information about their mental state, as well as output data from a computerized neuropsychological test.\n\n\n\n**Dataset structure**\n\nThe dataset is organized into four different items that can be found in the root directory. The directory activity_data contains the activity data collected from all participants, organized into separate files. Each file starts with few lines of metadata before the activity measurements start. The directory hrv_data contains the heart rate data collected from all participants, and like the activity data, it is separated into one file per participant. Each file starts\nwith two lines of metadata before the IBI values start. The file CPT_II_ConnersContinuousPerformanceTest.csv contains the individual responses of the 360 CPT-II test trials, the omission and commission errors, and the ADHD Confidence Index. The file names features.csv contains the pre-extracted features used to perform the experiments presented in Section 7. Each line in the file corresponds to features for a single participant. Lastly, the file patient_info.csv contains all the information featured in Section 4. The file consists of 32 different columns, where each line corresponds to features for a single participant.[More...](https://dl.acm.org/doi/pdf/10.1145/3458305.3478454)\n\n\n**Dataset details**\n\nThe dataset  contains **time series** of motor activity and heart rate, output from a neuropsychological computer test, the conclusions and sum scores of various diagnostic assessment tools, as well as the participant\u2019s sex, age, and prescribed medications. Sex is given as zero (female) and one (male). Participant ages are presented in four groups, where 1 = 17-29 years, 2 = 30-39 years, 3 = 40-49 years and 4 = 50-67 years. Of the 85 patients that recorded motor activity, 23 patients belonged to age group 1, 26 patients to age group 2, 24 to age group 3, and\n12 to age group 4. The majority of the participants were not on medications. Among the participants diagnosed with ADHD who provided motor activity recordings, 73 percent were not medicated and only one individual was prescribed stimulants.[More...](https://dl.acm.org/doi/pdf/10.1145/3458305.3478454)\n\n**Acknowledgement**\n\nSteven Alexander Hicks et al. [HYPERAKTIV: An Activity Dataset from Adult Patients with\nAttention-Deficit/Hyperactivity Disorder (ADHD)](https://dl.acm.org/doi/pdf/10.1145/3458305.3478454)\n\n  \n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "health",
+    "advanced",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

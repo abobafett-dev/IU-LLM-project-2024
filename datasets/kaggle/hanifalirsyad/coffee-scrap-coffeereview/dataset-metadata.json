@@ -1,0 +1,43 @@
+{
+  "id": "hanifalirsyad/coffee-scrap-coffeereview",
+  "id_no": 2614018,
+  "datasetSlugNullable": "coffee-scrap-coffeereview",
+  "ownerUserNullable": "hanifalirsyad",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Coffee_Data_CoffeeReview",
+  "subtitleNullable": "Web Scraping Coffee Review for Recommender System or Predictive Analytics",
+  "descriptionNullable": "Scraping data using python. in this dataset I took data from the website www.coffeereview.com\n\nThis dataset has not been preprocessed, so we still need to perform exploratory data analysis.\n\nThis data will be used to model a recommendation system or predictive analysis based on columns['aroma','sour','body','flavor','aftertaste'].",
+  "datasetId": 2614018,
+  "datasetSlug": "coffee-scrap-coffeereview",
+  "hasDatasetSlug": true,
+  "ownerUser": "hanifalirsyad",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 14146,
+  "totalVotes": 42,
+  "totalDownloads": 1938,
+  "title": "Coffee_Data_CoffeeReview",
+  "hasTitle": true,
+  "subtitle": "Web Scraping Coffee Review for Recommender System or Predictive Analytics",
+  "hasSubtitle": true,
+  "description": "Scraping data using python. in this dataset I took data from the website www.coffeereview.com\n\nThis dataset has not been preprocessed, so we still need to perform exploratory data analysis.\n\nThis data will be used to model a recommendation system or predictive analysis based on columns['aroma','sour','body','flavor','aftertaste'].",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "education",
+    "text",
+    "food",
+    "re"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

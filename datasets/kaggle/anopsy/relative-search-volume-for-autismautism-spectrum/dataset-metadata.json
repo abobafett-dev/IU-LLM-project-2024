@@ -1,0 +1,43 @@
+{
+  "id": "anopsy/relative-search-volume-for-autismautism-spectrum",
+  "id_no": 4000351,
+  "datasetSlugNullable": "relative-search-volume-for-autismautism-spectrum",
+  "ownerUserNullable": "anopsy",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Autism(Spectrum) in Searches Around the World",
+  "subtitleNullable": "based on Google Trends in al possible languages",
+  "descriptionNullable": "I collected the Google Trends data for Autism/ Autism Spectrum searches in all possible languages (languages available on Wikipedia and visible in Google Trends data). It's a time series that spans between 2004 and 2023. The values are integers ranging from  0 to 100. There are no missing values. ",
+  "datasetId": 4000351,
+  "datasetSlug": "relative-search-volume-for-autismautism-spectrum",
+  "hasDatasetSlug": true,
+  "ownerUser": "anopsy",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2255,
+  "totalVotes": 24,
+  "totalDownloads": 262,
+  "title": "Autism(Spectrum) in Searches Around the World",
+  "hasTitle": true,
+  "subtitle": "based on Google Trends in al possible languages",
+  "hasSubtitle": true,
+  "description": "I collected the Google Trends data for Autism/ Autism Spectrum searches in all possible languages (languages available on Wikipedia and visible in Google Trends data). It's a time series that spans between 2004 and 2023. The values are integers ranging from  0 to 100. There are no missing values. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "beginner",
+    "data visualization",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

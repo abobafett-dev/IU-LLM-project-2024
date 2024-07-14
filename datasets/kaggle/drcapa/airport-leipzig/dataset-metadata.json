@@ -1,0 +1,40 @@
+{
+  "id": "drcapa/airport-leipzig",
+  "id_no": 906046,
+  "datasetSlugNullable": "airport-leipzig",
+  "ownerUserNullable": "drcapa",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Airport_Leipzig-Halle (LEJ)",
+  "subtitleNullable": "",
+  "descriptionNullable": "We consider the arrivals and departures of the LEJ airport between 2019-07-18 and 2021-01-27 based on this [source](https://www.mdf-ag.com/en/passengers-and-visitors/leipzig-halle-airport/flights/arrivals-departures/). There are two datasets:\n* data_depa for the depatures\n* data_arri for the arrivals\n\nThe features are:\n\n| Feature  |    Meaning    |\n|----------|:-------------|\n| flight | flight number  |\n| dest |    destination   |\n| plan | timestamp for planed arrival/departure |\n| expect| timestamp for expected arrival/departure |\n| status| status of the arrival/departure|\n|airline| name of the airline based on the iata code of the flight number|\n|date| date of arrival/departure|\n|dist_km| distance of the destination to LEJ in km|\n|dist_mile|distance of the destination to LEJ in mile|\n|gate|departure gate (only in the data_depa dataset)|\n|dest_lat|latitude of destination|\n|dest_long|longitude of destination|",
+  "datasetId": 906046,
+  "datasetSlug": "airport-leipzig",
+  "hasDatasetSlug": true,
+  "ownerUser": "drcapa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 1731,
+  "totalVotes": 2,
+  "totalDownloads": 52,
+  "title": "Airport_Leipzig-Halle (LEJ)",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "We consider the arrivals and departures of the LEJ airport between 2019-07-18 and 2021-01-27 based on this [source](https://www.mdf-ag.com/en/passengers-and-visitors/leipzig-halle-airport/flights/arrivals-departures/). There are two datasets:\n* data_depa for the depatures\n* data_arri for the arrivals\n\nThe features are:\n\n| Feature  |    Meaning    |\n|----------|:-------------|\n| flight | flight number  |\n| dest |    destination   |\n| plan | timestamp for planed arrival/departure |\n| expect| timestamp for expected arrival/departure |\n| status| status of the arrival/departure|\n|airline| name of the airline based on the iata code of the flight number|\n|date| date of arrival/departure|\n|dist_km| distance of the destination to LEJ in km|\n|dist_mile|distance of the destination to LEJ in mile|\n|gate|departure gate (only in the data_depa dataset)|\n|dest_lat|latitude of destination|\n|dest_long|longitude of destination|",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nurbektemishov/crime-and-incident-news-in-kyrgyzstan-2020-2024",
+  "id_no": 5058111,
+  "datasetSlugNullable": "crime-and-incident-news-in-kyrgyzstan-2020-2024",
+  "ownerUserNullable": "nurbektemishov",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Crime and incident news in Kyrgyzstan 2020-2024",
+  "subtitleNullable": "News dataset from Akipress, one of the most widely read online newspapers in KG.",
+  "descriptionNullable": "This dataset was obtained from the \"Crime and Incidents\" section of the Akipress online newspaper using text mining techniques. It is valuable for data analysis, as it includes fields such as date, time, news category, news title, url and view count.\n\nSource: https://svodka.akipress.org/\n\nImage by pikisuperstar on Freepik ",
+  "datasetId": 5058111,
+  "datasetSlug": "crime-and-incident-news-in-kyrgyzstan-2020-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "nurbektemishov",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1062,
+  "totalVotes": 16,
+  "totalDownloads": 118,
+  "title": "Crime and incident news in Kyrgyzstan 2020-2024",
+  "hasTitle": true,
+  "subtitle": "News dataset from Akipress, one of the most widely read online newspapers in KG.",
+  "hasSubtitle": true,
+  "description": "This dataset was obtained from the \"Crime and Incidents\" section of the Akipress online newspaper using text mining techniques. It is valuable for data analysis, as it includes fields such as date, time, news category, news title, url and view count.\n\nSource: https://svodka.akipress.org/\n\nImage by pikisuperstar on Freepik ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "crime",
+    "news",
+    "russian"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

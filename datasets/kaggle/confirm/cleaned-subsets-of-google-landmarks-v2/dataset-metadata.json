@@ -1,0 +1,48 @@
+{
+  "id": "confirm/cleaned-subsets-of-google-landmarks-v2",
+  "id_no": 241361,
+  "datasetSlugNullable": "cleaned-subsets-of-google-landmarks-v2",
+  "ownerUserNullable": "confirm",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Cleaned Subsets of Google Landmarks v2",
+  "subtitleNullable": "Dataset described in our 1st prize winner technical report",
+  "descriptionNullable": "* Original image data: https://github.com/cvdfoundation/google-landmark\n* Announcement of Google-Landmarks-v2 https://ai.googleblog.com/2019/05/announcing-google-landmarks-v2-improved.html\n\n## Reference\n\n* [1] K. Ozaki, S. Yokoo, \"Large-scale Landmark Retrieval/Recognition under a Noisy and Diverse Dataset\", https://arxiv.org/abs/1906.04087",
+  "datasetId": 241361,
+  "datasetSlug": "cleaned-subsets-of-google-landmarks-v2",
+  "hasDatasetSlug": true,
+  "ownerUser": "confirm",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 14813,
+  "totalVotes": 26,
+  "totalDownloads": 874,
+  "title": "Cleaned Subsets of Google Landmarks v2",
+  "hasTitle": true,
+  "subtitle": "Dataset described in our 1st prize winner technical report",
+  "hasSubtitle": true,
+  "description": "* Original image data: https://github.com/cvdfoundation/google-landmark\n* Announcement of Google-Landmarks-v2 https://ai.googleblog.com/2019/05/announcing-google-landmarks-v2-improved.html\n\n## Reference\n\n* [1] K. Ozaki, S. Yokoo, \"Large-scale Landmark Retrieval/Recognition under a Noisy and Diverse Dataset\", https://arxiv.org/abs/1906.04087",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "classification",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "lyakaap",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

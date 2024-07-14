@@ -1,0 +1,39 @@
+{
+  "id": "kamaumunyori/kenya-value-of-transactions",
+  "id_no": 3532160,
+  "datasetSlugNullable": "kenya-value-of-transactions",
+  "ownerUserNullable": "kamaumunyori",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Kenya Value of Transactions July 2023.",
+  "subtitleNullable": "A look into Kenya's Value of Mobile Money and Bank Card Data.",
+  "descriptionNullable": "Kenya's Mobile Money and Bank Card Transactions: A Comprehensive Analysis\n\nDescription:\nThis Kaggle dataset provides a comprehensive analysis of mobile money and bank card transactions in Kenya, shedding light on the country's evolving financial landscape. The dataset covers a period of five years, from 2018 to 2022, and includes detailed transactional data from various financial institutions, mobile money platforms, and card networks operating in Kenya.\n\nKey Features:\n1. Transactional Data: The dataset contains transactional information, such as transaction date, amount, transaction type (deposit, withdrawal, transfer, etc.), and transaction source (mobile money platform, bank card network, etc.). This granular data enables in-depth analysis of user behavior and financial trends.\n\n2. Time Series Analysis: The dataset facilitates time series analysis, allowing users to observe transactional patterns over the years. Researchers can identify seasonal trends, cyclical fluctuations, and significant changes in the usage of mobile money and bank card transactions.\n\n3. Customer Account Volumes: The dataset enables customer account registration analysis.\n\n4. Financial Inclusion Impact: The dataset allows for an exploration of the impact of mobile money and bank card services on financial inclusion in Kenya. Researchers can assess how these digital payment methods have contributed to financial accessibility and empowerment.\n\nResearch Applications:\nResearchers and data analysts can leverage this dataset to explore various research questions, including:\n- Identifying factors influencing the adoption of mobile money and bank card transactions in Kenya.\n- Analyzing the impact of COVID-19 on the usage of digital payment methods.\n- Examining transactional trends for different user demographics (age, gender, income level).\n- Assessing the effectiveness of financial literacy campaigns in promoting digital financial services.\n- Investigating the role of mobile money and bank card transactions in promoting cashless economies.\n\nOverall, this comprehensive dataset on Kenya's mobile money and bank card transactions provides an excellent opportunity for data enthusiasts and researchers to gain valuable insights into the country's financial landscape, digitalization trends, and potential areas for financial policy improvements.",
+  "datasetId": 3532160,
+  "datasetSlug": "kenya-value-of-transactions",
+  "hasDatasetSlug": true,
+  "ownerUser": "kamaumunyori",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 274,
+  "totalVotes": 1,
+  "totalDownloads": 82,
+  "title": "Kenya Value of Transactions July 2023.",
+  "hasTitle": true,
+  "subtitle": "A look into Kenya's Value of Mobile Money and Bank Card Data.",
+  "hasSubtitle": true,
+  "description": "Kenya's Mobile Money and Bank Card Transactions: A Comprehensive Analysis\n\nDescription:\nThis Kaggle dataset provides a comprehensive analysis of mobile money and bank card transactions in Kenya, shedding light on the country's evolving financial landscape. The dataset covers a period of five years, from 2018 to 2022, and includes detailed transactional data from various financial institutions, mobile money platforms, and card networks operating in Kenya.\n\nKey Features:\n1. Transactional Data: The dataset contains transactional information, such as transaction date, amount, transaction type (deposit, withdrawal, transfer, etc.), and transaction source (mobile money platform, bank card network, etc.). This granular data enables in-depth analysis of user behavior and financial trends.\n\n2. Time Series Analysis: The dataset facilitates time series analysis, allowing users to observe transactional patterns over the years. Researchers can identify seasonal trends, cyclical fluctuations, and significant changes in the usage of mobile money and bank card transactions.\n\n3. Customer Account Volumes: The dataset enables customer account registration analysis.\n\n4. Financial Inclusion Impact: The dataset allows for an exploration of the impact of mobile money and bank card services on financial inclusion in Kenya. Researchers can assess how these digital payment methods have contributed to financial accessibility and empowerment.\n\nResearch Applications:\nResearchers and data analysts can leverage this dataset to explore various research questions, including:\n- Identifying factors influencing the adoption of mobile money and bank card transactions in Kenya.\n- Analyzing the impact of COVID-19 on the usage of digital payment methods.\n- Examining transactional trends for different user demographics (age, gender, income level).\n- Assessing the effectiveness of financial literacy campaigns in promoting digital financial services.\n- Investigating the role of mobile money and bank card transactions in promoting cashless economies.\n\nOverall, this comprehensive dataset on Kenya's mobile money and bank card transactions provides an excellent opportunity for data enthusiasts and researchers to gain valuable insights into the country's financial landscape, digitalization trends, and potential areas for financial policy improvements.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

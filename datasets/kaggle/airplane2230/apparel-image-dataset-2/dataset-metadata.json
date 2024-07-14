@@ -1,0 +1,40 @@
+{
+  "id": "airplane2230/apparel-image-dataset-2",
+  "id_no": 493828,
+  "datasetSlugNullable": "apparel-image-dataset-2",
+  "ownerUserNullable": "airplane2230",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Apparel image dataset 2",
+  "subtitleNullable": "11385 apparel images for multi-label/class classification",
+  "descriptionNullable": "For the data set provided first, see the next page.  \n+ original: [https://www.kaggle.com/trolukovich/apparel-images-dataset](https://www.kaggle.com/trolukovich/apparel-images-dataset)\n\nI added a csv file containing colors and labels. See data.\n\nex) black_dress --&gt; [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]\n\nAlso, the image column of the csv file contains the full path where the image exists.\n\n## Content\nThe dataset consist of 11385 images and includes next categories:  \n\n+ black_dress: 450  \n+ black_pants: 871  \n+ black_shirt: 715  \n+ black_shoes: 766  \n+ black_shorts: 328  \n+ blue_dress: 502  \n+ blue_pants: 798  \n+ blue_shirt: 741  \n+ blue_shoes: 523  \n+ blue_shorts: 299  \n+ brown_pants: 311  \n+ brown_shoes: 464  \n+ brown_shorts: 40  \n+ green_pants: 227  \n+ green_shirt: 230  \n+ green_shoes: 455  \n+ green_shorts: 135  \n+ red_dress: 800  \n+ red_pants: 308  \n+ red_shoes: 610  \n+ white_dress: 818  \n+ white_pants: 274  \n+ white_shoes: 600  \n+ white_shorts: 120  ",
+  "datasetId": 493828,
+  "datasetSlug": "apparel-image-dataset-2",
+  "hasDatasetSlug": true,
+  "ownerUser": "airplane2230",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 4704,
+  "totalVotes": 10,
+  "totalDownloads": 767,
+  "title": "Apparel image dataset 2",
+  "hasTitle": true,
+  "subtitle": "11385 apparel images for multi-label/class classification",
+  "hasSubtitle": true,
+  "description": "For the data set provided first, see the next page.  \n+ original: [https://www.kaggle.com/trolukovich/apparel-images-dataset](https://www.kaggle.com/trolukovich/apparel-images-dataset)\n\nI added a csv file containing colors and labels. See data.\n\nex) black_dress --&gt; [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]\n\nAlso, the image column of the csv file contains the full path where the image exists.\n\n## Content\nThe dataset consist of 11385 images and includes next categories:  \n\n+ black_dress: 450  \n+ black_pants: 871  \n+ black_shirt: 715  \n+ black_shoes: 766  \n+ black_shorts: 328  \n+ blue_dress: 502  \n+ blue_pants: 798  \n+ blue_shirt: 741  \n+ blue_shoes: 523  \n+ blue_shorts: 299  \n+ brown_pants: 311  \n+ brown_shoes: 464  \n+ brown_shorts: 40  \n+ green_pants: 227  \n+ green_shirt: 230  \n+ green_shoes: 455  \n+ green_shorts: 135  \n+ red_dress: 800  \n+ red_pants: 308  \n+ red_shoes: 610  \n+ white_dress: 818  \n+ white_pants: 274  \n+ white_shoes: 600  \n+ white_shorts: 120  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

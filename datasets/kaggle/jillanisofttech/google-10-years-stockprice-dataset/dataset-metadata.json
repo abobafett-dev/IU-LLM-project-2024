@@ -1,0 +1,45 @@
+{
+  "id": "jillanisofttech/google-10-years-stockprice-dataset",
+  "id_no": 2848279,
+  "datasetSlugNullable": "google-10-years-stockprice-dataset",
+  "ownerUserNullable": "jillanisofttech",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Google 10 years StockPrice Dataset",
+  "subtitleNullable": "Google Stock History From [2013-01-01] to [2024-01-10]",
+  "descriptionNullable": "## Context\n## What is Google?\nGoogle LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware. It is considered one of the Big Five companies in the American information technology industry, along with Amazon, Facebook, Apple, and Microsoft. Google was founded on September 4, 1998, by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University in California. Together they own about 14% of its publicly-listed shares and control 56% of the stockholder voting power through super-voting stock. The company went public via an initial public offering (IPO) in 2004. In 2015, Google was reorganized as a wholly-owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's Internet properties and interests. Sundar Pichai was appointed CEO of Google on October 24, 2015, replacing Larry Page, who became the CEO of Alphabet. On December 3, 2019, Pichai also became the CEO of Alphabet.\n\n\nGoogle, is one of the greatest gifts to mankind. Any information that you need today is available on Google. Google is a household name and literally, everyone is aware of what Google is. It helps you get resources for your school projects, helps you shop online, and much more. Google has made getting an education a lot easier for people across the globe. No matter where you are, you can access Google provided you have internet. Every piece of info is available on Google and it's all one click away. But Google has a parent company known as Alphabet Inc. that trades and here we have stock data from Alphabet Inc.\n\n\n## Content\nThis data set has 7 columns with all the necessary values such as the opening price of the stock, its closing price, its highest in the day, and much more. It has date-wise data of the stock starting from 2013 to 2024(Jan).\n\nInformation about this dataset\nThis dataset provides historical data of Alphabet Inc. (GOOG). The data is available at a daily level. The currency is USD.",
+  "datasetId": 2848279,
+  "datasetSlug": "google-10-years-stockprice-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "jillanisofttech",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7906,
+  "totalVotes": 44,
+  "totalDownloads": 1303,
+  "title": "Google 10 years StockPrice Dataset",
+  "hasTitle": true,
+  "subtitle": "Google Stock History From [2013-01-01] to [2024-01-10]",
+  "hasSubtitle": true,
+  "description": "## Context\n## What is Google?\nGoogle LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware. It is considered one of the Big Five companies in the American information technology industry, along with Amazon, Facebook, Apple, and Microsoft. Google was founded on September 4, 1998, by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University in California. Together they own about 14% of its publicly-listed shares and control 56% of the stockholder voting power through super-voting stock. The company went public via an initial public offering (IPO) in 2004. In 2015, Google was reorganized as a wholly-owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's Internet properties and interests. Sundar Pichai was appointed CEO of Google on October 24, 2015, replacing Larry Page, who became the CEO of Alphabet. On December 3, 2019, Pichai also became the CEO of Alphabet.\n\n\nGoogle, is one of the greatest gifts to mankind. Any information that you need today is available on Google. Google is a household name and literally, everyone is aware of what Google is. It helps you get resources for your school projects, helps you shop online, and much more. Google has made getting an education a lot easier for people across the globe. No matter where you are, you can access Google provided you have internet. Every piece of info is available on Google and it's all one click away. But Google has a parent company known as Alphabet Inc. that trades and here we have stock data from Alphabet Inc.\n\n\n## Content\nThis data set has 7 columns with all the necessary values such as the opening price of the stock, its closing price, its highest in the day, and much more. It has date-wise data of the stock starting from 2013 to 2024(Jan).\n\nInformation about this dataset\nThis dataset provides historical data of Alphabet Inc. (GOOG). The data is available at a daily level. The currency is USD.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "intermediate",
+    "advanced",
+    "time series analysis",
+    "deep learning",
+    "lstm",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

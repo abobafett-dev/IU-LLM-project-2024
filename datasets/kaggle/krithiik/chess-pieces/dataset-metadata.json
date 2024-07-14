@@ -1,0 +1,43 @@
+{
+  "id": "krithiik/chess-pieces",
+  "id_no": 3617498,
+  "datasetSlugNullable": "chess-pieces",
+  "ownerUserNullable": "krithiik",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Chess pieces",
+  "subtitleNullable": "Got all chess pieces covered!!",
+  "descriptionNullable": "The dataset contains images of chess pieces and can be used for CNN tasks such as image classification and computer vision tasks such as image detection etc. The dimensions of the image is 640*640.\nThe classes included in the dataset are Black bishop , Black king, Black knight, Black pawn, Black queen, Black rook, White bishop, White king, White knight, White pawn, White queen, White rook. A total of 12 classes each containing 25 images.",
+  "datasetId": 3617498,
+  "datasetSlug": "chess-pieces",
+  "hasDatasetSlug": true,
+  "ownerUser": "krithiik",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2779,
+  "totalVotes": 13,
+  "totalDownloads": 358,
+  "title": "Chess pieces",
+  "hasTitle": true,
+  "subtitle": "Got all chess pieces covered!!",
+  "hasSubtitle": true,
+  "description": "The dataset contains images of chess pieces and can be used for CNN tasks such as image classification and computer vision tasks such as image detection etc. The dimensions of the image is 640*640.\nThe classes included in the dataset are Black bishop , Black king, Black knight, Black pawn, Black queen, Black rook, White bishop, White king, White knight, White pawn, White queen, White rook. A total of 12 classes each containing 25 images.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "board games",
+    "categorical",
+    "computer vision",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Permissive - Version 1.0",
+      "name": "Community Data License Agreement - Permissive - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

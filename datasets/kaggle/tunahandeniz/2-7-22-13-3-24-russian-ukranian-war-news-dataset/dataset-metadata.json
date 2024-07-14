@@ -1,0 +1,39 @@
+{
+  "id": "tunahandeniz/2-7-22-13-3-24-russian-ukranian-war-news-dataset",
+  "id_no": 4450466,
+  "datasetSlugNullable": "2-7-22-13-3-24-russian-ukranian-war-news-dataset",
+  "ownerUserNullable": "tunahandeniz",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "2.7.22 - 13.3.24 Russian Ukranian war news dataset",
+  "subtitleNullable": "this dataset contains date, text and location of news",
+  "descriptionNullable": "this data extracted from telegram account (I wont tell the account)\n\nan average message includes a few images or videos about the war, news text, the location of the event that is the news, and bibliography information, some messages contain multiple locations and bibliography information\n\n**date text**: the date the message was sent\n\n**text text**: It contains news text, location and bibliography information written in Russian\n\n**location**: contains only one location information that contains the location information of the event subject to the news You can also find text text with multiple location information\n",
+  "datasetId": 4450466,
+  "datasetSlug": "2-7-22-13-3-24-russian-ukranian-war-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tunahandeniz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 98,
+  "totalVotes": 6,
+  "totalDownloads": 7,
+  "title": "2.7.22 - 13.3.24 Russian Ukranian war news dataset",
+  "hasTitle": true,
+  "subtitle": "this dataset contains date, text and location of news",
+  "hasSubtitle": true,
+  "description": "this data extracted from telegram account (I wont tell the account)\n\nan average message includes a few images or videos about the war, news text, the location of the event that is the news, and bibliography information, some messages contain multiple locations and bibliography information\n\n**date text**: the date the message was sent\n\n**text text**: It contains news text, location and bibliography information written in Russian\n\n**location**: contains only one location information that contains the location information of the event subject to the news You can also find text text with multiple location information\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

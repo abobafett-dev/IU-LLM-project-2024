@@ -1,0 +1,43 @@
+{
+  "id": "mattop/best-selling-game-boy-video-games",
+  "id_no": 2741263,
+  "datasetSlugNullable": "best-selling-game-boy-video-games",
+  "ownerUserNullable": "mattop",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Best Selling Game Boy Video Games",
+  "subtitleNullable": "Best Selling Game Boy/Game Boy Color Video Games Data",
+  "descriptionNullable": "The Best Selling Game Boy Video Games dataset is a collection of data that includes information on the top selling games for the Game Boy console. This includes the title of the game, the developers, the publisher, the release date, the number of copies sold.\n\nThe data was collected from https://en.wikipedia.org/wiki/List_of_best-selling_Game_Boy_video_games then cleaned for data analysis.\n\nTabular data includes:\n\n- `Game`\n- `Developer(s)`\n- `Publisher`\n- `Platform`\n- `Release date`\n- `Sales`",
+  "datasetId": 2741263,
+  "datasetSlug": "best-selling-game-boy-video-games",
+  "hasDatasetSlug": true,
+  "ownerUser": "mattop",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 4338,
+  "totalVotes": 34,
+  "totalDownloads": 629,
+  "title": "Best Selling Game Boy Video Games",
+  "hasTitle": true,
+  "subtitle": "Best Selling Game Boy/Game Boy Color Video Games Data",
+  "hasSubtitle": true,
+  "description": "The Best Selling Game Boy Video Games dataset is a collection of data that includes information on the top selling games for the Game Boy console. This includes the title of the game, the developers, the publisher, the release date, the number of copies sold.\n\nThe data was collected from https://en.wikipedia.org/wiki/List_of_best-selling_Game_Boy_video_games then cleaned for data analysis.\n\nTabular data includes:\n\n- `Game`\n- `Developer(s)`\n- `Publisher`\n- `Platform`\n- `Release date`\n- `Sales`",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "games",
+    "video games",
+    "business",
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "pavelkunitsyn/commodity-prices-the-world-bank",
+  "id_no": 1584816,
+  "datasetSlugNullable": "commodity-prices-the-world-bank",
+  "ownerUserNullable": "pavelkunitsyn",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Commodity Prices (the World Bank)",
+  "subtitleNullable": "Monthly data regularly published by the World Bank",
+  "descriptionNullable": "### Content\nThe dataset contains monthly prices for 70 \u0441ommodities. Columns description is available in a separate attached file.\n\n\n### Acknowledgements\nData is collected from the official website of The World Bank: Commodity Markets (https://www.worldbank.org/en/research/commodity-markets#1).\n\n\n### Inspiration\nData can be used for time series modelling or time series clustering methods as well as for conducting exploratory data analysis for research papers or any other scientific activity.",
+  "datasetId": 1584816,
+  "datasetSlug": "commodity-prices-the-world-bank",
+  "hasDatasetSlug": true,
+  "ownerUser": "pavelkunitsyn",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 1474,
+  "totalVotes": 1,
+  "totalDownloads": 100,
+  "title": "Commodity Prices (the World Bank)",
+  "hasTitle": true,
+  "subtitle": "Monthly data regularly published by the World Bank",
+  "hasSubtitle": true,
+  "description": "### Content\nThe dataset contains monthly prices for 70 \u0441ommodities. Columns description is available in a separate attached file.\n\n\n### Acknowledgements\nData is collected from the official website of The World Bank: Commodity Markets (https://www.worldbank.org/en/research/commodity-markets#1).\n\n\n### Inspiration\nData can be used for time series modelling or time series clustering methods as well as for conducting exploratory data analysis for research papers or any other scientific activity.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "international relations",
+    "time series analysis",
+    "clustering",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

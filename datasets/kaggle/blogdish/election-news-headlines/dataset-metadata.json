@@ -1,0 +1,42 @@
+{
+  "id": "blogdish/election-news-headlines",
+  "id_no": 4592,
+  "datasetSlugNullable": "election-news-headlines",
+  "ownerUserNullable": "blogdish",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Election News Headlines",
+  "subtitleNullable": "A day's harvest of election headlines from Nepal's news homepages ",
+  "descriptionNullable": "### Context\nThe headlines, with links in most cases, were harvested for a quick viewing of the kinds of election talk the online news media were carrying as the campaign picked up steam ahead of Nepal's first federal and provincial elections less than a month away. \n\n\n### Content\n\nThe headlines, with links preceding them, were scraped from 24 news websites of Nepal on 11/14/2017. They comprise 510 lines of Nepali texts in UTF-8, after removing the links in English.\n\n\n### Acknowledgements\n\nThe dataset is part of a personal hobby of the author to take stock of the election talk going on in Nepali media at the moment. This was possible thanks to the Python libraries, requests and bs4, available with the Jupyter notebooks on Anaconda.   \n\n\n### Inspiration\n\nMedia headlines tend to be a succinct gist of the election talk going on in the campaign period, with their potential to throw light on the kind of rhetoric and quality of arguments used for election gains. What can a text analysis of the headlines show?    ",
+  "datasetId": 4592,
+  "datasetSlug": "election-news-headlines",
+  "hasDatasetSlug": true,
+  "ownerUser": "blogdish",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 5005,
+  "totalVotes": 6,
+  "totalDownloads": 110,
+  "title": "Election News Headlines",
+  "hasTitle": true,
+  "subtitle": "A day's harvest of election headlines from Nepal's news homepages ",
+  "hasSubtitle": true,
+  "description": "### Context\nThe headlines, with links in most cases, were harvested for a quick viewing of the kinds of election talk the online news media were carrying as the campaign picked up steam ahead of Nepal's first federal and provincial elections less than a month away. \n\n\n### Content\n\nThe headlines, with links preceding them, were scraped from 24 news websites of Nepal on 11/14/2017. They comprise 510 lines of Nepali texts in UTF-8, after removing the links in English.\n\n\n### Acknowledgements\n\nThe dataset is part of a personal hobby of the author to take stock of the election talk going on in Nepali media at the moment. This was possible thanks to the Python libraries, requests and bs4, available with the Jupyter notebooks on Anaconda.   \n\n\n### Inspiration\n\nMedia headlines tend to be a succinct gist of the election talk going on in the campaign period, with their potential to throw light on the kind of rhetoric and quality of arguments used for election gains. What can a text analysis of the headlines show?    ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "politics",
+    "linguistics",
+    "internet",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

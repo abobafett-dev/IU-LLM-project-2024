@@ -1,0 +1,43 @@
+{
+  "id": "sakirschakirow/russian-sign-language-words-and-phrases-miniset",
+  "id_no": 3283182,
+  "datasetSlugNullable": "russian-sign-language-words-and-phrases-miniset",
+  "ownerUserNullable": "sakirschakirow",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Russian Sign Language (RSL) Phrases Miniset",
+  "subtitleNullable": "11 simple word and phrases mini-set of RSL in CSV-format gathered with MediaPipe",
+  "descriptionNullable": "# Aknowledgements\n- The dataset is built with highly similar rules of [\"Google Isolated Sign Language Competition\"](https://www.kaggle.com/competitions/asl-signs/data)-s dataset's format. This competition highlighted the research gap and the importance of creating more datasets and tools to interpret Sign Languages around the world.\n- [Nicholas Renotte](https://www.youtube.com/@NicholasRenotte)'s youtube channel and his working examples showed basic principles and amazing tools that can be used for further explorations in the research field.\n- Creation of datasets and further gesture-recognition attempts would be impossible without [MediaPipe](https://mediapipe.dev)'s solutions.\n\n# Dataset Collection\nThe dataset is collected using [LandmarksCollect](https://github.com/SakirSchakirow/LandmarksCollect)-android app that generates CSV-files with\nBy the time of publication of this dataset, the app uses [Hands](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker/android)-, [Facemesh](https://developers.google.com/mediapipe/solutions/vision/face_landmarker/android)- and [Pose](https://developers.google.com/mediapipe/solutions/vision/pose_landmarker/android)- landmarks detection solutions for Android, since the release of [Holistic approach](https://developers.google.com/mediapipe/solutions/vision/holistic_landmarker) is yet to be expected in the nearest future. Using these 3 models separately is only adding excessive landmarks, thus can be omitted when not needed.\n\n# Files\nEach directory is named after a phrase or a word that files in it are presenting. Do not pay attention to files' names inside a directory. The name of the directory represents the phrase or a word that containing file depicts.\n\nThe landmarks were extracted from camera-flows on Android Devices. Not all of the frames necessarily had visible hands or hands that could be detected by the model.\n\n- `frame` - The frame number in the raw video.\n- `row_id` - A unique identifier for the row.\n- `type` - The type of landmark. One of ['face', 'left_hand', 'pose', 'right_hand'].\n- `landmark_index` - The landmark index number. Details of the hand landmark locations can be found here.\n- [`x`/`y`/`z`] - The normalized spatial coordinates of the landmark. These are the only columns that will be provided to your submitted model for inference. The MediaPipe model is not fully trained to predict depth so you may wish to ignore the z values.\n\n# LandmarksCollect App\nFeel free to use [LandmarksCollect](https://github.com/SakirSchakirow/LandmarksCollect)-Android-App to collect your own datasets in the form of CSV files on whatever motions, gestures, and other human-body related research fields. New issues and pull requests in the repository are welcomed.",
+  "datasetId": 3283182,
+  "datasetSlug": "russian-sign-language-words-and-phrases-miniset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sakirschakirow",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 460,
+  "totalVotes": 0,
+  "totalDownloads": 25,
+  "title": "Russian Sign Language (RSL) Phrases Miniset",
+  "hasTitle": true,
+  "subtitle": "11 simple word and phrases mini-set of RSL in CSV-format gathered with MediaPipe",
+  "hasSubtitle": true,
+  "description": "# Aknowledgements\n- The dataset is built with highly similar rules of [\"Google Isolated Sign Language Competition\"](https://www.kaggle.com/competitions/asl-signs/data)-s dataset's format. This competition highlighted the research gap and the importance of creating more datasets and tools to interpret Sign Languages around the world.\n- [Nicholas Renotte](https://www.youtube.com/@NicholasRenotte)'s youtube channel and his working examples showed basic principles and amazing tools that can be used for further explorations in the research field.\n- Creation of datasets and further gesture-recognition attempts would be impossible without [MediaPipe](https://mediapipe.dev)'s solutions.\n\n# Dataset Collection\nThe dataset is collected using [LandmarksCollect](https://github.com/SakirSchakirow/LandmarksCollect)-android app that generates CSV-files with\nBy the time of publication of this dataset, the app uses [Hands](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker/android)-, [Facemesh](https://developers.google.com/mediapipe/solutions/vision/face_landmarker/android)- and [Pose](https://developers.google.com/mediapipe/solutions/vision/pose_landmarker/android)- landmarks detection solutions for Android, since the release of [Holistic approach](https://developers.google.com/mediapipe/solutions/vision/holistic_landmarker) is yet to be expected in the nearest future. Using these 3 models separately is only adding excessive landmarks, thus can be omitted when not needed.\n\n# Files\nEach directory is named after a phrase or a word that files in it are presenting. Do not pay attention to files' names inside a directory. The name of the directory represents the phrase or a word that containing file depicts.\n\nThe landmarks were extracted from camera-flows on Android Devices. Not all of the frames necessarily had visible hands or hands that could be detected by the model.\n\n- `frame` - The frame number in the raw video.\n- `row_id` - A unique identifier for the row.\n- `type` - The type of landmark. One of ['face', 'left_hand', 'pose', 'right_hand'].\n- `landmark_index` - The landmark index number. Details of the hand landmark locations can be found here.\n- [`x`/`y`/`z`] - The normalized spatial coordinates of the landmark. These are the only columns that will be provided to your submitted model for inference. The MediaPipe model is not fully trained to predict depth so you may wish to ignore the z values.\n\n# LandmarksCollect App\nFeel free to use [LandmarksCollect](https://github.com/SakirSchakirow/LandmarksCollect)-Android-App to collect your own datasets in the form of CSV files on whatever motions, gestures, and other human-body related research fields. New issues and pull requests in the repository are welcomed.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "russia",
+    "beginner",
+    "tabular",
+    "russian"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

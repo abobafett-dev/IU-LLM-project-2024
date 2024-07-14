@@ -1,0 +1,43 @@
+{
+  "id": "abeperez/historical-plane-crash-data",
+  "id_no": 2210566,
+  "datasetSlugNullable": "historical-plane-crash-data",
+  "ownerUserNullable": "abeperez",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Historical Plane Crash Data",
+  "subtitleNullable": "A dataset containing all of the plane crashes from 1918 to 2022",
+  "descriptionNullable": "This dataset contains all of the plane crashes that happened throughout history. Data is extracted using web scraping methods in R and preprocessed to create an organized and informative dataset. \n\nThe link to the data can be found here: [Bureau of Aircraft Accidents Archives](https://www.baaa-acro.com/index.php/crash-archives)\n\nThis is a sample dashboard that I made using RShiny Dashboard: [Aviation Crashes](https://abeceasarperez.shinyapps.io/aircraft_incidents/)\n\nIf you're curious as to how airplane crashes have trended over the years, what concerns were addressed to mitigate these crashes, or how many crashes do we see happening in the next 5-10 years, then this dataset is a great place to start.\n\nNote: This dataset is extracted in an excel format rather than a csv format due to the encoding issues found in some columns (e.g. location of the crash).",
+  "datasetId": 2210566,
+  "datasetSlug": "historical-plane-crash-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "abeperez",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 9282,
+  "totalVotes": 38,
+  "totalDownloads": 1538,
+  "title": "Historical Plane Crash Data",
+  "hasTitle": true,
+  "subtitle": "A dataset containing all of the plane crashes from 1918 to 2022",
+  "hasSubtitle": true,
+  "description": "This dataset contains all of the plane crashes that happened throughout history. Data is extracted using web scraping methods in R and preprocessed to create an organized and informative dataset. \n\nThe link to the data can be found here: [Bureau of Aircraft Accidents Archives](https://www.baaa-acro.com/index.php/crash-archives)\n\nThis is a sample dashboard that I made using RShiny Dashboard: [Aviation Crashes](https://abeceasarperez.shinyapps.io/aircraft_incidents/)\n\nIf you're curious as to how airplane crashes have trended over the years, what concerns were addressed to mitigate these crashes, or how many crashes do we see happening in the next 5-10 years, then this dataset is a great place to start.\n\nNote: This dataset is extracted in an excel format rather than a csv format due to the encoding issues found in some columns (e.g. location of the crash).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "aviation",
+    "time series analysis",
+    "data analytics",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

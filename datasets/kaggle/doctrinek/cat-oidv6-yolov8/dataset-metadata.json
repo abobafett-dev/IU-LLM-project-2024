@@ -1,0 +1,41 @@
+{
+  "id": "doctrinek/cat-oidv6-yolov8",
+  "id_no": 4137372,
+  "datasetSlugNullable": "cat-oidv6-yolov8",
+  "ownerUserNullable": "doctrinek",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Cat_OIDV6_YoloV8",
+  "subtitleNullable": "10,000 cat images from OIDV6 with detection labels for Yolov8 ",
+  "descriptionNullable": "10,000 cat images from OIDV6 with detection labels for Yolov8\n\nOIDV6:https://storage.googleapis.com/openimages/web/download_v6.html\nDownloaded with: https://github.com/EscVM/OIDv4_ToolKit\nConverted with: Roboflow",
+  "datasetId": 4137372,
+  "datasetSlug": "cat-oidv6-yolov8",
+  "hasDatasetSlug": true,
+  "ownerUser": "doctrinek",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 123,
+  "totalVotes": 1,
+  "totalDownloads": 21,
+  "title": "Cat_OIDV6_YoloV8",
+  "hasTitle": true,
+  "subtitle": "10,000 cat images from OIDV6 with detection labels for Yolov8 ",
+  "hasSubtitle": true,
+  "description": "10,000 cat images from OIDV6 with detection labels for Yolov8\n\nOIDV6:https://storage.googleapis.com/openimages/web/download_v6.html\nDownloaded with: https://github.com/EscVM/OIDv4_ToolKit\nConverted with: Roboflow",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "image",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

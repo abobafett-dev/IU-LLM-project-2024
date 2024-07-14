@@ -1,0 +1,44 @@
+{
+  "id": "thomaseltonau/australian-hospitalisations-by-region-2014-21",
+  "id_no": 4104940,
+  "datasetSlugNullable": "australian-hospitalisations-by-region-2014-21",
+  "ownerUserNullable": "thomaseltonau",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Australian Hospitalisations by Region (2014-21)",
+  "subtitleNullable": "AU emergency department presentations and mental health related presentations.",
+  "descriptionNullable": "**Data Description**\n\nThis dataset contains data of the total emergency department presentations and mental health-related emergency department presentations in Australian states and territories from 2014 to 2021.\n\nAn entry is provided for each state and territory for each quarter from 2014 to the end of 2021.\n\n**Data Source**\n\nData was sourced from the Australian Institute of Health and Wellbeing (AIHW), which is an agency in the Australian Government.\n\nThe original data set can be downloaded from [here](https://www.aihw.gov.au/mental-health/topic-areas/emergency-departments). The download is an XLSX file, and here we only focus on the sheet titled \u201cTable ED.4\u201d. The name of the table is \u201cMental health-related emergency department presentations in public hospitals, by states and territories, 2014\u201315 to 2021\u201322.\u201d\n\n**Data Cleaning**\n\nAs provided by the AIHW, the data is not in a format that is easy for computational data analysis. Hence, an extensive data cleaning process was applied to place the data into a more appropriate long format.\n\nThe cleaning process can be found [here](https://rpubs.com/tjelton/mental-health-related-emergency-department-presentations-australia).\n\n**References**\n\nAustralian Government: Australian Institute of Health and Welfare (2023). Data tables: Mental health services provided in emergency departments 2021\u201322. https://www.aihw.gov.au/mental-health/topic-areas/emergency-departments",
+  "datasetId": 4104940,
+  "datasetSlug": "australian-hospitalisations-by-region-2014-21",
+  "hasDatasetSlug": true,
+  "ownerUser": "thomaseltonau",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 329,
+  "totalVotes": 5,
+  "totalDownloads": 32,
+  "title": "Australian Hospitalisations by Region (2014-21)",
+  "hasTitle": true,
+  "subtitle": "AU emergency department presentations and mental health related presentations.",
+  "hasSubtitle": true,
+  "description": "**Data Description**\n\nThis dataset contains data of the total emergency department presentations and mental health-related emergency department presentations in Australian states and territories from 2014 to 2021.\n\nAn entry is provided for each state and territory for each quarter from 2014 to the end of 2021.\n\n**Data Source**\n\nData was sourced from the Australian Institute of Health and Wellbeing (AIHW), which is an agency in the Australian Government.\n\nThe original data set can be downloaded from [here](https://www.aihw.gov.au/mental-health/topic-areas/emergency-departments). The download is an XLSX file, and here we only focus on the sheet titled \u201cTable ED.4\u201d. The name of the table is \u201cMental health-related emergency department presentations in public hospitals, by states and territories, 2014\u201315 to 2021\u201322.\u201d\n\n**Data Cleaning**\n\nAs provided by the AIHW, the data is not in a format that is easy for computational data analysis. Hence, an extensive data cleaning process was applied to place the data into a more appropriate long format.\n\nThe cleaning process can be found [here](https://rpubs.com/tjelton/mental-health-related-emergency-department-presentations-australia).\n\n**References**\n\nAustralian Government: Australian Institute of Health and Welfare (2023). Data tables: Mental health services provided in emergency departments 2021\u201322. https://www.aihw.gov.au/mental-health/topic-areas/emergency-departments",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "australia",
+    "mental health",
+    "healthcare",
+    "public health",
+    "health",
+    "public safety"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

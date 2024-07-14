@@ -1,0 +1,43 @@
+{
+  "id": "socialmedianews/how-news-appears-on-social-media",
+  "id_no": 1196,
+  "datasetSlugNullable": "how-news-appears-on-social-media",
+  "ownerUserNullable": "socialmedianews",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "How News Appears on Social Media",
+  "subtitleNullable": "Comparing What's on Twitter and Reddit to What's Happening in the World",
+  "descriptionNullable": "# Context \n\nAs part of a capstone project, we wanted to compare what social media users are talking about to what's going on in the world to see if and how social media users care about news events. We scraped data from Twitter, Reddit, reliable news sources, and Google Trending Topics. \n\n\n# Content\n\nThis data set includes nine tables: Twitter, news, Google Trending Topics, and six popular subreddits (news, worldnews, upliftingnews, sports, politics, television). \n\nTwitter: trending topic, date trending, sentiment analysis scores, most common word associated with the trend, most common pairs of words associated with the trend.\n\nNews: headlines (collected from BBC News, USA Today, and the Washington Post), date the article was posted.\n\nGoogle Trending Topics: trending topic, date trending. \n\nSubreddits: post title, time, date, score (upvotes - downvotes), number of comments. \n\n\n# Acknowledgements\n\nThis data was collected as part of a semester project in the Capstone in Social Network Analytics at Virginia Tech, Spring 2017, taught by Siddharth Krishnan. The data was collected over a period of eight days in April 2017. \n\n\n# Inspiration\n\nWhat do social media users care about, and in what ways do they care? What may they not know about? What types of trends appear most on each social media platform? Are people who get the majority of their news from social media able to get an accurate and comprehensive idea of what is going on? How can algorithms such as Twitter\u2019s trending topics algorithm influence and shape what users talk about, read, and react to?",
+  "datasetId": 1196,
+  "datasetSlug": "how-news-appears-on-social-media",
+  "hasDatasetSlug": true,
+  "ownerUser": "socialmedianews",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 17668,
+  "totalVotes": 26,
+  "totalDownloads": 1863,
+  "title": "How News Appears on Social Media",
+  "hasTitle": true,
+  "subtitle": "Comparing What's on Twitter and Reddit to What's Happening in the World",
+  "hasSubtitle": true,
+  "description": "# Context \n\nAs part of a capstone project, we wanted to compare what social media users are talking about to what's going on in the world to see if and how social media users care about news events. We scraped data from Twitter, Reddit, reliable news sources, and Google Trending Topics. \n\n\n# Content\n\nThis data set includes nine tables: Twitter, news, Google Trending Topics, and six popular subreddits (news, worldnews, upliftingnews, sports, politics, television). \n\nTwitter: trending topic, date trending, sentiment analysis scores, most common word associated with the trend, most common pairs of words associated with the trend.\n\nNews: headlines (collected from BBC News, USA Today, and the Washington Post), date the article was posted.\n\nGoogle Trending Topics: trending topic, date trending. \n\nSubreddits: post title, time, date, score (upvotes - downvotes), number of comments. \n\n\n# Acknowledgements\n\nThis data was collected as part of a semester project in the Capstone in Social Network Analytics at Virginia Tech, Spring 2017, taught by Siddharth Krishnan. The data was collected over a period of eight days in April 2017. \n\n\n# Inspiration\n\nWhat do social media users care about, and in what ways do they care? What may they not know about? What types of trends appear most on each social media platform? Are people who get the majority of their news from social media able to get an accurate and comprehensive idea of what is going on? How can algorithms such as Twitter\u2019s trending topics algorithm influence and shape what users talk about, read, and react to?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "news",
+    "email and messaging",
+    "online communities",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

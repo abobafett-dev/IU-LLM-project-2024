@@ -1,0 +1,41 @@
+{
+  "id": "abhinavsp0730/factchecked-images-shared-during-electionsind",
+  "id_no": 766353,
+  "datasetSlugNullable": "factchecked-images-shared-during-electionsind",
+  "ownerUserNullable": "abhinavsp0730",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Fact-Checked Images Shared  During Elections(IND)",
+  "subtitleNullable": "A Dataset of Fact-Checked Images Shared on WhatsApp during the Indian Elections",
+  "descriptionNullable": "# A Dataset of Fact-Checked Images Shared on WhatsApp during the Indian Elections\n\n### Description\n Recently, messaging applications, such as WhatsApp, have been reportedly abused by misinformation campaigns, especially in Brazil and India. A notable form of abuse in WhatsApp relies on several manipulated images and memes containing all kinds of fake stories. In this work, we performed an extensive data collection from a large set of WhatsApp publicly accessible groups and  fact-checking agency websites. This paper opens a novel dataset to the research community containing fact-checked fake images shared through WhatsApp for two distinct scenarios known for the  spread of fake news on the platform: the 2018 Brazilian elections and the 2019 Indian elections. \n\n### Paper\nPlease go through the paper [ https://misinforeview.hks.harvard.edu/article/images-and-misinformation-in-political-groups-evidence-from-whatsapp-in-india/ ]( https://misinforeview.hks.harvard.edu/article/images-and-misinformation-in-political-groups-evidence-from-whatsapp-in-india/ ) In this paper you can see how the authors used Machine Learning to tackle to detect misinformation shared during the  2019 Indian elections over WhatsApp.\n\n### Motive\nYou may rember about the *The Facebook\u2013Cambridge Analytica data breach* , how the public data has been used for manipulating the mindset of the voter.\nSo, by sharing this type of fake images change the mindset of the voter and it may cause altering the result of elections.\nI want to see how kagglers use this dataset to tackle the most important problem  of sharing misinformation over social media.\n\n### Upvote\nPlease upvote this dataset for better reach.\n \n### Citation\n```\n@dataset{julio_c_s_reis_2020_3779157,\n  author       = {Julio C. S. Reis and\n                  Philipe Melo and\n                  Kiran Garimella and\n                  Jussara M. Almeida and\n                  Dean Eckles and\n                  Fabr\u00edcio Benevenuto},\n  title        = {{A Dataset of Fact-Checked Images Shared on \n                   WhatsApp during the Brazilian and Indian Elections}},\n  month        = apr,\n  year         = 2020,\n  publisher    = {Zenodo},\n  doi          = {10.5281/zenodo.3779157},\n  url          = {https://doi.org/10.5281/zenodo.3779157}\n}\n```\n",
+  "datasetId": 766353,
+  "datasetSlug": "factchecked-images-shared-during-electionsind",
+  "hasDatasetSlug": true,
+  "ownerUser": "abhinavsp0730",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 2389,
+  "totalVotes": 10,
+  "totalDownloads": 86,
+  "title": "Fact-Checked Images Shared  During Elections(IND)",
+  "hasTitle": true,
+  "subtitle": "A Dataset of Fact-Checked Images Shared on WhatsApp during the Indian Elections",
+  "hasSubtitle": true,
+  "description": "# A Dataset of Fact-Checked Images Shared on WhatsApp during the Indian Elections\n\n### Description\n Recently, messaging applications, such as WhatsApp, have been reportedly abused by misinformation campaigns, especially in Brazil and India. A notable form of abuse in WhatsApp relies on several manipulated images and memes containing all kinds of fake stories. In this work, we performed an extensive data collection from a large set of WhatsApp publicly accessible groups and  fact-checking agency websites. This paper opens a novel dataset to the research community containing fact-checked fake images shared through WhatsApp for two distinct scenarios known for the  spread of fake news on the platform: the 2018 Brazilian elections and the 2019 Indian elections. \n\n### Paper\nPlease go through the paper [ https://misinforeview.hks.harvard.edu/article/images-and-misinformation-in-political-groups-evidence-from-whatsapp-in-india/ ]( https://misinforeview.hks.harvard.edu/article/images-and-misinformation-in-political-groups-evidence-from-whatsapp-in-india/ ) In this paper you can see how the authors used Machine Learning to tackle to detect misinformation shared during the  2019 Indian elections over WhatsApp.\n\n### Motive\nYou may rember about the *The Facebook\u2013Cambridge Analytica data breach* , how the public data has been used for manipulating the mindset of the voter.\nSo, by sharing this type of fake images change the mindset of the voter and it may cause altering the result of elections.\nI want to see how kagglers use this dataset to tackle the most important problem  of sharing misinformation over social media.\n\n### Upvote\nPlease upvote this dataset for better reach.\n \n### Citation\n```\n@dataset{julio_c_s_reis_2020_3779157,\n  author       = {Julio C. S. Reis and\n                  Philipe Melo and\n                  Kiran Garimella and\n                  Jussara M. Almeida and\n                  Dean Eckles and\n                  Fabr\u00edcio Benevenuto},\n  title        = {{A Dataset of Fact-Checked Images Shared on \n                   WhatsApp during the Brazilian and Indian Elections}},\n  month        = apr,\n  year         = 2020,\n  publisher    = {Zenodo},\n  doi          = {10.5281/zenodo.3779157},\n  url          = {https://doi.org/10.5281/zenodo.3779157}\n}\n```\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "politics",
+    "internet",
+    "email and messaging"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

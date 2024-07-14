@@ -1,0 +1,43 @@
+{
+  "id": "marquis03/afac2023-time-series-prediction-in-finance",
+  "id_no": 3580302,
+  "datasetSlugNullable": "afac2023-time-series-prediction-in-finance",
+  "ownerUserNullable": "marquis03",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "AFAC2023 - Time Series Prediction in Finance",
+  "subtitleNullable": "AFAC2023 - Financial Scenario Understanding - Time Series Prediction in Finance",
+  "descriptionNullable": "**(1) Competition data**\n\nThe redemption amount of the fund is not only related to the periodicity and volatility of the timing itself, but also closely related to the income performance of the fund and user behavior, which is more susceptible to market fluctuations. Moreover, due to the attribution to the next trading day during holidays, the asynchronous timing is increased. Therefore, the following data is provided as modeling data:\n\n**A. Fund redemption data and fund characteristics information table**\n\nThe table contains the forecast target of this game, the subscription amount (apply_amt), redemption amount (redeem_amt) and net subscription amount (net_in_amt) of the fund on each trading day, where net subscription = subscription - redemption.\n\nAt the same time, the table gives the fund information and user access information (exposure uv on each page, etc.) of the fund on each trading day. Some data in the table is missing, please pay attention to it.\n\n| Serial number | Fields | Description | Type |\n| --- | --- | --- | --- |\n| 1 | product_pid | Product id | String |\n| 2 | transaction_date | Transaction date | String |\n| 3 | apply_amt | Application amount | Double |\n| 4 | redeem_amt | Redemption amount | Double |\n| 5 | net_in_amt | Net inflow amount = Application amount - Redemption amount | Double |\n| 6 | uv_fundown | Fund position page exposure uv | Double |\n| 7 | uv_stableown | Stable position page exposure uv | Double |\n| 8 | uv_fundopt | Fund optional page exposure uv | Double |\n| 9 | uv fundmarket | Fund market page exposure uv | Double |\n| 10 | uv_termmarket | Term market page exposure uv | Double |\n| 11 | during_days | Fund holding period | Bigint |\n| 12 | total_net_value | Total net value | Double |\n\n**B. Market information table**\n\nThe table shows the one-year Yield curve of Commercial Bank Interbank Deposit (AAA).\n\n| Serial number | Fields | Description | Type |\n| --- | --- | --- | --- |\n| 1 | enddate | Date | String |\n| 2 | yield | Yield(%) | Double |\n\n**C. Time information table**\n\n| Serial number | Fields | Description | Type |\n| --- | --- | --- | --- |\n| 1 | stat_date | Date | String |\n| 2 | is_trade | Whether it is a trading day | Bigint |\n| 3 | next_trade_date | Next trading day | String |\n| 4 | last_trade_date | Last trading day | String |\n| 5 | is_week_end | Whether it is the last trading day of the week | Bigint |\n| 6 | is_month_end | Whether it is the last trading day of the month | Bigint |\n| 7 | is_quarter_end | Whether it is the last trading day of the quarter | Bigint |\n| 8 | is_year_end | Whether it is the last trading day of the year | Bigint |\n| 9 | trade_day_rank | Trading day ranking | Bigint |\n\n**(2) Data files**\n\nCompetition data is provided as a.CSV file.",
+  "datasetId": 3580302,
+  "datasetSlug": "afac2023-time-series-prediction-in-finance",
+  "hasDatasetSlug": true,
+  "ownerUser": "marquis03",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1147,
+  "totalVotes": 8,
+  "totalDownloads": 85,
+  "title": "AFAC2023 - Time Series Prediction in Finance",
+  "hasTitle": true,
+  "subtitle": "AFAC2023 - Financial Scenario Understanding - Time Series Prediction in Finance",
+  "hasSubtitle": true,
+  "description": "**(1) Competition data**\n\nThe redemption amount of the fund is not only related to the periodicity and volatility of the timing itself, but also closely related to the income performance of the fund and user behavior, which is more susceptible to market fluctuations. Moreover, due to the attribution to the next trading day during holidays, the asynchronous timing is increased. Therefore, the following data is provided as modeling data:\n\n**A. Fund redemption data and fund characteristics information table**\n\nThe table contains the forecast target of this game, the subscription amount (apply_amt), redemption amount (redeem_amt) and net subscription amount (net_in_amt) of the fund on each trading day, where net subscription = subscription - redemption.\n\nAt the same time, the table gives the fund information and user access information (exposure uv on each page, etc.) of the fund on each trading day. Some data in the table is missing, please pay attention to it.\n\n| Serial number | Fields | Description | Type |\n| --- | --- | --- | --- |\n| 1 | product_pid | Product id | String |\n| 2 | transaction_date | Transaction date | String |\n| 3 | apply_amt | Application amount | Double |\n| 4 | redeem_amt | Redemption amount | Double |\n| 5 | net_in_amt | Net inflow amount = Application amount - Redemption amount | Double |\n| 6 | uv_fundown | Fund position page exposure uv | Double |\n| 7 | uv_stableown | Stable position page exposure uv | Double |\n| 8 | uv_fundopt | Fund optional page exposure uv | Double |\n| 9 | uv fundmarket | Fund market page exposure uv | Double |\n| 10 | uv_termmarket | Term market page exposure uv | Double |\n| 11 | during_days | Fund holding period | Bigint |\n| 12 | total_net_value | Total net value | Double |\n\n**B. Market information table**\n\nThe table shows the one-year Yield curve of Commercial Bank Interbank Deposit (AAA).\n\n| Serial number | Fields | Description | Type |\n| --- | --- | --- | --- |\n| 1 | enddate | Date | String |\n| 2 | yield | Yield(%) | Double |\n\n**C. Time information table**\n\n| Serial number | Fields | Description | Type |\n| --- | --- | --- | --- |\n| 1 | stat_date | Date | String |\n| 2 | is_trade | Whether it is a trading day | Bigint |\n| 3 | next_trade_date | Next trading day | String |\n| 4 | last_trade_date | Last trading day | String |\n| 5 | is_week_end | Whether it is the last trading day of the week | Bigint |\n| 6 | is_month_end | Whether it is the last trading day of the month | Bigint |\n| 7 | is_quarter_end | Whether it is the last trading day of the quarter | Bigint |\n| 8 | is_year_end | Whether it is the last trading day of the year | Bigint |\n| 9 | trade_day_rank | Trading day ranking | Bigint |\n\n**(2) Data files**\n\nCompetition data is provided as a.CSV file.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "china ",
+    "time series analysis",
+    "tabular",
+    "regression",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

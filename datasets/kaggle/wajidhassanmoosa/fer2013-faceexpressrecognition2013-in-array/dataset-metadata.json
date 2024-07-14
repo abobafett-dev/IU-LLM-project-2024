@@ -1,0 +1,41 @@
+{
+  "id": "wajidhassanmoosa/fer2013-faceexpressrecognition2013-in-array",
+  "id_no": 3552425,
+  "datasetSlugNullable": "fer2013-faceexpressrecognition2013-in-array",
+  "ownerUserNullable": "wajidhassanmoosa",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Fer2013 (FaceExpressRecognition2013) in array",
+  "subtitleNullable": "Face Expression Recognition 2013 Dataset in Numpy",
+  "descriptionNullable": "Name: FER2013\nDescription: The FER2013 dataset is a facial expression recognition dataset consisting of 30,000 grayscale images of faces. The images are labeled with one of seven emotions: angry, disgust, fear, happy, sad, surprise, or neutral.\nClasses: The seven classes in the FER2013 dataset are:\nAngry (label 1)\nDisgust (label 2)\nFear (label 3)\nHappy (label 4)\nNeutral (label 5)\nSad (label 6)\nSurprise (label 7)\n\nThe FER2013 dataset is a challenging dataset for facial expression recognition, as the images are of low resolution and the emotions are often subtle. However, the dataset is a valuable resource for researchers and developers who are working on facial expression recognition algorithms.",
+  "datasetId": 3552425,
+  "datasetSlug": "fer2013-faceexpressrecognition2013-in-array",
+  "hasDatasetSlug": true,
+  "ownerUser": "wajidhassanmoosa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 1074,
+  "totalVotes": 3,
+  "totalDownloads": 208,
+  "title": "Fer2013 (FaceExpressRecognition2013) in array",
+  "hasTitle": true,
+  "subtitle": "Face Expression Recognition 2013 Dataset in Numpy",
+  "hasSubtitle": true,
+  "description": "Name: FER2013\nDescription: The FER2013 dataset is a facial expression recognition dataset consisting of 30,000 grayscale images of faces. The images are labeled with one of seven emotions: angry, disgust, fear, happy, sad, surprise, or neutral.\nClasses: The seven classes in the FER2013 dataset are:\nAngry (label 1)\nDisgust (label 2)\nFear (label 3)\nHappy (label 4)\nNeutral (label 5)\nSad (label 6)\nSurprise (label 7)\n\nThe FER2013 dataset is a challenging dataset for facial expression recognition, as the images are of low resolution and the emotions are often subtle. However, the dataset is a valuable resource for researchers and developers who are working on facial expression recognition algorithms.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

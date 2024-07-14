@@ -1,0 +1,43 @@
+{
+  "id": "olgabelitskaya/flower-color-images",
+  "id_no": 2635,
+  "datasetSlugNullable": "flower-color-images",
+  "ownerUserNullable": "olgabelitskaya",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Flower Color Images",
+  "subtitleNullable": "Set for Classification",
+  "descriptionNullable": "## $$\\color{#ff35fe}{\\mathbb{History}}$$\nI made the database from the fragments of my own photos of flowers. \nThe images are selected to reflect the flowering features of these plant species.\n\n## $$\\color{#ff35fe}{\\mathbb{Content}}$$\n### The first variant\nThe content is very simple:  \n- 210 images (128x128x3)  with 10 species of flowering plants;\n- the file with labels `flower-labels.csv`. \nPhoto files are in the `.png` format and the labels are integers.\n\n$$\\color{#ff35fe}{\\mathbb{Labels \\implies Names}}$$\n0 =&gt; phlox; \n1 =&gt; rose; \n2 =&gt; calendula; \n3 =&gt; iris; \n4 =&gt; leucanthemum maximum (Shasta daisy); \n5 =&gt; campanula (bellflower); \n6 =&gt; viola; \n7 =&gt; rudbeckia laciniata (Goldquelle); \n8 =&gt; peony; \n9 =&gt; aquilegia.\n\n### Additional files\n`flowers.zip` is an extended version. Now, this dataset is in progress.\n$$\\color{#ff35fe}{\\mathbb{Labels \\implies Names}}$$\n0 =&gt; phlox; \n1 =&gt; rose; \n2 =&gt; calendula; \n3 =&gt; iris; \n4 =&gt; leucanthemum maximum (Shasta daisy); \n5 =&gt; campanula (bellflower); \n6 =&gt; viola; \n7 =&gt; rudbeckia laciniata (Goldquelle); \n8 =&gt; peony; \n9 =&gt; aquilegia; \n10=&gt; rhododendron ;\n11 =&gt; passiflora; \n12 =&gt; tulip; \n13 =&gt; water lily; \n14 =&gt; lilium;\n15 =&gt; veronica chamaedrys;\n16 =&gt; cosmos;\n17 =&gt; aster annual;\n18 =&gt; aster perennial;\n19 =&gt; snowdrop.\n\n## $$\\color{#ff35fe}{\\mathbb{Acknowledgments}}$$\nAs an owner of this database, I have published it for absolutely free usage by any site visitor.\n\n## $$\\color{#ff35fe}{\\mathbb{Usage}}$$\nAccurate classification of plant species with a small number of images isn't a trivial task. \nI hope this set can be interesting for training skills in this field. \nA wide spectrum of algorithms can be used for classification.",
+  "datasetId": 2635,
+  "datasetSlug": "flower-color-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "olgabelitskaya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 91346,
+  "totalVotes": 213,
+  "totalDownloads": 15329,
+  "title": "Flower Color Images",
+  "hasTitle": true,
+  "subtitle": "Set for Classification",
+  "hasSubtitle": true,
+  "description": "## $$\\color{#ff35fe}{\\mathbb{History}}$$\nI made the database from the fragments of my own photos of flowers. \nThe images are selected to reflect the flowering features of these plant species.\n\n## $$\\color{#ff35fe}{\\mathbb{Content}}$$\n### The first variant\nThe content is very simple:  \n- 210 images (128x128x3)  with 10 species of flowering plants;\n- the file with labels `flower-labels.csv`. \nPhoto files are in the `.png` format and the labels are integers.\n\n$$\\color{#ff35fe}{\\mathbb{Labels \\implies Names}}$$\n0 =&gt; phlox; \n1 =&gt; rose; \n2 =&gt; calendula; \n3 =&gt; iris; \n4 =&gt; leucanthemum maximum (Shasta daisy); \n5 =&gt; campanula (bellflower); \n6 =&gt; viola; \n7 =&gt; rudbeckia laciniata (Goldquelle); \n8 =&gt; peony; \n9 =&gt; aquilegia.\n\n### Additional files\n`flowers.zip` is an extended version. Now, this dataset is in progress.\n$$\\color{#ff35fe}{\\mathbb{Labels \\implies Names}}$$\n0 =&gt; phlox; \n1 =&gt; rose; \n2 =&gt; calendula; \n3 =&gt; iris; \n4 =&gt; leucanthemum maximum (Shasta daisy); \n5 =&gt; campanula (bellflower); \n6 =&gt; viola; \n7 =&gt; rudbeckia laciniata (Goldquelle); \n8 =&gt; peony; \n9 =&gt; aquilegia; \n10=&gt; rhododendron ;\n11 =&gt; passiflora; \n12 =&gt; tulip; \n13 =&gt; water lily; \n14 =&gt; lilium;\n15 =&gt; veronica chamaedrys;\n16 =&gt; cosmos;\n17 =&gt; aster annual;\n18 =&gt; aster perennial;\n19 =&gt; snowdrop.\n\n## $$\\color{#ff35fe}{\\mathbb{Acknowledgments}}$$\nAs an owner of this database, I have published it for absolutely free usage by any site visitor.\n\n## $$\\color{#ff35fe}{\\mathbb{Usage}}$$\nAccurate classification of plant species with a small number of images isn't a trivial task. \nI hope this set can be interesting for training skills in this field. \nA wide spectrum of algorithms can be used for classification.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "plants",
+    "classification",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

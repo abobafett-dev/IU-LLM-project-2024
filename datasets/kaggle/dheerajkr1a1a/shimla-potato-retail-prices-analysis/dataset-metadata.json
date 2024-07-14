@@ -1,0 +1,41 @@
+{
+  "id": "dheerajkr1a1a/shimla-potato-retail-prices-analysis",
+  "id_no": 3572099,
+  "datasetSlugNullable": "shimla-potato-retail-prices-analysis",
+  "ownerUserNullable": "dheerajkr1a1a",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Shimla potato retail prices analysis",
+  "subtitleNullable": "Unraveling Shimla's Potato Retail Price Trends: A Comprehensive Analysis",
+  "descriptionNullable": "For code report:\nhttps://iitkgpacin-my.sharepoint.com/:w:/g/personal/dheerajkr_kgpian_iitkgp_ac_in/EdEharJbv2REtpDIPTob6h8B3Pb0krIR1EjREC3Syslk4Q?e=fsrpaW\n\nThis is the data specifically for Shimla city, it involves complete_data(Prices and arrival quantity), rainfall, temperature, GDP, CPI, Fertilizers subsidy rates, Diesel prices and Reserves.\n\nSource for Fert_shimla_dies_price.csv: Its the output file of the following notebook:\nhttps://www.kaggle.com/code/dheerajkr1a1a/shimla-data-of-other-variables\n\nSource for Rainfal_shimla.csv:  Its the output file of the following notebook:\nhttps://www.kaggle.com/dheerajkr1a1a/shimla-lat-long-to-timeseries\n\nSource for Suni_temp_data.csv: Its the output file of the following notebook:\nhttps://www.kaggle.com/code/dheerajkr1a1a/shimla-precise-temp-data\n\nSource for complete_data.csv: Its the output file of the following notebook: \nhttps://www.kaggle.com/dheerajkr1a1a/potato-data-reorganisation\n\nSource for gdp and cpi merged.csv: Its the output file of the following notebook: \nhttps://www.kaggle.com/code/dheerajkr1a1a/shimla-data-of-other-variables\n",
+  "datasetId": 3572099,
+  "datasetSlug": "shimla-potato-retail-prices-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "dheerajkr1a1a",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 300,
+  "totalVotes": 2,
+  "totalDownloads": 20,
+  "title": "Shimla potato retail prices analysis",
+  "hasTitle": true,
+  "subtitle": "Unraveling Shimla's Potato Retail Price Trends: A Comprehensive Analysis",
+  "hasSubtitle": true,
+  "description": "For code report:\nhttps://iitkgpacin-my.sharepoint.com/:w:/g/personal/dheerajkr_kgpian_iitkgp_ac_in/EdEharJbv2REtpDIPTob6h8B3Pb0krIR1EjREC3Syslk4Q?e=fsrpaW\n\nThis is the data specifically for Shimla city, it involves complete_data(Prices and arrival quantity), rainfall, temperature, GDP, CPI, Fertilizers subsidy rates, Diesel prices and Reserves.\n\nSource for Fert_shimla_dies_price.csv: Its the output file of the following notebook:\nhttps://www.kaggle.com/code/dheerajkr1a1a/shimla-data-of-other-variables\n\nSource for Rainfal_shimla.csv:  Its the output file of the following notebook:\nhttps://www.kaggle.com/dheerajkr1a1a/shimla-lat-long-to-timeseries\n\nSource for Suni_temp_data.csv: Its the output file of the following notebook:\nhttps://www.kaggle.com/code/dheerajkr1a1a/shimla-precise-temp-data\n\nSource for complete_data.csv: Its the output file of the following notebook: \nhttps://www.kaggle.com/dheerajkr1a1a/potato-data-reorganisation\n\nSource for gdp and cpi merged.csv: Its the output file of the following notebook: \nhttps://www.kaggle.com/code/dheerajkr1a1a/shimla-data-of-other-variables\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "agriculture",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

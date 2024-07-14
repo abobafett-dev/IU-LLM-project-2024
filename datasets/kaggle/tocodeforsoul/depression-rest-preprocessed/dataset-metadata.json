@@ -1,0 +1,40 @@
+{
+  "id": "tocodeforsoul/depression-rest-preprocessed",
+  "id_no": 519353,
+  "datasetSlugNullable": "depression-rest-preprocessed",
+  "ownerUserNullable": "tocodeforsoul",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Depression-Rest Dataset Preprocessed",
+  "subtitleNullable": "PreProcessed Depression-Rest Dataset Featured and Raw Flatten Versions",
+  "descriptionNullable": "# Context\n\nDepression-Rest EEG Signals from 122 subjects - Depression Severity Level Detection\nBDI-II. Total score of 0\u201313 is considered minimal range, 14\u201319 is mild, 20\u201328 is moderate, and 29\u201363 is severe.\nSource: http://predict.cs.unm.edu/downloads.php\nEEG signals - 122 subjects - 3 invalid subjects - 3 useless results (missign too many events)\n\n# Content\n\nWe have preprocess all files (subjects) and the result  is uploaded.\nThere are two versions, featured and raw, which are split based on events.\n\n### Features:\nThe list of features is as following:\nMin, Max, STD, Mean, Median, Activity, Mobility, Complexity, Kurtosis, 2nd Difference Mean, 2nd Difference Max, 1st Difference Mean, 1st Difference Max, Coeffiecient of Variation, Skewness, Wavelet Approximate Mean, Wavelet Approximate Std Deviation, Wavelet Detailed Mean, Wavelet Detailed Std Deviation, Wavelet Approximate Energy, Wavelet Detailed Energy, Wavelet Approximate Entropy, Wavelet Detailed Entropy, Mean of Vertex to Vertex Slope, Var of Vertex to Vertex Slope, FFT Delta Max Power, FFT Theta Max Power, FFT Alpha Max Power, FFT Beta Max Power, Delta/Alpha, Delta/Theta\n\n### Events:\n'01', '02', '03', '04', '05', '06', '11', '12', '13', '14', '15', '16'\nOther events are ignored\n\n### Channels:\nThere are 62 channels as following:\nchs = ['FP1','FPZ','FP2','AF3','AF4','F7','F5','F3','F1','FZ','F2','F4','F6','F8','FT7','FC5','FC3','FC1','FCZ','FC2','FC4','FC6','FT8','T7','C5','C3','C1','CZ','C2','C4','C6','T8','M1','TP7','CP5','CP3','CP1','CPZ','CP2','CP4','CP6','TP8','M2','P7','P5','P3','P1','PZ','P2','P4','P6','P8','PO7','PO5','PO3','POZ','PO4','PO6','PO8','O1','OZ','O2']\nIgnored channels:\nbadChannels = ['CB1', 'CB2', 'EKG', 'HEOG', 'VEOG']\n\n### Examples:\n507_feat_ev01.npy\nSubject ID: 507\nEvent: 01\nType: Features (of continuous epochs of the Event - Ex: 1epoch of event 01, ..., 4 epochs of event 01, ...)\nShape: (36, 1922) - 36 epochs - 31 features * 62 channels (order of channels [0,1,2,3,....,62])\nDescription: Since all subjects did not have the same length per event, we cropped-(and/or)-padded all subjects to a value near the mean of lengths of subjects in the specific event (mean +/- N ; calculated to minimize lost/added signal length per event ). Ex: for Event 01, subject 507 had (34, 1922) shape, and subject 508 had (37,1922), ..., and so on; Thus we decided 36 as the best length, and we cropped or padded the signal of Event 01  for each subject to this length\n\n507_flat_ev01.npy\nSubject ID: 507\nEvent: 01\nType: Raw Epoched Signal (of continuous epochs of the Event - Ex: 1epoch of event 01, ..., 4 epochs of event 01, ...)\nShape: (33285, 62) - 33285 continuous epochs - 62 channels (order of channels [0,1,2,3,....,62])\nDescription: Since all subjects did not have the same length per event, we cropped-(and/or)-padded all subjects to a value near the mean of lengths of subjects in the specific event (mean +/- N ; calculated to minimize lost/added signal length per event ). Ex: for Event 01, subject 507 had (33230, 62) shape, and subject 508 had (33400, 62), ..., and so on; Thus we decided 33285 as the best length for this Event, and we cropped or padded the signal of Event 01  for each subject to this length\n",
+  "datasetId": 519353,
+  "datasetSlug": "depression-rest-preprocessed",
+  "hasDatasetSlug": true,
+  "ownerUser": "tocodeforsoul",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 13615,
+  "totalVotes": 20,
+  "totalDownloads": 932,
+  "title": "Depression-Rest Dataset Preprocessed",
+  "hasTitle": true,
+  "subtitle": "PreProcessed Depression-Rest Dataset Featured and Raw Flatten Versions",
+  "hasSubtitle": true,
+  "description": "# Context\n\nDepression-Rest EEG Signals from 122 subjects - Depression Severity Level Detection\nBDI-II. Total score of 0\u201313 is considered minimal range, 14\u201319 is mild, 20\u201328 is moderate, and 29\u201363 is severe.\nSource: http://predict.cs.unm.edu/downloads.php\nEEG signals - 122 subjects - 3 invalid subjects - 3 useless results (missign too many events)\n\n# Content\n\nWe have preprocess all files (subjects) and the result  is uploaded.\nThere are two versions, featured and raw, which are split based on events.\n\n### Features:\nThe list of features is as following:\nMin, Max, STD, Mean, Median, Activity, Mobility, Complexity, Kurtosis, 2nd Difference Mean, 2nd Difference Max, 1st Difference Mean, 1st Difference Max, Coeffiecient of Variation, Skewness, Wavelet Approximate Mean, Wavelet Approximate Std Deviation, Wavelet Detailed Mean, Wavelet Detailed Std Deviation, Wavelet Approximate Energy, Wavelet Detailed Energy, Wavelet Approximate Entropy, Wavelet Detailed Entropy, Mean of Vertex to Vertex Slope, Var of Vertex to Vertex Slope, FFT Delta Max Power, FFT Theta Max Power, FFT Alpha Max Power, FFT Beta Max Power, Delta/Alpha, Delta/Theta\n\n### Events:\n'01', '02', '03', '04', '05', '06', '11', '12', '13', '14', '15', '16'\nOther events are ignored\n\n### Channels:\nThere are 62 channels as following:\nchs = ['FP1','FPZ','FP2','AF3','AF4','F7','F5','F3','F1','FZ','F2','F4','F6','F8','FT7','FC5','FC3','FC1','FCZ','FC2','FC4','FC6','FT8','T7','C5','C3','C1','CZ','C2','C4','C6','T8','M1','TP7','CP5','CP3','CP1','CPZ','CP2','CP4','CP6','TP8','M2','P7','P5','P3','P1','PZ','P2','P4','P6','P8','PO7','PO5','PO3','POZ','PO4','PO6','PO8','O1','OZ','O2']\nIgnored channels:\nbadChannels = ['CB1', 'CB2', 'EKG', 'HEOG', 'VEOG']\n\n### Examples:\n507_feat_ev01.npy\nSubject ID: 507\nEvent: 01\nType: Features (of continuous epochs of the Event - Ex: 1epoch of event 01, ..., 4 epochs of event 01, ...)\nShape: (36, 1922) - 36 epochs - 31 features * 62 channels (order of channels [0,1,2,3,....,62])\nDescription: Since all subjects did not have the same length per event, we cropped-(and/or)-padded all subjects to a value near the mean of lengths of subjects in the specific event (mean +/- N ; calculated to minimize lost/added signal length per event ). Ex: for Event 01, subject 507 had (34, 1922) shape, and subject 508 had (37,1922), ..., and so on; Thus we decided 36 as the best length, and we cropped or padded the signal of Event 01  for each subject to this length\n\n507_flat_ev01.npy\nSubject ID: 507\nEvent: 01\nType: Raw Epoched Signal (of continuous epochs of the Event - Ex: 1epoch of event 01, ..., 4 epochs of event 01, ...)\nShape: (33285, 62) - 33285 continuous epochs - 62 channels (order of channels [0,1,2,3,....,62])\nDescription: Since all subjects did not have the same length per event, we cropped-(and/or)-padded all subjects to a value near the mean of lengths of subjects in the specific event (mean +/- N ; calculated to minimize lost/added signal length per event ). Ex: for Event 01, subject 507 had (33230, 62) shape, and subject 508 had (33400, 62), ..., and so on; Thus we decided 33285 as the best length for this Event, and we cropped or padded the signal of Event 01  for each subject to this length\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "mental health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

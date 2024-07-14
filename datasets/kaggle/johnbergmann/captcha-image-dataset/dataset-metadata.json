@@ -1,0 +1,44 @@
+{
+  "id": "johnbergmann/captcha-image-dataset",
+  "id_no": 4029245,
+  "datasetSlugNullable": "captcha-image-dataset",
+  "ownerUserNullable": "johnbergmann",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "CAPTCHA Image Dataset",
+  "subtitleNullable": "10,000 web-scraped CAPTCHA's for experimentation with computer vision",
+  "descriptionNullable": "# Source\nThe data has been web-scraped from a publicly available website (which shall remain anonymous).\n\n# Data\nThere are 10,001 Images (the 1 extra image for good luck :D) which are either:\n- Black writing on grey background\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12691542%2F18906391dc690a628c823606638b3117%2F13_c2hdva.jpeg?generation=1700470787969406&alt=media)\n- Or grey writing on white background\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12691542%2Fe49636b2d328796b88ae6993bd298745%2F5_hdebpv.jpeg?generation=1700470820724520&alt=media)\n\nThere are a total of 21 possible characters that make up a CAPTCHA. Furthermore, all CAPTCHAs are 6 characters long and have the dimensions (250x50).\n\n**IMPORTANT!**\nThe scraped CAPTCHAs have been solved/labelled using the 2Captcha API Service. Since (at least the website states so) real humans solved these CAPTCHAs, it is possible that mislabelled data exists. However, I went through the painful process of manually correcting any labels that were not part of the possible 21 characters, not exactly 6 characters long, or just misclassified in general (after using a classifier with 99% validation accuracy to \"track\" them). Still, keep that in mind (humans also get CAPTCHAs wrong from time-to-time :D)\n\n# Use Cases & Inspiration\nI was web-scraping along as you do and came across a CAPTCHA blockade. Thus, creating a classifier using a Neural Net appeared useful and presented a great opportunity for learning/exploration. This dataset is intended for learning/exploration/inspiration! If you do, **keep in mind to always web-scrape respectfully!**\nSome approaches I used with success are:\n- CNN with BCE Loss\n- CNN-LSTM with CTC Loss\n- Convolutional Autoencoder -&gt; Simple NN-Classifier using latent representation of CAPTCHA\n\n# Ideas for Future Use\nImage Segmentation/Classification to split the two types of CAPTCHA. Hence, one can then train even more specialised models for each of the 2 versions.",
+  "datasetId": 4029245,
+  "datasetSlug": "captcha-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "johnbergmann",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2320,
+  "totalVotes": 13,
+  "totalDownloads": 266,
+  "title": "CAPTCHA Image Dataset",
+  "hasTitle": true,
+  "subtitle": "10,000 web-scraped CAPTCHA's for experimentation with computer vision",
+  "hasSubtitle": true,
+  "description": "# Source\nThe data has been web-scraped from a publicly available website (which shall remain anonymous).\n\n# Data\nThere are 10,001 Images (the 1 extra image for good luck :D) which are either:\n- Black writing on grey background\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12691542%2F18906391dc690a628c823606638b3117%2F13_c2hdva.jpeg?generation=1700470787969406&alt=media)\n- Or grey writing on white background\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12691542%2Fe49636b2d328796b88ae6993bd298745%2F5_hdebpv.jpeg?generation=1700470820724520&alt=media)\n\nThere are a total of 21 possible characters that make up a CAPTCHA. Furthermore, all CAPTCHAs are 6 characters long and have the dimensions (250x50).\n\n**IMPORTANT!**\nThe scraped CAPTCHAs have been solved/labelled using the 2Captcha API Service. Since (at least the website states so) real humans solved these CAPTCHAs, it is possible that mislabelled data exists. However, I went through the painful process of manually correcting any labels that were not part of the possible 21 characters, not exactly 6 characters long, or just misclassified in general (after using a classifier with 99% validation accuracy to \"track\" them). Still, keep that in mind (humans also get CAPTCHAs wrong from time-to-time :D)\n\n# Use Cases & Inspiration\nI was web-scraping along as you do and came across a CAPTCHA blockade. Thus, creating a classifier using a Neural Net appeared useful and presented a great opportunity for learning/exploration. This dataset is intended for learning/exploration/inspiration! If you do, **keep in mind to always web-scrape respectfully!**\nSome approaches I used with success are:\n- CNN with BCE Loss\n- CNN-LSTM with CTC Loss\n- Convolutional Autoencoder -&gt; Simple NN-Classifier using latent representation of CAPTCHA\n\n# Ideas for Future Use\nImage Segmentation/Classification to split the two types of CAPTCHA. Hence, one can then train even more specialised models for each of the 2 versions.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "artificial intelligence",
+    "intermediate",
+    "computer vision",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

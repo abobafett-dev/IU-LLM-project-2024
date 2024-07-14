@@ -1,0 +1,48 @@
+{
+  "id": "chaudharyanshul/airline-reviews",
+  "id_no": 4044107,
+  "datasetSlugNullable": "airline-reviews",
+  "ownerUserNullable": "chaudharyanshul",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Airline Reviews",
+  "subtitleNullable": "Airline Review Data to do Sentiment Analysis",
+  "descriptionNullable": "# **British Airways Customer Feedback Dataset**\n\n## **Overview:**\nThis dataset contains customer feedback for British Airways, extracted from [AirlineQuality](https://www.airlinequality.com/) through web scraping. The dataset is a rich resource for sentiment analysis, enabling researchers and data enthusiasts to explore and understand the sentiments expressed by British Airways passengers.\n\n## **Columns:**\n\n- **OverallRating:** The overall rating given by the customer.\n- **ReviewHeader:** The header or title of the customer's review.\n- **Name:** The name of the customer providing the feedback.\n- **Datetime:** The date and time when the feedback was posted.\n- **VerifiedReview:** Indicates whether the review is verified or not.\n- **ReviewBody:** The detailed body of the customer's review.\n- **TypeOfTraveller:** The type of traveler (e.g., Business, Leisure).\n- **SeatType:** Class of the traveler (e.g. Business, Economy).\n- **Route:** The flight route taken by the customer.\n- **DateFlown:** The date when the flight was taken.\n- **SeatComfort:** Rating for seat comfort.\n- **CabinStaffService:** Rating for cabin staff service.\n- **GroundService:** Rating for ground service.\n- **ValueForMoney:** Rating for the value for money.\n- **Recommended:** Whether the customer recommends British Airways.\n- **Aircraft:** The aircraft used for the flight.\n- **Food&Beverages:** Rating for food and beverages.\n- **InflightEntertainment:** Rating for inflight entertainment.\n- **Wifi&Connectivity:** Rating for onboard wifi and connectivity.\n\n## **Potential Use Cases:**\n- **Sentiment Analysis:** Analyze the sentiments of customers based on their reviews.\n- **Service Quality Assessment:** Assess the quality of various services provided by British Airways.\n- **Route Performance:** Examine customer feedback specific to flight routes.\n- **Aircraft Experience:** Understand customer opinions on different aircraft.\n\n## **Citation:**\nIf you use this dataset in your research or analysis, please consider citing it with the following information:\n\nAnshul Chaudhary, & Muskan Risinghani. (2023). <i>Airline Reviews</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/4044107\n\n\n## **Note:**\nThis dataset is for educational and research purposes only. The opinions expressed in the reviews are those of the individual customers and do not necessarily reflect the views of the dataset creator.\n",
+  "datasetId": 4044107,
+  "datasetSlug": "airline-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "chaudharyanshul",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 15066,
+  "totalVotes": 39,
+  "totalDownloads": 2996,
+  "title": "Airline Reviews",
+  "hasTitle": true,
+  "subtitle": "Airline Review Data to do Sentiment Analysis",
+  "hasSubtitle": true,
+  "description": "# **British Airways Customer Feedback Dataset**\n\n## **Overview:**\nThis dataset contains customer feedback for British Airways, extracted from [AirlineQuality](https://www.airlinequality.com/) through web scraping. The dataset is a rich resource for sentiment analysis, enabling researchers and data enthusiasts to explore and understand the sentiments expressed by British Airways passengers.\n\n## **Columns:**\n\n- **OverallRating:** The overall rating given by the customer.\n- **ReviewHeader:** The header or title of the customer's review.\n- **Name:** The name of the customer providing the feedback.\n- **Datetime:** The date and time when the feedback was posted.\n- **VerifiedReview:** Indicates whether the review is verified or not.\n- **ReviewBody:** The detailed body of the customer's review.\n- **TypeOfTraveller:** The type of traveler (e.g., Business, Leisure).\n- **SeatType:** Class of the traveler (e.g. Business, Economy).\n- **Route:** The flight route taken by the customer.\n- **DateFlown:** The date when the flight was taken.\n- **SeatComfort:** Rating for seat comfort.\n- **CabinStaffService:** Rating for cabin staff service.\n- **GroundService:** Rating for ground service.\n- **ValueForMoney:** Rating for the value for money.\n- **Recommended:** Whether the customer recommends British Airways.\n- **Aircraft:** The aircraft used for the flight.\n- **Food&Beverages:** Rating for food and beverages.\n- **InflightEntertainment:** Rating for inflight entertainment.\n- **Wifi&Connectivity:** Rating for onboard wifi and connectivity.\n\n## **Potential Use Cases:**\n- **Sentiment Analysis:** Analyze the sentiments of customers based on their reviews.\n- **Service Quality Assessment:** Assess the quality of various services provided by British Airways.\n- **Route Performance:** Examine customer feedback specific to flight routes.\n- **Aircraft Experience:** Understand customer opinions on different aircraft.\n\n## **Citation:**\nIf you use this dataset in your research or analysis, please consider citing it with the following information:\n\nAnshul Chaudhary, & Muskan Risinghani. (2023). <i>Airline Reviews</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/4044107\n\n\n## **Note:**\nThis dataset is for educational and research purposes only. The opinions expressed in the reviews are those of the individual customers and do not necessarily reflect the views of the dataset creator.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "data cleaning",
+    "nlp",
+    "data analytics",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "muskanraisinghani",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

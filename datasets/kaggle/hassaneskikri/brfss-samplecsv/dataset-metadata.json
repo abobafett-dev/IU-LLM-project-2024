@@ -1,0 +1,39 @@
+{
+  "id": "hassaneskikri/brfss-samplecsv",
+  "id_no": 3717982,
+  "datasetSlugNullable": "brfss-samplecsv",
+  "ownerUserNullable": "hassaneskikri",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Deciphering Health Patterns: BRFSS Lifestyle ",
+  "subtitleNullable": "Analyzing Behavioral Risk Factors and Health Outcomes in the US Population",
+  "descriptionNullable": "# Behavioral Risk Factor Surveillance System (BRFSS) Dataset Snapshot\n\nclick here [dataset] (https://www.cdc.gov/brfss/annual_data/annual_data.htm) for the original dataset.\nRisk Factor Surveillance System (BRFSS), the United States' primary system of health-related telephone surveys. It collects data from U.S. residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services. The dataset focuses on key indicators like heart disease, smoking, alcohol consumption, and more, offering a comprehensive view of the health profiles of individuals across various demographics.\n\nUse this dataset for epidemiological studies, public health policy-making, or enhancing predictive models in healthcare analytics. Explore how lifestyle choices affect health outcomes and contribute to scientific research by identifying hidden patterns and trends.\n\n**License**:\nData from the BRFSS is provided by the Centers for Disease Control and Prevention (CDC). Confirm licensing directly from the CDC\u2019s website or the original source of the BRFSS data before publishing. Although government data is typically public domain, it's essential to verify the specific terms of use for redistribution.\n\n## Column Descriptions:\n\n- **HeartDisease**: Indicates if the respondent has heart disease (Yes/No).\n- **Smoking**: Indicates if the respondent is a smoker (Yes/No).\n- **AlcoholDrinking**: Indicates if the respondent consumes alcohol (Yes/No).\n- **Stroke**: Indicates if the respondent has had a stroke (Yes/No).\n- **PhysicalHealth**: Numeric value indicating the number of days of poor physical health in the past month.\n- **MentalHealth**: Numeric value indicating the number of days of poor mental health in the past month.\n- **DiffWalking**: Indicates if the respondent has difficulty walking (Yes/No).\n- **Sex**: Gender of the respondent (e.g., Male, Female).\n- **AgeCategory**: Categorical age range of the respondent (e.g., 18-24, 25-29, ...).\n- **Race**: Race of the respondent (e.g., White, Black, Hispanic, ...).\n- **Diabetic**: Indicates if the respondent is diabetic (Yes/No).\n- **PhysicalActivity**: Indicates if the respondent engages in physical activity (Yes/No).\n- **GenHealth**: General health condition of the respondent (e.g., Excellent, Very good, Good, ...).\n- **SleepTime**: Numeric value indicating the average number of hours the respondent sleeps in a 24-hour period.\n- **Asthma**: Indicates if the respondent has asthma (Yes/No).\n- **KidneyDisease**: Indicates if the respondent has kidney disease (Yes/No).\n- **SkinCancer**: Indicates if the respondent has skin cancer (Yes/No).\n",
+  "datasetId": 3717982,
+  "datasetSlug": "brfss-samplecsv",
+  "hasDatasetSlug": true,
+  "ownerUser": "hassaneskikri",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 412,
+  "totalVotes": 8,
+  "totalDownloads": 45,
+  "title": "Deciphering Health Patterns: BRFSS Lifestyle ",
+  "hasTitle": true,
+  "subtitle": "Analyzing Behavioral Risk Factors and Health Outcomes in the US Population",
+  "hasSubtitle": true,
+  "description": "# Behavioral Risk Factor Surveillance System (BRFSS) Dataset Snapshot\n\nclick here [dataset] (https://www.cdc.gov/brfss/annual_data/annual_data.htm) for the original dataset.\nRisk Factor Surveillance System (BRFSS), the United States' primary system of health-related telephone surveys. It collects data from U.S. residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services. The dataset focuses on key indicators like heart disease, smoking, alcohol consumption, and more, offering a comprehensive view of the health profiles of individuals across various demographics.\n\nUse this dataset for epidemiological studies, public health policy-making, or enhancing predictive models in healthcare analytics. Explore how lifestyle choices affect health outcomes and contribute to scientific research by identifying hidden patterns and trends.\n\n**License**:\nData from the BRFSS is provided by the Centers for Disease Control and Prevention (CDC). Confirm licensing directly from the CDC\u2019s website or the original source of the BRFSS data before publishing. Although government data is typically public domain, it's essential to verify the specific terms of use for redistribution.\n\n## Column Descriptions:\n\n- **HeartDisease**: Indicates if the respondent has heart disease (Yes/No).\n- **Smoking**: Indicates if the respondent is a smoker (Yes/No).\n- **AlcoholDrinking**: Indicates if the respondent consumes alcohol (Yes/No).\n- **Stroke**: Indicates if the respondent has had a stroke (Yes/No).\n- **PhysicalHealth**: Numeric value indicating the number of days of poor physical health in the past month.\n- **MentalHealth**: Numeric value indicating the number of days of poor mental health in the past month.\n- **DiffWalking**: Indicates if the respondent has difficulty walking (Yes/No).\n- **Sex**: Gender of the respondent (e.g., Male, Female).\n- **AgeCategory**: Categorical age range of the respondent (e.g., 18-24, 25-29, ...).\n- **Race**: Race of the respondent (e.g., White, Black, Hispanic, ...).\n- **Diabetic**: Indicates if the respondent is diabetic (Yes/No).\n- **PhysicalActivity**: Indicates if the respondent engages in physical activity (Yes/No).\n- **GenHealth**: General health condition of the respondent (e.g., Excellent, Very good, Good, ...).\n- **SleepTime**: Numeric value indicating the average number of hours the respondent sleeps in a 24-hour period.\n- **Asthma**: Indicates if the respondent has asthma (Yes/No).\n- **KidneyDisease**: Indicates if the respondent has kidney disease (Yes/No).\n- **SkinCancer**: Indicates if the respondent has skin cancer (Yes/No).\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

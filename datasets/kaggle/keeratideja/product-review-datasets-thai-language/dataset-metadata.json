@@ -1,0 +1,43 @@
+{
+  "id": "keeratideja/product-review-datasets-thai-language",
+  "id_no": 4267939,
+  "datasetSlugNullable": "product-review-datasets-thai-language",
+  "ownerUserNullable": "keeratideja",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Beauty Product Review Dataset (Thai Language)",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset was collected from https://www.vanilla.in.th/ -- The largest beauty product review website in Thailand. The objective of this dataset was for the Sentiment Analysis project.\n\nColumn Description\nRate : Each review accompanies with 5-star rating. (By common sense, 1-star rating should mean 'Strongly Unsatisfied' and 5-star rating should mean 'Strongly Satisfied'.)\nReview : Customer reviews in various length.",
+  "datasetId": 4267939,
+  "datasetSlug": "product-review-datasets-thai-language",
+  "hasDatasetSlug": true,
+  "ownerUser": "keeratideja",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 279,
+  "totalVotes": 2,
+  "totalDownloads": 49,
+  "title": "Beauty Product Review Dataset (Thai Language)",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset was collected from https://www.vanilla.in.th/ -- The largest beauty product review website in Thailand. The objective of this dataset was for the Sentiment Analysis project.\n\nColumn Description\nRate : Each review accompanies with 5-star rating. (By common sense, 1-star rating should mean 'Strongly Unsatisfied' and 5-star rating should mean 'Strongly Satisfied'.)\nReview : Customer reviews in various length.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "linguistics",
+    "nlp",
+    "make-up and cosmetics",
+    "text classification",
+    "thai"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

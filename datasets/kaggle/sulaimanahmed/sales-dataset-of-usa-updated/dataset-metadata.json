@@ -1,0 +1,43 @@
+{
+  "id": "sulaimanahmed/sales-dataset-of-usa-updated",
+  "id_no": 3427008,
+  "datasetSlugNullable": "sales-dataset-of-usa-updated",
+  "ownerUserNullable": "sulaimanahmed",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Sales Dataset of USA [Updated]",
+  "subtitleNullable": "The sales dataset provided offers a comprehensive view of various aspects.",
+  "descriptionNullable": "The given dataset appears to be a sales dataset containing information about different orders. Here is a description of the data:\n\n1. Row ID: An identifier for each row in the dataset.\n2. Order ID: Unique identifier for each order.\n3. Order Date: The date when the order was placed.\n4. Ship Date: The date when the order was shipped.\n5. Ship Mode: The mode of shipping chosen for the order.\n6. Customer ID: Unique identifier for each customer.\n7. Customer Name: Name of the customer who placed the order.\n8. Segment: The segment to which the customer belongs (e.g., consumer, corporate).\n9. Country: The country where the order was placed (in this case, United States).\n10. City: The city where the order was placed.\n11. State: The state where the order was placed.\n12. Postal Code: The postal code associated with the order's location.\n13. Region: The region of the country where the order was placed.\n14. Product ID: Unique identifier for each product.\n15. Category: The category to which the product belongs (e.g., furniture, office supplies).\n16. Sub-Category: The sub-category to which the product belongs (e.g., bookcases, chairs).\n17. Product Name: The name of the product.\n18. Cost: The cost of the product.\n19. Price: The price at which the product was sold.\n20. Profit: The profit made from the sale of the product.\n21. Quantity: The quantity of the product ordered.\n22. Sales: The total sales generated from the order (quantity multiplied by price).\n\nThe dataset provides detailed information about each order, including customer details, product details, sales information, and shipping information. It can be used to analyze various aspects of the sales data, such as profitability, customer segments, product categories, and regional sales performance.",
+  "datasetId": 3427008,
+  "datasetSlug": "sales-dataset-of-usa-updated",
+  "hasDatasetSlug": true,
+  "ownerUser": "sulaimanahmed",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 1835,
+  "totalVotes": 2,
+  "totalDownloads": 446,
+  "title": "Sales Dataset of USA [Updated]",
+  "hasTitle": true,
+  "subtitle": "The sales dataset provided offers a comprehensive view of various aspects.",
+  "hasSubtitle": true,
+  "description": "The given dataset appears to be a sales dataset containing information about different orders. Here is a description of the data:\n\n1. Row ID: An identifier for each row in the dataset.\n2. Order ID: Unique identifier for each order.\n3. Order Date: The date when the order was placed.\n4. Ship Date: The date when the order was shipped.\n5. Ship Mode: The mode of shipping chosen for the order.\n6. Customer ID: Unique identifier for each customer.\n7. Customer Name: Name of the customer who placed the order.\n8. Segment: The segment to which the customer belongs (e.g., consumer, corporate).\n9. Country: The country where the order was placed (in this case, United States).\n10. City: The city where the order was placed.\n11. State: The state where the order was placed.\n12. Postal Code: The postal code associated with the order's location.\n13. Region: The region of the country where the order was placed.\n14. Product ID: Unique identifier for each product.\n15. Category: The category to which the product belongs (e.g., furniture, office supplies).\n16. Sub-Category: The sub-category to which the product belongs (e.g., bookcases, chairs).\n17. Product Name: The name of the product.\n18. Cost: The cost of the product.\n19. Price: The price at which the product was sold.\n20. Profit: The profit made from the sale of the product.\n21. Quantity: The quantity of the product ordered.\n22. Sales: The total sales generated from the order (quantity multiplied by price).\n\nThe dataset provides detailed information about each order, including customer details, product details, sales information, and shipping information. It can be used to analyze various aspects of the sales data, such as profitability, customer segments, product categories, and regional sales performance.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "exploratory data analysis",
+    "data visualization",
+    "data analytics",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

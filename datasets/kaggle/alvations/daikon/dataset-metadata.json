@@ -1,0 +1,41 @@
+{
+  "id": "alvations/daikon",
+  "id_no": 1990,
+  "datasetSlugNullable": "daikon",
+  "ownerUserNullable": "alvations",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Daikon (Diachronic Corpus)",
+  "subtitleNullable": "Historic texts from the British Spector news magazine",
+  "descriptionNullable": "### Context\n\nThe Daikon Corpus was created during the [Diachronic Text Evaluation task in SemEval-2015](http://alt.qcri.org/semeval2015/task7/). The task was to create a system that can date a piece of text. \n\nFor example, given a text snippet:\n\n> \u201cDictator **Saddam Hussein** ordered his troops to march into Kuwait.\n> After the invasion is condemned by the **UN Security Council**, the US has\n> forged a coalition with allies. **Today** American troops are sent to\n> Saudi Arabia in **Operation Desert Shield**, protecting Saudi Arabia from\n> possible attack.\u201d\n\n\nThe text has clear **temporal evidence with reference** to a\n\n - historical figure (\u201cSaddam Hussein\u201d), \n - notable organization (\u201cUN Security Council\u201d) \n - factual event (\u201cOperation Desert Shield\u201d).\n\nHistorically, we know that \n\n - Saddam Hussein lived between 1937 to 2006, \n - UN Security Council has existed since 1946 \n - Operation Desert Shield (i.e. the Gulf War) occurred between 1990-1991\n\nGiven the specific chronic deicticity (\u201ctoday\u201d) that indicates that the text is published during the Gulf War, we can conceive that the **text snippet should be dated 1990-1991**.\n\n\n### Content\n\nThe Daikon Corpus is made up of articles from the British Spectator news magazine from year 828 to 2008.\n\nThe corpus contains 24,280 articles with 19 million tokens; the token count is calculated by summing the number of whitespaces plus 1 for each paragraph.\n\nThe Daikon corpus is saved in the JSON format, where the outer most-structure is a list and the inner data structure is a key-value dictionary/hashmap that contains the:\n\n - **url**: URL where the original article resides\n - **date**: Date of the article\n - **body**: A list of paragraphs\n - **title**: Title of the text \n\n**Note:** If the url is broken, try **removing the `.html`** suffix of the url. e.g. change \n\n    http://archive.spectator.co.uk/article/24th-september-2005/57/doctor-in-the-house.html \n\nto \n\n    http://archive.spectator.co.uk/article/24th-september-2005/57/doctor-in-the-house\n\n \n### Citations\n\n    Liling Tan and Noam Ordan. 2015. \n    USAAR-CHRONOS:  Crawling the Web for Temporal Annotations. \n    In Proceedings of Ninth International Workshop on \n    Semantic Evaluation (SemEval 2015). Denver, USA.\n\nTask reference:\n\n    Octavian Popescu and Carlo Strapparava. \n    SemEval 2015, Task 7: Diachronic Text Evaluation. \n    In Proceedings of Ninth International Workshop on \n    Semantic Evaluation (SemEval 2015). Denver, USA.\n\nDataset image comes from [Jonathan Pielmayer](https://unsplash.com/search/photos/white-carrot?photo=eFFnKMiDMGc)\n\n\n### Inspiration\n\nLet's make an artificially intelligent \"[Flynn Carsen](http://www.imdb.com/character/ch0046866/)\" !!",
+  "datasetId": 1990,
+  "datasetSlug": "daikon",
+  "hasDatasetSlug": true,
+  "ownerUser": "alvations",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4930,
+  "totalVotes": 6,
+  "totalDownloads": 134,
+  "title": "Daikon (Diachronic Corpus)",
+  "hasTitle": true,
+  "subtitle": "Historic texts from the British Spector news magazine",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe Daikon Corpus was created during the [Diachronic Text Evaluation task in SemEval-2015](http://alt.qcri.org/semeval2015/task7/). The task was to create a system that can date a piece of text. \n\nFor example, given a text snippet:\n\n> \u201cDictator **Saddam Hussein** ordered his troops to march into Kuwait.\n> After the invasion is condemned by the **UN Security Council**, the US has\n> forged a coalition with allies. **Today** American troops are sent to\n> Saudi Arabia in **Operation Desert Shield**, protecting Saudi Arabia from\n> possible attack.\u201d\n\n\nThe text has clear **temporal evidence with reference** to a\n\n - historical figure (\u201cSaddam Hussein\u201d), \n - notable organization (\u201cUN Security Council\u201d) \n - factual event (\u201cOperation Desert Shield\u201d).\n\nHistorically, we know that \n\n - Saddam Hussein lived between 1937 to 2006, \n - UN Security Council has existed since 1946 \n - Operation Desert Shield (i.e. the Gulf War) occurred between 1990-1991\n\nGiven the specific chronic deicticity (\u201ctoday\u201d) that indicates that the text is published during the Gulf War, we can conceive that the **text snippet should be dated 1990-1991**.\n\n\n### Content\n\nThe Daikon Corpus is made up of articles from the British Spectator news magazine from year 828 to 2008.\n\nThe corpus contains 24,280 articles with 19 million tokens; the token count is calculated by summing the number of whitespaces plus 1 for each paragraph.\n\nThe Daikon corpus is saved in the JSON format, where the outer most-structure is a list and the inner data structure is a key-value dictionary/hashmap that contains the:\n\n - **url**: URL where the original article resides\n - **date**: Date of the article\n - **body**: A list of paragraphs\n - **title**: Title of the text \n\n**Note:** If the url is broken, try **removing the `.html`** suffix of the url. e.g. change \n\n    http://archive.spectator.co.uk/article/24th-september-2005/57/doctor-in-the-house.html \n\nto \n\n    http://archive.spectator.co.uk/article/24th-september-2005/57/doctor-in-the-house\n\n \n### Citations\n\n    Liling Tan and Noam Ordan. 2015. \n    USAAR-CHRONOS:  Crawling the Web for Temporal Annotations. \n    In Proceedings of Ninth International Workshop on \n    Semantic Evaluation (SemEval 2015). Denver, USA.\n\nTask reference:\n\n    Octavian Popescu and Carlo Strapparava. \n    SemEval 2015, Task 7: Diachronic Text Evaluation. \n    In Proceedings of Ninth International Workshop on \n    Semantic Evaluation (SemEval 2015). Denver, USA.\n\nDataset image comes from [Jonathan Pielmayer](https://unsplash.com/search/photos/white-carrot?photo=eFFnKMiDMGc)\n\n\n### Inspiration\n\nLet's make an artificially intelligent \"[Flynn Carsen](http://www.imdb.com/character/ch0046866/)\" !!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "cooking and recipes",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

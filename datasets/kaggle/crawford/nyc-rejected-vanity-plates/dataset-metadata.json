@@ -1,0 +1,41 @@
+{
+  "id": "crawford/nyc-rejected-vanity-plates",
+  "id_no": 1603,
+  "datasetSlugNullable": "nyc-rejected-vanity-plates",
+  "ownerUserNullable": "crawford",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "NYC Rejected Vanity Plates",
+  "subtitleNullable": "Rejected vanity license plates in NYC from 2010 - 2014",
+  "descriptionNullable": "### Context\n\nThis is a small dataset New York personalized license plate applications received from the New York DMV in response to a July 2014 Freedom of Information Law (FOIL) request. Covers applications from 10/1/2010 to 9/26/2014.\n\n\n### Content\n\n- accepted-plates.csv: CSV of plate applications that were accepted and issued, with order date and plate configuration.\n- rejected-plates.csv: CSV of plate applications that were rejected by the department, with order date and plate configuration.\n- red-guide.csv: A copy of the Red Guide, the list of \"inappropriate\" plate configurations that are automatically disallowed by the New York DMV as of July 2015.\nprocedure.pdf: A document listing the DMV's plate review and cancellation procedures as of June 2014.\n\n\n### Acknowledgements\n \nThis dataset is from a FOIL request by Noah Veltman at Data News. Here are some notes about the process, but check the original source for more information. Thanks to Noah for letting us share this dataset with the Kaggle community!\n\n[https://github.com/datanews/license-plates][2]\n\n- This data may contain explicit or offensive language.\n- Plate configurations in accepted-plates.csv may have since been revoked by the DMV.\n- Plate configurations in rejected-plates.csv were rejected by the department. It does not include plates that were reserved, banned by the Red Guide, or cancelled for administrative reasons.\n- Some plate configurations may exist in multiple applications.\n- A small number of rows may contain erroneous data because of Excel cell formatting in the original prepared files.\n- Although the DMV collects an explanation of the requested combination from each online applicant, that information is not preserved.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?https://github.com/datanews/license-plates[https://github.com/datanews/license-plates][1]\n\n\n\n\n\n  [1]: https://github.com/datanews/license-plates\n  [2]: https://github.com/datanews/license-plates",
+  "datasetId": 1603,
+  "datasetSlug": "nyc-rejected-vanity-plates",
+  "hasDatasetSlug": true,
+  "ownerUser": "crawford",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 7254,
+  "totalVotes": 11,
+  "totalDownloads": 244,
+  "title": "NYC Rejected Vanity Plates",
+  "hasTitle": true,
+  "subtitle": "Rejected vanity license plates in NYC from 2010 - 2014",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is a small dataset New York personalized license plate applications received from the New York DMV in response to a July 2014 Freedom of Information Law (FOIL) request. Covers applications from 10/1/2010 to 9/26/2014.\n\n\n### Content\n\n- accepted-plates.csv: CSV of plate applications that were accepted and issued, with order date and plate configuration.\n- rejected-plates.csv: CSV of plate applications that were rejected by the department, with order date and plate configuration.\n- red-guide.csv: A copy of the Red Guide, the list of \"inappropriate\" plate configurations that are automatically disallowed by the New York DMV as of July 2015.\nprocedure.pdf: A document listing the DMV's plate review and cancellation procedures as of June 2014.\n\n\n### Acknowledgements\n \nThis dataset is from a FOIL request by Noah Veltman at Data News. Here are some notes about the process, but check the original source for more information. Thanks to Noah for letting us share this dataset with the Kaggle community!\n\n[https://github.com/datanews/license-plates][2]\n\n- This data may contain explicit or offensive language.\n- Plate configurations in accepted-plates.csv may have since been revoked by the DMV.\n- Plate configurations in rejected-plates.csv were rejected by the department. It does not include plates that were reserved, banned by the Red Guide, or cancelled for administrative reasons.\n- Some plate configurations may exist in multiple applications.\n- A small number of rows may contain erroneous data because of Excel cell formatting in the original prepared files.\n- Although the DMV collects an explanation of the requested combination from each online applicant, that information is not preserved.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?https://github.com/datanews/license-plates[https://github.com/datanews/license-plates][1]\n\n\n\n\n\n  [1]: https://github.com/datanews/license-plates\n  [2]: https://github.com/datanews/license-plates",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "linguistics",
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

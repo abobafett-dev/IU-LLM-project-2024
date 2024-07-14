@@ -1,0 +1,43 @@
+{
+  "id": "abdelrahmanalimo/sales-ecommerce",
+  "id_no": 3484239,
+  "datasetSlugNullable": "sales-ecommerce",
+  "ownerUserNullable": "abdelrahmanalimo",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Market Sales ",
+  "subtitleNullable": "sales datasets from 2011 to 2014",
+  "descriptionNullable": "This dataset contains historical data of e-commerce sales spanning from 2011 to 2014. It provides insights into the sales transactions, customer behavior, and product trends within an online retail environment. The data is collected from an actual e-commerce platform and can be utilized for various analytical purposes, including sales forecasting, customer segmentation, and market trend analysis.\n\nExample Columns:\n\nInvoice Number: A unique identifier for each sales transaction.\nInvoice Date: The date when the transaction was made.\nCustomer ID: A unique identifier for each customer.\nProduct ID: A unique identifier for each product.\nProduct Description: A brief description of the product being sold.\nQuantity: The quantity of the product purchased in a particular transaction.\nUnit Price: The price of a single unit of the product.\nTotal Price: The total price of the transaction, calculated as Quantity * Unit Price.\nCountry: The country where the transaction took place.\nPayment Method: The method used for payment, such as credit card, PayPal, etc.\nShipping Method: The method used for shipping the products.\nOrder Status: The status of the order, indicating whether it's processed, shipped, delivered, etc.\nDiscount: Any discounts applied to the transaction.\nReturn/Refund: Information about product returns or refunds associated with the transaction.\nCategory: The category or type of the product (e.g., electronics, clothing, home decor).\nUtilizing this dataset, analysts can gain insights into sales trends over time, identify popular products and categories, analyze customer preferences, track the effectiveness of marketing strategies, and make informed business decisions to enhance the overall e-commerce experience.",
+  "datasetId": 3484239,
+  "datasetSlug": "sales-ecommerce",
+  "hasDatasetSlug": true,
+  "ownerUser": "abdelrahmanalimo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 2543,
+  "totalVotes": 10,
+  "totalDownloads": 499,
+  "title": "Market Sales ",
+  "hasTitle": true,
+  "subtitle": "sales datasets from 2011 to 2014",
+  "hasSubtitle": true,
+  "description": "This dataset contains historical data of e-commerce sales spanning from 2011 to 2014. It provides insights into the sales transactions, customer behavior, and product trends within an online retail environment. The data is collected from an actual e-commerce platform and can be utilized for various analytical purposes, including sales forecasting, customer segmentation, and market trend analysis.\n\nExample Columns:\n\nInvoice Number: A unique identifier for each sales transaction.\nInvoice Date: The date when the transaction was made.\nCustomer ID: A unique identifier for each customer.\nProduct ID: A unique identifier for each product.\nProduct Description: A brief description of the product being sold.\nQuantity: The quantity of the product purchased in a particular transaction.\nUnit Price: The price of a single unit of the product.\nTotal Price: The total price of the transaction, calculated as Quantity * Unit Price.\nCountry: The country where the transaction took place.\nPayment Method: The method used for payment, such as credit card, PayPal, etc.\nShipping Method: The method used for shipping the products.\nOrder Status: The status of the order, indicating whether it's processed, shipped, delivered, etc.\nDiscount: Any discounts applied to the transaction.\nReturn/Refund: Information about product returns or refunds associated with the transaction.\nCategory: The category or type of the product (e.g., electronics, clothing, home decor).\nUtilizing this dataset, analysts can gain insights into sales trends over time, identify popular products and categories, analyze customer preferences, track the effectiveness of marketing strategies, and make informed business decisions to enhance the overall e-commerce experience.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "artificial intelligence",
+    "beginner",
+    "intermediate",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

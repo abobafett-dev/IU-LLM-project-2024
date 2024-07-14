@@ -1,0 +1,40 @@
+{
+  "id": "shubhamjain27/telugu-news-articles",
+  "id_no": 770123,
+  "datasetSlugNullable": "telugu-news-articles",
+  "ownerUserNullable": "shubhamjain27",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Telugu News Articles",
+  "subtitleNullable": "Perform Text Classification in Telugu using this Dataset",
+  "descriptionNullable": "This data set contains ~20k news articles collected from Eenaadu news website.The data set has been cleaned and contains train and test set using which you can benchmark your Binary classification models in Telugu. This dataset has been used in iNLTK library.",
+  "datasetId": 770123,
+  "datasetSlug": "telugu-news-articles",
+  "hasDatasetSlug": true,
+  "ownerUser": "shubhamjain27",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 4424,
+  "totalVotes": 2,
+  "totalDownloads": 191,
+  "title": "Telugu News Articles",
+  "hasTitle": true,
+  "subtitle": "Perform Text Classification in Telugu using this Dataset",
+  "hasSubtitle": true,
+  "description": "This data set contains ~20k news articles collected from Eenaadu news website.The data set has been cleaned and contains train and test set using which you can benchmark your Binary classification models in Telugu. This dataset has been used in iNLTK library.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "davedarshan/mymart-a-comprehensive-sales-dataset",
+  "id_no": 4757488,
+  "datasetSlugNullable": "mymart-a-comprehensive-sales-dataset",
+  "ownerUserNullable": "davedarshan",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "MyMart: A Comprehensive Sales Dataset",
+  "subtitleNullable": "Exploring the Dynamics of Retail Sales: A Case Study of MyMart",
+  "descriptionNullable": "**This data is artificially generated.** It can be used for **practicing data visualization and analysis skills**. Please note that since the data is generated randomly, it may not reflect real-world sales data accurately. However, it should serve as a good starting point for practicing data analysis and visualization. \n\nDescription : \n\n\u2022\t**Sales Date**: This column contains the date of each sale. The dates are generated for a period of 120 days starting from January 1, 2023.\n\u2022\t**Category**: This column contains the category of the product sold. The categories include \u2018Electronics\u2019, \u2018Clothing\u2019, and \u2018Home & Kitchen\u2019.\n\u2022\t**Subcategory**: This column contains the subcategory of the product sold. Each category has its own set of subcategories. For example, the \u2018Electronics\u2019 category includes subcategories such as \u2018Communication\u2019, \u2018Computers\u2019, and \u2018Wearables\u2019.\n\u2022\t**ProductName**: This column contains the name of the product sold. Each subcategory has its own set of products. For example, the \u2018Communication\u2019 subcategory includes products such as \u2018Walkie Talkie\u2019, \u2018Cell Phone\u2019, and \u2018Smart Phone\u2019.\n\u2022\t**Salesperson**: This column contains the name of the salesperson who made the sale. There are different salespersons assigned to each category.\n\u2022\t**Gender**: This column contains the gender of the salesperson. The gender is determined based on the salesperson\u2019s name.\n\u2022\t**Unit sold:** This column contains the number of units of the product sold in the sale. The number of units sold is a random number between 1 and 100.\n\u2022\t**Original Price**: This column contains the original price of the product. The original price is a random number between 10 and 1000.\n\u2022\t**Sales Price**: This column contains the sales price of the product. The sales price is calculated as a random fraction of the original price, ensuring that the sales price is always slightly higher than the original price.\n\nFor information on **'How to generate a dataset'**, click [here.](https://www.kaggle.com/code/davedarshan/how-to-generate-fake-sales-data)\n\n",
+  "datasetId": 4757488,
+  "datasetSlug": "mymart-a-comprehensive-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "davedarshan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 129,
+  "totalVotes": 4,
+  "totalDownloads": 23,
+  "title": "MyMart: A Comprehensive Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "Exploring the Dynamics of Retail Sales: A Case Study of MyMart",
+  "hasSubtitle": true,
+  "description": "**This data is artificially generated.** It can be used for **practicing data visualization and analysis skills**. Please note that since the data is generated randomly, it may not reflect real-world sales data accurately. However, it should serve as a good starting point for practicing data analysis and visualization. \n\nDescription : \n\n\u2022\t**Sales Date**: This column contains the date of each sale. The dates are generated for a period of 120 days starting from January 1, 2023.\n\u2022\t**Category**: This column contains the category of the product sold. The categories include \u2018Electronics\u2019, \u2018Clothing\u2019, and \u2018Home & Kitchen\u2019.\n\u2022\t**Subcategory**: This column contains the subcategory of the product sold. Each category has its own set of subcategories. For example, the \u2018Electronics\u2019 category includes subcategories such as \u2018Communication\u2019, \u2018Computers\u2019, and \u2018Wearables\u2019.\n\u2022\t**ProductName**: This column contains the name of the product sold. Each subcategory has its own set of products. For example, the \u2018Communication\u2019 subcategory includes products such as \u2018Walkie Talkie\u2019, \u2018Cell Phone\u2019, and \u2018Smart Phone\u2019.\n\u2022\t**Salesperson**: This column contains the name of the salesperson who made the sale. There are different salespersons assigned to each category.\n\u2022\t**Gender**: This column contains the gender of the salesperson. The gender is determined based on the salesperson\u2019s name.\n\u2022\t**Unit sold:** This column contains the number of units of the product sold in the sale. The number of units sold is a random number between 1 and 100.\n\u2022\t**Original Price**: This column contains the original price of the product. The original price is a random number between 10 and 1000.\n\u2022\t**Sales Price**: This column contains the sales price of the product. The sales price is calculated as a random fraction of the original price, ensuring that the sales price is always slightly higher than the original price.\n\nFor information on **'How to generate a dataset'**, click [here.](https://www.kaggle.com/code/davedarshan/how-to-generate-fake-sales-data)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "business",
+    "beginner",
+    "exploratory data analysis",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

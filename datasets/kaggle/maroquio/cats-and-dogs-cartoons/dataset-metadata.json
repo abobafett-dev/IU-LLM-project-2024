@@ -1,0 +1,39 @@
+{
+  "id": "maroquio/cats-and-dogs-cartoons",
+  "id_no": 4065162,
+  "datasetSlugNullable": "cats-and-dogs-cartoons",
+  "ownerUserNullable": "maroquio",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Cats and Dogs Cartoons",
+  "subtitleNullable": "A great dataset for learning image classification",
+  "descriptionNullable": "This is a great dataset for learning image classification. The dataset has 400 images (200 cats and 200 dogs) in hand drawn cartoon style. Each image is 1024x1024 pixels. The data was generated in MidJourney and was proved to be very useful in my Machine Learning classes. I hope you enjoy it!",
+  "datasetId": 4065162,
+  "datasetSlug": "cats-and-dogs-cartoons",
+  "hasDatasetSlug": true,
+  "ownerUser": "maroquio",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 247,
+  "totalVotes": 2,
+  "totalDownloads": 59,
+  "title": "Cats and Dogs Cartoons",
+  "hasTitle": true,
+  "subtitle": "A great dataset for learning image classification",
+  "hasSubtitle": true,
+  "description": "This is a great dataset for learning image classification. The dataset has 400 images (200 cats and 200 dogs) in hand drawn cartoon style. Each image is 1024x1024 pixels. The data was generated in MidJourney and was proved to be very useful in my Machine Learning classes. I hope you enjoy it!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

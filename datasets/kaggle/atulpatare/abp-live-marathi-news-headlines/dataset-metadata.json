@@ -1,0 +1,43 @@
+{
+  "id": "atulpatare/abp-live-marathi-news-headlines",
+  "id_no": 858731,
+  "datasetSlugNullable": "abp-live-marathi-news-headlines",
+  "ownerUserNullable": "atulpatare",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "ABP Live Marathi News Headlines",
+  "subtitleNullable": "Marathi text classification dataset",
+  "descriptionNullable": "### Introduction\n\nFor perfoming text classification we need some kind of labeled dataset. So the first thought came to mind was to find a dataset on Kaggle and use sklearn functions and walla text classification.\n\nBut that's no fun. I wanted to learn scraping and collecting data and going through the process of pre-processing data, so here's a implementation.\n\nSo I needed a candidate for scraping, also I needed to label the dataset. Also, I wanted to do text processing on my mother tongue 'Marathi'. Finally decided to scrap news headlines, since they each have category, so if I scrap each category, I will have data and labels. Easy, so I implemented the scraper with beautiful soup. After running into multiple issue finished the scraper and it worked.\nIt's not much but it's honest work ;)\n\nAfter scraping and labeling, created a data frame and created a standard csv file.\n\nThen with sklearn I trained a model and got good accuracy, might improve the code later on, but for now I'm satisfied with it. First time text processing on data collected by myself.",
+  "datasetId": 858731,
+  "datasetSlug": "abp-live-marathi-news-headlines",
+  "hasDatasetSlug": true,
+  "ownerUser": "atulpatare",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1787,
+  "totalVotes": 2,
+  "totalDownloads": 61,
+  "title": "ABP Live Marathi News Headlines",
+  "hasTitle": true,
+  "subtitle": "Marathi text classification dataset",
+  "hasSubtitle": true,
+  "description": "### Introduction\n\nFor perfoming text classification we need some kind of labeled dataset. So the first thought came to mind was to find a dataset on Kaggle and use sklearn functions and walla text classification.\n\nBut that's no fun. I wanted to learn scraping and collecting data and going through the process of pre-processing data, so here's a implementation.\n\nSo I needed a candidate for scraping, also I needed to label the dataset. Also, I wanted to do text processing on my mother tongue 'Marathi'. Finally decided to scrap news headlines, since they each have category, so if I scrap each category, I will have data and labels. Easy, so I implemented the scraper with beautiful soup. After running into multiple issue finished the scraper and it worked.\nIt's not much but it's honest work ;)\n\nAfter scraping and labeling, created a data frame and created a standard csv file.\n\nThen with sklearn I trained a model and got good accuracy, might improve the code later on, but for now I'm satisfied with it. First time text processing on data collected by myself.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "internet",
+    "text mining",
+    "classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

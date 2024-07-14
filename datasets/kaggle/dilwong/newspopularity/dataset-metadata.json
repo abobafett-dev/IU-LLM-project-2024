@@ -1,0 +1,41 @@
+{
+  "id": "dilwong/newspopularity",
+  "id_no": 2679231,
+  "datasetSlugNullable": "newspopularity",
+  "ownerUserNullable": "dilwong",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "News Popularity",
+  "subtitleNullable": "Twitter retweets, replies, likes counts for 9100 New York Times articles",
+  "descriptionNullable": "This dataset is a CSV file containing Twitter retweets, replies, likes counts for 9100 New York Times (NYT) articles from January 2022 to mid-April 2022. Twitter retweet, replies, likes counts can be used as a measure for how popular an individual article is.\n\nColumn definitions:\n- id: Twitter ID. The tweet from which the retweet, replies, likes numbers were obtained is at `https://twitter.com/nytimes/status/{id}`\n- retweet_count: Number of retweets\n- reply_count: Number of replies\n- like_count: Number of likes\n- url: A URL to the NYT article\n- date: Timestamp for the tweet\n- bag\\_of\\_phrases: A list of the words/phrases that appear in the NYT article. The text of each article is stored in the CSV file as a bag of lemmatized words, but since some words tend to occur together, those words are instead stored as phrases in which the constitute words are separated by underscores (e.g. \"european_union\").\n\nCredit for the photograph here: https://unsplash.com/photos/WYd_PkCa1BY\nCode for the data scraping here: https://github.com/dilwong/NewsPopularity/blob/master/0%20Data%20Scraping.ipynb",
+  "datasetId": 2679231,
+  "datasetSlug": "newspopularity",
+  "hasDatasetSlug": true,
+  "ownerUser": "dilwong",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 490,
+  "totalVotes": 0,
+  "totalDownloads": 31,
+  "title": "News Popularity",
+  "hasTitle": true,
+  "subtitle": "Twitter retweets, replies, likes counts for 9100 New York Times articles",
+  "hasSubtitle": true,
+  "description": "This dataset is a CSV file containing Twitter retweets, replies, likes counts for 9100 New York Times (NYT) articles from January 2022 to mid-April 2022. Twitter retweet, replies, likes counts can be used as a measure for how popular an individual article is.\n\nColumn definitions:\n- id: Twitter ID. The tweet from which the retweet, replies, likes numbers were obtained is at `https://twitter.com/nytimes/status/{id}`\n- retweet_count: Number of retweets\n- reply_count: Number of replies\n- like_count: Number of likes\n- url: A URL to the NYT article\n- date: Timestamp for the tweet\n- bag\\_of\\_phrases: A list of the words/phrases that appear in the NYT article. The text of each article is stored in the CSV file as a bag of lemmatized words, but since some words tend to occur together, those words are instead stored as phrases in which the constitute words are separated by underscores (e.g. \"european_union\").\n\nCredit for the photograph here: https://unsplash.com/photos/WYd_PkCa1BY\nCode for the data scraping here: https://github.com/dilwong/NewsPopularity/blob/master/0%20Data%20Scraping.ipynb",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news",
+    "email and messaging",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

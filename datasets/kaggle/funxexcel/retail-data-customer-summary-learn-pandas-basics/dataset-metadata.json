@@ -1,0 +1,43 @@
+{
+  "id": "funxexcel/retail-data-customer-summary-learn-pandas-basics",
+  "id_no": 505392,
+  "datasetSlugNullable": "retail-data-customer-summary-learn-pandas-basics",
+  "ownerUserNullable": "funxexcel",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Retail Data Customer Summary (Learn Pandas Basics)",
+  "subtitleNullable": "Practice your Basic Python Pandas Skills by using this Retail Customer data. ",
+  "descriptionNullable": "### Context\n\nI have taught many students to use Pandas. Often, many lacked context to apply their newly acquired skills. This dataset will help new learners work on their Pandas skills. \n\n\n### Content\n\nThis dataset contains 13 columns and 6889 rows. The data is at a unique customer level. Each customers transaction amount and number of transactions information is present in a separate column (or unpivoted). Also, the data contains its first and last transaction date. \n\n### Acknowledgements\n\nTo be added. \n\n\n### Inspiration \n\nI was inspired by creating contextual questions that will help students learn Pandas faster. ",
+  "datasetId": 505392,
+  "datasetSlug": "retail-data-customer-summary-learn-pandas-basics",
+  "hasDatasetSlug": true,
+  "ownerUser": "funxexcel",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 13261,
+  "totalVotes": 35,
+  "totalDownloads": 1076,
+  "title": "Retail Data Customer Summary (Learn Pandas Basics)",
+  "hasTitle": true,
+  "subtitle": "Practice your Basic Python Pandas Skills by using this Retail Customer data. ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI have taught many students to use Pandas. Often, many lacked context to apply their newly acquired skills. This dataset will help new learners work on their Pandas skills. \n\n\n### Content\n\nThis dataset contains 13 columns and 6889 rows. The data is at a unique customer level. Each customers transaction amount and number of transactions information is present in a separate column (or unpivoted). Also, the data contains its first and last transaction date. \n\n### Acknowledgements\n\nTo be added. \n\n\n### Inspiration \n\nI was inspired by creating contextual questions that will help students learn Pandas faster. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "education",
+    "computer science",
+    "programming",
+    "learn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "itsnobita/one-piece-live-action-imdb-reviews",
+  "id_no": 3840881,
+  "datasetSlugNullable": "one-piece-live-action-imdb-reviews",
+  "ownerUserNullable": "itsnobita",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "One Piece Live Action IMDB Reviews",
+  "subtitleNullable": "One Piece , IMDB Reviews , IMDB , Live Action , Reviews Analysis, EDA",
+  "descriptionNullable": "This dataset contains user reviews and associated information for the live-action adaptation of the popular anime and manga series, \"One Piece,\" as posted on the Internet Movie Database (IMDb). The live-action adaptation has generated significant attention and discussion among fans and critics alike. This dataset offers valuable insights into the reception and opinions of viewers regarding this adaptation. The reviews are till the Date 10 October 2023. \nThe dataset includes the following columns:\n- **Title** : Title contain the title of the review\n- **Review** : Review column contain the actual text of the review\n- **Date** : Date column contain the date on which the review is made or published\n- **Rating** : Rating column contain the rating user give alongside the review",
+  "datasetId": 3840881,
+  "datasetSlug": "one-piece-live-action-imdb-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "itsnobita",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3599,
+  "totalVotes": 37,
+  "totalDownloads": 624,
+  "title": "One Piece Live Action IMDB Reviews",
+  "hasTitle": true,
+  "subtitle": "One Piece , IMDB Reviews , IMDB , Live Action , Reviews Analysis, EDA",
+  "hasSubtitle": true,
+  "description": "This dataset contains user reviews and associated information for the live-action adaptation of the popular anime and manga series, \"One Piece,\" as posted on the Internet Movie Database (IMDb). The live-action adaptation has generated significant attention and discussion among fans and critics alike. This dataset offers valuable insights into the reception and opinions of viewers regarding this adaptation. The reviews are till the Date 10 October 2023. \nThe dataset includes the following columns:\n- **Title** : Title contain the title of the review\n- **Review** : Review column contain the actual text of the review\n- **Date** : Date column contain the date on which the review is made or published\n- **Rating** : Rating column contain the rating user give alongside the review",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "exploratory data analysis",
+    "anime and manga",
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

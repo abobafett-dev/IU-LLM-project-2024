@@ -1,0 +1,48 @@
+{
+  "id": "andrewgatchalian/myanimelist-user-ratings",
+  "id_no": 4126935,
+  "datasetSlugNullable": "myanimelist-user-ratings",
+  "ownerUserNullable": "andrewgatchalian",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "MyAnimeList User Ratings + Anime Dataset",
+  "subtitleNullable": "contains over 40+ million ratings from MyAnimeList.net (updated 11/2023)",
+  "descriptionNullable": "# Context\nThis dataset contains over 44 million rows of anime-related data, representing interactions from 18,145 unique users and 16,135 unique shows.\n\n# Source\nThe data was sourced directly from the website MyAnimeList, one of the largest anime-driven forums that allows users to track, rate, and review anime.\n\nThe dataset contains 4 files:\n- `anime_titles.csv` is a list of all available anime titles from MyAnimeList (IDs 1 to ~52,000). The data was pulled using MyAnimeList's API (last updated 11/2023). \n- `anime_user_ratings.csv` contains over 40 million ratings from over 18k users, pulled from the MyAnimeList API. Data was cleaned to only include: 'Completed' & 'Dropped' status and non-zero ratings (removed '0' ratings since there was overlap with users who did not rate titles). *NOTE: Users are a random sample from over 70k unique usernames we collected. Usernames were web scraped from the MyAnimeList [Recently Online Users](https://myanimelist.net/users.php) tab over the span of November 2023.*\n- `anime_genres.csv` is a file containing dummy variables for all available genres in our dataset (for modeling purposes).\n- `username_list_full.csv` is a list of over 70k unique usernames scraped from MyAnimeList.\n\n&gt;Instances of '-1' in the data represent information unavailable on MyAnimeList as of 11/2023.\n\n# Content\n`anime_titles.csv`\n- **anime_id**: MyAnimeList unique number ID\n- **title**: full name of anime\n- **mean**: average user rating on MyAnimeList (as of 11/2023)\n- **genres**: comma separated list of genres\n- **studios**: animation studio(s)\n- **synopsis**: anime summary\n- **media_type**: type of medium (tv, movie, ona)\n- **num_episodes**: number of episode(s) per anime\n\n`anime_user_ratings.csv`\n- **user_id**: MyAnimeList username\n- **anime_id**: MyAnimeList unique number ID\n- **title**: full name of anime\n- **user_status**: completion status (only limited to completed or dropped)\n- **user_score**: user rating of anime\n- **user_eps_watched**: number of episodes watched\n- **user_rewatch**: if user is watching show again (Bool)\n- **updated_at**: rating time stamp\n\n`anime_genres.csv`\n- **anime_id**: MyAnimeList unique number ID\n- **genre_(*)**: genre_(name of genre)\n\n`username_list_full.csv`\n- **username**: MyAnimeList username\n\n# Acknowledgements\nThanks to:\n1. [MyAnimeList](https://myanimelist.net/) website and API\n2. [Cooperunion](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database) Kaggle Dataset\n\n# Inspiration\nTo make anime accessible for both old and new viewers!",
+  "datasetId": 4126935,
+  "datasetSlug": "myanimelist-user-ratings",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewgatchalian",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 1602,
+  "totalVotes": 12,
+  "totalDownloads": 224,
+  "title": "MyAnimeList User Ratings + Anime Dataset",
+  "hasTitle": true,
+  "subtitle": "contains over 40+ million ratings from MyAnimeList.net (updated 11/2023)",
+  "hasSubtitle": true,
+  "description": "# Context\nThis dataset contains over 44 million rows of anime-related data, representing interactions from 18,145 unique users and 16,135 unique shows.\n\n# Source\nThe data was sourced directly from the website MyAnimeList, one of the largest anime-driven forums that allows users to track, rate, and review anime.\n\nThe dataset contains 4 files:\n- `anime_titles.csv` is a list of all available anime titles from MyAnimeList (IDs 1 to ~52,000). The data was pulled using MyAnimeList's API (last updated 11/2023). \n- `anime_user_ratings.csv` contains over 40 million ratings from over 18k users, pulled from the MyAnimeList API. Data was cleaned to only include: 'Completed' & 'Dropped' status and non-zero ratings (removed '0' ratings since there was overlap with users who did not rate titles). *NOTE: Users are a random sample from over 70k unique usernames we collected. Usernames were web scraped from the MyAnimeList [Recently Online Users](https://myanimelist.net/users.php) tab over the span of November 2023.*\n- `anime_genres.csv` is a file containing dummy variables for all available genres in our dataset (for modeling purposes).\n- `username_list_full.csv` is a list of over 70k unique usernames scraped from MyAnimeList.\n\n&gt;Instances of '-1' in the data represent information unavailable on MyAnimeList as of 11/2023.\n\n# Content\n`anime_titles.csv`\n- **anime_id**: MyAnimeList unique number ID\n- **title**: full name of anime\n- **mean**: average user rating on MyAnimeList (as of 11/2023)\n- **genres**: comma separated list of genres\n- **studios**: animation studio(s)\n- **synopsis**: anime summary\n- **media_type**: type of medium (tv, movie, ona)\n- **num_episodes**: number of episode(s) per anime\n\n`anime_user_ratings.csv`\n- **user_id**: MyAnimeList username\n- **anime_id**: MyAnimeList unique number ID\n- **title**: full name of anime\n- **user_status**: completion status (only limited to completed or dropped)\n- **user_score**: user rating of anime\n- **user_eps_watched**: number of episodes watched\n- **user_rewatch**: if user is watching show again (Bool)\n- **updated_at**: rating time stamp\n\n`anime_genres.csv`\n- **anime_id**: MyAnimeList unique number ID\n- **genre_(*)**: genre_(name of genre)\n\n`username_list_full.csv`\n- **username**: MyAnimeList username\n\n# Acknowledgements\nThanks to:\n1. [MyAnimeList](https://myanimelist.net/) website and API\n2. [Cooperunion](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database) Kaggle Dataset\n\n# Inspiration\nTo make anime accessible for both old and new viewers!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "anime and manga",
+    "ratings and reviews",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "yiluchenc",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

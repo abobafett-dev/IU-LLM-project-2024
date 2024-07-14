@@ -1,0 +1,41 @@
+{
+  "id": "kypygy/spaceflightnow-news-articles",
+  "id_no": 354566,
+  "datasetSlugNullable": "spaceflightnow-news-articles",
+  "ownerUserNullable": "kypygy",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "SpaceFlight Now News Articles",
+  "subtitleNullable": "SpaceFlight Now articles from July 2014 - September 2019",
+  "descriptionNullable": "**Context**\n\nI follow developments in the spaceflight industry as a hobby, so I thought it would be cool to aggregate some data from one of my go-to sources for spaceflight news. \n\n\n**Content**\n\nThe actual data is relatively simple. We have the title, body, date, and url of every article published on SpaceFlight Now from July 2014 through September 2019. These articles are specifically about spaceflight, and not general space news. As such, news about launches and launch providers, satellites, as well as government and commercial policies regarding spaceflight make up the bulk of this dataset.\n\n\n**Acknowledgements**\n\nSpaceFlight Now, of course!\n\n\n**Inspiration**\n\nSome of the questions I'd be interested in answering are:\n\n1) Who are the major players in the spaceflight industry, and how have they changed over the past five years?\n\n2) Which rockets/companies/governments get a lot of attention? Is it because of their successes or failures?\n\n3) What are the trends in the spaceflight industry? How has SpaceX's innovation changed the game?\n\n4) When do we see peaks and valleys in terms of spaceflight news volume? Any clues as to why?\n\n5) How does the news shift for a company after an anomaly?",
+  "datasetId": 354566,
+  "datasetSlug": "spaceflightnow-news-articles",
+  "hasDatasetSlug": true,
+  "ownerUser": "kypygy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 2360,
+  "totalVotes": 3,
+  "totalDownloads": 60,
+  "title": "SpaceFlight Now News Articles",
+  "hasTitle": true,
+  "subtitle": "SpaceFlight Now articles from July 2014 - September 2019",
+  "hasSubtitle": true,
+  "description": "**Context**\n\nI follow developments in the spaceflight industry as a hobby, so I thought it would be cool to aggregate some data from one of my go-to sources for spaceflight news. \n\n\n**Content**\n\nThe actual data is relatively simple. We have the title, body, date, and url of every article published on SpaceFlight Now from July 2014 through September 2019. These articles are specifically about spaceflight, and not general space news. As such, news about launches and launch providers, satellites, as well as government and commercial policies regarding spaceflight make up the bulk of this dataset.\n\n\n**Acknowledgements**\n\nSpaceFlight Now, of course!\n\n\n**Inspiration**\n\nSome of the questions I'd be interested in answering are:\n\n1) Who are the major players in the spaceflight industry, and how have they changed over the past five years?\n\n2) Which rockets/companies/governments get a lot of attention? Is it because of their successes or failures?\n\n3) What are the trends in the spaceflight industry? How has SpaceX's innovation changed the game?\n\n4) When do we see peaks and valleys in terms of spaceflight news volume? Any clues as to why?\n\n5) How does the news shift for a company after an anomaly?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "astronomy",
+    "science and technology",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

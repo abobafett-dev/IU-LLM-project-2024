@@ -1,0 +1,42 @@
+{
+  "id": "hamiltonwhite/twitter-response-to-roe-v-wade-scotus",
+  "id_no": 2145647,
+  "datasetSlugNullable": "twitter-response-to-roe-v-wade-scotus",
+  "ownerUserNullable": "hamiltonwhite",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Twitter_Response_To_Roe_V_Wade_SCOTUS",
+  "subtitleNullable": "Ongoing web-scraping of Twitter following the news of a SCOTUS draft opinion",
+  "descriptionNullable": "Following the leak of the drafted majority SCOTUS opinion on Roe V Wade, I began running a bot on an hourly basis to gather tweets as the news was breaking all over the country. The parameters for the search were chosen in part due to the time I personally spend on Twitter, and as such, likely do not represent a comprehensive search. Any feedback to grow this search in a more comprehensive way is welcomed, and will be updated accordingly.\n\n\"searchTerms\": [\n    \"Roe V Wade\",\n    \"Ginsburg\",\n    \"SCOTUSBlog\",\n    \"SCOTUS\",\n    \"Supreme Court\",\n    \"Supreme Court of the United States\",\n    \"Pelosi\",\n    \"Clinton\",\n    \"Bernie\",\n    \"Biden\",\n    \"Sanders\",\n    \"Republicans\",\n    \"Democrats\",\n    \"Liberals\",\n    \"Conservatives\"\n  ]\n",
+  "datasetId": 2145647,
+  "datasetSlug": "twitter-response-to-roe-v-wade-scotus",
+  "hasDatasetSlug": true,
+  "ownerUser": "hamiltonwhite",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 2408,
+  "totalVotes": 20,
+  "totalDownloads": 240,
+  "title": "Twitter_Response_To_Roe_V_Wade_SCOTUS",
+  "hasTitle": true,
+  "subtitle": "Ongoing web-scraping of Twitter following the news of a SCOTUS draft opinion",
+  "hasSubtitle": true,
+  "description": "Following the leak of the drafted majority SCOTUS opinion on Roe V Wade, I began running a bot on an hourly basis to gather tweets as the news was breaking all over the country. The parameters for the search were chosen in part due to the time I personally spend on Twitter, and as such, likely do not represent a comprehensive search. Any feedback to grow this search in a more comprehensive way is welcomed, and will be updated accordingly.\n\n\"searchTerms\": [\n    \"Roe V Wade\",\n    \"Ginsburg\",\n    \"SCOTUSBlog\",\n    \"SCOTUS\",\n    \"Supreme Court\",\n    \"Supreme Court of the United States\",\n    \"Pelosi\",\n    \"Clinton\",\n    \"Bernie\",\n    \"Biden\",\n    \"Sanders\",\n    \"Republicans\",\n    \"Democrats\",\n    \"Liberals\",\n    \"Conservatives\"\n  ]\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "politics",
+    "nlp",
+    "social issues and advocacy",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

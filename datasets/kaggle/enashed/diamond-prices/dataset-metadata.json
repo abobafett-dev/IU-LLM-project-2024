@@ -1,0 +1,41 @@
+{
+  "id": "enashed/diamond-prices",
+  "id_no": 1960180,
+  "datasetSlugNullable": "diamond-prices",
+  "ownerUserNullable": "enashed",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Diamond Prices 2022",
+  "subtitleNullable": "Australian Diamond Importers Prices",
+  "descriptionNullable": "### Context\n\nThe data is scrapped from [Australian Diamond Importers website](https://australiandiamondimporters.com.au/diamond-stock) on 24th Feb 2022.\nIt includes diamond features, like shape, size, colour, cut, clarity, and other features and the price in US dollars (excluding GST)\nThe data is a good candidate for regression models to predict the price based on diamond features.\n",
+  "datasetId": 1960180,
+  "datasetSlug": "diamond-prices",
+  "hasDatasetSlug": true,
+  "ownerUser": "enashed",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 6769,
+  "totalVotes": 12,
+  "totalDownloads": 722,
+  "title": "Diamond Prices 2022",
+  "hasTitle": true,
+  "subtitle": "Australian Diamond Importers Prices",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe data is scrapped from [Australian Diamond Importers website](https://australiandiamondimporters.com.au/diamond-stock) on 24th Feb 2022.\nIt includes diamond features, like shape, size, colour, cut, clarity, and other features and the price in US dollars (excluding GST)\nThe data is a good candidate for regression models to predict the price based on diamond features.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "linear regression",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

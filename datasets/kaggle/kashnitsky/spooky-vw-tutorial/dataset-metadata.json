@@ -1,0 +1,40 @@
+{
+  "id": "kashnitsky/spooky-vw-tutorial",
+  "id_no": 5461,
+  "datasetSlugNullable": "spooky-vw-tutorial",
+  "ownerUserNullable": "kashnitsky",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Vowpal Wabbit tutorial",
+  "subtitleNullable": "Datasets compilation for an extensive VW tutorial",
+  "descriptionNullable": "### Context\n\nThis dataset is comprised of several others and is collected specially for the Vowpal Wabbit tutorial, [Kernel][1].\nThe tutorial covers (both theoretically and in practice) two reasons of Vowpal Wabbit's exceptional training speed, namely, online learning and hashing trick. We'll try it out with the Spooky Author Identification dataset as well as with news, letters, movie reviews datasets and gigabytes of StackOverflow questions.\n\n\n### Content\n\nThe included datasets are:\n\n - SOCR weights and heights, [link][2] (CC-BY licensed)\n - UCI bikes sharing demand, [link][3] (no license)\n - the 20 newsgroups text dataset, [link][4] (BSD licensed)\n - pickled VW-versions of [IMDB movie reviews][5] (no license)\n - a sample from the 10mln [StackOverflow dataset][6] (preprocessed and shared under the cc-by-sa 3.0 license)\n\n\n  [1]: https://www.kaggle.com/kashnitsky/vowpal-wabbit-tutorial-blazingly-fast-learning\n  [2]: http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_Dinov_020108_HeightsWeights\n  [3]: https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset\n  [4]: http://scikit-learn.org/stable/datasets/twenty_newsgroups.html\n  [5]: http://ai.stanford.edu/~amaas/data/sentiment/\n  [6]: https://archive.org/details/stackexchange",
+  "datasetId": 5461,
+  "datasetSlug": "spooky-vw-tutorial",
+  "hasDatasetSlug": true,
+  "ownerUser": "kashnitsky",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 9246,
+  "totalVotes": 10,
+  "totalDownloads": 638,
+  "title": "Vowpal Wabbit tutorial",
+  "hasTitle": true,
+  "subtitle": "Datasets compilation for an extensive VW tutorial",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is comprised of several others and is collected specially for the Vowpal Wabbit tutorial, [Kernel][1].\nThe tutorial covers (both theoretically and in practice) two reasons of Vowpal Wabbit's exceptional training speed, namely, online learning and hashing trick. We'll try it out with the Spooky Author Identification dataset as well as with news, letters, movie reviews datasets and gigabytes of StackOverflow questions.\n\n\n### Content\n\nThe included datasets are:\n\n - SOCR weights and heights, [link][2] (CC-BY licensed)\n - UCI bikes sharing demand, [link][3] (no license)\n - the 20 newsgroups text dataset, [link][4] (BSD licensed)\n - pickled VW-versions of [IMDB movie reviews][5] (no license)\n - a sample from the 10mln [StackOverflow dataset][6] (preprocessed and shared under the cc-by-sa 3.0 license)\n\n\n  [1]: https://www.kaggle.com/kashnitsky/vowpal-wabbit-tutorial-blazingly-fast-learning\n  [2]: http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_Dinov_020108_HeightsWeights\n  [3]: https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset\n  [4]: http://scikit-learn.org/stable/datasets/twenty_newsgroups.html\n  [5]: http://ai.stanford.edu/~amaas/data/sentiment/\n  [6]: https://archive.org/details/stackexchange",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

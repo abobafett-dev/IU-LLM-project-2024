@@ -1,0 +1,43 @@
+{
+  "id": "msk5sdata/phase-svd",
+  "id_no": 1519496,
+  "datasetSlugNullable": "phase-svd",
+  "ownerUserNullable": "msk5sdata",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "phase_svd",
+  "subtitleNullable": "ckt5 Test Feeder Circuit ",
+  "descriptionNullable": "### TODO @ (2023-09-07): Add notebook with examples.\n\n### Context\n\nThis synthetic dataset was created for research in power distribution systems.\n\n### Content\n\nThe dataset was generated using the [Electric Power Research Institute's (EPRI)](https://www.epri.com/) [OpenDSS](https://sourceforge.net/projects/electricdss/) simulation software. The EPRI ckt5 test feeder circuit is used to generate a comprehensive dataset of measurements. There are 35040 measurements of 1379 single-phase loads, 591 single-phase secondary distribution transformers, and 1 three-phase substation transformer sampled at 15-minute-intervals over 1-year.\n\nImage Source: [Jeswin Thomas](https://www.pexels.com/photo/photography-of-person-holding-flashlight-near-windmills-during-night-time-1154460/)",
+  "datasetId": 1519496,
+  "datasetSlug": "phase-svd",
+  "hasDatasetSlug": true,
+  "ownerUser": "msk5sdata",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 1058,
+  "totalVotes": 5,
+  "totalDownloads": 55,
+  "title": "phase_svd",
+  "hasTitle": true,
+  "subtitle": "ckt5 Test Feeder Circuit ",
+  "hasSubtitle": true,
+  "description": "### TODO @ (2023-09-07): Add notebook with examples.\n\n### Context\n\nThis synthetic dataset was created for research in power distribution systems.\n\n### Content\n\nThe dataset was generated using the [Electric Power Research Institute's (EPRI)](https://www.epri.com/) [OpenDSS](https://sourceforge.net/projects/electricdss/) simulation software. The EPRI ckt5 test feeder circuit is used to generate a comprehensive dataset of measurements. There are 35040 measurements of 1379 single-phase loads, 591 single-phase secondary distribution transformers, and 1 three-phase substation transformer sampled at 15-minute-intervals over 1-year.\n\nImage Source: [Jeswin Thomas](https://www.pexels.com/photo/photography-of-person-holding-flashlight-near-windmills-during-night-time-1154460/)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "energy",
+    "electronics",
+    "engineering",
+    "time series analysis",
+    "electricity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

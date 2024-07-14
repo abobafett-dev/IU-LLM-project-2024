@@ -1,0 +1,42 @@
+{
+  "id": "rajkumarl/cars-on-wheels",
+  "id_no": 1700321,
+  "datasetSlugNullable": "cars-on-wheels",
+  "ownerUserNullable": "rajkumarl",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "cars on wheels",
+  "subtitleNullable": "Cars Image Classification Dataset",
+  "descriptionNullable": "# Cars Image Classification Dataset\n\nThis dataset contains images of cars or parts of cars. \n\nThese images are collected mostly from unsplash.com with a great thanks!\n\nThis dataset is meant for academic and research purposes ony!\n\n`cars_annotated.csv` is a supporting file with meta-data and annotated features as follows:\n1. `file_name` represents the jpg image file name.\n2. `wheels_visible` represents whether wheels are visible in the image or not.\n3. `humna_visible` represents whether any person or persons are visible in the image, or not.\n\nAnnotations are made manually.\n\n`cars_labels.jpg` describes the class distribution of annotated features.\n\n![labels](https://raw.githubusercontent.com/rajkumargalaxy/cars/main/cars_labels.jpg)\n",
+  "datasetId": 1700321,
+  "datasetSlug": "cars-on-wheels",
+  "hasDatasetSlug": true,
+  "ownerUser": "rajkumarl",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 8003,
+  "totalVotes": 21,
+  "totalDownloads": 288,
+  "title": "cars on wheels",
+  "hasTitle": true,
+  "subtitle": "Cars Image Classification Dataset",
+  "hasSubtitle": true,
+  "description": "# Cars Image Classification Dataset\n\nThis dataset contains images of cars or parts of cars. \n\nThese images are collected mostly from unsplash.com with a great thanks!\n\nThis dataset is meant for academic and research purposes ony!\n\n`cars_annotated.csv` is a supporting file with meta-data and annotated features as follows:\n1. `file_name` represents the jpg image file name.\n2. `wheels_visible` represents whether wheels are visible in the image or not.\n3. `humna_visible` represents whether any person or persons are visible in the image, or not.\n\nAnnotations are made manually.\n\n`cars_labels.jpg` describes the class distribution of annotated features.\n\n![labels](https://raw.githubusercontent.com/rajkumargalaxy/cars/main/cars_labels.jpg)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "automobiles and vehicles",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

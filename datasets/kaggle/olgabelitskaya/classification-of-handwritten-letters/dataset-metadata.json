@@ -1,0 +1,46 @@
+{
+  "id": "olgabelitskaya/classification-of-handwritten-letters",
+  "id_no": 5044,
+  "datasetSlugNullable": "classification-of-handwritten-letters",
+  "ownerUserNullable": "olgabelitskaya",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Classification of Handwritten Letters",
+  "subtitleNullable": "Images of Russian Letters",
+  "descriptionNullable": "## History\nI made the database from my own photos of Russian lowercase letters written by hand. \n\n## Content\n### The GitHub repository with examples\n[GitHub][1] \n\n### The main dataset (`letters.zip`)\n- 1650 (50x33) color images (32x32x3) with 33 letters and the file with labels `letters.txt`. \n- Photo files are in the `.png` format and the labels are integers and values.\n- Additional `letters.csv` file.\n- The file `LetterColorImages.h5` consists of preprocessing images of this set: image tensors and targets (labels).\n\n### The additional dataset (`letters2.zip`)\n- 5940 (180x33) color images (32x32x3) with 33 letters and the file with labels `letters2.txt`. \n- Photo files are in the `.png` format and the labels are integers and values.\n- Additional `letters2.csv` file.\n- The file `LetterColorImages2.h5` consists of preprocessing images of this set: image tensors and targets (labels).\n\n### The additional dataset (`letters3.zip`)\n- 6600 (200x33) color images (32x32x3) with 33 letters and the file with labels `letters2.txt`. \n- Photo files are in the `.png` format and the labels are integers and values.\n- Additional `letters3.csv` file.\n- The file `LetterColorImages3.h5` consists of preprocessing images of this set: image tensors and targets (labels).\n\n#### Letter Symbols =&gt; Letter Labels\n\u0430=&gt;1, \u0431=&gt;2, \u0432=&gt;3, \u0433=&gt;4, \u0434=&gt;5, \u0435=&gt;6, \u0451=&gt;7, \u0436=&gt;8, \u0437=&gt;9, \u0438=&gt;10,\n\u0439=&gt;11, \u043a=&gt;12, \u043b=&gt;13, \u043c=&gt;14, \u043d=&gt;15, \u043e=&gt;16, \u043f=&gt;17, \u0440=&gt;18, \u0441=&gt;19, \u0442=&gt;20,\n\u0443=&gt;21, \u0444=&gt;22, \u0445=&gt;23, \u0446=&gt;24, \u0447=&gt;25, \u0448=&gt;26, \u0449=&gt;27, \u044a=&gt;28, \u044b=&gt;29, \u044c=&gt;30,\n\u044d=&gt;31, \u044e=&gt;32, \u044f=&gt;33\n\n#### Image Backgrounds =&gt; Background Labels\nstriped=&gt;0, gridded=&gt;1, no background=&gt;2, graph paper=&gt;3\n\n### The new version (`zip_letters.zip`)\n\n#### Letter Symbols =&gt; Letter Labels\n\u0430=&gt;00, \u0431=&gt;01, \u0432=&gt;02, \u0433=&gt;03, \u0434=&gt;04, \u0435=&gt;05, \u0451=&gt;06, \u0436=&gt;07, \u0437=&gt;08, \u0438=&gt;09,\n\u0439=&gt;10, \u043a=&gt;11, \u043b=&gt;12, \u043c=&gt;13, \u043d=&gt;14, \u043e=&gt;15, \u043f=&gt;16, \u0440=&gt;17, \u0441=&gt;18, \u0442=&gt;19,\n\u0443=&gt;20, \u0444=&gt;21, \u0445=&gt;22, \u0446=&gt;23, \u0447=&gt;24, \u0448=&gt;25, \u0449=&gt;26, \u044a=&gt;27, \u044b=&gt;28, \u044c=&gt;29,\n\u044d=&gt;30, \u044e=&gt;31, \u044f=&gt;32\n\n'lowercase'=&gt;00, 'uppercase'=&gt;01\n\n#### Image Backgrounds =&gt; Background Labels\n'single-colored paper'=&gt;00, 'striped paper'=&gt;01, 'squared paper'=&gt;02, 'graph paper'=&gt;03\n\n## Acknowledgments\nAs an owner of this database, I have published it for absolutely free usage by any site visitor.\n\n## Usage\nClassification, image generation, etc. in the case of handwritten letters with a small number of images are useful exercises.\n\n## Improvement\nThere are lots of ways for increasing this set and the machine learning algorithms applied to it. \n - For example: add the same images but written by another person or add capital letters. \n\n\n  [1]: https://github.com/OlgaBelitskaya/deep_learning_projects/tree/master/DL_PP2",
+  "datasetId": 5044,
+  "datasetSlug": "classification-of-handwritten-letters",
+  "hasDatasetSlug": true,
+  "ownerUser": "olgabelitskaya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 84723,
+  "totalVotes": 213,
+  "totalDownloads": 7566,
+  "title": "Classification of Handwritten Letters",
+  "hasTitle": true,
+  "subtitle": "Images of Russian Letters",
+  "hasSubtitle": true,
+  "description": "## History\nI made the database from my own photos of Russian lowercase letters written by hand. \n\n## Content\n### The GitHub repository with examples\n[GitHub][1] \n\n### The main dataset (`letters.zip`)\n- 1650 (50x33) color images (32x32x3) with 33 letters and the file with labels `letters.txt`. \n- Photo files are in the `.png` format and the labels are integers and values.\n- Additional `letters.csv` file.\n- The file `LetterColorImages.h5` consists of preprocessing images of this set: image tensors and targets (labels).\n\n### The additional dataset (`letters2.zip`)\n- 5940 (180x33) color images (32x32x3) with 33 letters and the file with labels `letters2.txt`. \n- Photo files are in the `.png` format and the labels are integers and values.\n- Additional `letters2.csv` file.\n- The file `LetterColorImages2.h5` consists of preprocessing images of this set: image tensors and targets (labels).\n\n### The additional dataset (`letters3.zip`)\n- 6600 (200x33) color images (32x32x3) with 33 letters and the file with labels `letters2.txt`. \n- Photo files are in the `.png` format and the labels are integers and values.\n- Additional `letters3.csv` file.\n- The file `LetterColorImages3.h5` consists of preprocessing images of this set: image tensors and targets (labels).\n\n#### Letter Symbols =&gt; Letter Labels\n\u0430=&gt;1, \u0431=&gt;2, \u0432=&gt;3, \u0433=&gt;4, \u0434=&gt;5, \u0435=&gt;6, \u0451=&gt;7, \u0436=&gt;8, \u0437=&gt;9, \u0438=&gt;10,\n\u0439=&gt;11, \u043a=&gt;12, \u043b=&gt;13, \u043c=&gt;14, \u043d=&gt;15, \u043e=&gt;16, \u043f=&gt;17, \u0440=&gt;18, \u0441=&gt;19, \u0442=&gt;20,\n\u0443=&gt;21, \u0444=&gt;22, \u0445=&gt;23, \u0446=&gt;24, \u0447=&gt;25, \u0448=&gt;26, \u0449=&gt;27, \u044a=&gt;28, \u044b=&gt;29, \u044c=&gt;30,\n\u044d=&gt;31, \u044e=&gt;32, \u044f=&gt;33\n\n#### Image Backgrounds =&gt; Background Labels\nstriped=&gt;0, gridded=&gt;1, no background=&gt;2, graph paper=&gt;3\n\n### The new version (`zip_letters.zip`)\n\n#### Letter Symbols =&gt; Letter Labels\n\u0430=&gt;00, \u0431=&gt;01, \u0432=&gt;02, \u0433=&gt;03, \u0434=&gt;04, \u0435=&gt;05, \u0451=&gt;06, \u0436=&gt;07, \u0437=&gt;08, \u0438=&gt;09,\n\u0439=&gt;10, \u043a=&gt;11, \u043b=&gt;12, \u043c=&gt;13, \u043d=&gt;14, \u043e=&gt;15, \u043f=&gt;16, \u0440=&gt;17, \u0441=&gt;18, \u0442=&gt;19,\n\u0443=&gt;20, \u0444=&gt;21, \u0445=&gt;22, \u0446=&gt;23, \u0447=&gt;24, \u0448=&gt;25, \u0449=&gt;26, \u044a=&gt;27, \u044b=&gt;28, \u044c=&gt;29,\n\u044d=&gt;30, \u044e=&gt;31, \u044f=&gt;32\n\n'lowercase'=&gt;00, 'uppercase'=&gt;01\n\n#### Image Backgrounds =&gt; Background Labels\n'single-colored paper'=&gt;00, 'striped paper'=&gt;01, 'squared paper'=&gt;02, 'graph paper'=&gt;03\n\n## Acknowledgments\nAs an owner of this database, I have published it for absolutely free usage by any site visitor.\n\n## Usage\nClassification, image generation, etc. in the case of handwritten letters with a small number of images are useful exercises.\n\n## Improvement\nThere are lots of ways for increasing this set and the machine learning algorithms applied to it. \n - For example: add the same images but written by another person or add capital letters. \n\n\n  [1]: https://github.com/OlgaBelitskaya/deep_learning_projects/tree/master/DL_PP2",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "arts and entertainment",
+    "computer science",
+    "software",
+    "deep learning",
+    "image",
+    "multiclass classification",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

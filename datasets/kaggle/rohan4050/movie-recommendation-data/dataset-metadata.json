@@ -1,0 +1,40 @@
+{
+  "id": "rohan4050/movie-recommendation-data",
+  "id_no": 1534693,
+  "datasetSlugNullable": "movie-recommendation-data",
+  "ownerUserNullable": "rohan4050",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "Movie Recommendation Data",
+  "subtitleNullable": "Movie Recommender Dataset",
+  "descriptionNullable": "### Context\n\nRecommending user movies based on different parameters by taking input as movie name and giving the output as movie suggestions along with similarity score.\n\n\n### Content\n\nThere are various metadata available in the above datasets, the user can accordingly choose a data from the above bunch of datasets and design his movie recommendation engine.\n\n\n### Acknowledgements\n\nI would like to thank my College faculties for encouraging me to develop this project due to which I was able to create this dataset.",
+  "datasetId": 1534693,
+  "datasetSlug": "movie-recommendation-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "rohan4050",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 5716,
+  "totalVotes": 12,
+  "totalDownloads": 614,
+  "title": "Movie Recommendation Data",
+  "hasTitle": true,
+  "subtitle": "Movie Recommender Dataset",
+  "hasSubtitle": true,
+  "description": "### Context\n\nRecommending user movies based on different parameters by taking input as movie name and giving the output as movie suggestions along with similarity score.\n\n\n### Content\n\nThere are various metadata available in the above datasets, the user can accordingly choose a data from the above bunch of datasets and design his movie recommendation engine.\n\n\n### Acknowledgements\n\nI would like to thank my College faculties for encouraging me to develop this project due to which I was able to create this dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "recommender systems"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

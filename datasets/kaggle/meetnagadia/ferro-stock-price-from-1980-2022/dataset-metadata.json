@@ -1,0 +1,44 @@
+{
+  "id": "meetnagadia/ferro-stock-price-from-1980-2022",
+  "id_no": 2000360,
+  "datasetSlugNullable": "ferro-stock-price-from-1980-2022",
+  "ownerUserNullable": "meetnagadia",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Ferro (FOE) Stock Price from 1980 - 2022",
+  "subtitleNullable": "Stock Price of Company Ferro Corporation (FOE)",
+  "descriptionNullable": "# About Company:\nFounded in 1946 in Alba (Italy) by the young chocolatier Pietro Ferrero, Michele\u2019s father, the Ferrero Group is a family-run business and one of the largest chocolates and confectionery companies in the world. Today, our reach extends across 55 countries on 5 continents with iconic brands distributed in over 170 countries. With his global vision, built upon our heritage, Giovanni Ferrero continues to run the company successfully. Generation after generation, our commitment to creating value forms the basis for crafting our much-loved products in an ethical and socially conscious manner.\n\n# About Dataset:\n- Date: A date is a particular day of the month.\n- Open: It is the price at which the financial security opens in the market when trading begins. It may or may not be different from the previous day's closing price. Thus, the price in the beginning of trading sessions is called open price or simply open.\n- High: Today's high refers to a security's intraday highest trading price. It is represented by the highest point on a day's stock chart. This can be contrasted with today's low, which is the trading day's intraday low price.\n- Low: The low is the minimum price of a stock in a period, while high is the maximum value reached by the stock in the same period.\n- Close: The close is a reference to the end of a trading session in the financial markets when the markets close for the day. The close can also refer to the process of exiting a trade or the final procedure in a financial transaction in which contract documents are signed and recorded.\n- Adj Close: The adjusted closing price amends a stock's closing price to reflect that stock's value after accounting for any corporate actions. The closing price is the raw price, which is just the cash value of the last transacted price before the market closes.\nVolume: In capital markets, volume, or trading volume, is the amount of a security that was traded during a given period of time. In the context of a single stock trading on a stock exchange, the volume is commonly reported as the number of shares that changed hands during a given day.\n\n# How can you use this dataset:\n- This dataset is present in csv format, you can use pandas to read and manipulate csv and can perform time series analysis on this dataset.\n- You can also perform EDA to get insight of the dataset.\n\n# Source:\n- This dataset is collected from Yahoo finance.",
+  "datasetId": 2000360,
+  "datasetSlug": "ferro-stock-price-from-1980-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "meetnagadia",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4117,
+  "totalVotes": 36,
+  "totalDownloads": 541,
+  "title": "Ferro (FOE) Stock Price from 1980 - 2022",
+  "hasTitle": true,
+  "subtitle": "Stock Price of Company Ferro Corporation (FOE)",
+  "hasSubtitle": true,
+  "description": "# About Company:\nFounded in 1946 in Alba (Italy) by the young chocolatier Pietro Ferrero, Michele\u2019s father, the Ferrero Group is a family-run business and one of the largest chocolates and confectionery companies in the world. Today, our reach extends across 55 countries on 5 continents with iconic brands distributed in over 170 countries. With his global vision, built upon our heritage, Giovanni Ferrero continues to run the company successfully. Generation after generation, our commitment to creating value forms the basis for crafting our much-loved products in an ethical and socially conscious manner.\n\n# About Dataset:\n- Date: A date is a particular day of the month.\n- Open: It is the price at which the financial security opens in the market when trading begins. It may or may not be different from the previous day's closing price. Thus, the price in the beginning of trading sessions is called open price or simply open.\n- High: Today's high refers to a security's intraday highest trading price. It is represented by the highest point on a day's stock chart. This can be contrasted with today's low, which is the trading day's intraday low price.\n- Low: The low is the minimum price of a stock in a period, while high is the maximum value reached by the stock in the same period.\n- Close: The close is a reference to the end of a trading session in the financial markets when the markets close for the day. The close can also refer to the process of exiting a trade or the final procedure in a financial transaction in which contract documents are signed and recorded.\n- Adj Close: The adjusted closing price amends a stock's closing price to reflect that stock's value after accounting for any corporate actions. The closing price is the raw price, which is just the cash value of the last transacted price before the market closes.\nVolume: In capital markets, volume, or trading volume, is the amount of a security that was traded during a given period of time. In the context of a single stock trading on a stock exchange, the volume is commonly reported as the number of shares that changed hands during a given day.\n\n# How can you use this dataset:\n- This dataset is present in csv format, you can use pandas to read and manipulate csv and can perform time series analysis on this dataset.\n- You can also perform EDA to get insight of the dataset.\n\n# Source:\n- This dataset is collected from Yahoo finance.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deserts",
+    "business",
+    "finance",
+    "tabular",
+    "food",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

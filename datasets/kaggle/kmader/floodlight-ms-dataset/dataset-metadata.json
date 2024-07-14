@@ -1,0 +1,48 @@
+{
+  "id": "kmader/floodlight-ms-dataset",
+  "id_no": 122328,
+  "datasetSlugNullable": "floodlight-ms-dataset",
+  "ownerUserNullable": "kmader",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Floodlight Open Dataset",
+  "subtitleNullable": "Discover insights into characteristics of living with MS through smartphone data",
+  "descriptionNullable": "### Content\n\nThe data collected throughout the study contains assessments of participants' ability (with and without self-declared MS) to perform simple tasks on their smartphones with the aim of understanding the effects of MS on mood, cognition, hand-motor function, postural stability, and gait. The tasks are categorized into the following:\n- **Brain**: Quick daily questions about how participants feel to understand their well-being and mood. Matching symbol tasks to assess the speed of processing information.\n- **Hand**: Hand-motor function tasks designed by healthcare professionals to gather information on manual dexterity, strength, and precision over time.\n- **Mobility**: Walking and posture tasks to track changes in your mobility, stability, speed, and balance over time.\n- **Passive monitoring**: Collect data continuously in the background on how participants move throughout the day. \n\n### Related Publications\n- [FLOODLIGHT Open \u2013 A Global, Prospective, Open-Access Study to Better Understand Multiple Sclerosis Using Smartphone Technology](https://cmsc.confex.com/cmsc/2019/mediafile/Handout/Paper5900/QOL10_CMSC%202019%20FLOODLIGHT%20Open%20Poster_Global_van%20Beek%20et%20alFINA.pdf ) \n- [Digital Health: Smartphone-based monitoring of multiple sclerosis using Floodlight](https://www.nature.com/articles/d42473-019-00412-0) \n\n### Acknowledgements\n\nThe data came from the Floodlight Open Study: https://floodlightopen.com, please reference and cite the original page and check there for more details on the acquisition, protocol, ethics approval, and updated data.\n\n### Inspiration\n\n- Can you come up with a classifier for accurately differentiating the MS from the control patients? \n- How does the time change for activity performance vary between MS and healthy patients?\n- Can you predict the severity (speed and amount of deterioration) of MS from information about the patient (age, initial abilities, location)",
+  "datasetId": 122328,
+  "datasetSlug": "floodlight-ms-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kmader",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 14899,
+  "totalVotes": 21,
+  "totalDownloads": 1074,
+  "title": "Floodlight Open Dataset",
+  "hasTitle": true,
+  "subtitle": "Discover insights into characteristics of living with MS through smartphone data",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThe data collected throughout the study contains assessments of participants' ability (with and without self-declared MS) to perform simple tasks on their smartphones with the aim of understanding the effects of MS on mood, cognition, hand-motor function, postural stability, and gait. The tasks are categorized into the following:\n- **Brain**: Quick daily questions about how participants feel to understand their well-being and mood. Matching symbol tasks to assess the speed of processing information.\n- **Hand**: Hand-motor function tasks designed by healthcare professionals to gather information on manual dexterity, strength, and precision over time.\n- **Mobility**: Walking and posture tasks to track changes in your mobility, stability, speed, and balance over time.\n- **Passive monitoring**: Collect data continuously in the background on how participants move throughout the day. \n\n### Related Publications\n- [FLOODLIGHT Open \u2013 A Global, Prospective, Open-Access Study to Better Understand Multiple Sclerosis Using Smartphone Technology](https://cmsc.confex.com/cmsc/2019/mediafile/Handout/Paper5900/QOL10_CMSC%202019%20FLOODLIGHT%20Open%20Poster_Global_van%20Beek%20et%20alFINA.pdf ) \n- [Digital Health: Smartphone-based monitoring of multiple sclerosis using Floodlight](https://www.nature.com/articles/d42473-019-00412-0) \n\n### Acknowledgements\n\nThe data came from the Floodlight Open Study: https://floodlightopen.com, please reference and cite the original page and check there for more details on the acquisition, protocol, ethics approval, and updated data.\n\n### Inspiration\n\n- Can you come up with a classifier for accurately differentiating the MS from the control patients? \n- How does the time change for activity performance vary between MS and healthy patients?\n- Can you predict the severity (speed and amount of deterioration) of MS from information about the patient (age, initial abilities, location)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "earth and nature",
+    "neuroscience",
+    "business",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "irisshih",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

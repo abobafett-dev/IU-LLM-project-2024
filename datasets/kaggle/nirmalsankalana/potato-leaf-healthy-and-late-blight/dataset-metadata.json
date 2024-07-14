@@ -1,0 +1,43 @@
+{
+  "id": "nirmalsankalana/potato-leaf-healthy-and-late-blight",
+  "id_no": 4374455,
+  "datasetSlugNullable": "potato-leaf-healthy-and-late-blight",
+  "ownerUserNullable": "nirmalsankalana",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Potato Leaf (Healthy and Late Blight)",
+  "subtitleNullable": "Potato Leaf Diseases Dataset (Healthy and Late Blight)",
+  "descriptionNullable": "The potato crop is found at fourth as a major crop in the world, after rice, wheat, and maize. Nonetheless, in Ethiopia, the yield per unit area of potato is very low compared to other countries. There are a plethora of reasons, one of them is the disease. The major disease, which affects the major potato production area is Late Blight, according to researchers the disease caused 100% crop loss on the unimproved local cultivar and 67.1% on a susceptible variety.\n\nNot to take early Late Blight disease management would destroy the whole farm within a few days. For decades many researchers have experimented on plant disease detection and classification using computer vision via different approaches and algorithms. Many researchers used traditional machine learning algorithms which require a handcrafted feature extraction to detect a given image. Besides, the data collected were under a laboratory setup which makes it less reliable while testing in real cultivation farms captured images of the potato.\n\nHeterogeneous image datasets were collected from (Holeta, Ethiopia) potato farm with the help of two plant pathologists. The dataset correctly labeled with two classes as \u2018Healthy\u2019 and \u2018Late Blight\u2019, and the image has variety meaning some of the images captured with less noisy background image and others with a highly noisy environment. Under \u2018Late Blight\u2019 class 63 images were collected and under \u2018Healthy\u2019 class 363 images were collected. Finally, the prepared dataset could be used for different researches that aimed at plant disease detection and classification.",
+  "datasetId": 4374455,
+  "datasetSlug": "potato-leaf-healthy-and-late-blight",
+  "hasDatasetSlug": true,
+  "ownerUser": "nirmalsankalana",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 1019,
+  "totalVotes": 6,
+  "totalDownloads": 144,
+  "title": "Potato Leaf (Healthy and Late Blight)",
+  "hasTitle": true,
+  "subtitle": "Potato Leaf Diseases Dataset (Healthy and Late Blight)",
+  "hasSubtitle": true,
+  "description": "The potato crop is found at fourth as a major crop in the world, after rice, wheat, and maize. Nonetheless, in Ethiopia, the yield per unit area of potato is very low compared to other countries. There are a plethora of reasons, one of them is the disease. The major disease, which affects the major potato production area is Late Blight, according to researchers the disease caused 100% crop loss on the unimproved local cultivar and 67.1% on a susceptible variety.\n\nNot to take early Late Blight disease management would destroy the whole farm within a few days. For decades many researchers have experimented on plant disease detection and classification using computer vision via different approaches and algorithms. Many researchers used traditional machine learning algorithms which require a handcrafted feature extraction to detect a given image. Besides, the data collected were under a laboratory setup which makes it less reliable while testing in real cultivation farms captured images of the potato.\n\nHeterogeneous image datasets were collected from (Holeta, Ethiopia) potato farm with the help of two plant pathologists. The dataset correctly labeled with two classes as \u2018Healthy\u2019 and \u2018Late Blight\u2019, and the image has variety meaning some of the images captured with less noisy background image and others with a highly noisy environment. Under \u2018Late Blight\u2019 class 63 images were collected and under \u2018Healthy\u2019 class 363 images were collected. Finally, the prepared dataset could be used for different researches that aimed at plant disease detection and classification.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "diseases",
+    "plants",
+    "agriculture",
+    "computer vision",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

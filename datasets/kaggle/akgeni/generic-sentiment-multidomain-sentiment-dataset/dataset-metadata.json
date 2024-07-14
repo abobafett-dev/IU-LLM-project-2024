@@ -1,0 +1,45 @@
+{
+  "id": "akgeni/generic-sentiment-multidomain-sentiment-dataset",
+  "id_no": 1200743,
+  "datasetSlugNullable": "generic-sentiment-multidomain-sentiment-dataset",
+  "ownerUserNullable": "akgeni",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Generic Sentiment | Multidomain Sentiment Dataset",
+  "subtitleNullable": "50K sentiments merged from multiple domain (Yelp, Twitter, Mobile reviews)",
+  "descriptionNullable": "### Context\n\nWe find sentiment dataset pertaining to a domain. To have a general sense of sentiment we need to understand the sentiment semantics.\n\n\n### Content\n\nI have combined **Mobile reviews**, **Twitter sentiment**, **Yelp review**, **Toxic reviews** and few more to cover multiple domain of sentiment analysis.\n\n0-&gt;Negative\n1-&gt;Neutral\n2-&gt;Positive\n\nTrain data size : 50k\nTest data size : 10k\n\n\n### Inspiration\n\nCan we build a generic supervised sentiment classifier that works irrespective of domain it has been trained on.",
+  "datasetId": 1200743,
+  "datasetSlug": "generic-sentiment-multidomain-sentiment-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "akgeni",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 4639,
+  "totalVotes": 12,
+  "totalDownloads": 471,
+  "title": "Generic Sentiment | Multidomain Sentiment Dataset",
+  "hasTitle": true,
+  "subtitle": "50K sentiments merged from multiple domain (Yelp, Twitter, Mobile reviews)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWe find sentiment dataset pertaining to a domain. To have a general sense of sentiment we need to understand the sentiment semantics.\n\n\n### Content\n\nI have combined **Mobile reviews**, **Twitter sentiment**, **Yelp review**, **Toxic reviews** and few more to cover multiple domain of sentiment analysis.\n\n0-&gt;Negative\n1-&gt;Neutral\n2-&gt;Positive\n\nTrain data size : 50k\nTest data size : 10k\n\n\n### Inspiration\n\nCan we build a generic supervised sentiment classifier that works irrespective of domain it has been trained on.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "computer science",
+    "nlp",
+    "text",
+    "multiclass classification",
+    "drugs and medications",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

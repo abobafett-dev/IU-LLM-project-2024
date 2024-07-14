@@ -1,0 +1,40 @@
+{
+  "id": "gauravduttakiit/embryo-classification-based-on-microscopic-images",
+  "id_no": 3809736,
+  "datasetSlugNullable": "embryo-classification-based-on-microscopic-images",
+  "ownerUserNullable": "gauravduttakiit",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Embryo classification based on microscopic images",
+  "subtitleNullable": "Embryo classification based on microscopic images",
+  "descriptionNullable": "Dataset Description\nWelcome to the \"Hung Vuong Hospital Embryo Classification\" dataset. This page provides a comprehensive overview of the data files, their formats, and the essential columns you'll encounter in this competition. Taking a moment to understand the data will help you navigate the challenge effectively and make informed decisions during your analysis and modeling.\n\nThe dataset comprises the following key files:\n\ntrain folder - Contains images of embryos at day-3 and day-5 for training purposes.\ntest folder - Contains images of embryos at day-3 and day-5 for testing purposes.\ntrain.csv - Contains information about the training set.\ntest.csv - Contains information about the test set.\nsample_submission.csv - A sample submission file that demonstrates the correct submission format.\nData Format Expectations\n\nThe embryo images are arranged within subfolders under the train and test directories. Each image is saved in JPG format and is labeled with a prefix. Images corresponding to day-3 embryos have the prefix D3 while images related to day-5 embryos bear the prefix D5. This prefix-based categorization allows for easy identification of the embryo's developmental stage.\n\nExpected Output\n\nYour task in this competition is to create a deep learning model that can accurately classify embryo images as 1 for good or 0 for not good for both day-3 and day-5 stages. The model should be trained on the training set and then used to predict the embryo quality in the test set. The ID column assigns an ID to each image. You will create the Class column as the result of model classification. The submission file contains only 2 columns: ID and Class (See the sample submission file)\n\nColumns\n\nYou will encounter the following columns throughout the dataset:\n\nID - Refers to the ID of the images in the test set.\nImage - Refers to the file name of the embryo images in the train or test folder.\nClass - Represents the evaluation of the embryo images. This column provides the ground truth label for each image, indicating whether the embryo is classified as 'good' or 'not good'.\nWe encourage you to explore, analyze, and preprocess the provided data to build a robust model for accurate embryo quality classification. Good luck, and may your innovative solutions contribute to advancements in reproductive science!\n\n",
+  "datasetId": 3809736,
+  "datasetSlug": "embryo-classification-based-on-microscopic-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravduttakiit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 2280,
+  "totalVotes": 27,
+  "totalDownloads": 284,
+  "title": "Embryo classification based on microscopic images",
+  "hasTitle": true,
+  "subtitle": "Embryo classification based on microscopic images",
+  "hasSubtitle": true,
+  "description": "Dataset Description\nWelcome to the \"Hung Vuong Hospital Embryo Classification\" dataset. This page provides a comprehensive overview of the data files, their formats, and the essential columns you'll encounter in this competition. Taking a moment to understand the data will help you navigate the challenge effectively and make informed decisions during your analysis and modeling.\n\nThe dataset comprises the following key files:\n\ntrain folder - Contains images of embryos at day-3 and day-5 for training purposes.\ntest folder - Contains images of embryos at day-3 and day-5 for testing purposes.\ntrain.csv - Contains information about the training set.\ntest.csv - Contains information about the test set.\nsample_submission.csv - A sample submission file that demonstrates the correct submission format.\nData Format Expectations\n\nThe embryo images are arranged within subfolders under the train and test directories. Each image is saved in JPG format and is labeled with a prefix. Images corresponding to day-3 embryos have the prefix D3 while images related to day-5 embryos bear the prefix D5. This prefix-based categorization allows for easy identification of the embryo's developmental stage.\n\nExpected Output\n\nYour task in this competition is to create a deep learning model that can accurately classify embryo images as 1 for good or 0 for not good for both day-3 and day-5 stages. The model should be trained on the training set and then used to predict the embryo quality in the test set. The ID column assigns an ID to each image. You will create the Class column as the result of model classification. The submission file contains only 2 columns: ID and Class (See the sample submission file)\n\nColumns\n\nYou will encounter the following columns throughout the dataset:\n\nID - Refers to the ID of the images in the test set.\nImage - Refers to the file name of the embryo images in the train or test folder.\nClass - Represents the evaluation of the embryo images. This column provides the ground truth label for each image, indicating whether the embryo is classified as 'good' or 'not good'.\nWe encourage you to explore, analyze, and preprocess the provided data to build a robust model for accurate embryo quality classification. Good luck, and may your innovative solutions contribute to advancements in reproductive science!\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "biotechnology"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

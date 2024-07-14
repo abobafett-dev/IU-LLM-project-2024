@@ -1,0 +1,44 @@
+{
+  "id": "harishedison/jena-weather-dataset",
+  "id_no": 2873257,
+  "datasetSlugNullable": "jena-weather-dataset",
+  "ownerUserNullable": "harishedison",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Jena Weather Dataset",
+  "subtitleNullable": "Weather data of Jena Weather Station of Max Planck Institute for Biogeochemistry",
+  "descriptionNullable": "Jena Climate is a weather time-series dataset recorded at the Weather Station of the Max Planck Institute for Biogeochemistry in Jena, Germany.\n\nJena Weather dataset is made up of 14 different quantities (such as air temperature, atmospheric pressure, humidity, wind direction, and so on) that were recorded every 10 minutes, over several years. This dataset covers data from January 1st, 2010 to August 31st, 2022.",
+  "datasetId": 2873257,
+  "datasetSlug": "jena-weather-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "harishedison",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1270,
+  "totalVotes": 11,
+  "totalDownloads": 121,
+  "title": "Jena Weather Dataset",
+  "hasTitle": true,
+  "subtitle": "Weather data of Jena Weather Station of Max Planck Institute for Biogeochemistry",
+  "hasSubtitle": true,
+  "description": "Jena Climate is a weather time-series dataset recorded at the Weather Station of the Max Planck Institute for Biogeochemistry in Jena, Germany.\n\nJena Weather dataset is made up of 14 different quantities (such as air temperature, atmospheric pressure, humidity, wind direction, and so on) that were recorded every 10 minutes, over several years. This dataset covers data from January 1st, 2010 to August 31st, 2022.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "atmospheric science",
+    "weather and climate",
+    "time series analysis",
+    "lstm",
+    "regression",
+    "multimodal"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "yassershrief/video-classification-tutorial",
+  "id_no": 1116548,
+  "datasetSlugNullable": "video-classification-tutorial",
+  "ownerUserNullable": "yassershrief",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Tom And Jerry labelled Video",
+  "subtitleNullable": "video classification",
+  "descriptionNullable": "When I started my deep learning journey, one of the first things I learned was image classification. It\u2019s such a fascinating part of the computer vision fraternity and I was completely immersed in it! But I have a curious mind and once I had a handle on image classification, I wondered if I could transfer that learning to videos.\nI uploaded a video file with labels ",
+  "datasetId": 1116548,
+  "datasetSlug": "video-classification-tutorial",
+  "hasDatasetSlug": true,
+  "ownerUser": "yassershrief",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 2733,
+  "totalVotes": 3,
+  "totalDownloads": 81,
+  "title": "Tom And Jerry labelled Video",
+  "hasTitle": true,
+  "subtitle": "video classification",
+  "hasSubtitle": true,
+  "description": "When I started my deep learning journey, one of the first things I learned was image classification. It\u2019s such a fascinating part of the computer vision fraternity and I was completely immersed in it! But I have a curious mind and once I had a handle on image classification, I wondered if I could transfer that learning to videos.\nI uploaded a video file with labels ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video",
+    "transfer learning",
+    "cv2",
+    "keras",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

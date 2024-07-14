@@ -1,0 +1,43 @@
+{
+  "id": "sharthz23/yandex-cup-2023-neuroswipe",
+  "id_no": 3921659,
+  "datasetSlugNullable": "yandex-cup-2023-neuroswipe",
+  "ownerUserNullable": "sharthz23",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Yandex Cup 2023 Neuroswipe",
+  "subtitleNullable": "Dataset from Yandex Cup 2023 Neuroswipe",
+  "descriptionNullable": "Dataset from [Yandex Cup 2023](https://yandex.ru/cup/ml/), Neuroswipe.\n\nContest - [contest.yandex.ru](https://contest.yandex.ru/contest/54253/problems)\n\nGoal - predict the word typed using a swipe on the keyboard (hint predictor)\n\nTrain files:\n- main files - `train`, `valid`\n- optional files \n  - `suggestion_accepted` - user chose some hint instead of the first one\n  - `accepted` - hint that the user accepted and continued further input without cancellations. Perhaps recognition worked incorrectly, and the user simply did not notice the error.\n\nData:\n- `*_curves.parquet` - curve points, long format (1 row - 1 point for curve)\n  - `curve_id` - curve ID a.k.a swipe, int32 | row index from original JSNOL file \n  - `x` - X coord, int32\n  - `y` - Y coord, int32\n  - `t` - timestamp, int32 | milliseconds from start of swipe (curve)\n- `keyboards_full.csv` - keyboards info\n  - `keyboard_id` - keyboard ID, int32 | global id for all files `*_curves_info.parquet`\n  - `internal_keyboard_id` - second ID, int32 | technical information about the order of appearance of keyboards in the data\n  - `origin` - source file, str | source JSONL file for keyboard info\n  - `type` - keyboard name, str | contains info about language\n  - `width` - width, int32\n  - `height` - height, int32\n- `keys_full.csv` - keyboard's keys (buttons) info\n  - `keyboard_id` - keyboard ID, int32 | from `keyboards_full.csv` \n  - `label` - label of key, str | can be any utf-8 symbol\n  - `is_action` - flag, bool | flag for backspace, enter and other action keys\n  - `hitbox_x` - upper-left X coord of key, int32\n  - `hitbox_y` - upper-left Y coord of key, int32\n  - `hitbox_w` - width, int32\n  - `hitbox_h` - height, int32\n- `*_curves_info.parquet` - curve info (1 row - 1 curve)\n  - `curve_id` - curve ID a.k.a swipe, int32 | row index from original JSNOL file \n  - `keyboard_id` - keyboard ID, int32 | id from `keyboard_full.csv`\n  - `word_index` - target word index, int32 | row number from `voc.txt` (except `test`) \n- `voc.txt` - TXT file with all possible words for all files (include test)\n  - there is no guarantee that every word from the dictionary is used",
+  "datasetId": 3921659,
+  "datasetSlug": "yandex-cup-2023-neuroswipe",
+  "hasDatasetSlug": true,
+  "ownerUser": "sharthz23",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 384,
+  "totalVotes": 7,
+  "totalDownloads": 22,
+  "title": "Yandex Cup 2023 Neuroswipe",
+  "hasTitle": true,
+  "subtitle": "Dataset from Yandex Cup 2023 Neuroswipe",
+  "hasSubtitle": true,
+  "description": "Dataset from [Yandex Cup 2023](https://yandex.ru/cup/ml/), Neuroswipe.\n\nContest - [contest.yandex.ru](https://contest.yandex.ru/contest/54253/problems)\n\nGoal - predict the word typed using a swipe on the keyboard (hint predictor)\n\nTrain files:\n- main files - `train`, `valid`\n- optional files \n  - `suggestion_accepted` - user chose some hint instead of the first one\n  - `accepted` - hint that the user accepted and continued further input without cancellations. Perhaps recognition worked incorrectly, and the user simply did not notice the error.\n\nData:\n- `*_curves.parquet` - curve points, long format (1 row - 1 point for curve)\n  - `curve_id` - curve ID a.k.a swipe, int32 | row index from original JSNOL file \n  - `x` - X coord, int32\n  - `y` - Y coord, int32\n  - `t` - timestamp, int32 | milliseconds from start of swipe (curve)\n- `keyboards_full.csv` - keyboards info\n  - `keyboard_id` - keyboard ID, int32 | global id for all files `*_curves_info.parquet`\n  - `internal_keyboard_id` - second ID, int32 | technical information about the order of appearance of keyboards in the data\n  - `origin` - source file, str | source JSONL file for keyboard info\n  - `type` - keyboard name, str | contains info about language\n  - `width` - width, int32\n  - `height` - height, int32\n- `keys_full.csv` - keyboard's keys (buttons) info\n  - `keyboard_id` - keyboard ID, int32 | from `keyboards_full.csv` \n  - `label` - label of key, str | can be any utf-8 symbol\n  - `is_action` - flag, bool | flag for backspace, enter and other action keys\n  - `hitbox_x` - upper-left X coord of key, int32\n  - `hitbox_y` - upper-left Y coord of key, int32\n  - `hitbox_w` - width, int32\n  - `hitbox_h` - height, int32\n- `*_curves_info.parquet` - curve info (1 row - 1 curve)\n  - `curve_id` - curve ID a.k.a swipe, int32 | row index from original JSNOL file \n  - `keyboard_id` - keyboard ID, int32 | id from `keyboard_full.csv`\n  - `word_index` - target word index, int32 | row number from `voc.txt` (except `test`) \n- `voc.txt` - TXT file with all possible words for all files (include test)\n  - there is no guarantee that every word from the dictionary is used",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "russia",
+    "computer science",
+    "signal processing",
+    "time series analysis",
+    "multimodal"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

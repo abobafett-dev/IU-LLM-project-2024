@@ -1,0 +1,43 @@
+{
+  "id": "kagglechip/chips-thermal-face-dataset",
+  "id_no": 1238946,
+  "datasetSlugNullable": "chips-thermal-face-dataset",
+  "ownerUserNullable": "kagglechip",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Chips Thermal Face Dataset",
+  "subtitleNullable": "Thermal images; 8 participants; over 1,200 images total",
+  "descriptionNullable": "\n# Chips Thermal Face Dataset\n## Thermal images; 8 participants; over 1,200 images total\nThe Chips Thermal Face Dataset is a large-scale (over 1,200 images, Male and Female, from 3 different continents, aged 18-23) thermal face dataset. This dataset will be available to researchers worldwide to create accurate thermal facial classification and thermal facial recognition systems using state-of-the art deep learning methods.\n\n### Source\nImages were captured using a FLIR\u00ae Lepton 3.5 Thermal Imaging Camera.\n\n### Image Variation\nThe images are varied in multiple ways:\n1. [Location captured] Pictures were taken in different room around a house and some were taken outdoors.\n2. [Surrounding Hot Objects] Some locations included radiators, kitchen appliances, computer screens, etc. which are hot objects that will be prominent in the thermal images. Contrastingly, some locations did not contain hot objects.\n3. [Face distance from Camera] Candidates were asked to stand a variety of distances from the camera.\n4. [Color] 5 different color modes were applied to each scenario.\n5. [Items Worn on Faces] A variety of items were worn on/across candidates faces including hats, jumper hoods, face masks, glasses, scarfs, etc. \n6. [Face Orientation] Candidates were asked to rotate their head to face a varying range of degrees to the camera ranging from -80 to 80 degrees (zero meaning directly facing the camera).\n\nIn addition, candidates were asked to take a series of images as a group, and in some cases allowed to pose any way of their own choosing to make images more diverse.\n\n### Image Files Naming Convention\nCandidates in the dataset were each assigned a number. The name for each image file in the dataset was composed of the candidate name and an image number respectively, separated by an underscore. \n\n### Annotations\nAnnotations are also provided as part of the repository. These annotations are stored in the YOLO (You Only Look Once) annotation format. Each annotation has a class index of value zero since 'face' is the only class annotated.\n\n### Terms and Conditions\nThe researcher shall use the dataset only for non-commercial research and educational purposes. Any commercial distribution or act related to the commercial usage of this dataset is strictly prohibited.\n\n**Any publication using this database must reference to this.**\n\n### Disclaimer\nParticipants included in this dataset agreed it being made publicly accessible. Appropriate steps have been taken to preserve the anonymity of participants.\n\n### Questions and Contributions\nFor any enquires regarding the Chip Face Dataset, contact: contact@cookjames.uk\n\n",
+  "datasetId": 1238946,
+  "datasetSlug": "chips-thermal-face-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kagglechip",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 7389,
+  "totalVotes": 10,
+  "totalDownloads": 426,
+  "title": "Chips Thermal Face Dataset",
+  "hasTitle": true,
+  "subtitle": "Thermal images; 8 participants; over 1,200 images total",
+  "hasSubtitle": true,
+  "description": "\n# Chips Thermal Face Dataset\n## Thermal images; 8 participants; over 1,200 images total\nThe Chips Thermal Face Dataset is a large-scale (over 1,200 images, Male and Female, from 3 different continents, aged 18-23) thermal face dataset. This dataset will be available to researchers worldwide to create accurate thermal facial classification and thermal facial recognition systems using state-of-the art deep learning methods.\n\n### Source\nImages were captured using a FLIR\u00ae Lepton 3.5 Thermal Imaging Camera.\n\n### Image Variation\nThe images are varied in multiple ways:\n1. [Location captured] Pictures were taken in different room around a house and some were taken outdoors.\n2. [Surrounding Hot Objects] Some locations included radiators, kitchen appliances, computer screens, etc. which are hot objects that will be prominent in the thermal images. Contrastingly, some locations did not contain hot objects.\n3. [Face distance from Camera] Candidates were asked to stand a variety of distances from the camera.\n4. [Color] 5 different color modes were applied to each scenario.\n5. [Items Worn on Faces] A variety of items were worn on/across candidates faces including hats, jumper hoods, face masks, glasses, scarfs, etc. \n6. [Face Orientation] Candidates were asked to rotate their head to face a varying range of degrees to the camera ranging from -80 to 80 degrees (zero meaning directly facing the camera).\n\nIn addition, candidates were asked to take a series of images as a group, and in some cases allowed to pose any way of their own choosing to make images more diverse.\n\n### Image Files Naming Convention\nCandidates in the dataset were each assigned a number. The name for each image file in the dataset was composed of the candidate name and an image number respectively, separated by an underscore. \n\n### Annotations\nAnnotations are also provided as part of the repository. These annotations are stored in the YOLO (You Only Look Once) annotation format. Each annotation has a class index of value zero since 'face' is the only class annotated.\n\n### Terms and Conditions\nThe researcher shall use the dataset only for non-commercial research and educational purposes. Any commercial distribution or act related to the commercial usage of this dataset is strictly prohibited.\n\n**Any publication using this database must reference to this.**\n\n### Disclaimer\nParticipants included in this dataset agreed it being made publicly accessible. Appropriate steps have been taken to preserve the anonymity of participants.\n\n### Questions and Contributions\nFor any enquires regarding the Chip Face Dataset, contact: contact@cookjames.uk\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "deep learning",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

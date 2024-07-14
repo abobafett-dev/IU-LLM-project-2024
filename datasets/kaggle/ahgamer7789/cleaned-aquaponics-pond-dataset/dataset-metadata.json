@@ -1,0 +1,42 @@
+{
+  "id": "ahgamer7789/cleaned-aquaponics-pond-dataset",
+  "id_no": 4805299,
+  "datasetSlugNullable": "cleaned-aquaponics-pond-dataset",
+  "ownerUserNullable": "ahgamer7789",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Cleaned Aquaponics Pond Dataset",
+  "subtitleNullable": "Data Cleaning, Processing, and multiple Model Comparison",
+  "descriptionNullable": "This is a subset of the original dataset, [Sensor Based Aquaponics Fish Pond Datasets](https://www.kaggle.com/datasets/ogbuokiriblessing/sensor-based-aquaponics-fish-pond-datasets).\n\nMinimal cleaning has been applied to the data to facilitate its use in forecasting challenges and experimentation. This approach allows more time to be devoted to discovering novel data transformations and models, rather than spending excessive time on low-level, time-consuming cleaning tasks.\n\nThis subset is excellent for beginners seeking experience with noisy time series data",
+  "datasetId": 4805299,
+  "datasetSlug": "cleaned-aquaponics-pond-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahgamer7789",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 303,
+  "totalVotes": 6,
+  "totalDownloads": 38,
+  "title": "Cleaned Aquaponics Pond Dataset",
+  "hasTitle": true,
+  "subtitle": "Data Cleaning, Processing, and multiple Model Comparison",
+  "hasSubtitle": true,
+  "description": "This is a subset of the original dataset, [Sensor Based Aquaponics Fish Pond Datasets](https://www.kaggle.com/datasets/ogbuokiriblessing/sensor-based-aquaponics-fish-pond-datasets).\n\nMinimal cleaning has been applied to the data to facilitate its use in forecasting challenges and experimentation. This approach allows more time to be devoted to discovering novel data transformations and models, rather than spending excessive time on low-level, time-consuming cleaning tasks.\n\nThis subset is excellent for beginners seeking experience with noisy time series data",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "agriculture",
+    "time series analysis",
+    "tabular",
+    "fish and aquaria"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

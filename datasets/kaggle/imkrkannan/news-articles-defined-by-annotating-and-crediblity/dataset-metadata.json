@@ -1,0 +1,42 @@
+{
+  "id": "imkrkannan/news-articles-defined-by-annotating-and-crediblity",
+  "id_no": 731611,
+  "datasetSlugNullable": "news-articles-defined-by-annotating-and-crediblity",
+  "ownerUserNullable": "imkrkannan",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "News Articles Defined by annotating and crediblity",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nThere's a story behind every dataset and here's your opportunity to share yours.\n\n\nThis study is based on a previous study: Amy Zhang, Aditya Ranganathan, Sarah Emlen Metz, Scott Appling, Connie Moon Sehat, Norman Gilmore, Nick B. Adams, Emmanuel Vincent, Jennifer 8. Lee, Martin Robbins, Ed Bice, Sandro Hawke, David Karger, and An Xiao Mina. A Structured Response to Misinformation: Defining and Annotating Credibility Indicators in News Articles. The Web Conference, April 2018 (available here; dataset here )\n\nA number of the questions remain the same from the study (\"WebConf 2018\"), with several modifications based on the earlier results to elicit more information related to indicators (https://credweb.org/cciv/).\n\nThe study has been broken up into 2 major parts:\n\nnew annotators reviewing the same articles from the original WebConf 2018 study, and\nnew annotators reviewing new articles",
+  "datasetId": 731611,
+  "datasetSlug": "news-articles-defined-by-annotating-and-crediblity",
+  "hasDatasetSlug": true,
+  "ownerUser": "imkrkannan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 1586,
+  "totalVotes": 4,
+  "totalDownloads": 30,
+  "title": "News Articles Defined by annotating and crediblity",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThere's a story behind every dataset and here's your opportunity to share yours.\n\n\nThis study is based on a previous study: Amy Zhang, Aditya Ranganathan, Sarah Emlen Metz, Scott Appling, Connie Moon Sehat, Norman Gilmore, Nick B. Adams, Emmanuel Vincent, Jennifer 8. Lee, Martin Robbins, Ed Bice, Sandro Hawke, David Karger, and An Xiao Mina. A Structured Response to Misinformation: Defining and Annotating Credibility Indicators in News Articles. The Web Conference, April 2018 (available here; dataset here )\n\nA number of the questions remain the same from the study (\"WebConf 2018\"), with several modifications based on the earlier results to elicit more information related to indicators (https://credweb.org/cciv/).\n\nThe study has been broken up into 2 major parts:\n\nnew annotators reviewing the same articles from the original WebConf 2018 study, and\nnew annotators reviewing new articles",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "crime",
+    "data visualization",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

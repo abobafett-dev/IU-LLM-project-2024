@@ -1,0 +1,42 @@
+{
+  "id": "ruchihardaha/amazon-product-reviews",
+  "id_no": 3686124,
+  "datasetSlugNullable": "amazon-product-reviews",
+  "ownerUserNullable": "ruchihardaha",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Amazon Product Reviews",
+  "subtitleNullable": "Alexa Eco-dot Customer Reviews",
+  "descriptionNullable": "This dataset contains customer reviews for the product Alexa Echo dot.\n\nIt contains 90 records.\n\nColumns : \nindex : Record No\nRating : Review Rating \nTitle Review : Tittle of the review\nReview Date : Date when review is recorded",
+  "datasetId": 3686124,
+  "datasetSlug": "amazon-product-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "ruchihardaha",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1207,
+  "totalVotes": 8,
+  "totalDownloads": 154,
+  "title": "Amazon Product Reviews",
+  "hasTitle": true,
+  "subtitle": "Alexa Eco-dot Customer Reviews",
+  "hasSubtitle": true,
+  "description": "This dataset contains customer reviews for the product Alexa Echo dot.\n\nIt contains 90 records.\n\nColumns : \nindex : Record No\nRating : Review Rating \nTitle Review : Tittle of the review\nReview Date : Date when review is recorded",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "text mining",
+    "retail and shopping",
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

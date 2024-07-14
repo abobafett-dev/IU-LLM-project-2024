@@ -1,0 +1,43 @@
+{
+  "id": "emirhanai/epxusd-binance-historical-data-for-ann",
+  "id_no": 5057265,
+  "datasetSlugNullable": "epxusd-binance-historical-data-for-ann",
+  "ownerUserNullable": "emirhanai",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "EPX/USD Binance Historical Data for ANN",
+  "subtitleNullable": "Comprehensive EPX/USDT Data for Advanced Neural Network Predictions",
+  "descriptionNullable": "### About Dataset\n\n**Context:**\n\nThis dataset provides comprehensive historical data for the EPX/USDT trading pair on Binance, dating from November 21, 2021, to May 21, 2024. It is particularly curated for facilitating advanced predictive analytics and machine learning projects, especially in the field of financial time series forecasting.\n\n**Sources:**\n\nThe data was meticulously sourced from [investing.com](http://investing.com/), a reliable platform for financial information and data analytics. It captures critical daily trading metrics, including the opening, closing, highest, and lowest prices, along with daily trading volume and percentage changes. This rich dataset is integral for constructing robust models that can predict future trading behaviors and trends.\n\n**Inspiration:**\n\nWith a background in artificial intelligence and financial modeling, I have embarked on a project to predict the future prices of EPX/USDT using advanced neural network architectures. This project aims to leverage the power of several cutting-edge algorithms to create a robust forecasting backbone, combining:\n\n- Gated Recurrent Units (GRU): Employed to capture the complexities of sequential data while efficiently handling long-term dependencies.\n\n- Long Short-Term Memory (LSTM): Utilized to overcome the vanishing gradient problem, ensuring the model remembers essential patterns over extended periods.\n\n- Recurrent Neural Networks (RNN): Applied to process sequences of trading data, retaining the temporal dynamics and dependencies inherent in time series data.\n\n- Transformers: Integrated to benefit from their ability to handle both local and global dependencies in data, ensuring more accurate and contextually aware predictions.\n\nThe synergy of these algorithms aims to forge a resilient and accurate predictive model, capable of anticipating price movements and trends for the month of June 2024. This project showcases the potential of deploying hybrid neural network architectures for tackling real-world financial forecasting challenges.\n\n**Usage:**\n\nUsers can utilize this dataset to:\n\n- Conduct time series analysis and predictive modeling.\n\n- Train and evaluate various machine learning and deep learning models.\n\n- Develop custom financial forecasting tools and algorithms.\n\n- Enhance their understanding of cryptocurrency trading patterns and dynamics.\n\nWith this dataset, the financial forecasting community can explore novel modeling techniques and validate their approaches against real-world data, contributing to the development of more precise and reliable predictive models.\n\n**Conclusion:**\n\nThis dataset not only serves as a vital resource for academic and professional research but also stands as a testament to the power of innovative neural network architectures in the realm of financial forecasting. Whether you are a novice data scientist eager to explore time series data or a seasoned researcher looking to refine your models, this dataset offers a valuable foundation for your endeavors.",
+  "datasetId": 5057265,
+  "datasetSlug": "epxusd-binance-historical-data-for-ann",
+  "hasDatasetSlug": true,
+  "ownerUser": "emirhanai",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 102,
+  "totalVotes": 2,
+  "totalDownloads": 11,
+  "title": "EPX/USD Binance Historical Data for ANN",
+  "hasTitle": true,
+  "subtitle": "Comprehensive EPX/USDT Data for Advanced Neural Network Predictions",
+  "hasSubtitle": true,
+  "description": "### About Dataset\n\n**Context:**\n\nThis dataset provides comprehensive historical data for the EPX/USDT trading pair on Binance, dating from November 21, 2021, to May 21, 2024. It is particularly curated for facilitating advanced predictive analytics and machine learning projects, especially in the field of financial time series forecasting.\n\n**Sources:**\n\nThe data was meticulously sourced from [investing.com](http://investing.com/), a reliable platform for financial information and data analytics. It captures critical daily trading metrics, including the opening, closing, highest, and lowest prices, along with daily trading volume and percentage changes. This rich dataset is integral for constructing robust models that can predict future trading behaviors and trends.\n\n**Inspiration:**\n\nWith a background in artificial intelligence and financial modeling, I have embarked on a project to predict the future prices of EPX/USDT using advanced neural network architectures. This project aims to leverage the power of several cutting-edge algorithms to create a robust forecasting backbone, combining:\n\n- Gated Recurrent Units (GRU): Employed to capture the complexities of sequential data while efficiently handling long-term dependencies.\n\n- Long Short-Term Memory (LSTM): Utilized to overcome the vanishing gradient problem, ensuring the model remembers essential patterns over extended periods.\n\n- Recurrent Neural Networks (RNN): Applied to process sequences of trading data, retaining the temporal dynamics and dependencies inherent in time series data.\n\n- Transformers: Integrated to benefit from their ability to handle both local and global dependencies in data, ensuring more accurate and contextually aware predictions.\n\nThe synergy of these algorithms aims to forge a resilient and accurate predictive model, capable of anticipating price movements and trends for the month of June 2024. This project showcases the potential of deploying hybrid neural network architectures for tackling real-world financial forecasting challenges.\n\n**Usage:**\n\nUsers can utilize this dataset to:\n\n- Conduct time series analysis and predictive modeling.\n\n- Train and evaluate various machine learning and deep learning models.\n\n- Develop custom financial forecasting tools and algorithms.\n\n- Enhance their understanding of cryptocurrency trading patterns and dynamics.\n\nWith this dataset, the financial forecasting community can explore novel modeling techniques and validate their approaches against real-world data, contributing to the development of more precise and reliable predictive models.\n\n**Conclusion:**\n\nThis dataset not only serves as a vital resource for academic and professional research but also stands as a testament to the power of innovative neural network architectures in the realm of financial forecasting. Whether you are a novice data scientist eager to explore time series data or a seasoned researcher looking to refine your models, this dataset offers a valuable foundation for your endeavors.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "neural networks",
+    "lstm",
+    "rnn",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

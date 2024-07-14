@@ -1,0 +1,41 @@
+{
+  "id": "troooonnn/news-images-dataset",
+  "id_no": 4424252,
+  "datasetSlugNullable": "news-images-dataset",
+  "ownerUserNullable": "troooonnn",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "News Images Dataset",
+  "subtitleNullable": "A compilation of Images from News Websites and Publicly Available Datasets",
+  "descriptionNullable": "This dataset includes images scraped from online news websites such as India Times, Times of India, Al Jazeera and Reuters. Images from publicly available news image datasets are also included in this dataset.",
+  "datasetId": 4424252,
+  "datasetSlug": "news-images-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "troooonnn",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 135,
+  "totalVotes": 3,
+  "totalDownloads": 28,
+  "title": "News Images Dataset",
+  "hasTitle": true,
+  "subtitle": "A compilation of Images from News Websites and Publicly Available Datasets",
+  "hasSubtitle": true,
+  "description": "This dataset includes images scraped from online news websites such as India Times, Times of India, Al Jazeera and Reuters. Images from publicly available news image datasets are also included in this dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image",
+    "news",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

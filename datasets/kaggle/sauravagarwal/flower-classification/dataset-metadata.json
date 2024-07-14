@@ -1,0 +1,39 @@
+{
+  "id": "sauravagarwal/flower-classification",
+  "id_no": 1280229,
+  "datasetSlugNullable": "flower-classification",
+  "ownerUserNullable": "sauravagarwal",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Flower Classification",
+  "subtitleNullable": "Multiclass Flower Classification",
+  "descriptionNullable": "### Context\n\nRaw jpg images of five types of flowers. Partitioned into test, training and validation directories. Original source are not partitioned. Original source is https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz\nFlower types - daisy, dandelion, roses, sunflowers, tulips\n\n\n### Acknowledgements\n\nTung, KC (2020), \u201cFlower Images jpg\u201d, Mendeley Data, V1, doi: 10.17632/738sdjm6h9.1\n\n### Inspiration\n\nMulticlass image classification",
+  "datasetId": 1280229,
+  "datasetSlug": "flower-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "sauravagarwal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 9501,
+  "totalVotes": 14,
+  "totalDownloads": 1246,
+  "title": "Flower Classification",
+  "hasTitle": true,
+  "subtitle": "Multiclass Flower Classification",
+  "hasSubtitle": true,
+  "description": "### Context\n\nRaw jpg images of five types of flowers. Partitioned into test, training and validation directories. Original source are not partitioned. Original source is https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz\nFlower types - daisy, dandelion, roses, sunflowers, tulips\n\n\n### Acknowledgements\n\nTung, KC (2020), \u201cFlower Images jpg\u201d, Mendeley Data, V1, doi: 10.17632/738sdjm6h9.1\n\n### Inspiration\n\nMulticlass image classification",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

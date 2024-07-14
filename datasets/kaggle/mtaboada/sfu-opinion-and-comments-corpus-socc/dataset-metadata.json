@@ -1,0 +1,42 @@
+{
+  "id": "mtaboada/sfu-opinion-and-comments-corpus-socc",
+  "id_no": 1399574,
+  "datasetSlugNullable": "sfu-opinion-and-comments-corpus-socc",
+  "ownerUserNullable": "mtaboada",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "SFU Opinion and Comments Corpus (SOCC)",
+  "subtitleNullable": "Opinion and online comments",
+  "descriptionNullable": "SFU Opinion and Comments Corpus\n\nThe SFU Opinion and Comments Corpus (SOCC) is a corpus for the analysis of online news comments. Our corpus contains comments and the articles from which the comments originated. The articles are all opinion articles, not hard news articles. The corpus is larger than any other currently available comments corpora, and has been collected with attention to preserving reply structures and other metadata. In addition to the raw corpus, we also present annotations for four different phenomena: constructiveness, toxicity, negation and its scope, and appraisal.\n\nFor more information about this work, please see our papers.\n- Kolhatkar, V., N. Thain, J. Sorensen, L. Dixon and M. Taboada (2023) [Classifying constructive comments](https://firstmonday.org/ojs/index.php/fm/article/view/13163). First Monday 28(4). https://doi.org/10.5210/fm.v28i4.13163\n- Kolhatkar, V.,H. Wu, L. Cavasso, E. Francis, K. Shukla and M. Taboada (2020) [The SFU Opinion and Comments Corpus: A corpus for the analysis of online news comments](https://link.springer.com/article/10.1007%2Fs41701-019-00065-w). Corpus Pragmatics 4(2), 155-190.\n- Kolhatkar. V. and M. Taboada (2017) Using New York Times Picks to identify constructive comments. Proceedings of the Workshop Natural Language Processing Meets Journalism, Conference on Empirical Methods in Natural Language Processing. Copenhagen. September 2017.\n- Kolhatkar, V. and M. Taboada (2017) Constructive language in news comments. Proceedings of the 1st Abusive Language Online Workshop, 55th Annual Meeting of the Association for Computational Linguistics. Vancouver. August 2017, pp. 11-17.",
+  "datasetId": 1399574,
+  "datasetSlug": "sfu-opinion-and-comments-corpus-socc",
+  "hasDatasetSlug": true,
+  "ownerUser": "mtaboada",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 3703,
+  "totalVotes": 8,
+  "totalDownloads": 327,
+  "title": "SFU Opinion and Comments Corpus (SOCC)",
+  "hasTitle": true,
+  "subtitle": "Opinion and online comments",
+  "hasSubtitle": true,
+  "description": "SFU Opinion and Comments Corpus\n\nThe SFU Opinion and Comments Corpus (SOCC) is a corpus for the analysis of online news comments. Our corpus contains comments and the articles from which the comments originated. The articles are all opinion articles, not hard news articles. The corpus is larger than any other currently available comments corpora, and has been collected with attention to preserving reply structures and other metadata. In addition to the raw corpus, we also present annotations for four different phenomena: constructiveness, toxicity, negation and its scope, and appraisal.\n\nFor more information about this work, please see our papers.\n- Kolhatkar, V., N. Thain, J. Sorensen, L. Dixon and M. Taboada (2023) [Classifying constructive comments](https://firstmonday.org/ojs/index.php/fm/article/view/13163). First Monday 28(4). https://doi.org/10.5210/fm.v28i4.13163\n- Kolhatkar, V.,H. Wu, L. Cavasso, E. Francis, K. Shukla and M. Taboada (2020) [The SFU Opinion and Comments Corpus: A corpus for the analysis of online news comments](https://link.springer.com/article/10.1007%2Fs41701-019-00065-w). Corpus Pragmatics 4(2), 155-190.\n- Kolhatkar. V. and M. Taboada (2017) Using New York Times Picks to identify constructive comments. Proceedings of the Workshop Natural Language Processing Meets Journalism, Conference on Empirical Methods in Natural Language Processing. Copenhagen. September 2017.\n- Kolhatkar, V. and M. Taboada (2017) Constructive language in news comments. Proceedings of the 1st Abusive Language Online Workshop, 55th Annual Meeting of the Association for Computational Linguistics. Vancouver. August 2017, pp. 11-17.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "linguistics",
+    "nlp",
+    "news",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

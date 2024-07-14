@@ -1,0 +1,42 @@
+{
+  "id": "kabhishm/fatal-dog-attacks-in-the-us-202022",
+  "id_no": 2744663,
+  "datasetSlugNullable": "fatal-dog-attacks-in-the-us-202022",
+  "ownerUserNullable": "kabhishm",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Fatal dog attacks in the US",
+  "subtitleNullable": "List of fatal dog attacks in the United States from 2020 to 2022",
+  "descriptionNullable": "Fatal dog attacks in the United States cause the deaths of about 30 to 50 people in the US each year, and the number of deaths from dog attacks appears to be increasing. Around 4.5 million Americans are bitten by dogs every year, resulting in the hospitalization of 6,000 to 13,000 people each year in the United States.\nBelow are the lists of fatal dog attacks in the United States reported by the news media, published in scholarly papers, or mentioned through other sources. In the lists below, the breed is assigned by the sources.\n\n###**COLUMN DESCRIPTION**\n- 'date': date of the incident\n- 'year': year of the incident\n- 'city': name of the city\n- 'state': name of the state\n- 'vic_name': name of the victim\n- 'vic_age': age of the victim\n- 'dog_type': type of the dog\n- 'desc': description of the circumstance\n\n###**FILE DESCRIPTION**\nName of the file: dog_attacks.csv\n\nThe file contains the following columns:\n- 'date': date of the incident\n- 'year': year of the incident\n- 'city': name of the city\n- 'state': name of the state\n- 'vic_name': name of the victim\n- 'vic_age': age of the victim\n- 'dog_type': type of the dog\n- 'desc': description of the circumstance",
+  "datasetId": 2744663,
+  "datasetSlug": "fatal-dog-attacks-in-the-us-202022",
+  "hasDatasetSlug": true,
+  "ownerUser": "kabhishm",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 6092,
+  "totalVotes": 36,
+  "totalDownloads": 1212,
+  "title": "Fatal dog attacks in the US",
+  "hasTitle": true,
+  "subtitle": "List of fatal dog attacks in the United States from 2020 to 2022",
+  "hasSubtitle": true,
+  "description": "Fatal dog attacks in the United States cause the deaths of about 30 to 50 people in the US each year, and the number of deaths from dog attacks appears to be increasing. Around 4.5 million Americans are bitten by dogs every year, resulting in the hospitalization of 6,000 to 13,000 people each year in the United States.\nBelow are the lists of fatal dog attacks in the United States reported by the news media, published in scholarly papers, or mentioned through other sources. In the lists below, the breed is assigned by the sources.\n\n###**COLUMN DESCRIPTION**\n- 'date': date of the incident\n- 'year': year of the incident\n- 'city': name of the city\n- 'state': name of the state\n- 'vic_name': name of the victim\n- 'vic_age': age of the victim\n- 'dog_type': type of the dog\n- 'desc': description of the circumstance\n\n###**FILE DESCRIPTION**\nName of the file: dog_attacks.csv\n\nThe file contains the following columns:\n- 'date': date of the incident\n- 'year': year of the incident\n- 'city': name of the city\n- 'state': name of the state\n- 'vic_name': name of the victim\n- 'vic_age': age of the victim\n- 'dog_type': type of the dog\n- 'desc': description of the circumstance",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "earth and nature",
+    "biology",
+    "animals"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

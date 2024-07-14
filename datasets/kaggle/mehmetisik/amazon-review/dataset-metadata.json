@@ -1,0 +1,40 @@
+{
+  "id": "mehmetisik/amazon-review",
+  "id_no": 3431319,
+  "datasetSlugNullable": "amazon-review",
+  "ownerUserNullable": "mehmetisik",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Online Product Reviews Analysis: Customer Feedback",
+  "subtitleNullable": "Analyzing customer reviews of various products  e-commerce platform in detail",
+  "descriptionNullable": "This dataset provides a comprehensive analysis of customer reviews for various products on an e-commerce platform. It is an invaluable resource for market analysts, product managers, and researchers interested in understanding consumer behavior and product performance. Each record in the dataset includes detailed feedback from customers, aiding in product evaluation and market research.\n\n**Key Features:**\n\n\ud83d\udcc4 **Reviewer ID:** Unique identifier for the reviewer.\n\n\ud83d\udce6 **ASIN:** Amazon Standard Identification Number for the product.\n\n\ud83d\udc64 **Reviewer Name:** Name of the reviewer.\n\n\ud83d\udc4d **Helpful:** Number of helpful votes the review received.\n\n\ud83d\udcdd **Review Text:** The content of the review written by the customer.\n\n\u2b50 **Overall Rating:** The overall rating given to the product (ranging from 1 to 5 stars).\n\n\ud83d\udcf0 **Summary:** A brief summary of the review.\n\n\ud83d\udd70\ufe0f **Unix Review Time:** The time the review was posted in Unix timestamp format.\n\n\ud83d\udcc5 **Review Time:** The time the review was posted in a readable date format.\n\n\ud83d\udcc6 **Day Difference:** The number of days between the review date and the current date.\n\n\u2714\ufe0f **Helpful Yes:** Number of positive helpful votes.\n\n\ud83d\udd22 **Total Votes:** Total number of votes the review received.",
+  "datasetId": 3431319,
+  "datasetSlug": "amazon-review",
+  "hasDatasetSlug": true,
+  "ownerUser": "mehmetisik",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 606,
+  "totalVotes": 47,
+  "totalDownloads": 209,
+  "title": "Online Product Reviews Analysis: Customer Feedback",
+  "hasTitle": true,
+  "subtitle": "Analyzing customer reviews of various products  e-commerce platform in detail",
+  "hasSubtitle": true,
+  "description": "This dataset provides a comprehensive analysis of customer reviews for various products on an e-commerce platform. It is an invaluable resource for market analysts, product managers, and researchers interested in understanding consumer behavior and product performance. Each record in the dataset includes detailed feedback from customers, aiding in product evaluation and market research.\n\n**Key Features:**\n\n\ud83d\udcc4 **Reviewer ID:** Unique identifier for the reviewer.\n\n\ud83d\udce6 **ASIN:** Amazon Standard Identification Number for the product.\n\n\ud83d\udc64 **Reviewer Name:** Name of the reviewer.\n\n\ud83d\udc4d **Helpful:** Number of helpful votes the review received.\n\n\ud83d\udcdd **Review Text:** The content of the review written by the customer.\n\n\u2b50 **Overall Rating:** The overall rating given to the product (ranging from 1 to 5 stars).\n\n\ud83d\udcf0 **Summary:** A brief summary of the review.\n\n\ud83d\udd70\ufe0f **Unix Review Time:** The time the review was posted in Unix timestamp format.\n\n\ud83d\udcc5 **Review Time:** The time the review was posted in a readable date format.\n\n\ud83d\udcc6 **Day Difference:** The number of days between the review date and the current date.\n\n\u2714\ufe0f **Helpful Yes:** Number of positive helpful votes.\n\n\ud83d\udd22 **Total Votes:** Total number of votes the review received.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mostafanofal/book-crossing-descriptions-from-google-api",
+  "id_no": 2999261,
+  "datasetSlugNullable": "book-crossing-descriptions-from-google-api",
+  "ownerUserNullable": "mostafanofal",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Book Crossing Descriptions from Google API",
+  "subtitleNullable": "",
+  "descriptionNullable": "# Dataset Source\n[Link](https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset)\n\n# Description\nContains 278,858 users (anonymized but with demographic information) providing 1,149,780 ratings (explicit/implicit) about 271,379 books.\n\n# Google API\n- There is no information regarding book descriptions.\n- We use Google API to collect descriptions of books according to their ISTPN.\n- Create and save a new CSV file called Book_Descriptions which we used in Content-based Recommendation System with Cosine Similarity.\n",
+  "datasetId": 2999261,
+  "datasetSlug": "book-crossing-descriptions-from-google-api",
+  "hasDatasetSlug": true,
+  "ownerUser": "mostafanofal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 345,
+  "totalVotes": 2,
+  "totalDownloads": 61,
+  "title": "Book Crossing Descriptions from Google API",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "# Dataset Source\n[Link](https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset)\n\n# Description\nContains 278,858 users (anonymized but with demographic information) providing 1,149,780 ratings (explicit/implicit) about 271,379 books.\n\n# Google API\n- There is no information regarding book descriptions.\n- We use Google API to collect descriptions of books according to their ISTPN.\n- Create and save a new CSV file called Book_Descriptions which we used in Content-based Recommendation System with Cosine Similarity.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

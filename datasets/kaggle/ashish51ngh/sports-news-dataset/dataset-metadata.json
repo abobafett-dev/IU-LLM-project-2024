@@ -1,0 +1,39 @@
+{
+  "id": "ashish51ngh/sports-news-dataset",
+  "id_no": 3955966,
+  "datasetSlugNullable": "sports-news-dataset",
+  "ownerUserNullable": "ashish51ngh",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Sports News Dataset",
+  "subtitleNullable": "A Comprehensive Collection of Sports News Articles and Scores",
+  "descriptionNullable": "The dataset has data for three sports:\n1. Cricket\n2. Football\n3. Tennis\n\nEach sport has the latest scores and latest news. \nThe cricket dataset has scores for live, recent, and upcoming matches and commentary.\nThe football dataset has scores for recent and upcoming matches.\nAll the sports have the latest news titles. ",
+  "datasetId": 3955966,
+  "datasetSlug": "sports-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ashish51ngh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 150,
+  "totalVotes": 0,
+  "totalDownloads": 18,
+  "title": "Sports News Dataset",
+  "hasTitle": true,
+  "subtitle": "A Comprehensive Collection of Sports News Articles and Scores",
+  "hasSubtitle": true,
+  "description": "The dataset has data for three sports:\n1. Cricket\n2. Football\n3. Tennis\n\nEach sport has the latest scores and latest news. \nThe cricket dataset has scores for live, recent, and upcoming matches and commentary.\nThe football dataset has scores for recent and upcoming matches.\nAll the sports have the latest news titles. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "sports"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

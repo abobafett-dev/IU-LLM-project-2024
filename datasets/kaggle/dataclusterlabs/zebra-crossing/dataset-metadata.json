@@ -1,0 +1,43 @@
+{
+  "id": "dataclusterlabs/zebra-crossing",
+  "id_no": 2849028,
+  "datasetSlugNullable": "zebra-crossing",
+  "ownerUserNullable": "dataclusterlabs",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Zebra Crossing Image Dataset",
+  "subtitleNullable": "Challenging zebra crossing detection and recognition for autonomous driving cars",
+  "descriptionNullable": "### **This dataset is collected by DataCluster Labs. To download full dataset or to submit a request for your new data collection needs, please drop a mail to:&nbsp;[sales@datacluster.ai](mailto:sales@datacluster.ai)**\n\nThis dataset is an extremely challenging set of over 3,000+ images of excavator vehicles from multiple construction site. These images captured and crowdsourced from over 200+ different locations, where each image is **manually reviewed and verified** by computer vision professionals at Datacluster Labs. It contains a wide variety of Zebra Crossings in the county.\n\n### **Dataset Features**\n\n- Dataset size : 3000+ images\n- Captured by  : Over 1000+ crowdsource contributors\n- Resolution   : HD and above (1920x1080 and above)\n- Location     : Captured with 200+ locations \n- Diversity    : Various lighting conditions like day, night, varied distances, view points etc.\n- Device used  : Captured using mobile phones in 2020-2022  \n- Usage \t   : Objects on the road, self-driving vehicles etc.\n\n### Available Annotation formats\n\nCOCO, YOLO, PASCAL-VOC, Tf-Record\n\n**To download full datasets or to submit a request for your dataset needs, please ping us at [sales@datacluster.ai](sales@datacluster.ai) Visit [www.datacluster.ai](www.datacluster.ai) to know more.**  \n\n**Note**:  \nAll the images are manually captured and verified by a large contributor base on DataCluster platform.    \n\n",
+  "datasetId": 2849028,
+  "datasetSlug": "zebra-crossing",
+  "hasDatasetSlug": true,
+  "ownerUser": "dataclusterlabs",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4580,
+  "totalVotes": 29,
+  "totalDownloads": 446,
+  "title": "Zebra Crossing Image Dataset",
+  "hasTitle": true,
+  "subtitle": "Challenging zebra crossing detection and recognition for autonomous driving cars",
+  "hasSubtitle": true,
+  "description": "### **This dataset is collected by DataCluster Labs. To download full dataset or to submit a request for your new data collection needs, please drop a mail to:&nbsp;[sales@datacluster.ai](mailto:sales@datacluster.ai)**\n\nThis dataset is an extremely challenging set of over 3,000+ images of excavator vehicles from multiple construction site. These images captured and crowdsourced from over 200+ different locations, where each image is **manually reviewed and verified** by computer vision professionals at Datacluster Labs. It contains a wide variety of Zebra Crossings in the county.\n\n### **Dataset Features**\n\n- Dataset size : 3000+ images\n- Captured by  : Over 1000+ crowdsource contributors\n- Resolution   : HD and above (1920x1080 and above)\n- Location     : Captured with 200+ locations \n- Diversity    : Various lighting conditions like day, night, varied distances, view points etc.\n- Device used  : Captured using mobile phones in 2020-2022  \n- Usage \t   : Objects on the road, self-driving vehicles etc.\n\n### Available Annotation formats\n\nCOCO, YOLO, PASCAL-VOC, Tf-Record\n\n**To download full datasets or to submit a request for your dataset needs, please ping us at [sales@datacluster.ai](sales@datacluster.ai) Visit [www.datacluster.ai](www.datacluster.ai) to know more.**  \n\n**Note**:  \nAll the images are manually captured and verified by a large contributor base on DataCluster platform.    \n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "data cleaning",
+    "computer vision",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "soheiltehranipour/100k-nvidia-tweets",
+  "id_no": 2873369,
+  "datasetSlugNullable": "100k-nvidia-tweets",
+  "ownerUserNullable": "soheiltehranipour",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "100K Nvidia Tweets",
+  "subtitleNullable": "100k Tweets about Nvidia from 2022 Feb",
+  "descriptionNullable": "Sentiment analysis on natural language sentences can increase the accuracy of market prediction because financial markets are influenced by investor sentiments. Many investors also base their decisions on information taken from newspapers or on their instincts.\n\nin this dataset you can find 100K tweets containing NVIDIA in 2023 and 2022.\n\nFor more information please check out the notebook in the code.",
+  "datasetId": 2873369,
+  "datasetSlug": "100k-nvidia-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "soheiltehranipour",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1238,
+  "totalVotes": 13,
+  "totalDownloads": 169,
+  "title": "100K Nvidia Tweets",
+  "hasTitle": true,
+  "subtitle": "100k Tweets about Nvidia from 2022 Feb",
+  "hasSubtitle": true,
+  "description": "Sentiment analysis on natural language sentences can increase the accuracy of market prediction because financial markets are influenced by investor sentiments. Many investors also base their decisions on information taken from newspapers or on their instincts.\n\nin this dataset you can find 100K tweets containing NVIDIA in 2023 and 2022.\n\nFor more information please check out the notebook in the code.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

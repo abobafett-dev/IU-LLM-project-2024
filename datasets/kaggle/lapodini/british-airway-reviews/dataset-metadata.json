@@ -1,0 +1,43 @@
+{
+  "id": "lapodini/british-airway-reviews",
+  "id_no": 2712907,
+  "datasetSlugNullable": "british-airway-reviews",
+  "ownerUserNullable": "lapodini",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "British Airways Reviews",
+  "subtitleNullable": "Reviews and General Sentiment among Customers",
+  "descriptionNullable": "This dataset was scrapped by the SkyTrax site: https://www.airlinequality.com/airline-reviews/british-airways.\n\nIt contains 2 .cvs files:\n\n1. `reviews_data1.csv`: This is a collection of reviews text along with the `Recommended` column (is the company recommended by the user? YES or NO) and the `Verified` column (if the travel is verified. YES or NO)\n\n2. `ratings_data.csv`: This is a collection of rate points.\n\n## Data Dictionary\n` reviews_data1.csv`\n1) Verified: YES or NO\n2) Reviews: content of the review\n3) Recommended: YES or NO\n\n`ratings_data.csv`\n1) Aircraft: Type of aircraft.\n2) Type Of Traveler:\n                                - Couple Leisure\n                                - Solo Leisure\n                                - Business\n                                - Family Leisure\n3) Seat Type:\n                      - Economy Class\n                      - Business Class\n                      - Premium Economy\n                      - First Class\n4) Route: Flight route\n5) Date Flown: Date of the travel\n6) Seat Confort: 1 to 5 stars\n7) Cabin Staff: 1 to 5 Stars\n8) Food & Beverages: 1 to 5 stars\n9) Inflight Entertainment: 1 to 5 stars\n10) Ground Service: 1 to 5 stars\n11) Wifi & Connectivity: 1 to 5 stars\n12) Value For Money: 1 to 5 stars\n13) Recommended: YES or NO\n\n## Possible use\nSentiment analysis on reviews to understand which words come from texts.\nAnalysis of ratings to understand which feature contributes more to the recommendation. \n\n\n",
+  "datasetId": 2712907,
+  "datasetSlug": "british-airway-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "lapodini",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 1829,
+  "totalVotes": 3,
+  "totalDownloads": 251,
+  "title": "British Airways Reviews",
+  "hasTitle": true,
+  "subtitle": "Reviews and General Sentiment among Customers",
+  "hasSubtitle": true,
+  "description": "This dataset was scrapped by the SkyTrax site: https://www.airlinequality.com/airline-reviews/british-airways.\n\nIt contains 2 .cvs files:\n\n1. `reviews_data1.csv`: This is a collection of reviews text along with the `Recommended` column (is the company recommended by the user? YES or NO) and the `Verified` column (if the travel is verified. YES or NO)\n\n2. `ratings_data.csv`: This is a collection of rate points.\n\n## Data Dictionary\n` reviews_data1.csv`\n1) Verified: YES or NO\n2) Reviews: content of the review\n3) Recommended: YES or NO\n\n`ratings_data.csv`\n1) Aircraft: Type of aircraft.\n2) Type Of Traveler:\n                                - Couple Leisure\n                                - Solo Leisure\n                                - Business\n                                - Family Leisure\n3) Seat Type:\n                      - Economy Class\n                      - Business Class\n                      - Premium Economy\n                      - First Class\n4) Route: Flight route\n5) Date Flown: Date of the travel\n6) Seat Confort: 1 to 5 stars\n7) Cabin Staff: 1 to 5 Stars\n8) Food & Beverages: 1 to 5 stars\n9) Inflight Entertainment: 1 to 5 stars\n10) Ground Service: 1 to 5 stars\n11) Wifi & Connectivity: 1 to 5 stars\n12) Value For Money: 1 to 5 stars\n13) Recommended: YES or NO\n\n## Possible use\nSentiment analysis on reviews to understand which words come from texts.\nAnalysis of ratings to understand which feature contributes more to the recommendation. \n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "aviation",
+    "nlp",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

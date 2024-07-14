@@ -1,0 +1,43 @@
+{
+  "id": "shivamm0di/credit-card-clients",
+  "id_no": 1563594,
+  "datasetSlugNullable": "credit-card-clients",
+  "ownerUserNullable": "shivamm0di",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "credit card clients",
+  "subtitleNullable": "advanced & preprocessed",
+  "descriptionNullable": "default payments in Taiwan and compares the predictive accuracy of probability of default among six data mining methods. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients. Because the real probability of default is unknown, this study presented the novel \u00e2\u20ac\u0153Sorting Smoothing Method\u00e2\u20ac\u009d to estimate the real probability of default. With the real probability of default as the response variable (Y), and the predictive probability of default as the independent variable (X), the simple linear regression result (Y = A + BX) shows that the forecasting model produced by artificial neural network has the highest coefficient of determination; its regression intercept (A) is close to zero, and regression coefficient (B) to one. Therefore, among the six data mining techniques, artificial neural network is the only one that can accurately estimate the real probability of default.\n\n",
+  "datasetId": 1563594,
+  "datasetSlug": "credit-card-clients",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivamm0di",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 4578,
+  "totalVotes": 15,
+  "totalDownloads": 392,
+  "title": "credit card clients",
+  "hasTitle": true,
+  "subtitle": "advanced & preprocessed",
+  "hasSubtitle": true,
+  "description": "default payments in Taiwan and compares the predictive accuracy of probability of default among six data mining methods. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients. Because the real probability of default is unknown, this study presented the novel \u00e2\u20ac\u0153Sorting Smoothing Method\u00e2\u20ac\u009d to estimate the real probability of default. With the real probability of default as the response variable (Y), and the predictive probability of default as the independent variable (X), the simple linear regression result (Y = A + BX) shows that the forecasting model produced by artificial neural network has the highest coefficient of determination; its regression intercept (A) is close to zero, and regression coefficient (B) to one. Therefore, among the six data mining techniques, artificial neural network is the only one that can accurately estimate the real probability of default.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "banking",
+    "binary classification",
+    "e-commerce services",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "U.S. Government Works",
+      "name": "U.S. Government Works",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

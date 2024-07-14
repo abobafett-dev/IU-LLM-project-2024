@@ -1,0 +1,45 @@
+{
+  "id": "sainikhileshreddy/food-recognition-2022",
+  "id_no": 1890383,
+  "datasetSlugNullable": "food-recognition-2022",
+  "ownerUserNullable": "sainikhileshreddy",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Food Recognition 2022",
+  "subtitleNullable": "This is a benchmark dataset used for finding best models for detecting food.",
+  "descriptionNullable": "# Food Recognition Benchmark 2022 \ud83d\ude0b\n**This dataset is  Preprocessed\u2699\ufe0f, Compressed\ud83d\udddc\ufe0f, and Streamable\ud83d\udcf6!**\n\n## Problem Statement\nThe goal of this benchmark is to train models which can look at images of food items and detect the individual food items present in them. We use a novel dataset of food images collected through the MyFoodRepo app, where numerous volunteer Swiss users provide images of their daily food intake in the context of a digital cohort called Food & You. This growing data set has been annotated - or automatic annotations have been verified - with respect to segmentation, classification (mapping the individual food items onto an ontology of Swiss Food items), and weight/volume estimation.\n\n## Datasets\nFinding annotated food images is difficult. There are some databases with some annotations, but they tend to be limited in important ways. To put it bluntly: most food images on the internet are a lie. Search for any dish, and you\u2019ll find beautiful stock photography of that particular dish. Same on social media: we share photos of dishes with our friends when the image is exceptionally beautiful. But algorithms need to work on real-world images. In addition, annotations are generally missing - ideally, food images would be annotated with proper segmentation, classification, and volume/weight estimates. With this 2022 iteration of the Food Recognition Benchmark, AIcrowd released v2.0 of the MyFoodRepo dataset, containing a training set of 39,962 images food items, with 76,491 annotations.\n\n### Zipped Datasets is in [MS-COCO format](http://cocodataset.org/#home):\n**raw_data/public_training_set_release_2.0.tar.gz**: Training Set -&gt; 39,962 (as RGB images) food images -&gt; 76491 annotations -&gt; 498 food classes\n**raw_data/public_validation_set_2.0.tar.gz**: Validation Set -&gt; 1000 (as RGB images) food images -&gt; 1830 annotations -&gt; 498 food classes\n**raw_data/public_test_release_2.0.tar.gz**: Public Test Set -&gt; Food Recognition Benchmark 2022\n\n## Check the usage at the notebook\nKaggle Notebook - https://www.kaggle.com/sainikhileshreddy/how-to-use-the-dataset\n\n## Usage of the processed kaggle dataset\n```python\nimport hub\nds = hub.dataset('/kaggle/input/food-recognition-2022/hub/train/')\n```\n\n## Usage of the dataset anywhere (through streaming)\n```python\nimport hub\nds = hub.dataset('hub://sainikhileshreddy/food-recognition-2022-train/')\n```\n\n## Usage of the hub dataset using popular deep learning frameworks\n\n### 1. Food Recognition 2020 with PyTorch in Python\n```python\ndataloader = ds.pytorch(num_workers = 2, shuffle = True, transform = transform, batch_size= batch_size)\n```\n### 2. Food Recognition 2020 with TensorFlow in Python\n```python\nds_tensorflow = ds.tensorflow()\n```\n\n## Evaluation\nThe benchmark uses the official detection evaluation metrics used by [COCO](https://cocodataset.org/#detection-eval).\nThe primary evaluation metric is AP @ IoU=0.50:0.05:0.95. The seconday evaluation metric is AR @ IoU=0.50:0.05:0.95.\nA further discussion about the evaluation metric can be found [here](https://cocodataset.org/#detection-eval).\n\n## Dataset Original Source\nDataset has been taken from the Food Recognition Benchmark 2022. You can find more details about the challenge on the below link\nhttps://www.aicrowd.com/challenges/food-recognition-benchmark-2022 \n\n## Resources\n1. Activeloop Hub: https://docs.activeloop.ai/ \n2. Github: [SaiNikhileshReddy | Food-Recognition-2022](https://github.com/SaiNikhileshReddy/Food-Recognition-2022) \n3. Kaggle Discussion - [What is Activeloop Hub Format?](https://www.kaggle.com/sainikhileshreddy/food-recognition-2022/discussion/303283)",
+  "datasetId": 1890383,
+  "datasetSlug": "food-recognition-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "sainikhileshreddy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 24215,
+  "totalVotes": 26,
+  "totalDownloads": 1827,
+  "title": "Food Recognition 2022",
+  "hasTitle": true,
+  "subtitle": "This is a benchmark dataset used for finding best models for detecting food.",
+  "hasSubtitle": true,
+  "description": "# Food Recognition Benchmark 2022 \ud83d\ude0b\n**This dataset is  Preprocessed\u2699\ufe0f, Compressed\ud83d\udddc\ufe0f, and Streamable\ud83d\udcf6!**\n\n## Problem Statement\nThe goal of this benchmark is to train models which can look at images of food items and detect the individual food items present in them. We use a novel dataset of food images collected through the MyFoodRepo app, where numerous volunteer Swiss users provide images of their daily food intake in the context of a digital cohort called Food & You. This growing data set has been annotated - or automatic annotations have been verified - with respect to segmentation, classification (mapping the individual food items onto an ontology of Swiss Food items), and weight/volume estimation.\n\n## Datasets\nFinding annotated food images is difficult. There are some databases with some annotations, but they tend to be limited in important ways. To put it bluntly: most food images on the internet are a lie. Search for any dish, and you\u2019ll find beautiful stock photography of that particular dish. Same on social media: we share photos of dishes with our friends when the image is exceptionally beautiful. But algorithms need to work on real-world images. In addition, annotations are generally missing - ideally, food images would be annotated with proper segmentation, classification, and volume/weight estimates. With this 2022 iteration of the Food Recognition Benchmark, AIcrowd released v2.0 of the MyFoodRepo dataset, containing a training set of 39,962 images food items, with 76,491 annotations.\n\n### Zipped Datasets is in [MS-COCO format](http://cocodataset.org/#home):\n**raw_data/public_training_set_release_2.0.tar.gz**: Training Set -&gt; 39,962 (as RGB images) food images -&gt; 76491 annotations -&gt; 498 food classes\n**raw_data/public_validation_set_2.0.tar.gz**: Validation Set -&gt; 1000 (as RGB images) food images -&gt; 1830 annotations -&gt; 498 food classes\n**raw_data/public_test_release_2.0.tar.gz**: Public Test Set -&gt; Food Recognition Benchmark 2022\n\n## Check the usage at the notebook\nKaggle Notebook - https://www.kaggle.com/sainikhileshreddy/how-to-use-the-dataset\n\n## Usage of the processed kaggle dataset\n```python\nimport hub\nds = hub.dataset('/kaggle/input/food-recognition-2022/hub/train/')\n```\n\n## Usage of the dataset anywhere (through streaming)\n```python\nimport hub\nds = hub.dataset('hub://sainikhileshreddy/food-recognition-2022-train/')\n```\n\n## Usage of the hub dataset using popular deep learning frameworks\n\n### 1. Food Recognition 2020 with PyTorch in Python\n```python\ndataloader = ds.pytorch(num_workers = 2, shuffle = True, transform = transform, batch_size= batch_size)\n```\n### 2. Food Recognition 2020 with TensorFlow in Python\n```python\nds_tensorflow = ds.tensorflow()\n```\n\n## Evaluation\nThe benchmark uses the official detection evaluation metrics used by [COCO](https://cocodataset.org/#detection-eval).\nThe primary evaluation metric is AP @ IoU=0.50:0.05:0.95. The seconday evaluation metric is AR @ IoU=0.50:0.05:0.95.\nA further discussion about the evaluation metric can be found [here](https://cocodataset.org/#detection-eval).\n\n## Dataset Original Source\nDataset has been taken from the Food Recognition Benchmark 2022. You can find more details about the challenge on the below link\nhttps://www.aicrowd.com/challenges/food-recognition-benchmark-2022 \n\n## Resources\n1. Activeloop Hub: https://docs.activeloop.ai/ \n2. Github: [SaiNikhileshReddy | Food-Recognition-2022](https://github.com/SaiNikhileshReddy/Food-Recognition-2022) \n3. Kaggle Discussion - [What is Activeloop Hub Format?](https://www.kaggle.com/sainikhileshreddy/food-recognition-2022/discussion/303283)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "programming",
+    "computer vision",
+    "deep learning",
+    "video",
+    "cooking and recipes",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

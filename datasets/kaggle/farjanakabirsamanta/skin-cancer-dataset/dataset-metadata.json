@@ -1,0 +1,43 @@
+{
+  "id": "farjanakabirsamanta/skin-cancer-dataset",
+  "id_no": 2595427,
+  "datasetSlugNullable": "skin-cancer-dataset",
+  "ownerUserNullable": "farjanakabirsamanta",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Skin Cancer Dataset",
+  "subtitleNullable": "7 types of Skin Cancer",
+  "descriptionNullable": "A training set for academic machine learning can be created using the dataset, which comprises of 10015 dermatoscopic images. All significant diagnostic categories for pigmented lesions are represented in the cases in a representative manner: \n- Actinic keratoses and intraepithelial carcinoma / Bowen's disease (`akiec`), \n- basal cell carcinoma (`bcc`), \n- benign keratosis-like lesions (solar lentigines / seborrheic keratoses and lichen-planus like keratoses, `bkl`), \n- dermatofibroma (`df`), \n- melanoma (`mel`), \n- melanocytic nevi (`nv`) and \n- vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage, `vasc`).\n\nHistopathology (histo) is used to confirm more than 50% of lesions; in the remaining cases, follow-up exams, expert consensus, or in-vivo confocal microscopy confirmation are used as the gold standard (confocal). \n\nDataset Collected from:\nhttps://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T",
+  "datasetId": 2595427,
+  "datasetSlug": "skin-cancer-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "farjanakabirsamanta",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 51870,
+  "totalVotes": 103,
+  "totalDownloads": 6469,
+  "title": "Skin Cancer Dataset",
+  "hasTitle": true,
+  "subtitle": "7 types of Skin Cancer",
+  "hasSubtitle": true,
+  "description": "A training set for academic machine learning can be created using the dataset, which comprises of 10015 dermatoscopic images. All significant diagnostic categories for pigmented lesions are represented in the cases in a representative manner: \n- Actinic keratoses and intraepithelial carcinoma / Bowen's disease (`akiec`), \n- basal cell carcinoma (`bcc`), \n- benign keratosis-like lesions (solar lentigines / seborrheic keratoses and lichen-planus like keratoses, `bkl`), \n- dermatofibroma (`df`), \n- melanoma (`mel`), \n- melanocytic nevi (`nv`) and \n- vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage, `vasc`).\n\nHistopathology (histo) is used to confirm more than 50% of lesions; in the remaining cases, follow-up exams, expert consensus, or in-vivo confocal microscopy confirmation are used as the gold standard (confocal). \n\nDataset Collected from:\nhttps://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "image",
+    "multiclass classification",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

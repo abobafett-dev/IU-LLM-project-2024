@@ -1,0 +1,43 @@
+{
+  "id": "cookiefinder/tomato-disease-multiple-sources",
+  "id_no": 2516350,
+  "datasetSlugNullable": "tomato-disease-multiple-sources",
+  "ownerUserNullable": "cookiefinder",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Tomato Disease Multiple Sources",
+  "subtitleNullable": "Largest tomato leaf disease dataset on Kaggle (2022) with 11 classes 10 diseases",
+  "descriptionNullable": "# Tomato Leaf Disease Classification\n\nOver 20k images of tomato leaves with 10 diseases and 1 healthy class. Images are collected from both lab scenes and in-the-wild scenes. The goal is to develop a lightweight model that can predict tomato leaf disease & deploy it offline on a mobile app.\n\nClasses:\n- Late_blight\n- healthy\n- Early_blight\n- Septoria_leaf_spot\n- Tomato_Yellow_Leaf_Curl_Virus\n- Bacterial_spot\n- Target_Spot\n- Tomato_mosaic_virus\n- Leaf_Mold\n- Spider_mites Two-spotted_spider_mite\n- Powdery Mildew\n\nThe original source of most of the images is the PlantVillage dataset published [here](https://data.mendeley.com/datasets/tywbtsjrjv/1) and [here](https://data.mendeley.com/datasets/ngdgg79rzb/1). The data has been augmented offline using multiple advanced techniques like image flipping, Gamma correction, noise injection, PCA color augmentation, rotation, and scaling. Some recent images were generated offline with GANs. The subset of images containing Taiwan tomato leaves was augmented using rotations at multiple angles, mirroring, reducing image brightness, etc.",
+  "datasetId": 2516350,
+  "datasetSlug": "tomato-disease-multiple-sources",
+  "hasDatasetSlug": true,
+  "ownerUser": "cookiefinder",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 26953,
+  "totalVotes": 59,
+  "totalDownloads": 4986,
+  "title": "Tomato Disease Multiple Sources",
+  "hasTitle": true,
+  "subtitle": "Largest tomato leaf disease dataset on Kaggle (2022) with 11 classes 10 diseases",
+  "hasSubtitle": true,
+  "description": "# Tomato Leaf Disease Classification\n\nOver 20k images of tomato leaves with 10 diseases and 1 healthy class. Images are collected from both lab scenes and in-the-wild scenes. The goal is to develop a lightweight model that can predict tomato leaf disease & deploy it offline on a mobile app.\n\nClasses:\n- Late_blight\n- healthy\n- Early_blight\n- Septoria_leaf_spot\n- Tomato_Yellow_Leaf_Curl_Virus\n- Bacterial_spot\n- Target_Spot\n- Tomato_mosaic_virus\n- Leaf_Mold\n- Spider_mites Two-spotted_spider_mite\n- Powdery Mildew\n\nThe original source of most of the images is the PlantVillage dataset published [here](https://data.mendeley.com/datasets/tywbtsjrjv/1) and [here](https://data.mendeley.com/datasets/ngdgg79rzb/1). The data has been augmented offline using multiple advanced techniques like image flipping, Gamma correction, noise injection, PCA color augmentation, rotation, and scaling. Some recent images were generated offline with GANs. The subset of images containing Taiwan tomato leaves was augmented using rotations at multiple angles, mirroring, reducing image brightness, etc.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "diseases",
+    "agriculture",
+    "computer vision",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

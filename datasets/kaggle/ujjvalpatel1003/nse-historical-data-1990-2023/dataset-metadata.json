@@ -1,0 +1,43 @@
+{
+  "id": "ujjvalpatel1003/nse-historical-data-1990-2023",
+  "id_no": 4291750,
+  "datasetSlugNullable": "nse-historical-data-1990-2023",
+  "ownerUserNullable": "ujjvalpatel1003",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "NSE Historical data 1990-2023",
+  "subtitleNullable": "Daily Based Historical data of over 2000+ companies which is listed on NSE",
+  "descriptionNullable": "**Context**\n\nIn-order to validate various trading strategies and to come up with new trading strategies, historical data is a must.\nOnce you have the data you can use it to analyze and visualize the market. This data can be use to learn about different types of trading strategies. You can use various libraries like [TA-Lib](https://ta-lib.org/), [pandas_ta](https://github.com/twopirllc/pandas-ta), etc.\n\n**Content**\n\nI have collected this data from [TradingView](https://www.tradingview.com) and in this dataset I've only gather NSE listed companies data since there IPO was released. In this dataset you will get Historical data of over 2000 companies and this data is based on daily candles. In this dataset there are over 2000 csv files and each csv file is named on company's NSE symbol (e.g. SBIN.csv, TATAMOTORS.csv, etc.).\n\nFor stocks, it has EOD [OHLC](https://en.wikipedia.org/wiki/Open-high-low-close_chart#:~:text=An%20open%2Dhigh%2Dlow%2D,one%20day%20or%20one%20hour.),change and Last day change data\n\n**Acknowledgements**\nThis data is sourced from [TradingView](https://www.tradingview.com) using [tvDatafeed](https://github.com/rongardF/tvdatafeed)\n\nThe data is unprocessed and retained as obtained from the source.",
+  "datasetId": 4291750,
+  "datasetSlug": "nse-historical-data-1990-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "ujjvalpatel1003",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 339,
+  "totalVotes": 6,
+  "totalDownloads": 53,
+  "title": "NSE Historical data 1990-2023",
+  "hasTitle": true,
+  "subtitle": "Daily Based Historical data of over 2000+ companies which is listed on NSE",
+  "hasSubtitle": true,
+  "description": "**Context**\n\nIn-order to validate various trading strategies and to come up with new trading strategies, historical data is a must.\nOnce you have the data you can use it to analyze and visualize the market. This data can be use to learn about different types of trading strategies. You can use various libraries like [TA-Lib](https://ta-lib.org/), [pandas_ta](https://github.com/twopirllc/pandas-ta), etc.\n\n**Content**\n\nI have collected this data from [TradingView](https://www.tradingview.com) and in this dataset I've only gather NSE listed companies data since there IPO was released. In this dataset you will get Historical data of over 2000 companies and this data is based on daily candles. In this dataset there are over 2000 csv files and each csv file is named on company's NSE symbol (e.g. SBIN.csv, TATAMOTORS.csv, etc.).\n\nFor stocks, it has EOD [OHLC](https://en.wikipedia.org/wiki/Open-high-low-close_chart#:~:text=An%20open%2Dhigh%2Dlow%2D,one%20day%20or%20one%20hour.),change and Last day change data\n\n**Acknowledgements**\nThis data is sourced from [TradingView](https://www.tradingview.com) using [tvDatafeed](https://github.com/rongardF/tvdatafeed)\n\nThe data is unprocessed and retained as obtained from the source.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "business",
+    "finance",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

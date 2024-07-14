@@ -1,0 +1,39 @@
+{
+  "id": "prashant111/coronavirus-daily-counts-data",
+  "id_no": 551168,
+  "datasetSlugNullable": "coronavirus-daily-counts-data",
+  "ownerUserNullable": "prashant111",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Novel Coronavirus Epidemic Dataset",
+  "subtitleNullable": "Daily counts of confirmed, recovered and deaths of COVID-19.",
+  "descriptionNullable": "# DESCRIPTION\n\nCoronavirus (data through 3/4/20) daily counts of confirmed, recovered, and deaths.\n\n## SUMMARY\nOriginal visual: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6\n\nOriginal data from here: https://github.com/CSSEGISandData/COVID-19\n\nCleaned and prepped by Lindsay Betzendahl",
+  "datasetId": 551168,
+  "datasetSlug": "coronavirus-daily-counts-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "prashant111",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 2724,
+  "totalVotes": 59,
+  "totalDownloads": 190,
+  "title": "Novel Coronavirus Epidemic Dataset",
+  "hasTitle": true,
+  "subtitle": "Daily counts of confirmed, recovered and deaths of COVID-19.",
+  "hasSubtitle": true,
+  "description": "# DESCRIPTION\n\nCoronavirus (data through 3/4/20) daily counts of confirmed, recovered, and deaths.\n\n## SUMMARY\nOriginal visual: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6\n\nOriginal data from here: https://github.com/CSSEGISandData/COVID-19\n\nCleaned and prepped by Lindsay Betzendahl",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

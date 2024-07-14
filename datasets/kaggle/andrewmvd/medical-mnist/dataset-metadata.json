@@ -1,0 +1,43 @@
+{
+  "id": "andrewmvd/medical-mnist",
+  "id_no": 614679,
+  "datasetSlugNullable": "medical-mnist",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Medical MNIST",
+  "subtitleNullable": "58954 medical images of 6 classes",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F793761%2F80e9bd2c92dbd64518c8f7be18d57b81%2FUntitled.png?generation=1587494186344589&alt=media)\n\n# About this dataset\n&gt; This dataset is a simple MNIST-style medical images in 64x64 dimension;\nThere were originaly taken from other datasets and processed into such style. There are 58954 medical images belonging to 6 classes.\n\n\n# Highlighted Notebooks\n&gt; [FastAI Implementation with Radiologic Perspective](https://www.kaggle.com/anoukstein/fast-ai-implementation-with-radiologic-perspective) by [Anouk Stein, MD](https://www.kaggle.com/anoukstein)\n\n# Acknowledgements\nIf you use this dataset in your research, please credit the author.\n\n&gt; ### BibTeX\n@misc{Medical MNIST Classification,\n  author = {apolanco3225},\n  title = {Medical MNIST Classification},\n  year = {2017},\n  publisher = {GitHub},\n  journal = {GitHub repository},\n  howpublished = {\\url{https://github.com/apolanco3225/Medical-MNIST-Classification}}\n}\n\n\n&gt; ### License\nPublic Domain\n\n&gt; ### Splash Image\nPhoto by Hush Naidoo on UnsplasheFa",
+  "datasetId": 614679,
+  "datasetSlug": "medical-mnist",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 67260,
+  "totalVotes": 122,
+  "totalDownloads": 10134,
+  "title": "Medical MNIST",
+  "hasTitle": true,
+  "subtitle": "58954 medical images of 6 classes",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F793761%2F80e9bd2c92dbd64518c8f7be18d57b81%2FUntitled.png?generation=1587494186344589&alt=media)\n\n# About this dataset\n&gt; This dataset is a simple MNIST-style medical images in 64x64 dimension;\nThere were originaly taken from other datasets and processed into such style. There are 58954 medical images belonging to 6 classes.\n\n\n# Highlighted Notebooks\n&gt; [FastAI Implementation with Radiologic Perspective](https://www.kaggle.com/anoukstein/fast-ai-implementation-with-radiologic-perspective) by [Anouk Stein, MD](https://www.kaggle.com/anoukstein)\n\n# Acknowledgements\nIf you use this dataset in your research, please credit the author.\n\n&gt; ### BibTeX\n@misc{Medical MNIST Classification,\n  author = {apolanco3225},\n  title = {Medical MNIST Classification},\n  year = {2017},\n  publisher = {GitHub},\n  journal = {GitHub repository},\n  howpublished = {\\url{https://github.com/apolanco3225/Medical-MNIST-Classification}}\n}\n\n\n&gt; ### License\nPublic Domain\n\n&gt; ### Splash Image\nPhoto by Hush Naidoo on UnsplasheFa",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "earth and nature",
+    "health",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

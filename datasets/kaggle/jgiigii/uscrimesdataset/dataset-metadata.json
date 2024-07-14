@@ -1,0 +1,43 @@
+{
+  "id": "jgiigii/uscrimesdataset",
+  "id_no": 2398374,
+  "datasetSlugNullable": "uscrimesdataset",
+  "ownerUserNullable": "jgiigii",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "USCrimesDataset",
+  "subtitleNullable": "All crimes commited between July 2016 to August 2022 in the USA",
+  "descriptionNullable": "USA crime from 2016-07-01 to 2022-08-08\nInformation about all crimes that happened in the USA, when they happened, what crime was commited, a general description about it and the number of victims.",
+  "datasetId": 2398374,
+  "datasetSlug": "uscrimesdataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "jgiigii",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 14968,
+  "totalVotes": 43,
+  "totalDownloads": 3304,
+  "title": "USCrimesDataset",
+  "hasTitle": true,
+  "subtitle": "All crimes commited between July 2016 to August 2022 in the USA",
+  "hasSubtitle": true,
+  "description": "USA crime from 2016-07-01 to 2022-08-08\nInformation about all crimes that happened in the USA, when they happened, what crime was commited, a general description about it and the number of victims.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "crime",
+    "exploratory data analysis",
+    "data visualization",
+    "time series analysis",
+    "drugs and medications"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

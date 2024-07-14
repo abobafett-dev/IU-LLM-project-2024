@@ -1,0 +1,40 @@
+{
+  "id": "ocakhsn/istanbul-airbnb-dataset",
+  "id_no": 905538,
+  "datasetSlugNullable": "istanbul-airbnb-dataset",
+  "ownerUserNullable": "ocakhsn",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Istanbul Airbnb Dataset",
+  "subtitleNullable": "Istanbul Airbnb Dataset with Features ",
+  "descriptionNullable": "### Context\n\nThis dataset collected from [airbnb](http://insideairbnb.com/get-the-data.html). It is collected to see how airbnb is used in Turkey Istanbul.\n\n\n### Content\n\nThere are 16 columns which shows the latitude, longitude etc. It also shows the price. So, a regression problem such as finding the price of an house can be applied to this dataset. To see an example you can check  [my notebook](https://www.kaggle.com/ocakhsn/airbnb-price-prediction-multiple-datasets) from airbnb newyork dataset",
+  "datasetId": 905538,
+  "datasetSlug": "istanbul-airbnb-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ocakhsn",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 3797,
+  "totalVotes": 7,
+  "totalDownloads": 399,
+  "title": "Istanbul Airbnb Dataset",
+  "hasTitle": true,
+  "subtitle": "Istanbul Airbnb Dataset with Features ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset collected from [airbnb](http://insideairbnb.com/get-the-data.html). It is collected to see how airbnb is used in Turkey Istanbul.\n\n\n### Content\n\nThere are 16 columns which shows the latitude, longitude etc. It also shows the price. So, a regression problem such as finding the price of an house can be applied to this dataset. To see an example you can check  [my notebook](https://www.kaggle.com/ocakhsn/airbnb-price-prediction-multiple-datasets) from airbnb newyork dataset",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "travel",
+    "hotels and accommodations"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sumandey/temperature-and-humidity-of-kolkata-from-20152020",
+  "id_no": 1124791,
+  "datasetSlugNullable": "temperature-and-humidity-of-kolkata-from-20152020",
+  "ownerUserNullable": "sumandey",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Temperature and Humidity of Kolkata from 2015-2020",
+  "subtitleNullable": "5 years of Temperature and Humidity measurements in Kolkata",
+  "descriptionNullable": "### Context\n\nCity of Kolkata is known for its unpredictable weather throughout the year. The challenge is to forecast temperature and humidity at a short-term or long-term temporal dependency. \n\n\n### Content\n\nHourly temperature and humidity data of 5 years from 2015 to 2020.\n\n### Inspiration\n\nIts a beginner friendly time series dataset wherein Kagglers could come up with different approaches with some interesting EDA.\n\n### Acknowledgements\nThe data is collected from - (https://www.worldweatheronline.com/)",
+  "datasetId": 1124791,
+  "datasetSlug": "temperature-and-humidity-of-kolkata-from-20152020",
+  "hasDatasetSlug": true,
+  "ownerUser": "sumandey",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 5673,
+  "totalVotes": 16,
+  "totalDownloads": 660,
+  "title": "Temperature and Humidity of Kolkata from 2015-2020",
+  "hasTitle": true,
+  "subtitle": "5 years of Temperature and Humidity measurements in Kolkata",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCity of Kolkata is known for its unpredictable weather throughout the year. The challenge is to forecast temperature and humidity at a short-term or long-term temporal dependency. \n\n\n### Content\n\nHourly temperature and humidity data of 5 years from 2015 to 2020.\n\n### Inspiration\n\nIts a beginner friendly time series dataset wherein Kagglers could come up with different approaches with some interesting EDA.\n\n### Acknowledgements\nThe data is collected from - (https://www.worldweatheronline.com/)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "weather and climate",
+    "beginner",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

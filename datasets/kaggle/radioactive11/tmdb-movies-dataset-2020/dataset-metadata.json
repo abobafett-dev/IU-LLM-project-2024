@@ -1,0 +1,41 @@
+{
+  "id": "radioactive11/tmdb-movies-dataset-2020",
+  "id_no": 966197,
+  "datasetSlugNullable": "tmdb-movies-dataset-2020",
+  "ownerUserNullable": "radioactive11",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "TMDB Movies Dataset (2020)",
+  "subtitleNullable": "This dataset contains movies upto Nov 2020 scrapped using TMDB API ",
+  "descriptionNullable": "### Context\n\nThese files contain metadata for all 58,000+ movies listed in [The Movie Database](https://www.themoviedb.org). The dataset consists of movies released on or before November 2020. Data points include Title, Genre(s), Poster, Keywords and is sorted by Popularity. \n\n### Content\n\nThis dataset contains a single CSV file, ```moviesTMDB2020.csv```.\nSince I created this dataset for making a Content-Based  Recommendation Engine, it has the following columns:\n* ```id```: TMDB ID of the movie\n* ```original_title```: Title of the movie\n* ```poster_path```: Path to Poster of the movie\n* ```Overview```: Brief Description of the movie\n* ```Genre```: Genre(s) the movie belongs to\n\n",
+  "datasetId": 966197,
+  "datasetSlug": "tmdb-movies-dataset-2020",
+  "hasDatasetSlug": true,
+  "ownerUser": "radioactive11",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 1909,
+  "totalVotes": 6,
+  "totalDownloads": 109,
+  "title": "TMDB Movies Dataset (2020)",
+  "hasTitle": true,
+  "subtitle": "This dataset contains movies upto Nov 2020 scrapped using TMDB API ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThese files contain metadata for all 58,000+ movies listed in [The Movie Database](https://www.themoviedb.org). The dataset consists of movies released on or before November 2020. Data points include Title, Genre(s), Poster, Keywords and is sorted by Popularity. \n\n### Content\n\nThis dataset contains a single CSV file, ```moviesTMDB2020.csv```.\nSince I created this dataset for making a Content-Based  Recommendation Engine, it has the following columns:\n* ```id```: TMDB ID of the movie\n* ```original_title```: Title of the movie\n* ```poster_path```: Path to Poster of the movie\n* ```Overview```: Brief Description of the movie\n* ```Genre```: Genre(s) the movie belongs to\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

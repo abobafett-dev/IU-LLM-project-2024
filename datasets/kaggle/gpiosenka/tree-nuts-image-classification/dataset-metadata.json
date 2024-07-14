@@ -1,0 +1,43 @@
+{
+  "id": "gpiosenka/tree-nuts-image-classification",
+  "id_no": 2294621,
+  "datasetSlugNullable": "tree-nuts-image-classification",
+  "ownerUserNullable": "gpiosenka",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Tree Nuts -Image Classification",
+  "subtitleNullable": "1163 train, 50 test, 50 validation images 224 X 224 X 3 jpg format",
+  "descriptionNullable": "dataset of 10 types of tree nuts. 1163train, 50 test,50 validation files 224 X 224 X 3 jpg format. Also includes a tensorflow trained model nuts)100.0.hs that achieved an F1 score of 100%. A csv file tree nuts.csv is also provided",
+  "datasetId": 2294621,
+  "datasetSlug": "tree-nuts-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "gpiosenka",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 7293,
+  "totalVotes": 26,
+  "totalDownloads": 1847,
+  "title": "Tree Nuts -Image Classification",
+  "hasTitle": true,
+  "subtitle": "1163 train, 50 test, 50 validation images 224 X 224 X 3 jpg format",
+  "hasSubtitle": true,
+  "description": "dataset of 10 types of tree nuts. 1163train, 50 test,50 validation files 224 X 224 X 3 jpg format. Also includes a tensorflow trained model nuts)100.0.hs that achieved an F1 score of 100%. A csv file tree nuts.csv is also provided",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "image",
+    "pre-trained model",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

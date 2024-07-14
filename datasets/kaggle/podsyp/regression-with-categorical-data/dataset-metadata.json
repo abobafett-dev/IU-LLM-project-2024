@@ -1,0 +1,43 @@
+{
+  "id": "podsyp/regression-with-categorical-data",
+  "id_no": 588454,
+  "datasetSlugNullable": "regression-with-categorical-data",
+  "ownerUserNullable": "podsyp",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Regression with categorical data",
+  "subtitleNullable": "Let's try different methods for processing categorical features",
+  "descriptionNullable": "### Context\n\nWhen a data scientist wishes to include a categorical variable with more than two level in a multiple regression prediction model, additional steps are needed to insure that the results are interpretable. These steps include recoding the categorical variable into a number of separate, dichotomous variables. This recoding is called \"dummy coding.\" In order for the rest of the chapter to make sense, some specific topics related to multiple regression will be reviewed at this time.\n\n\n### Content\n\nRegression is a linear transformation of the X variables such that the sum of squared deviations of the observed and predicted Y is minimized. The prediction of Y is accomplished by the following equation:\n\nY'i = b0 + b1X1i + b2X2i + ... + bkXki\n\nThe \"b\" values are called regression weights and are computed in a way that minimizes the sum of squared deviations.\n\n\n\n### Inspiration\n\n How categorical variables with more than two levels could be used in a regression prediction model.",
+  "datasetId": 588454,
+  "datasetSlug": "regression-with-categorical-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "podsyp",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 18826,
+  "totalVotes": 15,
+  "totalDownloads": 964,
+  "title": "Regression with categorical data",
+  "hasTitle": true,
+  "subtitle": "Let's try different methods for processing categorical features",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWhen a data scientist wishes to include a categorical variable with more than two level in a multiple regression prediction model, additional steps are needed to insure that the results are interpretable. These steps include recoding the categorical variable into a number of separate, dichotomous variables. This recoding is called \"dummy coding.\" In order for the rest of the chapter to make sense, some specific topics related to multiple regression will be reviewed at this time.\n\n\n### Content\n\nRegression is a linear transformation of the X variables such that the sum of squared deviations of the observed and predicted Y is minimized. The prediction of Y is accomplished by the following equation:\n\nY'i = b0 + b1X1i + b2X2i + ... + bkXki\n\nThe \"b\" values are called regression weights and are computed in a way that minimizes the sum of squared deviations.\n\n\n\n### Inspiration\n\n How categorical variables with more than two levels could be used in a regression prediction model.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "business",
+    "banking",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

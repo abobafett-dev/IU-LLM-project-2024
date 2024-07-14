@@ -1,0 +1,41 @@
+{
+  "id": "axondata/anti-spoofing-live-dataset",
+  "id_no": 5116159,
+  "datasetSlugNullable": "anti-spoofing-live-dataset",
+  "ownerUserNullable": "axondata",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Anti Spoofing Selfie Live Dataset",
+  "subtitleNullable": "Dataset for Liveness detection - Live Selfie data (5k+ participants)",
+  "descriptionNullable": "## Anti Spoofing Selfie Live dataset - Selfie collection\n\n## What is inside this dataset?\nBiometric Attack dataset consists of &gt;5k selfie images of people from &gt;50 countries. Each participant provided 1 real life selfy image. Live selfies help facial recognition models to identify real faces and detect spoofing attempts, decreasing false negative results for Liveness detection tests.\n\n## Dataset parameters:\n\n- Key nationalities are covered (Caucasians, Black, Asian, Hispanic etc)\n- Variety of lightning conditions and capturing devices\n- Different demographic parameters (broad range of Age, balanced gender and race distribution)\n\n## Full version of dataset is available for commercial usage - leave a request on our website [Axonlabs ](https://axonlabs.pro/?utm_source=Kaggle&utm_medium=Account&utm_campaign=Account&utm_id=1)to purchase the dataset \ud83d\udcb0\n\n\n## How Live selfie dataset helps Liveness models?\nSelfies provide a diverse range of facial features, lighting conditions, and capturing devices, which are essential for training robust facial recognition models that can accurately distinguish between real and spoofed faces\n\n## Potential Use Cases:\nLiveness detection: This dataset is ideal for training and evaluating liveness detection models, enabling researchers to distinguish between real and spoof data with high accuracy\n\nKeywords:\nReal life data, Live data, Selfie data, Antispoofing for AI, Liveness Detection dataset for AI, Spoof Detection dataset, Facial Recognition dataset, Biometric Authentication dataset, AI Dataset, Anti-Spoofing Technology, Facial Biometrics, Machine Learning Dataset, Deep Learning\n\n\n\n\n\n",
+  "datasetId": 5116159,
+  "datasetSlug": "anti-spoofing-live-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "axondata",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 191,
+  "totalVotes": 5,
+  "totalDownloads": 21,
+  "title": "Anti Spoofing Selfie Live Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset for Liveness detection - Live Selfie data (5k+ participants)",
+  "hasSubtitle": true,
+  "description": "## Anti Spoofing Selfie Live dataset - Selfie collection\n\n## What is inside this dataset?\nBiometric Attack dataset consists of &gt;5k selfie images of people from &gt;50 countries. Each participant provided 1 real life selfy image. Live selfies help facial recognition models to identify real faces and detect spoofing attempts, decreasing false negative results for Liveness detection tests.\n\n## Dataset parameters:\n\n- Key nationalities are covered (Caucasians, Black, Asian, Hispanic etc)\n- Variety of lightning conditions and capturing devices\n- Different demographic parameters (broad range of Age, balanced gender and race distribution)\n\n## Full version of dataset is available for commercial usage - leave a request on our website [Axonlabs ](https://axonlabs.pro/?utm_source=Kaggle&utm_medium=Account&utm_campaign=Account&utm_id=1)to purchase the dataset \ud83d\udcb0\n\n\n## How Live selfie dataset helps Liveness models?\nSelfies provide a diverse range of facial features, lighting conditions, and capturing devices, which are essential for training robust facial recognition models that can accurately distinguish between real and spoofed faces\n\n## Potential Use Cases:\nLiveness detection: This dataset is ideal for training and evaluating liveness detection models, enabling researchers to distinguish between real and spoof data with high accuracy\n\nKeywords:\nReal life data, Live data, Selfie data, Antispoofing for AI, Liveness Detection dataset for AI, Spoof Detection dataset, Facial Recognition dataset, Biometric Authentication dataset, AI Dataset, Anti-Spoofing Technology, Facial Biometrics, Machine Learning Dataset, Deep Learning\n\n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

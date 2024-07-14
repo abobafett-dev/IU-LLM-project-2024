@@ -1,0 +1,44 @@
+{
+  "id": "notshrirang/reliance-stock-price-dataset",
+  "id_no": 2703834,
+  "datasetSlugNullable": "reliance-stock-price-dataset",
+  "ownerUserNullable": "notshrirang",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Reliance Stock Price Dataset",
+  "subtitleNullable": "Dataset of price of Reliance stock",
+  "descriptionNullable": "A dataset containing prices of Reliance stock since 1996 to 2020. Contains volume, turnover, open, high, low, close prices of the stock. This dataset is meant to use for predicting the stock prices in future. You may use linear regression or neural networks.",
+  "datasetId": 2703834,
+  "datasetSlug": "reliance-stock-price-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "notshrirang",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7617,
+  "totalVotes": 31,
+  "totalDownloads": 1444,
+  "title": "Reliance Stock Price Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset of price of Reliance stock",
+  "hasSubtitle": true,
+  "description": "A dataset containing prices of Reliance stock since 1996 to 2020. Contains volume, turnover, open, high, low, close prices of the stock. This dataset is meant to use for predicting the stock prices in future. You may use linear regression or neural networks.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "economics",
+    "beginner",
+    "time series analysis",
+    "linear regression",
+    "tabular",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

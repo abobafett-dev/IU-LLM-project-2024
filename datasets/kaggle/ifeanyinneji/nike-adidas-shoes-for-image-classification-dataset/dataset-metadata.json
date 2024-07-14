@@ -1,0 +1,43 @@
+{
+  "id": "ifeanyinneji/nike-adidas-shoes-for-image-classification-dataset",
+  "id_no": 2361804,
+  "datasetSlugNullable": "nike-adidas-shoes-for-image-classification-dataset",
+  "ownerUserNullable": "ifeanyinneji",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Nike,Adidas Shoes for Image Classification Dataset",
+  "subtitleNullable": "Nike and Adidas Shoes Dataset to train a Deep Learning Model",
+  "descriptionNullable": "This dataset can be used to build a CNN model that can classify if a shoe is an Adidas or Nike brand.\n\nThe images were pulled from bing using bing_image_search from pypi, 400 images of each class were downloaded and then the dataset was trimmed to 300(some unrelated images were removed in the process of compiling the dataset).\n\n[Link to Notebook](https://colab.research.google.com/drive/1QDhhhEeAWHLES0l2YPAmd7MQVKAiwhi4?usp=sharing)",
+  "datasetId": 2361804,
+  "datasetSlug": "nike-adidas-shoes-for-image-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ifeanyinneji",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 17123,
+  "totalVotes": 30,
+  "totalDownloads": 3836,
+  "title": "Nike,Adidas Shoes for Image Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Nike and Adidas Shoes Dataset to train a Deep Learning Model",
+  "hasSubtitle": true,
+  "description": "This dataset can be used to build a CNN model that can classify if a shoe is an Adidas or Nike brand.\n\nThe images were pulled from bing using bing_image_search from pypi, 400 images of each class were downloaded and then the dataset was trimmed to 300(some unrelated images were removed in the process of compiling the dataset).\n\n[Link to Notebook](https://colab.research.google.com/drive/1QDhhhEeAWHLES0l2YPAmd7MQVKAiwhi4?usp=sharing)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "computer vision",
+    "neural networks",
+    "image",
+    "keras"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

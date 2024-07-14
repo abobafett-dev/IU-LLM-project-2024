@@ -1,0 +1,40 @@
+{
+  "id": "rrp170330/variability-in-the-poverty-rate-in-the-us-counties",
+  "id_no": 9810,
+  "datasetSlugNullable": "variability-in-the-poverty-rate-in-the-us-counties",
+  "ownerUserNullable": "rrp170330",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "variability in the poverty rate in the US counties",
+  "subtitleNullable": "variability in the poverty rate in the US counties",
+  "descriptionNullable": "Goal and Objective :\nPrimary objective is to study variability in the poverty rate in the US counties\u00a0by means of one or more of independent or control variable and provide best suitable model to quantify relationships in determining target value\nOur goal is to design various models to take into consideration the effect of various factors like employment, population and education to predict the poverty rate in all US Counties\nWe further wish to analyze the status of a county based on whether it is metropolitan or not\n\nList of datasets:\n\nSocioeconomic indicators like poverty rates, population change, unemployment rates, and education levels vary geographically across U.S. States and counties\n1. Unemployment\n2. PovertyEstimates\n3.Population Estimates\n4. Education\n\nAll the four individual datasets have common unique id FIPS Code defined as State-County FIPS Code. It is unique for each county falling under the states. In our dataset, we are covering all 52 USA states including federal district DC and Puerto Rico.\n\nData Modelling :\n\nTarget Variable: Metro_2015 \u2013 This binary variable shows status of County as Metro or Non-Metro\nA decision tree model designed using Metro_2015 as target variable will efficiently determine the classification of the population into Metro and Non-metro counties. \nDataset will be partitioned into training and validation datasets before implementing decision tree rules. \nThe attributes that will be considered in selecting best model will be fit statistics, misclassification rate, and average square error.\n\nClustering can be performed to create the collection of objects similar to each other which will give insight into data distribution. \n Variables will be standardized before performing clustering to avoid noisy data and outliers. Euclidean distance will be the measure to determine stability and separation.\n\nRecommendation :\n\nThe regression equation determines % Poverty rate in a particular county based on significant factors. This model can be \nThis model can be used by education boards to increase or decrease the funds spent on the education system in different counties in order to lower the poverty rate.\nCensus board can use this model in identifying poverty line index based on a population estimate an average household income.\nBy estimating the poverty rate and considering factors like unemployment and education, an analysis can be done to set up employment opportunities in targeted counties.\n\n",
+  "datasetId": 9810,
+  "datasetSlug": "variability-in-the-poverty-rate-in-the-us-counties",
+  "hasDatasetSlug": true,
+  "ownerUser": "rrp170330",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 4880,
+  "totalVotes": 12,
+  "totalDownloads": 657,
+  "title": "variability in the poverty rate in the US counties",
+  "hasTitle": true,
+  "subtitle": "variability in the poverty rate in the US counties",
+  "hasSubtitle": true,
+  "description": "Goal and Objective :\nPrimary objective is to study variability in the poverty rate in the US counties\u00a0by means of one or more of independent or control variable and provide best suitable model to quantify relationships in determining target value\nOur goal is to design various models to take into consideration the effect of various factors like employment, population and education to predict the poverty rate in all US Counties\nWe further wish to analyze the status of a county based on whether it is metropolitan or not\n\nList of datasets:\n\nSocioeconomic indicators like poverty rates, population change, unemployment rates, and education levels vary geographically across U.S. States and counties\n1. Unemployment\n2. PovertyEstimates\n3.Population Estimates\n4. Education\n\nAll the four individual datasets have common unique id FIPS Code defined as State-County FIPS Code. It is unique for each county falling under the states. In our dataset, we are covering all 52 USA states including federal district DC and Puerto Rico.\n\nData Modelling :\n\nTarget Variable: Metro_2015 \u2013 This binary variable shows status of County as Metro or Non-Metro\nA decision tree model designed using Metro_2015 as target variable will efficiently determine the classification of the population into Metro and Non-metro counties. \nDataset will be partitioned into training and validation datasets before implementing decision tree rules. \nThe attributes that will be considered in selecting best model will be fit statistics, misclassification rate, and average square error.\n\nClustering can be performed to create the collection of objects similar to each other which will give insight into data distribution. \n Variables will be standardized before performing clustering to avoid noisy data and outliers. Euclidean distance will be the measure to determine stability and separation.\n\nRecommendation :\n\nThe regression equation determines % Poverty rate in a particular county based on significant factors. This model can be \nThis model can be used by education boards to increase or decrease the funds spent on the education system in different counties in order to lower the poverty rate.\nCensus board can use this model in identifying poverty line index based on a population estimate an average household income.\nBy estimating the poverty rate and considering factors like unemployment and education, an analysis can be done to set up employment opportunities in targeted counties.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "demographics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

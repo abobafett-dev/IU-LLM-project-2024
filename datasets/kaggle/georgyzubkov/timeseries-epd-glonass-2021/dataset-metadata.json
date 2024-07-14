@@ -1,0 +1,43 @@
+{
+  "id": "georgyzubkov/timeseries-epd-glonass-2021",
+  "id_no": 2246981,
+  "datasetSlugNullable": "timeseries-epd-glonass-2021",
+  "ownerUserNullable": "georgyzubkov",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Timeseries SISRE GLONASS 2021",
+  "subtitleNullable": "Analyze and predict the value of GLONASS system accuracy!",
+  "descriptionNullable": "GLONASS (\u0413\u041b\u041e\u041d\u0410\u0421\u0421, IPA: [\u0261\u026b\u0250\u02c8nas]; Russian: \u0413\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u0430\u044f \u043d\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0441\u043f\u0443\u0442\u043d\u0438\u043a\u043e\u0432\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430, tr. Global'naya Navigatsionnaya Sputnikovaya Sistema, lit. 'Global Navigation Satellite System') is a Russian satellite navigation system operating as part of a radionavigation-satellite service. It provides an alternative to Global Positioning System (GPS) and is the second navigational system in operation with global coverage and of comparable precision.\n\nSatellite navigation devices supporting both GPS and GLONASS have more satellites available, meaning positions can be fixed more quickly and accurately, especially in built-up areas where buildings may obscure the view to some satellites.GLONASS supplementation of GPS systems also improves positioning in high latitudes (north or south).\n\nDevelopment of GLONASS began in the Soviet Union in 1976. Beginning on 12 October 1982, numerous rocket launches added satellites to the system, until the completion of the constellation in 1995. After a decline in capacity during the late 1990s, in 2001, the restoration of the system was made a government priority and funding increased substantially. GLONASS is the most expensive program of the Roscosmos, consuming a third of its budget in 2010.\n\nBy 2010, GLONASS had achieved full coverage of Russia's territory and in October 2011 the full orbital constellation of 24 satellites was restored, enabling full global coverage. The GLONASS satellites' designs have undergone several upgrades, with the 2020 latest version, GLONASS-K2, scheduled to enter service in 2022.\n\nThe system for high-precision determination of ephemeris and time corrections of the GLONASS system (SVOEVP) is part of the global navigation system (GNS) GLONASS and is designed to calculate and present a wide range of heterogeneous data that allow obtaining the highest accuracy of solving navigation problems by GLONASS users in post-processing mode.\n\nThe source for calculating high-precision ephemeris and time-frequency corrections to the on-board time scales (BSV) of the NSC is the measurements of a global network of uninterrupted measuring stations distributed over the Earth's surface, a very long baseline radio interferometer (VLBI) and quantum optical systems (QOS) (data from Russian and international networks of laser ranging satellites), as well as measurements of interrogative and non-inquiry GLONASS GLONASS facilities. As a result of the calculations, tabular high-precision ephemeris and frequency-time corrections to the NSC BSW are formed, which describe the position of the GLONASS satellites in space and time.\n\nThe SVOEVP data is kept up to date on the website http://www.glonass-svoevp.ru, opened in 2007, which also contains the current version of the GLONASS SVOEVP Interface Control Document.\n\nCurrently, the SVOEVP of the 2nd stage is in trial operation.",
+  "datasetId": 2246981,
+  "datasetSlug": "timeseries-epd-glonass-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "georgyzubkov",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 801,
+  "totalVotes": 35,
+  "totalDownloads": 70,
+  "title": "Timeseries SISRE GLONASS 2021",
+  "hasTitle": true,
+  "subtitle": "Analyze and predict the value of GLONASS system accuracy!",
+  "hasSubtitle": true,
+  "description": "GLONASS (\u0413\u041b\u041e\u041d\u0410\u0421\u0421, IPA: [\u0261\u026b\u0250\u02c8nas]; Russian: \u0413\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u0430\u044f \u043d\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0441\u043f\u0443\u0442\u043d\u0438\u043a\u043e\u0432\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430, tr. Global'naya Navigatsionnaya Sputnikovaya Sistema, lit. 'Global Navigation Satellite System') is a Russian satellite navigation system operating as part of a radionavigation-satellite service. It provides an alternative to Global Positioning System (GPS) and is the second navigational system in operation with global coverage and of comparable precision.\n\nSatellite navigation devices supporting both GPS and GLONASS have more satellites available, meaning positions can be fixed more quickly and accurately, especially in built-up areas where buildings may obscure the view to some satellites.GLONASS supplementation of GPS systems also improves positioning in high latitudes (north or south).\n\nDevelopment of GLONASS began in the Soviet Union in 1976. Beginning on 12 October 1982, numerous rocket launches added satellites to the system, until the completion of the constellation in 1995. After a decline in capacity during the late 1990s, in 2001, the restoration of the system was made a government priority and funding increased substantially. GLONASS is the most expensive program of the Roscosmos, consuming a third of its budget in 2010.\n\nBy 2010, GLONASS had achieved full coverage of Russia's territory and in October 2011 the full orbital constellation of 24 satellites was restored, enabling full global coverage. The GLONASS satellites' designs have undergone several upgrades, with the 2020 latest version, GLONASS-K2, scheduled to enter service in 2022.\n\nThe system for high-precision determination of ephemeris and time corrections of the GLONASS system (SVOEVP) is part of the global navigation system (GNS) GLONASS and is designed to calculate and present a wide range of heterogeneous data that allow obtaining the highest accuracy of solving navigation problems by GLONASS users in post-processing mode.\n\nThe source for calculating high-precision ephemeris and time-frequency corrections to the on-board time scales (BSV) of the NSC is the measurements of a global network of uninterrupted measuring stations distributed over the Earth's surface, a very long baseline radio interferometer (VLBI) and quantum optical systems (QOS) (data from Russian and international networks of laser ranging satellites), as well as measurements of interrogative and non-inquiry GLONASS GLONASS facilities. As a result of the calculations, tabular high-precision ephemeris and frequency-time corrections to the NSC BSW are formed, which describe the position of the GLONASS satellites in space and time.\n\nThe SVOEVP data is kept up to date on the website http://www.glonass-svoevp.ru, opened in 2007, which also contains the current version of the GLONASS SVOEVP Interface Control Document.\n\nCurrently, the SVOEVP of the 2nd stage is in trial operation.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "russia",
+    "earth and nature",
+    "science and technology",
+    "time series analysis",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "swetashetye/multilabel-classification-for-news-categories",
+  "id_no": 735516,
+  "datasetSlugNullable": "multilabel-classification-for-news-categories",
+  "ownerUserNullable": "swetashetye",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": " Multi-label Classification for News ",
+  "subtitleNullable": "Identification of keywords - categorizing the news to different categories.",
+  "descriptionNullable": "### Context\n\nThe news may belong to one or more categories depending on the content of the news. For example, News about a sports personality may belong to the sports category and entertainment category too. There are certain entities/keywords in the news which can help in determining the category, the news belongs to.\nAll the URLs that are visited on TIL network belong to one/many categories. Given the set of URLs (maybe as URLs or ids), their short/long descriptions, participants have to classify them across multiple categories.\n\nReference: TechGig Code Gladiators 2020\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 735516,
+  "datasetSlug": "multilabel-classification-for-news-categories",
+  "hasDatasetSlug": true,
+  "ownerUser": "swetashetye",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 2521,
+  "totalVotes": 3,
+  "totalDownloads": 113,
+  "title": " Multi-label Classification for News ",
+  "hasTitle": true,
+  "subtitle": "Identification of keywords - categorizing the news to different categories.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe news may belong to one or more categories depending on the content of the news. For example, News about a sports personality may belong to the sports category and entertainment category too. There are certain entities/keywords in the news which can help in determining the category, the news belongs to.\nAll the URLs that are visited on TIL network belong to one/many categories. Given the set of URLs (maybe as URLs or ids), their short/long descriptions, participants have to classify them across multiple categories.\n\nReference: TechGig Code Gladiators 2020\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "internet",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

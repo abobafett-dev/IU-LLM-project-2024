@@ -1,0 +1,39 @@
+{
+  "id": "benjaminwright/household-pulse-survey-health-data",
+  "id_no": 1093416,
+  "datasetSlugNullable": "household-pulse-survey-health-data",
+  "ownerUserNullable": "benjaminwright",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Household Pulse Survey Health Data",
+  "subtitleNullable": "Tracking Access to Healthcare and Symptoms of Depression & Anxiety During COVID",
+  "descriptionNullable": "### Context\n\nThis data represents changes in access to healthcare and symptoms of anxiety and depression throughout the United States during the COVID-19 pandemic. Data was collected by the United States Census Bureau in the Household Pulse survey and used to estimate across the population. \n\n\n### Content\n\nThe data contains .xlsx files whose sheets represent regions (states, metro areas) in the US. Spreadsheets beginning with the strings \"health2a\" and \"health2b\" represent survey results on symptoms of anxiety and depression (respectively) in various subsets of the US population. Data files containing the string \"_se_\" represent the standard error of the estimates of the corresponding file without the \"_se_\" sub-string. Columns are clearly labeled in each spreadsheet.\n\nThis is time-series data. The end of a table name is the word \"week\" plus a number. This loosely corresponds to the number of weeks or biweekly periods after April 23, 2020 during which the data was collected. The exact dates represented by each table can be found at [https://www.census.gov/programs-surveys/household-pulse-survey/data.html](https://www.census.gov/programs-surveys/household-pulse-survey/data.html). (I also plan to hard-code them into a notebook which may be used freely). Please note the survey has been conducted in Phases, and data tables from different Phases may have slightly varying formats.\n\n### Acknowledgements\n\nThe data tables are downloaded directly from the US Census Bureau website, linked to above already. \n\n\n### Inspiration\n\nWhat can we learn from this data about how the pandemic has affected mental health in the US? How does the pandemic affect mental health and access to healthcare across race? What is the correlation between access to healthcare and mental health during the pandemic? Answering these questions might help many bring context to their own struggles and feel less alone in an otherwise isolating time.",
+  "datasetId": 1093416,
+  "datasetSlug": "household-pulse-survey-health-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "benjaminwright",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 4048,
+  "totalVotes": 4,
+  "totalDownloads": 224,
+  "title": "Household Pulse Survey Health Data",
+  "hasTitle": true,
+  "subtitle": "Tracking Access to Healthcare and Symptoms of Depression & Anxiety During COVID",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data represents changes in access to healthcare and symptoms of anxiety and depression throughout the United States during the COVID-19 pandemic. Data was collected by the United States Census Bureau in the Household Pulse survey and used to estimate across the population. \n\n\n### Content\n\nThe data contains .xlsx files whose sheets represent regions (states, metro areas) in the US. Spreadsheets beginning with the strings \"health2a\" and \"health2b\" represent survey results on symptoms of anxiety and depression (respectively) in various subsets of the US population. Data files containing the string \"_se_\" represent the standard error of the estimates of the corresponding file without the \"_se_\" sub-string. Columns are clearly labeled in each spreadsheet.\n\nThis is time-series data. The end of a table name is the word \"week\" plus a number. This loosely corresponds to the number of weeks or biweekly periods after April 23, 2020 during which the data was collected. The exact dates represented by each table can be found at [https://www.census.gov/programs-surveys/household-pulse-survey/data.html](https://www.census.gov/programs-surveys/household-pulse-survey/data.html). (I also plan to hard-code them into a notebook which may be used freely). Please note the survey has been conducted in Phases, and data tables from different Phases may have slightly varying formats.\n\n### Acknowledgements\n\nThe data tables are downloaded directly from the US Census Bureau website, linked to above already. \n\n\n### Inspiration\n\nWhat can we learn from this data about how the pandemic has affected mental health in the US? How does the pandemic affect mental health and access to healthcare across race? What is the correlation between access to healthcare and mental health during the pandemic? Answering these questions might help many bring context to their own struggles and feel less alone in an otherwise isolating time.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

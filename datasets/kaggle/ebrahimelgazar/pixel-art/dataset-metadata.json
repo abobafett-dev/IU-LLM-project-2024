@@ -1,0 +1,43 @@
+{
+  "id": "ebrahimelgazar/pixel-art",
+  "id_no": 4424547,
+  "datasetSlugNullable": "pixel-art",
+  "ownerUserNullable": "ebrahimelgazar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Pixel Art",
+  "subtitleNullable": "This dataset contains 89,000 pixel art images of various characters and objects.",
+  "descriptionNullable": "# **Context**:\n\nThis dataset contains 89,000 pixel art images of various characters and objects. The images were originally collected from an online game and have been preprocessed to have a consistent size of 16x16 pixels and converted to JPEG format. The dataset can be used for various purposes, such as training machine learning models for image recognition or sprite generation using diffusion models.\n\n\n# **Content:**\n\nThe dataset is presented in a structured format, showcasing a collection of pixel art images along with their corresponding labels.\n\n* **Number of images:** 89.000\n* **Image format:** JPEG\n* **Dimensions:** 16x16 pixels\n* **Color channels:** 3 (RGB)\n\n# **Data Explorer:**\n\n**images**: This directory contains the pixel art images.\n**labels.csv:** This file contains the labels for the images.\n**sprites.npy:** This file contains the numpy array of the sprites.\n**sprites_labels.npy:** This file contains the labels for the sprites in numpy format.\n\n# **Labels**:\n\nThe labels for the images are stored in the labels.csv file. Each row in the file corresponds to an image in the dataset. The labels are integers that map to a specific category of character or object represented in the image.\n\n# **Usage:**\n\n**This dataset can be used for various machine learning tasks such as:**\n\n* **Image Classification:** You can use the images and their labels to train a model to classify the type of character or object in an image.\n* **Object Detection:** If the images contain multiple objects, you can use it for object detection tasks.\n* **Image Generation:** You can use the dataset to train a Generative Adversarial Network (GAN) to generate new pixel art images.",
+  "datasetId": 4424547,
+  "datasetSlug": "pixel-art",
+  "hasDatasetSlug": true,
+  "ownerUser": "ebrahimelgazar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2994,
+  "totalVotes": 22,
+  "totalDownloads": 396,
+  "title": "Pixel Art",
+  "hasTitle": true,
+  "subtitle": "This dataset contains 89,000 pixel art images of various characters and objects.",
+  "hasSubtitle": true,
+  "description": "# **Context**:\n\nThis dataset contains 89,000 pixel art images of various characters and objects. The images were originally collected from an online game and have been preprocessed to have a consistent size of 16x16 pixels and converted to JPEG format. The dataset can be used for various purposes, such as training machine learning models for image recognition or sprite generation using diffusion models.\n\n\n# **Content:**\n\nThe dataset is presented in a structured format, showcasing a collection of pixel art images along with their corresponding labels.\n\n* **Number of images:** 89.000\n* **Image format:** JPEG\n* **Dimensions:** 16x16 pixels\n* **Color channels:** 3 (RGB)\n\n# **Data Explorer:**\n\n**images**: This directory contains the pixel art images.\n**labels.csv:** This file contains the labels for the images.\n**sprites.npy:** This file contains the numpy array of the sprites.\n**sprites_labels.npy:** This file contains the labels for the sprites in numpy format.\n\n# **Labels**:\n\nThe labels for the images are stored in the labels.csv file. Each row in the file corresponds to an image in the dataset. The labels are integers that map to a specific category of character or object represented in the image.\n\n# **Usage:**\n\n**This dataset can be used for various machine learning tasks such as:**\n\n* **Image Classification:** You can use the images and their labels to train a model to classify the type of character or object in an image.\n* **Object Detection:** If the images contain multiple objects, you can use it for object detection tasks.\n* **Image Generation:** You can use the dataset to train a Generative Adversarial Network (GAN) to generate new pixel art images.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "video games",
+    "image generator",
+    "unet",
+    "convolution"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

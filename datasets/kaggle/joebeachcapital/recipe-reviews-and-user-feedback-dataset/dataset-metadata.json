@@ -1,0 +1,42 @@
+{
+  "id": "joebeachcapital/recipe-reviews-and-user-feedback-dataset",
+  "id_no": 4324941,
+  "datasetSlugNullable": "recipe-reviews-and-user-feedback-dataset",
+  "ownerUserNullable": "joebeachcapital",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Recipe Reviews and User Feedback Dataset",
+  "subtitleNullable": "Recipe name, its ranking on the top 100 recipes list, a unique recipe code, etc ",
+  "descriptionNullable": "**Overview**\n\nThe \"Recipe Reviews and User Feedback Dataset\" is a comprehensive repository of data encompassing various aspects of recipe reviews and user interactions. It includes essential information such as the recipe name, its ranking on the top 100 recipes list, a unique recipe code, and user details like user ID, user name, and an internal user reputation score. Each review comment is uniquely identified with a comment ID and comes with additional attributes, including the creation timestamp, reply count, and the number of up-votes and down-votes received. Users' sentiment towards recipes is quantified on a 1 to 5 star rating scale, with a score of 0 denoting an absence of rating. This dataset is a valuable resource for researchers and data scientists, facilitating endeavors in sentiment analysis, user behavior analysis, recipe recommendation systems, and more. It offers a window into the dynamics of recipe reviews and user feedback within the culinary website domain.\n\n**Introductory Paper**\n\n[Textual Taste Buds: A Profound Exploration of Emotion Identification in Food Recipes through BERT and AttBiRNN Models](https://www.ijnrd.org/papers/IJNRD2310077.pdf)\nBy Amir Ali, Stanislaw Matuszewski, Jacek Czupyt, Usman Ahmad. 2023\nPublished in International Journal of Novel Research and Development\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2003977%2F4a1dd7a94f0a503d99a9324352434142%2FScreenshot%20from%202024-01-19%2013-33-04.png?generation=1705635221554249&alt=media)",
+  "datasetId": 4324941,
+  "datasetSlug": "recipe-reviews-and-user-feedback-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "joebeachcapital",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 904,
+  "totalVotes": 3,
+  "totalDownloads": 74,
+  "title": "Recipe Reviews and User Feedback Dataset",
+  "hasTitle": true,
+  "subtitle": "Recipe name, its ranking on the top 100 recipes list, a unique recipe code, etc ",
+  "hasSubtitle": true,
+  "description": "**Overview**\n\nThe \"Recipe Reviews and User Feedback Dataset\" is a comprehensive repository of data encompassing various aspects of recipe reviews and user interactions. It includes essential information such as the recipe name, its ranking on the top 100 recipes list, a unique recipe code, and user details like user ID, user name, and an internal user reputation score. Each review comment is uniquely identified with a comment ID and comes with additional attributes, including the creation timestamp, reply count, and the number of up-votes and down-votes received. Users' sentiment towards recipes is quantified on a 1 to 5 star rating scale, with a score of 0 denoting an absence of rating. This dataset is a valuable resource for researchers and data scientists, facilitating endeavors in sentiment analysis, user behavior analysis, recipe recommendation systems, and more. It offers a window into the dynamics of recipe reviews and user feedback within the culinary website domain.\n\n**Introductory Paper**\n\n[Textual Taste Buds: A Profound Exploration of Emotion Identification in Food Recipes through BERT and AttBiRNN Models](https://www.ijnrd.org/papers/IJNRD2310077.pdf)\nBy Amir Ali, Stanislaw Matuszewski, Jacek Czupyt, Usman Ahmad. 2023\nPublished in International Journal of Novel Research and Development\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2003977%2F4a1dd7a94f0a503d99a9324352434142%2FScreenshot%20from%202024-01-19%2013-33-04.png?generation=1705635221554249&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text",
+    "cooking and recipes",
+    "text classification",
+    "text pre-processing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

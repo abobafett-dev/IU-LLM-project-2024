@@ -1,0 +1,42 @@
+{
+  "id": "davidmezzetti/cord19-study-design",
+  "id_no": 609420,
+  "datasetSlugNullable": "cord19-study-design",
+  "ownerUserNullable": "davidmezzetti",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "CORD-19 Study Design",
+  "subtitleNullable": "Study design training data and models for CORD-19",
+  "descriptionNullable": "## Content\n\nThis dataset contains training data and pre-trained models for detecting study design and other metadata fields (sample size, sample method and study statistics such as risk factors). There are two sets of training data in this dataset, which will continue to be updated.\n\n- design.csv: 1000+ labeled articles with 10 different labels. Columns are the label (descriptions below) and the CORD-19 sha id of the study. \n  - 1 - Systematic review\n  - 2 - Randomized control trial\n  - 3 - Non-randomized trial\n  - 4 - Prospective observational\n  - 5 - Time-to-event analysis\n  - 6 - Retrospective observational\n  - 7 - Cross-sectional\n  - 8 - Case series\n  - 9 - Modeling\n  - 0 - Other\n\n- attribute.csv: 1000+ labeled sentences from the CORD-19 dataset with 4 different labels (descriptions below). Columns are the label and the text.\n  - 1 - Statistic\n  - 2 - Sampling method\n  - 3 - Sample size\n  - 0 - Other\n\nThe files attribute and design are binary pre-trained models. They are designed to be used with the code here: https://github.com/neuml/cord19q/tree/master/src/python/cord19q/etl/metadata.py\n\n## Acknowledgements\n\nBanner Photo by [Alfons Morales](https://unsplash.com/@alfonsmc10) on [Unsplash](https://unsplash.com/photos/YLSwjSy7stw)",
+  "datasetId": 609420,
+  "datasetSlug": "cord19-study-design",
+  "hasDatasetSlug": true,
+  "ownerUser": "davidmezzetti",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6783,
+  "totalVotes": 11,
+  "totalDownloads": 432,
+  "title": "CORD-19 Study Design",
+  "hasTitle": true,
+  "subtitle": "Study design training data and models for CORD-19",
+  "hasSubtitle": true,
+  "description": "## Content\n\nThis dataset contains training data and pre-trained models for detecting study design and other metadata fields (sample size, sample method and study statistics such as risk factors). There are two sets of training data in this dataset, which will continue to be updated.\n\n- design.csv: 1000+ labeled articles with 10 different labels. Columns are the label (descriptions below) and the CORD-19 sha id of the study. \n  - 1 - Systematic review\n  - 2 - Randomized control trial\n  - 3 - Non-randomized trial\n  - 4 - Prospective observational\n  - 5 - Time-to-event analysis\n  - 6 - Retrospective observational\n  - 7 - Cross-sectional\n  - 8 - Case series\n  - 9 - Modeling\n  - 0 - Other\n\n- attribute.csv: 1000+ labeled sentences from the CORD-19 dataset with 4 different labels (descriptions below). Columns are the label and the text.\n  - 1 - Statistic\n  - 2 - Sampling method\n  - 3 - Sample size\n  - 0 - Other\n\nThe files attribute and design are binary pre-trained models. They are designed to be used with the code here: https://github.com/neuml/cord19q/tree/master/src/python/cord19q/etl/metadata.py\n\n## Acknowledgements\n\nBanner Photo by [Alfons Morales](https://unsplash.com/@alfonsmc10) on [Unsplash](https://unsplash.com/photos/YLSwjSy7stw)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "education",
+    "nlp",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

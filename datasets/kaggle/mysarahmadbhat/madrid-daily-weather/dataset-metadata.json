@@ -1,0 +1,40 @@
+{
+  "id": "mysarahmadbhat/madrid-daily-weather",
+  "id_no": 2438662,
+  "datasetSlugNullable": "madrid-daily-weather",
+  "ownerUserNullable": "mysarahmadbhat",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Daily Weather",
+  "subtitleNullable": "Daily weather conditions in Madrid from 1997-2015.",
+  "descriptionNullable": "Daily weather conditions in Madrid from 1997-2015, including max/min/mean temperature, dew point, humidity, visibility, and wind speed, along with precipitation events, cloud cover and wind direction.\n\nRecommended Analysis\nDuring the time period in this sample, what % of days had some sort of precipitation event? What % were clear?\n\nSuppose you're planning a vacation to Madrid and hoping for the warmest temperature. Which month might you plan to travel?\n\nOn which date in the sample did Madrid see the fastest wind gust? What was the weather like on that day?\n\nHow does the average visibility (Km) compare for clear days vs. foggy days?\n\n",
+  "datasetId": 2438662,
+  "datasetSlug": "madrid-daily-weather",
+  "hasDatasetSlug": true,
+  "ownerUser": "mysarahmadbhat",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2296,
+  "totalVotes": 11,
+  "totalDownloads": 428,
+  "title": "Daily Weather",
+  "hasTitle": true,
+  "subtitle": "Daily weather conditions in Madrid from 1997-2015.",
+  "hasSubtitle": true,
+  "description": "Daily weather conditions in Madrid from 1997-2015, including max/min/mean temperature, dew point, humidity, visibility, and wind speed, along with precipitation events, cloud cover and wind direction.\n\nRecommended Analysis\nDuring the time period in this sample, what % of days had some sort of precipitation event? What % were clear?\n\nSuppose you're planning a vacation to Madrid and hoping for the warmest temperature. Which month might you plan to travel?\n\nOn which date in the sample did Madrid see the fastest wind gust? What was the weather like on that day?\n\nHow does the average visibility (Km) compare for clear days vs. foggy days?\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "weather and climate",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

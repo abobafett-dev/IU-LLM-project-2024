@@ -1,0 +1,43 @@
+{
+  "id": "gonzalorecioc/brain-tumor-images-with-tumor-location-coordinates",
+  "id_no": 1942987,
+  "datasetSlugNullable": "brain-tumor-images-with-tumor-location-coordinates",
+  "ownerUserNullable": "gonzalorecioc",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Brain Tumor images with tumor location coordinates",
+  "subtitleNullable": "Finding where the tumor is in a brain scan",
+  "descriptionNullable": "### Context\n\nThis is a modified version of [Preet Viradiya's](https://www.kaggle.com/preetviradiya) dataset \"[Brian Tumor Dataset](https://www.kaggle.com/preetviradiya/brian-tumor-dataset)\", but all the tumor images have been preprocessed, normalized, and the tumor location metadata has been manually gathered into a separate dataset.\n\nThe full preprocess sequence is detailed in the first half of this notebook in the original dataset: [Brain tumor image preprocessing & clasifier ](https://www.kaggle.com/gonzalorecioc/brain-tumor-image-preprocessing-clasifier) \n\nDISCLAIMER: I am no neuroscientist, so this data should only be used for practice purposes, as some of the tumor data location is bound to be inaccurate or plainly wrong.\n\n### Content\n\nThe data is split in two datasets:\n 1. `image_df` contains 2500 separate 128x128px images of cancer brain scans, one in each row. Reshaping a row into a 128x128 array should be necessary in order to display it correctly.\n 2. `data_df` contains four integers per entry detailing the coordinates of the top left corner of the approximate rectangle containing the tumor in the same-index image. The following two values contain the rectangle width and height respectively.\n\nAn example of loading and displaying data from this dataset has been included into the notebooks section under the name [Dataset Usage Basic Example](https://www.kaggle.com/gonzalorecioc/dataset-usage-basic-example).\n\n### Acknowledgements\n\nThanks to Preet Viradiya for providing the original images\n\n### Inspiration\n\nThis dataset's goal is to find a way to improve an hypotetical brain scan classificator. The question of \"does this brain have cancer?\" has been answered in the original dataset, using regression and this modified dataset not only the classification question question can be answered but also a model can be trained to point out exactly where the tumor is located.",
+  "datasetId": 1942987,
+  "datasetSlug": "brain-tumor-images-with-tumor-location-coordinates",
+  "hasDatasetSlug": true,
+  "ownerUser": "gonzalorecioc",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 2436,
+  "totalVotes": 7,
+  "totalDownloads": 151,
+  "title": "Brain Tumor images with tumor location coordinates",
+  "hasTitle": true,
+  "subtitle": "Finding where the tumor is in a brain scan",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is a modified version of [Preet Viradiya's](https://www.kaggle.com/preetviradiya) dataset \"[Brian Tumor Dataset](https://www.kaggle.com/preetviradiya/brian-tumor-dataset)\", but all the tumor images have been preprocessed, normalized, and the tumor location metadata has been manually gathered into a separate dataset.\n\nThe full preprocess sequence is detailed in the first half of this notebook in the original dataset: [Brain tumor image preprocessing & clasifier ](https://www.kaggle.com/gonzalorecioc/brain-tumor-image-preprocessing-clasifier) \n\nDISCLAIMER: I am no neuroscientist, so this data should only be used for practice purposes, as some of the tumor data location is bound to be inaccurate or plainly wrong.\n\n### Content\n\nThe data is split in two datasets:\n 1. `image_df` contains 2500 separate 128x128px images of cancer brain scans, one in each row. Reshaping a row into a 128x128 array should be necessary in order to display it correctly.\n 2. `data_df` contains four integers per entry detailing the coordinates of the top left corner of the approximate rectangle containing the tumor in the same-index image. The following two values contain the rectangle width and height respectively.\n\nAn example of loading and displaying data from this dataset has been included into the notebooks section under the name [Dataset Usage Basic Example](https://www.kaggle.com/gonzalorecioc/dataset-usage-basic-example).\n\n### Acknowledgements\n\nThanks to Preet Viradiya for providing the original images\n\n### Inspiration\n\nThis dataset's goal is to find a way to improve an hypotetical brain scan classificator. The question of \"does this brain have cancer?\" has been answered in the original dataset, using regression and this modified dataset not only the classification question question can be answered but also a model can be trained to point out exactly where the tumor is located.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "regression",
+    "cancer",
+    "numpy",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "harshitshankhdhar/tv-series-dataset",
+  "id_no": 1172880,
+  "datasetSlugNullable": "tv-series-dataset",
+  "ownerUserNullable": "harshitshankhdhar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IMDB TV Series Dataset",
+  "subtitleNullable": "IMDB Top 2000 TV Series according to Number of Votes",
+  "descriptionNullable": "### Context\n\nThis data is scraped from IMDB site according to the number of votes they get on IMDB.\nIt contains 2000 rows and 13 columns.\n\n### Content\n\nData:-\n- **Poster_Link** - Link of the poster that imdb using\n- **Series_Title** - Name of the series\n- **Runtime_of_Series** - Year at which series started to series end\n- **Certificate** - Certificate earned by that series\n- **Runtime_of_Episodes** - Total runtime of the episodes in series\n- **Genre** - Genre of the series\n- **IMDBRating** - Rating of the series at IMDB site\n- **Overview** - mini story/ summary\n- **Star1,Star2,Star3,Star4** - Name of the Stars\n- **No of votes** - Total number of votes\n\n### Inspiration\n\n- Analysis of the IMDB_Rating of a movie vs directors.\n- Analysis of the IMDB_Rating of a movie vs different - different stars.\n- Analysis of the No_of_votes of a movie vs directors.\n- Analysis of the No_of_votes of a movie vs different - different stars.\n- Which actor prefer which Genre more?\n- Which combination of actors are getting good IMDB_Rating maximum time?",
+  "datasetId": 1172880,
+  "datasetSlug": "tv-series-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "harshitshankhdhar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10957,
+  "totalVotes": 38,
+  "totalDownloads": 1429,
+  "title": "IMDB TV Series Dataset",
+  "hasTitle": true,
+  "subtitle": "IMDB Top 2000 TV Series according to Number of Votes",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data is scraped from IMDB site according to the number of votes they get on IMDB.\nIt contains 2000 rows and 13 columns.\n\n### Content\n\nData:-\n- **Poster_Link** - Link of the poster that imdb using\n- **Series_Title** - Name of the series\n- **Runtime_of_Series** - Year at which series started to series end\n- **Certificate** - Certificate earned by that series\n- **Runtime_of_Episodes** - Total runtime of the episodes in series\n- **Genre** - Genre of the series\n- **IMDBRating** - Rating of the series at IMDB site\n- **Overview** - mini story/ summary\n- **Star1,Star2,Star3,Star4** - Name of the Stars\n- **No of votes** - Total number of votes\n\n### Inspiration\n\n- Analysis of the IMDB_Rating of a movie vs directors.\n- Analysis of the IMDB_Rating of a movie vs different - different stars.\n- Analysis of the No_of_votes of a movie vs directors.\n- Analysis of the No_of_votes of a movie vs different - different stars.\n- Which actor prefer which Genre more?\n- Which combination of actors are getting good IMDB_Rating maximum time?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

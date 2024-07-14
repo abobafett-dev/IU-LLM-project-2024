@@ -1,0 +1,42 @@
+{
+  "id": "ndomalau/edelweis-flower",
+  "id_no": 2278831,
+  "datasetSlugNullable": "edelweis-flower",
+  "ownerUserNullable": "ndomalau",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Edelweis Flower",
+  "subtitleNullable": "Edelweis Flower Dataset",
+  "descriptionNullable": "## Context\nMachine Learning is a sub-application of Artificial Intelligence (AI) which has the ability to automatically learn continuously without having to be programmed manually. The learning process in machine learning is based on data that has been stored (dataset) and processed through a series of algorithms.\n\nDatasets are an important factor in making machine learning. The more datasets, the better the machine learning capabilities created. This important factor is certainly the most difficult challenge in assembling a machine learning program.\n\nAs for the dataset in the form of images, you can search for it on Google Images.\n\nReproduce the image dataset using image data augmentation using the Python programming language and the Scikit-image library. Simply put, the augmentation method reproduces an image by changing the original image into different shapes in various ways such as rotating the image, adding noise to the image, and flipping the image.\n\n## Content\n3 species of edelweiss flower images with a total sample of 3,500 images for training data and 1,050 images for test data.\u200b",
+  "datasetId": 2278831,
+  "datasetSlug": "edelweis-flower",
+  "hasDatasetSlug": true,
+  "ownerUser": "ndomalau",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2160,
+  "totalVotes": 24,
+  "totalDownloads": 168,
+  "title": "Edelweis Flower",
+  "hasTitle": true,
+  "subtitle": "Edelweis Flower Dataset",
+  "hasSubtitle": true,
+  "description": "## Context\nMachine Learning is a sub-application of Artificial Intelligence (AI) which has the ability to automatically learn continuously without having to be programmed manually. The learning process in machine learning is based on data that has been stored (dataset) and processed through a series of algorithms.\n\nDatasets are an important factor in making machine learning. The more datasets, the better the machine learning capabilities created. This important factor is certainly the most difficult challenge in assembling a machine learning program.\n\nAs for the dataset in the form of images, you can search for it on Google Images.\n\nReproduce the image dataset using image data augmentation using the Python programming language and the Scikit-image library. Simply put, the augmentation method reproduces an image by changing the original image into different shapes in various ways such as rotating the image, adding noise to the image, and flipping the image.\n\n## Content\n3 species of edelweiss flower images with a total sample of 3,500 images for training data and 1,050 images for test data.\u200b",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer science",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

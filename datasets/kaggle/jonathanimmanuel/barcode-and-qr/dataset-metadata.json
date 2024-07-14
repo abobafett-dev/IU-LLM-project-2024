@@ -1,0 +1,42 @@
+{
+  "id": "jonathanimmanuel/barcode-and-qr",
+  "id_no": 3797487,
+  "datasetSlugNullable": "barcode-and-qr",
+  "ownerUserNullable": "jonathanimmanuel",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Barcode & QR Codes",
+  "subtitleNullable": "Contains barcodes and QR codes images in various conditions.",
+  "descriptionNullable": "Context:\n=====\nImage classification and object recognition for **barcode and QR codes.**\n\nSource:\n=====\nIn the source.txt inside the dataset directory or written in **Provenance.**\n\nInspiration:\n=====\nThis dataset is made for image classification to fulfill an Artificial Intelligence project and also used to practice object detection.\n\nWarning:\n=====\nThe labels csv is an object detection labels containing labels and points of the squares surrounding the object. **The images containing QR codes have more instances in an image than barcodes so be warned of bias and difficulty in pre-processing.**",
+  "datasetId": 3797487,
+  "datasetSlug": "barcode-and-qr",
+  "hasDatasetSlug": true,
+  "ownerUser": "jonathanimmanuel",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 1617,
+  "totalVotes": 7,
+  "totalDownloads": 318,
+  "title": "Barcode & QR Codes",
+  "hasTitle": true,
+  "subtitle": "Contains barcodes and QR codes images in various conditions.",
+  "hasSubtitle": true,
+  "description": "Context:\n=====\nImage classification and object recognition for **barcode and QR codes.**\n\nSource:\n=====\nIn the source.txt inside the dataset directory or written in **Provenance.**\n\nInspiration:\n=====\nThis dataset is made for image classification to fulfill an Artificial Intelligence project and also used to practice object detection.\n\nWarning:\n=====\nThe labels csv is an object detection labels containing labels and points of the squares surrounding the object. **The images containing QR codes have more instances in an image than barcodes so be warned of bias and difficulty in pre-processing.**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image",
+    "multiclass classification",
+    "image classification",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

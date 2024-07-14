@@ -1,0 +1,44 @@
+{
+  "id": "danhendrycks/icons50",
+  "id_no": 35130,
+  "datasetSlugNullable": "icons50",
+  "ownerUserNullable": "danhendrycks",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Icons-50",
+  "subtitleNullable": "Image dataset of Icons",
+  "descriptionNullable": "### Context\n\nThe Icons-50 dataset consists of 10,000 images belonging to 50 classes of icons (e.g., people, food, activities, places, objects, symbols, etc.) collected from different technology companies and platforms (e.g., Apple, Samsung, Google, Facebook, etc.). Each class has icons with different styles (e.g., microsoft's flat vector graphics icon style) and different class subtypes (e.g., 'duck' or 'eagle' subtypes in the 'birds' class). Holding out a particular style, training on all other styles, and computing the accuracy on the held out style benchmarks a classifier's _style robustness_. Holding out a set of class subtypes, training on the remaining subtypes, and computing the accuracy on the held out subtype set benchmarks a classifier's _subtype robustness_. More details are in [this paper][1].\n\n### Content\n\nThe Icons-50.npy file can be opened with\n\n    import numpy as np\n    icons = np.load('./Icons-50.npy').item()\n\nThis dictionary has the keys 'class', with 10000 elements in {0,1,...,49}; 'style', with 10000 elements in {'microsoft', 'apple', ..., 'facebook'}; 'image' with 10000 3x32x32 images representing the icons; 'rendition' , with 10000 strings where each indicates  the icon's version; and 'subtype' which specifies the subtype of a class such as 'whale' or 'shark' for the marine animals class.\n\n### Acknowledgements\n\nImages were scraped from emojipedia and were cleaned, filtered, and clustered by hand. This dataset appears in the research paper [Benchmarking Neural Network Robustness to Common Corruptions and Surface Variations][2]. The data is mirrored at [this github repository][3]. If you find this dataset useful for your work, consider citing\n\n    @article{hendrycks2018robustness,\n      title={Benchmarking Neural Network Robustness to Common Corruptions and Surface Variations},\n      author={Dan Hendrycks and Thomas Dietterich},\n      journal={arXiv preprint arXiv:1807.01697},\n      year={2018}\n    }\n\n\n  [1]: https://arxiv.org/abs/1807.01697\n  [2]: https://arxiv.org/abs/1807.01697\n  [3]: https://github.com/hendrycks/robustness",
+  "datasetId": 35130,
+  "datasetSlug": "icons50",
+  "hasDatasetSlug": true,
+  "ownerUser": "danhendrycks",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 19759,
+  "totalVotes": 37,
+  "totalDownloads": 1626,
+  "title": "Icons-50",
+  "hasTitle": true,
+  "subtitle": "Image dataset of Icons",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe Icons-50 dataset consists of 10,000 images belonging to 50 classes of icons (e.g., people, food, activities, places, objects, symbols, etc.) collected from different technology companies and platforms (e.g., Apple, Samsung, Google, Facebook, etc.). Each class has icons with different styles (e.g., microsoft's flat vector graphics icon style) and different class subtypes (e.g., 'duck' or 'eagle' subtypes in the 'birds' class). Holding out a particular style, training on all other styles, and computing the accuracy on the held out style benchmarks a classifier's _style robustness_. Holding out a set of class subtypes, training on the remaining subtypes, and computing the accuracy on the held out subtype set benchmarks a classifier's _subtype robustness_. More details are in [this paper][1].\n\n### Content\n\nThe Icons-50.npy file can be opened with\n\n    import numpy as np\n    icons = np.load('./Icons-50.npy').item()\n\nThis dictionary has the keys 'class', with 10000 elements in {0,1,...,49}; 'style', with 10000 elements in {'microsoft', 'apple', ..., 'facebook'}; 'image' with 10000 3x32x32 images representing the icons; 'rendition' , with 10000 strings where each indicates  the icon's version; and 'subtype' which specifies the subtype of a class such as 'whale' or 'shark' for the marine animals class.\n\n### Acknowledgements\n\nImages were scraped from emojipedia and were cleaned, filtered, and clustered by hand. This dataset appears in the research paper [Benchmarking Neural Network Robustness to Common Corruptions and Surface Variations][2]. The data is mirrored at [this github repository][3]. If you find this dataset useful for your work, consider citing\n\n    @article{hendrycks2018robustness,\n      title={Benchmarking Neural Network Robustness to Common Corruptions and Surface Variations},\n      author={Dan Hendrycks and Thomas Dietterich},\n      journal={arXiv preprint arXiv:1807.01697},\n      year={2018}\n    }\n\n\n  [1]: https://arxiv.org/abs/1807.01697\n  [2]: https://arxiv.org/abs/1807.01697\n  [3]: https://github.com/hendrycks/robustness",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "animals",
+    "classification",
+    "deep learning",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

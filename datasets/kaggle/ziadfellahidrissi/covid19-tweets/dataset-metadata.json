@@ -1,0 +1,42 @@
+{
+  "id": "ziadfellahidrissi/covid19-tweets",
+  "id_no": 1859762,
+  "datasetSlugNullable": "covid19-tweets",
+  "ownerUserNullable": "ziadfellahidrissi",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Covid19_tweets",
+  "subtitleNullable": "Covid19 tweets 30k English",
+  "descriptionNullable": "**Data collection**\nThe data is collected using tweepy Python package to access Twitter API.\n\n**Inspiration**\nYou can perform multiple operations on the covid tweets. Here are few possible suggestions:\n\nStudy the subjects of recent tweets about the vaccine made by various producers;\nPerform various NLP tasks on this data source (topic modelling, sentiment analysis);\n",
+  "datasetId": 1859762,
+  "datasetSlug": "covid19-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "ziadfellahidrissi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 949,
+  "totalVotes": 2,
+  "totalDownloads": 111,
+  "title": "Covid19_tweets",
+  "hasTitle": true,
+  "subtitle": "Covid19 tweets 30k English",
+  "hasSubtitle": true,
+  "description": "**Data collection**\nThe data is collected using tweepy Python package to access Twitter API.\n\n**Inspiration**\nYou can perform multiple operations on the covid tweets. Here are few possible suggestions:\n\nStudy the subjects of recent tweets about the vaccine made by various producers;\nPerform various NLP tasks on this data source (topic modelling, sentiment analysis);\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "clustering",
+    "text",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

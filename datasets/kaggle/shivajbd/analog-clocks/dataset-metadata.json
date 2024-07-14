@@ -1,0 +1,43 @@
+{
+  "id": "shivajbd/analog-clocks",
+  "id_no": 465664,
+  "datasetSlugNullable": "analog-clocks",
+  "ownerUserNullable": "shivajbd",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Analog-Clocks",
+  "subtitleNullable": "This dataset contains 50K generated images of Analog Clocks. ",
+  "descriptionNullable": "### Context\n\nI was really interested in this idea, to detect the time from analog clocks. It was very time consuming to download the clock images from the web. So I wrote a python script which randomly generates clocks. Using this script I created 50K clock images with their respective labels (time in the clock).\n\nI would really love to see if someone can train CNNs on this dataset and detect the time. I would do it myself and post about it.\n",
+  "datasetId": 465664,
+  "datasetSlug": "analog-clocks",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivajbd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 14920,
+  "totalVotes": 26,
+  "totalDownloads": 966,
+  "title": "Analog-Clocks",
+  "hasTitle": true,
+  "subtitle": "This dataset contains 50K generated images of Analog Clocks. ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI was really interested in this idea, to detect the time from analog clocks. It was very time consuming to download the clock images from the web. So I wrote a python script which randomly generates clocks. Using this script I created 50K clock images with their respective labels (time in the clock).\n\nI would really love to see if someone can train CNNs on this dataset and detect the time. I would do it myself and post about it.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "deep learning",
+    "cnn",
+    "image",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

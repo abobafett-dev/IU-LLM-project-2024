@@ -1,0 +1,40 @@
+{
+  "id": "balraj98/modelnet10-princeton-3d-object-dataset",
+  "id_no": 943153,
+  "datasetSlugNullable": "modelnet10-princeton-3d-object-dataset",
+  "ownerUserNullable": "balraj98",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "ModelNet10 - Princeton 3D Object Dataset",
+  "subtitleNullable": "Collection of 3D CAD models for Object Classification & Segmentation",
+  "descriptionNullable": "### Goal\n\nThe goal of Princeton ModelNet project is to provide researchers in computer vision, computer graphics, robotics and cognitive science, with a comprehensive clean collection of 3D CAD models for objects. \n\n### Content\n\nModelNet10 dataset is a part of ModelNet40 dataset, containing 4,899 pre-aligned shapes from 10 categories. There are 3,991 (80%) shapes for training and 908 (20%) shapes for testing. The CAD models are in [Object File Format (OFF)](https://segeval.cs.princeton.edu/public/off_format.html). Matlab functions to read and visualize OFF files are provided in [Princeton Vision Toolkit (PVT)](http://3dvision.princeton.edu/code.html).\n\nTo build the core of the dataset, a list of the most common object categories in the world was compiled, using the statistics obtained from the [SUN database](http://sun.cs.princeton.edu/). Once a vocabulary for objects was established, 3D CAD models belonging to each object category was collected using online search engines by querying for each object category term. Then, human workers on Amazon Mechanical Turk were hired to manually decide whether each CAD model belonged to the specified cateogries, using an [in-house designed tool with quality control](http://3dvision.princeton.edu/code.html#TurkCleaner). To obtain a very clean dataset, 10 popular object categories were chosen while manually deleted the models that did not belong to these categories. Furthermore, manual alignment of orientation of CAD models was performed for the 10-class subset.\n\n### Acknowledgements\n\nThis dataset was obtained from Princeton ModelNet's official dataset [homepage](http://modelnet.cs.princeton.edu/#). For more details on the dataset refer the related publication - [3D ShapeNets: A Deep Representation for Volumetric Shapes](http://3dvision.princeton.edu/projects/2014/3DShapeNets/paper.pdf). Work based on the dataset should cite:\n\n```\n@inproceedings{wu20153d,\ntitle={3d shapenets: A deep representation for volumetric shapes},\nauthor={Wu, Zhirong and Song, Shuran and Khosla, Aditya and Yu, Fisher and Zhang, Linguang and Tang, Xiaoou and Xiao, Jianxiong},\nbooktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},\npages={1912--1920},\nyear={2015}\n}\n```\n\n### Copyright\n\nAll CAD models were downloaded from the Internet and the original authors hold the copyright of the CAD models. The labels of the data were obtained by authors via Amazon Mechanical Turk service and it is provided freely. This dataset is provided for the convenience of academic research only.\n\n**Banner Image Credits** - From [AnTao97's PointCloudDatasets repo](https://github.com/AnTao97/PointCloudDatasets) [rendered with [Mitsuba2](https://www.mitsuba-renderer.org/)]",
+  "datasetId": 943153,
+  "datasetSlug": "modelnet10-princeton-3d-object-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "balraj98",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 18551,
+  "totalVotes": 28,
+  "totalDownloads": 1741,
+  "title": "ModelNet10 - Princeton 3D Object Dataset",
+  "hasTitle": true,
+  "subtitle": "Collection of 3D CAD models for Object Classification & Segmentation",
+  "hasSubtitle": true,
+  "description": "### Goal\n\nThe goal of Princeton ModelNet project is to provide researchers in computer vision, computer graphics, robotics and cognitive science, with a comprehensive clean collection of 3D CAD models for objects. \n\n### Content\n\nModelNet10 dataset is a part of ModelNet40 dataset, containing 4,899 pre-aligned shapes from 10 categories. There are 3,991 (80%) shapes for training and 908 (20%) shapes for testing. The CAD models are in [Object File Format (OFF)](https://segeval.cs.princeton.edu/public/off_format.html). Matlab functions to read and visualize OFF files are provided in [Princeton Vision Toolkit (PVT)](http://3dvision.princeton.edu/code.html).\n\nTo build the core of the dataset, a list of the most common object categories in the world was compiled, using the statistics obtained from the [SUN database](http://sun.cs.princeton.edu/). Once a vocabulary for objects was established, 3D CAD models belonging to each object category was collected using online search engines by querying for each object category term. Then, human workers on Amazon Mechanical Turk were hired to manually decide whether each CAD model belonged to the specified cateogries, using an [in-house designed tool with quality control](http://3dvision.princeton.edu/code.html#TurkCleaner). To obtain a very clean dataset, 10 popular object categories were chosen while manually deleted the models that did not belong to these categories. Furthermore, manual alignment of orientation of CAD models was performed for the 10-class subset.\n\n### Acknowledgements\n\nThis dataset was obtained from Princeton ModelNet's official dataset [homepage](http://modelnet.cs.princeton.edu/#). For more details on the dataset refer the related publication - [3D ShapeNets: A Deep Representation for Volumetric Shapes](http://3dvision.princeton.edu/projects/2014/3DShapeNets/paper.pdf). Work based on the dataset should cite:\n\n```\n@inproceedings{wu20153d,\ntitle={3d shapenets: A deep representation for volumetric shapes},\nauthor={Wu, Zhirong and Song, Shuran and Khosla, Aditya and Yu, Fisher and Zhang, Linguang and Tang, Xiaoou and Xiao, Jianxiong},\nbooktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},\npages={1912--1920},\nyear={2015}\n}\n```\n\n### Copyright\n\nAll CAD models were downloaded from the Internet and the original authors hold the copyright of the CAD models. The labels of the data were obtained by authors via Amazon Mechanical Turk service and it is provided freely. This dataset is provided for the convenience of academic research only.\n\n**Banner Image Credits** - From [AnTao97's PointCloudDatasets repo](https://github.com/AnTao97/PointCloudDatasets) [rendered with [Mitsuba2](https://www.mitsuba-renderer.org/)]",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "science and technology"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

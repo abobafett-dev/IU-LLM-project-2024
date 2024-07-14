@@ -1,0 +1,41 @@
+{
+  "id": "apoorvwatsky/miraclvc1",
+  "id_no": 126954,
+  "datasetSlugNullable": "miraclvc1",
+  "ownerUserNullable": "apoorvwatsky",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Lip Reading Image Dataset",
+  "subtitleNullable": "MIRACL-VC1 is a lip-reading dataset including both depth and color images",
+  "descriptionNullable": "### Context\n\nMIRACL-VC1 is a lip-reading dataset including both depth and color images. It can be used for diverse research fields like visual speach recognition, face detection, and biometrics. \n\n### Content\n\nFifteen speakers (five men and ten women) positioned in the frustum of a MS Kinect sensor and utter ten times a set of ten words and ten phrases (see the table below). Each instance of the dataset consists of a synchronized sequence of color and depth images (both of 640x480 pixels).  The MIRACL-VC1 dataset contains a total number of 3000 instances.\n\n\n### Acknowledgements\n\nHere's the [source][1].\n\n### Inspiration\n\nI'm currently working on a project on visual lip-reading using 3D-CNNs and Bi-GRUs based on [this][2] paper. Pre-processing this dataset before feeding it to the CNNs is one of the biggest challenge which I'm actually working on. \n\nThis can be done by utilising a python facial recognition library, dlib, in conjunction with OpenCV and a pre-trained model to isolate the points of facial structure in each image and crop it to only include the lip of the speaker, excluding any background that could interfere with the training of the model. \n\nEach model receives a single image sequence as input \u2013 with anywhere from 4 to 27 images in the sequence \u2013 and produces a single word classification label as output. \n\nIf you know some efficient ways to pre-process this dataset, I'd be happy to see it. \n\n\n  [1]: https://sites.google.com/site/achrafbenhamadou/-datasets/miracl-vc1\n  [2]: https://arxiv.org/pdf/1611.01599.pdf",
+  "datasetId": 126954,
+  "datasetSlug": "miraclvc1",
+  "hasDatasetSlug": true,
+  "ownerUser": "apoorvwatsky",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 52905,
+  "totalVotes": 121,
+  "totalDownloads": 3244,
+  "title": "Lip Reading Image Dataset",
+  "hasTitle": true,
+  "subtitle": "MIRACL-VC1 is a lip-reading dataset including both depth and color images",
+  "hasSubtitle": true,
+  "description": "### Context\n\nMIRACL-VC1 is a lip-reading dataset including both depth and color images. It can be used for diverse research fields like visual speach recognition, face detection, and biometrics. \n\n### Content\n\nFifteen speakers (five men and ten women) positioned in the frustum of a MS Kinect sensor and utter ten times a set of ten words and ten phrases (see the table below). Each instance of the dataset consists of a synchronized sequence of color and depth images (both of 640x480 pixels).  The MIRACL-VC1 dataset contains a total number of 3000 instances.\n\n\n### Acknowledgements\n\nHere's the [source][1].\n\n### Inspiration\n\nI'm currently working on a project on visual lip-reading using 3D-CNNs and Bi-GRUs based on [this][2] paper. Pre-processing this dataset before feeding it to the CNNs is one of the biggest challenge which I'm actually working on. \n\nThis can be done by utilising a python facial recognition library, dlib, in conjunction with OpenCV and a pre-trained model to isolate the points of facial structure in each image and crop it to only include the lip of the speaker, excluding any background that could interfere with the training of the model. \n\nEach model receives a single image sequence as input \u2013 with anywhere from 4 to 27 images in the sequence \u2013 and produces a single word classification label as output. \n\nIf you know some efficient ways to pre-process this dataset, I'd be happy to see it. \n\n\n  [1]: https://sites.google.com/site/achrafbenhamadou/-datasets/miracl-vc1\n  [2]: https://arxiv.org/pdf/1611.01599.pdf",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data visualization",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

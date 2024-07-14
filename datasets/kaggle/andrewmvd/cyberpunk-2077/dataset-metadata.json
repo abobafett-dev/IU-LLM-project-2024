@@ -1,0 +1,49 @@
+{
+  "id": "andrewmvd/cyberpunk-2077",
+  "id_no": 676086,
+  "datasetSlugNullable": "cyberpunk-2077",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cyberpunk 2077 Youtube Reception",
+  "subtitleNullable": "A breathtaking dataset: 230k comments and video statistics",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F793761%2Fcc0e6bba28395eebd4a18a5e32308768%2Fezgif.com-resize%20(1).gif?generation=1590546139348444&alt=media)\n\n\n# About this Dataset\n&gt; ### What is Cyberpunk 2077?\n**Cyberpunk 2077** is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality. The game is set to release on Nov 19th, 2020, after more than 7 years in development.\n\n&gt; ### Content\nThis dataset contains **236792 comments and comment replies**, as well as **video statistics for 19 videos** published on the game's official youtube channel and **google trends data** for their period of activity as well.\n\n&gt; ### Purpose\nBy mining the comments, we can extract customer sentiment, engagement and expectations for the game. This can allow the game developers better understand what their consumers love and hate, as well as adapt and build upon such expectations and ideas.\nIt is also possible to use this as means of forecasting sales for the game by region.\n\n\n# How to use this Dataset\n&gt; - Explore the hype and expectations about the game.\n- For more datasets, click [here](https://www.kaggle.com/andrewmvd/datasets).\n\n\n\n# References and Acknowledgements\n&gt; If you use this dataset in your research, please credit the authors\n\n&gt; ### BibTeX\n@article{\ntitle={Cyberpunk 2077 Youtube Reception},\nauthor={Andrew Dadario},\nyear={2020},\nDOI={10.1016}\n}\n\n&gt; ### License\nOriginal Content, CC BY NC SA 4.0\n\n&gt; ### Relevant links\n- [Official Website](https://www.cyberpunk.net/)\n- [Youtube Channel](https://www.youtube.com/user/CyberPunkGame)\n\n&gt; ### Splash Banner\n[Wallpaper](https://cdn-l-cyberpunk.cdprojektred.com/wallpapers/2560x1600/CP77-KV-en.jpg) by [CD Projekt RED](https://www.cyberpunk.net/)",
+  "datasetId": 676086,
+  "datasetSlug": "cyberpunk-2077",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13626,
+  "totalVotes": 24,
+  "totalDownloads": 268,
+  "title": "Cyberpunk 2077 Youtube Reception",
+  "hasTitle": true,
+  "subtitle": "A breathtaking dataset: 230k comments and video statistics",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F793761%2Fcc0e6bba28395eebd4a18a5e32308768%2Fezgif.com-resize%20(1).gif?generation=1590546139348444&alt=media)\n\n\n# About this Dataset\n&gt; ### What is Cyberpunk 2077?\n**Cyberpunk 2077** is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality. The game is set to release on Nov 19th, 2020, after more than 7 years in development.\n\n&gt; ### Content\nThis dataset contains **236792 comments and comment replies**, as well as **video statistics for 19 videos** published on the game's official youtube channel and **google trends data** for their period of activity as well.\n\n&gt; ### Purpose\nBy mining the comments, we can extract customer sentiment, engagement and expectations for the game. This can allow the game developers better understand what their consumers love and hate, as well as adapt and build upon such expectations and ideas.\nIt is also possible to use this as means of forecasting sales for the game by region.\n\n\n# How to use this Dataset\n&gt; - Explore the hype and expectations about the game.\n- For more datasets, click [here](https://www.kaggle.com/andrewmvd/datasets).\n\n\n\n# References and Acknowledgements\n&gt; If you use this dataset in your research, please credit the authors\n\n&gt; ### BibTeX\n@article{\ntitle={Cyberpunk 2077 Youtube Reception},\nauthor={Andrew Dadario},\nyear={2020},\nDOI={10.1016}\n}\n\n&gt; ### License\nOriginal Content, CC BY NC SA 4.0\n\n&gt; ### Relevant links\n- [Official Website](https://www.cyberpunk.net/)\n- [Youtube Channel](https://www.youtube.com/user/CyberPunkGame)\n\n&gt; ### Splash Banner\n[Wallpaper](https://cdn-l-cyberpunk.cdprojektred.com/wallpapers/2560x1600/CP77-KV-en.jpg) by [CD Projekt RED](https://www.cyberpunk.net/)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "arts and entertainment",
+    "games",
+    "social science",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "llck72",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

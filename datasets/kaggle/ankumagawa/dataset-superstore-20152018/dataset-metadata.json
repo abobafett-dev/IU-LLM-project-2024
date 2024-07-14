@@ -1,0 +1,43 @@
+{
+  "id": "ankumagawa/dataset-superstore-20152018",
+  "id_no": 2072224,
+  "datasetSlugNullable": "dataset-superstore-20152018",
+  "ownerUserNullable": "ankumagawa",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Dataset: Superstore (2015-2018)",
+  "subtitleNullable": "",
+  "descriptionNullable": "# Context\nRetail dataset of a global superstore for 4 years.\n\n**In this Dataset we would like to use time series forecast to predict the superstore's sale and profit **\nTime series analysis deals with time series based data to extract patterns for predictions and other characteristics of the data.\nIt uses a model for forecasting future values in a small time frame based on previous observations. \nIt is widely used for non-stationary data, such as economic data, weather data, stock prices, and retail sales forecasting.\n\n# **Dataset**\nRow ID : ID \nOrder ID :Order ID of each Customer.\nOrder Date :  The date customer ordered the product\nShip Date : The date product is shipped \nShip Mode: Shipping Mode of the product:  First class,\n                                                                         Same day,\n                                                                         Second class,\n                                                                         Standard class\nCustomer ID : ID to identify each Customer.\nCustomer Name :Name of the Customer.\nSegment : Customer segmentation: Customer,\n                                                            Corporate,\n                                                            Home-office\nCountry : United State:Country of residence of the Customer.\nCity : City of  the Customer.\nState :  State  of the Customer.\nPostal Code: Postal Code of Customer.\nRegion : Region of residence: Central\n                                                  East\n                                                  South\n                                                  West\nProduct ID :ID of the Product.\nCategory : Category of the product ordered: Furniture\n                                                                           Office Supplies\n                                                                           Technology\nSub-Category :Sub-Category of the product ordered\nProduct Name : Name of the Product\nSales : Sales of the Product\nQuantity: Quantity of the Product\nDiscount : Percentage of Discount \nProfit : Profit/Loss of the Product\n",
+  "datasetId": 2072224,
+  "datasetSlug": "dataset-superstore-20152018",
+  "hasDatasetSlug": true,
+  "ownerUser": "ankumagawa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 5847,
+  "totalVotes": 9,
+  "totalDownloads": 1382,
+  "title": "Dataset: Superstore (2015-2018)",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "# Context\nRetail dataset of a global superstore for 4 years.\n\n**In this Dataset we would like to use time series forecast to predict the superstore's sale and profit **\nTime series analysis deals with time series based data to extract patterns for predictions and other characteristics of the data.\nIt uses a model for forecasting future values in a small time frame based on previous observations. \nIt is widely used for non-stationary data, such as economic data, weather data, stock prices, and retail sales forecasting.\n\n# **Dataset**\nRow ID : ID \nOrder ID :Order ID of each Customer.\nOrder Date :  The date customer ordered the product\nShip Date : The date product is shipped \nShip Mode: Shipping Mode of the product:  First class,\n                                                                         Same day,\n                                                                         Second class,\n                                                                         Standard class\nCustomer ID : ID to identify each Customer.\nCustomer Name :Name of the Customer.\nSegment : Customer segmentation: Customer,\n                                                            Corporate,\n                                                            Home-office\nCountry : United State:Country of residence of the Customer.\nCity : City of  the Customer.\nState :  State  of the Customer.\nPostal Code: Postal Code of Customer.\nRegion : Region of residence: Central\n                                                  East\n                                                  South\n                                                  West\nProduct ID :ID of the Product.\nCategory : Category of the product ordered: Furniture\n                                                                           Office Supplies\n                                                                           Technology\nSub-Category :Sub-Category of the product ordered\nProduct Name : Name of the Product\nSales : Sales of the Product\nQuantity: Quantity of the Product\nDiscount : Percentage of Discount \nProfit : Profit/Loss of the Product\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "data visualization",
+    "time series analysis",
+    "retail and shopping",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

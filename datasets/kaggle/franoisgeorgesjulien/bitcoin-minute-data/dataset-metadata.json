@@ -1,0 +1,41 @@
+{
+  "id": "franoisgeorgesjulien/bitcoin-minute-data",
+  "id_no": 3901905,
+  "datasetSlugNullable": "bitcoin-minute-data",
+  "ownerUserNullable": "franoisgeorgesjulien",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "BTC Minute Market Data 2 Million CANDLES",
+  "subtitleNullable": "BTC Minute Market Data Paradize | 2M CANDLES",
+  "descriptionNullable": "### Data Pre-Processing Notebook:**\n- **Notebook**: [Pre-Prep & Technical Indicators Bitcoin Market Data ](https://www.kaggle.com/code/franoisgeorgesjulien/technical-indicators-bitcoin-market-data)\n\n<br>\n\n### Main Datasets: \n- **power_data.csv**: ready to load, already pre-processed with all features, technical indicators.\n- **Shape**: 1,997,210 rows, 27 columns\n- **Misc**: 774MB\n- **Time Period**: From 2020-01-01 00:01:00 to 2023-10-22 23:59:00\n- **Misc**: If you want raw data files, please see version 3\n\n<br>\n\n### Description:\n\nThis dataset provides a view of Bitcoin (BTC) market data by the minute, spanning from 2020 to the current date of October 24, 2023. It provided a wealth of valuable information (pure gold) for those interested in analyzing and understanding the minute-by-minute dynamics of the BTC market. Suitable for Algorithmic Trading, Neural Network, Reinforcement Learning, Machine Learning, Statistical Analysis and any kind of predictive analysis.\n\n<br>\n\n### Key Features:\n- **OHLCV Data**: The dataset includes Open, High, Low, Close, and Volume (OHLCV) information, which are essential components for charting and analyzing price movements in the BTC market.\n- **Trade Count**: The number of trades that occurred within each minute, offering insights into trading activity and market participation.\n- **Date Data**: day (object) & hour (int) features \n\n<br> \n\n### Technical Indicators:\n- **Multiple EMAs (Exponential Moving Averages):** These moving averages provide a dynamic view of the market by giving more weight to recent data points, making them particularly responsive to current price movements.\n- **WMA (Weighted Moving Average):** A 14-period WMA offers a moving average that assigns varying weights to each data point in the series, thus providing a different perspective on price trends.\n- **MACD (Moving Average Convergence Divergence):** MACD, Signal Line, and Histogram are included, offering a comprehensive view of this trend-following momentum indicator, which highlights the relationship between two moving averages.\n- **ATR (Average True Range):** ATR measures market volatility by calculating the average range between high and low prices, making it a valuable tool for assessing price volatility.\n- **HMA (Hull Moving Average):** This weighted moving average is designed to reduce lag and increase responsiveness to price changes, allowing for more timely analysis.\n- **KAMA (Kaufman's Adaptive Moving Average):** KAMA is an adaptive moving average that adjusts its speed based on market conditions, providing a more dynamic view of price trends.\n- **CMO (Chande Momentum Oscillator):** The Chande Momentum Oscillator measures price changes relative to the total range of prices over a specified period, facilitating insights into market momentum.\n- **Z-Score**: The Z-Score measures how far a data point is from the mean in terms of standard deviations, helping to identify extreme deviations from the norm.\n- **QStick**: QStick measures momentum based on the difference between the opening and closing prices, allowing for a deeper understanding of price movements within each minute.",
+  "datasetId": 3901905,
+  "datasetSlug": "bitcoin-minute-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "franoisgeorgesjulien",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2187,
+  "totalVotes": 31,
+  "totalDownloads": 379,
+  "title": "BTC Minute Market Data 2 Million CANDLES",
+  "hasTitle": true,
+  "subtitle": "BTC Minute Market Data Paradize | 2M CANDLES",
+  "hasSubtitle": true,
+  "description": "### Data Pre-Processing Notebook:**\n- **Notebook**: [Pre-Prep & Technical Indicators Bitcoin Market Data ](https://www.kaggle.com/code/franoisgeorgesjulien/technical-indicators-bitcoin-market-data)\n\n<br>\n\n### Main Datasets: \n- **power_data.csv**: ready to load, already pre-processed with all features, technical indicators.\n- **Shape**: 1,997,210 rows, 27 columns\n- **Misc**: 774MB\n- **Time Period**: From 2020-01-01 00:01:00 to 2023-10-22 23:59:00\n- **Misc**: If you want raw data files, please see version 3\n\n<br>\n\n### Description:\n\nThis dataset provides a view of Bitcoin (BTC) market data by the minute, spanning from 2020 to the current date of October 24, 2023. It provided a wealth of valuable information (pure gold) for those interested in analyzing and understanding the minute-by-minute dynamics of the BTC market. Suitable for Algorithmic Trading, Neural Network, Reinforcement Learning, Machine Learning, Statistical Analysis and any kind of predictive analysis.\n\n<br>\n\n### Key Features:\n- **OHLCV Data**: The dataset includes Open, High, Low, Close, and Volume (OHLCV) information, which are essential components for charting and analyzing price movements in the BTC market.\n- **Trade Count**: The number of trades that occurred within each minute, offering insights into trading activity and market participation.\n- **Date Data**: day (object) & hour (int) features \n\n<br> \n\n### Technical Indicators:\n- **Multiple EMAs (Exponential Moving Averages):** These moving averages provide a dynamic view of the market by giving more weight to recent data points, making them particularly responsive to current price movements.\n- **WMA (Weighted Moving Average):** A 14-period WMA offers a moving average that assigns varying weights to each data point in the series, thus providing a different perspective on price trends.\n- **MACD (Moving Average Convergence Divergence):** MACD, Signal Line, and Histogram are included, offering a comprehensive view of this trend-following momentum indicator, which highlights the relationship between two moving averages.\n- **ATR (Average True Range):** ATR measures market volatility by calculating the average range between high and low prices, making it a valuable tool for assessing price volatility.\n- **HMA (Hull Moving Average):** This weighted moving average is designed to reduce lag and increase responsiveness to price changes, allowing for more timely analysis.\n- **KAMA (Kaufman's Adaptive Moving Average):** KAMA is an adaptive moving average that adjusts its speed based on market conditions, providing a more dynamic view of price trends.\n- **CMO (Chande Momentum Oscillator):** The Chande Momentum Oscillator measures price changes relative to the total range of prices over a specified period, facilitating insights into market momentum.\n- **Z-Score**: The Z-Score measures how far a data point is from the mean in terms of standard deviations, helping to identify extreme deviations from the norm.\n- **QStick**: QStick measures momentum based on the difference between the opening and closing prices, allowing for a deeper understanding of price movements within each minute.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "economics",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

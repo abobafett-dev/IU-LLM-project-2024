@@ -1,0 +1,43 @@
+{
+  "id": "gauravsahani/indian-currency-notes-classifier",
+  "id_no": 757568,
+  "datasetSlugNullable": "indian-currency-notes-classifier",
+  "ownerUserNullable": "gauravsahani",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Indian Currency Notes Classifier",
+  "subtitleNullable": "The Dataset looks forward, to Classify the Distinct Indian Currency Notes.",
+  "descriptionNullable": "This Dataset contains 195 images of 7 categories of Indian Currency Notes, this data is collected from Google images, Shutter-stock images and Data flicr respectively, you can Play with this Dataset, to recognize type of Indian Note, from the Photo, or real Time Applications.\n\nThis Dataset looks forward, as a Image Classification Data, which contains 7 Distinct types of Indian Currency Notes, the images are not reduced to any single size, they may have different proportions.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4793224%2F9cfc752286ce58ad7277d0c807087a19%2Fstock-vector-rupee-banknotes-set-flat-style-highly-detailed-vector-illustration-isolated-on-white-background-1208483845.jpg?generation=1593957005761091&alt=media)\n\n\nThese Distinct Types of Indian Currency can be Classified as:\n1)Ten Rupee Notes\n2)Twenty Rupee Notes\n3)Fifty Rupee Notes\n4)Hundred Rupee Notes\n5)Two Hundred Rupee Notes\n6)Five Hundred Rupee Notes, and,\n7)Two Thousand Rupee Notes.\n\nDo Download and Play with this Dataset, If you Like this dataset, Please do UpVote!\nThank-you.",
+  "datasetId": 757568,
+  "datasetSlug": "indian-currency-notes-classifier",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravsahani",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 32100,
+  "totalVotes": 61,
+  "totalDownloads": 3571,
+  "title": "Indian Currency Notes Classifier",
+  "hasTitle": true,
+  "subtitle": "The Dataset looks forward, to Classify the Distinct Indian Currency Notes.",
+  "hasSubtitle": true,
+  "description": "This Dataset contains 195 images of 7 categories of Indian Currency Notes, this data is collected from Google images, Shutter-stock images and Data flicr respectively, you can Play with this Dataset, to recognize type of Indian Note, from the Photo, or real Time Applications.\n\nThis Dataset looks forward, as a Image Classification Data, which contains 7 Distinct types of Indian Currency Notes, the images are not reduced to any single size, they may have different proportions.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4793224%2F9cfc752286ce58ad7277d0c807087a19%2Fstock-vector-rupee-banknotes-set-flat-style-highly-detailed-vector-illustration-isolated-on-white-background-1208483845.jpg?generation=1593957005761091&alt=media)\n\n\nThese Distinct Types of Indian Currency can be Classified as:\n1)Ten Rupee Notes\n2)Twenty Rupee Notes\n3)Fifty Rupee Notes\n4)Hundred Rupee Notes\n5)Two Hundred Rupee Notes\n6)Five Hundred Rupee Notes, and,\n7)Two Thousand Rupee Notes.\n\nDo Download and Play with this Dataset, If you Like this dataset, Please do UpVote!\nThank-you.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "classification",
+    "deep learning",
+    "multiclass classification",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

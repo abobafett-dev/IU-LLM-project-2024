@@ -1,0 +1,43 @@
+{
+  "id": "kuberiitb/indian-news-articles",
+  "id_no": 867408,
+  "datasetSlugNullable": "indian-news-articles",
+  "ownerUserNullable": "kuberiitb",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Indian News Articles",
+  "subtitleNullable": "#news #text #india #media",
+  "descriptionNullable": "### Context\n\nIt's always interesting to analyse what's going on in the news but there's no good data avaialable in indian context on kaggle, so I created one.\n\n\n### Content\n\nApart from the main content of the articles, each row contains author, link, publish date etc.\n\n\n### Acknowledgements\n\nGrateful to the creator of python, beautifulsoup library and firstpost.com.\n\n### Inspiration\n\nData is not always available to us, sometimes we need to create one, this is my attempt to do that.",
+  "datasetId": 867408,
+  "datasetSlug": "indian-news-articles",
+  "hasDatasetSlug": true,
+  "ownerUser": "kuberiitb",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 4140,
+  "totalVotes": 22,
+  "totalDownloads": 286,
+  "title": "Indian News Articles",
+  "hasTitle": true,
+  "subtitle": "#news #text #india #media",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIt's always interesting to analyse what's going on in the news but there's no good data avaialable in indian context on kaggle, so I created one.\n\n\n### Content\n\nApart from the main content of the articles, each row contains author, link, publish date etc.\n\n\n### Acknowledgements\n\nGrateful to the creator of python, beautifulsoup library and firstpost.com.\n\n### Inspiration\n\nData is not always available to us, sometimes we need to create one, this is my attempt to do that.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "india",
+    "internet",
+    "news",
+    "email and messaging"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

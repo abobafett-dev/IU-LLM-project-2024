@@ -1,0 +1,43 @@
+{
+  "id": "keshavgoel123/anime-dataset",
+  "id_no": 2411464,
+  "datasetSlugNullable": "anime-dataset",
+  "ownerUserNullable": "keshavgoel123",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Anime Dataset",
+  "subtitleNullable": " This dataset contains webscraped anime data with comments srored in files",
+  "descriptionNullable": "Context\nAnime collected from Animixplay.\n\nContent\nIncludes all information about all anime from Animixplay.\nData is scrapped using selenium and python.\nAlso contains comments and their parent-child relationships.\nFormat is json files.\nFolder are arranged by names.",
+  "datasetId": 2411464,
+  "datasetSlug": "anime-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "keshavgoel123",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 1183,
+  "totalVotes": 9,
+  "totalDownloads": 39,
+  "title": "Anime Dataset",
+  "hasTitle": true,
+  "subtitle": " This dataset contains webscraped anime data with comments srored in files",
+  "hasSubtitle": true,
+  "description": "Context\nAnime collected from Animixplay.\n\nContent\nIncludes all information about all anime from Animixplay.\nData is scrapped using selenium and python.\nAlso contains comments and their parent-child relationships.\nFormat is json files.\nFolder are arranged by names.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "tabular",
+    "image",
+    "japan",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

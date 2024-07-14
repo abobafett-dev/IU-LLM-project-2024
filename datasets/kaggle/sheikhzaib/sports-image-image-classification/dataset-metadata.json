@@ -1,0 +1,44 @@
+{
+  "id": "sheikhzaib/sports-image-image-classification",
+  "id_no": 5053802,
+  "datasetSlugNullable": "sports-image-image-classification",
+  "ownerUserNullable": "sheikhzaib",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Sports Image - Image Classification",
+  "subtitleNullable": "Multisport Image Dataset: Capturing the Essence of 22 Sports",
+  "descriptionNullable": "Sports Images Dataset\nDescription:\n\nWelcome to the Sports Images Dataset, a diverse and comprehensive collection of images across 22 different sports. This dataset is ideal for various machine learning tasks, including image classification and model creation. Each sport is organized into its own folder, making it easy to navigate and utilize for training and evaluation purposes.\n\nContents:\n\n22 Folders: Each folder represents a different sport and contains numerous images depicting that sport.\nHigh-Quality Images: The dataset includes a wide range of high-quality images, capturing various aspects and moments of each sport.\nSports Included:\n\nBadminton\nHockey\nWeight Lifting\nWrestling\nVolleyball\nSwimming\nKabaddi\nFormula1\nTennis\nBaseball\nCricket\nTable Tennis\nShooting\nMotoGP\nWWE\nFootball\nGymnastics\nBoxing\nChess\nIce Hockey\nBasketball\nFencing\nUsage:\n\nThis dataset is perfect for:\n\nImage Classification: Train and test your machine learning models to classify different sports.\nModel Creation: Develop and refine models for sports recognition and analysis.\nEducational Purposes: Use this dataset for educational projects and research.\n\n\nFile Structure:\n\nSports Images Dataset/\n\u2502\n\u251c\u2500\u2500 badminton/\n\u2502   \u251c\u2500\u2500 image1.jpg\n\u2502   \u251c\u2500\u2500 image2.jpg\n\u2502   \u2514\u2500\u2500 ...\n\u2502\n\u251c\u2500\u2500 hockey/\n\u2502   \u251c\u2500\u2500 image1.jpg\n\u2502   \u251c\u2500\u2500 image2.jpg\n\u2502   \u2514\u2500\u2500 ...\n\u2502\n\u2514\u2500\u2500 ... (and so on for each sport)\nGetting Started:\n\nDownload the dataset from Kaggle.\nExplore the folders to familiarize yourself with the images and sports.\nUse the images for your machine learning projects, such as creating training and validation sets.",
+  "datasetId": 5053802,
+  "datasetSlug": "sports-image-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "sheikhzaib",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 198,
+  "totalVotes": 0,
+  "totalDownloads": 15,
+  "title": "Sports Image - Image Classification",
+  "hasTitle": true,
+  "subtitle": "Multisport Image Dataset: Capturing the Essence of 22 Sports",
+  "hasSubtitle": true,
+  "description": "Sports Images Dataset\nDescription:\n\nWelcome to the Sports Images Dataset, a diverse and comprehensive collection of images across 22 different sports. This dataset is ideal for various machine learning tasks, including image classification and model creation. Each sport is organized into its own folder, making it easy to navigate and utilize for training and evaluation purposes.\n\nContents:\n\n22 Folders: Each folder represents a different sport and contains numerous images depicting that sport.\nHigh-Quality Images: The dataset includes a wide range of high-quality images, capturing various aspects and moments of each sport.\nSports Included:\n\nBadminton\nHockey\nWeight Lifting\nWrestling\nVolleyball\nSwimming\nKabaddi\nFormula1\nTennis\nBaseball\nCricket\nTable Tennis\nShooting\nMotoGP\nWWE\nFootball\nGymnastics\nBoxing\nChess\nIce Hockey\nBasketball\nFencing\nUsage:\n\nThis dataset is perfect for:\n\nImage Classification: Train and test your machine learning models to classify different sports.\nModel Creation: Develop and refine models for sports recognition and analysis.\nEducational Purposes: Use this dataset for educational projects and research.\n\n\nFile Structure:\n\nSports Images Dataset/\n\u2502\n\u251c\u2500\u2500 badminton/\n\u2502   \u251c\u2500\u2500 image1.jpg\n\u2502   \u251c\u2500\u2500 image2.jpg\n\u2502   \u2514\u2500\u2500 ...\n\u2502\n\u251c\u2500\u2500 hockey/\n\u2502   \u251c\u2500\u2500 image1.jpg\n\u2502   \u251c\u2500\u2500 image2.jpg\n\u2502   \u2514\u2500\u2500 ...\n\u2502\n\u2514\u2500\u2500 ... (and so on for each sport)\nGetting Started:\n\nDownload the dataset from Kaggle.\nExplore the folders to familiarize yourself with the images and sports.\nUse the images for your machine learning projects, such as creating training and validation sets.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "sports",
+    "beginner",
+    "intermediate",
+    "computer vision",
+    "python",
+    "ml ethics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

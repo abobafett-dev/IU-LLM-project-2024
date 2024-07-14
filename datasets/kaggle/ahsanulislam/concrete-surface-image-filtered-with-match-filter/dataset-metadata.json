@@ -1,0 +1,43 @@
+{
+  "id": "ahsanulislam/concrete-surface-image-filtered-with-match-filter",
+  "id_no": 2402151,
+  "datasetSlugNullable": "concrete-surface-image-filtered-with-match-filter",
+  "ownerUserNullable": "ahsanulislam",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Concrete Surface Image Processed with Match Filter",
+  "subtitleNullable": "A data set of concrete surface images which is pre-processed with Match filter.",
+  "descriptionNullable": "This dataset was collected from Kaggle:\nLink : https://www.kaggle.com/datasets/arunrk7/surface-crack-detection\n \n\nEach of the image is processed with match filter and Otsu thresholding method. The main purpose of this work is to enhance the binary classification accuracy and efficiency.\nPositive: Cracked Image\nNegative : Non - Cracked Image \n\n\n# **File Information**: \nThe datasets contains  black and white binary images of various concrete surfaces with and without crack. The image data are divided into two as negative (without crack) and positive (with crack) in separate folder for image classification. Each class has 20000 images with a total of 40000 images with 227 x 227 pixels with single channel. The dataset is generated from 458 high-resolution images (4032x3024 pixel) with the method proposed by Zhang et al (2016). High resolution images found out to have high variance in terms of surface finish and illumination condition. All the image data is preprocessed using MATLAB. The dataset was converted from RGB to Binary image with the help of OTSU thresholding method and Match filter. No data augmentation in terms of random rotation or flipping or tilting is applied.\n\nAcknowledgements\nThis dataset is taken from the website Mendeley Data - Crack Detection, contributed by \u00c7a\u011flar F\u0131rat \u00d6zgenel.\n",
+  "datasetId": 2402151,
+  "datasetSlug": "concrete-surface-image-filtered-with-match-filter",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahsanulislam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2341,
+  "totalVotes": 10,
+  "totalDownloads": 88,
+  "title": "Concrete Surface Image Processed with Match Filter",
+  "hasTitle": true,
+  "subtitle": "A data set of concrete surface images which is pre-processed with Match filter.",
+  "hasSubtitle": true,
+  "description": "This dataset was collected from Kaggle:\nLink : https://www.kaggle.com/datasets/arunrk7/surface-crack-detection\n \n\nEach of the image is processed with match filter and Otsu thresholding method. The main purpose of this work is to enhance the binary classification accuracy and efficiency.\nPositive: Cracked Image\nNegative : Non - Cracked Image \n\n\n# **File Information**: \nThe datasets contains  black and white binary images of various concrete surfaces with and without crack. The image data are divided into two as negative (without crack) and positive (with crack) in separate folder for image classification. Each class has 20000 images with a total of 40000 images with 227 x 227 pixels with single channel. The dataset is generated from 458 high-resolution images (4032x3024 pixel) with the method proposed by Zhang et al (2016). High resolution images found out to have high variance in terms of surface finish and illumination condition. All the image data is preprocessed using MATLAB. The dataset was converted from RGB to Binary image with the help of OTSU thresholding method and Match filter. No data augmentation in terms of random rotation or flipping or tilting is applied.\n\nAcknowledgements\nThis dataset is taken from the website Mendeley Data - Crack Detection, contributed by \u00c7a\u011flar F\u0131rat \u00d6zgenel.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "computer vision",
+    "cnn",
+    "binary classification",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

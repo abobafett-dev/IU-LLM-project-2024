@@ -1,0 +1,40 @@
+{
+  "id": "aaroncbastian/crypto-news-headlines-and-market-prices-by-date",
+  "id_no": 3067647,
+  "datasetSlugNullable": "crypto-news-headlines-and-market-prices-by-date",
+  "ownerUserNullable": "aaroncbastian",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Crypto News Headlines & Market Prices by Date",
+  "subtitleNullable": "Cryptocurrency news headlines and market prices for NLP applications",
+  "descriptionNullable": "This dataset aims to facilitate NLP sentiment analysis by investigating the correlation between news headlines and cryptocurrency prices. Cryptocurrencies were chosen as they have fewer external variables than traditional stocks, allowing for more accurate analysis.\n\nThe dataset was collected by web scraping headlines from the first page of Google News for various cryptocurrencies by date for several years. While headlines for many cryptocurrencies are included, the best results were obtained by limiting models to data from 2021 to the present, when cryptocurrencies became more mainstream.\n\nPricing data was gathered using the unofficial Robinhood API [robin-stocks](https://robin-stocks.readthedocs.io/en/latest/), and the `begins_at` column contains the corresponding date for each market price and headline. Note that the headlines are from that date, so to make predictions, the `articles` column needs to be shifted.",
+  "datasetId": 3067647,
+  "datasetSlug": "crypto-news-headlines-and-market-prices-by-date",
+  "hasDatasetSlug": true,
+  "ownerUser": "aaroncbastian",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 886,
+  "totalVotes": 2,
+  "totalDownloads": 148,
+  "title": "Crypto News Headlines & Market Prices by Date",
+  "hasTitle": true,
+  "subtitle": "Cryptocurrency news headlines and market prices for NLP applications",
+  "hasSubtitle": true,
+  "description": "This dataset aims to facilitate NLP sentiment analysis by investigating the correlation between news headlines and cryptocurrency prices. Cryptocurrencies were chosen as they have fewer external variables than traditional stocks, allowing for more accurate analysis.\n\nThe dataset was collected by web scraping headlines from the first page of Google News for various cryptocurrencies by date for several years. While headlines for many cryptocurrencies are included, the best results were obtained by limiting models to data from 2021 to the present, when cryptocurrencies became more mainstream.\n\nPricing data was gathered using the unofficial Robinhood API [robin-stocks](https://robin-stocks.readthedocs.io/en/latest/), and the `begins_at` column contains the corresponding date for each market price and headline. Note that the headlines are from that date, so to make predictions, the `articles` column needs to be shifted.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "currencies and foreign exchange",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

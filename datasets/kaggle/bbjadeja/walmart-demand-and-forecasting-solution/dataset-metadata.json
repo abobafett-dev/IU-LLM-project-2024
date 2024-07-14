@@ -1,0 +1,40 @@
+{
+  "id": "bbjadeja/walmart-demand-and-forecasting-solution",
+  "id_no": 4793008,
+  "datasetSlugNullable": "walmart-demand-and-forecasting-solution",
+  "ownerUserNullable": "bbjadeja",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Walmart Demand and Forecasting Solution",
+  "subtitleNullable": "Retail store is facing issues in managing inventory to match demand with supply",
+  "descriptionNullable": "#**Problem Statement: **\nThe retail store is facing issues in managing inventory to match demand with supply across multiple outlets in the country.\n#**Project Objective: **\nThe objective is to analyze historical sales data and build a prediction model to forecast sales for the next X number of months/years.\n\n#**Data Description: **\nThe dataset contains the following columns:\n*Store*: Store number\n*Date*: Date of sales\n*Weekly_Sales*: Sales for the week\n*Holiday_Flag*: Binary indicator if the week contains a holiday (1) or not (0)\n*Temperature*: Temperature of the week\n*Fuel_Price*: Fuel price of the week\n*CPI*: Consumer Price Index of the week\n*Unemployment*: Unemployment rate of the week\n\n\n1. Using the above data, find useful insights about the customer purchasing history that can be an added advantage for the online retailer.\n2. Segment the customers based on their purchasing behaviour.",
+  "datasetId": 4793008,
+  "datasetSlug": "walmart-demand-and-forecasting-solution",
+  "hasDatasetSlug": true,
+  "ownerUser": "bbjadeja",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 351,
+  "totalVotes": 3,
+  "totalDownloads": 54,
+  "title": "Walmart Demand and Forecasting Solution",
+  "hasTitle": true,
+  "subtitle": "Retail store is facing issues in managing inventory to match demand with supply",
+  "hasSubtitle": true,
+  "description": "#**Problem Statement: **\nThe retail store is facing issues in managing inventory to match demand with supply across multiple outlets in the country.\n#**Project Objective: **\nThe objective is to analyze historical sales data and build a prediction model to forecast sales for the next X number of months/years.\n\n#**Data Description: **\nThe dataset contains the following columns:\n*Store*: Store number\n*Date*: Date of sales\n*Weekly_Sales*: Sales for the week\n*Holiday_Flag*: Binary indicator if the week contains a holiday (1) or not (0)\n*Temperature*: Temperature of the week\n*Fuel_Price*: Fuel price of the week\n*CPI*: Consumer Price Index of the week\n*Unemployment*: Unemployment rate of the week\n\n\n1. Using the above data, find useful insights about the customer purchasing history that can be an added advantage for the online retailer.\n2. Segment the customers based on their purchasing behaviour.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

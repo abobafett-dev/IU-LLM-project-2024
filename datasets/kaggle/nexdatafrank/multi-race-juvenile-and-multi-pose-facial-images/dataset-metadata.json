@@ -1,0 +1,39 @@
+{
+  "id": "nexdatafrank/multi-race-juvenile-and-multi-pose-facial-images",
+  "id_no": 5166719,
+  "datasetSlugNullable": "multi-race-juvenile-and-multi-pose-facial-images",
+  "ownerUserNullable": "nexdatafrank",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Multi-race Juvenile and Multi-pose Facial Images",
+  "subtitleNullable": "",
+  "descriptionNullable": "# Multi-race Juvenile and Multi-pose Facial Images\n\n## Description\n5,172 People - Multi-race Juvenile and Multi-pose Facial Images. This data includes black people, Caucasian people and brown people. Each subject was collected 10 images. (The 10 images include 10 photos in different lighting, different face poses and different collection environments). This data can be used for face recognition related tasks.\nFor more details, please refer to the link: https://www.nexdata.ai/datasets/1168?source=Kaggle\n\n## Data size\n5,172 people, each person has 10 images collected from 5 shooting angles, the total number of images is 51,720\n## Race distribution\n1,473 black people, 2,185 Caucasian people, 520 brown people and 994 Indians\n## Gender distribution\n2,684 males, 2,488 females\n## Age distribution\n219 people aged 3, 224 people aged 4, 222 people aged 5, 451 people aged 6, 534 people aged 7, 527 people aged 8, 540 people aged 9, 533 people aged 10, 743 people aged 11, 802 people aged 12, 376 people aged 13, and 1 person aged 14\n## Collecting environment\nincluding indoor and outdoor scenes\n## Data diversity\ndifferent face poses and races, different ages, different lighting, different collection environments\n## Device\ncellphone\n## Data format\nthe image data format is .jpg\n## Annotation accuracy\nthe accuracy of labels of face pose, race(country), gender, year and month of birth, collection year are more than 97%\n# Licensing Information\nCommercial License\n",
+  "datasetId": 5166719,
+  "datasetSlug": "multi-race-juvenile-and-multi-pose-facial-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "nexdatafrank",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 7,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Multi-race Juvenile and Multi-pose Facial Images",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "# Multi-race Juvenile and Multi-pose Facial Images\n\n## Description\n5,172 People - Multi-race Juvenile and Multi-pose Facial Images. This data includes black people, Caucasian people and brown people. Each subject was collected 10 images. (The 10 images include 10 photos in different lighting, different face poses and different collection environments). This data can be used for face recognition related tasks.\nFor more details, please refer to the link: https://www.nexdata.ai/datasets/1168?source=Kaggle\n\n## Data size\n5,172 people, each person has 10 images collected from 5 shooting angles, the total number of images is 51,720\n## Race distribution\n1,473 black people, 2,185 Caucasian people, 520 brown people and 994 Indians\n## Gender distribution\n2,684 males, 2,488 females\n## Age distribution\n219 people aged 3, 224 people aged 4, 222 people aged 5, 451 people aged 6, 534 people aged 7, 527 people aged 8, 540 people aged 9, 533 people aged 10, 743 people aged 11, 802 people aged 12, 376 people aged 13, and 1 person aged 14\n## Collecting environment\nincluding indoor and outdoor scenes\n## Data diversity\ndifferent face poses and races, different ages, different lighting, different collection environments\n## Device\ncellphone\n## Data format\nthe image data format is .jpg\n## Annotation accuracy\nthe accuracy of labels of face pose, race(country), gender, year and month of birth, collection year are more than 97%\n# Licensing Information\nCommercial License\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

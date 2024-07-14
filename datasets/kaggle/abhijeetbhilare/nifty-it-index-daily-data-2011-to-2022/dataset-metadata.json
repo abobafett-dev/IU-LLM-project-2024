@@ -1,0 +1,46 @@
+{
+  "id": "abhijeetbhilare/nifty-it-index-daily-data-2011-to-2022",
+  "id_no": 1913429,
+  "datasetSlugNullable": "nifty-it-index-daily-data-2011-to-2022",
+  "ownerUserNullable": "abhijeetbhilare",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Nifty IT Index daily data 2011 to 2022",
+  "subtitleNullable": "India's Stock exchange Nifty IT sector latest data",
+  "descriptionNullable": "### Context\n\nIT is one of the biggest revenue making industry in India.\nAround 8% of India's GDP is contributed by IT sector.\nThis dataset shows how Top 10 IT companies of India are performing on daily basis.\n\n\n### Content\n\nDataset contains Daily performance of Top 10 IT companies of India listed on Nifty stock Exchange.\nBelow are the brief In-sites about each column.\n1. Date - Date of trading\n2. Open - At what price trading started\n3. High - Day's high traded price\n4. Low - Day's low traded price\n5. Close - At what price trading ended\n6. Shares Traded - Volume of shares traded\n7. Turnover - Turnover in Rupees (Cr.)\n\n### Acknowledgements\n\nThis dataset is taken from NSE site\n\n\n### Inspiration\n\nLets analyze Nifty IT sector and forcast how it will perform in future",
+  "datasetId": 1913429,
+  "datasetSlug": "nifty-it-index-daily-data-2011-to-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "abhijeetbhilare",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1164,
+  "totalVotes": 12,
+  "totalDownloads": 164,
+  "title": "Nifty IT Index daily data 2011 to 2022",
+  "hasTitle": true,
+  "subtitle": "India's Stock exchange Nifty IT sector latest data",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIT is one of the biggest revenue making industry in India.\nAround 8% of India's GDP is contributed by IT sector.\nThis dataset shows how Top 10 IT companies of India are performing on daily basis.\n\n\n### Content\n\nDataset contains Daily performance of Top 10 IT companies of India listed on Nifty stock Exchange.\nBelow are the brief In-sites about each column.\n1. Date - Date of trading\n2. Open - At what price trading started\n3. High - Day's high traded price\n4. Low - Day's low traded price\n5. Close - At what price trading ended\n6. Shares Traded - Volume of shares traded\n7. Turnover - Turnover in Rupees (Cr.)\n\n### Acknowledgements\n\nThis dataset is taken from NSE site\n\n\n### Inspiration\n\nLets analyze Nifty IT sector and forcast how it will perform in future",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "computer science",
+    "programming",
+    "beginner",
+    "time series analysis",
+    "investing",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

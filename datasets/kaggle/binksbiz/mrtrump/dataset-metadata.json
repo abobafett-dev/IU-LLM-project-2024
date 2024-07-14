@@ -1,0 +1,42 @@
+{
+  "id": "binksbiz/mrtrump",
+  "id_no": 1930,
+  "datasetSlugNullable": "mrtrump",
+  "ownerUserNullable": "binksbiz",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Mr Donald Trump Speeches",
+  "subtitleNullable": "Psychological profile of Donald Trump based on his spoken language",
+  "descriptionNullable": "**Context:**\n\nYoutube has introduced automatic generation of subtitles based on speech recognition of uploaded video. This dataset provides collection of subtitles Donald Trump's uploaded speeches. It serves as database for an introduction to algorithmic analysis of spoken language.\n\n**Content:**\n\nMr Donald Trump speeches dataset consists of 836 subtitles (sets of words) retrieved from Youtube playlists:\n\"Donald Trump Speeches & Events\",\n\"DONALD TRUMP SPEECHES & PRESS CONFERENCE\",\n\"President Donald Trump Weekly Address 2017\",\n\"President Donald Trump's First 100 Days | NBC News\",\n\"Donald Trump Rally Speech Events Press Conference Rallies Playlist\".\n\nThis dataset consists of a single CSV file MrTrumpSpeeches.csv. The columns are: 'id', 'playlist', 'upload_date', 'title', 'view_count', 'average_rating', 'like_count', 'dislike_count', 'subtitles', which are delimited with tilde character '~'.\n\nText data in columns 'subtitles' is not sentence based, there are not commas or dots. It is only stream of words being translated from speech into text by GoogleVoice (more here https://googleblog.blogspot.com.au/2009/11/automatic-captions-in-youtube.html).\n\n**Acknowledgements:**\n\nThe data was downloaded using youtube-dl package. \n\n**Inspiration:**\n\nI'm interested in psychological profiles of people speaking based on language used.\n(For example see https://medium.com/@TSchnoebelen/trump-does-not-talk-like-a-woman-breaking-news-gender-continues-to-be-complicated-and-confusing-4c0d28b41d7)",
+  "datasetId": 1930,
+  "datasetSlug": "mrtrump",
+  "hasDatasetSlug": true,
+  "ownerUser": "binksbiz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 20057,
+  "totalVotes": 31,
+  "totalDownloads": 1630,
+  "title": "Mr Donald Trump Speeches",
+  "hasTitle": true,
+  "subtitle": "Psychological profile of Donald Trump based on his spoken language",
+  "hasSubtitle": true,
+  "description": "**Context:**\n\nYoutube has introduced automatic generation of subtitles based on speech recognition of uploaded video. This dataset provides collection of subtitles Donald Trump's uploaded speeches. It serves as database for an introduction to algorithmic analysis of spoken language.\n\n**Content:**\n\nMr Donald Trump speeches dataset consists of 836 subtitles (sets of words) retrieved from Youtube playlists:\n\"Donald Trump Speeches & Events\",\n\"DONALD TRUMP SPEECHES & PRESS CONFERENCE\",\n\"President Donald Trump Weekly Address 2017\",\n\"President Donald Trump's First 100 Days | NBC News\",\n\"Donald Trump Rally Speech Events Press Conference Rallies Playlist\".\n\nThis dataset consists of a single CSV file MrTrumpSpeeches.csv. The columns are: 'id', 'playlist', 'upload_date', 'title', 'view_count', 'average_rating', 'like_count', 'dislike_count', 'subtitles', which are delimited with tilde character '~'.\n\nText data in columns 'subtitles' is not sentence based, there are not commas or dots. It is only stream of words being translated from speech into text by GoogleVoice (more here https://googleblog.blogspot.com.au/2009/11/automatic-captions-in-youtube.html).\n\n**Acknowledgements:**\n\nThe data was downloaded using youtube-dl package. \n\n**Inspiration:**\n\nI'm interested in psychological profiles of people speaking based on language used.\n(For example see https://medium.com/@TSchnoebelen/trump-does-not-talk-like-a-woman-breaking-news-gender-continues-to-be-complicated-and-confusing-4c0d28b41d7)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "politics",
+    "linguistics",
+    "psychology"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

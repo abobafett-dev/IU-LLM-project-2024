@@ -1,0 +1,43 @@
+{
+  "id": "rogeriovaz/villains-image-classification",
+  "id_no": 2237887,
+  "datasetSlugNullable": "villains-image-classification",
+  "ownerUserNullable": "rogeriovaz",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Villains - Image Classification",
+  "subtitleNullable": "Villains Image Dataset for Classification",
+  "descriptionNullable": "5 Villains classes:\n\n- Darth Vader\n- Green Goblin\n- Joker\n- Thanos\n- Venom\n\n20 images sample each class.\n\nDifferent movies, comics and arts to improve classification generalization performance.\n\nData was collected from Google images search and labeled. ",
+  "datasetId": 2237887,
+  "datasetSlug": "villains-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "rogeriovaz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4779,
+  "totalVotes": 13,
+  "totalDownloads": 555,
+  "title": "Villains - Image Classification",
+  "hasTitle": true,
+  "subtitle": "Villains Image Dataset for Classification",
+  "hasSubtitle": true,
+  "description": "5 Villains classes:\n\n- Darth Vader\n- Green Goblin\n- Joker\n- Thanos\n- Venom\n\n20 images sample each class.\n\nDifferent movies, comics and arts to improve classification generalization performance.\n\nData was collected from Google images search and labeled. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer vision",
+    "classification",
+    "deep learning",
+    "cnn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

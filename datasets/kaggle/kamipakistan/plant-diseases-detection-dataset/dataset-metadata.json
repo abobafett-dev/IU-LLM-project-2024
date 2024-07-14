@@ -1,0 +1,40 @@
+{
+  "id": "kamipakistan/plant-diseases-detection-dataset",
+  "id_no": 3140308,
+  "datasetSlugNullable": "plant-diseases-detection-dataset",
+  "ownerUserNullable": "kamipakistan",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Plant Diseases Detection Dataset",
+  "subtitleNullable": "Detecting plant diseases early boosts crop yields",
+  "descriptionNullable": "The Plant Diseases dataset was created by a group of researchers at the Indian Institute of Technology and was initially described in a research [paper.](https://arxiv.org/pdf/1911.10317.pdf) One of the authors, Pratik Kayal, has shared the dataset on [GitHub](https://github.com/pratikkayal/PlantDoc-Dataset), where it is available for public use. The PlantDoc dataset consists of a total of 2,569 images of 13 different plant species. The dataset is organized into 30 different classes, with labels indicating whether each image is healthy or diseased. There are a total of 8,851 labeled objects within the dataset, making it a valuable resource for image classification and object detection tasks.",
+  "datasetId": 3140308,
+  "datasetSlug": "plant-diseases-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kamipakistan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 3350,
+  "totalVotes": 8,
+  "totalDownloads": 485,
+  "title": "Plant Diseases Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Detecting plant diseases early boosts crop yields",
+  "hasSubtitle": true,
+  "description": "The Plant Diseases dataset was created by a group of researchers at the Indian Institute of Technology and was initially described in a research [paper.](https://arxiv.org/pdf/1911.10317.pdf) One of the authors, Pratik Kayal, has shared the dataset on [GitHub](https://github.com/pratikkayal/PlantDoc-Dataset), where it is available for public use. The PlantDoc dataset consists of a total of 2,569 images of 13 different plant species. The dataset is organized into 30 different classes, with labels indicating whether each image is healthy or diseased. There are a total of 8,851 labeled objects within the dataset, making it a valuable resource for image classification and object detection tasks.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

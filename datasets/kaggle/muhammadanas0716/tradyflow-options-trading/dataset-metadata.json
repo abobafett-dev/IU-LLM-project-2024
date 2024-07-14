@@ -1,0 +1,41 @@
+{
+  "id": "muhammadanas0716/tradyflow-options-trading",
+  "id_no": 2292828,
+  "datasetSlugNullable": "tradyflow-options-trading",
+  "ownerUserNullable": "muhammadanas0716",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Tradyflow - Options Trading!",
+  "subtitleNullable": "Tradyflow is an options flow analysis dataset that analyzes options data points.",
+  "descriptionNullable": "This dataset is obtained from [tradytics.com](https://tradytics.com/trady-flow) on 21st June 2022. By the time you get to see the code, this dataset will no longer be available on the website. You can only access it on my [Github](https://github.com/muhammadanas365/Data-Science-Projects---EDA/blob/main/6.%20Tradyflow%20-%20Analysis/Trady%20Flow%20-%20Best%20Options%20Trade%20Ideas.csv).\n\n## What is the Dataset?\nThis dataset is the flow of the stock market on the date 17th June 2022. It contains many tickers. An excellent dataset to practice time series and test your data science skills.\n\n## What Do the rows Stand For?\n\nTime - Time when this ticker was caught in the flow.\n\nSym- The ticker symbol, e.g AAPL, TSLA, SPY.\n\nC/P - Call or Put trade?\n\nExp- The expiration of the contract.\n\nStr - The strike price.\n\nSpot - The stock price at the moment when the flow was reported.\n\nBidask - The bidask of the contract\n\nOrders - The total order of the contract.\n\nVolume - The number of shares traded at the moment when this contract was caught.\n\nPremiums - The total money spent on this contract.\n\nOpen Interest - The total number of opened contracts at the moment when this contract was caught.\n\nDiff % - The % difference between Spot and Strike price.\n\nITM - If the contract was a win or loss. *0 is LOSS, 1 is WIN*\n\n***NoT FINANCIAL ADVICE**\n\nThis is an amazing dataset for beginners or those coders who are refreshing their data science skills. No harm if professionals use this either. It's fantastical. You do so much with, honestly so much! Maybe even a stock market bot, thou this is done at your risk. Enjoy and share your code!!!! ",
+  "datasetId": 2292828,
+  "datasetSlug": "tradyflow-options-trading",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammadanas0716",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 2674,
+  "totalVotes": 9,
+  "totalDownloads": 191,
+  "title": "Tradyflow - Options Trading!",
+  "hasTitle": true,
+  "subtitle": "Tradyflow is an options flow analysis dataset that analyzes options data points.",
+  "hasSubtitle": true,
+  "description": "This dataset is obtained from [tradytics.com](https://tradytics.com/trady-flow) on 21st June 2022. By the time you get to see the code, this dataset will no longer be available on the website. You can only access it on my [Github](https://github.com/muhammadanas365/Data-Science-Projects---EDA/blob/main/6.%20Tradyflow%20-%20Analysis/Trady%20Flow%20-%20Best%20Options%20Trade%20Ideas.csv).\n\n## What is the Dataset?\nThis dataset is the flow of the stock market on the date 17th June 2022. It contains many tickers. An excellent dataset to practice time series and test your data science skills.\n\n## What Do the rows Stand For?\n\nTime - Time when this ticker was caught in the flow.\n\nSym- The ticker symbol, e.g AAPL, TSLA, SPY.\n\nC/P - Call or Put trade?\n\nExp- The expiration of the contract.\n\nStr - The strike price.\n\nSpot - The stock price at the moment when the flow was reported.\n\nBidask - The bidask of the contract\n\nOrders - The total order of the contract.\n\nVolume - The number of shares traded at the moment when this contract was caught.\n\nPremiums - The total money spent on this contract.\n\nOpen Interest - The total number of opened contracts at the moment when this contract was caught.\n\nDiff % - The % difference between Spot and Strike price.\n\nITM - If the contract was a win or loss. *0 is LOSS, 1 is WIN*\n\n***NoT FINANCIAL ADVICE**\n\nThis is an amazing dataset for beginners or those coders who are refreshing their data science skills. No harm if professionals use this either. It's fantastical. You do so much with, honestly so much! Maybe even a stock market bot, thou this is done at your risk. Enjoy and share your code!!!! ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "tabular",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

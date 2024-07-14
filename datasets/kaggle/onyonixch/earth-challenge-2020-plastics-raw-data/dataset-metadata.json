@@ -1,0 +1,40 @@
+{
+  "id": "onyonixch/earth-challenge-2020-plastics-raw-data",
+  "id_no": 788438,
+  "datasetSlugNullable": "earth-challenge-2020-plastics-raw-data",
+  "ownerUserNullable": "onyonixch",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Earth Challenge 2020 Plastics: Raw Data",
+  "subtitleNullable": "Data on macroplastic pollution, or plastic pollution visible to the naked eye",
+  "descriptionNullable": "The Earth Challenge 2020 app collects data on macroplastic pollution, or plastic pollution visible to the naked eye.  Volunteers take a picture to document plastic pollution found in the environment, and indicate whether they have recycled it, left it, or thrown it away.  In addition, volunteers can classify these images in accordance with a standardized classification schema.\n\nThis is the raw version of this data set.  A version that leverages the OGC SensorThings standard is forthcoming.\n\nData are partially validated.  Images are flagged for adult or racy content, and adult or racy images are removed.  Data will be validated as images of plastic pollution when an updated data set is published that includes volunteer classifications.\n\nIf you would like to contribute data to Earth Challenge 2020, please visit the project website.   \n\nThis is the raw version of this data set.  A version that leverages the OGC SensorThings standard is forthcoming.\n\nSource Description: [Source Text](https://earthchallenge2020.earthday.org/datasets/d5bb4e8642544bbd9a79e9346ed4dd78_0?geometry=34.096%2C-40.901%2C-16.881%2C61.320)\n\nSource Dataset Image: [Image Source](https://www.swissinfo.ch/eng/race-for-water-odyssey_using-drones-to-hunt-for-the-oceans--plastic-pollution/41379106)",
+  "datasetId": 788438,
+  "datasetSlug": "earth-challenge-2020-plastics-raw-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "onyonixch",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 8671,
+  "totalVotes": 19,
+  "totalDownloads": 489,
+  "title": "Earth Challenge 2020 Plastics: Raw Data",
+  "hasTitle": true,
+  "subtitle": "Data on macroplastic pollution, or plastic pollution visible to the naked eye",
+  "hasSubtitle": true,
+  "description": "The Earth Challenge 2020 app collects data on macroplastic pollution, or plastic pollution visible to the naked eye.  Volunteers take a picture to document plastic pollution found in the environment, and indicate whether they have recycled it, left it, or thrown it away.  In addition, volunteers can classify these images in accordance with a standardized classification schema.\n\nThis is the raw version of this data set.  A version that leverages the OGC SensorThings standard is forthcoming.\n\nData are partially validated.  Images are flagged for adult or racy content, and adult or racy images are removed.  Data will be validated as images of plastic pollution when an updated data set is published that includes volunteer classifications.\n\nIf you would like to contribute data to Earth Challenge 2020, please visit the project website.   \n\nThis is the raw version of this data set.  A version that leverages the OGC SensorThings standard is forthcoming.\n\nSource Description: [Source Text](https://earthchallenge2020.earthday.org/datasets/d5bb4e8642544bbd9a79e9346ed4dd78_0?geometry=34.096%2C-40.901%2C-16.881%2C61.320)\n\nSource Dataset Image: [Image Source](https://www.swissinfo.ch/eng/race-for-water-odyssey_using-drones-to-hunt-for-the-oceans--plastic-pollution/41379106)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

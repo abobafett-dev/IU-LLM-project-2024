@@ -1,0 +1,43 @@
+{
+  "id": "shivanirana63/food-demand-forecasting",
+  "id_no": 4874994,
+  "datasetSlugNullable": "food-demand-forecasting",
+  "ownerUserNullable": "shivanirana63",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Food Demand Forecasting",
+  "subtitleNullable": "Time Series Forecasting and Modelling ",
+  "descriptionNullable": "Demand forecasting is a key component to every growing online business. Without proper demand forecasting processes in place, it can be nearly impossible to have the right amount of stock on hand at any given time. A food delivery service has to deal with a lot of perishable raw materials which makes it all the more important for such a company to accurately forecast daily and weekly demand.\n\nToo much inventory in the warehouse means more risk of wastage, and not enough could lead to out-of-stocks \u2014 and push customers to seek solutions from your competitors. In this challenge, get a taste of demand forecasting challenge using a real dataset.\n\n### **Problem Statement:**\nYour client is a meal delivery company which operates in multiple cities. They have various fulfillment centers in these cities for dispatching meal orders to their customers. The client wants you to help these centers with demand forecasting for upcoming weeks so that these centers will plan the stock of raw materials accordingly.\n\nThe replenishment of majority of raw materials is done on weekly basis and since the raw material is perishable, the procurement planning is of utmost importance. Secondly, staffing of the centers is also one area wherein accurate demand forecasts are really helpful. \n\nGiven the following information, the task is to predict the demand for the next 10 weeks (Weeks: 146-155) for the center-meal combinations in the test set:  \n\n- Historical data of demand for a product-center combination (Weeks: 1 to 145)\n- Product(Meal) features such as category, sub-category, current price and discount\n- Information for fulfillment center like center area, city information etc.\n\n### **Dataset Description**\n\n#### **Train set:**\n\n**Weekly Demand data (train.csv)**: Contains the historical demand data for all centres.\n**fulfilment_center_info.csv:** Contains information for each fulfilment centre.\n**meal_info.csv:** Contains information for each meal being served.\n\n####**Test set:**\ntest.csv contains all the following features except the target variable.\n\n####**Evaluation Metrics:**\nThe evaluation metric for this competition is 100*RMSLE where RMSLE is Root of Mean Squared Logarithmic Error across all entries in the test set.",
+  "datasetId": 4874994,
+  "datasetSlug": "food-demand-forecasting",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivanirana63",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 9563,
+  "totalVotes": 33,
+  "totalDownloads": 2046,
+  "title": "Food Demand Forecasting",
+  "hasTitle": true,
+  "subtitle": "Time Series Forecasting and Modelling ",
+  "hasSubtitle": true,
+  "description": "Demand forecasting is a key component to every growing online business. Without proper demand forecasting processes in place, it can be nearly impossible to have the right amount of stock on hand at any given time. A food delivery service has to deal with a lot of perishable raw materials which makes it all the more important for such a company to accurately forecast daily and weekly demand.\n\nToo much inventory in the warehouse means more risk of wastage, and not enough could lead to out-of-stocks \u2014 and push customers to seek solutions from your competitors. In this challenge, get a taste of demand forecasting challenge using a real dataset.\n\n### **Problem Statement:**\nYour client is a meal delivery company which operates in multiple cities. They have various fulfillment centers in these cities for dispatching meal orders to their customers. The client wants you to help these centers with demand forecasting for upcoming weeks so that these centers will plan the stock of raw materials accordingly.\n\nThe replenishment of majority of raw materials is done on weekly basis and since the raw material is perishable, the procurement planning is of utmost importance. Secondly, staffing of the centers is also one area wherein accurate demand forecasts are really helpful. \n\nGiven the following information, the task is to predict the demand for the next 10 weeks (Weeks: 146-155) for the center-meal combinations in the test set:  \n\n- Historical data of demand for a product-center combination (Weeks: 1 to 145)\n- Product(Meal) features such as category, sub-category, current price and discount\n- Information for fulfillment center like center area, city information etc.\n\n### **Dataset Description**\n\n#### **Train set:**\n\n**Weekly Demand data (train.csv)**: Contains the historical demand data for all centres.\n**fulfilment_center_info.csv:** Contains information for each fulfilment centre.\n**meal_info.csv:** Contains information for each meal being served.\n\n####**Test set:**\ntest.csv contains all the following features except the target variable.\n\n####**Evaluation Metrics:**\nThe evaluation metric for this competition is 100*RMSLE where RMSLE is Root of Mean Squared Logarithmic Error across all entries in the test set.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "exploratory data analysis",
+    "data visualization",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

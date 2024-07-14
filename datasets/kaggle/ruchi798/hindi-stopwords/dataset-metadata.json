@@ -1,0 +1,39 @@
+{
+  "id": "ruchi798/hindi-stopwords",
+  "id_no": 825981,
+  "datasetSlugNullable": "hindi-stopwords",
+  "ownerUserNullable": "ruchi798",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Hindi Stop words and Sentiment Lexicons",
+  "subtitleNullable": "Stopwords and Sentiment Polarity Lexicons",
+  "descriptionNullable": "### Content\nSentiment analysis \u2013 otherwise known as opinion mining \u2013 is a much bandied about but often misunderstood term. In essence, it is the process of determining the emotional tone behind a series of words, used to gain an understanding of the the attitudes, opinions and emotions expressed within an online mention.\n\nStop words are frequent, evenly distributed, function words in any document corpus which does not add any meaning to the text content. Information retrieval from the corpus is not getting affected by the removal of these words. It has been proved that removing the stop words reduces the document size to a considerable extent and saves time in text processing in Natural Language Processing. \n\nThis dataset contains both positive and negative sentiment lexicons as well as stop words in Hindi.\n\n### Acknowledgements\n\nIf you use this in your work, please cite the following:\n- 10.17632/mnt3zwxmyn.2\n- 10.17632/bsr3frvvjc.1\n \n### Inspiration\n- To find words that essentially mean the same",
+  "datasetId": 825981,
+  "datasetSlug": "hindi-stopwords",
+  "hasDatasetSlug": true,
+  "ownerUser": "ruchi798",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9605,
+  "totalVotes": 92,
+  "totalDownloads": 759,
+  "title": "Hindi Stop words and Sentiment Lexicons",
+  "hasTitle": true,
+  "subtitle": "Stopwords and Sentiment Polarity Lexicons",
+  "hasSubtitle": true,
+  "description": "### Content\nSentiment analysis \u2013 otherwise known as opinion mining \u2013 is a much bandied about but often misunderstood term. In essence, it is the process of determining the emotional tone behind a series of words, used to gain an understanding of the the attitudes, opinions and emotions expressed within an online mention.\n\nStop words are frequent, evenly distributed, function words in any document corpus which does not add any meaning to the text content. Information retrieval from the corpus is not getting affected by the removal of these words. It has been proved that removing the stop words reduces the document size to a considerable extent and saves time in text processing in Natural Language Processing. \n\nThis dataset contains both positive and negative sentiment lexicons as well as stop words in Hindi.\n\n### Acknowledgements\n\nIf you use this in your work, please cite the following:\n- 10.17632/mnt3zwxmyn.2\n- 10.17632/bsr3frvvjc.1\n \n### Inspiration\n- To find words that essentially mean the same",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

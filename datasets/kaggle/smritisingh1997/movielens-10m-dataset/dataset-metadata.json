@@ -1,0 +1,41 @@
+{
+  "id": "smritisingh1997/movielens-10m-dataset",
+  "id_no": 1233703,
+  "datasetSlugNullable": "movielens-10m-dataset",
+  "ownerUserNullable": "smritisingh1997",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "MovieLens 10M Dataset",
+  "subtitleNullable": "Can be used to build recommendation system using RBM",
+  "descriptionNullable": "Build a RBM using this dataset to predict whether a particular user will like a movie or not.\nThis data set contains 10000054 ratings and 95580 tags applied to 10681 movies by 71567 users of the online movie recommender service. Users were selected at random for inclusion. All users selected had rated at least 20 movies. Unlike previous MovieLens data sets, no demographic information is included. Each user is represented by an id, and no other information is provided. The data are contained in three files, movies.dat, ratings.dat and tags.dat. Also included are scripts for generating subsets of the data to support five-fold cross-validation of rating predictions.\n\nUser Ids\nMovielens users were selected at random for inclusion. Their ids have been anonymized.\n\nUsers were selected separately for inclusion in the ratings and tags data sets, which implies that user ids may appear in one set but not the other.\n\nThe anonymized values are consistent between the ratings and tags data files. That is, user id n, if it appears in both files, refers to the same real MovieLens user.\n\nRatings Data File Structure\nAll ratings are contained in the file ratings.dat. Each line of this file represents one rating of one movie by one user, and has the following format:\n\nUserID::MovieID::Rating::Timestamp\n\nThe lines within this file are ordered first by UserID, then, within user, by MovieID.\n\nRatings are made on a 5-star scale, with half-star increments.\n\nTimestamps represent seconds since midnight Coordinated Universal Time (UTC) of January 1, 1970.\n\nTags Data File Structure\nAll tags are contained in the file tags.dat. Each line of this file represents one tag applied to one movie by one user, and has the following format:\n\nUserID::MovieID::Tag::Timestamp\n\nThe lines within this file are ordered first by UserID, then, within user, by MovieID.\n\nTags are user generated metadata about movies. Each tag is typically a single word, or short phrase. The meaning, value and purpose of a particular tag is determined by each user.\n\nTimestamps represent seconds since midnight Coordinated Universal Time (UTC) of January 1, 1970.\n\nMovies Data File Structure\nMovie information is contained in the file movies.dat. Each line of this file represents one movie, and has the following format:\n\nMovieID::Title::Genres\n\nMovieID is the real MovieLens id.\n\nMovie titles, by policy, should be entered identically to those found in IMDB, including year of release. However, they are entered manually, so errors and inconsistencies may exist.\n\nGenres are a pipe-separated list, and are selected from the following:\n\nAction\nAdventure\nAnimation\nChildren's\nComedy\nCrime\nDocumentary\nDrama\nFantasy\nFilm-Noir\nHorror\nMusical\nMystery\nRomance\nSci-Fi\nThriller\nWar\nWestern",
+  "datasetId": 1233703,
+  "datasetSlug": "movielens-10m-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "smritisingh1997",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 4864,
+  "totalVotes": 8,
+  "totalDownloads": 263,
+  "title": "MovieLens 10M Dataset",
+  "hasTitle": true,
+  "subtitle": "Can be used to build recommendation system using RBM",
+  "hasSubtitle": true,
+  "description": "Build a RBM using this dataset to predict whether a particular user will like a movie or not.\nThis data set contains 10000054 ratings and 95580 tags applied to 10681 movies by 71567 users of the online movie recommender service. Users were selected at random for inclusion. All users selected had rated at least 20 movies. Unlike previous MovieLens data sets, no demographic information is included. Each user is represented by an id, and no other information is provided. The data are contained in three files, movies.dat, ratings.dat and tags.dat. Also included are scripts for generating subsets of the data to support five-fold cross-validation of rating predictions.\n\nUser Ids\nMovielens users were selected at random for inclusion. Their ids have been anonymized.\n\nUsers were selected separately for inclusion in the ratings and tags data sets, which implies that user ids may appear in one set but not the other.\n\nThe anonymized values are consistent between the ratings and tags data files. That is, user id n, if it appears in both files, refers to the same real MovieLens user.\n\nRatings Data File Structure\nAll ratings are contained in the file ratings.dat. Each line of this file represents one rating of one movie by one user, and has the following format:\n\nUserID::MovieID::Rating::Timestamp\n\nThe lines within this file are ordered first by UserID, then, within user, by MovieID.\n\nRatings are made on a 5-star scale, with half-star increments.\n\nTimestamps represent seconds since midnight Coordinated Universal Time (UTC) of January 1, 1970.\n\nTags Data File Structure\nAll tags are contained in the file tags.dat. Each line of this file represents one tag applied to one movie by one user, and has the following format:\n\nUserID::MovieID::Tag::Timestamp\n\nThe lines within this file are ordered first by UserID, then, within user, by MovieID.\n\nTags are user generated metadata about movies. Each tag is typically a single word, or short phrase. The meaning, value and purpose of a particular tag is determined by each user.\n\nTimestamps represent seconds since midnight Coordinated Universal Time (UTC) of January 1, 1970.\n\nMovies Data File Structure\nMovie information is contained in the file movies.dat. Each line of this file represents one movie, and has the following format:\n\nMovieID::Title::Genres\n\nMovieID is the real MovieLens id.\n\nMovie titles, by policy, should be entered identically to those found in IMDB, including year of release. However, they are entered manually, so errors and inconsistencies may exist.\n\nGenres are a pipe-separated list, and are selected from the following:\n\nAction\nAdventure\nAnimation\nChildren's\nComedy\nCrime\nDocumentary\nDrama\nFantasy\nFilm-Noir\nHorror\nMusical\nMystery\nRomance\nSci-Fi\nThriller\nWar\nWestern",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "recommender systems",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

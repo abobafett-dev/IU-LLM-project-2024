@@ -1,0 +1,43 @@
+{
+  "id": "shrimantasatpati/car-sales-dataset-data-science-ml-ai",
+  "id_no": 4165781,
+  "datasetSlugNullable": "car-sales-dataset-data-science-ml-ai",
+  "ownerUserNullable": "shrimantasatpati",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Car Sales dataset - Data Science, ML, AI",
+  "subtitleNullable": "Comprehensive car sales dataset with detailed attributes on manufacturers, model",
+  "descriptionNullable": "## **Dataset Description:**\n\nThe dataset appears to contain information related to car sales, with various attributes providing details about different car models. Below is a description of the attributes in the dataset:\n\n### **Attribute Descriptions:**\n\n1. Manufacturer: The name of the car manufacturer (e.g., Acura, Audi, BMW).\n2. Model: The specific model of the car (e.g., Integra, TL, A4).\n3. Sales_in_thousands: The number of car sales in thousands.\n4. __year_resale_value: The estimated resale value of the vehicle after a certain number of years.\n5. Vehicle_type: The type of vehicle (e.g., Passenger, Car).\n6. Price_in_thousands: The price of the car in thousands of dollars.\n7. Engine_size: The size of the car's engine.\n8. Horsepower: The horsepower of the car's engine.\n9. Wheelbase: The wheelbase of the car (distance between the front and rear axles).\n10. Width: The width of the car.\n11. Length: The length of the car.\n12. Curb_weight: The weight of the car without occupants or baggage.\n13. Fuel_capacity: The capacity of the fuel tank.\n14. Fuel_efficiency: The fuel efficiency of the car.\n15. Latest_Launch: The date of the latest product launch.\n16. Power_perf_factor: A performance factor associated with power.",
+  "datasetId": 4165781,
+  "datasetSlug": "car-sales-dataset-data-science-ml-ai",
+  "hasDatasetSlug": true,
+  "ownerUser": "shrimantasatpati",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 658,
+  "totalVotes": 2,
+  "totalDownloads": 126,
+  "title": "Car Sales dataset - Data Science, ML, AI",
+  "hasTitle": true,
+  "subtitle": "Comprehensive car sales dataset with detailed attributes on manufacturers, model",
+  "hasSubtitle": true,
+  "description": "## **Dataset Description:**\n\nThe dataset appears to contain information related to car sales, with various attributes providing details about different car models. Below is a description of the attributes in the dataset:\n\n### **Attribute Descriptions:**\n\n1. Manufacturer: The name of the car manufacturer (e.g., Acura, Audi, BMW).\n2. Model: The specific model of the car (e.g., Integra, TL, A4).\n3. Sales_in_thousands: The number of car sales in thousands.\n4. __year_resale_value: The estimated resale value of the vehicle after a certain number of years.\n5. Vehicle_type: The type of vehicle (e.g., Passenger, Car).\n6. Price_in_thousands: The price of the car in thousands of dollars.\n7. Engine_size: The size of the car's engine.\n8. Horsepower: The horsepower of the car's engine.\n9. Wheelbase: The wheelbase of the car (distance between the front and rear axles).\n10. Width: The width of the car.\n11. Length: The length of the car.\n12. Curb_weight: The weight of the car without occupants or baggage.\n13. Fuel_capacity: The capacity of the fuel tank.\n14. Fuel_efficiency: The fuel efficiency of the car.\n15. Latest_Launch: The date of the latest product launch.\n16. Power_perf_factor: A performance factor associated with power.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "exploratory data analysis",
+    "data analytics",
+    "regression",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

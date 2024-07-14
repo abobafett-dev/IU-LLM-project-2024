@@ -1,0 +1,41 @@
+{
+  "id": "wchowdhu/bengali-digits",
+  "id_no": 2123484,
+  "datasetSlugNullable": "bengali-digits",
+  "ownerUserNullable": "wchowdhu",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Bengali Handwritten Digit Dataset",
+  "subtitleNullable": "A dataset with 15,620 scanned images in various size and fonts",
+  "descriptionNullable": "Bengali language is a resource-constrained language where resources and tools are not freely and readily available for experimentation. This dataset contains images of Bengali handwritten numbers from \u09e6-\u09ef in various fonts and size. It is made available to use for research in Bengali digit classification and other image-related tasks.",
+  "datasetId": 2123484,
+  "datasetSlug": "bengali-digits",
+  "hasDatasetSlug": true,
+  "ownerUser": "wchowdhu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 2985,
+  "totalVotes": 18,
+  "totalDownloads": 224,
+  "title": "Bengali Handwritten Digit Dataset",
+  "hasTitle": true,
+  "subtitle": "A dataset with 15,620 scanned images in various size and fonts",
+  "hasSubtitle": true,
+  "description": "Bengali language is a resource-constrained language where resources and tools are not freely and readily available for experimentation. This dataset contains images of Bengali handwritten numbers from \u09e6-\u09ef in various fonts and size. It is made available to use for research in Bengali digit classification and other image-related tasks.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

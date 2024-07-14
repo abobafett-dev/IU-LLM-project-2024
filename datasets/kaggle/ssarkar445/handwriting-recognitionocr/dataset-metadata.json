@@ -1,0 +1,41 @@
+{
+  "id": "ssarkar445/handwriting-recognitionocr",
+  "id_no": 1081982,
+  "datasetSlugNullable": "handwriting-recognitionocr",
+  "ownerUserNullable": "ssarkar445",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Handwriting Recognition(OCR)",
+  "subtitleNullable": "Transcriptions of 400,000 handwritten names (OCR).",
+  "descriptionNullable": "This dataset consists of more than four hundred thousand handwritten names collected through charity projects to support disadvantaged children around the world.\n\nOptical Character Recognition (OCR) utilizes image processing technologies to convert characters on scanned documents into digital forms. It typically performs well in machine printed fonts. However, it still poses a difficult challenges for machines to recognize handwritten characters, because of the huge variation in individual writing styles.\n\nThere are 206,799 first names and 207,024 surnames in total. The data was divided into a training set (331,059), testing set (41,382), and validation set (41,382) respectively.\n\nLabels of all images created via human-in-the-loop anotation on the Appen platform are also provided, enabling you to extend the data set with your own data.\n\n \n\nThe input data in this job is a hundreds of thousands of images of handwritten names. In the \u201cData\u201d tab above, you\u2019ll find the transcribed images broken up into test, training, and validation\n\n\nImage\turl\t \t \t \t \t \nD2M\t15\t0010079F\t0002\t1\tfirst\tname.jpg\nD2M\t15\t0010079F\t0002\t1\tsurname.jpg\t\nD2M\t15\t0010079F\t0003\t2\tsurname.jpg\t\nD2M\t15\t0010079F\t0004\t3\tfirst\tname.jpg\nD2M\t15\t0010079F\t0004\t3\tsurname.jpg\t\nD2M\t15\t0010079F\t0005\t4\tfirst\tname.jpg\nD2M\t15\t0010079F\t0006\t5\tfirst\tname.jpg\nD2M\t15\t0010079F\t0006\t5\tsurname.jpg\t\nD2M\t15\t0010079F\t0007\t6\tfirst\tname.jpg\n",
+  "datasetId": 1081982,
+  "datasetSlug": "handwriting-recognitionocr",
+  "hasDatasetSlug": true,
+  "ownerUser": "ssarkar445",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 19883,
+  "totalVotes": 48,
+  "totalDownloads": 2797,
+  "title": "Handwriting Recognition(OCR)",
+  "hasTitle": true,
+  "subtitle": "Transcriptions of 400,000 handwritten names (OCR).",
+  "hasSubtitle": true,
+  "description": "This dataset consists of more than four hundred thousand handwritten names collected through charity projects to support disadvantaged children around the world.\n\nOptical Character Recognition (OCR) utilizes image processing technologies to convert characters on scanned documents into digital forms. It typically performs well in machine printed fonts. However, it still poses a difficult challenges for machines to recognize handwritten characters, because of the huge variation in individual writing styles.\n\nThere are 206,799 first names and 207,024 surnames in total. The data was divided into a training set (331,059), testing set (41,382), and validation set (41,382) respectively.\n\nLabels of all images created via human-in-the-loop anotation on the Appen platform are also provided, enabling you to extend the data set with your own data.\n\n \n\nThe input data in this job is a hundreds of thousands of images of handwritten names. In the \u201cData\u201d tab above, you\u2019ll find the transcribed images broken up into test, training, and validation\n\n\nImage\turl\t \t \t \t \t \nD2M\t15\t0010079F\t0002\t1\tfirst\tname.jpg\nD2M\t15\t0010079F\t0002\t1\tsurname.jpg\t\nD2M\t15\t0010079F\t0003\t2\tsurname.jpg\t\nD2M\t15\t0010079F\t0004\t3\tfirst\tname.jpg\nD2M\t15\t0010079F\t0004\t3\tsurname.jpg\t\nD2M\t15\t0010079F\t0005\t4\tfirst\tname.jpg\nD2M\t15\t0010079F\t0006\t5\tfirst\tname.jpg\nD2M\t15\t0010079F\t0006\t5\tsurname.jpg\t\nD2M\t15\t0010079F\t0007\t6\tfirst\tname.jpg\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "anmuser/dep15",
+  "id_no": 3485311,
+  "datasetSlugNullable": "dep15",
+  "ownerUserNullable": "anmuser",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Dep15.",
+  "subtitleNullable": "EEG data of 15 Healthy and 15 Depressed individuals",
+  "descriptionNullable": "Pre-processed depression dataset (EEG)\nThe dataset consists of 15 Healthy and 15 Depressed patients\nThe preprocessing was filtering and Feature extraction using DWT ( Discrete wavelet transform) ",
+  "datasetId": 3485311,
+  "datasetSlug": "dep15",
+  "hasDatasetSlug": true,
+  "ownerUser": "anmuser",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 372,
+  "totalVotes": 1,
+  "totalDownloads": 61,
+  "title": "Dep15.",
+  "hasTitle": true,
+  "subtitle": "EEG data of 15 Healthy and 15 Depressed individuals",
+  "hasSubtitle": true,
+  "description": "Pre-processed depression dataset (EEG)\nThe dataset consists of 15 Healthy and 15 Depressed patients\nThe preprocessing was filtering and Feature extraction using DWT ( Discrete wavelet transform) ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "classification",
+    "svm",
+    "knn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

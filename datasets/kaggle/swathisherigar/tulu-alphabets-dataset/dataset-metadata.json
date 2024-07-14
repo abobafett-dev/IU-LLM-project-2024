@@ -1,0 +1,45 @@
+{
+  "id": "swathisherigar/tulu-alphabets-dataset",
+  "id_no": 5083102,
+  "datasetSlugNullable": "tulu-alphabets-dataset",
+  "ownerUserNullable": "swathisherigar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Tulu Dataset from Srinivas institute of Technology",
+  "subtitleNullable": "An Annotated Dataset of Tulu Letters",
+  "descriptionNullable": "This dataset offers a comprehensive collection of pixelized samples representing Tulu characters, serving as a pivotal resource for research and development in natural language processing (NLP) and character recognition (CR). Each entry in the dataset corresponds to an image, with columns representing pixel values, facilitating image classification tasks. This structured format enables the utilization of convolutional neural networks (CNNs) and other machine learning algorithms for character classification and language analysis. Researchers, developers, and enthusiasts can leverage this dataset to train and assess algorithms for Tulu character recognition, thus propelling advancements in linguistic technology and contributing to the preservation of cultural heritage.",
+  "datasetId": 5083102,
+  "datasetSlug": "tulu-alphabets-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "swathisherigar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 156,
+  "totalVotes": 6,
+  "totalDownloads": 13,
+  "title": "Tulu Dataset from Srinivas institute of Technology",
+  "hasTitle": true,
+  "subtitle": "An Annotated Dataset of Tulu Letters",
+  "hasSubtitle": true,
+  "description": "This dataset offers a comprehensive collection of pixelized samples representing Tulu characters, serving as a pivotal resource for research and development in natural language processing (NLP) and character recognition (CR). Each entry in the dataset corresponds to an image, with columns representing pixel values, facilitating image classification tasks. This structured format enables the utilization of convolutional neural networks (CNNs) and other machine learning algorithms for character classification and language analysis. Researchers, developers, and enthusiasts can leverage this dataset to train and assess algorithms for Tulu character recognition, thus propelling advancements in linguistic technology and contributing to the preservation of cultural heritage.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "sithodaiml",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

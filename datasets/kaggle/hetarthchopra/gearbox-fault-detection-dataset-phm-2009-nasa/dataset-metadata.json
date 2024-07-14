@@ -1,0 +1,43 @@
+{
+  "id": "hetarthchopra/gearbox-fault-detection-dataset-phm-2009-nasa",
+  "id_no": 1683372,
+  "datasetSlugNullable": "gearbox-fault-detection-dataset-phm-2009-nasa",
+  "ownerUserNullable": "hetarthchopra",
+  "usabilityRatingNullable": 0.5588235294117647,
+  "titleNullable": "Gearbox Fault Detection Dataset, PHM 2009 (NASA)",
+  "subtitleNullable": "PHM Data Challenge is focused on fault detection of gearbox using accelerometer.",
+  "descriptionNullable": "### Context\nSince Kaggle has a scarcity of datasets related to the mechanical engineering domain, which can be used for ML/DL, I uploaded this dataset. All credit for the data goes to the PHM Data Challenge 2009 - https://c3.ndc.nasa.gov/dashlink/resources/997/\n\n\n### Content\n\nThis PHM Data Challenge is focused on fault detection and magnitude estimation for a generic gearbox using accelerometer data and information about bearing geometry. Scoring is based on the ability to correctly identify type, location, and magnitude and damage in a gear system.\n\nThe Data Challenge was part of the 2009 Conference of the PHM Society\n\n\n### How to Use\n\nYou can check out the datset description in the readme2.docx file. Download it and read it. Basically, this dataset is used to find outliers and detect possible faults in gearbox readings (accelerometer and tachometer).",
+  "datasetId": 1683372,
+  "datasetSlug": "gearbox-fault-detection-dataset-phm-2009-nasa",
+  "hasDatasetSlug": true,
+  "ownerUser": "hetarthchopra",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5588235294117647,
+  "hasUsabilityRating": true,
+  "totalViews": 6554,
+  "totalVotes": 14,
+  "totalDownloads": 493,
+  "title": "Gearbox Fault Detection Dataset, PHM 2009 (NASA)",
+  "hasTitle": true,
+  "subtitle": "PHM Data Challenge is focused on fault detection of gearbox using accelerometer.",
+  "hasSubtitle": true,
+  "description": "### Context\nSince Kaggle has a scarcity of datasets related to the mechanical engineering domain, which can be used for ML/DL, I uploaded this dataset. All credit for the data goes to the PHM Data Challenge 2009 - https://c3.ndc.nasa.gov/dashlink/resources/997/\n\n\n### Content\n\nThis PHM Data Challenge is focused on fault detection and magnitude estimation for a generic gearbox using accelerometer data and information about bearing geometry. Scoring is based on the ability to correctly identify type, location, and magnitude and damage in a gear system.\n\nThe Data Challenge was part of the 2009 Conference of the PHM Society\n\n\n### How to Use\n\nYou can check out the datset description in the readme2.docx file. Download it and read it. Basically, this dataset is used to find outliers and detect possible faults in gearbox readings (accelerometer and tachometer).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "signal processing",
+    "time series analysis",
+    "clustering",
+    "outlier analysis",
+    "accelerators"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

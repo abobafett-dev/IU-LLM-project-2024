@@ -1,0 +1,42 @@
+{
+  "id": "hemanthpingali/coloncancerdataset",
+  "id_no": 4492962,
+  "datasetSlugNullable": "coloncancerdataset",
+  "ownerUserNullable": "hemanthpingali",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "ColonCancerDataset",
+  "subtitleNullable": "CT Colonography Imaging Dataset-Insights from IDC's Curated CT Colonography Data",
+  "descriptionNullable": "This dataset focuses on a carefully curated subset of the National Cancer Institute Imaging Data Commons (IDC), emphasizing CT Colonography images. This specialized dataset is drawn from the broader IDC repository available on the AWS Marketplace, which comprises a diverse collection of cancer imaging data sourced from clinical studies worldwide. Alongside Computed Tomography (CT), the dataset encompasses modalities such as Magnetic Resonance Imaging (MRI) and Positron Emission Tomography (PET).\n\nIn addition to the clinical images, the dataset includes crucial metadata containing patient demographics (including sex and pregnancy status) and comprehensive study descriptions. This rich metadata facilitates nuanced analysis and interpretation of the imaging data, enhancing the dataset's utility for research and clinical applications.",
+  "datasetId": 4492962,
+  "datasetSlug": "coloncancerdataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "hemanthpingali",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5812,
+  "totalVotes": 33,
+  "totalDownloads": 867,
+  "title": "ColonCancerDataset",
+  "hasTitle": true,
+  "subtitle": "CT Colonography Imaging Dataset-Insights from IDC's Curated CT Colonography Data",
+  "hasSubtitle": true,
+  "description": "This dataset focuses on a carefully curated subset of the National Cancer Institute Imaging Data Commons (IDC), emphasizing CT Colonography images. This specialized dataset is drawn from the broader IDC repository available on the AWS Marketplace, which comprises a diverse collection of cancer imaging data sourced from clinical studies worldwide. Alongside Computed Tomography (CT), the dataset encompasses modalities such as Magnetic Resonance Imaging (MRI) and Positron Emission Tomography (PET).\n\nIn addition to the clinical images, the dataset includes crucial metadata containing patient demographics (including sex and pregnancy status) and comprehensive study descriptions. This rich metadata facilitates nuanced analysis and interpretation of the imaging data, enhancing the dataset's utility for research and clinical applications.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "image",
+    "cancer",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ecas95/peruvians-news-dataset",
+  "id_no": 1335575,
+  "datasetSlugNullable": "peruvians-news-dataset",
+  "ownerUserNullable": "ecas95",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "Peruvian's News Dataset",
+  "subtitleNullable": "Manual labelling of 49 Peruvian's News videos. ",
+  "descriptionNullable": "### Context\n\nWe want to study person's behavior based on other parameters than the coordinates or the object detection, so we make a dataset that include columns for Actions, Clothing, Banners handling (For Protesting actions), etc. So we make a dataset that mix 90% of manual and 10% of automatic labeling.\n\n### Content\n\nThe dataset consist of three (3) files.\n\nPND.zip - The data source itself. (300 images, .jpg format, YUV)\nDataset.xlsx - A more visually dataset with table format.\nDataset.csv - A detailed dataset for ML intends.\n\n### Acknowledgements\n\nMany thanks to Rodrigo Molero that helps up on the manual labelling process and the CNN implementation.\n\n### Inspiration\n\nWe want to understand the behavior of the person's that are involved in violent situations, why they make them and what they do in specific scenarios.",
+  "datasetId": 1335575,
+  "datasetSlug": "peruvians-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ecas95",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 2289,
+  "totalVotes": 12,
+  "totalDownloads": 114,
+  "title": "Peruvian's News Dataset",
+  "hasTitle": true,
+  "subtitle": "Manual labelling of 49 Peruvian's News videos. ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWe want to study person's behavior based on other parameters than the coordinates or the object detection, so we make a dataset that include columns for Actions, Clothing, Banners handling (For Protesting actions), etc. So we make a dataset that mix 90% of manual and 10% of automatic labeling.\n\n### Content\n\nThe dataset consist of three (3) files.\n\nPND.zip - The data source itself. (300 images, .jpg format, YUV)\nDataset.xlsx - A more visually dataset with table format.\nDataset.csv - A detailed dataset for ML intends.\n\n### Acknowledgements\n\nMany thanks to Rodrigo Molero that helps up on the manual labelling process and the CNN implementation.\n\n### Inspiration\n\nWe want to understand the behavior of the person's that are involved in violent situations, why they make them and what they do in specific scenarios.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "south america",
+    "crime",
+    "cnn",
+    "image",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

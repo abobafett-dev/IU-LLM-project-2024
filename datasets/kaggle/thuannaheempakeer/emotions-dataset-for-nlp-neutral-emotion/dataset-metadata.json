@@ -1,0 +1,60 @@
+{
+  "id": "thuannaheempakeer/emotions-dataset-for-nlp-neutral-emotion",
+  "id_no": 4247392,
+  "datasetSlugNullable": "emotions-dataset-for-nlp-neutral-emotion",
+  "ownerUserNullable": "thuannaheempakeer",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Emotions dataset for NLP + Neutral Emotion",
+  "subtitleNullable": "This dataset is an advancement of the Emotions dataset for NLP ",
+  "descriptionNullable": "This dataset advances the \"Emotions dataset for NLP\" by Praveen (https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp/data). \n\nThis dataset contains an additional neutral emotion label, which was obtained from the \"Emotion Detection from Text\" by Pashupati Gupta (https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text).",
+  "datasetId": 4247392,
+  "datasetSlug": "emotions-dataset-for-nlp-neutral-emotion",
+  "hasDatasetSlug": true,
+  "ownerUser": "thuannaheempakeer",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 412,
+  "totalVotes": 1,
+  "totalDownloads": 62,
+  "title": "Emotions dataset for NLP + Neutral Emotion",
+  "hasTitle": true,
+  "subtitle": "This dataset is an advancement of the Emotions dataset for NLP ",
+  "hasSubtitle": true,
+  "description": "This dataset advances the \"Emotions dataset for NLP\" by Praveen (https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp/data). \n\nThis dataset contains an additional neutral emotion label, which was obtained from the \"Emotion Detection from Text\" by Pashupati Gupta (https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "psychology",
+    "nlp",
+    "text",
+    "multiclass classification",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "sanukathamuditha",
+      "role": "writer"
+    },
+    {
+      "username": "hashan1244555555",
+      "role": "writer"
+    },
+    {
+      "username": "bhashithaamarasinghe",
+      "role": "writer"
+    },
+    {
+      "username": "mmurshid",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

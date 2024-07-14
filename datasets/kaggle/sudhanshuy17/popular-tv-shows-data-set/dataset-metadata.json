@@ -1,0 +1,39 @@
+{
+  "id": "sudhanshuy17/popular-tv-shows-data-set",
+  "id_no": 2786283,
+  "datasetSlugNullable": "popular-tv-shows-data-set",
+  "ownerUserNullable": "sudhanshuy17",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Popular TV Shows data set",
+  "subtitleNullable": "This is a popular tv shows data set, fetched using the data from the TMDB API   ",
+  "descriptionNullable": "\"This dataset contains information on a selection of popular TV shows from various networks and countries. It includes information on the show's title, year of release, genre, main cast, and a \"This dataset contains information on a selection of popular TV shows from various networks and countries. It includes information on the show's title, year of release, genre, main cast, and a brief summary of the plot. With this dataset, one can analyze trends in TV show popularity and content over time, as well as investigate the characteristics of successful TV shows. The data is suitable for a variety of applications, such as content recommendation systems, media research, and entertainment industry analysis.\"\nYou can find the dataset in the Tv_shows.csv file.",
+  "datasetId": 2786283,
+  "datasetSlug": "popular-tv-shows-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "sudhanshuy17",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1499,
+  "totalVotes": 8,
+  "totalDownloads": 157,
+  "title": "Popular TV Shows data set",
+  "hasTitle": true,
+  "subtitle": "This is a popular tv shows data set, fetched using the data from the TMDB API   ",
+  "hasSubtitle": true,
+  "description": "\"This dataset contains information on a selection of popular TV shows from various networks and countries. It includes information on the show's title, year of release, genre, main cast, and a \"This dataset contains information on a selection of popular TV shows from various networks and countries. It includes information on the show's title, year of release, genre, main cast, and a brief summary of the plot. With this dataset, one can analyze trends in TV show popularity and content over time, as well as investigate the characteristics of successful TV shows. The data is suitable for a variety of applications, such as content recommendation systems, media research, and entertainment industry analysis.\"\nYou can find the dataset in the Tv_shows.csv file.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

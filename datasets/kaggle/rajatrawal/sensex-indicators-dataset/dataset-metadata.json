@@ -1,0 +1,44 @@
+{
+  "id": "rajatrawal/sensex-indicators-dataset",
+  "id_no": 2288049,
+  "datasetSlugNullable": "sensex-indicators-dataset",
+  "ownerUserNullable": "rajatrawal",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "SENSEX-30 Technical Indicators Dataset",
+  "subtitleNullable": "The dataset contains sensex index indicators data from 2/6/2017. ",
+  "descriptionNullable": "## **To get latest scraped technical data of any index/stock refer to code section and run the notebook**\nThe dataset contains data of various indicators like rsi,macd,cci etc. of sensex indicator of BSE from date 2/6/2017. This dataset is very useful for technical analysis .\nThe data is scrapped using python bs4 module.\nThe website from data scrapped is `https://www.traderscockpit.com/?pageView=stochastic-oscillator&type=stoch&symbol=BSE`\nBe free to visit above website and scrape the data.\n\nThe file is csv file and about 96 KiB.\n\n#**Column Info**\n\nindex - Index of each row starts from 0 to 1300.\ndata - The date format is Month/Day/Year\npsar_trend - The fundamental purpose of the PSAR indicator is to determine trend direction.\nadx_indicator - ADX quantifies the velocity of price regardless of its north/south/eastward movement.\nadx_plus_di - Positive Directional Indicator (+DI)\nadx_minus_di - Negative Directional Indicator (-DI)\nrsi - The RSI provides a relative evaluation of the strength of a security's recent price performance, thus making it a momentum indicator. RSI values range from 0 to 100.\nmacd - Moving Average Convergence Divergence (MACD) is defined as a trend-following momentum indicator that shows the relationship between two moving averages of a security's price.\nmacd_exp - A macd line\nmacd_histogram - MACD Histogram Helps Determine Trend Changes.\nmfi - The Money Flow Index indicator (MFI) is a tool used in technical analysis for measuring buying and selling pressure. This is done through analyzing both price and volume. The MFI's calculation generates a value that is then plotted as a line that moves within a range of 0-100, making it an oscillator.\ncci_oscillator - he Commodity Channel Index\u200b (CCI) is a momentum-based oscillator used to help determine when an investment vehicle is reaching a condition of being overbought or oversold.\nwilliam_%r - Williams %R, also known as the Williams Percent Range, is a type of momentum indicator that moves between 0 and -100 and measures overbought and oversold levels. \nbollinger_upper_band - Upper line defines resistance\nmiddle_band - Middle line defines trend\nbollinger_lower_band - Lower line defines support\nstochastic_slow_k - The slow stochastic indicator is a technical momentum indicator that aims to measure the trend in prices and identify trend reversals.\nstochastic_slow_d - The slow stochastic indicator is a technical momentum indicator that aims to measure the trend in prices and identify trend reversals.\n\n",
+  "datasetId": 2288049,
+  "datasetSlug": "sensex-indicators-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rajatrawal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 1225,
+  "totalVotes": 12,
+  "totalDownloads": 103,
+  "title": "SENSEX-30 Technical Indicators Dataset",
+  "hasTitle": true,
+  "subtitle": "The dataset contains sensex index indicators data from 2/6/2017. ",
+  "hasSubtitle": true,
+  "description": "## **To get latest scraped technical data of any index/stock refer to code section and run the notebook**\nThe dataset contains data of various indicators like rsi,macd,cci etc. of sensex indicator of BSE from date 2/6/2017. This dataset is very useful for technical analysis .\nThe data is scrapped using python bs4 module.\nThe website from data scrapped is `https://www.traderscockpit.com/?pageView=stochastic-oscillator&type=stoch&symbol=BSE`\nBe free to visit above website and scrape the data.\n\nThe file is csv file and about 96 KiB.\n\n#**Column Info**\n\nindex - Index of each row starts from 0 to 1300.\ndata - The date format is Month/Day/Year\npsar_trend - The fundamental purpose of the PSAR indicator is to determine trend direction.\nadx_indicator - ADX quantifies the velocity of price regardless of its north/south/eastward movement.\nadx_plus_di - Positive Directional Indicator (+DI)\nadx_minus_di - Negative Directional Indicator (-DI)\nrsi - The RSI provides a relative evaluation of the strength of a security's recent price performance, thus making it a momentum indicator. RSI values range from 0 to 100.\nmacd - Moving Average Convergence Divergence (MACD) is defined as a trend-following momentum indicator that shows the relationship between two moving averages of a security's price.\nmacd_exp - A macd line\nmacd_histogram - MACD Histogram Helps Determine Trend Changes.\nmfi - The Money Flow Index indicator (MFI) is a tool used in technical analysis for measuring buying and selling pressure. This is done through analyzing both price and volume. The MFI's calculation generates a value that is then plotted as a line that moves within a range of 0-100, making it an oscillator.\ncci_oscillator - he Commodity Channel Index\u200b (CCI) is a momentum-based oscillator used to help determine when an investment vehicle is reaching a condition of being overbought or oversold.\nwilliam_%r - Williams %R, also known as the Williams Percent Range, is a type of momentum indicator that moves between 0 and -100 and measures overbought and oversold levels. \nbollinger_upper_band - Upper line defines resistance\nmiddle_band - Middle line defines trend\nbollinger_lower_band - Lower line defines support\nstochastic_slow_k - The slow stochastic indicator is a technical momentum indicator that aims to measure the trend in prices and identify trend reversals.\nstochastic_slow_d - The slow stochastic indicator is a technical momentum indicator that aims to measure the trend in prices and identify trend reversals.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "time series analysis",
+    "lstm",
+    "regression",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

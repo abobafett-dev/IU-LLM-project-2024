@@ -1,0 +1,41 @@
+{
+  "id": "matthiaskleine/german-temperature-data-1990-2021",
+  "id_no": 2848117,
+  "datasetSlugNullable": "german-temperature-data-1990-2021",
+  "ownerUserNullable": "matthiaskleine",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "German temperature data 1990-2021",
+  "subtitleNullable": "Official german temperature data from 513 weather stations from 1990 to 2021",
+  "descriptionNullable": "The dataset provides official temperature data measured from 513 weather stations in Germany from 1990 to 2021.\n\nThe original data are provided by the German Meteorological Service (DWD, [Deutscher Wetterdienst](https://www.dwd.de/DE/Home/home_node.html)) via the [OpenData area of the Climate Data Center](https://opendata.dwd.de/climate_environment/CDC/Readme_intro_CDC_ftp.pdf) (CDC). These data are provided in 1611 files, resulting in &gt; 500 million rows of measurement information (or missing values), a format that is poorly suited  for further analysis.\n\nTherefore, the data are converted from \"long format\" to \"wide format\". **The result is a time series with 10 minute frequency containing one column per weather station.** The exact columns in the file are:\n- **MESS_DATUM**: the datetime values of the time series, representing the index of the time series\n- **list of weather station ids**: one column per weather station, represented by the weather station id\n\nFrom the five numerical measurement values of the original data, only \"air temperature at 2m height in \u00b0C\" was kept. \n\nIn addition to the extracted temperature data, a notebook is provided which can be used to extract the other four types of measurements in the same format.\n\nThe following files are provided in this dataset:\n- **german_temperature_data_1990_2021.csv**, containing the extracted original data (download and transformation, see [this notebook] (https://www.kaggle.com/code/matthiaskleine/read-german-temperature-data-1990-2021)).\n- **german_temperature_data_1996_2021_from_selected_weather_stations.csv**, containing a selection of the original data from 55 weather stations that have continuously provided a high amount of measurements from 1996-2021 (and thus no change in distribution over time). For the selection process, see [this notebook] (https://www.kaggle.com/code/matthiaskleine/clean-and-select).\n- **zehn_min_tu_Beschreibung_Stationen.txt**, additional information about the weather stations.\n- **DESCRIPTION_obsgermany_climate_10min_tu_historical_en.pdf**, the official data set description.\n\nThe terms of use are described by [https://opendata.dwd.de/climate_environment/CDC/Nutzungsbedingungen_German.pdf](https://opendata.dwd.de/climate_environment/CDC/Nutzungsbedingungen_German.pdf) and [https://gdz.bkg.bund.de](https://gdz.bkg.bund.de).",
+  "datasetId": 2848117,
+  "datasetSlug": "german-temperature-data-1990-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "matthiaskleine",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2572,
+  "totalVotes": 9,
+  "totalDownloads": 334,
+  "title": "German temperature data 1990-2021",
+  "hasTitle": true,
+  "subtitle": "Official german temperature data from 513 weather stations from 1990 to 2021",
+  "hasSubtitle": true,
+  "description": "The dataset provides official temperature data measured from 513 weather stations in Germany from 1990 to 2021.\n\nThe original data are provided by the German Meteorological Service (DWD, [Deutscher Wetterdienst](https://www.dwd.de/DE/Home/home_node.html)) via the [OpenData area of the Climate Data Center](https://opendata.dwd.de/climate_environment/CDC/Readme_intro_CDC_ftp.pdf) (CDC). These data are provided in 1611 files, resulting in &gt; 500 million rows of measurement information (or missing values), a format that is poorly suited  for further analysis.\n\nTherefore, the data are converted from \"long format\" to \"wide format\". **The result is a time series with 10 minute frequency containing one column per weather station.** The exact columns in the file are:\n- **MESS_DATUM**: the datetime values of the time series, representing the index of the time series\n- **list of weather station ids**: one column per weather station, represented by the weather station id\n\nFrom the five numerical measurement values of the original data, only \"air temperature at 2m height in \u00b0C\" was kept. \n\nIn addition to the extracted temperature data, a notebook is provided which can be used to extract the other four types of measurements in the same format.\n\nThe following files are provided in this dataset:\n- **german_temperature_data_1990_2021.csv**, containing the extracted original data (download and transformation, see [this notebook] (https://www.kaggle.com/code/matthiaskleine/read-german-temperature-data-1990-2021)).\n- **german_temperature_data_1996_2021_from_selected_weather_stations.csv**, containing a selection of the original data from 55 weather stations that have continuously provided a high amount of measurements from 1996-2021 (and thus no change in distribution over time). For the selection process, see [this notebook] (https://www.kaggle.com/code/matthiaskleine/clean-and-select).\n- **zehn_min_tu_Beschreibung_Stationen.txt**, additional information about the weather stations.\n- **DESCRIPTION_obsgermany_climate_10min_tu_historical_en.pdf**, the official data set description.\n\nThe terms of use are described by [https://opendata.dwd.de/climate_environment/CDC/Nutzungsbedingungen_German.pdf](https://opendata.dwd.de/climate_environment/CDC/Nutzungsbedingungen_German.pdf) and [https://gdz.bkg.bund.de](https://gdz.bkg.bund.de).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "weather and climate",
+    "time series analysis",
+    "german"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

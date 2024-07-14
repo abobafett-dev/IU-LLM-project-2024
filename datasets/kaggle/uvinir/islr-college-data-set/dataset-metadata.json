@@ -1,0 +1,44 @@
+{
+  "id": "uvinir/islr-college-data-set",
+  "id_no": 2748651,
+  "datasetSlugNullable": "islr-college-data-set",
+  "ownerUserNullable": "uvinir",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "ISLR - College Data Set ",
+  "subtitleNullable": "U.S. News and World Report's College Data",
+  "descriptionNullable": "**Description**\nStatistics for a large number of US Colleges from the 1995 issue of US News and World Report.\n\n**Usage**\nCollege\n\n**Format**\nA data frame with **777** **observations** on the following **18** **variables**.\n\n**Source**\nThis dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. The dataset was used in the ASA Statistical Graphics Section's 1995 Data Analysis Exposition.\n\n**References**\nJames, G., Witten, D., Hastie, T., and Tibshirani, R. (2013) An Introduction to Statistical Learning with applications in R, https://www.statlearning.com, Springer-Verlag, New York",
+  "datasetId": 2748651,
+  "datasetSlug": "islr-college-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "uvinir",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 334,
+  "totalVotes": 1,
+  "totalDownloads": 47,
+  "title": "ISLR - College Data Set ",
+  "hasTitle": true,
+  "subtitle": "U.S. News and World Report's College Data",
+  "hasSubtitle": true,
+  "description": "**Description**\nStatistics for a large number of US Colleges from the 1995 issue of US News and World Report.\n\n**Usage**\nCollege\n\n**Format**\nA data frame with **777** **observations** on the following **18** **variables**.\n\n**Source**\nThis dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. The dataset was used in the ASA Statistical Graphics Section's 1995 Data Analysis Exposition.\n\n**References**\nJames, G., Witten, D., Hastie, T., and Tibshirani, R. (2013) An Introduction to Statistical Learning with applications in R, https://www.statlearning.com, Springer-Verlag, New York",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "united states",
+    "education",
+    "data analytics",
+    "summarization",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

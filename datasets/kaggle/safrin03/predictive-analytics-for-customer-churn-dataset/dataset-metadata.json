@@ -1,0 +1,43 @@
+{
+  "id": "safrin03/predictive-analytics-for-customer-churn-dataset",
+  "id_no": 3820679,
+  "datasetSlugNullable": "predictive-analytics-for-customer-churn-dataset",
+  "ownerUserNullable": "safrin03",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Predictive Analytics for Customer Churn: Dataset",
+  "subtitleNullable": "Analyzing Customer Behavior to Predict Churn: A Subscription Service Case Study",
+  "descriptionNullable": "**Context :**\nThis dataset is part of a data science project focused on customer churn prediction for a subscription-based service. Customer churn, the rate at which customers cancel their subscriptions, is a vital metric for businesses offering subscription services. Predictive analytics techniques are employed to anticipate which customers are likely to churn, enabling companies to take proactive measures for customer retention.\n\n**Content :**\nThis dataset contains anonymized information about customer subscriptions and their interaction with the service. The data includes various features such as subscription type, payment method, viewing preferences, customer support interactions, and other relevant attributes. It consists of three files such as \"test.csv\", \"train.csv\", \"data_descriptions.csv\". \n\n**Columns :**\n\n**CustomerID:** Unique identifier for each customer\n\n**SubscriptionType:** Type of subscription plan chosen by the customer (e.g., Basic, Premium, Deluxe)\n\n**PaymentMethod:** Method used for payment (e.g., Credit Card, Electronic Check, PayPal)\n\n**PaperlessBilling:** Whether the customer uses paperless billing (Yes/No)\n\n**ContentType:** Type of content accessed by the customer (e.g., Movies, TV Shows, Documentaries)\n\n**MultiDeviceAccess:** Whether the customer has access on multiple devices (Yes/No)\n\n**DeviceRegistered:** Device registered by the customer (e.g., Smartphone, Smart TV, Laptop)\n\n**GenrePreference:** Genre preference of the customer (e.g., Action, Drama, Comedy)\n\n**Gender:** Gender of the customer (Male/Female)\n\n**ParentalControl:** Whether parental control is enabled (Yes/No)\n\n**SubtitlesEnabled:** Whether subtitles are enabled (Yes/No)\n\n**AccountAge:** Age of the customer's subscription account (in months)\n\n**MonthlyCharges:** Monthly subscription charges\n\n**TotalCharges:** Total charges incurred by the customer\n\n**ViewingHoursPerWeek:** Average number of viewing hours per week\n\n**SupportTicketsPerMonth:** Number of customer support tickets raised per month\n\n**AverageViewingDuration:** Average duration of each viewing session\n\n**ContentDownloadsPerMonth:** Number of content downloads per month\n\n**UserRating:** Customer satisfaction rating (1 to 5)\n\n**WatchlistSize:** Size of the customer's content watchlist\n\n**Acknowledgments :**\nThe dataset used in this project is obtained from Data Science Challenge on Coursera and is used for educational and research purposes. Any resemblance to real persons or entities is purely coincidental.",
+  "datasetId": 3820679,
+  "datasetSlug": "predictive-analytics-for-customer-churn-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "safrin03",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 8173,
+  "totalVotes": 18,
+  "totalDownloads": 1836,
+  "title": "Predictive Analytics for Customer Churn: Dataset",
+  "hasTitle": true,
+  "subtitle": "Analyzing Customer Behavior to Predict Churn: A Subscription Service Case Study",
+  "hasSubtitle": true,
+  "description": "**Context :**\nThis dataset is part of a data science project focused on customer churn prediction for a subscription-based service. Customer churn, the rate at which customers cancel their subscriptions, is a vital metric for businesses offering subscription services. Predictive analytics techniques are employed to anticipate which customers are likely to churn, enabling companies to take proactive measures for customer retention.\n\n**Content :**\nThis dataset contains anonymized information about customer subscriptions and their interaction with the service. The data includes various features such as subscription type, payment method, viewing preferences, customer support interactions, and other relevant attributes. It consists of three files such as \"test.csv\", \"train.csv\", \"data_descriptions.csv\". \n\n**Columns :**\n\n**CustomerID:** Unique identifier for each customer\n\n**SubscriptionType:** Type of subscription plan chosen by the customer (e.g., Basic, Premium, Deluxe)\n\n**PaymentMethod:** Method used for payment (e.g., Credit Card, Electronic Check, PayPal)\n\n**PaperlessBilling:** Whether the customer uses paperless billing (Yes/No)\n\n**ContentType:** Type of content accessed by the customer (e.g., Movies, TV Shows, Documentaries)\n\n**MultiDeviceAccess:** Whether the customer has access on multiple devices (Yes/No)\n\n**DeviceRegistered:** Device registered by the customer (e.g., Smartphone, Smart TV, Laptop)\n\n**GenrePreference:** Genre preference of the customer (e.g., Action, Drama, Comedy)\n\n**Gender:** Gender of the customer (Male/Female)\n\n**ParentalControl:** Whether parental control is enabled (Yes/No)\n\n**SubtitlesEnabled:** Whether subtitles are enabled (Yes/No)\n\n**AccountAge:** Age of the customer's subscription account (in months)\n\n**MonthlyCharges:** Monthly subscription charges\n\n**TotalCharges:** Total charges incurred by the customer\n\n**ViewingHoursPerWeek:** Average number of viewing hours per week\n\n**SupportTicketsPerMonth:** Number of customer support tickets raised per month\n\n**AverageViewingDuration:** Average duration of each viewing session\n\n**ContentDownloadsPerMonth:** Number of content downloads per month\n\n**UserRating:** Customer satisfaction rating (1 to 5)\n\n**WatchlistSize:** Size of the customer's content watchlist\n\n**Acknowledgments :**\nThe dataset used in this project is obtained from Data Science Challenge on Coursera and is used for educational and research purposes. Any resemblance to real persons or entities is purely coincidental.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "education",
+    "beginner",
+    "logistic regression",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

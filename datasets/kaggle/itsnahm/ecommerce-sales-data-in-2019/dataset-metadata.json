@@ -1,0 +1,39 @@
+{
+  "id": "itsnahm/ecommerce-sales-data-in-2019",
+  "id_no": 2843549,
+  "datasetSlugNullable": "ecommerce-sales-data-in-2019",
+  "ownerUserNullable": "itsnahm",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "E-commerce Sales Data in 2019",
+  "subtitleNullable": "Thousands rows of e commerce sales in 2019",
+  "descriptionNullable": "The dataset contains thousands sales from a unknown e-commerce in 2019. I got from my data science course so I saved here to learning material\n\nThe dataset dictionary:\n1. Order ID = Order id each rows \n2. Product = Product name \n3. Quantity Ordered = Amout of product quantity ordered \n4. Price Each = Price each product \n5. Order Date = Date of sales order \n6. Purchase Address = Address of people who ordered \n7. City = City \n8. Postal Code = Postal Code\n",
+  "datasetId": 2843549,
+  "datasetSlug": "ecommerce-sales-data-in-2019",
+  "hasDatasetSlug": true,
+  "ownerUser": "itsnahm",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 767,
+  "totalVotes": 2,
+  "totalDownloads": 74,
+  "title": "E-commerce Sales Data in 2019",
+  "hasTitle": true,
+  "subtitle": "Thousands rows of e commerce sales in 2019",
+  "hasSubtitle": true,
+  "description": "The dataset contains thousands sales from a unknown e-commerce in 2019. I got from my data science course so I saved here to learning material\n\nThe dataset dictionary:\n1. Order ID = Order id each rows \n2. Product = Product name \n3. Quantity Ordered = Amout of product quantity ordered \n4. Price Each = Price each product \n5. Order Date = Date of sales order \n6. Purchase Address = Address of people who ordered \n7. City = City \n8. Postal Code = Postal Code\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

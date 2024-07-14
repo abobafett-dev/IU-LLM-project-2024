@@ -1,0 +1,41 @@
+{
+  "id": "sbhatti/news-summarization",
+  "id_no": 1912571,
+  "datasetSlugNullable": "news-summarization",
+  "ownerUserNullable": "sbhatti",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "News Summarization",
+  "subtitleNullable": "News articles with corresponding summaries",
+  "descriptionNullable": "### Data\nThe following data is intended for advancing news summarization research. It's three datasets (XSum, CNN/Daily Mail, Multi-News) combined into one easy-to-use CSV file. It provides the original ID of each record, along with the article and its corresponding summary.\n\n\n### Citations\nNarayan, Shashi, Shay B. Cohen, and Mirella Lapata. \"Don't give me the details, just the summary! topic-aware convolutional neural networks for extreme summarization.\" *arXiv preprint arXiv:1808.08745* (2018).\n\nSee, Abigail, Peter J. Liu, and Christopher D. Manning. \"Get to the point: Summarization with pointer-generator networks.\" *arXiv preprint arXiv:1704.04368* (2017).\n\nFabbri, Alexander R., et al. \"Multi-news: A large-scale multi-document summarization dataset and abstractive hierarchical model.\" *arXiv preprint arXiv:1906.01749* (2019).",
+  "datasetId": 1912571,
+  "datasetSlug": "news-summarization",
+  "hasDatasetSlug": true,
+  "ownerUser": "sbhatti",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12084,
+  "totalVotes": 36,
+  "totalDownloads": 1272,
+  "title": "News Summarization",
+  "hasTitle": true,
+  "subtitle": "News articles with corresponding summaries",
+  "hasSubtitle": true,
+  "description": "### Data\nThe following data is intended for advancing news summarization research. It's three datasets (XSum, CNN/Daily Mail, Multi-News) combined into one easy-to-use CSV file. It provides the original ID of each record, along with the article and its corresponding summary.\n\n\n### Citations\nNarayan, Shashi, Shay B. Cohen, and Mirella Lapata. \"Don't give me the details, just the summary! topic-aware convolutional neural networks for extreme summarization.\" *arXiv preprint arXiv:1808.08745* (2018).\n\nSee, Abigail, Peter J. Liu, and Christopher D. Manning. \"Get to the point: Summarization with pointer-generator networks.\" *arXiv preprint arXiv:1704.04368* (2017).\n\nFabbri, Alexander R., et al. \"Multi-news: A large-scale multi-document summarization dataset and abstractive hierarchical model.\" *arXiv preprint arXiv:1906.01749* (2019).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "tabular",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

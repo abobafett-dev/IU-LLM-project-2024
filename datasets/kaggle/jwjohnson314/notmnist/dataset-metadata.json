@@ -1,0 +1,44 @@
+{
+  "id": "jwjohnson314/notmnist",
+  "id_no": 13147,
+  "datasetSlugNullable": "notmnist",
+  "ownerUserNullable": "jwjohnson314",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "notMNIST",
+  "subtitleNullable": "A dataset for a more challenging MNIST-like classification task",
+  "descriptionNullable": "### Context\n\nThe MNIST dataset is one of the best known image classification problems out there, and a veritable classic of the field of machine learning. This dataset is more challenging version of the same root problem: classifying letters from images. This is a multiclass classification dataset of glyphs of English letters A - J.\n\nThis dataset is used extensively in the Udacity Deep Learning course, and is available in the Tensorflow Github repo (under Examples). I'm not aware of any license governing the use of this data, so I'm posting it here so that the community can use it with Kaggle kernels.\n\n### Content\n\n`notMNIST _large.zip` is a large but dirty version of the dataset with 529,119 images, and `notMNIST_small.zip` is a small hand-cleaned version of the dataset, with 18726 images. The dataset was assembled by Yaroslav Bulatov, and can be obtained on his [blog][1]. According to this blog entry there is about a 6.5% label error rate on the large uncleaned dataset, and a 0.5% label error rate on the small hand-cleaned dataset.\n\nThe two files each containing 28x28 grayscale images of letters A - J, organized into directories by letter. `notMNIST_large.zip` contains 529,119 images and `notMNIST_small.zip` contains 18726 images.\n\n### Acknowledgements\n\nThanks to Yaroslav Bulatov for putting together the dataset.\n\n  [1]: http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html",
+  "datasetId": 13147,
+  "datasetSlug": "notmnist",
+  "hasDatasetSlug": true,
+  "ownerUser": "jwjohnson314",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 21900,
+  "totalVotes": 38,
+  "totalDownloads": 2145,
+  "title": "notMNIST",
+  "hasTitle": true,
+  "subtitle": "A dataset for a more challenging MNIST-like classification task",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe MNIST dataset is one of the best known image classification problems out there, and a veritable classic of the field of machine learning. This dataset is more challenging version of the same root problem: classifying letters from images. This is a multiclass classification dataset of glyphs of English letters A - J.\n\nThis dataset is used extensively in the Udacity Deep Learning course, and is available in the Tensorflow Github repo (under Examples). I'm not aware of any license governing the use of this data, so I'm posting it here so that the community can use it with Kaggle kernels.\n\n### Content\n\n`notMNIST _large.zip` is a large but dirty version of the dataset with 529,119 images, and `notMNIST_small.zip` is a small hand-cleaned version of the dataset, with 18726 images. The dataset was assembled by Yaroslav Bulatov, and can be obtained on his [blog][1]. According to this blog entry there is about a 6.5% label error rate on the large uncleaned dataset, and a 0.5% label error rate on the small hand-cleaned dataset.\n\nThe two files each containing 28x28 grayscale images of letters A - J, organized into directories by letter. `notMNIST_large.zip` contains 529,119 images and `notMNIST_small.zip` contains 18726 images.\n\n### Acknowledgements\n\nThanks to Yaroslav Bulatov for putting together the dataset.\n\n  [1]: http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "deep learning",
+    "image",
+    "multiclass classification",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

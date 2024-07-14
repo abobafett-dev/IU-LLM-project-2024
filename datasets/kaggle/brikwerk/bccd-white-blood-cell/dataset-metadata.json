@@ -1,0 +1,42 @@
+{
+  "id": "brikwerk/bccd-white-blood-cell",
+  "id_no": 2668399,
+  "datasetSlugNullable": "bccd-white-blood-cell",
+  "ownerUserNullable": "brikwerk",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "BCCD White Blood Cell Images",
+  "subtitleNullable": "A dataset composed of various types of white blood cell images",
+  "descriptionNullable": "A version of the Kaggle BCCD White Blood Cell (WBC) dataset modified for out-of-domain few-shot classification.\n\nWe recommend using this dataset as an out-of-domain testing target for few-shot classification. As such, no training/testing splits are published.\n\nThe original version can be found [here](https://www.kaggle.com/datasets/paultimothymooney/blood-cells).\nAll credit goes to the original authors of this dataset (Shenggan and Paul Mooney).\n\n## Dataset Structure and Composition\n\nThis dataset is structured as an image folder dataset, meaning each folder represents a class and contains images of the respective class.\n\nTotal Number of Images: 3500\nTotal Number of Classes: 5\nImages per Class: 700\nImage Size: 84x84px\n\n## Changes\n- All novel cell images have been pooled into a singular image dataset.\n- Basophil cell images have been extracted from the master dataset and added as a new class. Images in the basophil class have been resampled following the same procedure applied in the original dataset.\n\n## Testing Setup\nIn-domain Training Set: mini-imagenet training set\nTesting Settings: 5-way 1-shot and 5-way 5-shot\n\n## License\n\nMIT\nhttps://github.com/Shenggan/BCCD_Dataset",
+  "datasetId": 2668399,
+  "datasetSlug": "bccd-white-blood-cell",
+  "hasDatasetSlug": true,
+  "ownerUser": "brikwerk",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 3485,
+  "totalVotes": 12,
+  "totalDownloads": 381,
+  "title": "BCCD White Blood Cell Images",
+  "hasTitle": true,
+  "subtitle": "A dataset composed of various types of white blood cell images",
+  "hasSubtitle": true,
+  "description": "A version of the Kaggle BCCD White Blood Cell (WBC) dataset modified for out-of-domain few-shot classification.\n\nWe recommend using this dataset as an out-of-domain testing target for few-shot classification. As such, no training/testing splits are published.\n\nThe original version can be found [here](https://www.kaggle.com/datasets/paultimothymooney/blood-cells).\nAll credit goes to the original authors of this dataset (Shenggan and Paul Mooney).\n\n## Dataset Structure and Composition\n\nThis dataset is structured as an image folder dataset, meaning each folder represents a class and contains images of the respective class.\n\nTotal Number of Images: 3500\nTotal Number of Classes: 5\nImages per Class: 700\nImage Size: 84x84px\n\n## Changes\n- All novel cell images have been pooled into a singular image dataset.\n- Basophil cell images have been extracted from the master dataset and added as a new class. Images in the basophil class have been resampled following the same procedure applied in the original dataset.\n\n## Testing Setup\nIn-domain Training Set: mini-imagenet training set\nTesting Settings: 5-way 1-shot and 5-way 5-shot\n\n## License\n\nMIT\nhttps://github.com/Shenggan/BCCD_Dataset",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "medicine",
+    "computer science",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

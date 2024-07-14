@@ -1,0 +1,41 @@
+{
+  "id": "/antcorpus",
+  "id_no": 50907,
+  "datasetSlugNullable": "antcorpus",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "ANT Corpus: Arabic News Texts Corpus",
+  "subtitleNullable": "XML formatted files (alike TREC and CLEF test collections)",
+  "descriptionNullable": "### About the project\n\nANT Corpus stands for \"Arabic News Texts Corpus\". It is a research project that aims to collect texts from different sources of the web by incrementing the amount of data progressively.\n\nThe acronym ANT can remind the ants' work: \"*Every ant should contribute to build the nest progressively*\".\n\nYou can find other details on the main website page of [ANT (Arabic News Texts) Corpus](http://antcorpus.github.io).\n\nVersion details\n---------------\n&gt; **Current version:** v1.1\n\n| Version  | Articles number | Words number | Number of categories | Source\n\n| v1.1 **(current)** | 10 161  | &gt; 1 474 000 | 9 | [JawharaFM](http://www.jawharafm.net/ar/) |\n\n| v1.0 | 6 005  | &gt; 865 500 | 9 | [JawharaFM](http://www.jawharafm.net/ar/) |\n\nCategories\n----------------\n\n| Category (en)  | Category (ar) | JawharaFM | # of articles (v1.0) | # of articles (v1.1) |\n\n| culture | \u062b\u0642\u0627\u0641\u0629 | [x] | 70 | 124 |\n\n| diverse | \u0645\u062a\u0641\u0631\u0642\u0627\u062a | [x] | 194 | 475 |\n\n| economy | \u0627\u0642\u062a\u0635\u0627\u062f | [x] | 174 | 326 |\n\n| internationalNews | \u062f\u0648\u0644\u064a\u0629 | [x] | 561 | 1 260 |\n\n| localNews | \u0648\u0637\u0646\u064a\u0629 | [x] | 3 090 | 4 832 |\n\n| politic | \u0633\u064a\u0627\u0633\u0629 | [x] | 281 | 514 |\n\n| society | \u0645\u062c\u062a\u0645\u0639 | [x] | 673 | 1 087 |\n\n| sport | \u0631\u064a\u0627\u0636\u0629 | [x] | 906 | 1 460 |\n\n| technology |\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 | [x] | 56 | 83 |\n\n\nFiles format\n----------------\nANT Corpus files are formatted in XML using similar tags to the [TREC](http://trec.nist.gov/) and [CLEF](http://www.clef-initiative.eu/) standard test collections.\n\nThis a sample of an article from JawharaFM as a news web source in the \"economy\" (\u0627\u0642\u062a\u0635\u0627\u062f) category:\n\n    \n    \n\n#### About tags\n- ``\n- `",
+  "datasetId": 50907,
+  "datasetSlug": "antcorpus",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 6473,
+  "totalVotes": 10,
+  "totalDownloads": 422,
+  "title": "ANT Corpus: Arabic News Texts Corpus",
+  "hasTitle": true,
+  "subtitle": "XML formatted files (alike TREC and CLEF test collections)",
+  "hasSubtitle": true,
+  "description": "### About the project\n\nANT Corpus stands for \"Arabic News Texts Corpus\". It is a research project that aims to collect texts from different sources of the web by incrementing the amount of data progressively.\n\nThe acronym ANT can remind the ants' work: \"*Every ant should contribute to build the nest progressively*\".\n\nYou can find other details on the main website page of [ANT (Arabic News Texts) Corpus](http://antcorpus.github.io).\n\nVersion details\n---------------\n&gt; **Current version:** v1.1\n\n| Version  | Articles number | Words number | Number of categories | Source\n\n| v1.1 **(current)** | 10 161  | &gt; 1 474 000 | 9 | [JawharaFM](http://www.jawharafm.net/ar/) |\n\n| v1.0 | 6 005  | &gt; 865 500 | 9 | [JawharaFM](http://www.jawharafm.net/ar/) |\n\nCategories\n----------------\n\n| Category (en)  | Category (ar) | JawharaFM | # of articles (v1.0) | # of articles (v1.1) |\n\n| culture | \u062b\u0642\u0627\u0641\u0629 | [x] | 70 | 124 |\n\n| diverse | \u0645\u062a\u0641\u0631\u0642\u0627\u062a | [x] | 194 | 475 |\n\n| economy | \u0627\u0642\u062a\u0635\u0627\u062f | [x] | 174 | 326 |\n\n| internationalNews | \u062f\u0648\u0644\u064a\u0629 | [x] | 561 | 1 260 |\n\n| localNews | \u0648\u0637\u0646\u064a\u0629 | [x] | 3 090 | 4 832 |\n\n| politic | \u0633\u064a\u0627\u0633\u0629 | [x] | 281 | 514 |\n\n| society | \u0645\u062c\u062a\u0645\u0639 | [x] | 673 | 1 087 |\n\n| sport | \u0631\u064a\u0627\u0636\u0629 | [x] | 906 | 1 460 |\n\n| technology |\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 | [x] | 56 | 83 |\n\n\nFiles format\n----------------\nANT Corpus files are formatted in XML using similar tags to the [TREC](http://trec.nist.gov/) and [CLEF](http://www.clef-initiative.eu/) standard test collections.\n\nThis a sample of an article from JawharaFM as a news web source in the \"economy\" (\u0627\u0642\u062a\u0635\u0627\u062f) category:\n\n    \n    \n\n#### About tags\n- ``\n- `",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "software",
+    "text mining",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "dbs800/global-news-dataset",
+  "id_no": 81386,
+  "datasetSlugNullable": "global-news-dataset",
+  "ownerUserNullable": "dbs800",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Global news dataset",
+  "subtitleNullable": "News collected for a month from 24 country",
+  "descriptionNullable": "### Context\n\nWhat if we could collect the most popular news from absolutely different sources, regions, countries and continents? What if we would do it every day for a\u2026 let\u2019s say one month? What we will see? That\u2019s a challenge! With that idea in mind I started preparing this dataset.\n\n\n### Content\n\nThe data contains news from 10/23/2018 to 11/23/2018. Each day I\u2019ve got approximately 3000 new articles on a wide range of topics presented for 24 countries in a Google news aggregator. The dataset is a CSV file with text, date, country and preprocessed sentiment columns. \nSentiment column processed with \"Syuzhet\" package, showing the average of four different sentiment lexicons.\n\nSyuzhet incorporates four sentiment lexicons:\n\nThe default \"Syuzhet\" lexicon was developed in the Nebraska Literary Lab under the direction of Matthew L. Jockers\n\nThe \"afinn\" lexicon was develoepd by Finn Arup Nielsen as the AFINN WORD DATABASE \n\nThe \"bing\" lexicon was develoepd by Minqing Hu and Bing Liu as the OPINION LEXICON \n\nThe \"nrc\" lexicon was developed by Mohammad, Saif M. and Turney, Peter D. as the NRC EMOTION LEXICON.\n\n\n\n\n",
+  "datasetId": 81386,
+  "datasetSlug": "global-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "dbs800",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 7133,
+  "totalVotes": 11,
+  "totalDownloads": 518,
+  "title": "Global news dataset",
+  "hasTitle": true,
+  "subtitle": "News collected for a month from 24 country",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWhat if we could collect the most popular news from absolutely different sources, regions, countries and continents? What if we would do it every day for a\u2026 let\u2019s say one month? What we will see? That\u2019s a challenge! With that idea in mind I started preparing this dataset.\n\n\n### Content\n\nThe data contains news from 10/23/2018 to 11/23/2018. Each day I\u2019ve got approximately 3000 new articles on a wide range of topics presented for 24 countries in a Google news aggregator. The dataset is a CSV file with text, date, country and preprocessed sentiment columns. \nSentiment column processed with \"Syuzhet\" package, showing the average of four different sentiment lexicons.\n\nSyuzhet incorporates four sentiment lexicons:\n\nThe default \"Syuzhet\" lexicon was developed in the Nebraska Literary Lab under the direction of Matthew L. Jockers\n\nThe \"afinn\" lexicon was develoepd by Finn Arup Nielsen as the AFINN WORD DATABASE \n\nThe \"bing\" lexicon was develoepd by Minqing Hu and Bing Liu as the OPINION LEXICON \n\nThe \"nrc\" lexicon was developed by Mohammad, Saif M. and Turney, Peter D. as the NRC EMOTION LEXICON.\n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "economics",
+    "internet",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

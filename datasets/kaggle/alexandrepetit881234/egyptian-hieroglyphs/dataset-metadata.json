@@ -1,0 +1,39 @@
+{
+  "id": "alexandrepetit881234/egyptian-hieroglyphs",
+  "id_no": 3593485,
+  "datasetSlugNullable": "egyptian-hieroglyphs",
+  "ownerUserNullable": "alexandrepetit881234",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Egyptian Hieroglyphs",
+  "subtitleNullable": "95 different hieroglyphic symbols for image classification",
+  "descriptionNullable": "This dataset comes from Roboflow.com (unknown author)\n\nI am planning to use this dataset for a personal project. The project will be divided in 4 to 5 parts\n\n* Part 1 - Data Exploration<br>\n* Part 2 - Image Classification<br>\n* Part 3 - Object Detection (using image classifier)<br>\n* Part 4 - Object Detection (using object detection algorithm)<br>",
+  "datasetId": 3593485,
+  "datasetSlug": "egyptian-hieroglyphs",
+  "hasDatasetSlug": true,
+  "ownerUser": "alexandrepetit881234",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2086,
+  "totalVotes": 19,
+  "totalDownloads": 280,
+  "title": "Egyptian Hieroglyphs",
+  "hasTitle": true,
+  "subtitle": "95 different hieroglyphic symbols for image classification",
+  "hasSubtitle": true,
+  "description": "This dataset comes from Roboflow.com (unknown author)\n\nI am planning to use this dataset for a personal project. The project will be divided in 4 to 5 parts\n\n* Part 1 - Data Exploration<br>\n* Part 2 - Image Classification<br>\n* Part 3 - Object Detection (using image classifier)<br>\n* Part 4 - Object Detection (using object detection algorithm)<br>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "history"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

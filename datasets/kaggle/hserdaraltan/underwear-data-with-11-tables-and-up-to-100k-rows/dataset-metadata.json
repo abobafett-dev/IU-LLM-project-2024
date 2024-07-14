@@ -1,0 +1,43 @@
+{
+  "id": "hserdaraltan/underwear-data-with-11-tables-and-up-to-100k-rows",
+  "id_no": 4516875,
+  "datasetSlugNullable": "underwear-data-with-11-tables-and-up-to-100k-rows",
+  "ownerUserNullable": "hserdaraltan",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Underwear Data with 11 Tables & up to 100K+ rows",
+  "subtitleNullable": "Comprehensive Dataset of Underwear Business Transactions in Wholesale",
+  "descriptionNullable": "This dataset originates from a wholesale company specializing in the marketing and sales of underwear, referred to as \"the Company\" henceforth. It represents a subset of the Company's comprehensive database, encompassing data on purchases, sales, orders, customers, prices, and much more, spanning a specific period. The dataset is organized across 11 tables, varying in size from a handful to over 100,000 rows. Thanks to primary and secondary indices linking these tables, the dataset offers an excellent opportunity to hone skills in SQL, data analysis, visualization, and machine learning. A table outlining the relationships between them is provided for clarity.\n\nBefore release, the dataset underwent several modifications to improve its usability:\n\n1.\tTranslations of data labels and columns into English.\n2.\tReformatting of data types.\n3.\tCorrection of erroneous entries.\n4.\tRemoval of irrelevant columns.\n5.\tAnonymization of confidential information.\n6.\tPartial imputation of missing data, leaving some gaps for data engineering exercises. Data scientists may choose to impute or discard these missing values at their discretion. A cell marked with \"NA\" indicates that the feature corresponding to that column is not applicable for the given observation. Conversely, empty cells signify missing data, suggesting that the information was either unavailable or not collected.\n\nThe dataset comprises the following 11 tables:\n\n1.\t**Customers**: Details on the Company's customers.\n2.\t**Employees**: Information about the Company's employees.\n3.\t**Products**: Inventory of products sold by the Company.\n4.\t**Suppliers**: Information on the Company's suppliers.\n5.\t**Purchase Orders**: Records of orders placed by the Company to acquire products from suppliers.\n6.\t**Inventory Transactions**: Inventory records, including purchase orders, receipts, and missing items.\n7.\t**Orders**: Customer orders for the Company's goods.\n8.\t**Order Details**: Data on quantities sold and sale prices of products, linked to customer orders.\n9.\t**Shipping Methods**: Descriptions of the shipping methods used for purchasing or selling products.\n10.\t**Payment Methods**: Overview of payment methods available to customers.\n11.\t**Payments**: Records of payments made by customers to the Company.\n\nAll financial figures are provided in US Dollars. Product pack sizes are either by the dozen or single units, with prices and weights indicated per pack size. For instance, if a product's pack size is a dozen, the listed price and weight apply to all 12 items collectively.\n\nThe relationship map provided below details the interconnections among these tables.  \n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F6819860%2Fe8865f5a1f98e1ff521c40b7a1c3e686%2Frelationships_of_tables.png?generation=1709299005220207&alt=media)",
+  "datasetId": 4516875,
+  "datasetSlug": "underwear-data-with-11-tables-and-up-to-100k-rows",
+  "hasDatasetSlug": true,
+  "ownerUser": "hserdaraltan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 3728,
+  "totalVotes": 21,
+  "totalDownloads": 523,
+  "title": "Underwear Data with 11 Tables & up to 100K+ rows",
+  "hasTitle": true,
+  "subtitle": "Comprehensive Dataset of Underwear Business Transactions in Wholesale",
+  "hasSubtitle": true,
+  "description": "This dataset originates from a wholesale company specializing in the marketing and sales of underwear, referred to as \"the Company\" henceforth. It represents a subset of the Company's comprehensive database, encompassing data on purchases, sales, orders, customers, prices, and much more, spanning a specific period. The dataset is organized across 11 tables, varying in size from a handful to over 100,000 rows. Thanks to primary and secondary indices linking these tables, the dataset offers an excellent opportunity to hone skills in SQL, data analysis, visualization, and machine learning. A table outlining the relationships between them is provided for clarity.\n\nBefore release, the dataset underwent several modifications to improve its usability:\n\n1.\tTranslations of data labels and columns into English.\n2.\tReformatting of data types.\n3.\tCorrection of erroneous entries.\n4.\tRemoval of irrelevant columns.\n5.\tAnonymization of confidential information.\n6.\tPartial imputation of missing data, leaving some gaps for data engineering exercises. Data scientists may choose to impute or discard these missing values at their discretion. A cell marked with \"NA\" indicates that the feature corresponding to that column is not applicable for the given observation. Conversely, empty cells signify missing data, suggesting that the information was either unavailable or not collected.\n\nThe dataset comprises the following 11 tables:\n\n1.\t**Customers**: Details on the Company's customers.\n2.\t**Employees**: Information about the Company's employees.\n3.\t**Products**: Inventory of products sold by the Company.\n4.\t**Suppliers**: Information on the Company's suppliers.\n5.\t**Purchase Orders**: Records of orders placed by the Company to acquire products from suppliers.\n6.\t**Inventory Transactions**: Inventory records, including purchase orders, receipts, and missing items.\n7.\t**Orders**: Customer orders for the Company's goods.\n8.\t**Order Details**: Data on quantities sold and sale prices of products, linked to customer orders.\n9.\t**Shipping Methods**: Descriptions of the shipping methods used for purchasing or selling products.\n10.\t**Payment Methods**: Overview of payment methods available to customers.\n11.\t**Payments**: Records of payments made by customers to the Company.\n\nAll financial figures are provided in US Dollars. Product pack sizes are either by the dozen or single units, with prices and weights indicated per pack size. For instance, if a product's pack size is a dozen, the listed price and weight apply to all 12 items collectively.\n\nThe relationship map provided below details the interconnections among these tables.  \n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F6819860%2Fe8865f5a1f98e1ff521c40b7a1c3e686%2Frelationships_of_tables.png?generation=1709299005220207&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "exploratory data analysis",
+    "data analytics",
+    "tabular",
+    "sql"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

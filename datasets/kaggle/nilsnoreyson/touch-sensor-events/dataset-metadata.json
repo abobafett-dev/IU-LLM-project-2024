@@ -1,0 +1,43 @@
+{
+  "id": "nilsnoreyson/touch-sensor-events",
+  "id_no": 28422,
+  "datasetSlugNullable": "touch-sensor-events",
+  "ownerUserNullable": "nilsnoreyson",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Touch Sensor Events",
+  "subtitleNullable": "Use neuronal networks to classify touch gestures",
+  "descriptionNullable": "### Context\n\nA very simple dev board based on a esp32 was build. It reads 8 touch sensors arranged in a 2x4 array. The esp32 detects an inital touch on any sensor and then sends the (normalized) values of each touch sensor for the next 100 points (~one second ) to a couchdb database over a wifi connection.\nDue to the setup 8*100 values are recorded per event. The idea is to train i.e. 3 arbitrary gestures and use and ML to classifiy new events. The touch array is intended to work as a general userinterface. For the inital test, the following gestures have been used  and the 'class' name is given.\n\nswipe right = \"r\"\nswipe left = \"b\"\ndouble tap = \"k\"\n\nAs one can see in the overview of the three gesutes, even a human beeing would have no problem distunguishing the the profiles. The idea is not to write a algorithm that does the classification, but use a neuronal net to classify the 800 input features. \nThis work is intended to get into ML and a POC, to show that a neuronal network is able to distingush pattern. Also the idea is to give an idea of an general jupyter notebook (python) based workflow example.\n\n![enter image description here][1]\n\n![enter image description here][2]\n\n### Content\n\nThe supplied dataset may be loaded into pandas and will result in a dataframe with a datetime bases index. This is the time, when the document was created on the couchdb.\nThe \"event\" column holds the array with the touch sensor values. So there are 100x8 values. The numpy equivalent shape would be (100, 8).\nThe \"class\" holds a string which was given when recording the events. As a consequence of the inital idea of a POC, the class have been referring to thier color in the later repsentation (red, blue and black). This was not changed yet is is gore sure not the best way to have a comprehensiv dataset.\n\n### Acknowledgements\n\nAndrew Ng, for his work on coursera. And the micropython and esp-idf community for bringing python to the esp32.\n\n\n### Inspiration\n\nCan a neuronal network take away the part of writing the algorithm? Is it enough if I supply the idea and the code is written by the network?\n\n\n  [1]: https://storage.googleapis.com/kagglesdsdata/datasets/28422/36213/esp32_touch.JPG?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1527504284&Signature=a3Be8ZTbBoU36luiwe%2BRolgeIiv9i2TgDDRlSPl3QbzUu2cSyOEqGNHiZBEuTik4FRtikx9RhHgBZo3iYIUuD6mmUufLmQogGRQgLs8vEAKRgwmfnvJ8jrDp1WvS67DcQiBwN1GtjCvmx%2Fx2feO%2F6eqC%2Fl1evo1tNrJzaV9KNfsvfT0DAsMeMltJqZ5jfozhPxHbHIekqMiCdlNwqg3yGTowb5Jpral3aat4wQOCf74j5iLr3Rmg%2FJ%2B0hV5sKonq%2F%2FvEtZ056HmW4cbx%2BIzM9qWGPptxuQBrBViWtrP4aULcL%2BNtwP4z9XaoBAfoqUmkOP9e9h4K6U6jQjI9%2BSvOpA%3D%3D\n  [2]: https://storage.googleapis.com/kagglesdsdata/datasets/28422/36219/event_overview.jpg?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1527514694&Signature=OIvLKRqWNLuBUBptUx7DFNKc6Pp1KPCB2TkdCwDPerrRmJ7WObqKUqYicFU3zhgYf13Aqi%2B7DZJ5vGLCxhvZWePoNh6fb%2FqOeISrsuwkZ8Aw66Mwbnl%2BHqttjskf9qGq9O7R2jFDOUWfrrss28%2FzgxkTUayftwx1E%2FdSy32TilKgfx1XQgsyeiPgsjUPMXkgMhw9Me%2B5fr4Oxq8QriUuL1Ft0MvZynsMdHPZtj49R25NND9E3HjWRmuRmXaz7ADucVWc4Ljwj7Crxp6pRAPwx0BmHoxzrBbbKcLoz355I%2BngWqZKEIMQfkZKwpGdVkBw9j%2FKBsgi%2BBLnDCjzl8T5bA%3D%3D",
+  "datasetId": 28422,
+  "datasetSlug": "touch-sensor-events",
+  "hasDatasetSlug": true,
+  "ownerUser": "nilsnoreyson",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 9579,
+  "totalVotes": 11,
+  "totalDownloads": 526,
+  "title": "Touch Sensor Events",
+  "hasTitle": true,
+  "subtitle": "Use neuronal networks to classify touch gestures",
+  "hasSubtitle": true,
+  "description": "### Context\n\nA very simple dev board based on a esp32 was build. It reads 8 touch sensors arranged in a 2x4 array. The esp32 detects an inital touch on any sensor and then sends the (normalized) values of each touch sensor for the next 100 points (~one second ) to a couchdb database over a wifi connection.\nDue to the setup 8*100 values are recorded per event. The idea is to train i.e. 3 arbitrary gestures and use and ML to classifiy new events. The touch array is intended to work as a general userinterface. For the inital test, the following gestures have been used  and the 'class' name is given.\n\nswipe right = \"r\"\nswipe left = \"b\"\ndouble tap = \"k\"\n\nAs one can see in the overview of the three gesutes, even a human beeing would have no problem distunguishing the the profiles. The idea is not to write a algorithm that does the classification, but use a neuronal net to classify the 800 input features. \nThis work is intended to get into ML and a POC, to show that a neuronal network is able to distingush pattern. Also the idea is to give an idea of an general jupyter notebook (python) based workflow example.\n\n![enter image description here][1]\n\n![enter image description here][2]\n\n### Content\n\nThe supplied dataset may be loaded into pandas and will result in a dataframe with a datetime bases index. This is the time, when the document was created on the couchdb.\nThe \"event\" column holds the array with the touch sensor values. So there are 100x8 values. The numpy equivalent shape would be (100, 8).\nThe \"class\" holds a string which was given when recording the events. As a consequence of the inital idea of a POC, the class have been referring to thier color in the later repsentation (red, blue and black). This was not changed yet is is gore sure not the best way to have a comprehensiv dataset.\n\n### Acknowledgements\n\nAndrew Ng, for his work on coursera. And the micropython and esp-idf community for bringing python to the esp32.\n\n\n### Inspiration\n\nCan a neuronal network take away the part of writing the algorithm? Is it enough if I supply the idea and the code is written by the network?\n\n\n  [1]: https://storage.googleapis.com/kagglesdsdata/datasets/28422/36213/esp32_touch.JPG?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1527504284&Signature=a3Be8ZTbBoU36luiwe%2BRolgeIiv9i2TgDDRlSPl3QbzUu2cSyOEqGNHiZBEuTik4FRtikx9RhHgBZo3iYIUuD6mmUufLmQogGRQgLs8vEAKRgwmfnvJ8jrDp1WvS67DcQiBwN1GtjCvmx%2Fx2feO%2F6eqC%2Fl1evo1tNrJzaV9KNfsvfT0DAsMeMltJqZ5jfozhPxHbHIekqMiCdlNwqg3yGTowb5Jpral3aat4wQOCf74j5iLr3Rmg%2FJ%2B0hV5sKonq%2F%2FvEtZ056HmW4cbx%2BIzM9qWGPptxuQBrBViWtrP4aULcL%2BNtwP4z9XaoBAfoqUmkOP9e9h4K6U6jQjI9%2BSvOpA%3D%3D\n  [2]: https://storage.googleapis.com/kagglesdsdata/datasets/28422/36219/event_overview.jpg?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1527514694&Signature=OIvLKRqWNLuBUBptUx7DFNKc6Pp1KPCB2TkdCwDPerrRmJ7WObqKUqYicFU3zhgYf13Aqi%2B7DZJ5vGLCxhvZWePoNh6fb%2FqOeISrsuwkZ8Aw66Mwbnl%2BHqttjskf9qGq9O7R2jFDOUWfrrss28%2FzgxkTUayftwx1E%2FdSy32TilKgfx1XQgsyeiPgsjUPMXkgMhw9Me%2B5fr4Oxq8QriUuL1Ft0MvZynsMdHPZtj49R25NND9E3HjWRmuRmXaz7ADucVWc4Ljwj7Crxp6pRAPwx0BmHoxzrBbbKcLoz355I%2BngWqZKEIMQfkZKwpGdVkBw9j%2FKBsgi%2BBLnDCjzl8T5bA%3D%3D",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "neuroscience",
+    "computer science",
+    "programming",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

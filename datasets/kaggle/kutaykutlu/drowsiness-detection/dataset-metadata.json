@@ -1,0 +1,45 @@
+{
+  "id": "kutaykutlu/drowsiness-detection",
+  "id_no": 1157257,
+  "datasetSlugNullable": "drowsiness-detection",
+  "ownerUserNullable": "kutaykutlu",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Drowsiness Detection",
+  "subtitleNullable": "Human eye images, MRL Eye Dataset",
+  "descriptionNullable": "## Context\n\nThis dataset is just one part of The MRL Eye Dataset, the large-scale dataset of human eye images. It is prepared for classification tasks This dataset contains infrared images in low and high resolution, all captured in various lighting conditions and by different devices. The dataset is suitable for testing several features or trainable classifiers. In order to simplify the comparison of algorithms, the images are divided into several categories, which also makes them suitable for training and testing classifiers.\nThe full dataset is available here \"http://mrl.cs.vsb.cz/eyedataset\"\n\n## Content\n\n### In the dataset, we annotated the following properties (the properties are indicated in the following order):\n\n**subject ID;** in the dataset, we collected the data of 37 different persons (33 men and 4 women)\n\n**Image ID;** the dataset consists of 84,898 images\n\n**gender [0 - man, 1 - woman]; the dataset contains the information about gender for each image (man, woman)\n\n**glasses [0 - no, 1 - yes];** the information if the eye image contains glasses is also provided for each image (with and without the glasses)\n\n**eye state [0 - closed, 1 - open];** this property contains the information about two eye states (open, close)\n\n**reflections [0 - none, 1 - small, 2 - big];** we annotated three reflection states based on the size of reflections (none, small, and big reflections)\n\n**lighting conditions [0 - bad, 1 - good];** each image has two states (bad, good) based on the amount of light during capturing the videos\n\n**sensor ID [01 - RealSense, 02 - IDS, 03 - Aptina];** at this moment, the dataset contains the images captured by three different sensors (Intel RealSense RS 300 sensor with 640 x 480 resolution, IDS Imaging sensor with 1280 x 1024 resolution, and Aptina sensor with 752 x 480 resolution)\n\n**Example :**   s0028 00001 0 0 0 0 0 01\n\n**Please UPVOTE if the dataset  is useful for you**",
+  "datasetId": 1157257,
+  "datasetSlug": "drowsiness-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "kutaykutlu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 31787,
+  "totalVotes": 35,
+  "totalDownloads": 2237,
+  "title": "Drowsiness Detection",
+  "hasTitle": true,
+  "subtitle": "Human eye images, MRL Eye Dataset",
+  "hasSubtitle": true,
+  "description": "## Context\n\nThis dataset is just one part of The MRL Eye Dataset, the large-scale dataset of human eye images. It is prepared for classification tasks This dataset contains infrared images in low and high resolution, all captured in various lighting conditions and by different devices. The dataset is suitable for testing several features or trainable classifiers. In order to simplify the comparison of algorithms, the images are divided into several categories, which also makes them suitable for training and testing classifiers.\nThe full dataset is available here \"http://mrl.cs.vsb.cz/eyedataset\"\n\n## Content\n\n### In the dataset, we annotated the following properties (the properties are indicated in the following order):\n\n**subject ID;** in the dataset, we collected the data of 37 different persons (33 men and 4 women)\n\n**Image ID;** the dataset consists of 84,898 images\n\n**gender [0 - man, 1 - woman]; the dataset contains the information about gender for each image (man, woman)\n\n**glasses [0 - no, 1 - yes];** the information if the eye image contains glasses is also provided for each image (with and without the glasses)\n\n**eye state [0 - closed, 1 - open];** this property contains the information about two eye states (open, close)\n\n**reflections [0 - none, 1 - small, 2 - big];** we annotated three reflection states based on the size of reflections (none, small, and big reflections)\n\n**lighting conditions [0 - bad, 1 - good];** each image has two states (bad, good) based on the amount of light during capturing the videos\n\n**sensor ID [01 - RealSense, 02 - IDS, 03 - Aptina];** at this moment, the dataset contains the images captured by three different sensors (Intel RealSense RS 300 sensor with 640 x 480 resolution, IDS Imaging sensor with 1280 x 1024 resolution, and Aptina sensor with 752 x 480 resolution)\n\n**Example :**   s0028 00001 0 0 0 0 0 01\n\n**Please UPVOTE if the dataset  is useful for you**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer vision",
+    "image",
+    "binary classification",
+    "drugs and medications",
+    "gpu",
+    "cv2"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

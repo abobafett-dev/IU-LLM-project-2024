@@ -1,0 +1,45 @@
+{
+  "id": "ivankalinchuk/charaters-for-detection-classification",
+  "id_no": 897337,
+  "datasetSlugNullable": "charaters-for-detection-classification",
+  "ownerUserNullable": "ivankalinchuk",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Charaters for detection classification",
+  "subtitleNullable": "A set of images with xml bounding data and images for classification",
+  "descriptionNullable": "### Prehistory\n\nLearning concepts of object detection and classification, especially on of the most successful architecture for it - yolov3, I've cought an idea to create my own dataset for an object detection problem. Meet my very first dataset for it: the next letters for both classification and detection. *abcdefghijklmnopqrstuwvxyzABCDEFGHIJKLMNOPQRSTUWVXYZ0123456789+@*\n\n### Content\n\nThere are 3 folders: *test*, *train* and *real_world_images*. Let's have a look on *test* and *train* folders. Both of them contain a folder *images* and a csv file, according to the main folder (**train.csv** or **tesdt.csv**). Folder *real_world_images* contains random images from random places of the Internet of random sizes.\n\n### Acknowledgements\n\nHuge thanks to all kagglers,  as doing data science is a brand new magic business for humans, so you and I are making a very good job!\n\n\n### Inspiration\n\nOCR (object character recognition) is still a huge problem for machine learning algorithms, as it's quite difficult to say what symbol of several alphabets is on an image. For example, you've taken a picture of a signboard in Germany, and there is a word 'Bad'. This is bath in english, but what if you have some database, which contains english, german, spanish, chinese etc vocabularies? Will you just skip same letters and leave only one in alphabets? I've come to an idea, but it doesn't seem for me to be a final solution: yes, we have to drop same looking letters, and leave it in only one dictionary. For example, we are free to drop a,b,c,d,e,f etc from german, spanish, portugalish etc and leave it only in english vocabulary for classification. But when we get classified word (several letters), we need to say what language does the word came from. As a fast solution, we just check for some unique letters. For example if a word contains some so called english letters, and two from german language, we can successfully say that this word is german. Searching for a word in huge dictionaries (vocabularies) is not a good solution, as it will take a lot of time and there is no garantee that this word is in your dictionaries.",
+  "datasetId": 897337,
+  "datasetSlug": "charaters-for-detection-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "ivankalinchuk",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 4294,
+  "totalVotes": 6,
+  "totalDownloads": 145,
+  "title": "Charaters for detection classification",
+  "hasTitle": true,
+  "subtitle": "A set of images with xml bounding data and images for classification",
+  "hasSubtitle": true,
+  "description": "### Prehistory\n\nLearning concepts of object detection and classification, especially on of the most successful architecture for it - yolov3, I've cought an idea to create my own dataset for an object detection problem. Meet my very first dataset for it: the next letters for both classification and detection. *abcdefghijklmnopqrstuwvxyzABCDEFGHIJKLMNOPQRSTUWVXYZ0123456789+@*\n\n### Content\n\nThere are 3 folders: *test*, *train* and *real_world_images*. Let's have a look on *test* and *train* folders. Both of them contain a folder *images* and a csv file, according to the main folder (**train.csv** or **tesdt.csv**). Folder *real_world_images* contains random images from random places of the Internet of random sizes.\n\n### Acknowledgements\n\nHuge thanks to all kagglers,  as doing data science is a brand new magic business for humans, so you and I are making a very good job!\n\n\n### Inspiration\n\nOCR (object character recognition) is still a huge problem for machine learning algorithms, as it's quite difficult to say what symbol of several alphabets is on an image. For example, you've taken a picture of a signboard in Germany, and there is a word 'Bad'. This is bath in english, but what if you have some database, which contains english, german, spanish, chinese etc vocabularies? Will you just skip same letters and leave only one in alphabets? I've come to an idea, but it doesn't seem for me to be a final solution: yes, we have to drop same looking letters, and leave it in only one dictionary. For example, we are free to drop a,b,c,d,e,f etc from german, spanish, portugalish etc and leave it only in english vocabulary for classification. But when we get classified word (several letters), we need to say what language does the word came from. As a fast solution, we just check for some unique letters. For example if a word contains some so called english letters, and two from german language, we can successfully say that this word is german. Searching for a word in huge dictionaries (vocabularies) is not a good solution, as it will take a lot of time and there is no garantee that this word is in your dictionaries.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "education",
+    "software",
+    "classification",
+    "deep learning",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

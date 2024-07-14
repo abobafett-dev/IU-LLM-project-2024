@@ -1,0 +1,45 @@
+{
+  "id": "kaushiksuresh147/maticpolygon-crytocurrency-historical-dataset",
+  "id_no": 1207554,
+  "datasetSlugNullable": "maticpolygon-crytocurrency-historical-dataset",
+  "ownerUserNullable": "kaushiksuresh147",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Matic(Polygon) Cryptocurrency Historical Dataset",
+  "subtitleNullable": "Historical Matic cryptocurrency data since Jun 2019",
+  "descriptionNullable": "### Context \n<img src=\"https://miro.medium.com/max/561/1*hOf3Wsoor1Bm5Jl_4uMJ9w.png\">\n\n\n#### Some background on Matic:\n\nAn ideal blockchain platform, Matic provides cheaper and lightning-fast transactions eliminating the complexities involved in the decentralized ecosystem. Matic has been created with the sole objective of a multifunctional and multipurpose advantage in all walks of life.\n\nMatic Network was brought to life by CEO Jaynti Kanani, Sandeep Nailwal, and Anurag Arjun in October 2017 after Vitalik Buterin and Joseph Poon released a whitepaper on the Plasma framework. It was observed by the duo that Ethereum was not fully scalable and hence they coined the benefit of using PoS side chains connected to the root chain. Here each and every individual chain deals with its independent blockchain with its consensus mechanism, block validators and it can create more \u201cchild chains\u201d of its own.\n\n### Content\n\nThe dataset consists of MAT(Matic) prices from June-2019 to the current date (625 days) and the dataset will be updated on a weekly basis. \n\n### Information regarding the data\nThe data totally consists of 625 records(625 days) with 7 columns. The description of the features is given below\n\n| No |Columns | Descriptions |\n| -- | -- | -- |\n| 1 | Date | Date of the MAT prices |\n| 2 | Price | Prices of MAT(dollars) |\n| 3 | Open | Opening price of MAT on the respective date(Dollars) |\n| 4 | High | Highest price of MAT on the respective date(Dollars) |\n| 5 | Low | Lowest price of MAT on the respective date(Dollars) |\n| 6 | Vol. | Volume of MAT on the respective date(Dollars). |\n| 7 | Change % | Percentage of Change in MAT prices on the respective date | |\n\n\n### Acknowledgements\n\nThe dataset was extracted from investing.com\n\n### Inspiration\n\nGoing by Wallet Investor\u2019s Matic price prediction for 2020-2025, \u201cMatic is an excellent long term instrument for investment. The price of Matic can go up from 0.0156 USD to 0.0236 USD in one year. Matic also shows a long-term earning potential is +51.05% in one year. The future price of Matic will surely be 0.0572 USD. Matic is set to have a bullish cycle and earn a profit for its investors. It is highly recommended as a virtual currency.\u201d \n\nDo you believe it? Well, let's find it by building our own creative models to predict if the statement is true.",
+  "datasetId": 1207554,
+  "datasetSlug": "maticpolygon-crytocurrency-historical-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kaushiksuresh147",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7888,
+  "totalVotes": 21,
+  "totalDownloads": 520,
+  "title": "Matic(Polygon) Cryptocurrency Historical Dataset",
+  "hasTitle": true,
+  "subtitle": "Historical Matic cryptocurrency data since Jun 2019",
+  "hasSubtitle": true,
+  "description": "### Context \n<img src=\"https://miro.medium.com/max/561/1*hOf3Wsoor1Bm5Jl_4uMJ9w.png\">\n\n\n#### Some background on Matic:\n\nAn ideal blockchain platform, Matic provides cheaper and lightning-fast transactions eliminating the complexities involved in the decentralized ecosystem. Matic has been created with the sole objective of a multifunctional and multipurpose advantage in all walks of life.\n\nMatic Network was brought to life by CEO Jaynti Kanani, Sandeep Nailwal, and Anurag Arjun in October 2017 after Vitalik Buterin and Joseph Poon released a whitepaper on the Plasma framework. It was observed by the duo that Ethereum was not fully scalable and hence they coined the benefit of using PoS side chains connected to the root chain. Here each and every individual chain deals with its independent blockchain with its consensus mechanism, block validators and it can create more \u201cchild chains\u201d of its own.\n\n### Content\n\nThe dataset consists of MAT(Matic) prices from June-2019 to the current date (625 days) and the dataset will be updated on a weekly basis. \n\n### Information regarding the data\nThe data totally consists of 625 records(625 days) with 7 columns. The description of the features is given below\n\n| No |Columns | Descriptions |\n| -- | -- | -- |\n| 1 | Date | Date of the MAT prices |\n| 2 | Price | Prices of MAT(dollars) |\n| 3 | Open | Opening price of MAT on the respective date(Dollars) |\n| 4 | High | Highest price of MAT on the respective date(Dollars) |\n| 5 | Low | Lowest price of MAT on the respective date(Dollars) |\n| 6 | Vol. | Volume of MAT on the respective date(Dollars). |\n| 7 | Change % | Percentage of Change in MAT prices on the respective date | |\n\n\n### Acknowledgements\n\nThe dataset was extracted from investing.com\n\n### Inspiration\n\nGoing by Wallet Investor\u2019s Matic price prediction for 2020-2025, \u201cMatic is an excellent long term instrument for investment. The price of Matic can go up from 0.0156 USD to 0.0236 USD in one year. Matic also shows a long-term earning potential is +51.05% in one year. The future price of Matic will surely be 0.0572 USD. Matic is set to have a bullish cycle and earn a profit for its investors. It is highly recommended as a virtual currency.\u201d \n\nDo you believe it? Well, let's find it by building our own creative models to predict if the statement is true.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "intermediate",
+    "exploratory data analysis",
+    "data visualization",
+    "time series analysis",
+    "investing",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

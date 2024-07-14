@@ -1,0 +1,43 @@
+{
+  "id": "warcoder/gkn-blade-surface-defect-dataset",
+  "id_no": 3725720,
+  "datasetSlugNullable": "gkn-blade-surface-defect-dataset",
+  "ownerUserNullable": "warcoder",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "GKN Blade Surface Defect Dataset",
+  "subtitleNullable": "Blade Surface Defect detection between good, nick and scratches.",
+  "descriptionNullable": "Detect the defects of the blade between good, nicks and scratches. The blade Surface Defect detection dataset is a multiclass image classification dataset that can be used to detect the defects in the blades produced.",
+  "datasetId": 3725720,
+  "datasetSlug": "gkn-blade-surface-defect-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "warcoder",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 714,
+  "totalVotes": 9,
+  "totalDownloads": 100,
+  "title": "GKN Blade Surface Defect Dataset",
+  "hasTitle": true,
+  "subtitle": "Blade Surface Defect detection between good, nick and scratches.",
+  "hasSubtitle": true,
+  "description": "Detect the defects of the blade between good, nicks and scratches. The blade Surface Defect detection dataset is a multiclass image classification dataset that can be used to detect the defects in the blades produced.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "classification",
+    "image",
+    "multiclass classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

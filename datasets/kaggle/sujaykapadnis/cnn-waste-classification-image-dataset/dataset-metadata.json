@@ -1,0 +1,43 @@
+{
+  "id": "sujaykapadnis/cnn-waste-classification-image-dataset",
+  "id_no": 4015278,
+  "datasetSlugNullable": "cnn-waste-classification-image-dataset",
+  "ownerUserNullable": "sujaykapadnis",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "CNN: Waste Classification [Image] Dataset",
+  "subtitleNullable": "collection of 24,705 images of solid household waste",
+  "descriptionNullable": "The original dataset from Kaggle consists of 25,077 images of organic (13,966) and recyclable (11,111) images.  The acquired images are coloured .jpg files of randomly portrait and landscape orientation with resolution ranging from 191 pixels (minimum) x 264 pixels (maximum). A total of 24,705 images have RGB colour mode while 372 images have P mode. The latter was removed from the dataset to avoid colour-banding issues. Thus, only 24,705 images was retained for experiments.\n\nTo enhance the size and quality of the dataset, we applied data augmentation which includes a suite of techniques for increasing the amount of data by adding slightly modified copies of the original data.\n\n[Parent dataset](https://www.kaggle.com/datasets/techsash/waste-classification-data)\n\nNnamoko, Nonso; Barrowclough, Joseph ; Procter, Jack (2023), \u201cWaste Classification Dataset\u201d, Mendeley Data, V3, doi: 10.17632/n3gtgm9jxj.3",
+  "datasetId": 4015278,
+  "datasetSlug": "cnn-waste-classification-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sujaykapadnis",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 1269,
+  "totalVotes": 7,
+  "totalDownloads": 325,
+  "title": "CNN: Waste Classification [Image] Dataset",
+  "hasTitle": true,
+  "subtitle": "collection of 24,705 images of solid household waste",
+  "hasSubtitle": true,
+  "description": "The original dataset from Kaggle consists of 25,077 images of organic (13,966) and recyclable (11,111) images.  The acquired images are coloured .jpg files of randomly portrait and landscape orientation with resolution ranging from 191 pixels (minimum) x 264 pixels (maximum). A total of 24,705 images have RGB colour mode while 372 images have P mode. The latter was removed from the dataset to avoid colour-banding issues. Thus, only 24,705 images was retained for experiments.\n\nTo enhance the size and quality of the dataset, we applied data augmentation which includes a suite of techniques for increasing the amount of data by adding slightly modified copies of the original data.\n\n[Parent dataset](https://www.kaggle.com/datasets/techsash/waste-classification-data)\n\nNnamoko, Nonso; Barrowclough, Joseph ; Procter, Jack (2023), \u201cWaste Classification Dataset\u201d, Mendeley Data, V3, doi: 10.17632/n3gtgm9jxj.3",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "deep learning",
+    "neural networks",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

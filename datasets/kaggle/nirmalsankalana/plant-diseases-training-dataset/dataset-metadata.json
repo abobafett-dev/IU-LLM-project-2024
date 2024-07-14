@@ -1,0 +1,44 @@
+{
+  "id": "nirmalsankalana/plant-diseases-training-dataset",
+  "id_no": 4325763,
+  "datasetSlugNullable": "plant-diseases-training-dataset",
+  "ownerUserNullable": "nirmalsankalana",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Plant Diseases Training Dataset",
+  "subtitleNullable": "Comprehensive dataset for train a plant disease classifier",
+  "descriptionNullable": "This dataset is created by merging the following datasets\n| Dataset                      | no of Samples | no of classes | Link                                                                                                 | Source                                                                                  |\n| ---------------------------- | ------------- | ------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |\n| Cassava Leaf Disease Dataset | 21400         | 5             | [Cassava Leaf Disease Dataset](https://tensorflow.google.cn/datasets/catalog/cassava)                | Ernest Mwebaze and Timnit Gebru and Andrea Frome and Solomon Nsumba and Jeremy Tusubira |\n| Rice Leaf Disease Images     | 5932          | 4             | [Rice Leaf Disease Images](https://data.mendeley.com/datasets/fwcj7stb8r/1)                          | Sethy, P. K., Barpanda, N. K., Rath, A. K., & Behera, S. K.                             |\n| PlantVillage                 | 54303         | 38            | [PlantVillage](https://www.tensorflow.org/datasets/catalog/plant_village)                            | David P. Hughes and Marcel Salath                                                       |\n| Potato Leaf Disease          | 4072          | 3             | [Potato Leaf Disease](https://www.mdpi.com/2079-9292/10/17/2064)                                     | images collected from the Central Punjab region of Pakistan                             |\n| Plant Pathelogy              | 2700          | 3             | [Plant Pathelogy](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/data)                          |\n| ESCA-dataset                 | 1768          | 2             | [ESCA-dataset](https://data.mendeley.com/datasets/89cnxc58kj/1)                                      |                                                                                         |\n| Sugercane Leaf Image Dataset | 2569          | 5             | [Sugercane Leaf Image Dataset](https://data.mendeley.com/datasets/9424skmnrk/1)                      |\n| Potato Leaf Disease          | 1500          | 3             | [Potato Leaf Disease](https://www.kaggle.com/datasets/muhammadardiputra/potato-leaf-disease-dataset) |                                                                                         |",
+  "datasetId": 4325763,
+  "datasetSlug": "plant-diseases-training-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "nirmalsankalana",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 10741,
+  "totalVotes": 44,
+  "totalDownloads": 1006,
+  "title": "Plant Diseases Training Dataset",
+  "hasTitle": true,
+  "subtitle": "Comprehensive dataset for train a plant disease classifier",
+  "hasSubtitle": true,
+  "description": "This dataset is created by merging the following datasets\n| Dataset                      | no of Samples | no of classes | Link                                                                                                 | Source                                                                                  |\n| ---------------------------- | ------------- | ------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |\n| Cassava Leaf Disease Dataset | 21400         | 5             | [Cassava Leaf Disease Dataset](https://tensorflow.google.cn/datasets/catalog/cassava)                | Ernest Mwebaze and Timnit Gebru and Andrea Frome and Solomon Nsumba and Jeremy Tusubira |\n| Rice Leaf Disease Images     | 5932          | 4             | [Rice Leaf Disease Images](https://data.mendeley.com/datasets/fwcj7stb8r/1)                          | Sethy, P. K., Barpanda, N. K., Rath, A. K., & Behera, S. K.                             |\n| PlantVillage                 | 54303         | 38            | [PlantVillage](https://www.tensorflow.org/datasets/catalog/plant_village)                            | David P. Hughes and Marcel Salath                                                       |\n| Potato Leaf Disease          | 4072          | 3             | [Potato Leaf Disease](https://www.mdpi.com/2079-9292/10/17/2064)                                     | images collected from the Central Punjab region of Pakistan                             |\n| Plant Pathelogy              | 2700          | 3             | [Plant Pathelogy](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/data)                          |\n| ESCA-dataset                 | 1768          | 2             | [ESCA-dataset](https://data.mendeley.com/datasets/89cnxc58kj/1)                                      |                                                                                         |\n| Sugercane Leaf Image Dataset | 2569          | 5             | [Sugercane Leaf Image Dataset](https://data.mendeley.com/datasets/9424skmnrk/1)                      |\n| Potato Leaf Disease          | 1500          | 3             | [Potato Leaf Disease](https://www.kaggle.com/datasets/muhammadardiputra/potato-leaf-disease-dataset) |                                                                                         |",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "biology",
+    "plants",
+    "agriculture",
+    "computer vision",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

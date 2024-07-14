@@ -1,0 +1,43 @@
+{
+  "id": "utkarshsaxenadn/age-and-gender-prediction-vgg16-resnet152v2",
+  "id_no": 4419299,
+  "datasetSlugNullable": "age-and-gender-prediction-vgg16-resnet152v2",
+  "ownerUserNullable": "utkarshsaxenadn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Age & Gender Prediction | VGG16 | ResNet152V2 ",
+  "subtitleNullable": "Age and Gender Prediction Models: Trained Weights and Visualizations Dataset",
+  "descriptionNullable": "This dataset encompasses essential components for the comprehensive evaluation of age and gender prediction models. The 'weights' folder provides the trained weights for both the age and gender networks, facilitating the reproduction and further exploration of the models. Additionally, the 'images' folder houses informative visuals, including learning curves, sample data illustrations, and other visualizations featured in the associated notebook. This resource-rich dataset serves as a valuable asset for researchers and practitioners delving into the realms of age and gender prediction using machine learning models.",
+  "datasetId": 4419299,
+  "datasetSlug": "age-and-gender-prediction-vgg16-resnet152v2",
+  "hasDatasetSlug": true,
+  "ownerUser": "utkarshsaxenadn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2835,
+  "totalVotes": 11,
+  "totalDownloads": 217,
+  "title": "Age & Gender Prediction | VGG16 | ResNet152V2 ",
+  "hasTitle": true,
+  "subtitle": "Age and Gender Prediction Models: Trained Weights and Visualizations Dataset",
+  "hasSubtitle": true,
+  "description": "This dataset encompasses essential components for the comprehensive evaluation of age and gender prediction models. The 'weights' folder provides the trained weights for both the age and gender networks, facilitating the reproduction and further exploration of the models. Additionally, the 'images' folder houses informative visuals, including learning curves, sample data illustrations, and other visualizations featured in the associated notebook. This resource-rich dataset serves as a valuable asset for researchers and practitioners delving into the realms of age and gender prediction using machine learning models.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "model comparison",
+    "regression",
+    "transfer learning",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

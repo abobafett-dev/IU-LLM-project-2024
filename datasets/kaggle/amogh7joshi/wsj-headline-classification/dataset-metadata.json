@@ -1,0 +1,39 @@
+{
+  "id": "amogh7joshi/wsj-headline-classification",
+  "id_no": 1442531,
+  "datasetSlugNullable": "wsj-headline-classification",
+  "ownerUserNullable": "amogh7joshi",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "WSJ Headline Classification",
+  "subtitleNullable": "News Category Classification using Wall Street Journal Headlines",
+  "descriptionNullable": "# Wall Street Journal Headline Classification\n\n## Contents\n\nThis dataset provides a rigorous natural language database, with over 19,000 headlines scraped from the Wall Street Journal archives over the dates **05/03/1998-06/30/2021**, The headlines are categorized according to the Wall Street Journal categorization, and the end result is 67 categories.\n\nThis dataset is intended to be used primarily for news category classification, but can also serve as a general database of news headlines for other tasks such as unsupervised clustering.\n\n## Procedure\n\nAll headlines were scraped from the Wall Street Journal archives (https://www.wsj.com/news/archive/years) and each of the relevant day pages. Most days from the period of May 3, 1998 to June 30, 2021 are included, although some may be missing. 3-4 headlines were randomly selected from each date included in the dataset. From here, any categories with less than 100 entries were removed, and the entire set was shuffled.",
+  "datasetId": 1442531,
+  "datasetSlug": "wsj-headline-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "amogh7joshi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 2978,
+  "totalVotes": 7,
+  "totalDownloads": 191,
+  "title": "WSJ Headline Classification",
+  "hasTitle": true,
+  "subtitle": "News Category Classification using Wall Street Journal Headlines",
+  "hasSubtitle": true,
+  "description": "# Wall Street Journal Headline Classification\n\n## Contents\n\nThis dataset provides a rigorous natural language database, with over 19,000 headlines scraped from the Wall Street Journal archives over the dates **05/03/1998-06/30/2021**, The headlines are categorized according to the Wall Street Journal categorization, and the end result is 67 categories.\n\nThis dataset is intended to be used primarily for news category classification, but can also serve as a general database of news headlines for other tasks such as unsupervised clustering.\n\n## Procedure\n\nAll headlines were scraped from the Wall Street Journal archives (https://www.wsj.com/news/archive/years) and each of the relevant day pages. Most days from the period of May 3, 1998 to June 30, 2021 are included, although some may be missing. 3-4 headlines were randomly selected from each date included in the dataset. From here, any categories with less than 100 entries were removed, and the entire set was shuffled.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

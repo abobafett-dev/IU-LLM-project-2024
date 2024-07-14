@@ -1,0 +1,43 @@
+{
+  "id": "rajkumardubey10/all-top-rated-imdb-movies-dataset",
+  "id_no": 4066607,
+  "datasetSlugNullable": "all-top-rated-imdb-movies-dataset",
+  "ownerUserNullable": "rajkumardubey10",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "All 8000+ Top Rated IMDB Movies Dataset",
+  "subtitleNullable": "Enhance Your Recommendations System: IMDB's Best for Precise Movie Suggestions!",
+  "descriptionNullable": "Context:\n\nI made this dataset for \"Unlock cinematic gems with a dataset featuring IMDB's top-rated movies, ensuring precise and exceptional movie recommendations for an unparalleled viewing&nbsp;experience.\"\n\nsource:\nThe dataset was collected from The Movie Database (TMDB) using a valid API key.\nThe CSV data was scrape https://api.themoviedb.org/3/movie/top_rated/ by ensuring proper authorization to access  their database .\n\nThe raw data obtained from API responses was processed to extract relevant information. This may include parsing JSON responses, handling pagination, and cleaning the data to ensure consistency.\n\nInspiration:\nThe inspiration behind making this dataset is that you can build a recommendation system for your project and you can also do EDA on this dataset and make your mini project.",
+  "datasetId": 4066607,
+  "datasetSlug": "all-top-rated-imdb-movies-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rajkumardubey10",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4887,
+  "totalVotes": 32,
+  "totalDownloads": 967,
+  "title": "All 8000+ Top Rated IMDB Movies Dataset",
+  "hasTitle": true,
+  "subtitle": "Enhance Your Recommendations System: IMDB's Best for Precise Movie Suggestions!",
+  "hasSubtitle": true,
+  "description": "Context:\n\nI made this dataset for \"Unlock cinematic gems with a dataset featuring IMDB's top-rated movies, ensuring precise and exceptional movie recommendations for an unparalleled viewing&nbsp;experience.\"\n\nsource:\nThe dataset was collected from The Movie Database (TMDB) using a valid API key.\nThe CSV data was scrape https://api.themoviedb.org/3/movie/top_rated/ by ensuring proper authorization to access  their database .\n\nThe raw data obtained from API responses was processed to extract relevant information. This may include parsing JSON responses, handling pagination, and cleaning the data to ensure consistency.\n\nInspiration:\nThe inspiration behind making this dataset is that you can build a recommendation system for your project and you can also do EDA on this dataset and make your mini project.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "intermediate",
+    "clustering",
+    "recommender systems",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

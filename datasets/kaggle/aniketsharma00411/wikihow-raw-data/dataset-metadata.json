@@ -1,0 +1,39 @@
+{
+  "id": "aniketsharma00411/wikihow-raw-data",
+  "id_no": 3128051,
+  "datasetSlugNullable": "wikihow-raw-data",
+  "ownerUserNullable": "aniketsharma00411",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "wikiHow Raw Data",
+  "subtitleNullable": "Raw extracted wikiHow articles",
+  "descriptionNullable": "wikiHow Raw Data dataset consists of all relevant information about ~19.9k wikiHow articles.\n\nThe features of the [wikiHow Features](https://www.kaggle.com/datasets/aniketsharma00411/wikihow-features) dataset are extracted from this raw data.\n\nThe articles are collected using the open-source tool [wikiHowUnofficialAPI](https://pypi.org/project/wikihowunofficialapi/).\n\nHow to load and use the data? Check [this](https://www.kaggle.com/code/aniketsharma00411/using-wikihow-raw-data) notebook.\n\nThe dataset is introduced in the (under review) paper Automated Quality Estimation of Collaboratively Created Content. If you find it helpful, please cite the paper.\n\n",
+  "datasetId": 3128051,
+  "datasetSlug": "wikihow-raw-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "aniketsharma00411",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2447,
+  "totalVotes": 22,
+  "totalDownloads": 211,
+  "title": "wikiHow Raw Data",
+  "hasTitle": true,
+  "subtitle": "Raw extracted wikiHow articles",
+  "hasSubtitle": true,
+  "description": "wikiHow Raw Data dataset consists of all relevant information about ~19.9k wikiHow articles.\n\nThe features of the [wikiHow Features](https://www.kaggle.com/datasets/aniketsharma00411/wikihow-features) dataset are extracted from this raw data.\n\nThe articles are collected using the open-source tool [wikiHowUnofficialAPI](https://pypi.org/project/wikihowunofficialapi/).\n\nHow to load and use the data? Check [this](https://www.kaggle.com/code/aniketsharma00411/using-wikihow-raw-data) notebook.\n\nThe dataset is introduced in the (under review) paper Automated Quality Estimation of Collaboratively Created Content. If you find it helpful, please cite the paper.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

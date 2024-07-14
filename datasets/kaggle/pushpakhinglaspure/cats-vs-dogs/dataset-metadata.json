@@ -1,0 +1,44 @@
+{
+  "id": "pushpakhinglaspure/cats-vs-dogs",
+  "id_no": 4377811,
+  "datasetSlugNullable": "cats-vs-dogs",
+  "ownerUserNullable": "pushpakhinglaspure",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "cats vs dogs",
+  "subtitleNullable": "Cats vs. Dogs: Unleashing Deep Learning for Pet Classification",
+  "descriptionNullable": "This Kaggle dataset and notebook offer a comprehensive experience in building and training a convolutional neural network (CNN) for image classification. With thousands of labeled images of cats and dogs, you'll explore data pre-processing, model architecture, optimization techniques, and evaluation metrics to create a high-performing pet identifier.",
+  "datasetId": 4377811,
+  "datasetSlug": "cats-vs-dogs",
+  "hasDatasetSlug": true,
+  "ownerUser": "pushpakhinglaspure",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 721,
+  "totalVotes": 2,
+  "totalDownloads": 110,
+  "title": "cats vs dogs",
+  "hasTitle": true,
+  "subtitle": "Cats vs. Dogs: Unleashing Deep Learning for Pet Classification",
+  "hasSubtitle": true,
+  "description": "This Kaggle dataset and notebook offer a comprehensive experience in building and training a convolutional neural network (CNN) for image classification. With thousands of labeled images of cats and dogs, you'll explore data pre-processing, model architecture, optimization techniques, and evaluation metrics to create a high-performing pet identifier.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "computer science",
+    "classification",
+    "cv2",
+    "keras",
+    "numpy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

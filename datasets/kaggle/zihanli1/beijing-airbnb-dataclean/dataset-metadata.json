@@ -1,0 +1,39 @@
+{
+  "id": "zihanli1/beijing-airbnb-dataclean",
+  "id_no": 1089315,
+  "datasetSlugNullable": "beijing-airbnb-dataclean",
+  "ownerUserNullable": "zihanli1",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Beijing Airbnb Data(clean)",
+  "subtitleNullable": "Beijing Airbnb Data(clean)",
+  "descriptionNullable": "### Context\n\nThe data is divided into summary version and detailed version.\n\n\n### Content\n\nLists data is the basic information of short-term rental housing sources, including housing sources, landlords, location, type, price, number of reviews, rental time and so on. The detailed edition contains more details about the housing supply.\n\nCalendar data is the schedule information of short-term rental housing, including housing supply, time, whether it can be rented, rent and rental days, etc.\n\nReviews data is the comment information of short-term rental housing. Only listing ID and comment date are included in the summary version for time series and data visualization analysis. The detailed edition also includes comments related content and author information.\n\nThe data of neighborhood is the administrative division of Beijing.\n\n\n### Acknowledgements\n\nData source: the data of this event is from the Beijing data released by airbnb on April 17, 2019. The data are all from the public information of airbnb website, and do not contain any personal privacy data. Thank you for your data work. More information can be found at http://insideairbnb.com/get-the-data.html.\n\n\n### Inspiration\n",
+  "datasetId": 1089315,
+  "datasetSlug": "beijing-airbnb-dataclean",
+  "hasDatasetSlug": true,
+  "ownerUser": "zihanli1",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 4576,
+  "totalVotes": 12,
+  "totalDownloads": 527,
+  "title": "Beijing Airbnb Data(clean)",
+  "hasTitle": true,
+  "subtitle": "Beijing Airbnb Data(clean)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe data is divided into summary version and detailed version.\n\n\n### Content\n\nLists data is the basic information of short-term rental housing sources, including housing sources, landlords, location, type, price, number of reviews, rental time and so on. The detailed edition contains more details about the housing supply.\n\nCalendar data is the schedule information of short-term rental housing, including housing supply, time, whether it can be rented, rent and rental days, etc.\n\nReviews data is the comment information of short-term rental housing. Only listing ID and comment date are included in the summary version for time series and data visualization analysis. The detailed edition also includes comments related content and author information.\n\nThe data of neighborhood is the administrative division of Beijing.\n\n\n### Acknowledgements\n\nData source: the data of this event is from the Beijing data released by airbnb on April 17, 2019. The data are all from the public information of airbnb website, and do not contain any personal privacy data. Thank you for your data work. More information can be found at http://insideairbnb.com/get-the-data.html.\n\n\n### Inspiration\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

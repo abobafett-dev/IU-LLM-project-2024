@@ -1,0 +1,43 @@
+{
+  "id": "sanidhyak/human-face-emotions",
+  "id_no": 3463390,
+  "datasetSlugNullable": "human-face-emotions",
+  "ownerUserNullable": "sanidhyak",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Human Face Emotions",
+  "subtitleNullable": "This dataset contains pictures of human faces having happy, sad & angry emotions",
+  "descriptionNullable": "This dataset contains three folders namely Happy, Sad and Angry. Each folder contains around 100 images of each mentioned expression. You can use this dataset for various purpose including classification using Convolutional Neural Networks and Computer Vision.",
+  "datasetId": 3463390,
+  "datasetSlug": "human-face-emotions",
+  "hasDatasetSlug": true,
+  "ownerUser": "sanidhyak",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 19850,
+  "totalVotes": 55,
+  "totalDownloads": 3423,
+  "title": "Human Face Emotions",
+  "hasTitle": true,
+  "subtitle": "This dataset contains pictures of human faces having happy, sad & angry emotions",
+  "hasSubtitle": true,
+  "description": "This dataset contains three folders namely Happy, Sad and Angry. Each folder contains around 100 images of each mentioned expression. You can use this dataset for various purpose including classification using Convolutional Neural Networks and Computer Vision.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "beginner",
+    "computer vision",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

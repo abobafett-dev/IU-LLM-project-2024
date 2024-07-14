@@ -1,0 +1,37 @@
+{
+  "id": "gohsoonheng/air-passengers-sgp-changi-airport-for-past-10yrs",
+  "id_no": 447758,
+  "datasetSlugNullable": "air-passengers-sgp-changi-airport-for-past-10yrs",
+  "ownerUserNullable": "gohsoonheng",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Air Passengers @SGP Changi Airport for past 10yrs",
+  "subtitleNullable": "Time Series Self Practice using real dataset from SGP Changi Airport",
+  "descriptionNullable": "**CONTEXT**\nSINGAPORE Changi Airport serves more than 100 airlines flying to some 380 cities in about 100 countries and territories worldwide. Each week, about 7,400 flights land or depart from Changi, with more than 65.6 million passengers passing through the airport a year.  Analyzing the passengers passing through would be a good tutorial for time series analysis.\n\n**CONTENT**\nThis dataset consist of passengers passing through Singapore Changi Airport from year 2009 to 2019.  The dataset consist of two columns namely: Month/Year and Number of passengers for that Month/Year.\n\n\nACKNOWLEDGEMENT \n\nThis dataset is obtained from https://data.gov.sg/dataset/civil-aircraft-arrivals-departures-passengers-and-mail-changi-airport-monthly. The dataset on the website is a more comprehensive one consisting of passengers passing throught Changi Airport from Jan 1, 1980 to Oct 31, 2019. It consist of both passengers and mail. For the purpose of learning time series, only a subset of the dataset is extracted and presented here.\n",
+  "datasetId": 447758,
+  "datasetSlug": "air-passengers-sgp-changi-airport-for-past-10yrs",
+  "hasDatasetSlug": true,
+  "ownerUser": "gohsoonheng",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 5493,
+  "totalVotes": 7,
+  "totalDownloads": 288,
+  "title": "Air Passengers @SGP Changi Airport for past 10yrs",
+  "hasTitle": true,
+  "subtitle": "Time Series Self Practice using real dataset from SGP Changi Airport",
+  "hasSubtitle": true,
+  "description": "**CONTEXT**\nSINGAPORE Changi Airport serves more than 100 airlines flying to some 380 cities in about 100 countries and territories worldwide. Each week, about 7,400 flights land or depart from Changi, with more than 65.6 million passengers passing through the airport a year.  Analyzing the passengers passing through would be a good tutorial for time series analysis.\n\n**CONTENT**\nThis dataset consist of passengers passing through Singapore Changi Airport from year 2009 to 2019.  The dataset consist of two columns namely: Month/Year and Number of passengers for that Month/Year.\n\n\nACKNOWLEDGEMENT \n\nThis dataset is obtained from https://data.gov.sg/dataset/civil-aircraft-arrivals-departures-passengers-and-mail-changi-airport-monthly. The dataset on the website is a more comprehensive one consisting of passengers passing throught Changi Airport from Jan 1, 1980 to Oct 31, 2019. It consist of both passengers and mail. For the purpose of learning time series, only a subset of the dataset is extracted and presented here.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

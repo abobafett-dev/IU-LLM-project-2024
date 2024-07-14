@@ -1,0 +1,43 @@
+{
+  "id": "saloni1712/co2-emissions",
+  "id_no": 3562158,
+  "datasetSlugNullable": "co2-emissions",
+  "ownerUserNullable": "saloni1712",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "CO2 Emissions by Sectors ",
+  "subtitleNullable": "Carbon Footprint Analysis: Sectoral CO2 Emissions by Country and Year",
+  "descriptionNullable": "The CO2 Emissions Dataset offers comprehensive information on CO2 emissions across countries and sectors, aiding researchers and policymakers in understanding and addressing their impact on the environment. \n\nIt enables exploration and visualization of emissions by country, sector, and over time, facilitating time series analysis for predicting future CO2 emissions. \n\nAs a crucial tool, this dataset fosters collaboration and promotes sustainable practices to combat climate change.",
+  "datasetId": 3562158,
+  "datasetSlug": "co2-emissions",
+  "hasDatasetSlug": true,
+  "ownerUser": "saloni1712",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6738,
+  "totalVotes": 34,
+  "totalDownloads": 1121,
+  "title": "CO2 Emissions by Sectors ",
+  "hasTitle": true,
+  "subtitle": "Carbon Footprint Analysis: Sectoral CO2 Emissions by Country and Year",
+  "hasSubtitle": true,
+  "description": "The CO2 Emissions Dataset offers comprehensive information on CO2 emissions across countries and sectors, aiding researchers and policymakers in understanding and addressing their impact on the environment. \n\nIt enables exploration and visualization of emissions by country, sector, and over time, facilitating time series analysis for predicting future CO2 emissions. \n\nAs a crucial tool, this dataset fosters collaboration and promotes sustainable practices to combat climate change.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "environment",
+    "weather and climate",
+    "exploratory data analysis",
+    "time series analysis",
+    "lstm"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

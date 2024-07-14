@@ -1,0 +1,43 @@
+{
+  "id": "klmsathishkumar/health-insurance-lead-prediction",
+  "id_no": 1188811,
+  "datasetSlugNullable": "health-insurance-lead-prediction",
+  "ownerUserNullable": "klmsathishkumar",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Health Insurance Lead Prediction",
+  "subtitleNullable": "Health Insurance Lead Prediction",
+  "descriptionNullable": "Context\nYour Client FinMan is a financial services company that provides various financial services like loan, investment funds, insurance etc. to its customers. FinMan wishes to cross-sell health insurance to the existing customers who may or may not hold insurance policies with the company. The company recommend health insurance to it's customers based on their profile once these customers land on the website. Customers might browse the recommended health insurance policy and consequently fill up a form to apply. When these customers fill-up the form, their Response towards the policy is considered positive and they are classified as a lead.\n\nOnce these leads are acquired, the sales advisors approach them to convert and thus the company can sell proposed health insurance to these leads in a more efficient manner.\n\nContent\nDemographics (city, age, region etc.)\nInformation regarding holding policies of the customer\nRecommended Policy Information\n\nAcknowledgements\nThis is dataset is released as part of a hackathon conducted by Analytics Vidhya.\nVisit https://datahack.analyticsvidhya.com/contest/job-a-thon/#ProblemStatement for more information.",
+  "datasetId": 1188811,
+  "datasetSlug": "health-insurance-lead-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "klmsathishkumar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 10528,
+  "totalVotes": 11,
+  "totalDownloads": 864,
+  "title": "Health Insurance Lead Prediction",
+  "hasTitle": true,
+  "subtitle": "Health Insurance Lead Prediction",
+  "hasSubtitle": true,
+  "description": "Context\nYour Client FinMan is a financial services company that provides various financial services like loan, investment funds, insurance etc. to its customers. FinMan wishes to cross-sell health insurance to the existing customers who may or may not hold insurance policies with the company. The company recommend health insurance to it's customers based on their profile once these customers land on the website. Customers might browse the recommended health insurance policy and consequently fill up a form to apply. When these customers fill-up the form, their Response towards the policy is considered positive and they are classified as a lead.\n\nOnce these leads are acquired, the sales advisors approach them to convert and thus the company can sell proposed health insurance to these leads in a more efficient manner.\n\nContent\nDemographics (city, age, region etc.)\nInformation regarding holding policies of the customer\nRecommended Policy Information\n\nAcknowledgements\nThis is dataset is released as part of a hackathon conducted by Analytics Vidhya.\nVisit https://datahack.analyticsvidhya.com/contest/job-a-thon/#ProblemStatement for more information.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "exploratory data analysis",
+    "data visualization",
+    "classification",
+    "insurance"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

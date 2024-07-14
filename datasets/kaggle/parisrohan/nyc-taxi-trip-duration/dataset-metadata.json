@@ -1,0 +1,43 @@
+{
+  "id": "parisrohan/nyc-taxi-trip-duration",
+  "id_no": 2321306,
+  "datasetSlugNullable": "nyc-taxi-trip-duration",
+  "ownerUserNullable": "parisrohan",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "NYC taxi trip duration",
+  "subtitleNullable": "Taxi data like pickup/drop location, time & duration by a NYC taxi company",
+  "descriptionNullable": "Problem Statement:\nPredict the estimated time a taxi takes to reach the entered location in New York City from the given data. \n\nDataset shape:\n729322 rows and 11 columns\n\nVariable categorization:\n1. Continous numerical: id, pickup_longitude, pickup_latitude, dropoff_longitude, dropoff_latitude, trip_duration\n2. Discrete numerical: vendor_id, passenger_count\n3. Datetime: pickup_datetime, dropoff_datetime\n4. Nominal categorical: store_and_fwd_flag",
+  "datasetId": 2321306,
+  "datasetSlug": "nyc-taxi-trip-duration",
+  "hasDatasetSlug": true,
+  "ownerUser": "parisrohan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 4352,
+  "totalVotes": 12,
+  "totalDownloads": 623,
+  "title": "NYC taxi trip duration",
+  "hasTitle": true,
+  "subtitle": "Taxi data like pickup/drop location, time & duration by a NYC taxi company",
+  "hasSubtitle": true,
+  "description": "Problem Statement:\nPredict the estimated time a taxi takes to reach the entered location in New York City from the given data. \n\nDataset shape:\n729322 rows and 11 columns\n\nVariable categorization:\n1. Continous numerical: id, pickup_longitude, pickup_latitude, dropoff_longitude, dropoff_latitude, trip_duration\n2. Discrete numerical: vendor_id, passenger_count\n3. Datetime: pickup_datetime, dropoff_datetime\n4. Nominal categorical: store_and_fwd_flag",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "geography",
+    "automobiles and vehicles",
+    "time series analysis",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tanmoyx/covid19-patient-precondition-dataset",
+  "id_no": 785492,
+  "datasetSlugNullable": "covid19-patient-precondition-dataset",
+  "ownerUserNullable": "tanmoyx",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "COVID-19 patient pre-condition dataset",
+  "subtitleNullable": "Data obtained from Mexican government data set ",
+  "descriptionNullable": "### Context\n\nA health crisis of massive proportion such as the current COVID-9 pandemic provides us with an opportunity to ponder and reflect over what we can better in the way we deal with healthcare to make us humans be more prepared and enabled to combat such an event in the future.\nDuring the entire course of the pandemic, one of the main problems that healthcare providers have faced is the shortage of medical resources and a proper plan to efficiently distribute them.\nThey have been in the dark failing to understand how much resource they could even in the very next week as the COVID-19 curve has swayed very unpredictably. In these tough times, being able to predict what kind of resource an individual might require at the time of being tested positive or even before that will be of great help to the authorities as they would be able to procure and arrange for the resources necessary to save the life of that patient.\n\n### Content\n\nWhile the above are lofty thoughts, procuring patient data of COVID-19 patients containing patient-specific information regarding patient history and habits is a different ball game altogether. This is mainly due to the regulatory security laws such as HIPAA and GDPR which makes it almost impossible for anyone to get hands-on PHI data. I spend literally days and nights searching for a suitable data-set, called up people I knew for any directions towards a data-set which might be of use to me. Finally, I found this data-set https://www.gob.mx/salud/documentos/datos-abiertos-152127 which was released by the Mexican government. This data-set contains a huge number of anonymised patient-related information.\n",
+  "datasetId": 785492,
+  "datasetSlug": "covid19-patient-precondition-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tanmoyx",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 105209,
+  "totalVotes": 185,
+  "totalDownloads": 11357,
+  "title": "COVID-19 patient pre-condition dataset",
+  "hasTitle": true,
+  "subtitle": "Data obtained from Mexican government data set ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nA health crisis of massive proportion such as the current COVID-9 pandemic provides us with an opportunity to ponder and reflect over what we can better in the way we deal with healthcare to make us humans be more prepared and enabled to combat such an event in the future.\nDuring the entire course of the pandemic, one of the main problems that healthcare providers have faced is the shortage of medical resources and a proper plan to efficiently distribute them.\nThey have been in the dark failing to understand how much resource they could even in the very next week as the COVID-19 curve has swayed very unpredictably. In these tough times, being able to predict what kind of resource an individual might require at the time of being tested positive or even before that will be of great help to the authorities as they would be able to procure and arrange for the resources necessary to save the life of that patient.\n\n### Content\n\nWhile the above are lofty thoughts, procuring patient data of COVID-19 patients containing patient-specific information regarding patient history and habits is a different ball game altogether. This is mainly due to the regulatory security laws such as HIPAA and GDPR which makes it almost impossible for anyone to get hands-on PHI data. I spend literally days and nights searching for a suitable data-set, called up people I knew for any directions towards a data-set which might be of use to me. Finally, I found this data-set https://www.gob.mx/salud/documentos/datos-abiertos-152127 which was released by the Mexican government. This data-set contains a huge number of anonymised patient-related information.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "logistic regression",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "datamunge/iot-firmware-image-classification",
+  "id_no": 1403507,
+  "datasetSlugNullable": "iot-firmware-image-classification",
+  "ownerUserNullable": "datamunge",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "IoT Firmware Image Classification",
+  "subtitleNullable": "Rendered ELF Binaries by Class as Malware as Imagery",
+  "descriptionNullable": "### Context\n\nTo leverage the vast literature solving the original MNIST digit recognition problem in small thumbnails, this firmware dataset maps the first 1024 bytes of malicious, benign and hacked Internet of Things and embedded software binaries (Executable and Linkable Format, ELF). The goal is to provide a drop-in replacement for MNIST techniques but relevant to weeding out malware using image recognition.\n\n\n### Content\n\nThe images are reported in CSV where the filename, label class (both categorical and numerical), and the first 1024 bytes mapped into a grayscale range from 0-255 by converting first each byte to decimal (0-15) then scaling. \n\n\n### Acknowledgements\n\nSee additional background on ELF files, https://en.wikipedia.org/wiki/Executable_and_Linkable_Format\nand https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/\n\nThe labeled ELF files repository, https://github.com/nimrodpar/Labeled-Elfs\n\n\n### Inspiration\n\nComparison of firmware detection using these image representations and comparing with signature-based methods as well as contrasting statistical (tree) methods with deep learning techniques",
+  "datasetId": 1403507,
+  "datasetSlug": "iot-firmware-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "datamunge",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 7155,
+  "totalVotes": 2,
+  "totalDownloads": 442,
+  "title": "IoT Firmware Image Classification",
+  "hasTitle": true,
+  "subtitle": "Rendered ELF Binaries by Class as Malware as Imagery",
+  "hasSubtitle": true,
+  "description": "### Context\n\nTo leverage the vast literature solving the original MNIST digit recognition problem in small thumbnails, this firmware dataset maps the first 1024 bytes of malicious, benign and hacked Internet of Things and embedded software binaries (Executable and Linkable Format, ELF). The goal is to provide a drop-in replacement for MNIST techniques but relevant to weeding out malware using image recognition.\n\n\n### Content\n\nThe images are reported in CSV where the filename, label class (both categorical and numerical), and the first 1024 bytes mapped into a grayscale range from 0-255 by converting first each byte to decimal (0-15) then scaling. \n\n\n### Acknowledgements\n\nSee additional background on ELF files, https://en.wikipedia.org/wiki/Executable_and_Linkable_Format\nand https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/\n\nThe labeled ELF files repository, https://github.com/nimrodpar/Labeled-Elfs\n\n\n### Inspiration\n\nComparison of firmware detection using these image representations and comparing with signature-based methods as well as contrasting statistical (tree) methods with deep learning techniques",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "computer science",
+    "software",
+    "classification",
+    "feature engineering",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

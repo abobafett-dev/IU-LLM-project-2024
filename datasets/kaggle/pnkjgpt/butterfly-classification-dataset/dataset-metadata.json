@@ -1,0 +1,44 @@
+{
+  "id": "pnkjgpt/butterfly-classification-dataset",
+  "id_no": 972625,
+  "datasetSlugNullable": "butterfly-classification-dataset",
+  "ownerUserNullable": "pnkjgpt",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Butterfly Classification Dataset",
+  "subtitleNullable": "Dataset of 50 Types of Butterflies",
+  "descriptionNullable": "### Context\n\nThis dataset can be used for practising multiclass image classification. \n\n\n### Content\n\nThe dataset contains images of 50 species of butterflies from around the world.\nIt contains two directories \"TRAIN\" and \"TEST\" with 4479 and 500 images respectively. \n\nThe training images are provided in the directory of the specific class itself. The names of the directories are \"class labels\" to be used for prediction.\n\nThe TEST images can be ignored for practise as it doesn't contain the labels. \n\n\n### Acknowledgements\n\nI got this dataset from https://dockship.io/ from a challenge hosted there.\n\n\n### Inspiration\n\nTo build powerful Neural Network models that can classify these images with high level of accuracy.",
+  "datasetId": 972625,
+  "datasetSlug": "butterfly-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "pnkjgpt",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 7308,
+  "totalVotes": 6,
+  "totalDownloads": 460,
+  "title": "Butterfly Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset of 50 Types of Butterflies",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset can be used for practising multiclass image classification. \n\n\n### Content\n\nThe dataset contains images of 50 species of butterflies from around the world.\nIt contains two directories \"TRAIN\" and \"TEST\" with 4479 and 500 images respectively. \n\nThe training images are provided in the directory of the specific class itself. The names of the directories are \"class labels\" to be used for prediction.\n\nThe TEST images can be ignored for practise as it doesn't contain the labels. \n\n\n### Acknowledgements\n\nI got this dataset from https://dockship.io/ from a challenge hosted there.\n\n\n### Inspiration\n\nTo build powerful Neural Network models that can classify these images with high level of accuracy.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "exploratory data analysis",
+    "classification",
+    "cnn",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "stealthtechnologies/traffic-time-series-dataset",
+  "id_no": 5077640,
+  "datasetSlugNullable": "traffic-time-series-dataset",
+  "ownerUserNullable": "stealthtechnologies",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Traffic Time Series Dataset",
+  "subtitleNullable": "A synthetic approach on traffic problems",
+  "descriptionNullable": "The dataset represents synthetic traffic data for a certain location over a one-year period. It includes information about the traffic volume, weather conditions, and special events that may affect traffic.\n\nFeatures:\n\nTimestamp: The date and time of the observation.Weather: The weather condition at the time of the observation (e.g., Clear, Cloudy, Rain, Snow).\n\nEvents: A binary variable indicating whether there was a special event affecting traffic at the time of the observation (True or False).\n\nTraffic Volume: The volume of traffic at the location at the time of the observation.\n\n\nThe dataset is intended for use in analyzing traffic patterns and trends, as well as for developing and testing models related to traffic prediction and management.",
+  "datasetId": 5077640,
+  "datasetSlug": "traffic-time-series-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "stealthtechnologies",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 479,
+  "totalVotes": 3,
+  "totalDownloads": 68,
+  "title": "Traffic Time Series Dataset",
+  "hasTitle": true,
+  "subtitle": "A synthetic approach on traffic problems",
+  "hasSubtitle": true,
+  "description": "The dataset represents synthetic traffic data for a certain location over a one-year period. It includes information about the traffic volume, weather conditions, and special events that may affect traffic.\n\nFeatures:\n\nTimestamp: The date and time of the observation.Weather: The weather condition at the time of the observation (e.g., Clear, Cloudy, Rain, Snow).\n\nEvents: A binary variable indicating whether there was a special event affecting traffic at the time of the observation (True or False).\n\nTraffic Volume: The volume of traffic at the location at the time of the observation.\n\n\nThe dataset is intended for use in analyzing traffic patterns and trends, as well as for developing and testing models related to traffic prediction and management.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "time series analysis",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

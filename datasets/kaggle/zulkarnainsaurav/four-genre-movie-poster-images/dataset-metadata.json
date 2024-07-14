@@ -1,0 +1,42 @@
+{
+  "id": "zulkarnainsaurav/four-genre-movie-poster-images",
+  "id_no": 4413671,
+  "datasetSlugNullable": "four-genre-movie-poster-images",
+  "ownerUserNullable": "zulkarnainsaurav",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Four-Genre Movie Poster Images",
+  "subtitleNullable": "Genre-Based Movie Posters: High-Quality, Handpicked Images",
+  "descriptionNullable": "This dataset is created from scrapping high-quality movie posters from IMDB. Then the images were manually selected so that the images truly represented their corresponding genres only. There are movie posters of four major movie genres: *Action, Comedy, Romance, and Horror*.  The dataset can be used to perform genre classification tasks by leveraging state-of-the-art image models and improve personalized recommendations and so on.",
+  "datasetId": 4413671,
+  "datasetSlug": "four-genre-movie-poster-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "zulkarnainsaurav",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 2126,
+  "totalVotes": 22,
+  "totalDownloads": 241,
+  "title": "Four-Genre Movie Poster Images",
+  "hasTitle": true,
+  "subtitle": "Genre-Based Movie Posters: High-Quality, Handpicked Images",
+  "hasSubtitle": true,
+  "description": "This dataset is created from scrapping high-quality movie posters from IMDB. Then the images were manually selected so that the images truly represented their corresponding genres only. There are movie posters of four major movie genres: *Action, Comedy, Romance, and Horror*.  The dataset can be used to perform genre classification tasks by leveraging state-of-the-art image models and improve personalized recommendations and so on.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "computer vision",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

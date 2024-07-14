@@ -1,0 +1,43 @@
+{
+  "id": "esatakkasoglu/turkey-06-02-2023-eartquake-tweets",
+  "id_no": 2936727,
+  "datasetSlugNullable": "turkey-06-02-2023-eartquake-tweets",
+  "ownerUserNullable": "esatakkasoglu",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Turkey 06-02-2023 eartquake Tweets",
+  "subtitleNullable": "Turkey  eartquake Tweets",
+  "descriptionNullable": "# \ud83c\udf0d Twitter Earthquake Data Analysis\n\nThis Kaggle dataset contains \ud83d\udcca information and \ud83d\udcc8 statistics related to a recent earthquake event in Turkey. The dataset can provide valuable insights into the online response, interaction, sentiment, and more \ud83d\udcca surrounding the earthquake through Twitter data. This dataset contains data from **February 6, 2023, to February 11, 2023**. \n\n## \ud83d\udccb Data Conditions \n\n- Have at least 1 \ud83d\udc4d like OR at least 1 \ud83d\udd04 retweet\n\n## \ud83c\udf10 Language Variants\n\n- The keyword for English_V2 files is **#TurkeyEarthquake**.\n- The keyword for Turkish and English files is **#deprem**.\n\nThe dataset contains the following basic properties:\n\n- **\ud83d\udd17 URL**: URL of the tweet.\n- **\ud83d\udc64 Username**: Twitter username of the author of the tweet.\n- **\ud83d\udcc5 Date**: The date and time the tweet was sent.\n- **\ud83d\udcdd Tweet**: The content of the tweet.\n- **\ud83d\udd17 Hashtags**: Hashtags used in the tweet.\n- **\ud83d\udc65 Mentions**: All Twitter accounts mentioned in the tweet.\n- **\u2764\ufe0f Number of Likes**: The number of likes (favorites) the tweet received.\n- **\ud83d\udd04 Number of Retweets**: The number of times the tweet was retweeted.\n- **\ud83d\udcac Number of Replies**: The number of replies the tweet generated.\n\nThe dataset provides insights into engagement metrics such as the number of likes, retweets, and replies for each tweet. It also includes details on hashtags, mentions, and the content of tweets, providing a comprehensive view of how the earthquake event was discussed and shared on Twitter.\n\nFurthermore, the dataset includes three additional sections, each providing specific information:\n\n1. **\ud83d\udcca Number of Tweets by Date**: A breakdown of the number of tweets posted between 6 February 2023 and 11 February 2023, categorized by different time periods. This information helps to understand the volume of Twitter activity throughout the day.\n\n2. **\ud83d\udd16 Tweet Tag Counts**: This section presents numbers grouped by different value ranges. The values have some kind of classification or labeling.\n\n3. **\ud83d\udcdc Individual Tweet Details**: A list of individual tweets, including their content, author details, and engagement metrics. Each individual tweet can provide insight into Twitter users' emotions and reactions to the earthquake event (with appropriate analysis).\n\nIn summary, this dataset provides a valuable resource for understanding the real-time reaction of Twitter users to the earthquake event that occurred in Turkey on February 6, 2023, and for conducting sentiment analysis and engagement metrics analysis. Researchers and data analysts interested in social media analytics, disaster response, and sentiment monitoring will find this dataset useful for their analysis.\n",
+  "datasetId": 2936727,
+  "datasetSlug": "turkey-06-02-2023-eartquake-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "esatakkasoglu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 572,
+  "totalVotes": 4,
+  "totalDownloads": 110,
+  "title": "Turkey 06-02-2023 eartquake Tweets",
+  "hasTitle": true,
+  "subtitle": "Turkey  eartquake Tweets",
+  "hasSubtitle": true,
+  "description": "# \ud83c\udf0d Twitter Earthquake Data Analysis\n\nThis Kaggle dataset contains \ud83d\udcca information and \ud83d\udcc8 statistics related to a recent earthquake event in Turkey. The dataset can provide valuable insights into the online response, interaction, sentiment, and more \ud83d\udcca surrounding the earthquake through Twitter data. This dataset contains data from **February 6, 2023, to February 11, 2023**. \n\n## \ud83d\udccb Data Conditions \n\n- Have at least 1 \ud83d\udc4d like OR at least 1 \ud83d\udd04 retweet\n\n## \ud83c\udf10 Language Variants\n\n- The keyword for English_V2 files is **#TurkeyEarthquake**.\n- The keyword for Turkish and English files is **#deprem**.\n\nThe dataset contains the following basic properties:\n\n- **\ud83d\udd17 URL**: URL of the tweet.\n- **\ud83d\udc64 Username**: Twitter username of the author of the tweet.\n- **\ud83d\udcc5 Date**: The date and time the tweet was sent.\n- **\ud83d\udcdd Tweet**: The content of the tweet.\n- **\ud83d\udd17 Hashtags**: Hashtags used in the tweet.\n- **\ud83d\udc65 Mentions**: All Twitter accounts mentioned in the tweet.\n- **\u2764\ufe0f Number of Likes**: The number of likes (favorites) the tweet received.\n- **\ud83d\udd04 Number of Retweets**: The number of times the tweet was retweeted.\n- **\ud83d\udcac Number of Replies**: The number of replies the tweet generated.\n\nThe dataset provides insights into engagement metrics such as the number of likes, retweets, and replies for each tweet. It also includes details on hashtags, mentions, and the content of tweets, providing a comprehensive view of how the earthquake event was discussed and shared on Twitter.\n\nFurthermore, the dataset includes three additional sections, each providing specific information:\n\n1. **\ud83d\udcca Number of Tweets by Date**: A breakdown of the number of tweets posted between 6 February 2023 and 11 February 2023, categorized by different time periods. This information helps to understand the volume of Twitter activity throughout the day.\n\n2. **\ud83d\udd16 Tweet Tag Counts**: This section presents numbers grouped by different value ranges. The values have some kind of classification or labeling.\n\n3. **\ud83d\udcdc Individual Tweet Details**: A list of individual tweets, including their content, author details, and engagement metrics. Each individual tweet can provide insight into Twitter users' emotions and reactions to the earthquake event (with appropriate analysis).\n\nIn summary, this dataset provides a valuable resource for understanding the real-time reaction of Twitter users to the earthquake event that occurred in Turkey on February 6, 2023, and for conducting sentiment analysis and engagement metrics analysis. Researchers and data analysts interested in social media analytics, disaster response, and sentiment monitoring will find this dataset useful for their analysis.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth science",
+    "environment",
+    "intermediate",
+    "text",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "EU ODP Legal Notice",
+      "name": "EU ODP Legal Notice",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

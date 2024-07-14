@@ -1,0 +1,43 @@
+{
+  "id": "vyhuholl/large-russian-news-dataset",
+  "id_no": 2219021,
+  "datasetSlugNullable": "large-russian-news-dataset",
+  "ownerUserNullable": "vyhuholl",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Large Russian News Dataset",
+  "subtitleNullable": "Large Russian news corpus",
+  "descriptionNullable": "Large Russian news corpus, combined from [Russian News 2020](https://www.kaggle.com/datasets/vfomenko/russian-news-2020) and [News dataset from Lenta.Ru](https://www.kaggle.com/datasets/yutkin/corpus-of-russian-news-articles-from-lenta) datasets.\n\n* Size: 2.14 Gb (raw) + 1.81 Gb (lemmatized);\n* Number of entries: 822648 (raw) + 795421(lemmatized);\n* Dates: Sep 1914 \u2013 Dec 2020.",
+  "datasetId": 2219021,
+  "datasetSlug": "large-russian-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "vyhuholl",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1371,
+  "totalVotes": 8,
+  "totalDownloads": 126,
+  "title": "Large Russian News Dataset",
+  "hasTitle": true,
+  "subtitle": "Large Russian news corpus",
+  "hasSubtitle": true,
+  "description": "Large Russian news corpus, combined from [Russian News 2020](https://www.kaggle.com/datasets/vfomenko/russian-news-2020) and [News dataset from Lenta.Ru](https://www.kaggle.com/datasets/yutkin/corpus-of-russian-news-articles-from-lenta) datasets.\n\n* Size: 2.14 Gb (raw) + 1.81 Gb (lemmatized);\n* Number of entries: 822648 (raw) + 795421(lemmatized);\n* Dates: Sep 1914 \u2013 Dec 2020.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "russia",
+    "politics",
+    "nlp",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

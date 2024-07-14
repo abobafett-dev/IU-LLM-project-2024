@@ -1,0 +1,41 @@
+{
+  "id": "mnassrib/jena-weather-dataset",
+  "id_no": 1253955,
+  "datasetSlugNullable": "jena-weather-dataset",
+  "ownerUserNullable": "mnassrib",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Weather Station Beutenberg Dataset",
+  "subtitleNullable": "Time Series Forecasting Dataset",
+  "descriptionNullable": "### Context\nJena Climate is weather timeseries dataset recorded at the Weather Station of the [Max Planck Institute for Biogeochemistry](https://www.bgc-jena.mpg.de/wetter/) in Jena, Germany.\n\n### Content\nJena Weather dataset is made up of many different quantities (such air temperature, atmospheric pressure, humidity, wind direction, and so on) were recorded every 10 minutes, over several years. This dataset covers data from January 1st 2004 to December 31st 2020.",
+  "datasetId": 1253955,
+  "datasetSlug": "jena-weather-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mnassrib",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4108,
+  "totalVotes": 6,
+  "totalDownloads": 276,
+  "title": "Weather Station Beutenberg Dataset",
+  "hasTitle": true,
+  "subtitle": "Time Series Forecasting Dataset",
+  "hasSubtitle": true,
+  "description": "### Context\nJena Climate is weather timeseries dataset recorded at the Weather Station of the [Max Planck Institute for Biogeochemistry](https://www.bgc-jena.mpg.de/wetter/) in Jena, Germany.\n\n### Content\nJena Weather dataset is made up of many different quantities (such air temperature, atmospheric pressure, humidity, wind direction, and so on) were recorded every 10 minutes, over several years. This dataset covers data from January 1st 2004 to December 31st 2020.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "atmospheric science",
+    "weather and climate",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

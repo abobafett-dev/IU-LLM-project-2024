@@ -1,0 +1,43 @@
+{
+  "id": "shivavashishtha/ipl-2022-schedule",
+  "id_no": 1989229,
+  "datasetSlugNullable": "ipl-2022-schedule",
+  "ownerUserNullable": "shivavashishtha",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IPL 2022 Schedule Dataset",
+  "subtitleNullable": "Complete Schedule of All IPL 2022 Matches",
+  "descriptionNullable": "### Context\n\nFinally the Schedule for most awaited Game IPL 2022 is here, I hope this dataset will be useful for all Cricket lovers\n\n### Content\n\nThe Dataframe content all the details related to the Game, The columns are as follows:\nDATE : Date of the Game\nTIME : Time of the Game \nPM/AM : Specifying AM or PM for the Time\nHOME TEAM : Home team according to the Venue \nAWAY TEAM : Away team according to the Venue \nVENUE : Venue of the Game\n\n### Acknowledgements\n\nData Source : News 18\nMethodology : Web Scraping\n\n### Inspiration\n\nI hope this dataset will help and motivate the Cricket Lovers",
+  "datasetId": 1989229,
+  "datasetSlug": "ipl-2022-schedule",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivavashishtha",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3526,
+  "totalVotes": 23,
+  "totalDownloads": 331,
+  "title": "IPL 2022 Schedule Dataset",
+  "hasTitle": true,
+  "subtitle": "Complete Schedule of All IPL 2022 Matches",
+  "hasSubtitle": true,
+  "description": "### Context\n\nFinally the Schedule for most awaited Game IPL 2022 is here, I hope this dataset will be useful for all Cricket lovers\n\n### Content\n\nThe Dataframe content all the details related to the Game, The columns are as follows:\nDATE : Date of the Game\nTIME : Time of the Game \nPM/AM : Specifying AM or PM for the Time\nHOME TEAM : Home team according to the Venue \nAWAY TEAM : Away team according to the Venue \nVENUE : Venue of the Game\n\n### Acknowledgements\n\nData Source : News 18\nMethodology : Web Scraping\n\n### Inspiration\n\nI hope this dataset will help and motivate the Cricket Lovers",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cricket",
+    "exploratory data analysis",
+    "data cleaning",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

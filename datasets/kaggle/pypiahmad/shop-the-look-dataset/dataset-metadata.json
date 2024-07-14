@@ -1,0 +1,43 @@
+{
+  "id": "pypiahmad/shop-the-look-dataset",
+  "id_no": 3928956,
+  "datasetSlugNullable": "shop-the-look-dataset",
+  "ownerUserNullable": "pypiahmad",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Pinterest Fashion Compatibility Dataset",
+  "subtitleNullable": "Shop the Look Dataset",
+  "descriptionNullable": "The Pinterest Fashion Compatibility dataset comprises images showcasing fashion products, each annotated with bounding boxes and associated with links directing to the corresponding products. This dataset facilitates the exploration of scene-based complementary product recommendation, aiming to complete the look presented in each scene by recommending compatible fashion items.\n\nBasic Statistics:\n- Scenes: 47,739\n- Products: 38,111\n- Scene-Product Pairs: 93,274\n\nMetadata:\n- Product IDs: Identifiers for the products featured in the images.\n- Bounding Boxes: Coordinates specifying the location of each product within the image.\n\nExample (fashion.json):\nThe dataset contains JSON entries where each entry associates a product with a scene, along with the bounding box coordinates for the product within the scene.\n```json\n{\n    \"product\": \"0027e30879ce3d87f82f699f148bff7e\", \n    \"scene\": \"cdab9160072dd1800038227960ff6467\", \n    \"bbox\": [\n        0.434097, \n        0.859363, \n        0.560254, \n        1.0\n    ]\n}\n```\n\nCitation:\nIf you utilize this dataset, please cite the following paper:\nTitle: Complete the Look: Scene-based complementary product recommendation\nAuthors: Wang-Cheng Kang, Eric Kim, Jure Leskovec, Charles Rosenberg, Julian McAuley\nPublished in: CVPR, 2019\n[Link to paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Kang_Complete_the_Look_Scene-Based_Complementary_Product_Recommendation_CVPR_2019_paper.html)\n\nCode and Additional Resources:\nFor additional resources, sample code, and instructions on how to collect the product images from Pinterest, you can visit the [GitHub repository](https://github.com/kang205/STL-Dataset).\n\nThis dataset provides a rich ground for research and development in the domain of fashion-based image recognition, product recommendation, and the exploration of fashion styles and trends through machine learning and computer vision techniques.",
+  "datasetId": 3928956,
+  "datasetSlug": "shop-the-look-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "pypiahmad",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 395,
+  "totalVotes": 2,
+  "totalDownloads": 38,
+  "title": "Pinterest Fashion Compatibility Dataset",
+  "hasTitle": true,
+  "subtitle": "Shop the Look Dataset",
+  "hasSubtitle": true,
+  "description": "The Pinterest Fashion Compatibility dataset comprises images showcasing fashion products, each annotated with bounding boxes and associated with links directing to the corresponding products. This dataset facilitates the exploration of scene-based complementary product recommendation, aiming to complete the look presented in each scene by recommending compatible fashion items.\n\nBasic Statistics:\n- Scenes: 47,739\n- Products: 38,111\n- Scene-Product Pairs: 93,274\n\nMetadata:\n- Product IDs: Identifiers for the products featured in the images.\n- Bounding Boxes: Coordinates specifying the location of each product within the image.\n\nExample (fashion.json):\nThe dataset contains JSON entries where each entry associates a product with a scene, along with the bounding box coordinates for the product within the scene.\n```json\n{\n    \"product\": \"0027e30879ce3d87f82f699f148bff7e\", \n    \"scene\": \"cdab9160072dd1800038227960ff6467\", \n    \"bbox\": [\n        0.434097, \n        0.859363, \n        0.560254, \n        1.0\n    ]\n}\n```\n\nCitation:\nIf you utilize this dataset, please cite the following paper:\nTitle: Complete the Look: Scene-based complementary product recommendation\nAuthors: Wang-Cheng Kang, Eric Kim, Jure Leskovec, Charles Rosenberg, Julian McAuley\nPublished in: CVPR, 2019\n[Link to paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Kang_Complete_the_Look_Scene-Based_Complementary_Product_Recommendation_CVPR_2019_paper.html)\n\nCode and Additional Resources:\nFor additional resources, sample code, and instructions on how to collect the product images from Pinterest, you can visit the [GitHub repository](https://github.com/kang205/STL-Dataset).\n\nThis dataset provides a rich ground for research and development in the domain of fashion-based image recognition, product recommendation, and the exploration of fashion styles and trends through machine learning and computer vision techniques.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data cleaning",
+    "data visualization",
+    "data analytics",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

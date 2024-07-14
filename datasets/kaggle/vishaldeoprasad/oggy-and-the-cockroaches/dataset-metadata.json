@@ -1,0 +1,44 @@
+{
+  "id": "vishaldeoprasad/oggy-and-the-cockroaches",
+  "id_no": 4359437,
+  "datasetSlugNullable": "oggy-and-the-cockroaches",
+  "ownerUserNullable": "vishaldeoprasad",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Oggy and the Cockroaches",
+  "subtitleNullable": "Dataset of YouTube Videos: Oggy and the Cockroaches Cartoon Series",
+  "descriptionNullable": "**Description:**\nThis dataset provides comprehensive information on YouTube videos related to the beloved cartoon series \"Oggy and the Cockroaches.\" Collected from YouTube, it includes details such as video titles, channel names, publication dates, descriptions, video durations, thumbnail URLs, tags, view counts, like counts, and favorite counts.\n\n**Context:**\nThe dataset is curated to offer insights into the popularity and engagement of various episodes within the \"Oggy and the Cockroaches\" series. Researchers, data enthusiasts, and fans can explore trends, analyze viewer interactions, and gain a deeper understanding of the audience's preferences for this animated show.\n\nSome potential analyses and tasks you can perform with this dataset:\n\n**Popularity Trends:**\nAnalyze view counts over time to identify trends in the popularity of different episodes. Explore which episodes have the highest and lowest view counts.\n\n**Engagement Metrics:**\nInvestigate the correlation between video duration and viewer engagement (likes, comments, etc.). Examine the distribution of like counts and favorite counts to understand audience preferences.\n\n**Tag Analysis:**\nStudy the frequency of tags associated with the videos to identify common themes. Explore whether specific tags correlate with higher view or like counts.\n\n**Temporal Analysis:**\nExamine how the release date or time of publication affects video performance. Identify any patterns related to the day of the week or time of day.\n\n**Channel Comparison:**\nCompare the performance of different channels hosting \"Oggy and the Cockroaches\" content. Identify channels that consistently produce popular episodes.\n\n**Content Duration Analysis:**\nAnalyze the distribution of video durations to understand viewer preferences. Explore whether there's a correlation between video duration and engagement metrics.\n\n**Thumbnail Impact:**\nInvestigate whether certain types of thumbnails (using the provided URLs) correlate with higher viewer engagement. Explore how thumbnail design may influence click-through rates.\n\n**Text Analysis:**\nConduct sentiment analysis on video descriptions to understand the tone of the content. Extract keywords or phrases from descriptions to identify common themes.\n\n**Geographical Insights:**\nIf available, explore any geographic patterns in terms of viewer demographics or popularity in specific regions.\n\n**Machine Learning Predictions:**\nBuild predictive models to estimate future view counts or engagement metrics based on available features.\n\n\nThese are just a few examples, and the possibilities are extensive. Depending on your interests and goals, you can tailor your analysis to gain specific insights into the performance and reception of \"Oggy and the Cockroaches\" videos on YouTube.",
+  "datasetId": 4359437,
+  "datasetSlug": "oggy-and-the-cockroaches",
+  "hasDatasetSlug": true,
+  "ownerUser": "vishaldeoprasad",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 400,
+  "totalVotes": 4,
+  "totalDownloads": 45,
+  "title": "Oggy and the Cockroaches",
+  "hasTitle": true,
+  "subtitle": "Dataset of YouTube Videos: Oggy and the Cockroaches Cartoon Series",
+  "hasSubtitle": true,
+  "description": "**Description:**\nThis dataset provides comprehensive information on YouTube videos related to the beloved cartoon series \"Oggy and the Cockroaches.\" Collected from YouTube, it includes details such as video titles, channel names, publication dates, descriptions, video durations, thumbnail URLs, tags, view counts, like counts, and favorite counts.\n\n**Context:**\nThe dataset is curated to offer insights into the popularity and engagement of various episodes within the \"Oggy and the Cockroaches\" series. Researchers, data enthusiasts, and fans can explore trends, analyze viewer interactions, and gain a deeper understanding of the audience's preferences for this animated show.\n\nSome potential analyses and tasks you can perform with this dataset:\n\n**Popularity Trends:**\nAnalyze view counts over time to identify trends in the popularity of different episodes. Explore which episodes have the highest and lowest view counts.\n\n**Engagement Metrics:**\nInvestigate the correlation between video duration and viewer engagement (likes, comments, etc.). Examine the distribution of like counts and favorite counts to understand audience preferences.\n\n**Tag Analysis:**\nStudy the frequency of tags associated with the videos to identify common themes. Explore whether specific tags correlate with higher view or like counts.\n\n**Temporal Analysis:**\nExamine how the release date or time of publication affects video performance. Identify any patterns related to the day of the week or time of day.\n\n**Channel Comparison:**\nCompare the performance of different channels hosting \"Oggy and the Cockroaches\" content. Identify channels that consistently produce popular episodes.\n\n**Content Duration Analysis:**\nAnalyze the distribution of video durations to understand viewer preferences. Explore whether there's a correlation between video duration and engagement metrics.\n\n**Thumbnail Impact:**\nInvestigate whether certain types of thumbnails (using the provided URLs) correlate with higher viewer engagement. Explore how thumbnail design may influence click-through rates.\n\n**Text Analysis:**\nConduct sentiment analysis on video descriptions to understand the tone of the content. Extract keywords or phrases from descriptions to identify common themes.\n\n**Geographical Insights:**\nIf available, explore any geographic patterns in terms of viewer demographics or popularity in specific regions.\n\n**Machine Learning Predictions:**\nBuild predictive models to estimate future view counts or engagement metrics based on available features.\n\n\nThese are just a few examples, and the possibilities are extensive. Depending on your interests and goals, you can tailor your analysis to gain specific insights into the performance and reception of \"Oggy and the Cockroaches\" videos on YouTube.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "artificial intelligence",
+    "data cleaning",
+    "data analytics",
+    "feature engineering",
+    "video"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

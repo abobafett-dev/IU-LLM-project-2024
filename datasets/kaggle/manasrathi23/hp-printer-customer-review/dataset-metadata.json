@@ -1,0 +1,37 @@
+{
+  "id": "manasrathi23/hp-printer-customer-review",
+  "id_no": 3467333,
+  "datasetSlugNullable": "hp-printer-customer-review",
+  "ownerUserNullable": "manasrathi23",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "HP  printer customer review ",
+  "subtitleNullable": "",
+  "descriptionNullable": "Dataset Description:\nThis dataset contains customer reviews and associated attributes for a product or service. The data was collected from various sources and includes textual descriptions as well as other relevant information. The dataset is suitable for text classification and sentiment analysis tasks.\n\nColumn Names:\n\nreviewDescription: The main textual content of the customer review.\nreviewTitle: The title or heading of the customer review.\nreviewReaction: The sentiment or reaction expressed in the customer review.\n[Additional Columns]: There may be additional columns capturing other attributes or metadata about the reviews (e.g., review date, reviewer demographics).\nPotential Use of Data:\n\nText Classification: The dataset can be used for training and evaluating machine learning models to classify customer reviews into different sentiment categories, such as positive, negative, or neutral.\nSentiment Analysis: By analyzing the reviewReaction column, the dataset enables sentiment analysis to understand customer sentiment towards the product or service.\nMarket Research: The dataset can be used to gain insights into customer preferences, satisfaction levels, and trends through data analysis and visualization.\nProduct Improvement: Analyzing the customer reviews can help identify areas of improvement or specific issues that need attention, providing valuable feedback for product or service enhancements.",
+  "datasetId": 3467333,
+  "datasetSlug": "hp-printer-customer-review",
+  "hasDatasetSlug": true,
+  "ownerUser": "manasrathi23",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 185,
+  "totalVotes": 0,
+  "totalDownloads": 31,
+  "title": "HP  printer customer review ",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Dataset Description:\nThis dataset contains customer reviews and associated attributes for a product or service. The data was collected from various sources and includes textual descriptions as well as other relevant information. The dataset is suitable for text classification and sentiment analysis tasks.\n\nColumn Names:\n\nreviewDescription: The main textual content of the customer review.\nreviewTitle: The title or heading of the customer review.\nreviewReaction: The sentiment or reaction expressed in the customer review.\n[Additional Columns]: There may be additional columns capturing other attributes or metadata about the reviews (e.g., review date, reviewer demographics).\nPotential Use of Data:\n\nText Classification: The dataset can be used for training and evaluating machine learning models to classify customer reviews into different sentiment categories, such as positive, negative, or neutral.\nSentiment Analysis: By analyzing the reviewReaction column, the dataset enables sentiment analysis to understand customer sentiment towards the product or service.\nMarket Research: The dataset can be used to gain insights into customer preferences, satisfaction levels, and trends through data analysis and visualization.\nProduct Improvement: Analyzing the customer reviews can help identify areas of improvement or specific issues that need attention, providing valuable feedback for product or service enhancements.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

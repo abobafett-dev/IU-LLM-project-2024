@@ -1,0 +1,43 @@
+{
+  "id": "towhidultonmoy/english-newsarticles-of-bangladeshdaily-updated",
+  "id_no": 2242458,
+  "datasetSlugNullable": "english-newsarticles-of-bangladeshdaily-updated",
+  "ownerUserNullable": "towhidultonmoy",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "English Newsarticles of Bangladesh(Daily Updated) ",
+  "subtitleNullable": "Get 5k+ news daily from five reputed English newsarticles of Bangladesh",
+  "descriptionNullable": "# Motivation\n\nThere are no dynamic English language news dataset of Bangladesh. There are some dataset in Bangla language but they are outdated. Thats why I have created this dataset to fetch the English news regularly and conduct different analysis. The Bangla dataset is in the process. Hope to open-source that in upcoming days.\n \n# Dataset sources\nNow you can get daily news for your next NLP projects. So you will never miss an update about Bangladesh. \nThe dataset consists of five English news portals of Bangladesh. \nThey are:\n- The Daily Star\n- The Financial Express\n- New Age bd\n- Dhaka Tribune\n- Daily-Sun\n\n\n# Dataset details\n\nThe dataset consists of six attributes.\n -    News headline\n -    News details\n -    News publish date\n -   News article link\n -    News collection time\n -   News publisher name\n\nFor some news publishers, publish date is not available. That's why I have added the news collection time so that analysis with respect to to time can be conducted.\n\n# Dataset project ideas\nSome NLP projects idea includes:\n- Fake news detection \n- News trend analysis\n- Checking the similarity among newspapers\n- Sentiment analysis\n- Name entity recognition \n- Topic modelling\n- Time series forecasting\n- Graph neural network analysis\n\nThe dataset can also be integrated with PowerBI & Tableau for dynamic dashboard projects.\n",
+  "datasetId": 2242458,
+  "datasetSlug": "english-newsarticles-of-bangladeshdaily-updated",
+  "hasDatasetSlug": true,
+  "ownerUser": "towhidultonmoy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 3125,
+  "totalVotes": 27,
+  "totalDownloads": 292,
+  "title": "English Newsarticles of Bangladesh(Daily Updated) ",
+  "hasTitle": true,
+  "subtitle": "Get 5k+ news daily from five reputed English newsarticles of Bangladesh",
+  "hasSubtitle": true,
+  "description": "# Motivation\n\nThere are no dynamic English language news dataset of Bangladesh. There are some dataset in Bangla language but they are outdated. Thats why I have created this dataset to fetch the English news regularly and conduct different analysis. The Bangla dataset is in the process. Hope to open-source that in upcoming days.\n \n# Dataset sources\nNow you can get daily news for your next NLP projects. So you will never miss an update about Bangladesh. \nThe dataset consists of five English news portals of Bangladesh. \nThey are:\n- The Daily Star\n- The Financial Express\n- New Age bd\n- Dhaka Tribune\n- Daily-Sun\n\n\n# Dataset details\n\nThe dataset consists of six attributes.\n -    News headline\n -    News details\n -    News publish date\n -   News article link\n -    News collection time\n -   News publisher name\n\nFor some news publishers, publish date is not available. That's why I have added the news collection time so that analysis with respect to to time can be conducted.\n\n# Dataset project ideas\nSome NLP projects idea includes:\n- Fake news detection \n- News trend analysis\n- Checking the similarity among newspapers\n- Sentiment analysis\n- Name entity recognition \n- Topic modelling\n- Time series forecasting\n- Graph neural network analysis\n\nThe dataset can also be integrated with PowerBI & Tableau for dynamic dashboard projects.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "demographics",
+    "tabular",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

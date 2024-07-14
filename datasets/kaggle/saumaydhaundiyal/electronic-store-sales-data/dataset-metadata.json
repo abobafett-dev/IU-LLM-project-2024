@@ -1,0 +1,42 @@
+{
+  "id": "saumaydhaundiyal/electronic-store-sales-data",
+  "id_no": 3346480,
+  "datasetSlugNullable": "electronic-store-sales-data",
+  "ownerUserNullable": "saumaydhaundiyal",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Electronic Store Sales Data",
+  "subtitleNullable": "Help solve the real business problems",
+  "descriptionNullable": "***The dataset contains sales data for an electronic store for 12 month in 12 different csv files.* **\n\n***Your are expected to pre-process, clean data and perform EDA on it.***\n\n### **Questions the Business Owner would like answered.**\n\n***Question 1:*** What was the best month for sales?\n***Question2:*** Which city sold the most product?\n***Question3:*** What time should we display advertisements to maximize likelihood of customer's buying product?\n***Question4:*** What products are most often sold together?\n***Question5:*** What product sold the most?\n\n",
+  "datasetId": 3346480,
+  "datasetSlug": "electronic-store-sales-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "saumaydhaundiyal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 1628,
+  "totalVotes": 2,
+  "totalDownloads": 302,
+  "title": "Electronic Store Sales Data",
+  "hasTitle": true,
+  "subtitle": "Help solve the real business problems",
+  "hasSubtitle": true,
+  "description": "***The dataset contains sales data for an electronic store for 12 month in 12 different csv files.* **\n\n***Your are expected to pre-process, clean data and perform EDA on it.***\n\n### **Questions the Business Owner would like answered.**\n\n***Question 1:*** What was the best month for sales?\n***Question2:*** Which city sold the most product?\n***Question3:*** What time should we display advertisements to maximize likelihood of customer's buying product?\n***Question4:*** What products are most often sold together?\n***Question5:*** What product sold the most?\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "exploratory data analysis",
+    "data cleaning",
+    "data visualization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

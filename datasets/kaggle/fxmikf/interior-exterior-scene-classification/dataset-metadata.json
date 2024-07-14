@@ -1,0 +1,43 @@
+{
+  "id": "fxmikf/interior-exterior-scene-classification",
+  "id_no": 5078468,
+  "datasetSlugNullable": "interior-exterior-scene-classification",
+  "ownerUserNullable": "fxmikf",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Interior-Exterior Scene Classification",
+  "subtitleNullable": "Diverse Interior Scenery vs. Outdoor Scenery",
+  "descriptionNullable": "A scene classification dataset by where the images depict an interior or exterior scene. To make the classification more difficult scenes from a wide range of places were selected, and of various different scenes in each location.\nThere are 1000 images of each class, where the classes were defined as:\n\nInterior: Images that depict the inside of some structure, either a building, car, train, plane, factory, supermarket.\nExterior: Images that depict an open space, either in a forest, on a mountain, or on a balcony, as long as it is not closed by a roof.\n\nOne goal is to create a set for training new models on an abstract concept that is not controlled by a set of objects appearing in an image, since many interior images will not include the ceiling itself in the image.\nThe other goal is to create a test set for testing the ability to use existing models for this classification, using other frameworks for feature extraction, or prompt engineering with Transformer based models.",
+  "datasetId": 5078468,
+  "datasetSlug": "interior-exterior-scene-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "fxmikf",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 347,
+  "totalVotes": 4,
+  "totalDownloads": 52,
+  "title": "Interior-Exterior Scene Classification",
+  "hasTitle": true,
+  "subtitle": "Diverse Interior Scenery vs. Outdoor Scenery",
+  "hasSubtitle": true,
+  "description": "A scene classification dataset by where the images depict an interior or exterior scene. To make the classification more difficult scenes from a wide range of places were selected, and of various different scenes in each location.\nThere are 1000 images of each class, where the classes were defined as:\n\nInterior: Images that depict the inside of some structure, either a building, car, train, plane, factory, supermarket.\nExterior: Images that depict an open space, either in a forest, on a mountain, or on a balcony, as long as it is not closed by a roof.\n\nOne goal is to create a set for training new models on an abstract concept that is not controlled by a set of objects appearing in an image, since many interior images will not include the ceiling itself in the image.\nThe other goal is to create a test set for testing the ability to use existing models for this classification, using other frameworks for feature extraction, or prompt engineering with Transformer based models.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "environment",
+    "computer vision",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

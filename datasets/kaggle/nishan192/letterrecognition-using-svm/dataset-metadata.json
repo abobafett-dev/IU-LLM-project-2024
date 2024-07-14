@@ -1,0 +1,40 @@
+{
+  "id": "nishan192/letterrecognition-using-svm",
+  "id_no": 164400,
+  "datasetSlugNullable": "letterrecognition-using-svm",
+  "ownerUserNullable": "nishan192",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Letter-Recognition ",
+  "subtitleNullable": "Letter Recognition using SVM",
+  "descriptionNullable": "To solve an interesting letter recognition problem using SVMs. It contains the 26 English alphabets as classes, so it's a multiclass classification problem with 26 classes.\n\nEach row in the data set represents an image of a handwritten alphabet, as shown in figure 1(A). Using some basic image processing, the images are converted into m X n pixels (figure 1(B)), where m and n depend on the size and resolution of the original image. Each pixel contains numeric values, with higher values denoting the presence of dense 'ink'. In the pixels where nothing is written, the pixel value is 0.\n\n \n\nA pixel is called 'on' if it contains to a positive numeric value, else it is called 'off'.\n\n \n\nUsing the pixelated images, 16 features are derived for each image, such as the width of the box, the ratio of the mean variance of x divided by the width of the box, etc.  ",
+  "datasetId": 164400,
+  "datasetSlug": "letterrecognition-using-svm",
+  "hasDatasetSlug": true,
+  "ownerUser": "nishan192",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 37276,
+  "totalVotes": 32,
+  "totalDownloads": 4193,
+  "title": "Letter-Recognition ",
+  "hasTitle": true,
+  "subtitle": "Letter Recognition using SVM",
+  "hasSubtitle": true,
+  "description": "To solve an interesting letter recognition problem using SVMs. It contains the 26 English alphabets as classes, so it's a multiclass classification problem with 26 classes.\n\nEach row in the data set represents an image of a handwritten alphabet, as shown in figure 1(A). Using some basic image processing, the images are converted into m X n pixels (figure 1(B)), where m and n depend on the size and resolution of the original image. Each pixel contains numeric values, with higher values denoting the presence of dense 'ink'. In the pixels where nothing is written, the pixel value is 0.\n\n \n\nA pixel is called 'on' if it contains to a positive numeric value, else it is called 'off'.\n\n \n\nUsing the pixelated images, 16 features are derived for each image, such as the width of the box, the ratio of the mean variance of x divided by the width of the box, etc.  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "olgabelitskaya/style-color-images",
+  "id_no": 7448,
+  "datasetSlugNullable": "style-color-images",
+  "ownerUserNullable": "olgabelitskaya",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Style Color Images",
+  "subtitleNullable": "Brand and Product Recognition",
+  "descriptionNullable": "# History\nI have made the database of photos sorted by products and brands. Screenshots were performed only on official brand websites.\n\n# Content\nThe main dataset (style.zip) is 2184 color images (150x150x3) with 7 brands and 10 products, and the file with labels `style.csv`.\nPhoto files are in the `.png` format and the labels are integers and values.\n\nThe file `StyleColorImages.h5` consists of preprocessing images of this set: image tensors and targets (labels).\n\n\n# Acknowledgments\nI have published the data for absolutely free usage by any site visitor. But this database contains the names of famous brands, so it can not be used for commercial purposes.\n\n# Usage\nClassification, image recognition and colorizing, etc. in a c case of a small number of images are useful exercises.\nThe main question we can try to answer with the help of the data is whether the algorithms can recognize the unique design style well enough. To facilitate the task, I chose the most easily recognizable brands with a bright style.\n\n[The example of usage](https://github.com/OlgaBelitskaya/deep_learning_projects/blob/master/DL_PP4/DL_PP4_Solutions.ipynb)\n\n# Improvement\nThere are lots of ways for improving this set and the machine learning algorithms applying to it. At first, it needs to increase the number of photos.",
+  "datasetId": 7448,
+  "datasetSlug": "style-color-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "olgabelitskaya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 36516,
+  "totalVotes": 70,
+  "totalDownloads": 3639,
+  "title": "Style Color Images",
+  "hasTitle": true,
+  "subtitle": "Brand and Product Recognition",
+  "hasSubtitle": true,
+  "description": "# History\nI have made the database of photos sorted by products and brands. Screenshots were performed only on official brand websites.\n\n# Content\nThe main dataset (style.zip) is 2184 color images (150x150x3) with 7 brands and 10 products, and the file with labels `style.csv`.\nPhoto files are in the `.png` format and the labels are integers and values.\n\nThe file `StyleColorImages.h5` consists of preprocessing images of this set: image tensors and targets (labels).\n\n\n# Acknowledgments\nI have published the data for absolutely free usage by any site visitor. But this database contains the names of famous brands, so it can not be used for commercial purposes.\n\n# Usage\nClassification, image recognition and colorizing, etc. in a c case of a small number of images are useful exercises.\nThe main question we can try to answer with the help of the data is whether the algorithms can recognize the unique design style well enough. To facilitate the task, I chose the most easily recognizable brands with a bright style.\n\n[The example of usage](https://github.com/OlgaBelitskaya/deep_learning_projects/blob/master/DL_PP4/DL_PP4_Solutions.ipynb)\n\n# Improvement\nThere are lots of ways for improving this set and the machine learning algorithms applying to it. At first, it needs to increase the number of photos.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature",
+    "clothing and accessories",
+    "business",
+    "deep learning",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

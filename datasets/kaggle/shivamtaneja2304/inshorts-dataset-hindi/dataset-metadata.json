@@ -1,0 +1,41 @@
+{
+  "id": "shivamtaneja2304/inshorts-dataset-hindi",
+  "id_no": 3758343,
+  "datasetSlugNullable": "inshorts-dataset-hindi",
+  "ownerUserNullable": "shivamtaneja2304",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Inshorts Dataset - Hindi News",
+  "subtitleNullable": "Dataset is scraped daily for news in hindienglish on various topics in India",
+  "descriptionNullable": "The dataset is formed by scraping news daily (so it does contain duplicates), it scrapes the news on various topics (the category of the headline is mentioned in the dataset) from inshorts.com in HINDI\nYou get 4 datapoints for each row:\n\n1.`Headline` - Headline for the news\n\n2.`Content` - Few lines in relation to the headline\n\n3.`Category` - Category of the news\n\n4.`Date` - (of scraping)\n\n Could not find a lot of good datasets that had news in hindi with categories, or date of news. Could be interesting to use it for various tasks pertaining to the Hindi language.",
+  "datasetId": 3758343,
+  "datasetSlug": "inshorts-dataset-hindi",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivamtaneja2304",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 590,
+  "totalVotes": 15,
+  "totalDownloads": 98,
+  "title": "Inshorts Dataset - Hindi News",
+  "hasTitle": true,
+  "subtitle": "Dataset is scraped daily for news in hindienglish on various topics in India",
+  "hasSubtitle": true,
+  "description": "The dataset is formed by scraping news daily (so it does contain duplicates), it scrapes the news on various topics (the category of the headline is mentioned in the dataset) from inshorts.com in HINDI\nYou get 4 datapoints for each row:\n\n1.`Headline` - Headline for the news\n\n2.`Content` - Few lines in relation to the headline\n\n3.`Category` - Category of the news\n\n4.`Date` - (of scraping)\n\n Could not find a lot of good datasets that had news in hindi with categories, or date of news. Could be interesting to use it for various tasks pertaining to the Hindi language.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "news",
+    "hindi"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

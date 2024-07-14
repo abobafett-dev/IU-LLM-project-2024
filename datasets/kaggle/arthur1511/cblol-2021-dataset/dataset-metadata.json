@@ -1,0 +1,43 @@
+{
+  "id": "arthur1511/cblol-2021-dataset",
+  "id_no": 2860547,
+  "datasetSlugNullable": "cblol-2021-dataset",
+  "ownerUserNullable": "arthur1511",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "CBLOL dataset",
+  "subtitleNullable": "Players stats and match history of CBLOL",
+  "descriptionNullable": "# Match Data \nBelow you will find a collection of data files containing match data from the LCS, LEC, LCK, LPL, PCS, CBLoL, and many more leagues. Files are in .csv format.\n\nAll data has been aggregated and released by Tim Sevenhuysen of OraclesElixir.com. It is provided free of charge and is intended for use by analysts, commentators, and fans.\n\nChangelogs, news, and updates are maintained on [the Oracle's Elixir Discord server](https://discord.gg/KY6XHaF) in the oe-data-updates channel.\n\nDefinitions for the data in these files can be found or inferred from the information on the[Definitions page](https://oracleselixir.com/definitions).\n\nQuestions or requests? [Get in touch](https://oracleselixir.com/contact), or [join the Oracle's Elixir Discord server](https://discord.gg/KY6XHaF).\n\nIf you find this downloadable data useful, please consider helping out with the\ncost of running the site by [subscribing on Patreon](https://www.patreon.com/oracleselixir).\n\n## Available Downloads\nGame statistics are the property of Riot Games, and any usage of such data must follow [Riot Games' terms and policies](https://developer.riotgames.com/policies/general).\n\nAccess files via [Google Drive](https://drive.google.com/drive/u/1/folders/1gLSw0RLjBbtaNy0dgnGQDAZOHIgCe-HH).",
+  "datasetId": 2860547,
+  "datasetSlug": "cblol-2021-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "arthur1511",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 680,
+  "totalVotes": 7,
+  "totalDownloads": 80,
+  "title": "CBLOL dataset",
+  "hasTitle": true,
+  "subtitle": "Players stats and match history of CBLOL",
+  "hasSubtitle": true,
+  "description": "# Match Data \nBelow you will find a collection of data files containing match data from the LCS, LEC, LCK, LPL, PCS, CBLoL, and many more leagues. Files are in .csv format.\n\nAll data has been aggregated and released by Tim Sevenhuysen of OraclesElixir.com. It is provided free of charge and is intended for use by analysts, commentators, and fans.\n\nChangelogs, news, and updates are maintained on [the Oracle's Elixir Discord server](https://discord.gg/KY6XHaF) in the oe-data-updates channel.\n\nDefinitions for the data in these files can be found or inferred from the information on the[Definitions page](https://oracleselixir.com/definitions).\n\nQuestions or requests? [Get in touch](https://oracleselixir.com/contact), or [join the Oracle's Elixir Discord server](https://discord.gg/KY6XHaF).\n\nIf you find this downloadable data useful, please consider helping out with the\ncost of running the site by [subscribing on Patreon](https://www.patreon.com/oracleselixir).\n\n## Available Downloads\nGame statistics are the property of Riot Games, and any usage of such data must follow [Riot Games' terms and policies](https://developer.riotgames.com/policies/general).\n\nAccess files via [Google Drive](https://drive.google.com/drive/u/1/folders/1gLSw0RLjBbtaNy0dgnGQDAZOHIgCe-HH).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "sports",
+    "categorical",
+    "classification",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

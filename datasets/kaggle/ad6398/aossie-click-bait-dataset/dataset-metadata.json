@@ -1,0 +1,40 @@
+{
+  "id": "ad6398/aossie-click-bait-dataset",
+  "id_no": 226395,
+  "datasetSlugNullable": "aossie-click-bait-dataset",
+  "ownerUserNullable": "ad6398",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "AOSSIE: toxic",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nData set to train Model of Click-Bait classifier for AOSSIE organization during GSoC'19.\n\n### Content\n\n\nRaw data is in Raw.zip file.\n\n\nThese data are from multiple sources as:\n\n1. From Click Bait challenge\n\n2. Collected from some of the already existing repo, basically scraped from News websites like clickbait ones from Buzzfeed, ClickHole, Doses, and non-ClickBait from Ne York Times.. etc.\n\n\nUsing these Data We have made one Main CSV File which contains all Data with clickBait labeled as 1.\n\n### Acknowledgements\n\n\nThese data are compiled by me and my GSoC colleague  Utsav Shukla @us241098 \n\nThese data don't contain ambiguity as per our best knowledge, although, no guarantee is taken.\n",
+  "datasetId": 226395,
+  "datasetSlug": "aossie-click-bait-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ad6398",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 3418,
+  "totalVotes": 5,
+  "totalDownloads": 180,
+  "title": "AOSSIE: toxic",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nData set to train Model of Click-Bait classifier for AOSSIE organization during GSoC'19.\n\n### Content\n\n\nRaw data is in Raw.zip file.\n\n\nThese data are from multiple sources as:\n\n1. From Click Bait challenge\n\n2. Collected from some of the already existing repo, basically scraped from News websites like clickbait ones from Buzzfeed, ClickHole, Doses, and non-ClickBait from Ne York Times.. etc.\n\n\nUsing these Data We have made one Main CSV File which contains all Data with clickBait labeled as 1.\n\n### Acknowledgements\n\n\nThese data are compiled by me and my GSoC colleague  Utsav Shukla @us241098 \n\nThese data don't contain ambiguity as per our best knowledge, although, no guarantee is taken.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

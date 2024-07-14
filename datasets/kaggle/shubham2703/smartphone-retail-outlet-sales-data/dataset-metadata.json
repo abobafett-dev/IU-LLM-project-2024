@@ -1,0 +1,43 @@
+{
+  "id": "shubham2703/smartphone-retail-outlet-sales-data",
+  "id_no": 3988130,
+  "datasetSlugNullable": "smartphone-retail-outlet-sales-data",
+  "ownerUserNullable": "shubham2703",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Smartphone Retail Outlet Sales Data",
+  "subtitleNullable": "Comprehensive Dataset of Sales Metrics for Smartphone Retail Outlet.",
+  "descriptionNullable": "# **Title: Smartphone Retail Outlet Sales Dataset**\n\n### **Description:**\nExplore the intricate details of smartphone accessory sales with this comprehensive dataset from a retail outlet. The dataset captures transactions over a fiscal year, providing insights into product types, quantities, prices, and payment methods.\n\n### **Columns:**\n\n**Date:** The date of the transaction (format: dd-mm-yyyy).\n**F.Y (Fiscal Year):** The fiscal year during which the transaction occurred.\n**QUARTER:** The quarter of the fiscal year.\n**P_NO:** Product number or code.\n**PAYMENT TYPE:** The method used for payment (e.g., CASH).\n**TYPE OF PRODUCT:** The general category of the product (e.g., ACCESSORY).\n**Quantity:**The quantity of the product purchased.\n**Price:** The price per unit of the product.\n**Amount:** The total amount for the transaction.\n**TYPE OF ACCESSORY/MOBILE:** Additional details about the type of accessory or mobile product (e.g., COVER, WIRELESS HEADSET).\n\n### **Purpose:**\nThis dataset is ideal for analysts, researchers, and data enthusiasts seeking to uncover trends and patterns in smartphone accessory sales. Explore the dynamics of product popularity, pricing strategies, and payment preferences within a retail environment.\n\n### **Potential Analyses:**\n\n- Seasonal trends in accessory sales.\n- Popular product categories and their associated revenues.\n- Correlation between payment types and transaction amounts.\n- Price elasticity and its impact on quantity sold.\n- Identification of best-selling accessories and their characteristics.\n\n### **Citation:**\nPlease acknowledge and cite this dataset appropriately if used in your research or analysis. The dataset is made available for public use with the aim of fostering insights and knowledge in the field of retail analytics.\n\n### **Note:**\nThis dataset is fictional and created for educational purposes. Any resemblance to real-world data is coincidental.",
+  "datasetId": 3988130,
+  "datasetSlug": "smartphone-retail-outlet-sales-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "shubham2703",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6225,
+  "totalVotes": 24,
+  "totalDownloads": 1391,
+  "title": "Smartphone Retail Outlet Sales Data",
+  "hasTitle": true,
+  "subtitle": "Comprehensive Dataset of Sales Metrics for Smartphone Retail Outlet.",
+  "hasSubtitle": true,
+  "description": "# **Title: Smartphone Retail Outlet Sales Dataset**\n\n### **Description:**\nExplore the intricate details of smartphone accessory sales with this comprehensive dataset from a retail outlet. The dataset captures transactions over a fiscal year, providing insights into product types, quantities, prices, and payment methods.\n\n### **Columns:**\n\n**Date:** The date of the transaction (format: dd-mm-yyyy).\n**F.Y (Fiscal Year):** The fiscal year during which the transaction occurred.\n**QUARTER:** The quarter of the fiscal year.\n**P_NO:** Product number or code.\n**PAYMENT TYPE:** The method used for payment (e.g., CASH).\n**TYPE OF PRODUCT:** The general category of the product (e.g., ACCESSORY).\n**Quantity:**The quantity of the product purchased.\n**Price:** The price per unit of the product.\n**Amount:** The total amount for the transaction.\n**TYPE OF ACCESSORY/MOBILE:** Additional details about the type of accessory or mobile product (e.g., COVER, WIRELESS HEADSET).\n\n### **Purpose:**\nThis dataset is ideal for analysts, researchers, and data enthusiasts seeking to uncover trends and patterns in smartphone accessory sales. Explore the dynamics of product popularity, pricing strategies, and payment preferences within a retail environment.\n\n### **Potential Analyses:**\n\n- Seasonal trends in accessory sales.\n- Popular product categories and their associated revenues.\n- Correlation between payment types and transaction amounts.\n- Price elasticity and its impact on quantity sold.\n- Identification of best-selling accessories and their characteristics.\n\n### **Citation:**\nPlease acknowledge and cite this dataset appropriately if used in your research or analysis. The dataset is made available for public use with the aim of fostering insights and knowledge in the field of retail analytics.\n\n### **Note:**\nThis dataset is fictional and created for educational purposes. Any resemblance to real-world data is coincidental.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "time series analysis",
+    "tabular",
+    "regression",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

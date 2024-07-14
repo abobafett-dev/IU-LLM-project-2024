@@ -1,0 +1,41 @@
+{
+  "id": "muhammedabdulazeem/bitcoin-price-prediction",
+  "id_no": 1390126,
+  "datasetSlugNullable": "bitcoin-price-prediction",
+  "ownerUserNullable": "muhammedabdulazeem",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Bitcoin Price Prediction",
+  "subtitleNullable": "Bitcoin Price Prediction based on News Headlines",
+  "descriptionNullable": "## About\n\n**Bitcoin** uses Blockchain concept which is peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part. To know more about **Bitcoin** visit [here](https://www.investopedia.com/terms/b/bitcoin.asp).\n\n## Data Collections\n\nData was collected from a twitter page [BTCTN](https://twitter.com/BTCTN) which is most popular bitcoin news page on twitter using [Twint Python library](https://pypi.org/project/twint/) which bypass the twitter restrictions for not scraping more than 3200 tweets at a time and it does not require any API key to get the data.\n\n## About data\n\nData contains columns such as \n&gt; date\n&gt; price\n&gt; headlines as (top_0, top_1, top_2,...., top_32)\n\n\n",
+  "datasetId": 1390126,
+  "datasetSlug": "bitcoin-price-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammedabdulazeem",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 7722,
+  "totalVotes": 16,
+  "totalDownloads": 885,
+  "title": "Bitcoin Price Prediction",
+  "hasTitle": true,
+  "subtitle": "Bitcoin Price Prediction based on News Headlines",
+  "hasSubtitle": true,
+  "description": "## About\n\n**Bitcoin** uses Blockchain concept which is peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part. To know more about **Bitcoin** visit [here](https://www.investopedia.com/terms/b/bitcoin.asp).\n\n## Data Collections\n\nData was collected from a twitter page [BTCTN](https://twitter.com/BTCTN) which is most popular bitcoin news page on twitter using [Twint Python library](https://pypi.org/project/twint/) which bypass the twitter restrictions for not scraping more than 3200 tweets at a time and it does not require any API key to get the data.\n\n## About data\n\nData contains columns such as \n&gt; date\n&gt; price\n&gt; headlines as (top_0, top_1, top_2,...., top_32)\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "regression",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

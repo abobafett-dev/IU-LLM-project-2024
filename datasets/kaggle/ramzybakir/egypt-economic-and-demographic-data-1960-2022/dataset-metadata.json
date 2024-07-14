@@ -1,0 +1,39 @@
+{
+  "id": "ramzybakir/egypt-economic-and-demographic-data-1960-2022",
+  "id_no": 5108994,
+  "datasetSlugNullable": "egypt-economic-and-demographic-data-1960-2022",
+  "ownerUserNullable": "ramzybakir",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Egypt Economic and Demographic Data (1960-2022)",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset was used for the research paper titled \"Unraveling Egypt's Net Migration Patterns: A Time Series Economical and Sociopolitical Analysis,\" conducted by Ramzy Bakir, Seif Hegazy, and Shady Ali, from the Faculty of Computer and Information Sciences at Egypt University of Informatics. The study investigates Egypt\u2019s net migration patterns from 1965 to 2022 using time series analysis and various regression models.\n\nData Sources: We utilized the @World Bank Open Data as our main source of data. This platform provides comprehensive data covering a broad spectrum of subjects across 189 member nations, allowing us to explore the various factors influencing migration trends. With its extensive repository of statistical information, it serves as a valuable resource for our analysis. Our study aims to dissect the complex interplay between migration patterns and the multifaceted changes in Egypt\u2019s demographic, political, and economic landscape. We decided to keep the integrity of our analysis by using The World Bank Open Data platform as our only source of data to avoid conflicting values, metrics confusion, etc.... We used various research papers and articles detailing political events and economic policies in Egypt throughout the period. Data Types: we used chose our variables based on other works using them with net migration and ones we predicted to have a contribution value to this studying net migration, our variables are used for two objectives of the time series analysis and modeling it.\n\nThe study utilizes a time series analysis approach and various regression models to analyze the net migration patterns of Egypt. Key economic indicators considered in the analysis include:\n\n1. Population, total\n2. Population growth (annual %)\n3. GDP (current US)\n4. GDP growth (annual %)\n5. GDP per capita (current US)\n6. GDP per capita growth (annual %)\n7. Inflation, GDP deflator (annual %)\n8. Inflation, consumer prices (annual %)\n9. Official exchange rate (LCU per US, period average)\n10. Consumer price index (2010 = 100)\n11. Foreign direct investment, net inflows (% of GDP)\n12. Personal remittances, received (% of GDP)\n13. Unemployment, total (% of total labor force) (national estimate)\n14. Net migration",
+  "datasetId": 5108994,
+  "datasetSlug": "egypt-economic-and-demographic-data-1960-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "ramzybakir",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 33,
+  "totalVotes": 1,
+  "totalDownloads": 3,
+  "title": "Egypt Economic and Demographic Data (1960-2022)",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset was used for the research paper titled \"Unraveling Egypt's Net Migration Patterns: A Time Series Economical and Sociopolitical Analysis,\" conducted by Ramzy Bakir, Seif Hegazy, and Shady Ali, from the Faculty of Computer and Information Sciences at Egypt University of Informatics. The study investigates Egypt\u2019s net migration patterns from 1965 to 2022 using time series analysis and various regression models.\n\nData Sources: We utilized the @World Bank Open Data as our main source of data. This platform provides comprehensive data covering a broad spectrum of subjects across 189 member nations, allowing us to explore the various factors influencing migration trends. With its extensive repository of statistical information, it serves as a valuable resource for our analysis. Our study aims to dissect the complex interplay between migration patterns and the multifaceted changes in Egypt\u2019s demographic, political, and economic landscape. We decided to keep the integrity of our analysis by using The World Bank Open Data platform as our only source of data to avoid conflicting values, metrics confusion, etc.... We used various research papers and articles detailing political events and economic policies in Egypt throughout the period. Data Types: we used chose our variables based on other works using them with net migration and ones we predicted to have a contribution value to this studying net migration, our variables are used for two objectives of the time series analysis and modeling it.\n\nThe study utilizes a time series analysis approach and various regression models to analyze the net migration patterns of Egypt. Key economic indicators considered in the analysis include:\n\n1. Population, total\n2. Population growth (annual %)\n3. GDP (current US)\n4. GDP growth (annual %)\n5. GDP per capita (current US)\n6. GDP per capita growth (annual %)\n7. Inflation, GDP deflator (annual %)\n8. Inflation, consumer prices (annual %)\n9. Official exchange rate (LCU per US, period average)\n10. Consumer price index (2010 = 100)\n11. Foreign direct investment, net inflows (% of GDP)\n12. Personal remittances, received (% of GDP)\n13. Unemployment, total (% of total labor force) (national estimate)\n14. Net migration",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "gibranfadilla/indonesian-wayang-types",
+  "id_no": 2254557,
+  "datasetSlugNullable": "indonesian-wayang-types",
+  "ownerUserNullable": "gibranfadilla",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Indonesian Wayang Types",
+  "subtitleNullable": "6 Indonesian Wayang Types for Image Classification",
+  "descriptionNullable": "### **Project Background**\n\nCulture is an invaluable heritage of our ancestors. Culture is also a national identity that makes us have different characteristics from other countries. One of Indonesia's cultural heritages that are starting to fade and must be preserved is wayang. As the next generation, we are obliged to introduce wayang to future generations and also to the international community. In this modern era, one effective way is to create wayang recognition technology. We take this opportunity as an effort to help preserve Indonesian culture which will be applied with technology. A technology that we named \u201cDalang\u201d will help us to get to know wayang more deeply starting from its type, area of \u200b\u200borigin, description, and other information by taking pictures of wayang then \"Dalang\" will perform classification and display the results of the classification of puppets.\n\n### **Dataset Collection**\n\nWe collected the data from Google Image and Bing Image.\nAll images are owned by the respected party, we collected the images only for learning purposes. Our goal is to collect the good and diverse Wayang images for each class (6 classes). The classes consist of:\n- Wayang Beber\n- Wayang Gedog\n- Wayang Golek\n- Wayang Kulit\n- Wayang Suluh\n\n###**Acknowledgements**\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n",
+  "datasetId": 2254557,
+  "datasetSlug": "indonesian-wayang-types",
+  "hasDatasetSlug": true,
+  "ownerUser": "gibranfadilla",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 4285,
+  "totalVotes": 13,
+  "totalDownloads": 268,
+  "title": "Indonesian Wayang Types",
+  "hasTitle": true,
+  "subtitle": "6 Indonesian Wayang Types for Image Classification",
+  "hasSubtitle": true,
+  "description": "### **Project Background**\n\nCulture is an invaluable heritage of our ancestors. Culture is also a national identity that makes us have different characteristics from other countries. One of Indonesia's cultural heritages that are starting to fade and must be preserved is wayang. As the next generation, we are obliged to introduce wayang to future generations and also to the international community. In this modern era, one effective way is to create wayang recognition technology. We take this opportunity as an effort to help preserve Indonesian culture which will be applied with technology. A technology that we named \u201cDalang\u201d will help us to get to know wayang more deeply starting from its type, area of \u200b\u200borigin, description, and other information by taking pictures of wayang then \"Dalang\" will perform classification and display the results of the classification of puppets.\n\n### **Dataset Collection**\n\nWe collected the data from Google Image and Bing Image.\nAll images are owned by the respected party, we collected the images only for learning purposes. Our goal is to collect the good and diverse Wayang images for each class (6 classes). The classes consist of:\n- Wayang Beber\n- Wayang Gedog\n- Wayang Golek\n- Wayang Kulit\n- Wayang Suluh\n\n###**Acknowledgements**\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "computer vision",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

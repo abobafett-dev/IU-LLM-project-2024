@@ -1,0 +1,42 @@
+{
+  "id": "wjybuqi/weathertime-classification-with-road-images",
+  "id_no": 1805136,
+  "datasetSlugNullable": "weathertime-classification-with-road-images",
+  "ownerUserNullable": "wjybuqi",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Weather-Time Classification with Road Images",
+  "subtitleNullable": "Weather Detection and Time Prediction through Traffic Information & Images",
+  "descriptionNullable": "This data set is based on CCF BDCI\nThis data set contains 2600 manually labeled weather and time labels. Weather categories include 5 categories: cloudy, sunny, rainy, snowy and foggy; time includes 5 categories: dawn, morning, afternoon, dusk, and night.",
+  "datasetId": 1805136,
+  "datasetSlug": "weathertime-classification-with-road-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "wjybuqi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 8060,
+  "totalVotes": 28,
+  "totalDownloads": 665,
+  "title": "Weather-Time Classification with Road Images",
+  "hasTitle": true,
+  "subtitle": "Weather Detection and Time Prediction through Traffic Information & Images",
+  "hasSubtitle": true,
+  "description": "This data set is based on CCF BDCI\nThis data set contains 2600 manually labeled weather and time labels. Weather categories include 5 categories: cloudy, sunny, rainy, snowy and foggy; time includes 5 categories: dawn, morning, afternoon, dusk, and night.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "mattwalentosky/mmmdemodataset",
+  "id_no": 2405356,
+  "datasetSlugNullable": "mmmdemodataset",
+  "ownerUserNullable": "mattwalentosky",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "mmm-demo-dataset",
+  "subtitleNullable": "A demo dataset of sales and marketing spends",
+  "descriptionNullable": "A fictitious dataset that contains 5 years worth of \"bike sales\" and historical marketing spends. The sales values are based on Google Trends searches for \"bike\" multiplied by a constant with a random fluctuation of +/- 10%. Dataset is meant to provide users with a dataset to conduct multivariate time series regression.",
+  "datasetId": 2405356,
+  "datasetSlug": "mmmdemodataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mattwalentosky",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 2424,
+  "totalVotes": 2,
+  "totalDownloads": 484,
+  "title": "mmm-demo-dataset",
+  "hasTitle": true,
+  "subtitle": "A demo dataset of sales and marketing spends",
+  "hasSubtitle": true,
+  "description": "A fictitious dataset that contains 5 years worth of \"bike sales\" and historical marketing spends. The sales values are based on Google Trends searches for \"bike\" multiplied by a constant with a random fluctuation of +/- 10%. Dataset is meant to provide users with a dataset to conduct multivariate time series regression.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

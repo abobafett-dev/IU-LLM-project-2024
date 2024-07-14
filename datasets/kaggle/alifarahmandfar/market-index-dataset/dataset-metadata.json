@@ -1,0 +1,43 @@
+{
+  "id": "alifarahmandfar/market-index-dataset",
+  "id_no": 2801938,
+  "datasetSlugNullable": "market-index-dataset",
+  "ownerUserNullable": "alifarahmandfar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Market Index Dataset | 2023 Update",
+  "subtitleNullable": "The dataset contains 2 versions with the new updates (-2023)",
+  "descriptionNullable": "#### Context\nIn finance, a stock index, or stock market index, is an index that measures a stock market, or a subset of the stock market, that helps investors compare current stock price levels with past prices to calculate market performance.\nTwo of the primary criteria of an index are that it is investable and transparent: The methods of its construction are specified. Investors can invest in a stock market index by buying an index fund, which is structured as either a mutual fund or an exchange-traded fund, and \"track\" an index. The difference between an index fund's performance and the index, if any, is called tracking error. For a list of major stock market indices, see the [List of stock market indices](https://en.wikipedia.org/wiki/List_of_stock_market_indices).\n\nIn this dataset, some of the market indexes were collected, which are detailed in the table below with their historical data. Moreover, this dataset contains **2 versions** with the new updates:\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F11396224%2F60ea7c5a488c8f983e57ced306d71a8f%2F10221612.png?generation=1675634428847259&alt=media)\n#### Acknowledgments\nThis Data is extracted from [finance.yahoo.com](https://finance.yahoo.com/)",
+  "datasetId": 2801938,
+  "datasetSlug": "market-index-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "alifarahmandfar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5697,
+  "totalVotes": 36,
+  "totalDownloads": 589,
+  "title": "Market Index Dataset | 2023 Update",
+  "hasTitle": true,
+  "subtitle": "The dataset contains 2 versions with the new updates (-2023)",
+  "hasSubtitle": true,
+  "description": "#### Context\nIn finance, a stock index, or stock market index, is an index that measures a stock market, or a subset of the stock market, that helps investors compare current stock price levels with past prices to calculate market performance.\nTwo of the primary criteria of an index are that it is investable and transparent: The methods of its construction are specified. Investors can invest in a stock market index by buying an index fund, which is structured as either a mutual fund or an exchange-traded fund, and \"track\" an index. The difference between an index fund's performance and the index, if any, is called tracking error. For a list of major stock market indices, see the [List of stock market indices](https://en.wikipedia.org/wiki/List_of_stock_market_indices).\n\nIn this dataset, some of the market indexes were collected, which are detailed in the table below with their historical data. Moreover, this dataset contains **2 versions** with the new updates:\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F11396224%2F60ea7c5a488c8f983e57ced306d71a8f%2F10221612.png?generation=1675634428847259&alt=media)\n#### Acknowledgments\nThis Data is extracted from [finance.yahoo.com](https://finance.yahoo.com/)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "data cleaning",
+    "data visualization",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

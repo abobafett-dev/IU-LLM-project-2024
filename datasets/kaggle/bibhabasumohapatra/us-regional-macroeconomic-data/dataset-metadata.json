@@ -1,0 +1,44 @@
+{
+  "id": "bibhabasumohapatra/us-regional-macroeconomic-data",
+  "id_no": 1566039,
+  "datasetSlugNullable": "us-regional-macroeconomic-data",
+  "ownerUserNullable": "bibhabasumohapatra",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "Regional Macroeconomic data",
+  "subtitleNullable": "US Energy Information Administration",
+  "descriptionNullable": "\n\nin search of latest crude oil consumption data I found out very interesting data regarding macroeconomics data \non the topics such as real gross state product , Industrial Output ,Real personal income ....  and much more region wise and year wise.\n\n I found this dataset very interesting regarding in which field or sectors which region has grown how and how the growth is during 2019 - 2020- 2021 though covid factor would have been more visible if it were a quarterly data but also wanted to include 1999 and 2008 and 2012-2014 major periods and observe how it affected this data points.\nmost of the data and columns are self- explanatory,   we can visit the official site for more info.\n\nthe credit goes to: US Energy Information Administration \nhttps://www.eia.gov/outlooks/steo/data/browser/#/?v=4&f=A&s=&start=2000&end=2022&map=&maptype=0&ctype=linechart&linechart=CGSP_NEC~CGSP_MAC~CGSP_ENC~CGSP_WNC~CGSP_SAC~CGSP_ESC~CGSP_WSC~CGSP_MTN~CGSP_PAC&id=\n\nplease check out the line graphs which explain a lot  on the offical site!",
+  "datasetId": 1566039,
+  "datasetSlug": "us-regional-macroeconomic-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "bibhabasumohapatra",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 2666,
+  "totalVotes": 6,
+  "totalDownloads": 76,
+  "title": "Regional Macroeconomic data",
+  "hasTitle": true,
+  "subtitle": "US Energy Information Administration",
+  "hasSubtitle": true,
+  "description": "\n\nin search of latest crude oil consumption data I found out very interesting data regarding macroeconomics data \non the topics such as real gross state product , Industrial Output ,Real personal income ....  and much more region wise and year wise.\n\n I found this dataset very interesting regarding in which field or sectors which region has grown how and how the growth is during 2019 - 2020- 2021 though covid factor would have been more visible if it were a quarterly data but also wanted to include 1999 and 2008 and 2012-2014 major periods and observe how it affected this data points.\nmost of the data and columns are self- explanatory,   we can visit the official site for more info.\n\nthe credit goes to: US Energy Information Administration \nhttps://www.eia.gov/outlooks/steo/data/browser/#/?v=4&f=A&s=&start=2000&end=2022&map=&maptype=0&ctype=linechart&linechart=CGSP_NEC~CGSP_MAC~CGSP_ENC~CGSP_WNC~CGSP_SAC~CGSP_ESC~CGSP_WSC~CGSP_MTN~CGSP_PAC&id=\n\nplease check out the line graphs which explain a lot  on the offical site!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "economics",
+    "energy",
+    "exploratory data analysis",
+    "time series analysis",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

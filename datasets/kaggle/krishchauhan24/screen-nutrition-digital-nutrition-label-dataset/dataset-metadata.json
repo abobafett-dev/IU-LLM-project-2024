@@ -1,0 +1,39 @@
+{
+  "id": "krishchauhan24/screen-nutrition-digital-nutrition-label-dataset",
+  "id_no": 3906628,
+  "datasetSlugNullable": "screen-nutrition-digital-nutrition-label-dataset",
+  "ownerUserNullable": "krishchauhan24",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Screen Nutrition: Digital Nutrition Label Dataset",
+  "subtitleNullable": "Digital Content Nutrition Labels: Know before You Consume Digital Content!",
+  "descriptionNullable": "Digital Content Nutrition Labels: Know before You Consume Digital Content!\n\nThis dataset is to help manually seed the labels for digital content nutrients. Similar to looking at Food Nutrition Labels before you consume food, it is important to assess the Digital Nutrition Labels to assess impact to mental wellbeing. More details can be found here  on two Medium articles on [Balanced Digital Diet Concepts](https://medium.com/@krishc_59410/screen-nutrition-your-key-to-a-healthier-digital-lifestyle-part-i-1283978970af) and the [DMI](https://medium.com/@krishc_59410/screen-nutrition-the-digital-metabolism-index-part-ii-23baefa1e572), the digital twin of BMI. \nThis data set captures examples of digital content and their rating against digital twins of proteins(learning and growth), carbs(entertainment) and vitamins(mindfulness). It also captures the emotional quotient of how it may make you feel. \nSimilar to movie ratings, digital content should also have nutrtional ratings before it can be consumed. ",
+  "datasetId": 3906628,
+  "datasetSlug": "screen-nutrition-digital-nutrition-label-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "krishchauhan24",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 152,
+  "totalVotes": 1,
+  "totalDownloads": 7,
+  "title": "Screen Nutrition: Digital Nutrition Label Dataset",
+  "hasTitle": true,
+  "subtitle": "Digital Content Nutrition Labels: Know before You Consume Digital Content!",
+  "hasSubtitle": true,
+  "description": "Digital Content Nutrition Labels: Know before You Consume Digital Content!\n\nThis dataset is to help manually seed the labels for digital content nutrients. Similar to looking at Food Nutrition Labels before you consume food, it is important to assess the Digital Nutrition Labels to assess impact to mental wellbeing. More details can be found here  on two Medium articles on [Balanced Digital Diet Concepts](https://medium.com/@krishc_59410/screen-nutrition-your-key-to-a-healthier-digital-lifestyle-part-i-1283978970af) and the [DMI](https://medium.com/@krishc_59410/screen-nutrition-the-digital-metabolism-index-part-ii-23baefa1e572), the digital twin of BMI. \nThis data set captures examples of digital content and their rating against digital twins of proteins(learning and growth), carbs(entertainment) and vitamins(mindfulness). It also captures the emotional quotient of how it may make you feel. \nSimilar to movie ratings, digital content should also have nutrtional ratings before it can be consumed. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nutrition"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

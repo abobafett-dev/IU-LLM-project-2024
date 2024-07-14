@@ -1,0 +1,39 @@
+{
+  "id": "adamgrey88/megastore-sales-data",
+  "id_no": 4387630,
+  "datasetSlugNullable": "megastore-sales-data",
+  "ownerUserNullable": "adamgrey88",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "MegaStore Sales Data",
+  "subtitleNullable": "Retail Sales Dataset: Two-Year Record of Transactions for In-Depth Analysis ",
+  "descriptionNullable": "This dataset spans a period of thirteen months and captures detailed information about retail transactions. Each record in the dataset represents a specific sale and includes key attributes such as invoice number, stock code, product description, quantity, invoice date, unit price, customer ID, and the country where the customer is located. This data provides a comprehensive view of the sales activities over the specified time frame.\n",
+  "datasetId": 4387630,
+  "datasetSlug": "megastore-sales-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "adamgrey88",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 5871,
+  "totalVotes": 31,
+  "totalDownloads": 1352,
+  "title": "MegaStore Sales Data",
+  "hasTitle": true,
+  "subtitle": "Retail Sales Dataset: Two-Year Record of Transactions for In-Depth Analysis ",
+  "hasSubtitle": true,
+  "description": "This dataset spans a period of thirteen months and captures detailed information about retail transactions. Each record in the dataset represents a specific sale and includes key attributes such as invoice number, stock code, product description, quantity, invoice date, unit price, customer ID, and the country where the customer is located. This data provides a comprehensive view of the sales activities over the specified time frame.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

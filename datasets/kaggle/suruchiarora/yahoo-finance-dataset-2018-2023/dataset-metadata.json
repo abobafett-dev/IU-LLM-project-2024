@@ -1,0 +1,44 @@
+{
+  "id": "suruchiarora/yahoo-finance-dataset-2018-2023",
+  "id_no": 3242270,
+  "datasetSlugNullable": "yahoo-finance-dataset-2018-2023",
+  "ownerUserNullable": "suruchiarora",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Yahoo Finance Dataset (2018-2023)",
+  "subtitleNullable": "Unleash Financial Analysis Power with Daily Stock Yahoo Finance Data ,2018-2023",
+  "descriptionNullable": "The \"yahoo_finance_dataset(2018-2023)\" dataset is a financial dataset containing daily stock market data for multiple assets such as equities, ETFs, and indexes. It spans from April 1, 2018 to March 31, 2023, and contains 1257 rows and 7 columns. The data was sourced from Yahoo Finance, and the purpose of the dataset is to provide researchers, analysts, and investors with a comprehensive dataset that they can use to analyze stock market trends, identify patterns, and develop investment strategies.\nThe dataset can be used for various tasks, including stock price prediction, trend analysis, portfolio optimization, and risk management. The dataset is provided in XLSX format, which makes it easy to import into various data analysis tools, including Python, R, and Excel.\n\nThe dataset includes the following columns:\n\nDate: The date on which the stock market data was recorded.\nOpen: The opening price of the asset on the given date.\nHigh: The highest price of the asset on the given date.\nLow: The lowest price of the asset on the given date.\nClose*: The closing price of the asset on the given date. Note that this price does not take into account any after-hours trading that may have occurred after the market officially closed.\nAdj Close**: The adjusted closing price of the asset on the given date. This price takes into account any dividends, stock splits, or other corporate actions that may have occurred, which can affect the stock price.\nVolume: The total number of shares of the asset that were traded on the given date.",
+  "datasetId": 3242270,
+  "datasetSlug": "yahoo-finance-dataset-2018-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "suruchiarora",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 18420,
+  "totalVotes": 46,
+  "totalDownloads": 3342,
+  "title": "Yahoo Finance Dataset (2018-2023)",
+  "hasTitle": true,
+  "subtitle": "Unleash Financial Analysis Power with Daily Stock Yahoo Finance Data ,2018-2023",
+  "hasSubtitle": true,
+  "description": "The \"yahoo_finance_dataset(2018-2023)\" dataset is a financial dataset containing daily stock market data for multiple assets such as equities, ETFs, and indexes. It spans from April 1, 2018 to March 31, 2023, and contains 1257 rows and 7 columns. The data was sourced from Yahoo Finance, and the purpose of the dataset is to provide researchers, analysts, and investors with a comprehensive dataset that they can use to analyze stock market trends, identify patterns, and develop investment strategies.\nThe dataset can be used for various tasks, including stock price prediction, trend analysis, portfolio optimization, and risk management. The dataset is provided in XLSX format, which makes it easy to import into various data analysis tools, including Python, R, and Excel.\n\nThe dataset includes the following columns:\n\nDate: The date on which the stock market data was recorded.\nOpen: The opening price of the asset on the given date.\nHigh: The highest price of the asset on the given date.\nLow: The lowest price of the asset on the given date.\nClose*: The closing price of the asset on the given date. Note that this price does not take into account any after-hours trading that may have occurred after the market officially closed.\nAdj Close**: The adjusted closing price of the asset on the given date. This price takes into account any dividends, stock splits, or other corporate actions that may have occurred, which can affect the stock price.\nVolume: The total number of shares of the asset that were traded on the given date.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "time series analysis",
+    "regression",
+    "optimization",
+    "investing",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

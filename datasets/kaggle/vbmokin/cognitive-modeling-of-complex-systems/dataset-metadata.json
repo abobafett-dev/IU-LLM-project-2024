@@ -1,0 +1,43 @@
+{
+  "id": "vbmokin/cognitive-modeling-of-complex-systems",
+  "id_no": 1803918,
+  "datasetSlugNullable": "cognitive-modeling-of-complex-systems",
+  "ownerUserNullable": "vbmokin",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Cognitive modeling of complex systems",
+  "subtitleNullable": "Examples of weights and descriptions of cognitive maps",
+  "descriptionNullable": "### Context\n\nThe dataset contains examples of weights and descriptions of cognitive maps of complex systems for cognitive modeling in various fields\n\n\n### Content\n\nEach cognitive map is described by two files - one contains the weights of its edges, and the other (with a similar name) - the names of vertices and their type (input, target, or state variable) (default, all can be input or target in turn).\n\n\n### Acknowledgements\n\nExamples of cognitive modeling techniques are described in my articles (with co-authors): \n- https://visnyk.vntu.edu.ua/index.php/visnyk/article/view/2238/2195 (from there, a picture was used for the dataset logo)\n- https://ieeexplore.ieee.org/document/8100371\nThanks to the articles I refer to in my articles.\nThanks for the [article](http://www.improvement.ru/zametki/cognitive/), where there is a simple and clear example - I use it in my baseline notebook.\n\n\n### Inspiration\n\nI invite you to develop notebooks that allow cognitive modeling of complex systems (playing scenarios for their development, optimization of modes, etc.) using graph theory.",
+  "datasetId": 1803918,
+  "datasetSlug": "cognitive-modeling-of-complex-systems",
+  "hasDatasetSlug": true,
+  "ownerUser": "vbmokin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1561,
+  "totalVotes": 14,
+  "totalDownloads": 79,
+  "title": "Cognitive modeling of complex systems",
+  "hasTitle": true,
+  "subtitle": "Examples of weights and descriptions of cognitive maps",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe dataset contains examples of weights and descriptions of cognitive maps of complex systems for cognitive modeling in various fields\n\n\n### Content\n\nEach cognitive map is described by two files - one contains the weights of its edges, and the other (with a similar name) - the names of vertices and their type (input, target, or state variable) (default, all can be input or target in turn).\n\n\n### Acknowledgements\n\nExamples of cognitive modeling techniques are described in my articles (with co-authors): \n- https://visnyk.vntu.edu.ua/index.php/visnyk/article/view/2238/2195 (from there, a picture was used for the dataset logo)\n- https://ieeexplore.ieee.org/document/8100371\nThanks to the articles I refer to in my articles.\nThanks for the [article](http://www.improvement.ru/zametki/cognitive/), where there is a simple and clear example - I use it in my baseline notebook.\n\n\n### Inspiration\n\nI invite you to develop notebooks that allow cognitive modeling of complex systems (playing scenarios for their development, optimization of modes, etc.) using graph theory.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "exploratory data analysis",
+    "time series analysis",
+    "data analytics",
+    "feature engineering"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

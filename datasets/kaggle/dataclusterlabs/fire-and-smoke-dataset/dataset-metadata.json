@@ -1,0 +1,44 @@
+{
+  "id": "dataclusterlabs/fire-and-smoke-dataset",
+  "id_no": 1402026,
+  "datasetSlugNullable": "fire-and-smoke-dataset",
+  "ownerUserNullable": "dataclusterlabs",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Fire and Smoke Dataset",
+  "subtitleNullable": "Dataset for early detection of Fire and Smoke, Smart cameras, Fire alarm systems",
+  "descriptionNullable": "### **This dataset is collected by DataCluster Labs. To download full dataset or to submit a request for your new data collection needs, please drop a mail to:&nbsp;[sales@datacluster.ai](mailto:sales@datacluster.ai)**\n\nThis dataset is an extremely challenging set of over 7000+ original Fire and Smoke images captured and crowdsourced from over 400+ urban and rural areas, where each image is **manually reviewed and verified** by computer vision professionals at Datacluster Labs.\n\n### **Dataset Features**\n\n- Dataset size   : 7000+\n- Captured by  : Over 1000+ crowdsource contributors\n- Resolution     : 98% images HD and above (1920x1080 and above)\n- Location        : Captured with 400+ cities accross India\n- Diversity        : Various lighting conditions like day, night, varied distances, view points etc.\n- Device used  : Captured using mobile phones in 2020-2021\n- Usage            : Fire and Smoke detection, Smart cameras, Fire and Smoke alarming system, etc.\n\n### Available Annotation formats\n\nCOCO, YOLO, PASCAL-VOC, Tf-Record\n\n**The images in this dataset are exclusively owned by Data Cluster Labs and were not downloaded from the internet. To access a larger portion of the training dataset for research and commercial purposes, a license can be purchased. Contact us at sales@datacluster.ai Visit www.datacluster.ai to know more.**    ",
+  "datasetId": 1402026,
+  "datasetSlug": "fire-and-smoke-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "dataclusterlabs",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 61056,
+  "totalVotes": 75,
+  "totalDownloads": 7318,
+  "title": "Fire and Smoke Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset for early detection of Fire and Smoke, Smart cameras, Fire alarm systems",
+  "hasSubtitle": true,
+  "description": "### **This dataset is collected by DataCluster Labs. To download full dataset or to submit a request for your new data collection needs, please drop a mail to:&nbsp;[sales@datacluster.ai](mailto:sales@datacluster.ai)**\n\nThis dataset is an extremely challenging set of over 7000+ original Fire and Smoke images captured and crowdsourced from over 400+ urban and rural areas, where each image is **manually reviewed and verified** by computer vision professionals at Datacluster Labs.\n\n### **Dataset Features**\n\n- Dataset size   : 7000+\n- Captured by  : Over 1000+ crowdsource contributors\n- Resolution     : 98% images HD and above (1920x1080 and above)\n- Location        : Captured with 400+ cities accross India\n- Diversity        : Various lighting conditions like day, night, varied distances, view points etc.\n- Device used  : Captured using mobile phones in 2020-2021\n- Usage            : Fire and Smoke detection, Smart cameras, Fire and Smoke alarming system, etc.\n\n### Available Annotation formats\n\nCOCO, YOLO, PASCAL-VOC, Tf-Record\n\n**The images in this dataset are exclusively owned by Data Cluster Labs and were not downloaded from the internet. To access a larger portion of the training dataset for research and commercial purposes, a license can be purchased. Contact us at sales@datacluster.ai Visit www.datacluster.ai to know more.**    ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "music",
+    "weather and climate",
+    "computer vision",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

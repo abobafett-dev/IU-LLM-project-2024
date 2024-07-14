@@ -1,0 +1,40 @@
+{
+  "id": "matthiasse/german-news-headlines-politics-and-economics",
+  "id_no": 1847679,
+  "datasetSlugNullable": "german-news-headlines-politics-and-economics",
+  "ownerUserNullable": "matthiasse",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "German news headlines (politics and economics)",
+  "subtitleNullable": "Teasers and headlines scraped from several news pages and magazines",
+  "descriptionNullable": "### Context\n\nThe project was started as a web-scraping exercise to get more experience particularly with the scrapy framework. Since I daily check news from several sources I decided to get a webscraper do the work for me and look for the interesting headlines from politics and economics.\nThe news sources have been anonymised and the licence limited to non-commercial use since this is the prerequisite to scrape the data from those homepages.\n\n\n### Content\n\nIn the csv file you find around 8400 records of news headlines from 7 different sources. For each record a teaser (or sub-headline) and a headline is provided.\n\n\n### Acknowledgements\n\nMy thanks go to Upendra who has a great Youtube channel on webscraping (https://www.youtube.com/user/eupendras).\n\n\n### Inspiration\n\nAll data enthusiasts are highly welcome to use the data and make something out of it. I will try and practise topic modelling as well as translation tasks with transformer models. Any inspiration for this or comments on my notebooks (which I will publish shortly) are highly appreciated!",
+  "datasetId": 1847679,
+  "datasetSlug": "german-news-headlines-politics-and-economics",
+  "hasDatasetSlug": true,
+  "ownerUser": "matthiasse",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 902,
+  "totalVotes": 2,
+  "totalDownloads": 44,
+  "title": "German news headlines (politics and economics)",
+  "hasTitle": true,
+  "subtitle": "Teasers and headlines scraped from several news pages and magazines",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe project was started as a web-scraping exercise to get more experience particularly with the scrapy framework. Since I daily check news from several sources I decided to get a webscraper do the work for me and look for the interesting headlines from politics and economics.\nThe news sources have been anonymised and the licence limited to non-commercial use since this is the prerequisite to scrape the data from those homepages.\n\n\n### Content\n\nIn the csv file you find around 8400 records of news headlines from 7 different sources. For each record a teaser (or sub-headline) and a headline is provided.\n\n\n### Acknowledgements\n\nMy thanks go to Upendra who has a great Youtube channel on webscraping (https://www.youtube.com/user/eupendras).\n\n\n### Inspiration\n\nAll data enthusiasts are highly welcome to use the data and make something out of it. I will try and practise topic modelling as well as translation tasks with transformer models. Any inspiration for this or comments on my notebooks (which I will publish shortly) are highly appreciated!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "politics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "praneshmukhopadhyay/youtube-thumbnail-dataset",
+  "id_no": 2078665,
+  "datasetSlugNullable": "youtube-thumbnail-dataset",
+  "ownerUserNullable": "praneshmukhopadhyay",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "YouTube Thumbnail Dataset",
+  "subtitleNullable": "Top performing video thumbnails from over 90 YouTube channels.",
+  "descriptionNullable": "Hi, welcome to the most versatile dataset of **YouTube thumbnails**. This dataset goes hand in hand with the [YouTubers-Sayting-things](https://www.kaggle.com/praneshmukhopadhyay/youtubers-saying-things) dataset. The same set of video ids was used to generate this dataset, and I will be updating both at once.\n\nNow, obviously not all videos have a set thumbnail. In those cases, YouTube assigns a random frame as the subtitle, Only for those video Ids, we don't have the image.\n\n\n## Genres and channels\n\n|**Genre**|**Channels**| **#** |\n|:--------|:-----------|:------|\n|`Comedy`|**Brooklyn Nine-Nine**, **DRIVETRIBE**, **Incognito Mode**, **Internet Historian**, **Joma Tech**, **Key & Peele**, **OverSimplified**, **Parks and Recreation**, **penguinz0**, **Screen Junkies**, **Team Coco**, **The Graham Norton Show**, **The Grand Tour**, **The Office**, **Top Gear**|15|\n|`Science`|**3Blue1Brown**, **Dr. Becky**, **ElectroBOOM**, **Kurzgesagt \u2013 In a Nutshell**, **Lex Clips**, **Mark Rober**, **NileRed**, **PBS Space Time**, **SEA**, **SmarterEveryDay**, **Veritasium**, **Vsauce**|12|\n|`Automobile`|**Car Throttle**, **carwow**, **ChrisFix**, **Donut Media**, **DRIVETRIBE**, **The Grand Tour**, **The Stig**, **TheStraightPipes**, **Throttle House**, **Top Gear**|10|\n|`VideoGames`|**EpicNameBro**, **gameranx**, **jacksepticeye**, **Let's Game It Out**, **LevelCapGaming**, **LGR**, **Markiplier**, **Shroud**, **TheWarOwl**, **videogamedunkey**|10|\n|`Food`|**About To Eat**, **Bon App\u00e9tit**, **Eater**, **Epicurious**, **First We Feast**, **FoodTribe**, **Gordon Ramsay**, **Hell's Kitchen**, **Munchies**, **Mythical Kitchen**, **The F Word**|11|\n|`Entertainment`|**Brooklyn Nine-Nine**, **BuzzFeedVideo**, **Doctor Who**, **First We Feast**, **MrBeast**, **Parks and Recreation**, **Screen Junkies**, **Team Coco**, **The Graham Norton Show**, **The Office**, **The Try Guys**|11|\n|`Informative`|**Barely Sociable**, **Captain Disillusion**, **CNET**, **Coder Coder**, **Internet Historian**, **JCS - Criminal Psychology**, **LEMMiNO**, **OverSimplified**, **Sam O'Nella Academy**, **The Infographics Show**, **Vox**|11|\n|`Blog`|**Abroad in Japan**, **CDawgVA**, **DramaAlert**, **Drew Gooden**, **Incognito Mode**, **Joma in NYC**, **JRE Clips**, **Lex Clips**, **MrBeast**, **penguinz0**, **The Try Guys**|11|\n|`News`|**A&E**, **BBC News**, **Insider News**, **NBC News**, **NowThis News**, **Sky News**, **SomeGoodNews**, **TechLinked**, **The Daily Show with Trevor Noah**, **VICE**|10|\n|`Tech`|**Austin Evans**, **Coder Coder**, **Fireship**, **Hardware Canucks**, **Joma Tech**, **Linus Tech Tips**, **Marques Brownlee**, **TechLinked**, **Techquickie**, **Web Dev Simplified**|10|",
+  "datasetId": 2078665,
+  "datasetSlug": "youtube-thumbnail-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "praneshmukhopadhyay",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13805,
+  "totalVotes": 41,
+  "totalDownloads": 821,
+  "title": "YouTube Thumbnail Dataset",
+  "hasTitle": true,
+  "subtitle": "Top performing video thumbnails from over 90 YouTube channels.",
+  "hasSubtitle": true,
+  "description": "Hi, welcome to the most versatile dataset of **YouTube thumbnails**. This dataset goes hand in hand with the [YouTubers-Sayting-things](https://www.kaggle.com/praneshmukhopadhyay/youtubers-saying-things) dataset. The same set of video ids was used to generate this dataset, and I will be updating both at once.\n\nNow, obviously not all videos have a set thumbnail. In those cases, YouTube assigns a random frame as the subtitle, Only for those video Ids, we don't have the image.\n\n\n## Genres and channels\n\n|**Genre**|**Channels**| **#** |\n|:--------|:-----------|:------|\n|`Comedy`|**Brooklyn Nine-Nine**, **DRIVETRIBE**, **Incognito Mode**, **Internet Historian**, **Joma Tech**, **Key & Peele**, **OverSimplified**, **Parks and Recreation**, **penguinz0**, **Screen Junkies**, **Team Coco**, **The Graham Norton Show**, **The Grand Tour**, **The Office**, **Top Gear**|15|\n|`Science`|**3Blue1Brown**, **Dr. Becky**, **ElectroBOOM**, **Kurzgesagt \u2013 In a Nutshell**, **Lex Clips**, **Mark Rober**, **NileRed**, **PBS Space Time**, **SEA**, **SmarterEveryDay**, **Veritasium**, **Vsauce**|12|\n|`Automobile`|**Car Throttle**, **carwow**, **ChrisFix**, **Donut Media**, **DRIVETRIBE**, **The Grand Tour**, **The Stig**, **TheStraightPipes**, **Throttle House**, **Top Gear**|10|\n|`VideoGames`|**EpicNameBro**, **gameranx**, **jacksepticeye**, **Let's Game It Out**, **LevelCapGaming**, **LGR**, **Markiplier**, **Shroud**, **TheWarOwl**, **videogamedunkey**|10|\n|`Food`|**About To Eat**, **Bon App\u00e9tit**, **Eater**, **Epicurious**, **First We Feast**, **FoodTribe**, **Gordon Ramsay**, **Hell's Kitchen**, **Munchies**, **Mythical Kitchen**, **The F Word**|11|\n|`Entertainment`|**Brooklyn Nine-Nine**, **BuzzFeedVideo**, **Doctor Who**, **First We Feast**, **MrBeast**, **Parks and Recreation**, **Screen Junkies**, **Team Coco**, **The Graham Norton Show**, **The Office**, **The Try Guys**|11|\n|`Informative`|**Barely Sociable**, **Captain Disillusion**, **CNET**, **Coder Coder**, **Internet Historian**, **JCS - Criminal Psychology**, **LEMMiNO**, **OverSimplified**, **Sam O'Nella Academy**, **The Infographics Show**, **Vox**|11|\n|`Blog`|**Abroad in Japan**, **CDawgVA**, **DramaAlert**, **Drew Gooden**, **Incognito Mode**, **Joma in NYC**, **JRE Clips**, **Lex Clips**, **MrBeast**, **penguinz0**, **The Try Guys**|11|\n|`News`|**A&E**, **BBC News**, **Insider News**, **NBC News**, **NowThis News**, **Sky News**, **SomeGoodNews**, **TechLinked**, **The Daily Show with Trevor Noah**, **VICE**|10|\n|`Tech`|**Austin Evans**, **Coder Coder**, **Fireship**, **Hardware Canucks**, **Joma Tech**, **Linus Tech Tips**, **Marques Brownlee**, **TechLinked**, **Techquickie**, **Web Dev Simplified**|10|",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image",
+    "multiclass classification",
+    "transfer learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

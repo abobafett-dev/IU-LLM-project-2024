@@ -1,0 +1,42 @@
+{
+  "id": "anil1055/turkish-headlines-dataset",
+  "id_no": 1261113,
+  "datasetSlugNullable": "turkish-headlines-dataset",
+  "ownerUserNullable": "anil1055",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Turkish News Dataset",
+  "subtitleNullable": "Turkish News for Text Classification",
+  "descriptionNullable": "Dataset consists of 7 news type labels. These labels are economy, politics, life, technology, magazine, health, sport. This dataset was created by me via Mynet, Milliyet, etc websites.\nThere are 600 headlines for each label in the dataset . Hence, total headlines count is 4200 for dataset.\n\nDataset has used many studies and researches. These researches are followed as:\n-G\u00fcven, Z. A., Diri, B., & \u00c7akalo\u01e7lu, T. (2018). Classification of New Titles by Two Stage Latent Dirichlet Allocation. Proceedings - 2018 Innovations in Intelligent Systems and Applications Conference, ASYU 2018. https://doi.org/10.1109/ASYU.2018.8554027\n-(please citation this paper) Guven, Z. A., Diri, B., & Cakaloglu, T. (2019). Comparison of Topic Modeling Methods for Type Detection of Turkish News. UBMK 2019 - Proceedings, 4th International Conference on Computer Science and Engineering. https://doi.org/10.1109/UBMK.2019.8907050",
+  "datasetId": 1261113,
+  "datasetSlug": "turkish-headlines-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "anil1055",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 3494,
+  "totalVotes": 6,
+  "totalDownloads": 257,
+  "title": "Turkish News Dataset",
+  "hasTitle": true,
+  "subtitle": "Turkish News for Text Classification",
+  "hasSubtitle": true,
+  "description": "Dataset consists of 7 news type labels. These labels are economy, politics, life, technology, magazine, health, sport. This dataset was created by me via Mynet, Milliyet, etc websites.\nThere are 600 headlines for each label in the dataset . Hence, total headlines count is 4200 for dataset.\n\nDataset has used many studies and researches. These researches are followed as:\n-G\u00fcven, Z. A., Diri, B., & \u00c7akalo\u01e7lu, T. (2018). Classification of New Titles by Two Stage Latent Dirichlet Allocation. Proceedings - 2018 Innovations in Intelligent Systems and Applications Conference, ASYU 2018. https://doi.org/10.1109/ASYU.2018.8554027\n-(please citation this paper) Guven, Z. A., Diri, B., & Cakaloglu, T. (2019). Comparison of Topic Modeling Methods for Type Detection of Turkish News. UBMK 2019 - Proceedings, 4th International Conference on Computer Science and Engineering. https://doi.org/10.1109/UBMK.2019.8907050",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data analytics",
+    "classification",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

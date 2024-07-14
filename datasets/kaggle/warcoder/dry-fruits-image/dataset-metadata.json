@@ -1,0 +1,43 @@
+{
+  "id": "warcoder/dry-fruits-image",
+  "id_no": 3724909,
+  "datasetSlugNullable": "dry-fruits-image",
+  "ownerUserNullable": "warcoder",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Dry Fruits Image",
+  "subtitleNullable": "Dry Fruit Image Dataset",
+  "descriptionNullable": "The \"Dry Fruit Image Dataset\" is a collection of 11500+ processed high-quality images representing 12 distinct classes of dry fruits. The 4 dry fruits\u2014Almonds, Cashew Nuts, Raisins, and Dried Figs (Anjeer)\u2014along with 3 sub-types of each are contained in the sub-folders, making a total of 12 distinct classes. These pictures were taken with a high-definition camera on cell phones. The dataset contains images in different lighting conditions as well as with different backgrounds. This dataset can be used for building machine learning models for the classification and recognition of Dry Fruits, requiring neat, appropriately tagged, and high-quality images. The dry fruit classification algorithm can be trained, tested, and validated using this dataset. Furthermore, it is beneficial for dry fruit research, education, and medicinal purposes.",
+  "datasetId": 3724909,
+  "datasetSlug": "dry-fruits-image",
+  "hasDatasetSlug": true,
+  "ownerUser": "warcoder",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 956,
+  "totalVotes": 7,
+  "totalDownloads": 149,
+  "title": "Dry Fruits Image",
+  "hasTitle": true,
+  "subtitle": "Dry Fruit Image Dataset",
+  "hasSubtitle": true,
+  "description": "The \"Dry Fruit Image Dataset\" is a collection of 11500+ processed high-quality images representing 12 distinct classes of dry fruits. The 4 dry fruits\u2014Almonds, Cashew Nuts, Raisins, and Dried Figs (Anjeer)\u2014along with 3 sub-types of each are contained in the sub-folders, making a total of 12 distinct classes. These pictures were taken with a high-definition camera on cell phones. The dataset contains images in different lighting conditions as well as with different backgrounds. This dataset can be used for building machine learning models for the classification and recognition of Dry Fruits, requiring neat, appropriately tagged, and high-quality images. The dry fruit classification algorithm can be trained, tested, and validated using this dataset. Furthermore, it is beneficial for dry fruit research, education, and medicinal purposes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "agriculture",
+    "image",
+    "food",
+    "multilabel classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

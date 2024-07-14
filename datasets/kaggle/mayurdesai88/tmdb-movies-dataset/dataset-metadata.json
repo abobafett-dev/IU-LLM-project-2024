@@ -1,0 +1,43 @@
+{
+  "id": "mayurdesai88/tmdb-movies-dataset",
+  "id_no": 2496694,
+  "datasetSlugNullable": "tmdb-movies-dataset",
+  "ownerUserNullable": "mayurdesai88",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "TMDB MOVIES DATASET",
+  "subtitleNullable": "Its contain over 10000 movies data",
+  "descriptionNullable": "This dataset contains the data of the over 10000 TMDB movies including the id, title, release date,avg vote, vote count, overview and popularity, etc.\nThis data was collected by using the TMDB API, requests, json and converted into a dataframe using pandas.\nThis data set contains some null values as there are missing fields in the tmdb database. Thought it's good for a young analyst to deal with missing value and you can also use this data to make movies recommendation systems ",
+  "datasetId": 2496694,
+  "datasetSlug": "tmdb-movies-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mayurdesai88",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 263,
+  "totalVotes": 2,
+  "totalDownloads": 23,
+  "title": "TMDB MOVIES DATASET",
+  "hasTitle": true,
+  "subtitle": "Its contain over 10000 movies data",
+  "hasSubtitle": true,
+  "description": "This dataset contains the data of the over 10000 TMDB movies including the id, title, release date,avg vote, vote count, overview and popularity, etc.\nThis data was collected by using the TMDB API, requests, json and converted into a dataframe using pandas.\nThis data set contains some null values as there are missing fields in the tmdb database. Thought it's good for a young analyst to deal with missing value and you can also use this data to make movies recommendation systems ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "exploratory data analysis",
+    "data cleaning",
+    "nlp"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

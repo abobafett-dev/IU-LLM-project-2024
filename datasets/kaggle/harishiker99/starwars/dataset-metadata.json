@@ -1,0 +1,44 @@
+{
+  "id": "harishiker99/starwars",
+  "id_no": 647858,
+  "datasetSlugNullable": "starwars",
+  "ownerUserNullable": "harishiker99",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "StarWars",
+  "subtitleNullable": "Sith or Jedi Image Classification",
+  "descriptionNullable": "Sith Image Descriptions:\n\nA Sith Lord wielding a red lightsaber in a dark cloak.\nA menacing Sith warrior with yellow Sith eyes.\nA Sith apprentice practicing the dark side of the Force.\nDarth Maul, a powerful and red-skinned Sith from \"Star Wars.\"\nEmperor Palpatine using Force lightning in his Sith robes.\nA Sith Inquisitor with a double-bladed lightsaber.\nKylo Ren, a conflicted Sith with a distinctive crossguard lightsaber.\n\nJedi Image Descriptions:\n\nA Jedi Knight in traditional robes, wielding a blue lightsaber.\nMaster Yoda, a wise and powerful Jedi Master.\nLuke Skywalker, a Jedi hero from the original \"Star Wars\" trilogy.\nA Jedi Padawan learning the ways of the Force.\nRey, a skilled Jedi from the sequel trilogy.\nObi-Wan Kenobi, a legendary Jedi Master.\nA group of Jedi using the Force to protect the galaxy.\n\nThe dataset is balanced, meaning it contains roughly equal numbers of \"Sith\" and \"Jedi\" images. The descriptions accurately represent the content of the images and distinguish between the two classes.",
+  "datasetId": 647858,
+  "datasetSlug": "starwars",
+  "hasDatasetSlug": true,
+  "ownerUser": "harishiker99",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 2928,
+  "totalVotes": 5,
+  "totalDownloads": 155,
+  "title": "StarWars",
+  "hasTitle": true,
+  "subtitle": "Sith or Jedi Image Classification",
+  "hasSubtitle": true,
+  "description": "Sith Image Descriptions:\n\nA Sith Lord wielding a red lightsaber in a dark cloak.\nA menacing Sith warrior with yellow Sith eyes.\nA Sith apprentice practicing the dark side of the Force.\nDarth Maul, a powerful and red-skinned Sith from \"Star Wars.\"\nEmperor Palpatine using Force lightning in his Sith robes.\nA Sith Inquisitor with a double-bladed lightsaber.\nKylo Ren, a conflicted Sith with a distinctive crossguard lightsaber.\n\nJedi Image Descriptions:\n\nA Jedi Knight in traditional robes, wielding a blue lightsaber.\nMaster Yoda, a wise and powerful Jedi Master.\nLuke Skywalker, a Jedi hero from the original \"Star Wars\" trilogy.\nA Jedi Padawan learning the ways of the Force.\nRey, a skilled Jedi from the sequel trilogy.\nObi-Wan Kenobi, a legendary Jedi Master.\nA group of Jedi using the Force to protect the galaxy.\n\nThe dataset is balanced, meaning it contains roughly equal numbers of \"Sith\" and \"Jedi\" images. The descriptions accurately represent the content of the images and distinguish between the two classes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "kerneler",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

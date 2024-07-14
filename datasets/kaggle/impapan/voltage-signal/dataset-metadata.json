@@ -1,0 +1,43 @@
+{
+  "id": "impapan/voltage-signal",
+  "id_no": 1252700,
+  "datasetSlugNullable": "voltage-signal",
+  "ownerUserNullable": "impapan",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Voltage Signal",
+  "subtitleNullable": "Synthetically generated voltage signal for voltage signal fault detection.",
+  "descriptionNullable": "### Context\n\nSynthetically generated Voltage Signal in three phases from point A to B for Voltage Signal fault detection.\n\n\n### Content\n\n**datanormal** folder contains normal voltage signal of three phases without any fault \nwhere **vdata1B1.txt** represents signal in Phase 1. \n**vdata2B1.txt** represents signal in Phase 2.\n**vdata3B1.txt** represents signal in Phase 3.\n<br>\n\n**fault** folder contains faulty voltage signal in any phases\nwhere **vdata1B1.txt** represents signal in Phase 1.\n**vdata2B1.txt** represents signal in Phase 2.\n**vdata3B1.txt** represents signal in Phase 3.\n\n",
+  "datasetId": 1252700,
+  "datasetSlug": "voltage-signal",
+  "hasDatasetSlug": true,
+  "ownerUser": "impapan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 3024,
+  "totalVotes": 19,
+  "totalDownloads": 230,
+  "title": "Voltage Signal",
+  "hasTitle": true,
+  "subtitle": "Synthetically generated voltage signal for voltage signal fault detection.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nSynthetically generated Voltage Signal in three phases from point A to B for Voltage Signal fault detection.\n\n\n### Content\n\n**datanormal** folder contains normal voltage signal of three phases without any fault \nwhere **vdata1B1.txt** represents signal in Phase 1. \n**vdata2B1.txt** represents signal in Phase 2.\n**vdata3B1.txt** represents signal in Phase 3.\n<br>\n\n**fault** folder contains faulty voltage signal in any phases\nwhere **vdata1B1.txt** represents signal in Phase 1.\n**vdata2B1.txt** represents signal in Phase 2.\n**vdata3B1.txt** represents signal in Phase 3.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "signal processing",
+    "time series analysis",
+    "deep learning",
+    "neural networks",
+    "electricity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

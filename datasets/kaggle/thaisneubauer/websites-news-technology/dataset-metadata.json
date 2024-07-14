@@ -1,0 +1,39 @@
+{
+  "id": "thaisneubauer/websites-news-technology",
+  "id_no": 2817,
+  "datasetSlugNullable": "websites-news-technology",
+  "ownerUserNullable": "thaisneubauer",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Texts of websites news about technology",
+  "subtitleNullable": "Crawled and classified texts from news in websites about technology ",
+  "descriptionNullable": "### Context\n\nCrawlers were constructed and tested to get the text from news in websites about technology.\n\n### Content\n\nFor each row, the first column is the text of a new and the second one is the classification of that text - the classes are: acquisition, investment, internet of things (iot), virtual reality (vr) and none.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 2817,
+  "datasetSlug": "websites-news-technology",
+  "hasDatasetSlug": true,
+  "ownerUser": "thaisneubauer",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 2731,
+  "totalVotes": 1,
+  "totalDownloads": 252,
+  "title": "Texts of websites news about technology",
+  "hasTitle": true,
+  "subtitle": "Crawled and classified texts from news in websites about technology ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCrawlers were constructed and tested to get the text from news in websites about technology.\n\n### Content\n\nFor each row, the first column is the text of a new and the second one is the classification of that text - the classes are: acquisition, investment, internet of things (iot), virtual reality (vr) and none.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "email and messaging"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

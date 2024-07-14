@@ -1,0 +1,41 @@
+{
+  "id": "jocelyndumlao/wheat-nitrogen-deficiency-and-leaf-rust-image",
+  "id_no": 3684888,
+  "datasetSlugNullable": "wheat-nitrogen-deficiency-and-leaf-rust-image",
+  "ownerUserNullable": "jocelyndumlao",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Wheat Nitrogen Deficiency & Leaf Rust Image ",
+  "subtitleNullable": "Illuminating Wheat: Nitrogen Deficiency & Leaf Rust in Images",
+  "descriptionNullable": "# Description\n\nCrop suffers from various biotic and abiotic stress which adversely affects yield. These stresses often produce visible symptoms, particularly in leaves of cereal crops like wheat that can be captured in the form of images. An image-based diagnosis approach to such stress is necessary for precision agriculture. This dataset was collected by an RGB camera (Sony IMX363) from the wheat crop experiment conducted during the rabi season 2019-20 at the IARI field. It comprises two sub-datasets, of which one is the nitrogen deficiency-affected leaf dataset (abiotic stress) while the other is the Leaf rust-affected wheat leaf dataset (biotic stress). These leaf images were acquired at the booting stage of the wheat crop. The corresponding healthy images of the wheat leaf under control conditions are also included in each of these sub-datasets. After the acquisition, the images were segmented from the background using otsu-based masking. This dataset entails a total of 300 images for control and nitrogen-deficient categories. The leaf rust dataset has a total of 368 and 491 diseased and control leaf images respectively. The folders are arranged in train, test, and validation sets with a split in the ratio of 70:15:15. This dataset is included to enable nitrogen deficiency and leaf rust detection using a deep learning-based approach.\n\n\n# Categories\n\nWheat, Rust, Cereal Crop, Rust Fungi, Nitrogen Deficiency\n\n\n# Acknowledgements & Source\n\nSunny Arya, Biswabiplab Singh\n\n# Institutions\n\nIndian Agricultural Research Institute\n\n[Data Source] (https://data.mendeley.com/datasets/th422bg4yd/1)\n\n[View Details] (https://plu.mx/plum/a?mendeley_data_id=th422bg4yd&theme=plum-bigben-theme)\n\n[Image Source](https://lh4.googleusercontent.com/y48tmprhldczu7vxwuZrsI_oA0GH4ws6D0vnWe6tQNsp3ofbKse72AGxC57_Bu3aakdcU7pO5iv3JfDdl2XUedCfNX2vBymmFSvvR4yljx4P_D6kalKYsKLXhzOxUsDGnoazsaQ)",
+  "datasetId": 3684888,
+  "datasetSlug": "wheat-nitrogen-deficiency-and-leaf-rust-image",
+  "hasDatasetSlug": true,
+  "ownerUser": "jocelyndumlao",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 999,
+  "totalVotes": 15,
+  "totalDownloads": 160,
+  "title": "Wheat Nitrogen Deficiency & Leaf Rust Image ",
+  "hasTitle": true,
+  "subtitle": "Illuminating Wheat: Nitrogen Deficiency & Leaf Rust in Images",
+  "hasSubtitle": true,
+  "description": "# Description\n\nCrop suffers from various biotic and abiotic stress which adversely affects yield. These stresses often produce visible symptoms, particularly in leaves of cereal crops like wheat that can be captured in the form of images. An image-based diagnosis approach to such stress is necessary for precision agriculture. This dataset was collected by an RGB camera (Sony IMX363) from the wheat crop experiment conducted during the rabi season 2019-20 at the IARI field. It comprises two sub-datasets, of which one is the nitrogen deficiency-affected leaf dataset (abiotic stress) while the other is the Leaf rust-affected wheat leaf dataset (biotic stress). These leaf images were acquired at the booting stage of the wheat crop. The corresponding healthy images of the wheat leaf under control conditions are also included in each of these sub-datasets. After the acquisition, the images were segmented from the background using otsu-based masking. This dataset entails a total of 300 images for control and nitrogen-deficient categories. The leaf rust dataset has a total of 368 and 491 diseased and control leaf images respectively. The folders are arranged in train, test, and validation sets with a split in the ratio of 70:15:15. This dataset is included to enable nitrogen deficiency and leaf rust detection using a deep learning-based approach.\n\n\n# Categories\n\nWheat, Rust, Cereal Crop, Rust Fungi, Nitrogen Deficiency\n\n\n# Acknowledgements & Source\n\nSunny Arya, Biswabiplab Singh\n\n# Institutions\n\nIndian Agricultural Research Institute\n\n[Data Source] (https://data.mendeley.com/datasets/th422bg4yd/1)\n\n[View Details] (https://plu.mx/plum/a?mendeley_data_id=th422bg4yd&theme=plum-bigben-theme)\n\n[Image Source](https://lh4.googleusercontent.com/y48tmprhldczu7vxwuZrsI_oA0GH4ws6D0vnWe6tQNsp3ofbKse72AGxC57_Bu3aakdcU7pO5iv3JfDdl2XUedCfNX2vBymmFSvvR4yljx4P_D6kalKYsKLXhzOxUsDGnoazsaQ)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "image classification",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": "francescodaghero/linaige",
+  "id_no": 1880830,
+  "datasetSlugNullable": "linaige",
+  "ownerUserNullable": "francescodaghero",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "LINAIGE",
+  "subtitleNullable": "Low-resolution INfrared-array data for AI on the edGE",
+  "descriptionNullable": "### Data Description\n\nThe dataset consists of low-resolution multi-pixel infrared sensor samples, to be used for AI regression and classification applications (person counting, presence detection, etc.) and of the corresponding ground truth values. The main purpose of the dataset is to support the development and validation of the infrared sensor demonstrator in the project.\n\n### Data Format\n\nThe dataset consists of a set of Comma-Separated Value (CSV) files, where each row stores the information about one collected infrared frame, in particular:\n\u2022\tFrame timestamp\n\u2022\tFrame infrared pixels (8x8 array, stored in row-major, left to right, order).\n\u2022\tRoom temperature, measured by a thermistor\n\u2022\tGround truth label (e.g., person count in the frame).\n\u2022\tLabel confidence (a letter, \"e\" for \"easy-to-label\", \"h\" for \"hard-to-label\"), used for indicating human labeller's confidence to assign the label to specific frame, because of the difficulty of exactly matching the alignment and viewing angles of the infrared sensor and an optical camera used as reference.\n\nSamples in each CSV file are collected at 10Hz and ordered by timestamp. Different CSV files refer to different data collection sessions (e.g., different environments, different days or times of the day, etc.).\n\n### Data Size\nThe dataset will grow throughout the project. Currently, it includes a total of 25000 samples collected over 6 different sessions. The total file size is 13.2MB. \n\n### Acknowledgements\n\nIf you use LINAIGE in your experiments, please make sure to cite our paper:\n\n@inproceedings{xie2022privacy,\n\tauthor = {Xie, Chen and Daghero, Francesco and Chen, Yukai and Castellano, Marco and Gandolfi, Luca and Calimera, Andrea and Macii, Enrico and Poncino, Massimo and Jahier Pagliari, Daniele},\n\ttitle = {Privacy-preserving Social Distance Monitoring on Microcontrollers with Low-Resolution Infrared Sensors and CNNs},\n\tyear = {2022},\n\tpublisher = {IEEE},\n\tbooktitle = {Proceedings of the 2022 IEEE International Symposium on Circuits and Systems (ISCAS)},\n\tseries = {ISCAS 2022}\n}\n\nThis dataset is part of the StorAIge project that has received funding from the ECSEL Joint Undertaking (JU) under grant agreement No 101007321. The JU receives support from the European Union\u2019s Horizon 2020 research and innovation programme and France, Belgium, Czech Republic, Germany, Italy, Sweden, Switzerland, Turkey.",
+  "datasetId": 1880830,
+  "datasetSlug": "linaige",
+  "hasDatasetSlug": true,
+  "ownerUser": "francescodaghero",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 2546,
+  "totalVotes": 9,
+  "totalDownloads": 153,
+  "title": "LINAIGE",
+  "hasTitle": true,
+  "subtitle": "Low-resolution INfrared-array data for AI on the edGE",
+  "hasSubtitle": true,
+  "description": "### Data Description\n\nThe dataset consists of low-resolution multi-pixel infrared sensor samples, to be used for AI regression and classification applications (person counting, presence detection, etc.) and of the corresponding ground truth values. The main purpose of the dataset is to support the development and validation of the infrared sensor demonstrator in the project.\n\n### Data Format\n\nThe dataset consists of a set of Comma-Separated Value (CSV) files, where each row stores the information about one collected infrared frame, in particular:\n\u2022\tFrame timestamp\n\u2022\tFrame infrared pixels (8x8 array, stored in row-major, left to right, order).\n\u2022\tRoom temperature, measured by a thermistor\n\u2022\tGround truth label (e.g., person count in the frame).\n\u2022\tLabel confidence (a letter, \"e\" for \"easy-to-label\", \"h\" for \"hard-to-label\"), used for indicating human labeller's confidence to assign the label to specific frame, because of the difficulty of exactly matching the alignment and viewing angles of the infrared sensor and an optical camera used as reference.\n\nSamples in each CSV file are collected at 10Hz and ordered by timestamp. Different CSV files refer to different data collection sessions (e.g., different environments, different days or times of the day, etc.).\n\n### Data Size\nThe dataset will grow throughout the project. Currently, it includes a total of 25000 samples collected over 6 different sessions. The total file size is 13.2MB. \n\n### Acknowledgements\n\nIf you use LINAIGE in your experiments, please make sure to cite our paper:\n\n@inproceedings{xie2022privacy,\n\tauthor = {Xie, Chen and Daghero, Francesco and Chen, Yukai and Castellano, Marco and Gandolfi, Luca and Calimera, Andrea and Macii, Enrico and Poncino, Massimo and Jahier Pagliari, Daniele},\n\ttitle = {Privacy-preserving Social Distance Monitoring on Microcontrollers with Low-Resolution Infrared Sensors and CNNs},\n\tyear = {2022},\n\tpublisher = {IEEE},\n\tbooktitle = {Proceedings of the 2022 IEEE International Symposium on Circuits and Systems (ISCAS)},\n\tseries = {ISCAS 2022}\n}\n\nThis dataset is part of the StorAIge project that has received funding from the ECSEL Joint Undertaking (JU) under grant agreement No 101007321. The JU receives support from the European Union\u2019s Horizon 2020 research and innovation programme and France, Belgium, Czech Republic, Germany, Italy, Sweden, Switzerland, Turkey.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "people and society",
+    "classification",
+    "deep learning",
+    "image",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "xchenw",
+      "role": "writer"
+    },
+    {
+      "username": "danielepagliari",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

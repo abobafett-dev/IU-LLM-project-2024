@@ -1,0 +1,43 @@
+{
+  "id": "thomaswrightanderson/river-aire-discharge-time-series",
+  "id_no": 3326307,
+  "datasetSlugNullable": "river-aire-discharge-time-series",
+  "ownerUserNullable": "thomaswrightanderson",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "River Aire Discharge Time Series",
+  "subtitleNullable": "Generate daily river discharge forecasts using river and meteorological data",
+  "descriptionNullable": "# Background\nI used this dataset for my University of Leeds undergraduate dissertation in Physical Geography, forecasting daily river discharge in Armley (Leeds, UK) using LSTMs. This dataset requires some infilling, though otherwise is relatively clean. Feel free to have an explore or generate forecasts!\n\n# Columns\nColumns labelled with 'SF' are meteorological variables collected from Spen Farm meteorological station, just North East of the catchment boundary.\n\nPrecipitation data was all collected by Environment Agency automatic gauges spread around the catchment, though most concentrated in the lower and middle courses. \n\nRiver level and discharge data were taken from the the National River Flow Archive. 'Armley_Discharge' is the discharge recorded in Armley, a short distance from Leeds city centre and in the most flood-prone region.",
+  "datasetId": 3326307,
+  "datasetSlug": "river-aire-discharge-time-series",
+  "hasDatasetSlug": true,
+  "ownerUser": "thomaswrightanderson",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 541,
+  "totalVotes": 13,
+  "totalDownloads": 76,
+  "title": "River Aire Discharge Time Series",
+  "hasTitle": true,
+  "subtitle": "Generate daily river discharge forecasts using river and meteorological data",
+  "hasSubtitle": true,
+  "description": "# Background\nI used this dataset for my University of Leeds undergraduate dissertation in Physical Geography, forecasting daily river discharge in Armley (Leeds, UK) using LSTMs. This dataset requires some infilling, though otherwise is relatively clean. Feel free to have an explore or generate forecasts!\n\n# Columns\nColumns labelled with 'SF' are meteorological variables collected from Spen Farm meteorological station, just North East of the catchment boundary.\n\nPrecipitation data was all collected by Environment Agency automatic gauges spread around the catchment, though most concentrated in the lower and middle courses. \n\nRiver level and discharge data were taken from the the National River Flow Archive. 'Armley_Discharge' is the discharge recorded in Armley, a short distance from Leeds city centre and in the most flood-prone region.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "europe",
+    "environment",
+    "time series analysis",
+    "lstm",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

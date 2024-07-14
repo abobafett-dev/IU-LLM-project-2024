@@ -1,0 +1,43 @@
+{
+  "id": "arshadali12/food-prices-in-india",
+  "id_no": 1810908,
+  "datasetSlugNullable": "food-prices-in-india",
+  "ownerUserNullable": "arshadali12",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Food Prices In India",
+  "subtitleNullable": "Contains information about various food commodities in India",
+  "descriptionNullable": "This dataset contains Food Prices data for India, sourced from the World Food Programme Price Database. The World Food Programme Price Database covers foods such as maize, rice, beans, fish, and sugar for 98 countries and some 3000 markets. It is updated weekly but contains to a large extent monthly data. The data goes back as far as 1992 for a few countries, although many countries started reporting from 2003 or thereafter.\n",
+  "datasetId": 1810908,
+  "datasetSlug": "food-prices-in-india",
+  "hasDatasetSlug": true,
+  "ownerUser": "arshadali12",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2500,
+  "totalVotes": 8,
+  "totalDownloads": 359,
+  "title": "Food Prices In India",
+  "hasTitle": true,
+  "subtitle": "Contains information about various food commodities in India",
+  "hasSubtitle": true,
+  "description": "This dataset contains Food Prices data for India, sourced from the World Food Programme Price Database. The World Food Programme Price Database covers foods such as maize, rice, beans, fish, and sugar for 98 countries and some 3000 markets. It is updated weekly but contains to a large extent monthly data. The data goes back as far as 1992 for a few countries, although many countries started reporting from 2003 or thereafter.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "exploratory data analysis",
+    "time series analysis",
+    "food",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

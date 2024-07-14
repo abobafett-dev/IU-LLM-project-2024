@@ -1,0 +1,40 @@
+{
+  "id": "kazushiadachi/global-landslide-data",
+  "id_no": 2012478,
+  "datasetSlugNullable": "global-landslide-data",
+  "ownerUserNullable": "kazushiadachi",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Global Landslide Data",
+  "subtitleNullable": "Data collected from NASA's open data portal",
+  "descriptionNullable": "### Context\n\nThe Global Landslide Catalog (GLC) was developed with the goal of identifying rainfall-triggered landslide events around the world, regardless of size, impacts or location. The GLC considers all types of mass movements triggered by rainfall, which have been reported in the media, disaster databases, scientific reports, or other sources. The GLC has been compiled since 2007 at NASA Goddard Space Flight Center. This is a unique data set with the ID tag \u201cGLC\u201d in the landslide editor.\n\n\n### Content\n\nThe Global Landslide Catalog (GLC) was developed with the goal of identifying rainfall-triggered landslide events around the world, regardless of size, impacts or location. The GLC considers all types of mass movements triggered by rainfall and some triggered by other events, that have been reported in the media, disaster databases, scientific reports, or other sources.\n\nColumn : Description (Type)\n\n- source_name : news entity (Plain Text)\n- source_link : news source (Website URL)\n- event_id (Number)\n- event_date (Date & Time)\n- event_time (Date & Time)\n- event_title : title of news story (Plain Text)\n- event_description (Plain Text) \n- location_description (Plain Text)\n- location_accuracy : location is accurate within this range (Plain Text)\n- landslide_category (Plain Text)\n- landslide_trigger : cause of landslide (Plain Text)\n- landslide_size\t(Plain Text)\n- landslide_setting : environment where landslide occurred (Plain Text)\n- fatality_count (Number)\n- injury_count (Number)\n- storm_name (Plain Text)\n- photo_link (Website URL)\n- notes (Plain Text)\n- event_import_source (Plain Text)\n- event_import_id (Number)\n- country_name (Plain Text)\n- country_code\t(Plain Text)\n- admin_division_name (Plain Text)\n- admin_division_population (Number)\n- gazeteer_closest_point\t(Plain Text)\n- gazeteer_distance\t(Number)\n- submitted_date (Date & Time)\n- created_date\t(Date & Time)\n- last_edited_date (Date & Time)\n- longitude (Number)\n- latitude (Number)\n\n\n\n### Acknowledgements\n\nNASA Goddard Space Flight Center, landslides.nasa.gov",
+  "datasetId": 2012478,
+  "datasetSlug": "global-landslide-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "kazushiadachi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 3044,
+  "totalVotes": 6,
+  "totalDownloads": 338,
+  "title": "Global Landslide Data",
+  "hasTitle": true,
+  "subtitle": "Data collected from NASA's open data portal",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe Global Landslide Catalog (GLC) was developed with the goal of identifying rainfall-triggered landslide events around the world, regardless of size, impacts or location. The GLC considers all types of mass movements triggered by rainfall, which have been reported in the media, disaster databases, scientific reports, or other sources. The GLC has been compiled since 2007 at NASA Goddard Space Flight Center. This is a unique data set with the ID tag \u201cGLC\u201d in the landslide editor.\n\n\n### Content\n\nThe Global Landslide Catalog (GLC) was developed with the goal of identifying rainfall-triggered landslide events around the world, regardless of size, impacts or location. The GLC considers all types of mass movements triggered by rainfall and some triggered by other events, that have been reported in the media, disaster databases, scientific reports, or other sources.\n\nColumn : Description (Type)\n\n- source_name : news entity (Plain Text)\n- source_link : news source (Website URL)\n- event_id (Number)\n- event_date (Date & Time)\n- event_time (Date & Time)\n- event_title : title of news story (Plain Text)\n- event_description (Plain Text) \n- location_description (Plain Text)\n- location_accuracy : location is accurate within this range (Plain Text)\n- landslide_category (Plain Text)\n- landslide_trigger : cause of landslide (Plain Text)\n- landslide_size\t(Plain Text)\n- landslide_setting : environment where landslide occurred (Plain Text)\n- fatality_count (Number)\n- injury_count (Number)\n- storm_name (Plain Text)\n- photo_link (Website URL)\n- notes (Plain Text)\n- event_import_source (Plain Text)\n- event_import_id (Number)\n- country_name (Plain Text)\n- country_code\t(Plain Text)\n- admin_division_name (Plain Text)\n- admin_division_population (Number)\n- gazeteer_closest_point\t(Plain Text)\n- gazeteer_distance\t(Number)\n- submitted_date (Date & Time)\n- created_date\t(Date & Time)\n- last_edited_date (Date & Time)\n- longitude (Number)\n- latitude (Number)\n\n\n\n### Acknowledgements\n\nNASA Goddard Space Flight Center, landslides.nasa.gov",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "natural disasters"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "U.S. Government Works",
+      "name": "U.S. Government Works",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

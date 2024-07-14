@@ -1,0 +1,44 @@
+{
+  "id": "vipulpisal/fer2013-updated",
+  "id_no": 1275934,
+  "datasetSlugNullable": "fer2013-updated",
+  "ownerUserNullable": "vipulpisal",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "FER2013_updated",
+  "subtitleNullable": "Face Emotion Recognition",
+  "descriptionNullable": "The data consists of 48x48 pixel grayscale images of faces. The faces have been automatically registered so that the face is more or less centered and occupies about the same amount of space in each image.\nThe task is to categorize each face based on the emotion shown in the facial expression into one of seven categories (0=Angry, 1=Happy, 2=Neutral, 3=Sad, 4=surprise). The training set consists of 24,282 examples and the public test set consists of 5,937 examples.",
+  "datasetId": 1275934,
+  "datasetSlug": "fer2013-updated",
+  "hasDatasetSlug": true,
+  "ownerUser": "vipulpisal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 2110,
+  "totalVotes": 2,
+  "totalDownloads": 251,
+  "title": "FER2013_updated",
+  "hasTitle": true,
+  "subtitle": "Face Emotion Recognition",
+  "hasSubtitle": true,
+  "description": "The data consists of 48x48 pixel grayscale images of faces. The faces have been automatically registered so that the face is more or less centered and occupies about the same amount of space in each image.\nThe task is to categorize each face based on the emotion shown in the facial expression into one of seven categories (0=Angry, 1=Happy, 2=Neutral, 3=Sad, 4=surprise). The training set consists of 24,282 examples and the public test set consists of 5,937 examples.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "cnn",
+    "image",
+    "social networks",
+    "keras",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

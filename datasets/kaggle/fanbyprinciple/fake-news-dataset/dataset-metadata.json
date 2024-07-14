@@ -1,0 +1,39 @@
+{
+  "id": "fanbyprinciple/fake-news-dataset",
+  "id_no": 1345188,
+  "datasetSlugNullable": "fake-news-dataset",
+  "ownerUserNullable": "fanbyprinciple",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Fake news dataset",
+  "subtitleNullable": "dataset with real and fake news",
+  "descriptionNullable": "The dataset was sourced from chapter for of the Machine learning for Cyber Security cookbook -https://github.com/PacktPublishing/Machine-Learning-for-Cybersecurity-Cookbook/tree/master/Chapter04/Fake%20News. The dataset provided is of a collection of fake and real news articles.",
+  "datasetId": 1345188,
+  "datasetSlug": "fake-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "fanbyprinciple",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 7401,
+  "totalVotes": 9,
+  "totalDownloads": 692,
+  "title": "Fake news dataset",
+  "hasTitle": true,
+  "subtitle": "dataset with real and fake news",
+  "hasSubtitle": true,
+  "description": "The dataset was sourced from chapter for of the Machine learning for Cyber Security cookbook -https://github.com/PacktPublishing/Machine-Learning-for-Cybersecurity-Cookbook/tree/master/Chapter04/Fake%20News. The dataset provided is of a collection of fake and real news articles.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

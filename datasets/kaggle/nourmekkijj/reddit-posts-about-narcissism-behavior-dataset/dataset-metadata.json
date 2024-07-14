@@ -1,0 +1,41 @@
+{
+  "id": "nourmekkijj/reddit-posts-about-narcissism-behavior-dataset",
+  "id_no": 5289665,
+  "datasetSlugNullable": "reddit-posts-about-narcissism-behavior-dataset",
+  "ownerUserNullable": "nourmekkijj",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Reddit Posts About Narcissism Behavior Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset contains a collection of Reddit posts related to the topic of narcissism. The data was gathered from various subreddits where users discuss their experiences, observations, and knowledge about narcissistic behavior and personality traits. The dataset is intended for research and analysis in the fields of psychology, social science, and natural language processing (NLP).\n\n## ### **Columns:\n**\nsubreddit: The subreddit where the post was made.\n\ntitle: The title of the post.\n\nscore: The score of the post.\n\nid: The unique identifier of the post.\n\nurl: The URL of the post.\n\ncomments: The number of comments on the post.\n\ncreation time: The time when the post was created.\n\ncontent: The content of the post .\n\n### **Summary:\n**\nTotal Entries: 5,374\n\nSubreddits Covered: Various subreddits related to narcissistic behavior.\n\nFile Size:\nApproximately 336 KB\n\n***if you are interested in how to scrap data from reddit and clean it , i have uploaded also a notebook to this dataset that shows the process with some explanations ***",
+  "datasetId": 5289665,
+  "datasetSlug": "reddit-posts-about-narcissism-behavior-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "nourmekkijj",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 2288,
+  "totalVotes": 22,
+  "totalDownloads": 271,
+  "title": "Reddit Posts About Narcissism Behavior Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset contains a collection of Reddit posts related to the topic of narcissism. The data was gathered from various subreddits where users discuss their experiences, observations, and knowledge about narcissistic behavior and personality traits. The dataset is intended for research and analysis in the fields of psychology, social science, and natural language processing (NLP).\n\n## ### **Columns:\n**\nsubreddit: The subreddit where the post was made.\n\ntitle: The title of the post.\n\nscore: The score of the post.\n\nid: The unique identifier of the post.\n\nurl: The URL of the post.\n\ncomments: The number of comments on the post.\n\ncreation time: The time when the post was created.\n\ncontent: The content of the post .\n\n### **Summary:\n**\nTotal Entries: 5,374\n\nSubreddits Covered: Various subreddits related to narcissistic behavior.\n\nFile Size:\nApproximately 336 KB\n\n***if you are interested in how to scrap data from reddit and clean it , i have uploaded also a notebook to this dataset that shows the process with some explanations ***",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "psychology",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

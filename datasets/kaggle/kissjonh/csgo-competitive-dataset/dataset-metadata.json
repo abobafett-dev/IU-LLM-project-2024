@@ -1,0 +1,43 @@
+{
+  "id": "kissjonh/csgo-competitive-dataset",
+  "id_no": 2229368,
+  "datasetSlugNullable": "csgo-competitive-dataset",
+  "ownerUserNullable": "kissjonh",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "csgo_competitive_dataset",
+  "subtitleNullable": "scalable video/label competitive dataset produced by high rank csgo player",
+  "descriptionNullable": "scalable video/label competitive dataset produced by high rank csgo player\n## how dataset recorded\nwe crawled demos from gameplatform and used some reverse engineering way to infer the player action.\nthe video was recorded 32 fps on 128tick server that plays the demo.\naction_label was infered every 8ticks a.k.a 1/16 sec.\nTHE DATA SET IS STILL UNDER-PROGRESS.\n\n## todo\n- customize  pytorch DataSet object\n- expert demostration clean data.\n- possibly more maps other than just dust2\n\n## **update**\n20220605: added more videos,  providing full t player csv file\n20220530: first example dataset.\n\nproduce tool:\nhttps://github.com/jackal-u/csgo_competitive_dataset_tool\nai_training_example:\nhttps://github.com/jackal-u/csgo_behavior_cloning_ai\n\n## contact\ni'm maintaining this dataset for research purpose. \nif there is any problem, please contact me.\nemail: \n        mengshi2022@ia.ac.cn\n               ",
+  "datasetId": 2229368,
+  "datasetSlug": "csgo-competitive-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kissjonh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 2097,
+  "totalVotes": 11,
+  "totalDownloads": 73,
+  "title": "csgo_competitive_dataset",
+  "hasTitle": true,
+  "subtitle": "scalable video/label competitive dataset produced by high rank csgo player",
+  "hasSubtitle": true,
+  "description": "scalable video/label competitive dataset produced by high rank csgo player\n## how dataset recorded\nwe crawled demos from gameplatform and used some reverse engineering way to infer the player action.\nthe video was recorded 32 fps on 128tick server that plays the demo.\naction_label was infered every 8ticks a.k.a 1/16 sec.\nTHE DATA SET IS STILL UNDER-PROGRESS.\n\n## todo\n- customize  pytorch DataSet object\n- expert demostration clean data.\n- possibly more maps other than just dust2\n\n## **update**\n20220605: added more videos,  providing full t player csv file\n20220530: first example dataset.\n\nproduce tool:\nhttps://github.com/jackal-u/csgo_competitive_dataset_tool\nai_training_example:\nhttps://github.com/jackal-u/csgo_behavior_cloning_ai\n\n## contact\ni'm maintaining this dataset for research purpose. \nif there is any problem, please contact me.\nemail: \n        mengshi2022@ia.ac.cn\n               ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games",
+    "time series analysis",
+    "deep learning",
+    "video",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

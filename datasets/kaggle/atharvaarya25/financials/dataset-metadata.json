@@ -1,0 +1,43 @@
+{
+  "id": "atharvaarya25/financials",
+  "id_no": 3577794,
+  "datasetSlugNullable": "financials",
+  "ownerUserNullable": "atharvaarya25",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Company Financials Dataset",
+  "subtitleNullable": "Test your preprocessing skills with this dataset!!",
+  "descriptionNullable": "This is a dataset that requires a lot of preprocessing with amazing EDA insights for a company. A dataset consisting of sales and profit data sorted by market segment and country/region. \n\nTips for pre-processing:\n1. Check for column names and find error there itself!!\n2. Remove '$' sign and '-' from all columns where they are present\n3. Change datatype from objects to int after the above two.\n4. Challenge: Try removing \" , \" (comma) from all numerical numbers.\n5. Try plotting sales and profit with respect to timeline",
+  "datasetId": 3577794,
+  "datasetSlug": "financials",
+  "hasDatasetSlug": true,
+  "ownerUser": "atharvaarya25",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 25078,
+  "totalVotes": 69,
+  "totalDownloads": 5892,
+  "title": "Company Financials Dataset",
+  "hasTitle": true,
+  "subtitle": "Test your preprocessing skills with this dataset!!",
+  "hasSubtitle": true,
+  "description": "This is a dataset that requires a lot of preprocessing with amazing EDA insights for a company. A dataset consisting of sales and profit data sorted by market segment and country/region. \n\nTips for pre-processing:\n1. Check for column names and find error there itself!!\n2. Remove '$' sign and '-' from all columns where they are present\n3. Change datatype from objects to int after the above two.\n4. Challenge: Try removing \" , \" (comma) from all numerical numbers.\n5. Try plotting sales and profit with respect to timeline",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "data cleaning",
+    "data analytics",
+    "investing",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

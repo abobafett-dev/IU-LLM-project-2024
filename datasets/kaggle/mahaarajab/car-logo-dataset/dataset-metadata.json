@@ -1,0 +1,43 @@
+{
+  "id": "mahaarajab/car-logo-dataset",
+  "id_no": 1973621,
+  "datasetSlugNullable": "car-logo-dataset",
+  "ownerUserNullable": "mahaarajab",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Car_Logo_Dataset",
+  "subtitleNullable": "this dataset can be used in car logo recognition system to recognize a logo",
+  "descriptionNullable": "The general objective of this dataset is to enable researchers in the field of pattern recognition and computer vision to analyze, detect, localize and recognize different types of logos.\nThe size of the dataset is 14.8 MB. It contains a total of 544 color logos samples which are stored in png image format.  The car logo dataset contains 32 different classes of cars, each one has 17 images. The images of logos were acquired from the internet.\nWe use this dataset in car image recognition and classification.\n",
+  "datasetId": 1973621,
+  "datasetSlug": "car-logo-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mahaarajab",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 3798,
+  "totalVotes": 4,
+  "totalDownloads": 212,
+  "title": "Car_Logo_Dataset",
+  "hasTitle": true,
+  "subtitle": "this dataset can be used in car logo recognition system to recognize a logo",
+  "hasSubtitle": true,
+  "description": "The general objective of this dataset is to enable researchers in the field of pattern recognition and computer vision to analyze, detect, localize and recognize different types of logos.\nThe size of the dataset is 14.8 MB. It contains a total of 544 color logos samples which are stored in png image format.  The car logo dataset contains 32 different classes of cars, each one has 17 images. The images of logos were acquired from the internet.\nWe use this dataset in car image recognition and classification.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "computer vision",
+    "classification",
+    "clustering",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

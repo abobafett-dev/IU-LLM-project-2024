@@ -1,0 +1,43 @@
+{
+  "id": "datahmifitb/felis-taxonomy-image-classification",
+  "id_no": 2776753,
+  "datasetSlugNullable": "felis-taxonomy-image-classification",
+  "ownerUserNullable": "datahmifitb",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Felis Taxonomy Image Classification",
+  "subtitleNullable": "Dataset with many cute cats.",
+  "descriptionNullable": "*Felis* is a genus of small and medium-sized cat species. Domestic cat, which we often see, pat, and hug, is one among 7 of them. Our community has seen this set of images as an interesting task since the domestic cat alone has a lot of breeds. It would be challenging for an AI model to predict which cat belongs to which species since the features of cats may look similar.\n\nHere's the taxonomy taken from [Wikipedia](https://en.wikipedia.org/wiki/Felis)\n![felis-taxonomy](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F13117693%2Fad0dbddefad49afce37e58fd159113d6%2Ffelis-taxonomy.jpg?generation=1672589614022078&alt=media)",
+  "datasetId": 2776753,
+  "datasetSlug": "felis-taxonomy-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "datahmifitb",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 3035,
+  "totalVotes": 15,
+  "totalDownloads": 245,
+  "title": "Felis Taxonomy Image Classification",
+  "hasTitle": true,
+  "subtitle": "Dataset with many cute cats.",
+  "hasSubtitle": true,
+  "description": "*Felis* is a genus of small and medium-sized cat species. Domestic cat, which we often see, pat, and hug, is one among 7 of them. Our community has seen this set of images as an interesting task since the domestic cat alone has a lot of breeds. It would be challenging for an AI model to predict which cat belongs to which species since the features of cats may look similar.\n\nHere's the taxonomy taken from [Wikipedia](https://en.wikipedia.org/wiki/Felis)\n![felis-taxonomy](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F13117693%2Fad0dbddefad49afce37e58fd159113d6%2Ffelis-taxonomy.jpg?generation=1672589614022078&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "animals",
+    "computer vision",
+    "classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

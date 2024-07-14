@@ -1,0 +1,40 @@
+{
+  "id": "mathchi/covid19-and-character-strengths",
+  "id_no": 1086858,
+  "datasetSlugNullable": "covid19-and-character-strengths",
+  "ownerUserNullable": "mathchi",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Covid-19 and Character Strengths",
+  "subtitleNullable": "Strengths, Psychological Distress and Self\u2011efficacy During Covid-19 Lockdown",
+  "descriptionNullable": "\n## Abstract\nThe Covid-19 pandemic obliged people around the world to stay home and self-isolate,\nwith a number of negative psychological consequences. This study focuses on the protective\nrole of character strengths in sustaining mental health and self-efficacy during\nlockdown. Data were collected from 944 Italian respondents (mean age = 37.24 years,\nSD = 14.50) by means of an online survey investigating character strengths, psychological\ndistress and Covid-19-related self-efficacy one month after lockdown began. Using principal\ncomponent analysis, four strengths factors were extracted, namely transcendence, interpersonal,\nopenness and restraint. Regression models with second-order factors showed that\ntranscendence strengths had a strong inverse association with psychological distress, and\na positive association with self-efficacy. Regression models with single strengths identified\nhope, zest, prudence, love and forgiveness as the strengths most associated with distress,\nlove and zest as the most related to self-efficacy and zest to general mental health.\nOpenness factor and appreciation of beauty showed an unexpected direct relation with psychological\ndistress. These results provide original evidence of the association of character\nstrengths, and transcendence strengths in particular, with mental health and self-efficacy in\na pandemic and are discussed within the field of positive psychology.\n\n## Keywords:\nCharacter strengths \u00b7 COVID-19 \u00b7 Psychological distress \u00b7 Self-efficacy \u00b7\nPsychological impact \u00b7 Lockdown\n\n## Description\nData refers to an analysis of the protective role of character strengths on psychological distress and self-efficacy during Covid-19 lockdown.\n\nThe datasets includes:\nParticipants: participant number\n\nFour columns for the second-order strengths factors previously extracted via PCA:\nOpenness\nRestraint\nTranscendence\nInterpersonal\n\nThe three dependent measures\nDASS_21 (Depression Anxiety and Stress Scale)\nGHQ_12 (General Health Questionnaire)\nSEC (Self-efficacy for Covid-19)\n\nSix demographic variables added in the analysis:\nAge\nGender\nWork (representing the perceived work change subsequent to lockdown)\nStudent (being a student or not)\nDay (how many days passed when the participant responded since the day the survey was opened)\n\n\n# Reference\nhttps://figshare.com/articles/dataset/Covid-19_and_Character_Strengths/12366494\nhttps://link.springer.com/article/10.1007/s10902-020-00321-w",
+  "datasetId": 1086858,
+  "datasetSlug": "covid19-and-character-strengths",
+  "hasDatasetSlug": true,
+  "ownerUser": "mathchi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 13495,
+  "totalVotes": 66,
+  "totalDownloads": 1800,
+  "title": "Covid-19 and Character Strengths",
+  "hasTitle": true,
+  "subtitle": "Strengths, Psychological Distress and Self\u2011efficacy During Covid-19 Lockdown",
+  "hasSubtitle": true,
+  "description": "\n## Abstract\nThe Covid-19 pandemic obliged people around the world to stay home and self-isolate,\nwith a number of negative psychological consequences. This study focuses on the protective\nrole of character strengths in sustaining mental health and self-efficacy during\nlockdown. Data were collected from 944 Italian respondents (mean age = 37.24 years,\nSD = 14.50) by means of an online survey investigating character strengths, psychological\ndistress and Covid-19-related self-efficacy one month after lockdown began. Using principal\ncomponent analysis, four strengths factors were extracted, namely transcendence, interpersonal,\nopenness and restraint. Regression models with second-order factors showed that\ntranscendence strengths had a strong inverse association with psychological distress, and\na positive association with self-efficacy. Regression models with single strengths identified\nhope, zest, prudence, love and forgiveness as the strengths most associated with distress,\nlove and zest as the most related to self-efficacy and zest to general mental health.\nOpenness factor and appreciation of beauty showed an unexpected direct relation with psychological\ndistress. These results provide original evidence of the association of character\nstrengths, and transcendence strengths in particular, with mental health and self-efficacy in\na pandemic and are discussed within the field of positive psychology.\n\n## Keywords:\nCharacter strengths \u00b7 COVID-19 \u00b7 Psychological distress \u00b7 Self-efficacy \u00b7\nPsychological impact \u00b7 Lockdown\n\n## Description\nData refers to an analysis of the protective role of character strengths on psychological distress and self-efficacy during Covid-19 lockdown.\n\nThe datasets includes:\nParticipants: participant number\n\nFour columns for the second-order strengths factors previously extracted via PCA:\nOpenness\nRestraint\nTranscendence\nInterpersonal\n\nThe three dependent measures\nDASS_21 (Depression Anxiety and Stress Scale)\nGHQ_12 (General Health Questionnaire)\nSEC (Self-efficacy for Covid-19)\n\nSix demographic variables added in the analysis:\nAge\nGender\nWork (representing the perceived work change subsequent to lockdown)\nStudent (being a student or not)\nDay (how many days passed when the participant responded since the day the survey was opened)\n\n\n# Reference\nhttps://figshare.com/articles/dataset/Covid-19_and_Character_Strengths/12366494\nhttps://link.springer.com/article/10.1007/s10902-020-00321-w",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "psychology",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

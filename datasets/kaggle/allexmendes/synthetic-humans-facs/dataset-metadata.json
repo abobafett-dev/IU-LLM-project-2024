@@ -1,0 +1,42 @@
+{
+  "id": "allexmendes/synthetic-humans-facs",
+  "id_no": 1504688,
+  "datasetSlugNullable": "synthetic-humans-facs",
+  "ownerUserNullable": "allexmendes",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Synthetic Humans FACS",
+  "subtitleNullable": "Simulated highly realistic dataset of human facial expressions based on FACS.",
+  "descriptionNullable": "![Overview](https://i.imgur.com/v5QEGUc.png)\n### Context\nA dataset sample of around 5k FHD images of highly realistic synthetic humans, projected face landmarks, and respective Action Unit Expression.\n![Preview gif](https://i.imgur.com/skR54m6.gif)\n\n### Content\nThere are 20 Action Units present in this dataset, over 50 synthetic human characters where each is augmented with several randomization factors with the intent of diversification.\n\nActionsUnits are:\n*AU23_LipTightener, AU7_LidTightener, AU45_Blink, AU15_LipCornerDepressor, AU6_CheekRaiser, AU17_ChinRaiser, AU27_MouthStretch, AU2_OuterBrowRaiser, AU18_LipPucker, AU16_LowerLipDepressor, AU5_UpperLidRaiser, AU4_BrowLower, AU25_LipsApart, AU24_LipPresser, AU12_LipCornerPuller, AU22_LipFunneler, AU10_UpperLipRaiser, AU14_Dimpler, AU9_NoseWrinkler, AU46_Wink*\n\n*Frequency of each Action Unit plot:*\n![Frequency chart](https://i.imgur.com/aru6KbA.png)\n\n### Protocol\nThe dataset is divided into two different directories. Each directory contains 5000k ordered files.\n- Lit - 5k .png files representing realistic renders \n- Annotation - 5k .json files representing scene metadata\n\nFor each Annotation .json file:\n- The respective Action Unit number, as \"ActionUnit\"\n- A List of multiple related landmarks projected to image space, as \"LandMarks\"\n\n### Acknowledgments\nSynthetic images were generated with [UnrealEngine](https://www.unrealengine.com), [Metahuman models](https://www.unrealengine.com/en-US/digital-humans?sessionInvalidated=true)\n\n### Inspiration\nAs per [Paul Ekman Group](https://www.paulekman.com/facial-action-coding-system/)\n\"FACS is used across many different personal and professional settings. It is often used in various scientific settings for research. It is also used by animators and computer scientists interested in facial recognition.\nFACS may also enable greater awareness and sensitivity to subtle facial behaviors. Such skills are useful for psychotherapists, interviewers, and anyone working in communications.\"\n",
+  "datasetId": 1504688,
+  "datasetSlug": "synthetic-humans-facs",
+  "hasDatasetSlug": true,
+  "ownerUser": "allexmendes",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 4825,
+  "totalVotes": 12,
+  "totalDownloads": 169,
+  "title": "Synthetic Humans FACS",
+  "hasTitle": true,
+  "subtitle": "Simulated highly realistic dataset of human facial expressions based on FACS.",
+  "hasSubtitle": true,
+  "description": "![Overview](https://i.imgur.com/v5QEGUc.png)\n### Context\nA dataset sample of around 5k FHD images of highly realistic synthetic humans, projected face landmarks, and respective Action Unit Expression.\n![Preview gif](https://i.imgur.com/skR54m6.gif)\n\n### Content\nThere are 20 Action Units present in this dataset, over 50 synthetic human characters where each is augmented with several randomization factors with the intent of diversification.\n\nActionsUnits are:\n*AU23_LipTightener, AU7_LidTightener, AU45_Blink, AU15_LipCornerDepressor, AU6_CheekRaiser, AU17_ChinRaiser, AU27_MouthStretch, AU2_OuterBrowRaiser, AU18_LipPucker, AU16_LowerLipDepressor, AU5_UpperLidRaiser, AU4_BrowLower, AU25_LipsApart, AU24_LipPresser, AU12_LipCornerPuller, AU22_LipFunneler, AU10_UpperLipRaiser, AU14_Dimpler, AU9_NoseWrinkler, AU46_Wink*\n\n*Frequency of each Action Unit plot:*\n![Frequency chart](https://i.imgur.com/aru6KbA.png)\n\n### Protocol\nThe dataset is divided into two different directories. Each directory contains 5000k ordered files.\n- Lit - 5k .png files representing realistic renders \n- Annotation - 5k .json files representing scene metadata\n\nFor each Annotation .json file:\n- The respective Action Unit number, as \"ActionUnit\"\n- A List of multiple related landmarks projected to image space, as \"LandMarks\"\n\n### Acknowledgments\nSynthetic images were generated with [UnrealEngine](https://www.unrealengine.com), [Metahuman models](https://www.unrealengine.com/en-US/digital-humans?sessionInvalidated=true)\n\n### Inspiration\nAs per [Paul Ekman Group](https://www.paulekman.com/facial-action-coding-system/)\n\"FACS is used across many different personal and professional settings. It is often used in various scientific settings for research. It is also used by animators and computer scientists interested in facial recognition.\nFACS may also enable greater awareness and sensitivity to subtle facial behaviors. Such skills are useful for psychotherapists, interviewers, and anyone working in communications.\"\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "computer vision",
+    "simulations",
+    "eyes and vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

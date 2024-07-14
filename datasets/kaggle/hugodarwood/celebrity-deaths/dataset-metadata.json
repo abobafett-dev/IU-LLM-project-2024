@@ -1,0 +1,41 @@
+{
+  "id": "hugodarwood/celebrity-deaths",
+  "id_no": 597,
+  "datasetSlugNullable": "celebrity-deaths",
+  "ownerUserNullable": "hugodarwood",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Celebrity Deaths",
+  "subtitleNullable": "All wikipedia-listed celebrity deaths from 2006",
+  "descriptionNullable": "# Context \nI created this dataset to investigate the claim that 2016 had an unnaturally large number of celebrity deaths.\n\n\n# Content\nPoints listed by Name, Age, Cause of death and Reason for fame\n\n\n# Acknowledgements\nLifted from: https://en.wikipedia.org/wiki/Deaths_in_2016 for all years",
+  "datasetId": 597,
+  "datasetSlug": "celebrity-deaths",
+  "hasDatasetSlug": true,
+  "ownerUser": "hugodarwood",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 48873,
+  "totalVotes": 106,
+  "totalDownloads": 4525,
+  "title": "Celebrity Deaths",
+  "hasTitle": true,
+  "subtitle": "All wikipedia-listed celebrity deaths from 2006",
+  "hasSubtitle": true,
+  "description": "# Context \nI created this dataset to investigate the claim that 2016 had an unnaturally large number of celebrity deaths.\n\n\n# Content\nPoints listed by Name, Age, Cause of death and Reason for fame\n\n\n# Acknowledgements\nLifted from: https://en.wikipedia.org/wiki/Deaths_in_2016 for all years",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "celebrities",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

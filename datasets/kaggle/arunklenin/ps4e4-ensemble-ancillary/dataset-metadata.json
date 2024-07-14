@@ -1,0 +1,41 @@
+{
+  "id": "arunklenin/ps4e4-ensemble-ancillary",
+  "id_no": 4729127,
+  "datasetSlugNullable": "ps4e4-ensemble-ancillary",
+  "ownerUserNullable": "arunklenin",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "PS4E4 | Ensemble Ancillary",
+  "subtitleNullable": "Collation of multiple non-blended version results from my public notebook",
+  "descriptionNullable": "The Dataset is contains submissions from different versions of my notebook using various feature engineering & modeling ideas. Each submission is not blended with any other submission, the idea is to use these to generalize result. \n\nNaming format \"sub_pure_\"+score(in decimals)\n\n",
+  "datasetId": 4729127,
+  "datasetSlug": "ps4e4-ensemble-ancillary",
+  "hasDatasetSlug": true,
+  "ownerUser": "arunklenin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 171,
+  "totalVotes": 10,
+  "totalDownloads": 50,
+  "title": "PS4E4 | Ensemble Ancillary",
+  "hasTitle": true,
+  "subtitle": "Collation of multiple non-blended version results from my public notebook",
+  "hasSubtitle": true,
+  "description": "The Dataset is contains submissions from different versions of my notebook using various feature engineering & modeling ideas. Each submission is not blended with any other submission, the idea is to use these to generalize result. \n\nNaming format \"sub_pure_\"+score(in decimals)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "intermediate",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

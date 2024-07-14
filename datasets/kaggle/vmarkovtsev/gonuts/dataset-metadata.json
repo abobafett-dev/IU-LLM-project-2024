@@ -1,0 +1,43 @@
+{
+  "id": "vmarkovtsev/gonuts",
+  "id_no": 14132,
+  "datasetSlugNullable": "gonuts",
+  "ownerUserNullable": "vmarkovtsev",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "go-nuts archive",
+  "subtitleNullable": "200k raw emails from golang-nuts Google group",
+  "descriptionNullable": "### Context\n\nI wanted to create a dataset to practice NLP using Go. go-nuts is the official Go mailing list, and it's messages are an ideal candidate.\n\n\n### Content\n\nThis dataset was created by crawling Google Groups using [ggmbox](https://github.com/vmarkovtsev/ggmbox). It is possible to fetch raw emails given their ID, so first all the topics were discovered and listed and then individual emails fetched. This dataset has **31432 topics** with **200785 messages**.\n\n`golang-nuts.tar.xz` is the fetched emails as of 2018/12/09 and `golang-nuts.json.gz` is the metadata of each discussion topic. There is also `threads.csv.gz` with plain text messages per topic, in logical order and with some filtering performed. E.g. citations were removed. If you want to improve it or write a custom information extractor, refer to [parse.go](https://github.com/vmarkovtsev/ggmbox/blob/master/parse.go). Python users: emails can be loaded with [`email.message_from_file()`](https://docs.python.org/3/library/email.parser.html#email.message_from_file) but some additional work may be required to decode base64-encoded parts of some files, see [MIME](https://en.wikipedia.org/wiki/MIME).\n\n### Acknowledgements\n\nThe rights on the email contents belong to their respective authors. Idiomatic Go reviews of ggmbox code were done (and not finished yet!) by [Francesc Campoy](https://twitter.com/francesc). Crawling speed is thanks to [Scrapy](https://scrapy.org/). Hardware and mental support by [source{d}](https://sourced.tech). Idea inspired by [GopherCon Russia](https://www.gophercon-russia.ru/).\n\nSee also: [chromium-dev archive](https://www.kaggle.com/vmarkovtsev/chromiumdev-archive).",
+  "datasetId": 14132,
+  "datasetSlug": "gonuts",
+  "hasDatasetSlug": true,
+  "ownerUser": "vmarkovtsev",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 7505,
+  "totalVotes": 10,
+  "totalDownloads": 270,
+  "title": "go-nuts archive",
+  "hasTitle": true,
+  "subtitle": "200k raw emails from golang-nuts Google group",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI wanted to create a dataset to practice NLP using Go. go-nuts is the official Go mailing list, and it's messages are an ideal candidate.\n\n\n### Content\n\nThis dataset was created by crawling Google Groups using [ggmbox](https://github.com/vmarkovtsev/ggmbox). It is possible to fetch raw emails given their ID, so first all the topics were discovered and listed and then individual emails fetched. This dataset has **31432 topics** with **200785 messages**.\n\n`golang-nuts.tar.xz` is the fetched emails as of 2018/12/09 and `golang-nuts.json.gz` is the metadata of each discussion topic. There is also `threads.csv.gz` with plain text messages per topic, in logical order and with some filtering performed. E.g. citations were removed. If you want to improve it or write a custom information extractor, refer to [parse.go](https://github.com/vmarkovtsev/ggmbox/blob/master/parse.go). Python users: emails can be loaded with [`email.message_from_file()`](https://docs.python.org/3/library/email.parser.html#email.message_from_file) but some additional work may be required to decode base64-encoded parts of some files, see [MIME](https://en.wikipedia.org/wiki/MIME).\n\n### Acknowledgements\n\nThe rights on the email contents belong to their respective authors. Idiomatic Go reviews of ggmbox code were done (and not finished yet!) by [Francesc Campoy](https://twitter.com/francesc). Crawling speed is thanks to [Scrapy](https://scrapy.org/). Hardware and mental support by [source{d}](https://sourced.tech). Idea inspired by [GopherCon Russia](https://www.gophercon-russia.ru/).\n\nSee also: [chromium-dev archive](https://www.kaggle.com/vmarkovtsev/chromiumdev-archive).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "education",
+    "linguistics",
+    "programming",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

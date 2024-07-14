@@ -1,0 +1,41 @@
+{
+  "id": "/2014-american-community-survey",
+  "id_no": 258,
+  "datasetSlugNullable": "2014-american-community-survey",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "2014 American Community Survey",
+  "subtitleNullable": "Detailed information about the American people and workforce",
+  "descriptionNullable": "# The 2014 American Community Survey Public Use Microdata Sample\n\n## Context\n\nThe American Community Survey (ACS) is an ongoing survey that provides vital information on a yearly basis about our nation and its people. Information from the survey generates data that help determine how more than $400 billion in federal and state funds are distributed each year.\n\n* **Frequency**: Annual\n* **Period**: 2014\n\n## Content\n\nThrough the ACS, we know more about jobs and occupations, educational attainment, veterans, whether people own or rent their home, and other topics. Public officials, planners, and entrepreneurs use this information to assess the past and plan the future. When you respond to the ACS, you are doing your part to help your community plan hospitals and schools, support school lunch programs, improve emergency services, build bridges, and inform businesses looking to add jobs and expand to new markets, and more. The data dictionary can be found [here][1].\n\n### Inspiration\n\n[Kernels created using the 2013 ACS][2] can serve as excellent starting points for working with the 2014 ACS. For example, the following analyses were created using ACS data:\n\n* [Work arrival times and earnings in the USA][3]\n* [Inequality in STEM careers][4]\n\n![Work arrival times and earnings in the USA][5]\n\n## Acknowledgements\n\nThe American Community Survey (ACS) is administered, processed, researched and disseminated by the U.S. Census Bureau within the U.S. Department of Commerce.\n\n\n  [1]: http://www2.census.gov/programs-surveys/acs/tech_docs/pums/data_dict/PUMSDataDict14.pdf\n  [2]: https://www.kaggle.com/census/2013-american-community-survey/kernels\n  [3]: https://www.kaggle.com/romanpopat/d/census/2013-american-community-survey/wake-me-up-before-you-go-go/run/40491/notebook\n  [4]: https://www.kaggle.com/minkles/d/census/2013-american-community-survey/inequality-in-stem\n  [5]: https://www.kaggle.io/svf/40491/67ea0531d5c3084d7f211732d8150afc/output_files/figure-html/unnamed-chunk-6-1.png",
+  "datasetId": 258,
+  "datasetSlug": "2014-american-community-survey",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 18291,
+  "totalVotes": 23,
+  "totalDownloads": 1228,
+  "title": "2014 American Community Survey",
+  "hasTitle": true,
+  "subtitle": "Detailed information about the American people and workforce",
+  "hasSubtitle": true,
+  "description": "# The 2014 American Community Survey Public Use Microdata Sample\n\n## Context\n\nThe American Community Survey (ACS) is an ongoing survey that provides vital information on a yearly basis about our nation and its people. Information from the survey generates data that help determine how more than $400 billion in federal and state funds are distributed each year.\n\n* **Frequency**: Annual\n* **Period**: 2014\n\n## Content\n\nThrough the ACS, we know more about jobs and occupations, educational attainment, veterans, whether people own or rent their home, and other topics. Public officials, planners, and entrepreneurs use this information to assess the past and plan the future. When you respond to the ACS, you are doing your part to help your community plan hospitals and schools, support school lunch programs, improve emergency services, build bridges, and inform businesses looking to add jobs and expand to new markets, and more. The data dictionary can be found [here][1].\n\n### Inspiration\n\n[Kernels created using the 2013 ACS][2] can serve as excellent starting points for working with the 2014 ACS. For example, the following analyses were created using ACS data:\n\n* [Work arrival times and earnings in the USA][3]\n* [Inequality in STEM careers][4]\n\n![Work arrival times and earnings in the USA][5]\n\n## Acknowledgements\n\nThe American Community Survey (ACS) is administered, processed, researched and disseminated by the U.S. Census Bureau within the U.S. Department of Commerce.\n\n\n  [1]: http://www2.census.gov/programs-surveys/acs/tech_docs/pums/data_dict/PUMSDataDict14.pdf\n  [2]: https://www.kaggle.com/census/2013-american-community-survey/kernels\n  [3]: https://www.kaggle.com/romanpopat/d/census/2013-american-community-survey/wake-me-up-before-you-go-go/run/40491/notebook\n  [4]: https://www.kaggle.com/minkles/d/census/2013-american-community-survey/inequality-in-stem\n  [5]: https://www.kaggle.io/svf/40491/67ea0531d5c3084d7f211732d8150afc/output_files/figure-html/unnamed-chunk-6-1.png",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "demographics",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

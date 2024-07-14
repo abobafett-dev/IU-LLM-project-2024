@@ -1,0 +1,43 @@
+{
+  "id": "mohdsuhailmasroor/atliq-hardware",
+  "id_no": 2570097,
+  "datasetSlugNullable": "atliq-hardware",
+  "ownerUserNullable": "mohdsuhailmasroor",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "atliq_hardware",
+  "subtitleNullable": "atliq hardware is a electronic accessories company",
+  "descriptionNullable": "the \"data\" file consists of 5 tables \na) customers : stores the information of customers\nb) dates : stores the dates\nc) markets : stores the information of various offices \nd) products : stores the information of the products \ne) transactions : stores the main base of the dataset where all the tables join and calculate the total revenue and sales",
+  "datasetId": 2570097,
+  "datasetSlug": "atliq-hardware",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohdsuhailmasroor",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 2151,
+  "totalVotes": 10,
+  "totalDownloads": 350,
+  "title": "atliq_hardware",
+  "hasTitle": true,
+  "subtitle": "atliq hardware is a electronic accessories company",
+  "hasSubtitle": true,
+  "description": "the \"data\" file consists of 5 tables \na) customers : stores the information of customers\nb) dates : stores the dates\nc) markets : stores the information of various offices \nd) products : stores the information of the products \ne) transactions : stores the main base of the dataset where all the tables join and calculate the total revenue and sales",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "electronics",
+    "data cleaning",
+    "data visualization",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "usman8/adam-sugar-mills-stock-data-from-2001-to-2023",
+  "id_no": 3705642,
+  "datasetSlugNullable": "adam-sugar-mills-stock-data-from-2001-to-2023",
+  "ownerUserNullable": "usman8",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Adam Sugar Mills Stock Data from 2001 to 2023",
+  "subtitleNullable": "Adam Sugar Mill Share Prices Data from 2001 to 2023 ",
+  "descriptionNullable": "The Data Set contains historical data of Adam Sugar Mills Limited, which is a renowned company in the Pakistan Stock Exchange(PSX). The data comprises from 30 Jan 2001 to 5 Sep 2023. It can be very useful data from the time series forecasting of the prices of shares in the stock market. It can be used in the development of machine learning models for algorithmic trading. \n\n\nThere are 7 columns in the data:\n1. ID\n2. Date\n3. Open: Open price of share\n4. High: Highest price of share in that day\n5. Low: Lowest price of share in that day\n6. Close: The closing price of the share in that day\n7. Volume: Volume of the shares traded \n\n",
+  "datasetId": 3705642,
+  "datasetSlug": "adam-sugar-mills-stock-data-from-2001-to-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "usman8",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 183,
+  "totalVotes": 3,
+  "totalDownloads": 29,
+  "title": "Adam Sugar Mills Stock Data from 2001 to 2023",
+  "hasTitle": true,
+  "subtitle": "Adam Sugar Mill Share Prices Data from 2001 to 2023 ",
+  "hasSubtitle": true,
+  "description": "The Data Set contains historical data of Adam Sugar Mills Limited, which is a renowned company in the Pakistan Stock Exchange(PSX). The data comprises from 30 Jan 2001 to 5 Sep 2023. It can be very useful data from the time series forecasting of the prices of shares in the stock market. It can be used in the development of machine learning models for algorithmic trading. \n\n\nThere are 7 columns in the data:\n1. ID\n2. Date\n3. Open: Open price of share\n4. High: Highest price of share in that day\n5. Low: Lowest price of share in that day\n6. Close: The closing price of the share in that day\n7. Volume: Volume of the shares traded \n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "artificial intelligence",
+    "tabular",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

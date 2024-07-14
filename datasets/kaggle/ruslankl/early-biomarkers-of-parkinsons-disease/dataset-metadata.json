@@ -1,0 +1,41 @@
+{
+  "id": "ruslankl/early-biomarkers-of-parkinsons-disease",
+  "id_no": 101061,
+  "datasetSlugNullable": "early-biomarkers-of-parkinsons-disease",
+  "ownerUserNullable": "ruslankl",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Early Biomarkers of Parkinson's Disease",
+  "subtitleNullable": "Early biomarkers of Parkinson's disease based on natural connected speech",
+  "descriptionNullable": "### Content\n\nThe dataset include 30 patients with early untreated Parkinson's disease (PD), 50 patients with REM sleep behavior disorder (RBD), which are at high risk developing Parkinson's disease or other synucleinopathies; and 50 healthy controls (HC). All patients were scored clinically by a well-trained professional neurologist with experience in movement disorders. All subjects were examined during a single session with a speech specialist. All subjects performed reading of standardized, phonetically-balanced text of 80 words and monologue about their interests, job, family or current activities for approximately 90 seconds. Speech features were automatically analyzed by Jan Hlavni\u010dka et al. (2017). \n\nThe dataset is provided in .xls and .csv format.\n\n\n### Acknowledgements\n\nOriginal paper: **Automated analysis of connected speech reveals early biomarkers of Parkinson\u2019s disease in patients with rapid eye movement sleep behaviour disorder** by Jan Hlavni\u010dka, Roman \u010cmejla, Tereza Tykalov\u00e1, Karel \u0160onka, Ev\u017een R\u016f\u017ei\u010dka & Jan Rusz @ [nature.com][1]\n\n\n### Inspiration\n\nPredict a pattern of neurodegeneration in the dataset of speech features obtained from patients with early untreated Parkinson's disease and patients at high risk developing Parkinson's disease.\n\n\n  [1]: https://www.nature.com/articles/s41598-017-00047-5",
+  "datasetId": 101061,
+  "datasetSlug": "early-biomarkers-of-parkinsons-disease",
+  "hasDatasetSlug": true,
+  "ownerUser": "ruslankl",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 19978,
+  "totalVotes": 29,
+  "totalDownloads": 1954,
+  "title": "Early Biomarkers of Parkinson's Disease",
+  "hasTitle": true,
+  "subtitle": "Early biomarkers of Parkinson's disease based on natural connected speech",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThe dataset include 30 patients with early untreated Parkinson's disease (PD), 50 patients with REM sleep behavior disorder (RBD), which are at high risk developing Parkinson's disease or other synucleinopathies; and 50 healthy controls (HC). All patients were scored clinically by a well-trained professional neurologist with experience in movement disorders. All subjects were examined during a single session with a speech specialist. All subjects performed reading of standardized, phonetically-balanced text of 80 words and monologue about their interests, job, family or current activities for approximately 90 seconds. Speech features were automatically analyzed by Jan Hlavni\u010dka et al. (2017). \n\nThe dataset is provided in .xls and .csv format.\n\n\n### Acknowledgements\n\nOriginal paper: **Automated analysis of connected speech reveals early biomarkers of Parkinson\u2019s disease in patients with rapid eye movement sleep behaviour disorder** by Jan Hlavni\u010dka, Roman \u010cmejla, Tereza Tykalov\u00e1, Karel \u0160onka, Ev\u017een R\u016f\u017ei\u010dka & Jan Rusz @ [nature.com][1]\n\n\n### Inspiration\n\nPredict a pattern of neurodegeneration in the dataset of speech features obtained from patients with early untreated Parkinson's disease and patients at high risk developing Parkinson's disease.\n\n\n  [1]: https://www.nature.com/articles/s41598-017-00047-5",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "diseases",
+    "neuroscience"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

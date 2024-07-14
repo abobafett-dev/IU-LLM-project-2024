@@ -1,0 +1,40 @@
+{
+  "id": "abhisheksinghblr/emergency-vehicles-identification",
+  "id_no": 704825,
+  "datasetSlugNullable": "emergency-vehicles-identification",
+  "ownerUserNullable": "abhisheksinghblr",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Emergency Vehicles Identification",
+  "subtitleNullable": "Emergency vs Non-Emergency Vehicle Classification",
+  "descriptionNullable": "### Context\n\nComputer Vision as a field of research is notoriously difficult. Almost no research problem has been satisfactorily solved. One main reason for this difficulty is that the human visual system is simply too good for many tasks (e.g., face recognition), so that computer vision systems suffer by comparison. \n\nA human can recognize faces under all kinds of variations in illumination, viewpoint, expression, etc. In most cases we have no difficulty in recognizing a friend in a photograph taken many years ago. Also, there appears to be no limit on how many faces we can store in our brains for future recognition. There appears no hope in building an autonomous system with such stellar performance.\n\nGiven all this, computer vision has shown a lot of promise and reshaping the future of various industries such as automobile industry, healthcare industry, financial industry and so on\n\nThis weekend we bring to you another hackathon to apply your deep learning skills to solve a computer vision problem. This time you are in for a two week ride so brush up on our computer vision skills and hop on.\n\n### Content\n\nEmergency vs Non-Emergency Vehicle Classification\nFatalities due to traffic delays of emergency vehicles such as ambulance & fire brigade is a huge problem. In daily life, we often see that emergency vehicles face difficulty in passing through traffic. So differentiating a vehicle into an emergency and non emergency category can be an important component in traffic monitoring as well as self drive car systems as reaching on time to their destination is critical for these services.\n\nIn this problem, you will be working on classifying vehicle images as either belonging to the emergency vehicle or non-emergency vehicle category. For the same, you are provided with the train and the test dataset. Emergency vehicles usually includes police cars, ambulance and fire brigades.\n\n### Data Description\n\ntrain.zip: contains 2 csvs and 1 folder containing image data\ntrain.csv \u2013 [\u2018image_names\u2019, \u2018emergency_or_not\u2019] contains the image name and correct class for 1646 (70%) train images\nimages \u2013 contains 2352 images for both train and test sets\ntest.csv: [\u2018image_names\u2019] contains just the image names for the 706 (30%) test images\nsample_submission.csv: [\u2018image_names\u2019,\u2019emergency_or_not\u00ad\u2019] contains the exact format for a valid submission (1 - For Emergency Vehicle, 0 - For Non Emergency Vehicle)\n",
+  "datasetId": 704825,
+  "datasetSlug": "emergency-vehicles-identification",
+  "hasDatasetSlug": true,
+  "ownerUser": "abhisheksinghblr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 20310,
+  "totalVotes": 18,
+  "totalDownloads": 1860,
+  "title": "Emergency Vehicles Identification",
+  "hasTitle": true,
+  "subtitle": "Emergency vs Non-Emergency Vehicle Classification",
+  "hasSubtitle": true,
+  "description": "### Context\n\nComputer Vision as a field of research is notoriously difficult. Almost no research problem has been satisfactorily solved. One main reason for this difficulty is that the human visual system is simply too good for many tasks (e.g., face recognition), so that computer vision systems suffer by comparison. \n\nA human can recognize faces under all kinds of variations in illumination, viewpoint, expression, etc. In most cases we have no difficulty in recognizing a friend in a photograph taken many years ago. Also, there appears to be no limit on how many faces we can store in our brains for future recognition. There appears no hope in building an autonomous system with such stellar performance.\n\nGiven all this, computer vision has shown a lot of promise and reshaping the future of various industries such as automobile industry, healthcare industry, financial industry and so on\n\nThis weekend we bring to you another hackathon to apply your deep learning skills to solve a computer vision problem. This time you are in for a two week ride so brush up on our computer vision skills and hop on.\n\n### Content\n\nEmergency vs Non-Emergency Vehicle Classification\nFatalities due to traffic delays of emergency vehicles such as ambulance & fire brigade is a huge problem. In daily life, we often see that emergency vehicles face difficulty in passing through traffic. So differentiating a vehicle into an emergency and non emergency category can be an important component in traffic monitoring as well as self drive car systems as reaching on time to their destination is critical for these services.\n\nIn this problem, you will be working on classifying vehicle images as either belonging to the emergency vehicle or non-emergency vehicle category. For the same, you are provided with the train and the test dataset. Emergency vehicles usually includes police cars, ambulance and fire brigades.\n\n### Data Description\n\ntrain.zip: contains 2 csvs and 1 folder containing image data\ntrain.csv \u2013 [\u2018image_names\u2019, \u2018emergency_or_not\u2019] contains the image name and correct class for 1646 (70%) train images\nimages \u2013 contains 2352 images for both train and test sets\ntest.csv: [\u2018image_names\u2019] contains just the image names for the 706 (30%) test images\nsample_submission.csv: [\u2018image_names\u2019,\u2019emergency_or_not\u00ad\u2019] contains the exact format for a valid submission (1 - For Emergency Vehicle, 0 - For Non Emergency Vehicle)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "public safety"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

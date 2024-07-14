@@ -1,0 +1,44 @@
+{
+  "id": "stefanosnikolaou/dblp-2020-05-01-pubs-per-year",
+  "id_no": 716056,
+  "datasetSlugNullable": "dblp-2020-05-01-pubs-per-year",
+  "ownerUserNullable": "stefanosnikolaou",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "DBLP - Publications per Year",
+  "subtitleNullable": "A time series dataset ",
+  "descriptionNullable": "### Source\n\nThe [dblp](https://dblp.org/) computer science bibliography is the on-line reference for bibliographic information on major computer science publications. This dataset is the result of parsing the XML document \"dblp-2020-05-01.xml.gz\" that can be found [here](https://dblp.org/xml/release/). \n\n### Content\n\nOur purpose was to create a time series about the publications per year, so the dataset consists of two csv files:\n\n1. 'pubs.csv' - Consists of two columns that hold total publications per year for period 1918 - 2020 (YTD). \n2. 'pubs_cut.csv' - Consists of two columns that hold total publications per year for period 1936- 2019. This file can be used for the purposes of time series forecasting.\n\nThe code we used in order to extract the required information is the following:\n\n`from lxml import etree\nimport pandas as pd\n\na={}\netparse = etree.iterparse(\"dblp-2020-05-01.xml\",\n                          encoding=\"ISO-8859-1\",dtd_validation=True,huge_tree=True)\nfor event, elem in etparse:\n    if elem.tag == \"year\":\n        if int(elem.text) not in a:\n            a[int(elem.text)]=1\n        else:\n            a[int(elem.text)] += 1\n    elem.clear()\n\n # Create a dataframe with the required information\ndf=pd.DataFrame(list(a.items()),columns=['Year','Publications'])\ndf=df.sort_values(by=['Year'])\ndf.reset_index(drop=True, inplace=True)\nprint(df)\n\n # Export data to csv file\ndf.to_csv('pubs.csv', encoding='utf-8', index=False)`\n\nPlease note that in order to be able to successfully parse the XML document you need to download and save at the same directory the file \"dblp-2019-11-22.dtd\" which can be found [here](https://dblp.org/xml/release/).  ",
+  "datasetId": 716056,
+  "datasetSlug": "dblp-2020-05-01-pubs-per-year",
+  "hasDatasetSlug": true,
+  "ownerUser": "stefanosnikolaou",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 3326,
+  "totalVotes": 2,
+  "totalDownloads": 161,
+  "title": "DBLP - Publications per Year",
+  "hasTitle": true,
+  "subtitle": "A time series dataset ",
+  "hasSubtitle": true,
+  "description": "### Source\n\nThe [dblp](https://dblp.org/) computer science bibliography is the on-line reference for bibliographic information on major computer science publications. This dataset is the result of parsing the XML document \"dblp-2020-05-01.xml.gz\" that can be found [here](https://dblp.org/xml/release/). \n\n### Content\n\nOur purpose was to create a time series about the publications per year, so the dataset consists of two csv files:\n\n1. 'pubs.csv' - Consists of two columns that hold total publications per year for period 1918 - 2020 (YTD). \n2. 'pubs_cut.csv' - Consists of two columns that hold total publications per year for period 1936- 2019. This file can be used for the purposes of time series forecasting.\n\nThe code we used in order to extract the required information is the following:\n\n`from lxml import etree\nimport pandas as pd\n\na={}\netparse = etree.iterparse(\"dblp-2020-05-01.xml\",\n                          encoding=\"ISO-8859-1\",dtd_validation=True,huge_tree=True)\nfor event, elem in etparse:\n    if elem.tag == \"year\":\n        if int(elem.text) not in a:\n            a[int(elem.text)]=1\n        else:\n            a[int(elem.text)] += 1\n    elem.clear()\n\n # Create a dataframe with the required information\ndf=pd.DataFrame(list(a.items()),columns=['Year','Publications'])\ndf=df.sort_values(by=['Year'])\ndf.reset_index(drop=True, inplace=True)\nprint(df)\n\n # Export data to csv file\ndf.to_csv('pubs.csv', encoding='utf-8', index=False)`\n\nPlease note that in order to be able to successfully parse the XML document you need to download and save at the same directory the file \"dblp-2019-11-22.dtd\" which can be found [here](https://dblp.org/xml/release/).  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "dimitriskoutsoukos",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

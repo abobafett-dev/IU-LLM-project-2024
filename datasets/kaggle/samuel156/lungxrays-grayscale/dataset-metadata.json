@@ -1,0 +1,47 @@
+{
+  "id": "samuel156/lungxrays-grayscale",
+  "id_no": 2751670,
+  "datasetSlugNullable": "lungxrays-grayscale",
+  "ownerUserNullable": "samuel156",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Lung Diseases X-Rays (Grayscale)",
+  "subtitleNullable": "An image dataset of grayscale chest X-rays for classification of 3 lung diseases",
+  "descriptionNullable": "This dataset contains grayscale X-ray images of lung diseases such as COVID-19, pneumonia, tuberculosis, and normal lungs. The images were collected from various sources and preprocessed to ensure consistent size and resolution. The dataset can be used for developing and evaluating deep learning models for the classification of lung diseases. Each class has a balanced number of images, and the dataset has a total of over 1,400 images. The dataset is intended for researchers and practitioners working on diagnosing lung diseases using medical imaging.",
+  "datasetId": 2751670,
+  "datasetSlug": "lungxrays-grayscale",
+  "hasDatasetSlug": true,
+  "ownerUser": "samuel156",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 1271,
+  "totalVotes": 3,
+  "totalDownloads": 195,
+  "title": "Lung Diseases X-Rays (Grayscale)",
+  "hasTitle": true,
+  "subtitle": "An image dataset of grayscale chest X-rays for classification of 3 lung diseases",
+  "hasSubtitle": true,
+  "description": "This dataset contains grayscale X-ray images of lung diseases such as COVID-19, pneumonia, tuberculosis, and normal lungs. The images were collected from various sources and preprocessed to ensure consistent size and resolution. The dataset can be used for developing and evaluating deep learning models for the classification of lung diseases. Each class has a balanced number of images, and the dataset has a total of over 1,400 images. The dataset is intended for researchers and practitioners working on diagnosing lung diseases using medical imaging.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "deep learning",
+    "covid19",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "chemboluvaibhav",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

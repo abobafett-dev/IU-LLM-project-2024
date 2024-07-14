@@ -1,0 +1,42 @@
+{
+  "id": "choyon001/airplane-passengers-time-series-dataset",
+  "id_no": 4832637,
+  "datasetSlugNullable": "airplane-passengers-time-series-dataset",
+  "ownerUserNullable": "choyon001",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Airplane Passengers Time Series Dataset",
+  "subtitleNullable": "Exploring Temporal Trends in Airplane Passenger Traffic: A Time Series Analysis ",
+  "descriptionNullable": "Dive into this dataset featuring monthly counts of airplane passengers, spanning 144 observations. Each entry records the passenger count for a specific month.\n\nVariables:\n\nMonth: Month of the observation.\nPassengers: Number of passengers recorded for the corresponding month.\nIdeal for:\n\nExploring seasonal patterns and long-term trends in passenger traffic.\nBuilding predictive models to forecast future passenger counts.\nUnderstanding the impact of external factors on air travel demand.\nPerfect for learners and experts alike, this dataset offers a valuable opportunity to analyze and predict trends in airplane passenger traffic.",
+  "datasetId": 4832637,
+  "datasetSlug": "airplane-passengers-time-series-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "choyon001",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 123,
+  "totalVotes": 1,
+  "totalDownloads": 31,
+  "title": "Airplane Passengers Time Series Dataset",
+  "hasTitle": true,
+  "subtitle": "Exploring Temporal Trends in Airplane Passenger Traffic: A Time Series Analysis ",
+  "hasSubtitle": true,
+  "description": "Dive into this dataset featuring monthly counts of airplane passengers, spanning 144 observations. Each entry records the passenger count for a specific month.\n\nVariables:\n\nMonth: Month of the observation.\nPassengers: Number of passengers recorded for the corresponding month.\nIdeal for:\n\nExploring seasonal patterns and long-term trends in passenger traffic.\nBuilding predictive models to forecast future passenger counts.\nUnderstanding the impact of external factors on air travel demand.\nPerfect for learners and experts alike, this dataset offers a valuable opportunity to analyze and predict trends in airplane passenger traffic.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "time series analysis",
+    "text",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

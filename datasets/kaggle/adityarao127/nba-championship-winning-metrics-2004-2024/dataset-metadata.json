@@ -1,0 +1,43 @@
+{
+  "id": "adityarao127/nba-championship-winning-metrics-2004-2024",
+  "id_no": 4668781,
+  "datasetSlugNullable": "nba-championship-winning-metrics-2004-2024",
+  "ownerUserNullable": "adityarao127",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "NBA Championship Winning Metrics (2004-2024)",
+  "subtitleNullable": "5 Key Metrics over the span of 24 years that determines NBA success",
+  "descriptionNullable": "I manually went through the data for all NBA Champions from 2000-2024. These winners all have something in common, appearing at the top of the ranks in these 5 advanced statistical categories: \n- **Win Percentage**: How many games a team has won out of the total games they played\n- **Effective Field Goal Percentage**: Total shots made out of attempted, but accounting for the fact that three-pointers are worth more than two-point field goals. \n- **Defensive Efficiency**: Points a team allows per 100 possessions. \n- **Opponent Effective Field Goal Percentage**: Refer to Effective Field Goal Percentage. \n- **Average Scoring Margin**: Average of how many points a team wins or loses by. \n\nHere is the [notebook ](https://www.kaggle.com/code/adityarao127/teamrankings-nba-data)that was used to create these files. \n\nData source: teamrankings.com\n\n\nLicense: MIT",
+  "datasetId": 4668781,
+  "datasetSlug": "nba-championship-winning-metrics-2004-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "adityarao127",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 892,
+  "totalVotes": 8,
+  "totalDownloads": 77,
+  "title": "NBA Championship Winning Metrics (2004-2024)",
+  "hasTitle": true,
+  "subtitle": "5 Key Metrics over the span of 24 years that determines NBA success",
+  "hasSubtitle": true,
+  "description": "I manually went through the data for all NBA Champions from 2000-2024. These winners all have something in common, appearing at the top of the ranks in these 5 advanced statistical categories: \n- **Win Percentage**: How many games a team has won out of the total games they played\n- **Effective Field Goal Percentage**: Total shots made out of attempted, but accounting for the fact that three-pointers are worth more than two-point field goals. \n- **Defensive Efficiency**: Points a team allows per 100 possessions. \n- **Opponent Effective Field Goal Percentage**: Refer to Effective Field Goal Percentage. \n- **Average Scoring Margin**: Average of how many points a team wins or loses by. \n\nHere is the [notebook ](https://www.kaggle.com/code/adityarao127/teamrankings-nba-data)that was used to create these files. \n\nData source: teamrankings.com\n\n\nLicense: MIT",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "basketball",
+    "data visualization",
+    "time series analysis",
+    "data analytics",
+    "logistic regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

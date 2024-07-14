@@ -1,0 +1,39 @@
+{
+  "id": "arindamsahoo/social-media-users",
+  "id_no": 3324896,
+  "datasetSlugNullable": "social-media-users",
+  "ownerUserNullable": "arindamsahoo",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Social-Media-Users-Dataset",
+  "subtitleNullable": "The Ultimate Dummy Users Dataset for Social Media Recommendation Models",
+  "descriptionNullable": "This dataset contains information about users for a social media friend recommendation project. It includes fields such as UserID, Name, Gender, Date of Birth (DOB), Interests, City, and Country. The dataset aims to capture diverse user profiles and their characteristics in terms of personal information, interests, and geographical locations.",
+  "datasetId": 3324896,
+  "datasetSlug": "social-media-users",
+  "hasDatasetSlug": true,
+  "ownerUser": "arindamsahoo",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 14004,
+  "totalVotes": 18,
+  "totalDownloads": 2515,
+  "title": "Social-Media-Users-Dataset",
+  "hasTitle": true,
+  "subtitle": "The Ultimate Dummy Users Dataset for Social Media Recommendation Models",
+  "hasSubtitle": true,
+  "description": "This dataset contains information about users for a social media friend recommendation project. It includes fields such as UserID, Name, Gender, Date of Birth (DOB), Interests, City, and Country. The dataset aims to capture diverse user profiles and their characteristics in terms of personal information, interests, and geographical locations.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

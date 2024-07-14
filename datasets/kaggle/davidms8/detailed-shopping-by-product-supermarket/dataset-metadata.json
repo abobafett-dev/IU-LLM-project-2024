@@ -1,0 +1,44 @@
+{
+  "id": "davidms8/detailed-shopping-by-product-supermarket",
+  "id_no": 3240121,
+  "datasetSlugNullable": "detailed-shopping-by-product-supermarket",
+  "ownerUserNullable": "davidms8",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Detailed shopping by product",
+  "subtitleNullable": "Detailed shopping by product - supermarket - 2022",
+  "descriptionNullable": "This dataset contains 2022 product purchase information. \nThe data includes: \u2714\ufe0f\n\n- Supplier name\n- Date of purchase\n- Invoice number\n- Winery and product code\n- Quantity, purchase price\n- Sales price and tax rate \n- Sales price and tax rate \n\n&gt;Data cleansing and analysis is required \n\n\n**Note: The data contains null, empty and erroneous data.**",
+  "datasetId": 3240121,
+  "datasetSlug": "detailed-shopping-by-product-supermarket",
+  "hasDatasetSlug": true,
+  "ownerUser": "davidms8",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 8312,
+  "totalVotes": 36,
+  "totalDownloads": 1688,
+  "title": "Detailed shopping by product",
+  "hasTitle": true,
+  "subtitle": "Detailed shopping by product - supermarket - 2022",
+  "hasSubtitle": true,
+  "description": "This dataset contains 2022 product purchase information. \nThe data includes: \u2714\ufe0f\n\n- Supplier name\n- Date of purchase\n- Invoice number\n- Winery and product code\n- Quantity, purchase price\n- Sales price and tax rate \n- Sales price and tax rate \n\n&gt;Data cleansing and analysis is required \n\n\n**Note: The data contains null, empty and erroneous data.**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data cleaning",
+    "data visualization",
+    "data analytics",
+    "retail and shopping",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

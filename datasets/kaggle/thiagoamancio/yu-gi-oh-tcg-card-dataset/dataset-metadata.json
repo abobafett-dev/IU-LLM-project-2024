@@ -1,0 +1,43 @@
+{
+  "id": "thiagoamancio/yu-gi-oh-tcg-card-dataset",
+  "id_no": 3931985,
+  "datasetSlugNullable": "yu-gi-oh-tcg-card-dataset",
+  "ownerUserNullable": "thiagoamancio",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Yu-Gi-Oh! TCG Card Dataset",
+  "subtitleNullable": "This dataset contains comprehensive information about Yu-Gi-Oh! collectible card",
+  "descriptionNullable": "## Yu-Gi-Oh! Card Dataset Description\n\nThis dataset contains comprehensive information about Yu-Gi-Oh! collectible card game cards. It consists of ten distinct CSV files, each with a variety of information about different types of cards. Here are the key details about the CSV files and the included columns:\n\n1. **all_cards.csv** - This file contains general information about all cards.\n2. **dark_cards.csv** - Cards with the \"Dark\" attribute.\n3. **divine_cards.csv** - Cards with the \"Divine\" attribute.\n4. **earth_cards.csv** - Cards with the \"Earth\" attribute.\n5. **fire_cards.csv** - Cards with the \"Fire\" attribute.\n6. **light_cards.csv** - Cards with the \"Light\" attribute.\n7. **monster_cards.csv** - Monster type cards.\n8. **spell_trap_cards.csv** - Spell and Trap type cards.\n9. **water_cards.csv** - Cards with the \"Water\" attribute.\n10. **wind_cards.csv** - Cards with the \"Wind\" attribute.\n\nEach CSV file includes the following columns:\n\n- **id**: A unique identifier for each card.\n- **name**: The name of the card.\n- **type**: The card type, which can be \"Monster,\" \"Spell,\" or \"Trap.\"\n- **frameType**: The frame type of the card, indicating whether it's a normal card, equipment, or continuous, among others.\n- **description**: A brief description of the card's abilities or effects.\n- **level**: The card's level (relevant for monsters only).\n- **atk**: The card's Attack score (relevant for monsters only).\n- **def**: The card's Defense score (relevant for monsters only).\n- **race**: The card's race (e.g., \"Aqua,\" \"Beast,\" etc.).\n- **attribute**: The card's attribute (e.g., \"EARTH,\" \"FIRE,\" etc.).\n- **archetype**: The card's archetype, if applicable.\n\nThis dataset is valuable for Yu-Gi-Oh! enthusiasts looking to perform analyses, create applications, or develop strategies based on the detailed information of these cards. The individual files allow for the analysis of cards with specific attributes, types, or archetypes, facilitating study and strategy planning in the game.\n\nPlease remember that data accuracy and completeness are essential for any Yu-Gi-Oh! related project, and this dataset appears to be a useful resource for that purpose.\n",
+  "datasetId": 3931985,
+  "datasetSlug": "yu-gi-oh-tcg-card-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "thiagoamancio",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 325,
+  "totalVotes": 8,
+  "totalDownloads": 39,
+  "title": "Yu-Gi-Oh! TCG Card Dataset",
+  "hasTitle": true,
+  "subtitle": "This dataset contains comprehensive information about Yu-Gi-Oh! collectible card",
+  "hasSubtitle": true,
+  "description": "## Yu-Gi-Oh! Card Dataset Description\n\nThis dataset contains comprehensive information about Yu-Gi-Oh! collectible card game cards. It consists of ten distinct CSV files, each with a variety of information about different types of cards. Here are the key details about the CSV files and the included columns:\n\n1. **all_cards.csv** - This file contains general information about all cards.\n2. **dark_cards.csv** - Cards with the \"Dark\" attribute.\n3. **divine_cards.csv** - Cards with the \"Divine\" attribute.\n4. **earth_cards.csv** - Cards with the \"Earth\" attribute.\n5. **fire_cards.csv** - Cards with the \"Fire\" attribute.\n6. **light_cards.csv** - Cards with the \"Light\" attribute.\n7. **monster_cards.csv** - Monster type cards.\n8. **spell_trap_cards.csv** - Spell and Trap type cards.\n9. **water_cards.csv** - Cards with the \"Water\" attribute.\n10. **wind_cards.csv** - Cards with the \"Wind\" attribute.\n\nEach CSV file includes the following columns:\n\n- **id**: A unique identifier for each card.\n- **name**: The name of the card.\n- **type**: The card type, which can be \"Monster,\" \"Spell,\" or \"Trap.\"\n- **frameType**: The frame type of the card, indicating whether it's a normal card, equipment, or continuous, among others.\n- **description**: A brief description of the card's abilities or effects.\n- **level**: The card's level (relevant for monsters only).\n- **atk**: The card's Attack score (relevant for monsters only).\n- **def**: The card's Defense score (relevant for monsters only).\n- **race**: The card's race (e.g., \"Aqua,\" \"Beast,\" etc.).\n- **attribute**: The card's attribute (e.g., \"EARTH,\" \"FIRE,\" etc.).\n- **archetype**: The card's archetype, if applicable.\n\nThis dataset is valuable for Yu-Gi-Oh! enthusiasts looking to perform analyses, create applications, or develop strategies based on the detailed information of these cards. The individual files allow for the analysis of cards with specific attributes, types, or archetypes, facilitating study and strategy planning in the game.\n\nPlease remember that data accuracy and completeness are essential for any Yu-Gi-Oh! related project, and this dataset appears to be a useful resource for that purpose.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "board games",
+    "card games",
+    "video games",
+    "data cleaning",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

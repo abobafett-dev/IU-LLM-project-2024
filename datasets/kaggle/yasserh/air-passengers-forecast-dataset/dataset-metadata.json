@@ -1,0 +1,44 @@
+{
+  "id": "yasserh/air-passengers-forecast-dataset",
+  "id_no": 1827795,
+  "datasetSlugNullable": "air-passengers-forecast-dataset",
+  "ownerUserNullable": "yasserh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Air Passengers Forecast Dataset",
+  "subtitleNullable": "Can you Forecast the future Air Passengers?",
+  "descriptionNullable": "![](https://raw.githubusercontent.com/Masterx-AI/Project_Forecasting_Air_Passengers__/main/ap.jpg)\n### Description:\n\nThe \"spam\" concept is diverse: advertisements for products/websites, make money fast schemes, chain letters, pornography...\n\nOur collection of spam e-mails came from our postmaster and individuals who had filed spam. Our collection of non-spam e-mails came from filed work and personal e-mails, and hence the word 'George' and the area code '650' are indicators of non-spam. These are useful when constructing a personalized spam filter. One would either have to blind such non-spam indicators or get a very wide collection of non-spam to generate a general-purpose spam filter.\n\nThe dataset, taken from the UCI ML repository, contains about 4600 emails labelle as **spam** or **ham**. \n\n### Acknowledgements:\nThis dataset has been referred from Kaggle.\n\n### Objective:\n- Understand the Dataset & cleanup (if required).\n- Build classification models to predict whether or not the email is spam.\n- Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.",
+  "datasetId": 1827795,
+  "datasetSlug": "air-passengers-forecast-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yasserh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9726,
+  "totalVotes": 30,
+  "totalDownloads": 1301,
+  "title": "Air Passengers Forecast Dataset",
+  "hasTitle": true,
+  "subtitle": "Can you Forecast the future Air Passengers?",
+  "hasSubtitle": true,
+  "description": "![](https://raw.githubusercontent.com/Masterx-AI/Project_Forecasting_Air_Passengers__/main/ap.jpg)\n### Description:\n\nThe \"spam\" concept is diverse: advertisements for products/websites, make money fast schemes, chain letters, pornography...\n\nOur collection of spam e-mails came from our postmaster and individuals who had filed spam. Our collection of non-spam e-mails came from filed work and personal e-mails, and hence the word 'George' and the area code '650' are indicators of non-spam. These are useful when constructing a personalized spam filter. One would either have to blind such non-spam indicators or get a very wide collection of non-spam to generate a general-purpose spam filter.\n\nThe dataset, taken from the UCI ML repository, contains about 4600 emails labelle as **spam** or **ham**. \n\n### Acknowledgements:\nThis dataset has been referred from Kaggle.\n\n### Objective:\n- Understand the Dataset & cleanup (if required).\n- Build classification models to predict whether or not the email is spam.\n- Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "business",
+    "beginner",
+    "time series analysis",
+    "tabular",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

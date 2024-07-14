@@ -1,0 +1,39 @@
+{
+  "id": "tazwarmohammed/augmented-bangla-money-dataset-including-200-taka",
+  "id_no": 2153142,
+  "datasetSlugNullable": "augmented-bangla-money-dataset-including-200-taka",
+  "ownerUserNullable": "tazwarmohammed",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Augmented Bangla Money Dataset including 200 Taka",
+  "subtitleNullable": "Bangladeshi banknote image dataset for multiclass classification",
+  "descriptionNullable": "Used the Dataset from this [link](https://www.kaggle.com/datasets/nsojib/bangla-money) and added a new class of 200 Taka notes to it. Afterwards, the entire dataset was augmented such that each class contains 1000 images of 224x224.",
+  "datasetId": 2153142,
+  "datasetSlug": "augmented-bangla-money-dataset-including-200-taka",
+  "hasDatasetSlug": true,
+  "ownerUser": "tazwarmohammed",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 428,
+  "totalVotes": 4,
+  "totalDownloads": 31,
+  "title": "Augmented Bangla Money Dataset including 200 Taka",
+  "hasTitle": true,
+  "subtitle": "Bangladeshi banknote image dataset for multiclass classification",
+  "hasSubtitle": true,
+  "description": "Used the Dataset from this [link](https://www.kaggle.com/datasets/nsojib/bangla-money) and added a new class of 200 Taka notes to it. Afterwards, the entire dataset was augmented such that each class contains 1000 images of 224x224.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "comics and animation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

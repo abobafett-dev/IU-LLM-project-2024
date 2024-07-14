@@ -1,0 +1,40 @@
+{
+  "id": "whikechen/simple-vegetable-sale",
+  "id_no": 4150748,
+  "datasetSlugNullable": "simple-vegetable-sale",
+  "ownerUserNullable": "whikechen",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Simple Vegetable Retail Chains ",
+  "subtitleNullable": "For beginners who lack experience in data processing",
+  "descriptionNullable": "For beginners who lack experience in data processing, this data set has been stripped of numerous indicators, leaving only the basic sales volume for testing and training. It is suitable for newcomers just getting started with time series analysis.\n\nData Set Overview:\n\nThis data set represents a series of simulated shipments for ten different supermarkets over a period of three years, totaling 36 months. Each record in the data set corresponds to a monthly shipment of vegetables from a specific supermarket. The data has been constructed to reflect realistic patterns, including seasonal variations and random fluctuations in shipment volumes.\n\nKey Attributes of the Dataset:\n\nSupermarket_ID: A unique identifier for each supermarket, ranging from 1 to 10.\n\nMonth: The month of the shipment, represented numerically from 1 to 36, covering a span of three years.\n\nVegetable_Sales_kg: The volume of vegetable sales for each shipment, measured in kilograms. This metric incorporates seasonal trends and random variations, simulating real-world sales dynamics.\n\nIntended Use:\n\nThis dataset is designed for analyzing and forecasting supermarket vegetable sales. It can be utilized for various applications such as trend analysis, seasonal pattern recognition, supply chain optimization, and predictive modeling. The data serves as a valuable resource for understanding sales performance, planning inventory, and making strategic decisions in the retail and supply chain sectors.",
+  "datasetId": 4150748,
+  "datasetSlug": "simple-vegetable-sale",
+  "hasDatasetSlug": true,
+  "ownerUser": "whikechen",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 4140,
+  "totalVotes": 29,
+  "totalDownloads": 776,
+  "title": "Simple Vegetable Retail Chains ",
+  "hasTitle": true,
+  "subtitle": "For beginners who lack experience in data processing",
+  "hasSubtitle": true,
+  "description": "For beginners who lack experience in data processing, this data set has been stripped of numerous indicators, leaving only the basic sales volume for testing and training. It is suitable for newcomers just getting started with time series analysis.\n\nData Set Overview:\n\nThis data set represents a series of simulated shipments for ten different supermarkets over a period of three years, totaling 36 months. Each record in the data set corresponds to a monthly shipment of vegetables from a specific supermarket. The data has been constructed to reflect realistic patterns, including seasonal variations and random fluctuations in shipment volumes.\n\nKey Attributes of the Dataset:\n\nSupermarket_ID: A unique identifier for each supermarket, ranging from 1 to 10.\n\nMonth: The month of the shipment, represented numerically from 1 to 36, covering a span of three years.\n\nVegetable_Sales_kg: The volume of vegetable sales for each shipment, measured in kilograms. This metric incorporates seasonal trends and random variations, simulating real-world sales dynamics.\n\nIntended Use:\n\nThis dataset is designed for analyzing and forecasting supermarket vegetable sales. It can be utilized for various applications such as trend analysis, seasonal pattern recognition, supply chain optimization, and predictive modeling. The data serves as a valuable resource for understanding sales performance, planning inventory, and making strategic decisions in the retail and supply chain sectors.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

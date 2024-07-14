@@ -1,0 +1,44 @@
+{
+  "id": "quelich/rock-photos",
+  "id_no": 1548304,
+  "datasetSlugNullable": "rock-photos",
+  "ownerUserNullable": "quelich",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Hutton Rock Dataset",
+  "subtitleNullable": "rock images dataset for image classification ",
+  "descriptionNullable": "### Context\n\nRocks are fabulous as they can tell us a lot about the environment. By studying rocks, scientists can learn about the conditions of the past and create maps that show how the Earth has changed over time. Therefore, I have made a dataset that helps us understand nature better by looking closely at rocks.\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered",
+  "datasetId": 1548304,
+  "datasetSlug": "rock-photos",
+  "hasDatasetSlug": true,
+  "ownerUser": "quelich",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 2462,
+  "totalVotes": 8,
+  "totalDownloads": 96,
+  "title": "Hutton Rock Dataset",
+  "hasTitle": true,
+  "subtitle": "rock images dataset for image classification ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nRocks are fabulous as they can tell us a lot about the environment. By studying rocks, scientists can learn about the conditions of the past and create maps that show how the Earth has changed over time. Therefore, I have made a dataset that helps us understand nature better by looking closely at rocks.\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "geology",
+    "artificial intelligence",
+    "classification",
+    "image",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

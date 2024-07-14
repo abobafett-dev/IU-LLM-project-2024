@@ -1,0 +1,43 @@
+{
+  "id": "vivek468/beginner-chest-xray-image-classification",
+  "id_no": 1951121,
+  "datasetSlugNullable": "beginner-chest-xray-image-classification",
+  "ownerUserNullable": "vivek468",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "[BEGINNER] Chest X-Ray Image Classification",
+  "subtitleNullable": "Help identify Pneumonia using Chest X-Rays",
+  "descriptionNullable": "Pneumonia is an infection that causes inflammation in one or both of the lungs and may be caused by a virus, bacteria, fungi or other germs.\n\nYour doctor may conduct a physical exam and use chest x-ray, chest CT, chest ultrasound, or needle biopsy of the lung to help diagnose your condition. Your doctor may further evaluate your condition and lung function using thoracentesis, chest tube placement or image-guided abscess drainage.\n\nIn this dataset you can use CNN to help classify whether patients have Pneumonia or not. It contains \"train\" folder which will be used to train the model on. \"test\", which will help us with the validation and finally we can pick some images from the \"pred\" folder to predict based on the model that we have trained.\n\nFor the sake of simplicity, I have balanced the images in the dataset. For a more challenging experience, you can add other data sources and create imbalance. And further improve your CNN model using Data Augmentation.\n\nA sample notebook has been created by myself for your reference.\n\nI do not own this dataset. I have just collected the data from various different sources. Please check the Data Collection Methodology for more information. Credits to the original authors. ",
+  "datasetId": 1951121,
+  "datasetSlug": "beginner-chest-xray-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "vivek468",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 3325,
+  "totalVotes": 11,
+  "totalDownloads": 380,
+  "title": "[BEGINNER] Chest X-Ray Image Classification",
+  "hasTitle": true,
+  "subtitle": "Help identify Pneumonia using Chest X-Rays",
+  "hasSubtitle": true,
+  "description": "Pneumonia is an infection that causes inflammation in one or both of the lungs and may be caused by a virus, bacteria, fungi or other germs.\n\nYour doctor may conduct a physical exam and use chest x-ray, chest CT, chest ultrasound, or needle biopsy of the lung to help diagnose your condition. Your doctor may further evaluate your condition and lung function using thoracentesis, chest tube placement or image-guided abscess drainage.\n\nIn this dataset you can use CNN to help classify whether patients have Pneumonia or not. It contains \"train\" folder which will be used to train the model on. \"test\", which will help us with the validation and finally we can pick some images from the \"pred\" folder to predict based on the model that we have trained.\n\nFor the sake of simplicity, I have balanced the images in the dataset. For a more challenging experience, you can add other data sources and create imbalance. And further improve your CNN model using Data Augmentation.\n\nA sample notebook has been created by myself for your reference.\n\nI do not own this dataset. I have just collected the data from various different sources. Please check the Data Collection Methodology for more information. Credits to the original authors. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "health",
+    "deep learning",
+    "cnn",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

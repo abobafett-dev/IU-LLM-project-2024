@@ -1,0 +1,43 @@
+{
+  "id": "prena0808/craigslist-cars-and-trucks-data",
+  "id_no": 2285580,
+  "datasetSlugNullable": "craigslist-cars-and-trucks-data",
+  "ownerUserNullable": "prena0808",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Craigslist Cars and Trucks Data",
+  "subtitleNullable": "Vehicle Price Prediction Modelling ",
+  "descriptionNullable": "Craigslist is a website for viewing and posting local advertisements. It works a lot like the Classifieds section of a newspaper, and it's completely free to use. You can find a listing for almost anything on Craigslist\u2014jobs, apartments, garage sales, used cars, personal ads, and a whole lot more.\n\nThis dataset is scraped for Dallas city of cars and trucks. This can be used to predict price of new vehicles based of their attributes.",
+  "datasetId": 2285580,
+  "datasetSlug": "craigslist-cars-and-trucks-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "prena0808",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 1271,
+  "totalVotes": 7,
+  "totalDownloads": 121,
+  "title": "Craigslist Cars and Trucks Data",
+  "hasTitle": true,
+  "subtitle": "Vehicle Price Prediction Modelling ",
+  "hasSubtitle": true,
+  "description": "Craigslist is a website for viewing and posting local advertisements. It works a lot like the Classifieds section of a newspaper, and it's completely free to use. You can find a listing for almost anything on Craigslist\u2014jobs, apartments, garage sales, used cars, personal ads, and a whole lot more.\n\nThis dataset is scraped for Dallas city of cars and trucks. This can be used to predict price of new vehicles based of their attributes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "exploratory data analysis",
+    "tabular",
+    "e-commerce services",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

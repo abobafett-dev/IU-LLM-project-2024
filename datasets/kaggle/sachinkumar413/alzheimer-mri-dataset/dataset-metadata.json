@@ -1,0 +1,48 @@
+{
+  "id": "sachinkumar413/alzheimer-mri-dataset",
+  "id_no": 2029496,
+  "datasetSlugNullable": "alzheimer-mri-dataset",
+  "ownerUserNullable": "sachinkumar413",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Alzheimer MRI Preprocessed Dataset",
+  "subtitleNullable": "Preprocessed Alzheimer Disease MRI (Magnetic Resonance Imaging)",
+  "descriptionNullable": "**Alzheimer MRI Preprocessed Dataset (128 x 128)**\n- The Data is collected from several websites/hospitals/public repositories.\n- The Dataset is consists of Preprocessed MRI (Magnetic Resonance Imaging) Images.\n- All the images are resized into 128 x 128 pixels.\n- The Dataset has four classes of images.\n- The Dataset is consists of total 6400 MRI images.\n**Class - 1:** Mild Demented (896 images)\n**Class - 2:** Moderate Demented (64 images)\n**Class - 3:** Non Demented (3200 images)\n**Class - 4:** Very Mild Demented (2240 images)\n\n**Motive**\nThe main motive behind sharing this dataset is to design/develop an accurate framework or architecture for the classification of Alzheimers Disease.\n\n**References**\n1. https://adni.loni.usc.edu/\n2. https://www.alzheimers.net/\n3. https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers\n4. https://ieeexplore.ieee.org/document/9521165\n5. https://catalog.data.gov/dataset/alzheimers-disease-and-healthy-aging-data\n6. https://www.nature.com/articles/s41598-020-79243-9\n7. https://cordis.europa.eu/article/id/429468-the-final-epad-dataset-is-now-available-on-the-alzheimer-s-disease-workbench",
+  "datasetId": 2029496,
+  "datasetSlug": "alzheimer-mri-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sachinkumar413",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 96382,
+  "totalVotes": 152,
+  "totalDownloads": 13286,
+  "title": "Alzheimer MRI Preprocessed Dataset",
+  "hasTitle": true,
+  "subtitle": "Preprocessed Alzheimer Disease MRI (Magnetic Resonance Imaging)",
+  "hasSubtitle": true,
+  "description": "**Alzheimer MRI Preprocessed Dataset (128 x 128)**\n- The Data is collected from several websites/hospitals/public repositories.\n- The Dataset is consists of Preprocessed MRI (Magnetic Resonance Imaging) Images.\n- All the images are resized into 128 x 128 pixels.\n- The Dataset has four classes of images.\n- The Dataset is consists of total 6400 MRI images.\n**Class - 1:** Mild Demented (896 images)\n**Class - 2:** Moderate Demented (64 images)\n**Class - 3:** Non Demented (3200 images)\n**Class - 4:** Very Mild Demented (2240 images)\n\n**Motive**\nThe main motive behind sharing this dataset is to design/develop an accurate framework or architecture for the classification of Alzheimers Disease.\n\n**References**\n1. https://adni.loni.usc.edu/\n2. https://www.alzheimers.net/\n3. https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers\n4. https://ieeexplore.ieee.org/document/9521165\n5. https://catalog.data.gov/dataset/alzheimers-disease-and-healthy-aging-data\n6. https://www.nature.com/articles/s41598-020-79243-9\n7. https://cordis.europa.eu/article/id/429468-the-final-epad-dataset-is-now-available-on-the-alzheimer-s-disease-workbench",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "classification",
+    "deep learning",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "sourabhshastri",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

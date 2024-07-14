@@ -1,0 +1,43 @@
+{
+  "id": "eren2222/indonesia-stock-exchange-idx-historical-price",
+  "id_no": 5022008,
+  "datasetSlugNullable": "indonesia-stock-exchange-idx-historical-price",
+  "ownerUserNullable": "eren2222",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Indonesia Stock Market (IDX) 2020-2024 w/ Foreign",
+  "subtitleNullable": "Historical IDX stock price of 938 companies from 2020 - 2024",
+  "descriptionNullable": "Hi,\n\nThis dataset compiles 938 companies in Indonesia stock exchange (IDX) historical price with the following details:\n- Total unique companies: 938\n- Starting time: 2020-01-01 [the earliest data available from idx.co.id]\n- Ending time: 2024-05-16\n- With foreign transaction column",
+  "datasetId": 5022008,
+  "datasetSlug": "indonesia-stock-exchange-idx-historical-price",
+  "hasDatasetSlug": true,
+  "ownerUser": "eren2222",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 332,
+  "totalVotes": 7,
+  "totalDownloads": 34,
+  "title": "Indonesia Stock Market (IDX) 2020-2024 w/ Foreign",
+  "hasTitle": true,
+  "subtitle": "Historical IDX stock price of 938 companies from 2020 - 2024",
+  "hasSubtitle": true,
+  "description": "Hi,\n\nThis dataset compiles 938 companies in Indonesia stock exchange (IDX) historical price with the following details:\n- Total unique companies: 938\n- Starting time: 2020-01-01 [the earliest data available from idx.co.id]\n- Ending time: 2024-05-16\n- With foreign transaction column",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "banking",
+    "time series analysis",
+    "investing",
+    "indonesian"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

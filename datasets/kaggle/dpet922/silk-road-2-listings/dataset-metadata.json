@@ -1,0 +1,42 @@
+{
+  "id": "dpet922/silk-road-2-listings",
+  "id_no": 867777,
+  "datasetSlugNullable": "silk-road-2-listings",
+  "ownerUserNullable": "dpet922",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Silk Road 2 Listings",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\nThis dataset is part of an ongoing project to scrape darkweb market listings from historical sources and eventually expand that to include contemporary listings.\n\n### Content\nTitle\t- Title of listing\nSellerid\t- Seller Username\nPriceUSD\t- Price in US dollars (converted from BTC price using exchange rate of the scrape date)\nPriceBTC\t- Price in Bitcoin\nRating\t- Product rating\nReviews\t- Number of customer reviews\nOrigin\t- Country that the product ships from\nDestination\t- Country or region where the product can be shipped to\nCategory\t- Category of item in marketplace\nSubcategory\t- Subgroup within Category\nMarket\t- Name of darkweb market\nDate - Date that the data was scraped\n\n\n### Acknowledgements\nThe data has been extracted from html files made available by Gwern Branwen. I'd recommend checking out his website (https://www.gwern.net/DNM-archives) for more information about the data collection process, access to other market data and an assortment of interesting essays/experiments.\n\n\n### Notes\nAs with most darknet market data, a lot of important information is held within poorly formatted listing titles so you'll want to get comfortable with regular expressions in order to extract valuable information.\nRating and Reviews have no values for roughly half of the listings. These features weren't implemented until later versions of the website.",
+  "datasetId": 867777,
+  "datasetSlug": "silk-road-2-listings",
+  "hasDatasetSlug": true,
+  "ownerUser": "dpet922",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 2778,
+  "totalVotes": 1,
+  "totalDownloads": 169,
+  "title": "Silk Road 2 Listings",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\nThis dataset is part of an ongoing project to scrape darkweb market listings from historical sources and eventually expand that to include contemporary listings.\n\n### Content\nTitle\t- Title of listing\nSellerid\t- Seller Username\nPriceUSD\t- Price in US dollars (converted from BTC price using exchange rate of the scrape date)\nPriceBTC\t- Price in Bitcoin\nRating\t- Product rating\nReviews\t- Number of customer reviews\nOrigin\t- Country that the product ships from\nDestination\t- Country or region where the product can be shipped to\nCategory\t- Category of item in marketplace\nSubcategory\t- Subgroup within Category\nMarket\t- Name of darkweb market\nDate - Date that the data was scraped\n\n\n### Acknowledgements\nThe data has been extracted from html files made available by Gwern Branwen. I'd recommend checking out his website (https://www.gwern.net/DNM-archives) for more information about the data collection process, access to other market data and an assortment of interesting essays/experiments.\n\n\n### Notes\nAs with most darknet market data, a lot of important information is held within poorly formatted listing titles so you'll want to get comfortable with regular expressions in order to extract valuable information.\nRating and Reviews have no values for roughly half of the listings. These features weren't implemented until later versions of the website.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "retail and shopping",
+    "currencies and foreign exchange",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

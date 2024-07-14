@@ -1,0 +1,43 @@
+{
+  "id": "aman1320/world-coal-production",
+  "id_no": 3479597,
+  "datasetSlugNullable": "world-coal-production",
+  "ownerUserNullable": "aman1320",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "World Coal Mine Production",
+  "subtitleNullable": " Coal production made by different countries and there share in global market.",
+  "descriptionNullable": "The dataset includes the following information:\n\n- **Country:** The name of the country for which the coal production data is provided.\n- **Coal Production (Million Tonnes):** The amount of coal produced in million tonnes for each country.\n\nThis dataset can be utilized to analyze and compare coal production levels across different countries. It can help researchers, policymakers, and energy industry professionals gain a better understanding of global coal production patterns, identify major coal-producing nations, and assess the contribution of coal to the global energy mix.",
+  "datasetId": 3479597,
+  "datasetSlug": "world-coal-production",
+  "hasDatasetSlug": true,
+  "ownerUser": "aman1320",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 370,
+  "totalVotes": 5,
+  "totalDownloads": 79,
+  "title": "World Coal Mine Production",
+  "hasTitle": true,
+  "subtitle": " Coal production made by different countries and there share in global market.",
+  "hasSubtitle": true,
+  "description": "The dataset includes the following information:\n\n- **Country:** The name of the country for which the coal production data is provided.\n- **Coal Production (Million Tonnes):** The amount of coal produced in million tonnes for each country.\n\nThis dataset can be utilized to analyze and compare coal production levels across different countries. It can help researchers, policymakers, and energy industry professionals gain a better understanding of global coal production patterns, identify major coal-producing nations, and assess the contribution of coal to the global energy mix.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "environment",
+    "energy",
+    "time series analysis",
+    "data analytics",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

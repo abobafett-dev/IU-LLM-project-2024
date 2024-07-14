@@ -1,0 +1,37 @@
+{
+  "id": "furqanrustam118/calling-apps-reviews-dataset",
+  "id_no": 2390212,
+  "datasetSlugNullable": "calling-apps-reviews-dataset",
+  "ownerUserNullable": "furqanrustam118",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Calling Apps Reviews Dataset",
+  "subtitleNullable": "App Reviews Dataset for Sentiment Analysis",
+  "descriptionNullable": "This dataset is extracted from the google play store for research purposes.\n\nPlease cite the paper for this article \nAslam, N.; Xia, K.; Rustam, F.; Hameed, A.; Ashraf, I. Using Aspect-Level Sentiments for Calling App Recommendation with Hybrid Deep-Learning Models. Appl. Sci. 2022, 12, 8522. https://doi.org/10.3390/app12178522\n\nThe title \"Using Aspect-Level Sentiments for Calling App Recommendation with Hybrid Deep-Learning Models\"\n\nThe rapid and wide proliferation of mobile phones has led to accelerated demand for mobile applications (apps). Consequently, a large number of mobile apps have been developed and deployed on the Google and Apple Play stores. Calling apps hold special importance in this regard by offering the services of sharing messages, making video calls, and sending audio messages, free of cost. Although each app has its own set of features, different apps can provide higher levels of satisfaction for the user, and aspect analysis is often overlooked by existing studies. This study presents an aspect-level analysis of IMO, Skype, Telegram, WeChat, and WhatsApp regarding the services offered for the account, app, call, message, update, video, and working features. A large collected dataset from the Google Play store is utilized for aspect extraction and analysis using the Latent Dirichlet Allocation (LDA) model. Apps are analyzed using LDA-extracted aspects and recommended regarding users\u2019 priorities of call, message, and video requirements. Sentiment analysis is adopted to analyze user sentiments regarding apps as well as to aid in the aspect analysis. For sentiment analysis, a novel ensemble model of a gated recurrent unit and convolutional neural network is presented, which obtains a 94% accuracy score.",
+  "datasetId": 2390212,
+  "datasetSlug": "calling-apps-reviews-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "furqanrustam118",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 711,
+  "totalVotes": 2,
+  "totalDownloads": 76,
+  "title": "Calling Apps Reviews Dataset",
+  "hasTitle": true,
+  "subtitle": "App Reviews Dataset for Sentiment Analysis",
+  "hasSubtitle": true,
+  "description": "This dataset is extracted from the google play store for research purposes.\n\nPlease cite the paper for this article \nAslam, N.; Xia, K.; Rustam, F.; Hameed, A.; Ashraf, I. Using Aspect-Level Sentiments for Calling App Recommendation with Hybrid Deep-Learning Models. Appl. Sci. 2022, 12, 8522. https://doi.org/10.3390/app12178522\n\nThe title \"Using Aspect-Level Sentiments for Calling App Recommendation with Hybrid Deep-Learning Models\"\n\nThe rapid and wide proliferation of mobile phones has led to accelerated demand for mobile applications (apps). Consequently, a large number of mobile apps have been developed and deployed on the Google and Apple Play stores. Calling apps hold special importance in this regard by offering the services of sharing messages, making video calls, and sending audio messages, free of cost. Although each app has its own set of features, different apps can provide higher levels of satisfaction for the user, and aspect analysis is often overlooked by existing studies. This study presents an aspect-level analysis of IMO, Skype, Telegram, WeChat, and WhatsApp regarding the services offered for the account, app, call, message, update, video, and working features. A large collected dataset from the Google Play store is utilized for aspect extraction and analysis using the Latent Dirichlet Allocation (LDA) model. Apps are analyzed using LDA-extracted aspects and recommended regarding users\u2019 priorities of call, message, and video requirements. Sentiment analysis is adopted to analyze user sentiments regarding apps as well as to aid in the aspect analysis. For sentiment analysis, a novel ensemble model of a gated recurrent unit and convolutional neural network is presented, which obtains a 94% accuracy score.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

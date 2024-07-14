@@ -1,0 +1,41 @@
+{
+  "id": "/taylor-swift-song-lyrics-from-all-the-albums",
+  "id_no": 37892,
+  "datasetSlugNullable": "taylor-swift-song-lyrics-from-all-the-albums",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Taylor Swift Song Lyrics from all the albums",
+  "subtitleNullable": "All the song lyrics from Taylor Swift's albums",
+  "descriptionNullable": "### Context\n\nThis data set was created by [PromptCloud][1] (a Data-as-a-Service provider), using the API exposed by Genius.com.\n\n### Content\n\nIt has the following data fields:\n\n - album name \n - track title \n - track number \n - lyric text \n - line number of the lyric in the track\n - year of release of the album\n\n### Initial analyses\n\nYou can check out [this article][2] to understand the following initial set of analysis:\n\n\u2013 Exploratory analysis\n\n - word counts based on tracks and albums\n - time series analysis of word counts\n - distribution of word counts\n\n\u2013 Text mining\n \n - word cloud\n - bigram network\n - sentiment analysis (includes chord diagram)\n\n  [1]: https://www.promptcloud.com\n  [2]: https://www.promptcloud.com/blog/data-visualization-text-mining-taylor-swift-song-lyrics",
+  "datasetId": 37892,
+  "datasetSlug": "taylor-swift-song-lyrics-from-all-the-albums",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 46681,
+  "totalVotes": 96,
+  "totalDownloads": 4819,
+  "title": "Taylor Swift Song Lyrics from all the albums",
+  "hasTitle": true,
+  "subtitle": "All the song lyrics from Taylor Swift's albums",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data set was created by [PromptCloud][1] (a Data-as-a-Service provider), using the API exposed by Genius.com.\n\n### Content\n\nIt has the following data fields:\n\n - album name \n - track title \n - track number \n - lyric text \n - line number of the lyric in the track\n - year of release of the album\n\n### Initial analyses\n\nYou can check out [this article][2] to understand the following initial set of analysis:\n\n\u2013 Exploratory analysis\n\n - word counts based on tracks and albums\n - time series analysis of word counts\n - distribution of word counts\n\n\u2013 Text mining\n \n - word cloud\n - bigram network\n - sentiment analysis (includes chord diagram)\n\n  [1]: https://www.promptcloud.com\n  [2]: https://www.promptcloud.com/blog/data-visualization-text-mining-taylor-swift-song-lyrics",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "music",
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "jvdahemad/yahoofinance-stock-19862020",
+  "id_no": 812770,
+  "datasetSlugNullable": "yahoofinance-stock-19862020",
+  "ownerUserNullable": "jvdahemad",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "YahooFinance_Stock_1986-2020",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nWe have historical stock data for Yahoo Finance. The stock dates back to as old as 1986 and is very recent until July 2020.\n\n### Content\n\nThere is a raw file containing the entire datasets. The training data has stock information from 2014 till 2019 and the test data contains everything beyond that. (Till July 2020). The raw file can be used to create your own test and training set as per your model requirements.\n\n\n### Source\n\nYahoo's Public API\n\n\n### Inspiration\n\nThis can be a very a great way to get into some time series analysis. I've used the datasets in one of my own kernel. Please have a look here: https://www.kaggle.com/jvdahemad/yahoo-stock-prediction-using-lstm and leave you feedback. Thanks",
+  "datasetId": 812770,
+  "datasetSlug": "yahoofinance-stock-19862020",
+  "hasDatasetSlug": true,
+  "ownerUser": "jvdahemad",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 2421,
+  "totalVotes": 5,
+  "totalDownloads": 151,
+  "title": "YahooFinance_Stock_1986-2020",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWe have historical stock data for Yahoo Finance. The stock dates back to as old as 1986 and is very recent until July 2020.\n\n### Content\n\nThere is a raw file containing the entire datasets. The training data has stock information from 2014 till 2019 and the test data contains everything beyond that. (Till July 2020). The raw file can be used to create your own test and training set as per your model requirements.\n\n\n### Source\n\nYahoo's Public API\n\n\n### Inspiration\n\nThis can be a very a great way to get into some time series analysis. I've used the datasets in one of my own kernel. Please have a look here: https://www.kaggle.com/jvdahemad/yahoo-stock-prediction-using-lstm and leave you feedback. Thanks",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "finance",
+    "computer science",
+    "programming",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

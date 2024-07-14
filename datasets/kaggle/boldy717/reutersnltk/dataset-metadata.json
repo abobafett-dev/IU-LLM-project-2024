@@ -1,0 +1,43 @@
+{
+  "id": "boldy717/reutersnltk",
+  "id_no": 105893,
+  "datasetSlugNullable": "reutersnltk",
+  "ownerUserNullable": "boldy717",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "NLTK Reuters News Documents",
+  "subtitleNullable": "All Files from the NLTK Reuters Corpus",
+  "descriptionNullable": "### Context\n\nThis dataset contains the ID, categories, and raw text from each file in [NLTK's][1] Reuters corpus. \n\n\n### Content\n\nEach file (row) is a news document. Each document can be classified as one or more categories.  Files are also classified as test or train files, which can be found in the ID column and used for textual model building/validation. There are 10,788 total news documents in the file.\n\n\n### Acknowledgements\n\nThank you to NLTK and its contributors for everything you do. \n\n\n### Code\n\nThis dataset was generated using the following python code.\n\n    import nltk\n    import pandas as pd\n    nltk.download('reuters')\n    nltk.download('punkt')\n    \n    # Extract fileids from the reuters corpus\n    fileids = reuters.fileids()\n    \n    # Initialize empty lists to store categories and raw text\n    categories = []\n    text = []\n    \n    # Loop through each file id and collect each files categories and raw text\n    for file in fileids:\n        categories.append(reuters.categories(file))\n        text.append(reuters.raw(file))\n    \n    # Combine lists into pandas dataframe. reutersDf is the final dataframe. \n    reutersDf = pd.DataFrame({'ids':fileids, 'categories':categories, 'text':text})\n\n\n  [1]: https://www.nltk.org/index.html",
+  "datasetId": 105893,
+  "datasetSlug": "reutersnltk",
+  "hasDatasetSlug": true,
+  "ownerUser": "boldy717",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 13665,
+  "totalVotes": 10,
+  "totalDownloads": 775,
+  "title": "NLTK Reuters News Documents",
+  "hasTitle": true,
+  "subtitle": "All Files from the NLTK Reuters Corpus",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains the ID, categories, and raw text from each file in [NLTK's][1] Reuters corpus. \n\n\n### Content\n\nEach file (row) is a news document. Each document can be classified as one or more categories.  Files are also classified as test or train files, which can be found in the ID column and used for textual model building/validation. There are 10,788 total news documents in the file.\n\n\n### Acknowledgements\n\nThank you to NLTK and its contributors for everything you do. \n\n\n### Code\n\nThis dataset was generated using the following python code.\n\n    import nltk\n    import pandas as pd\n    nltk.download('reuters')\n    nltk.download('punkt')\n    \n    # Extract fileids from the reuters corpus\n    fileids = reuters.fileids()\n    \n    # Initialize empty lists to store categories and raw text\n    categories = []\n    text = []\n    \n    # Loop through each file id and collect each files categories and raw text\n    for file in fileids:\n        categories.append(reuters.categories(file))\n        text.append(reuters.raw(file))\n    \n    # Combine lists into pandas dataframe. reutersDf is the final dataframe. \n    reutersDf = pd.DataFrame({'ids':fileids, 'categories':categories, 'text':text})\n\n\n  [1]: https://www.nltk.org/index.html",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "nlp",
+    "text mining",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

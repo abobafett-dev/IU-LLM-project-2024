@@ -1,0 +1,44 @@
+{
+  "id": "feeldidaxie/landing-page-ab-testing-dataset",
+  "id_no": 5102772,
+  "datasetSlugNullable": "landing-page-ab-testing-dataset",
+  "ownerUserNullable": "feeldidaxie",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Landing Page A/B Testing Dataset",
+  "subtitleNullable": "Analyzing an A/B Test of Two Web Page Presentations",
+  "descriptionNullable": "The dataset originates from the book \"Practical Statistics for Data Scientists\" by Peter Bruce, Andrew Bruce, and Peter Gedeck.\n\nContext:\n\nA company selling a high-value service wants to determine which of two web presentations is more effective at selling. Due to the high value and infrequent nature of the sales, as well as the lengthy sales cycle, it would take too long to accumulate enough sales data to identify the superior presentation. Therefore, the company uses a proxy variable to measure effectiveness.\n\nA proxy variable stands in for the true variable of interest, which may be unavailable, too costly, or too time-consuming to measure directly. In this case, the proxy variable is the amount of time users spend on a detailed interior page that describes the service.\n\nContent:\n\nThe dataset includes a total of 36 sessions across the two web presentations: 21 sessions for page A and 15 sessions for page B. The goal is to determine if users spend more time on page B compared to page A. If users spend more time on page B, it would suggest that page B is more effective at engaging potential customers, and therefore, does a better selling job.\n\nThe time is expressed in hundredths of seconds. For example, a value of 0.1 indicates 10 seconds, and a value of 2.53 indicates 253 seconds.\n",
+  "datasetId": 5102772,
+  "datasetSlug": "landing-page-ab-testing-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "feeldidaxie",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1062,
+  "totalVotes": 12,
+  "totalDownloads": 177,
+  "title": "Landing Page A/B Testing Dataset",
+  "hasTitle": true,
+  "subtitle": "Analyzing an A/B Test of Two Web Page Presentations",
+  "hasSubtitle": true,
+  "description": "The dataset originates from the book \"Practical Statistics for Data Scientists\" by Peter Bruce, Andrew Bruce, and Peter Gedeck.\n\nContext:\n\nA company selling a high-value service wants to determine which of two web presentations is more effective at selling. Due to the high value and infrequent nature of the sales, as well as the lengthy sales cycle, it would take too long to accumulate enough sales data to identify the superior presentation. Therefore, the company uses a proxy variable to measure effectiveness.\n\nA proxy variable stands in for the true variable of interest, which may be unavailable, too costly, or too time-consuming to measure directly. In this case, the proxy variable is the amount of time users spend on a detailed interior page that describes the service.\n\nContent:\n\nThe dataset includes a total of 36 sessions across the two web presentations: 21 sessions for page A and 15 sessions for page B. The goal is to determine if users spend more time on page B compared to page A. If users spend more time on page B, it would suggest that page B is more effective at engaging potential customers, and therefore, does a better selling job.\n\nThe time is expressed in hundredths of seconds. For example, a value of 0.1 indicates 10 seconds, and a value of 2.53 indicates 253 seconds.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "earth and nature",
+    "beginner",
+    "data visualization",
+    "tabular",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "chunghaoleeyginger/taiwan-capitalization-weighted-stock-index",
+  "id_no": 1556639,
+  "datasetSlugNullable": "taiwan-capitalization-weighted-stock-index",
+  "ownerUserNullable": "chunghaoleeyginger",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Taiwan Capitalization Weighted Stock Index",
+  "subtitleNullable": "Price of Taiwan Stock Market from 2009 to 2021.",
+  "descriptionNullable": "### Background\n\nTaiwan is famous for various tech companies, such as TSMC and Foxconn and vital supply chain location. Most of Taiwanese tech companies are listed on Taiwan Stock Exchange. The Taiwan Capitalization Weighted Stock Index(TAIEX) is a stock market index for companies traded on the Taiwan Stock Exchange (TWSE). TAIEX covers all of the listed stocks excluding preferred stocks, full-delivery stocks and newly listed stocks, which are listed for less than one calendar month. It was first published in 1967 by TWSE with 1966 being the base year with a value of 100.\n\n\n### Acknowledgements\n\nAll data from \n1. https://www.taiwanindex.com.tw/index/history?id=t00&start=2000%2F01%2F01&end=\n2. https://finance.yahoo.com/quote/%5ETWII/history?p=%5ETWII\n3. https://www.stat.gov.tw/mp.asp?mp=4\n\n\n### Task\n\nUnlike stocks of each companies, TAIEX is an index that can represent Taiwan economic even part of world's economic. Can we predict future stock price based on past stock price? Can we improve prediction by adding variables?",
+  "datasetId": 1556639,
+  "datasetSlug": "taiwan-capitalization-weighted-stock-index",
+  "hasDatasetSlug": true,
+  "ownerUser": "chunghaoleeyginger",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4222,
+  "totalVotes": 10,
+  "totalDownloads": 199,
+  "title": "Taiwan Capitalization Weighted Stock Index",
+  "hasTitle": true,
+  "subtitle": "Price of Taiwan Stock Market from 2009 to 2021.",
+  "hasSubtitle": true,
+  "description": "### Background\n\nTaiwan is famous for various tech companies, such as TSMC and Foxconn and vital supply chain location. Most of Taiwanese tech companies are listed on Taiwan Stock Exchange. The Taiwan Capitalization Weighted Stock Index(TAIEX) is a stock market index for companies traded on the Taiwan Stock Exchange (TWSE). TAIEX covers all of the listed stocks excluding preferred stocks, full-delivery stocks and newly listed stocks, which are listed for less than one calendar month. It was first published in 1967 by TWSE with 1966 being the base year with a value of 100.\n\n\n### Acknowledgements\n\nAll data from \n1. https://www.taiwanindex.com.tw/index/history?id=t00&start=2000%2F01%2F01&end=\n2. https://finance.yahoo.com/quote/%5ETWII/history?p=%5ETWII\n3. https://www.stat.gov.tw/mp.asp?mp=4\n\n\n### Task\n\nUnlike stocks of each companies, TAIEX is an index that can represent Taiwan economic even part of world's economic. Can we predict future stock price based on past stock price? Can we improve prediction by adding variables?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "asia",
+    "business",
+    "time series analysis",
+    "data analytics",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

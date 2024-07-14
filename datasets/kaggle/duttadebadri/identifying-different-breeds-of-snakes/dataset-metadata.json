@@ -1,0 +1,41 @@
+{
+  "id": "duttadebadri/identifying-different-breeds-of-snakes",
+  "id_no": 1022315,
+  "datasetSlugNullable": "identifying-different-breeds-of-snakes",
+  "ownerUserNullable": "duttadebadri",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Identifying different Breeds of Snakes",
+  "subtitleNullable": "Snake Breed Classification",
+  "descriptionNullable": "The dataset contains images of 35 different breeds of snakes. The images have been scraped from Google Images. However the data collection was inspired from the Hackerearth Challenge: https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-snake-breed-detection/\n\nThe Python script which I have used to scrape images is here: https://github.com/debadridtt/Scraping-Google-Images-using-Python",
+  "datasetId": 1022315,
+  "datasetSlug": "identifying-different-breeds-of-snakes",
+  "hasDatasetSlug": true,
+  "ownerUser": "duttadebadri",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 7318,
+  "totalVotes": 26,
+  "totalDownloads": 635,
+  "title": "Identifying different Breeds of Snakes",
+  "hasTitle": true,
+  "subtitle": "Snake Breed Classification",
+  "hasSubtitle": true,
+  "description": "The dataset contains images of 35 different breeds of snakes. The images have been scraped from Google Images. However the data collection was inspired from the Hackerearth Challenge: https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-snake-breed-detection/\n\nThe Python script which I have used to scrape images is here: https://github.com/debadridtt/Scraping-Google-Images-using-Python",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

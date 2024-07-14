@@ -1,0 +1,43 @@
+{
+  "id": "jylim21/malaysia-public-data",
+  "id_no": 3779020,
+  "datasetSlugNullable": "malaysia-public-data",
+  "ownerUserNullable": "jylim21",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Malaysia Births 1920 - 2023 (v1)",
+  "subtitleNullable": "Daily number of births in Malaysia (Peninsula and Borneo) from year 1920 to 2023",
+  "descriptionNullable": "As a multicultural country led by 3 different races, it was a tough journey for Malaya (now known as Malaysia) to continue preserving their own unique identity. In the 16th century, they fell into the hands of Portuguese Colonists, then the Dutch, Britishs and eventually the Japanese occupation and communist threat in the 1940s. \n\nAlthough things eventually became better when the Japanese surrendered, the imbalance in racial composition between the original Malay settlers and Chinese immigrants sparked numerous civil wars between the 2 races (which eventually led to the separation of Singapore from Malaya in 1965). Although these racial tensions are still present today in 2023, matters have been way peaceful except on some occasions where manipulative politicians raise these issues again to prepare for a potential coup d'etat.\n\nThis is a simple dataset with only a date and number of births on that day, great for Time Series forecasting. \n\n**Notable historical events which might influence the birth rate:**\n08/12/1941 - 05/09/1945 : Japanese Occupation of Malaya\n16/06/1948 - 02/12/1989 : Communist Insurgency in Malaya\n16/09/1963 : Founding of Malaysia (Sabah and Sarawak is combined with the Malay Peninsular)\n09/08/1965 : Separation of Singapore from Malaysia.\n13/05/1969 : (May 13 Incident) Racial clash between ethnic Malays and Chinese leading to a state of emergency.\n\nDo leave me a message if you have any questions!",
+  "datasetId": 3779020,
+  "datasetSlug": "malaysia-public-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "jylim21",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 868,
+  "totalVotes": 4,
+  "totalDownloads": 173,
+  "title": "Malaysia Births 1920 - 2023 (v1)",
+  "hasTitle": true,
+  "subtitle": "Daily number of births in Malaysia (Peninsula and Borneo) from year 1920 to 2023",
+  "hasSubtitle": true,
+  "description": "As a multicultural country led by 3 different races, it was a tough journey for Malaya (now known as Malaysia) to continue preserving their own unique identity. In the 16th century, they fell into the hands of Portuguese Colonists, then the Dutch, Britishs and eventually the Japanese occupation and communist threat in the 1940s. \n\nAlthough things eventually became better when the Japanese surrendered, the imbalance in racial composition between the original Malay settlers and Chinese immigrants sparked numerous civil wars between the 2 races (which eventually led to the separation of Singapore from Malaya in 1965). Although these racial tensions are still present today in 2023, matters have been way peaceful except on some occasions where manipulative politicians raise these issues again to prepare for a potential coup d'etat.\n\nThis is a simple dataset with only a date and number of births on that day, great for Time Series forecasting. \n\n**Notable historical events which might influence the birth rate:**\n08/12/1941 - 05/09/1945 : Japanese Occupation of Malaya\n16/06/1948 - 02/12/1989 : Communist Insurgency in Malaya\n16/09/1963 : Founding of Malaysia (Sabah and Sarawak is combined with the Malay Peninsular)\n09/08/1965 : Separation of Singapore from Malaysia.\n13/05/1969 : (May 13 Incident) Racial clash between ethnic Malays and Chinese leading to a state of emergency.\n\nDo leave me a message if you have any questions!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "asia",
+    "beginner",
+    "data visualization",
+    "time series analysis",
+    "neural networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Permissive - Version 1.0",
+      "name": "Community Data License Agreement - Permissive - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

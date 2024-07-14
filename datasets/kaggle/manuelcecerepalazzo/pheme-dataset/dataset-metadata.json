@@ -1,0 +1,39 @@
+{
+  "id": "manuelcecerepalazzo/pheme-dataset",
+  "id_no": 2108137,
+  "datasetSlugNullable": "pheme-dataset",
+  "ownerUserNullable": "manuelcecerepalazzo",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "PHEME_dataset",
+  "subtitleNullable": "PHEME dataset for Rumour Detection and Veracity Classification",
+  "descriptionNullable": "This dataset contains a collection of Twitter rumours and non-rumours posted during breaking news.\n\n\n\nThe data is structured as follows. Each event has a directory, with two subfolders, rumours and non-rumours. These two folders have folders named with a tweet ID. The tweet itself can be found on the 'source-tweet' directory of the tweet in question, and the directory 'reactions' has the set of tweets responding to that source tweet. Also each folder contains \u2018annotation.json\u2019 which contains information about veracity of the rumour and \u2018structure.json\u2019, which contains information about structure of the conversation.\n\n\n\nThis dataset is an extension of the PHEME dataset of rumours and non-rumours (https://figshare.com/articles/PHEME_dataset_of_rumours_and_non-rumours/4010619), it contains rumours related to 9 events and each of the rumours is annotated with its veracity value, either True, False or Unverified.\n\n\n\nThis dataset was used in the paper 'All-in-one: Multi-task Learning for Rumour Verification'. For more details, please refer to the paper.",
+  "datasetId": 2108137,
+  "datasetSlug": "pheme-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "manuelcecerepalazzo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 1033,
+  "totalVotes": 3,
+  "totalDownloads": 135,
+  "title": "PHEME_dataset",
+  "hasTitle": true,
+  "subtitle": "PHEME dataset for Rumour Detection and Veracity Classification",
+  "hasSubtitle": true,
+  "description": "This dataset contains a collection of Twitter rumours and non-rumours posted during breaking news.\n\n\n\nThe data is structured as follows. Each event has a directory, with two subfolders, rumours and non-rumours. These two folders have folders named with a tweet ID. The tweet itself can be found on the 'source-tweet' directory of the tweet in question, and the directory 'reactions' has the set of tweets responding to that source tweet. Also each folder contains \u2018annotation.json\u2019 which contains information about veracity of the rumour and \u2018structure.json\u2019, which contains information about structure of the conversation.\n\n\n\nThis dataset is an extension of the PHEME dataset of rumours and non-rumours (https://figshare.com/articles/PHEME_dataset_of_rumours_and_non-rumours/4010619), it contains rumours related to 9 events and each of the rumours is annotated with its veracity value, either True, False or Unverified.\n\n\n\nThis dataset was used in the paper 'All-in-one: Multi-task Learning for Rumour Verification'. For more details, please refer to the paper.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

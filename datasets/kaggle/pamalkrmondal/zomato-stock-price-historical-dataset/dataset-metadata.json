@@ -1,0 +1,40 @@
+{
+  "id": "pamalkrmondal/zomato-stock-price-historical-dataset",
+  "id_no": 5074431,
+  "datasetSlugNullable": "zomato-stock-price-historical-dataset",
+  "ownerUserNullable": "pamalkrmondal",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Zomato Stock Price Historical Dataset",
+  "subtitleNullable": "Lifelong stock data till 24th May 2024",
+  "descriptionNullable": "## Zomato Stock Price Historical Dataset\n\nThis dataset contains historical stock prices of Zomato from its initial public offering (IPO) date on August 2, 2021, to May 24, 2024. The data provides insights into Zomato's stock performance over this period, capturing key metrics such as opening and closing prices, highest and lowest prices of the day, and trading volume.\n\n#### Column Descriptions\n- Date: The trading date.\n- Open: The price of the stock at market open.\n- High: The highest price of the stock during the trading day.\n- Low: The lowest price of the stock during the trading day.\n- Volume: The number of shares traded during the day.\n- Changes: Change of price in %\n\n#### Possible Analysis Ideas\n\n**Trend Analysis:**\n\nIdentify overall trends in Zomato\u2019s stock price over time.\nUse moving averages to smooth out short-term fluctuations and highlight longer-term trends.\n\n**Volatility Analysis:**\n\nAnalyze the stock's volatility by calculating the daily price range (High - Low) and other volatility metrics.\nCompare volatility over different time periods (e.g., pre- and post-earnings announcements).\n\n**Trading Volume Analysis:**\n\nInvestigate the relationship between trading volume and stock price movements.\nIdentify periods of unusually high or low trading activity and correlate them with external events or news.\n\n**Price Correlation:**\n\nExamine the correlation between opening, closing, high, and low prices.\nAnalyze the relationship between trading volume and stock price changes.\n\n**Technical Analysis:**\n\nApply technical analysis indicators such as Moving Averages, Relative Strength Index (RSI), Bollinger Bands, and MACD to identify trading signals and patterns.\n\n**Event Impact Analysis:**\n\nAssess the impact of major events (e.g., earnings reports, market news, industry changes) on Zomato\u2019s stock price.\nConduct event studies to measure abnormal returns around specific events.\n\n**Predictive Modeling:**\n\nBuild time series forecasting models using ARIMA, Prophet, or machine learning techniques to predict future stock prices.\nDevelop and evaluate different models based on their prediction accuracy and reliability.\n\n**Comparative Analysis:**\n\nCompare Zomato\u2019s stock performance with other companies in the food delivery industry or with major stock indices.\nAnalyze relative performance and market positioning over time.\n\n#### Usage\nThis dataset is ideal for financial analysts, data scientists, and researchers interested in stock market analysis, financial modeling, and investment strategies. It provides a comprehensive view of Zomato\u2019s stock performance and can serve as a basis for various quantitative and qualitative analyses.",
+  "datasetId": 5074431,
+  "datasetSlug": "zomato-stock-price-historical-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "pamalkrmondal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 32,
+  "totalVotes": 2,
+  "totalDownloads": 5,
+  "title": "Zomato Stock Price Historical Dataset",
+  "hasTitle": true,
+  "subtitle": "Lifelong stock data till 24th May 2024",
+  "hasSubtitle": true,
+  "description": "## Zomato Stock Price Historical Dataset\n\nThis dataset contains historical stock prices of Zomato from its initial public offering (IPO) date on August 2, 2021, to May 24, 2024. The data provides insights into Zomato's stock performance over this period, capturing key metrics such as opening and closing prices, highest and lowest prices of the day, and trading volume.\n\n#### Column Descriptions\n- Date: The trading date.\n- Open: The price of the stock at market open.\n- High: The highest price of the stock during the trading day.\n- Low: The lowest price of the stock during the trading day.\n- Volume: The number of shares traded during the day.\n- Changes: Change of price in %\n\n#### Possible Analysis Ideas\n\n**Trend Analysis:**\n\nIdentify overall trends in Zomato\u2019s stock price over time.\nUse moving averages to smooth out short-term fluctuations and highlight longer-term trends.\n\n**Volatility Analysis:**\n\nAnalyze the stock's volatility by calculating the daily price range (High - Low) and other volatility metrics.\nCompare volatility over different time periods (e.g., pre- and post-earnings announcements).\n\n**Trading Volume Analysis:**\n\nInvestigate the relationship between trading volume and stock price movements.\nIdentify periods of unusually high or low trading activity and correlate them with external events or news.\n\n**Price Correlation:**\n\nExamine the correlation between opening, closing, high, and low prices.\nAnalyze the relationship between trading volume and stock price changes.\n\n**Technical Analysis:**\n\nApply technical analysis indicators such as Moving Averages, Relative Strength Index (RSI), Bollinger Bands, and MACD to identify trading signals and patterns.\n\n**Event Impact Analysis:**\n\nAssess the impact of major events (e.g., earnings reports, market news, industry changes) on Zomato\u2019s stock price.\nConduct event studies to measure abnormal returns around specific events.\n\n**Predictive Modeling:**\n\nBuild time series forecasting models using ARIMA, Prophet, or machine learning techniques to predict future stock prices.\nDevelop and evaluate different models based on their prediction accuracy and reliability.\n\n**Comparative Analysis:**\n\nCompare Zomato\u2019s stock performance with other companies in the food delivery industry or with major stock indices.\nAnalyze relative performance and market positioning over time.\n\n#### Usage\nThis dataset is ideal for financial analysts, data scientists, and researchers interested in stock market analysis, financial modeling, and investment strategies. It provides a comprehensive view of Zomato\u2019s stock performance and can serve as a basis for various quantitative and qualitative analyses.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

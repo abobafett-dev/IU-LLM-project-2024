@@ -1,0 +1,41 @@
+{
+  "id": "rtatman/santa-barbara-corpus-of-spoken-american-english",
+  "id_no": 2422,
+  "datasetSlugNullable": "santa-barbara-corpus-of-spoken-american-english",
+  "ownerUserNullable": "rtatman",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Santa Barbara Corpus of Spoken American English",
+  "subtitleNullable": "Transcribed recordings of natural, conversational speech",
+  "descriptionNullable": "### Context: \n\nThe Santa Barbara Corpus of Spoken American English is based on hundreds of recordings of natural speech from all over the United States, representing a wide variety of people of different regional origins, ages, occupations, and ethnic and social backgrounds. It reflects many ways that people use language in their lives: conversation, gossip, arguments, on-the-job talk, card games, city council meetings, sales pitches, classroom lectures, political speeches, bedtime stories, sermons, weddings, and more. The corpus was collected by the University of California, Santa Barbara Center for the Study of Discourse, Director John W. Du Bois (UCSB), Associate Editors: Wallace L. Chafe (UCSB), Charles Meyer (UMass, Boston), and Sandra A. Thompson (UCSB).\n\nEach speech file is accompanied by a transcript in which phrases are time stamped with respect to the audio recording. Personal names, place names, phone numbers, etc., in the transcripts have been altered to preserve the anonymity of the speakers and their acquaintances and the audio files have been filtered to make these portions of the recordings unrecognizable. Pitch information is still recoverable from these filtered portions of the recordings, but the amplitude levels in these regions have been reduced relative to the original signal. The audio data consists of MP3 format speech files, recorded in two-channel pcm, at 22050Hz.\n\n### Contents: \n\nThis dataset contains part one of the corpus. The other three parts and additional information can be found [here](http://www.linguistics.ucsb.edu/research/santa-barbara-corpus#Contents). The following information is included in this dataset:\n\n* Recordings: 14 recordings as .mp3 files\n* Transcripts: Time-aligned transcripts for all 14 recordings, in the [CHAT format](http://childes.talkbank.org/)\n* Metadata: A .csv with demographic information on speakers, as well as which recordings they appear in. (Some talkers appear in more than one recording.)\n\n\n### Acknowledgements: \n\nThe Santa Barbara Corpus was compiled by researchers in the Linguistics Department of the University of California, Santa Barbara. The Director of the Santa Barbara Corpus is John W. Du Bois, working with Associate Editors Wallace L. Chafe and Sandra A. Thompson (all of UC Santa Barbara), and Charles Meyer (UMass, Boston). For the publication of Parts 3 and 4, the authors are John W. Du Bois and Robert Englebretson.\n\nIt is distributed here under an [CC BY-ND 3.0 US license]( https://creativecommons.org/licenses/by-nd/3.0/us/).\n\n### Inspiration: \n\n* Currently, the transcriptions are close transcriptions and include disfluencies and overlaps. Can you use NLP to convert them to broad transcriptions without this information?\n* Can you create a phone-aligned transcription of this dataset? You might find it helpful to use [forced alignment](https://www.eleanorchodroff.com/tutorial/kaldi/kaldi-forcedalignment.html). ",
+  "datasetId": 2422,
+  "datasetSlug": "santa-barbara-corpus-of-spoken-american-english",
+  "hasDatasetSlug": true,
+  "ownerUser": "rtatman",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 19269,
+  "totalVotes": 35,
+  "totalDownloads": 2910,
+  "title": "Santa Barbara Corpus of Spoken American English",
+  "hasTitle": true,
+  "subtitle": "Transcribed recordings of natural, conversational speech",
+  "hasSubtitle": true,
+  "description": "### Context: \n\nThe Santa Barbara Corpus of Spoken American English is based on hundreds of recordings of natural speech from all over the United States, representing a wide variety of people of different regional origins, ages, occupations, and ethnic and social backgrounds. It reflects many ways that people use language in their lives: conversation, gossip, arguments, on-the-job talk, card games, city council meetings, sales pitches, classroom lectures, political speeches, bedtime stories, sermons, weddings, and more. The corpus was collected by the University of California, Santa Barbara Center for the Study of Discourse, Director John W. Du Bois (UCSB), Associate Editors: Wallace L. Chafe (UCSB), Charles Meyer (UMass, Boston), and Sandra A. Thompson (UCSB).\n\nEach speech file is accompanied by a transcript in which phrases are time stamped with respect to the audio recording. Personal names, place names, phone numbers, etc., in the transcripts have been altered to preserve the anonymity of the speakers and their acquaintances and the audio files have been filtered to make these portions of the recordings unrecognizable. Pitch information is still recoverable from these filtered portions of the recordings, but the amplitude levels in these regions have been reduced relative to the original signal. The audio data consists of MP3 format speech files, recorded in two-channel pcm, at 22050Hz.\n\n### Contents: \n\nThis dataset contains part one of the corpus. The other three parts and additional information can be found [here](http://www.linguistics.ucsb.edu/research/santa-barbara-corpus#Contents). The following information is included in this dataset:\n\n* Recordings: 14 recordings as .mp3 files\n* Transcripts: Time-aligned transcripts for all 14 recordings, in the [CHAT format](http://childes.talkbank.org/)\n* Metadata: A .csv with demographic information on speakers, as well as which recordings they appear in. (Some talkers appear in more than one recording.)\n\n\n### Acknowledgements: \n\nThe Santa Barbara Corpus was compiled by researchers in the Linguistics Department of the University of California, Santa Barbara. The Director of the Santa Barbara Corpus is John W. Du Bois, working with Associate Editors Wallace L. Chafe and Sandra A. Thompson (all of UC Santa Barbara), and Charles Meyer (UMass, Boston). For the publication of Parts 3 and 4, the authors are John W. Du Bois and Robert Englebretson.\n\nIt is distributed here under an [CC BY-ND 3.0 US license]( https://creativecommons.org/licenses/by-nd/3.0/us/).\n\n### Inspiration: \n\n* Currently, the transcriptions are close transcriptions and include disfluencies and overlaps. Can you use NLP to convert them to broad transcriptions without this information?\n* Can you create a phone-aligned transcription of this dataset? You might find it helpful to use [forced alignment](https://www.eleanorchodroff.com/tutorial/kaldi/kaldi-forcedalignment.html). ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "music",
+    "linguistics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

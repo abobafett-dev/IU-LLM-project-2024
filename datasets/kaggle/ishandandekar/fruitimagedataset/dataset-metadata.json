@@ -1,0 +1,44 @@
+{
+  "id": "ishandandekar/fruitimagedataset",
+  "id_no": 2425615,
+  "datasetSlugNullable": "fruitimagedataset",
+  "ownerUserNullable": "ishandandekar",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Fruit-Image-Dataset",
+  "subtitleNullable": "A high-quality image dataset of various fruits and vegetables.",
+  "descriptionNullable": "This dataset contains images of **131** various fruits and vegetables. The original version of this dataset is available [here](https://www.kaggle.com/datasets/moltean/fruits). The original version of the dataset was used for the [Fruits-360](https://www.researchgate.net/publication/321475443_Fruit_recognition_from_images_using_deep_learning). Although the original dataset used for hasn't been updated for over 2 years, the dataset on Kaggle has been updated various times providing better images. The dataset should be used for image classification. Do check the Github repository of the source [here](https://github.com/Horea94/Fruit-Images-Dataset).\n\n**Dataset Properties:** (taken from the description in the repository itself)\n- *Total number of images* : 90483\n- *Training set size* : 67692 images (one fruit or vegetable per image)\n- *Test set size* : 22688 images (20% of total data)\n- *Number of classes* : 131 total fruits and vegetables\n- *Filename format* : image\\_index\\_100.jpg (e.g. 32\\_100.jpg) or r\\_image\\_index\\_100.jpg (e.g. r\\_32\\_100.jpg) or r2\\_image_index\\_100.jpg or r3\\_image\\_index\\_100.jpg. \"r\" stands for rotated fruit. \"r2\" means that the fruit was rotated around the 3rd axis. \"100\" comes from image size (100x100 pixels).\n\n**Folder structure**\n- *Train* : This folder has multiple subfolders labelled as the fruit's/vegetable's name and contains the respective images. These images were used to train the models in the research paper.\n- *Test* : This folder has multiple subfolders labelled as the fruit's/vegetable's name and contains the respective images. These images were used to test the models in the research paper.\n\n**All credits to the researchers themselves.**\nI made this dataset for my own ease-of-use.",
+  "datasetId": 2425615,
+  "datasetSlug": "fruitimagedataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ishandandekar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 8626,
+  "totalVotes": 25,
+  "totalDownloads": 833,
+  "title": "Fruit-Image-Dataset",
+  "hasTitle": true,
+  "subtitle": "A high-quality image dataset of various fruits and vegetables.",
+  "hasSubtitle": true,
+  "description": "This dataset contains images of **131** various fruits and vegetables. The original version of this dataset is available [here](https://www.kaggle.com/datasets/moltean/fruits). The original version of the dataset was used for the [Fruits-360](https://www.researchgate.net/publication/321475443_Fruit_recognition_from_images_using_deep_learning). Although the original dataset used for hasn't been updated for over 2 years, the dataset on Kaggle has been updated various times providing better images. The dataset should be used for image classification. Do check the Github repository of the source [here](https://github.com/Horea94/Fruit-Images-Dataset).\n\n**Dataset Properties:** (taken from the description in the repository itself)\n- *Total number of images* : 90483\n- *Training set size* : 67692 images (one fruit or vegetable per image)\n- *Test set size* : 22688 images (20% of total data)\n- *Number of classes* : 131 total fruits and vegetables\n- *Filename format* : image\\_index\\_100.jpg (e.g. 32\\_100.jpg) or r\\_image\\_index\\_100.jpg (e.g. r\\_32\\_100.jpg) or r2\\_image_index\\_100.jpg or r3\\_image\\_index\\_100.jpg. \"r\" stands for rotated fruit. \"r2\" means that the fruit was rotated around the 3rd axis. \"100\" comes from image size (100x100 pixels).\n\n**Folder structure**\n- *Train* : This folder has multiple subfolders labelled as the fruit's/vegetable's name and contains the respective images. These images were used to train the models in the research paper.\n- *Test* : This folder has multiple subfolders labelled as the fruit's/vegetable's name and contains the respective images. These images were used to test the models in the research paper.\n\n**All credits to the researchers themselves.**\nI made this dataset for my own ease-of-use.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "intermediate",
+    "computer vision",
+    "classification",
+    "image",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

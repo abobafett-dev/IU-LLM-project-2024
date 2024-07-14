@@ -1,0 +1,40 @@
+{
+  "id": "jaimevalero/developers-and-programming-languages",
+  "id_no": 5659,
+  "datasetSlugNullable": "developers-and-programming-languages",
+  "ownerUserNullable": "jaimevalero",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Developers and programming languages",
+  "subtitleNullable": "Skills of 17.000 github.com users.",
+  "descriptionNullable": "### Context\nSample of 17.000 github.com developers, and programming language they know - or want to -.\n\n\n### Content\nI acquired the data listing the 1.000 most starred repos dataset, and getting the first 30 users that starred each repo. Cleaning the dupes.\nThen for each of the 17.000 users, I calculate the frequency of each of the 1.400 technologies in the user and forked repositories metadata.\n \n\n### Acknowledgements\nThanks to [Jihye Sofia Seo][1], because their dataset [Top 980 Starred Open Source Projects on GitHub][2] is the source for this dataset.\n\n\n### Inspiration\nI am using this dataset for my [github recommendation engine][3], I use it to find similar developers, to use his stared repositories as recommendation.\nAlso, I use this dataset to categorize developer types, trying to understand the weight of a developer in a team, specially when a developer leaves the company, so It is possible to draw the talent lost for the team and the company.\n\n\n  [1]: https://www.kaggle.com/jihyeseo\n  [2]: https://www.kaggle.com/chasewillden/topstarredopensourceprojects\n  [3]: https://github-recommendation.herokuapp.com/views/index.html?busqueda=jaimevalero",
+  "datasetId": 5659,
+  "datasetSlug": "developers-and-programming-languages",
+  "hasDatasetSlug": true,
+  "ownerUser": "jaimevalero",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 21348,
+  "totalVotes": 45,
+  "totalDownloads": 1890,
+  "title": "Developers and programming languages",
+  "hasTitle": true,
+  "subtitle": "Skills of 17.000 github.com users.",
+  "hasSubtitle": true,
+  "description": "### Context\nSample of 17.000 github.com developers, and programming language they know - or want to -.\n\n\n### Content\nI acquired the data listing the 1.000 most starred repos dataset, and getting the first 30 users that starred each repo. Cleaning the dupes.\nThen for each of the 17.000 users, I calculate the frequency of each of the 1.400 technologies in the user and forked repositories metadata.\n \n\n### Acknowledgements\nThanks to [Jihye Sofia Seo][1], because their dataset [Top 980 Starred Open Source Projects on GitHub][2] is the source for this dataset.\n\n\n### Inspiration\nI am using this dataset for my [github recommendation engine][3], I use it to find similar developers, to use his stared repositories as recommendation.\nAlso, I use this dataset to categorize developer types, trying to understand the weight of a developer in a team, specially when a developer leaves the company, so It is possible to draw the talent lost for the team and the company.\n\n\n  [1]: https://www.kaggle.com/jihyeseo\n  [2]: https://www.kaggle.com/chasewillden/topstarredopensourceprojects\n  [3]: https://github-recommendation.herokuapp.com/views/index.html?busqueda=jaimevalero",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "programming"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

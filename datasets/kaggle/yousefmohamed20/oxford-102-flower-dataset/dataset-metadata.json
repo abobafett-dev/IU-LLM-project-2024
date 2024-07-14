@@ -1,0 +1,43 @@
+{
+  "id": "yousefmohamed20/oxford-102-flower-dataset",
+  "id_no": 4414520,
+  "datasetSlugNullable": "oxford-102-flower-dataset",
+  "ownerUserNullable": "yousefmohamed20",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "OxFord 102 Flower Dataset",
+  "subtitleNullable": "Dataset used for graduation project in Udacity AI Programming with Python ND.",
+  "descriptionNullable": "We have created a 102 category dataset, consisting of 102 flower categories. The flowers chosen to be flower commonly occuring in the United Kingdom. Each class consists of between 40 and 258 images. The details of the categories and the number of images for each class can be found on this category statistics page.",
+  "datasetId": 4414520,
+  "datasetSlug": "oxford-102-flower-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yousefmohamed20",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 1430,
+  "totalVotes": 43,
+  "totalDownloads": 448,
+  "title": "OxFord 102 Flower Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset used for graduation project in Udacity AI Programming with Python ND.",
+  "hasSubtitle": true,
+  "description": "We have created a 102 category dataset, consisting of 102 flower categories. The flowers chosen to be flower commonly occuring in the United Kingdom. Each class consists of between 40 and 258 images. The details of the categories and the number of images for each class can be found on this category statistics page.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "deep learning",
+    "neural networks",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

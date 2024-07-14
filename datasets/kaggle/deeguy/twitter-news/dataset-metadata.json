@@ -1,0 +1,45 @@
+{
+  "id": "deeguy/twitter-news",
+  "id_no": 2409771,
+  "datasetSlugNullable": "twitter-news",
+  "ownerUserNullable": "deeguy",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "twitter-news",
+  "subtitleNullable": "a collection of news as reported on twitter since 01-2020",
+  "descriptionNullable": "A collection of tweets scraped from Twitter since January 2020 using the search parameter \"news\". The resulting json file was then separated into 2 separate `.csv` files. One contains the tweets, whereas the other contains the network analysis inputs.\n\nThe associated network analysis file is a document containing all the nodes and edges derived from the interactions in the tweets as follows:\n\n    Nodes, all distinct tweeters including mentions\n    Edges, defined as when one user mentions another user in a tweet or replies\n    Weight, number of time the edge interaction has taken place\n\nHere is some code to get started- https://github.com/datadoctor100/twitter_analysis",
+  "datasetId": 2409771,
+  "datasetSlug": "twitter-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "deeguy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 7666,
+  "totalVotes": 22,
+  "totalDownloads": 2070,
+  "title": "twitter-news",
+  "hasTitle": true,
+  "subtitle": "a collection of news as reported on twitter since 01-2020",
+  "hasSubtitle": true,
+  "description": "A collection of tweets scraped from Twitter since January 2020 using the search parameter \"news\". The resulting json file was then separated into 2 separate `.csv` files. One contains the tweets, whereas the other contains the network analysis inputs.\n\nThe associated network analysis file is a document containing all the nodes and edges derived from the interactions in the tweets as follows:\n\n    Nodes, all distinct tweeters including mentions\n    Edges, defined as when one user mentions another user in a tweet or replies\n    Weight, number of time the edge interaction has taken place\n\nHere is some code to get started- https://github.com/datadoctor100/twitter_analysis",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "nlp",
+    "text mining",
+    "text",
+    "email and messaging",
+    "social networks",
+    "accelerators"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

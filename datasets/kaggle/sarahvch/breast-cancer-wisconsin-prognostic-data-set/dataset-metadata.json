@@ -1,0 +1,43 @@
+{
+  "id": "sarahvch/breast-cancer-wisconsin-prognostic-data-set",
+  "id_no": 1070,
+  "datasetSlugNullable": "breast-cancer-wisconsin-prognostic-data-set",
+  "ownerUserNullable": "sarahvch",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Breast Cancer Wisconsin (Prognostic) Data Set",
+  "subtitleNullable": "From: UCI Machine Learning Repository",
+  "descriptionNullable": "# Context \n\nData From: UCI Machine Learning Repository\nhttp://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wpbc.names\n\n\n\n# Content\n\n\"Each record represents follow-up data for one breast cancer\n\tcase.  These are consecutive patients seen by Dr. Wolberg\n\tsince 1984, and include only those cases exhibiting invasive\n\tbreast cancer and no evidence of distant metastases at the\n\ttime of diagnosis. \n\n\tThe first 30 features are computed from a digitized image of a\n\tfine needle aspirate (FNA) of a breast mass.  They describe\n\tcharacteristics of the cell nuclei present in the image.\n\tA few of the images can be found at\n\thttp://www.cs.wisc.edu/~street/images/\n\n\tThe separation described above was obtained using\n\tMultisurface Method-Tree (MSM-T) [K. P. Bennett, \"Decision Tree\n\tConstruction Via Linear Programming.\" Proceedings of the 4th\n\tMidwest Artificial Intelligence and Cognitive Science Society,\n\tpp. 97-101, 1992], a classification method which uses linear\n\tprogramming to construct a decision tree.  Relevant features\n\twere selected using an exhaustive search in the space of 1-4\n\tfeatures and 1-3 separating planes.\n\n\tThe actual linear program used to obtain the separating plane\n\tin the 3-dimensional space is that described in:\n\t[K. P. Bennett and O. L. Mangasarian: \"Robust Linear\n\tProgramming Discrimination of Two Linearly Inseparable Sets\",\n\tOptimization Methods and Software 1, 1992, 23-34].\n\n\tThe Recurrence Surface Approximation (RSA) method is a linear\n\tprogramming model which predicts Time To Recur using both\n\trecurrent and nonrecurrent cases.  See references (i) and (ii)\n\tabove for details of the RSA method. \n\n\tThis database is also available through the UW CS ftp server:\n\n\tftp ftp.cs.wisc.edu\n\tcd math-prog/cpo-dataset/machine-learn/WPBC/\n\n\n1) ID number\n2) Outcome (R = recur, N = nonrecur)\n3) Time (recurrence time if field 2 = R, disease-free time if \n\tfield 2\t= N)\n4-33) Ten real-valued features are computed for each cell nucleus:\n\n\ta) radius (mean of distances from center to points on the perimeter)\n\tb) texture (standard deviation of gray-scale values)\n\tc) perimeter\n\td) area\n\te) smoothness (local variation in radius lengths)\n\tf) compactness (perimeter^2 / area - 1.0)\n\tg) concavity (severity of concave portions of the contour)\n\th) concave points (number of concave portions of the contour)\n\ti) symmetry \n\tj) fractal dimension (\"coastline approximation\" - 1)\"\n\n\n# Acknowledgements\n\nCreators: \n\n\tDr. William H. Wolberg, General Surgery Dept., University of\n\tWisconsin,  Clinical Sciences Center, Madison, WI 53792\n\twolberg@eagle.surgery.wisc.edu\n\n\tW. Nick Street, Computer Sciences Dept., University of\n\tWisconsin, 1210 West Dayton St., Madison, WI 53706\n\tstreet@cs.wisc.edu  608-262-6619\n\n\tOlvi L. Mangasarian, Computer Sciences Dept., University of\n\tWisconsin, 1210 West Dayton St., Madison, WI 53706\n\tolvi@cs.wisc.edu \n\n\n\n# Inspiration\n\nI'm really interested in trying out various machine learning algorithms on some real life science data.",
+  "datasetId": 1070,
+  "datasetSlug": "breast-cancer-wisconsin-prognostic-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "sarahvch",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 40852,
+  "totalVotes": 53,
+  "totalDownloads": 4714,
+  "title": "Breast Cancer Wisconsin (Prognostic) Data Set",
+  "hasTitle": true,
+  "subtitle": "From: UCI Machine Learning Repository",
+  "hasSubtitle": true,
+  "description": "# Context \n\nData From: UCI Machine Learning Repository\nhttp://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wpbc.names\n\n\n\n# Content\n\n\"Each record represents follow-up data for one breast cancer\n\tcase.  These are consecutive patients seen by Dr. Wolberg\n\tsince 1984, and include only those cases exhibiting invasive\n\tbreast cancer and no evidence of distant metastases at the\n\ttime of diagnosis. \n\n\tThe first 30 features are computed from a digitized image of a\n\tfine needle aspirate (FNA) of a breast mass.  They describe\n\tcharacteristics of the cell nuclei present in the image.\n\tA few of the images can be found at\n\thttp://www.cs.wisc.edu/~street/images/\n\n\tThe separation described above was obtained using\n\tMultisurface Method-Tree (MSM-T) [K. P. Bennett, \"Decision Tree\n\tConstruction Via Linear Programming.\" Proceedings of the 4th\n\tMidwest Artificial Intelligence and Cognitive Science Society,\n\tpp. 97-101, 1992], a classification method which uses linear\n\tprogramming to construct a decision tree.  Relevant features\n\twere selected using an exhaustive search in the space of 1-4\n\tfeatures and 1-3 separating planes.\n\n\tThe actual linear program used to obtain the separating plane\n\tin the 3-dimensional space is that described in:\n\t[K. P. Bennett and O. L. Mangasarian: \"Robust Linear\n\tProgramming Discrimination of Two Linearly Inseparable Sets\",\n\tOptimization Methods and Software 1, 1992, 23-34].\n\n\tThe Recurrence Surface Approximation (RSA) method is a linear\n\tprogramming model which predicts Time To Recur using both\n\trecurrent and nonrecurrent cases.  See references (i) and (ii)\n\tabove for details of the RSA method. \n\n\tThis database is also available through the UW CS ftp server:\n\n\tftp ftp.cs.wisc.edu\n\tcd math-prog/cpo-dataset/machine-learn/WPBC/\n\n\n1) ID number\n2) Outcome (R = recur, N = nonrecur)\n3) Time (recurrence time if field 2 = R, disease-free time if \n\tfield 2\t= N)\n4-33) Ten real-valued features are computed for each cell nucleus:\n\n\ta) radius (mean of distances from center to points on the perimeter)\n\tb) texture (standard deviation of gray-scale values)\n\tc) perimeter\n\td) area\n\te) smoothness (local variation in radius lengths)\n\tf) compactness (perimeter^2 / area - 1.0)\n\tg) concavity (severity of concave portions of the contour)\n\th) concave points (number of concave portions of the contour)\n\ti) symmetry \n\tj) fractal dimension (\"coastline approximation\" - 1)\"\n\n\n# Acknowledgements\n\nCreators: \n\n\tDr. William H. Wolberg, General Surgery Dept., University of\n\tWisconsin,  Clinical Sciences Center, Madison, WI 53792\n\twolberg@eagle.surgery.wisc.edu\n\n\tW. Nick Street, Computer Sciences Dept., University of\n\tWisconsin, 1210 West Dayton St., Madison, WI 53706\n\tstreet@cs.wisc.edu  608-262-6619\n\n\tOlvi L. Mangasarian, Computer Sciences Dept., University of\n\tWisconsin, 1210 West Dayton St., Madison, WI 53706\n\tolvi@cs.wisc.edu \n\n\n\n# Inspiration\n\nI'm really interested in trying out various machine learning algorithms on some real life science data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "education",
+    "computer science",
+    "software",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

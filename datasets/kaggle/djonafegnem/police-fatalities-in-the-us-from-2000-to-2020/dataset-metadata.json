@@ -1,0 +1,41 @@
+{
+  "id": "djonafegnem/police-fatalities-in-the-us-from-2000-to-2020",
+  "id_no": 749497,
+  "datasetSlugNullable": "police-fatalities-in-the-us-from-2000-to-2020",
+  "ownerUserNullable": "djonafegnem",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Police Fatalities in the US From 2000 To 2020",
+  "subtitleNullable": "Fatal Police Encounters in the US from 2000 to 2020",
+  "descriptionNullable": "### Context\nOn June 08th, 2020, I listened to an interview on National Public Radio (NPR) between Rachel Martin - An NPR's journalist - and D. Brian Burgharton about police brutality in the US.  D. Brian Burghart has been studying police killings since 2012 and is the founder of [Fatal Encounters](https://fatalencounters.org/). Fatal Encounters is the first national database to track how many people are killed by police. It began as a crowdsourced effort to compile public records about incidents where law enforcement officials killed someone. Although, he later changed his approach to compiling news reports that he finds with Google alerts.\n\n### Content\n\nThe dataset is a CSV file and contains 28335 rows and 29 columns.\nThe 29 variables are the following:\n   -  Unique ID\n   -  Subject's name\n   - Subject's age\n   - Subject's gender\n   - Subject's race\n   - Subject's race with imputations\n   - Imputation probability\n   - URL of image of deceased\n   - Date of injury resulting in death (month/day/year)\n   - Location of injury (address)\n   - Location of death (city)\n   - Location of death (state)\n   - Location of death (zip code)\n   - Location of death (county)\n   - Full Address\n   - Latitude\n   - Longitude\n   - Agency responsible for death\n   - Cause of death\n   - A brief description of the circumstances surrounding the death\n   - Dispositions/Exclusions INTERNAL USE, NOT FOR ANALYSIS\n   - Intentional Use of Force (Developing)\n   - Link to news article or photo of official document\n   - Symptoms of mental illness? INTERNAL USE, NOT FOR ANALYSIS\n   - Video\n   - Date&Description\n   - Unique ID formula\n   - Unique identifier (redundant)\n   - Date (Year)\n\n### Acknowledgements\n[Fatal Encounters](https://fatalencounters.org/)\n",
+  "datasetId": 749497,
+  "datasetSlug": "police-fatalities-in-the-us-from-2000-to-2020",
+  "hasDatasetSlug": true,
+  "ownerUser": "djonafegnem",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 4307,
+  "totalVotes": 10,
+  "totalDownloads": 329,
+  "title": "Police Fatalities in the US From 2000 To 2020",
+  "hasTitle": true,
+  "subtitle": "Fatal Police Encounters in the US from 2000 to 2020",
+  "hasSubtitle": true,
+  "description": "### Context\nOn June 08th, 2020, I listened to an interview on National Public Radio (NPR) between Rachel Martin - An NPR's journalist - and D. Brian Burgharton about police brutality in the US.  D. Brian Burghart has been studying police killings since 2012 and is the founder of [Fatal Encounters](https://fatalencounters.org/). Fatal Encounters is the first national database to track how many people are killed by police. It began as a crowdsourced effort to compile public records about incidents where law enforcement officials killed someone. Although, he later changed his approach to compiling news reports that he finds with Google alerts.\n\n### Content\n\nThe dataset is a CSV file and contains 28335 rows and 29 columns.\nThe 29 variables are the following:\n   -  Unique ID\n   -  Subject's name\n   - Subject's age\n   - Subject's gender\n   - Subject's race\n   - Subject's race with imputations\n   - Imputation probability\n   - URL of image of deceased\n   - Date of injury resulting in death (month/day/year)\n   - Location of injury (address)\n   - Location of death (city)\n   - Location of death (state)\n   - Location of death (zip code)\n   - Location of death (county)\n   - Full Address\n   - Latitude\n   - Longitude\n   - Agency responsible for death\n   - Cause of death\n   - A brief description of the circumstances surrounding the death\n   - Dispositions/Exclusions INTERNAL USE, NOT FOR ANALYSIS\n   - Intentional Use of Force (Developing)\n   - Link to news article or photo of official document\n   - Symptoms of mental illness? INTERNAL USE, NOT FOR ANALYSIS\n   - Video\n   - Date&Description\n   - Unique ID formula\n   - Unique identifier (redundant)\n   - Date (Year)\n\n### Acknowledgements\n[Fatal Encounters](https://fatalencounters.org/)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "crime",
+    "public safety"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

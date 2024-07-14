@@ -1,0 +1,42 @@
+{
+  "id": "skyil7/asian-typhoon-dataset-1951-2022-rsmc-best-track",
+  "id_no": 2986136,
+  "datasetSlugNullable": "asian-typhoon-dataset-1951-2022-rsmc-best-track",
+  "ownerUserNullable": "skyil7",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Asian Typhoon Dataset, 1951-2022 (RSMC Best Track)",
+  "subtitleNullable": "East-Asian Typhoon Dataset from JMA, a.k.a. RSMC Best Track Data",
+  "descriptionNullable": "# RSMC Best Track Dataset\nThis dataset contains the weather informations related to typhoons. A tropical cyclone that develops in the Northern Hemisphere[1].\n\nThe original data was provided by Japan Meteorological Agency(JMA) in `txt` format. So I converted it into `csv` fortmat which is much more friendly and useful in modern data analysis.\n\nFeel free to notice me about any inconvinience or wrong parts of dataset via email on my profile.\n\n## Citation\n[1]. [Typhoon](https://en.wikipedia.org/wiki/Typhoon). Wikipedia\n\n## Credits\n- This dataset provided by [Japan Meteorological Agency(JMA)](https://www.jma.go.jp/jma/jma-eng/jma-center/rsmc-hp-pub-eg/besttrack.html).\n- Thumbnail Image from [Korea Meteorological Administration(KMA)](https://www.weather.go.kr/weather/images/popup_case_02.jsp?sdate=2017102103&edate=2017102303).\n\n## License\n- You can use this data under the terms of use described in [JMA website](https://www.jma.go.jp/jma/en/copyright.html).",
+  "datasetId": 2986136,
+  "datasetSlug": "asian-typhoon-dataset-1951-2022-rsmc-best-track",
+  "hasDatasetSlug": true,
+  "ownerUser": "skyil7",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5714,
+  "totalVotes": 29,
+  "totalDownloads": 839,
+  "title": "Asian Typhoon Dataset, 1951-2022 (RSMC Best Track)",
+  "hasTitle": true,
+  "subtitle": "East-Asian Typhoon Dataset from JMA, a.k.a. RSMC Best Track Data",
+  "hasSubtitle": true,
+  "description": "# RSMC Best Track Dataset\nThis dataset contains the weather informations related to typhoons. A tropical cyclone that develops in the Northern Hemisphere[1].\n\nThe original data was provided by Japan Meteorological Agency(JMA) in `txt` format. So I converted it into `csv` fortmat which is much more friendly and useful in modern data analysis.\n\nFeel free to notice me about any inconvinience or wrong parts of dataset via email on my profile.\n\n## Citation\n[1]. [Typhoon](https://en.wikipedia.org/wiki/Typhoon). Wikipedia\n\n## Credits\n- This dataset provided by [Japan Meteorological Agency(JMA)](https://www.jma.go.jp/jma/jma-eng/jma-center/rsmc-hp-pub-eg/besttrack.html).\n- Thumbnail Image from [Korea Meteorological Administration(KMA)](https://www.weather.go.kr/weather/images/popup_case_02.jsp?sdate=2017102103&edate=2017102303).\n\n## License\n- You can use this data under the terms of use described in [JMA website](https://www.jma.go.jp/jma/en/copyright.html).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "asia",
+    "atmospheric science",
+    "weather and climate",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

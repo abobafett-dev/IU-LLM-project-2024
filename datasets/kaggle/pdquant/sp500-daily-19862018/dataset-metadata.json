@@ -1,0 +1,43 @@
+{
+  "id": "pdquant/sp500-daily-19862018",
+  "id_no": 55485,
+  "datasetSlugNullable": "sp500-daily-19862018",
+  "ownerUserNullable": "pdquant",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "S&P500 Daily Prices 1986 - 2018",
+  "subtitleNullable": "Daily closing prices for S&P 500 index from 1986---&gt;2018",
+  "descriptionNullable": "### Context\nIt is surprisingly hard to find **Daily price data for S&P500** index that goes back more than a few years. Most public data only goes back to the 2000's , or if it's longer term, is weekly frequency instead of daily. So I have compiled this dataset containing **Daily Closing Prices** for the **SPY** going from **1986 to 2018**. \n\n\n### Content\nThe dataset is simple - a CSV format with one column with a daily **timestamp** and the second with the raw, un-adjusted **closing prices** for each day.\n\n\n### Inspiration\n\nWith this longer term, more granular time series dataset, researchers now have a good sized publicly available financial dataset to explore time series trends or use as part of a quantitative finance project.",
+  "datasetId": 55485,
+  "datasetSlug": "sp500-daily-19862018",
+  "hasDatasetSlug": true,
+  "ownerUser": "pdquant",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 43145,
+  "totalVotes": 61,
+  "totalDownloads": 4500,
+  "title": "S&P500 Daily Prices 1986 - 2018",
+  "hasTitle": true,
+  "subtitle": "Daily closing prices for S&P 500 index from 1986---&gt;2018",
+  "hasSubtitle": true,
+  "description": "### Context\nIt is surprisingly hard to find **Daily price data for S&P500** index that goes back more than a few years. Most public data only goes back to the 2000's , or if it's longer term, is weekly frequency instead of daily. So I have compiled this dataset containing **Daily Closing Prices** for the **SPY** going from **1986 to 2018**. \n\n\n### Content\nThe dataset is simple - a CSV format with one column with a daily **timestamp** and the second with the raw, un-adjusted **closing prices** for each day.\n\n\n### Inspiration\n\nWith this longer term, more granular time series dataset, researchers now have a good sized publicly available financial dataset to explore time series trends or use as part of a quantitative finance project.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "economics",
+    "investing",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

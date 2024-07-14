@@ -1,0 +1,39 @@
+{
+  "id": "aqleemkhan/heart-disease-2020",
+  "id_no": 3866785,
+  "datasetSlugNullable": "heart-disease-2020",
+  "ownerUserNullable": "aqleemkhan",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "heart_disease_2020",
+  "subtitleNullable": "",
+  "descriptionNullable": "Explanation of the variables of the dataset\nHeartDisease : Respondents that have ever reported having coronary heart disease (CHD) or myocardial infarction (MI).\nBMI : Body Mass Index (BMI).\nSmoking : Have you smoked at least 100 cigarettes in your entire life? ( The answer Yes or No ).\nAlcoholDrinking : Heavy drinkers (adult men having more than 14 drinks per week and adult women having more than 7 drinks per week\nStroke : (Ever told) (you had) a stroke?\nPhysicalHealth : Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical health not good? (0-30 days).\nMentalHealth : Thinking about your mental health, for how many days during the past 30 days was your mental health not good? (0-30 days).\nDiffWalking : Do you have serious difficulty walking or climbing stairs?\nSex : Are you male or female?\nAgeCategory: Fourteen-level age category.\nRace : Imputed race/ethnicity value.\nDiabetic : (Ever told) (you had) diabetes?\nPhysicalActivity : Adults who reported doing physical activity or exercise during the past 30 days other than their regular job.\nGenHealth : Would you say that in general your health is...\nSleepTime : On average, how many hours of sleep do you get in a 24-hour period?\nAsthma : (Ever told) (you had) asthma?\nKidneyDisease : Not including kidney stones, bladder infection or incontinence, were you ever told you had kidney disease?\nSkinCancer : (Ever told) (you had) skin cancer?",
+  "datasetId": 3866785,
+  "datasetSlug": "heart-disease-2020",
+  "hasDatasetSlug": true,
+  "ownerUser": "aqleemkhan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 510,
+  "totalVotes": 2,
+  "totalDownloads": 101,
+  "title": "heart_disease_2020",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Explanation of the variables of the dataset\nHeartDisease : Respondents that have ever reported having coronary heart disease (CHD) or myocardial infarction (MI).\nBMI : Body Mass Index (BMI).\nSmoking : Have you smoked at least 100 cigarettes in your entire life? ( The answer Yes or No ).\nAlcoholDrinking : Heavy drinkers (adult men having more than 14 drinks per week and adult women having more than 7 drinks per week\nStroke : (Ever told) (you had) a stroke?\nPhysicalHealth : Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical health not good? (0-30 days).\nMentalHealth : Thinking about your mental health, for how many days during the past 30 days was your mental health not good? (0-30 days).\nDiffWalking : Do you have serious difficulty walking or climbing stairs?\nSex : Are you male or female?\nAgeCategory: Fourteen-level age category.\nRace : Imputed race/ethnicity value.\nDiabetic : (Ever told) (you had) diabetes?\nPhysicalActivity : Adults who reported doing physical activity or exercise during the past 30 days other than their regular job.\nGenHealth : Would you say that in general your health is...\nSleepTime : On average, how many hours of sleep do you get in a 24-hour period?\nAsthma : (Ever told) (you had) asthma?\nKidneyDisease : Not including kidney stones, bladder infection or incontinence, were you ever told you had kidney disease?\nSkinCancer : (Ever told) (you had) skin cancer?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

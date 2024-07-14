@@ -1,0 +1,42 @@
+{
+  "id": "shashwatwork/identifying-disease-in-tea-leafs",
+  "id_no": 2201659,
+  "datasetSlugNullable": "identifying-disease-in-tea-leafs",
+  "ownerUserNullable": "shashwatwork",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Identifying Disease in Tea leaves",
+  "subtitleNullable": "Identify Dieasese in Tea leaves using Deep learning",
+  "descriptionNullable": "This tea sickness dataset contains tea leaves showing 7 common diseases of tea: \n\n- Red leaf spot\n- Algal leaf spot\n- Bird\u2019s eyespot;\n- Gray blight;\n- White spot;\n- Anthracnose;\n- Brown blight. \n\nThe dataset further contains a class of healthy tea leaves.  Each of the classes contains more than 100 images. The dataset was collected in Johnstone Boiyon farm, Koiwa location, Bomet county from a clone of 1510. It can be used with transfer learning for Machine learning models for predicting sickness in tea.\n\n**Dataset is open-sourced from [here.](https://data.mendeley.com/datasets/j32xdt2ff5/2)**",
+  "datasetId": 2201659,
+  "datasetSlug": "identifying-disease-in-tea-leafs",
+  "hasDatasetSlug": true,
+  "ownerUser": "shashwatwork",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 29698,
+  "totalVotes": 51,
+  "totalDownloads": 4105,
+  "title": "Identifying Disease in Tea leaves",
+  "hasTitle": true,
+  "subtitle": "Identify Dieasese in Tea leaves using Deep learning",
+  "hasSubtitle": true,
+  "description": "This tea sickness dataset contains tea leaves showing 7 common diseases of tea: \n\n- Red leaf spot\n- Algal leaf spot\n- Bird\u2019s eyespot;\n- Gray blight;\n- White spot;\n- Anthracnose;\n- Brown blight. \n\nThe dataset further contains a class of healthy tea leaves.  Each of the classes contains more than 100 images. The dataset was collected in Johnstone Boiyon farm, Koiwa location, Bomet county from a clone of 1510. It can be used with transfer learning for Machine learning models for predicting sickness in tea.\n\n**Dataset is open-sourced from [here.](https://data.mendeley.com/datasets/j32xdt2ff5/2)**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "deep learning",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

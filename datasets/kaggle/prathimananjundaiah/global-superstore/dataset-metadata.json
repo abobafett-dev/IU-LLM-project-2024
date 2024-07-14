@@ -1,0 +1,42 @@
+{
+  "id": "prathimananjundaiah/global-superstore",
+  "id_no": 911502,
+  "datasetSlugNullable": "global-superstore",
+  "ownerUserNullable": "prathimananjundaiah",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Global_superstore",
+  "subtitleNullable": "Global_superstore_super_store",
+  "descriptionNullable": " **Context**\nGlobal Mart is an online supergiant store that has worldwide operations. This store takes orders and delivers across the globe and deals with all the major product categories \u2014 consumer, corporate & home office.\nAs a sales manager for this store, you have to forecast the sales of the products for the next 6 months, so that you have a proper estimate and can plan your inventory and business processes accordingly.\n\n\n** Content\n**\nThe store dataset has the following 5 attributes and their data description is as given below:\nAttributes\tDescription\nOrder-Date\tThe date on which the order was placed\nSegment\t        The segment to which the product belongs\nMarket\t         The market to which the customer belongs\nSales\t         Total sales value of the transaction\nProfit\t          Profit made on the transaction\n If you check the entries in the dataset, you will see that the store caters to 7 different geographical market segments and 3 major customer segments, i.e. consumer, corporate and home as can be seen in the table below.\n\n Market\t                        Segment\nAfrica\t                        Consumer\nAPAC (Asia Pacific)\tCorporate\nCanada\t                         Home Office\nEMEA(Middle East)\t \nEU (European Union)\t \nLATAM (Latin America)\t \nUS (United States)\t \n\n\n**Acknowledgements**\nUpgrad case study\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?\n\n",
+  "datasetId": 911502,
+  "datasetSlug": "global-superstore",
+  "hasDatasetSlug": true,
+  "ownerUser": "prathimananjundaiah",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 7427,
+  "totalVotes": 8,
+  "totalDownloads": 902,
+  "title": "Global_superstore",
+  "hasTitle": true,
+  "subtitle": "Global_superstore_super_store",
+  "hasSubtitle": true,
+  "description": " **Context**\nGlobal Mart is an online supergiant store that has worldwide operations. This store takes orders and delivers across the globe and deals with all the major product categories \u2014 consumer, corporate & home office.\nAs a sales manager for this store, you have to forecast the sales of the products for the next 6 months, so that you have a proper estimate and can plan your inventory and business processes accordingly.\n\n\n** Content\n**\nThe store dataset has the following 5 attributes and their data description is as given below:\nAttributes\tDescription\nOrder-Date\tThe date on which the order was placed\nSegment\t        The segment to which the product belongs\nMarket\t         The market to which the customer belongs\nSales\t         Total sales value of the transaction\nProfit\t          Profit made on the transaction\n If you check the entries in the dataset, you will see that the store caters to 7 different geographical market segments and 3 major customer segments, i.e. consumer, corporate and home as can be seen in the table below.\n\n Market\t                        Segment\nAfrica\t                        Consumer\nAPAC (Asia Pacific)\tCorporate\nCanada\t                         Home Office\nEMEA(Middle East)\t \nEU (European Union)\t \nLATAM (Latin America)\t \nUS (United States)\t \n\n\n**Acknowledgements**\nUpgrad case study\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "time series analysis",
+    "retail and shopping",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

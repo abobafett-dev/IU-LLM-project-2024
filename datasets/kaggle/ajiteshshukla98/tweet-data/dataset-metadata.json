@@ -1,0 +1,44 @@
+{
+  "id": "ajiteshshukla98/tweet-data",
+  "id_no": 809521,
+  "datasetSlugNullable": "tweet-data",
+  "ownerUserNullable": "ajiteshshukla98",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "COVID-19 tweets India",
+  "subtitleNullable": "Contains day-wise aggregated tweets from the onset of outbreak",
+  "descriptionNullable": "### Context\n\nCovid-19 pandemic is currently the most widely researched topic in Data Science and this research helps various authorities in tackling the situation, both with a medical and economic perspective. I aim to add value to this ongoing research through this social network dataset.\n\n### Content\n\nData is extracted from twitter accounts of relevant most followed accounts in India using Twitter API. The accounts include, but are not limited to news sources, medical organizations, politicians and relevant ministers. It represents data till 30th July, 2020 and the lower limit is 1st March, 2020 or 3200 tweets by user, whichever comes first. All tweets of a user for a particular day are aggregated.\n\n### Inspiration\n\nA lot of datasets and notebooks have taken a dig into the covid-19 situation in India, in both medical and economic domain, but this dataset will provide wide information in terms of news items, announcements, ongoing panic in country, etc. and how it affects the number of cases or any other economic indicators. ",
+  "datasetId": 809521,
+  "datasetSlug": "tweet-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "ajiteshshukla98",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 3166,
+  "totalVotes": 8,
+  "totalDownloads": 186,
+  "title": "COVID-19 tweets India",
+  "hasTitle": true,
+  "subtitle": "Contains day-wise aggregated tweets from the onset of outbreak",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCovid-19 pandemic is currently the most widely researched topic in Data Science and this research helps various authorities in tackling the situation, both with a medical and economic perspective. I aim to add value to this ongoing research through this social network dataset.\n\n### Content\n\nData is extracted from twitter accounts of relevant most followed accounts in India using Twitter API. The accounts include, but are not limited to news sources, medical organizations, politicians and relevant ministers. It represents data till 30th July, 2020 and the lower limit is 1st March, 2020 or 3200 tweets by user, whichever comes first. All tweets of a user for a particular day are aggregated.\n\n### Inspiration\n\nA lot of datasets and notebooks have taken a dig into the covid-19 situation in India, in both medical and economic domain, but this dataset will provide wide information in terms of news items, announcements, ongoing panic in country, etc. and how it affects the number of cases or any other economic indicators. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "nlp",
+    "time series analysis",
+    "text",
+    "email and messaging",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

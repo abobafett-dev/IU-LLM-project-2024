@@ -1,0 +1,42 @@
+{
+  "id": "phiitm/movie-posters",
+  "id_no": 471621,
+  "datasetSlugNullable": "movie-posters",
+  "ownerUserNullable": "phiitm",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Movie Posters",
+  "subtitleNullable": "Poster Image Dataset of Hollywood Movies",
+  "descriptionNullable": "## Context\nThe Posters are neatly named in the following convention - IMDB Score _ IMDB ID\n\n## What Can You Do With This?\nCreated the dataset to do an image regression task",
+  "datasetId": 471621,
+  "datasetSlug": "movie-posters",
+  "hasDatasetSlug": true,
+  "ownerUser": "phiitm",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 17087,
+  "totalVotes": 23,
+  "totalDownloads": 1093,
+  "title": "Movie Posters",
+  "hasTitle": true,
+  "subtitle": "Poster Image Dataset of Hollywood Movies",
+  "hasSubtitle": true,
+  "description": "## Context\nThe Posters are neatly named in the following convention - IMDB Score _ IMDB ID\n\n## What Can You Do With This?\nCreated the dataset to do an image regression task",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "computer vision",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

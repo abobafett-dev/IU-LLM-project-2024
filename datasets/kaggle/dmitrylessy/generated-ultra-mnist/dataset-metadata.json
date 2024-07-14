@@ -1,0 +1,41 @@
+{
+  "id": "dmitrylessy/generated-ultra-mnist",
+  "id_no": 2020224,
+  "datasetSlugNullable": "generated-ultra-mnist",
+  "ownerUserNullable": "dmitrylessy",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Generated UltraMNIST Convolved (for YOLO)",
+  "subtitleNullable": "Dataset that will help you to train your YOLO model for UltraMNIST problem.",
+  "descriptionNullable": "This dataset contains 32k images 1024x1024 that I used in my YOLO model for **UltraMNIST** competition.\nThis images was generated on base original MNIST dataset. \nAlso this dataset contains labels for these images (NumPy array labels.npy) for 32x32 grid. But you can easily change grid size to 16, 8 or 4 (look at the example of using in notebook)",
+  "datasetId": 2020224,
+  "datasetSlug": "generated-ultra-mnist",
+  "hasDatasetSlug": true,
+  "ownerUser": "dmitrylessy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 518,
+  "totalVotes": 6,
+  "totalDownloads": 21,
+  "title": "Generated UltraMNIST Convolved (for YOLO)",
+  "hasTitle": true,
+  "subtitle": "Dataset that will help you to train your YOLO model for UltraMNIST problem.",
+  "hasSubtitle": true,
+  "description": "This dataset contains 32k images 1024x1024 that I used in my YOLO model for **UltraMNIST** competition.\nThis images was generated on base original MNIST dataset. \nAlso this dataset contains labels for these images (NumPy array labels.npy) for 32x32 grid. But you can easily change grid size to 16, 8 or 4 (look at the example of using in notebook)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "image",
+    "numpy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

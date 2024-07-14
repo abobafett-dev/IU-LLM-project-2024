@@ -1,0 +1,43 @@
+{
+  "id": "dheemanthbhat/bbc-full-text-preprocessed",
+  "id_no": 2898713,
+  "datasetSlugNullable": "bbc-full-text-preprocessed",
+  "ownerUserNullable": "dheemanthbhat",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "BBC Full Text Preprocessed",
+  "subtitleNullable": "Parsed and Language processed text files into a csv",
+  "descriptionNullable": "### Original Dataset\n\n[Original dataset][1] consists of 2225 documents (as text files) from the BBC news website corresponding to stories in five topical areas from 2004-2005. Files are segregated into 5 folders: \n\n1. business\n2. entertainment\n3. politics\n4. sport\n5. tech\n\n### This Dataset\n\nAs part of Data Wrangling, original dataset is pre-processed in three stages:\n\n1. **Stage 1:** Extract Metadata from files that are segregated in 5 folders into a single csv.\n2. **Stage 2:** Clean and compress text content (remove extra spaces and newlines) in files into a single csv.\n3. **Stage 3:** Process English language (stop-word removal, lemmatization and NER) using [spaCy][2].\n\n&gt; **Note:** Every next stage persists and improves data from previous stage into a new csv file.\n\n[1]: https://www.kaggle.com/datasets/shivamkushwaha/bbc-full-text-document-classification\n[2]: https://spacy.io/api/",
+  "datasetId": 2898713,
+  "datasetSlug": "bbc-full-text-preprocessed",
+  "hasDatasetSlug": true,
+  "ownerUser": "dheemanthbhat",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1931,
+  "totalVotes": 9,
+  "totalDownloads": 246,
+  "title": "BBC Full Text Preprocessed",
+  "hasTitle": true,
+  "subtitle": "Parsed and Language processed text files into a csv",
+  "hasSubtitle": true,
+  "description": "### Original Dataset\n\n[Original dataset][1] consists of 2225 documents (as text files) from the BBC news website corresponding to stories in five topical areas from 2004-2005. Files are segregated into 5 folders: \n\n1. business\n2. entertainment\n3. politics\n4. sport\n5. tech\n\n### This Dataset\n\nAs part of Data Wrangling, original dataset is pre-processed in three stages:\n\n1. **Stage 1:** Extract Metadata from files that are segregated in 5 folders into a single csv.\n2. **Stage 2:** Clean and compress text content (remove extra spaces and newlines) in files into a single csv.\n3. **Stage 3:** Process English language (stop-word removal, lemmatization and NER) using [spaCy][2].\n\n&gt; **Note:** Every next stage persists and improves data from previous stage into a new csv file.\n\n[1]: https://www.kaggle.com/datasets/shivamkushwaha/bbc-full-text-document-classification\n[2]: https://spacy.io/api/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "beginner",
+    "nlp",
+    "tabular",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

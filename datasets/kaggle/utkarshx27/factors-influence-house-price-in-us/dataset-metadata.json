@@ -1,0 +1,43 @@
+{
+  "id": "utkarshx27/factors-influence-house-price-in-us",
+  "id_no": 3285368,
+  "datasetSlugNullable": "factors-influence-house-price-in-us",
+  "ownerUserNullable": "utkarshx27",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "US Housing Market Analysis: Supply-Demand Dynamics",
+  "subtitleNullable": "Factors Influence House Price in US",
+  "descriptionNullable": "```\nThese dataset contains supply-demand factors that influence US home prices from past 20 years. This data are categorized into two datasets: Supply and Demand. \n```\n\n## Supply File\n|   Column    | Description                                                                                                               |\n|-------------|---------------------------------------------------------------------------------------------------------------------------|\n|    DATE     | Date                                                                                                                      |\n|   PERMIT    | New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units (Thousands of Units, Seasonally Adjusted Annual Rate) |\n|   MSACSR    | Monthly Supply of New Houses in the United States (Seasonally Adjusted)                                                   |\n|  TLRESCONS  | Total Construction Spending: Residential in the United States (Millions of Dollars, Seasonally Adjusted Annual Rate)       |\n| EVACANTUSQ176N | Housing Inventory Estimate: Vacant Housing Units in the United States (Thousands of Units, Not Seasonally Adjusted) |\n| CSUSHPISA   | S&P/Case-Shiller U.S. National Home Price Index (Index Jan 2000=100, Seasonally Adjusted)                                 |\n\n\n## Demand File\n|   Column    | Description                                                                                                               |\n|-------------|---------------------------------------------------------------------------------------------------------------------------|\n|    DATE     | Date                                                                                                                      |\n| INTDSRUSM193N | Interest Rates, Discount Rate for United States (Billions of Dollars, Seasonally Adjusted Annual Rate)                     |\n|  UMCSENT    | University of Michigan: Consumer Sentiment                                                                                |\n|     GDP     | Gross Domestic Product (Billions of Dollars, Seasonally Adjusted Annual Rate)                                             |\n| MORTGAGE15US | 30-Year Fixed Rate Mortgage Average in the United States (Percent, Not Seasonally Adjusted)                               |\n| CSUSHPISA   | S&P/Case-Shiller U.S. National Home Price Index (Index Jan 2000=100, Seasonally Adjusted)                                 |\n|    MSPUS    | Median Sales Price of Houses Sold for the United States (Not Seasonally Adjusted)                                      |\n",
+  "datasetId": 3285368,
+  "datasetSlug": "factors-influence-house-price-in-us",
+  "hasDatasetSlug": true,
+  "ownerUser": "utkarshx27",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9232,
+  "totalVotes": 34,
+  "totalDownloads": 1352,
+  "title": "US Housing Market Analysis: Supply-Demand Dynamics",
+  "hasTitle": true,
+  "subtitle": "Factors Influence House Price in US",
+  "hasSubtitle": true,
+  "description": "```\nThese dataset contains supply-demand factors that influence US home prices from past 20 years. This data are categorized into two datasets: Supply and Demand. \n```\n\n## Supply File\n|   Column    | Description                                                                                                               |\n|-------------|---------------------------------------------------------------------------------------------------------------------------|\n|    DATE     | Date                                                                                                                      |\n|   PERMIT    | New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units (Thousands of Units, Seasonally Adjusted Annual Rate) |\n|   MSACSR    | Monthly Supply of New Houses in the United States (Seasonally Adjusted)                                                   |\n|  TLRESCONS  | Total Construction Spending: Residential in the United States (Millions of Dollars, Seasonally Adjusted Annual Rate)       |\n| EVACANTUSQ176N | Housing Inventory Estimate: Vacant Housing Units in the United States (Thousands of Units, Not Seasonally Adjusted) |\n| CSUSHPISA   | S&P/Case-Shiller U.S. National Home Price Index (Index Jan 2000=100, Seasonally Adjusted)                                 |\n\n\n## Demand File\n|   Column    | Description                                                                                                               |\n|-------------|---------------------------------------------------------------------------------------------------------------------------|\n|    DATE     | Date                                                                                                                      |\n| INTDSRUSM193N | Interest Rates, Discount Rate for United States (Billions of Dollars, Seasonally Adjusted Annual Rate)                     |\n|  UMCSENT    | University of Michigan: Consumer Sentiment                                                                                |\n|     GDP     | Gross Domestic Product (Billions of Dollars, Seasonally Adjusted Annual Rate)                                             |\n| MORTGAGE15US | 30-Year Fixed Rate Mortgage Average in the United States (Percent, Not Seasonally Adjusted)                               |\n| CSUSHPISA   | S&P/Case-Shiller U.S. National Home Price Index (Index Jan 2000=100, Seasonally Adjusted)                                 |\n|    MSPUS    | Median Sales Price of Houses Sold for the United States (Not Seasonally Adjusted)                                      |\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "housing",
+    "business",
+    "real estate",
+    "economics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "samurais/emotional-first-aid-dataset",
+  "id_no": 616993,
+  "datasetSlugNullable": "emotional-first-aid-dataset",
+  "ownerUserNullable": "samurais",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Emotional First Aid Dataset for Chinese",
+  "subtitleNullable": "\u2764\ufe0fEmotional First Aid Dataset, \u5fc3\u7406\u54a8\u8be2\u95ee\u7b54\u8bed\u6599\u5e93",
+  "descriptionNullable": "### Context\n\nOpen Data for Chinese psychological counseling is rare. We build this corpus to accelerate the adaption of AI Technologies in psychological area, especially for Chinese, there are a huge number of people who need help, not just because we team are mostly Chinese.\n\n### Content\n\nWe use spiders to crawl several big web sites that provide online chat rooms or BBS for people who has potential mental disease, they submit questions, others like  psychological counselors provide opinions, comforts. Some experts encourage the consultant to establish confidience or share knowledges. In return, the consultant would talk more and feel better. First, we collect the chats. Secondly, we label the data with multi-labels, for both title and chats in the post or chat room.\n\nThe data is sanitized and no personal information is associated. \n\nTo get detail of the data structure and records size, check out https://github.com/chatopera/efaqa-corpus-zh .\n\n\n### Acknowledgements\n\nAs psychology is hard, we work very hard to make this corpus accurate for every label we annotate, but we maybe wrong. So, just use this corpus for Research, but not for business. We also publish it with GPL 3.0 License.\n\n\n### Inspiration\n\nWe have a large number of data that haven't been labeled, please contact us if you have interests. Read our CALL FOR VOLUNTEERS!\n\nhttps://zhuanlan.zhihu.com/p/116508541 ",
+  "datasetId": 616993,
+  "datasetSlug": "emotional-first-aid-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "samurais",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9461,
+  "totalVotes": 15,
+  "totalDownloads": 481,
+  "title": "Emotional First Aid Dataset for Chinese",
+  "hasTitle": true,
+  "subtitle": "\u2764\ufe0fEmotional First Aid Dataset, \u5fc3\u7406\u54a8\u8be2\u95ee\u7b54\u8bed\u6599\u5e93",
+  "hasSubtitle": true,
+  "description": "### Context\n\nOpen Data for Chinese psychological counseling is rare. We build this corpus to accelerate the adaption of AI Technologies in psychological area, especially for Chinese, there are a huge number of people who need help, not just because we team are mostly Chinese.\n\n### Content\n\nWe use spiders to crawl several big web sites that provide online chat rooms or BBS for people who has potential mental disease, they submit questions, others like  psychological counselors provide opinions, comforts. Some experts encourage the consultant to establish confidience or share knowledges. In return, the consultant would talk more and feel better. First, we collect the chats. Secondly, we label the data with multi-labels, for both title and chats in the post or chat room.\n\nThe data is sanitized and no personal information is associated. \n\nTo get detail of the data structure and records size, check out https://github.com/chatopera/efaqa-corpus-zh .\n\n\n### Acknowledgements\n\nAs psychology is hard, we work very hard to make this corpus accurate for every label we annotate, but we maybe wrong. So, just use this corpus for Research, but not for business. We also publish it with GPL 3.0 License.\n\n\n### Inspiration\n\nWe have a large number of data that haven't been labeled, please contact us if you have interests. Read our CALL FOR VOLUNTEERS!\n\nhttps://zhuanlan.zhihu.com/p/116508541 ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "psychology"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rabieelkharoua/retail-revelations-decoding-online-sales-trends",
+  "id_no": 4967676,
+  "datasetSlugNullable": "retail-revelations-decoding-online-sales-trends",
+  "ownerUserNullable": "rabieelkharoua",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Retail Revelations: Decoding Online Sales Trends",
+  "subtitleNullable": "Unlocking Patterns, Predictions, and Profits in E-commerce Data",
+  "descriptionNullable": "\ud83d\udcbc If you find it handy, a little upvote would be super! \ud83c\udf1f \n\nThe Online Retail II dataset encapsulates transactional data spanning two years from a UK-based non-store online retailer specializing in unique all-occasion gift-ware, with a significant customer base including wholesalers. It comprises multivariate, sequential, time-series, and textual features, including invoice numbers, product codes, descriptions, quantities, prices, customer IDs, and countries. This dataset is valuable for data scientists due to its richness and complexity, offering opportunities for a wide array of analytical tasks such as classification, regression, and clustering. By analyzing this data, data scientists can uncover patterns in customer behavior, identify trends in product sales, optimize pricing strategies, predict future sales, segment customers for targeted marketing, detect anomalies or fraudulent activities, and ultimately enhance business decision-making processes. Moreover, the sequential nature of the data allows for the exploration of temporal dependencies and the development of predictive models that capture the dynamics of retail transactions over time. Overall, this dataset serves as a valuable resource for studying online retail operations and informing data-driven strategies to improve business performance and customer satisfaction.\n\n\n**Dataset Name:** Online Retail II\n\n**Dataset Characteristics:** \n- Multivariate\n- Sequential\n- Time-Series\n- Text\n\n**Subject Area:** Business\n\n**Associated Tasks:**\n- Classification\n- Regression\n- Clustering\n\n**Feature Types:** \n- Integer\n- Real\n\n**Number of Instances:** 1,067,371\n\n**Features:**\n- InvoiceNo: Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. If starts with 'c', it indicates a cancellation.\n- StockCode: Product (item) code. Nominal. A 5-digit integral number uniquely assigned to each distinct product.\n- Description: Product (item) name. Nominal.\n- Quantity: The quantities of each product (item) per transaction. Numeric.\n- InvoiceDate: Invoice date and time. Numeric. The day and time when a transaction was generated.\n- UnitPrice: Unit price. Numeric. Product price per unit in sterling (\u00a3).\n- CustomerID: Customer number. Nominal. A 5-digit integral number uniquely assigned to each customer.\n- Country: Country name. Nominal. The name of the country where a customer resides.\n\n**Additional Information:**\n- The dataset contains all transactions for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011.\n- The company mainly sells unique all-occasion gift-ware.\n- Many customers of the company are wholesalers.\n\n**Missing Values:** Yes\n\n",
+  "datasetId": 4967676,
+  "datasetSlug": "retail-revelations-decoding-online-sales-trends",
+  "hasDatasetSlug": true,
+  "ownerUser": "rabieelkharoua",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1109,
+  "totalVotes": 14,
+  "totalDownloads": 136,
+  "title": "Retail Revelations: Decoding Online Sales Trends",
+  "hasTitle": true,
+  "subtitle": "Unlocking Patterns, Predictions, and Profits in E-commerce Data",
+  "hasSubtitle": true,
+  "description": "\ud83d\udcbc If you find it handy, a little upvote would be super! \ud83c\udf1f \n\nThe Online Retail II dataset encapsulates transactional data spanning two years from a UK-based non-store online retailer specializing in unique all-occasion gift-ware, with a significant customer base including wholesalers. It comprises multivariate, sequential, time-series, and textual features, including invoice numbers, product codes, descriptions, quantities, prices, customer IDs, and countries. This dataset is valuable for data scientists due to its richness and complexity, offering opportunities for a wide array of analytical tasks such as classification, regression, and clustering. By analyzing this data, data scientists can uncover patterns in customer behavior, identify trends in product sales, optimize pricing strategies, predict future sales, segment customers for targeted marketing, detect anomalies or fraudulent activities, and ultimately enhance business decision-making processes. Moreover, the sequential nature of the data allows for the exploration of temporal dependencies and the development of predictive models that capture the dynamics of retail transactions over time. Overall, this dataset serves as a valuable resource for studying online retail operations and informing data-driven strategies to improve business performance and customer satisfaction.\n\n\n**Dataset Name:** Online Retail II\n\n**Dataset Characteristics:** \n- Multivariate\n- Sequential\n- Time-Series\n- Text\n\n**Subject Area:** Business\n\n**Associated Tasks:**\n- Classification\n- Regression\n- Clustering\n\n**Feature Types:** \n- Integer\n- Real\n\n**Number of Instances:** 1,067,371\n\n**Features:**\n- InvoiceNo: Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. If starts with 'c', it indicates a cancellation.\n- StockCode: Product (item) code. Nominal. A 5-digit integral number uniquely assigned to each distinct product.\n- Description: Product (item) name. Nominal.\n- Quantity: The quantities of each product (item) per transaction. Numeric.\n- InvoiceDate: Invoice date and time. Numeric. The day and time when a transaction was generated.\n- UnitPrice: Unit price. Numeric. Product price per unit in sterling (\u00a3).\n- CustomerID: Customer number. Nominal. A 5-digit integral number uniquely assigned to each customer.\n- Country: Country name. Nominal. The name of the country where a customer resides.\n\n**Additional Information:**\n- The dataset contains all transactions for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011.\n- The company mainly sells unique all-occasion gift-ware.\n- Many customers of the company are wholesalers.\n\n**Missing Values:** Yes\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "tabular",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "fredericksalazar/average-years-of-schooling-since-1870-2017",
+  "id_no": 2887693,
+  "datasetSlugNullable": "average-years-of-schooling-since-1870-2017",
+  "ownerUserNullable": "fredericksalazar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "years of world education by country",
+  "subtitleNullable": "Years of Schooling by countries and year",
+  "descriptionNullable": "This DataSet is downloaded from [https://ourworldindata.org/global-education](url) and contains by every country the average of years of schooling along the time in years, from 1870 to 2017. ",
+  "datasetId": 2887693,
+  "datasetSlug": "average-years-of-schooling-since-1870-2017",
+  "hasDatasetSlug": true,
+  "ownerUser": "fredericksalazar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10392,
+  "totalVotes": 33,
+  "totalDownloads": 1548,
+  "title": "years of world education by country",
+  "hasTitle": true,
+  "subtitle": "Years of Schooling by countries and year",
+  "hasSubtitle": true,
+  "description": "This DataSet is downloaded from [https://ourworldindata.org/global-education](url) and contains by every country the average of years of schooling along the time in years, from 1870 to 2017. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "demographics",
+    "data visualization",
+    "time series analysis",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

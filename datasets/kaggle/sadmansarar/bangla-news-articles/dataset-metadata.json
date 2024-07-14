@@ -1,0 +1,39 @@
+{
+  "id": "sadmansarar/bangla-news-articles",
+  "id_no": 389411,
+  "datasetSlugNullable": "bangla-news-articles",
+  "ownerUserNullable": "sadmansarar",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Bangla News Articles",
+  "subtitleNullable": "A collection of 194K Bangla news article",
+  "descriptionNullable": "### Content\n\nThis dataset contains the title and content of almost 194 thousand Bangla news articles.\n\nData pattern:\n```\n{\n    \"title\": \"\u0985\u09ab\u09bf\u09b8\u09c7 \u098f\u09ae\u09a8 \u0996\u09be\u09ac\u09be\u09b0\", \n    \"body\": \"\u09aa\u09be\u09b8\u09cd\u09a4\u09be-\u09ae\u09c1\u09b0\u0997\u09bf \u0989\u09aa\u0995\u09b0\u09a3\u09ae\u09c1\u09b0\u0997\u09bf\u09b0 \u09ac\u09c1\u0995\u09c7\u09b0 \u09ae\u09be\u0982\u09b8 \u09e8 \u099f\u09c1\u0995\u09b0\u09be, \u09b8\u09af\u09bc\u09be \u09b8\u09b8 \u09e8 \u099a\u09be-\u099a\u09be\u09ae\u099a, \u099f\u09ae\u09c7\u099f\u09cb \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09ea \u099a\u09be-\u099a\u09be\u09ae\u099a, \u09b2\u09ac\u09a3 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3\u09ae\u09a4\u09cb, \u09ae\u09b0\u09bf\u099a\u09c7\u09b0 \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09b8\u09bf\u0995\u09bf \u099a\u09be- \n                 \u099a\u09be\u09ae\u099a\u0964\"\n}\n```\n\n\n### Acknowledgements\n\nThe news articles were scrapped from the popular news website prothom-alo. \n\n\n### Inspiration\n\nThis dataset aims to assist NLP researchers in Bangla language.\n",
+  "datasetId": 389411,
+  "datasetSlug": "bangla-news-articles",
+  "hasDatasetSlug": true,
+  "ownerUser": "sadmansarar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 2123,
+  "totalVotes": 2,
+  "totalDownloads": 35,
+  "title": "Bangla News Articles",
+  "hasTitle": true,
+  "subtitle": "A collection of 194K Bangla news article",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThis dataset contains the title and content of almost 194 thousand Bangla news articles.\n\nData pattern:\n```\n{\n    \"title\": \"\u0985\u09ab\u09bf\u09b8\u09c7 \u098f\u09ae\u09a8 \u0996\u09be\u09ac\u09be\u09b0\", \n    \"body\": \"\u09aa\u09be\u09b8\u09cd\u09a4\u09be-\u09ae\u09c1\u09b0\u0997\u09bf \u0989\u09aa\u0995\u09b0\u09a3\u09ae\u09c1\u09b0\u0997\u09bf\u09b0 \u09ac\u09c1\u0995\u09c7\u09b0 \u09ae\u09be\u0982\u09b8 \u09e8 \u099f\u09c1\u0995\u09b0\u09be, \u09b8\u09af\u09bc\u09be \u09b8\u09b8 \u09e8 \u099a\u09be-\u099a\u09be\u09ae\u099a, \u099f\u09ae\u09c7\u099f\u09cb \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09ea \u099a\u09be-\u099a\u09be\u09ae\u099a, \u09b2\u09ac\u09a3 \u09aa\u09b0\u09bf\u09ae\u09be\u09a3\u09ae\u09a4\u09cb, \u09ae\u09b0\u09bf\u099a\u09c7\u09b0 \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09b8\u09bf\u0995\u09bf \u099a\u09be- \n                 \u099a\u09be\u09ae\u099a\u0964\"\n}\n```\n\n\n### Acknowledgements\n\nThe news articles were scrapped from the popular news website prothom-alo. \n\n\n### Inspiration\n\nThis dataset aims to assist NLP researchers in Bangla language.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

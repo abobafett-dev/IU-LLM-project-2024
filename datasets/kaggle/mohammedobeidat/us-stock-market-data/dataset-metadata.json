@@ -1,0 +1,39 @@
+{
+  "id": "mohammedobeidat/us-stock-market-data",
+  "id_no": 2811602,
+  "datasetSlugNullable": "us-stock-market-data",
+  "ownerUserNullable": "mohammedobeidat",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "US Stock Market Data",
+  "subtitleNullable": "A Data set that includes fundamentals and technicals for 40+ US stocks",
+  "descriptionNullable": "The dataset contains the file required for training and testing and split accordingly.\n\n There are two groups of features  that you can use for prediction: \n\n1. Fundamentals and ratios:  Values collected form statements and balance sheets for each ticker\n2. Technical indicators and strategy flags: Technical indicators calculated on close value of each day and buy and sell signals generated using some commonly used trading strategies.\n\nFiles found in **Fundamentals** folder is a processed format of the files found in **raw** folder. Ratios and other values are stretched to match the length of the closing price column such that the value in the **pe_ratio** column for example is the PE ratio from the most recent quarter and this applies for every column.\n \nTechnical indicators are calculated with the default parameters used in Pandas_TA package.\n\nData is collected form [finance.yahoo.com](url) and [macrotrends.net](url) \nTimeframe for the given data is different from one ticker to another because of unavailability of some stocks for a given time frame on either of the websites. \n\nAll code required to collect the data and perform preprocessing and feature engineering to get the data in the given format can be found in the following notebooks:\n\n1. [https://www.kaggle.com/code/mohammedobeidat/us-stocks-data-collection](url)\n2. [https://www.kaggle.com/code/mohammedobeidat/us-stocks-technicals-feature-engineering-and-eda](url)\n3. [https://www.kaggle.com/code/mohammedobeidat/us-stocks-fundamentals-preprocessing-and-eda](url)\n\n## Files\n\n*   **{&lt;&gt;_ticker_train}.csv** - the training set\n*   **{&lt;&gt;_ticker_train}.csv** - the test set\n\n## Columns\n\nColumns names are supposed to be self-explanatory assuming you are familiar with the stock market.\nSome acronyms you may encounter:\n\n1. **tmm** is short for Trailing Twelve Months \n2. **pe** is short for Price to Earnings   \n3. **pb** is short for Price to Book Value   \n4. **ps** is short for Price to Sales\n5. **fcf** is short for Free Cash Flow\n6. **eps** is short for Earnings per Share",
+  "datasetId": 2811602,
+  "datasetSlug": "us-stock-market-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohammedobeidat",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 2982,
+  "totalVotes": 10,
+  "totalDownloads": 317,
+  "title": "US Stock Market Data",
+  "hasTitle": true,
+  "subtitle": "A Data set that includes fundamentals and technicals for 40+ US stocks",
+  "hasSubtitle": true,
+  "description": "The dataset contains the file required for training and testing and split accordingly.\n\n There are two groups of features  that you can use for prediction: \n\n1. Fundamentals and ratios:  Values collected form statements and balance sheets for each ticker\n2. Technical indicators and strategy flags: Technical indicators calculated on close value of each day and buy and sell signals generated using some commonly used trading strategies.\n\nFiles found in **Fundamentals** folder is a processed format of the files found in **raw** folder. Ratios and other values are stretched to match the length of the closing price column such that the value in the **pe_ratio** column for example is the PE ratio from the most recent quarter and this applies for every column.\n \nTechnical indicators are calculated with the default parameters used in Pandas_TA package.\n\nData is collected form [finance.yahoo.com](url) and [macrotrends.net](url) \nTimeframe for the given data is different from one ticker to another because of unavailability of some stocks for a given time frame on either of the websites. \n\nAll code required to collect the data and perform preprocessing and feature engineering to get the data in the given format can be found in the following notebooks:\n\n1. [https://www.kaggle.com/code/mohammedobeidat/us-stocks-data-collection](url)\n2. [https://www.kaggle.com/code/mohammedobeidat/us-stocks-technicals-feature-engineering-and-eda](url)\n3. [https://www.kaggle.com/code/mohammedobeidat/us-stocks-fundamentals-preprocessing-and-eda](url)\n\n## Files\n\n*   **{&lt;&gt;_ticker_train}.csv** - the training set\n*   **{&lt;&gt;_ticker_train}.csv** - the test set\n\n## Columns\n\nColumns names are supposed to be self-explanatory assuming you are familiar with the stock market.\nSome acronyms you may encounter:\n\n1. **tmm** is short for Trailing Twelve Months \n2. **pe** is short for Price to Earnings   \n3. **pb** is short for Price to Book Value   \n4. **ps** is short for Price to Sales\n5. **fcf** is short for Free Cash Flow\n6. **eps** is short for Earnings per Share",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "arcticgiant/french-financial-news",
+  "id_no": 1247746,
+  "datasetSlugNullable": "french-financial-news",
+  "ownerUserNullable": "arcticgiant",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "French news - Stocks prediction",
+  "subtitleNullable": "French financial news with translation and sentiment analyses",
+  "descriptionNullable": "### Context\n\nThis dataset contains around 41 500 french news from 11/2018 to 03/2021 scraped on a famous financial media website.\nFor ease of use I\u2019v add English translation (Helsinki-NLP/opus-mt-fr-en) and sentiment analysis (VADER)\n\n### Analysis\n\nThe picture below show the effect of covid crisis on news sentiment (Purple) and CAC40 (Blue).\nWe see clearly a link between the news sentiment and the stocks market\n(Note : March 2020: The covid crisis break down / November 2020: Release of the pfizer vaccine)\n![](https://i.ibb.co/nLFdSHL/news-sentiment-vs-cac40.png)\n\nCAC 40 next day open prediction (Works a little bit )\n![](https://i.ibb.co/ZdhXVHy/CAC40-next-day-open-prediction.png)\n\nCAC 40 next 20 day prediction (Multi-day prediction gets imprecise results...)\n![](https://i.ibb.co/Mgdzvzs/CAC40-next-20-day-prediction.png)\n\nCompare the sentiment of news title, text and text in the URL.\nWe can conclude that titles are often more dramatic to attract attention.\n![](https://i.ibb.co/K7nSkgd/news-sentiment-title-vs-summay-vs-text-in-URL.png)\n\n-&gt; See linked notebook.\n\n\n### Content\n\n-&gt; **FrenchNews.csv**\nThis dataset contains around 41 500 french news from 11/2018 to 03/2021 scraped on a famous financial media website.\n\n-&gt; **FrenchNewsDayConcat.csv**\nThe dataset **FrenchNews.csv** with post process to sample it at day and compare with CAC40.\n\nThe number of news per day varies form day to day (see **FrenchNewsDayConcat.csv** param NbrNewsJour).\nThe amount of news increase with the time.\n![](https://i.ibb.co/xmBVDDR/nbr-of-news-per-day.png)\n\n### Inspiration\n\nCould we use directly the text of the news scraped to make CAC40 prediction (NLP)?\nUse of the news text to find the main stream subject of news during the time.\n\nFeel free to play with the dataset",
+  "datasetId": 1247746,
+  "datasetSlug": "french-financial-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "arcticgiant",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3908,
+  "totalVotes": 8,
+  "totalDownloads": 285,
+  "title": "French news - Stocks prediction",
+  "hasTitle": true,
+  "subtitle": "French financial news with translation and sentiment analyses",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains around 41 500 french news from 11/2018 to 03/2021 scraped on a famous financial media website.\nFor ease of use I\u2019v add English translation (Helsinki-NLP/opus-mt-fr-en) and sentiment analysis (VADER)\n\n### Analysis\n\nThe picture below show the effect of covid crisis on news sentiment (Purple) and CAC40 (Blue).\nWe see clearly a link between the news sentiment and the stocks market\n(Note : March 2020: The covid crisis break down / November 2020: Release of the pfizer vaccine)\n![](https://i.ibb.co/nLFdSHL/news-sentiment-vs-cac40.png)\n\nCAC 40 next day open prediction (Works a little bit )\n![](https://i.ibb.co/ZdhXVHy/CAC40-next-day-open-prediction.png)\n\nCAC 40 next 20 day prediction (Multi-day prediction gets imprecise results...)\n![](https://i.ibb.co/Mgdzvzs/CAC40-next-20-day-prediction.png)\n\nCompare the sentiment of news title, text and text in the URL.\nWe can conclude that titles are often more dramatic to attract attention.\n![](https://i.ibb.co/K7nSkgd/news-sentiment-title-vs-summay-vs-text-in-URL.png)\n\n-&gt; See linked notebook.\n\n\n### Content\n\n-&gt; **FrenchNews.csv**\nThis dataset contains around 41 500 french news from 11/2018 to 03/2021 scraped on a famous financial media website.\n\n-&gt; **FrenchNewsDayConcat.csv**\nThe dataset **FrenchNews.csv** with post process to sample it at day and compare with CAC40.\n\nThe number of news per day varies form day to day (see **FrenchNewsDayConcat.csv** param NbrNewsJour).\nThe amount of news increase with the time.\n![](https://i.ibb.co/xmBVDDR/nbr-of-news-per-day.png)\n\n### Inspiration\n\nCould we use directly the text of the news scraped to make CAC40 prediction (NLP)?\nUse of the news text to find the main stream subject of news during the time.\n\nFeel free to play with the dataset",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "investing",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

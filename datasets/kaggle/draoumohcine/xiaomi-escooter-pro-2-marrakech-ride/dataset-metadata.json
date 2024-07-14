@@ -1,0 +1,43 @@
+{
+  "id": "draoumohcine/xiaomi-escooter-pro-2-marrakech-ride",
+  "id_no": 1587666,
+  "datasetSlugNullable": "xiaomi-escooter-pro-2-marrakech-ride",
+  "ownerUserNullable": "draoumohcine",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Xiaomi E-Scooter Pro 2 Marrakech ride",
+  "subtitleNullable": "Xiaomi Pro 2 e-Scooter daily rides dataset, Moroccan roads",
+  "descriptionNullable": "### Context\n\nImpact of different factors on the Xiaomi Pro 2 e-Scooter battery life; daily rides dataset.\n\n### Content\n\n- This data is gathered in order to help understand the impact of various factors such as Cells temperature, SoC, Speed, Total mileage... on the Lithium-ion battery's health used for this type of e-Scooters.\n\n- The name of the csv files indicate the day when the data was recorded.\n",
+  "datasetId": 1587666,
+  "datasetSlug": "xiaomi-escooter-pro-2-marrakech-ride",
+  "hasDatasetSlug": true,
+  "ownerUser": "draoumohcine",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2694,
+  "totalVotes": 4,
+  "totalDownloads": 165,
+  "title": "Xiaomi E-Scooter Pro 2 Marrakech ride",
+  "hasTitle": true,
+  "subtitle": "Xiaomi Pro 2 e-Scooter daily rides dataset, Moroccan roads",
+  "hasSubtitle": true,
+  "description": "### Context\n\nImpact of different factors on the Xiaomi Pro 2 e-Scooter battery life; daily rides dataset.\n\n### Content\n\n- This data is gathered in order to help understand the impact of various factors such as Cells temperature, SoC, Speed, Total mileage... on the Lithium-ion battery's health used for this type of e-Scooters.\n\n- The name of the csv files indicate the day when the data was recorded.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "time series analysis",
+    "random forest",
+    "xgboost",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

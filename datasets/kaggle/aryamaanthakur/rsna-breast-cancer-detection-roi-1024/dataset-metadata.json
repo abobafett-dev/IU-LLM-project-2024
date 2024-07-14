@@ -1,0 +1,42 @@
+{
+  "id": "aryamaanthakur/rsna-breast-cancer-detection-roi-1024",
+  "id_no": 2845760,
+  "datasetSlugNullable": "rsna-breast-cancer-detection-roi-1024",
+  "ownerUserNullable": "aryamaanthakur",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "RSNA-BreastCancerDetection-ROI-1024",
+  "subtitleNullable": "Region Of Interest extracted from X-ray",
+  "descriptionNullable": "This dataset contains the Region of Interest extracted from breast X-ray images ([https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data)). 1024 is the length of longest size of image.",
+  "datasetId": 2845760,
+  "datasetSlug": "rsna-breast-cancer-detection-roi-1024",
+  "hasDatasetSlug": true,
+  "ownerUser": "aryamaanthakur",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 5198,
+  "totalVotes": 33,
+  "totalDownloads": 274,
+  "title": "RSNA-BreastCancerDetection-ROI-1024",
+  "hasTitle": true,
+  "subtitle": "Region Of Interest extracted from X-ray",
+  "hasSubtitle": true,
+  "description": "This dataset contains the Region of Interest extracted from breast X-ray images ([https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data)). 1024 is the length of longest size of image.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image",
+    "binary classification",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

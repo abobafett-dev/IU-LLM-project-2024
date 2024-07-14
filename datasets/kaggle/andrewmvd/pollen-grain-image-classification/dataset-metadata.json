@@ -1,0 +1,42 @@
+{
+  "id": "andrewmvd/pollen-grain-image-classification",
+  "id_no": 614218,
+  "datasetSlugNullable": "pollen-grain-image-classification",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Pollen Grain Image Classification",
+  "subtitleNullable": "805 pollen images of 23 pollen types",
+  "descriptionNullable": "# Preview Images\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F793761%2Fd68d9559e7397f00be5d7e15cfa67cab%2Fjournal.pone.0201807.g001.PNG?generation=1587473488272458&alt=media)\n\n# About this Data\n&gt; The classification of pollen species and types is an important task in many areas like forensic palynology, archaeological palynology and melissopalynology. This is the first annotated image dataset for the Brazilian Savannah pollen types that can be used to train and test computer vision based automatic pollen classifiers.\n\n# How to Cite this Dataset\n&gt; If you use this data in your research, please credit the authors.\n\n## Original Article\n&gt; Feature Extraction and Machine Learning for the Classification of Brazilian Savannah Pollen Grains\nGon\u00e7alves AB, Souza JS, Silva GGd, Cereda MP, Pott A, et al. (2016) Feature Extraction and Machine Learning for the Classification of Brazilian Savannah Pollen Grains. PLOS ONE 11(6): e0157044. https://doi.org/10.1371/journal.pone.0157044\n\n## Splash Image\n&gt; Image by <a href=\"https://pixabay.com/pt/users/NickRivers-63199/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=191629\">Thomas Schiewer</a> at <a href=\"https://pixabay.com/pt/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=191629\">Pixabay</a>",
+  "datasetId": 614218,
+  "datasetSlug": "pollen-grain-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 13472,
+  "totalVotes": 26,
+  "totalDownloads": 674,
+  "title": "Pollen Grain Image Classification",
+  "hasTitle": true,
+  "subtitle": "805 pollen images of 23 pollen types",
+  "hasSubtitle": true,
+  "description": "# Preview Images\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F793761%2Fd68d9559e7397f00be5d7e15cfa67cab%2Fjournal.pone.0201807.g001.PNG?generation=1587473488272458&alt=media)\n\n# About this Data\n&gt; The classification of pollen species and types is an important task in many areas like forensic palynology, archaeological palynology and melissopalynology. This is the first annotated image dataset for the Brazilian Savannah pollen types that can be used to train and test computer vision based automatic pollen classifiers.\n\n# How to Cite this Dataset\n&gt; If you use this data in your research, please credit the authors.\n\n## Original Article\n&gt; Feature Extraction and Machine Learning for the Classification of Brazilian Savannah Pollen Grains\nGon\u00e7alves AB, Souza JS, Silva GGd, Cereda MP, Pott A, et al. (2016) Feature Extraction and Machine Learning for the Classification of Brazilian Savannah Pollen Grains. PLOS ONE 11(6): e0157044. https://doi.org/10.1371/journal.pone.0157044\n\n## Splash Image\n&gt; Image by <a href=\"https://pixabay.com/pt/users/NickRivers-63199/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=191629\">Thomas Schiewer</a> at <a href=\"https://pixabay.com/pt/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=191629\">Pixabay</a>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer vision",
+    "image",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

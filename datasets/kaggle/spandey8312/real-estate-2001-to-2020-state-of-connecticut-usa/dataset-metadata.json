@@ -1,0 +1,43 @@
+{
+  "id": "spandey8312/real-estate-2001-to-2020-state-of-connecticut-usa",
+  "id_no": 3951510,
+  "datasetSlugNullable": "real-estate-2001-to-2020-state-of-connecticut-usa",
+  "ownerUserNullable": "spandey8312",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Real Estate 2001 to 2020 State of Connecticut USA",
+  "subtitleNullable": "Real Estate 2001 to 2020 State of Connecticut USA",
+  "descriptionNullable": "**Dataset Description:** The dataset encompasses details of real estate transactions within Connecticut from 2001 to 2020.\n\n**Transaction Details:** Each dataset entry details an individual transaction, including property specifics, assessed values, and sale prices.\n**Utility:** It's applicable for market trend analysis, evaluation of property assessment accuracy, among other real estate market research.\n**Data Preprocessing:** Prior to analysis, the dataset may need cleaning and preprocessing.\n**Analysis Potential:** Depending on analytical goals, various insights can be extracted from this information.\n\n<br>\n**Columns:**\n**List Year:** The year the property was listed for sale.\n**Date Recorded:** The official date when the sale was recorded in public records.\n**Town:** The town in Connecticut where the property is located.\n**Address:** The street address of the property.\n**Assessed Value:** The valuation of the property for tax purposes, as determined by an assessor.\n**Sale Amount:** The actual price the property was sold for.\n**Sales Ratio:** The ratio of the sale amount to the assessed value, indicating how they compare.\n**Property Type:** The classification of the property (e.g., residential, commercial).\n**Residential Type:** More specific type of residential property, if applicable (e.g., single-family home).\n**Latitude:** The geographic coordinate specifying the north-south position of the property.\n**Longitude:** The geographic coordinate specifying the east-west position of the property.\n\n<br>\n**Note:** The dataset presented is a refined extract from the comprehensive collection found at : [https://www.kaggle.com/datasets/anoopjohny/real-estate-sales-2001-2020-state-of-connecticut](url)(Real Estate Sales 2001-2020 State of Connecticut). Enhancements to the original dataset include the addition of geographical coordinates, with Latitude and Longitude columns integrated using the **geocoder** library.",
+  "datasetId": 3951510,
+  "datasetSlug": "real-estate-2001-to-2020-state-of-connecticut-usa",
+  "hasDatasetSlug": true,
+  "ownerUser": "spandey8312",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 368,
+  "totalVotes": 6,
+  "totalDownloads": 87,
+  "title": "Real Estate 2001 to 2020 State of Connecticut USA",
+  "hasTitle": true,
+  "subtitle": "Real Estate 2001 to 2020 State of Connecticut USA",
+  "hasSubtitle": true,
+  "description": "**Dataset Description:** The dataset encompasses details of real estate transactions within Connecticut from 2001 to 2020.\n\n**Transaction Details:** Each dataset entry details an individual transaction, including property specifics, assessed values, and sale prices.\n**Utility:** It's applicable for market trend analysis, evaluation of property assessment accuracy, among other real estate market research.\n**Data Preprocessing:** Prior to analysis, the dataset may need cleaning and preprocessing.\n**Analysis Potential:** Depending on analytical goals, various insights can be extracted from this information.\n\n<br>\n**Columns:**\n**List Year:** The year the property was listed for sale.\n**Date Recorded:** The official date when the sale was recorded in public records.\n**Town:** The town in Connecticut where the property is located.\n**Address:** The street address of the property.\n**Assessed Value:** The valuation of the property for tax purposes, as determined by an assessor.\n**Sale Amount:** The actual price the property was sold for.\n**Sales Ratio:** The ratio of the sale amount to the assessed value, indicating how they compare.\n**Property Type:** The classification of the property (e.g., residential, commercial).\n**Residential Type:** More specific type of residential property, if applicable (e.g., single-family home).\n**Latitude:** The geographic coordinate specifying the north-south position of the property.\n**Longitude:** The geographic coordinate specifying the east-west position of the property.\n\n<br>\n**Note:** The dataset presented is a refined extract from the comprehensive collection found at : [https://www.kaggle.com/datasets/anoopjohny/real-estate-sales-2001-2020-state-of-connecticut](url)(Real Estate Sales 2001-2020 State of Connecticut). Enhancements to the original dataset include the addition of geographical coordinates, with Latitude and Longitude columns integrated using the **geocoder** library.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "real estate",
+    "data visualization",
+    "feature engineering",
+    "tabular",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

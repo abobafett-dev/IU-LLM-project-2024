@@ -1,0 +1,42 @@
+{
+  "id": "tahavahedi/verticalhorizontal",
+  "id_no": 1643764,
+  "datasetSlugNullable": "verticalhorizontal",
+  "ownerUserNullable": "tahavahedi",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "VerticalHorizontal",
+  "subtitleNullable": "vertical or horizontal with computer vision",
+  "descriptionNullable": "# **An image Dataset for classification vertical and horizontal  images** #\n\n###  General Introduction ###\nThe idea behind this dataset is make a model to predict image is vertical or horizontal.\nIn real-world most of the cameras like our phone have a gyro sensor to detect this, but sometimes this is not work good \nfor example when you want to take a picture of your paper on desk or when you want use a ip cam to connect your \nphone to your python code.\n\n\n#### where dataset come from ####\nI use this image dataset ",
+  "datasetId": 1643764,
+  "datasetSlug": "verticalhorizontal",
+  "hasDatasetSlug": true,
+  "ownerUser": "tahavahedi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 2235,
+  "totalVotes": 3,
+  "totalDownloads": 55,
+  "title": "VerticalHorizontal",
+  "hasTitle": true,
+  "subtitle": "vertical or horizontal with computer vision",
+  "hasSubtitle": true,
+  "description": "# **An image Dataset for classification vertical and horizontal  images** #\n\n###  General Introduction ###\nThe idea behind this dataset is make a model to predict image is vertical or horizontal.\nIn real-world most of the cameras like our phone have a gyro sensor to detect this, but sometimes this is not work good \nfor example when you want to take a picture of your paper on desk or when you want use a ip cam to connect your \nphone to your python code.\n\n\n#### where dataset come from ####\nI use this image dataset ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

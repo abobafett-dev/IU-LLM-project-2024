@@ -1,0 +1,43 @@
+{
+  "id": "vuppalaadithyasairam/spine-fracture-prediction-from-xrays",
+  "id_no": 2633248,
+  "datasetSlugNullable": "spine-fracture-prediction-from-xrays",
+  "ownerUserNullable": "vuppalaadithyasairam",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "spine fracture prediction from C.T",
+  "subtitleNullable": "Develop classifiers to predict cervical spine fractures from C.T",
+  "descriptionNullable": "This dataset consists of random images obtained from the RSNA cervical spine fracture detection challenge. The goal is to build classifiers to identify fractures based on spine x-ray. The slices in which fractures were detected were considered for positive and other slices for negative.",
+  "datasetId": 2633248,
+  "datasetSlug": "spine-fracture-prediction-from-xrays",
+  "hasDatasetSlug": true,
+  "ownerUser": "vuppalaadithyasairam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 4569,
+  "totalVotes": 22,
+  "totalDownloads": 582,
+  "title": "spine fracture prediction from C.T",
+  "hasTitle": true,
+  "subtitle": "Develop classifiers to predict cervical spine fractures from C.T",
+  "hasSubtitle": true,
+  "description": "This dataset consists of random images obtained from the RSNA cervical spine fracture detection challenge. The goal is to build classifiers to identify fractures based on spine x-ray. The slices in which fractures were detected were considered for positive and other slices for negative.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image",
+    "binary classification",
+    "health conditions",
+    "keras",
+    "pytorch"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "prithwirajsust/bengali-news-summarization-dataset",
+  "id_no": 900472,
+  "datasetSlugNullable": "bengali-news-summarization-dataset",
+  "ownerUserNullable": "prithwirajsust",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Bengali News Summarization Dataset",
+  "subtitleNullable": "Dataset for Bengali Text Summariation",
+  "descriptionNullable": "# **BANSData: A Dataset for Bengali Abstractive News Summarization**\nThis work is accepted at TCCE-2020. The paper is available at \nspringer AISC proceedings: https://doi.org/10.1007/978-981-33-4673-4_4\narxiv: https://arxiv.org/pdf/2012.01747.pdf\n\n#**Abstract**\nNowadays news or text summarization becomes very popular in the NLP field. Both the extractive and abstractive approaches of summarization are implemented in different languages. A significant amount of data is a primary need for any summarization. For the Bengali language, there are only a few datasets are available. Our dataset is made for Bengali Abstractive News Summarization (BANS) purposes. As abstractive summarization is basically neural network-based it needs more and more data to perform well. So we made a standard Bengali abstractive summarization data crawling from online Bengali news portal bangla.bdnews24.com. We crawled more than 19k articles and summaries and standardized the data.\n\nList of files:\n1.  article.txt\n2. summary.txt\n\n#**Dataset Description** \n| Description | Data Info. |\n|---|---|\n| Total no of articles | 19096 |\n| Total no of summaries| 19096 |\n| Maximum no of words in an article | 76 |\n| Maximum no of words in a summary | 12 |\n| Minimum no of words in an article | 5 |\n| Minimum no of words in a summary  | 3 |\n\n\n\n#**Acknowledgement**\nWe would like to thank Shahjalal University of Science and Technology (SUST) research center and SUST NLP research group for their support.\n\n#**Bibtex for Citation**\n\n@InProceedings{10.1007/978-981-33-4673-4_4,\nauthor=\"Bhattacharjee, Prithwiraj\nand Mallick, Avi\nand Saiful Islam, Md.\nand Marium-E-Jannat\",\neditor=\"Kaiser, M. Shamim\nand Bandyopadhyay, Anirban\nand Mahmud, Mufti\nand Ray, Kanad\",\ntitle=\"Bengali Abstractive News Summarization (BANS): A Neural Attention Approach\",\nbooktitle=\"Proceedings of International Conference on Trends in Computational and Cognitive Engineering\",\nyear=\"2021\",\npublisher=\"Springer Singapore\",\naddress=\"Singapore\",\npages=\"41--51\",\nabstract=\"Bhattacharjee, PrithwirajMallick, AviSaiful Islam, Md.Marium-E-JannatAbstractive summarization is the process of generating novel sentences based on the information extracted from the original text document while retaining the context. Due to abstractive summarization's underlying complexities, most of the past research work has been done on the extractive summarization approach. Nevertheless, with the triumph of the sequence-to-sequence (seq2seq) model, abstractive summarization becomes more viable. Although a significant number of notable research has been done in the English language based on abstractive summarization, only a couple of works have been done on Bengali abstractive news summarization (BANS). In this article, we presented a seq2seq based Long Short-Term Memory (LSTM) network model with attention at encoder-decoder. Our proposed system deploys a local attention-based model that produces a long sequence of words with lucid and human-like generated sentences with noteworthy information of the original document. We also prepared a dataset of more than 19 k articles and corresponding human-written summaries collected from bangla.bdnews24.com (https://bangla.bdnews24.com/) which is till now the most extensive dataset for Bengali news document summarization and publicly published in Kaggle (https://www.kaggle.com/prithwirajsust/bengali-news-summarization-dataset) We evaluated our model qualitatively and quantitatively and compared it with other published results. It showed significant improvement in terms of human evaluation scores with state-of-the-art approaches for BANS.\",\nisbn=\"978-981-33-4673-4\"\n}\n\n",
+  "datasetId": 900472,
+  "datasetSlug": "bengali-news-summarization-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "prithwirajsust",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 6455,
+  "totalVotes": 10,
+  "totalDownloads": 422,
+  "title": "Bengali News Summarization Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset for Bengali Text Summariation",
+  "hasSubtitle": true,
+  "description": "# **BANSData: A Dataset for Bengali Abstractive News Summarization**\nThis work is accepted at TCCE-2020. The paper is available at \nspringer AISC proceedings: https://doi.org/10.1007/978-981-33-4673-4_4\narxiv: https://arxiv.org/pdf/2012.01747.pdf\n\n#**Abstract**\nNowadays news or text summarization becomes very popular in the NLP field. Both the extractive and abstractive approaches of summarization are implemented in different languages. A significant amount of data is a primary need for any summarization. For the Bengali language, there are only a few datasets are available. Our dataset is made for Bengali Abstractive News Summarization (BANS) purposes. As abstractive summarization is basically neural network-based it needs more and more data to perform well. So we made a standard Bengali abstractive summarization data crawling from online Bengali news portal bangla.bdnews24.com. We crawled more than 19k articles and summaries and standardized the data.\n\nList of files:\n1.  article.txt\n2. summary.txt\n\n#**Dataset Description** \n| Description | Data Info. |\n|---|---|\n| Total no of articles | 19096 |\n| Total no of summaries| 19096 |\n| Maximum no of words in an article | 76 |\n| Maximum no of words in a summary | 12 |\n| Minimum no of words in an article | 5 |\n| Minimum no of words in a summary  | 3 |\n\n\n\n#**Acknowledgement**\nWe would like to thank Shahjalal University of Science and Technology (SUST) research center and SUST NLP research group for their support.\n\n#**Bibtex for Citation**\n\n@InProceedings{10.1007/978-981-33-4673-4_4,\nauthor=\"Bhattacharjee, Prithwiraj\nand Mallick, Avi\nand Saiful Islam, Md.\nand Marium-E-Jannat\",\neditor=\"Kaiser, M. Shamim\nand Bandyopadhyay, Anirban\nand Mahmud, Mufti\nand Ray, Kanad\",\ntitle=\"Bengali Abstractive News Summarization (BANS): A Neural Attention Approach\",\nbooktitle=\"Proceedings of International Conference on Trends in Computational and Cognitive Engineering\",\nyear=\"2021\",\npublisher=\"Springer Singapore\",\naddress=\"Singapore\",\npages=\"41--51\",\nabstract=\"Bhattacharjee, PrithwirajMallick, AviSaiful Islam, Md.Marium-E-JannatAbstractive summarization is the process of generating novel sentences based on the information extracted from the original text document while retaining the context. Due to abstractive summarization's underlying complexities, most of the past research work has been done on the extractive summarization approach. Nevertheless, with the triumph of the sequence-to-sequence (seq2seq) model, abstractive summarization becomes more viable. Although a significant number of notable research has been done in the English language based on abstractive summarization, only a couple of works have been done on Bengali abstractive news summarization (BANS). In this article, we presented a seq2seq based Long Short-Term Memory (LSTM) network model with attention at encoder-decoder. Our proposed system deploys a local attention-based model that produces a long sequence of words with lucid and human-like generated sentences with noteworthy information of the original document. We also prepared a dataset of more than 19 k articles and corresponding human-written summaries collected from bangla.bdnews24.com (https://bangla.bdnews24.com/) which is till now the most extensive dataset for Bengali news document summarization and publicly published in Kaggle (https://www.kaggle.com/prithwirajsust/bengali-news-summarization-dataset) We evaluated our model qualitatively and quantitatively and compared it with other published results. It showed significant improvement in terms of human evaluation scores with state-of-the-art approaches for BANS.\",\nisbn=\"978-981-33-4673-4\"\n}\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "education",
+    "artificial intelligence",
+    "computer science",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "saifsust",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

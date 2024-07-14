@@ -1,0 +1,45 @@
+{
+  "id": "crowww/meat-quality-assessment-based-on-deep-learning",
+  "id_no": 1254197,
+  "datasetSlugNullable": "meat-quality-assessment-based-on-deep-learning",
+  "ownerUserNullable": "crowww",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Meat Quality Assessment Dataset ",
+  "subtitleNullable": "Meat quality assessment based on deep learning",
+  "descriptionNullable": "*** Meat Quality Assessment based on Deep Learning ***\n\nAuthors: O. Ulucan, D. Karakaya, M. Turkan\nDepartment of Electrical and Electronics Engineering, Izmir University of Economics, Izmir, Turkey\nCorresponding author: M. Turkan\nContact Information: mehmet.turkan@ieu.edu.tr\n\n- Paper: [Meat Quality Assessment based on Deep Learning](https://ieeexplore.ieee.org/abstract/document/8946388)\n\n***General Introduction***\n\nThis dataset contains 2 classes, fresh and spoiled red meat samples collected from a supermarket in Izmir, Turkey\nfor a university-industry collaboration project at Izmir University of Economics, and this work\nwas published in ASYU 2019. \n\nIf you use this dataset in your work, please consider to cite:\n\n@inproceedings{ulucan2019meat,\n  title={Meat quality assessment based on deep learning},\n  author={Ulucan, Oguzhan and Karakaya, Diclehan and Turkan, Mehmet},\n  booktitle={2019 Innovations in Intelligent Systems and Applications Conference (ASYU)},\n  pages={1--5},\n  year={2019},\n  organization={IEEE}\n}\n\n* O.Ulucan , D.Karakaya and M.Turkan.(2019) Meat quality assessment based on deep learning.\nIn Conf. Innovations Intell. Syst. Appli. (ASYU)\n\n***Purpose of the work***\n\nThis dataset was collected in order to develop a meat quality assessment system which is based on deep learning. \nAll of the experimental results which are explained in the paper, prove the usability of our dataset and our model can successfully distinguish between the classes with high accuracy.\n\n\n***Resolution and the Number of the Images***\n\nImages were collected via an IP camera and the resolution of the images are 1280 x 720. There are 1896 images in total, 948 per class. \n\n",
+  "datasetId": 1254197,
+  "datasetSlug": "meat-quality-assessment-based-on-deep-learning",
+  "hasDatasetSlug": true,
+  "ownerUser": "crowww",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 31914,
+  "totalVotes": 51,
+  "totalDownloads": 2153,
+  "title": "Meat Quality Assessment Dataset ",
+  "hasTitle": true,
+  "subtitle": "Meat quality assessment based on deep learning",
+  "hasSubtitle": true,
+  "description": "*** Meat Quality Assessment based on Deep Learning ***\n\nAuthors: O. Ulucan, D. Karakaya, M. Turkan\nDepartment of Electrical and Electronics Engineering, Izmir University of Economics, Izmir, Turkey\nCorresponding author: M. Turkan\nContact Information: mehmet.turkan@ieu.edu.tr\n\n- Paper: [Meat Quality Assessment based on Deep Learning](https://ieeexplore.ieee.org/abstract/document/8946388)\n\n***General Introduction***\n\nThis dataset contains 2 classes, fresh and spoiled red meat samples collected from a supermarket in Izmir, Turkey\nfor a university-industry collaboration project at Izmir University of Economics, and this work\nwas published in ASYU 2019. \n\nIf you use this dataset in your work, please consider to cite:\n\n@inproceedings{ulucan2019meat,\n  title={Meat quality assessment based on deep learning},\n  author={Ulucan, Oguzhan and Karakaya, Diclehan and Turkan, Mehmet},\n  booktitle={2019 Innovations in Intelligent Systems and Applications Conference (ASYU)},\n  pages={1--5},\n  year={2019},\n  organization={IEEE}\n}\n\n* O.Ulucan , D.Karakaya and M.Turkan.(2019) Meat quality assessment based on deep learning.\nIn Conf. Innovations Intell. Syst. Appli. (ASYU)\n\n***Purpose of the work***\n\nThis dataset was collected in order to develop a meat quality assessment system which is based on deep learning. \nAll of the experimental results which are explained in the paper, prove the usability of our dataset and our model can successfully distinguish between the classes with high accuracy.\n\n\n***Resolution and the Number of the Images***\n\nImages were collected via an IP camera and the resolution of the images are 1280 x 720. There are 1896 images in total, 948 per class. \n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "education",
+    "computer vision",
+    "classification",
+    "cnn",
+    "image",
+    "cooking and recipes"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

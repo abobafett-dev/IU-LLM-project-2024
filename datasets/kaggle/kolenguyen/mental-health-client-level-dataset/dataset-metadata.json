@@ -1,0 +1,43 @@
+{
+  "id": "kolenguyen/mental-health-client-level-dataset",
+  "id_no": 4639100,
+  "datasetSlugNullable": "mental-health-client-level-dataset",
+  "ownerUserNullable": "kolenguyen",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Mental Health Client-Level Dataset",
+  "subtitleNullable": "Understanding Factors Affecting Mental Health of All Ages",
+  "descriptionNullable": "**Data Source:** Substance Abuse and Mental Health Services Administration (SAMHSA) 2020, U.S. Department of Health and Human Services (HHS). \n\nThis is the dataset used for my first project for mental health analysis with Ann Bertram and Tiffany McBride at Purdue Fort Wayne. It has been cleaned and divided into datasets based on the states. Each dataset will include demographic information such as age, education level, ethnicity, race, genders, mental illness flags, etc. For more information, please refer to the codebook. ",
+  "datasetId": 4639100,
+  "datasetSlug": "mental-health-client-level-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kolenguyen",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 133,
+  "totalVotes": 1,
+  "totalDownloads": 7,
+  "title": "Mental Health Client-Level Dataset",
+  "hasTitle": true,
+  "subtitle": "Understanding Factors Affecting Mental Health of All Ages",
+  "hasSubtitle": true,
+  "description": "**Data Source:** Substance Abuse and Mental Health Services Administration (SAMHSA) 2020, U.S. Department of Health and Human Services (HHS). \n\nThis is the dataset used for my first project for mental health analysis with Ann Bertram and Tiffany McBride at Purdue Fort Wayne. It has been cleaned and divided into datasets based on the states. Each dataset will include demographic information such as age, education level, ethnicity, race, genders, mental illness flags, etc. For more information, please refer to the codebook. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "mental health",
+    "public health",
+    "health",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

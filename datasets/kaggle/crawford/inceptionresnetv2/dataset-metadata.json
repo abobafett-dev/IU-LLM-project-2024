@@ -1,0 +1,39 @@
+{
+  "id": "crawford/inceptionresnetv2",
+  "id_no": 6307,
+  "datasetSlugNullable": "inceptionresnetv2",
+  "ownerUserNullable": "crawford",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "InceptionResNetV2",
+  "subtitleNullable": "InceptionResNetV2 Pre-trained Model for Keras",
+  "descriptionNullable": "# Inception-Resnet-V2\n\n---\n\n## Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning<br>\nVery deep convolutional networks have been central to the largest advances in image recognition performance in recent years. One example is the Inception architecture that has been shown to achieve very good performance at relatively low computational cost. Recently, the introduction of residual connections in conjunction with a more traditional architecture has yielded state-of-the-art performance in the 2015 ILSVRC challenge; its performance was similar to the latest generation Inception-v3 network. This raises the question of whether there are any benefit in combining the Inception architecture with residual connections. Here we give clear empirical evidence that training with residual connections accelerates the training of Inception networks significantly. There is also some evidence of residual Inception networks outperforming similarly expensive Inception networks without residual connections by a thin margin. We also present several new streamlined architectures for both residual and non-residual Inception networks. These variations improve the single-frame recognition performance on the ILSVRC 2012 classification task significantly. We further demonstrate how proper activation scaling stabilizes the training of very wide residual Inception networks. With an ensemble of three residual and one Inception-v4, we achieve 3.08 percent top-5 error on the test set of the ImageNet classification (CLS) challenge<br>\n\n**Authors: Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, Alex Alemi**<br>\n**https://arxiv.org/abs/1602.07261**\n\n---\n\n## InceptionResnetV2 Architecture\n\n![InceptionResnetV2 Architecture][1]\n\n\n---\n\n### What is a Pre-trained Model?\nA pre-trained model has been previously trained on a dataset and contains the weights and biases that represent the features of whichever dataset it was trained on. Learned features are often transferable to different data. For example, a model trained on a large dataset of bird images will contain learned features like edges or horizontal lines that you would be transferable your dataset. \n\n### Why use a Pre-trained Model?\nPre-trained models are beneficial to us for many reasons. By using a pre-trained model you are saving time. Someone else has already spent the time and compute resources to learn a lot of features and your model will likely benefit from it. \n\n\n  [1]: https://1.bp.blogspot.com/-O7AznVGY9js/V8cV_wKKsMI/AAAAAAAABKQ/maO7n2w3dT4Pkcmk7wgGqiSX5FUW2sfZgCLcB/s1600/image00.png",
+  "datasetId": 6307,
+  "datasetSlug": "inceptionresnetv2",
+  "hasDatasetSlug": true,
+  "ownerUser": "crawford",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 15424,
+  "totalVotes": 23,
+  "totalDownloads": 767,
+  "title": "InceptionResNetV2",
+  "hasTitle": true,
+  "subtitle": "InceptionResNetV2 Pre-trained Model for Keras",
+  "hasSubtitle": true,
+  "description": "# Inception-Resnet-V2\n\n---\n\n## Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning<br>\nVery deep convolutional networks have been central to the largest advances in image recognition performance in recent years. One example is the Inception architecture that has been shown to achieve very good performance at relatively low computational cost. Recently, the introduction of residual connections in conjunction with a more traditional architecture has yielded state-of-the-art performance in the 2015 ILSVRC challenge; its performance was similar to the latest generation Inception-v3 network. This raises the question of whether there are any benefit in combining the Inception architecture with residual connections. Here we give clear empirical evidence that training with residual connections accelerates the training of Inception networks significantly. There is also some evidence of residual Inception networks outperforming similarly expensive Inception networks without residual connections by a thin margin. We also present several new streamlined architectures for both residual and non-residual Inception networks. These variations improve the single-frame recognition performance on the ILSVRC 2012 classification task significantly. We further demonstrate how proper activation scaling stabilizes the training of very wide residual Inception networks. With an ensemble of three residual and one Inception-v4, we achieve 3.08 percent top-5 error on the test set of the ImageNet classification (CLS) challenge<br>\n\n**Authors: Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, Alex Alemi**<br>\n**https://arxiv.org/abs/1602.07261**\n\n---\n\n## InceptionResnetV2 Architecture\n\n![InceptionResnetV2 Architecture][1]\n\n\n---\n\n### What is a Pre-trained Model?\nA pre-trained model has been previously trained on a dataset and contains the weights and biases that represent the features of whichever dataset it was trained on. Learned features are often transferable to different data. For example, a model trained on a large dataset of bird images will contain learned features like edges or horizontal lines that you would be transferable your dataset. \n\n### Why use a Pre-trained Model?\nPre-trained models are beneficial to us for many reasons. By using a pre-trained model you are saving time. Someone else has already spent the time and compute resources to learn a lot of features and your model will likely benefit from it. \n\n\n  [1]: https://1.bp.blogspot.com/-O7AznVGY9js/V8cV_wKKsMI/AAAAAAAABKQ/maO7n2w3dT4Pkcmk7wgGqiSX5FUW2sfZgCLcB/s1600/image00.png",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

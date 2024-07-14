@@ -1,0 +1,53 @@
+{
+  "id": "muhammedbrahimtop/turkish-book-data-set",
+  "id_no": 4265887,
+  "datasetSlugNullable": "turkish-book-data-set",
+  "ownerUserNullable": "muhammedbrahimtop",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Turkish Book Data Set",
+  "subtitleNullable": "Turkish Book Data: Titles, Authors, Descriptions in Turkish Literature",
+  "descriptionNullable": "**Turkish Book Data Set**\n\nThis dataset is a comprehensive compilation of Turkish books obtained through web scraping from the internet. Each record in the dataset contains essential information such as the book's title, author, publisher, publication year, page count, category, description, and image URL.\n\nThis rich dataset can be utilized in various applications, particularly in the analysis through methods such as classification, content-based recommendation algorithms, and natural language processing (NLP). For researchers, students, and data scientists, this dataset serves as a valuable resource for exploring Turkish literature, generating book recommendations, or developing machine learning models.",
+  "datasetId": 4265887,
+  "datasetSlug": "turkish-book-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammedbrahimtop",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 219,
+  "totalVotes": 4,
+  "totalDownloads": 36,
+  "title": "Turkish Book Data Set",
+  "hasTitle": true,
+  "subtitle": "Turkish Book Data: Titles, Authors, Descriptions in Turkish Literature",
+  "hasSubtitle": true,
+  "description": "**Turkish Book Data Set**\n\nThis dataset is a comprehensive compilation of Turkish books obtained through web scraping from the internet. Each record in the dataset contains essential information such as the book's title, author, publisher, publication year, page count, category, description, and image URL.\n\nThis rich dataset can be utilized in various applications, particularly in the analysis through methods such as classification, content-based recommendation algorithms, and natural language processing (NLP). For researchers, students, and data scientists, this dataset serves as a valuable resource for exploring Turkish literature, generating book recommendations, or developing machine learning models.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "nlp",
+    "data analytics",
+    "text",
+    "text classification",
+    "turkish"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "muhammedesaddoan",
+      "role": "writer"
+    },
+    {
+      "username": "diyartrk",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

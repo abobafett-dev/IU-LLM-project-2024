@@ -1,0 +1,42 @@
+{
+  "id": "michaelbryantds/pizza-images-with-topping-labels",
+  "id_no": 2589360,
+  "datasetSlugNullable": "pizza-images-with-topping-labels",
+  "ownerUserNullable": "michaelbryantds",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Pizza Topping Image Dataset",
+  "subtitleNullable": "9,213 annotated pizza images from a research group at MIT",
+  "descriptionNullable": "Pizza is the most photographed food on Instagram with over 38 million posts using the hashtag #pizza. A team at MIT downloaded half a million images from Instagram using several popular pizza-related hashtags. Then, filtered out the undesired images using a CNN-based classifier trained on a small set of manually labeled pizza/non-pizza images.\n\nThe team crowd-source image-level labels for the pizza toppings on Amazon Mechanical Turk (AMT) for 9,213 pizza images. Given a pizza image, the annotators were instructed to label all the toppings that are visible on top of the pizza. To ensure high quality, every image was annotated by five different annotators, and the final image labels were obtained using majority vote.\n\nSource: http://pizzagan.csail.mit.edu/",
+  "datasetId": 2589360,
+  "datasetSlug": "pizza-images-with-topping-labels",
+  "hasDatasetSlug": true,
+  "ownerUser": "michaelbryantds",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 6954,
+  "totalVotes": 24,
+  "totalDownloads": 565,
+  "title": "Pizza Topping Image Dataset",
+  "hasTitle": true,
+  "subtitle": "9,213 annotated pizza images from a research group at MIT",
+  "hasSubtitle": true,
+  "description": "Pizza is the most photographed food on Instagram with over 38 million posts using the hashtag #pizza. A team at MIT downloaded half a million images from Instagram using several popular pizza-related hashtags. Then, filtered out the undesired images using a CNN-based classifier trained on a small set of manually labeled pizza/non-pizza images.\n\nThe team crowd-source image-level labels for the pizza toppings on Amazon Mechanical Turk (AMT) for 9,213 pizza images. Given a pizza image, the annotators were instructed to label all the toppings that are visible on top of the pizza. To ensure high quality, every image was annotated by five different annotators, and the final image labels were obtained using majority vote.\n\nSource: http://pizzagan.csail.mit.edu/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "multiclass classification",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

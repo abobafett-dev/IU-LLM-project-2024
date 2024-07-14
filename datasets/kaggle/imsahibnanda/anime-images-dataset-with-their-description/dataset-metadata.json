@@ -1,0 +1,43 @@
+{
+  "id": "imsahibnanda/anime-images-dataset-with-their-description",
+  "id_no": 4687178,
+  "datasetSlugNullable": "anime-images-dataset-with-their-description",
+  "ownerUserNullable": "imsahibnanda",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Anime Images Dataset With Their Description",
+  "subtitleNullable": "Anime Captioned Image Dataset",
+  "descriptionNullable": "This Dataset contains total 3980 (`768x768`) Anime Style Images\n\nHere is the dataset deconstruction:\n- It has 2 folders, `90s Styled Anime Images` & `Randomly Styled Anime Images`\n- `90s Styled Anime Images` contains 1980 images styled as 90s anime\n- `Randomly Styled Anime Images` contains 2000 randomly anime styled images\n- Each folder (`90s Styled Anime Images` & `Randomly Styled Anime Images`) has a file called `metadata.json` that contains relative path of image with it's description\n- This means whole dataset has 3982 files divided across 2 folders\n\nData is generated using rule based prompt generation technique",
+  "datasetId": 4687178,
+  "datasetSlug": "anime-images-dataset-with-their-description",
+  "hasDatasetSlug": true,
+  "ownerUser": "imsahibnanda",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 179,
+  "totalVotes": 4,
+  "totalDownloads": 8,
+  "title": "Anime Images Dataset With Their Description",
+  "hasTitle": true,
+  "subtitle": "Anime Captioned Image Dataset",
+  "hasSubtitle": true,
+  "description": "This Dataset contains total 3980 (`768x768`) Anime Style Images\n\nHere is the dataset deconstruction:\n- It has 2 folders, `90s Styled Anime Images` & `Randomly Styled Anime Images`\n- `90s Styled Anime Images` contains 1980 images styled as 90s anime\n- `Randomly Styled Anime Images` contains 2000 randomly anime styled images\n- Each folder (`90s Styled Anime Images` & `Randomly Styled Anime Images`) has a file called `metadata.json` that contains relative path of image with it's description\n- This means whole dataset has 3982 files divided across 2 folders\n\nData is generated using rule based prompt generation technique",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "image",
+    "text",
+    "anime and manga",
+    "image generator"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

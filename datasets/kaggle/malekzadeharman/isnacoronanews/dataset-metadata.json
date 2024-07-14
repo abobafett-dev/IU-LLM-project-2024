@@ -1,0 +1,43 @@
+{
+  "id": "malekzadeharman/isnacoronanews",
+  "id_no": 1712798,
+  "datasetSlugNullable": "isnacoronanews",
+  "ownerUserNullable": "malekzadeharman",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "ISNA-CoronaNews",
+  "subtitleNullable": "Latest Corona News about Iran in Persian",
+  "descriptionNullable": "### Context\n\nThe dataset contains more than 1500 articles about the status of the spread of the Coronavirus in Iran, published by the [Iranian Students News Agency (ISNA)](https://www.isna.ir/). The articles are crawled from the website of the agency ([\"Corona in Iran\" section](https://www.isna.ir/archive?kw=%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D8%AF%D8%B1+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86) which contains more than 100 pages) on November 10th, 2021. All of the articles are in Persian language which is the main spoken language in Iran.\n\n\n### Content\n\nEach article is presented as a JSON object containing the following information:\n- title: The main title of the article\n- body: The body of the corresponding article (containing some lines of text)\n- tags: The related tags attached to each article by the author (e.g., the province the news is about)\n- category: The main category the article belongs to (e.g., \"\u0633\u0644\u0627\u0645\u062a\" which translates to \"Health\")\n- publish_day: The day of the week on which the article was published\n- publish_datetime: The date and time on which the article was published (according to the Solar Hijri calendar, and Tehran time [GMT +3:30])\n- link: The link to the original webpage from which the article was obtained\n\n### Inspiration\n\nThe dataset can be used to gain insights into the spread of the COVID-19 in Iran, which was reported to be one of the most injured countries in the past years due to the unpleasant virus that has become a part of our lives for a while, unfortunately. It can also be used to infer some statistics about the number of people who were infected or passed away because of the virus. Moreover, pre-trained Persian language models can be adapted to the medical domain related to the Coronavirus using this small dataset.",
+  "datasetId": 1712798,
+  "datasetSlug": "isnacoronanews",
+  "hasDatasetSlug": true,
+  "ownerUser": "malekzadeharman",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2502,
+  "totalVotes": 17,
+  "totalDownloads": 133,
+  "title": "ISNA-CoronaNews",
+  "hasTitle": true,
+  "subtitle": "Latest Corona News about Iran in Persian",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe dataset contains more than 1500 articles about the status of the spread of the Coronavirus in Iran, published by the [Iranian Students News Agency (ISNA)](https://www.isna.ir/). The articles are crawled from the website of the agency ([\"Corona in Iran\" section](https://www.isna.ir/archive?kw=%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D8%AF%D8%B1+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86) which contains more than 100 pages) on November 10th, 2021. All of the articles are in Persian language which is the main spoken language in Iran.\n\n\n### Content\n\nEach article is presented as a JSON object containing the following information:\n- title: The main title of the article\n- body: The body of the corresponding article (containing some lines of text)\n- tags: The related tags attached to each article by the author (e.g., the province the news is about)\n- category: The main category the article belongs to (e.g., \"\u0633\u0644\u0627\u0645\u062a\" which translates to \"Health\")\n- publish_day: The day of the week on which the article was published\n- publish_datetime: The date and time on which the article was published (according to the Solar Hijri calendar, and Tehran time [GMT +3:30])\n- link: The link to the original webpage from which the article was obtained\n\n### Inspiration\n\nThe dataset can be used to gain insights into the spread of the COVID-19 in Iran, which was reported to be one of the most injured countries in the past years due to the unpleasant virus that has become a part of our lives for a while, unfortunately. It can also be used to infer some statistics about the number of people who were infected or passed away because of the virus. Moreover, pre-trained Persian language models can be adapted to the medical domain related to the Coronavirus using this small dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "asia",
+    "nlp",
+    "text",
+    "news",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

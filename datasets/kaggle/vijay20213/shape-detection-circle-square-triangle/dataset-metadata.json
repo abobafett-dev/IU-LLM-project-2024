@@ -1,0 +1,44 @@
+{
+  "id": "vijay20213/shape-detection-circle-square-triangle",
+  "id_no": 2842727,
+  "datasetSlugNullable": "shape-detection-circle-square-triangle",
+  "ownerUserNullable": "vijay20213",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Shape Detection (Circle, square, Triangle )",
+  "subtitleNullable": "Image classification",
+  "descriptionNullable": "\u2728This dataset which created for detecting three types of shapes Circle, Square, Triangle,\nlabel 0 : circle\nlabel 1: square\nlabel 2: Triangle\n\nThis dataset normalized by dividing by 255 for each value from array\ncolumns from 0 to 624 : Input (Image Pixels)\nlabel : containing 0,1,2 labels",
+  "datasetId": 2842727,
+  "datasetSlug": "shape-detection-circle-square-triangle",
+  "hasDatasetSlug": true,
+  "ownerUser": "vijay20213",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 834,
+  "totalVotes": 5,
+  "totalDownloads": 103,
+  "title": "Shape Detection (Circle, square, Triangle )",
+  "hasTitle": true,
+  "subtitle": "Image classification",
+  "hasSubtitle": true,
+  "description": "\u2728This dataset which created for detecting three types of shapes Circle, Square, Triangle,\nlabel 0 : circle\nlabel 1: square\nlabel 2: Triangle\n\nThis dataset normalized by dividing by 255 for each value from array\ncolumns from 0 to 624 : Input (Image Pixels)\nlabel : containing 0,1,2 labels",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "deep learning",
+    "neural networks",
+    "cnn",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "salikhussaini49/nba-dataset",
+  "id_no": 2871615,
+  "datasetSlugNullable": "nba-dataset",
+  "ownerUserNullable": "salikhussaini49",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "NBA DATASET",
+  "subtitleNullable": "Derive Insights from the NBA Data Platform",
+  "descriptionNullable": "The NBA API is an application programming interface that provides access to data related to the National Basketball Association and its affiliated leagues. It allows developers to retrieve a wide range of data such as player and team statistics, schedules, standings, and news. \n\nThe API is maintained by the NBA and requires developers to register for an API key. The NBA API is a great dataset for developers because it offers a wealth of data that can be used to build a variety of applications such as fantasy sports tools, sports betting analytics, and more. \n\nAdditionally, the API is well-documented, user-friendly, and provides real-time updates, making it a valuable resource for developers looking to create innovative applications in the sports industry.\n\nSteps I took:\n--&gt; Gather all the information related to the NBA API, such as its endpoints, data types, and documentation.\n\n--&gt; Populate the CSV files with the data obtained from the NBA API.",
+  "datasetId": 2871615,
+  "datasetSlug": "nba-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "salikhussaini49",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 3057,
+  "totalVotes": 6,
+  "totalDownloads": 376,
+  "title": "NBA DATASET",
+  "hasTitle": true,
+  "subtitle": "Derive Insights from the NBA Data Platform",
+  "hasSubtitle": true,
+  "description": "The NBA API is an application programming interface that provides access to data related to the National Basketball Association and its affiliated leagues. It allows developers to retrieve a wide range of data such as player and team statistics, schedules, standings, and news. \n\nThe API is maintained by the NBA and requires developers to register for an API key. The NBA API is a great dataset for developers because it offers a wealth of data that can be used to build a variety of applications such as fantasy sports tools, sports betting analytics, and more. \n\nAdditionally, the API is well-documented, user-friendly, and provides real-time updates, making it a valuable resource for developers looking to create innovative applications in the sports industry.\n\nSteps I took:\n--&gt; Gather all the information related to the NBA API, such as its endpoints, data types, and documentation.\n\n--&gt; Populate the CSV files with the data obtained from the NBA API.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "basketball",
+    "sports",
+    "classification",
+    "clustering",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

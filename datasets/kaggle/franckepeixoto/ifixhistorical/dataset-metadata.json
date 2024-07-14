@@ -1,0 +1,43 @@
+{
+  "id": "franckepeixoto/ifixhistorical",
+  "id_no": 1458490,
+  "datasetSlugNullable": "ifixhistorical",
+  "ownerUserNullable": "franckepeixoto",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Brazilian IFIX Historical Data from 2012 to 2021 ",
+  "subtitleNullable": "The Real Estate Investment Funds Index (IFIX) was launched on September 3, 2012 ",
+  "descriptionNullable": "### IFIX\n\nThe Real Estate Investment Funds Index (IFIX) was launched on September 3, 2012 by the former BM&F Bovepa, now B3 (stock exchange).\n\nLike other stock market indices, it measures the performance of a theoretical asset portfolio, which is made up of shares of Real Estate Investment Fund (FII) listed on B3's stock and over-the-counter markets.\n\nAlthough its debut date was in 2012, the index's profitability calculation incorporates values since December 30, 2010, providing a greater comparative horizon for investors in the variable income capital market.\n\n\n### What funds make up the IFIX?\n\nQuotas of real estate funds that cumulatively meet the following criteria may be included in the index:\n\n1. In the period of validity of the 3 (three) previous portfolios, in descending order of Negotiability Index (IN), together represent 95% (ninety-five percent) of the total sum of these indicators.\n2. Have a presence in the trading session of 95% (ninety-five percent) in the period of validity of the 3 (three) previous portfolios.\n3. Not be classified as \u201cPenny Stock\u201d, that is, assets whose weighted average value during the term of the portfolio prior to the rebalancing, disregarding the last day of that period, is less than R$1.00 (one real).\n4. An asset that is the object of a Public Offering carried out during the period of validity of the 3 (three) portfolios prior to the rebalancing will be eligible, even without being listed for the entire period, provided that:\n* the quota distribution has been carried out before the previous rebalancing;\n* has 95% (ninety-five percent) presence since the beginning of the negotiation;\n* cumulatively meets criteria 1 and 3.\n\n### Inspiration by Wikipedia\n\nhttps://pt.wikipedia.org/wiki/IFIX#Quais_fundos_comp%C3%B5em_o_IFIX?",
+  "datasetId": 1458490,
+  "datasetSlug": "ifixhistorical",
+  "hasDatasetSlug": true,
+  "ownerUser": "franckepeixoto",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3040,
+  "totalVotes": 8,
+  "totalDownloads": 68,
+  "title": "Brazilian IFIX Historical Data from 2012 to 2021 ",
+  "hasTitle": true,
+  "subtitle": "The Real Estate Investment Funds Index (IFIX) was launched on September 3, 2012 ",
+  "hasSubtitle": true,
+  "description": "### IFIX\n\nThe Real Estate Investment Funds Index (IFIX) was launched on September 3, 2012 by the former BM&F Bovepa, now B3 (stock exchange).\n\nLike other stock market indices, it measures the performance of a theoretical asset portfolio, which is made up of shares of Real Estate Investment Fund (FII) listed on B3's stock and over-the-counter markets.\n\nAlthough its debut date was in 2012, the index's profitability calculation incorporates values since December 30, 2010, providing a greater comparative horizon for investors in the variable income capital market.\n\n\n### What funds make up the IFIX?\n\nQuotas of real estate funds that cumulatively meet the following criteria may be included in the index:\n\n1. In the period of validity of the 3 (three) previous portfolios, in descending order of Negotiability Index (IN), together represent 95% (ninety-five percent) of the total sum of these indicators.\n2. Have a presence in the trading session of 95% (ninety-five percent) in the period of validity of the 3 (three) previous portfolios.\n3. Not be classified as \u201cPenny Stock\u201d, that is, assets whose weighted average value during the term of the portfolio prior to the rebalancing, disregarding the last day of that period, is less than R$1.00 (one real).\n4. An asset that is the object of a Public Offering carried out during the period of validity of the 3 (three) portfolios prior to the rebalancing will be eligible, even without being listed for the entire period, provided that:\n* the quota distribution has been carried out before the previous rebalancing;\n* has 95% (ninety-five percent) presence since the beginning of the negotiation;\n* cumulatively meets criteria 1 and 3.\n\n### Inspiration by Wikipedia\n\nhttps://pt.wikipedia.org/wiki/IFIX#Quais_fundos_comp%C3%B5em_o_IFIX?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "economics",
+    "exploratory data analysis",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

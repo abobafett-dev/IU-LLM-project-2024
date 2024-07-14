@@ -1,0 +1,39 @@
+{
+  "id": "nishantrock/zs-challenge-find-sentiment-of-news",
+  "id_no": 1277348,
+  "datasetSlugNullable": "zs-challenge-find-sentiment-of-news",
+  "ownerUserNullable": "nishantrock",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "ZS Challenge : Find Sentiment of news ",
+  "subtitleNullable": "",
+  "descriptionNullable": "Eval Metric : Weighted sum of MAE on bota predicted values.",
+  "datasetId": 1277348,
+  "datasetSlug": "zs-challenge-find-sentiment-of-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "nishantrock",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 1857,
+  "totalVotes": 3,
+  "totalDownloads": 37,
+  "title": "ZS Challenge : Find Sentiment of news ",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Eval Metric : Weighted sum of MAE on bota predicted values.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

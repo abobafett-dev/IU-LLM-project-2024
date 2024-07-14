@@ -1,0 +1,43 @@
+{
+  "id": "abuchionwuegbusi/movie-recommendation",
+  "id_no": 4932411,
+  "datasetSlugNullable": "movie-recommendation",
+  "ownerUserNullable": "abuchionwuegbusi",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Movie_recommendation",
+  "subtitleNullable": "movie details dataset",
+  "descriptionNullable": "This dataset contains information about movie names, release date, production country, revenue, genre etc\n\n\nSource: https://drive.google.com/file/d/1cCkwiVv4mgfl20ntgY3n4yApcWqqZQe6/view?pli=1",
+  "datasetId": 4932411,
+  "datasetSlug": "movie-recommendation",
+  "hasDatasetSlug": true,
+  "ownerUser": "abuchionwuegbusi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 84,
+  "totalVotes": 3,
+  "totalDownloads": 11,
+  "title": "Movie_recommendation",
+  "hasTitle": true,
+  "subtitle": "movie details dataset",
+  "hasSubtitle": true,
+  "description": "This dataset contains information about movie names, release date, production country, revenue, genre etc\n\n\nSource: https://drive.google.com/file/d/1cCkwiVv4mgfl20ntgY3n4yApcWqqZQe6/view?pli=1",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "data cleaning",
+    "data visualization",
+    "recommender systems",
+    "ml ethics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

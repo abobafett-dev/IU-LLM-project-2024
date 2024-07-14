@@ -1,0 +1,41 @@
+{
+  "id": "rutvijesdiya/social-media",
+  "id_no": 4930169,
+  "datasetSlugNullable": "social-media",
+  "ownerUserNullable": "rutvijesdiya",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Social_Media",
+  "subtitleNullable": "A robust recommendation system analyzes user preferences to suggest post to user",
+  "descriptionNullable": "# **Recommendation System**\n**Identify users who might be interested in a particular post by analyzing the likes of similar users.**\n\n\nThis dataset contain **likes_challenge, posts_challenge, users_challenge** and **testing _users** csv files.\n\n\n**1) post_challenge:** posts_challenge: This file contains information about posts, with columns for user_id (the user who posted the post) and post_id (the ID of the posted post).\n\n**2) users_challenge:**  This file contains information about users, with columns for user_name (the name of the user who posted a post) and user_id (the ID corresponding to the user's name).\n\n**3) likes_challange:**This file contains data about likes on posts, with columns for user_id (the ID of the user who liked a post) and post_id (the ID of the post that was liked by the user).\n\n**4) testing_users:**This file contains data about users, with columns for user_id and user_name, presumably for testing purposes. \n\n\n",
+  "datasetId": 4930169,
+  "datasetSlug": "social-media",
+  "hasDatasetSlug": true,
+  "ownerUser": "rutvijesdiya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 853,
+  "totalVotes": 7,
+  "totalDownloads": 71,
+  "title": "Social_Media",
+  "hasTitle": true,
+  "subtitle": "A robust recommendation system analyzes user preferences to suggest post to user",
+  "hasSubtitle": true,
+  "description": "# **Recommendation System**\n**Identify users who might be interested in a particular post by analyzing the likes of similar users.**\n\n\nThis dataset contain **likes_challenge, posts_challenge, users_challenge** and **testing _users** csv files.\n\n\n**1) post_challenge:** posts_challenge: This file contains information about posts, with columns for user_id (the user who posted the post) and post_id (the ID of the posted post).\n\n**2) users_challenge:**  This file contains information about users, with columns for user_name (the name of the user who posted a post) and user_id (the ID corresponding to the user's name).\n\n**3) likes_challange:**This file contains data about likes on posts, with columns for user_id (the ID of the user who liked a post) and post_id (the ID of the post that was liked by the user).\n\n**4) testing_users:**This file contains data about users, with columns for user_id and user_name, presumably for testing purposes. \n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "marketing",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

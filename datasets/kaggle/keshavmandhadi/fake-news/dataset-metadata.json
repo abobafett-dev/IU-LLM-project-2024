@@ -1,0 +1,39 @@
+{
+  "id": "keshavmandhadi/fake-news",
+  "id_no": 5110027,
+  "datasetSlugNullable": "fake-news",
+  "ownerUserNullable": "keshavmandhadi",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Fake News",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 5110027,
+  "datasetSlug": "fake-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "keshavmandhadi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 18,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Fake News",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

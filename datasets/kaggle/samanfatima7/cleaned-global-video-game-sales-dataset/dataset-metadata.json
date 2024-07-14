@@ -1,0 +1,43 @@
+{
+  "id": "samanfatima7/cleaned-global-video-game-sales-dataset",
+  "id_no": 5075714,
+  "datasetSlugNullable": "cleaned-global-video-game-sales-dataset",
+  "ownerUserNullable": "samanfatima7",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Cleaned Global Video Game Sales Dataset",
+  "subtitleNullable": "Cleaned Global Video Games Dataset ",
+  "descriptionNullable": "# COLUMNS IN THE DATASET\n\n**Rank**: *Integer ranking of the video game based on sales.*\n**Name**:* Name of the video game.*\n**Platform**: *Gaming platform the video game is available on (e.g., PS4, Xbox).*\n**Year**: *Year of release of the video game.*\n**Genre**: *Category or type of the video game (e.g., Action, Adventure).*\n**Publisher**: *Company that published the video game.*\n**NA_Sales**: *Sales of the video game in North America (in millions).*\n**EU_Sales**: *Sales of the video game in Europe (in millions).*\n**JP_Sales**: *Sales of the video game in Japan (in millions).*\n**Other_Sales**: *Sales of the video game in other regions (in millions).*\n**Global_Sales**: *Total global sales of the video game (in millions).*\n\n# SHAPE OF THE DATASET\n\n**ROWS**        ===&gt; 11470\n**COLUMNS** ===&gt; 11\n\n## NULL VALUES IN THE DATASET\n\n0 \n\n## DUPLICATE  VALUES IN THE DATASET\n\n0",
+  "datasetId": 5075714,
+  "datasetSlug": "cleaned-global-video-game-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "samanfatima7",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 698,
+  "totalVotes": 41,
+  "totalDownloads": 115,
+  "title": "Cleaned Global Video Game Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "Cleaned Global Video Games Dataset ",
+  "hasSubtitle": true,
+  "description": "# COLUMNS IN THE DATASET\n\n**Rank**: *Integer ranking of the video game based on sales.*\n**Name**:* Name of the video game.*\n**Platform**: *Gaming platform the video game is available on (e.g., PS4, Xbox).*\n**Year**: *Year of release of the video game.*\n**Genre**: *Category or type of the video game (e.g., Action, Adventure).*\n**Publisher**: *Company that published the video game.*\n**NA_Sales**: *Sales of the video game in North America (in millions).*\n**EU_Sales**: *Sales of the video game in Europe (in millions).*\n**JP_Sales**: *Sales of the video game in Japan (in millions).*\n**Other_Sales**: *Sales of the video game in other regions (in millions).*\n**Global_Sales**: *Total global sales of the video game (in millions).*\n\n# SHAPE OF THE DATASET\n\n**ROWS**        ===&gt; 11470\n**COLUMNS** ===&gt; 11\n\n## NULL VALUES IN THE DATASET\n\n0 \n\n## DUPLICATE  VALUES IN THE DATASET\n\n0",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "video games",
+    "data visualization",
+    "tabular",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pinnertw/pupil-labsunity-data-on-218-sujets",
+  "id_no": 599767,
+  "datasetSlugNullable": "pupil-labsunity-data-on-218-sujets",
+  "ownerUserNullable": "pinnertw",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Pupil labs/Unity data on 218 subjects",
+  "subtitleNullable": "AI for emotion detection",
+  "descriptionNullable": "### Context\n\nDataset that we obtained during our project at l'\u00e9cole Polytechnique. However, we can't find out the good pattern to predict the valence-arousal from our dataset.\n\n\n### Content\n\nX set :\nThe dataset is mesured at a frequency from 2Hz to 500Hz, which is synchronized with 1000Hz. The data original takes 25s as length, but we keep the last 16s because of the variable \"confiance\" from Pupil labs.\n\nThere are 37 * 2  (37 for each eye, Pupil labs) + 20 (head movement + brightness, Unity) = 94 characteristics for each time series. The time series are under the format of (Subject, time, channels).\nThe 94 characteristics are : \n'norm_pos_x_x_x' 'norm_pos_x_x_y' 'norm_pos_y_x_x' 'norm_pos_y_x_y'\n 'diameter_x' 'diameter_y' 'ellipse_center_x_x' 'ellipse_center_x_y'\n 'ellipse_center_y_x' 'ellipse_center_y_y' 'ellipse_axis_a_x'\n 'ellipse_axis_a_y' 'ellipse_axis_b_x' 'ellipse_axis_b_y'\n 'ellipse_angle_x' 'ellipse_angle_y' 'diameter_3d_x' 'diameter_3d_y'\n 'sphere_center_x_x' 'sphere_center_x_y' 'sphere_center_y_x'\n 'sphere_center_y_y' 'sphere_center_z_x' 'sphere_center_z_y'\n 'sphere_radius_x' 'sphere_radius_y' 'circle_3d_center_x_x'\n 'circle_3d_center_x_y' 'circle_3d_center_y_x' 'circle_3d_center_y_y'\n 'circle_3d_center_z_x' 'circle_3d_center_z_y' 'circle_3d_normal_x_x'\n 'circle_3d_normal_x_y' 'circle_3d_normal_y_x' 'circle_3d_normal_y_y'\n 'circle_3d_normal_z_x' 'circle_3d_normal_z_y' 'circle_3d_radius_x'\n 'circle_3d_radius_y' 'theta_x' 'theta_y' 'phi_x' 'phi_y'\n 'projected_sphere_center_x_x' 'projected_sphere_center_x_y'\n 'projected_sphere_center_y_x' 'projected_sphere_center_y_y'\n 'projected_sphere_axis_a_x' 'projected_sphere_axis_a_y'\n 'projected_sphere_axis_b_x' 'projected_sphere_axis_b_y'\n 'projected_sphere_angle_x' 'projected_sphere_angle_y' 'norm_pos_x_y_x'\n 'norm_pos_x_y_y' 'norm_pos_y_y_x' 'norm_pos_y_y_y' 'gaze_point_3d_x_x'\n 'gaze_point_3d_x_y' 'gaze_point_3d_y_x' 'gaze_point_3d_y_y'\n 'gaze_point_3d_z_x' 'gaze_point_3d_z_y' 'eye_center0_3d_x_x'\n 'eye_center0_3d_x_y' 'eye_center0_3d_y_x' 'eye_center0_3d_y_y'\n 'eye_center0_3d_z_x' 'eye_center0_3d_z_y' 'gaze_normal0_x_x'\n 'gaze_normal0_x_y' 'gaze_normal0_y_x' 'gaze_normal0_y_y'\n 'gaze_normal0_z_x' 'gaze_normal0_z_y' 'r' 'g' 'b' 'brightness' 'xl' 'yl'\n 'zl' 'xr' 'yr' 'zr' 'ql' 'qxl' 'qyl' 'qzl' 'qr' 'qxr' 'qyr' 'qzr'\nPupil labs give, for example, two 'norm_pos_x' for right eye, and thus \n'norm_pos_x_y_x' is 'norm_pos_x' provided by the second one, and the last x means that it corresponds to the right eye. Whereas 'norm_pos_x_x_y' correspond to the first 'norm_pos_x' given by Pupil labs for the left eye.\nThe variables after 'r' come from Unity, which is extracted with SteamVR.\n\nYou can find out more information on the site of Pupil labs.\n\n### Inspiration\n\nY set :\nThe y (labels) files correspond to the valence and arousal between 0 and 1 after normalization, which was between 1 and 7 as an integer. The valence signify whether the emotion is positif or not (bigger -&gt; more positif). The arousal signify whether the emotion is calm or excited (bigger -&gt; more excited).\n\nTry to find out the relation between our X set and Y set!",
+  "datasetId": 599767,
+  "datasetSlug": "pupil-labsunity-data-on-218-sujets",
+  "hasDatasetSlug": true,
+  "ownerUser": "pinnertw",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 1723,
+  "totalVotes": 1,
+  "totalDownloads": 22,
+  "title": "Pupil labs/Unity data on 218 subjects",
+  "hasTitle": true,
+  "subtitle": "AI for emotion detection",
+  "hasSubtitle": true,
+  "description": "### Context\n\nDataset that we obtained during our project at l'\u00e9cole Polytechnique. However, we can't find out the good pattern to predict the valence-arousal from our dataset.\n\n\n### Content\n\nX set :\nThe dataset is mesured at a frequency from 2Hz to 500Hz, which is synchronized with 1000Hz. The data original takes 25s as length, but we keep the last 16s because of the variable \"confiance\" from Pupil labs.\n\nThere are 37 * 2  (37 for each eye, Pupil labs) + 20 (head movement + brightness, Unity) = 94 characteristics for each time series. The time series are under the format of (Subject, time, channels).\nThe 94 characteristics are : \n'norm_pos_x_x_x' 'norm_pos_x_x_y' 'norm_pos_y_x_x' 'norm_pos_y_x_y'\n 'diameter_x' 'diameter_y' 'ellipse_center_x_x' 'ellipse_center_x_y'\n 'ellipse_center_y_x' 'ellipse_center_y_y' 'ellipse_axis_a_x'\n 'ellipse_axis_a_y' 'ellipse_axis_b_x' 'ellipse_axis_b_y'\n 'ellipse_angle_x' 'ellipse_angle_y' 'diameter_3d_x' 'diameter_3d_y'\n 'sphere_center_x_x' 'sphere_center_x_y' 'sphere_center_y_x'\n 'sphere_center_y_y' 'sphere_center_z_x' 'sphere_center_z_y'\n 'sphere_radius_x' 'sphere_radius_y' 'circle_3d_center_x_x'\n 'circle_3d_center_x_y' 'circle_3d_center_y_x' 'circle_3d_center_y_y'\n 'circle_3d_center_z_x' 'circle_3d_center_z_y' 'circle_3d_normal_x_x'\n 'circle_3d_normal_x_y' 'circle_3d_normal_y_x' 'circle_3d_normal_y_y'\n 'circle_3d_normal_z_x' 'circle_3d_normal_z_y' 'circle_3d_radius_x'\n 'circle_3d_radius_y' 'theta_x' 'theta_y' 'phi_x' 'phi_y'\n 'projected_sphere_center_x_x' 'projected_sphere_center_x_y'\n 'projected_sphere_center_y_x' 'projected_sphere_center_y_y'\n 'projected_sphere_axis_a_x' 'projected_sphere_axis_a_y'\n 'projected_sphere_axis_b_x' 'projected_sphere_axis_b_y'\n 'projected_sphere_angle_x' 'projected_sphere_angle_y' 'norm_pos_x_y_x'\n 'norm_pos_x_y_y' 'norm_pos_y_y_x' 'norm_pos_y_y_y' 'gaze_point_3d_x_x'\n 'gaze_point_3d_x_y' 'gaze_point_3d_y_x' 'gaze_point_3d_y_y'\n 'gaze_point_3d_z_x' 'gaze_point_3d_z_y' 'eye_center0_3d_x_x'\n 'eye_center0_3d_x_y' 'eye_center0_3d_y_x' 'eye_center0_3d_y_y'\n 'eye_center0_3d_z_x' 'eye_center0_3d_z_y' 'gaze_normal0_x_x'\n 'gaze_normal0_x_y' 'gaze_normal0_y_x' 'gaze_normal0_y_y'\n 'gaze_normal0_z_x' 'gaze_normal0_z_y' 'r' 'g' 'b' 'brightness' 'xl' 'yl'\n 'zl' 'xr' 'yr' 'zr' 'ql' 'qxl' 'qyl' 'qzl' 'qr' 'qxr' 'qyr' 'qzr'\nPupil labs give, for example, two 'norm_pos_x' for right eye, and thus \n'norm_pos_x_y_x' is 'norm_pos_x' provided by the second one, and the last x means that it corresponds to the right eye. Whereas 'norm_pos_x_x_y' correspond to the first 'norm_pos_x' given by Pupil labs for the left eye.\nThe variables after 'r' come from Unity, which is extracted with SteamVR.\n\nYou can find out more information on the site of Pupil labs.\n\n### Inspiration\n\nY set :\nThe y (labels) files correspond to the valence and arousal between 0 and 1 after normalization, which was between 1 and 7 as an integer. The valence signify whether the emotion is positif or not (bigger -&gt; more positif). The arousal signify whether the emotion is calm or excited (bigger -&gt; more excited).\n\nTry to find out the relation between our X set and Y set!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "primary and secondary schools"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

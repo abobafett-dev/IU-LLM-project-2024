@@ -1,0 +1,44 @@
+{
+  "id": "yukawithdata/starbucks-environment",
+  "id_no": 3598242,
+  "datasetSlugNullable": "starbucks-environment",
+  "ownerUserNullable": "yukawithdata",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Starbucks Global Environmental Impact Report FY22",
+  "subtitleNullable": "Measuring Sustainability Progress and Initiatives for Fiscal Year 2022",
+  "descriptionNullable": "\ud83d\udc81\u200d\u2640\ufe0fPlease take a moment to carefully read through this description and metadata to better understand the dataset and its nuances before proceeding to the Suggestions and Discussions section.\n\n**\ud83d\udcd1Description:**\n\nThis dataset contains the environmental part of [Starbucks Global Environmental & Social Impact Report for Fiscal Year 2022 (FY22)](https://stories.starbucks.com/uploads/2023/06/Starbucks-2022-Global-Environmental-and-Social-Impact-Report.pdf). The report focuses on Starbucks' efforts, initiatives, and progress toward minimizing its environmental footprint and contributing to sustainability. It provides insights into the company's strategies, achievements, and targets related to various environmental aspects.\n\n**\ud83d\udccaContent:**\n\nThe dataset includes a PDF document of the Starbucks Global Environmental Impact Report for FY22. The report covers a wide range of topics, including:\n\n- Energy Consumption (MWh)\n- Greenhouse Gas Emissions (mtCO2e)\n- Packaging Materials (thousand metric tons)\n- Plastic Packaging Materials (thousand metric tons)\n- Operational Waste (thousand metric tons)\n- Water Withdrawals (megaliters)\n\n**\ud83c\udf1dUsage:**\n\nThis dataset serves as a valuable resource for researchers, analysts, and enthusiasts interested in understanding Starbucks' commitment to environmental sustainability. Analysts can extract information, trends, and data points from the report to analyze Starbucks' progress in achieving its sustainability goals. Researchers can use the dataset to study Starbucks' environmental policies and practices, helping to inform discussions and decisions in the field of corporate sustainability. Moreover, the insights gained from their research will contribute to shaping informed dialogues and pivotal decisions within the realm of corporate sustainability.\n\n**\ud83d\udcbeData Preparation:**\n\nThe dataset is derived from the Starbucks Global Environmental & Social Impact Report for FY22, which consists of publicly accessible fiscal year data. The initial dataset was sourced from a PDF document, an impractical format for data analysis. To facilitate effective analysis, I meticulously transcribed the data from the PDF into a PostgreSQL database managed by pgAdmin 4.\n\nThroughout this process, I addressed various challenges including missing data entries, most notably the complete absence of data for the year 2020. To handle these gaps, I assigned Null values to the corresponding data points. Additionally, I introduced a dedicated year column and restructured the data by transforming the rows and columns to enhance the dataset's suitability for time series analysis.\n\nThis comprehensive data preparation effort ensures that the dataset is now ready for meaningful exploration, analysis, and insights into Starbucks' environmental impact trends.\n\n**\ud83d\udc81\u200d\u2640\ufe0fAttribution:**\n\nWhen using this dataset, please make sure to properly attribute the original data to Starbucks Corporation by referencing the primary source as \"Starbucks Global Environmental and Social Impact Report FY22.\" This data maintainer is not affiliated with Starbucks Corporation or any third-party entity.\n\n**\ud83d\uded1Disclaimer:**\n\nThe dataset is provided for **educational, research, and analysis purposes only**. The accuracy and completeness of the data are based on the original report published by Starbucks Corporation. Users are encouraged to refer to the official Starbucks website and publications for the most up-to-date and accurate information.",
+  "datasetId": 3598242,
+  "datasetSlug": "starbucks-environment",
+  "hasDatasetSlug": true,
+  "ownerUser": "yukawithdata",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2358,
+  "totalVotes": 9,
+  "totalDownloads": 309,
+  "title": "Starbucks Global Environmental Impact Report FY22",
+  "hasTitle": true,
+  "subtitle": "Measuring Sustainability Progress and Initiatives for Fiscal Year 2022",
+  "hasSubtitle": true,
+  "description": "\ud83d\udc81\u200d\u2640\ufe0fPlease take a moment to carefully read through this description and metadata to better understand the dataset and its nuances before proceeding to the Suggestions and Discussions section.\n\n**\ud83d\udcd1Description:**\n\nThis dataset contains the environmental part of [Starbucks Global Environmental & Social Impact Report for Fiscal Year 2022 (FY22)](https://stories.starbucks.com/uploads/2023/06/Starbucks-2022-Global-Environmental-and-Social-Impact-Report.pdf). The report focuses on Starbucks' efforts, initiatives, and progress toward minimizing its environmental footprint and contributing to sustainability. It provides insights into the company's strategies, achievements, and targets related to various environmental aspects.\n\n**\ud83d\udccaContent:**\n\nThe dataset includes a PDF document of the Starbucks Global Environmental Impact Report for FY22. The report covers a wide range of topics, including:\n\n- Energy Consumption (MWh)\n- Greenhouse Gas Emissions (mtCO2e)\n- Packaging Materials (thousand metric tons)\n- Plastic Packaging Materials (thousand metric tons)\n- Operational Waste (thousand metric tons)\n- Water Withdrawals (megaliters)\n\n**\ud83c\udf1dUsage:**\n\nThis dataset serves as a valuable resource for researchers, analysts, and enthusiasts interested in understanding Starbucks' commitment to environmental sustainability. Analysts can extract information, trends, and data points from the report to analyze Starbucks' progress in achieving its sustainability goals. Researchers can use the dataset to study Starbucks' environmental policies and practices, helping to inform discussions and decisions in the field of corporate sustainability. Moreover, the insights gained from their research will contribute to shaping informed dialogues and pivotal decisions within the realm of corporate sustainability.\n\n**\ud83d\udcbeData Preparation:**\n\nThe dataset is derived from the Starbucks Global Environmental & Social Impact Report for FY22, which consists of publicly accessible fiscal year data. The initial dataset was sourced from a PDF document, an impractical format for data analysis. To facilitate effective analysis, I meticulously transcribed the data from the PDF into a PostgreSQL database managed by pgAdmin 4.\n\nThroughout this process, I addressed various challenges including missing data entries, most notably the complete absence of data for the year 2020. To handle these gaps, I assigned Null values to the corresponding data points. Additionally, I introduced a dedicated year column and restructured the data by transforming the rows and columns to enhance the dataset's suitability for time series analysis.\n\nThis comprehensive data preparation effort ensures that the dataset is now ready for meaningful exploration, analysis, and insights into Starbucks' environmental impact trends.\n\n**\ud83d\udc81\u200d\u2640\ufe0fAttribution:**\n\nWhen using this dataset, please make sure to properly attribute the original data to Starbucks Corporation by referencing the primary source as \"Starbucks Global Environmental and Social Impact Report FY22.\" This data maintainer is not affiliated with Starbucks Corporation or any third-party entity.\n\n**\ud83d\uded1Disclaimer:**\n\nThe dataset is provided for **educational, research, and analysis purposes only**. The accuracy and completeness of the data are based on the original report published by Starbucks Corporation. Users are encouraged to refer to the official Starbucks website and publications for the most up-to-date and accurate information.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "environment",
+    "business",
+    "data cleaning",
+    "data visualization",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

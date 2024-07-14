@@ -1,0 +1,48 @@
+{
+  "id": "yveslr/open-famous-people-faces",
+  "id_no": 2421941,
+  "datasetSlugNullable": "open-famous-people-faces",
+  "ownerUserNullable": "yveslr",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Open Famous People Faces",
+  "subtitleNullable": "Famous people faces dataset to test facial recognition methods",
+  "descriptionNullable": "This dataset was created to compare methods for face reidentification, that is, given an image and a name of a person, check if that image belongs to that person. But it also can be used to test face recognition algorithms, since the dataset has been categorized.\n\nThe autors have made a great effort to collect as much images as they could for all classes inside the dataset. Faces were aligned using eye position alignment and then cropped using landmarks to find the region of interest.\n\nThe Open Famous People Faces dataset contains 258 classes with at least 5 images per class. Images have different sizes, some are low quality and small sized images, others are high quality and big sized images. We have images from the same person at different ages.",
+  "datasetId": 2421941,
+  "datasetSlug": "open-famous-people-faces",
+  "hasDatasetSlug": true,
+  "ownerUser": "yveslr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 3202,
+  "totalVotes": 5,
+  "totalDownloads": 398,
+  "title": "Open Famous People Faces",
+  "hasTitle": true,
+  "subtitle": "Famous people faces dataset to test facial recognition methods",
+  "hasSubtitle": true,
+  "description": "This dataset was created to compare methods for face reidentification, that is, given an image and a name of a person, check if that image belongs to that person. But it also can be used to test face recognition algorithms, since the dataset has been categorized.\n\nThe autors have made a great effort to collect as much images as they could for all classes inside the dataset. Faces were aligned using eye position alignment and then cropped using landmarks to find the region of interest.\n\nThe Open Famous People Faces dataset contains 258 classes with at least 5 images per class. Images have different sizes, some are low quality and small sized images, others are high quality and big sized images. We have images from the same person at different ages.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "artificial intelligence",
+    "computer vision",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "ajalmar",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

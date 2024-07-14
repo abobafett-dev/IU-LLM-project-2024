@@ -1,0 +1,37 @@
+{
+  "id": "shubhammore12/walmart-sales-data",
+  "id_no": 1477908,
+  "datasetSlugNullable": "walmart-sales-data",
+  "ownerUserNullable": "shubhammore12",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Walmart_Sales_Data",
+  "subtitleNullable": "Predictive modelling to forecast demand",
+  "descriptionNullable": "# Dataset Introduction:\nOne of the leading retail stores in the US, Walmart, would like to predict the sales and demand accurately. There are certain events and holidays which impact sales on each day. There are sales data available for 45 stores of Walmart. The business is facing a challenge due to unforeseen demands and runs out of stock some times, due to the inappropriate machine learning algorithm. An ideal ML algorithm will predict demand accurately and ingest factors like economic conditions including CPI, Unemployment Index, etc.\n\nWalmart runs several promotional markdown events throughout the year. These markdowns precede prominent holidays, the four largest of all, which are the Super Bowl, Labor Day, Thanksgiving, and Christmas. The weeks including these holidays are weighted five times higher in the evaluation than non-holiday weeks. Part of the challenge presented by this competition is modeling the effects of markdowns on these holiday weeks in the absence of complete/ideal historical data. Historical sales data for 45 Walmart stores located in different regions are available.\n\n# Dataset Contents:\nThis is the historical data that covers sales from 2010-02-05 to 2012-11-01, in the file Walmart_Store_sales. Within this file you will find the following fields:\n\nStore - the store number\n\nDate - the week of sales\n\nWeekly_Sales -  sales for the given store\n\nHoliday_Flag - whether the week is a special holiday week 1 \u2013 Holiday week 0 \u2013 Non-holiday week\n\nTemperature - Temperature on the day of sale\n\nFuel_Price - Cost of fuel in the region\n\nCPI \u2013 Prevailing consumer price index\n\nUnemployment - Prevailing unemployment rate\n\n# Holiday Events\n\nSuper Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13\nLabor Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13\nThanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13\nChristmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13\n\n# Analysis Tasks\n\nBasic Statistics tasks: \n1. Which store has maximum sales\n\n2. Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean to standard deviation\n\n3. Which store/s has good quarterly growth rate in Q3\u20192012\n\n4. Some holidays have a negative impact on sales. Find out holidays which have higher sales than the mean sales in non-holiday season for all stores together\n\n5. Provide a monthly and semester view of sales in units and give insights\n\n# Statistical Model\n\nFor Store 1 \u2013 Build  prediction models to forecast demand\n\nLinear Regression \u2013 Utilize variables like date and restructure dates as 1 for 5 Feb 2010 (starting from the earliest date in order). Hypothesize if CPI, unemployment, and fuel price have any impact on sales.\n\nChange dates into days by creating new variable.\n\nAll the Best \ud83d\udc4d ",
+  "datasetId": 1477908,
+  "datasetSlug": "walmart-sales-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "shubhammore12",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 4460,
+  "totalVotes": 2,
+  "totalDownloads": 378,
+  "title": "Walmart_Sales_Data",
+  "hasTitle": true,
+  "subtitle": "Predictive modelling to forecast demand",
+  "hasSubtitle": true,
+  "description": "# Dataset Introduction:\nOne of the leading retail stores in the US, Walmart, would like to predict the sales and demand accurately. There are certain events and holidays which impact sales on each day. There are sales data available for 45 stores of Walmart. The business is facing a challenge due to unforeseen demands and runs out of stock some times, due to the inappropriate machine learning algorithm. An ideal ML algorithm will predict demand accurately and ingest factors like economic conditions including CPI, Unemployment Index, etc.\n\nWalmart runs several promotional markdown events throughout the year. These markdowns precede prominent holidays, the four largest of all, which are the Super Bowl, Labor Day, Thanksgiving, and Christmas. The weeks including these holidays are weighted five times higher in the evaluation than non-holiday weeks. Part of the challenge presented by this competition is modeling the effects of markdowns on these holiday weeks in the absence of complete/ideal historical data. Historical sales data for 45 Walmart stores located in different regions are available.\n\n# Dataset Contents:\nThis is the historical data that covers sales from 2010-02-05 to 2012-11-01, in the file Walmart_Store_sales. Within this file you will find the following fields:\n\nStore - the store number\n\nDate - the week of sales\n\nWeekly_Sales -  sales for the given store\n\nHoliday_Flag - whether the week is a special holiday week 1 \u2013 Holiday week 0 \u2013 Non-holiday week\n\nTemperature - Temperature on the day of sale\n\nFuel_Price - Cost of fuel in the region\n\nCPI \u2013 Prevailing consumer price index\n\nUnemployment - Prevailing unemployment rate\n\n# Holiday Events\n\nSuper Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13\nLabor Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13\nThanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13\nChristmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13\n\n# Analysis Tasks\n\nBasic Statistics tasks: \n1. Which store has maximum sales\n\n2. Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean to standard deviation\n\n3. Which store/s has good quarterly growth rate in Q3\u20192012\n\n4. Some holidays have a negative impact on sales. Find out holidays which have higher sales than the mean sales in non-holiday season for all stores together\n\n5. Provide a monthly and semester view of sales in units and give insights\n\n# Statistical Model\n\nFor Store 1 \u2013 Build  prediction models to forecast demand\n\nLinear Regression \u2013 Utilize variables like date and restructure dates as 1 for 5 Feb 2010 (starting from the earliest date in order). Hypothesize if CPI, unemployment, and fuel price have any impact on sales.\n\nChange dates into days by creating new variable.\n\nAll the Best \ud83d\udc4d ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

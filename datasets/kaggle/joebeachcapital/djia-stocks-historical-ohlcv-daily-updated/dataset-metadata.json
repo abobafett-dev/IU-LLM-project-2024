@@ -1,0 +1,43 @@
+{
+  "id": "joebeachcapital/djia-stocks-historical-ohlcv-daily-updated",
+  "id_no": 5311964,
+  "datasetSlugNullable": "djia-stocks-historical-ohlcv-daily-updated",
+  "ownerUserNullable": "joebeachcapital",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "DJIA stocks historical OHLCV (daily updated)",
+  "subtitleNullable": "Current Dow Jones Industrial Average Index Components Open High Low Close Volume",
+  "descriptionNullable": "Current 30 components of the Dow Jones Industrial Average, and their Open, High, Low, Close, Adjusted Close, Volume data since 1980, for stocks that were listed then. Updates daily using the Yahoo Finance API.",
+  "datasetId": 5311964,
+  "datasetSlug": "djia-stocks-historical-ohlcv-daily-updated",
+  "hasDatasetSlug": true,
+  "ownerUser": "joebeachcapital",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 41,
+  "totalVotes": 2,
+  "totalDownloads": 9,
+  "title": "DJIA stocks historical OHLCV (daily updated)",
+  "hasTitle": true,
+  "subtitle": "Current Dow Jones Industrial Average Index Components Open High Low Close Volume",
+  "hasSubtitle": true,
+  "description": "Current 30 components of the Dow Jones Industrial Average, and their Open, High, Low, Close, Adjusted Close, Volume data since 1980, for stocks that were listed then. Updates daily using the Yahoo Finance API.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "economics",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "yessicatuteja/skycity-the-city-landscape-dataset",
+  "id_no": 4329091,
+  "datasetSlugNullable": "skycity-the-city-landscape-dataset",
+  "ownerUserNullable": "yessicatuteja",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Aerial Images of Cities",
+  "subtitleNullable": "A City-centered Aerial Landscape data curated for Urban research and planning.",
+  "descriptionNullable": "# **Dataset Overview:**\n\n**Name:** SkyCity Aerial City Landscape Dataset \n\n**Categories:**\n- Bridge\n- Commercial\n- Industrial\n- Intersection\n- Landmark\n- Park\n- Parking\n- Playground\n- Residential\n- Stadium\n\n**Image Resolution:** 256x256 pixels\n\n**Number of Images per Category:** 800\n\n**Total Images:** 8,000\n\n**Description:**\nSkyCity is a meticulously curated dataset, bringing together urban landscapes from the publicly available AID and NWPU-Resisc45 datasets. Featuring 10 distinct city categories with 800 images each, all at a resolution of 256x256 pixels, this dataset serves as a valuable resource for researchers and developers delving into the realm of urban landscape analysis. Proper credits to the original contributors of the AID and NWPU-Resisc45 datasets are duly acknowledged.",
+  "datasetId": 4329091,
+  "datasetSlug": "skycity-the-city-landscape-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yessicatuteja",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1422,
+  "totalVotes": 33,
+  "totalDownloads": 203,
+  "title": "Aerial Images of Cities",
+  "hasTitle": true,
+  "subtitle": "A City-centered Aerial Landscape data curated for Urban research and planning.",
+  "hasSubtitle": true,
+  "description": "# **Dataset Overview:**\n\n**Name:** SkyCity Aerial City Landscape Dataset \n\n**Categories:**\n- Bridge\n- Commercial\n- Industrial\n- Intersection\n- Landmark\n- Park\n- Parking\n- Playground\n- Residential\n- Stadium\n\n**Image Resolution:** 256x256 pixels\n\n**Number of Images per Category:** 800\n\n**Total Images:** 8,000\n\n**Description:**\nSkyCity is a meticulously curated dataset, bringing together urban landscapes from the publicly available AID and NWPU-Resisc45 datasets. Featuring 10 distinct city categories with 800 images each, all at a resolution of 256x256 pixels, this dataset serves as a valuable resource for researchers and developers delving into the realm of urban landscape analysis. Proper credits to the original contributors of the AID and NWPU-Resisc45 datasets are duly acknowledged.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "environment",
+    "geospatial analysis",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "ankit1743",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

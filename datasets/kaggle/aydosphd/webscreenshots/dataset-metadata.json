@@ -1,0 +1,41 @@
+{
+  "id": "aydosphd/webscreenshots",
+  "id_no": 202248,
+  "datasetSlugNullable": "webscreenshots",
+  "ownerUserNullable": "aydosphd",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "WebScreenshots",
+  "subtitleNullable": "Web pages classified by their screenshots",
+  "descriptionNullable": "# WebScreenshots\n\n20000 Web pages (URLs, text contents, screenshots in 1440x900 and 224x224) seperated into 4 classes upon their visual appearance (screenshots). Dataset created in the second quarter of 2019.\n\n# Download 1440x900 sized screenshots\nYou can download 1440x900 sized screenshots from: https://drive.google.com/drive/folders/1RUTXO0nJLbmDPIO8h6aixhVyuhmvT7VB\n\n# Please make a citation\nIf you want to use WebScreenshots dataset, please make a citation:\n```\n@data{aydos2020,\n  title={WebScreenshots},\n  url={https://www.kaggle.com/ds/202248},\n  DOI={10.34740/KAGGLE/DS/202248},\n  publisher={Kaggle},\n  author={Fahri Aydos},\n  year={2020}\n}\n```\n\n# Academic papers that used WebScreenshots\n\n- Web page classification with Google Image Search results\nhttps://arxiv.org/abs/2006.00226",
+  "datasetId": 202248,
+  "datasetSlug": "webscreenshots",
+  "hasDatasetSlug": true,
+  "ownerUser": "aydosphd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 10994,
+  "totalVotes": 12,
+  "totalDownloads": 540,
+  "title": "WebScreenshots",
+  "hasTitle": true,
+  "subtitle": "Web pages classified by their screenshots",
+  "hasSubtitle": true,
+  "description": "# WebScreenshots\n\n20000 Web pages (URLs, text contents, screenshots in 1440x900 and 224x224) seperated into 4 classes upon their visual appearance (screenshots). Dataset created in the second quarter of 2019.\n\n# Download 1440x900 sized screenshots\nYou can download 1440x900 sized screenshots from: https://drive.google.com/drive/folders/1RUTXO0nJLbmDPIO8h6aixhVyuhmvT7VB\n\n# Please make a citation\nIf you want to use WebScreenshots dataset, please make a citation:\n```\n@data{aydos2020,\n  title={WebScreenshots},\n  url={https://www.kaggle.com/ds/202248},\n  DOI={10.34740/KAGGLE/DS/202248},\n  publisher={Kaggle},\n  author={Fahri Aydos},\n  year={2020}\n}\n```\n\n# Academic papers that used WebScreenshots\n\n- Web page classification with Google Image Search results\nhttps://arxiv.org/abs/2006.00226",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "classification",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

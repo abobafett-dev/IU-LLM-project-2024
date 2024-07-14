@@ -1,0 +1,46 @@
+{
+  "id": "die9origephit/temperature-data-albany-new-york",
+  "id_no": 2327988,
+  "datasetSlugNullable": "temperature-data-albany-new-york",
+  "ownerUserNullable": "die9origephit",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Climate Data - New York State",
+  "subtitleNullable": "Hourly, daily and monthly temperature data of Albany (NY) from 2015 to 2021",
+  "descriptionNullable": "\nThe climate data are related to Albany and they cover a period that goes from 01/01/2015 to 05/31/2022. \nThey include wind, temperature, pressure, humidity and precipitation data. \nFour datasets are included: \n\n- daily_data.csv contains all the daily data.\n- hourly_data.csv with the hourly data.\n- monthly_data.csv includes data for each month.\n- three_hour_data.csv where data were collected every three hours. \n\n## ** **\n\n\n\nFor more information, check out here: https://www.ncei.noaa.gov/pub/data/cdo/documentation/LCD_documentation.pdf.\n\n\nThe following values can be encountered:\ns = suspect value (appears together with value).\nT = trace precipitation amount or snow depth (an amount too small to measure, usually &lt; 0.005 inches water\nequivalent) (appears instead of numeric value).\nM = missing value (appears instead of value).\nVRB = variable wind direction.\nRemember to upvote if you found the dataset useful :).\n### **Inspiration**\n\nThe dataset can be used to perform supervised learning to predict one of the numerical features in the dataset, given a set of selected input features.\nYou can perform an exploratory data analysis of the data, working with `Pandas` or `Numpy`(if you use Python).\n\n\nInteresting visualizations can be performed using, for instance, Python libraries like `Matplotlib`.\nA time series analysis and forecasting can be performed too.\nMoreover, this dataset is very good to practice queries using `SQL` or `Pandas`.\n\n### **Collection methodology**\nThe data were fetched from [NCOI](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00684) website. The data were split in 4 columns according to the `REPORT_TYPE`. Rows containing null values were dropped and empty or partially empty columns were not considered.\n\n### **Acknowledgment**\n\nDOC/NOAA/NESDIS/NCEI &gt; National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\nDOC/NOAA/NWS &gt; National Weather Service, NOAA, U.S. Department of Commerce\nDOD/USAF &gt; U.S. Air Force, U.S. Department of Defense\nDOT/FAA &gt; Federal Aviation Agency, U.S. Department of Transportation",
+  "datasetId": 2327988,
+  "datasetSlug": "temperature-data-albany-new-york",
+  "hasDatasetSlug": true,
+  "ownerUser": "die9origephit",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6244,
+  "totalVotes": 20,
+  "totalDownloads": 1133,
+  "title": "Climate Data - New York State",
+  "hasTitle": true,
+  "subtitle": "Hourly, daily and monthly temperature data of Albany (NY) from 2015 to 2021",
+  "hasSubtitle": true,
+  "description": "\nThe climate data are related to Albany and they cover a period that goes from 01/01/2015 to 05/31/2022. \nThey include wind, temperature, pressure, humidity and precipitation data. \nFour datasets are included: \n\n- daily_data.csv contains all the daily data.\n- hourly_data.csv with the hourly data.\n- monthly_data.csv includes data for each month.\n- three_hour_data.csv where data were collected every three hours. \n\n## ** **\n\n\n\nFor more information, check out here: https://www.ncei.noaa.gov/pub/data/cdo/documentation/LCD_documentation.pdf.\n\n\nThe following values can be encountered:\ns = suspect value (appears together with value).\nT = trace precipitation amount or snow depth (an amount too small to measure, usually &lt; 0.005 inches water\nequivalent) (appears instead of numeric value).\nM = missing value (appears instead of value).\nVRB = variable wind direction.\nRemember to upvote if you found the dataset useful :).\n### **Inspiration**\n\nThe dataset can be used to perform supervised learning to predict one of the numerical features in the dataset, given a set of selected input features.\nYou can perform an exploratory data analysis of the data, working with `Pandas` or `Numpy`(if you use Python).\n\n\nInteresting visualizations can be performed using, for instance, Python libraries like `Matplotlib`.\nA time series analysis and forecasting can be performed too.\nMoreover, this dataset is very good to practice queries using `SQL` or `Pandas`.\n\n### **Collection methodology**\nThe data were fetched from [NCOI](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00684) website. The data were split in 4 columns according to the `REPORT_TYPE`. Rows containing null values were dropped and empty or partially empty columns were not considered.\n\n### **Acknowledgment**\n\nDOC/NOAA/NESDIS/NCEI &gt; National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\nDOC/NOAA/NWS &gt; National Weather Service, NOAA, U.S. Department of Commerce\nDOD/USAF &gt; U.S. Air Force, U.S. Department of Defense\nDOT/FAA &gt; Federal Aviation Agency, U.S. Department of Transportation",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "atmospheric science",
+    "weather and climate",
+    "computer science",
+    "programming",
+    "exploratory data analysis",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

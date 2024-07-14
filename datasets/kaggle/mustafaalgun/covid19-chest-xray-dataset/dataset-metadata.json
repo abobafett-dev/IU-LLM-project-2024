@@ -1,0 +1,44 @@
+{
+  "id": "mustafaalgun/covid19-chest-xray-dataset",
+  "id_no": 2657344,
+  "datasetSlugNullable": "covid19-chest-xray-dataset",
+  "ownerUserNullable": "mustafaalgun",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Covid19 Chest Xray Dataset",
+  "subtitleNullable": "Covid-19 Chest X-Ray Dataset for Image Recognition & Classification",
+  "descriptionNullable": "The dataset is organized into 3 folders \n- covid\n- pneumonia\n- normal\nand **metadata.csv** which contain chest X-ray posteroanterior (PA) images. X-ray samples of COVID-19 were retrieved from different sources for the unavailability of a large specific dataset.\nFirst, 613 X-ray images of COVID-19 cases were collected from the following websites: GitHub, Radiopaedia, The Cancer Imaging Archive (TCIA), and the Italian Society of Radiology (SIRM). Then, instead of data being independently augmented, a dataset containing 912 already augmented images was collected from Mendeley. Finally, 1525 images of pneumonia cases and 1525 X-ray images of normal cases were collected from the Kaggle repository and NIH dataset. A total of 4575 samples were used in the experiment, where 1525 samples were used for each case.\n\n[Asraf, Amanullah; Islam, Zabirul (2021), \u201cCOVID19, Pneumonia and Normal Chest X-ray PA Dataset\u201d, Mendeley Data, V1, doi: 10.17632/jctsfj2sfn.1](https://data.mendeley.com/datasets/jctsfj2sfn/1)",
+  "datasetId": 2657344,
+  "datasetSlug": "covid19-chest-xray-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mustafaalgun",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1272,
+  "totalVotes": 2,
+  "totalDownloads": 222,
+  "title": "Covid19 Chest Xray Dataset",
+  "hasTitle": true,
+  "subtitle": "Covid-19 Chest X-Ray Dataset for Image Recognition & Classification",
+  "hasSubtitle": true,
+  "description": "The dataset is organized into 3 folders \n- covid\n- pneumonia\n- normal\nand **metadata.csv** which contain chest X-ray posteroanterior (PA) images. X-ray samples of COVID-19 were retrieved from different sources for the unavailability of a large specific dataset.\nFirst, 613 X-ray images of COVID-19 cases were collected from the following websites: GitHub, Radiopaedia, The Cancer Imaging Archive (TCIA), and the Italian Society of Radiology (SIRM). Then, instead of data being independently augmented, a dataset containing 912 already augmented images was collected from Mendeley. Finally, 1525 images of pneumonia cases and 1525 X-ray images of normal cases were collected from the Kaggle repository and NIH dataset. A total of 4575 samples were used in the experiment, where 1525 samples were used for each case.\n\n[Asraf, Amanullah; Islam, Zabirul (2021), \u201cCOVID19, Pneumonia and Normal Chest X-ray PA Dataset\u201d, Mendeley Data, V1, doi: 10.17632/jctsfj2sfn.1](https://data.mendeley.com/datasets/jctsfj2sfn/1)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "public health",
+    "people",
+    "health",
+    "image",
+    "covid19",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

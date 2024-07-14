@@ -1,0 +1,43 @@
+{
+  "id": "ramontanoeiro/tibau-wind-speed",
+  "id_no": 1395434,
+  "datasetSlugNullable": "tibau-wind-speed",
+  "ownerUserNullable": "ramontanoeiro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Tibau Wind Speed",
+  "subtitleNullable": "Wind Speed Gathered by an API at a specific site",
+  "descriptionNullable": "I collected this data to mix my engineering skills with my data science studies. I designed a Wind Turbine and used the measured data collected from the API.\n\nYou can use the same API Green Energy - Storm Glass to collect data and try to predict using LSTM models.",
+  "datasetId": 1395434,
+  "datasetSlug": "tibau-wind-speed",
+  "hasDatasetSlug": true,
+  "ownerUser": "ramontanoeiro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3566,
+  "totalVotes": 7,
+  "totalDownloads": 294,
+  "title": "Tibau Wind Speed",
+  "hasTitle": true,
+  "subtitle": "Wind Speed Gathered by an API at a specific site",
+  "hasSubtitle": true,
+  "description": "I collected this data to mix my engineering skills with my data science studies. I designed a Wind Turbine and used the measured data collected from the API.\n\nYou can use the same API Green Energy - Storm Glass to collect data and try to predict using LSTM models.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "brazil",
+    "renewable energy",
+    "data visualization",
+    "time series analysis",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "mohamedharris/customers-of-beauty-parlour-time-series",
+  "id_no": 732147,
+  "datasetSlugNullable": "customers-of-beauty-parlour-time-series",
+  "ownerUserNullable": "mohamedharris",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Customers of Beauty Parlour - Time Series",
+  "subtitleNullable": "This dataset has the number of customers who have visited the beauty parlour.",
+  "descriptionNullable": "This data is collected from our parlor which provides beauty and salon services. This is a time series data collected on a daily basis for two years (2018 - 2019). \n\nWe made of our visitor registers we maintain to capture the number of visitors the parlor gets.\n\nThis data can be used for forecasting the number of customers in the next few months.",
+  "datasetId": 732147,
+  "datasetSlug": "customers-of-beauty-parlour-time-series",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohamedharris",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 5311,
+  "totalVotes": 8,
+  "totalDownloads": 374,
+  "title": "Customers of Beauty Parlour - Time Series",
+  "hasTitle": true,
+  "subtitle": "This dataset has the number of customers who have visited the beauty parlour.",
+  "hasSubtitle": true,
+  "description": "This data is collected from our parlor which provides beauty and salon services. This is a time series data collected on a daily basis for two years (2018 - 2019). \n\nWe made of our visitor registers we maintain to capture the number of visitors the parlor gets.\n\nThis data can be used for forecasting the number of customers in the next few months.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data visualization",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

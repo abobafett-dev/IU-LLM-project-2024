@@ -1,0 +1,43 @@
+{
+  "id": "sijovm/used-cars-data-from-ebay-kleinanzeigen",
+  "id_no": 2921953,
+  "datasetSlugNullable": "used-cars-data-from-ebay-kleinanzeigen",
+  "ownerUserNullable": "sijovm",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Used Cars Data from eBay kleinanzeigen",
+  "subtitleNullable": "Can you predict how long a car will be online before it is sold? ",
+  "descriptionNullable": "The content of the data is in german, so one has to translate it first if one can not speak german. Those fields are included:\n\n\u2022 dateCrawled : when this ad was first crawled, all field-values are taken from this date\n\u2022name : \"name\" of the car\n\u2022seller : private or dealer\n\u2022offerType\n\u2022price : the price on the ad to sell the car\n\u2022abtest\n\u2022vehicleType\n\u2022yearOfRegistration : at which year the car was first registered\n\u2022gearbox\n\u2022powerPS : power of the car in PS\n\u2022model\n\u2022kilometer : how many kilometers the car has driven\n\u2022monthOfRegistration : at which month the car was first registered\n\u2022fuelType\n\u2022brand\n\u2022notRepairedDamage : if the car has a damage which is not repaired yet\n\u2022dateCreated : the date for which the ad at ebay was created\n\u2022nrOfPictures : number of pictures in the ad\n\u2022postalCode\n\u2022lastSeenOnline : when the crawler saw this ad last online\n\nThe fields lastSeen and dateCrawled could be used to estimate how long a car will be at least online before it is sold.",
+  "datasetId": 2921953,
+  "datasetSlug": "used-cars-data-from-ebay-kleinanzeigen",
+  "hasDatasetSlug": true,
+  "ownerUser": "sijovm",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1680,
+  "totalVotes": 9,
+  "totalDownloads": 213,
+  "title": "Used Cars Data from eBay kleinanzeigen",
+  "hasTitle": true,
+  "subtitle": "Can you predict how long a car will be online before it is sold? ",
+  "hasSubtitle": true,
+  "description": "The content of the data is in german, so one has to translate it first if one can not speak german. Those fields are included:\n\n\u2022 dateCrawled : when this ad was first crawled, all field-values are taken from this date\n\u2022name : \"name\" of the car\n\u2022seller : private or dealer\n\u2022offerType\n\u2022price : the price on the ad to sell the car\n\u2022abtest\n\u2022vehicleType\n\u2022yearOfRegistration : at which year the car was first registered\n\u2022gearbox\n\u2022powerPS : power of the car in PS\n\u2022model\n\u2022kilometer : how many kilometers the car has driven\n\u2022monthOfRegistration : at which month the car was first registered\n\u2022fuelType\n\u2022brand\n\u2022notRepairedDamage : if the car has a damage which is not repaired yet\n\u2022dateCreated : the date for which the ad at ebay was created\n\u2022nrOfPictures : number of pictures in the ad\n\u2022postalCode\n\u2022lastSeenOnline : when the crawler saw this ad last online\n\nThe fields lastSeen and dateCrawled could be used to estimate how long a car will be at least online before it is sold.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "statistical analysis",
+    "data analytics",
+    "linear regression",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

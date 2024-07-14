@@ -1,0 +1,42 @@
+{
+  "id": "sanikamal/rock-paper-scissors-dataset",
+  "id_no": 174293,
+  "datasetSlugNullable": "rock-paper-scissors-dataset",
+  "ownerUserNullable": "sanikamal",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Rock Paper Scissors Dataset",
+  "subtitleNullable": "Rock Paper Scissors \u2013 A multi class dataset for learning computer vision",
+  "descriptionNullable": "### Abstract\nRock Paper Scissors is a dataset containing 2,892 images of diverse hands in Rock/Paper/Scissors poses. It is licensed [CC By 2.0](https://creativecommons.org/licenses/by/2.0/) and available for all purposes, but it\u2019s intent is primarily for learning and research.\n\n### Overview\nRock Paper Scissors contains images from a variety of different hands,  from different races, ages and genders, posed into Rock / Paper or Scissors and labelled as such. These images have all been generated using CGI techniques as an experiment in determining if a CGI-based dataset can be used for classification against real images.\n\nNote that all of this data is posed against a white background.\n\nEach image is 300\u00d7300 pixels in 24-bit color\n\n### License\nThe dataset is licensed as a CC By 2.0, free for you to share and adapt for all uses, commercial or non-commercial. Please just attribute and give appropriate credit to Laurence Moroney (lmoroney@gmail.com / laurencemoroney.com), and place no additional restrictions on your users as outlined [here](https://creativecommons.org/licenses/by/2.0/).\n\nFor more info [http://www.laurencemoroney.com/rock-paper-scissors-dataset/](http://www.laurencemoroney.com/rock-paper-scissors-dataset/)\n",
+  "datasetId": 174293,
+  "datasetSlug": "rock-paper-scissors-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sanikamal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 49857,
+  "totalVotes": 86,
+  "totalDownloads": 5806,
+  "title": "Rock Paper Scissors Dataset",
+  "hasTitle": true,
+  "subtitle": "Rock Paper Scissors \u2013 A multi class dataset for learning computer vision",
+  "hasSubtitle": true,
+  "description": "### Abstract\nRock Paper Scissors is a dataset containing 2,892 images of diverse hands in Rock/Paper/Scissors poses. It is licensed [CC By 2.0](https://creativecommons.org/licenses/by/2.0/) and available for all purposes, but it\u2019s intent is primarily for learning and research.\n\n### Overview\nRock Paper Scissors contains images from a variety of different hands,  from different races, ages and genders, posed into Rock / Paper or Scissors and labelled as such. These images have all been generated using CGI techniques as an experiment in determining if a CGI-based dataset can be used for classification against real images.\n\nNote that all of this data is posed against a white background.\n\nEach image is 300\u00d7300 pixels in 24-bit color\n\n### License\nThe dataset is licensed as a CC By 2.0, free for you to share and adapt for all uses, commercial or non-commercial. Please just attribute and give appropriate credit to Laurence Moroney (lmoroney@gmail.com / laurencemoroney.com), and place no additional restrictions on your users as outlined [here](https://creativecommons.org/licenses/by/2.0/).\n\nFor more info [http://www.laurencemoroney.com/rock-paper-scissors-dataset/](http://www.laurencemoroney.com/rock-paper-scissors-dataset/)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer vision",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

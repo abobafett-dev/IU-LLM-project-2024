@@ -1,0 +1,43 @@
+{
+  "id": "mryder/us-stock-market-historical-data",
+  "id_no": 1317903,
+  "datasetSlugNullable": "us-stock-market-historical-data",
+  "ownerUserNullable": "mryder",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "US Stock Market",
+  "subtitleNullable": "Historical data of US stock market",
+  "descriptionNullable": "### Context\n\nI always wanted to have a program that fetch the whole stock market data at once without concerning about new companies that went public recently. So, here it is.\n\n### Content\n\nThis dataset contains 2 python scripts which one can fetch the data from on their own machine without any special requirements by just running the collect.py .\nI have done this part in May/21/2021 (Version 2). So, the data is available until then. If one wants to have extend that period, they can run the collect.py .\n\n### Columns Description\n&gt; tickers.csv contains ticker names along with some additional data such as name of the company, sector, industry, and the country of the company.\n\n---\n\n&gt; Each CSV file in stocksData folder named as the company's ticker name.\nEach file has 8 columns:\n- Date: as an index.\n- Open, Close, High, Low: which is in dollars.\n- Volume: which is number of shares that traded in specific date.\n- Stock Splits: Show if there is a stock split in specific day as the split ratio.\n- Dividends: which is in dollars. If a company doesn\u2019t provide dividends for their share holders, this column can be dropped.\n\n### Acknowledgements\n\nI've used [finviz](https://finviz.com/) site and [yfinance](https://github.com/ranaroussi/yfinance) package to gather this rich data.\n\n### Inspiration\n\nI hope one can find this helpful and interesting.\nIf you have any questions don't hesitate to contact me at milad@miladtabrizi.com .",
+  "datasetId": 1317903,
+  "datasetSlug": "us-stock-market-historical-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "mryder",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 5142,
+  "totalVotes": 8,
+  "totalDownloads": 436,
+  "title": "US Stock Market",
+  "hasTitle": true,
+  "subtitle": "Historical data of US stock market",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI always wanted to have a program that fetch the whole stock market data at once without concerning about new companies that went public recently. So, here it is.\n\n### Content\n\nThis dataset contains 2 python scripts which one can fetch the data from on their own machine without any special requirements by just running the collect.py .\nI have done this part in May/21/2021 (Version 2). So, the data is available until then. If one wants to have extend that period, they can run the collect.py .\n\n### Columns Description\n&gt; tickers.csv contains ticker names along with some additional data such as name of the company, sector, industry, and the country of the company.\n\n---\n\n&gt; Each CSV file in stocksData folder named as the company's ticker name.\nEach file has 8 columns:\n- Date: as an index.\n- Open, Close, High, Low: which is in dollars.\n- Volume: which is number of shares that traded in specific date.\n- Stock Splits: Show if there is a stock split in specific day as the split ratio.\n- Dividends: which is in dollars. If a company doesn\u2019t provide dividends for their share holders, this column can be dropped.\n\n### Acknowledgements\n\nI've used [finviz](https://finviz.com/) site and [yfinance](https://github.com/ranaroussi/yfinance) package to gather this rich data.\n\n### Inspiration\n\nI hope one can find this helpful and interesting.\nIf you have any questions don't hesitate to contact me at milad@miladtabrizi.com .",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "computer science",
+    "programming",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

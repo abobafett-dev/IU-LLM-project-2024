@@ -1,0 +1,44 @@
+{
+  "id": "louislung/uci-news-aggregator-dataset-with-content",
+  "id_no": 124306,
+  "datasetSlugNullable": "uci-news-aggregator-dataset-with-content",
+  "ownerUserNullable": "louislung",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "UCI News Aggregator Dataset With Content",
+  "subtitleNullable": "Content, headlines and categories of 10k news stories",
+  "descriptionNullable": "# Content\nThe columns included in this dataset are:\n\nID : the numeric ID of the article\n\nTITLE : the headline of the article\n\nURL : the URL of the article\n\nPUBLISHER : the publisher of the article\n\nCATEGORY : the category of the news item; one of: -- b : business -- t : science and technology -- e : entertainment -- m : health\n\nSTORY : alphanumeric ID of the news story that the article discusses\n\nHOSTNAME : hostname where the article was posted\n\nTIMESTAMP : approximate timestamp of the article's publication, given in Unix time (seconds since midnight on Jan 1, 1970) \n\n**MAIN_CONTENT**: article's content\n\n**MAIN_CONTENT_LEN**: length of main_content\n\n# Acknowledgments\nThis dataset comes from the UCI Machine Learning Repository. Any publications that use this data should cite the repository as follows:\n\nLichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.\n\nThis specific dataset can be found in the UCI ML Repository at this URL",
+  "datasetId": 124306,
+  "datasetSlug": "uci-news-aggregator-dataset-with-content",
+  "hasDatasetSlug": true,
+  "ownerUser": "louislung",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 5004,
+  "totalVotes": 5,
+  "totalDownloads": 212,
+  "title": "UCI News Aggregator Dataset With Content",
+  "hasTitle": true,
+  "subtitle": "Content, headlines and categories of 10k news stories",
+  "hasSubtitle": true,
+  "description": "# Content\nThe columns included in this dataset are:\n\nID : the numeric ID of the article\n\nTITLE : the headline of the article\n\nURL : the URL of the article\n\nPUBLISHER : the publisher of the article\n\nCATEGORY : the category of the news item; one of: -- b : business -- t : science and technology -- e : entertainment -- m : health\n\nSTORY : alphanumeric ID of the news story that the article discusses\n\nHOSTNAME : hostname where the article was posted\n\nTIMESTAMP : approximate timestamp of the article's publication, given in Unix time (seconds since midnight on Jan 1, 1970) \n\n**MAIN_CONTENT**: article's content\n\n**MAIN_CONTENT_LEN**: length of main_content\n\n# Acknowledgments\nThis dataset comes from the UCI Machine Learning Repository. Any publications that use this data should cite the repository as follows:\n\nLichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.\n\nThis specific dataset can be found in the UCI ML Repository at this URL",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "education",
+    "linguistics",
+    "nlp",
+    "news",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

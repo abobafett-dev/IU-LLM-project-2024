@@ -1,0 +1,39 @@
+{
+  "id": "bivanmallick/million-song-recoomendation",
+  "id_no": 3935163,
+  "datasetSlugNullable": "million-song-recoomendation",
+  "ownerUserNullable": "bivanmallick",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "The Million Songs Dataset",
+  "subtitleNullable": "\"Discovering Music Insights: A Million Songs Dataset Exploration\"",
+  "descriptionNullable": "The Million Songs Dataset, sourced from the Million Song Dataset, is a vast collection of music-related data. This comprehensive dataset consists of two primary files: \"triplet_file\" and \"metadata_file,\" each offering valuable insights into its extensive contents.\n\ntriplet_file:\n\n\"triplet_file\" serves as a window into user interactions, encompassing a staggering number of user IDs. This section includes the following fields:\nuser_id: Uniquely identifies the users who engaged with the songs in the dataset. An impressive count of 2,000,001 unique user IDs is present.\nsong_id: Serves as a unique identifier for each specific song that users interacted with, providing a key linkage between users and songs.\nlisten time: Crucially, this field indicates the duration of time users spent listening to each song. It offers insights into user engagement, helping to understand the depth of interaction with the songs.\nmetadata_file:\n\nIn contrast, the \"metadata_file\" is a treasure trove of song details, boasting an astonishing number of songs. This section includes the following fields:\nsong_id: This field provides a unique identifier for each song within the dataset, with an impressive count of 1,000,001 unique songs.\ntitle: Displays the title or name of each song, offering the song's identity.\nrelease: Contains valuable information about the song's release date, enhancing the dataset with temporal context.\nyear: Specifies the year in which each song was originally released, contributing to a historical understanding of the music.\nartist_name: Presents the name of the artist or musical group associated with each song, allowing for artist-based analyses.\nThe Million Songs Dataset is a comprehensive compilation of songs sourced from various websites, reflecting the rich and diverse landscape of music. Notably, the dataset also includes user ratings, which represent the feedback provided by users after listening to the songs. With over a million songs, extensive user interactions, and detailed song information, this dataset is an invaluable resource for a wide range of music-related data analysis tasks, recommendation systems, and gaining insights into user preferences and music trends within the dataset.",
+  "datasetId": 3935163,
+  "datasetSlug": "million-song-recoomendation",
+  "hasDatasetSlug": true,
+  "ownerUser": "bivanmallick",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 477,
+  "totalVotes": 3,
+  "totalDownloads": 70,
+  "title": "The Million Songs Dataset",
+  "hasTitle": true,
+  "subtitle": "\"Discovering Music Insights: A Million Songs Dataset Exploration\"",
+  "hasSubtitle": true,
+  "description": "The Million Songs Dataset, sourced from the Million Song Dataset, is a vast collection of music-related data. This comprehensive dataset consists of two primary files: \"triplet_file\" and \"metadata_file,\" each offering valuable insights into its extensive contents.\n\ntriplet_file:\n\n\"triplet_file\" serves as a window into user interactions, encompassing a staggering number of user IDs. This section includes the following fields:\nuser_id: Uniquely identifies the users who engaged with the songs in the dataset. An impressive count of 2,000,001 unique user IDs is present.\nsong_id: Serves as a unique identifier for each specific song that users interacted with, providing a key linkage between users and songs.\nlisten time: Crucially, this field indicates the duration of time users spent listening to each song. It offers insights into user engagement, helping to understand the depth of interaction with the songs.\nmetadata_file:\n\nIn contrast, the \"metadata_file\" is a treasure trove of song details, boasting an astonishing number of songs. This section includes the following fields:\nsong_id: This field provides a unique identifier for each song within the dataset, with an impressive count of 1,000,001 unique songs.\ntitle: Displays the title or name of each song, offering the song's identity.\nrelease: Contains valuable information about the song's release date, enhancing the dataset with temporal context.\nyear: Specifies the year in which each song was originally released, contributing to a historical understanding of the music.\nartist_name: Presents the name of the artist or musical group associated with each song, allowing for artist-based analyses.\nThe Million Songs Dataset is a comprehensive compilation of songs sourced from various websites, reflecting the rich and diverse landscape of music. Notably, the dataset also includes user ratings, which represent the feedback provided by users after listening to the songs. With over a million songs, extensive user interactions, and detailed song information, this dataset is an invaluable resource for a wide range of music-related data analysis tasks, recommendation systems, and gaining insights into user preferences and music trends within the dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

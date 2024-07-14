@@ -1,0 +1,43 @@
+{
+  "id": "ihelon/lego-minifigures-classification",
+  "id_no": 838778,
+  "datasetSlugNullable": "lego-minifigures-classification",
+  "ownerUserNullable": "ihelon",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "LEGO Minifigures",
+  "subtitleNullable": "\"Do or do not. There is no try\" - Jedi Master Yoda",
+  "descriptionNullable": "### Content\n\nThis dataset contains a lot of pictures of various LEGO Minifigures.\nThere are several images in different poses or with different environments for each Minifigure in the dataset. You can use this dataset for the image classification tasks or try to create more interesting things. You can try getting more accurate predictions for the test set.\n\n\n### Acknowledgements\nWe will be happy if you upvote this dataset \u2764\ufe0f \ud83d\udd3c \u2b06\ufe0f \ud83d\udd3c \u2764\ufe0f \nThanks to [LEGO](https://www.lego.com/en-us) for making wonderful Minifigures ;)\nThe repo with our dataset on github [TinySets Project Page](https://github.com/yisaienkov/tinysets) \n\n### Inspiration\n\nYou can try to resolve the next tasks:\n- Classification images by Minifigures\n- Create GAN for generating new Minifigures",
+  "datasetId": 838778,
+  "datasetSlug": "lego-minifigures-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "ihelon",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 181873,
+  "totalVotes": 273,
+  "totalDownloads": 5285,
+  "title": "LEGO Minifigures",
+  "hasTitle": true,
+  "subtitle": "\"Do or do not. There is no try\" - Jedi Master Yoda",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThis dataset contains a lot of pictures of various LEGO Minifigures.\nThere are several images in different poses or with different environments for each Minifigure in the dataset. You can use this dataset for the image classification tasks or try to create more interesting things. You can try getting more accurate predictions for the test set.\n\n\n### Acknowledgements\nWe will be happy if you upvote this dataset \u2764\ufe0f \ud83d\udd3c \u2b06\ufe0f \ud83d\udd3c \u2764\ufe0f \nThanks to [LEGO](https://www.lego.com/en-us) for making wonderful Minifigures ;)\nThe repo with our dataset on github [TinySets Project Page](https://github.com/yisaienkov/tinysets) \n\n### Inspiration\n\nYou can try to resolve the next tasks:\n- Classification images by Minifigures\n- Create GAN for generating new Minifigures",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "games",
+    "beginner",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

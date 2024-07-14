@@ -1,0 +1,44 @@
+{
+  "id": "artemburenok/cryprocurrency-prices-for-the-year",
+  "id_no": 1976947,
+  "datasetSlugNullable": "cryprocurrency-prices-for-the-year",
+  "ownerUserNullable": "artemburenok",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Cryprocurrency prices for the year",
+  "subtitleNullable": "Cryptocurrency data since January 2021",
+  "descriptionNullable": "### What in dataset? \n\nHere I have collected data on the 30 most important cryptocurrencies for the year.  \n\n### For what I share this data?\n\nFor the analysis of time sequences. You can do it with ARIMA, RNN using deep learning and other advanced techniques. In addition, on time data, you can try to override techniques from other areas of machine learning. Cryptocurrencies can be clustered or build portfolio strategies in the long term.\n\n### Acknowledgements\n\nThanks for yahoo finance for free acces to prices.\n\n\n### Inspiration\n\nI hope my dataset will let you exlore more about data science. I look forward to notebooks and comments from you.",
+  "datasetId": 1976947,
+  "datasetSlug": "cryprocurrency-prices-for-the-year",
+  "hasDatasetSlug": true,
+  "ownerUser": "artemburenok",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 2742,
+  "totalVotes": 11,
+  "totalDownloads": 328,
+  "title": "Cryprocurrency prices for the year",
+  "hasTitle": true,
+  "subtitle": "Cryptocurrency data since January 2021",
+  "hasSubtitle": true,
+  "description": "### What in dataset? \n\nHere I have collected data on the 30 most important cryptocurrencies for the year.  \n\n### For what I share this data?\n\nFor the analysis of time sequences. You can do it with ARIMA, RNN using deep learning and other advanced techniques. In addition, on time data, you can try to override techniques from other areas of machine learning. Cryptocurrencies can be clustered or build portfolio strategies in the long term.\n\n### Acknowledgements\n\nThanks for yahoo finance for free acces to prices.\n\n\n### Inspiration\n\nI hope my dataset will let you exlore more about data science. I look forward to notebooks and comments from you.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "time series analysis",
+    "deep learning",
+    "rnn",
+    "investing",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

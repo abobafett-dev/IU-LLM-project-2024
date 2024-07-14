@@ -1,0 +1,44 @@
+{
+  "id": "abdulkader90/brain-ct-hemorrhage-dataset",
+  "id_no": 1155807,
+  "datasetSlugNullable": "brain-ct-hemorrhage-dataset",
+  "ownerUserNullable": "abdulkader90",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Brain CT Hemorrhage Dataset",
+  "subtitleNullable": "Normal Versus Hemorrhagic CT Scans ",
+  "descriptionNullable": "### Context\n\nThis dataset contains images of normal and hemorrhagic CT scans collected from the Near East Hospital, Cyprus. When using this dataset kindly cite the following research:\n\n\n\"Helwan, A., El-Fakhri, G., Sasani, H., & Uzun Ozsahin, D. (2018). Deep networks in identifying CT brain hemorrhage. Journal of Intelligent & Fuzzy Systems, 35(2), 2215-2228.\"\n\n\n\n",
+  "datasetId": 1155807,
+  "datasetSlug": "brain-ct-hemorrhage-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "abdulkader90",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 12103,
+  "totalVotes": 19,
+  "totalDownloads": 1107,
+  "title": "Brain CT Hemorrhage Dataset",
+  "hasTitle": true,
+  "subtitle": "Normal Versus Hemorrhagic CT Scans ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains images of normal and hemorrhagic CT scans collected from the Near East Hospital, Cyprus. When using this dataset kindly cite the following research:\n\n\n\"Helwan, A., El-Fakhri, G., Sasani, H., & Uzun Ozsahin, D. (2018). Deep networks in identifying CT brain hemorrhage. Journal of Intelligent & Fuzzy Systems, 35(2), 2215-2228.\"\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "classification",
+    "cnn",
+    "image",
+    "binary classification",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 3.0 Unported (CC BY 3.0)",
+      "name": "Attribution 3.0 Unported (CC BY 3.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

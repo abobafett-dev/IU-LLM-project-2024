@@ -1,0 +1,40 @@
+{
+  "id": "nexuswho/tomatofruits",
+  "id_no": 4017945,
+  "datasetSlugNullable": "tomatofruits",
+  "ownerUserNullable": "nexuswho",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Tomato fruits dataset",
+  "subtitleNullable": "Tomato fruits dataset for binary and multiclass classification",
+  "descriptionNullable": "We bought 600 tomatoes from the local market (Borg-el Arab, Alexandria-Egypt), washed them, and dried them. We mounted a Jetson Tx1 board embedded with an onboard camera equipped with an RGB sensor, at a height of 20cm capturing one image at a time at a rate of 30 frames per second. we captured 4 images from each tomato. The dataset was collected in uncontrolled environments where there are variations of lights. The images were categorized into binary classes (healthy and reject) and ternary classes (ripe, unripe, and reject) following international standards like The Organisation for Economic Co-operation and Development (OECD) and The United State Department of Agriculture (USDA).\n\n\n**License:**\n\n&gt;CC BY 4.0\n\n**Citation:**\n\n&gt;MPUTU, HASSAN; Abdel-Mawgood, Ahmed; Shimada, Atsushi; Sayed, Mohammed S. (2023), \u201cTomato fruits dataset for binary and multiclass classification\u201d, Mendeley Data, V1, doi: 10.17632/x4s2jz55dx.1",
+  "datasetId": 4017945,
+  "datasetSlug": "tomatofruits",
+  "hasDatasetSlug": true,
+  "ownerUser": "nexuswho",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 7286,
+  "totalVotes": 30,
+  "totalDownloads": 1087,
+  "title": "Tomato fruits dataset",
+  "hasTitle": true,
+  "subtitle": "Tomato fruits dataset for binary and multiclass classification",
+  "hasSubtitle": true,
+  "description": "We bought 600 tomatoes from the local market (Borg-el Arab, Alexandria-Egypt), washed them, and dried them. We mounted a Jetson Tx1 board embedded with an onboard camera equipped with an RGB sensor, at a height of 20cm capturing one image at a time at a rate of 30 frames per second. we captured 4 images from each tomato. The dataset was collected in uncontrolled environments where there are variations of lights. The images were categorized into binary classes (healthy and reject) and ternary classes (ripe, unripe, and reject) following international standards like The Organisation for Economic Co-operation and Development (OECD) and The United State Department of Agriculture (USDA).\n\n\n**License:**\n\n&gt;CC BY 4.0\n\n**Citation:**\n\n&gt;MPUTU, HASSAN; Abdel-Mawgood, Ahmed; Shimada, Atsushi; Sayed, Mohammed S. (2023), \u201cTomato fruits dataset for binary and multiclass classification\u201d, Mendeley Data, V1, doi: 10.17632/x4s2jz55dx.1",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

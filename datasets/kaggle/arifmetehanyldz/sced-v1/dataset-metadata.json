@@ -1,0 +1,44 @@
+{
+  "id": "arifmetehanyldz/sced-v1",
+  "id_no": 3475310,
+  "datasetSlugNullable": "sced-v1",
+  "ownerUserNullable": "arifmetehanyldz",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "SCED-v1",
+  "subtitleNullable": "FF-BTP Model for Novel Sound-based Community Emotion Detection",
+  "descriptionNullable": "In this study, we prospectively screened YouTube for videos of crowds or communities to obtain sound recordings, in each of which the prevalent dominant emotion could be categorized into one of three classes: negative, neutral, or positive emotion. To ensure the accuracy of the emotional context, manual validation was conducted using a three-person verification process, where all class labelling decisions were unanimous. We deliberately chose overlapped sounds without any distinguishable individual utterances, singing, etc. In all, we collected 187 (at least 60 per class) sound recordings with total and average durations of 17.2 hours and 5.5 minutes, respectively. These were segmented into three-second segments, and stored in .wav format at a high-fidelity 44.1 KHz sampling frequency. The collected SCED study dataset comprised a total of 2733 .wav files, with 919, 905 and 909 files belonging to the negative, neutral and positive classes, respectively\n\nIf you wish to use this dataset, please cite the paper** \"FF-BTP Model for Novel Sound-based Community Emotion Detection\"**",
+  "datasetId": 3475310,
+  "datasetSlug": "sced-v1",
+  "hasDatasetSlug": true,
+  "ownerUser": "arifmetehanyldz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 88,
+  "totalVotes": 1,
+  "totalDownloads": 3,
+  "title": "SCED-v1",
+  "hasTitle": true,
+  "subtitle": "FF-BTP Model for Novel Sound-based Community Emotion Detection",
+  "hasSubtitle": true,
+  "description": "In this study, we prospectively screened YouTube for videos of crowds or communities to obtain sound recordings, in each of which the prevalent dominant emotion could be categorized into one of three classes: negative, neutral, or positive emotion. To ensure the accuracy of the emotional context, manual validation was conducted using a three-person verification process, where all class labelling decisions were unanimous. We deliberately chose overlapped sounds without any distinguishable individual utterances, singing, etc. In all, we collected 187 (at least 60 per class) sound recordings with total and average durations of 17.2 hours and 5.5 minutes, respectively. These were segmented into three-second segments, and stored in .wav format at a high-fidelity 44.1 KHz sampling frequency. The collected SCED study dataset comprised a total of 2733 .wav files, with 919, 905 and 909 files belonging to the negative, neutral and positive classes, respectively\n\nIf you wish to use this dataset, please cite the paper** \"FF-BTP Model for Novel Sound-based Community Emotion Detection\"**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "artificial intelligence",
+    "signal processing",
+    "computer vision",
+    "deep learning",
+    "audio"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

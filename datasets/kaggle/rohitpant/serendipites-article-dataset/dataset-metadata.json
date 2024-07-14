@@ -1,0 +1,42 @@
+{
+  "id": "rohitpant/serendipites-article-dataset",
+  "id_no": 1021852,
+  "datasetSlugNullable": "serendipites-article-dataset",
+  "ownerUserNullable": "rohitpant",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Serendipite's article dataset",
+  "subtitleNullable": "Dataset to practice recommendation algorithms",
+  "descriptionNullable": "### Context\n\nDataset containing ratings by users for different articles.\n\n\n### Content\n\nFirst dataset has columns with data on user , article and the ratings.\nSecond dataset contains the attributes of the article, website name, article topic and a column with the complete article.\n\n\n\n",
+  "datasetId": 1021852,
+  "datasetSlug": "serendipites-article-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rohitpant",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1033,
+  "totalVotes": 1,
+  "totalDownloads": 63,
+  "title": "Serendipite's article dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset to practice recommendation algorithms",
+  "hasSubtitle": true,
+  "description": "### Context\n\nDataset containing ratings by users for different articles.\n\n\n### Content\n\nFirst dataset has columns with data on user , article and the ratings.\nSecond dataset contains the attributes of the article, website name, article topic and a column with the complete article.\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer science",
+    "recommender systems",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Public Domain Dedication and Licence (PDDL)",
+      "name": "ODC Public Domain Dedication and Licence (PDDL)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

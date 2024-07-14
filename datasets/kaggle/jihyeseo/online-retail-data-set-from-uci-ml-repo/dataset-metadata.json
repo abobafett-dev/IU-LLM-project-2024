@@ -1,0 +1,39 @@
+{
+  "id": "jihyeseo/online-retail-data-set-from-uci-ml-repo",
+  "id_no": 10606,
+  "datasetSlugNullable": "online-retail-data-set-from-uci-ml-repo",
+  "ownerUserNullable": "jihyeseo",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Online Retail Data Set from UCI ML repo",
+  "subtitleNullable": "transactions 2010-2011 for a UK-based and registered non-store online retail",
+  "descriptionNullable": "a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.\n\n### Content\n\n- Data Set Characteristics:  Multivariate, Sequential, Time-Series\n\n- Number of Instances: 541909\n\n- Area: Business\n\n- Attribute Characteristics: Integer, Real\n\n- Number of Attributes: 8\n\n- Date Donated: 2015-11-06\n\n- Associated Tasks: Classification, Clustering\n\n- Missing Values? N/A\n\n- Number of Web Hits: 159409\n\n\n### Source\nDr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.\n\n### Data Set Information:\n\nThis is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.\n\n### Attribute Information:\n\nInvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation. \nStockCode: Product (item) code. Nominal, a 5-digit integral number uniquely assigned to each distinct product. \nDescription: Product (item) name. Nominal. \nQuantity: The quantities of each product (item) per transaction. Numeric.\t\nInvoiceDate: Invice Date and time. Numeric, the day and time when each transaction was generated. \nUnitPrice: Unit price. Numeric, Product price per unit in sterling. \nCustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer. \nCountry: Country name. Nominal, the name of the country where each customer resides.\n\n### Relevant Papers:\n\nThe evolution of direct, data and digital marketing, Richard Webber, Journal of Direct, Data and Digital Marketing Practice (2013) 14, 291\u00e2\u20ac\u201c309. \nClustering Experiments on Big Transaction Data for Market Segmentation, \nAshishkumar Singh, Grace Rumantir, Annie South, Blair Bethwaite, Proceedings of the 2014 International Conference on Big Data Science and Computing. \nA decision-making framework for precision marketing, Zhen You, Yain-Whar Si, Defu Zhang, XiangXiang Zeng, Stephen C.H. Leung c, Tao Li, Expert Systems with Applications, 42 (2015) 3357\u00e2\u20ac\u201c3367.\n\n### Citation Request:\n\nDaqing Chen, Sai Liang Sain, and Kun Guo, Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining, Journal of Database Marketing and Customer Strategy Management, Vol. 19, No. 3, pp. 197\u00e2\u20ac\u201c208, 2012 (Published online before print: 27 August 2012. doi: 10.1057/dbm.2012.17).\n\n### Image credit: \n\nPhoto by Valentino Funghi on Unsplash\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 10606,
+  "datasetSlug": "online-retail-data-set-from-uci-ml-repo",
+  "hasDatasetSlug": true,
+  "ownerUser": "jihyeseo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 83130,
+  "totalVotes": 109,
+  "totalDownloads": 11244,
+  "title": "Online Retail Data Set from UCI ML repo",
+  "hasTitle": true,
+  "subtitle": "transactions 2010-2011 for a UK-based and registered non-store online retail",
+  "hasSubtitle": true,
+  "description": "a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.\n\n### Content\n\n- Data Set Characteristics:  Multivariate, Sequential, Time-Series\n\n- Number of Instances: 541909\n\n- Area: Business\n\n- Attribute Characteristics: Integer, Real\n\n- Number of Attributes: 8\n\n- Date Donated: 2015-11-06\n\n- Associated Tasks: Classification, Clustering\n\n- Missing Values? N/A\n\n- Number of Web Hits: 159409\n\n\n### Source\nDr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.\n\n### Data Set Information:\n\nThis is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.\n\n### Attribute Information:\n\nInvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation. \nStockCode: Product (item) code. Nominal, a 5-digit integral number uniquely assigned to each distinct product. \nDescription: Product (item) name. Nominal. \nQuantity: The quantities of each product (item) per transaction. Numeric.\t\nInvoiceDate: Invice Date and time. Numeric, the day and time when each transaction was generated. \nUnitPrice: Unit price. Numeric, Product price per unit in sterling. \nCustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer. \nCountry: Country name. Nominal, the name of the country where each customer resides.\n\n### Relevant Papers:\n\nThe evolution of direct, data and digital marketing, Richard Webber, Journal of Direct, Data and Digital Marketing Practice (2013) 14, 291\u00e2\u20ac\u201c309. \nClustering Experiments on Big Transaction Data for Market Segmentation, \nAshishkumar Singh, Grace Rumantir, Annie South, Blair Bethwaite, Proceedings of the 2014 International Conference on Big Data Science and Computing. \nA decision-making framework for precision marketing, Zhen You, Yain-Whar Si, Defu Zhang, XiangXiang Zeng, Stephen C.H. Leung c, Tao Li, Expert Systems with Applications, 42 (2015) 3357\u00e2\u20ac\u201c3367.\n\n### Citation Request:\n\nDaqing Chen, Sai Liang Sain, and Kun Guo, Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining, Journal of Database Marketing and Customer Strategy Management, Vol. 19, No. 3, pp. 197\u00e2\u20ac\u201c208, 2012 (Published online before print: 27 August 2012. doi: 10.1057/dbm.2012.17).\n\n### Image credit: \n\nPhoto by Valentino Funghi on Unsplash\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

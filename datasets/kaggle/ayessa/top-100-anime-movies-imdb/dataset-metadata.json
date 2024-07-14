@@ -1,0 +1,43 @@
+{
+  "id": "ayessa/top-100-anime-movies-imdb",
+  "id_no": 2595554,
+  "datasetSlugNullable": "top-100-anime-movies-imdb",
+  "ownerUserNullable": "ayessa",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top 100 Anime Movies (IMDB)",
+  "subtitleNullable": "Top 100 Anime Movies and its rating, length, no. of votes, year, genre, etc.",
+  "descriptionNullable": "Based on Oxford dictionary, **anime** is a style of Japanese film and television animation, typically aimed at adults as well as children. \n\n## About Dataset\nThis dataset contains the top 100 anime movies based on their rating. It also contains the anime's rating, number of votes, year, length of the movies and more.\n\n### Columns Attributes\n\n| Column | Meaning |\n| -- | -- |\n| rank | the anime's rank |\n| title | the anime's title |\n| rating | the anime's rating |\n| votes | the number of reviewers that rated this anime |\n| year | year this anime was released |\n| minutes | the length of this anime in minutes |\n| genre | the genre of this anime |\n| gross | the gross of this anime |\n\n## Methodology\nThis dataset was acquired using a web scraping tool called Beautiful soup and scraped IMDB website showing top anime movies",
+  "datasetId": 2595554,
+  "datasetSlug": "top-100-anime-movies-imdb",
+  "hasDatasetSlug": true,
+  "ownerUser": "ayessa",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7984,
+  "totalVotes": 33,
+  "totalDownloads": 1098,
+  "title": "Top 100 Anime Movies (IMDB)",
+  "hasTitle": true,
+  "subtitle": "Top 100 Anime Movies and its rating, length, no. of votes, year, genre, etc.",
+  "hasSubtitle": true,
+  "description": "Based on Oxford dictionary, **anime** is a style of Japanese film and television animation, typically aimed at adults as well as children. \n\n## About Dataset\nThis dataset contains the top 100 anime movies based on their rating. It also contains the anime's rating, number of votes, year, length of the movies and more.\n\n### Columns Attributes\n\n| Column | Meaning |\n| -- | -- |\n| rank | the anime's rank |\n| title | the anime's title |\n| rating | the anime's rating |\n| votes | the number of reviewers that rated this anime |\n| year | year this anime was released |\n| minutes | the length of this anime in minutes |\n| genre | the genre of this anime |\n| gross | the gross of this anime |\n\n## Methodology\nThis dataset was acquired using a web scraping tool called Beautiful soup and scraped IMDB website showing top anime movies",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "exploratory data analysis",
+    "data analytics",
+    "tabular",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

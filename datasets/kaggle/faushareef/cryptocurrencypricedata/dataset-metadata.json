@@ -1,0 +1,41 @@
+{
+  "id": "faushareef/cryptocurrencypricedata",
+  "id_no": 1294961,
+  "datasetSlugNullable": "cryptocurrencypricedata",
+  "ownerUserNullable": "faushareef",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Cryptocurrency-price-data",
+  "subtitleNullable": "Daily price data for Bitcoin, Ether and Ripple",
+  "descriptionNullable": "### Context\n\nThis data was collected for a dissertation project titled, \"Forecasting cryptocurrency prices using machine learning\".\n\n\n### Content\n\nThe three csv files contain the daily price data for Bitcoin, Ether and Ripple. The data was collected from https://coinmarketcap.com/  \nThe datasets contain the following features:  \n* Open\n* Close\n* High\n* Low\n* Volume\n* Market Capitalisation\n* EMA 10 (Exponential moving average of 10 timesteps)\n* EMA 30 (Exponential moving average of 30 timesteps)\n* ATR (Average true range)\n\n",
+  "datasetId": 1294961,
+  "datasetSlug": "cryptocurrencypricedata",
+  "hasDatasetSlug": true,
+  "ownerUser": "faushareef",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1971,
+  "totalVotes": 9,
+  "totalDownloads": 209,
+  "title": "Cryptocurrency-price-data",
+  "hasTitle": true,
+  "subtitle": "Daily price data for Bitcoin, Ether and Ripple",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data was collected for a dissertation project titled, \"Forecasting cryptocurrency prices using machine learning\".\n\n\n### Content\n\nThe three csv files contain the daily price data for Bitcoin, Ether and Ripple. The data was collected from https://coinmarketcap.com/  \nThe datasets contain the following features:  \n* Open\n* Close\n* High\n* Low\n* Volume\n* Market Capitalisation\n* EMA 10 (Exponential moving average of 10 timesteps)\n* EMA 30 (Exponential moving average of 30 timesteps)\n* ATR (Average true range)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "time series analysis",
+    "currencies and foreign exchange",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

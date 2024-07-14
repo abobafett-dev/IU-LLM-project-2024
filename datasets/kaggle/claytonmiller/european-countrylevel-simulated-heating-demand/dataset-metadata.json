@@ -1,0 +1,45 @@
+{
+  "id": "claytonmiller/european-countrylevel-simulated-heating-demand",
+  "id_no": 1785665,
+  "datasetSlugNullable": "european-countrylevel-simulated-heating-demand",
+  "ownerUserNullable": "claytonmiller",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "European Country-level Simulated Heating Demand",
+  "subtitleNullable": "Ten years of hourly building heat demand and heat pump COP for 16 EU countries",
+  "descriptionNullable": "## Data set and documentation below is from the Scientific Data Paper [Time series of heat demand and heat pump efficiency for energy system modeling](https://www.nature.com/articles/s41597-019-0199-y) by Oliver Ruhnau, Lion Hirth & Aaron Praktiknjo\n\n### Abstract\n\nWith electric heat pumps substituting for fossil-fueled alternatives, the temporal variability of their power consumption becomes increasingly important to the electricity system. To easily include this variability in energy system analyses, this paper introduces the \u201cWhen2Heat\u201d dataset comprising synthetic national time series of both the heat demand and the coefficient of performance (COP) of heat pumps. It covers 16 European countries, includes the years 2008 to 2018, and features an hourly resolution. Demand profiles for space and water heating are computed by combining gas standard load profiles with spatial temperature and wind speed reanalysis data as well as population geodata. COP time series for different heat sources \u2013 air, ground, and groundwater \u2013 and different heat sinks \u2013 floor heating, radiators, and water heating \u2013 are calculated based on COP and heating curves using reanalysis temperature data. The dataset, as well as the scripts and input parameters, are publicly available under an open source license on the Open Power System Data platform.\n\n### Content\n\nThe When2Heat dataset is a contribution to the Open Power System Data project and follows the frictionless data principles6. Focusing on the representation of heat pumps, the aim is to improve efficiency, transparency, and reproducibility of electricity market models, which might be part of more general integrated energy system analyses. Furthermore, it may serve as a valuable benchmark for alternative heat demand and heat pump modelling approaches on the national level. Existing limitations of the dataset are critically discussed in the Usage Notes section.\n\nThe heat demand time series are based on the German gas standard load profile approach defined by BGW7 and BDEW8. The methodology is combined with three super-national datasets to estimate national time series for 16 European countries. First, temperature and wind speed data from the global ERA-Interim reanalysis serve to generate separate demand time series for space and water heating at all available locations within each country. Next, assuming the heat demand at different locations to be proportional to the population, the spatial time series are weighted with population geodata from Eurostat, aggregated to national time series, and normalized to one TWh average yearly demand. Finally, for the years 2008 to 2013, these are scaled with data on the annual final energy consumption for space and water heating from the EU Building Database and corrected for final-energy-to-heat conversion losses. Figure 2 provides an overview of the methodology applied.\n\n\n### Code\n\nAll code is implemented in Python and published at [https://github.com/oruhnau/when2heat](https://github.com/oruhnau/when2heat) under the open MIT license. The entire processing workflow is documented in a single Jupyter Notebook (processing.ipynb), which draws on custom functions that are structured in different Python scripts (download.py, read.py, preprocess.py, demand.py, cop.py, write.py, metadata.py, misc.py).\n\nWhile the download of weather and population data is automated, the input data from the EU Building Database, BGW7, and BDEW8, as well as the COP curve parameters are included in the code repository.\n",
+  "datasetId": 1785665,
+  "datasetSlug": "european-countrylevel-simulated-heating-demand",
+  "hasDatasetSlug": true,
+  "ownerUser": "claytonmiller",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 3383,
+  "totalVotes": 20,
+  "totalDownloads": 247,
+  "title": "European Country-level Simulated Heating Demand",
+  "hasTitle": true,
+  "subtitle": "Ten years of hourly building heat demand and heat pump COP for 16 EU countries",
+  "hasSubtitle": true,
+  "description": "## Data set and documentation below is from the Scientific Data Paper [Time series of heat demand and heat pump efficiency for energy system modeling](https://www.nature.com/articles/s41597-019-0199-y) by Oliver Ruhnau, Lion Hirth & Aaron Praktiknjo\n\n### Abstract\n\nWith electric heat pumps substituting for fossil-fueled alternatives, the temporal variability of their power consumption becomes increasingly important to the electricity system. To easily include this variability in energy system analyses, this paper introduces the \u201cWhen2Heat\u201d dataset comprising synthetic national time series of both the heat demand and the coefficient of performance (COP) of heat pumps. It covers 16 European countries, includes the years 2008 to 2018, and features an hourly resolution. Demand profiles for space and water heating are computed by combining gas standard load profiles with spatial temperature and wind speed reanalysis data as well as population geodata. COP time series for different heat sources \u2013 air, ground, and groundwater \u2013 and different heat sinks \u2013 floor heating, radiators, and water heating \u2013 are calculated based on COP and heating curves using reanalysis temperature data. The dataset, as well as the scripts and input parameters, are publicly available under an open source license on the Open Power System Data platform.\n\n### Content\n\nThe When2Heat dataset is a contribution to the Open Power System Data project and follows the frictionless data principles6. Focusing on the representation of heat pumps, the aim is to improve efficiency, transparency, and reproducibility of electricity market models, which might be part of more general integrated energy system analyses. Furthermore, it may serve as a valuable benchmark for alternative heat demand and heat pump modelling approaches on the national level. Existing limitations of the dataset are critically discussed in the Usage Notes section.\n\nThe heat demand time series are based on the German gas standard load profile approach defined by BGW7 and BDEW8. The methodology is combined with three super-national datasets to estimate national time series for 16 European countries. First, temperature and wind speed data from the global ERA-Interim reanalysis serve to generate separate demand time series for space and water heating at all available locations within each country. Next, assuming the heat demand at different locations to be proportional to the population, the spatial time series are weighted with population geodata from Eurostat, aggregated to national time series, and normalized to one TWh average yearly demand. Finally, for the years 2008 to 2013, these are scaled with data on the annual final energy consumption for space and water heating from the EU Building Database and corrected for final-energy-to-heat conversion losses. Figure 2 provides an overview of the methodology applied.\n\n\n### Code\n\nAll code is implemented in Python and published at [https://github.com/oruhnau/when2heat](https://github.com/oruhnau/when2heat) under the open MIT license. The entire processing workflow is documented in a single Jupyter Notebook (processing.ipynb), which draws on custom functions that are structured in different Python scripts (download.py, read.py, preprocess.py, demand.py, cop.py, write.py, metadata.py, misc.py).\n\nWhile the download of weather and population data is automated, the input data from the EU Building Database, BGW7, and BDEW8, as well as the COP curve parameters are included in the code repository.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "energy",
+    "renewable energy",
+    "computer science",
+    "programming",
+    "time series analysis",
+    "electricity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

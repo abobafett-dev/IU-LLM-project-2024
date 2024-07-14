@@ -1,0 +1,39 @@
+{
+  "id": "pankajsharma127/nykaa-products-2023",
+  "id_no": 3356931,
+  "datasetSlugNullable": "nykaa-products-2023",
+  "ownerUserNullable": "pankajsharma127",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Nykaa_Products_2023",
+  "subtitleNullable": "Nykaa Products dataset with their prices, names, number of reviews and discount",
+  "descriptionNullable": "Data analysts and researchers can perform various analyses and gain insights into the pricing strategies, product popularity, and customer preferences on the Nykaa platform.\n\nThe Dataset includes several fields that provide valuable information about the products. Here are the key fields available in the dataset:\n\nName: This field represents the name or title of the product. Contains the brand name, product name, and sometimes additional details like the variant or flavor.\n\nReviews: Counts of reviews a product has received\n\nOffer Price: The offer price field represents the reduced price of a product during a promotional period or when a specific offer/Discount is applicable.\n\nOriginal Price: This field provides the original or regular price of the product, which is the price it would be without any offers or discounts applied.\n\nDiscount: The discount field specifies the percentage or amount of discount applied to the product. It indicates the difference between the original price and the offer price, expressed as a percentage\n\nFree Gift: Free Gift available or not",
+  "datasetId": 3356931,
+  "datasetSlug": "nykaa-products-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "pankajsharma127",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 726,
+  "totalVotes": 1,
+  "totalDownloads": 165,
+  "title": "Nykaa_Products_2023",
+  "hasTitle": true,
+  "subtitle": "Nykaa Products dataset with their prices, names, number of reviews and discount",
+  "hasSubtitle": true,
+  "description": "Data analysts and researchers can perform various analyses and gain insights into the pricing strategies, product popularity, and customer preferences on the Nykaa platform.\n\nThe Dataset includes several fields that provide valuable information about the products. Here are the key fields available in the dataset:\n\nName: This field represents the name or title of the product. Contains the brand name, product name, and sometimes additional details like the variant or flavor.\n\nReviews: Counts of reviews a product has received\n\nOffer Price: The offer price field represents the reduced price of a product during a promotional period or when a specific offer/Discount is applicable.\n\nOriginal Price: This field provides the original or regular price of the product, which is the price it would be without any offers or discounts applied.\n\nDiscount: The discount field specifies the percentage or amount of discount applied to the product. It indicates the difference between the original price and the offer price, expressed as a percentage\n\nFree Gift: Free Gift available or not",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

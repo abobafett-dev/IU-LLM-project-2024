@@ -1,0 +1,42 @@
+{
+  "id": "ranasabrii/handwritten-digits-from-0-to-9",
+  "id_no": 4523062,
+  "datasetSlugNullable": "handwritten-digits-from-0-to-9",
+  "ownerUserNullable": "ranasabrii",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Handwritten Digits From 0 to 9",
+  "subtitleNullable": "European (Swiss) handwritten digits",
+  "descriptionNullable": "This dataset generated from about 21,600 numbers from 0 - 9 in European (Swiss) notation. The single images are in full color .jpg with a size of 90x140px",
+  "datasetId": 4523062,
+  "datasetSlug": "handwritten-digits-from-0-to-9",
+  "hasDatasetSlug": true,
+  "ownerUser": "ranasabrii",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1337,
+  "totalVotes": 38,
+  "totalDownloads": 177,
+  "title": "Handwritten Digits From 0 to 9",
+  "hasTitle": true,
+  "subtitle": "European (Swiss) handwritten digits",
+  "hasSubtitle": true,
+  "description": "This dataset generated from about 21,600 numbers from 0 - 9 in European (Swiss) notation. The single images are in full color .jpg with a size of 90x140px",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "classification",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kianso/news-stock-price",
+  "id_no": 2534120,
+  "datasetSlugNullable": "news-stock-price",
+  "ownerUserNullable": "kianso",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Stock Market News and Stock Price",
+  "subtitleNullable": "4699 records containing news, VOO/QQQ/DIA price from 2021-10-09 to 2022-10-08",
+  "descriptionNullable": "Methodology:\nAll news links are crawled from google search \"Stock Market\" for that specific date, and only get the first 2 pages of results, where each page containing 10 results.\n\nColumns:\n\n- date: 2021-10-09 to 2022-10-08 (Cleaned)\n- url: the news link (Not cleaned)\n- full_text: entire article scrape using Newspaper3k library (Not cleaned)\n- summary: apply summary function from Newspaper3k, containing 10 sentences (Not cleaned)\n- close:  close price from yahoo finance (Cleaned, empty means market not opened)\n- volume: ticket volume from yahoo finance (Cleaned, empty means market not opened)\n\n\nRemarks:\n1). Since some of the contents are blocked by paywall, so excluded the news with number of full text character less than 500 (e.g. \n     \"$0.99 Subscription for reading!\"). However, it is not guaranteed.\n2). Some urls may be replicated\n3). Some full text content may happen to appear in different links\n4). full_text and summary are not guaranteed English\n\nFor more information, please visit my [Github](https://github.com/kianso7414/News-Scraping), thanks!",
+  "datasetId": 2534120,
+  "datasetSlug": "news-stock-price",
+  "hasDatasetSlug": true,
+  "ownerUser": "kianso",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 726,
+  "totalVotes": 1,
+  "totalDownloads": 66,
+  "title": "Stock Market News and Stock Price",
+  "hasTitle": true,
+  "subtitle": "4699 records containing news, VOO/QQQ/DIA price from 2021-10-09 to 2022-10-08",
+  "hasSubtitle": true,
+  "description": "Methodology:\nAll news links are crawled from google search \"Stock Market\" for that specific date, and only get the first 2 pages of results, where each page containing 10 results.\n\nColumns:\n\n- date: 2021-10-09 to 2022-10-08 (Cleaned)\n- url: the news link (Not cleaned)\n- full_text: entire article scrape using Newspaper3k library (Not cleaned)\n- summary: apply summary function from Newspaper3k, containing 10 sentences (Not cleaned)\n- close:  close price from yahoo finance (Cleaned, empty means market not opened)\n- volume: ticket volume from yahoo finance (Cleaned, empty means market not opened)\n\n\nRemarks:\n1). Since some of the contents are blocked by paywall, so excluded the news with number of full text character less than 500 (e.g. \n     \"$0.99 Subscription for reading!\"). However, it is not guaranteed.\n2). Some urls may be replicated\n3). Some full text content may happen to appear in different links\n4). full_text and summary are not guaranteed English\n\nFor more information, please visit my [Github](https://github.com/kianso7414/News-Scraping), thanks!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "tabular",
+    "text",
+    "investing",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "nickj26/places2-mit-dataset",
+  "id_no": 1479448,
+  "datasetSlugNullable": "places2-mit-dataset",
+  "ownerUserNullable": "nickj26",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Places-2_MIT_Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\nThis Places dataset contains more than 10 million images comprising 400+ unique scene categories. The dataset features 5000 to 30,000 training images per class, consistent with real-world frequencies of occurrence. \nThere are 1.8 million train images from 365 scene categories in the Places365-Standard, which are used to train the Places365 CNNs. There are 50 images per category in the validation set.\n\nThese images are 256x256 images, in a more friendly directory structure that in Train and Val split the images are organized such as \n rain/reception/00003724.jpg and val/raft/000050000.jpg. So you could use PyTorch example script to train network directly as: python main.py -a resnet18 places365_standard.\n\n\n### Acknowledgements\nThis dataset is completely owned by Bolei Zhou, Agata Lapedriza, Aditya Khosla, Antonio Torralba, Aude Oliva of Massachusetts Institute of Technology and the original and its variations can be downloaded [here](http://places2.csail.mit.edu/download.html)\n\n@article{zhou2017places,\n  title={Places: A 10 million Image Database for Scene Recognition},\n  author={Zhou, Bolei and Lapedriza, Agata and Khosla, Aditya and Oliva, Aude and Torralba, Antonio},\n  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},\n  year={2017},\n  publisher={IEEE}\n}\n\n###Terms of use: \n(by downloading the image data you agree to the following terms)\n\n1. You will use the data only for non-commercial research and educational purposes.\n2. You will **NOT** distribute the above images.\n3. Massachusetts Institute of Technology makes no representations or warranties regarding the data, including but not limited to warranties of non-infringement or fitness for a particular purpose.\n4. You accept full responsibility for your use of the data and shall defend and indemnify Massachusetts Institute of Technology, including its employees, officers, and agents, against any and all claims arising from your use of the data, including but not limited to your use of any copies of copyrighted images that you may create from the data.",
+  "datasetId": 1479448,
+  "datasetSlug": "places2-mit-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "nickj26",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 13570,
+  "totalVotes": 24,
+  "totalDownloads": 2025,
+  "title": "Places-2_MIT_Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\nThis Places dataset contains more than 10 million images comprising 400+ unique scene categories. The dataset features 5000 to 30,000 training images per class, consistent with real-world frequencies of occurrence. \nThere are 1.8 million train images from 365 scene categories in the Places365-Standard, which are used to train the Places365 CNNs. There are 50 images per category in the validation set.\n\nThese images are 256x256 images, in a more friendly directory structure that in Train and Val split the images are organized such as \n rain/reception/00003724.jpg and val/raft/000050000.jpg. So you could use PyTorch example script to train network directly as: python main.py -a resnet18 places365_standard.\n\n\n### Acknowledgements\nThis dataset is completely owned by Bolei Zhou, Agata Lapedriza, Aditya Khosla, Antonio Torralba, Aude Oliva of Massachusetts Institute of Technology and the original and its variations can be downloaded [here](http://places2.csail.mit.edu/download.html)\n\n@article{zhou2017places,\n  title={Places: A 10 million Image Database for Scene Recognition},\n  author={Zhou, Bolei and Lapedriza, Agata and Khosla, Aditya and Oliva, Aude and Torralba, Antonio},\n  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},\n  year={2017},\n  publisher={IEEE}\n}\n\n###Terms of use: \n(by downloading the image data you agree to the following terms)\n\n1. You will use the data only for non-commercial research and educational purposes.\n2. You will **NOT** distribute the above images.\n3. Massachusetts Institute of Technology makes no representations or warranties regarding the data, including but not limited to warranties of non-infringement or fitness for a particular purpose.\n4. You accept full responsibility for your use of the data and shall defend and indemnify Massachusetts Institute of Technology, including its employees, officers, and agents, against any and all claims arising from your use of the data, including but not limited to your use of any copies of copyrighted images that you may create from the data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "advanced",
+    "classification",
+    "clustering",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

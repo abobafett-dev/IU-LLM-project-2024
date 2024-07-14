@@ -1,0 +1,44 @@
+{
+  "id": "sandhyakrishnan02/covid19-coronavirus-vaccinations-data",
+  "id_no": 2780209,
+  "datasetSlugNullable": "covid19-coronavirus-vaccinations-data",
+  "ownerUserNullable": "sandhyakrishnan02",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "COVID-19 (coronavirus) vaccinations Data ",
+  "subtitleNullable": "Vaccination data with age group and manufacturer wise.",
+  "descriptionNullable": "## There are three datasets.\n1. vaccinations.csv \n2. vaccinations-by-age-group.csv :- For some data the in age_group, date of birth is provided, which will have to be cleaned up before using the data for analysis.\n3. vaccinations-by-manufacturer.csv\n\n## Acknowledgment and License:\nData produced by Our World in Data are completely open access under the Creative Commons BY license. You have permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.\nIn the case of our vaccination dataset, please give the following citation:\n\nMathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global database of COVID-19 vaccinations. Nat Hum Behav (2021). https://doi.org/10.1038/s41562-021-01122-8\n\n###  Vaccination.csv column details:\n\nlocation: name of the country (or region within a country).\n\niso_code : ISO 3166-1 alpha-3 \u2013 three-letter country codes.\n\ndate : date of the observation.\n\ntotal vaccinations: total number of doses administered. For vaccines that require multiple doses, each individual dose is counted. If a person receives one dose of the vaccine, this metric goes up by 1. If they receive a second dose, it goes up by 1 again. If they receive a third/booster dose, it goes up by 1 again.\n\ntotal vaccinations per hundred : total vaccinations per 100 people in the total population of the country.\n\ndaily vaccinations raw : daily change in the total number of doses administered. It is only calculated for consecutive days. This is a raw measure provided for data checks and transparency, but we strongly recommend that any analysis on daily vaccination rates be conducted using daily_vaccinations instead.\n\ndaily_vaccinations : new doses administered per day (7-day smoothed). For countries that don't report data on a daily basis, we assume that doses changed equally on a daily basis over any periods in which no data was reported. This produces a complete series of daily figures, which is then averaged over a rolling 7-day window. An example of how we perform this calculation can be found here.\n\ndaily vaccinations per million : daily vaccinations per 1,000,000 people in the total population of the country.\n\npeople_vaccinated: total number of people who received at least one vaccine dose. If a person receives the first dose of a 2-dose vaccine, this metric goes up by 1. If they receive the second dose, the metric stays the same.\n\npeople vaccinated per hundred: people vaccinated per 100 people in the total population of the country.\n\npeople fully vaccinated: total number of people who received all doses prescribed by the initial vaccination protocol. If a person receives the first dose of a 2-dose vaccine, this metric stays the same. If they receive the second dose, the metric goes up by 1.\n\npeople fully vaccinated per hundred: people_fully vaccinated per 100 people in the total population of the country.\n\ntotal_boosters: total number of COVID-19 vaccination booster doses administered (doses administered beyond the number prescribed by the initial vaccination protocol)\n\ntotal boosters per hundred: total_boosters per 100 people in the total population of the country.\n\ndaily people vaccinated: daily number of people receiving a first COVID-19 vaccine dose (7-day smoothed).\n\ndaily people vaccinated per hundred: daily_people vaccinated per 100 people in the total population of the country.\n\n",
+  "datasetId": 2780209,
+  "datasetSlug": "covid19-coronavirus-vaccinations-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "sandhyakrishnan02",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 692,
+  "totalVotes": 12,
+  "totalDownloads": 75,
+  "title": "COVID-19 (coronavirus) vaccinations Data ",
+  "hasTitle": true,
+  "subtitle": "Vaccination data with age group and manufacturer wise.",
+  "hasSubtitle": true,
+  "description": "## There are three datasets.\n1. vaccinations.csv \n2. vaccinations-by-age-group.csv :- For some data the in age_group, date of birth is provided, which will have to be cleaned up before using the data for analysis.\n3. vaccinations-by-manufacturer.csv\n\n## Acknowledgment and License:\nData produced by Our World in Data are completely open access under the Creative Commons BY license. You have permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.\nIn the case of our vaccination dataset, please give the following citation:\n\nMathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global database of COVID-19 vaccinations. Nat Hum Behav (2021). https://doi.org/10.1038/s41562-021-01122-8\n\n###  Vaccination.csv column details:\n\nlocation: name of the country (or region within a country).\n\niso_code : ISO 3166-1 alpha-3 \u2013 three-letter country codes.\n\ndate : date of the observation.\n\ntotal vaccinations: total number of doses administered. For vaccines that require multiple doses, each individual dose is counted. If a person receives one dose of the vaccine, this metric goes up by 1. If they receive a second dose, it goes up by 1 again. If they receive a third/booster dose, it goes up by 1 again.\n\ntotal vaccinations per hundred : total vaccinations per 100 people in the total population of the country.\n\ndaily vaccinations raw : daily change in the total number of doses administered. It is only calculated for consecutive days. This is a raw measure provided for data checks and transparency, but we strongly recommend that any analysis on daily vaccination rates be conducted using daily_vaccinations instead.\n\ndaily_vaccinations : new doses administered per day (7-day smoothed). For countries that don't report data on a daily basis, we assume that doses changed equally on a daily basis over any periods in which no data was reported. This produces a complete series of daily figures, which is then averaged over a rolling 7-day window. An example of how we perform this calculation can be found here.\n\ndaily vaccinations per million : daily vaccinations per 1,000,000 people in the total population of the country.\n\npeople_vaccinated: total number of people who received at least one vaccine dose. If a person receives the first dose of a 2-dose vaccine, this metric goes up by 1. If they receive the second dose, the metric stays the same.\n\npeople vaccinated per hundred: people vaccinated per 100 people in the total population of the country.\n\npeople fully vaccinated: total number of people who received all doses prescribed by the initial vaccination protocol. If a person receives the first dose of a 2-dose vaccine, this metric stays the same. If they receive the second dose, the metric goes up by 1.\n\npeople fully vaccinated per hundred: people_fully vaccinated per 100 people in the total population of the country.\n\ntotal_boosters: total number of COVID-19 vaccination booster doses administered (doses administered beyond the number prescribed by the initial vaccination protocol)\n\ntotal boosters per hundred: total_boosters per 100 people in the total population of the country.\n\ndaily people vaccinated: daily number of people receiving a first COVID-19 vaccine dose (7-day smoothed).\n\ndaily people vaccinated per hundred: daily_people vaccinated per 100 people in the total population of the country.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "public health",
+    "medicine",
+    "time series analysis",
+    "public safety",
+    "covid19",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-3.0",
+      "name": "CC-BY-SA-3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

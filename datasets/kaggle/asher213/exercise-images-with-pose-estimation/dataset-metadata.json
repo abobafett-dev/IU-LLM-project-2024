@@ -1,0 +1,39 @@
+{
+  "id": "asher213/exercise-images-with-pose-estimation",
+  "id_no": 3886487,
+  "datasetSlugNullable": "exercise-images-with-pose-estimation",
+  "ownerUserNullable": "asher213",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Exercise Images With Pose Estimation",
+  "subtitleNullable": "Images of Exercises in Base64 Encoding w/ Pose Estimation",
+  "descriptionNullable": "CSV of various images of exercises with the following columns:\n\n- imageName (i.e. file name)\n- base64encoded (image data encoded in base64)\n- imageWidth\n- imageHeight\n- poseLandmarks (the pose estimation data; list generated w/ mediapipe library)\n- exercise (i.e. the exercise displayed in the image)\n\nUse this dataset to train classification models to discern exercise type using the base64 data of the image, or, even better, the poseLandmarks data. ",
+  "datasetId": 3886487,
+  "datasetSlug": "exercise-images-with-pose-estimation",
+  "hasDatasetSlug": true,
+  "ownerUser": "asher213",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 634,
+  "totalVotes": 6,
+  "totalDownloads": 90,
+  "title": "Exercise Images With Pose Estimation",
+  "hasTitle": true,
+  "subtitle": "Images of Exercises in Base64 Encoding w/ Pose Estimation",
+  "hasSubtitle": true,
+  "description": "CSV of various images of exercises with the following columns:\n\n- imageName (i.e. file name)\n- base64encoded (image data encoded in base64)\n- imageWidth\n- imageHeight\n- poseLandmarks (the pose estimation data; list generated w/ mediapipe library)\n- exercise (i.e. the exercise displayed in the image)\n\nUse this dataset to train classification models to discern exercise type using the base64 data of the image, or, even better, the poseLandmarks data. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

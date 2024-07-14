@@ -1,0 +1,39 @@
+{
+  "id": "virtualschool/restaurant-cost-and-sales-dataset",
+  "id_no": 3913660,
+  "datasetSlugNullable": "restaurant-cost-and-sales-dataset",
+  "ownerUserNullable": "virtualschool",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Restaurant Cost and Sales Dataset",
+  "subtitleNullable": "A random generated dataset of hypothetical restaurant.",
+  "descriptionNullable": "The dataset includes following fields: (Food) Item, Category, Sub Category, Item Name, Price, Cost. The purpose of this dataset is to practice data visualization in tools like power bi and python.",
+  "datasetId": 3913660,
+  "datasetSlug": "restaurant-cost-and-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "virtualschool",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 776,
+  "totalVotes": 0,
+  "totalDownloads": 207,
+  "title": "Restaurant Cost and Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "A random generated dataset of hypothetical restaurant.",
+  "hasSubtitle": true,
+  "description": "The dataset includes following fields: (Food) Item, Category, Sub Category, Item Name, Price, Cost. The purpose of this dataset is to practice data visualization in tools like power bi and python.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "restaurants"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

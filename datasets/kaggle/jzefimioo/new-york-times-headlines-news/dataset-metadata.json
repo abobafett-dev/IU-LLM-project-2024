@@ -1,0 +1,39 @@
+{
+  "id": "jzefimioo/new-york-times-headlines-news",
+  "id_no": 3710845,
+  "datasetSlugNullable": "new-york-times-headlines-news",
+  "ownerUserNullable": "jzefimioo",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "New York Times Headlines News",
+  "subtitleNullable": "New York Times articles headlines from 01/01/2004  08/31/2023",
+  "descriptionNullable": "New York Times articles headlines from 01/01/2024 08/31/2023. Data downloaded using NYT API - https://developer.nytimes.com/.\n\nColumn 0 - date,\nColumn 1 - headline",
+  "datasetId": 3710845,
+  "datasetSlug": "new-york-times-headlines-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "jzefimioo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 78,
+  "totalVotes": 0,
+  "totalDownloads": 14,
+  "title": "New York Times Headlines News",
+  "hasTitle": true,
+  "subtitle": "New York Times articles headlines from 01/01/2004  08/31/2023",
+  "hasSubtitle": true,
+  "description": "New York Times articles headlines from 01/01/2024 08/31/2023. Data downloaded using NYT API - https://developer.nytimes.com/.\n\nColumn 0 - date,\nColumn 1 - headline",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

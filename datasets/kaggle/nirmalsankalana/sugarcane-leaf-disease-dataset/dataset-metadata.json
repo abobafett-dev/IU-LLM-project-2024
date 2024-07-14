@@ -1,0 +1,43 @@
+{
+  "id": "nirmalsankalana/sugarcane-leaf-disease-dataset",
+  "id_no": 4320051,
+  "datasetSlugNullable": "sugarcane-leaf-disease-dataset",
+  "ownerUserNullable": "nirmalsankalana",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Sugarcane Leaf Disease Dataset",
+  "subtitleNullable": "Sugarcane Leaf Disease Dataset with 5 classes",
+  "descriptionNullable": "Manually collected image dataset of sugarcane leaf disease. It has mainly five main categories in it. Healthy, Mosaic, Redrot, Rust, and Yellow disease. The dataset has been captured with smartphones of various configurations to maintain the diversity. It contains a total of 2569 images including all categories. This database has been collected in Maharashtra, India. The database is balanced and contains good variety. The image sizes are not constant as they originate from various capturing devices. All images are in RGB format.\n\nSource: [https://data.mendeley.com/datasets/9424skmnrk/1](url)",
+  "datasetId": 4320051,
+  "datasetSlug": "sugarcane-leaf-disease-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "nirmalsankalana",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 6839,
+  "totalVotes": 37,
+  "totalDownloads": 1083,
+  "title": "Sugarcane Leaf Disease Dataset",
+  "hasTitle": true,
+  "subtitle": "Sugarcane Leaf Disease Dataset with 5 classes",
+  "hasSubtitle": true,
+  "description": "Manually collected image dataset of sugarcane leaf disease. It has mainly five main categories in it. Healthy, Mosaic, Redrot, Rust, and Yellow disease. The dataset has been captured with smartphones of various configurations to maintain the diversity. It contains a total of 2569 images including all categories. This database has been collected in Maharashtra, India. The database is balanced and contains good variety. The image sizes are not constant as they originate from various capturing devices. All images are in RGB format.\n\nSource: [https://data.mendeley.com/datasets/9424skmnrk/1](url)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "diseases",
+    "plants",
+    "agriculture",
+    "computer vision",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

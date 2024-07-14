@@ -1,0 +1,43 @@
+{
+  "id": "giancarlomarchesi/quickstartedavisualizations",
+  "id_no": 2511369,
+  "datasetSlugNullable": "quickstartedavisualizations",
+  "ownerUserNullable": "giancarlomarchesi",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "AiportsUSA20112020clean",
+  "subtitleNullable": "Commercial airplane flight delays in the United States  2011-2020 after EDA",
+  "descriptionNullable": "The contains flight statistics for all airports in the United States from January 2011 to December 2020. Each observation is reported by month, year, airport, and airline. Flights can be categorized as on time, delayed, canceled, or diverted. Flight delays are attributed to five causes: carrier, weather, NAS, security, and late aircraft. The data was downloaded from the Bureau of Transportation Statistics website https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp. \n\nThe accompanying notebook explores commercial airplane flight delays in the United States using Python's visualization capabilities in Matplotlib and Seaborn, through the lenses of seasonality, airport traffic, and airline performance.\n\nThe clean data set (delays_clean.csv) is analyzed using the following visualizations:\n\nBar chart\nBar chart subplots\nLollipop chart\nTree maps\nLine plot\nHistogram\nHistogram subplots\nHorizontal stacked bar chart\nRanked horizontal bar chart\nBox plot\nPareto chart - double axis\nMarginal histogram\nPie charts\nScatter plot\nViolin plot\nMap chart\nLinear regression",
+  "datasetId": 2511369,
+  "datasetSlug": "quickstartedavisualizations",
+  "hasDatasetSlug": true,
+  "ownerUser": "giancarlomarchesi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 3325,
+  "totalVotes": 8,
+  "totalDownloads": 458,
+  "title": "AiportsUSA20112020clean",
+  "hasTitle": true,
+  "subtitle": "Commercial airplane flight delays in the United States  2011-2020 after EDA",
+  "hasSubtitle": true,
+  "description": "The contains flight statistics for all airports in the United States from January 2011 to December 2020. Each observation is reported by month, year, airport, and airline. Flights can be categorized as on time, delayed, canceled, or diverted. Flight delays are attributed to five causes: carrier, weather, NAS, security, and late aircraft. The data was downloaded from the Bureau of Transportation Statistics website https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp. \n\nThe accompanying notebook explores commercial airplane flight delays in the United States using Python's visualization capabilities in Matplotlib and Seaborn, through the lenses of seasonality, airport traffic, and airline performance.\n\nThe clean data set (delays_clean.csv) is analyzed using the following visualizations:\n\nBar chart\nBar chart subplots\nLollipop chart\nTree maps\nLine plot\nHistogram\nHistogram subplots\nHorizontal stacked bar chart\nRanked horizontal bar chart\nBox plot\nPareto chart - double axis\nMarginal histogram\nPie charts\nScatter plot\nViolin plot\nMap chart\nLinear regression",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "transportation",
+    "beginner",
+    "data cleaning",
+    "data visualization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

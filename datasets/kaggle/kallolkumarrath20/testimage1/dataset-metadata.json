@@ -1,0 +1,37 @@
+{
+  "id": "kallolkumarrath20/testimage1",
+  "id_no": 3852788,
+  "datasetSlugNullable": "testimage1",
+  "ownerUserNullable": "kallolkumarrath20",
+  "usabilityRatingNullable": 0.25,
+  "titleNullable": "TestImage1",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 3852788,
+  "datasetSlug": "testimage1",
+  "hasDatasetSlug": true,
+  "ownerUser": "kallolkumarrath20",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.25,
+  "hasUsabilityRating": true,
+  "totalViews": 34,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "TestImage1",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

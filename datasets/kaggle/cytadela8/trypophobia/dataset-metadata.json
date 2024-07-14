@@ -1,0 +1,49 @@
+{
+  "id": "cytadela8/trypophobia",
+  "id_no": 37463,
+  "datasetSlugNullable": "trypophobia",
+  "ownerUserNullable": "cytadela8",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Trypophobia",
+  "subtitleNullable": "6k of handchecked, normalized trypophobia triggering images",
+  "descriptionNullable": "### Context\n\nThis dataset was created as part of a trypophobia detection in browser project ([Github](https://github.com/cytadela8/trypophobia/)) by Artur Puzio and Grzegorz Uriasz made as part of an internship at deepsense.ai sponsored by The Polish Children's Fund and supervised by Piotr Migda\u0142. An experimental browser extension for Mozilla Firefox is available. You can try it [here](https://addons.mozilla.org/en-US/firefox/addon/trypophoby-blocker/).\n\n### Content\n\n- **6.5k** trypophobia triggering images obtained from:\n  - **6k** Reddit (/r/trypophobia) - using [Prawtimestamps by voussoir](https://github.com/voussoir/reddit.git), wget and [Ripme by 4pr0n](https://github.com/4pr0n/ripme)\n  - **546** Google images (keyword: trypophobia) - using [own scrapper](utils/google_images_fetcher)\n- **10.5k** neutral images obtained from Google images using [own scrapper](utils/google_images_fetcher):\n  - **10k** by supplying it 5k randomly chosen words from [this](https://github.com/dwyl/english-words) english dictionary and downloading 2 images per word\n  - **192** with *bushes* keyword\n  - **181** with *grass* keyword\n  - **98** with *forest* keyword\n\nAll trypophobia triggering images were handchecked by two separate people. Only when both agreed they are trypophobia triggering they were included. About 10% of images were removed this way from initial download. All imgaes have been downsized to 256px on shorter edge and then cropped to 256x256.\n\nFor unprocessed images please contact: cytadela8@interia.pl\n\n### Folder Structure\n\nImages have been divided into 4 folders\n\n- `/valid/trypo` - 500 random trypophobia triggering images\n- `/valid/norm` - 500 random neutral images\n- `/train/trypo`- rest trypophobia triggering images\n- `/train/norm` - rest neutral images  ",
+  "datasetId": 37463,
+  "datasetSlug": "trypophobia",
+  "hasDatasetSlug": true,
+  "ownerUser": "cytadela8",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 12232,
+  "totalVotes": 9,
+  "totalDownloads": 160,
+  "title": "Trypophobia",
+  "hasTitle": true,
+  "subtitle": "6k of handchecked, normalized trypophobia triggering images",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset was created as part of a trypophobia detection in browser project ([Github](https://github.com/cytadela8/trypophobia/)) by Artur Puzio and Grzegorz Uriasz made as part of an internship at deepsense.ai sponsored by The Polish Children's Fund and supervised by Piotr Migda\u0142. An experimental browser extension for Mozilla Firefox is available. You can try it [here](https://addons.mozilla.org/en-US/firefox/addon/trypophoby-blocker/).\n\n### Content\n\n- **6.5k** trypophobia triggering images obtained from:\n  - **6k** Reddit (/r/trypophobia) - using [Prawtimestamps by voussoir](https://github.com/voussoir/reddit.git), wget and [Ripme by 4pr0n](https://github.com/4pr0n/ripme)\n  - **546** Google images (keyword: trypophobia) - using [own scrapper](utils/google_images_fetcher)\n- **10.5k** neutral images obtained from Google images using [own scrapper](utils/google_images_fetcher):\n  - **10k** by supplying it 5k randomly chosen words from [this](https://github.com/dwyl/english-words) english dictionary and downloading 2 images per word\n  - **192** with *bushes* keyword\n  - **181** with *grass* keyword\n  - **98** with *forest* keyword\n\nAll trypophobia triggering images were handchecked by two separate people. Only when both agreed they are trypophobia triggering they were included. About 10% of images were removed this way from initial download. All imgaes have been downsized to 256px on shorter edge and then cropped to 256x256.\n\nFor unprocessed images please contact: cytadela8@interia.pl\n\n### Folder Structure\n\nImages have been divided into 4 folders\n\n- `/valid/trypo` - 500 random trypophobia triggering images\n- `/valid/norm` - 500 random neutral images\n- `/train/trypo`- rest trypophobia triggering images\n- `/train/norm` - rest neutral images  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "mental health",
+    "software",
+    "classification",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "gorbak25",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

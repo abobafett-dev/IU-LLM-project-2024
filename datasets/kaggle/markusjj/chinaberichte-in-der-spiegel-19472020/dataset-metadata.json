@@ -1,0 +1,43 @@
+{
+  "id": "markusjj/chinaberichte-in-der-spiegel-19472020",
+  "id_no": 1417896,
+  "datasetSlugNullable": "chinaberichte-in-der-spiegel-19472020",
+  "ownerUserNullable": "markusjj",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Chinaberichte in Der Spiegel (1947-2020)",
+  "subtitleNullable": "News about China in German Magazine \"Der Spigel\"",
+  "descriptionNullable": "### Context\n\nThis data is crawled from [the website of German Magazine *Der Spiegel*](www.spiegel.de), and was first used in my own bachelor-work. I find these data will be useful for the researchers of the same interest, so I share them here in Kaggle.\n\n\n### Content\n\nThere are three folders in this dataset. \n\nIn the folder of `Chinaberichte`, all data of news about China in *Der Spiegel* has been stored here in `final.csv` and `final.xlsx` two formats. in the data file, The `Channel` is the category of each article which classified by *Der Spiegel* itself. The `Epaperkey` is the key of each e-magazine that contains the article. The `Erscheinungsdatum` the issue date of each article. The `Score` is an unknown score rated by the website of *Der Spiegel*. The `Seite` is the number of the first page on the magazine of each article. The `Text` is the full-text of each article. The `Ueberschrift` is the title of each article. The `Vorspann` is the abstract of each article. The `id` is the  unique id number of each article that stored in the database.\n\nIn the folder of `Data_Visualization` is some pictures of the data visualization from the data in the first folder.\n\nIn the folder of `spiegel` is the work directory of scrapy code for my crawling.\n\nFinally, the `Data_Processing.ipynb` is an Ipython code file for my Data Processing.\n\n### Acknowledgements\n\nThanks for my mentor Prof. Tan who gives me the inspiration and points out some great directions for me.",
+  "datasetId": 1417896,
+  "datasetSlug": "chinaberichte-in-der-spiegel-19472020",
+  "hasDatasetSlug": true,
+  "ownerUser": "markusjj",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 1541,
+  "totalVotes": 2,
+  "totalDownloads": 39,
+  "title": "Chinaberichte in Der Spiegel (1947-2020)",
+  "hasTitle": true,
+  "subtitle": "News about China in German Magazine \"Der Spigel\"",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data is crawled from [the website of German Magazine *Der Spiegel*](www.spiegel.de), and was first used in my own bachelor-work. I find these data will be useful for the researchers of the same interest, so I share them here in Kaggle.\n\n\n### Content\n\nThere are three folders in this dataset. \n\nIn the folder of `Chinaberichte`, all data of news about China in *Der Spiegel* has been stored here in `final.csv` and `final.xlsx` two formats. in the data file, The `Channel` is the category of each article which classified by *Der Spiegel* itself. The `Epaperkey` is the key of each e-magazine that contains the article. The `Erscheinungsdatum` the issue date of each article. The `Score` is an unknown score rated by the website of *Der Spiegel*. The `Seite` is the number of the first page on the magazine of each article. The `Text` is the full-text of each article. The `Ueberschrift` is the title of each article. The `Vorspann` is the abstract of each article. The `id` is the  unique id number of each article that stored in the database.\n\nIn the folder of `Data_Visualization` is some pictures of the data visualization from the data in the first folder.\n\nIn the folder of `spiegel` is the work directory of scrapy code for my crawling.\n\nFinally, the `Data_Processing.ipynb` is an Ipython code file for my Data Processing.\n\n### Acknowledgements\n\nThanks for my mentor Prof. Tan who gives me the inspiration and points out some great directions for me.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "china ",
+    "nlp",
+    "data visualization",
+    "data analytics",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

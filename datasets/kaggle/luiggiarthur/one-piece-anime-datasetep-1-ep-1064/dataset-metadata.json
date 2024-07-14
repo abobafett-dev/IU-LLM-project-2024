@@ -1,0 +1,39 @@
+{
+  "id": "luiggiarthur/one-piece-anime-datasetep-1-ep-1064",
+  "id_no": 3348690,
+  "datasetSlugNullable": "one-piece-anime-datasetep-1-ep-1064",
+  "ownerUserNullable": "luiggiarthur",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "One Piece anime dataset(Ep 1 -Ep 1064)",
+  "subtitleNullable": "IMDb ratings of 1064 episodes of One piece",
+  "descriptionNullable": "This dataset was made based on [this ](https://isabella-b.com/blog/scraping-episode-imdb-ratings-tutorial/) great tutorial of webscraping, only adapting it to the One piece anime. The data was scraped from IMDb on May 31, 2023.\nNote that episodes from 2 to 32 are missing due to not being included on IMDb list of episodes.",
+  "datasetId": 3348690,
+  "datasetSlug": "one-piece-anime-datasetep-1-ep-1064",
+  "hasDatasetSlug": true,
+  "ownerUser": "luiggiarthur",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 255,
+  "totalVotes": 1,
+  "totalDownloads": 34,
+  "title": "One Piece anime dataset(Ep 1 -Ep 1064)",
+  "hasTitle": true,
+  "subtitle": "IMDb ratings of 1064 episodes of One piece",
+  "hasSubtitle": true,
+  "description": "This dataset was made based on [this ](https://isabella-b.com/blog/scraping-episode-imdb-ratings-tutorial/) great tutorial of webscraping, only adapting it to the One piece anime. The data was scraped from IMDb on May 31, 2023.\nNote that episodes from 2 to 32 are missing due to not being included on IMDb list of episodes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "amyjang/pandatilesagg",
+  "id_no": 805988,
+  "datasetSlugNullable": "pandatilesagg",
+  "ownerUserNullable": "amyjang",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "PANDA Augmented Images",
+  "subtitleNullable": "Radboud images augmented using neural style transfer",
+  "descriptionNullable": "### Context\n\nThe PANDA dataset is a collection of microscopy scans from the PANDA challenge that aimed to classify the severity of prostate cancer. The official competition page can be found [here](https://www.kaggle.com/c/prostate-cancer-grade-assessment). The PANDA dataset has microscopy scans from two different institutions (Radboud and Karolinska).  This dataset can be used to explore how data augmentation, using neural style transfer, can help with classification and balance the variance between images processed in different ways.\n\n### Content\n\nThe `all_images` directory contains the tiles from the [panda_tiles dataset](https://www.kaggle.com/xiejialun/panda-tiles) but aggregated together. Instead of having 12 different images for one scan, the tiles are combined into a single image.\n\nThe `radboud_aug` directory contains some of the Radboud images, but augmented using neural style transfer. The notebook used to create the Radboud images can be accessed [here](https://www.kaggle.com/amyjang/radboud-augmented-dataset-creation). The `train.csv` is the same csv file provided by the PANDA challenge, but pruned to only include the data that tiles existed for.\n",
+  "datasetId": 805988,
+  "datasetSlug": "pandatilesagg",
+  "hasDatasetSlug": true,
+  "ownerUser": "amyjang",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 5813,
+  "totalVotes": 8,
+  "totalDownloads": 105,
+  "title": "PANDA Augmented Images",
+  "hasTitle": true,
+  "subtitle": "Radboud images augmented using neural style transfer",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe PANDA dataset is a collection of microscopy scans from the PANDA challenge that aimed to classify the severity of prostate cancer. The official competition page can be found [here](https://www.kaggle.com/c/prostate-cancer-grade-assessment). The PANDA dataset has microscopy scans from two different institutions (Radboud and Karolinska).  This dataset can be used to explore how data augmentation, using neural style transfer, can help with classification and balance the variance between images processed in different ways.\n\n### Content\n\nThe `all_images` directory contains the tiles from the [panda_tiles dataset](https://www.kaggle.com/xiejialun/panda-tiles) but aggregated together. Instead of having 12 different images for one scan, the tiles are combined into a single image.\n\nThe `radboud_aug` directory contains some of the Radboud images, but augmented using neural style transfer. The notebook used to create the Radboud images can be accessed [here](https://www.kaggle.com/amyjang/radboud-augmented-dataset-creation). The `train.csv` is the same csv file provided by the PANDA challenge, but pruned to only include the data that tiles existed for.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "biology",
+    "education",
+    "health",
+    "medicine",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "selfishgene/covid19-worldometer-snapshots-since-april-18",
+  "id_no": 664117,
+  "datasetSlugNullable": "covid19-worldometer-snapshots-since-april-18",
+  "ownerUserNullable": "selfishgene",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "COVID-19 worldometer daily snapshots",
+  "subtitleNullable": "snapshots with per country info about tests, cases, deaths, serious cases, etc.",
+  "descriptionNullable": "# Manually collected daily snapshots of worldometer COVID-19 data (since April 18)\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F128750%2F66baee67b3e35bf9656ff816e692527e%2Fsnapshot_worldometer_july4.png?generation=1593988535797227&alt=media)\n\n### Content\nThe dataset contains data about the numbers of tests, cases, deaths, serious/critical cases, active cases and recovered cases in each country for every day since April 18, and also contains the population of each country to calculate per-capita penetration of the virus\n\nI've removed data from the \"Diamond Princess\" and \"MS Zaandam\" since they are not countries\n\nAdditionally, an auxiliray table with information about the fraction of the general population at different age groups for every country is added (taken from Wikipedia). This is specifically relevant since COVID-19 death rate is very much age dependent.\n\n### Acknowledgements\nThe people at \"www.worldometers.info\" collecting and maintaining this site really are doing very important work\n[https://www.worldometers.info/coronavirus/#countries\n](https://www.worldometers.info/coronavirus/#countries) \n\nData about age structure for every country comes from [wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_age_structure)\n\n### Inspiration\nIt's possible to use this dataset for various purposes and analyses \nMy goal will be to use the additional data about the number of tests performed in each country to estimate the true death and infection rates of COVID-19\n",
+  "datasetId": 664117,
+  "datasetSlug": "covid19-worldometer-snapshots-since-april-18",
+  "hasDatasetSlug": true,
+  "ownerUser": "selfishgene",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 13408,
+  "totalVotes": 13,
+  "totalDownloads": 559,
+  "title": "COVID-19 worldometer daily snapshots",
+  "hasTitle": true,
+  "subtitle": "snapshots with per country info about tests, cases, deaths, serious cases, etc.",
+  "hasSubtitle": true,
+  "description": "# Manually collected daily snapshots of worldometer COVID-19 data (since April 18)\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F128750%2F66baee67b3e35bf9656ff816e692527e%2Fsnapshot_worldometer_july4.png?generation=1593988535797227&alt=media)\n\n### Content\nThe dataset contains data about the numbers of tests, cases, deaths, serious/critical cases, active cases and recovered cases in each country for every day since April 18, and also contains the population of each country to calculate per-capita penetration of the virus\n\nI've removed data from the \"Diamond Princess\" and \"MS Zaandam\" since they are not countries\n\nAdditionally, an auxiliray table with information about the fraction of the general population at different age groups for every country is added (taken from Wikipedia). This is specifically relevant since COVID-19 death rate is very much age dependent.\n\n### Acknowledgements\nThe people at \"www.worldometers.info\" collecting and maintaining this site really are doing very important work\n[https://www.worldometers.info/coronavirus/#countries\n](https://www.worldometers.info/coronavirus/#countries) \n\nData about age structure for every country comes from [wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_age_structure)\n\n### Inspiration\nIt's possible to use this dataset for various purposes and analyses \nMy goal will be to use the additional data about the number of tests performed in each country to estimate the true death and infection rates of COVID-19\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "law",
+    "tabular",
+    "news",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

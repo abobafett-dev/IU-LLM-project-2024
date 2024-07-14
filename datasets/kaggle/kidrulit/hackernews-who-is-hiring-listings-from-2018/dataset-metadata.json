@@ -1,0 +1,43 @@
+{
+  "id": "kidrulit/hackernews-who-is-hiring-listings-from-2018",
+  "id_no": 3577334,
+  "datasetSlugNullable": "hackernews-who-is-hiring-listings-from-2018",
+  "ownerUserNullable": "kidrulit",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "HackerNews Who Is Hiring listings 2018-2023",
+  "subtitleNullable": "Dataset job listings at Ask HN: Who is hiring from 2018 to 2023 (July)",
+  "descriptionNullable": "The dataset being utilized encompasses a comprehensive range of job postings from the HackerNews community, a dynamic platform renowned for its focus on technology, computer science, and entrepreneurship. This dataset spans from 2018 to June 2023, providing a five-year window into the evolving trends and preferences within this vibrant community.\n\nThe job description have the following columns: \n\n- `companyName`: Name of the company (Text)\n- `location`: Location of the position (Text)\n- `location_city`: City of the position based on the location, can be null (Array of Text)\n- `location_country`: Country of the position based on the location, can be null ( Array of Text)\n- `is_remote`: Indicates whether the position is remote or not (Boolean)\n- `is_remote_country_specific`: Indicates if remote work is constrained by a specific country (Boolean)\n- `legalAuthorizationRequirements`: Legal requirements for the position (Text)\n- `time_zone_requirements`: Indicates if there are any overlapping time zone requirements for the position (Boolean)\n- `is_full_time`: Indicates if the position requires full-time employment (Boolean)\n- `is_part_time`: Indicates if the position requires part-time employment (Boolean)\n- `is_contractor`: Indicates if the position requires contractor employment (Boolean)\n- `subindustry`: Company subindustry within the technology sector, identified from the position description (Text). Please note the field can't be null.\n- `companyDescription`: One or two-sentence description of the company (Text)\n- `position`: Position title (Text)\n- `languageStack`: Array of programming languages required for the position (Array of Text)\n- `companyWebsite`: Company's website (URL)\n- `emailToContact`: Email of point of contact (Text)",
+  "datasetId": 3577334,
+  "datasetSlug": "hackernews-who-is-hiring-listings-from-2018",
+  "hasDatasetSlug": true,
+  "ownerUser": "kidrulit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 206,
+  "totalVotes": 1,
+  "totalDownloads": 23,
+  "title": "HackerNews Who Is Hiring listings 2018-2023",
+  "hasTitle": true,
+  "subtitle": "Dataset job listings at Ask HN: Who is hiring from 2018 to 2023 (July)",
+  "hasSubtitle": true,
+  "description": "The dataset being utilized encompasses a comprehensive range of job postings from the HackerNews community, a dynamic platform renowned for its focus on technology, computer science, and entrepreneurship. This dataset spans from 2018 to June 2023, providing a five-year window into the evolving trends and preferences within this vibrant community.\n\nThe job description have the following columns: \n\n- `companyName`: Name of the company (Text)\n- `location`: Location of the position (Text)\n- `location_city`: City of the position based on the location, can be null (Array of Text)\n- `location_country`: Country of the position based on the location, can be null ( Array of Text)\n- `is_remote`: Indicates whether the position is remote or not (Boolean)\n- `is_remote_country_specific`: Indicates if remote work is constrained by a specific country (Boolean)\n- `legalAuthorizationRequirements`: Legal requirements for the position (Text)\n- `time_zone_requirements`: Indicates if there are any overlapping time zone requirements for the position (Boolean)\n- `is_full_time`: Indicates if the position requires full-time employment (Boolean)\n- `is_part_time`: Indicates if the position requires part-time employment (Boolean)\n- `is_contractor`: Indicates if the position requires contractor employment (Boolean)\n- `subindustry`: Company subindustry within the technology sector, identified from the position description (Text). Please note the field can't be null.\n- `companyDescription`: One or two-sentence description of the company (Text)\n- `position`: Position title (Text)\n- `languageStack`: Array of programming languages required for the position (Array of Text)\n- `companyWebsite`: Company's website (URL)\n- `emailToContact`: Email of point of contact (Text)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "classification",
+    "tabular",
+    "jobs and career",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

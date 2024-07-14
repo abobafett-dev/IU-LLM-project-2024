@@ -1,0 +1,39 @@
+{
+  "id": "thedevastator/data-breaches-a-comprehensive-list",
+  "id_no": 2623742,
+  "datasetSlugNullable": "data-breaches-a-comprehensive-list",
+  "ownerUserNullable": "thedevastator",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Data Breaches",
+  "subtitleNullable": "30,000 Records of cyber-security data breaches",
+  "descriptionNullable": "# Data Breaches Dataset\n### 30,000 Records of cyber-security data breaches\n_____\n\n### About this dataset\n&gt; This dataset is a compilation of data from various sources detailing data breaches. These sources include press reports, government news releases, and mainstream news articles. The list includes those involving the theft or compromise of 30,000 or more records, although many smaller breaches occur continually. In addition, the various methods used in the breaches are listed, with hacking being the most common.\n&gt; \n&gt; Organizations of all types and sizes are susceptible to data breaches, which can have devastating consequences. This dataset can help shed light on which organizations are most at risk and how these breaches occur so that steps can be taken to prevent them in the future\n\n### How to use the dataset\n&gt; There are many ways to use this dataset. Here are a few ideas:\n&gt; \n&gt; - Use the data to understand which types of organizations are most commonly breached, and what methods are used most often.\n&gt; - Analyze the data to see if there are any trends or patterns in when or how breaches occur.\n&gt; - Use the data to create a visualizations or infographic showing the prevalence of data breaches\n\n### Research Ideas\n&gt; - This dataset can be used to identify trends in data breaches in terms of methods used, types of organizations breached, and geographical distribution.\n&gt; \n&gt; - This dataset can be used to study the effect of data breaches on organizational reputation and customer trust.\n&gt; \n&gt; - This dataset can be used by organizations to benchmark their own security measures against those of similar organizations that have experienced data breaches\n\n### Acknowledgements\n\n&gt; \n&gt; \n&gt; ### License\n&gt; \n&gt; \n&gt; &gt; **License: [CC0 1.0 Universal (CC0 1.0) - Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)**\n&gt; &gt; No Copyright - You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. [See Other Information](https://creativecommons.org/publicdomain/zero/1.0/).\n\n### Columns\n\n**File: df_1.csv**\n| Column name           | Description                                                          |\n|:----------------------|:---------------------------------------------------------------------|\n| **Entity**            | The name of the organization that was breached. (String)             |\n| **Year**              | The year when the breach occurred. (Integer)                         |\n| **Records**           | The number of records that were compromised in the breach. (Integer) |\n| **Organization type** | The type of organization that was breached. (String)                 |\n| **Method**            | The method that was used to breach the organization. (String)        |\n| **Sources**           | The sources from which the data was collected. (String)              |\n\n",
+  "datasetId": 2623742,
+  "datasetSlug": "data-breaches-a-comprehensive-list",
+  "hasDatasetSlug": true,
+  "ownerUser": "thedevastator",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 21344,
+  "totalVotes": 52,
+  "totalDownloads": 3343,
+  "title": "Data Breaches",
+  "hasTitle": true,
+  "subtitle": "30,000 Records of cyber-security data breaches",
+  "hasSubtitle": true,
+  "description": "# Data Breaches Dataset\n### 30,000 Records of cyber-security data breaches\n_____\n\n### About this dataset\n&gt; This dataset is a compilation of data from various sources detailing data breaches. These sources include press reports, government news releases, and mainstream news articles. The list includes those involving the theft or compromise of 30,000 or more records, although many smaller breaches occur continually. In addition, the various methods used in the breaches are listed, with hacking being the most common.\n&gt; \n&gt; Organizations of all types and sizes are susceptible to data breaches, which can have devastating consequences. This dataset can help shed light on which organizations are most at risk and how these breaches occur so that steps can be taken to prevent them in the future\n\n### How to use the dataset\n&gt; There are many ways to use this dataset. Here are a few ideas:\n&gt; \n&gt; - Use the data to understand which types of organizations are most commonly breached, and what methods are used most often.\n&gt; - Analyze the data to see if there are any trends or patterns in when or how breaches occur.\n&gt; - Use the data to create a visualizations or infographic showing the prevalence of data breaches\n\n### Research Ideas\n&gt; - This dataset can be used to identify trends in data breaches in terms of methods used, types of organizations breached, and geographical distribution.\n&gt; \n&gt; - This dataset can be used to study the effect of data breaches on organizational reputation and customer trust.\n&gt; \n&gt; - This dataset can be used by organizations to benchmark their own security measures against those of similar organizations that have experienced data breaches\n\n### Acknowledgements\n\n&gt; \n&gt; \n&gt; ### License\n&gt; \n&gt; \n&gt; &gt; **License: [CC0 1.0 Universal (CC0 1.0) - Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)**\n&gt; &gt; No Copyright - You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. [See Other Information](https://creativecommons.org/publicdomain/zero/1.0/).\n\n### Columns\n\n**File: df_1.csv**\n| Column name           | Description                                                          |\n|:----------------------|:---------------------------------------------------------------------|\n| **Entity**            | The name of the organization that was breached. (String)             |\n| **Year**              | The year when the breach occurred. (Integer)                         |\n| **Records**           | The number of records that were compromised in the breach. (Integer) |\n| **Organization type** | The type of organization that was breached. (String)                 |\n| **Method**            | The method that was used to breach the organization. (String)        |\n| **Sources**           | The sources from which the data was collected. (String)              |\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

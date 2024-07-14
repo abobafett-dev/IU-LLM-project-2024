@@ -1,0 +1,42 @@
+{
+  "id": "sabermalek/plf50",
+  "id_no": 32250,
+  "datasetSlugNullable": "plf50",
+  "ownerUserNullable": "sabermalek",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "PLF Image Dataset",
+  "subtitleNullable": "Persian Letters with distinct Fonts (50*50 Images)",
+  "descriptionNullable": "### PLF50\n\nThe dataset is suitable for image processing and machine vision project with machine learning. 50*50 Images of Persian letters (without dots) with 32 Different Fonts.",
+  "datasetId": 32250,
+  "datasetSlug": "plf50",
+  "hasDatasetSlug": true,
+  "ownerUser": "sabermalek",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 5147,
+  "totalVotes": 53,
+  "totalDownloads": 392,
+  "title": "PLF Image Dataset",
+  "hasTitle": true,
+  "subtitle": "Persian Letters with distinct Fonts (50*50 Images)",
+  "hasSubtitle": true,
+  "description": "### PLF50\n\nThe dataset is suitable for image processing and machine vision project with machine learning. 50*50 Images of Persian letters (without dots) with 32 Different Fonts.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "classification",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

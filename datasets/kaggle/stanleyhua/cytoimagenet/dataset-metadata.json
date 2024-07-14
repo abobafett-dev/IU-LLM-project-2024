@@ -1,0 +1,44 @@
+{
+  "id": "stanleyhua/cytoimagenet",
+  "id_no": 1666817,
+  "datasetSlugNullable": "cytoimagenet",
+  "ownerUserNullable": "stanleyhua",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "CytoImageNet",
+  "subtitleNullable": "A large-scale pretraining dataset of microscopy images",
+  "descriptionNullable": "### Motivation\n\nIn recent years, image-based biological assays have steadily become high-throughput, sparking a need for fast automated methods to extract biologically-meaningful information from hundreds of thousands of images. Taking inspiration from the success of ImageNet, we curate CytoImageNet, a large-scale dataset of openly-sourced and weakly-labeled microscopy images (890K images, 894 classes). \n\nPretraining on CytoImageNet has been shown to produce features competitive to ImageNet features on downstream microscopy classification tasks, despite poor results on a held out validation set. And the concatenation of CytoImageNet and ImageNet-trained features is the new state-of-the-art in bioimage transfer learning.\n\n\n## About the data\n\n**890,737** total grayscale images. **894 classes** (~1000 images per class).\n\nMicroscopy images belong to **40 openly available** datasets from the following databases: Recursion, Image Data Resource, Broad Bioimage Benchmark Collection, Kaggle and the Cell Image Library. See below for the list of datasets included.\n\nThe classes are **soft/weak labels**, so overlap is possible. Labels were assigned based on image metadata provided in the originating datasets. Chosen label could correspond to any of [organism, cell\\_type, cell\\_visible, phenotype, compound, gene, sirna].\n\n|       Category      |     # of labels    |\n|:-------------------:|:------------------:|\n|       compound      |         637        |\n|       phenotype     |          93        |\n|       cell\\_type     |          44        |\n|         gene        |          43        |\n|     cell\\_visible    |          38        |\n|         sirna       |          36        |\n|       organism      |          3         |\n\n\n### Metadata associated with each image\n&gt; * **label**: Class assigned to image\n&gt; * **category**: Name of column where label originates from (e.g. organism)\n\n\n&gt; * **database**: Database containing source dataset\n&gt; * **name**: Name of source dataset (*created if no explicit name in database*)\n&gt; * **dir_name**: Shorthand naming convention of dataset (*created if no explicit shorthand in database*)\n&gt; * **path**: Relative path to folder containing image file. (e.g. /cytoimagenet/human)\n&gt; * **filename**: Standardized filename based on binary of image number in class (e.g. human-00001011.png)\n&gt; * **idx**: Index that maps to original image from source dataset. (e.g. bbbbc041-14631)\n\n\n&gt; * **organism**: Biological organism (e.g. human)\n&gt; * **cell_type**: May refer to cell class (e.g. red blood cell) or cell line (e.g. u2os)\n&gt; * **cell_visible**: May refer to cell components that were stained (e.g. actin) or features of an organism that were stained for (e.g. pharynx)\n&gt; * **phenotype**: May refer to disease condition (e.g. leukemia), mechanism-of-action (MOA), cell cycle stage (e.g. telophase), etc.\n&gt; * **compound**: Name of compound treatment\n&gt; * **sirna**: Name of siRNA treatment\n&gt; * **gene**: Name of gene (or protein) targeted (*\" targeted\" added to avoid overlapping labels with cell_visible*)\n\n\n&gt; * **microscopy**: Microscopy modality (e.g. fluorescence)\n&gt; * **crop**: True if image is a crop from an image. False, otherwise.\n&gt; * **scaling**: Length of crop side relative to size of original image (e.g. 0.5 corresponds to a 0.5 by 0.5 window ~ 1/4 the original image)\n&gt; * **x_min, x_max, y_min, y_max**: Slicing indices to create crop from original image\n\n\n### Acknowledgements\n\nI would personally like to thank Professor Alan Moses and Alex Lu on their kindness and supervision over the entire project. Without their valuable feedback, much of this wouldn't have been possible. The authors would like to thank Juan Caicedo and Anne Carpenter for their valuable input regarding the Broad Institute datasets.",
+  "datasetId": 1666817,
+  "datasetSlug": "cytoimagenet",
+  "hasDatasetSlug": true,
+  "ownerUser": "stanleyhua",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 12615,
+  "totalVotes": 21,
+  "totalDownloads": 675,
+  "title": "CytoImageNet",
+  "hasTitle": true,
+  "subtitle": "A large-scale pretraining dataset of microscopy images",
+  "hasSubtitle": true,
+  "description": "### Motivation\n\nIn recent years, image-based biological assays have steadily become high-throughput, sparking a need for fast automated methods to extract biologically-meaningful information from hundreds of thousands of images. Taking inspiration from the success of ImageNet, we curate CytoImageNet, a large-scale dataset of openly-sourced and weakly-labeled microscopy images (890K images, 894 classes). \n\nPretraining on CytoImageNet has been shown to produce features competitive to ImageNet features on downstream microscopy classification tasks, despite poor results on a held out validation set. And the concatenation of CytoImageNet and ImageNet-trained features is the new state-of-the-art in bioimage transfer learning.\n\n\n## About the data\n\n**890,737** total grayscale images. **894 classes** (~1000 images per class).\n\nMicroscopy images belong to **40 openly available** datasets from the following databases: Recursion, Image Data Resource, Broad Bioimage Benchmark Collection, Kaggle and the Cell Image Library. See below for the list of datasets included.\n\nThe classes are **soft/weak labels**, so overlap is possible. Labels were assigned based on image metadata provided in the originating datasets. Chosen label could correspond to any of [organism, cell\\_type, cell\\_visible, phenotype, compound, gene, sirna].\n\n|       Category      |     # of labels    |\n|:-------------------:|:------------------:|\n|       compound      |         637        |\n|       phenotype     |          93        |\n|       cell\\_type     |          44        |\n|         gene        |          43        |\n|     cell\\_visible    |          38        |\n|         sirna       |          36        |\n|       organism      |          3         |\n\n\n### Metadata associated with each image\n&gt; * **label**: Class assigned to image\n&gt; * **category**: Name of column where label originates from (e.g. organism)\n\n\n&gt; * **database**: Database containing source dataset\n&gt; * **name**: Name of source dataset (*created if no explicit name in database*)\n&gt; * **dir_name**: Shorthand naming convention of dataset (*created if no explicit shorthand in database*)\n&gt; * **path**: Relative path to folder containing image file. (e.g. /cytoimagenet/human)\n&gt; * **filename**: Standardized filename based on binary of image number in class (e.g. human-00001011.png)\n&gt; * **idx**: Index that maps to original image from source dataset. (e.g. bbbbc041-14631)\n\n\n&gt; * **organism**: Biological organism (e.g. human)\n&gt; * **cell_type**: May refer to cell class (e.g. red blood cell) or cell line (e.g. u2os)\n&gt; * **cell_visible**: May refer to cell components that were stained (e.g. actin) or features of an organism that were stained for (e.g. pharynx)\n&gt; * **phenotype**: May refer to disease condition (e.g. leukemia), mechanism-of-action (MOA), cell cycle stage (e.g. telophase), etc.\n&gt; * **compound**: Name of compound treatment\n&gt; * **sirna**: Name of siRNA treatment\n&gt; * **gene**: Name of gene (or protein) targeted (*\" targeted\" added to avoid overlapping labels with cell_visible*)\n\n\n&gt; * **microscopy**: Microscopy modality (e.g. fluorescence)\n&gt; * **crop**: True if image is a crop from an image. False, otherwise.\n&gt; * **scaling**: Length of crop side relative to size of original image (e.g. 0.5 corresponds to a 0.5 by 0.5 window ~ 1/4 the original image)\n&gt; * **x_min, x_max, y_min, y_max**: Slicing indices to create crop from original image\n\n\n### Acknowledgements\n\nI would personally like to thank Professor Alan Moses and Alex Lu on their kindness and supervision over the entire project. Without their valuable feedback, much of this wouldn't have been possible. The authors would like to thank Juan Caicedo and Anne Carpenter for their valuable input regarding the Broad Institute datasets.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "biology",
+    "medicine",
+    "computer vision",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

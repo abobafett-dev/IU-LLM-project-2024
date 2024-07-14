@@ -1,0 +1,44 @@
+{
+  "id": "sazidthe1/world-gdp-data",
+  "id_no": 3732881,
+  "datasetSlugNullable": "world-gdp-data",
+  "ownerUserNullable": "sazidthe1",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "World GDP by Country, Region, and Income Group",
+  "subtitleNullable": "Gross Domestic Product (GDP) Data till 2022: Country, Region, and Income Group ",
+  "descriptionNullable": "### Context\n\nIn an increasingly interconnected global economy, understanding the economic landscape of different countries, regions, and income groups is vital for policymakers, researchers, and businesses. The World GDP (Gross Domestic Product) Dataset has been curated to provide comprehensive insights into the economic performance of countries worldwide, categorized by region and income group. This dataset is sourced from the World Bank Group, a renowned institution for global economic data.\n\n### Content\n\nThere are 2 CSVs. These datasets offer a comprehensive view of global economics, centered on Gross Domestic Product (GDP). In the primary dataset (gdp_data.csv), you'll find country-specific GDP values, years, and unique country codes. The supplementary dataset (country_codes.csv) complements it by providing country regions and income group classifications, facilitating a multifaceted analysis of the global economic landscape.\n\n### Dataset\n\nThis dataset comprises various key indicators related to GDP, covering from 1960 up to 2022. The primary dataset (`gdp_data.csv`) includes the following columns:\n\n| Column Name   | Description                                       |\n|---------------|---------------------------------------------------|\n| `country_name`  | The name of the country.                         |\n| `country_code`  | A unique identifier for each country.            |\n| `year`          | The year to which the data corresponds.          |\n| `value`         | The GDP value in US$ for the respective year and country.|\n\n<br>\n\nThe supplementary dataset (`country_codes.csv`) includes the following columns:\n\n| Column Name   | Description                                       |\n|---------------|---------------------------------------------------|\n| `country_code`  | A unique identifier that links to the primary dataset. |\n| `region`        | The region to which each country belongs.        |\n| `income_group`  | The income group classification of each country. |\n\n\n### Acknowledgment\nThe primary dataset was retrieved from the World Bank Group's [Open Data](https://data.worldbank.org/). I would like to express our sincere appreciation to the World Bank for providing the core data used in this dataset.\n<br>\n\u00a9\ufe0f Image credit: [Freepik](https://www.freepik.com/premium-vector/growth-gdp-gross-domestic-product-government-budget-increment-annual-financial-budget_33528261.htm#query=global%20gdp&position=22&from_view=search&track=ais)",
+  "datasetId": 3732881,
+  "datasetSlug": "world-gdp-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "sazidthe1",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6918,
+  "totalVotes": 42,
+  "totalDownloads": 1917,
+  "title": "World GDP by Country, Region, and Income Group",
+  "hasTitle": true,
+  "subtitle": "Gross Domestic Product (GDP) Data till 2022: Country, Region, and Income Group ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIn an increasingly interconnected global economy, understanding the economic landscape of different countries, regions, and income groups is vital for policymakers, researchers, and businesses. The World GDP (Gross Domestic Product) Dataset has been curated to provide comprehensive insights into the economic performance of countries worldwide, categorized by region and income group. This dataset is sourced from the World Bank Group, a renowned institution for global economic data.\n\n### Content\n\nThere are 2 CSVs. These datasets offer a comprehensive view of global economics, centered on Gross Domestic Product (GDP). In the primary dataset (gdp_data.csv), you'll find country-specific GDP values, years, and unique country codes. The supplementary dataset (country_codes.csv) complements it by providing country regions and income group classifications, facilitating a multifaceted analysis of the global economic landscape.\n\n### Dataset\n\nThis dataset comprises various key indicators related to GDP, covering from 1960 up to 2022. The primary dataset (`gdp_data.csv`) includes the following columns:\n\n| Column Name   | Description                                       |\n|---------------|---------------------------------------------------|\n| `country_name`  | The name of the country.                         |\n| `country_code`  | A unique identifier for each country.            |\n| `year`          | The year to which the data corresponds.          |\n| `value`         | The GDP value in US$ for the respective year and country.|\n\n<br>\n\nThe supplementary dataset (`country_codes.csv`) includes the following columns:\n\n| Column Name   | Description                                       |\n|---------------|---------------------------------------------------|\n| `country_code`  | A unique identifier that links to the primary dataset. |\n| `region`        | The region to which each country belongs.        |\n| `income_group`  | The income group classification of each country. |\n\n\n### Acknowledgment\nThe primary dataset was retrieved from the World Bank Group's [Open Data](https://data.worldbank.org/). I would like to express our sincere appreciation to the World Bank for providing the core data used in this dataset.\n<br>\n\u00a9\ufe0f Image credit: [Freepik](https://www.freepik.com/premium-vector/growth-gdp-gross-domestic-product-government-budget-increment-annual-financial-budget_33528261.htm#query=global%20gdp&position=22&from_view=search&track=ais)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "business",
+    "economics",
+    "intermediate",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

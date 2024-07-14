@@ -1,0 +1,40 @@
+{
+  "id": "danielabosch/fuel-transactions-from-gas-pump",
+  "id_no": 2046403,
+  "datasetSlugNullable": "fuel-transactions-from-gas-pump",
+  "ownerUserNullable": "danielabosch",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Transacciones de despachos de combustible",
+  "subtitleNullable": "Registros recolectados por nodos IoT sobre surtidores - Enero a Marzo 2022",
+  "descriptionNullable": "Las transacciones de despacho registradas en este dataset son realizadas por distintos sectores de la industria, tales como empresas de transporte, estaciones de servicios, telecomunicaciones, miner\u00eda, etc.\n\nEl conjunto brindado por la empresa Cintelink pertenece a datos registrados por nodos IoT durante los meses de enero a marzo 2022. ",
+  "datasetId": 2046403,
+  "datasetSlug": "fuel-transactions-from-gas-pump",
+  "hasDatasetSlug": true,
+  "ownerUser": "danielabosch",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 883,
+  "totalVotes": 2,
+  "totalDownloads": 125,
+  "title": "Transacciones de despachos de combustible",
+  "hasTitle": true,
+  "subtitle": "Registros recolectados por nodos IoT sobre surtidores - Enero a Marzo 2022",
+  "hasSubtitle": true,
+  "description": "Las transacciones de despacho registradas en este dataset son realizadas por distintos sectores de la industria, tales como empresas de transporte, estaciones de servicios, telecomunicaciones, miner\u00eda, etc.\n\nEl conjunto brindado por la empresa Cintelink pertenece a datos registrados por nodos IoT durante los meses de enero a marzo 2022. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "time series analysis",
+    "oil and gas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

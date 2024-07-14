@@ -1,0 +1,43 @@
+{
+  "id": "tejasurya/itc-stock-price-prediction",
+  "id_no": 2339850,
+  "datasetSlugNullable": "itc-stock-price-prediction",
+  "ownerUserNullable": "tejasurya",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "ITC Limited stock price",
+  "subtitleNullable": "Will the price of ITC share breakout 500 mark by the end of 2023?",
+  "descriptionNullable": "## ITC \nITC Limited is an Indian conglomerate company headquartered in Kolkata, India. ITC has a diversified presence across industries such as cigarettes, FMCG, hotels, software, packaging, paperboards, specialty papers and agribusiness. The company has 13 businesses in 5 segments. It exports its products in 90 countries. Its products are available in 6 million retail outlets.\n\nEstablished in 1910 as the Imperial Tobacco Company of India Limited, the company was renamed as the India Tobacco Company Limited in 1970 and later to I.T.C. Limited in 1974. The company now stands renamed ITC Limited, where \"ITC\" today is no longer an acronym. As of 2019\u201320, ITC had an annual turnover of US$10.74 billion and a market capitalisation of US$35 billion. It employs 36,500 people at more than 60 locations across India. \nSource : [`Wikipedia`](https://en.wikipedia.org/wiki/ITC_Limited), [Will ITC breakout of the 400 mark](https://www.business-standard.com/article/markets/chart-check-itc-could-jump-40-on-fresh-breakouts-may-hit-rs-400-mark-122051900349_1.html)\n\n### Problem\n* When will ITC share price breakout of the 400 mark? Will it happen in 2022?\nAnswer : No, Only on 17.04.2023 ITC opened above the 400 mark.\n\n* Will ITC share price breakout of the 500 mark in 2023?\n\n\n**Data Description**\nThis dataset provides the history of daily prices of ITC. The data starts from 05-01-1996 to 05-11-2022. All the column descriptions are provided. Currency is represented in INR.\n\nDataset is available in both .csv format.\n\nSource: Yahoo Finance",
+  "datasetId": 2339850,
+  "datasetSlug": "itc-stock-price-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "tejasurya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 2844,
+  "totalVotes": 17,
+  "totalDownloads": 454,
+  "title": "ITC Limited stock price",
+  "hasTitle": true,
+  "subtitle": "Will the price of ITC share breakout 500 mark by the end of 2023?",
+  "hasSubtitle": true,
+  "description": "## ITC \nITC Limited is an Indian conglomerate company headquartered in Kolkata, India. ITC has a diversified presence across industries such as cigarettes, FMCG, hotels, software, packaging, paperboards, specialty papers and agribusiness. The company has 13 businesses in 5 segments. It exports its products in 90 countries. Its products are available in 6 million retail outlets.\n\nEstablished in 1910 as the Imperial Tobacco Company of India Limited, the company was renamed as the India Tobacco Company Limited in 1970 and later to I.T.C. Limited in 1974. The company now stands renamed ITC Limited, where \"ITC\" today is no longer an acronym. As of 2019\u201320, ITC had an annual turnover of US$10.74 billion and a market capitalisation of US$35 billion. It employs 36,500 people at more than 60 locations across India. \nSource : [`Wikipedia`](https://en.wikipedia.org/wiki/ITC_Limited), [Will ITC breakout of the 400 mark](https://www.business-standard.com/article/markets/chart-check-itc-could-jump-40-on-fresh-breakouts-may-hit-rs-400-mark-122051900349_1.html)\n\n### Problem\n* When will ITC share price breakout of the 400 mark? Will it happen in 2022?\nAnswer : No, Only on 17.04.2023 ITC opened above the 400 mark.\n\n* Will ITC share price breakout of the 500 mark in 2023?\n\n\n**Data Description**\nThis dataset provides the history of daily prices of ITC. The data starts from 05-01-1996 to 05-11-2022. All the column descriptions are provided. Currency is represented in INR.\n\nDataset is available in both .csv format.\n\nSource: Yahoo Finance",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "time series analysis",
+    "investing",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

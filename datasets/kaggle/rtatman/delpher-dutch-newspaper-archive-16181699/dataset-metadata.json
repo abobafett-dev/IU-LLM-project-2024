@@ -1,0 +1,44 @@
+{
+  "id": "rtatman/delpher-dutch-newspaper-archive-16181699",
+  "id_no": 1900,
+  "datasetSlugNullable": "delpher-dutch-newspaper-archive-16181699",
+  "ownerUserNullable": "rtatman",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Delpher Dutch Newspaper Archive (1618-1699)",
+  "subtitleNullable": "Can you identify linguistic features that predict a market crash?",
+  "descriptionNullable": "### Context:  \n\n\"Tulip mania, tulipmania, or tulipomania (Dutch names include: tulpenmanie, tulpomanie, tulpenwoede, tulpengekte and bollengekte) was a period in the Dutch Golden Age during which contract prices for bulbs of the recently introduced tulip reached extraordinarily high levels and then dramatically collapsed in February 1637. It is generally considered the first recorded speculative bubble (or economic bubble).\" -- From [Wikipedia](https://en.wikipedia.org/wiki/Tulip_mania), CC BY-SA\n\nMarket forecasting is difficult. There are many factors that may affect the market, and a high degree of uncertainty. One thing that some researchers have been investigating is whether natural language processing (NLP) of news texts can help with market forecasting. Recent publications suggest that it can be.\n\n* [Peng, Y., & Jiang, H. (2016). Leverage Financial News to Predict Stock Price Movements Using Word Embeddings and Deep Neural Networks. In Proceedings of NAACL-HLT (pp. 374-379).](http://www.aclweb.org/anthology/N16-1041)\n* [Fraiberger, S. P. (2016). News Sentiment and Cross-Country Fluctuations. NLP+ CSS 2016, 125.](http://www.aclweb.org/anthology/W16-5616)\n\nThis dataset an interesting test case for these methodologies. It contains Dutch-language newspapers from the years immediately preceding and following tulip mania. Can you use NLP techniques to model the tulip market over time?\n\n### Content: \n\nThis dataset contains the texts of 8,559 newspaper deliveries from the 17th century, from June 14th, 1618 to December 31, 1699. The text is in Dutch. Since the text was scraped from old newspapers using OCR (optical character recognition), there are some errors in the text.\n\n### Acknowledgments:\n\nThis dataset was compiled by Delpher, an archive service provided by the National Library of the Netherlands. It is provided under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl) license. For more information, and newspapers from other years, please visit their [website (in Dutch)](http://www.delpher.nl/). If you use this dataset in your work, please include this citation:\n\nDelpher open newspaper archive (1.0). Creative Commons Attribution 4.0 , The Hague, 2017 .",
+  "datasetId": 1900,
+  "datasetSlug": "delpher-dutch-newspaper-archive-16181699",
+  "hasDatasetSlug": true,
+  "ownerUser": "rtatman",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 6851,
+  "totalVotes": 14,
+  "totalDownloads": 208,
+  "title": "Delpher Dutch Newspaper Archive (1618-1699)",
+  "hasTitle": true,
+  "subtitle": "Can you identify linguistic features that predict a market crash?",
+  "hasSubtitle": true,
+  "description": "### Context:  \n\n\"Tulip mania, tulipmania, or tulipomania (Dutch names include: tulpenmanie, tulpomanie, tulpenwoede, tulpengekte and bollengekte) was a period in the Dutch Golden Age during which contract prices for bulbs of the recently introduced tulip reached extraordinarily high levels and then dramatically collapsed in February 1637. It is generally considered the first recorded speculative bubble (or economic bubble).\" -- From [Wikipedia](https://en.wikipedia.org/wiki/Tulip_mania), CC BY-SA\n\nMarket forecasting is difficult. There are many factors that may affect the market, and a high degree of uncertainty. One thing that some researchers have been investigating is whether natural language processing (NLP) of news texts can help with market forecasting. Recent publications suggest that it can be.\n\n* [Peng, Y., & Jiang, H. (2016). Leverage Financial News to Predict Stock Price Movements Using Word Embeddings and Deep Neural Networks. In Proceedings of NAACL-HLT (pp. 374-379).](http://www.aclweb.org/anthology/N16-1041)\n* [Fraiberger, S. P. (2016). News Sentiment and Cross-Country Fluctuations. NLP+ CSS 2016, 125.](http://www.aclweb.org/anthology/W16-5616)\n\nThis dataset an interesting test case for these methodologies. It contains Dutch-language newspapers from the years immediately preceding and following tulip mania. Can you use NLP techniques to model the tulip market over time?\n\n### Content: \n\nThis dataset contains the texts of 8,559 newspaper deliveries from the 17th century, from June 14th, 1618 to December 31, 1699. The text is in Dutch. Since the text was scraped from old newspapers using OCR (optical character recognition), there are some errors in the text.\n\n### Acknowledgments:\n\nThis dataset was compiled by Delpher, an archive service provided by the National Library of the Netherlands. It is provided under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl) license. For more information, and newspapers from other years, please visit their [website (in Dutch)](http://www.delpher.nl/). If you use this dataset in your work, please include this citation:\n\nDelpher open newspaper archive (1.0). Creative Commons Attribution 4.0 , The Hague, 2017 .",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "europe",
+    "finance",
+    "economics",
+    "linguistics",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "nadyana/flowers",
+  "id_no": 2410469,
+  "datasetSlugNullable": "flowers",
+  "ownerUserNullable": "nadyana",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "flowers",
+  "subtitleNullable": "A compilation of flower species images",
+  "descriptionNullable": "**- Dataset Details** (Total: 11200):\nBellflower 1600\nDaisy 1600\nDandelion 1600\nLotus 1600\nRose 1600\nSunflower 1600\nTulips 1600\n\n**- Datasets are taken and collected from:**\nhttps://www.kaggle.com/khnhtrng/flowers\nhttps://www.kaggle.com/joeylimzy/flowers\nhttps://www.kaggle.com/sammymilitante/flowerclass\nhttps://www.kaggle.com/bogdancretu/flower299\nhttps://www.kaggle.com/ayaanmustafa/flower\nhttps://www.kaggle.com/fasih1994/flowrs17-categorized\nhttps://www.dreamstime.com/\nhttps://www.kaggle.com/susamachokphoemphun/lotus-s",
+  "datasetId": 2410469,
+  "datasetSlug": "flowers",
+  "hasDatasetSlug": true,
+  "ownerUser": "nadyana",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 3157,
+  "totalVotes": 15,
+  "totalDownloads": 520,
+  "title": "flowers",
+  "hasTitle": true,
+  "subtitle": "A compilation of flower species images",
+  "hasSubtitle": true,
+  "description": "**- Dataset Details** (Total: 11200):\nBellflower 1600\nDaisy 1600\nDandelion 1600\nLotus 1600\nRose 1600\nSunflower 1600\nTulips 1600\n\n**- Datasets are taken and collected from:**\nhttps://www.kaggle.com/khnhtrng/flowers\nhttps://www.kaggle.com/joeylimzy/flowers\nhttps://www.kaggle.com/sammymilitante/flowerclass\nhttps://www.kaggle.com/bogdancretu/flower299\nhttps://www.kaggle.com/ayaanmustafa/flower\nhttps://www.kaggle.com/fasih1994/flowrs17-categorized\nhttps://www.dreamstime.com/\nhttps://www.kaggle.com/susamachokphoemphun/lotus-s",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "plants",
+    "image",
+    "multiclass classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

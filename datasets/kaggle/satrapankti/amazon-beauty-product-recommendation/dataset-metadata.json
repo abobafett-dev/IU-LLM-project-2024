@@ -1,0 +1,43 @@
+{
+  "id": "satrapankti/amazon-beauty-product-recommendation",
+  "id_no": 3103661,
+  "datasetSlugNullable": "amazon-beauty-product-recommendation",
+  "ownerUserNullable": "satrapankti",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Amazon Beauty Products",
+  "subtitleNullable": "2+ Million records Amazon Beauty Products Dataset along with URL.",
+  "descriptionNullable": "Amazon relies heavily on a **Recommendation Engine** that reviews customer ratings and purchase history to recommend items and improve sales.\nThis is a dataset related to over **2 Million+** customer reviews and ratings of Beauty related products sold on their website.\n\u2022\tThe unique **UserId** (Customer Identification)\n\u2022\tThe **ProductId** ASIN (Amazon's unique product identification code for each product)\n\u2022\t**ProductType** (22 Unique Category of Products)\n\u2022\t**Ratings** (ranging from 1-5 based on customer satisfaction) \n\u2022\tThe **Timestamp** of the rating (in UNIX time)\n\u2022\t**URL** link to the product directly on Amazon",
+  "datasetId": 3103661,
+  "datasetSlug": "amazon-beauty-product-recommendation",
+  "hasDatasetSlug": true,
+  "ownerUser": "satrapankti",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 1889,
+  "totalVotes": 1,
+  "totalDownloads": 242,
+  "title": "Amazon Beauty Products",
+  "hasTitle": true,
+  "subtitle": "2+ Million records Amazon Beauty Products Dataset along with URL.",
+  "hasSubtitle": true,
+  "description": "Amazon relies heavily on a **Recommendation Engine** that reviews customer ratings and purchase history to recommend items and improve sales.\nThis is a dataset related to over **2 Million+** customer reviews and ratings of Beauty related products sold on their website.\n\u2022\tThe unique **UserId** (Customer Identification)\n\u2022\tThe **ProductId** ASIN (Amazon's unique product identification code for each product)\n\u2022\t**ProductType** (22 Unique Category of Products)\n\u2022\t**Ratings** (ranging from 1-5 based on customer satisfaction) \n\u2022\tThe **Timestamp** of the rating (in UNIX time)\n\u2022\t**URL** link to the product directly on Amazon",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "beginner",
+    "recommender systems",
+    "make-up and cosmetics",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

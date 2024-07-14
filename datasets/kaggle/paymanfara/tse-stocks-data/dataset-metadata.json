@@ -1,0 +1,43 @@
+{
+  "id": "paymanfara/tse-stocks-data",
+  "id_no": 1278269,
+  "datasetSlugNullable": "tse-stocks-data",
+  "ownerUserNullable": "paymanfara",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "TSE Stocks Data",
+  "subtitleNullable": "Tehran Stock Exchange data from 2001 to 2021",
+  "descriptionNullable": "# About the Dataset\n\nThe Tehran Stock Exchange (TSE) is Iran's largest stock exchange, which is based in Tehran.\nThis dataset contains all the records of 677 tickers from March 2001 to April 2021 available on TSE official website.\n\n\n# Source of Dataset\n\nThe TSE dataset is extracted from the official website of the Tehran Stock Exchange using the [pytse_client ](https://pypi.org/project/pytse-client/) package created by [Glyphack](https://github.com/Glyphack).\n\n**Note:**\nSome tickers may have a lot of missing information at different intervals. The various causes can be the following:\n   1. Stock has not yet entered the stock market during that period\n   2. For some reason, the symbol of that stock has been halted\n   3. For some reason, the stock is no longer worthy of trading on a major exchange\n\n# Content\n\nThe data is a nested dataset which includes historical data of 677 tickers from March 2001 to April 2021.\nEach ticker contains the following info:\n\n**open**: The opening market price of the equity symbol on the date.\n**high**: The highest market price on the date.\n**low**: The lowest recorded market price on the date.\n**adjClose**: The adjusted closing price on the date.\n**value**: The value of the symbol on the date.\n**volume**: The traded volume on the date.\n**count**: The adjusted closing price on the date.\n**close**: The closing recorded price of the equity symbol on the date.\n\n\n# Acknowledgements\n\n- Glyphack for his amazing work in creating pytse-client package for extracting data from TSE website.",
+  "datasetId": 1278269,
+  "datasetSlug": "tse-stocks-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "paymanfara",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2035,
+  "totalVotes": 6,
+  "totalDownloads": 65,
+  "title": "TSE Stocks Data",
+  "hasTitle": true,
+  "subtitle": "Tehran Stock Exchange data from 2001 to 2021",
+  "hasSubtitle": true,
+  "description": "# About the Dataset\n\nThe Tehran Stock Exchange (TSE) is Iran's largest stock exchange, which is based in Tehran.\nThis dataset contains all the records of 677 tickers from March 2001 to April 2021 available on TSE official website.\n\n\n# Source of Dataset\n\nThe TSE dataset is extracted from the official website of the Tehran Stock Exchange using the [pytse_client ](https://pypi.org/project/pytse-client/) package created by [Glyphack](https://github.com/Glyphack).\n\n**Note:**\nSome tickers may have a lot of missing information at different intervals. The various causes can be the following:\n   1. Stock has not yet entered the stock market during that period\n   2. For some reason, the symbol of that stock has been halted\n   3. For some reason, the stock is no longer worthy of trading on a major exchange\n\n# Content\n\nThe data is a nested dataset which includes historical data of 677 tickers from March 2001 to April 2021.\nEach ticker contains the following info:\n\n**open**: The opening market price of the equity symbol on the date.\n**high**: The highest market price on the date.\n**low**: The lowest recorded market price on the date.\n**adjClose**: The adjusted closing price on the date.\n**value**: The value of the symbol on the date.\n**volume**: The traded volume on the date.\n**count**: The adjusted closing price on the date.\n**close**: The closing recorded price of the equity symbol on the date.\n\n\n# Acknowledgements\n\n- Glyphack for his amazing work in creating pytse-client package for extracting data from TSE website.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "economics",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sibelius5/diamond-prices",
+  "id_no": 1430570,
+  "datasetSlugNullable": "diamond-prices",
+  "ownerUserNullable": "sibelius5",
+  "usabilityRatingNullable": 0.7352941176470589,
+  "titleNullable": "Diamond Prices",
+  "subtitleNullable": "Diamond prices, inflation rate, interest rate, fed rate, gold prices",
+  "descriptionNullable": "### Context\n\nReal time prices in the diamond market are reflected by the so-called Diamond Financial Index (DFX) which is available on a daily base since April 2018.\n\nAs diamond prices are influenced by many factors like trade barriers, political instability, operational disruptions like mine closures or economic downturns resp. upturns, it is not an easy task to predict the development of future diamond prices. \n\nTo predict prices, indicators are needed. Empirical findings support the argument that diamond prices respond to economic downturns resp. upturns and are therefore also correlated with inflation rates and interest rates resp. fed rates. Also gold prices could be an indicator for the development of diamond prices.\n\nBecause the US are playing quite a big role in the diamond business, the following US rates can be considered:\n\no\tinflation rate (10-year breakeven inflation rate)\no\tinterest rate (10-year treasury inflation-indexed security, constant maturity, risk-free) \no\tfed rate (effective federal funds rate)\n\nMoreover, gold prices could be considered as an indicator.\n\n\n### Content\n\nThe following five datasets have been downloaded from the following websites and merged to one dataset:\n\no\tdiamond price (DFX): https://www.investing.com/indices/get-diamonds-general\no\tinflation rate: https://fred.stlouisfed.org/series/T10YIE\no\tinterest rate: https://fred.stlouisfed.org/series/DFII10\no\tfed rate: https://fred.stlouisfed.org/series/DFF\no\tgold price: https://www.boerse-online.de/rohstoffe/historisch/goldpreis/usd/\n\nTo merge the datasets, date has been used as index. A few missing values in the datasets have been filled in by copying the value from the day before (see file \"diamond_data_merged_with_other_variables.csv\"). \n\nPlease note: I added one additional version of the dataset where ID is used as index (not date). Missing values are not filled in in this version (see file \"df_diamond_data_merged_with_other_variables.csv\"). I would recommend using the dataset \"diamond_data_merged_with_other_variables.csv\" with date as index.\n\n\n### Inspiration\n\nThe following questions could be answered:\n\no\tHow did diamond prices, inflation rate, interest rate, fed rate and gold price develop since 2018?\no\tHow is the correlation between diamond prices and inflation rate, interest rate, fed rate and gold prices?\no\tHow will diamond prices develop in the future?\n\nWhen it comes to price prediction machine learning has been successful in predicting stock market prices through a host of different time series models. There is also a limited but quite restrictive application in predicting cryptocurrency prices. Often neural networks like LSTM (Long Short Term Memory) are used. LSTM oder other models, e.g. ARIMA, could be also used here.\n\n\n",
+  "datasetId": 1430570,
+  "datasetSlug": "diamond-prices",
+  "hasDatasetSlug": true,
+  "ownerUser": "sibelius5",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7352941176470589,
+  "hasUsabilityRating": true,
+  "totalViews": 4755,
+  "totalVotes": 12,
+  "totalDownloads": 681,
+  "title": "Diamond Prices",
+  "hasTitle": true,
+  "subtitle": "Diamond prices, inflation rate, interest rate, fed rate, gold prices",
+  "hasSubtitle": true,
+  "description": "### Context\n\nReal time prices in the diamond market are reflected by the so-called Diamond Financial Index (DFX) which is available on a daily base since April 2018.\n\nAs diamond prices are influenced by many factors like trade barriers, political instability, operational disruptions like mine closures or economic downturns resp. upturns, it is not an easy task to predict the development of future diamond prices. \n\nTo predict prices, indicators are needed. Empirical findings support the argument that diamond prices respond to economic downturns resp. upturns and are therefore also correlated with inflation rates and interest rates resp. fed rates. Also gold prices could be an indicator for the development of diamond prices.\n\nBecause the US are playing quite a big role in the diamond business, the following US rates can be considered:\n\no\tinflation rate (10-year breakeven inflation rate)\no\tinterest rate (10-year treasury inflation-indexed security, constant maturity, risk-free) \no\tfed rate (effective federal funds rate)\n\nMoreover, gold prices could be considered as an indicator.\n\n\n### Content\n\nThe following five datasets have been downloaded from the following websites and merged to one dataset:\n\no\tdiamond price (DFX): https://www.investing.com/indices/get-diamonds-general\no\tinflation rate: https://fred.stlouisfed.org/series/T10YIE\no\tinterest rate: https://fred.stlouisfed.org/series/DFII10\no\tfed rate: https://fred.stlouisfed.org/series/DFF\no\tgold price: https://www.boerse-online.de/rohstoffe/historisch/goldpreis/usd/\n\nTo merge the datasets, date has been used as index. A few missing values in the datasets have been filled in by copying the value from the day before (see file \"diamond_data_merged_with_other_variables.csv\"). \n\nPlease note: I added one additional version of the dataset where ID is used as index (not date). Missing values are not filled in in this version (see file \"df_diamond_data_merged_with_other_variables.csv\"). I would recommend using the dataset \"diamond_data_merged_with_other_variables.csv\" with date as index.\n\n\n### Inspiration\n\nThe following questions could be answered:\n\no\tHow did diamond prices, inflation rate, interest rate, fed rate and gold price develop since 2018?\no\tHow is the correlation between diamond prices and inflation rate, interest rate, fed rate and gold prices?\no\tHow will diamond prices develop in the future?\n\nWhen it comes to price prediction machine learning has been successful in predicting stock market prices through a host of different time series models. There is also a limited but quite restrictive application in predicting cryptocurrency prices. Often neural networks like LSTM (Long Short Term Memory) are used. LSTM oder other models, e.g. ARIMA, could be also used here.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "time series analysis",
+    "data analytics",
+    "neural networks",
+    "lstm"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

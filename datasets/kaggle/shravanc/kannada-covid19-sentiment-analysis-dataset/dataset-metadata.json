@@ -1,0 +1,42 @@
+{
+  "id": "shravanc/kannada-covid19-sentiment-analysis-dataset",
+  "id_no": 863847,
+  "datasetSlugNullable": "kannada-covid19-sentiment-analysis-dataset",
+  "ownerUserNullable": "shravanc",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Kannada Covid-19 Sentiment Analysis Dataset",
+  "subtitleNullable": "Sentiment Analysis Dataset for Kannada Lanauge",
+  "descriptionNullable": "This dataset is created by translating from English to Kannada using \"TextBlob\" open source python library. TextBlob internally uses Google Translate API to translate from source to target language. TexBlob has a limitation of 400 translation a day. For this created CSV's with 400 news articles from the source and used Google Colab to translate running it in multiple session. Google Colab for the same can be found below:\nhttps://github.com/shravanc/datasets/blob/master/covid_eng_to_kan.ipynb\n\nThe source of the dataset can be found it in here: \n[Source Covid-19 Dataset](http://info.aylien.com/coronavirus-dataset?utm_campaign=Coronavirus%20Dataset%20Requests&utm_source=Blog%20post&utm_medium=Dataset%20blog)\n\nThere are many other fields that are available in the source dataset. Here in this dataset only sentiment of each articles body is extracted.\n1 -&gt; represent positive sentiment.\n0 -&gt; represent negative sentiment.\n\nData Extraction Code can be found here:\nhttps://github.com/shravanc/msc_project/blob/master/sentiment_analysis/bert/data_extraction/main.py\n\n**Materials:**\nYoutube tutorial for BERT using TensorFlow 2:\nhttps://www.youtube.com/watch?v=gE-95nFF4Cc",
+  "datasetId": 863847,
+  "datasetSlug": "kannada-covid19-sentiment-analysis-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shravanc",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 4893,
+  "totalVotes": 9,
+  "totalDownloads": 405,
+  "title": "Kannada Covid-19 Sentiment Analysis Dataset",
+  "hasTitle": true,
+  "subtitle": "Sentiment Analysis Dataset for Kannada Lanauge",
+  "hasSubtitle": true,
+  "description": "This dataset is created by translating from English to Kannada using \"TextBlob\" open source python library. TextBlob internally uses Google Translate API to translate from source to target language. TexBlob has a limitation of 400 translation a day. For this created CSV's with 400 news articles from the source and used Google Colab to translate running it in multiple session. Google Colab for the same can be found below:\nhttps://github.com/shravanc/datasets/blob/master/covid_eng_to_kan.ipynb\n\nThe source of the dataset can be found it in here: \n[Source Covid-19 Dataset](http://info.aylien.com/coronavirus-dataset?utm_campaign=Coronavirus%20Dataset%20Requests&utm_source=Blog%20post&utm_medium=Dataset%20blog)\n\nThere are many other fields that are available in the source dataset. Here in this dataset only sentiment of each articles body is extracted.\n1 -&gt; represent positive sentiment.\n0 -&gt; represent negative sentiment.\n\nData Extraction Code can be found here:\nhttps://github.com/shravanc/msc_project/blob/master/sentiment_analysis/bert/data_extraction/main.py\n\n**Materials:**\nYoutube tutorial for BERT using TensorFlow 2:\nhttps://www.youtube.com/watch?v=gE-95nFF4Cc",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "software",
+    "nlp",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

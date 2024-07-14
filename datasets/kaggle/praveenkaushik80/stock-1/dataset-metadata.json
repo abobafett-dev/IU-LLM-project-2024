@@ -1,0 +1,42 @@
+{
+  "id": "praveenkaushik80/stock-1",
+  "id_no": 792752,
+  "datasetSlugNullable": "stock-1",
+  "ownerUserNullable": "praveenkaushik80",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "stock_20day",
+  "subtitleNullable": "Time Series Stock Data Analysis",
+  "descriptionNullable": "Stock data time series with 20 day log of stock return value and other datapoints from technical analysis.\n\nDataset file details are as below.\nIt contains two csv files which are train.csv - Training File and test.csv - Testing File\nTrain file contains 2247 rows of data.\nTest file contains 502 rows of data.\n\nThe columns are described below\nColumns:\ndate: This column represents the date for each data point.\ntwenty_day_stock_log_return: This column gives the daily or periodic return on a stock over the past 20 days or 20-Day Log of Stock Return Value.\nDatapoint_1,..,Datapoint_209: Other Technical Indicators, These are columns containing technical indicators used for financial analysis.",
+  "datasetId": 792752,
+  "datasetSlug": "stock-1",
+  "hasDatasetSlug": true,
+  "ownerUser": "praveenkaushik80",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 3,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "stock_20day",
+  "hasTitle": true,
+  "subtitle": "Time Series Stock Data Analysis",
+  "hasSubtitle": true,
+  "description": "Stock data time series with 20 day log of stock return value and other datapoints from technical analysis.\n\nDataset file details are as below.\nIt contains two csv files which are train.csv - Training File and test.csv - Testing File\nTrain file contains 2247 rows of data.\nTest file contains 502 rows of data.\n\nThe columns are described below\nColumns:\ndate: This column represents the date for each data point.\ntwenty_day_stock_log_return: This column gives the daily or periodic return on a stock over the past 20 days or 20-Day Log of Stock Return Value.\nDatapoint_1,..,Datapoint_209: Other Technical Indicators, These are columns containing technical indicators used for financial analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "beginner",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

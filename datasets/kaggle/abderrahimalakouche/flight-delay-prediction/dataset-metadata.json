@@ -1,0 +1,43 @@
+{
+  "id": "abderrahimalakouche/flight-delay-prediction",
+  "id_no": 1352781,
+  "datasetSlugNullable": "flight-delay-prediction",
+  "ownerUserNullable": "abderrahimalakouche",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Flight Delay Prediction",
+  "subtitleNullable": "Build a flight delay prediction model and get familiar with ML basics.",
+  "descriptionNullable": "## Descprition\nPredict airline delays for Tunisian aviation company, Tunisair.\n\n- Variable definitions:\n\n| Column name | Description |\n| --- | --- |\n| ID | Id of record|\n|DATOP | Date of flight |\n| FLTID | Id of flight ( like id of bus line )|\n| DEPSTN | Departure point|\n| ARRSTN | Arrival point|\n| STD | Scheduled Time departure|\n|STA |Scheduled Time arrival|\n| STATUS |Flight status|\n| AC |Aircraft Code|\n| target | Flight Delay ( in minutes ) |",
+  "datasetId": 1352781,
+  "datasetSlug": "flight-delay-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "abderrahimalakouche",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 4580,
+  "totalVotes": 9,
+  "totalDownloads": 358,
+  "title": "Flight Delay Prediction",
+  "hasTitle": true,
+  "subtitle": "Build a flight delay prediction model and get familiar with ML basics.",
+  "hasSubtitle": true,
+  "description": "## Descprition\nPredict airline delays for Tunisian aviation company, Tunisair.\n\n- Variable definitions:\n\n| Column name | Description |\n| --- | --- |\n| ID | Id of record|\n|DATOP | Date of flight |\n| FLTID | Id of flight ( like id of bus line )|\n| DEPSTN | Departure point|\n| ARRSTN | Arrival point|\n| STD | Scheduled Time departure|\n|STA |Scheduled Time arrival|\n| STATUS |Flight status|\n| AC |Aircraft Code|\n| target | Flight Delay ( in minutes ) |",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data cleaning",
+    "data visualization",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

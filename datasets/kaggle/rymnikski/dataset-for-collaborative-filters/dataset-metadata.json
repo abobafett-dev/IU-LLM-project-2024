@@ -1,0 +1,45 @@
+{
+  "id": "rymnikski/dataset-for-collaborative-filters",
+  "id_no": 581,
+  "datasetSlugNullable": "dataset-for-collaborative-filters",
+  "ownerUserNullable": "rymnikski",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Dataset for collaborative filters",
+  "subtitleNullable": "It's a medium sized song list, ideal to practice collaborative filter algorithms",
+  "descriptionNullable": "#Medium sized song list\n\nThis dataset consists of a list of songs arranged as follow:\n\n* ID_user1,ID_song,rating\n\n* ID_user1,ID_song,rating\n\n...\n\n* ID_user2,ID_song,rating\n\n* ID_user2,ID_song,rating\n\n...\n\n* ID_usern,ID_song,rating\n\n* ID_usern,ID_song,rating\n\nThe main idea for this dataset is to implement recommendation algorithms based on collaborative filters. In addition to grouping data, reduce and compress lists. It is distributed under the CC 4.0 license. It's educational purpose.\n\nIn fact, as the music is coded in an ID, the dataset could be for anything else like, movies, places, etc. Use it for training your collaborative filters. (The data truly represent songs)",
+  "datasetId": 581,
+  "datasetSlug": "dataset-for-collaborative-filters",
+  "hasDatasetSlug": true,
+  "ownerUser": "rymnikski",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 23776,
+  "totalVotes": 35,
+  "totalDownloads": 1915,
+  "title": "Dataset for collaborative filters",
+  "hasTitle": true,
+  "subtitle": "It's a medium sized song list, ideal to practice collaborative filter algorithms",
+  "hasSubtitle": true,
+  "description": "#Medium sized song list\n\nThis dataset consists of a list of songs arranged as follow:\n\n* ID_user1,ID_song,rating\n\n* ID_user1,ID_song,rating\n\n...\n\n* ID_user2,ID_song,rating\n\n* ID_user2,ID_song,rating\n\n...\n\n* ID_usern,ID_song,rating\n\n* ID_usern,ID_song,rating\n\nThe main idea for this dataset is to implement recommendation algorithms based on collaborative filters. In addition to grouping data, reduce and compress lists. It is distributed under the CC 4.0 license. It's educational purpose.\n\nIn fact, as the music is coded in an ID, the dataset could be for anything else like, movies, places, etc. Use it for training your collaborative filters. (The data truly represent songs)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "jsantanders",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

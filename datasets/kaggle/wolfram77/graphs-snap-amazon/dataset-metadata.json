@@ -1,0 +1,41 @@
+{
+  "id": "wolfram77/graphs-snap-amazon",
+  "id_no": 1797639,
+  "datasetSlugNullable": "graphs-snap-amazon",
+  "ownerUserNullable": "wolfram77",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Amazon Co-purchase Graphs (SNAP)",
+  "subtitleNullable": "Graphs from the Stanford Network Analysis Platform",
+  "descriptionNullable": "## amazonMMDD\n\nNetwork was collected by crawling Amazon website. It is based on Customers Who Bought This Item Also Bought feature of the Amazon website. If a product i is frequently co-purchased with product j, the graph contains a directed edge from i to j.\n\nThe data was collected in March 02 2003.\n\n<br>\n<br>\n\n\n## amazon-meta\n\nThe data was collected by crawling Amazon website and contains product metadata and review information about 548,552 different products (Books, music CDs, DVDs and VHS video tapes).\n\nFor each product the following information is available:\n- Title\n- Salesrank\n- List of similar products (that get co-purchased with the current product)\n- Detailed product categorization\n- Product reviews: time, customer, rating, number of votes, number of people that found the review helpful\n\nThe data was collected in summer 2006.",
+  "datasetId": 1797639,
+  "datasetSlug": "graphs-snap-amazon",
+  "hasDatasetSlug": true,
+  "ownerUser": "wolfram77",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2181,
+  "totalVotes": 3,
+  "totalDownloads": 46,
+  "title": "Amazon Co-purchase Graphs (SNAP)",
+  "hasTitle": true,
+  "subtitle": "Graphs from the Stanford Network Analysis Platform",
+  "hasSubtitle": true,
+  "description": "## amazonMMDD\n\nNetwork was collected by crawling Amazon website. It is based on Customers Who Bought This Item Also Bought feature of the Amazon website. If a product i is frequently co-purchased with product j, the graph contains a directed edge from i to j.\n\nThe data was collected in March 02 2003.\n\n<br>\n<br>\n\n\n## amazon-meta\n\nThe data was collected by crawling Amazon website and contains product metadata and review information about 548,552 different products (Books, music CDs, DVDs and VHS video tapes).\n\nFor each product the following information is available:\n- Title\n- Salesrank\n- List of similar products (that get co-purchased with the current product)\n- Detailed product categorization\n- Product reviews: time, customer, rating, number of votes, number of people that found the review helpful\n\nThe data was collected in summer 2006.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "marketing",
+    "internet",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

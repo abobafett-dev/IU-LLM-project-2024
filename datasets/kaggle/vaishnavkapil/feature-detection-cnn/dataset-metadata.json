@@ -1,0 +1,40 @@
+{
+  "id": "vaishnavkapil/feature-detection-cnn",
+  "id_no": 563303,
+  "datasetSlugNullable": "feature-detection-cnn",
+  "ownerUserNullable": "vaishnavkapil",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Choose your Pet using CNN",
+  "subtitleNullable": "Which one would you like as your Pet?",
+  "descriptionNullable": "The feature_detection_CNN data set is a standard computer vision data set that involves classifying photos as either containing a dog or cat.\n\nAlthough the problem sounds simple, it was only effectively addressed in the last few years using deep learning convolutional neural networks. While the data set is effectively solved, it can be used as the basis for learning and practicing how to develop, evaluate, and use convolutional deep learning neural networks for image classification from scratch.",
+  "datasetId": 563303,
+  "datasetSlug": "feature-detection-cnn",
+  "hasDatasetSlug": true,
+  "ownerUser": "vaishnavkapil",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 2537,
+  "totalVotes": 4,
+  "totalDownloads": 90,
+  "title": "Choose your Pet using CNN",
+  "hasTitle": true,
+  "subtitle": "Which one would you like as your Pet?",
+  "hasSubtitle": true,
+  "description": "The feature_detection_CNN data set is a standard computer vision data set that involves classifying photos as either containing a dog or cat.\n\nAlthough the problem sounds simple, it was only effectively addressed in the last few years using deep learning convolutional neural networks. While the data set is effectively solved, it can be used as the basis for learning and practicing how to develop, evaluate, and use convolutional deep learning neural networks for image classification from scratch.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "cnn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

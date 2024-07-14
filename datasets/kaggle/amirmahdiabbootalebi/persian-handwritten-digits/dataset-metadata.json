@@ -1,0 +1,43 @@
+{
+  "id": "amirmahdiabbootalebi/persian-handwritten-digits",
+  "id_no": 3922854,
+  "datasetSlugNullable": "persian-handwritten-digits",
+  "ownerUserNullable": "amirmahdiabbootalebi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Persian HandWritten Digits",
+  "subtitleNullable": "Persian Handwritten Digits - GAN-Generated (28x28) - contain 150000 images",
+  "descriptionNullable": "Explore the beauty and diversity of Persian handwritten digits with our meticulously crafted dataset. This collection features 150,000 images, with 15,000 images per class, spanning the entire range of Persian digits from 0 to 9. These images have been generated using state-of-the-art Generative Adversarial Networks (GANs), resulting in stunningly realistic representations of each digit.\n\nKey Features:\n\n- 150,000 images of Persian handwritten digits.\n- 15,000 images per class, ensuring balanced representation.\n- High-resolution 28x28 pixel images.\n- Perfect for various machine learning tasks, including digit recognition, generative modeling, and more.\n- Ideal for researchers, data scientists, and machine learning enthusiasts interested in Persian script.\n\nThis dataset is a valuable resource for training and testing machine learning models, especially those designed for digit recognition and generative tasks. Whether you're a researcher or a hobbyist, this dataset can help you explore the world of Persian script and its unique handwritten characters.",
+  "datasetId": 3922854,
+  "datasetSlug": "persian-handwritten-digits",
+  "hasDatasetSlug": true,
+  "ownerUser": "amirmahdiabbootalebi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2385,
+  "totalVotes": 44,
+  "totalDownloads": 313,
+  "title": "Persian HandWritten Digits",
+  "hasTitle": true,
+  "subtitle": "Persian Handwritten Digits - GAN-Generated (28x28) - contain 150000 images",
+  "hasSubtitle": true,
+  "description": "Explore the beauty and diversity of Persian handwritten digits with our meticulously crafted dataset. This collection features 150,000 images, with 15,000 images per class, spanning the entire range of Persian digits from 0 to 9. These images have been generated using state-of-the-art Generative Adversarial Networks (GANs), resulting in stunningly realistic representations of each digit.\n\nKey Features:\n\n- 150,000 images of Persian handwritten digits.\n- 15,000 images per class, ensuring balanced representation.\n- High-resolution 28x28 pixel images.\n- Perfect for various machine learning tasks, including digit recognition, generative modeling, and more.\n- Ideal for researchers, data scientists, and machine learning enthusiasts interested in Persian script.\n\nThis dataset is a valuable resource for training and testing machine learning models, especially those designed for digit recognition and generative tasks. Whether you're a researcher or a hobbyist, this dataset can help you explore the world of Persian script and its unique handwritten characters.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "image",
+    "image classification logits",
+    "image text recognition"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

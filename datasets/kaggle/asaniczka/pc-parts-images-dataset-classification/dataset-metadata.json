@@ -1,0 +1,43 @@
+{
+  "id": "asaniczka/pc-parts-images-dataset-classification",
+  "id_no": 4404888,
+  "datasetSlugNullable": "pc-parts-images-dataset-classification",
+  "ownerUserNullable": "asaniczka",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "PC Parts Images Dataset [Classification]",
+  "subtitleNullable": "Original Image Dataset with Scraped Images from Google Images",
+  "descriptionNullable": "The images are in the ImageNet structure, with each class having its own folder containing the respective images. The images have a resolution of 256x256 pixels.\n\n## Dataset Details:\n\n- Total number of classes: 14\n- Total number of images: 3279\n- Resolution: 256x256 pixels\n- Image format: JPG\n\n&gt; If you find this dataset useful or interesting, please don't forget to show your support by Upvoting! \ud83d\ude4c\ud83d\udc4d\n\n## Data Collection Methodology:\n\nTo create this dataset, \n- I searched for each PC part on Google Images and extracted the image links. \n- I then downloaded the full-size images from the original source and converted them to JPG format with a resolution of 256 pixels. \n- During the process, most images were downscaled, with only a very few being upscaled. \n- Finally, I manually went over all the images and deleted any that didn't fit well for image classification.\n\n---\n\n## Potential Task Ideas:\n\n1. Train an image classification model using popular architectures like ViT, ResNet, or EfficientNet.\n2. Perform transfer learning on this dataset using pre-trained models.\n3. Explore different data augmentation techniques to enhance model performance.\n4. Fine-tune existing models to improve classification accuracy.\n5. Compare the performance of different models on this dataset.\n6. Use the dataset as a benchmark for evaluating new image classification techniques.\n\n---\n\n## Class Naming Convention:\n\nAll files are named in ImageNet style.\n```shell\nKingdom\n\u251c\u2500\u2500 class_1\n\u2502   \u251c\u2500\u2500 1.jpg\n\u2502   \u2514\u2500\u2500 2.jpg\n\u251c\u2500\u2500 class_2\n\u2502   \u251c\u2500\u2500 1.jpg\n\u2502   \u2514\u2500\u2500 2.jpg\n\u2514\u2500\u2500 class_3\n    \u251c\u2500\u2500 1.jpg\n    \u2514\u2500\u2500 2.jpg\n\n```\n\n**I have not divided the dataset into train,val,test so that you can decide on the split ratios.**\n\n---\n\nPhoto by <a href=\"https://unsplash.com/@zelebb?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Andrey Matveev</a> on <a href=\"https://unsplash.com/photos/a-close-up-of-two-computer-fans-on-a-yellow-background-8hkotoCEI5o?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>\n  ",
+  "datasetId": 4404888,
+  "datasetSlug": "pc-parts-images-dataset-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "asaniczka",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 8290,
+  "totalVotes": 62,
+  "totalDownloads": 1174,
+  "title": "PC Parts Images Dataset [Classification]",
+  "hasTitle": true,
+  "subtitle": "Original Image Dataset with Scraped Images from Google Images",
+  "hasSubtitle": true,
+  "description": "The images are in the ImageNet structure, with each class having its own folder containing the respective images. The images have a resolution of 256x256 pixels.\n\n## Dataset Details:\n\n- Total number of classes: 14\n- Total number of images: 3279\n- Resolution: 256x256 pixels\n- Image format: JPG\n\n&gt; If you find this dataset useful or interesting, please don't forget to show your support by Upvoting! \ud83d\ude4c\ud83d\udc4d\n\n## Data Collection Methodology:\n\nTo create this dataset, \n- I searched for each PC part on Google Images and extracted the image links. \n- I then downloaded the full-size images from the original source and converted them to JPG format with a resolution of 256 pixels. \n- During the process, most images were downscaled, with only a very few being upscaled. \n- Finally, I manually went over all the images and deleted any that didn't fit well for image classification.\n\n---\n\n## Potential Task Ideas:\n\n1. Train an image classification model using popular architectures like ViT, ResNet, or EfficientNet.\n2. Perform transfer learning on this dataset using pre-trained models.\n3. Explore different data augmentation techniques to enhance model performance.\n4. Fine-tune existing models to improve classification accuracy.\n5. Compare the performance of different models on this dataset.\n6. Use the dataset as a benchmark for evaluating new image classification techniques.\n\n---\n\n## Class Naming Convention:\n\nAll files are named in ImageNet style.\n```shell\nKingdom\n\u251c\u2500\u2500 class_1\n\u2502   \u251c\u2500\u2500 1.jpg\n\u2502   \u2514\u2500\u2500 2.jpg\n\u251c\u2500\u2500 class_2\n\u2502   \u251c\u2500\u2500 1.jpg\n\u2502   \u2514\u2500\u2500 2.jpg\n\u2514\u2500\u2500 class_3\n    \u251c\u2500\u2500 1.jpg\n    \u2514\u2500\u2500 2.jpg\n\n```\n\n**I have not divided the dataset into train,val,test so that you can decide on the split ratios.**\n\n---\n\nPhoto by <a href=\"https://unsplash.com/@zelebb?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Andrey Matveev</a> on <a href=\"https://unsplash.com/photos/a-close-up-of-two-computer-fans-on-a-yellow-background-8hkotoCEI5o?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>\n  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "classification",
+    "image classification",
+    "vision transformer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

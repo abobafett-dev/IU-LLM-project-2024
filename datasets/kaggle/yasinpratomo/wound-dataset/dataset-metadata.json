@@ -1,0 +1,39 @@
+{
+  "id": "yasinpratomo/wound-dataset",
+  "id_no": 2819365,
+  "datasetSlugNullable": "wound-dataset",
+  "ownerUserNullable": "yasinpratomo",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "wound_dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset contains 432 images taken from the internet through a manual download process from various websites. The quality of the images varies, some images have high resolution, and some have low resolution. This data is labelled with seven different categories. The seven labels include injuries, burns, abrasions, bruises, lacerations, cuts, stab wounds, and ingrown nails. Our team manually provides the labels after performing a visual analysis on each image. Health experts have also validated the dataset. This dataset can be used for various purposes, such as image recognition, image classification, or image analysis. However, be sure to pay attention to the copyright of each image and follow the terms of use of each data source&nbsp;used.",
+  "datasetId": 2819365,
+  "datasetSlug": "wound-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yasinpratomo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 4429,
+  "totalVotes": 8,
+  "totalDownloads": 520,
+  "title": "wound_dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset contains 432 images taken from the internet through a manual download process from various websites. The quality of the images varies, some images have high resolution, and some have low resolution. This data is labelled with seven different categories. The seven labels include injuries, burns, abrasions, bruises, lacerations, cuts, stab wounds, and ingrown nails. Our team manually provides the labels after performing a visual analysis on each image. Health experts have also validated the dataset. This dataset can be used for various purposes, such as image recognition, image classification, or image analysis. However, be sure to pay attention to the copyright of each image and follow the terms of use of each data source&nbsp;used.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

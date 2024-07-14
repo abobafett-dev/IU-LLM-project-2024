@@ -1,0 +1,44 @@
+{
+  "id": "officialprojecto/youtubeset",
+  "id_no": 2838129,
+  "datasetSlugNullable": "youtubeset",
+  "ownerUserNullable": "officialprojecto",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "YouTubeSet",
+  "subtitleNullable": "The perfect dataset for creating a model that boost YouTubers productivity!",
+  "descriptionNullable": "This dataset has been created by scraping YouTube home page (so it contains suggested videos) where video thumbnails have been associated with number of views and title of the video. It could be a useful dataset for infering how much a good thumbnail and a good title drive the views of a video.",
+  "datasetId": 2838129,
+  "datasetSlug": "youtubeset",
+  "hasDatasetSlug": true,
+  "ownerUser": "officialprojecto",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4345,
+  "totalVotes": 30,
+  "totalDownloads": 295,
+  "title": "YouTubeSet",
+  "hasTitle": true,
+  "subtitle": "The perfect dataset for creating a model that boost YouTubers productivity!",
+  "hasSubtitle": true,
+  "description": "This dataset has been created by scraping YouTube home page (so it contains suggested videos) where video thumbnails have been associated with number of views and title of the video. It could be a useful dataset for infering how much a good thumbnail and a good title drive the views of a video.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social science",
+    "software",
+    "computer vision",
+    "video",
+    "regression",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

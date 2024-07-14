@@ -1,0 +1,41 @@
+{
+  "id": "sailorstrike/earthquakes-and-general-index-in-stock-markets",
+  "id_no": 44674,
+  "datasetSlugNullable": "earthquakes-and-general-index-in-stock-markets",
+  "ownerUserNullable": "sailorstrike",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Earthquakes and General Index in Stock Markets",
+  "subtitleNullable": "Major earthquakes and there impact to Stock Markets",
+  "descriptionNullable": "These excel datasheets have data of major earthquakes  (above 6.0M) and the general index of the stock market.\nExcel datasheet columme explanation :\n\nSheet 1 : index prices\n A) Date B) General Index Price of Stock Exchange C) pseudo variable that 0 = no earthquake and 1 = earthquake E) is the logarithmic deference between the day and the previous day\n\nSheet 2 : earthquakes\nA) Date B) Magnitude C) Place of Earthquake D) Depth of earthquake\n\nSheet 3 : output results\nThe results of the simple regression\n",
+  "datasetId": 44674,
+  "datasetSlug": "earthquakes-and-general-index-in-stock-markets",
+  "hasDatasetSlug": true,
+  "ownerUser": "sailorstrike",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 4268,
+  "totalVotes": 10,
+  "totalDownloads": 453,
+  "title": "Earthquakes and General Index in Stock Markets",
+  "hasTitle": true,
+  "subtitle": "Major earthquakes and there impact to Stock Markets",
+  "hasSubtitle": true,
+  "description": "These excel datasheets have data of major earthquakes  (above 6.0M) and the general index of the stock market.\nExcel datasheet columme explanation :\n\nSheet 1 : index prices\n A) Date B) General Index Price of Stock Exchange C) pseudo variable that 0 = no earthquake and 1 = earthquake E) is the logarithmic deference between the day and the previous day\n\nSheet 2 : earthquakes\nA) Date B) Magnitude C) Place of Earthquake D) Depth of earthquake\n\nSheet 3 : output results\nThe results of the simple regression\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth science",
+    "finance",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "petersunga/make-up-vs-no-make-up",
+  "id_no": 92927,
+  "datasetSlugNullable": "make-up-vs-no-make-up",
+  "ownerUserNullable": "petersunga",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Makeup or No Makeup",
+  "subtitleNullable": "Can you determine which person is wearing makeup?",
+  "descriptionNullable": "\n### Content\n1. 1062 images of people wearing makeup \n2. 444 images of people not wearing makeup\n\n**You may want to double check the images in the no_makeup directory as there could be some \"leaked\" make-up images present**\n\n### Acknowledgements\n\nWeb scraped from Google Images\n\n\n### Inspiration\nCan deep learning determine if a person is wearing makeup or not?",
+  "datasetId": 92927,
+  "datasetSlug": "make-up-vs-no-make-up",
+  "hasDatasetSlug": true,
+  "ownerUser": "petersunga",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 25242,
+  "totalVotes": 48,
+  "totalDownloads": 1567,
+  "title": "Makeup or No Makeup",
+  "hasTitle": true,
+  "subtitle": "Can you determine which person is wearing makeup?",
+  "hasSubtitle": true,
+  "description": "\n### Content\n1. 1062 images of people wearing makeup \n2. 444 images of people not wearing makeup\n\n**You may want to double check the images in the no_makeup directory as there could be some \"leaked\" make-up images present**\n\n### Acknowledgements\n\nWeb scraped from Google Images\n\n\n### Inspiration\nCan deep learning determine if a person is wearing makeup or not?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "classification",
+    "deep learning",
+    "image",
+    "binary classification",
+    "make-up and cosmetics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

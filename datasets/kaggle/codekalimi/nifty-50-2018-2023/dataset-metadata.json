@@ -1,0 +1,44 @@
+{
+  "id": "codekalimi/nifty-50-2018-2023",
+  "id_no": 3594939,
+  "datasetSlugNullable": "nifty-50-2018-2023",
+  "ownerUserNullable": "codekalimi",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Nifty 50 Stock Market Dataset (2018-2023)",
+  "subtitleNullable": "Comprehensive Data on Nifty 50 Stocks from 2018 to August 2023",
+  "descriptionNullable": "This dataset contains a comprehensive collection of historical data for the Nifty 50 stocks, a diversified stock market index in India. The data covers the period from January 2018 to August 2023, providing valuable insights into the performance of the Indian stock market over the years.\n\n**Features:**\n- Stock Symbol: The unique stock symbol of the company listed in the Nifty 50 index\n- Date: The date of the stock market data.\n- Open: The opening price of the stock on the given date.\n- High: The highest price reached by the stock during the trading session.\n- Low: The lowest price reached by the stock during the trading session.\n- Close: The closing price of the stock on the given date.\n- Volume: The trading volume of the stock on the given date.\n",
+  "datasetId": 3594939,
+  "datasetSlug": "nifty-50-2018-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "codekalimi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 544,
+  "totalVotes": 5,
+  "totalDownloads": 93,
+  "title": "Nifty 50 Stock Market Dataset (2018-2023)",
+  "hasTitle": true,
+  "subtitle": "Comprehensive Data on Nifty 50 Stocks from 2018 to August 2023",
+  "hasSubtitle": true,
+  "description": "This dataset contains a comprehensive collection of historical data for the Nifty 50 stocks, a diversified stock market index in India. The data covers the period from January 2018 to August 2023, providing valuable insights into the performance of the Indian stock market over the years.\n\n**Features:**\n- Stock Symbol: The unique stock symbol of the company listed in the Nifty 50 index\n- Date: The date of the stock market data.\n- Open: The opening price of the stock on the given date.\n- High: The highest price reached by the stock during the trading session.\n- Low: The lowest price reached by the stock during the trading session.\n- Close: The closing price of the stock on the given date.\n- Volume: The trading volume of the stock on the given date.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "history",
+    "business",
+    "finance",
+    "time series analysis",
+    "statistical analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

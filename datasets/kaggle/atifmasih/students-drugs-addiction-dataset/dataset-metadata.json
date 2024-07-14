@@ -1,0 +1,43 @@
+{
+  "id": "atifmasih/students-drugs-addiction-dataset",
+  "id_no": 4977751,
+  "datasetSlugNullable": "students-drugs-addiction-dataset",
+  "ownerUserNullable": "atifmasih",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Students drugs Addiction Dataset",
+  "subtitleNullable": "Exploring Factors Influencing Drug Addiction Among University Students: A Data-D",
+  "descriptionNullable": "This dataset provides a comprehensive exploration of factors related to drug addiction among university students. With features ranging from experimentation to denial of treatment, it offers valuable insights into the complex dynamics of addiction behaviors. The dataset includes a target variable classifying students as addicted or non-addicted based on these features. Utilize this dataset for machine learning tasks, predictive modeling, and behavioral analysis to better understand and address drug addiction issues among university populations.\nThis dataset contains 50343 samples for training and 12745 samples for testing purpose with 10 features.\n**Features Description**\n**Experimentation**: Whether the student has experimented with drugs (Yes/No).\n**Academic_Performance_Decline**: Indicates if there's a decline in academic performance due to drug use (Yes/No).\n**Social_Isolation**: Whether drug use leads to social isolation (Yes/No).\n**Financial_Issues**: Indicates if the student faces financial difficulties due to drug use (Yes/No).\n**Physical_Mental_Health_Problems**: Presence of physical or mental health issues related to drug use (Yes/No).\n**Legal_Consequences**: Whether there are legal consequences associated with drug use (Yes/No).\n**Relationship_Strain**: Indicates if drug use strains relationships with others (Yes/No).\n**Risk_Taking_Behavior**: Engagement in risky behavior under the influence of drugs (Yes/No).\n**Withdrawal_Symptoms**: Presence of withdrawal symptoms when trying to quit drug use (Yes/No).\n**Denial_and_Resistance_to_Treatment**: Indicates denial or resistance to seeking treatment for drug addiction (Yes/No).",
+  "datasetId": 4977751,
+  "datasetSlug": "students-drugs-addiction-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "atifmasih",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 10106,
+  "totalVotes": 35,
+  "totalDownloads": 1968,
+  "title": "Students drugs Addiction Dataset",
+  "hasTitle": true,
+  "subtitle": "Exploring Factors Influencing Drug Addiction Among University Students: A Data-D",
+  "hasSubtitle": true,
+  "description": "This dataset provides a comprehensive exploration of factors related to drug addiction among university students. With features ranging from experimentation to denial of treatment, it offers valuable insights into the complex dynamics of addiction behaviors. The dataset includes a target variable classifying students as addicted or non-addicted based on these features. Utilize this dataset for machine learning tasks, predictive modeling, and behavioral analysis to better understand and address drug addiction issues among university populations.\nThis dataset contains 50343 samples for training and 12745 samples for testing purpose with 10 features.\n**Features Description**\n**Experimentation**: Whether the student has experimented with drugs (Yes/No).\n**Academic_Performance_Decline**: Indicates if there's a decline in academic performance due to drug use (Yes/No).\n**Social_Isolation**: Whether drug use leads to social isolation (Yes/No).\n**Financial_Issues**: Indicates if the student faces financial difficulties due to drug use (Yes/No).\n**Physical_Mental_Health_Problems**: Presence of physical or mental health issues related to drug use (Yes/No).\n**Legal_Consequences**: Whether there are legal consequences associated with drug use (Yes/No).\n**Relationship_Strain**: Indicates if drug use strains relationships with others (Yes/No).\n**Risk_Taking_Behavior**: Engagement in risky behavior under the influence of drugs (Yes/No).\n**Withdrawal_Symptoms**: Presence of withdrawal symptoms when trying to quit drug use (Yes/No).\n**Denial_and_Resistance_to_Treatment**: Indicates denial or resistance to seeking treatment for drug addiction (Yes/No).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "intermediate",
+    "classification",
+    "random forest",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "chirin/the-zimbabwe-standard-headlines-and-previews",
+  "id_no": 117274,
+  "datasetSlugNullable": "the-zimbabwe-standard-headlines-and-previews",
+  "ownerUserNullable": "chirin",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "The Zimbabwe Standard Headlines and Previews (NLP)",
+  "subtitleNullable": "News Headlines and Articles from The Zimbabwe Standard's 2018-2019 archives.",
+  "descriptionNullable": "### Context\n\nThis dataset is meant for people who seek to explore approaches to building sentiment analysis tools for contexts wherein:\n\n 1. The texts are compressed and abstract.  \n 2. The English language is used with a lot of rhetoric.\n\nThe dataset may be useful to those who have an interest in conducting Natural Language Processing (NLP) experiments on \"high context\" culture datasets.\n\n### Content\n\nNews Headlines and Article Previews from \"The Standard\"; a Zimbabwean weekly independent newspaper: https://www.thestandard.co.zw/news/. The period that the dataset covers: 14 January 2018 to 6 February 2019. The dataset may need additional cleansing if older text mining tools are employed.\n\n### Acknowledgements\n\nThe data was extracted from the Zimbabwe Standard's News Archives, available at: https://www.thestandard.co.zw/news/ ",
+  "datasetId": 117274,
+  "datasetSlug": "the-zimbabwe-standard-headlines-and-previews",
+  "hasDatasetSlug": true,
+  "ownerUser": "chirin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 2857,
+  "totalVotes": 2,
+  "totalDownloads": 99,
+  "title": "The Zimbabwe Standard Headlines and Previews (NLP)",
+  "hasTitle": true,
+  "subtitle": "News Headlines and Articles from The Zimbabwe Standard's 2018-2019 archives.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is meant for people who seek to explore approaches to building sentiment analysis tools for contexts wherein:\n\n 1. The texts are compressed and abstract.  \n 2. The English language is used with a lot of rhetoric.\n\nThe dataset may be useful to those who have an interest in conducting Natural Language Processing (NLP) experiments on \"high context\" culture datasets.\n\n### Content\n\nNews Headlines and Article Previews from \"The Standard\"; a Zimbabwean weekly independent newspaper: https://www.thestandard.co.zw/news/. The period that the dataset covers: 14 January 2018 to 6 February 2019. The dataset may need additional cleansing if older text mining tools are employed.\n\n### Acknowledgements\n\nThe data was extracted from the Zimbabwe Standard's News Archives, available at: https://www.thestandard.co.zw/news/ ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "linguistics",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

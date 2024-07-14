@@ -1,0 +1,43 @@
+{
+  "id": "arpikr/uci-drug",
+  "id_no": 968273,
+  "datasetSlugNullable": "uci-drug",
+  "ownerUserNullable": "arpikr",
+  "usabilityRatingNullable": 0.6764705882352942,
+  "titleNullable": "UCI_Drug",
+  "subtitleNullable": "Multiple Research Problem",
+  "descriptionNullable": "**Data Set Information:**\nThe dataset provides patient reviews on specific drugs along with related conditions and a 10-star patient rating reflecting overall patient satisfaction. The data was obtained by crawling online pharmaceutical review sites. The intention was to study\n\n(1) sentiment analysis of drug experience over multiple facets, i.e. sentiments learned on specific aspects such as effectiveness and side effects,\n(2) the transferability of models among domains, i.e. conditions, and\n(3) the transferability of models among different data sources (see 'Drug Review Dataset (Druglib.com)').\n\nThe data is split into a train (75%) a test (25%) partition (see publication) and stored in two .tsv (tab-separated-values) files, respectively.\n\n\nMachine learning has permeated nearly all fields and disciplines of study. One hot topic is using natural language processing and sentiment analysis to identify, extract, and make use of subjective information. The UCI ML Drug Review dataset provides patient reviews on specific drugs along with related conditions and a 10-star patient rating system reflecting overall patient satisfaction. The data was obtained by crawling online pharmaceutical review sites. This data was published in a study on sentiment analysis of drug experience over multiple facets, ex. sentiments learned on specific aspects such as effectiveness and side effects (see the acknowledgments section to learn more).\n\nThe sky's the limit here in terms of what your team can do! Teams are free to add supplementary datasets in conjunction with the drug review dataset in their Kernel. Discussion is highly encouraged within the forum and Slack so everyone can learn from their peers.\n\nImportant notes:\n\nWhen using this dataset, you agree that you\n1) only use the data for research purposes\n2) don't use the data for any commercial purposes\n3) don't distribute the data to anyone else\n4) cite us: https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29\n\n",
+  "datasetId": 968273,
+  "datasetSlug": "uci-drug",
+  "hasDatasetSlug": true,
+  "ownerUser": "arpikr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6764705882352942,
+  "hasUsabilityRating": true,
+  "totalViews": 6387,
+  "totalVotes": 9,
+  "totalDownloads": 384,
+  "title": "UCI_Drug",
+  "hasTitle": true,
+  "subtitle": "Multiple Research Problem",
+  "hasSubtitle": true,
+  "description": "**Data Set Information:**\nThe dataset provides patient reviews on specific drugs along with related conditions and a 10-star patient rating reflecting overall patient satisfaction. The data was obtained by crawling online pharmaceutical review sites. The intention was to study\n\n(1) sentiment analysis of drug experience over multiple facets, i.e. sentiments learned on specific aspects such as effectiveness and side effects,\n(2) the transferability of models among domains, i.e. conditions, and\n(3) the transferability of models among different data sources (see 'Drug Review Dataset (Druglib.com)').\n\nThe data is split into a train (75%) a test (25%) partition (see publication) and stored in two .tsv (tab-separated-values) files, respectively.\n\n\nMachine learning has permeated nearly all fields and disciplines of study. One hot topic is using natural language processing and sentiment analysis to identify, extract, and make use of subjective information. The UCI ML Drug Review dataset provides patient reviews on specific drugs along with related conditions and a 10-star patient rating system reflecting overall patient satisfaction. The data was obtained by crawling online pharmaceutical review sites. This data was published in a study on sentiment analysis of drug experience over multiple facets, ex. sentiments learned on specific aspects such as effectiveness and side effects (see the acknowledgments section to learn more).\n\nThe sky's the limit here in terms of what your team can do! Teams are free to add supplementary datasets in conjunction with the drug review dataset in their Kernel. Discussion is highly encouraged within the forum and Slack so everyone can learn from their peers.\n\nImportant notes:\n\nWhen using this dataset, you agree that you\n1) only use the data for research purposes\n2) don't use the data for any commercial purposes\n3) don't distribute the data to anyone else\n4) cite us: https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "data visualization",
+    "classification",
+    "regression",
+    "drugs and medications"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

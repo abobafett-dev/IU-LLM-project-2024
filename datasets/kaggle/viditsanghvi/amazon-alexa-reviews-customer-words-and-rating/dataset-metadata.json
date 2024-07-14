@@ -1,0 +1,41 @@
+{
+  "id": "viditsanghvi/amazon-alexa-reviews-customer-words-and-rating",
+  "id_no": 1278853,
+  "datasetSlugNullable": "amazon-alexa-reviews-customer-words-and-rating",
+  "ownerUserNullable": "viditsanghvi",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Amazon alexa reviews customer words and rating",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\nThis dataset is produced from 'Amazon alexa reviews csv file' dataset which I uploaded recently.\n\n\n### Content\n\nThis dataset contains 7734 features described as 7734 unique words written in customer reviews in the Amazon alexa reviews csv file. Each row represents each review and each particular word is present or not is denoted by '1' (present) and '0' (not present) in the dataset as the values of 7734 column heads. It has label column 'Rating' at last which is rating from 1 to 5 as in Amazon alexa reviews csv file.\n\n",
+  "datasetId": 1278853,
+  "datasetSlug": "amazon-alexa-reviews-customer-words-and-rating",
+  "hasDatasetSlug": true,
+  "ownerUser": "viditsanghvi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 1637,
+  "totalVotes": 2,
+  "totalDownloads": 44,
+  "title": "Amazon alexa reviews customer words and rating",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\nThis dataset is produced from 'Amazon alexa reviews csv file' dataset which I uploaded recently.\n\n\n### Content\n\nThis dataset contains 7734 features described as 7734 unique words written in customer reviews in the Amazon alexa reviews csv file. Each row represents each review and each particular word is present or not is denoted by '1' (present) and '0' (not present) in the dataset as the values of 7734 column heads. It has label column 'Rating' at last which is rating from 1 to 5 as in Amazon alexa reviews csv file.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "bayesian statistics",
+    "tabular",
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

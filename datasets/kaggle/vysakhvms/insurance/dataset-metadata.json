@@ -1,0 +1,43 @@
+{
+  "id": "vysakhvms/insurance",
+  "id_no": 2238376,
+  "datasetSlugNullable": "insurance",
+  "ownerUserNullable": "vysakhvms",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Insurance Sales Incentive Dataset",
+  "subtitleNullable": "Insurance Sales Incentive Predictor Dataset",
+  "descriptionNullable": "This dataset contains information related to insurance sales incentives. The dataset consist of only 125 records.\n\nThe dataset contains the following columns:\nAmount, Plan, Term, PPT, Incentive\n\nAmount - Numerical variable. It denotes the insurance premium.\nPlan - Categorical variable. It denotes the the type of insurance product.\nTerm- Numerical variable. It denotes the term of the insurance policy.\nPPT - Numerical variable. It denotes the duration of the insurance premium payment.\nIncentive - Categorical variable. It denotes whether incentive is achieved or not.\n\nThe Incentive variable consists of \"Yes\" and \"No' which denotes whether the incentive is achieved or not.\n",
+  "datasetId": 2238376,
+  "datasetSlug": "insurance",
+  "hasDatasetSlug": true,
+  "ownerUser": "vysakhvms",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 2040,
+  "totalVotes": 12,
+  "totalDownloads": 278,
+  "title": "Insurance Sales Incentive Dataset",
+  "hasTitle": true,
+  "subtitle": "Insurance Sales Incentive Predictor Dataset",
+  "hasSubtitle": true,
+  "description": "This dataset contains information related to insurance sales incentives. The dataset consist of only 125 records.\n\nThe dataset contains the following columns:\nAmount, Plan, Term, PPT, Incentive\n\nAmount - Numerical variable. It denotes the insurance premium.\nPlan - Categorical variable. It denotes the the type of insurance product.\nTerm- Numerical variable. It denotes the term of the insurance policy.\nPPT - Numerical variable. It denotes the duration of the insurance premium payment.\nIncentive - Categorical variable. It denotes whether incentive is achieved or not.\n\nThe Incentive variable consists of \"Yes\" and \"No' which denotes whether the incentive is achieved or not.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "classification",
+    "logistic regression",
+    "insurance",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

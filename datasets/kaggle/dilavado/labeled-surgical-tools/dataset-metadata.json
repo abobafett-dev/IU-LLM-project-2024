@@ -1,0 +1,46 @@
+{
+  "id": "dilavado/labeled-surgical-tools",
+  "id_no": 50932,
+  "datasetSlugNullable": "labeled-surgical-tools",
+  "ownerUserNullable": "dilavado",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Labeled Surgical Tools and Images",
+  "subtitleNullable": "3009 images, detection and occlusion labels, 4 classes of cleaned surgical tools",
+  "descriptionNullable": "**### Context**\n\nThis dataset was built and labeled for my master thesis ( https://eg.uc.pt/bitstream/10316/86257/1/Tese-Diana_VersaoFinal.pdf ) which intended to sort surgical tools from a cluttered tray, focusing specifically on object detection and occlusion reasoning. It was used YOLOv2 and YOLOv3 neural networks achieving 92% of mean Average Precision.\n\n\n**### Content**\n\nIn total it contains 3009 images and the respective labels classifying the objects as Scalpel, Straight Dissection Clamp, Straight Mayo Scissor or Curved Mayo Scissor, as well as classifying each tool as being on top (not occluded) or at the bottom(occluded).\n\nIn the images folder the images, are organized per folders indicating which tools are on the respective images and all the images can be found mixed in the \"All\" folder.\n\nThe Test-Train Groups folder only is respective to object detection and contains a detailed explanation of a balanced division of 70%-30% taking into account the number of images of each combination of tools.\n\n**### Inspiration**\n\nIn order to determine which necessities in Portugal\u2019s healthcare could be improved by the implementation of robots, it was scheduled an interview with Chief Nurse of the Main Operating Room of the Hospital of University of Coimbra, who raised concerns regarding the time that nurses spend sorting tools after being disinfected, that can either undergo sterilization or be assembled into surgical kits. Thus, that time could be spent focusing more on patients if a robotic system was implemented, which is towards that goal that my master thesis was developed and, therefore, this dataset.",
+  "datasetId": 50932,
+  "datasetSlug": "labeled-surgical-tools",
+  "hasDatasetSlug": true,
+  "ownerUser": "dilavado",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 35722,
+  "totalVotes": 62,
+  "totalDownloads": 1967,
+  "title": "Labeled Surgical Tools and Images",
+  "hasTitle": true,
+  "subtitle": "3009 images, detection and occlusion labels, 4 classes of cleaned surgical tools",
+  "hasSubtitle": true,
+  "description": "**### Context**\n\nThis dataset was built and labeled for my master thesis ( https://eg.uc.pt/bitstream/10316/86257/1/Tese-Diana_VersaoFinal.pdf ) which intended to sort surgical tools from a cluttered tray, focusing specifically on object detection and occlusion reasoning. It was used YOLOv2 and YOLOv3 neural networks achieving 92% of mean Average Precision.\n\n\n**### Content**\n\nIn total it contains 3009 images and the respective labels classifying the objects as Scalpel, Straight Dissection Clamp, Straight Mayo Scissor or Curved Mayo Scissor, as well as classifying each tool as being on top (not occluded) or at the bottom(occluded).\n\nIn the images folder the images, are organized per folders indicating which tools are on the respective images and all the images can be found mixed in the \"All\" folder.\n\nThe Test-Train Groups folder only is respective to object detection and contains a detailed explanation of a balanced division of 70%-30% taking into account the number of images of each combination of tools.\n\n**### Inspiration**\n\nIn order to determine which necessities in Portugal\u2019s healthcare could be improved by the implementation of robots, it was scheduled an interview with Chief Nurse of the Main Operating Room of the Hospital of University of Coimbra, who raised concerns regarding the time that nurses spend sorting tools after being disinfected, that can either undergo sterilization or be assembled into surgical kits. Thus, that time could be spent focusing more on patients if a robotic system was implemented, which is towards that goal that my master thesis was developed and, therefore, this dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "art",
+    "earth and nature",
+    "biology",
+    "health",
+    "deep learning",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

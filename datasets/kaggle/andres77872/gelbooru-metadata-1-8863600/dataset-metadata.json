@@ -1,0 +1,43 @@
+{
+  "id": "andres77872/gelbooru-metadata-1-8863600",
+  "id_no": 3648365,
+  "datasetSlugNullable": "gelbooru-metadata-1-8863600",
+  "ownerUserNullable": "andres77872",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "gelbooru metadata 1-8863600",
+  "subtitleNullable": "Metada for gelbooru up the id 8863600",
+  "descriptionNullable": "# **Why**\nThis dataset is used to keep update my project [findit](https://findit.moe) and used in my research projects.\nI crawled using the gelbooru API and convert to JSON to handle.\n\nAt the moment are 8863600 rows from the id 1 to 8863600 (2023-08-06)\n\n**Banner image**: https://gelbooru.com/index.php?page=post&s=view&id=8863600, is the last image ID in the dataset.\n",
+  "datasetId": 3648365,
+  "datasetSlug": "gelbooru-metadata-1-8863600",
+  "hasDatasetSlug": true,
+  "ownerUser": "andres77872",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 208,
+  "totalVotes": 5,
+  "totalDownloads": 17,
+  "title": "gelbooru metadata 1-8863600",
+  "hasTitle": true,
+  "subtitle": "Metada for gelbooru up the id 8863600",
+  "hasSubtitle": true,
+  "description": "# **Why**\nThis dataset is used to keep update my project [findit](https://findit.moe) and used in my research projects.\nI crawled using the gelbooru API and convert to JSON to handle.\n\nAt the moment are 8863600 rows from the id 1 to 8863600 (2023-08-06)\n\n**Banner image**: https://gelbooru.com/index.php?page=post&s=view&id=8863600, is the last image ID in the dataset.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "search engines",
+    "multiclass classification",
+    "anime and manga",
+    "multilabel classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

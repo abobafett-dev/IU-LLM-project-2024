@@ -1,0 +1,44 @@
+{
+  "id": "kanchana1990/egg-sales-of-a-local-shop-for-30-years",
+  "id_no": 3813151,
+  "datasetSlugNullable": "egg-sales-of-a-local-shop-for-30-years",
+  "ownerUserNullable": "kanchana1990",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Egg Sales of a local shop for 30 years",
+  "subtitleNullable": "Decoding Egg Sales: A 30-Year Time Series Odyssey",
+  "descriptionNullable": "Dive into the world of time series forecasting with the Egg Sales Forecasting Challenge! This dataset originally made for a competition provides a rich dataset detailing 30 years of egg sales from a Sri Lankan shop. ,You'll uncover the nuances of seasonal fluctuations influenced by cultural festivities, global events, and even unexpected lockdowns. Beyond just raw numbers, this dataset tells a story of traditions, market dynamics, and the resilience of businesses. Your mission? Harness this wealth of information to predict the egg sales for 2022. Whether you're a newbie in forecasting or a seasoned data scientist, this challenge offers a unique opportunity to hone your skills.\"\n\nWhat's expected?\nUtilizing the train.csv dataset, which contains three decades of egg sales, participants are tasked with predicting the daily sales for 2022 found in test.csv. Submissions should mirror the format of sample_submission.csv. The accuracy of forecasts will be evaluated using the Root Mean Square Error (RMSE) method.\"\n\n\n**Note- This dataset was based on a real dataset presented by a shop, however, this is a simulation and not to be used as real world data.",
+  "datasetId": 3813151,
+  "datasetSlug": "egg-sales-of-a-local-shop-for-30-years",
+  "hasDatasetSlug": true,
+  "ownerUser": "kanchana1990",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7408,
+  "totalVotes": 103,
+  "totalDownloads": 1222,
+  "title": "Egg Sales of a local shop for 30 years",
+  "hasTitle": true,
+  "subtitle": "Decoding Egg Sales: A 30-Year Time Series Odyssey",
+  "hasSubtitle": true,
+  "description": "Dive into the world of time series forecasting with the Egg Sales Forecasting Challenge! This dataset originally made for a competition provides a rich dataset detailing 30 years of egg sales from a Sri Lankan shop. ,You'll uncover the nuances of seasonal fluctuations influenced by cultural festivities, global events, and even unexpected lockdowns. Beyond just raw numbers, this dataset tells a story of traditions, market dynamics, and the resilience of businesses. Your mission? Harness this wealth of information to predict the egg sales for 2022. Whether you're a newbie in forecasting or a seasoned data scientist, this challenge offers a unique opportunity to hone your skills.\"\n\nWhat's expected?\nUtilizing the train.csv dataset, which contains three decades of egg sales, participants are tasked with predicting the daily sales for 2022 found in test.csv. Submissions should mirror the format of sample_submission.csv. The accuracy of forecasts will be evaluated using the Root Mean Square Error (RMSE) method.\"\n\n\n**Note- This dataset was based on a real dataset presented by a shop, however, this is a simulation and not to be used as real world data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "asia",
+    "business",
+    "data analytics",
+    "tabular",
+    "retail and shopping",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

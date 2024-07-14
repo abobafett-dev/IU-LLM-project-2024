@@ -1,0 +1,39 @@
+{
+  "id": "swapnilsafkat/eeg-during-arithmetic-task",
+  "id_no": 4120843,
+  "datasetSlugNullable": "eeg-during-arithmetic-task",
+  "ownerUserNullable": "swapnilsafkat",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "EEG During Arithmetic Task",
+  "subtitleNullable": "EEG recordings of subjects before and during the performance of arithmetic task.",
+  "descriptionNullable": "## Recording Method : \n\nNeurocom EEG 23-channel system (21 channels were selected finally) where used to record the EEGs monopolarly from 36 subjects. A high-pass filter with a 30 Hz cut-off frequency and a power line notch filter (50 Hz) were used. All recordings are artifact-free EEG segments of 60 seconds duration. At the stage of data preprocessing, the Independent Component Analysis (ICA) was used to eliminate the artifacts.\n\n## Data \n\n#### The data files with EEG are provided in EDF (European Data Format) format. Each subject has 2 files:\n####   with \"_1\" suffix -- the recording of the background EEG of a subject (before mental arithmetic task)\n####   with \"_2\" suffix -- the recording of EEG during the mental arithmetic task.\n\n#### In this experiment all subjects are divided into two groups:\n#### Group \"G\" (24 subjects) performing good quality count (Mean number of operations per 4 minutes = 21, SD = 7.4).\n####Group \"B\" (12 subjects) performing bad quality count (Mean number of operations per 4 minutes = 7, SD = 3.6).\n\nIn subject-info.csv, the \"Count quality\" column indicates which subjects correspond to which group (0 - Group \"B\", 1 - Group \"G\"). Additionally, subject-info.csv provides basic information about each subject (gender, age, job, date of recording).\n\n##Contributors\nThis database was contributed by Igor Zyma, Sergii Tukaev, and Ivan Seleznov, National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\", Department of Electronic Engineering.\n\nFor further information, please contact:\n    Ivan Seleznov\n    National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\", Department of Electronic Engineering.\n    ivan.seleznov1@gmail.com",
+  "datasetId": 4120843,
+  "datasetSlug": "eeg-during-arithmetic-task",
+  "hasDatasetSlug": true,
+  "ownerUser": "swapnilsafkat",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 464,
+  "totalVotes": 32,
+  "totalDownloads": 47,
+  "title": "EEG During Arithmetic Task",
+  "hasTitle": true,
+  "subtitle": "EEG recordings of subjects before and during the performance of arithmetic task.",
+  "hasSubtitle": true,
+  "description": "## Recording Method : \n\nNeurocom EEG 23-channel system (21 channels were selected finally) where used to record the EEGs monopolarly from 36 subjects. A high-pass filter with a 30 Hz cut-off frequency and a power line notch filter (50 Hz) were used. All recordings are artifact-free EEG segments of 60 seconds duration. At the stage of data preprocessing, the Independent Component Analysis (ICA) was used to eliminate the artifacts.\n\n## Data \n\n#### The data files with EEG are provided in EDF (European Data Format) format. Each subject has 2 files:\n####   with \"_1\" suffix -- the recording of the background EEG of a subject (before mental arithmetic task)\n####   with \"_2\" suffix -- the recording of EEG during the mental arithmetic task.\n\n#### In this experiment all subjects are divided into two groups:\n#### Group \"G\" (24 subjects) performing good quality count (Mean number of operations per 4 minutes = 21, SD = 7.4).\n####Group \"B\" (12 subjects) performing bad quality count (Mean number of operations per 4 minutes = 7, SD = 3.6).\n\nIn subject-info.csv, the \"Count quality\" column indicates which subjects correspond to which group (0 - Group \"B\", 1 - Group \"G\"). Additionally, subject-info.csv provides basic information about each subject (gender, age, job, date of recording).\n\n##Contributors\nThis database was contributed by Igor Zyma, Sergii Tukaev, and Ivan Seleznov, National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\", Department of Electronic Engineering.\n\nFor further information, please contact:\n    Ivan Seleznov\n    National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\", Department of Electronic Engineering.\n    ivan.seleznov1@gmail.com",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "neuroscience"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

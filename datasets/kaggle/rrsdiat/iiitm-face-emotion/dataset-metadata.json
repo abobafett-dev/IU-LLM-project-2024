@@ -1,0 +1,39 @@
+{
+  "id": "rrsdiat/iiitm-face-emotion",
+  "id_no": 3725648,
+  "datasetSlugNullable": "iiitm-face-emotion",
+  "ownerUserNullable": "rrsdiat",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "IIITM Face Emotion",
+  "subtitleNullable": "",
+  "descriptionNullable": "Data Download  Link:    https://www.sensigi.com/resources_1/research\n\nThe IIITM Face Emotion dataset originates from IIITM Face Data. It consists of a total of 1928 images collected from 107 participants (87 male and 20 female). These images have been recorded in three different vertical orientations (i.e., Front, Up, and Down) while exhibiting six different facial expressions (Smile, Surprise, Surprise with Mouth Open, Neutral, Sad, and yawning). The original IIITM Face dataset provides information about various other attributes such as gender, presence of mustaches, beard, eyeglasses, clothes worn by the subjects, and density of their hair. The original IIITM Face dataset has been modified to study facial expressions in different orientations. IIITM Face Emotion dataset has only facial region segmented for all the subjects and then all images are resized to fixed dimensions [800 x 1000 pixels] with the aspect ratio of 4:5. This method ensures uniform scale for varying face positions for the same subject.\n\nThe nomenclature of each image is as follows: 'SUB XX EE O'\n\nwhere,\n\nXX -&gt; denotes the subject ID\n\nEE -&gt; denotes the expressed emotion ( Smile -&gt; SM, Surprise -&gt; SU, Surprise with mouth open -&gt; SO, Neutral -&gt; NE, Sad-&gt; SA, Yawning -&gt; YN)\n\nO  -&gt; denotes the orientation (Front -&gt; F, Down -&gt; D, Up -&gt; U)\n\nFor example. 'SUB1NEF' shows subject 1 depicting Neutral emotion in Front facing orientation.\n\nFor using The Dataset, please cite the following papers:\n\n[1] U. Sharma, K. N. Faisal, R. R. Sharma, and K. V Arya, \u201cFacial Landmark-Based Human Emotion Recognition Technique for Oriented Viewpoints in the Presence of Facial Attributes,\u201d SN Comput. Sci., vol. 4, no. 3, p. 273, 2023. https://doi.org/10.1007/s42979-023-01727-y\n\n[2] Arya, K. V., Verma, S., Gupta, R. K., Agarwal, S., & Gupta, P. (2020). IIITM Face: A Database for Facial Attribute Detection in Constrained and Simulated Unconstrained Environments. In Proceedings of the 7th ACM IKDD CoDS and 25th COMAD (pp. 185-189).",
+  "datasetId": 3725648,
+  "datasetSlug": "iiitm-face-emotion",
+  "hasDatasetSlug": true,
+  "ownerUser": "rrsdiat",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 1037,
+  "totalVotes": 0,
+  "totalDownloads": 90,
+  "title": "IIITM Face Emotion",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Data Download  Link:    https://www.sensigi.com/resources_1/research\n\nThe IIITM Face Emotion dataset originates from IIITM Face Data. It consists of a total of 1928 images collected from 107 participants (87 male and 20 female). These images have been recorded in three different vertical orientations (i.e., Front, Up, and Down) while exhibiting six different facial expressions (Smile, Surprise, Surprise with Mouth Open, Neutral, Sad, and yawning). The original IIITM Face dataset provides information about various other attributes such as gender, presence of mustaches, beard, eyeglasses, clothes worn by the subjects, and density of their hair. The original IIITM Face dataset has been modified to study facial expressions in different orientations. IIITM Face Emotion dataset has only facial region segmented for all the subjects and then all images are resized to fixed dimensions [800 x 1000 pixels] with the aspect ratio of 4:5. This method ensures uniform scale for varying face positions for the same subject.\n\nThe nomenclature of each image is as follows: 'SUB XX EE O'\n\nwhere,\n\nXX -&gt; denotes the subject ID\n\nEE -&gt; denotes the expressed emotion ( Smile -&gt; SM, Surprise -&gt; SU, Surprise with mouth open -&gt; SO, Neutral -&gt; NE, Sad-&gt; SA, Yawning -&gt; YN)\n\nO  -&gt; denotes the orientation (Front -&gt; F, Down -&gt; D, Up -&gt; U)\n\nFor example. 'SUB1NEF' shows subject 1 depicting Neutral emotion in Front facing orientation.\n\nFor using The Dataset, please cite the following papers:\n\n[1] U. Sharma, K. N. Faisal, R. R. Sharma, and K. V Arya, \u201cFacial Landmark-Based Human Emotion Recognition Technique for Oriented Viewpoints in the Presence of Facial Attributes,\u201d SN Comput. Sci., vol. 4, no. 3, p. 273, 2023. https://doi.org/10.1007/s42979-023-01727-y\n\n[2] Arya, K. V., Verma, S., Gupta, R. K., Agarwal, S., & Gupta, P. (2020). IIITM Face: A Database for Facial Attribute Detection in Constrained and Simulated Unconstrained Environments. In Proceedings of the 7th ACM IKDD CoDS and 25th COMAD (pp. 185-189).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

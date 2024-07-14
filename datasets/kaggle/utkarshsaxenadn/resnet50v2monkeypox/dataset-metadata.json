@@ -1,0 +1,39 @@
+{
+  "id": "utkarshsaxenadn/resnet50v2monkeypox",
+  "id_no": 2423156,
+  "datasetSlugNullable": "resnet50v2monkeypox",
+  "ownerUserNullable": "utkarshsaxenadn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "ResNet50V2-MonkeyPox",
+  "subtitleNullable": "Monkey Pox image classification with transfer learning.",
+  "descriptionNullable": "The model is result of a **transfer learning** using **ResNet 50V2** on the **monkey pox image detection/classification data set**. The model has achieved an outstanding accuracy of 100% on the training data and 99% on the testing data. This can sound unrealistic, so you can check out my notebook associated with this data set that will confirm this. ",
+  "datasetId": 2423156,
+  "datasetSlug": "resnet50v2monkeypox",
+  "hasDatasetSlug": true,
+  "ownerUser": "utkarshsaxenadn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 925,
+  "totalVotes": 8,
+  "totalDownloads": 116,
+  "title": "ResNet50V2-MonkeyPox",
+  "hasTitle": true,
+  "subtitle": "Monkey Pox image classification with transfer learning.",
+  "hasSubtitle": true,
+  "description": "The model is result of a **transfer learning** using **ResNet 50V2** on the **monkey pox image detection/classification data set**. The model has achieved an outstanding accuracy of 100% on the training data and 99% on the testing data. This can sound unrealistic, so you can check out my notebook associated with this data set that will confirm this. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "pre-trained model"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "danielshanbalico/dog-vs-not-dog",
+  "id_no": 2882514,
+  "datasetSlugNullable": "dog-vs-not-dog",
+  "ownerUserNullable": "danielshanbalico",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Dog vs Not-Dog",
+  "subtitleNullable": "Classify If An Image Contains a Dog or Not",
+  "descriptionNullable": "This dataset consists of a large collection of images, each of which contains either a dog or something else.\n\nThe images in the dataset come from a diverse range of sources and include a wide variety of dog breeds, as well as other objects and scenes. This makes the dataset suitable for testing the robustness and generalization abilities of machine learning models.",
+  "datasetId": 2882514,
+  "datasetSlug": "dog-vs-not-dog",
+  "hasDatasetSlug": true,
+  "ownerUser": "danielshanbalico",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2648,
+  "totalVotes": 10,
+  "totalDownloads": 272,
+  "title": "Dog vs Not-Dog",
+  "hasTitle": true,
+  "subtitle": "Classify If An Image Contains a Dog or Not",
+  "hasSubtitle": true,
+  "description": "This dataset consists of a large collection of images, each of which contains either a dog or something else.\n\nThe images in the dataset come from a diverse range of sources and include a wide variety of dog breeds, as well as other objects and scenes. This makes the dataset suitable for testing the robustness and generalization abilities of machine learning models.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "classification",
+    "deep learning",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

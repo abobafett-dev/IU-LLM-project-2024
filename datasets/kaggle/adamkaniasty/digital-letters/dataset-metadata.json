@@ -1,0 +1,43 @@
+{
+  "id": "adamkaniasty/digital-letters",
+  "id_no": 2241613,
+  "datasetSlugNullable": "digital-letters",
+  "ownerUserNullable": "adamkaniasty",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Digital Letters",
+  "subtitleNullable": "Letters from various fonts in MNIST format",
+  "descriptionNullable": "Simple dataset containing 28x28 images of letters in different fonts. \n\nEach row consists of 784 pixel columns and 1 label column. Pixels are numbered from left to right, then top to bottom. \nImages have only one channel. There are 26 labels (one for every letter in English alphabet). Each label is balanced (has exact same number of samples)\n\nSecond file (digital-letters-alt) contains less ,,artistic\" fonts, but has fewer rows\n\nFonts were obtained from Google Fonts\n",
+  "datasetId": 2241613,
+  "datasetSlug": "digital-letters",
+  "hasDatasetSlug": true,
+  "ownerUser": "adamkaniasty",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 3721,
+  "totalVotes": 14,
+  "totalDownloads": 559,
+  "title": "Digital Letters",
+  "hasTitle": true,
+  "subtitle": "Letters from various fonts in MNIST format",
+  "hasSubtitle": true,
+  "description": "Simple dataset containing 28x28 images of letters in different fonts. \n\nEach row consists of 784 pixel columns and 1 label column. Pixels are numbered from left to right, then top to bottom. \nImages have only one channel. There are 26 labels (one for every letter in English alphabet). Each label is balanced (has exact same number of samples)\n\nSecond file (digital-letters-alt) contains less ,,artistic\" fonts, but has fewer rows\n\nFonts were obtained from Google Fonts\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "image",
+    "multiclass classification",
+    "PIL",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

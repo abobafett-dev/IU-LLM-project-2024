@@ -1,0 +1,43 @@
+{
+  "id": "nantonio/a-hotels-customers-dataset",
+  "id_no": 1001218,
+  "datasetSlugNullable": "a-hotels-customers-dataset",
+  "ownerUserNullable": "nantonio",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "A hotel's customers dataset",
+  "subtitleNullable": "Personal, behavioral, demographic, and geographic data from a hotel in Lisbon",
+  "descriptionNullable": "### Context\n\nThis real-world customer dataset with 31 variables describes 83,590 instances (customers) from a hotel in Lisbon, Portugal.\n\n\n### Content\n\nThe data comprehends three full years of customer personal, behavioral, demographic, and geographical information.\n\n\n### Acknowledgements\n\nAdditional information on this dataset can be found in the article[ A Hotel's customers personal, behavioral, demographic, and geographic dataset from Lisbon, Portugal (2015-2018)](https://doi.org/10.1016/j.dib.2020.106583), written by Nuno Antonio, Ana de Almeida, and Luis Nunes for Data in Brief (online November 2020).\n\n\n### Inspiration\n\nThis dataset can be used in data mining, machine learning, and other analytical field problems in the scope of data science. Due to its unit of analysis, it is a dataset especially suitable for building customer segmentation models, including clustering and RFM (Recency, Frequency, and Monetary value) models, but also be used in classification and regression problems.",
+  "datasetId": 1001218,
+  "datasetSlug": "a-hotels-customers-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "nantonio",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 30340,
+  "totalVotes": 48,
+  "totalDownloads": 4676,
+  "title": "A hotel's customers dataset",
+  "hasTitle": true,
+  "subtitle": "Personal, behavioral, demographic, and geographic data from a hotel in Lisbon",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis real-world customer dataset with 31 variables describes 83,590 instances (customers) from a hotel in Lisbon, Portugal.\n\n\n### Content\n\nThe data comprehends three full years of customer personal, behavioral, demographic, and geographical information.\n\n\n### Acknowledgements\n\nAdditional information on this dataset can be found in the article[ A Hotel's customers personal, behavioral, demographic, and geographic dataset from Lisbon, Portugal (2015-2018)](https://doi.org/10.1016/j.dib.2020.106583), written by Nuno Antonio, Ana de Almeida, and Luis Nunes for Data in Brief (online November 2020).\n\n\n### Inspiration\n\nThis dataset can be used in data mining, machine learning, and other analytical field problems in the scope of data science. Due to its unit of analysis, it is a dataset especially suitable for building customer segmentation models, including clustering and RFM (Recency, Frequency, and Monetary value) models, but also be used in classification and regression problems.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "education",
+    "clustering",
+    "hotels and accommodations"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

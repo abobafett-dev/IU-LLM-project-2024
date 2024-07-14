@@ -1,0 +1,44 @@
+{
+  "id": "fatihkgg/affectnet-yolo-format",
+  "id_no": 4420036,
+  "datasetSlugNullable": "affectnet-yolo-format",
+  "ownerUserNullable": "fatihkgg",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Facial Expression Image Data AFFECTNET YOLO Format",
+  "subtitleNullable": "Facial Expression Images Labelled according to Affects on the people",
+  "descriptionNullable": "AffectNet was Introduced by Mollahosseini et al. in AffectNet: A Database for Facial Expression, Valence, and Arousal Computing in the Wild - http://mohammadmahoor.com/affectnet/\n\nAffectNet is a large facial expression dataset with around 0.4 million images manually labeled for the presence of eight (neutral, happy, angry, sad, fear, surprise, disgust, contempt) facial expressions along with the intensity of valence and arousal. It classifies the facial expressions due to their affect on counterpart.\n\nOn the other hand, this dataset is an edited version of another dataset existing at kaggle by Noam Segal https://www.kaggle.com/datasets/noamsegal/affectnet-training-data in which they present a processed version. In order to accommodate common memory constraints, the resolution was reduced down to 96x96. Meaning that all images are exactly 96x96 pixels.\n\nFurthermore, this dataset \"AFFECTNET YOLO Format\" is aimed to be used in facial expression detection for a YOLO project. Therefore, whole dataset is divided into train-test-validation folders with edited image names and corresponding txt files with annotations. \n\nIn AFFECTNET, there are 8 emotion classes, i mapped them such as:\n\n0- Anger  \n1- Contempt  \n2- Disgust  \n3- Fear  \n4- Happy  \n5- Neutral  \n6- Sad  \n7- Surprise  ",
+  "datasetId": 4420036,
+  "datasetSlug": "affectnet-yolo-format",
+  "hasDatasetSlug": true,
+  "ownerUser": "fatihkgg",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4520,
+  "totalVotes": 22,
+  "totalDownloads": 709,
+  "title": "Facial Expression Image Data AFFECTNET YOLO Format",
+  "hasTitle": true,
+  "subtitle": "Facial Expression Images Labelled according to Affects on the people",
+  "hasSubtitle": true,
+  "description": "AffectNet was Introduced by Mollahosseini et al. in AffectNet: A Database for Facial Expression, Valence, and Arousal Computing in the Wild - http://mohammadmahoor.com/affectnet/\n\nAffectNet is a large facial expression dataset with around 0.4 million images manually labeled for the presence of eight (neutral, happy, angry, sad, fear, surprise, disgust, contempt) facial expressions along with the intensity of valence and arousal. It classifies the facial expressions due to their affect on counterpart.\n\nOn the other hand, this dataset is an edited version of another dataset existing at kaggle by Noam Segal https://www.kaggle.com/datasets/noamsegal/affectnet-training-data in which they present a processed version. In order to accommodate common memory constraints, the resolution was reduced down to 96x96. Meaning that all images are exactly 96x96 pixels.\n\nFurthermore, this dataset \"AFFECTNET YOLO Format\" is aimed to be used in facial expression detection for a YOLO project. Therefore, whole dataset is divided into train-test-validation folders with edited image names and corresponding txt files with annotations. \n\nIn AFFECTNET, there are 8 emotion classes, i mapped them such as:\n\n0- Anger  \n1- Contempt  \n2- Disgust  \n3- Fear  \n4- Happy  \n5- Neutral  \n6- Sad  \n7- Surprise  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "psychology",
+    "computer vision",
+    "image",
+    "object detection",
+    "yolov8"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

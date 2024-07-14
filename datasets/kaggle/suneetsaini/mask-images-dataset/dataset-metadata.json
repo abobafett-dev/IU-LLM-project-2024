@@ -1,0 +1,43 @@
+{
+  "id": "suneetsaini/mask-images-dataset",
+  "id_no": 853274,
+  "datasetSlugNullable": "mask-images-dataset",
+  "ownerUserNullable": "suneetsaini",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Mask_Images_Dataset",
+  "subtitleNullable": "Image Data of peoples with mask during this COVID19 pandemic.",
+  "descriptionNullable": "### Context\n\nThis dataset can be used for mask recognition system based on facial recognition system during this COVID19 pandemic.\n\n### Content\n\nIn this data set we are having two data set: test & train having VOC PASCAL XML & YOLO annotations.\n\n### Acknowledgements\n\nThis dataset's annotations as build over the data set provided [here](https://www.kaggle.com/andrewmvd/face-mask-detection).\n\n### Inspiration\n\nWhile I am working with Face Mask Detection system with YOLO, majorly data set are coming with VOC PASCAL annotation instead of YOLO annotation. To serve this YOLO annotation need I had added these YOLO annotations to the data set also.",
+  "datasetId": 853274,
+  "datasetSlug": "mask-images-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "suneetsaini",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 3008,
+  "totalVotes": 5,
+  "totalDownloads": 181,
+  "title": "Mask_Images_Dataset",
+  "hasTitle": true,
+  "subtitle": "Image Data of peoples with mask during this COVID19 pandemic.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset can be used for mask recognition system based on facial recognition system during this COVID19 pandemic.\n\n### Content\n\nIn this data set we are having two data set: test & train having VOC PASCAL XML & YOLO annotations.\n\n### Acknowledgements\n\nThis dataset's annotations as build over the data set provided [here](https://www.kaggle.com/andrewmvd/face-mask-detection).\n\n### Inspiration\n\nWhile I am working with Face Mask Detection system with YOLO, majorly data set are coming with VOC PASCAL annotation instead of YOLO annotation. To serve this YOLO annotation need I had added these YOLO annotations to the data set also.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "clothing and accessories",
+    "medicine",
+    "computer science",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

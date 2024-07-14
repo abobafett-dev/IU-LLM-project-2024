@@ -1,0 +1,43 @@
+{
+  "id": "semanto117119/weather-dataset",
+  "id_no": 4324082,
+  "datasetSlugNullable": "weather-dataset",
+  "ownerUserNullable": "semanto117119",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Weather Dataset",
+  "subtitleNullable": "The dataset contains weather information for the year of 2022",
+  "descriptionNullable": "This is a weather dataset. The dataset has 3 different features. There are 364 entries in the dataset. The dataset has Humidity and Temperature features, which can be used for time series analysis as well as forecasting.",
+  "datasetId": 4324082,
+  "datasetSlug": "weather-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "semanto117119",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 145,
+  "totalVotes": 2,
+  "totalDownloads": 29,
+  "title": "Weather Dataset",
+  "hasTitle": true,
+  "subtitle": "The dataset contains weather information for the year of 2022",
+  "hasSubtitle": true,
+  "description": "This is a weather dataset. The dataset has 3 different features. There are 364 entries in the dataset. The dataset has Humidity and Temperature features, which can be used for time series analysis as well as forecasting.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "europe",
+    "data visualization",
+    "data analytics",
+    "tabular",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

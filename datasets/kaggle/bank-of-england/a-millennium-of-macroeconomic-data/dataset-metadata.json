@@ -1,0 +1,44 @@
+{
+  "id": "/a-millennium-of-macroeconomic-data",
+  "id_no": 2582,
+  "datasetSlugNullable": "a-millennium-of-macroeconomic-data",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "A millennium of macroeconomic data",
+  "subtitleNullable": "Economic Data for the UK from 1086-2016",
+  "descriptionNullable": "The dataset contains a broad set of macroeconomic and financial data for the UK stretching back in some cases to the C13th and with one or two benchmark estimates available for 1086, the year of the Domesday Book. The dataset was originally called the 'Three centuries of macroeconomic data' spreadsheet but has now been renamed given its broader coverage. Version 3 of the dataset has now been updated to 2016.\n\n\n### Content\n\nThe Excel file contains the original data. It contains hundreds of time series, while the csv is an extract of several dozen headline time series.\n\nIf you would like to see more of the data made available in CSV format; please let me know what you would like extracted and I'll be happy to add it. Please see `excel_sheet_names.csv` for details of what other data has yet to be unpacked.\n\n### Acknowledgements\n\nThis dataset was kindly made available by the [Bank of England][1]. You can find [the original dataset here][2].\n\n### Inspiration\n\n- Which metrics give similar answers about when the industrial revolution began? How clear is the cutoff point?\n\n### If you like\nIf you enjoyed this dataset, you might also like the [Allen-Unger Global Commodity Prices dataset](https://www.kaggle.com/sohier/allenunger-global-commodity-prices), which provides historic commodity prices from locations around the world.\n\n  [1]: http://www.bankofengland.co.uk\n  [2]: http://www.bankofengland.co.uk/research/Pages/datasets/default.aspx#",
+  "datasetId": 2582,
+  "datasetSlug": "a-millennium-of-macroeconomic-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 46118,
+  "totalVotes": 128,
+  "totalDownloads": 4670,
+  "title": "A millennium of macroeconomic data",
+  "hasTitle": true,
+  "subtitle": "Economic Data for the UK from 1086-2016",
+  "hasSubtitle": true,
+  "description": "The dataset contains a broad set of macroeconomic and financial data for the UK stretching back in some cases to the C13th and with one or two benchmark estimates available for 1086, the year of the Domesday Book. The dataset was originally called the 'Three centuries of macroeconomic data' spreadsheet but has now been renamed given its broader coverage. Version 3 of the dataset has now been updated to 2016.\n\n\n### Content\n\nThe Excel file contains the original data. It contains hundreds of time series, while the csv is an extract of several dozen headline time series.\n\nIf you would like to see more of the data made available in CSV format; please let me know what you would like extracted and I'll be happy to add it. Please see `excel_sheet_names.csv` for details of what other data has yet to be unpacked.\n\n### Acknowledgements\n\nThis dataset was kindly made available by the [Bank of England][1]. You can find [the original dataset here][2].\n\n### Inspiration\n\n- Which metrics give similar answers about when the industrial revolution began? How clear is the cutoff point?\n\n### If you like\nIf you enjoyed this dataset, you might also like the [Allen-Unger Global Commodity Prices dataset](https://www.kaggle.com/sohier/allenunger-global-commodity-prices), which provides historic commodity prices from locations around the world.\n\n  [1]: http://www.bankofengland.co.uk\n  [2]: http://www.bankofengland.co.uk/research/Pages/datasets/default.aspx#",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "history",
+    "business",
+    "finance",
+    "banking",
+    "economics",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "davispeixoto/codenation-enem2",
+  "id_no": 86875,
+  "datasetSlugNullable": "codenation-enem2",
+  "ownerUserNullable": "davispeixoto",
+  "usabilityRatingNullable": 0.7352941176470589,
+  "titleNullable": "Codenation - Enem-2",
+  "subtitleNullable": "This is codenation challenge enem-2 datasets",
+  "descriptionNullable": "### Enem 2016\n\nIn Brazil there is a high school national grading exam called ENEM (Exame Nacional do Ensino M\u00e9dio) which takes place yearly, and sets grades for admission on most universities and colleges.\n\nThere is also a contest oriented website in Brazil called [Codenation](https://www.codenation.com.br/), and this dataset is relative to its [enem-2 contest](https://www.codenation.com.br/journey/data-science/challenge/enem-2.html) where we should learn regression by predicting some grades\n\n### Content\n\nWe have two datasets - train.csv e test.csv - for using to predict exam grades using regression. But the train file is a good amount of data from ENEM 2016 and contains most of the columns for those who would like to do some EDA.\n\n### Acknowledgements\n\nCodenation. Minist\u00e9rio da Educa\u00e7\u00e3o do Governo Federal do Brasil.\n\n\n### Inspiration\n\nCan we predict the math grade based on other information?",
+  "datasetId": 86875,
+  "datasetSlug": "codenation-enem2",
+  "hasDatasetSlug": true,
+  "ownerUser": "davispeixoto",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7352941176470589,
+  "hasUsabilityRating": true,
+  "totalViews": 10586,
+  "totalVotes": 31,
+  "totalDownloads": 974,
+  "title": "Codenation - Enem-2",
+  "hasTitle": true,
+  "subtitle": "This is codenation challenge enem-2 datasets",
+  "hasSubtitle": true,
+  "description": "### Enem 2016\n\nIn Brazil there is a high school national grading exam called ENEM (Exame Nacional do Ensino M\u00e9dio) which takes place yearly, and sets grades for admission on most universities and colleges.\n\nThere is also a contest oriented website in Brazil called [Codenation](https://www.codenation.com.br/), and this dataset is relative to its [enem-2 contest](https://www.codenation.com.br/journey/data-science/challenge/enem-2.html) where we should learn regression by predicting some grades\n\n### Content\n\nWe have two datasets - train.csv e test.csv - for using to predict exam grades using regression. But the train file is a good amount of data from ENEM 2016 and contains most of the columns for those who would like to do some EDA.\n\n### Acknowledgements\n\nCodenation. Minist\u00e9rio da Educa\u00e7\u00e3o do Governo Federal do Brasil.\n\n\n### Inspiration\n\nCan we predict the math grade based on other information?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "regression",
+    "primary and secondary schools"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

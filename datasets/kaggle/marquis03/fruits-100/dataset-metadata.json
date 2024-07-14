@@ -1,0 +1,41 @@
+{
+  "id": "marquis03/fruits-100",
+  "id_no": 3917599,
+  "datasetSlugNullable": "fruits-100",
+  "ownerUserNullable": "marquis03",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fruits 100",
+  "subtitleNullable": "100 Types of Fruit Image Classification",
+  "descriptionNullable": "The dataset contains 100 types of fruit images.\n\nIt can be used for model validation, performance evaluation, and model classification training.\n\nThe dataset includes training set train and validation set val, under the folder of train and val is categorized by folder, there are 2 sub-folders, the images of the same category label are under the same folder, the format of the images is JPG. it also contains the class name file classname.txt which corresponds to the label id in the labeling file.",
+  "datasetId": 3917599,
+  "datasetSlug": "fruits-100",
+  "hasDatasetSlug": true,
+  "ownerUser": "marquis03",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13607,
+  "totalVotes": 39,
+  "totalDownloads": 2400,
+  "title": "Fruits 100",
+  "hasTitle": true,
+  "subtitle": "100 Types of Fruit Image Classification",
+  "hasSubtitle": true,
+  "description": "The dataset contains 100 types of fruit images.\n\nIt can be used for model validation, performance evaluation, and model classification training.\n\nThe dataset includes training set train and validation set val, under the folder of train and val is categorized by folder, there are 2 sub-folders, the images of the same category label are under the same folder, the format of the images is JPG. it also contains the class name file classname.txt which corresponds to the label id in the labeling file.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "image",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

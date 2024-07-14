@@ -1,0 +1,40 @@
+{
+  "id": "/federal-firearm-licensees",
+  "id_no": 2491,
+  "datasetSlugNullable": "federal-firearm-licensees",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Federal Firearm Licences",
+  "subtitleNullable": "Active firearm sales licenses in the United States",
+  "descriptionNullable": "### Context\n\nFirearms sold in the United States must be licensed by the US Department of Justice Bureau of Alcohol, Tobacco, Firearms and Explosives. This dataset is a record of every firearm license which was still current as of July 2017.\n\n### Content\n\nThis dataset contains the names, license types, expiration dates, and locations of all Federal Firearms License (FFL) holders in the United States. The possible license types are:\n\n* 01\tDealer in Firearms Other Than Destructive Devices (Includes Gunsmiths)\n* 02\tPawnbroker in Firearms Other Than Destructive Devices\n* 03\tCollector of Curios and Relics\n* 06\tManufacturer of Ammunition for Firearms\n* 07\tManufacturer of Firearms Other Than Destructive Devices\n* 08\tImporter of Firearms Other Than Destructive Devices\n* 09\tDealer in Destructive Devices\n* 10\tManufacturer of Destructive Devices\n* 11\tImporter of Destructive Devices\n\n### Acknowledgements\n\nThis data is [published online](https://www.atf.gov/firearms/listing-federal-firearms-licensees-ffls-2017) in a tab-separated format by the Department of Justice Bureau of Alcohol, Tobacco, Firearms, and Explosives. It has been lightly retouched into a `CSV` file before publication here.\n\n### Inspiration\n\n* Can you geocode this data to determine where licensed gun shops are distributed?\n* What is the distribution of gun licenses across different types?",
+  "datasetId": 2491,
+  "datasetSlug": "federal-firearm-licensees",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 10493,
+  "totalVotes": 17,
+  "totalDownloads": 1092,
+  "title": "Federal Firearm Licences",
+  "hasTitle": true,
+  "subtitle": "Active firearm sales licenses in the United States",
+  "hasSubtitle": true,
+  "description": "### Context\n\nFirearms sold in the United States must be licensed by the US Department of Justice Bureau of Alcohol, Tobacco, Firearms and Explosives. This dataset is a record of every firearm license which was still current as of July 2017.\n\n### Content\n\nThis dataset contains the names, license types, expiration dates, and locations of all Federal Firearms License (FFL) holders in the United States. The possible license types are:\n\n* 01\tDealer in Firearms Other Than Destructive Devices (Includes Gunsmiths)\n* 02\tPawnbroker in Firearms Other Than Destructive Devices\n* 03\tCollector of Curios and Relics\n* 06\tManufacturer of Ammunition for Firearms\n* 07\tManufacturer of Firearms Other Than Destructive Devices\n* 08\tImporter of Firearms Other Than Destructive Devices\n* 09\tDealer in Destructive Devices\n* 10\tManufacturer of Destructive Devices\n* 11\tImporter of Destructive Devices\n\n### Acknowledgements\n\nThis data is [published online](https://www.atf.gov/firearms/listing-federal-firearms-licensees-ffls-2017) in a tab-separated format by the Department of Justice Bureau of Alcohol, Tobacco, Firearms, and Explosives. It has been lightly retouched into a `CSV` file before publication here.\n\n### Inspiration\n\n* Can you geocode this data to determine where licensed gun shops are distributed?\n* What is the distribution of gun licenses across different types?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "government",
+    "law"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

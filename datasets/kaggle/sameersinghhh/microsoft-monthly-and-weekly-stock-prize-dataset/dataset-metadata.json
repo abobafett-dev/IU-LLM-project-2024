@@ -1,0 +1,43 @@
+{
+  "id": "sameersinghhh/microsoft-monthly-and-weekly-stock-prize-dataset",
+  "id_no": 3838210,
+  "datasetSlugNullable": "microsoft-monthly-and-weekly-stock-prize-dataset",
+  "ownerUserNullable": "sameersinghhh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Microsoft Monthly and Weekly Stock Prize Dataset",
+  "subtitleNullable": "Comprehensive Dataset on monthly and weekly adjusted stock prizes of MicroSoft",
+  "descriptionNullable": "Title: \"Microsoft Stock Prices Dataset (1999-2023)\"\n\nDescription:\n\nThis Kaggle dataset provides a comprehensive historical record of monthly and weekly adjusted stock prices spanning the period from December 1999 to September 2023. It offers a valuable resource for researchers, analysts, and investors seeking to analyze and understand the price movements of various stocks over more than two decades.\n\nKey Features:\n-**Time Period**: The dataset covers a vast timeframe, allowing users to track stock price fluctuations over 24 years. This extensive historical data is essential for long-term investment analysis and trend identification.\n\n-**Granularity**: It includes both monthly and weekly data, providing users with flexibility in selecting the level of detail that suits their analysis. Monthly data allows for a broader perspective, while weekly data offers a closer look at short-term price changes.\n\n-**Adjusted Prices**: The dataset includes adjusted stock prices, which account for dividends, stock splits, and other corporate actions. Adjusted prices are crucial for accurate analysis, as they reflect the true investment return over time.\n\n-**Stock Universe**: The dataset encompasses a wide range of stocks from various sectors, enabling users to explore the performance of individual companies, industries, or market indices. This diversity of stocks makes it suitable for a variety of research and investment strategies.\n\n-**Data Quality**: The dataset is meticulously curated and quality-checked to ensure reliability and consistency. Users can confidently rely on this data for their quantitative analysis and modeling.\n\n-**File Formats**: The data is available in easily accessible file formats, making it compatible with popular data analysis tools such as Python, R, and Excel.\n\nPotential Use Cases:\n\n1.**Investment Strategy Development**: Investors can use this dataset to backtest investment strategies, assess the performance of portfolios, and identify potential opportunities for alpha generation.\n\n2.**Risk Management**: Financial analysts and risk managers can utilize the data to evaluate the historical volatility and risk associated with specific stocks or sectors.\n\n3.**Economic Research**: Researchers interested in the impact of economic events and policy changes on the stock market can analyze this data to draw insights into market dynamics.\n\n4.**Machine Learning and Predictive Modeling**: Data scientists can leverage this dataset to develop predictive models for stock price movements, sentiment analysis, or other financial applications.\n\n5.**Educational Purposes**: Students and educators can use the dataset for teaching and learning about financial markets, data analysis, and quantitative finance.\n\nPlease note that while this dataset offers valuable insights into historical stock prices, it is essential to conduct additional research and analysis before making investment decisions. Past performance is not indicative of future results, and stock market data should be used in conjunction with other relevant information and analysis techniques.",
+  "datasetId": 3838210,
+  "datasetSlug": "microsoft-monthly-and-weekly-stock-prize-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sameersinghhh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 694,
+  "totalVotes": 7,
+  "totalDownloads": 134,
+  "title": "Microsoft Monthly and Weekly Stock Prize Dataset",
+  "hasTitle": true,
+  "subtitle": "Comprehensive Dataset on monthly and weekly adjusted stock prizes of MicroSoft",
+  "hasSubtitle": true,
+  "description": "Title: \"Microsoft Stock Prices Dataset (1999-2023)\"\n\nDescription:\n\nThis Kaggle dataset provides a comprehensive historical record of monthly and weekly adjusted stock prices spanning the period from December 1999 to September 2023. It offers a valuable resource for researchers, analysts, and investors seeking to analyze and understand the price movements of various stocks over more than two decades.\n\nKey Features:\n-**Time Period**: The dataset covers a vast timeframe, allowing users to track stock price fluctuations over 24 years. This extensive historical data is essential for long-term investment analysis and trend identification.\n\n-**Granularity**: It includes both monthly and weekly data, providing users with flexibility in selecting the level of detail that suits their analysis. Monthly data allows for a broader perspective, while weekly data offers a closer look at short-term price changes.\n\n-**Adjusted Prices**: The dataset includes adjusted stock prices, which account for dividends, stock splits, and other corporate actions. Adjusted prices are crucial for accurate analysis, as they reflect the true investment return over time.\n\n-**Stock Universe**: The dataset encompasses a wide range of stocks from various sectors, enabling users to explore the performance of individual companies, industries, or market indices. This diversity of stocks makes it suitable for a variety of research and investment strategies.\n\n-**Data Quality**: The dataset is meticulously curated and quality-checked to ensure reliability and consistency. Users can confidently rely on this data for their quantitative analysis and modeling.\n\n-**File Formats**: The data is available in easily accessible file formats, making it compatible with popular data analysis tools such as Python, R, and Excel.\n\nPotential Use Cases:\n\n1.**Investment Strategy Development**: Investors can use this dataset to backtest investment strategies, assess the performance of portfolios, and identify potential opportunities for alpha generation.\n\n2.**Risk Management**: Financial analysts and risk managers can utilize the data to evaluate the historical volatility and risk associated with specific stocks or sectors.\n\n3.**Economic Research**: Researchers interested in the impact of economic events and policy changes on the stock market can analyze this data to draw insights into market dynamics.\n\n4.**Machine Learning and Predictive Modeling**: Data scientists can leverage this dataset to develop predictive models for stock price movements, sentiment analysis, or other financial applications.\n\n5.**Educational Purposes**: Students and educators can use the dataset for teaching and learning about financial markets, data analysis, and quantitative finance.\n\nPlease note that while this dataset offers valuable insights into historical stock prices, it is essential to conduct additional research and analysis before making investment decisions. Past performance is not indicative of future results, and stock market data should be used in conjunction with other relevant information and analysis techniques.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "time series analysis",
+    "tabular",
+    "investing",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

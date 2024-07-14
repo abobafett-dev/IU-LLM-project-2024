@@ -1,0 +1,44 @@
+{
+  "id": "alexandredj/rock-paper-scissors-dataset",
+  "id_no": 4473163,
+  "datasetSlugNullable": "rock-paper-scissors-dataset",
+  "ownerUserNullable": "alexandredj",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Rock-Paper-Scissors-Dataset",
+  "subtitleNullable": "My dataset contribution to Rock-Paper-Scissors CNN training algorithms.",
+  "descriptionNullable": "The Rock-Paper-Scissors image classification is a typical beginner's exercise when learning to train your own CNN models. In addition to existing datasets, I added my own pictures, especially to cover the hand shown palm-side, like raised naturally in front of the webcam. \n\nDataset specs:\n- Contents: about 2700 pictures of my own, my wife's and my son's hands (10 years old). \n- Coverage: Both sides of the hand as well as side pictures when rotating the hand\n- Background: Photos were taken on a grey uniform background with different lighting conditions\n- Organisation: Pictures are ordered in 3 classes directory: rock, paper and scissors\n- File format: PNGs, 300x300 px\n- Naming convention: [class_id.png]. Example: rock_5.png, paper_258.png\n\nMy git repo of this project includes notebooks to prepare and train the dataset, as well as tools to remove backgrounds. The final project includes the capture tool I developed and used to record these pictures. \nLink: https://github.com/alexdjulin/RockPaperScissorsCNN",
+  "datasetId": 4473163,
+  "datasetSlug": "rock-paper-scissors-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "alexandredj",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 1461,
+  "totalVotes": 9,
+  "totalDownloads": 196,
+  "title": "Rock-Paper-Scissors-Dataset",
+  "hasTitle": true,
+  "subtitle": "My dataset contribution to Rock-Paper-Scissors CNN training algorithms.",
+  "hasSubtitle": true,
+  "description": "The Rock-Paper-Scissors image classification is a typical beginner's exercise when learning to train your own CNN models. In addition to existing datasets, I added my own pictures, especially to cover the hand shown palm-side, like raised naturally in front of the webcam. \n\nDataset specs:\n- Contents: about 2700 pictures of my own, my wife's and my son's hands (10 years old). \n- Coverage: Both sides of the hand as well as side pictures when rotating the hand\n- Background: Photos were taken on a grey uniform background with different lighting conditions\n- Organisation: Pictures are ordered in 3 classes directory: rock, paper and scissors\n- File format: PNGs, 300x300 px\n- Naming convention: [class_id.png]. Example: rock_5.png, paper_258.png\n\nMy git repo of this project includes notebooks to prepare and train the dataset, as well as tools to remove backgrounds. The final project includes the capture tool I developed and used to record these pictures. \nLink: https://github.com/alexdjulin/RockPaperScissorsCNN",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer science",
+    "computer vision",
+    "deep learning",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

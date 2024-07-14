@@ -1,0 +1,39 @@
+{
+  "id": "xhlulu/covid19-public-health-news-by-cdc-and-who",
+  "id_no": 627950,
+  "datasetSlugNullable": "covid19-public-health-news-by-cdc-and-who",
+  "ownerUserNullable": "xhlulu",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "COVID-19 News by CDC and WHO",
+  "subtitleNullable": "All CDC and WHO newsroom releases concerning COVID-19",
+  "descriptionNullable": "### Context\n\nThis contains all the press releases, conference call transcripts, official statements, and other newsroom details published by CDC and WHO. \n\n\n### Method\n\nEverything was scraped using webscraper.io, and pre-processed with pandas. I did not modify any of the original content. The latest scrape was on April 22.\n\n### Sources\n\nAll the WHO data were retrieved from [here](https://www.who.int/news-room/detail/search-results?indexCatalogue=genericsearchindex1&searchQuery=*&wordsMode=AllWords&healthtopic=b6bd35a3cf4f48518e8085cb0068335b), and the CDC data were taken from [here](https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/coronavirus-2020.html).",
+  "datasetId": 627950,
+  "datasetSlug": "covid19-public-health-news-by-cdc-and-who",
+  "hasDatasetSlug": true,
+  "ownerUser": "xhlulu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 2188,
+  "totalVotes": 4,
+  "totalDownloads": 39,
+  "title": "COVID-19 News by CDC and WHO",
+  "hasTitle": true,
+  "subtitle": "All CDC and WHO newsroom releases concerning COVID-19",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis contains all the press releases, conference call transcripts, official statements, and other newsroom details published by CDC and WHO. \n\n\n### Method\n\nEverything was scraped using webscraper.io, and pre-processed with pandas. I did not modify any of the original content. The latest scrape was on April 22.\n\n### Sources\n\nAll the WHO data were retrieved from [here](https://www.who.int/news-room/detail/search-results?indexCatalogue=genericsearchindex1&searchQuery=*&wordsMode=AllWords&healthtopic=b6bd35a3cf4f48518e8085cb0068335b), and the CDC data were taken from [here](https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/coronavirus-2020.html).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "U.S. Government Works",
+      "name": "U.S. Government Works",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

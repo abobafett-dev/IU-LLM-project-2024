@@ -1,0 +1,44 @@
+{
+  "id": "debashis74017/bajaj-finance-stock-price-data-with-indicators",
+  "id_no": 2571627,
+  "datasetSlugNullable": "bajaj-finance-stock-price-data-with-indicators",
+  "ownerUserNullable": "debashis74017",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Bajaj Finance Stock Price Data with Indicators",
+  "subtitleNullable": "Baja Finance Stock data for Algo Trading",
+  "descriptionNullable": "**About Bajaj Finance Company**\n\nBajaj Finance Limited (BFL), a subsidiary of Bajaj Finserv, is an Indian non-banking financial company headquartered in Pune. \n\n**History**\nOriginally incorporated as Bajaj Auto Finance Limited on March 25, 1987, as a non-banking financial company, primarily focused on providing two and three-wheeler finance. After 11 years in the auto finance market, Bajaj Auto Finance Ltd launched its initial public issue of equity shares and was listed on the Bombay Stock Exchange and the National Stock Exchange of India. At the turn of the 20th century, the company ventured into the consumer durables finance sector and started offering small-size loans at zero interest rates. In the subsequent years, Bajaj Auto Finance diversified into business and property loans.\n\n**Funding and investments**\nThe parent company, Bajaj Finserv Limited, holds 57.28% of the total shares and has a controlling stake in the subsidiary. Other major investors include Maharashtra Scooters Limited, the Government of Singapore, Smallcap World Fund INC, and AXIS Long Term Equity Fund.\nAccording to an exchange filing in 2022, the company's assets under management surpassed Rs 2 lakh crore, a 31 percent increase.\n\n\n**Overview of Dataset**\n\n**Column Descriptions**\nThis dataset contains Bajaj Finance's historical daily prices.  Along with OHLC (Open, High, Low and Close price), many technical indicator data are calculated and published here. A list of all technical indicators is given below with a description.\n\n\"Nifty 50 data\" contains the below columns:\n\n1. Date - Trading date\n2. Open - Day's open price\n3. High - Day's high price\n4. Low - Day's low price\n5. Close - Day's close price\n6. sma5\n7. sma10\n8. sma15\n9. sma20\n10. ema5\n11. ema10\n12. ema15\n13. ema20\n14. upperband\n15. middleband\n16. lowerband\n17. HT_TRENDLINE\n18. KAMA10\n19. KAMA20\n20. KAMA30\n21. SAR\n22. TRIMA5\n23. TRIMA10\n24. TRIMA20\n25. ADX5\n26. ADX10\n27. ADX20\n28. APO\n29. CCI5\n30. CCI10\n31. CCI15\n32. macd510\n33. macd520\n34. macd1020\n35. macd1520\n36. macd1226\n37. MOM10\n38. MOM15\n39. MOM20\n40. ROC5\n41. ROC10\n42. ROC20\n43. PPO\n44. RSI14\n45. RSI8\n46. slowk\n47. slowd\n48. fastk\n49. fastd\n50. fastksr\n51. fastdsr\n52. ULTOSC\n53. WILLR\n54. ATR\n55. Trange\n56. TYPPRICE\n57. HT_DCPERIOD\n58. BETA\n\n\n**Motivation**\n- Data is uploaded for Research and Educational purposes.\n**Possible problem statements**\n- Univariate and Multi-variate time series forecasting of stock prices and index prices\n- Multi-variate data can be used to predict the trend of the stock price (Buy or Sell or Hold)\n- Different intraday or positional trading strategies can be built out of this multivariate data. [technical indicators are already added here]\n- EDA on time series data.",
+  "datasetId": 2571627,
+  "datasetSlug": "bajaj-finance-stock-price-data-with-indicators",
+  "hasDatasetSlug": true,
+  "ownerUser": "debashis74017",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 3505,
+  "totalVotes": 22,
+  "totalDownloads": 383,
+  "title": "Bajaj Finance Stock Price Data with Indicators",
+  "hasTitle": true,
+  "subtitle": "Baja Finance Stock data for Algo Trading",
+  "hasSubtitle": true,
+  "description": "**About Bajaj Finance Company**\n\nBajaj Finance Limited (BFL), a subsidiary of Bajaj Finserv, is an Indian non-banking financial company headquartered in Pune. \n\n**History**\nOriginally incorporated as Bajaj Auto Finance Limited on March 25, 1987, as a non-banking financial company, primarily focused on providing two and three-wheeler finance. After 11 years in the auto finance market, Bajaj Auto Finance Ltd launched its initial public issue of equity shares and was listed on the Bombay Stock Exchange and the National Stock Exchange of India. At the turn of the 20th century, the company ventured into the consumer durables finance sector and started offering small-size loans at zero interest rates. In the subsequent years, Bajaj Auto Finance diversified into business and property loans.\n\n**Funding and investments**\nThe parent company, Bajaj Finserv Limited, holds 57.28% of the total shares and has a controlling stake in the subsidiary. Other major investors include Maharashtra Scooters Limited, the Government of Singapore, Smallcap World Fund INC, and AXIS Long Term Equity Fund.\nAccording to an exchange filing in 2022, the company's assets under management surpassed Rs 2 lakh crore, a 31 percent increase.\n\n\n**Overview of Dataset**\n\n**Column Descriptions**\nThis dataset contains Bajaj Finance's historical daily prices.  Along with OHLC (Open, High, Low and Close price), many technical indicator data are calculated and published here. A list of all technical indicators is given below with a description.\n\n\"Nifty 50 data\" contains the below columns:\n\n1. Date - Trading date\n2. Open - Day's open price\n3. High - Day's high price\n4. Low - Day's low price\n5. Close - Day's close price\n6. sma5\n7. sma10\n8. sma15\n9. sma20\n10. ema5\n11. ema10\n12. ema15\n13. ema20\n14. upperband\n15. middleband\n16. lowerband\n17. HT_TRENDLINE\n18. KAMA10\n19. KAMA20\n20. KAMA30\n21. SAR\n22. TRIMA5\n23. TRIMA10\n24. TRIMA20\n25. ADX5\n26. ADX10\n27. ADX20\n28. APO\n29. CCI5\n30. CCI10\n31. CCI15\n32. macd510\n33. macd520\n34. macd1020\n35. macd1520\n36. macd1226\n37. MOM10\n38. MOM15\n39. MOM20\n40. ROC5\n41. ROC10\n42. ROC20\n43. PPO\n44. RSI14\n45. RSI8\n46. slowk\n47. slowd\n48. fastk\n49. fastd\n50. fastksr\n51. fastdsr\n52. ULTOSC\n53. WILLR\n54. ATR\n55. Trange\n56. TYPPRICE\n57. HT_DCPERIOD\n58. BETA\n\n\n**Motivation**\n- Data is uploaded for Research and Educational purposes.\n**Possible problem statements**\n- Univariate and Multi-variate time series forecasting of stock prices and index prices\n- Multi-variate data can be used to predict the trend of the stock price (Buy or Sell or Hold)\n- Different intraday or positional trading strategies can be built out of this multivariate data. [technical indicators are already added here]\n- EDA on time series data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "sports",
+    "finance",
+    "banking",
+    "time series analysis",
+    "logistic regression",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

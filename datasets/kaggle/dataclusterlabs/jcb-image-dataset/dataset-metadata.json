@@ -1,0 +1,43 @@
+{
+  "id": "dataclusterlabs/jcb-image-dataset",
+  "id_no": 2811741,
+  "datasetSlugNullable": "jcb-image-dataset",
+  "ownerUserNullable": "dataclusterlabs",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Excavator Image Dataset | Construction Vehicle",
+  "subtitleNullable": "Excavator Images, construction images",
+  "descriptionNullable": "### **This dataset is collected by DataCluster Labs. To download full dataset or to submit a request for your new data collection needs, please drop a mail to:&nbsp;[sales@datacluster.ai](mailto:sales@datacluster.ai)**\n\nThis dataset is an extremely challenging set of over 3,000+ images of excavator vehicles from multiple construction site. These images captured and crowdsourced from over 200+ different locations, where each image is **manually reviewed and verified** by computer vision professionals at Datacluster Labs. It contains a wide variety of excavator vehicles which are used in construction site. You can check our other datasets for other construction vehicle classes. \n\n### **Dataset Features**\n\n- Dataset size : 3000+ images\n- Captured by  : Over 1000+ crowdsource contributors\n- Resolution   : HD and above (1920x1080 and above)\n- Location     : Captured with 200+ locations \n- Diversity    : Various lighting conditions like day, night, varied distances, view points etc.\n- Device used  : Captured using mobile phones in 2020-2022  \n- Usage \t   : Vehicle detection, construction vehicle detection etc.\n\n### Available Annotation formats\n\nCOCO, YOLO, PASCAL-VOC, Tf-Record\n\n***The images in this dataset are exclusively owned by Data Cluster Labs and were not downloaded from the internet. To access a larger portion of the training dataset for research and commercial purposes, a license can be purchased. Contact us at sales@datacluster.ai Visit www.datacluster.ai to know more.**    \n",
+  "datasetId": 2811741,
+  "datasetSlug": "jcb-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "dataclusterlabs",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 2886,
+  "totalVotes": 9,
+  "totalDownloads": 413,
+  "title": "Excavator Image Dataset | Construction Vehicle",
+  "hasTitle": true,
+  "subtitle": "Excavator Images, construction images",
+  "hasSubtitle": true,
+  "description": "### **This dataset is collected by DataCluster Labs. To download full dataset or to submit a request for your new data collection needs, please drop a mail to:&nbsp;[sales@datacluster.ai](mailto:sales@datacluster.ai)**\n\nThis dataset is an extremely challenging set of over 3,000+ images of excavator vehicles from multiple construction site. These images captured and crowdsourced from over 200+ different locations, where each image is **manually reviewed and verified** by computer vision professionals at Datacluster Labs. It contains a wide variety of excavator vehicles which are used in construction site. You can check our other datasets for other construction vehicle classes. \n\n### **Dataset Features**\n\n- Dataset size : 3000+ images\n- Captured by  : Over 1000+ crowdsource contributors\n- Resolution   : HD and above (1920x1080 and above)\n- Location     : Captured with 200+ locations \n- Diversity    : Various lighting conditions like day, night, varied distances, view points etc.\n- Device used  : Captured using mobile phones in 2020-2022  \n- Usage \t   : Vehicle detection, construction vehicle detection etc.\n\n### Available Annotation formats\n\nCOCO, YOLO, PASCAL-VOC, Tf-Record\n\n***The images in this dataset are exclusively owned by Data Cluster Labs and were not downloaded from the internet. To access a larger portion of the training dataset for research and commercial purposes, a license can be purchased. Contact us at sales@datacluster.ai Visit www.datacluster.ai to know more.**    \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "computer vision",
+    "deep learning",
+    "image",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

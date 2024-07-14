@@ -1,0 +1,44 @@
+{
+  "id": "akhatova/pcb-defects",
+  "id_no": 1364422,
+  "datasetSlugNullable": "pcb-defects",
+  "ownerUserNullable": "akhatova",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "PCB Defects",
+  "subtitleNullable": "PCB dataset containing 1386 images with 6 kinds of defects",
+  "descriptionNullable": "### Context\n\nThe Open Lab on Human Robot Interaction of Peking University has released the PCB defect dataset. \n6 types of defects are made by photoshop, a graphics editor published by Adobe Systems. The defects defined in the dataset are: missing hole, mouse bite, open circuit, short, spur, and spurious copper\n\n\n### Content\n\nThis is a public synthetic PCB dataset containing 1386 images with 6 kinds of defetcs (missing hole, mouse bite, open circuit, short, spur, spurious copper) for the use of detection, classification and registration tasks.\n\n\n### Acknowledgements\n\nPCB dataset was downloaded using public link from https://github.com/Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB\n\nAuthors of dataset: Huang, Weibo, and Peng Wei. \"A PCB dataset for defects detection and classification.\" arXiv preprint arXiv:1901.08204 (2019).",
+  "datasetId": 1364422,
+  "datasetSlug": "pcb-defects",
+  "hasDatasetSlug": true,
+  "ownerUser": "akhatova",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 49304,
+  "totalVotes": 54,
+  "totalDownloads": 5589,
+  "title": "PCB Defects",
+  "hasTitle": true,
+  "subtitle": "PCB dataset containing 1386 images with 6 kinds of defects",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe Open Lab on Human Robot Interaction of Peking University has released the PCB defect dataset. \n6 types of defects are made by photoshop, a graphics editor published by Adobe Systems. The defects defined in the dataset are: missing hole, mouse bite, open circuit, short, spur, and spurious copper\n\n\n### Content\n\nThis is a public synthetic PCB dataset containing 1386 images with 6 kinds of defetcs (missing hole, mouse bite, open circuit, short, spur, spurious copper) for the use of detection, classification and registration tasks.\n\n\n### Acknowledgements\n\nPCB dataset was downloaded using public link from https://github.com/Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB\n\nAuthors of dataset: Huang, Weibo, and Peng Wei. \"A PCB dataset for defects detection and classification.\" arXiv preprint arXiv:1901.08204 (2019).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "electronics",
+    "engineering",
+    "intermediate",
+    "advanced",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

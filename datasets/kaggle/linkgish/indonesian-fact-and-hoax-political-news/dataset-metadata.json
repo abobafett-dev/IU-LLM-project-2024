@@ -1,0 +1,47 @@
+{
+  "id": "linkgish/indonesian-fact-and-hoax-political-news",
+  "id_no": 3033808,
+  "datasetSlugNullable": "indonesian-fact-and-hoax-political-news",
+  "ownerUserNullable": "linkgish",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Indonesian Fact and Hoax Political News",
+  "subtitleNullable": "Political news scrapped from CNN, Kompas, Tempo, and Turnbackhoax",
+  "descriptionNullable": "# Context\n\nDataset about Political News in Bahasa Indonesia, contain RAW and Cleaned data\n\n# Source\n\nInformation in this dataset scrapped from CNN, Kompas, Tempo, and Turnbackhoax. \n\n# Tool\n\nTools used for scrapping is available on my own repository https://github.com/rizquuula/News-Scrapping\n\n# License \n\nMIT License",
+  "datasetId": 3033808,
+  "datasetSlug": "indonesian-fact-and-hoax-political-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "linkgish",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 4850,
+  "totalVotes": 15,
+  "totalDownloads": 893,
+  "title": "Indonesian Fact and Hoax Political News",
+  "hasTitle": true,
+  "subtitle": "Political news scrapped from CNN, Kompas, Tempo, and Turnbackhoax",
+  "hasSubtitle": true,
+  "description": "# Context\n\nDataset about Political News in Bahasa Indonesia, contain RAW and Cleaned data\n\n# Source\n\nInformation in this dataset scrapped from CNN, Kompas, Tempo, and Turnbackhoax. \n\n# Tool\n\nTools used for scrapping is available on my own repository https://github.com/rizquuula/News-Scrapping\n\n# License \n\nMIT License",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "politics",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "radhinghaida",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "warcoder/lightweight-dataset-for-maize-classification",
+  "id_no": 3716480,
+  "datasetSlugNullable": "lightweight-dataset-for-maize-classification",
+  "ownerUserNullable": "warcoder",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Lightweight Dataset for Maize Classification",
+  "subtitleNullable": "Lightweight Dataset for Maize Classification on Resource-Constrained Devices",
+  "descriptionNullable": "The dataset comprises images of three types of maize seeds: Wang Dataa, Sanzal Sima, and Bihilifa, sourced from Heritage Seeds Ghana. These maize varieties are commonly cultivated in the northern region of Ghana. At the collection point, Heritage Seeds Ghana manually sorted and labeled the images as either 'good' or 'bad' for each of the three varieties. The 'good' category represented high-quality maize seeds suitable for productive yields, while the 'bad' category included damaged, infected, or low-quality seeds not suitable for production. The images were captured using a 12-megapixel phone camera, resulting in original JPEG images of varying dimensions. Additionally, the augmented images were standardized to a size of 128 by 128. During capture, a blue background was used to ensure consistency and clarity during daylight, with no specific attention to lighting conditions. The images were then organized into their respective classes of 'good' and 'bad.' Overall, the dataset for this study comprises both raw (4,846 images) and augmented (28,910 images) color images.\n\n",
+  "datasetId": 3716480,
+  "datasetSlug": "lightweight-dataset-for-maize-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "warcoder",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 1472,
+  "totalVotes": 20,
+  "totalDownloads": 194,
+  "title": "Lightweight Dataset for Maize Classification",
+  "hasTitle": true,
+  "subtitle": "Lightweight Dataset for Maize Classification on Resource-Constrained Devices",
+  "hasSubtitle": true,
+  "description": "The dataset comprises images of three types of maize seeds: Wang Dataa, Sanzal Sima, and Bihilifa, sourced from Heritage Seeds Ghana. These maize varieties are commonly cultivated in the northern region of Ghana. At the collection point, Heritage Seeds Ghana manually sorted and labeled the images as either 'good' or 'bad' for each of the three varieties. The 'good' category represented high-quality maize seeds suitable for productive yields, while the 'bad' category included damaged, infected, or low-quality seeds not suitable for production. The images were captured using a 12-megapixel phone camera, resulting in original JPEG images of varying dimensions. Additionally, the augmented images were standardized to a size of 128 by 128. During capture, a blue background was used to ensure consistency and clarity during daylight, with no specific attention to lighting conditions. The images were then organized into their respective classes of 'good' and 'bad.' Overall, the dataset for this study comprises both raw (4,846 images) and augmented (28,910 images) color images.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "agriculture",
+    "beginner",
+    "computer vision",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

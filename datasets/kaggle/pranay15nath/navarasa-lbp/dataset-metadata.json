@@ -1,0 +1,49 @@
+{
+  "id": "pranay15nath/navarasa-lbp",
+  "id_no": 3291152,
+  "datasetSlugNullable": "navarasa-lbp",
+  "ownerUserNullable": "pranay15nath",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "NAVARASA LBP",
+  "subtitleNullable": "\"Enhancing Emotion Recognition: Local Binary Pattern-Induced NAVARASA dataset\"",
+  "descriptionNullable": "The Local Binary Pattern (LBP) induced NAVARASA dataset is an extension of the NAVARASA dataset, where each facial emotion image is enhanced using the Local Binary Pattern technique. LBP enhances the texture information in facial images, making them more suitable for facial emotion recognition tasks. This dataset includes images representing nine basic emotions, each enhanced with LBP, providing a rich resource for training and evaluating facial emotion recognition algorithms with improved texture features.",
+  "datasetId": 3291152,
+  "datasetSlug": "navarasa-lbp",
+  "hasDatasetSlug": true,
+  "ownerUser": "pranay15nath",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 18,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "NAVARASA LBP",
+  "hasTitle": true,
+  "subtitle": "\"Enhancing Emotion Recognition: Local Binary Pattern-Induced NAVARASA dataset\"",
+  "hasSubtitle": true,
+  "description": "The Local Binary Pattern (LBP) induced NAVARASA dataset is an extension of the NAVARASA dataset, where each facial emotion image is enhanced using the Local Binary Pattern technique. LBP enhances the texture information in facial images, making them more suitable for facial emotion recognition tasks. This dataset includes images representing nine basic emotions, each enhanced with LBP, providing a rich resource for training and evaluating facial emotion recognition algorithms with improved texture features.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "science and technology",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "sarasij123",
+      "role": "writer"
+    },
+    {
+      "username": "surajit651",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

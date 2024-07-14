@@ -1,0 +1,44 @@
+{
+  "id": "varpit94/alibaba-stock-data",
+  "id_no": 1529737,
+  "datasetSlugNullable": "alibaba-stock-data",
+  "ownerUserNullable": "varpit94",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Alibaba Stock Data",
+  "subtitleNullable": "BABA | Nasdaq Real Time Price | Currency in USD",
+  "descriptionNullable": "### What is Alibaba?\nAlibaba Group Holding Limited, also known as Alibaba Group and Alibaba.com, is a Chinese multinational technology company specializing in e-commerce, retail, Internet, and technology. Founded on 28 June 1999 in Hangzhou, Zhejiang, the company provides consumer-to-consumer (C2C), business-to-consumer (B2C), and business-to-business (B2B) sales services via web portals, as well as electronic payment services, shopping search engines and cloud computing services. It owns and operates a diverse portfolio of companies around the world in numerous business sectors.\n\n### Data Description\nThis dataset provides the history of daily prices of Alibaba stock (BABA). All the column descriptions are provided. Currency is USD.",
+  "datasetId": 1529737,
+  "datasetSlug": "alibaba-stock-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "varpit94",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 14464,
+  "totalVotes": 39,
+  "totalDownloads": 1726,
+  "title": "Alibaba Stock Data",
+  "hasTitle": true,
+  "subtitle": "BABA | Nasdaq Real Time Price | Currency in USD",
+  "hasSubtitle": true,
+  "description": "### What is Alibaba?\nAlibaba Group Holding Limited, also known as Alibaba Group and Alibaba.com, is a Chinese multinational technology company specializing in e-commerce, retail, Internet, and technology. Founded on 28 June 1999 in Hangzhou, Zhejiang, the company provides consumer-to-consumer (C2C), business-to-consumer (B2C), and business-to-business (B2B) sales services via web portals, as well as electronic payment services, shopping search engines and cloud computing services. It owns and operates a diverse portfolio of companies around the world in numerous business sectors.\n\n### Data Description\nThis dataset provides the history of daily prices of Alibaba stock (BABA). All the column descriptions are provided. Currency is USD.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "time series analysis",
+    "e-commerce services",
+    "investing",
+    "currencies and foreign exchange",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "jpalmer2/football-soccor-team-shot-player-stats-1421",
+  "id_no": 1606773,
+  "datasetSlugNullable": "football-soccor-team-shot-player-stats-1421",
+  "ownerUserNullable": "jpalmer2",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Football (Soccor) Team, Shot & Player stats 13-21",
+  "subtitleNullable": "Team, Shot, Match and Player data from various leagues in seasons 13/14-20/21",
+  "descriptionNullable": "### Context\n\nUpgrade from my previous dataset - there is now information regarding players and shots as well as the previous team and match data for each of the 5 major leagues from 13/14 to 20/21, as well as the RFPL. \n\n\n### Content\n\nEvery stat that Understat had - it's all here. Computationally, it took its time and it's still incomplete - however I thought I'd put this out there as the only leagues with anything missing are Ligue 1 and the RFPL.\n\n\n### Acknowledgements\n\nhttps://understat.com/ - great service for all your football (soccor) stat needs.\n\n\n### Inspiration\n\nI really enjoy football and data - mixing the two into one on Kaggle was a fun summer project in Data engineering & Data Science ahead of the new season! On my other dataset - I have a notebook showing a Neural Network being used to track probability of matches being won/drawn/lost by each team in a given game.",
+  "datasetId": 1606773,
+  "datasetSlug": "football-soccor-team-shot-player-stats-1421",
+  "hasDatasetSlug": true,
+  "ownerUser": "jpalmer2",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 2377,
+  "totalVotes": 8,
+  "totalDownloads": 206,
+  "title": "Football (Soccor) Team, Shot & Player stats 13-21",
+  "hasTitle": true,
+  "subtitle": "Team, Shot, Match and Player data from various leagues in seasons 13/14-20/21",
+  "hasSubtitle": true,
+  "description": "### Context\n\nUpgrade from my previous dataset - there is now information regarding players and shots as well as the previous team and match data for each of the 5 major leagues from 13/14 to 20/21, as well as the RFPL. \n\n\n### Content\n\nEvery stat that Understat had - it's all here. Computationally, it took its time and it's still incomplete - however I thought I'd put this out there as the only leagues with anything missing are Ligue 1 and the RFPL.\n\n\n### Acknowledgements\n\nhttps://understat.com/ - great service for all your football (soccor) stat needs.\n\n\n### Inspiration\n\nI really enjoy football and data - mixing the two into one on Kaggle was a fun summer project in Data engineering & Data Science ahead of the new season! On my other dataset - I have a notebook showing a Neural Network being used to track probability of matches being won/drawn/lost by each team in a given game.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "europe",
+    "sports",
+    "computer science",
+    "beginner",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

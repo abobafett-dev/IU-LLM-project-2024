@@ -1,0 +1,42 @@
+{
+  "id": "prasertk/global-landocean-temperature-index",
+  "id_no": 1937618,
+  "datasetSlugNullable": "global-landocean-temperature-index",
+  "ownerUserNullable": "prasertk",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Global Land-Ocean Temperature Index from 1880-2021",
+  "subtitleNullable": "NASA's Goddard Institute for Space Studies (GISS)",
+  "descriptionNullable": "### Context\n\n\"The change in global surface temperature relative to 1951-1980 average temperatures. Nineteen of the hottest years have occurred since 2000, with the exception of 1998, which was helped by a very strong El Ni\u00f1o. The year 2020 tied with 2016 for the hottest year on record since record-keeping began in 1880 (source: NASA/GISS).\" (https://climate.nasa.gov/vital-signs/global-temperature/)\n\n\n### Acknowledgements\n\nData source: https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt\n\n",
+  "datasetId": 1937618,
+  "datasetSlug": "global-landocean-temperature-index",
+  "hasDatasetSlug": true,
+  "ownerUser": "prasertk",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 4702,
+  "totalVotes": 12,
+  "totalDownloads": 329,
+  "title": "Global Land-Ocean Temperature Index from 1880-2021",
+  "hasTitle": true,
+  "subtitle": "NASA's Goddard Institute for Space Studies (GISS)",
+  "hasSubtitle": true,
+  "description": "### Context\n\n\"The change in global surface temperature relative to 1951-1980 average temperatures. Nineteen of the hottest years have occurred since 2000, with the exception of 1998, which was helped by a very strong El Ni\u00f1o. The year 2020 tied with 2016 for the hottest year on record since record-keeping began in 1880 (source: NASA/GISS).\" (https://climate.nasa.gov/vital-signs/global-temperature/)\n\n\n### Acknowledgements\n\nData source: https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth science",
+    "weather and climate",
+    "science and technology",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

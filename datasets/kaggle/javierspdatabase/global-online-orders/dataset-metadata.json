@@ -1,0 +1,43 @@
+{
+  "id": "javierspdatabase/global-online-orders",
+  "id_no": 3825329,
+  "datasetSlugNullable": "global-online-orders",
+  "ownerUserNullable": "javierspdatabase",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Global Online Orders",
+  "subtitleNullable": "Business Data Analysis: Exploration, Visualization, and Insights",
+  "descriptionNullable": "## Dataset Overview\n\n**Dataset Name**:\n\"Nuestro Amazon\" E-Commerce Dataset\n\n**General Description**:\nThis dataset represents an e-commerce database containing information about products, categories, customers, orders, and more. The data is structured to facilitate analysis and insights into various aspects of an e-commerce business.\n\n**Structure and Attributes**:\nThe dataset consists of eight tables: categories, customers, employees, orders, ordersdetails, products, shippers, and suppliers. These tables encompass key information such as product details, customer information, order details.\n\n**Data Source**:\nThe data was generated for educational and demonstration purposes to simulate an e-commerce environment. It is not sourced from a real-world e-commerce platform.\n\n**Usage and Applications**:\nThis dataset can be utilized for various purposes, including market basket analysis, customer segmentation, sales trends analysis, and supply chain optimization. Analysts and data scientists can derive valuable insights to improve business strategies.\n\n**Acknowledgments and References**:\nThe dataset was created for educational use. No specific external sources were referenced for this dataset.\n\n## Explore Interactive Visualizations\n\n**\"Quantity per country\"** in this [Kaggle notebook](https://www.kaggle.com/code/javierspdatabase/quantity-per-country) or on [Tableau](https://public.tableau.com/views/GlobalOnlineOrders/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link).\n\n**\"Orders by country\"** in this [Kaggle notebook](https://www.kaggle.com/code/javierspdatabase/orders-by-country) or on [Tableau](https://public.tableau.com/views/OrdersbyCountry_16964451116120/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link).\n\n## Data Analysis\n\n**\"Data Analysis of Online Orders\"** in this [Kaggle notebook] (https://www.kaggle.com/code/javierspdatabase/data-analysis-of-online-orders)\n\n**\"Data Visualization and Analysis in R\"** in this [Kaggle notebook] (https://www.kaggle.com/code/javierspdatabase/data-visualization-and-analysis-in-r)",
+  "datasetId": 3825329,
+  "datasetSlug": "global-online-orders",
+  "hasDatasetSlug": true,
+  "ownerUser": "javierspdatabase",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10578,
+  "totalVotes": 53,
+  "totalDownloads": 2141,
+  "title": "Global Online Orders",
+  "hasTitle": true,
+  "subtitle": "Business Data Analysis: Exploration, Visualization, and Insights",
+  "hasSubtitle": true,
+  "description": "## Dataset Overview\n\n**Dataset Name**:\n\"Nuestro Amazon\" E-Commerce Dataset\n\n**General Description**:\nThis dataset represents an e-commerce database containing information about products, categories, customers, orders, and more. The data is structured to facilitate analysis and insights into various aspects of an e-commerce business.\n\n**Structure and Attributes**:\nThe dataset consists of eight tables: categories, customers, employees, orders, ordersdetails, products, shippers, and suppliers. These tables encompass key information such as product details, customer information, order details.\n\n**Data Source**:\nThe data was generated for educational and demonstration purposes to simulate an e-commerce environment. It is not sourced from a real-world e-commerce platform.\n\n**Usage and Applications**:\nThis dataset can be utilized for various purposes, including market basket analysis, customer segmentation, sales trends analysis, and supply chain optimization. Analysts and data scientists can derive valuable insights to improve business strategies.\n\n**Acknowledgments and References**:\nThe dataset was created for educational use. No specific external sources were referenced for this dataset.\n\n## Explore Interactive Visualizations\n\n**\"Quantity per country\"** in this [Kaggle notebook](https://www.kaggle.com/code/javierspdatabase/quantity-per-country) or on [Tableau](https://public.tableau.com/views/GlobalOnlineOrders/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link).\n\n**\"Orders by country\"** in this [Kaggle notebook](https://www.kaggle.com/code/javierspdatabase/orders-by-country) or on [Tableau](https://public.tableau.com/views/OrdersbyCountry_16964451116120/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link).\n\n## Data Analysis\n\n**\"Data Analysis of Online Orders\"** in this [Kaggle notebook] (https://www.kaggle.com/code/javierspdatabase/data-analysis-of-online-orders)\n\n**\"Data Visualization and Analysis in R\"** in this [Kaggle notebook] (https://www.kaggle.com/code/javierspdatabase/data-visualization-and-analysis-in-r)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "data visualization",
+    "data analytics",
+    "bigquery",
+    "sql"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

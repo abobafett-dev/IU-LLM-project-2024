@@ -1,0 +1,43 @@
+{
+  "id": "sulphatet/daily-weather-data-40-years",
+  "id_no": 2691708,
+  "datasetSlugNullable": "daily-weather-data-40-years",
+  "ownerUserNullable": "sulphatet",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "daily weather data: 40 years ",
+  "subtitleNullable": "contains data entries of weather in Hyderabad, India",
+  "descriptionNullable": "ICRISAT daily weather data is collected since 1978.\n\n## ABOUT ICRISAT: \nThe International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) is an international non-profit organization that undertakes scientific research for development, headquartered in Patancheru (Hyderabad, Telangana, India) with several regional centers (Bamako (Mali), Nairobi (Kenya) and research stations (Niamey (Niger), Kano (Nigeria), Lilongwe (Malawi), Addis Ababa (Ethiopia), Bulawayo (Zimbabwe). It was founded in 1972 by a consortium of organisations convened by the Ford and the Rockefeller foundations. Its charter was signed by the FAO and the UNDP.\n\nSince its inception, host country India has granted a special status to ICRISAT as a UN Organization operating in the Indian territory making it eligible for special immunities and tax privileges. \n\n### Dataset Research ideas:\n&gt; -&gt; Find rate of rainfall, predict potential drought conditions.\n-&gt; Perform time-series analysis and predict the general climate of the area.\n-&gt; Research correlation between different parameters, rain vs wind etc.\n\n### CITATIONS\n&gt; @data{D2/B3NNUB_2016,\nauthor = {ICRISAT Development Center},\npublisher = {ICRISAT Dataverse},\ntitle = {{ICRISAT daily weather data : 40 years (1978-2018)}},\nUNF = {UNF:6:pq7r+TwV9NxdyaU4VUN/KA==},\nyear = {2016},\nversion = {V3},\ndoi = {10.21421/D2/B3NNUB},\nurl = {https://doi.org/10.21421/D2/B3NNUB}\n}",
+  "datasetId": 2691708,
+  "datasetSlug": "daily-weather-data-40-years",
+  "hasDatasetSlug": true,
+  "ownerUser": "sulphatet",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 6956,
+  "totalVotes": 38,
+  "totalDownloads": 1226,
+  "title": "daily weather data: 40 years ",
+  "hasTitle": true,
+  "subtitle": "contains data entries of weather in Hyderabad, India",
+  "hasSubtitle": true,
+  "description": "ICRISAT daily weather data is collected since 1978.\n\n## ABOUT ICRISAT: \nThe International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) is an international non-profit organization that undertakes scientific research for development, headquartered in Patancheru (Hyderabad, Telangana, India) with several regional centers (Bamako (Mali), Nairobi (Kenya) and research stations (Niamey (Niger), Kano (Nigeria), Lilongwe (Malawi), Addis Ababa (Ethiopia), Bulawayo (Zimbabwe). It was founded in 1972 by a consortium of organisations convened by the Ford and the Rockefeller foundations. Its charter was signed by the FAO and the UNDP.\n\nSince its inception, host country India has granted a special status to ICRISAT as a UN Organization operating in the Indian territory making it eligible for special immunities and tax privileges. \n\n### Dataset Research ideas:\n&gt; -&gt; Find rate of rainfall, predict potential drought conditions.\n-&gt; Perform time-series analysis and predict the general climate of the area.\n-&gt; Research correlation between different parameters, rain vs wind etc.\n\n### CITATIONS\n&gt; @data{D2/B3NNUB_2016,\nauthor = {ICRISAT Development Center},\npublisher = {ICRISAT Dataverse},\ntitle = {{ICRISAT daily weather data : 40 years (1978-2018)}},\nUNF = {UNF:6:pq7r+TwV9NxdyaU4VUN/KA==},\nyear = {2016},\nversion = {V3},\ndoi = {10.21421/D2/B3NNUB},\nurl = {https://doi.org/10.21421/D2/B3NNUB}\n}",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "bayesian statistics",
+    "weather and climate",
+    "exploratory data analysis",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

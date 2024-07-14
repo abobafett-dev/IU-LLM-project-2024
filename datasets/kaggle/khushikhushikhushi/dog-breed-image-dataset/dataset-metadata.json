@@ -1,0 +1,42 @@
+{
+  "id": "khushikhushikhushi/dog-breed-image-dataset",
+  "id_no": 5219537,
+  "datasetSlugNullable": "dog-breed-image-dataset",
+  "ownerUserNullable": "khushikhushikhushi",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Dog Breed Image Dataset",
+  "subtitleNullable": "Comprehensive Image Dataset for 10 Popular Dog Breeds",
+  "descriptionNullable": "### Description\n\nThis dataset contains a collection of images for 10 different dog breeds, meticulously gathered and organized to facilitate various computer vision tasks such as image classification and object detection. The dataset includes the following breeds:\n\n- **Golden Retriever**\n- **German Shepherd**\n- **Labrador Retriever**\n- **Bulldog**\n- **Beagle**\n- **Poodle**\n- **Rottweiler**\n- **Yorkshire Terrier**\n- **Boxer**\n- **Dachshund**\n\nEach breed is represented by 100 images, stored in separate directories named after the respective breed. The images have been curated to ensure diversity and relevance, making this dataset a valuable resource for training and evaluating machine learning models in the field of computer vision.\n\n",
+  "datasetId": 5219537,
+  "datasetSlug": "dog-breed-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "khushikhushikhushi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2118,
+  "totalVotes": 26,
+  "totalDownloads": 457,
+  "title": "Dog Breed Image Dataset",
+  "hasTitle": true,
+  "subtitle": "Comprehensive Image Dataset for 10 Popular Dog Breeds",
+  "hasSubtitle": true,
+  "description": "### Description\n\nThis dataset contains a collection of images for 10 different dog breeds, meticulously gathered and organized to facilitate various computer vision tasks such as image classification and object detection. The dataset includes the following breeds:\n\n- **Golden Retriever**\n- **German Shepherd**\n- **Labrador Retriever**\n- **Bulldog**\n- **Beagle**\n- **Poodle**\n- **Rottweiler**\n- **Yorkshire Terrier**\n- **Boxer**\n- **Dachshund**\n\nEach breed is represented by 100 images, stored in separate directories named after the respective breed. The images have been curated to ensure diversity and relevance, making this dataset a valuable resource for training and evaluating machine learning models in the field of computer vision.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "intermediate",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

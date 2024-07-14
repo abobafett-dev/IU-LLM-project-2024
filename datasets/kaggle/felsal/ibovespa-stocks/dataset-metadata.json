@@ -1,0 +1,42 @@
+{
+  "id": "felsal/ibovespa-stocks",
+  "id_no": 371866,
+  "datasetSlugNullable": "ibovespa-stocks",
+  "ownerUserNullable": "felsal",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "ibovespa-stocks",
+  "subtitleNullable": "Stocks from the Brazilian stock exchange",
+  "descriptionNullable": "# Ibovespa Stocks\n\n### Context\n\nHere you will find information about all the stocks negotiated in the [B3 stock exchange](http://www.b3.com.br/en_us/) from 1994 to 2020. All the stocks that compose the [Ibovespa Index](http://www.bmfbovespa.com.br/pt_br/produtos/indices/indices-amplos/indice-ibovespa-ibovespa-composicao-da-carteira.htm) are present in this dataset.\n\n\n### Acknowledgements\nAll data presented here was constructed by the information provided by [B3](http://www.b3.com.br/pt_br/) in [this site](http://www.b3.com.br/en_us/market-data-and-indices/data-services/market-data/historical-data/equities/historical-quotes/).",
+  "datasetId": 371866,
+  "datasetSlug": "ibovespa-stocks",
+  "hasDatasetSlug": true,
+  "ownerUser": "felsal",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 20441,
+  "totalVotes": 67,
+  "totalDownloads": 1789,
+  "title": "ibovespa-stocks",
+  "hasTitle": true,
+  "subtitle": "Stocks from the Brazilian stock exchange",
+  "hasSubtitle": true,
+  "description": "# Ibovespa Stocks\n\n### Context\n\nHere you will find information about all the stocks negotiated in the [B3 stock exchange](http://www.b3.com.br/en_us/) from 1994 to 2020. All the stocks that compose the [Ibovespa Index](http://www.bmfbovespa.com.br/pt_br/produtos/indices/indices-amplos/indice-ibovespa-ibovespa-composicao-da-carteira.htm) are present in this dataset.\n\n\n### Acknowledgements\nAll data presented here was constructed by the information provided by [B3](http://www.b3.com.br/pt_br/) in [this site](http://www.b3.com.br/en_us/market-data-and-indices/data-services/market-data/historical-data/equities/historical-quotes/).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "brazil",
+    "finance",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

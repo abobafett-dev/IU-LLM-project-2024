@@ -1,0 +1,41 @@
+{
+  "id": "sunnykusawa/ecommerce-products-image-dataset",
+  "id_no": 2265304,
+  "datasetSlugNullable": "ecommerce-products-image-dataset",
+  "ownerUserNullable": "sunnykusawa",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "E-commerce Products Image Dataset",
+  "subtitleNullable": "E-Commerce Product Classification Dataset",
+  "descriptionNullable": "This dataset contains images of Television, Sofas, Jeans and T-shirt. It Actual raw and unstructured image data extracted from online sites.\n\nAll images are of different sites. You may also find some junk images in data for example in television dataset you will find the television remote images.\n\nThis dataset is not refined intentionally to make sure practitioners should get taste of What kind of data ML/Data Science Engineer get when they start working on any project in industry.",
+  "datasetId": 2265304,
+  "datasetSlug": "ecommerce-products-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sunnykusawa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 7046,
+  "totalVotes": 28,
+  "totalDownloads": 624,
+  "title": "E-commerce Products Image Dataset",
+  "hasTitle": true,
+  "subtitle": "E-Commerce Product Classification Dataset",
+  "hasSubtitle": true,
+  "description": "This dataset contains images of Television, Sofas, Jeans and T-shirt. It Actual raw and unstructured image data extracted from online sites.\n\nAll images are of different sites. You may also find some junk images in data for example in television dataset you will find the television remote images.\n\nThis dataset is not refined intentionally to make sure practitioners should get taste of What kind of data ML/Data Science Engineer get when they start working on any project in industry.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "image",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

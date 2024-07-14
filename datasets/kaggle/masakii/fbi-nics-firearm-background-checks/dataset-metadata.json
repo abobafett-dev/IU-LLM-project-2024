@@ -1,0 +1,41 @@
+{
+  "id": "masakii/fbi-nics-firearm-background-checks",
+  "id_no": 946898,
+  "datasetSlugNullable": "fbi-nics-firearm-background-checks",
+  "ownerUserNullable": "masakii",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "FBI NICS Firearm Background Checks",
+  "subtitleNullable": "Data from National Instant Criminal Background Check System (NICS)",
+  "descriptionNullable": "Context\n**FBI NICS Firearm Background Check Data**\nThis dataset is from the FBI's National Instant Criminal Background Check System.\n\n&gt; Mandated by the Brady Handgun Violence Prevention Act of 1993 and launched by the FBI on November 30, 1998, NICS is used by Federal Firearms Licensees (FFLs) to instantly determine whether a prospective buyer is eligible to buy firearms or explosives. Before ringing up the sale, cashiers call in a check to the FBI or to other designated agencies to ensure that each customer does not have a criminal record or isn\u2019t otherwise ineligible to make a purchase. More than 100 million such checks have been made in the last decade, leading to more than 700,000 denials.\n\nContent\nThe dataset contains the number of FBI NICS firearm background checks by month, state, and type between November 1998 and now. The FBI provides it in PDF at https://www.fbi.gov/file-repository/nics_firearm_checks_-_month_year_by_state_type.pdf/view. Jeremy Singer-Vine at BuzzFeed News has developed a parser to convert the PDF to CSV and made it available at https://github.com/BuzzFeedNews/nics-firearm-background-checks.\n\nLicense\nThe MIT License (MIT)\n\nCopyright (c) 2015, Jeremy Singer-Vine, BuzzFeed News",
+  "datasetId": 946898,
+  "datasetSlug": "fbi-nics-firearm-background-checks",
+  "hasDatasetSlug": true,
+  "ownerUser": "masakii",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 3959,
+  "totalVotes": 4,
+  "totalDownloads": 118,
+  "title": "FBI NICS Firearm Background Checks",
+  "hasTitle": true,
+  "subtitle": "Data from National Instant Criminal Background Check System (NICS)",
+  "hasSubtitle": true,
+  "description": "Context\n**FBI NICS Firearm Background Check Data**\nThis dataset is from the FBI's National Instant Criminal Background Check System.\n\n&gt; Mandated by the Brady Handgun Violence Prevention Act of 1993 and launched by the FBI on November 30, 1998, NICS is used by Federal Firearms Licensees (FFLs) to instantly determine whether a prospective buyer is eligible to buy firearms or explosives. Before ringing up the sale, cashiers call in a check to the FBI or to other designated agencies to ensure that each customer does not have a criminal record or isn\u2019t otherwise ineligible to make a purchase. More than 100 million such checks have been made in the last decade, leading to more than 700,000 denials.\n\nContent\nThe dataset contains the number of FBI NICS firearm background checks by month, state, and type between November 1998 and now. The FBI provides it in PDF at https://www.fbi.gov/file-repository/nics_firearm_checks_-_month_year_by_state_type.pdf/view. Jeremy Singer-Vine at BuzzFeed News has developed a parser to convert the PDF to CSV and made it available at https://github.com/BuzzFeedNews/nics-firearm-background-checks.\n\nLicense\nThe MIT License (MIT)\n\nCopyright (c) 2015, Jeremy Singer-Vine, BuzzFeed News",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "crime",
+    "computer science",
+    "public safety"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

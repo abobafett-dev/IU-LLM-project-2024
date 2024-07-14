@@ -1,0 +1,43 @@
+{
+  "id": "farjanakabirsamanta/alzheimer-diseases-3-class",
+  "id_no": 2574936,
+  "datasetSlugNullable": "alzheimer-diseases-3-class",
+  "ownerUserNullable": "farjanakabirsamanta",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Alzheimer Parkinson Diseases 3 Class",
+  "subtitleNullable": "Classify into 3 class - CONTROL, AD, PD",
+  "descriptionNullable": "3_cls folder has 2 directories:\n- train\n- test\n\n\nEach directory has 3 sub-directories:\n- CONTROL\n- AD\n- PD\n\nDataset is collected from [here](https://www.kaggle.com/datasets/gokulramasamy/alzheimer-parkinson-disease)",
+  "datasetId": 2574936,
+  "datasetSlug": "alzheimer-diseases-3-class",
+  "hasDatasetSlug": true,
+  "ownerUser": "farjanakabirsamanta",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 7414,
+  "totalVotes": 32,
+  "totalDownloads": 692,
+  "title": "Alzheimer Parkinson Diseases 3 Class",
+  "hasTitle": true,
+  "subtitle": "Classify into 3 class - CONTROL, AD, PD",
+  "hasSubtitle": true,
+  "description": "3_cls folder has 2 directories:\n- train\n- test\n\n\nEach directory has 3 sub-directories:\n- CONTROL\n- AD\n- PD\n\nDataset is collected from [here](https://www.kaggle.com/datasets/gokulramasamy/alzheimer-parkinson-disease)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "diseases",
+    "beginner",
+    "intermediate",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

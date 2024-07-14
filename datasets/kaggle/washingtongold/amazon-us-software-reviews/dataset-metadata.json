@@ -1,0 +1,39 @@
+{
+  "id": "washingtongold/amazon-us-software-reviews",
+  "id_no": 1946729,
+  "datasetSlugNullable": "amazon-us-software-reviews",
+  "ownerUserNullable": "washingtongold",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Amazon US Software Reviews",
+  "subtitleNullable": "Ready-to-Use Customer Reviews for Software Products",
+  "descriptionNullable": "Thumbnail credit: https://unsplash.com/photos/hO5s1nSEMSc\nDataset from the TensorFlow datasets `amazon_us_reviews/software` dataset: https://www.tensorflow.org/datasets/catalog/amazon_us_reviews. Data was arranged into a CSV file for convenient usage.",
+  "datasetId": 1946729,
+  "datasetSlug": "amazon-us-software-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "washingtongold",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 1473,
+  "totalVotes": 1,
+  "totalDownloads": 86,
+  "title": "Amazon US Software Reviews",
+  "hasTitle": true,
+  "subtitle": "Ready-to-Use Customer Reviews for Software Products",
+  "hasSubtitle": true,
+  "description": "Thumbnail credit: https://unsplash.com/photos/hO5s1nSEMSc\nDataset from the TensorFlow datasets `amazon_us_reviews/software` dataset: https://www.tensorflow.org/datasets/catalog/amazon_us_reviews. Data was arranged into a CSV file for convenient usage.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "software"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

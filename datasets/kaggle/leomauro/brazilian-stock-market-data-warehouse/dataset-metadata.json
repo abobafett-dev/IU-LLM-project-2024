@@ -1,0 +1,43 @@
+{
+  "id": "leomauro/brazilian-stock-market-data-warehouse",
+  "id_no": 2517111,
+  "datasetSlugNullable": "brazilian-stock-market-data-warehouse",
+  "ownerUserNullable": "leomauro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Brazil Stock Market - Data Warehouse",
+  "subtitleNullable": "Stocks prices and companies details from the Brazil Stock Market (1994 - 2020)",
+  "descriptionNullable": "<i>Photo by <a href=\"https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Maxim Hopman</a> on <a href=\"https://unsplash.com/s/photos/stock-market\">Unsplash</a>.</i>\n\n# Introduction\n\nAccording to [Economatica](https://economatica.com/), a company specializing in the Latin American stock market, the Brazilian stock exchange market, governed by Brasil, Bolsa, Balc\u00e3o (B3), exchanged BRL ~25.9 billion per day in the first half of 2020, during the coronavirus epidemic. Furthermore, it is estimated that in this same period there was an 18% growth in the number of Brazilian investors, totaling ~2.6 million active investors. Therefore, the financial market moves a large amount of values and, consequently, produces a vast amount of information and data daily; These data represent the movements of shares, their respective prices, dollar exchange values, and so on. This dataset contains daily stock values and information about their companies.\n\n## Inspiration\n\n- Data Analysis - Spark\n- Price Prediction - Regression task\n- Best Group of Stocks - Association Rules task\n\nThis dataset provides an environment (Data Warehouse-like) for analysis and visualization of financial business for users of decision support systems. Specifically, the data allow compare different assets (i.e. stocks) listed on B3, according to the sectors of the economy in which these assets operate. For example, with this Data Warehouse, the user will be able to answer questions similar to this one: **What are the most profitable sectors for investment in a given period of time?** In this way, the user can identify which are the sectors that are standing out, as well as which are the most profitable companies in the sector.\n\n# Dataset\n\n<img src=\"https://i.imgur.com/28Mf0sN.png\" alt=\"Data Warehouse\">\n\nThis dataset is split into five files:\n- `dimCoin.csv` - Dimension table with information about the coins.\n- `dimCompany.csv` - Dimension table with information about the companies.\n- `dimTime.csv` - Dimension table with information about the `datetime`.\n- `factCoins.csv` - Fact table with coin value over time.\n- `factStocks.csv` - Fact table with stock prices over time.\n\n## Source\n\nThe data were available by B3. You can access in https://www.b3.com.br/en_us/market-data-and-indices/ .I just structure and model the data as Data Warehouse tables. You can access my code in https://github.com/leomaurodesenv/b3-stock-indexes\n",
+  "datasetId": 2517111,
+  "datasetSlug": "brazilian-stock-market-data-warehouse",
+  "hasDatasetSlug": true,
+  "ownerUser": "leomauro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5982,
+  "totalVotes": 23,
+  "totalDownloads": 967,
+  "title": "Brazil Stock Market - Data Warehouse",
+  "hasTitle": true,
+  "subtitle": "Stocks prices and companies details from the Brazil Stock Market (1994 - 2020)",
+  "hasSubtitle": true,
+  "description": "<i>Photo by <a href=\"https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Maxim Hopman</a> on <a href=\"https://unsplash.com/s/photos/stock-market\">Unsplash</a>.</i>\n\n# Introduction\n\nAccording to [Economatica](https://economatica.com/), a company specializing in the Latin American stock market, the Brazilian stock exchange market, governed by Brasil, Bolsa, Balc\u00e3o (B3), exchanged BRL ~25.9 billion per day in the first half of 2020, during the coronavirus epidemic. Furthermore, it is estimated that in this same period there was an 18% growth in the number of Brazilian investors, totaling ~2.6 million active investors. Therefore, the financial market moves a large amount of values and, consequently, produces a vast amount of information and data daily; These data represent the movements of shares, their respective prices, dollar exchange values, and so on. This dataset contains daily stock values and information about their companies.\n\n## Inspiration\n\n- Data Analysis - Spark\n- Price Prediction - Regression task\n- Best Group of Stocks - Association Rules task\n\nThis dataset provides an environment (Data Warehouse-like) for analysis and visualization of financial business for users of decision support systems. Specifically, the data allow compare different assets (i.e. stocks) listed on B3, according to the sectors of the economy in which these assets operate. For example, with this Data Warehouse, the user will be able to answer questions similar to this one: **What are the most profitable sectors for investment in a given period of time?** In this way, the user can identify which are the sectors that are standing out, as well as which are the most profitable companies in the sector.\n\n# Dataset\n\n<img src=\"https://i.imgur.com/28Mf0sN.png\" alt=\"Data Warehouse\">\n\nThis dataset is split into five files:\n- `dimCoin.csv` - Dimension table with information about the coins.\n- `dimCompany.csv` - Dimension table with information about the companies.\n- `dimTime.csv` - Dimension table with information about the `datetime`.\n- `factCoins.csv` - Fact table with coin value over time.\n- `factStocks.csv` - Fact table with stock prices over time.\n\n## Source\n\nThe data were available by B3. You can access in https://www.b3.com.br/en_us/market-data-and-indices/ .I just structure and model the data as Data Warehouse tables. You can access my code in https://github.com/leomaurodesenv/b3-stock-indexes\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "brazil",
+    "business",
+    "time series analysis",
+    "tabular",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

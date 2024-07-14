@@ -1,0 +1,39 @@
+{
+  "id": "laalasakrishna/face-emotion-level-recognition",
+  "id_no": 3286892,
+  "datasetSlugNullable": "face-emotion-level-recognition",
+  "ownerUserNullable": "laalasakrishna",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Face-Emotion-Level-Recognition",
+  "subtitleNullable": "",
+  "descriptionNullable": "This Kaggle dataset is derived from the widely used FER2013 dataset, a facial emotion recognition benchmark, where each emotion, excluding neutral, is categorized into four distinct intensity levels (25%, 50%, 75%, and 100%).\n**Source Dataset**: FER2013\n**Task**: Emotion Classification with 4 intensity levels\n**Classes**:\n- 25% Intensity\n- 50% Intensity\n- 75% Intensity\n- 100% Intensity\n\n**Statistics**:\nAngry: 25%-363, 50%-1381, 75%-1542, 100%-1607\nDisgust: 25%-75, 50%-133, 75%-234, 100%-105\nFear: 25%-1223, 50%-1563, 75%-705, 100%-1135\nHappy: 25%-1189, 50%-1280, 75%-2235, 100%-1584\nSad: 25%-2262, 50%-1173, 75%-371, 100%-692\nSurprise: 25%-1722, 50%-284, 75%-679, 100%-1317\n\nContributors: @gudelakshmi, @laalasakrishna",
+  "datasetId": 3286892,
+  "datasetSlug": "face-emotion-level-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "laalasakrishna",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 154,
+  "totalVotes": 0,
+  "totalDownloads": 19,
+  "title": "Face-Emotion-Level-Recognition",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This Kaggle dataset is derived from the widely used FER2013 dataset, a facial emotion recognition benchmark, where each emotion, excluding neutral, is categorized into four distinct intensity levels (25%, 50%, 75%, and 100%).\n**Source Dataset**: FER2013\n**Task**: Emotion Classification with 4 intensity levels\n**Classes**:\n- 25% Intensity\n- 50% Intensity\n- 75% Intensity\n- 100% Intensity\n\n**Statistics**:\nAngry: 25%-363, 50%-1381, 75%-1542, 100%-1607\nDisgust: 25%-75, 50%-133, 75%-234, 100%-105\nFear: 25%-1223, 50%-1563, 75%-705, 100%-1135\nHappy: 25%-1189, 50%-1280, 75%-2235, 100%-1584\nSad: 25%-2262, 50%-1173, 75%-371, 100%-692\nSurprise: 25%-1722, 50%-284, 75%-679, 100%-1317\n\nContributors: @gudelakshmi, @laalasakrishna",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

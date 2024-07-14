@@ -1,0 +1,43 @@
+{
+  "id": "mattop/baseball-kbo-batting-data-1982-2021",
+  "id_no": 2344858,
+  "datasetSlugNullable": "baseball-kbo-batting-data-1982-2021",
+  "ownerUserNullable": "mattop",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Baseball KBO Batting Data (1982 - 2021)",
+  "subtitleNullable": "Korean Baseball Organization Regular Season Batting Data (1982 - 2021)",
+  "descriptionNullable": "The dataset contains yearly Korean Baseball Organization regular season batting data  for every KBO season.\n\nThe data was collected from Sports Reference then cleaned for data analysis.\n\n\nTabular data includes:\n- year\n- teams\n- average_batter_age: Average batter age\n- runs_per_game: Runs scored per game\n- games: Games played\n- plate_appearances: Plate appearances\n- at_bats: At bats\n- hits: Hits\n- runs: Runs\n- doubles: Doubles\n- triples: Triples\n- homeruns: Home runs \n- RBI: Runs batted in\n- stolen_bases: Bases stolen\n- caught_stealing: Caught stealing\n- bases_on_balls: Walks\n- strikeouts\n- batting_average: Batting average\n- OBP: On base percentage\n- SLG: Slugging percentage\n- OPS: On base + slugging percentage\n- total_bases: Total bases\n- GDP: Double plays grounded into\n- HBP: Times hit by pitch\n- sacrifice_hits: Sacrifice hits\n- sacrifice_flies: Sacrifice flies\n- IBB: Intentional bases on balls",
+  "datasetId": 2344858,
+  "datasetSlug": "baseball-kbo-batting-data-1982-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "mattop",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3251,
+  "totalVotes": 23,
+  "totalDownloads": 676,
+  "title": "Baseball KBO Batting Data (1982 - 2021)",
+  "hasTitle": true,
+  "subtitle": "Korean Baseball Organization Regular Season Batting Data (1982 - 2021)",
+  "hasSubtitle": true,
+  "description": "The dataset contains yearly Korean Baseball Organization regular season batting data  for every KBO season.\n\nThe data was collected from Sports Reference then cleaned for data analysis.\n\n\nTabular data includes:\n- year\n- teams\n- average_batter_age: Average batter age\n- runs_per_game: Runs scored per game\n- games: Games played\n- plate_appearances: Plate appearances\n- at_bats: At bats\n- hits: Hits\n- runs: Runs\n- doubles: Doubles\n- triples: Triples\n- homeruns: Home runs \n- RBI: Runs batted in\n- stolen_bases: Bases stolen\n- caught_stealing: Caught stealing\n- bases_on_balls: Walks\n- strikeouts\n- batting_average: Batting average\n- OBP: On base percentage\n- SLG: Slugging percentage\n- OPS: On base + slugging percentage\n- total_bases: Total bases\n- GDP: Double plays grounded into\n- HBP: Times hit by pitch\n- sacrifice_hits: Sacrifice hits\n- sacrifice_flies: Sacrifice flies\n- IBB: Intentional bases on balls",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "baseball",
+    "sports",
+    "time series analysis",
+    "statistical analysis",
+    "korea"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

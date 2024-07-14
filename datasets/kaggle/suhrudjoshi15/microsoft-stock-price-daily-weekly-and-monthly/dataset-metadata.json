@@ -1,0 +1,43 @@
+{
+  "id": "suhrudjoshi15/microsoft-stock-price-daily-weekly-and-monthly",
+  "id_no": 3142052,
+  "datasetSlugNullable": "microsoft-stock-price-daily-weekly-and-monthly",
+  "ownerUserNullable": "suhrudjoshi15",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Microsoft Stock Price: Daily, Weekly & Monthly",
+  "subtitleNullable": "Analyzing the mystery of Microsoft's Stock Price: A Comprehensive Data Analysis.",
+  "descriptionNullable": "\nMicrosoft's stock(MSFT) is a popular choice for investors due to the company's strong financial performance and position as a leader in the technology industry. Its revenue is primarily derived from its advertising business, and the company is heavily invested in emerging technologies. While subject to market volatility, Microsoft's stock is considered a strong long-term investment due to the company's financials and position in the industry.\n\nAbout the dataset\nThe Microsoft Stock Price dataset contains historical price information for Microsoft's stock, covering the period from March 2013 to the present. The dataset is made up of seven columns, each providing unique information about Microsoft's stock performance.\n\nThe first column is the 'date' column, which provides the date on which the stock price was recorded. The second column is the 'price' column, which displays the opening price of the stock on the given date. The third column is the 'high' column, which represents the highest price at which the stock was traded during the day. The fourth column is the 'low' column, which displays the lowest price at which the stock was traded during the day.\n\nThe fifth column is the 'close' column, which represents the closing price of the stock on the given date. The sixth column is the 'volume' column, which displays the total number of shares traded on the given date. The final column is the 'adj close' column, which displays the adjusted closing price of the stock on the given date.\n\nThe dataset provides a wealth of information for investors and analysts looking to gain insights into Microsoft's stock performance. By analyzing the data over time, users can identify patterns and trends, evaluate the impact of external factors on stock price, and make informed investment decisions.\n\nThe dataset is ideal for conducting advanced data analysis, including regression analysis, time series analysis, and predictive modeling. It can also be used to create informative visualizations, such as line graphs and candlestick charts, to better understand trends and patterns in Microsoft's stock performance.",
+  "datasetId": 3142052,
+  "datasetSlug": "microsoft-stock-price-daily-weekly-and-monthly",
+  "hasDatasetSlug": true,
+  "ownerUser": "suhrudjoshi15",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 916,
+  "totalVotes": 4,
+  "totalDownloads": 173,
+  "title": "Microsoft Stock Price: Daily, Weekly & Monthly",
+  "hasTitle": true,
+  "subtitle": "Analyzing the mystery of Microsoft's Stock Price: A Comprehensive Data Analysis.",
+  "hasSubtitle": true,
+  "description": "\nMicrosoft's stock(MSFT) is a popular choice for investors due to the company's strong financial performance and position as a leader in the technology industry. Its revenue is primarily derived from its advertising business, and the company is heavily invested in emerging technologies. While subject to market volatility, Microsoft's stock is considered a strong long-term investment due to the company's financials and position in the industry.\n\nAbout the dataset\nThe Microsoft Stock Price dataset contains historical price information for Microsoft's stock, covering the period from March 2013 to the present. The dataset is made up of seven columns, each providing unique information about Microsoft's stock performance.\n\nThe first column is the 'date' column, which provides the date on which the stock price was recorded. The second column is the 'price' column, which displays the opening price of the stock on the given date. The third column is the 'high' column, which represents the highest price at which the stock was traded during the day. The fourth column is the 'low' column, which displays the lowest price at which the stock was traded during the day.\n\nThe fifth column is the 'close' column, which represents the closing price of the stock on the given date. The sixth column is the 'volume' column, which displays the total number of shares traded on the given date. The final column is the 'adj close' column, which displays the adjusted closing price of the stock on the given date.\n\nThe dataset provides a wealth of information for investors and analysts looking to gain insights into Microsoft's stock performance. By analyzing the data over time, users can identify patterns and trends, evaluate the impact of external factors on stock price, and make informed investment decisions.\n\nThe dataset is ideal for conducting advanced data analysis, including regression analysis, time series analysis, and predictive modeling. It can also be used to create informative visualizations, such as line graphs and candlestick charts, to better understand trends and patterns in Microsoft's stock performance.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "data visualization",
+    "data analytics",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

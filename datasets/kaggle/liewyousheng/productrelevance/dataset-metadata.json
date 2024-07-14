@@ -1,0 +1,40 @@
+{
+  "id": "liewyousheng/productrelevance",
+  "id_no": 948856,
+  "datasetSlugNullable": "productrelevance",
+  "ownerUserNullable": "liewyousheng",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "product-relevance",
+  "subtitleNullable": "Recommend the right products to each user",
+  "descriptionNullable": "### Context\n\nThe \"goal\" for this dataset is to predict how relevant each product are to each customer, to ensure that future recommendations and sales are relevant to the customer.\n\n\n### Content\n\nThis database contains 22 attributes, which are some of the most common attributes collected when a company sells a product to a customer. \n\n\nTarget variable: Column ['score']",
+  "datasetId": 948856,
+  "datasetSlug": "productrelevance",
+  "hasDatasetSlug": true,
+  "ownerUser": "liewyousheng",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3890,
+  "totalVotes": 11,
+  "totalDownloads": 375,
+  "title": "product-relevance",
+  "hasTitle": true,
+  "subtitle": "Recommend the right products to each user",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe \"goal\" for this dataset is to predict how relevant each product are to each customer, to ensure that future recommendations and sales are relevant to the customer.\n\n\n### Content\n\nThis database contains 22 attributes, which are some of the most common attributes collected when a company sells a product to a customer. \n\n\nTarget variable: Column ['score']",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

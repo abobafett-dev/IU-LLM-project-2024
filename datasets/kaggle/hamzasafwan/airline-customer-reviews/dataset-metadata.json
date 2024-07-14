@@ -1,0 +1,43 @@
+{
+  "id": "hamzasafwan/airline-customer-reviews",
+  "id_no": 4984158,
+  "datasetSlugNullable": "airline-customer-reviews",
+  "ownerUserNullable": "hamzasafwan",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Airline Customer Reviews",
+  "subtitleNullable": "Customer Reviews Textual Data",
+  "descriptionNullable": "The dataset consists of text based customer reviews about an airline.\nIt is a good resource for learning, practicing or testing beginner to intermediate NLP tasks like text cleaning, word tokenization, sentiment analysis and then predictive modelling bases on analysed sentiments.",
+  "datasetId": 4984158,
+  "datasetSlug": "airline-customer-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "hamzasafwan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 262,
+  "totalVotes": 3,
+  "totalDownloads": 35,
+  "title": "Airline Customer Reviews",
+  "hasTitle": true,
+  "subtitle": "Customer Reviews Textual Data",
+  "hasSubtitle": true,
+  "description": "The dataset consists of text based customer reviews about an airline.\nIt is a good resource for learning, practicing or testing beginner to intermediate NLP tasks like text cleaning, word tokenization, sentiment analysis and then predictive modelling bases on analysed sentiments.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data cleaning",
+    "text",
+    "nltk",
+    "text classification",
+    "segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "waseemakramkhan/the-tribune-news-articles",
+  "id_no": 1368330,
+  "datasetSlugNullable": "the-tribune-news-articles",
+  "ownerUserNullable": "waseemakramkhan",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "The Tribune News Articles ",
+  "subtitleNullable": "This dataset is specially for Beginners to do some classification task.",
+  "descriptionNullable": "### Context\nThis dataset contains almost 1000 news title, news_articles descriptions, publish time, publish date, number of views from February 01, 2021 to April  08, 2021 collected from the tribune news papers.\n\n### Content\n\u201cThe Tribune\u201d which is popular local English news website (https://www.tribuneindia.com/) of Punjab state and New Delhi.\n\n****article_id**:   has generated article id's.\n**title**:   headline of the article.\n**articles_desc**:   detail description of about news articles headline\n**publish_date**:   date of the news article\n**n_views**: number of views of the news articles \n**publish_time**:   time of the news articles\n**is_popular**:  is articles is popular or not represented as 1 (popular) and 0 (not popular)\n**\n\n### Acknowledgements\n\nThis dataset was collected from https://www.tribuneindia.com/\n",
+  "datasetId": 1368330,
+  "datasetSlug": "the-tribune-news-articles",
+  "hasDatasetSlug": true,
+  "ownerUser": "waseemakramkhan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 920,
+  "totalVotes": 2,
+  "totalDownloads": 37,
+  "title": "The Tribune News Articles ",
+  "hasTitle": true,
+  "subtitle": "This dataset is specially for Beginners to do some classification task.",
+  "hasSubtitle": true,
+  "description": "### Context\nThis dataset contains almost 1000 news title, news_articles descriptions, publish time, publish date, number of views from February 01, 2021 to April  08, 2021 collected from the tribune news papers.\n\n### Content\n\u201cThe Tribune\u201d which is popular local English news website (https://www.tribuneindia.com/) of Punjab state and New Delhi.\n\n****article_id**:   has generated article id's.\n**title**:   headline of the article.\n**articles_desc**:   detail description of about news articles headline\n**publish_date**:   date of the news article\n**n_views**: number of views of the news articles \n**publish_time**:   time of the news articles\n**is_popular**:  is articles is popular or not represented as 1 (popular) and 0 (not popular)\n**\n\n### Acknowledgements\n\nThis dataset was collected from https://www.tribuneindia.com/\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "nlp",
+    "recommender systems",
+    "random forest",
+    "binary classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

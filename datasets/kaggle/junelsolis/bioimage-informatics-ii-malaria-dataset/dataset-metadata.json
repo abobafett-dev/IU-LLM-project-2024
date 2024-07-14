@@ -1,0 +1,42 @@
+{
+  "id": "junelsolis/bioimage-informatics-ii-malaria-dataset",
+  "id_no": 2993255,
+  "datasetSlugNullable": "bioimage-informatics-ii-malaria-dataset",
+  "ownerUserNullable": "junelsolis",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "BioImage Informatics II Malaria Dataset",
+  "subtitleNullable": "Dataset for tutorial on image classification using convolutional neural networks",
+  "descriptionNullable": "The original dataset was downloaded from the NIH Malaria Dataset https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/image-processing/malaria-datasheet.html and was modified for use in the BioImage Informatics II course at the University of Turku.",
+  "datasetId": 2993255,
+  "datasetSlug": "bioimage-informatics-ii-malaria-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "junelsolis",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 768,
+  "totalVotes": 2,
+  "totalDownloads": 74,
+  "title": "BioImage Informatics II Malaria Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset for tutorial on image classification using convolutional neural networks",
+  "hasSubtitle": true,
+  "description": "The original dataset was downloaded from the NIH Malaria Dataset https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/image-processing/malaria-datasheet.html and was modified for use in the BioImage Informatics II course at the University of Turku.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "medicine",
+    "computer science",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

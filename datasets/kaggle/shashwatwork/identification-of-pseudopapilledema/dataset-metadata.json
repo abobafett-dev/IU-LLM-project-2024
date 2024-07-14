@@ -1,0 +1,43 @@
+{
+  "id": "shashwatwork/identification-of-pseudopapilledema",
+  "id_no": 2296266,
+  "datasetSlugNullable": "identification-of-pseudopapilledema",
+  "ownerUserNullable": "shashwatwork",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Identification of Pseudo papilledema",
+  "subtitleNullable": "Classify Pseudo papilledema,Papilledema & Normal Patients ",
+  "descriptionNullable": "*Pseudopapilledema is defined as an anomalous elevation of one or both optic discs without edema of the retinal nerve fiber layer. Papilledema, on the other hand, is a swelling of the optic disc due to increased intracranial pressure. It is important to distinguish pseudo papilledema from true papilledema, which can be the first sign of disc disease process with the potential for vision loss, neurological impairment, or death. Patients thought to have papilledema are often subjected to lumbar puncture, MRI, and extensive laboratory studies to find the underlying cause. In this article, we will cover multiple causes of pseudo papilledema a and how to differentiate them from true papilledema.*\n\nThe data set consists of three classes - Normal pseudo papilledema & Papilledema.\n\n**Dataset is outsourced from [here.](https://osf.io/2w5ce/)**\nKim, U. (2018, August 1). Machine learning for Pseudopapilledema. https://doi.org/10.17605/OSF.IO/2W5CE",
+  "datasetId": 2296266,
+  "datasetSlug": "identification-of-pseudopapilledema",
+  "hasDatasetSlug": true,
+  "ownerUser": "shashwatwork",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2919,
+  "totalVotes": 18,
+  "totalDownloads": 407,
+  "title": "Identification of Pseudo papilledema",
+  "hasTitle": true,
+  "subtitle": "Classify Pseudo papilledema,Papilledema & Normal Patients ",
+  "hasSubtitle": true,
+  "description": "*Pseudopapilledema is defined as an anomalous elevation of one or both optic discs without edema of the retinal nerve fiber layer. Papilledema, on the other hand, is a swelling of the optic disc due to increased intracranial pressure. It is important to distinguish pseudo papilledema from true papilledema, which can be the first sign of disc disease process with the potential for vision loss, neurological impairment, or death. Patients thought to have papilledema are often subjected to lumbar puncture, MRI, and extensive laboratory studies to find the underlying cause. In this article, we will cover multiple causes of pseudo papilledema a and how to differentiate them from true papilledema.*\n\nThe data set consists of three classes - Normal pseudo papilledema & Papilledema.\n\n**Dataset is outsourced from [here.](https://osf.io/2w5ce/)**\nKim, U. (2018, August 1). Machine learning for Pseudopapilledema. https://doi.org/10.17605/OSF.IO/2W5CE",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "deep learning",
+    "image",
+    "multiclass classification",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

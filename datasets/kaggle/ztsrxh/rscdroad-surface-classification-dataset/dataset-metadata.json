@@ -1,0 +1,41 @@
+{
+  "id": "ztsrxh/rscdroad-surface-classification-dataset",
+  "id_no": 2408381,
+  "datasetSlugNullable": "rscdroad-surface-classification-dataset",
+  "ownerUserNullable": "ztsrxh",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "RSCD: Road Surface Classification Dataset",
+  "subtitleNullable": "Large-scale Road Surface Image Classification Dataset for Autonomous Vehicles",
+  "descriptionNullable": "The preview of the road surface states is essential for improving the safety and the ride comfort of autonomous vehicles. This dataset consists of 1 million (240 x 360 pixels) road surface images captured under a wide range of road and weather conditions in China. The original pictures are acquired with a vehicle-mounted camera and then the patches containing only the road surface area are cropped. The images are classified into 27 categories, containing both the friction level, material, and unevenness properties. The dataset is divided into train-set(~960k samples), validation-set(~20k samples), test-set(~50k samples) . This large-scale dataset is useful for developing vision-based road sensing modules to improve the performance of the driving assistance systems.\n\nTo download and get more details, please visit Github: https://github.com/ztsrxh/RSCD-Road_Surface_Classification_Dataset",
+  "datasetId": 2408381,
+  "datasetSlug": "rscdroad-surface-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ztsrxh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 969,
+  "totalVotes": 1,
+  "totalDownloads": 62,
+  "title": "RSCD: Road Surface Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Large-scale Road Surface Image Classification Dataset for Autonomous Vehicles",
+  "hasSubtitle": true,
+  "description": "The preview of the road surface states is essential for improving the safety and the ride comfort of autonomous vehicles. This dataset consists of 1 million (240 x 360 pixels) road surface images captured under a wide range of road and weather conditions in China. The original pictures are acquired with a vehicle-mounted camera and then the patches containing only the road surface area are cropped. The images are classified into 27 categories, containing both the friction level, material, and unevenness properties. The dataset is divided into train-set(~960k samples), validation-set(~20k samples), test-set(~50k samples) . This large-scale dataset is useful for developing vision-based road sensing modules to improve the performance of the driving assistance systems.\n\nTo download and get more details, please visit Github: https://github.com/ztsrxh/RSCD-Road_Surface_Classification_Dataset",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

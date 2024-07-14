@@ -1,0 +1,42 @@
+{
+  "id": "thegunny86/santander-stocks-20042020",
+  "id_no": 1725901,
+  "datasetSlugNullable": "santander-stocks-20042020",
+  "ownerUserNullable": "thegunny86",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Santander Stocks 2004-2020",
+  "subtitleNullable": "Daily stock data - Santander",
+  "descriptionNullable": "This data covers 16 years of daily data from Banco Santander.\n\n- **Date:** date \n- **High:** highest value of the day\n- **Low:** lowest value of the day\n- **Open:** open price\n- **Close:** close price\n- **Adj Close:** adjusted closing price",
+  "datasetId": 1725901,
+  "datasetSlug": "santander-stocks-20042020",
+  "hasDatasetSlug": true,
+  "ownerUser": "thegunny86",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 1582,
+  "totalVotes": 6,
+  "totalDownloads": 62,
+  "title": "Santander Stocks 2004-2020",
+  "hasTitle": true,
+  "subtitle": "Daily stock data - Santander",
+  "hasSubtitle": true,
+  "description": "This data covers 16 years of daily data from Banco Santander.\n\n- **Date:** date \n- **High:** highest value of the day\n- **Low:** lowest value of the day\n- **Open:** open price\n- **Close:** close price\n- **Adj Close:** adjusted closing price",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "banking",
+    "time series analysis",
+    "data analytics",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

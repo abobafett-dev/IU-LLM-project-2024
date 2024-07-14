@@ -1,0 +1,41 @@
+{
+  "id": "mlomuscio/knowledge-of-current-events-among-young-adults",
+  "id_no": 901968,
+  "datasetSlugNullable": "knowledge-of-current-events-among-young-adults",
+  "ownerUserNullable": "mlomuscio",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Knowledge of Current Events Among Young Adults",
+  "subtitleNullable": "A survey measuring knowledge of current events among young adults.",
+  "descriptionNullable": "### Context\n\nThis dataset was created by an AP Statistics class. The purpose was to learn about survey methodology and analysis using R.\n\nThe participants are all AP Statistics students from schools within the US.\n\nThe purpose of their study was to learn more about the self-reported knowledge of current events among young adults.\n\n\n### Content\n\nBelow is a description of each variable.\n- **Timestamp:** The date and time that the response was recorded.\n- **Gender:** Self-reported gender of the respondent.\n- **Age:** Self-reported age of the respondent. \n- **USCitizen:** Response to the question \"Are you a US citizen who has resided full time in the US for the last 5 years?\"\n- **Boarding:** Self-reported residential status of the respondent.\n- **NewsSource:** Response to the question \"What's your primary news source?\"\n- **HKProtests:** Response to the question \"How informed are you regarding the Hong Kong protests?\" 0 = not informed and 5 = very informed.\n- **BTaylor:** Response to the question \"How informed are you regarding the Breonna Taylor case?\" 0 = not informed and 5 = very informed.\n- **Explosion:** Response to the question \"How informed are you about the explosion that occurred in Beirut, Lebanon?\" 0 = not informed and 5 = very informed.\n- **SCNomination:** Response to the question \"How informed are you on the ongoing debate over the Supreme Court nomination in the US?\" 0 = not informed and 5 = very informed.\n",
+  "datasetId": 901968,
+  "datasetSlug": "knowledge-of-current-events-among-young-adults",
+  "hasDatasetSlug": true,
+  "ownerUser": "mlomuscio",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2334,
+  "totalVotes": 3,
+  "totalDownloads": 129,
+  "title": "Knowledge of Current Events Among Young Adults",
+  "hasTitle": true,
+  "subtitle": "A survey measuring knowledge of current events among young adults.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset was created by an AP Statistics class. The purpose was to learn about survey methodology and analysis using R.\n\nThe participants are all AP Statistics students from schools within the US.\n\nThe purpose of their study was to learn more about the self-reported knowledge of current events among young adults.\n\n\n### Content\n\nBelow is a description of each variable.\n- **Timestamp:** The date and time that the response was recorded.\n- **Gender:** Self-reported gender of the respondent.\n- **Age:** Self-reported age of the respondent. \n- **USCitizen:** Response to the question \"Are you a US citizen who has resided full time in the US for the last 5 years?\"\n- **Boarding:** Self-reported residential status of the respondent.\n- **NewsSource:** Response to the question \"What's your primary news source?\"\n- **HKProtests:** Response to the question \"How informed are you regarding the Hong Kong protests?\" 0 = not informed and 5 = very informed.\n- **BTaylor:** Response to the question \"How informed are you regarding the Breonna Taylor case?\" 0 = not informed and 5 = very informed.\n- **Explosion:** Response to the question \"How informed are you about the explosion that occurred in Beirut, Lebanon?\" 0 = not informed and 5 = very informed.\n- **SCNomination:** Response to the question \"How informed are you on the ongoing debate over the Supreme Court nomination in the US?\" 0 = not informed and 5 = very informed.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "exploratory data analysis",
+    "survey analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

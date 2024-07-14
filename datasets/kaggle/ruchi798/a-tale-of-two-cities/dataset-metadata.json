@@ -1,0 +1,41 @@
+{
+  "id": "ruchi798/a-tale-of-two-cities",
+  "id_no": 2339493,
+  "datasetSlugNullable": "a-tale-of-two-cities",
+  "ownerUserNullable": "ruchi798",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "A Tale of Two Cities",
+  "subtitleNullable": "Analyzing post COVID-19 trends",
+  "descriptionNullable": "### Context:\nThe fate of the world changed in 2020. \n\nDaily activities were impacted, impeded, and wouldn't be the same forever.\n\nIn partnership with **Microsoft** and the **University of Oxford**, [A Tale of Two Cities](https://www.meetup.com/microsoft-reactor-new-york/events/286865953/) is a Data AI hackathon that aims to address trends during and after the pandemic.\n\nI will present my work at this hackathon through my association with the University of Oxford as an **AI Tutor** for the [Artificial Intelligence: Cloud and Edge Implementations course](https://www.conted.ox.ac.uk/courses/artificial-intelligence-cloud-and-edge-implementations).\n\n### Acknowledgments:\nI'd like to thank the original authors of these data sources!\n\n| Data | Original Source |\n| --- | --- |\n| Mobility Data | [COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/) |\n| NYC Cases | [NYC Department of Health and Mental Hygiene](https://www1.nyc.gov/site/doh/index.page) |\n| London Cases | [GOV.UK Coronavirus (COVID-19) in the UK](https://coronavirus.data.gov.uk/) |\n\nRelevant data was extracted from these sources and split into two phases: \n- COVID era (before 1st February, 2022), and \n- Post COVID era (after 1st February, 2022)\n\n| Mobility Features     | Description                                                                                                                           |\n|-----------------|---------------------------------------------------------------------------------------------------------------------------------------|\n| country          | Country Name                                                                         |\n| metro_area       | Metropolitan area                                                                    |\n| iso_3166_2_code  | Codes for the names of the principal subdivisions (e.g. provinces or states)         |\n| census_fips_code | Census fips code                                                                     |\n| place_id         | Place IDs uniquely identify a place in the Google Places database and on Google Maps |\n| date             | Date                                                                                 |\n| retail          | Mobility trends for places like restaurants, cafes, shopping centers, theme parks, museums, libraries, and movie theaters.            |\n| pharmacy        | Mobility trends for places like grocery markets, food warehouses, farmers markets, specialty food shops, drug stores, and pharmacies. |\n| parks           | Mobility trends for places like local parks, national parks, public beaches, marinas, dog parks, plazas, and public gardens.          |\n| transit_station | Mobility trends for places like public transport hubs such as subway, bus, and train stations.                                        |\n| workplaces      | Mobility trends for places of work.                                                                                                   |\n\n| Cases Features     | Description                    |\n|--------------------|--------------------------------|\n| date               | Date                           |\n| case_count         | Number of daily cases recorded |\n| hospitalized_count | Number of people hospitalized  |\n| death_count        | Number of deaths recorded      |\n\nThis helped me to compare trends in New York and London over time.\n![](https://i.imgur.com/KFRaB51.png)\n\n \n",
+  "datasetId": 2339493,
+  "datasetSlug": "a-tale-of-two-cities",
+  "hasDatasetSlug": true,
+  "ownerUser": "ruchi798",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2633,
+  "totalVotes": 29,
+  "totalDownloads": 236,
+  "title": "A Tale of Two Cities",
+  "hasTitle": true,
+  "subtitle": "Analyzing post COVID-19 trends",
+  "hasSubtitle": true,
+  "description": "### Context:\nThe fate of the world changed in 2020. \n\nDaily activities were impacted, impeded, and wouldn't be the same forever.\n\nIn partnership with **Microsoft** and the **University of Oxford**, [A Tale of Two Cities](https://www.meetup.com/microsoft-reactor-new-york/events/286865953/) is a Data AI hackathon that aims to address trends during and after the pandemic.\n\nI will present my work at this hackathon through my association with the University of Oxford as an **AI Tutor** for the [Artificial Intelligence: Cloud and Edge Implementations course](https://www.conted.ox.ac.uk/courses/artificial-intelligence-cloud-and-edge-implementations).\n\n### Acknowledgments:\nI'd like to thank the original authors of these data sources!\n\n| Data | Original Source |\n| --- | --- |\n| Mobility Data | [COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/) |\n| NYC Cases | [NYC Department of Health and Mental Hygiene](https://www1.nyc.gov/site/doh/index.page) |\n| London Cases | [GOV.UK Coronavirus (COVID-19) in the UK](https://coronavirus.data.gov.uk/) |\n\nRelevant data was extracted from these sources and split into two phases: \n- COVID era (before 1st February, 2022), and \n- Post COVID era (after 1st February, 2022)\n\n| Mobility Features     | Description                                                                                                                           |\n|-----------------|---------------------------------------------------------------------------------------------------------------------------------------|\n| country          | Country Name                                                                         |\n| metro_area       | Metropolitan area                                                                    |\n| iso_3166_2_code  | Codes for the names of the principal subdivisions (e.g. provinces or states)         |\n| census_fips_code | Census fips code                                                                     |\n| place_id         | Place IDs uniquely identify a place in the Google Places database and on Google Maps |\n| date             | Date                                                                                 |\n| retail          | Mobility trends for places like restaurants, cafes, shopping centers, theme parks, museums, libraries, and movie theaters.            |\n| pharmacy        | Mobility trends for places like grocery markets, food warehouses, farmers markets, specialty food shops, drug stores, and pharmacies. |\n| parks           | Mobility trends for places like local parks, national parks, public beaches, marinas, dog parks, plazas, and public gardens.          |\n| transit_station | Mobility trends for places like public transport hubs such as subway, bus, and train stations.                                        |\n| workplaces      | Mobility trends for places of work.                                                                                                   |\n\n| Cases Features     | Description                    |\n|--------------------|--------------------------------|\n| date               | Date                           |\n| case_count         | Number of daily cases recorded |\n| hospitalized_count | Number of people hospitalized  |\n| death_count        | Number of deaths recorded      |\n\nThis helped me to compare trends in New York and London over time.\n![](https://i.imgur.com/KFRaB51.png)\n\n \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "time series analysis",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "hemanthhari/psycological-effects-of-covid",
+  "id_no": 3540688,
+  "datasetSlugNullable": "psycological-effects-of-covid",
+  "ownerUserNullable": "hemanthhari",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Psycological Effects of COVID",
+  "subtitleNullable": "Answers to survey taken in 2020 to understand people's opinion on lockdown",
+  "descriptionNullable": "The dataset was collected with the help of Google Forms. The data contains answers to various questions provided by people. Most of the questions in the form were provided as multiple choice to avoid any case sensitive issues. \nA version of this dataset was used to publish a research paper. \nThis is a processed dataset with the same structural aspects of the raw data. Please note that the raw data cannot be shared as it is PII. \n\n## Columns\nThe columns present are as follows:\nPlease note that all the custom columns can be ignored.\n\n- **age** Age group of the person\n- **gender**\tGender of the person\n- **occupation** Occupation/sector where the person works\n- **line_of_work**\tThe line of work performed by the person\n- **time_bp**\tThe time spent on work before pandemic\n- **time_dp**\tThe time spent on work during pandemic\n- **travel_time** The travel time spent \n- **easeof_online**\tRating of work going online\n- **home_env** Liking of home environment\n- **prod_inc**\tRating Productivity Increase\n- **sleep_bal** The rating of sleep cycle\n- **new_skill**\tWhether any new skill was learnt\n- **fam_connect** Rating how well the person connected with his family\n- **relaxed**\tRating of how relaxed the person is feeling\n- **self_time**\tRating how much self time was procured\n- **like_hw** Liking of working from Home\n- **dislike_hw** Disliking Working from Home\n- **prefer** Preference of the person to work from home/office\n- **certaindays_hw** Liking whether certain days of working from home is needed\n- **X** Custom Column \n- **time_bp.1**\tCustom Column \n- **travel_new** Custom Column \n- **net_diff**\tCustom Column \n\nPlease not that if some column looks like binary. This was an encoding issue and it is in binary range. So higher the value is higher value in real. ",
+  "datasetId": 3540688,
+  "datasetSlug": "psycological-effects-of-covid",
+  "hasDatasetSlug": true,
+  "ownerUser": "hemanthhari",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 17778,
+  "totalVotes": 68,
+  "totalDownloads": 2914,
+  "title": "Psycological Effects of COVID",
+  "hasTitle": true,
+  "subtitle": "Answers to survey taken in 2020 to understand people's opinion on lockdown",
+  "hasSubtitle": true,
+  "description": "The dataset was collected with the help of Google Forms. The data contains answers to various questions provided by people. Most of the questions in the form were provided as multiple choice to avoid any case sensitive issues. \nA version of this dataset was used to publish a research paper. \nThis is a processed dataset with the same structural aspects of the raw data. Please note that the raw data cannot be shared as it is PII. \n\n## Columns\nThe columns present are as follows:\nPlease note that all the custom columns can be ignored.\n\n- **age** Age group of the person\n- **gender**\tGender of the person\n- **occupation** Occupation/sector where the person works\n- **line_of_work**\tThe line of work performed by the person\n- **time_bp**\tThe time spent on work before pandemic\n- **time_dp**\tThe time spent on work during pandemic\n- **travel_time** The travel time spent \n- **easeof_online**\tRating of work going online\n- **home_env** Liking of home environment\n- **prod_inc**\tRating Productivity Increase\n- **sleep_bal** The rating of sleep cycle\n- **new_skill**\tWhether any new skill was learnt\n- **fam_connect** Rating how well the person connected with his family\n- **relaxed**\tRating of how relaxed the person is feeling\n- **self_time**\tRating how much self time was procured\n- **like_hw** Liking of working from Home\n- **dislike_hw** Disliking Working from Home\n- **prefer** Preference of the person to work from home/office\n- **certaindays_hw** Liking whether certain days of working from home is needed\n- **X** Custom Column \n- **time_bp.1**\tCustom Column \n- **travel_new** Custom Column \n- **net_diff**\tCustom Column \n\nPlease not that if some column looks like binary. This was an encoding issue and it is in binary range. So higher the value is higher value in real. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "asia",
+    "health and fitness",
+    "people and society",
+    "data visualization",
+    "classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

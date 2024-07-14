@@ -1,0 +1,43 @@
+{
+  "id": "fahadrehman07/retail-transaction-dataset",
+  "id_no": 4916971,
+  "datasetSlugNullable": "retail-transaction-dataset",
+  "ownerUserNullable": "fahadrehman07",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Retail Transaction Dataset",
+  "subtitleNullable": "Retail Trends: A Deep Dive into Transactional Data",
+  "descriptionNullable": "Unlocking insights into consumer behavior and retail dynamics, this comprehensive dataset captures the essence of transactions within a retail environment. Featuring ten essential columns, including CustomerID, ProductID, Quantity, Price, TransactionDate, PaymentMethod, StoreLocation, ProductCategory, DiscountApplied(%), and TotalAmount, this dataset encapsulates crucial information for retail analytics. Each entry provides a glimpse into the intricate interactions between customers, products, and sales channels, facilitating the exploration of purchasing patterns, popular products, pricing strategies, and regional preferences.\n\n&gt;# Please Upvote my Dataset, Let's Support each other.\n\nBy delving into the wealth of information contained within this dataset, analysts can uncover valuable insights to drive strategic decision-making. The TransactionDate column offers a temporal dimension, allowing for the identification of seasonal trends, peak purchasing periods, and the impact of marketing campaigns over time. PaymentMethod data sheds light on evolving consumer payment preferences and the effectiveness of different payment strategies. Moreover, the DiscountApplied(%) column provides insights into consumer responsiveness to promotions and discounts, enabling retailers to optimize their pricing strategies for maximum impact. With such rich and diverse data at their disposal, businesses can refine their marketing efforts, enhance customer experiences, and ultimately, thrive in today's competitive retail landscape.\n\n### Columns:\n1. `CustomerID:` Unique identifier for each customer.\n2. `ProductID:` Unique identifier for each product.\n3. `Quantity:` The number of units purchased for a particular product.\n4. `Price:` The unit price of the product.\n5. `TransactionDate:` Date and time when the transaction occurred.\n6. `PaymentMethod:` The method used by the customer to make the payment.\n7. `StoreLocation:` The location where the transaction took place.\n8. `ProductCategory:` Category to which the product belongs.\n9. `DiscountApplied(%):` Percentage of the discount applied to the product.\n10. `TotalAmount:` Total amount paid for the transaction.\n\n",
+  "datasetId": 4916971,
+  "datasetSlug": "retail-transaction-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "fahadrehman07",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12424,
+  "totalVotes": 80,
+  "totalDownloads": 2930,
+  "title": "Retail Transaction Dataset",
+  "hasTitle": true,
+  "subtitle": "Retail Trends: A Deep Dive into Transactional Data",
+  "hasSubtitle": true,
+  "description": "Unlocking insights into consumer behavior and retail dynamics, this comprehensive dataset captures the essence of transactions within a retail environment. Featuring ten essential columns, including CustomerID, ProductID, Quantity, Price, TransactionDate, PaymentMethod, StoreLocation, ProductCategory, DiscountApplied(%), and TotalAmount, this dataset encapsulates crucial information for retail analytics. Each entry provides a glimpse into the intricate interactions between customers, products, and sales channels, facilitating the exploration of purchasing patterns, popular products, pricing strategies, and regional preferences.\n\n&gt;# Please Upvote my Dataset, Let's Support each other.\n\nBy delving into the wealth of information contained within this dataset, analysts can uncover valuable insights to drive strategic decision-making. The TransactionDate column offers a temporal dimension, allowing for the identification of seasonal trends, peak purchasing periods, and the impact of marketing campaigns over time. PaymentMethod data sheds light on evolving consumer payment preferences and the effectiveness of different payment strategies. Moreover, the DiscountApplied(%) column provides insights into consumer responsiveness to promotions and discounts, enabling retailers to optimize their pricing strategies for maximum impact. With such rich and diverse data at their disposal, businesses can refine their marketing efforts, enhance customer experiences, and ultimately, thrive in today's competitive retail landscape.\n\n### Columns:\n1. `CustomerID:` Unique identifier for each customer.\n2. `ProductID:` Unique identifier for each product.\n3. `Quantity:` The number of units purchased for a particular product.\n4. `Price:` The unit price of the product.\n5. `TransactionDate:` Date and time when the transaction occurred.\n6. `PaymentMethod:` The method used by the customer to make the payment.\n7. `StoreLocation:` The location where the transaction took place.\n8. `ProductCategory:` Category to which the product belongs.\n9. `DiscountApplied(%):` Percentage of the discount applied to the product.\n10. `TotalAmount:` Total amount paid for the transaction.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "business",
+    "finance",
+    "economics",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "rafaelgreca/nba-games-box-score-since-1949",
+  "id_no": 816362,
+  "datasetSlugNullable": "nba-games-box-score-since-1949",
+  "ownerUserNullable": "rafaelgreca",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "NBA Games Box Score Since 1949",
+  "subtitleNullable": "All nba games box score since season 1949-50",
+  "descriptionNullable": "### Context\n\nI used the Paul Rossotti\u2019s data set on my personal projects. However, after a long time using it I noticed that I would need more old and recent data, so I ended up with a more complete data set and I thought that might help someone. Since his data set was used as a base, all the credits goes to him. I only incremented it. Also I am willing to update this data set yearly.\n\nYou can access his work using this link on the reference section. \n\n### Content\n\nThis data set contains information about the box score of every NBA game since 1949-50 until now. You can get the data individually for each season, decade or a compiled of all the data. In total the data set has, approximately, 120 features/columns/attributes that goes from basic stats (like total points, rebounds, assists, blocks, and so on) to more advanced ones (like floor impact counter, assist rate, possessions, pace, play% and much more!). \n\nEach game will contain the same features to the home team and its opponent (away team) and some other features related to the game itself (like game date, season, season type and match winner). If you like stats and NBA, this data set was made for you!\n\nIf do you wanna more about the formulas used and its meaning, please check the reference section. Also you can check the \u201cfeatures_description\u201d file. There you will find a brief description of each feature and its respective formula (only for more advanced stats).\n\n### Acknowledgements\n\n**LAST TIME THE DATA SET WAS UPDATED:**\n\nJuly 26, 2021 (07/26/2021) \u2013 1pm EDT\n\n**Questions about the dataset:**\n\n**Q:**How did you collected the data?\n**A:** I created a web scrapper using python to do the hard work.\n\n**Q:** How did you filled the missing values?\n**A:** For the float columns I filled with \u201c0.0\u201d. For the object columns I left with a NaN value, but don\u2019t need to worry about it. The only columns that I need to do that was teamWins, teamLosses, opptWins, opptLosses. However only 8 rows in the entire data set has NaN values! Great news, isn\u2019t it?\n\n**Q:** Where can I see the description/formula for each attribute/column/feature?\n**A:** You can check it out in the \u201cfeatures_informations\u201d file inside the data set.\n\n**Q:** Will you constantly update the data set?\n**A:** Yes!\n\n**Q:** The data contains only regular reason games?\n**A:** No! The data contains playoffs games as well.\n\n### References\n\nAbout the stats and formulas used:\nhttps://www.basketball-reference.com/about/glossary.html\nhttps://basketball.realgm.com/info/glossary\nhttps://www.kaggle.com/pablote/nba-enhanced-stats (Paul Rossotti\u2019s data set)\n\nWhere the data was collected:\nhttps://www.basketball-reference.com/leagues/",
+  "datasetId": 816362,
+  "datasetSlug": "nba-games-box-score-since-1949",
+  "hasDatasetSlug": true,
+  "ownerUser": "rafaelgreca",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4558,
+  "totalVotes": 10,
+  "totalDownloads": 546,
+  "title": "NBA Games Box Score Since 1949",
+  "hasTitle": true,
+  "subtitle": "All nba games box score since season 1949-50",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI used the Paul Rossotti\u2019s data set on my personal projects. However, after a long time using it I noticed that I would need more old and recent data, so I ended up with a more complete data set and I thought that might help someone. Since his data set was used as a base, all the credits goes to him. I only incremented it. Also I am willing to update this data set yearly.\n\nYou can access his work using this link on the reference section. \n\n### Content\n\nThis data set contains information about the box score of every NBA game since 1949-50 until now. You can get the data individually for each season, decade or a compiled of all the data. In total the data set has, approximately, 120 features/columns/attributes that goes from basic stats (like total points, rebounds, assists, blocks, and so on) to more advanced ones (like floor impact counter, assist rate, possessions, pace, play% and much more!). \n\nEach game will contain the same features to the home team and its opponent (away team) and some other features related to the game itself (like game date, season, season type and match winner). If you like stats and NBA, this data set was made for you!\n\nIf do you wanna more about the formulas used and its meaning, please check the reference section. Also you can check the \u201cfeatures_description\u201d file. There you will find a brief description of each feature and its respective formula (only for more advanced stats).\n\n### Acknowledgements\n\n**LAST TIME THE DATA SET WAS UPDATED:**\n\nJuly 26, 2021 (07/26/2021) \u2013 1pm EDT\n\n**Questions about the dataset:**\n\n**Q:**How did you collected the data?\n**A:** I created a web scrapper using python to do the hard work.\n\n**Q:** How did you filled the missing values?\n**A:** For the float columns I filled with \u201c0.0\u201d. For the object columns I left with a NaN value, but don\u2019t need to worry about it. The only columns that I need to do that was teamWins, teamLosses, opptWins, opptLosses. However only 8 rows in the entire data set has NaN values! Great news, isn\u2019t it?\n\n**Q:** Where can I see the description/formula for each attribute/column/feature?\n**A:** You can check it out in the \u201cfeatures_informations\u201d file inside the data set.\n\n**Q:** Will you constantly update the data set?\n**A:** Yes!\n\n**Q:** The data contains only regular reason games?\n**A:** No! The data contains playoffs games as well.\n\n### References\n\nAbout the stats and formulas used:\nhttps://www.basketball-reference.com/about/glossary.html\nhttps://basketball.realgm.com/info/glossary\nhttps://www.kaggle.com/pablote/nba-enhanced-stats (Paul Rossotti\u2019s data set)\n\nWhere the data was collected:\nhttps://www.basketball-reference.com/leagues/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "basketball",
+    "sports",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

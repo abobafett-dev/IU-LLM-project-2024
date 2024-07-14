@@ -1,0 +1,39 @@
+{
+  "id": "priyanka841/breast-cancer-wisconsin",
+  "id_no": 563570,
+  "datasetSlugNullable": "breast-cancer-wisconsin",
+  "ownerUserNullable": "priyanka841",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Breast Cancer Wisconsin ",
+  "subtitleNullable": "Predicting Cancer as Malignant or Benign",
+  "descriptionNullable": "Breast Cancer Wisconsin data set is an example of a classification problem in Supervised Machine Learning.\nThe task is to predict the Malignant (M) and Benign (B) tumor.\n\nThere are 569 rows and 33 columns/features.\nThe Benign and Malignant cases are as follows.\nB    357\nM    212\n\nWe can observe in our data high correlation between radius mean and worst mean; indicating that the malignant tumors have a high radius. \n\nBy exploring further we find dependencies among several features, thus introducing the concept of multicollinearity. We remove multicollinearity by removing the dependent features altogether.\n\nNext, we move on to the model building process. I have used Logistic Regression, Random Forest, Decision Tree, K NN, Support Vector Machines (SVM) and Naive Bayes to evaluate the algorithm, to evaluate the model and how it is performing on unseen data following metrics are used\n1) Classification Report\n2) Confusion matrix\n3) Accuracy\n\nSVM gave the highest accuracy of 96.4%, recall, and precision (both 97%)were also good as compared to other algorithms.\n\n\nI would like to boost the model performance by Ensemble techniques!!\n\n ",
+  "datasetId": 563570,
+  "datasetSlug": "breast-cancer-wisconsin",
+  "hasDatasetSlug": true,
+  "ownerUser": "priyanka841",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 11412,
+  "totalVotes": 19,
+  "totalDownloads": 1553,
+  "title": "Breast Cancer Wisconsin ",
+  "hasTitle": true,
+  "subtitle": "Predicting Cancer as Malignant or Benign",
+  "hasSubtitle": true,
+  "description": "Breast Cancer Wisconsin data set is an example of a classification problem in Supervised Machine Learning.\nThe task is to predict the Malignant (M) and Benign (B) tumor.\n\nThere are 569 rows and 33 columns/features.\nThe Benign and Malignant cases are as follows.\nB    357\nM    212\n\nWe can observe in our data high correlation between radius mean and worst mean; indicating that the malignant tumors have a high radius. \n\nBy exploring further we find dependencies among several features, thus introducing the concept of multicollinearity. We remove multicollinearity by removing the dependent features altogether.\n\nNext, we move on to the model building process. I have used Logistic Regression, Random Forest, Decision Tree, K NN, Support Vector Machines (SVM) and Naive Bayes to evaluate the algorithm, to evaluate the model and how it is performing on unseen data following metrics are used\n1) Classification Report\n2) Confusion matrix\n3) Accuracy\n\nSVM gave the highest accuracy of 96.4%, recall, and precision (both 97%)were also good as compared to other algorithms.\n\n\nI would like to boost the model performance by Ensemble techniques!!\n\n ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kartikeychauhan/imdbmoviedataset",
+  "id_no": 2118334,
+  "datasetSlugNullable": "imdbmoviedataset",
+  "ownerUserNullable": "kartikeychauhan",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "imdb-movie-dataset",
+  "subtitleNullable": "~8000 movies dataset scraped from IMDb (Top 250 movies each year from 1990-2022)",
+  "descriptionNullable": "~8000 movies dataset scraped from IMDb (Top 250 movies each year from 1990-2022, by popularity). \nA good starting dataset for creating a recommendation system e.g. https://share.streamlit.io/kartikey-chauhan/recomovi",
+  "datasetId": 2118334,
+  "datasetSlug": "imdbmoviedataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kartikeychauhan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 997,
+  "totalVotes": 5,
+  "totalDownloads": 191,
+  "title": "imdb-movie-dataset",
+  "hasTitle": true,
+  "subtitle": "~8000 movies dataset scraped from IMDb (Top 250 movies each year from 1990-2022)",
+  "hasSubtitle": true,
+  "description": "~8000 movies dataset scraped from IMDb (Top 250 movies each year from 1990-2022, by popularity). \nA good starting dataset for creating a recommendation system e.g. https://share.streamlit.io/kartikey-chauhan/recomovi",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "beginner",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

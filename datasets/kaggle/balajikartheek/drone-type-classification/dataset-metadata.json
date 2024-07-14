@@ -1,0 +1,43 @@
+{
+  "id": "balajikartheek/drone-type-classification",
+  "id_no": 4382273,
+  "datasetSlugNullable": "drone-type-classification",
+  "ownerUserNullable": "balajikartheek",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Drone Image Classification Dataset",
+  "subtitleNullable": "A dataset containing images of DJI drones (Inspire, Mavic, Phantom) and non-dron",
+  "descriptionNullable": "This dataset comprises images categorized into four classes: DJI Inspire, DJI Mavic, DJI Phantom, and No Drone. The images are split into training and validation sets, with each class represented in both sets.\n\nThe DJI Inspire, DJI Mavic, and DJI Phantom classes contain images of respective drone models captured from various angles and under different environmental conditions. These images are intended to facilitate the classification and recognition of different DJI drone models.\n\nThe No Drone class includes images of scenes without any drones, serving as negative examples for training and testing the classification model's ability to distinguish between drone and non-drone objects.",
+  "datasetId": 4382273,
+  "datasetSlug": "drone-type-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "balajikartheek",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 301,
+  "totalVotes": 3,
+  "totalDownloads": 62,
+  "title": "Drone Image Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "A dataset containing images of DJI drones (Inspire, Mavic, Phantom) and non-dron",
+  "hasSubtitle": true,
+  "description": "This dataset comprises images categorized into four classes: DJI Inspire, DJI Mavic, DJI Phantom, and No Drone. The images are split into training and validation sets, with each class represented in both sets.\n\nThe DJI Inspire, DJI Mavic, and DJI Phantom classes contain images of respective drone models captured from various angles and under different environmental conditions. These images are intended to facilitate the classification and recognition of different DJI drone models.\n\nThe No Drone class includes images of scenes without any drones, serving as negative examples for training and testing the classification model's ability to distinguish between drone and non-drone objects.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "computer vision",
+    "deep learning",
+    "tensorflow",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

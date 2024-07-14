@@ -1,0 +1,40 @@
+{
+  "id": "sumantindurkhya/techarticles2020",
+  "id_no": 1262487,
+  "datasetSlugNullable": "techarticles2020",
+  "ownerUserNullable": "sumantindurkhya",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "TechArticles-2020",
+  "subtitleNullable": "Articles of TechCrunch for the year 2020",
+  "descriptionNullable": "### Context\n\nHere is the file containing articles from technical domain published on Tech Crunch in the year 2020. The data is crawled from their website, So there is no guarantee that this the exhaustive list of articles published in 2020, but I tried me best and managed to collect most of them. I created this data set to perform bunch of tasks like Text clustering, topic model, sentence classification, NER, Article recommendation etc. But at the moment I am sharing the raw data for exploring unsupervised learning techniques on it. I am planning to label the data for different supervised learning problems. Please up-vote if you guys appreciate the effort.\n\n### Content\n\nThe data-set has following attributes:\n- title\n- date published\n- description: a short summary of the article\n- Article per se\n- keywords\n",
+  "datasetId": 1262487,
+  "datasetSlug": "techarticles2020",
+  "hasDatasetSlug": true,
+  "ownerUser": "sumantindurkhya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 1911,
+  "totalVotes": 2,
+  "totalDownloads": 67,
+  "title": "TechArticles-2020",
+  "hasTitle": true,
+  "subtitle": "Articles of TechCrunch for the year 2020",
+  "hasSubtitle": true,
+  "description": "### Context\n\nHere is the file containing articles from technical domain published on Tech Crunch in the year 2020. The data is crawled from their website, So there is no guarantee that this the exhaustive list of articles published in 2020, but I tried me best and managed to collect most of them. I created this data set to perform bunch of tasks like Text clustering, topic model, sentence classification, NER, Article recommendation etc. But at the moment I am sharing the raw data for exploring unsupervised learning techniques on it. I am planning to label the data for different supervised learning problems. Please up-vote if you guys appreciate the effort.\n\n### Content\n\nThe data-set has following attributes:\n- title\n- date published\n- description: a short summary of the article\n- Article per se\n- keywords\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "text mining"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

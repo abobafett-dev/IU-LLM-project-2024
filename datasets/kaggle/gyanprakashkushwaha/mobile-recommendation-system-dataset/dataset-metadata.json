@@ -1,0 +1,43 @@
+{
+  "id": "gyanprakashkushwaha/mobile-recommendation-system-dataset",
+  "id_no": 3569357,
+  "datasetSlugNullable": "mobile-recommendation-system-dataset",
+  "ownerUserNullable": "gyanprakashkushwaha",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Mobile Recommendation System Dataset",
+  "subtitleNullable": "mobiles data with 11 major brands can be used in recommendation system",
+  "descriptionNullable": "**Project Demo Video** - \nhttps://github.com/GyanPrakashkushwaha/MobileRecommenderSystem\n\n**Live Website Link Try it Out** - https://mobile-recommender-system-gyanprakashkushwaha.streamlit.app/\n\n**Title:** Mobile Recommendation System Dataset: Comprehensive Information on Model Names, Ratings, Prices, and Corpus where this all features are combined (storage_ram, camera, oS_Processor, display, network, battery)\n\n**Description:**\n\nWelcome to the Mobile Recommendation System Dataset a comprehensive collection of all smartphones providing valuable insights into all mobile phones categories cutting-edge range of mobile devices. This dataset is a result of meticulous web scraping from trusted source Flipkart.\n\n**Dataset Overview:**\nThe dataset comprises ten key columns that shed light on Samsung mobiles' essential attributes:\n\n- `name`: Names of various Samsung smartphone models, showcasing the diversity and variety of offerings.\n- `ratings`: User ratings and reviews associated with each model, reflecting customer satisfaction and feedback.\n- `price`: Prices of the Samsung mobiles, helping users understand the affordability and value proposition of each device.\n- `corpus`: where there is complete information of storage_ram, camera, oS_Processor, display, network and battery.\n\n\n- **Product Research and Comparison:** Prospective buyers can make well-informed decisions based on their preferences and budget, comparing various Samsung mobile models.\n\n- **Price Analysis and Market Trends:** Researchers and analysts can study pricing patterns and market trends of Samsung mobiles across different models and regions, providing valuable market insights.\n\n- **Machine Learning and Recommender Systems:** Data scientists can leverage this dataset to build recommendation engines, suggesting Samsung mobiles based on user preferences, ratings, and other attributes.\n\n**Acknowledgment:**\nThis dataset acknowledges the efforts of numerous websites and sources that provided the data. As responsible data practitioners, we respect their terms of use and ensure the data is utilized for non-commercial and educational purposes only.\n\n**Note:**\nThis dataset is static and represents a snapshot of All mobiles available at the time of scraping. As the mobile industry evolves rapidly, newer models and updated information may not be included. Users are encouraged to verify and cross-reference data with official Samsung sources before making any critical decisions.\n\nFeel free to explore, analyze, and share your findings with the Kaggle community and beyond using the Samsung Mobiles Latest Dataset. Happy analyzing!",
+  "datasetId": 3569357,
+  "datasetSlug": "mobile-recommendation-system-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "gyanprakashkushwaha",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7133,
+  "totalVotes": 37,
+  "totalDownloads": 1065,
+  "title": "Mobile Recommendation System Dataset",
+  "hasTitle": true,
+  "subtitle": "mobiles data with 11 major brands can be used in recommendation system",
+  "hasSubtitle": true,
+  "description": "**Project Demo Video** - \nhttps://github.com/GyanPrakashkushwaha/MobileRecommenderSystem\n\n**Live Website Link Try it Out** - https://mobile-recommender-system-gyanprakashkushwaha.streamlit.app/\n\n**Title:** Mobile Recommendation System Dataset: Comprehensive Information on Model Names, Ratings, Prices, and Corpus where this all features are combined (storage_ram, camera, oS_Processor, display, network, battery)\n\n**Description:**\n\nWelcome to the Mobile Recommendation System Dataset a comprehensive collection of all smartphones providing valuable insights into all mobile phones categories cutting-edge range of mobile devices. This dataset is a result of meticulous web scraping from trusted source Flipkart.\n\n**Dataset Overview:**\nThe dataset comprises ten key columns that shed light on Samsung mobiles' essential attributes:\n\n- `name`: Names of various Samsung smartphone models, showcasing the diversity and variety of offerings.\n- `ratings`: User ratings and reviews associated with each model, reflecting customer satisfaction and feedback.\n- `price`: Prices of the Samsung mobiles, helping users understand the affordability and value proposition of each device.\n- `corpus`: where there is complete information of storage_ram, camera, oS_Processor, display, network and battery.\n\n\n- **Product Research and Comparison:** Prospective buyers can make well-informed decisions based on their preferences and budget, comparing various Samsung mobile models.\n\n- **Price Analysis and Market Trends:** Researchers and analysts can study pricing patterns and market trends of Samsung mobiles across different models and regions, providing valuable market insights.\n\n- **Machine Learning and Recommender Systems:** Data scientists can leverage this dataset to build recommendation engines, suggesting Samsung mobiles based on user preferences, ratings, and other attributes.\n\n**Acknowledgment:**\nThis dataset acknowledges the efforts of numerous websites and sources that provided the data. As responsible data practitioners, we respect their terms of use and ensure the data is utilized for non-commercial and educational purposes only.\n\n**Note:**\nThis dataset is static and represents a snapshot of All mobiles available at the time of scraping. As the mobile industry evolves rapidly, newer models and updated information may not be included. Users are encouraged to verify and cross-reference data with official Samsung sources before making any critical decisions.\n\nFeel free to explore, analyze, and share your findings with the Kaggle community and beyond using the Samsung Mobiles Latest Dataset. Happy analyzing!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "intermediate",
+    "advanced",
+    "nlp",
+    "recommender systems"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

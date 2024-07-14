@@ -1,0 +1,42 @@
+{
+  "id": "rsmits/dpgmedia2019",
+  "id_no": 1614816,
+  "datasetSlugNullable": "dpgmedia2019",
+  "ownerUserNullable": "rsmits",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "DpgMedia2019",
+  "subtitleNullable": "DpgMedia2019: A Dutch News Dataset for Partisanship Detection",
+  "descriptionNullable": "This dataset contains the files for the dataset as they are available in [github](https://github.com/dpgmedia/partisan-news2019)\n\nCitation Dataset:\n\n```\n@misc{1908.02322,\n  Author = {Chia-Lun Yeh and Babak Loni and Mari\u00eblle Hendriks and Henrike Reinhardt and Anne Schuth},\n  Title = {DpgMedia2019: A Dutch News Dataset for Partisanship Detection},\n  Year = {2019},\n  Eprint = {arXiv:1908.02322},\n}\n```",
+  "datasetId": 1614816,
+  "datasetSlug": "dpgmedia2019",
+  "hasDatasetSlug": true,
+  "ownerUser": "rsmits",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 396,
+  "totalVotes": 1,
+  "totalDownloads": 38,
+  "title": "DpgMedia2019",
+  "hasTitle": true,
+  "subtitle": "DpgMedia2019: A Dutch News Dataset for Partisanship Detection",
+  "hasSubtitle": true,
+  "description": "This dataset contains the files for the dataset as they are available in [github](https://github.com/dpgmedia/partisan-news2019)\n\nCitation Dataset:\n\n```\n@misc{1908.02322,\n  Author = {Chia-Lun Yeh and Babak Loni and Mari\u00eblle Hendriks and Henrike Reinhardt and Anne Schuth},\n  Title = {DpgMedia2019: A Dutch News Dataset for Partisanship Detection},\n  Year = {2019},\n  Eprint = {arXiv:1908.02322},\n}\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "nlp",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "khlaifiabilel/cisco-networks",
+  "id_no": 3644158,
+  "datasetSlugNullable": "cisco-networks",
+  "ownerUserNullable": "khlaifiabilel",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Cisco Networks",
+  "subtitleNullable": "A Dataset of Networks of Computing Hosts",
+  "descriptionNullable": "This dataset was provided by the Cisco Secure Workload group. The dataset contains 22 disjoint graphs representing communications among machines running different distributed applications in various enterprises, collected over multiple days between 2019 and 2022. The dataset also includes ground truth groupings for two graphs. The groupings are useful for evaluating tasks such as clustering hosts based on network communications. Also provided are a README file with a detailed description of the datasets and their format, and Python code for reading the graphs, reporting graph statistics, and reading the ground truth file.",
+  "datasetId": 3644158,
+  "datasetSlug": "cisco-networks",
+  "hasDatasetSlug": true,
+  "ownerUser": "khlaifiabilel",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1062,
+  "totalVotes": 19,
+  "totalDownloads": 78,
+  "title": "Cisco Networks",
+  "hasTitle": true,
+  "subtitle": "A Dataset of Networks of Computing Hosts",
+  "hasSubtitle": true,
+  "description": "This dataset was provided by the Cisco Secure Workload group. The dataset contains 22 disjoint graphs representing communications among machines running different distributed applications in various enterprises, collected over multiple days between 2019 and 2022. The dataset also includes ground truth groupings for two graphs. The groupings are useful for evaluating tasks such as clustering hosts based on network communications. Also provided are a README file with a detailed description of the datasets and their format, and Python code for reading the graphs, reporting graph statistics, and reading the ground truth file.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "time series analysis",
+    "recommender systems",
+    "tabular",
+    "optimization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

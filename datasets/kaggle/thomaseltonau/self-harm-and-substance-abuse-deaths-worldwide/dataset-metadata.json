@@ -1,0 +1,41 @@
+{
+  "id": "thomaseltonau/self-harm-and-substance-abuse-deaths-worldwide",
+  "id_no": 4054939,
+  "datasetSlugNullable": "self-harm-and-substance-abuse-deaths-worldwide",
+  "ownerUserNullable": "thomaseltonau",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Self Harm and Substance Abuse Deaths Worldwide",
+  "subtitleNullable": "Self harm and substance abuse related deaths by country, year (2017-21), and sex",
+  "descriptionNullable": "**Data Description**\n\nThis data set contains information pertaining to the 'intentional self-harm' and 'psychoactive substance use' related deaths for each country from 2017 to 2021 by sex. Additionally, population data for each country and sex is provided, as well as each countries ISO-3 code.\n\n**Data Sources**\n\nThe data for the deaths by country were taken from the World Health Organisation Mortality Database (2023)[here](https://www.who.int/data/data-collection-tools/who-mortality-database). From the database, the \u201cCountry codes\u201d, \u201cPopulation and live births\u201d, and \u201cMortality, ICD-10 (part 5/5)\u201d files were downloaded and used in this analysis. Additionally, the supporting documentation was read to understand how the data sheets fit together. Please see the link above to download the most up-to-date raw data from the WHO.\n\nAdditionally, information of the ISO-3 codes for each country were provided. These were found via a Kaggle data set (2017) [here](https://www.kaggle.com/datasets/juanumusic/countries-iso-codes/). The ISO codes are helpful for making choropleth maps.\n\nThe original WHO source had a great deal of missing population data, and so, an additional data set was used to fill in missing population data (Our World in Data, n.d.). The original data can be accessed [here](https://ourworldindata.org/grapher/population)\n\n**Data Cleaning**\n\nExtensive data cleaning steps were followed to create this data set. The cleaning process can be viewed [here](https://rpubs.com/tjelton/WHO-Mortality-DB-Suicide-and-Substance-Abuse-Deaths).\n\n**References**\n\nHaedo, J. (2017). Countries ISO Codes. https://www.kaggle.com/datasets/juanumusic/countries-iso-codes/\n\nOur World in Data (n.d.). Population, 10,000 BCE to 2021. https://ourworldindata.org/grapher/population\n\nWorld Health Organisation (2023). WHO Mortality Database. https://www.who.int/data/data-collection-tools/who-mortality-database",
+  "datasetId": 4054939,
+  "datasetSlug": "self-harm-and-substance-abuse-deaths-worldwide",
+  "hasDatasetSlug": true,
+  "ownerUser": "thomaseltonau",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5598,
+  "totalVotes": 31,
+  "totalDownloads": 1116,
+  "title": "Self Harm and Substance Abuse Deaths Worldwide",
+  "hasTitle": true,
+  "subtitle": "Self harm and substance abuse related deaths by country, year (2017-21), and sex",
+  "hasSubtitle": true,
+  "description": "**Data Description**\n\nThis data set contains information pertaining to the 'intentional self-harm' and 'psychoactive substance use' related deaths for each country from 2017 to 2021 by sex. Additionally, population data for each country and sex is provided, as well as each countries ISO-3 code.\n\n**Data Sources**\n\nThe data for the deaths by country were taken from the World Health Organisation Mortality Database (2023)[here](https://www.who.int/data/data-collection-tools/who-mortality-database). From the database, the \u201cCountry codes\u201d, \u201cPopulation and live births\u201d, and \u201cMortality, ICD-10 (part 5/5)\u201d files were downloaded and used in this analysis. Additionally, the supporting documentation was read to understand how the data sheets fit together. Please see the link above to download the most up-to-date raw data from the WHO.\n\nAdditionally, information of the ISO-3 codes for each country were provided. These were found via a Kaggle data set (2017) [here](https://www.kaggle.com/datasets/juanumusic/countries-iso-codes/). The ISO codes are helpful for making choropleth maps.\n\nThe original WHO source had a great deal of missing population data, and so, an additional data set was used to fill in missing population data (Our World in Data, n.d.). The original data can be accessed [here](https://ourworldindata.org/grapher/population)\n\n**Data Cleaning**\n\nExtensive data cleaning steps were followed to create this data set. The cleaning process can be viewed [here](https://rpubs.com/tjelton/WHO-Mortality-DB-Suicide-and-Substance-Abuse-Deaths).\n\n**References**\n\nHaedo, J. (2017). Countries ISO Codes. https://www.kaggle.com/datasets/juanumusic/countries-iso-codes/\n\nOur World in Data (n.d.). Population, 10,000 BCE to 2021. https://ourworldindata.org/grapher/population\n\nWorld Health Organisation (2023). WHO Mortality Database. https://www.who.int/data/data-collection-tools/who-mortality-database",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "mental health",
+    "health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

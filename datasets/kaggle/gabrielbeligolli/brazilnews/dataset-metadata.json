@@ -1,0 +1,43 @@
+{
+  "id": "gabrielbeligolli/brazilnews",
+  "id_no": 2879601,
+  "datasetSlugNullable": "brazilnews",
+  "ownerUserNullable": "gabrielbeligolli",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Brazil News (WebScrapping_News)",
+  "subtitleNullable": "CNN Brazil Website WebScrapping per day",
+  "descriptionNullable": "This dataset was obtained through web scraping of the CNN Brasil website and encompasses the most significant news items from January 10th, 2023, to the present date. The news items are organized by date, URL, and topic, and also include the values of BRL/Dollar and the evolution of Ibovespa.",
+  "datasetId": 2879601,
+  "datasetSlug": "brazilnews",
+  "hasDatasetSlug": true,
+  "ownerUser": "gabrielbeligolli",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 294,
+  "totalVotes": 1,
+  "totalDownloads": 33,
+  "title": "Brazil News (WebScrapping_News)",
+  "hasTitle": true,
+  "subtitle": "CNN Brazil Website WebScrapping per day",
+  "hasSubtitle": true,
+  "description": "This dataset was obtained through web scraping of the CNN Brasil website and encompasses the most significant news items from January 10th, 2023, to the present date. The news items are organized by date, URL, and topic, and also include the values of BRL/Dollar and the evolution of Ibovespa.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "brazil",
+    "data analytics",
+    "news",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

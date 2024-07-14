@@ -1,0 +1,40 @@
+{
+  "id": "venkatasubramanian/automatic-ticket-classification",
+  "id_no": 1951681,
+  "datasetSlugNullable": "automatic-ticket-classification",
+  "ownerUserNullable": "venkatasubramanian",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Automatic Ticket Classification",
+  "subtitleNullable": "Classify customer complaints based on products and services from the ticket",
+  "descriptionNullable": "# Problem statement\nFor a financial company, customer complaints carry a lot of importance, as they are often an indicator of the shortcomings in their products and services. If these complaints are resolved efficiently in time, they can bring down customer dissatisfaction to a minimum and retain them with stronger loyalty. This also gives them an idea of how to continuously improve their services to attract more customers. \nThese customer complaints are unstructured text data; so, traditionally, companies need to allocate the task of evaluating and assigning each ticket to the relevant department to multiple support employees. This becomes tedious as the company grows and has a large customer base.\nIn this case study, you will be working as an NLP engineer for a financial company that wants to automate its customer support tickets system. As a financial company, the firm has many products and services such as credit cards, banking and mortgages/loans. \n\n# Business goal\nYou need to build a model that is able to classify customer complaints based on the products/services. By doing so, you can segregate these tickets into their relevant categories and, therefore, help in the quick resolution of the issue.\nWith the help of topic modelling, you will detect patterns and recurring words present in each ticket. This can be then used to understand the important features for each cluster of categories. By segregating the clusters, you will be able to identify the topics of the customer complaints. \nYou will be doing topic modelling on the .json data provided by the company. Since this data is not labelled, you need to apply techniques to analyze patterns and classify tickets into the following five clusters based on their products/services:\n\n1. Credit card / Prepaid card\n\n2.  Bank account services\n\n3. Theft/Dispute reporting\n\n4. Mortgages/loans\n\n5. Others \n\nWith the help of topic modelling, you will be able to map each ticket onto its respective department/category. You can then use this data to train any supervised model such as logistic regression, decision tree or random forest. Using this trained model, you can classify any new customer complaint support ticket into its relevant department.\n\n# Dataset\nThe data set given to you is in the .json format and contains 78,313 customer complaints with 22 features.",
+  "datasetId": 1951681,
+  "datasetSlug": "automatic-ticket-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "venkatasubramanian",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 15579,
+  "totalVotes": 14,
+  "totalDownloads": 1294,
+  "title": "Automatic Ticket Classification",
+  "hasTitle": true,
+  "subtitle": "Classify customer complaints based on products and services from the ticket",
+  "hasSubtitle": true,
+  "description": "# Problem statement\nFor a financial company, customer complaints carry a lot of importance, as they are often an indicator of the shortcomings in their products and services. If these complaints are resolved efficiently in time, they can bring down customer dissatisfaction to a minimum and retain them with stronger loyalty. This also gives them an idea of how to continuously improve their services to attract more customers. \nThese customer complaints are unstructured text data; so, traditionally, companies need to allocate the task of evaluating and assigning each ticket to the relevant department to multiple support employees. This becomes tedious as the company grows and has a large customer base.\nIn this case study, you will be working as an NLP engineer for a financial company that wants to automate its customer support tickets system. As a financial company, the firm has many products and services such as credit cards, banking and mortgages/loans. \n\n# Business goal\nYou need to build a model that is able to classify customer complaints based on the products/services. By doing so, you can segregate these tickets into their relevant categories and, therefore, help in the quick resolution of the issue.\nWith the help of topic modelling, you will detect patterns and recurring words present in each ticket. This can be then used to understand the important features for each cluster of categories. By segregating the clusters, you will be able to identify the topics of the customer complaints. \nYou will be doing topic modelling on the .json data provided by the company. Since this data is not labelled, you need to apply techniques to analyze patterns and classify tickets into the following five clusters based on their products/services:\n\n1. Credit card / Prepaid card\n\n2.  Bank account services\n\n3. Theft/Dispute reporting\n\n4. Mortgages/loans\n\n5. Others \n\nWith the help of topic modelling, you will be able to map each ticket onto its respective department/category. You can then use this data to train any supervised model such as logistic regression, decision tree or random forest. Using this trained model, you can classify any new customer complaint support ticket into its relevant department.\n\n# Dataset\nThe data set given to you is in the .json format and contains 78,313 customer complaints with 22 features.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "text mining"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

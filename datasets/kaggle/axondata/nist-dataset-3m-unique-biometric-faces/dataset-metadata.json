@@ -1,0 +1,42 @@
+{
+  "id": "axondata/nist-dataset-3m-unique-biometric-faces",
+  "id_no": 4817633,
+  "datasetSlugNullable": "nist-dataset-3m-unique-biometric-faces",
+  "ownerUserNullable": "axondata",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Caucasian Face Detection Dataset: 3M+ Identities ",
+  "subtitleNullable": "Large human faces dataset for face recognition models (10M+ images)",
+  "descriptionNullable": "# Dataset targeting 1:N and 1:1 NIST face recognition tests. Dataset contains &gt;10M individuals, each with 3 images containing their faces\n## Contact us and share your feedback - recieve additional samples for free!\ud83d\ude0a\n\nThe dataset is \u201ccleaned\u201d and has low duplicate and noise level.\n\n# Dataset Description: \n- Dataset is cleaned of duplicates and non-face images\n- 10M+ individuals\n- Each indiviual has least 3-6 face images\n- Total 30M+ pictures.\n\nEmphasis on Caucasian ethnicity, while we also have other datasets targeting other ethnicities (Africans, Latin American, Asian)\n\n# What do we mean by clean dataset?\n\nWhen you get our dataset, you can be sure it is high-quality and ready for use in facial recognition and neural network training. The dataset includes:\n\n- Unique IDs: Each entry has a unique identifier, so there are no duplicate IDs\n- Non-redundant Photos: All photos in the dataset are unique, with no duplicates\n- Correctly Matched Photos and IDs: Photos of different people are correctly matched with their unique IDs\n- Consistent Photos of Individuals: All photos of the same person are grouped under the right ID, so images are not scattered\n\n# How We Ensured the Data is Clean\n\n**1.\tInitial Face Size Check:** We start by checking that each photo meets the minimum face size requirement to ensure they are suitable for facial recognition\n\n**2.\tRemoving Duplicate Photos Within each ID:** We identify and remove any duplicate photos within each folder, making sure all images in a folder are unique\n\n**3.\tValidation of Minimum Number of Faces:** We check that each ID has at least three different photos with faces. This ensures enough data for each ID\n\n**4.\tDuplicate Detection Across the Dataset:** We search for duplicate photos across the whole dataset. This step helps remove redundant images, including photos of celebrities, anime characters, and other irrelevant images\n\n**5.\tRemoving Non-conforming Data:** We remove any data that doesn't meet our criteria, including images that fail the face size check, duplicate IDs and photos, IDs with insufficient photos\n\nBy following these steps, we ensure the dataset you receive is clean, reliable, and ready for use. This process minimizes errors and optimizes the dataset for training your facial recognition models, leading to better performance and more accurate results\n\n\n## Full version of dataset is availible for commercial usage - leave a request on our website [Axonlabs ](https://axonlabs.pro/?utm_source=Kaggle&utm_medium=Account&utm_campaign=Account&utm_id=1)to purchase the dataset \ud83d\udcb0\n\n\n## Potential Use Cases:\nFacial recognition: Ideal for training models to recognize individuals across varying lighting and age conditions, crucial for 1:1 verification test\nNIST preparation: Perfect resource for companies aiming to excel in NIST biometric tests, offering pristine data for training and testing purposes\n\n\nKeywords: NIST dataset, Facial recognition dataset, Biometric testing data, Large-scale face dataset, High-quality face images, Ethnicity-diverse face dataset, AI facial recognition training data, NIST biometric test preparation, Clean face image dataset, Identity verification dataset, facial recognition training data, 1:N facial recognition dataset\n",
+  "datasetId": 4817633,
+  "datasetSlug": "nist-dataset-3m-unique-biometric-faces",
+  "hasDatasetSlug": true,
+  "ownerUser": "axondata",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 183,
+  "totalVotes": 4,
+  "totalDownloads": 10,
+  "title": "Caucasian Face Detection Dataset: 3M+ Identities ",
+  "hasTitle": true,
+  "subtitle": "Large human faces dataset for face recognition models (10M+ images)",
+  "hasSubtitle": true,
+  "description": "# Dataset targeting 1:N and 1:1 NIST face recognition tests. Dataset contains &gt;10M individuals, each with 3 images containing their faces\n## Contact us and share your feedback - recieve additional samples for free!\ud83d\ude0a\n\nThe dataset is \u201ccleaned\u201d and has low duplicate and noise level.\n\n# Dataset Description: \n- Dataset is cleaned of duplicates and non-face images\n- 10M+ individuals\n- Each indiviual has least 3-6 face images\n- Total 30M+ pictures.\n\nEmphasis on Caucasian ethnicity, while we also have other datasets targeting other ethnicities (Africans, Latin American, Asian)\n\n# What do we mean by clean dataset?\n\nWhen you get our dataset, you can be sure it is high-quality and ready for use in facial recognition and neural network training. The dataset includes:\n\n- Unique IDs: Each entry has a unique identifier, so there are no duplicate IDs\n- Non-redundant Photos: All photos in the dataset are unique, with no duplicates\n- Correctly Matched Photos and IDs: Photos of different people are correctly matched with their unique IDs\n- Consistent Photos of Individuals: All photos of the same person are grouped under the right ID, so images are not scattered\n\n# How We Ensured the Data is Clean\n\n**1.\tInitial Face Size Check:** We start by checking that each photo meets the minimum face size requirement to ensure they are suitable for facial recognition\n\n**2.\tRemoving Duplicate Photos Within each ID:** We identify and remove any duplicate photos within each folder, making sure all images in a folder are unique\n\n**3.\tValidation of Minimum Number of Faces:** We check that each ID has at least three different photos with faces. This ensures enough data for each ID\n\n**4.\tDuplicate Detection Across the Dataset:** We search for duplicate photos across the whole dataset. This step helps remove redundant images, including photos of celebrities, anime characters, and other irrelevant images\n\n**5.\tRemoving Non-conforming Data:** We remove any data that doesn't meet our criteria, including images that fail the face size check, duplicate IDs and photos, IDs with insufficient photos\n\nBy following these steps, we ensure the dataset you receive is clean, reliable, and ready for use. This process minimizes errors and optimizes the dataset for training your facial recognition models, leading to better performance and more accurate results\n\n\n## Full version of dataset is availible for commercial usage - leave a request on our website [Axonlabs ](https://axonlabs.pro/?utm_source=Kaggle&utm_medium=Account&utm_campaign=Account&utm_id=1)to purchase the dataset \ud83d\udcb0\n\n\n## Potential Use Cases:\nFacial recognition: Ideal for training models to recognize individuals across varying lighting and age conditions, crucial for 1:1 verification test\nNIST preparation: Perfect resource for companies aiming to excel in NIST biometric tests, offering pristine data for training and testing purposes\n\n\nKeywords: NIST dataset, Facial recognition dataset, Biometric testing data, Large-scale face dataset, High-quality face images, Ethnicity-diverse face dataset, AI facial recognition training data, NIST biometric test preparation, Clean face image dataset, Identity verification dataset, facial recognition training data, 1:N facial recognition dataset\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "image",
+    "online communities",
+    "hugging face"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

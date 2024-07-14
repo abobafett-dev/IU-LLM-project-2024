@@ -1,0 +1,39 @@
+{
+  "id": "quanhv/fake-news",
+  "id_no": 4664868,
+  "datasetSlugNullable": "fake-news",
+  "ownerUserNullable": "quanhv",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Fake news",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4664868,
+  "datasetSlug": "fake-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "quanhv",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 17,
+  "totalVotes": 0,
+  "totalDownloads": 1,
+  "title": "Fake news",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

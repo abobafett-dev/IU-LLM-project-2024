@@ -1,0 +1,43 @@
+{
+  "id": "shreesudame/covid19-dataset",
+  "id_no": 2503573,
+  "datasetSlugNullable": "covid19-dataset",
+  "ownerUserNullable": "shreesudame",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "COVID-19 dataset",
+  "subtitleNullable": " Exp. global data of covid-19 cases ,tests, deaths, vaccination,hospitalizations",
+  "descriptionNullable": "Explore the global data on confirmed COVID-19 cases FROM 2020 TO 2022\n\n\nCONTENT:\nWhat is the daily number of confirmed cases?\nDaily confirmed cases per million people\nWhat is the cumulative number of confirmed cases?\nCumulative confirmed cases per million people\nWeekly and biweekly cases: where are confirmed cases increasing or falling?\nGlobal comparison: where are confirmed cases increasing most rapidly?\n\n#  COMPLETE DATASET AVAILABLE ON :\n- Explore https://ourworldindata.org/",
+  "datasetId": 2503573,
+  "datasetSlug": "covid19-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shreesudame",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 10244,
+  "totalVotes": 36,
+  "totalDownloads": 1788,
+  "title": "COVID-19 dataset",
+  "hasTitle": true,
+  "subtitle": " Exp. global data of covid-19 cases ,tests, deaths, vaccination,hospitalizations",
+  "hasSubtitle": true,
+  "description": "Explore the global data on confirmed COVID-19 cases FROM 2020 TO 2022\n\n\nCONTENT:\nWhat is the daily number of confirmed cases?\nDaily confirmed cases per million people\nWhat is the cumulative number of confirmed cases?\nCumulative confirmed cases per million people\nWeekly and biweekly cases: where are confirmed cases increasing or falling?\nGlobal comparison: where are confirmed cases increasing most rapidly?\n\n#  COMPLETE DATASET AVAILABLE ON :\n- Explore https://ourworldindata.org/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "exploratory data analysis",
+    "data visualization",
+    "linear regression",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

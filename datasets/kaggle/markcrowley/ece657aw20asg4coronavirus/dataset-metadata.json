@@ -1,0 +1,56 @@
+{
+  "id": "markcrowley/ece657aw20asg4coronavirus",
+  "id_no": 561412,
+  "datasetSlugNullable": "ece657aw20asg4coronavirus",
+  "ownerUserNullable": "markcrowley",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "ECE657AW20-ASG4-Coronavirus",
+  "subtitleNullable": "Data is the Fuel, Algorithms are the Engine, Knowledge is the Destination ",
+  "descriptionNullable": "### COVID-19 Data for Analysis and Machine Learning\nThere are lots of datasets online, more growing every day, to help us all get a handle on this pandemic. Here are just a few links to data we've found that students in ECE 657A, and anyone else who finds their way here, can play with and practice their machine learning skills.\nThe **main dataset** is the [COVID-19 dataset](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) from John Hopkins university.  This data is perfect for time series analysis and Recurrent Neural Networks, the final topic in the course. This dataset will be left *public* so anyone can see it but to join you must request the link from Prof. Crowley or be in the ECE 657A W20 course at the University of Waterloo. \n\n### For ECE 657A W20 Students\nYour bonus grade for assignment 4 comes from creating a kernel from this dataset and writing up some useful analysis and publishing that notebook. You can do any kind of analysis you like but some good places to start are\n- **Analysis**: feature extraction and analysis of the data to look for patterns that aren't evident from the original features (this is hard for the simple spread/infection/death data since there aren't that many features)\n- **Other Data**: utilize any other datasets in your kernels by loading data about the countries themselves (population, density, wealthy etc.) or their responses to the situation. *Tip:* If you open a New Notebook related to this dataset you can easily add new data available on Kaggle and link that to you analysis. \n   - **HOW'S MY FLATTENING COVID19 DATASET** - This dataset has a lot more files and includes a lot of what I was talking about, so if you produce good kernels there you can also count them for your asg4 grade. https://www.kaggle.com/howsmyflattening/covid19-challenges\n- **Predict**: make predictions about confirmed cases, deaths, recoveries or other metrics for the future. You can test you models by training on the past and predicting on the following days, then post a prediction for tomorrow or the next few days given ALL the data up to this point. Hopefully the datasets we've linked here will updated automatically so your kernels would update as well.\n- **Create Tasks:** you can make your own \"Tasks\" as part of this kaggle and propose your own solution to it. Then others can try solving it as well.\n- **Groups:** students can do this assignment either in the *same groups* they had for assignment 3 or individually.\n\n### Suggest other datasets\nWe're happy to add other relevant data to this Kaggle, in particular it would be great to integrate live data on the following:\n- **Progression** of each country/region/city in \"days since X Level\" such as [Days since 100 confirmed cases](https://ourworldindata.org/coronavirus#trajectories-since-the-100th-confirmed-case), see the link for a great example such a dataset being plotted. I haven't see a live link to a csv of that data, but we could generate.\n- **Mitigation Policies** enacted by local governments in each city/region/country. These are *dates* when that region first enacted Level 1, 2, 3, 4 containment, or started encouraging *social distancing* or the date when they closed different levels of schools, pubs, restaurants etc.\n- **The hidden positives**: this would be a dataset, or method for estimating, as described by Emtiyaz Khan in this [twitter thread](https://twitter.com/emtiyazkhan/status/1243021835286921216?s=21). The idea is, how many unreported or unconfirmed cases are there in any region, and can we build an estimate of that number using other regions with widespread testing as a baseline and the death rates which are like an observation of a process with a hidden variable or true infection rate.\n    - Paper discussing one way to compute this : https://cmmid.github.io/topics/covid19/severity/global_cfr_estimates.html",
+  "datasetId": 561412,
+  "datasetSlug": "ece657aw20asg4coronavirus",
+  "hasDatasetSlug": true,
+  "ownerUser": "markcrowley",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 18890,
+  "totalVotes": 25,
+  "totalDownloads": 437,
+  "title": "ECE657AW20-ASG4-Coronavirus",
+  "hasTitle": true,
+  "subtitle": "Data is the Fuel, Algorithms are the Engine, Knowledge is the Destination ",
+  "hasSubtitle": true,
+  "description": "### COVID-19 Data for Analysis and Machine Learning\nThere are lots of datasets online, more growing every day, to help us all get a handle on this pandemic. Here are just a few links to data we've found that students in ECE 657A, and anyone else who finds their way here, can play with and practice their machine learning skills.\nThe **main dataset** is the [COVID-19 dataset](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) from John Hopkins university.  This data is perfect for time series analysis and Recurrent Neural Networks, the final topic in the course. This dataset will be left *public* so anyone can see it but to join you must request the link from Prof. Crowley or be in the ECE 657A W20 course at the University of Waterloo. \n\n### For ECE 657A W20 Students\nYour bonus grade for assignment 4 comes from creating a kernel from this dataset and writing up some useful analysis and publishing that notebook. You can do any kind of analysis you like but some good places to start are\n- **Analysis**: feature extraction and analysis of the data to look for patterns that aren't evident from the original features (this is hard for the simple spread/infection/death data since there aren't that many features)\n- **Other Data**: utilize any other datasets in your kernels by loading data about the countries themselves (population, density, wealthy etc.) or their responses to the situation. *Tip:* If you open a New Notebook related to this dataset you can easily add new data available on Kaggle and link that to you analysis. \n   - **HOW'S MY FLATTENING COVID19 DATASET** - This dataset has a lot more files and includes a lot of what I was talking about, so if you produce good kernels there you can also count them for your asg4 grade. https://www.kaggle.com/howsmyflattening/covid19-challenges\n- **Predict**: make predictions about confirmed cases, deaths, recoveries or other metrics for the future. You can test you models by training on the past and predicting on the following days, then post a prediction for tomorrow or the next few days given ALL the data up to this point. Hopefully the datasets we've linked here will updated automatically so your kernels would update as well.\n- **Create Tasks:** you can make your own \"Tasks\" as part of this kaggle and propose your own solution to it. Then others can try solving it as well.\n- **Groups:** students can do this assignment either in the *same groups* they had for assignment 3 or individually.\n\n### Suggest other datasets\nWe're happy to add other relevant data to this Kaggle, in particular it would be great to integrate live data on the following:\n- **Progression** of each country/region/city in \"days since X Level\" such as [Days since 100 confirmed cases](https://ourworldindata.org/coronavirus#trajectories-since-the-100th-confirmed-case), see the link for a great example such a dataset being plotted. I haven't see a live link to a csv of that data, but we could generate.\n- **Mitigation Policies** enacted by local governments in each city/region/country. These are *dates* when that region first enacted Level 1, 2, 3, 4 containment, or started encouraging *social distancing* or the date when they closed different levels of schools, pubs, restaurants etc.\n- **The hidden positives**: this would be a dataset, or method for estimating, as described by Emtiyaz Khan in this [twitter thread](https://twitter.com/emtiyazkhan/status/1243021835286921216?s=21). The idea is, how many unreported or unconfirmed cases are there in any region, and can we build an estimate of that number using other regions with widespread testing as a baseline and the death rates which are like an observation of a process with a hidden variable or true infection rate.\n    - Paper discussing one way to compute this : https://cmmid.github.io/topics/covid19/severity/global_cfr_estimates.html",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "artificial intelligence",
+    "computer science",
+    "deep learning",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "bghojogh",
+      "role": "writer"
+    },
+    {
+      "username": "natyhv",
+      "role": "writer"
+    },
+    {
+      "username": "elinazeng",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

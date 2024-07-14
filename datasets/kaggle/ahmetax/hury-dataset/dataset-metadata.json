@@ -1,0 +1,40 @@
+{
+  "id": "ahmetax/hury-dataset",
+  "id_no": 238,
+  "datasetSlugNullable": "hury-dataset",
+  "ownerUserNullable": "ahmetax",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Turkish sentences for word2vec training",
+  "subtitleNullable": "Train with gensim word2vec",
+  "descriptionNullable": "In the dataset files there are news from a Turkish newspaper: Hurriyet. The news are separated in sentences. Stopwords, numbers and puctuation characters are all removed from the sentences. The sentences are separated from each other by a newline character. Words are separated by a space.\nFiles are in utf-8 text format.",
+  "datasetId": 238,
+  "datasetSlug": "hury-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahmetax",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 11817,
+  "totalVotes": 21,
+  "totalDownloads": 680,
+  "title": "Turkish sentences for word2vec training",
+  "hasTitle": true,
+  "subtitle": "Train with gensim word2vec",
+  "hasSubtitle": true,
+  "description": "In the dataset files there are news from a Turkish newspaper: Hurriyet. The news are separated in sentences. Stopwords, numbers and puctuation characters are all removed from the sentences. The sentences are separated from each other by a newline character. Words are separated by a space.\nFiles are in utf-8 text format.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "transportation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

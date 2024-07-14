@@ -1,0 +1,41 @@
+{
+  "id": "khlaifiabilel/pastis",
+  "id_no": 2543627,
+  "datasetSlugNullable": "pastis",
+  "ownerUserNullable": "khlaifiabilel",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Semantic segmentation of agricultural parcels",
+  "subtitleNullable": "Public dataset for Panoptic segmentation of agricultural parcels from satellite ",
+  "descriptionNullable": "[PASTIS ](https://paperswithcode.com/dataset/pastis)is a benchmark dataset for panoptic and semantic segmentation of agricultural parcels from satellite image time series. It is composed of 2433 one square kilometer-patches in the French metropolitan territory for which sequences of satellite observations are assembled into a four-dimensional spatio-temporal tensor. The dataset contains both semantic and instance annotations, assigning to each pixel a semantic label and an instance id. There is an official 5 fold split provided in the dataset's metadata.",
+  "datasetId": 2543627,
+  "datasetSlug": "pastis",
+  "hasDatasetSlug": true,
+  "ownerUser": "khlaifiabilel",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 2290,
+  "totalVotes": 30,
+  "totalDownloads": 273,
+  "title": "Semantic segmentation of agricultural parcels",
+  "hasTitle": true,
+  "subtitle": "Public dataset for Panoptic segmentation of agricultural parcels from satellite ",
+  "hasSubtitle": true,
+  "description": "[PASTIS ](https://paperswithcode.com/dataset/pastis)is a benchmark dataset for panoptic and semantic segmentation of agricultural parcels from satellite image time series. It is composed of 2433 one square kilometer-patches in the French metropolitan territory for which sequences of satellite observations are assembled into a four-dimensional spatio-temporal tensor. The dataset contains both semantic and instance annotations, assigning to each pixel a semantic label and an instance id. There is an official 5 fold split provided in the dataset's metadata.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "time series analysis",
+    "transfer learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

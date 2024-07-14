@@ -1,0 +1,43 @@
+{
+  "id": "rupindersinghrana/usgs-earthquakes-2024",
+  "id_no": 4356453,
+  "datasetSlugNullable": "usgs-earthquakes-2024",
+  "ownerUserNullable": "rupindersinghrana",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "USGS Earthquakes 2024",
+  "subtitleNullable": "Real time data -&gt; https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php",
+  "descriptionNullable": "Anticipating seismic tremors is a pivotal issue in Earth science because of their overwhelming and huge scope outcomes. The goal of this project is to predict where likely in the world and on what dates the earthquake will happen. Application and impact of the project\u200b includes potential to improve earthquake hazard assessments that could spare lives and billions of dollars in infrastructure and planning. Given geological locations, magnitude and other factors in dataset from https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php for 30 days past which is updated every minute, we predict or forecast 7 days time in future that is yet to come, the places where quake would likely happen. Since this is event series problem type, proposed solution in this project follows considering binary classification of earthquake occurrence with training period includes fixed rolling window moving averages of past days while for which its labels, a fixed window size shifted ahead in time.",
+  "datasetId": 4356453,
+  "datasetSlug": "usgs-earthquakes-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "rupindersinghrana",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1894,
+  "totalVotes": 51,
+  "totalDownloads": 190,
+  "title": "USGS Earthquakes 2024",
+  "hasTitle": true,
+  "subtitle": "Real time data -&gt; https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php",
+  "hasSubtitle": true,
+  "description": "Anticipating seismic tremors is a pivotal issue in Earth science because of their overwhelming and huge scope outcomes. The goal of this project is to predict where likely in the world and on what dates the earthquake will happen. Application and impact of the project\u200b includes potential to improve earthquake hazard assessments that could spare lives and billions of dollars in infrastructure and planning. Given geological locations, magnitude and other factors in dataset from https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php for 30 days past which is updated every minute, we predict or forecast 7 days time in future that is yet to come, the places where quake would likely happen. Since this is event series problem type, proposed solution in this project follows considering binary classification of earthquake occurrence with training period includes fixed rolling window moving averages of past days while for which its labels, a fixed window size shifted ahead in time.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth science",
+    "geology",
+    "natural disasters",
+    "exploratory data analysis",
+    "decision tree"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jaimepazlopes/game-console-manufactor-and-sales",
+  "id_no": 593905,
+  "datasetSlugNullable": "game-console-manufactor-and-sales",
+  "ownerUserNullable": "jaimepazlopes",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Game Console Manufactor and Sales",
+  "subtitleNullable": "Simple file with console manufactor and sales",
+  "descriptionNullable": "### Context\n\nI create this dataset to increase the data existing on another dataset I am working on https://www.kaggle.com/gregorut/videogamesales\n\n\n### Content\n\nThe console.csv has a console list with its manufacturers and sales. From: https://en.wikipedia.org/wiki/List_of_best-selling_game_consoles\nI made color.csv for practice reasons, it is a file assigning colors to manufacturers for plotting.\nThe region file refers to the regions in https://www.kaggle.com/gregorut/videogamesales , I am just assigning colors for plot.",
+  "datasetId": 593905,
+  "datasetSlug": "game-console-manufactor-and-sales",
+  "hasDatasetSlug": true,
+  "ownerUser": "jaimepazlopes",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 14766,
+  "totalVotes": 16,
+  "totalDownloads": 1503,
+  "title": "Game Console Manufactor and Sales",
+  "hasTitle": true,
+  "subtitle": "Simple file with console manufactor and sales",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI create this dataset to increase the data existing on another dataset I am working on https://www.kaggle.com/gregorut/videogamesales\n\n\n### Content\n\nThe console.csv has a console list with its manufacturers and sales. From: https://en.wikipedia.org/wiki/List_of_best-selling_game_consoles\nI made color.csv for practice reasons, it is a file assigning colors to manufacturers for plotting.\nThe region file refers to the regions in https://www.kaggle.com/gregorut/videogamesales , I am just assigning colors for plot.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "video games",
+    "software"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "jcraggy/baseball",
+  "id_no": 1496321,
+  "datasetSlugNullable": "baseball",
+  "ownerUserNullable": "jcraggy",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Baseball",
+  "subtitleNullable": "MLB Predict Home Runs",
+  "descriptionNullable": "### Context\n\nTry to find the best predictors indicative of a home run, reported as log loss \n\nLog Loss quantifies the accuracy of a classifier by penalizing false classifications. \nMinimizing the Log Loss is equivalent to maximizing the accuracy of the classifier. \n\n### Content\n\nData set adapted from SLICE Competition Season 01 Episode 09   https://www.kaggle.com/c/sliced-s01e09-playoffs-1\n\nThese are only 2 hour competitions so time is limited. Here we can use the data set and take more time for analysis.\n\n### Acknowledgements\n\nAdapted largely from David Robinson on YouTube. His modeling techniques are greatly appreciated in traversing the tidyverse()\n\n### Inspiration\n\nTry to find the best predictors indicative of a home run, reported as log loss\n\nNumeric predictors, categorical predictors, hybrid, how low can we go?\n\n\n# File descriptions\n* train.csv - the training set (from 2020)\n* test.csv - the test set (from 2021)\n* sample_submission.csv - a sample submission file in the correct format\n* park_dimensions.csv - various park details and dimensions (OPTIONAL)\n\n# Data dictionary\n## train.csv\n* bip_id: unique identifier of ball in play\n* game_date: date of game (YYYY-MM-DD)\n* home_team: home team abbreviation\n* away_team: away team abbreviation\n* batter_team: batter's team abbreviation\n* batter_name: batter's name\n* pitcher_name: pitcher's name\n* batter_id: batter's unique identifier\n* pitcher_id: pitcher's unique identifier\n* is_batter_lefty: binary encoding of left-handed batters\n* is_pitcher_lefty: binary encoding of left-handed pitchers\n* bb_type: batted ball type classification\n* bearing: horizontal direction classification of ball leaving the bat (i.e. 'left' ball is traveling to the left side of the field)\n* pitch_name: name of pitch type thrown\n* park: unique identifier of park venue\n* inning: inning number within game\n* outs_when_up: current number of outs\n* balls: current number of balls\n* strikes: current number of strikes\n* plate_x: ball position left(-) or right(+) of center plate (feet)\n* plate_z: ball position above home plate (feet)\n* pitch_mph: speed of pitched ball (miles per hour)\n* launch_speed: speed of ball leaving the bat (miles per hour)\n* launch_angle: vertical angle of ball leaving the bat (degrees relative to horizontal)\n* is_home_run: binary encoding of home runs\n\n## test.csv\nsame as train.csv but without the target variable is_home_run\n\n## park_dimensions.csv\n* park: unique identifier of park venue\n* NAME: park name\n* Cover: designation of stadiums with retractable roof or fixed dome\n* LF_Dim: distance to left field wall (feet)\n* CF_Dim: distance to center field wall (feet)\n* RF_Dim: distance to right field wall (feet)\n* LF_W: height of left field wall (feet)\n* CF_W: height of center field wall (feet)\n* RF_W: height of right field wall (feet)\n",
+  "datasetId": 1496321,
+  "datasetSlug": "baseball",
+  "hasDatasetSlug": true,
+  "ownerUser": "jcraggy",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9609,
+  "totalVotes": 17,
+  "totalDownloads": 850,
+  "title": "Baseball",
+  "hasTitle": true,
+  "subtitle": "MLB Predict Home Runs",
+  "hasSubtitle": true,
+  "description": "### Context\n\nTry to find the best predictors indicative of a home run, reported as log loss \n\nLog Loss quantifies the accuracy of a classifier by penalizing false classifications. \nMinimizing the Log Loss is equivalent to maximizing the accuracy of the classifier. \n\n### Content\n\nData set adapted from SLICE Competition Season 01 Episode 09   https://www.kaggle.com/c/sliced-s01e09-playoffs-1\n\nThese are only 2 hour competitions so time is limited. Here we can use the data set and take more time for analysis.\n\n### Acknowledgements\n\nAdapted largely from David Robinson on YouTube. His modeling techniques are greatly appreciated in traversing the tidyverse()\n\n### Inspiration\n\nTry to find the best predictors indicative of a home run, reported as log loss\n\nNumeric predictors, categorical predictors, hybrid, how low can we go?\n\n\n# File descriptions\n* train.csv - the training set (from 2020)\n* test.csv - the test set (from 2021)\n* sample_submission.csv - a sample submission file in the correct format\n* park_dimensions.csv - various park details and dimensions (OPTIONAL)\n\n# Data dictionary\n## train.csv\n* bip_id: unique identifier of ball in play\n* game_date: date of game (YYYY-MM-DD)\n* home_team: home team abbreviation\n* away_team: away team abbreviation\n* batter_team: batter's team abbreviation\n* batter_name: batter's name\n* pitcher_name: pitcher's name\n* batter_id: batter's unique identifier\n* pitcher_id: pitcher's unique identifier\n* is_batter_lefty: binary encoding of left-handed batters\n* is_pitcher_lefty: binary encoding of left-handed pitchers\n* bb_type: batted ball type classification\n* bearing: horizontal direction classification of ball leaving the bat (i.e. 'left' ball is traveling to the left side of the field)\n* pitch_name: name of pitch type thrown\n* park: unique identifier of park venue\n* inning: inning number within game\n* outs_when_up: current number of outs\n* balls: current number of balls\n* strikes: current number of strikes\n* plate_x: ball position left(-) or right(+) of center plate (feet)\n* plate_z: ball position above home plate (feet)\n* pitch_mph: speed of pitched ball (miles per hour)\n* launch_speed: speed of ball leaving the bat (miles per hour)\n* launch_angle: vertical angle of ball leaving the bat (degrees relative to horizontal)\n* is_home_run: binary encoding of home runs\n\n## test.csv\nsame as train.csv but without the target variable is_home_run\n\n## park_dimensions.csv\n* park: unique identifier of park venue\n* NAME: park name\n* Cover: designation of stadiums with retractable roof or fixed dome\n* LF_Dim: distance to left field wall (feet)\n* CF_Dim: distance to center field wall (feet)\n* RF_Dim: distance to right field wall (feet)\n* LF_W: height of left field wall (feet)\n* CF_W: height of center field wall (feet)\n* RF_W: height of right field wall (feet)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "baseball",
+    "xgboost",
+    "logistic regression",
+    "model explainability"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

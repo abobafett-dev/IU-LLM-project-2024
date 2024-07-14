@@ -1,0 +1,43 @@
+{
+  "id": "equinxx/stock-tweets-for-sentiment-analysis-and-prediction",
+  "id_no": 2706935,
+  "datasetSlugNullable": "stock-tweets-for-sentiment-analysis-and-prediction",
+  "ownerUserNullable": "equinxx",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Stock Tweets for Sentiment Analysis and Prediction",
+  "subtitleNullable": "80K+ tweets datasets for stock market sentiment analysis with stock market data",
+  "descriptionNullable": "### Dataset Information\nThe dataset contains tweets for top 25 most watched stock tickers on Yahoo FInance from 30-09-2021 to 30-09-2022, additionally was added stock market price and volume data for corresponding dates and stocks.\n\n### Dataset description\n- Date - date and time of tweet\n- Tweet - full text of the tweet\n- Stock Name - full stock ticker name for which the tweet was scraped\n- Company Name - full company name for corresponding tweet and stock ticker\n\n### Inspiration\nDataset was inspired by following datasets: [Stock Market Tweet | Sentiment Analysis lexicon by Zeus](https://www.kaggle.com/datasets/utkarshxy/stock-markettweets-lexicon-data) and [Stock-Market Sentiment Dataset](https://www.kaggle.com/datasets/yash612/stockmarket-sentiment-dataset)\n\nThis dataset can be used for:\n- experimenting with sentiment analysis\n- predicting stock prices\n- exploring the connection between public sentiment and stock price movement\n\n## Hope you enjoy this dataset!",
+  "datasetId": 2706935,
+  "datasetSlug": "stock-tweets-for-sentiment-analysis-and-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "equinxx",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 19710,
+  "totalVotes": 56,
+  "totalDownloads": 3696,
+  "title": "Stock Tweets for Sentiment Analysis and Prediction",
+  "hasTitle": true,
+  "subtitle": "80K+ tweets datasets for stock market sentiment analysis with stock market data",
+  "hasSubtitle": true,
+  "description": "### Dataset Information\nThe dataset contains tweets for top 25 most watched stock tickers on Yahoo FInance from 30-09-2021 to 30-09-2022, additionally was added stock market price and volume data for corresponding dates and stocks.\n\n### Dataset description\n- Date - date and time of tweet\n- Tweet - full text of the tweet\n- Stock Name - full stock ticker name for which the tweet was scraped\n- Company Name - full company name for corresponding tweet and stock ticker\n\n### Inspiration\nDataset was inspired by following datasets: [Stock Market Tweet | Sentiment Analysis lexicon by Zeus](https://www.kaggle.com/datasets/utkarshxy/stock-markettweets-lexicon-data) and [Stock-Market Sentiment Dataset](https://www.kaggle.com/datasets/yash612/stockmarket-sentiment-dataset)\n\nThis dataset can be used for:\n- experimenting with sentiment analysis\n- predicting stock prices\n- exploring the connection between public sentiment and stock price movement\n\n## Hope you enjoy this dataset!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "internet",
+    "time series analysis",
+    "investing",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

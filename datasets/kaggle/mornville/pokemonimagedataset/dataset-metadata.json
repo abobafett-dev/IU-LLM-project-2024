@@ -1,0 +1,40 @@
+{
+  "id": "mornville/pokemonimagedataset",
+  "id_no": 658468,
+  "datasetSlugNullable": "pokemonimagedataset",
+  "ownerUserNullable": "mornville",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Pokemon-Image-Dataset",
+  "subtitleNullable": "A Pokemon Image dataset for 1st Generation(151) Pokemon",
+  "descriptionNullable": "### Context\n\nCollected Data to make a prototype Pok\u00e9dex\n\n\n### Content\n\nContains 33,803 Train images  and 7,401 Test Images for all First Generation Pokemon.\n\n\n### Acknowledgements\n\nUsed Bing search Api for collecting and downloading images.\n\n",
+  "datasetId": 658468,
+  "datasetSlug": "pokemonimagedataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mornville",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 3239,
+  "totalVotes": 5,
+  "totalDownloads": 188,
+  "title": "Pokemon-Image-Dataset",
+  "hasTitle": true,
+  "subtitle": "A Pokemon Image dataset for 1st Generation(151) Pokemon",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCollected Data to make a prototype Pok\u00e9dex\n\n\n### Content\n\nContains 33,803 Train images  and 7,401 Test Images for all First Generation Pokemon.\n\n\n### Acknowledgements\n\nUsed Bing search Api for collecting and downloading images.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "berkayeserr/phone-prices",
+  "id_no": 3707219,
+  "datasetSlugNullable": "phone-prices",
+  "ownerUserNullable": "berkayeserr",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Phone Prices",
+  "subtitleNullable": "Many features of popular brands' phones, including price, ram, storage etc.",
+  "descriptionNullable": "This dataset contains phone features including price of popular brands. Every phone in this dataset continues to be manufactured. Does not include discontinued phones.\n\n- phone_name: name of the phone\n- brand: brand of the phone\n- os: operating system of the phone\n- inches size of the phone screen as inches\n- resolution: resolution of the phone screen\n- battery: battery capacity of the phone\n- battery_type: battery type of the phone\n- ram(GB): ram of the phone as GB\n- announcement_date: the date of the announcement of the phone\n- weight(g): weight of the phone as gram\n- storage(GB): storage capacity of the phone as GB\n- video_720p: does phone camera has 720p feature\n- video_1080p: does phone camera has 1080p feature\n- video_4K: does phone camera has 4K feature\n- video_8K: does phone camera has 8K feature\n- video_30fps: does phone camera has 30fps feature\n- video_60fps: does phone camera has 60fps feature\n- video_120fps: does phone camera has 120fps feature\n- video_240fps: does phone camera has 240fps feature\n- video_480fps: does phone camera has 480fps feature\n- video_960fps: does phone camera has 960fps feature\n- price(USD): price of the phone as USD\n\nNOTE : The purpose of this dataset is training and practice. It can never be used for commercial purposes.",
+  "datasetId": 3707219,
+  "datasetSlug": "phone-prices",
+  "hasDatasetSlug": true,
+  "ownerUser": "berkayeserr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 13952,
+  "totalVotes": 44,
+  "totalDownloads": 3250,
+  "title": "Phone Prices",
+  "hasTitle": true,
+  "subtitle": "Many features of popular brands' phones, including price, ram, storage etc.",
+  "hasSubtitle": true,
+  "description": "This dataset contains phone features including price of popular brands. Every phone in this dataset continues to be manufactured. Does not include discontinued phones.\n\n- phone_name: name of the phone\n- brand: brand of the phone\n- os: operating system of the phone\n- inches size of the phone screen as inches\n- resolution: resolution of the phone screen\n- battery: battery capacity of the phone\n- battery_type: battery type of the phone\n- ram(GB): ram of the phone as GB\n- announcement_date: the date of the announcement of the phone\n- weight(g): weight of the phone as gram\n- storage(GB): storage capacity of the phone as GB\n- video_720p: does phone camera has 720p feature\n- video_1080p: does phone camera has 1080p feature\n- video_4K: does phone camera has 4K feature\n- video_8K: does phone camera has 8K feature\n- video_30fps: does phone camera has 30fps feature\n- video_60fps: does phone camera has 60fps feature\n- video_120fps: does phone camera has 120fps feature\n- video_240fps: does phone camera has 240fps feature\n- video_480fps: does phone camera has 480fps feature\n- video_960fps: does phone camera has 960fps feature\n- price(USD): price of the phone as USD\n\nNOTE : The purpose of this dataset is training and practice. It can never be used for commercial purposes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mobile and wireless",
+    "beginner",
+    "exploratory data analysis",
+    "time series analysis",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

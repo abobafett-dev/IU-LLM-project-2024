@@ -1,0 +1,42 @@
+{
+  "id": "shan4224/demonetization-in-india",
+  "id_no": 457,
+  "datasetSlugNullable": "demonetization-in-india",
+  "ownerUserNullable": "shan4224",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Demonetization in India",
+  "subtitleNullable": "Withdrawal of  500 and 1000 bills in India",
+  "descriptionNullable": "Withdrawal of a particular form of currency (such a gold coins, currency notes) from circulation is known as demonetization .\n------------------------------------------------------------------------\n\n**Context:** \n\nOn November 8th, India\u2019s Prime Minister  announced that 86% of the country\u2019s currency would be rendered null and void in 50 days and it will withdraw all 500 and 1,000 rupee notes \u2014 the country\u2019s most popular currency denominations from circulation, while a new 2,000 rupee note added in.  It was posited as a move to crackdown on corruption and the country\u2019s booming under-regulated and virtually untaxed grassroots economy.\n\n**Content:** \n\n***The field names are following:***\n\nID\t                                 \nQUERY\t                                  \nTWEET_ID\t                            \nINSERTED DATE\t                    \nTRUNCATED\t                             \nLANGUAGE\t                                           \npossibly_sensitive\tcoordinates\t                              \nretweeted_status\t                                   \ncreated_at_text\t                                                  \ncreated_at\t                                          \nCONTENT\t                                         \nfrom_user_screen_name\t                                   \nfrom_user_id\tfrom_user_followers_count\t                                  \nfrom_user_friends_count\t                            \nfrom_user_listed_count\t                                      \nfrom_user_statuses_count\t                                 \nfrom_user_description\t                                  \nfrom_user_location\t                                        \nfrom_user_created_at\t                                       \nretweet_count\t                                         \nentities_urls\t                                              \nentities_urls_counts\t                                   \nentities_hashtags\t                                                        \nentities_hashtags_counts\t                                       \nentities_mentions\t                                          \nentities_mentions_counts\t                                       \nin_reply_to_screen_name\t                                          \nin_reply_to_status_id\t                                               \nsource\t                                                   \nentities_expanded_urls\t                                           \njson_output\t                                                        \nentities_media_count\t                                               \nmedia_expanded_url\t                                          \nmedia_url\t                                          \nmedia_type\t                                             \nvideo_link\t                                                            \nphoto_link\t                                      \ntwitpic                                            \n\n\n**Acknowledgements:** \n\nDataset is created by pulling tweets by hashtag from twitter.\n\n**Inspiration:** \n\nDataset can be used to understand trending tweets.\nDataset can be used for sentiment analysis and topic mining.\nDataset can be used for time series analysis of tweets.\n\n**What questions would you like answered by the community ?** \n\nWhat is the general sentiment of tweets ?                                                                                   \nConclusion regarding tweet sentiments varying over time.\n\n**What feedback would be helpful on the data itself ?**\n\nAn in depth analysis of data.",
+  "datasetId": 457,
+  "datasetSlug": "demonetization-in-india",
+  "hasDatasetSlug": true,
+  "ownerUser": "shan4224",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 33908,
+  "totalVotes": 51,
+  "totalDownloads": 3366,
+  "title": "Demonetization in India",
+  "hasTitle": true,
+  "subtitle": "Withdrawal of  500 and 1000 bills in India",
+  "hasSubtitle": true,
+  "description": "Withdrawal of a particular form of currency (such a gold coins, currency notes) from circulation is known as demonetization .\n------------------------------------------------------------------------\n\n**Context:** \n\nOn November 8th, India\u2019s Prime Minister  announced that 86% of the country\u2019s currency would be rendered null and void in 50 days and it will withdraw all 500 and 1,000 rupee notes \u2014 the country\u2019s most popular currency denominations from circulation, while a new 2,000 rupee note added in.  It was posited as a move to crackdown on corruption and the country\u2019s booming under-regulated and virtually untaxed grassroots economy.\n\n**Content:** \n\n***The field names are following:***\n\nID\t                                 \nQUERY\t                                  \nTWEET_ID\t                            \nINSERTED DATE\t                    \nTRUNCATED\t                             \nLANGUAGE\t                                           \npossibly_sensitive\tcoordinates\t                              \nretweeted_status\t                                   \ncreated_at_text\t                                                  \ncreated_at\t                                          \nCONTENT\t                                         \nfrom_user_screen_name\t                                   \nfrom_user_id\tfrom_user_followers_count\t                                  \nfrom_user_friends_count\t                            \nfrom_user_listed_count\t                                      \nfrom_user_statuses_count\t                                 \nfrom_user_description\t                                  \nfrom_user_location\t                                        \nfrom_user_created_at\t                                       \nretweet_count\t                                         \nentities_urls\t                                              \nentities_urls_counts\t                                   \nentities_hashtags\t                                                        \nentities_hashtags_counts\t                                       \nentities_mentions\t                                          \nentities_mentions_counts\t                                       \nin_reply_to_screen_name\t                                          \nin_reply_to_status_id\t                                               \nsource\t                                                   \nentities_expanded_urls\t                                           \njson_output\t                                                        \nentities_media_count\t                                               \nmedia_expanded_url\t                                          \nmedia_url\t                                          \nmedia_type\t                                             \nvideo_link\t                                                            \nphoto_link\t                                      \ntwitpic                                            \n\n\n**Acknowledgements:** \n\nDataset is created by pulling tweets by hashtag from twitter.\n\n**Inspiration:** \n\nDataset can be used to understand trending tweets.\nDataset can be used for sentiment analysis and topic mining.\nDataset can be used for time series analysis of tweets.\n\n**What questions would you like answered by the community ?** \n\nWhat is the general sentiment of tweets ?                                                                                   \nConclusion regarding tweet sentiments varying over time.\n\n**What feedback would be helpful on the data itself ?**\n\nAn in depth analysis of data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "government",
+    "economics",
+    "currencies and foreign exchange",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

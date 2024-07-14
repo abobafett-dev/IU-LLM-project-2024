@@ -1,0 +1,41 @@
+{
+  "id": "neelghoshal/therapist-patient-conversation-dataset",
+  "id_no": 3518421,
+  "datasetSlugNullable": "therapist-patient-conversation-dataset",
+  "ownerUserNullable": "neelghoshal",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Therapist Patient Conversation Dataset",
+  "subtitleNullable": "Conversations b/w therapists and mental health patients",
+  "descriptionNullable": "tags correspond to the specific mental/situational issue being discussed, patterns correspond to the patient sided conversation and responses ('resonses' in the dataset) correspond to the therapist replies",
+  "datasetId": 3518421,
+  "datasetSlug": "therapist-patient-conversation-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "neelghoshal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 2097,
+  "totalVotes": 6,
+  "totalDownloads": 331,
+  "title": "Therapist Patient Conversation Dataset",
+  "hasTitle": true,
+  "subtitle": "Conversations b/w therapists and mental health patients",
+  "hasSubtitle": true,
+  "description": "tags correspond to the specific mental/situational issue being discussed, patterns correspond to the patient sided conversation and responses ('resonses' in the dataset) correspond to the therapist replies",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "nlp",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

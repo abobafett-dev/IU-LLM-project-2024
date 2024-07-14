@@ -1,0 +1,43 @@
+{
+  "id": "mehmetokuyar/traffic-sign-dataset",
+  "id_no": 2423926,
+  "datasetSlugNullable": "traffic-sign-dataset",
+  "ownerUserNullable": "mehmetokuyar",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Traffic Sign Dataset",
+  "subtitleNullable": "This dataset can be used to detect signs around the autonomous vehicle ",
+  "descriptionNullable": "classes names :\n- 1-trespass_sign\n- 2-no_entry\n- 3-straight_or_left_only\n- 4-straight_or_right_only\n- 5-left_only_ahead\n- 6-20_speed_limit_end\n- 7-30_speed_limit\n- 8-20_speed_limit\n- 9-right_only_ahead\n- 10-no_right_turn\n- 11-no_left turn\n- 12-stop\n- 13-no_parking\n- 14-park\n- 15-bus_stop \n- 16-red_light\n- 17-yellow_light\n- 18-green_light\n\nThere is a traffic sign dataset labeled in YOLO format. You can train in any YOLO architecture you want like yolov4-5-6-7.",
+  "datasetId": 2423926,
+  "datasetSlug": "traffic-sign-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mehmetokuyar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 4332,
+  "totalVotes": 1,
+  "totalDownloads": 378,
+  "title": "Traffic Sign Dataset",
+  "hasTitle": true,
+  "subtitle": "This dataset can be used to detect signs around the autonomous vehicle ",
+  "hasSubtitle": true,
+  "description": "classes names :\n- 1-trespass_sign\n- 2-no_entry\n- 3-straight_or_left_only\n- 4-straight_or_right_only\n- 5-left_only_ahead\n- 6-20_speed_limit_end\n- 7-30_speed_limit\n- 8-20_speed_limit\n- 9-right_only_ahead\n- 10-no_right_turn\n- 11-no_left turn\n- 12-stop\n- 13-no_parking\n- 14-park\n- 15-bus_stop \n- 16-red_light\n- 17-yellow_light\n- 18-green_light\n\nThere is a traffic sign dataset labeled in YOLO format. You can train in any YOLO architecture you want like yolov4-5-6-7.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "automobiles and vehicles",
+    "computer vision",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

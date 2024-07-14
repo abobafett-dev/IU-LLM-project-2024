@@ -1,0 +1,39 @@
+{
+  "id": "phangud/newscsv",
+  "id_no": 3558757,
+  "datasetSlugNullable": "newscsv",
+  "ownerUserNullable": "phangud",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "news.csv",
+  "subtitleNullable": "dataset for fake news detection ",
+  "descriptionNullable": "The News CSV format introduces a streamlined approach to represent news data, incorporating essential elements like title, text, and label columns. This standardized format allows news agencies to present information efficiently and consistently, facilitating data exchange and analysis.",
+  "datasetId": 3558757,
+  "datasetSlug": "newscsv",
+  "hasDatasetSlug": true,
+  "ownerUser": "phangud",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 567,
+  "totalVotes": 5,
+  "totalDownloads": 109,
+  "title": "news.csv",
+  "hasTitle": true,
+  "subtitle": "dataset for fake news detection ",
+  "hasSubtitle": true,
+  "description": "The News CSV format introduces a streamlined approach to represent news data, incorporating essential elements like title, text, and label columns. This standardized format allows news agencies to present information efficiently and consistently, facilitating data exchange and analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

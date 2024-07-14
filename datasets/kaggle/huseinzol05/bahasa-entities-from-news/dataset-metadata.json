@@ -1,0 +1,42 @@
+{
+  "id": "huseinzol05/bahasa-entities-from-news",
+  "id_no": 30653,
+  "datasetSlugNullable": "bahasa-entities-from-news",
+  "ownerUserNullable": "huseinzol05",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Bahasa Entities from News",
+  "subtitleNullable": "bahasa entities from local news",
+  "descriptionNullable": "PRN - person, group of people, believes, etc\n\nLOC - location\n\nNORP - Military, police, government, Parties, etc\n\nORG - Organization, company\n\nLAW - related law document, etc\n\nART - art of work, special names, etc\n\nEVENT - event happen, etc\n\nFAC - facility, hospitals, clinics, etc\n\nTIME - date, day, time, etc",
+  "datasetId": 30653,
+  "datasetSlug": "bahasa-entities-from-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "huseinzol05",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 2456,
+  "totalVotes": 2,
+  "totalDownloads": 56,
+  "title": "Bahasa Entities from News",
+  "hasTitle": true,
+  "subtitle": "bahasa entities from local news",
+  "hasSubtitle": true,
+  "description": "PRN - person, group of people, believes, etc\n\nLOC - location\n\nNORP - Military, police, government, Parties, etc\n\nORG - Organization, company\n\nLAW - related law document, etc\n\nART - art of work, special names, etc\n\nEVENT - event happen, etc\n\nFAC - facility, hospitals, clinics, etc\n\nTIME - date, day, time, etc",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "text mining",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

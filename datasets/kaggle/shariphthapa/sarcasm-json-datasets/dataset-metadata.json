@@ -1,0 +1,40 @@
+{
+  "id": "shariphthapa/sarcasm-json-datasets",
+  "id_no": 5176951,
+  "datasetSlugNullable": "sarcasm-json-datasets",
+  "ownerUserNullable": "shariphthapa",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Sarcasm_Json_Datasets",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset contains news headlines with their corresponding article links and a label indicating whether the headline is sarcastic or not. The dataset consists of three columns:\n\n* `article_link`: The URL of the news article.\n* `headline`: The text of the news headline.\n* `is_sarcastic`: A binary label indicating whether the headline is sarcastic (1) or not (0).\n\nThis dataset can be used for training machine learning models to detect sarcasm in text, with potential applications in natural language processing and sentiment analysis.",
+  "datasetId": 5176951,
+  "datasetSlug": "sarcasm-json-datasets",
+  "hasDatasetSlug": true,
+  "ownerUser": "shariphthapa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 92,
+  "totalVotes": 4,
+  "totalDownloads": 7,
+  "title": "Sarcasm_Json_Datasets",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset contains news headlines with their corresponding article links and a label indicating whether the headline is sarcastic or not. The dataset consists of three columns:\n\n* `article_link`: The URL of the news article.\n* `headline`: The text of the news headline.\n* `is_sarcastic`: A binary label indicating whether the headline is sarcastic (1) or not (0).\n\nThis dataset can be used for training machine learning models to detect sarcasm in text, with potential applications in natural language processing and sentiment analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "mypapit/mangomassnet552-dataset",
+  "id_no": 2365881,
+  "datasetSlugNullable": "mangomassnet552-dataset",
+  "ownerUserNullable": "mypapit",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "MangoMassNet-552 Dataset",
+  "subtitleNullable": "Mango Fruit Mass Estimation Dataset (Harumanis)",
+  "descriptionNullable": "# Context\nThe dataset was created because there was no freely available Mango image dataset which includes mango images, its grade and mass/weight.\n\nThis dataset contains 552 images of Harumanis Mango (clone number MA 128) collected from Fruit Collection Center, FAMA Perlis, Malaysia. The images in the dataset is resize according to A4 paper ratio of 8:10. All mango samples are taken on top of blank A4 paper, as the paper is used as visual cue for mass estimation.\n\nYou can refer to the paper found in IEEEXplore titled \"[Mango Mass Estimation from RGB Image with Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/9918807)\" for more information.\n\n#Citation\nIf you use the dataset, please cite this dataset and the paper:\n\nM. H. Bin Ismail, M. N. Wagimin and T. R. Razak, \"Estimating Mango Mass from RGB Image with Convolutional Neural Network,\" 2022 3rd International Conference on Artificial Intelligence and Data Sciences (AiDAS), IPOH, Malaysia, 2022, pp. 105-110, doi: 10.1109/AiDAS56890.2022.9918807.\n\nDataset\nMohammad Hafiz bin Ismail, & Mohd Nazuan Wagimin. (2022). <i>MangoMassNet-552 Dataset</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/3987156\n\n# Inspiration\n- Mass estimation of mangoes / Regression problems\n- Automated mango grading\n- Image classification of mangoes\n- Image classification of Mango variety (cv Harumanis)\n\n# License and Copyright\nCopyright 2022 (c) Mohammad Hafiz bin Ismail, Mohd Nazuan Wagimin \n- This dataset is licensed under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).\n- You can use the dataset in your work, research, study, etc. Provided that you cite/attribute the dataset properly\n\n\n\n",
+  "datasetId": 2365881,
+  "datasetSlug": "mangomassnet552-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mypapit",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2217,
+  "totalVotes": 9,
+  "totalDownloads": 262,
+  "title": "MangoMassNet-552 Dataset",
+  "hasTitle": true,
+  "subtitle": "Mango Fruit Mass Estimation Dataset (Harumanis)",
+  "hasSubtitle": true,
+  "description": "# Context\nThe dataset was created because there was no freely available Mango image dataset which includes mango images, its grade and mass/weight.\n\nThis dataset contains 552 images of Harumanis Mango (clone number MA 128) collected from Fruit Collection Center, FAMA Perlis, Malaysia. The images in the dataset is resize according to A4 paper ratio of 8:10. All mango samples are taken on top of blank A4 paper, as the paper is used as visual cue for mass estimation.\n\nYou can refer to the paper found in IEEEXplore titled \"[Mango Mass Estimation from RGB Image with Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/9918807)\" for more information.\n\n#Citation\nIf you use the dataset, please cite this dataset and the paper:\n\nM. H. Bin Ismail, M. N. Wagimin and T. R. Razak, \"Estimating Mango Mass from RGB Image with Convolutional Neural Network,\" 2022 3rd International Conference on Artificial Intelligence and Data Sciences (AiDAS), IPOH, Malaysia, 2022, pp. 105-110, doi: 10.1109/AiDAS56890.2022.9918807.\n\nDataset\nMohammad Hafiz bin Ismail, & Mohd Nazuan Wagimin. (2022). <i>MangoMassNet-552 Dataset</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/3987156\n\n# Inspiration\n- Mass estimation of mangoes / Regression problems\n- Automated mango grading\n- Image classification of mangoes\n- Image classification of Mango variety (cv Harumanis)\n\n# License and Copyright\nCopyright 2022 (c) Mohammad Hafiz bin Ismail, Mohd Nazuan Wagimin \n- This dataset is licensed under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).\n- You can use the dataset in your work, research, study, etc. Provided that you cite/attribute the dataset properly\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "agriculture",
+    "deep learning",
+    "tabular",
+    "image",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "trainingdatapro/shein-e-commerce-dataset",
+  "id_no": 3071338,
+  "datasetSlugNullable": "shein-e-commerce-dataset",
+  "ownerUserNullable": "trainingdatapro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "SheIn E-Commerce Dataset - 109,000 products",
+  "subtitleNullable": "The comprehensive collection of parsed data from the SheIn - - ecommerce dataset",
+  "descriptionNullable": "# [SheIn Fashion](https://shein.com) 109,00 Products Dataset\n\nUsing web scraping, we collected information on over **109,000** clothing items from the SheIn website. \nThe dataset can be applied in E-commerce analytics in the fashion industry. The similar dataset is [Asos E-Commerce Dataset](https://www.kaggle.com/datasets/trainingdatapro/asos-e-commerce-dataset-30845-products).\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/marketplace-scraping-data?utm_source=kaggle&utm_medium=cpc&utm_campaign=shein-e-commerce-dataset)** to buy the dataset\n\n# Dataset Info\nFor each item, we extracted:\n\n- **url** - link to the item on the website\n- **name** - item name\n- **date** - date of web scraping; for all items - March 11, 2023\n- **SKU** - unique identifier of the item\n- **price** - item price\n- **size** - sizes available on the website\n- **brand** - item brand\n- **description** - additional description, including available colors, composition, and care instructions, in JSON format\n- **images** - photographs from the item description\n\n# \ud83d\udcb4 Buy the Dataset: Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/marketplace-scraping-data?utm_source=kaggle&utm_medium=cpc&utm_campaign=shein-e-commerce-dataset)** to discuss your requirements, learn about the price and buy the dataset\n\n**[TrainingData](https://trainingdata.pro/datasets/marketplace-scraping-data?utm_source=kaggle&utm_medium=cpc&utm_campaign=shein-e-commerce-dataset)** provides high-quality data annotation tailored to your needs.\n\n*keywords: web scraping dataset, dataset marketplace, web scraping data, e-commerce dataset, e-commerce marketplace, e-commerce marketplace scraping dataset, e-commerce sales dataset, ecommerce clothing site, e-commerce text dataset, e-commerce product dataset, shein scraping dataset, shein dataset*",
+  "datasetId": 3071338,
+  "datasetSlug": "shein-e-commerce-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "trainingdatapro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12880,
+  "totalVotes": 39,
+  "totalDownloads": 1782,
+  "title": "SheIn E-Commerce Dataset - 109,000 products",
+  "hasTitle": true,
+  "subtitle": "The comprehensive collection of parsed data from the SheIn - - ecommerce dataset",
+  "hasSubtitle": true,
+  "description": "# [SheIn Fashion](https://shein.com) 109,00 Products Dataset\n\nUsing web scraping, we collected information on over **109,000** clothing items from the SheIn website. \nThe dataset can be applied in E-commerce analytics in the fashion industry. The similar dataset is [Asos E-Commerce Dataset](https://www.kaggle.com/datasets/trainingdatapro/asos-e-commerce-dataset-30845-products).\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/marketplace-scraping-data?utm_source=kaggle&utm_medium=cpc&utm_campaign=shein-e-commerce-dataset)** to buy the dataset\n\n# Dataset Info\nFor each item, we extracted:\n\n- **url** - link to the item on the website\n- **name** - item name\n- **date** - date of web scraping; for all items - March 11, 2023\n- **SKU** - unique identifier of the item\n- **price** - item price\n- **size** - sizes available on the website\n- **brand** - item brand\n- **description** - additional description, including available colors, composition, and care instructions, in JSON format\n- **images** - photographs from the item description\n\n# \ud83d\udcb4 Buy the Dataset: Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/marketplace-scraping-data?utm_source=kaggle&utm_medium=cpc&utm_campaign=shein-e-commerce-dataset)** to discuss your requirements, learn about the price and buy the dataset\n\n**[TrainingData](https://trainingdata.pro/datasets/marketplace-scraping-data?utm_source=kaggle&utm_medium=cpc&utm_campaign=shein-e-commerce-dataset)** provides high-quality data annotation tailored to your needs.\n\n*keywords: web scraping dataset, dataset marketplace, web scraping data, e-commerce dataset, e-commerce marketplace, e-commerce marketplace scraping dataset, e-commerce sales dataset, ecommerce clothing site, e-commerce text dataset, e-commerce product dataset, shein scraping dataset, shein dataset*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "tabular",
+    "retail and shopping",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

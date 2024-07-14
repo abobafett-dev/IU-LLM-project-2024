@@ -1,0 +1,45 @@
+{
+  "id": "alkanerturan/vehicledetection",
+  "id_no": 4465725,
+  "datasetSlugNullable": "vehicledetection",
+  "ownerUserNullable": "alkanerturan",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "VehicleDetection-YOLOv8",
+  "subtitleNullable": "Detect cars, bikes, ambulances, trucks and motorcycles",
+  "descriptionNullable": "Great dataset to practice object detection algorithms. Data structured in YOLOv8 format with train, validation and test datasets along with labels. Also includes the yaml file. There is also a separate test video loaded so if you want to evaluate your model using the test video, you can also use that. Evaluation can be done using the test images as well as the test video. Data is from Roboflow website.",
+  "datasetId": 4465725,
+  "datasetSlug": "vehicledetection",
+  "hasDatasetSlug": true,
+  "ownerUser": "alkanerturan",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8638,
+  "totalVotes": 34,
+  "totalDownloads": 1342,
+  "title": "VehicleDetection-YOLOv8",
+  "hasTitle": true,
+  "subtitle": "Detect cars, bikes, ambulances, trucks and motorcycles",
+  "hasSubtitle": true,
+  "description": "Great dataset to practice object detection algorithms. Data structured in YOLOv8 format with train, validation and test datasets along with labels. Also includes the yaml file. There is also a separate test video loaded so if you want to evaluate your model using the test video, you can also use that. Evaluation can be done using the test images as well as the test video. Data is from Roboflow website.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "automobiles and vehicles",
+    "computer vision",
+    "image classification",
+    "english",
+    "object detection",
+    "yolov8"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

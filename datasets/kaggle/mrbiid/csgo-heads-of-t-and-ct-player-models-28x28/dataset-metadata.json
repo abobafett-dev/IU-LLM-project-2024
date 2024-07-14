@@ -1,0 +1,43 @@
+{
+  "id": "mrbiid/csgo-heads-of-t-and-ct-player-models-28x28",
+  "id_no": 4400498,
+  "datasetSlugNullable": "csgo-heads-of-t-and-ct-player-models-28x28",
+  "ownerUserNullable": "mrbiid",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "CS:GO Heads of T&CT Player Models 28x28 RGB",
+  "subtitleNullable": "RGB and Grayscale made for Image Classification.",
+  "descriptionNullable": "* [CSGO](https://www.kaggle.com/datasets/mrbiid/csgo-heads-of-t-and-ct-player-models-28x28/download?datasetVersionNumber=1) - 10,397 Samples RGB\n* [CSGO_PGM](https://www.kaggle.com/datasets/mrbiid/csgo-heads-of-t-and-ct-player-models-28x28/download?datasetVersionNumber=1) - 17,440 Samples Grayscale\n\nI collected this dataset of 17,440 samples myself, initially manually and then assisted collection with automation but all images have been manually categorised.\n\nThey are split into two folders:\n- Targets (player heads)\n- NonTargets (random csgo map background scenery)\n\n[https://github.com/TFNN/DOCS/tree/main/DATASETS](https://github.com/TFNN/DOCS/tree/main/DATASETS)\n\n**Implementation in Keras:** https://github.com/mrbid/CSGO_TENSOR_TRIGGER",
+  "datasetId": 4400498,
+  "datasetSlug": "csgo-heads-of-t-and-ct-player-models-28x28",
+  "hasDatasetSlug": true,
+  "ownerUser": "mrbiid",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 159,
+  "totalVotes": 3,
+  "totalDownloads": 29,
+  "title": "CS:GO Heads of T&CT Player Models 28x28 RGB",
+  "hasTitle": true,
+  "subtitle": "RGB and Grayscale made for Image Classification.",
+  "hasSubtitle": true,
+  "description": "* [CSGO](https://www.kaggle.com/datasets/mrbiid/csgo-heads-of-t-and-ct-player-models-28x28/download?datasetVersionNumber=1) - 10,397 Samples RGB\n* [CSGO_PGM](https://www.kaggle.com/datasets/mrbiid/csgo-heads-of-t-and-ct-player-models-28x28/download?datasetVersionNumber=1) - 17,440 Samples Grayscale\n\nI collected this dataset of 17,440 samples myself, initially manually and then assisted collection with automation but all images have been manually categorised.\n\nThey are split into two folders:\n- Targets (player heads)\n- NonTargets (random csgo map background scenery)\n\n[https://github.com/TFNN/DOCS/tree/main/DATASETS](https://github.com/TFNN/DOCS/tree/main/DATASETS)\n\n**Implementation in Keras:** https://github.com/mrbid/CSGO_TENSOR_TRIGGER",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "video games",
+    "image",
+    "binary classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

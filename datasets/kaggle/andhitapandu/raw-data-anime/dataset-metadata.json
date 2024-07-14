@@ -1,0 +1,39 @@
+{
+  "id": "andhitapandu/raw-data-anime",
+  "id_no": 4847565,
+  "datasetSlugNullable": "raw-data-anime",
+  "ownerUserNullable": "andhitapandu",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Raw Data Anime",
+  "subtitleNullable": "Anime dataset as raw, untouched by processing, filtering, or clean.",
+  "descriptionNullable": "To learn with a raw dataset, clean it, and then visualize the top 5 anime in a line chart. An anime dataset is a collection of data related to anime content, designed for various purposes of my learning such as scraping and understanding RAW data.\n\n**Step 1: Load and Explore the Raw Dataset**\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F17103116%2Fdade845e38eeaef6febd8f3738d6c238%2Fquery%20kotor.PNG?generation=1713719954334548&alt=media)\n**Step 2: Data Cleaning**\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F17103116%2F97c3053356f777466b52df78e050053b%2Fquery%20bersih.PNG?generation=1713719941382742&alt=media)\n**Step 3: Analyzing, Selecting And Visualize the Top 5 Anime**\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F17103116%2Ff4c61c57b56d969c0365bf3abe369152%2Ftop%205.PNG?generation=1713719924130844&alt=media)\n",
+  "datasetId": 4847565,
+  "datasetSlug": "raw-data-anime",
+  "hasDatasetSlug": true,
+  "ownerUser": "andhitapandu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 32,
+  "totalVotes": 0,
+  "totalDownloads": 4,
+  "title": "Raw Data Anime",
+  "hasTitle": true,
+  "subtitle": "Anime dataset as raw, untouched by processing, filtering, or clean.",
+  "hasSubtitle": true,
+  "description": "To learn with a raw dataset, clean it, and then visualize the top 5 anime in a line chart. An anime dataset is a collection of data related to anime content, designed for various purposes of my learning such as scraping and understanding RAW data.\n\n**Step 1: Load and Explore the Raw Dataset**\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F17103116%2Fdade845e38eeaef6febd8f3738d6c238%2Fquery%20kotor.PNG?generation=1713719954334548&alt=media)\n**Step 2: Data Cleaning**\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F17103116%2F97c3053356f777466b52df78e050053b%2Fquery%20bersih.PNG?generation=1713719941382742&alt=media)\n**Step 3: Analyzing, Selecting And Visualize the Top 5 Anime**\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F17103116%2Ff4c61c57b56d969c0365bf3abe369152%2Ftop%205.PNG?generation=1713719924130844&alt=media)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

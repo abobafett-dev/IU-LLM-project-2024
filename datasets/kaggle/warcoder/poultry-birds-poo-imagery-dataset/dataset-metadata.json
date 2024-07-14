@@ -1,0 +1,42 @@
+{
+  "id": "warcoder/poultry-birds-poo-imagery-dataset",
+  "id_no": 3725719,
+  "datasetSlugNullable": "poultry-birds-poo-imagery-dataset",
+  "ownerUserNullable": "warcoder",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Poultry Birds Poo Image Dataset for Health Status",
+  "subtitleNullable": "Poultry Birds Poo Imagery Dataset for Health Status Prediction",
+  "descriptionNullable": "Imagery dataset of chicken poo of both healthy and non-healthy collected from poultry farms rearing two species of chickens namely: broilers and layers in Nigeria. The dataset has a total of 14,618 labeled images with 100 \u00d7 100 pixels in jpeg format and a label indicating the name of the image from the image number. In the repository, data were uploaded into 2 separate folders; each folder of either healthy or non-healthy contain images taken from different time to the day; morning, afternoon, night and others.\n\n",
+  "datasetId": 3725719,
+  "datasetSlug": "poultry-birds-poo-imagery-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "warcoder",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 571,
+  "totalVotes": 8,
+  "totalDownloads": 64,
+  "title": "Poultry Birds Poo Image Dataset for Health Status",
+  "hasTitle": true,
+  "subtitle": "Poultry Birds Poo Imagery Dataset for Health Status Prediction",
+  "hasSubtitle": true,
+  "description": "Imagery dataset of chicken poo of both healthy and non-healthy collected from poultry farms rearing two species of chickens namely: broilers and layers in Nigeria. The dataset has a total of 14,618 labeled images with 100 \u00d7 100 pixels in jpeg format and a label indicating the name of the image from the image number. In the repository, data were uploaded into 2 separate folders; each folder of either healthy or non-healthy contain images taken from different time to the day; morning, afternoon, night and others.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "image",
+    "binary classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "julianacorts/us-census-of-adults-1994",
+  "id_no": 3436171,
+  "datasetSlugNullable": "us-census-of-adults-1994",
+  "ownerUserNullable": "julianacorts",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "US Census of Adults 1994",
+  "subtitleNullable": "Predict whether income exceeds $50K/yr based on census data. Also known as \"Cens",
+  "descriptionNullable": "**Dataset Characteristics**\nMultivariate\n\n**Subject Area**\nSocial\n\n**Associated Tasks**\nClassification\n\n**Attribute Type**\nCategorical, Integer\n\n**# Instances**\n48842\n\n**# Attributes**\n14\n\n**Additional Information**\n\nExtraction was done by Barry Becker from the 1994 Census database.  A set of reasonably clean records was extracted using the following conditions: ((AAGE&gt;16) && (AGI&gt;100) && (AFNLWGT&gt;1)&& (HRSWK&gt;0))\n\nPrediction task is to determine whether a person makes over 50K a year.\n\n**DOI**\n10.24432/C5XW20\n\n**License**\nThis dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.\n\nThis allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.\n\n**Additional Information**\n\n**Listing of attributes:**\n\n&gt;50K, &lt;=50K.\n\nage: continuous.\nworkclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.\nfnlwgt: continuous.\neducation: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th, Preschool.\neducation-num: continuous.\nmarital-status: Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse.\noccupation: Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces.\nrelationship: Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried.\nrace: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black.\nsex: Female, Male.\ncapital-gain: continuous.\ncapital-loss: continuous.\nhours-per-week: continuous.\nnative-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.\n\n**Further description of the data: **  http://cseweb.ucsd.edu/classes/sp15/cse190-c/reports/sp15/048.pdf",
+  "datasetId": 3436171,
+  "datasetSlug": "us-census-of-adults-1994",
+  "hasDatasetSlug": true,
+  "ownerUser": "julianacorts",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1947,
+  "totalVotes": 28,
+  "totalDownloads": 415,
+  "title": "US Census of Adults 1994",
+  "hasTitle": true,
+  "subtitle": "Predict whether income exceeds $50K/yr based on census data. Also known as \"Cens",
+  "hasSubtitle": true,
+  "description": "**Dataset Characteristics**\nMultivariate\n\n**Subject Area**\nSocial\n\n**Associated Tasks**\nClassification\n\n**Attribute Type**\nCategorical, Integer\n\n**# Instances**\n48842\n\n**# Attributes**\n14\n\n**Additional Information**\n\nExtraction was done by Barry Becker from the 1994 Census database.  A set of reasonably clean records was extracted using the following conditions: ((AAGE&gt;16) && (AGI&gt;100) && (AFNLWGT&gt;1)&& (HRSWK&gt;0))\n\nPrediction task is to determine whether a person makes over 50K a year.\n\n**DOI**\n10.24432/C5XW20\n\n**License**\nThis dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.\n\nThis allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.\n\n**Additional Information**\n\n**Listing of attributes:**\n\n&gt;50K, &lt;=50K.\n\nage: continuous.\nworkclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.\nfnlwgt: continuous.\neducation: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th, Preschool.\neducation-num: continuous.\nmarital-status: Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse.\noccupation: Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces.\nrelationship: Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried.\nrace: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black.\nsex: Female, Male.\ncapital-gain: continuous.\ncapital-loss: continuous.\nhours-per-week: continuous.\nnative-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.\n\n**Further description of the data: **  http://cseweb.ucsd.edu/classes/sp15/cse190-c/reports/sp15/048.pdf",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

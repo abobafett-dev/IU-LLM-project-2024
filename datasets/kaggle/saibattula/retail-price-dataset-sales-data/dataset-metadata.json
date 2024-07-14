@@ -1,0 +1,39 @@
+{
+  "id": "saibattula/retail-price-dataset-sales-data",
+  "id_no": 3988666,
+  "datasetSlugNullable": "retail-price-dataset-sales-data",
+  "ownerUserNullable": "saibattula",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Retail Price Dataset (sales data)",
+  "subtitleNullable": "Sales of the Fashion industry ",
+  "descriptionNullable": "It appears that you've provided a list of column headers typically found in a dataset. To create a Kaggle dataset description, you can provide a detailed explanation of each feature to help users understand the data. Here's a potential description for the features you've listed:\n\nDate: The date when the data entry was recorded or the event occurred.\n\nID: A unique identifier for each entry in the dataset, serving as a primary key.\n\nSKU_ID: Stock Keeping Unit (SKU) identifier, a unique code assigned to each distinct product or item.\n\nPrice: The cost or retail value associated with a particular SKU at a specific point in time.\n\nSKU_Name: The name or description of the SKU, providing information about the product.\n\nGender: The target demographic for the product, indicating whether it is designed for males, females, or is unisex.\n\nCategory: The broad product category to which the SKU belongs (e.g., clothing, electronics, accessories).\n\nBrand: The brand associated with the SKU, representing the company or manufacturer.\n\nCollection: The specific collection or product line to which the SKU belongs.\n\nPrice_Tier: A categorization based on price, indicating whether the product is budget-friendly, mid-range, or premium.\n\nStyle: The aesthetic or design characteristics of the product, providing information about its appearance or features.\n\nCost: The cost incurred by the seller or manufacturer to produce or acquire the SKU.\n\nSales: The quantity of units sold for a particular SKU during a given period.\n\nWhen creating a Kaggle dataset description, it's essential to include information about the context of the data, its source, potential applications, and any relevant data cleaning or preprocessing that has been performed. Additionally, you may want to specify the data types (e.g., numerical, categorical, date) and any potential challenges or considerations for users working with the dataset.",
+  "datasetId": 3988666,
+  "datasetSlug": "retail-price-dataset-sales-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "saibattula",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 378,
+  "totalVotes": 0,
+  "totalDownloads": 78,
+  "title": "Retail Price Dataset (sales data)",
+  "hasTitle": true,
+  "subtitle": "Sales of the Fashion industry ",
+  "hasSubtitle": true,
+  "description": "It appears that you've provided a list of column headers typically found in a dataset. To create a Kaggle dataset description, you can provide a detailed explanation of each feature to help users understand the data. Here's a potential description for the features you've listed:\n\nDate: The date when the data entry was recorded or the event occurred.\n\nID: A unique identifier for each entry in the dataset, serving as a primary key.\n\nSKU_ID: Stock Keeping Unit (SKU) identifier, a unique code assigned to each distinct product or item.\n\nPrice: The cost or retail value associated with a particular SKU at a specific point in time.\n\nSKU_Name: The name or description of the SKU, providing information about the product.\n\nGender: The target demographic for the product, indicating whether it is designed for males, females, or is unisex.\n\nCategory: The broad product category to which the SKU belongs (e.g., clothing, electronics, accessories).\n\nBrand: The brand associated with the SKU, representing the company or manufacturer.\n\nCollection: The specific collection or product line to which the SKU belongs.\n\nPrice_Tier: A categorization based on price, indicating whether the product is budget-friendly, mid-range, or premium.\n\nStyle: The aesthetic or design characteristics of the product, providing information about its appearance or features.\n\nCost: The cost incurred by the seller or manufacturer to produce or acquire the SKU.\n\nSales: The quantity of units sold for a particular SKU during a given period.\n\nWhen creating a Kaggle dataset description, it's essential to include information about the context of the data, its source, potential applications, and any relevant data cleaning or preprocessing that has been performed. Additionally, you may want to specify the data types (e.g., numerical, categorical, date) and any potential challenges or considerations for users working with the dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

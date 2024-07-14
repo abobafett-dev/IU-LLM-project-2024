@@ -1,0 +1,41 @@
+{
+  "id": "alaanagy/8-kinds-of-image-classification",
+  "id_no": 685503,
+  "datasetSlugNullable": "8-kinds-of-image-classification",
+  "ownerUserNullable": "alaanagy",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "8 kinds of image classification ",
+  "subtitleNullable": "( sea , glacier , mountain, cat, dog, street , forest ,buildings)",
+  "descriptionNullable": "This dataset consists of around 35K images, it has 8 categories of photos which are seas, streets, buildings, glaciers, mountains, forests, cats, and dogs.\nAll images shape is (150 , 150 , 3 ) , I collect them from many sources on the internet.",
+  "datasetId": 685503,
+  "datasetSlug": "8-kinds-of-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "alaanagy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 3110,
+  "totalVotes": 2,
+  "totalDownloads": 213,
+  "title": "8 kinds of image classification ",
+  "hasTitle": true,
+  "subtitle": "( sea , glacier , mountain, cat, dog, street , forest ,buildings)",
+  "hasSubtitle": true,
+  "description": "This dataset consists of around 35K images, it has 8 categories of photos which are seas, streets, buildings, glaciers, mountains, forests, cats, and dogs.\nAll images shape is (150 , 150 , 3 ) , I collect them from many sources on the internet.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data visualization",
+    "classification",
+    "cnn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

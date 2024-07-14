@@ -1,0 +1,44 @@
+{
+  "id": "charanchandrasekaran/top-6-economies-in-the-world-by-gdp",
+  "id_no": 2436687,
+  "datasetSlugNullable": "top-6-economies-in-the-world-by-gdp",
+  "ownerUserNullable": "charanchandrasekaran",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Top 6 Economies in the world by GDP",
+  "subtitleNullable": "USA, China, Japan, Germany, United Kingdom, India",
+  "descriptionNullable": "### **CONTENT**\n\nThis dataset contains data on key indicators of world's top 6 Economies (by GDP) which includes USA, China, Japan, Germany, United Kingdom, India between the time interval of  30 years from 1990 to 2020. Data scraped from World Bank Data website and processed using Python Pandas library. This dataset could be used to do Time Series Analysis and Forecasting.\n\n### **Code notebook:**\n https://deepnote.com/workspace/charan-chandrasekaran-9b7f-9e1375d3-f150-44ca-a9fb-feb08a1e8585/project/Data-extraction-from-World-bank-data-on-Top-6-Economies-2cdf8112-d412-4044-a58e-5e464804e9b6\n\n### **INDICATORS**\n\n1. GDP (current US$)\n2. GDP, PPP (current international $)\n3. GDP per capita (current US$)\n4. GDP growth (annual %)\n5. Imports of goods and services (% of GDP)\n6. Exports of goods and services (% of GDP)\n7. Central government debt, total (% of GDP)\n8. Total reserves (includes gold, current US$)\n9. Unemployment, total (% of total labor force) (modelled ILO estimate)\n10. Inflation, consumer prices (annual %)\n11. Personal remittances, received (% of GDP)\n12. Population, total\n13. Population growth (annual %)\n14. Life expectancy at birth, total (years)\n15. Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population)\n\n### **SOURCE**\nThe World Bank : https://data.worldbank.org/country\n             ",
+  "datasetId": 2436687,
+  "datasetSlug": "top-6-economies-in-the-world-by-gdp",
+  "hasDatasetSlug": true,
+  "ownerUser": "charanchandrasekaran",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 7073,
+  "totalVotes": 35,
+  "totalDownloads": 1452,
+  "title": "Top 6 Economies in the world by GDP",
+  "hasTitle": true,
+  "subtitle": "USA, China, Japan, Germany, United Kingdom, India",
+  "hasSubtitle": true,
+  "description": "### **CONTENT**\n\nThis dataset contains data on key indicators of world's top 6 Economies (by GDP) which includes USA, China, Japan, Germany, United Kingdom, India between the time interval of  30 years from 1990 to 2020. Data scraped from World Bank Data website and processed using Python Pandas library. This dataset could be used to do Time Series Analysis and Forecasting.\n\n### **Code notebook:**\n https://deepnote.com/workspace/charan-chandrasekaran-9b7f-9e1375d3-f150-44ca-a9fb-feb08a1e8585/project/Data-extraction-from-World-bank-data-on-Top-6-Economies-2cdf8112-d412-4044-a58e-5e464804e9b6\n\n### **INDICATORS**\n\n1. GDP (current US$)\n2. GDP, PPP (current international $)\n3. GDP per capita (current US$)\n4. GDP growth (annual %)\n5. Imports of goods and services (% of GDP)\n6. Exports of goods and services (% of GDP)\n7. Central government debt, total (% of GDP)\n8. Total reserves (includes gold, current US$)\n9. Unemployment, total (% of total labor force) (modelled ILO estimate)\n10. Inflation, consumer prices (annual %)\n11. Personal remittances, received (% of GDP)\n12. Population, total\n13. Population growth (annual %)\n14. Life expectancy at birth, total (years)\n15. Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population)\n\n### **SOURCE**\nThe World Bank : https://data.worldbank.org/country\n             ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "india",
+    "china ",
+    "europe",
+    "banking",
+    "economics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "world-bank",
+      "name": "world-bank",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

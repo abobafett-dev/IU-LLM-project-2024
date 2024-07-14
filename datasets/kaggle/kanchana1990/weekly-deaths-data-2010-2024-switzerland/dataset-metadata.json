@@ -1,0 +1,39 @@
+{
+  "id": "kanchana1990/weekly-deaths-data-2010-2024-switzerland",
+  "id_no": 5079542,
+  "datasetSlugNullable": "weekly-deaths-data-2010-2024-switzerland",
+  "ownerUserNullable": "kanchana1990",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Weekly Deaths Data 2010-2024 Switzerland",
+  "subtitleNullable": "Detailed Analysis of Weekly Mortality Rates and Trends in Switzerland ",
+  "descriptionNullable": "### Dataset Overview\n\nThe \"Weekly Deaths Data 2010-2024 Switzerland\" dataset provides a comprehensive record of mortality rates over a span of 14 years. This dataset, published by the Federal Statistical Office (FSO), includes weekly figures for the number of deaths, expected number of deaths, and the number of excess deaths categorized by age groups (0-64 and 65+). The data spans from January 4, 2010, to May 12, 2024, offering valuable insights into mortality trends in Switzerland.\n\n### Data Science Applications\n\nThis dataset can be utilized in a variety of data science applications, including:\n\n1. **Epidemiological Studies:** Analyze trends in mortality rates to identify patterns and potential public health concerns.\n2. **Forecasting Models:** Develop predictive models to estimate future mortality rates based on historical data.\n3. **Healthcare Resource Allocation:** Inform healthcare planning and resource distribution by understanding seasonal or annual mortality variations.\n4. **Public Policy Analysis:** Support policy-making decisions with evidence-based insights into demographic mortality trends.\n5. **Impact Assessment:** Evaluate the effects of significant events (e.g., pandemics, natural disasters) on mortality rates.\n\n### Column Descriptors\n\n- **Year:** The year of the recorded data.\n- **Week:** The week number within the year.\n- **Ending:** The ending date of the week (Sunday).\n- **Age:** The age group (0-64 or 65+).\n- **NoDeaths_EP:** The number of deaths recorded.\n- **Expected:** The expected number of deaths for the week, based on historical data.\n- **LowerB:** The lower bound of the expected deaths range.\n- **UpperB:** The upper bound of the expected deaths range.\n- **Diff:** The difference between the observed and expected number of deaths, indicating weeks with excess mortality.\n\n### Ethically Obtained Data\n\nThis dataset has been ethically obtained and is available for open use. Proper attribution must be provided when using the data, and commercial use requires permission from the data owner. The data was meticulously collected and verified by the Federal Statistical Office (FSO), ensuring its accuracy and reliability for various research and analysis purposes.\n\n### Acknowledgements\n\nWe extend our gratitude to [opendata.swiss](https://www.bfs.admin.ch/asset/de/ts-d-14.03.04.03-wr) for providing this invaluable dataset and supporting open data initiatives. We also thank DALL\u00b7E 3 for creating the representative image for this dataset.\n\n",
+  "datasetId": 5079542,
+  "datasetSlug": "weekly-deaths-data-2010-2024-switzerland",
+  "hasDatasetSlug": true,
+  "ownerUser": "kanchana1990",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1417,
+  "totalVotes": 28,
+  "totalDownloads": 318,
+  "title": "Weekly Deaths Data 2010-2024 Switzerland",
+  "hasTitle": true,
+  "subtitle": "Detailed Analysis of Weekly Mortality Rates and Trends in Switzerland ",
+  "hasSubtitle": true,
+  "description": "### Dataset Overview\n\nThe \"Weekly Deaths Data 2010-2024 Switzerland\" dataset provides a comprehensive record of mortality rates over a span of 14 years. This dataset, published by the Federal Statistical Office (FSO), includes weekly figures for the number of deaths, expected number of deaths, and the number of excess deaths categorized by age groups (0-64 and 65+). The data spans from January 4, 2010, to May 12, 2024, offering valuable insights into mortality trends in Switzerland.\n\n### Data Science Applications\n\nThis dataset can be utilized in a variety of data science applications, including:\n\n1. **Epidemiological Studies:** Analyze trends in mortality rates to identify patterns and potential public health concerns.\n2. **Forecasting Models:** Develop predictive models to estimate future mortality rates based on historical data.\n3. **Healthcare Resource Allocation:** Inform healthcare planning and resource distribution by understanding seasonal or annual mortality variations.\n4. **Public Policy Analysis:** Support policy-making decisions with evidence-based insights into demographic mortality trends.\n5. **Impact Assessment:** Evaluate the effects of significant events (e.g., pandemics, natural disasters) on mortality rates.\n\n### Column Descriptors\n\n- **Year:** The year of the recorded data.\n- **Week:** The week number within the year.\n- **Ending:** The ending date of the week (Sunday).\n- **Age:** The age group (0-64 or 65+).\n- **NoDeaths_EP:** The number of deaths recorded.\n- **Expected:** The expected number of deaths for the week, based on historical data.\n- **LowerB:** The lower bound of the expected deaths range.\n- **UpperB:** The upper bound of the expected deaths range.\n- **Diff:** The difference between the observed and expected number of deaths, indicating weeks with excess mortality.\n\n### Ethically Obtained Data\n\nThis dataset has been ethically obtained and is available for open use. Proper attribution must be provided when using the data, and commercial use requires permission from the data owner. The data was meticulously collected and verified by the Federal Statistical Office (FSO), ensuring its accuracy and reliability for various research and analysis purposes.\n\n### Acknowledgements\n\nWe extend our gratitude to [opendata.swiss](https://www.bfs.admin.ch/asset/de/ts-d-14.03.04.03-wr) for providing this invaluable dataset and supporting open data initiatives. We also thank DALL\u00b7E 3 for creating the representative image for this dataset.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

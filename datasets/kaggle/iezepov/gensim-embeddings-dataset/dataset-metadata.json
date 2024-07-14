@@ -1,0 +1,39 @@
+{
+  "id": "iezepov/gensim-embeddings-dataset",
+  "id_no": 207164,
+  "datasetSlugNullable": "gensim-embeddings-dataset",
+  "ownerUserNullable": "iezepov",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Gensim Word Embeddings",
+  "subtitleNullable": "Gensim models for popular word embeddings",
+  "descriptionNullable": "### Context\n\nWord embeddings are awesome \u2013&nbsp;often you can just plug them into your neural net and don't train an embedding layer at all. In this dataset I put together some popular embeddings in a unified file format (genesis models) which is easy to use and fast to load.\n\n### Sources and what's inside:\n* Glove: https://nlp.stanford.edu/projects/glove/\n* Fasttext: https://fasttext.cc/docs/en/english-vectors.html\n* Paragram: https://cogcomp.org/page/resource_view/106\n* word2vec on Google news: https://code.google.com/archive/p/word2vec/\n",
+  "datasetId": 207164,
+  "datasetSlug": "gensim-embeddings-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "iezepov",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 13656,
+  "totalVotes": 58,
+  "totalDownloads": 3796,
+  "title": "Gensim Word Embeddings",
+  "hasTitle": true,
+  "subtitle": "Gensim models for popular word embeddings",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWord embeddings are awesome \u2013&nbsp;often you can just plug them into your neural net and don't train an embedding layer at all. In this dataset I put together some popular embeddings in a unified file format (genesis models) which is easy to use and fast to load.\n\n### Sources and what's inside:\n* Glove: https://nlp.stanford.edu/projects/glove/\n* Fasttext: https://fasttext.cc/docs/en/english-vectors.html\n* Paragram: https://cogcomp.org/page/resource_view/106\n* word2vec on Google news: https://code.google.com/archive/p/word2vec/\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

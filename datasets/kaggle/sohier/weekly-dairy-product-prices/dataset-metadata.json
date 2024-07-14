@@ -1,0 +1,41 @@
+{
+  "id": "sohier/weekly-dairy-product-prices",
+  "id_no": 2263,
+  "datasetSlugNullable": "weekly-dairy-product-prices",
+  "ownerUserNullable": "sohier",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Weekly Dairy Product Prices",
+  "subtitleNullable": "USDA data on bulk dairy production since 2010",
+  "descriptionNullable": "We don't always think about industrial scale food, but cheese blocks the size of a small car are important.\n\nThe Mandatory Price Reporting Act of 2010 (pdf) was passed on September 27, 2010, the act required USDA to release dairy product sales information on or before Wednesday at 3:00 pm EST (unless affected by a Federal Holiday). The act also required the establishment of an electronic mandatory price reporting system for dairy products reported under Public Law 106-532. These dairy statistics will continue to be collected on a weekly basis, AMS-Dairy Programs will collect, analyze, aggregate, and publish dairy product sales information for selected dairy commodities.\n\n### Acknowledgements\n\nThis data is released by the US Department of Agriculture. You can find [the original dataset here][1]. \n\n### Inspiration\n\n- Can you predict changes in moisture content for 40 pound blocks of cheese?\n\n\n  [1]: https://mpr.datamart.ams.usda.gov/menu.do?path=Products%5CDairy",
+  "datasetId": 2263,
+  "datasetSlug": "weekly-dairy-product-prices",
+  "hasDatasetSlug": true,
+  "ownerUser": "sohier",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 24246,
+  "totalVotes": 43,
+  "totalDownloads": 2232,
+  "title": "Weekly Dairy Product Prices",
+  "hasTitle": true,
+  "subtitle": "USDA data on bulk dairy production since 2010",
+  "hasSubtitle": true,
+  "description": "We don't always think about industrial scale food, but cheese blocks the size of a small car are important.\n\nThe Mandatory Price Reporting Act of 2010 (pdf) was passed on September 27, 2010, the act required USDA to release dairy product sales information on or before Wednesday at 3:00 pm EST (unless affected by a Federal Holiday). The act also required the establishment of an electronic mandatory price reporting system for dairy products reported under Public Law 106-532. These dairy statistics will continue to be collected on a weekly basis, AMS-Dairy Programs will collect, analyze, aggregate, and publish dairy product sales information for selected dairy commodities.\n\n### Acknowledgements\n\nThis data is released by the US Department of Agriculture. You can find [the original dataset here][1]. \n\n### Inspiration\n\n- Can you predict changes in moisture content for 40 pound blocks of cheese?\n\n\n  [1]: https://mpr.datamart.ams.usda.gov/menu.do?path=Products%5CDairy",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "agriculture",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

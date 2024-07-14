@@ -1,0 +1,43 @@
+{
+  "id": "guillemservera/fuels-futures-data",
+  "id_no": 3636497,
+  "datasetSlugNullable": "fuels-futures-data",
+  "ownerUserNullable": "guillemservera",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Oil, Gas & Other Fuels Futures Data",
+  "subtitleNullable": "Historical data on Fuels and Energy Futures like Oil or Gas from Yahoo Finance.",
+  "descriptionNullable": "This dataset provides comprehensive and up-to-date information on futures related to oil, gas, and other fuels. Futures are financial contracts obligating the buyer to purchase and the seller to sell a specified amount of a particular fuel at a predetermined price and future date.\n\n**Use Cases**:\n1. **Trend Analysis:** Scrutinize patterns and price fluctuations to anticipate future market directions in the energy sector.\n2. **Academic Research:** Delve into the historical behavior of oil and gas prices and understand the influence of global events on these commodities.\n3. **Trading Strategies:** Develop and test trading tactics based on the dynamics of oil, gas, and other fuel futures.\n4. **Risk Management:** Utilize the dataset for hedging and risk management for corporations involved in the extraction, refining, or trading of fuels.\n\n**Dataset Image Source**:\nPhoto by Pixabay: https://www.pexels.com/photo/industrial-machine-during-golden-hour-162568/\n\n**Column Descriptions**:\n1. **Date:** The date when the data was documented. Format: YYYY-MM-DD.\n2. **Open:** Market's opening price for the day.\n3. **High:** Peak price during the trading window.\n4. **Low:** Lowest traded price during the day.\n5. **Close:** Price at which the market closed.\n6. **Volume:** Number of contracts exchanged during the trading period.\n7. **Ticker:** The unique market quotation symbol for the future.\n8. **Commodity:** Specifies the type of fuel the future contract pertains to (e.g., crude oil, natural gas).",
+  "datasetId": 3636497,
+  "datasetSlug": "fuels-futures-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "guillemservera",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10480,
+  "totalVotes": 51,
+  "totalDownloads": 1973,
+  "title": "Oil, Gas & Other Fuels Futures Data",
+  "hasTitle": true,
+  "subtitle": "Historical data on Fuels and Energy Futures like Oil or Gas from Yahoo Finance.",
+  "hasSubtitle": true,
+  "description": "This dataset provides comprehensive and up-to-date information on futures related to oil, gas, and other fuels. Futures are financial contracts obligating the buyer to purchase and the seller to sell a specified amount of a particular fuel at a predetermined price and future date.\n\n**Use Cases**:\n1. **Trend Analysis:** Scrutinize patterns and price fluctuations to anticipate future market directions in the energy sector.\n2. **Academic Research:** Delve into the historical behavior of oil and gas prices and understand the influence of global events on these commodities.\n3. **Trading Strategies:** Develop and test trading tactics based on the dynamics of oil, gas, and other fuel futures.\n4. **Risk Management:** Utilize the dataset for hedging and risk management for corporations involved in the extraction, refining, or trading of fuels.\n\n**Dataset Image Source**:\nPhoto by Pixabay: https://www.pexels.com/photo/industrial-machine-during-golden-hour-162568/\n\n**Column Descriptions**:\n1. **Date:** The date when the data was documented. Format: YYYY-MM-DD.\n2. **Open:** Market's opening price for the day.\n3. **High:** Peak price during the trading window.\n4. **Low:** Lowest traded price during the day.\n5. **Close:** Price at which the market closed.\n6. **Volume:** Number of contracts exchanged during the trading period.\n7. **Ticker:** The unique market quotation symbol for the future.\n8. **Commodity:** Specifies the type of fuel the future contract pertains to (e.g., crude oil, natural gas).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "economics",
+    "time series analysis",
+    "investing",
+    "oil and gas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

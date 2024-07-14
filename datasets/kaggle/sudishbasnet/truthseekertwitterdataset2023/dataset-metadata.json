@@ -1,0 +1,39 @@
+{
+  "id": "sudishbasnet/truthseekertwitterdataset2023",
+  "id_no": 3549534,
+  "datasetSlugNullable": "truthseekertwitterdataset2023",
+  "ownerUserNullable": "sudishbasnet",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Twitter Dataset",
+  "subtitleNullable": "Referenced from CIC Truth Seeker Dataset 2023",
+  "descriptionNullable": "**Referenced from https://www.unb.ca/cic/datasets/truthseeker-2023.html**\n\n\nThis project aims to create the largest ground truth fake news analysis dataset for real and fake news content in relation to social media posts. Below illustrates the major contributions of the TruthSeeker dataset to the current fake news dataset landscape:\n\nOne of the most extensive benchmark datasets with more than 180,000 labelled Tweets.\n\n1. Three-factor active learning verification method which involved utilising 456 unique, highly skilled, Amazon Mechanical Turkers for labelling each Tweet.\n2. To understand patterns and characteristics of Twitter users, three auxiliary social media scores are also introduced: Bot, credibility, and influence score.\n3. Conducted comprehensive analyses and evaluations on the TruthSeeker dataset, including the establishment of deep learning-based detection models, clustering-based event detection, and exploration of the relationship between tweet labels and the characteristics of online creators/spreaders.\n4. The application of multiple BERT-based models to assess the accuracy of real/fake tweet detection.\n",
+  "datasetId": 3549534,
+  "datasetSlug": "truthseekertwitterdataset2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "sudishbasnet",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 2077,
+  "totalVotes": 3,
+  "totalDownloads": 326,
+  "title": "Twitter Dataset",
+  "hasTitle": true,
+  "subtitle": "Referenced from CIC Truth Seeker Dataset 2023",
+  "hasSubtitle": true,
+  "description": "**Referenced from https://www.unb.ca/cic/datasets/truthseeker-2023.html**\n\n\nThis project aims to create the largest ground truth fake news analysis dataset for real and fake news content in relation to social media posts. Below illustrates the major contributions of the TruthSeeker dataset to the current fake news dataset landscape:\n\nOne of the most extensive benchmark datasets with more than 180,000 labelled Tweets.\n\n1. Three-factor active learning verification method which involved utilising 456 unique, highly skilled, Amazon Mechanical Turkers for labelling each Tweet.\n2. To understand patterns and characteristics of Twitter users, three auxiliary social media scores are also introduced: Bot, credibility, and influence score.\n3. Conducted comprehensive analyses and evaluations on the TruthSeeker dataset, including the establishment of deep learning-based detection models, clustering-based event detection, and exploration of the relationship between tweet labels and the characteristics of online creators/spreaders.\n4. The application of multiple BERT-based models to assess the accuracy of real/fake tweet detection.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

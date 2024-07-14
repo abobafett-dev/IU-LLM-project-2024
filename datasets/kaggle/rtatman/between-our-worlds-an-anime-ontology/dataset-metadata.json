@@ -1,0 +1,41 @@
+{
+  "id": "rtatman/between-our-worlds-an-anime-ontology",
+  "id_no": 2397,
+  "datasetSlugNullable": "between-our-worlds-an-anime-ontology",
+  "ownerUserNullable": "rtatman",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Between Our Worlds: An Anime Ontology",
+  "subtitleNullable": "A Linked Open Dataset of Over 390,000 Anime",
+  "descriptionNullable": "### Context: \n\n**Linked data**: \u201cLinked open data is linked data that is open content. In computing, linked data (often capitalized as Linked Data) is a method of publishing structured data so that it can be interlinked and become more useful through semantic queries. It builds upon standard Web technologies such as HTTP, RDF and URIs, but rather than using them to serve web pages for human readers, it extends them to share information in a way that can be read automatically by computers. This enables data from different sources to be connected and queried.\u201d -- [\u201cLinked Open Data\u201d on Wikipedia](https://en.wikipedia.org/wiki/Linked_data#Linked_open_data)\n\n**Anime**: \u201cAnime is a Japanese term for hand-drawn or computer animation. The word is the abbreviated pronunciation of \"animation\" in Japanese, where this term references all animation. Outside Japan, anime is used to refer specifically to animation from Japan or as a Japanese-disseminated animation style often characterized by colorful graphics, vibrant characters and fantastical themes.\u201d -- [\u201cAnime\u201d on Wikipedia](https://en.wikipedia.org/wiki/Anime)\n\nThis dataset is a linked open dataset that contains information on 391706 anime titles.\n\n### Content: \n\nThis dataset contains two files. The first is the native [N-Triples format](https://en.wikipedia.org/wiki/N-Triples), which is suitable for tasks. The second is a .csv containing three columns:\n\n* **Anime**: the title of the anime\n* **Concept**: the concept\n* **Value**: the value of the concept for that anime\n\nThe .csv is not a true linked data dataset, since it has removed many of the relevant URL\u2019s. However, it should prove easier for data analysis.\n\n### Acknowledgements: \n\nThis dataset has been collected and maintained by Pieter Heyvaert. It is \u00a9 Between Our Worlds and reproduced here under an [MIT license](https://opensource.org/licenses/MIT). You can find more information on this dataset and the most recent version [here](https://betweenourworlds.org/). \n\n### Inspiration: \n\n* Many anime have summaries, under the \u201cdescription\u201d concept. Can you use these to identify common themes in anime? What about training an anime description generator? \n* Can you plot the number of titles released over time? Has the rate of anime production increased or decreased over time?\n",
+  "datasetId": 2397,
+  "datasetSlug": "between-our-worlds-an-anime-ontology",
+  "hasDatasetSlug": true,
+  "ownerUser": "rtatman",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 13322,
+  "totalVotes": 31,
+  "totalDownloads": 491,
+  "title": "Between Our Worlds: An Anime Ontology",
+  "hasTitle": true,
+  "subtitle": "A Linked Open Dataset of Over 390,000 Anime",
+  "hasSubtitle": true,
+  "description": "### Context: \n\n**Linked data**: \u201cLinked open data is linked data that is open content. In computing, linked data (often capitalized as Linked Data) is a method of publishing structured data so that it can be interlinked and become more useful through semantic queries. It builds upon standard Web technologies such as HTTP, RDF and URIs, but rather than using them to serve web pages for human readers, it extends them to share information in a way that can be read automatically by computers. This enables data from different sources to be connected and queried.\u201d -- [\u201cLinked Open Data\u201d on Wikipedia](https://en.wikipedia.org/wiki/Linked_data#Linked_open_data)\n\n**Anime**: \u201cAnime is a Japanese term for hand-drawn or computer animation. The word is the abbreviated pronunciation of \"animation\" in Japanese, where this term references all animation. Outside Japan, anime is used to refer specifically to animation from Japan or as a Japanese-disseminated animation style often characterized by colorful graphics, vibrant characters and fantastical themes.\u201d -- [\u201cAnime\u201d on Wikipedia](https://en.wikipedia.org/wiki/Anime)\n\nThis dataset is a linked open dataset that contains information on 391706 anime titles.\n\n### Content: \n\nThis dataset contains two files. The first is the native [N-Triples format](https://en.wikipedia.org/wiki/N-Triples), which is suitable for tasks. The second is a .csv containing three columns:\n\n* **Anime**: the title of the anime\n* **Concept**: the concept\n* **Value**: the value of the concept for that anime\n\nThe .csv is not a true linked data dataset, since it has removed many of the relevant URL\u2019s. However, it should prove easier for data analysis.\n\n### Acknowledgements: \n\nThis dataset has been collected and maintained by Pieter Heyvaert. It is \u00a9 Between Our Worlds and reproduced here under an [MIT license](https://opensource.org/licenses/MIT). You can find more information on this dataset and the most recent version [here](https://betweenourworlds.org/). \n\n### Inspiration: \n\n* Many anime have summaries, under the \u201cdescription\u201d concept. Can you use these to identify common themes in anime? What about training an anime description generator? \n* Can you plot the number of titles released over time? Has the rate of anime production increased or decreased over time?\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "internet",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

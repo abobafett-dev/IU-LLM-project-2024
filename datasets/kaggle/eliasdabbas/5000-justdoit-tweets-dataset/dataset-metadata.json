@@ -1,0 +1,42 @@
+{
+  "id": "eliasdabbas/5000-justdoit-tweets-dataset",
+  "id_no": 50792,
+  "datasetSlugNullable": "5000-justdoit-tweets-dataset",
+  "ownerUserNullable": "eliasdabbas",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "5,000 #JustDoIt! Tweets Dataset",
+  "subtitleNullable": "People reacting to Nike's endorsement of Colin Kaepernick",
+  "descriptionNullable": "### Context\nNike just announced its partnership with Colin Kaepernick to be the face of the 30th anniversary of its **JustDoIt** campaign.   \nThey used the slogan \"Believe in something, even if it means sacrificing everything.\"  \nKaepernick had made a controversial decision not to stand up during the national anthem, as a protest to police brutality, a while back.  \nThis has stirred a heated debate, and became a big national issue especially when [Donald Trump commented on it](https://www.youtube.com/watch?v=oY3hpZVZ7pk).\n\n\n### Content\n\nThis dataset contains 5,000 tweets that contain the hashtag #JustDoIt.   \nAll tweets happened on September 7, 2018, which is days after Nike made its announcement to endorse Kaepernick.\n\n#### Some of the top entities of those tweets: \n### #JustDoIt #Nike #ColinKaepernick #TakeaKnee\n### \ud83d\ude02 \ud83e\udd23 \u2714 \ud83d\udd25 \u2764 \ud83c\udfc8 \ud83d\udcaf \ud83d\udc99 \ud83c\uddfa\ud83c\uddf8\n### @Nike @Kaepernick7 @realDonaldTrump\n\n\n\n### Acknowledgements\nPython, Twitter, twython, pandas, matplotlib do the heavy lifting in generating the data and exploring it.\n \n### Inspiration\nI'm an online marketing person. Love words, love numbers. Can't help it!  \nI think it's very interesting to see how these issues unfold, and how people respond to them. Maybe you can uncover some hidden insights or patterns.   \nI'm also trying to show how you can [use the `extract_` functions from my `advertools` package](https://www.kaggle.com/eliasdabbas/extract-entities-from-social-media-posts). \n",
+  "datasetId": 50792,
+  "datasetSlug": "5000-justdoit-tweets-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "eliasdabbas",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 35522,
+  "totalVotes": 51,
+  "totalDownloads": 3495,
+  "title": "5,000 #JustDoIt! Tweets Dataset",
+  "hasTitle": true,
+  "subtitle": "People reacting to Nike's endorsement of Colin Kaepernick",
+  "hasSubtitle": true,
+  "description": "### Context\nNike just announced its partnership with Colin Kaepernick to be the face of the 30th anniversary of its **JustDoIt** campaign.   \nThey used the slogan \"Believe in something, even if it means sacrificing everything.\"  \nKaepernick had made a controversial decision not to stand up during the national anthem, as a protest to police brutality, a while back.  \nThis has stirred a heated debate, and became a big national issue especially when [Donald Trump commented on it](https://www.youtube.com/watch?v=oY3hpZVZ7pk).\n\n\n### Content\n\nThis dataset contains 5,000 tweets that contain the hashtag #JustDoIt.   \nAll tweets happened on September 7, 2018, which is days after Nike made its announcement to endorse Kaepernick.\n\n#### Some of the top entities of those tweets: \n### #JustDoIt #Nike #ColinKaepernick #TakeaKnee\n### \ud83d\ude02 \ud83e\udd23 \u2714 \ud83d\udd25 \u2764 \ud83c\udfc8 \ud83d\udcaf \ud83d\udc99 \ud83c\uddfa\ud83c\uddf8\n### @Nike @Kaepernick7 @realDonaldTrump\n\n\n\n### Acknowledgements\nPython, Twitter, twython, pandas, matplotlib do the heavy lifting in generating the data and exploring it.\n \n### Inspiration\nI'm an online marketing person. Love words, love numbers. Can't help it!  \nI think it's very interesting to see how these issues unfold, and how people respond to them. Maybe you can uncover some hidden insights or patterns.   \nI'm also trying to show how you can [use the `extract_` functions from my `advertools` package](https://www.kaggle.com/eliasdabbas/extract-entities-from-social-media-posts). \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "marketing",
+    "text mining",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

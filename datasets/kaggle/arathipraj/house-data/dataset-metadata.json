@@ -1,0 +1,41 @@
+{
+  "id": "arathipraj/house-data",
+  "id_no": 2368755,
+  "datasetSlugNullable": "house-data",
+  "ownerUserNullable": "arathipraj",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "house_data",
+  "subtitleNullable": "King County house price prediction",
+  "descriptionNullable": "## **Content**\n\nThe dataset consists of Price of Houses in King County , Washington from sales between May 2014 and May 2015. Along with house price it consists of information on 18 house features, date of sale and ID of sale.\n\n## **Attribute information**\n1. id - Unique id for each home sold\n2. date - Date of the home saled\n3. price - Price of each home sold\n4. bedrooms - Number of bedrooms\n5.  bathrooms - Number of bathrooms\n6. sqft _ living - Square footage of the apartments interior living space\n7. sqft _ lot - Square footage of the land space\n8. floors - Number of floors\n9. waterfront - A dummy variable for whether the apartment was overlooking the waterfront or not \n10. view - An index from 0 to 4 of how good the view of the property was\n11. condition - an index from 1 to 5 on the condition of the apartment \n12. grade - An index from 1 to 13 , where 1-3falls short of building construction and design, 7 has an average  level of construction and design , and 11-13 have a high quality level of construction and design\n13. sqft _ above - the square footage of the interior housing space that is above ground level \n14. sqft _ basement - the square footage of the inerior housing space that is below ground level\n15. yr _ built - The year of the house was initially built\n16. yr _ renovated - The year of the house's last renovation\n17. zipcode - What zipcode area the house is in \n18. lat - Lattitude\n19. long - Longitude\n20. sqft _ living15 - The square footage of inerior housing living space for the nearest nearest 15 neighbours \n21. sqft _ lot15 - the square footage of the land lots of the nearest 15 neighbours ",
+  "datasetId": 2368755,
+  "datasetSlug": "house-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "arathipraj",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 6480,
+  "totalVotes": 27,
+  "totalDownloads": 1294,
+  "title": "house_data",
+  "hasTitle": true,
+  "subtitle": "King County house price prediction",
+  "hasSubtitle": true,
+  "description": "## **Content**\n\nThe dataset consists of Price of Houses in King County , Washington from sales between May 2014 and May 2015. Along with house price it consists of information on 18 house features, date of sale and ID of sale.\n\n## **Attribute information**\n1. id - Unique id for each home sold\n2. date - Date of the home saled\n3. price - Price of each home sold\n4. bedrooms - Number of bedrooms\n5.  bathrooms - Number of bathrooms\n6. sqft _ living - Square footage of the apartments interior living space\n7. sqft _ lot - Square footage of the land space\n8. floors - Number of floors\n9. waterfront - A dummy variable for whether the apartment was overlooking the waterfront or not \n10. view - An index from 0 to 4 of how good the view of the property was\n11. condition - an index from 1 to 5 on the condition of the apartment \n12. grade - An index from 1 to 13 , where 1-3falls short of building construction and design, 7 has an average  level of construction and design , and 11-13 have a high quality level of construction and design\n13. sqft _ above - the square footage of the interior housing space that is above ground level \n14. sqft _ basement - the square footage of the inerior housing space that is below ground level\n15. yr _ built - The year of the house was initially built\n16. yr _ renovated - The year of the house's last renovation\n17. zipcode - What zipcode area the house is in \n18. lat - Lattitude\n19. long - Longitude\n20. sqft _ living15 - The square footage of inerior housing living space for the nearest nearest 15 neighbours \n21. sqft _ lot15 - the square footage of the land lots of the nearest 15 neighbours ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "text",
+    "ml ethics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

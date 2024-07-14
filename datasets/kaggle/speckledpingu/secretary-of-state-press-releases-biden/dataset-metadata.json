@@ -1,0 +1,43 @@
+{
+  "id": "speckledpingu/secretary-of-state-press-releases-biden",
+  "id_no": 3955493,
+  "datasetSlugNullable": "secretary-of-state-press-releases-biden",
+  "ownerUserNullable": "speckledpingu",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Secretary Of State Press Releases (Biden)",
+  "subtitleNullable": "Office of the Secretary of State Press Releases during the Biden Administration",
+  "descriptionNullable": "The goal of this dataset is to be a part of a build out a comprehensive dataset of all of the secretaries of state statements and briefings since the Clinton Administration (first administration to have a website). \n\nThese statements can be very lengthy, and are of high value for journalism and tracking linguistic changes over time on different issues. Because of the relevance of the statements to current events, this is highly joinable with news datasets to compare and contrast tone, content, etc of an administration versus other source.\n\nAs additional administrations are built out, contrasting language between two administrations on the same topic could be a great source of inspiration for additional nlp. With tags and phrase extraction, taxonomic expansion could be accomplished and these indexed for rapid analysis.\n\nThe companion dataset for the Trump Administration is here: https://www.kaggle.com/datasets/speckledpingu/secretary-of-state-press-releases-trump/data\n\nThe companion dataset for the Obama Administration is here:\nhttps://www.kaggle.com/datasets/speckledpingu/secretary-of-state-press-releases-obama/data",
+  "datasetId": 3955493,
+  "datasetSlug": "secretary-of-state-press-releases-biden",
+  "hasDatasetSlug": true,
+  "ownerUser": "speckledpingu",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 161,
+  "totalVotes": 4,
+  "totalDownloads": 16,
+  "title": "Secretary Of State Press Releases (Biden)",
+  "hasTitle": true,
+  "subtitle": "Office of the Secretary of State Press Releases during the Biden Administration",
+  "hasSubtitle": true,
+  "description": "The goal of this dataset is to be a part of a build out a comprehensive dataset of all of the secretaries of state statements and briefings since the Clinton Administration (first administration to have a website). \n\nThese statements can be very lengthy, and are of high value for journalism and tracking linguistic changes over time on different issues. Because of the relevance of the statements to current events, this is highly joinable with news datasets to compare and contrast tone, content, etc of an administration versus other source.\n\nAs additional administrations are built out, contrasting language between two administrations on the same topic could be a great source of inspiration for additional nlp. With tags and phrase extraction, taxonomic expansion could be accomplished and these indexed for rapid analysis.\n\nThe companion dataset for the Trump Administration is here: https://www.kaggle.com/datasets/speckledpingu/secretary-of-state-press-releases-trump/data\n\nThe companion dataset for the Obama Administration is here:\nhttps://www.kaggle.com/datasets/speckledpingu/secretary-of-state-press-releases-obama/data",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "government",
+    "politics",
+    "beginner",
+    "nlp",
+    "text mining"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

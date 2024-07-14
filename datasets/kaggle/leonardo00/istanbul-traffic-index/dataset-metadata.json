@@ -1,0 +1,41 @@
+{
+  "id": "leonardo00/istanbul-traffic-index",
+  "id_no": 2684802,
+  "datasetSlugNullable": "istanbul-traffic-index",
+  "ownerUserNullable": "leonardo00",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Istanbul Traffic Index",
+  "subtitleNullable": "Time series data for overall Istanbul traffic",
+  "descriptionNullable": "This dataset contains minute-by-minute Traffic Index data for Istanbul traffic. It doesn't have detailed data about individual roads, just the 3 numbers called \"Traffic Index\" in Istanbul traffic apps.",
+  "datasetId": 2684802,
+  "datasetSlug": "istanbul-traffic-index",
+  "hasDatasetSlug": true,
+  "ownerUser": "leonardo00",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1028,
+  "totalVotes": 6,
+  "totalDownloads": 85,
+  "title": "Istanbul Traffic Index",
+  "hasTitle": true,
+  "subtitle": "Time series data for overall Istanbul traffic",
+  "hasSubtitle": true,
+  "description": "This dataset contains minute-by-minute Traffic Index data for Istanbul traffic. It doesn't have detailed data about individual roads, just the 3 numbers called \"Traffic Index\" in Istanbul traffic apps.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "signal processing",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

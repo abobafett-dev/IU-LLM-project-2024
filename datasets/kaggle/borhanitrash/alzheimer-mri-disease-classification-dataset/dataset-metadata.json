@@ -1,0 +1,40 @@
+{
+  "id": "borhanitrash/alzheimer-mri-disease-classification-dataset",
+  "id_no": 5152637,
+  "datasetSlugNullable": "alzheimer-mri-disease-classification-dataset",
+  "ownerUserNullable": "borhanitrash",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Alzheimer MRI Disease Classification Dataset",
+  "subtitleNullable": "Dataset focuses on the classification of Alzheimer's disease based on MRI scans.",
+  "descriptionNullable": "# Introduction\nAlzheimer MRI Disease Classification dataset is a valuable resource for researchers and health medicine applications. This dataset focuses on the classification of Alzheimer's disease based on MRI scans. The dataset consists of brain MRI images labeled into four categories:\n\n'0': Mild_Demented\n\n'1': Moderate_Demented\n\n'2': Non_Demented\n\n'3': Very_Mild_Demented\n\n# Dataset Information\n**Train split:**\n\nName: train\n\nNumber of bytes: 22,560,791.2\n\nNumber of examples: 5,120\n\n**Test split:**\n\nName: test\n\nNumber of bytes: 5,637,447.08\n\nNumber of examples: 1,280\n\nDownload size: 28,289,848 bytes\n\nDataset size: 28,198,238.28 bytes\n\n# Source \nhttps://huggingface.co/datasets/Falah/Alzheimer_MRI\n\n# Citation\nIf you use this dataset in your research or health medicine applications, we kindly request that you cite the following publication:\n\n```python\n@dataset{alzheimer_mri_dataset,\n  author = {Falah.G.Salieh},\n  title = {Alzheimer MRI Dataset},\n  year = {2023},\n  publisher = {Hugging Face},\n  version = {1.0},\n  url = {https://huggingface.co/datasets/Falah/Alzheimer_MRI}\n}\n```",
+  "datasetId": 5152637,
+  "datasetSlug": "alzheimer-mri-disease-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "borhanitrash",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3012,
+  "totalVotes": 59,
+  "totalDownloads": 395,
+  "title": "Alzheimer MRI Disease Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset focuses on the classification of Alzheimer's disease based on MRI scans.",
+  "hasSubtitle": true,
+  "description": "# Introduction\nAlzheimer MRI Disease Classification dataset is a valuable resource for researchers and health medicine applications. This dataset focuses on the classification of Alzheimer's disease based on MRI scans. The dataset consists of brain MRI images labeled into four categories:\n\n'0': Mild_Demented\n\n'1': Moderate_Demented\n\n'2': Non_Demented\n\n'3': Very_Mild_Demented\n\n# Dataset Information\n**Train split:**\n\nName: train\n\nNumber of bytes: 22,560,791.2\n\nNumber of examples: 5,120\n\n**Test split:**\n\nName: test\n\nNumber of bytes: 5,637,447.08\n\nNumber of examples: 1,280\n\nDownload size: 28,289,848 bytes\n\nDataset size: 28,198,238.28 bytes\n\n# Source \nhttps://huggingface.co/datasets/Falah/Alzheimer_MRI\n\n# Citation\nIf you use this dataset in your research or health medicine applications, we kindly request that you cite the following publication:\n\n```python\n@dataset{alzheimer_mri_dataset,\n  author = {Falah.G.Salieh},\n  title = {Alzheimer MRI Dataset},\n  year = {2023},\n  publisher = {Hugging Face},\n  version = {1.0},\n  url = {https://huggingface.co/datasets/Falah/Alzheimer_MRI}\n}\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

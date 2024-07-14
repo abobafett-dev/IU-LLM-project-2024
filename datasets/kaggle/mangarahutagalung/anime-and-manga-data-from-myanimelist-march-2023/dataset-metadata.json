@@ -1,0 +1,39 @@
+{
+  "id": "mangarahutagalung/anime-and-manga-data-from-myanimelist-march-2023",
+  "id_no": 3145318,
+  "datasetSlugNullable": "anime-and-manga-data-from-myanimelist-march-2023",
+  "ownerUserNullable": "mangarahutagalung",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Anime and manga data from MyAnimeList (March 2023)",
+  "subtitleNullable": "",
+  "descriptionNullable": "I have scrapped (almost) all anime and manga data from MyAnimeList through their API. I wanted to understand how the anime industry works in relation to the manga industry and ultimately build a model to predict upcoming anime MyAnimeList scores. So I thought might as well share this data with other anime enthusiasts here at Kaggle.\n\nLimitation: there seem to be missing mal_ids, even though I have tried to request the API multiple times. If you're interested in completing all of the mal_ids, you can list all of the missing mal_ids from the range(0, len(mal_ids)) and request them through the MyAnimeList API.\n\nAll rights belong to MyAnimeList.",
+  "datasetId": 3145318,
+  "datasetSlug": "anime-and-manga-data-from-myanimelist-march-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "mangarahutagalung",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 312,
+  "totalVotes": 1,
+  "totalDownloads": 44,
+  "title": "Anime and manga data from MyAnimeList (March 2023)",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "I have scrapped (almost) all anime and manga data from MyAnimeList through their API. I wanted to understand how the anime industry works in relation to the manga industry and ultimately build a model to predict upcoming anime MyAnimeList scores. So I thought might as well share this data with other anime enthusiasts here at Kaggle.\n\nLimitation: there seem to be missing mal_ids, even though I have tried to request the API multiple times. If you're interested in completing all of the mal_ids, you can list all of the missing mal_ids from the range(0, len(mal_ids)) and request them through the MyAnimeList API.\n\nAll rights belong to MyAnimeList.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

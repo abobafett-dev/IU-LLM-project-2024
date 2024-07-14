@@ -1,0 +1,43 @@
+{
+  "id": "leonardobolek/anlise-de-assinantes-de-newsletter",
+  "id_no": 1148874,
+  "datasetSlugNullable": "anlise-de-assinantes-de-newsletter",
+  "ownerUserNullable": "leonardobolek",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Analise de Assinantes de Newsletter",
+  "subtitleNullable": "Analise de dados de assinantes da newsletter de uma empresa fict\u00edcia",
+  "descriptionNullable": "## Contexto\nA Empresa X (fict\u00edcia) solicitou uma an\u00e1lise dos dados de newsletter dos per\u00edodos de 2017 a 2018, focando no n\u00famero de assinantes e se houve um aumento de assinaturas.\n\n## Tipo de an\u00e1lise\n- S\u00e9ries temporais.\n\n## Bibliotecas utilizadas:\n- Pandas;\n- Seaborn;\n- Matplotlib.\n",
+  "datasetId": 1148874,
+  "datasetSlug": "anlise-de-assinantes-de-newsletter",
+  "hasDatasetSlug": true,
+  "ownerUser": "leonardobolek",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1298,
+  "totalVotes": 2,
+  "totalDownloads": 34,
+  "title": "Analise de Assinantes de Newsletter",
+  "hasTitle": true,
+  "subtitle": "Analise de dados de assinantes da newsletter de uma empresa fict\u00edcia",
+  "hasSubtitle": true,
+  "description": "## Contexto\nA Empresa X (fict\u00edcia) solicitou uma an\u00e1lise dos dados de newsletter dos per\u00edodos de 2017 a 2018, focando no n\u00famero de assinantes e se houve um aumento de assinaturas.\n\n## Tipo de an\u00e1lise\n- S\u00e9ries temporais.\n\n## Bibliotecas utilizadas:\n- Pandas;\n- Seaborn;\n- Matplotlib.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "marketing",
+    "beginner",
+    "time series analysis",
+    "tabular",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

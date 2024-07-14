@@ -1,0 +1,43 @@
+{
+  "id": "roberttareen/amazon-laptop-product-listings",
+  "id_no": 3563699,
+  "datasetSlugNullable": "amazon-laptop-product-listings",
+  "ownerUserNullable": "roberttareen",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Amazon Laptop Product Listings July 2023",
+  "subtitleNullable": "Specifications, Prices and Ratings of Laptops on Amazon",
+  "descriptionNullable": "## **Description**\nThis dataset consists of product listing information for laptops scraped from Amazon.com. The data includes product details such as the rating, price, operating system, title, review count, and display size. The original dataset had storage and RAM columns, however, the scraper was unable to extract these values properly, and they are thus excluded from the final version. I am including the original data with the faulty columns in the case someone may find them somewhat useful. \n\n## **Methodology**\nThe data was collected by scraping product listings on Amazon.com using ChatGPT's code interpreter. Around 15 pages of listings have been scraped. Many listings which were unsuccessfully extracted have been removed. This was due to the non-uniformity of Amazon's listings elements.  \n\n##**Data Dictionary**\nrating: The average customer rating out of 5 as of July 26, 2023.\nprice: The price of the product in USD as of July 26, 2023. \nos: The operating system of the laptop. Blanks generally indicate that the laptop is running Chrome OS.\nlisting_title: The title of the laptop listing. The first word is usually the manufacturer's name. \nreview_count: The total number of customer reviews as of July 26, 2023.\ndisplay_size: The size of the laptop's display in inches. \n",
+  "datasetId": 3563699,
+  "datasetSlug": "amazon-laptop-product-listings",
+  "hasDatasetSlug": true,
+  "ownerUser": "roberttareen",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 230,
+  "totalVotes": 0,
+  "totalDownloads": 27,
+  "title": "Amazon Laptop Product Listings July 2023",
+  "hasTitle": true,
+  "subtitle": "Specifications, Prices and Ratings of Laptops on Amazon",
+  "hasSubtitle": true,
+  "description": "## **Description**\nThis dataset consists of product listing information for laptops scraped from Amazon.com. The data includes product details such as the rating, price, operating system, title, review count, and display size. The original dataset had storage and RAM columns, however, the scraper was unable to extract these values properly, and they are thus excluded from the final version. I am including the original data with the faulty columns in the case someone may find them somewhat useful. \n\n## **Methodology**\nThe data was collected by scraping product listings on Amazon.com using ChatGPT's code interpreter. Around 15 pages of listings have been scraped. Many listings which were unsuccessfully extracted have been removed. This was due to the non-uniformity of Amazon's listings elements.  \n\n##**Data Dictionary**\nrating: The average customer rating out of 5 as of July 26, 2023.\nprice: The price of the product in USD as of July 26, 2023. \nos: The operating system of the laptop. Blanks generally indicate that the laptop is running Chrome OS.\nlisting_title: The title of the laptop listing. The first word is usually the manufacturer's name. \nreview_count: The total number of customer reviews as of July 26, 2023.\ndisplay_size: The size of the laptop's display in inches. \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "north america",
+    "beginner",
+    "tabular",
+    "e-commerce services",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

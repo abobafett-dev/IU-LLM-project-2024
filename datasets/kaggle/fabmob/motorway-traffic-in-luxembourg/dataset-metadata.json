@@ -1,0 +1,42 @@
+{
+  "id": "fabmob/motorway-traffic-in-luxembourg",
+  "id_no": 823972,
+  "datasetSlugNullable": "motorway-traffic-in-luxembourg",
+  "ownerUserNullable": "fabmob",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Motorway traffic in Luxembourg",
+  "subtitleNullable": " Speed \u200b\u200band flow measurements by more than 180 cameras on Luxembourg's highways",
+  "descriptionNullable": "### Context\n\nThe Luxembourg administration of Ponts et Chauss\u00e9es makes available a set of open data via the Luxembourg data platform data.public.lu\n[https://data.public.lu/fr/organizations/administration-des-ponts-et-chaussees](https://data.public.lu/fr/organizations/administration-des-ponts-et-chaussees)\n\nThe Motorway traffic data can be queried in real time every 5 minutes for each motorway (A1, A3, A4, A6, A7, A13, B40)\n\nThe data are available through the luxembourgish data platform : [https://data.public.lu/en/datasets/cita-donnees-trafic-en-datex-ii/](https://data.public.lu/en/datasets/cita-donnees-trafic-en-datex-ii/)\n\nFor example, the url to load the real time data for the motorway A1 is : [https://www.cita.lu/info_trafic/datex/trafficstatus_a1](https://www.cita.lu/info_trafic/datex/trafficstatus_a1)\n\nThe real time traffic status can be viewed on the site [cita.lu](https://cita.lu/en)\n\n&gt; This datasets aggregate all the data (186 cameras) of the motorways (A1, A3, A4, A6, A7, A13, B40) between the 19/11/2019 and the 26/12/2019.\n\n### Content\n\nFor each of the 186 cameras on the motorways (A1, A3, A4, A6, A7, A13, B40) the following data has been captured every 5 minutes between the 19/11/2019 and the 26/12/2019 :\n- Camera ID\n- Measurement timestamp\n- Direction ( from town, to town)\n- Latitude and longitude of the camera\n- Distance from the camera to the start of the motorway (camera at km x)\n- Average speed in km/h\n- Traffic concentration in percentage\n- Traffic flow in number of cars per hour\n\nColumns are\n['id','time','latitude','longitude','direction','road','trafficStatus','avgVehicleSpeed','vehicleFlowRate','trafficConcentration']\n\n\n### Acknowledgements\n\nThanks to the producer of this data, Administration des Ponts et Chauss\u00e9es du Luxembourg, that makes the data available through the site data.public.lu \n\n[https://data.public.lu/en/datasets/cita-donnees-trafic-en-datex-ii/](https://data.public.lu/en/datasets/cita-donnees-trafic-en-datex-ii/)\n\n### Inspiration\n\nEvery day, more than 200,000 cross-border workers come to work in Luxembourg, causing regular traffic jams.\n\nWith these data, several directions of study are possible:\n+ Time series forecasting : predict traffic flow\n+ Predict traffic jams\n+ Network analysis : analysis the car flow \n",
+  "datasetId": 823972,
+  "datasetSlug": "motorway-traffic-in-luxembourg",
+  "hasDatasetSlug": true,
+  "ownerUser": "fabmob",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6954,
+  "totalVotes": 13,
+  "totalDownloads": 743,
+  "title": "Motorway traffic in Luxembourg",
+  "hasTitle": true,
+  "subtitle": " Speed \u200b\u200band flow measurements by more than 180 cameras on Luxembourg's highways",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe Luxembourg administration of Ponts et Chauss\u00e9es makes available a set of open data via the Luxembourg data platform data.public.lu\n[https://data.public.lu/fr/organizations/administration-des-ponts-et-chaussees](https://data.public.lu/fr/organizations/administration-des-ponts-et-chaussees)\n\nThe Motorway traffic data can be queried in real time every 5 minutes for each motorway (A1, A3, A4, A6, A7, A13, B40)\n\nThe data are available through the luxembourgish data platform : [https://data.public.lu/en/datasets/cita-donnees-trafic-en-datex-ii/](https://data.public.lu/en/datasets/cita-donnees-trafic-en-datex-ii/)\n\nFor example, the url to load the real time data for the motorway A1 is : [https://www.cita.lu/info_trafic/datex/trafficstatus_a1](https://www.cita.lu/info_trafic/datex/trafficstatus_a1)\n\nThe real time traffic status can be viewed on the site [cita.lu](https://cita.lu/en)\n\n&gt; This datasets aggregate all the data (186 cameras) of the motorways (A1, A3, A4, A6, A7, A13, B40) between the 19/11/2019 and the 26/12/2019.\n\n### Content\n\nFor each of the 186 cameras on the motorways (A1, A3, A4, A6, A7, A13, B40) the following data has been captured every 5 minutes between the 19/11/2019 and the 26/12/2019 :\n- Camera ID\n- Measurement timestamp\n- Direction ( from town, to town)\n- Latitude and longitude of the camera\n- Distance from the camera to the start of the motorway (camera at km x)\n- Average speed in km/h\n- Traffic concentration in percentage\n- Traffic flow in number of cars per hour\n\nColumns are\n['id','time','latitude','longitude','direction','road','trafficStatus','avgVehicleSpeed','vehicleFlowRate','trafficConcentration']\n\n\n### Acknowledgements\n\nThanks to the producer of this data, Administration des Ponts et Chauss\u00e9es du Luxembourg, that makes the data available through the site data.public.lu \n\n[https://data.public.lu/en/datasets/cita-donnees-trafic-en-datex-ii/](https://data.public.lu/en/datasets/cita-donnees-trafic-en-datex-ii/)\n\n### Inspiration\n\nEvery day, more than 200,000 cross-border workers come to work in Luxembourg, causing regular traffic jams.\n\nWith these data, several directions of study are possible:\n+ Time series forecasting : predict traffic flow\n+ Predict traffic jams\n+ Network analysis : analysis the car flow \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "business",
+    "transportation",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

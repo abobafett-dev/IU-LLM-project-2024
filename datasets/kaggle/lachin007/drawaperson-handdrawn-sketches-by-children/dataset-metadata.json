@@ -1,0 +1,43 @@
+{
+  "id": "lachin007/drawaperson-handdrawn-sketches-by-children",
+  "id_no": 1403645,
+  "datasetSlugNullable": "drawaperson-handdrawn-sketches-by-children",
+  "ownerUserNullable": "lachin007",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Draw-a-Person hand-drawn sketches",
+  "subtitleNullable": "Draw-a-Person hand-drawn sketches by children 4 to 11 years",
+  "descriptionNullable": "### About the dataset\n\nThis a dataset created during PhD thesis study of Ochilbek Rakhmanov. Nearly 1000 images were drawn by primary school students and were classified by professionals into 8 classes according to their mental ages. The task during the research was to train the machine to classify the dataset automatically.\n\n### Research\nThere are several published papers on this dataset, with highest prediction accuracy of %65, which still needs a major improvement. \nLink to the papers: https://github.com/MrLachin/DAPT_classification/tree/main/published_papers.",
+  "datasetId": 1403645,
+  "datasetSlug": "drawaperson-handdrawn-sketches-by-children",
+  "hasDatasetSlug": true,
+  "ownerUser": "lachin007",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 5491,
+  "totalVotes": 10,
+  "totalDownloads": 248,
+  "title": "Draw-a-Person hand-drawn sketches",
+  "hasTitle": true,
+  "subtitle": "Draw-a-Person hand-drawn sketches by children 4 to 11 years",
+  "hasSubtitle": true,
+  "description": "### About the dataset\n\nThis a dataset created during PhD thesis study of Ochilbek Rakhmanov. Nearly 1000 images were drawn by primary school students and were classified by professionals into 8 classes according to their mental ages. The task during the research was to train the machine to classify the dataset automatically.\n\n### Research\nThere are several published papers on this dataset, with highest prediction accuracy of %65, which still needs a major improvement. \nLink to the papers: https://github.com/MrLachin/DAPT_classification/tree/main/published_papers.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "medicine",
+    "computer vision",
+    "classification",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

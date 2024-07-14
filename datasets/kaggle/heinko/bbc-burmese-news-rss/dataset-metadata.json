@@ -1,0 +1,40 @@
+{
+  "id": "heinko/bbc-burmese-news-rss",
+  "id_no": 3965872,
+  "datasetSlugNullable": "bbc-burmese-news-rss",
+  "ownerUserNullable": "heinko",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "BBC Burmese News rss",
+  "subtitleNullable": "RSS feed of BBC Burmese news, auto updating daily",
+  "descriptionNullable": "This dataset is to store the rss feed of BBC Burmese news. It includes the news title and short description. \n\nThe good thing about BBC's short descriptions is they make it full sentence unlike other Burmese news.\n\nRead more about BBC Burmese News RSS [here](https://www.bbc.com/burmese/help/2010/01/000000_rss_help)",
+  "datasetId": 3965872,
+  "datasetSlug": "bbc-burmese-news-rss",
+  "hasDatasetSlug": true,
+  "ownerUser": "heinko",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 163,
+  "totalVotes": 7,
+  "totalDownloads": 17,
+  "title": "BBC Burmese News rss",
+  "hasTitle": true,
+  "subtitle": "RSS feed of BBC Burmese news, auto updating daily",
+  "hasSubtitle": true,
+  "description": "This dataset is to store the rss feed of BBC Burmese news. It includes the news title and short description. \n\nThe good thing about BBC's short descriptions is they make it full sentence unlike other Burmese news.\n\nRead more about BBC Burmese News RSS [here](https://www.bbc.com/burmese/help/2010/01/000000_rss_help)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news",
+    "burmese"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

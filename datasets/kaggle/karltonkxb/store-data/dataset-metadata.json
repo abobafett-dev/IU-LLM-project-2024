@@ -1,0 +1,43 @@
+{
+  "id": "karltonkxb/store-data",
+  "id_no": 4987642,
+  "datasetSlugNullable": "store-data",
+  "ownerUserNullable": "karltonkxb",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Brazil E-commerce dataset",
+  "subtitleNullable": "Brazil E-commerce dataset",
+  "descriptionNullable": "## Dataset Description\n\nThis dataset contains historical sales data for an e-commerce platform, including customer behavior, product preferences, and transaction details. The data is structured to support analyses aimed at understanding customer behavior, predicting product preferences, and improving overall revenue through strategic marketing and sales efforts. \n\n### Key Components:\n- **Customer Data**: Includes demographic information, purchase history, and browsing behavior.\n- **Product Data**: Details about the products, such as category, price, and sales volume.\n- **Transaction Data**: Records of individual transactions, including timestamps, purchased items, and total amounts.\n- **Reviews Data**: Customer reviews and ratings for products, useful for sentiment analysis and product feedback.\n\n### Usage:\nThe dataset is intended for:\n- Analyzing customer behavior to improve marketing strategies.\n- Predicting product preferences to enhance cross-selling and up-selling.\n- Automating reporting and creating real-time dashboards.\n- Implementing and testing machine learning models for sales prediction and customer retention strategies.\n\n### Format:\nThe dataset is provided in CSV format, with each file corresponding to a different aspect of the e-commerce data (e.g., customers, products, transactions, reviews). Each file includes relevant columns for the type of data it contains.",
+  "datasetId": 4987642,
+  "datasetSlug": "store-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "karltonkxb",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 160,
+  "totalVotes": 1,
+  "totalDownloads": 24,
+  "title": "Brazil E-commerce dataset",
+  "hasTitle": true,
+  "subtitle": "Brazil E-commerce dataset",
+  "hasSubtitle": true,
+  "description": "## Dataset Description\n\nThis dataset contains historical sales data for an e-commerce platform, including customer behavior, product preferences, and transaction details. The data is structured to support analyses aimed at understanding customer behavior, predicting product preferences, and improving overall revenue through strategic marketing and sales efforts. \n\n### Key Components:\n- **Customer Data**: Includes demographic information, purchase history, and browsing behavior.\n- **Product Data**: Details about the products, such as category, price, and sales volume.\n- **Transaction Data**: Records of individual transactions, including timestamps, purchased items, and total amounts.\n- **Reviews Data**: Customer reviews and ratings for products, useful for sentiment analysis and product feedback.\n\n### Usage:\nThe dataset is intended for:\n- Analyzing customer behavior to improve marketing strategies.\n- Predicting product preferences to enhance cross-selling and up-selling.\n- Automating reporting and creating real-time dashboards.\n- Implementing and testing machine learning models for sales prediction and customer retention strategies.\n\n### Format:\nThe dataset is provided in CSV format, with each file corresponding to a different aspect of the e-commerce data (e.g., customers, products, transactions, reviews). Each file includes relevant columns for the type of data it contains.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "brazil",
+    "business",
+    "data visualization",
+    "regression",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

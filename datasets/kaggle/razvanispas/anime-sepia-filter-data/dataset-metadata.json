@@ -1,0 +1,44 @@
+{
+  "id": "razvanispas/anime-sepia-filter-data",
+  "id_no": 1340177,
+  "datasetSlugNullable": "anime-sepia-filter-data",
+  "ownerUserNullable": "razvanispas",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "anime_sepia_filter_data",
+  "subtitleNullable": "Anime artworks with sepia filter",
+  "descriptionNullable": "### Context\n\nOnce I had an assignment where we had to imagine that we were analysts at Facebook and in my first day I had to train a model that can help us identify if a picture has filters or not because we want to promote natural content. We were told to train a model that can identify if a picture has a sepia filter or not. As we were not provided any dataset, I decided to create my own so I chose anime pictures because I find them cute :). I wasn't too satisfied with the results as my CNN provided an accuracy of only 90% on the test set and I wonder if somebody can make it work even better than I did. I also find it a beautiful way to try your hands on the first convolutional neuronal network if you are an anime fan like me ^^.\n\n### Content\n\nMy data set contains two folders: one for training and one for testing. In each of these two folders, you have a folder with the real pictures and a folder with the same pictures but with a sepia filter above. I split the data based on classes so that it can be easier in case you decide to read them with keras. \n\n\n### Inspiration\n\nHow far can a small hobby like anime and manga lead you to another step in developing intelligent models?",
+  "datasetId": 1340177,
+  "datasetSlug": "anime-sepia-filter-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "razvanispas",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 1706,
+  "totalVotes": 4,
+  "totalDownloads": 82,
+  "title": "anime_sepia_filter_data",
+  "hasTitle": true,
+  "subtitle": "Anime artworks with sepia filter",
+  "hasSubtitle": true,
+  "description": "### Context\n\nOnce I had an assignment where we had to imagine that we were analysts at Facebook and in my first day I had to train a model that can help us identify if a picture has filters or not because we want to promote natural content. We were told to train a model that can identify if a picture has a sepia filter or not. As we were not provided any dataset, I decided to create my own so I chose anime pictures because I find them cute :). I wasn't too satisfied with the results as my CNN provided an accuracy of only 90% on the test set and I wonder if somebody can make it work even better than I did. I also find it a beautiful way to try your hands on the first convolutional neuronal network if you are an anime fan like me ^^.\n\n### Content\n\nMy data set contains two folders: one for training and one for testing. In each of these two folders, you have a folder with the real pictures and a folder with the same pictures but with a sepia filter above. I split the data based on classes so that it can be easier in case you decide to read them with keras. \n\n\n### Inspiration\n\nHow far can a small hobby like anime and manga lead you to another step in developing intelligent models?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "art",
+    "beginner",
+    "cnn",
+    "anime and manga",
+    "keras",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "maxinstellar/forecasting-task",
+  "id_no": 907519,
+  "datasetSlugNullable": "forecasting-task",
+  "ownerUserNullable": "maxinstellar",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Forecasting task",
+  "subtitleNullable": "Execute a forecasting task. Description of the task in the attached files.",
+  "descriptionNullable": "### Context\n\nIn this test task, you need to build a sales forecast for the month (March 2020).\nYou have historical data for 2 full years, as well as 1 quarter of 2020.\nThe dataset shows sales for two brands across three stores.\n\n\n### Content\n\nThere are 4 files in a dataset:\n1. sales_train - sales for the period from 2018.01.01 to 2019.03.31\n2. Items - this table contains common information on brands\n3. stock - this file contains count of days with zero balance for items\n4. test_submission - a sample of what the final file should look like.\n\n### Acknowledgements\n\nThanks to \"Zolotoe Yabloko\" company for the data provided specially for Zero to Pandas course from Jovian.ml\n\n\n### Inspiration\n\nThis task is a forecasting task. The expected content item:\n    \u2022 Carry out preprocessing of data (search for anomalies, removal / cut of outliers, etc.). Conduct time series analysis (graphical presentation, descriptive statistics).\n    \u2022 Summarize the results of the cleaning, data preprocessing. Draw conclusions based on your analysis.\n    \u2022 Feature engineering\n    \u2022 Which of the algorithms is better suited. What data do you think you need to enrich the current dataset for more accurate, effective sales forecasting.\n    \u2022 Construction of a forecast and its assessment. Please comment on your chosen metric to evaluate the forecast. MAE, RMSE, etc? and why. Is it necessary to use CV in this example? Will it give the best result.\n\nIf needed, some EDA analysis: https://github.com/max1mka1/sales-forecast-data-exploration",
+  "datasetId": 907519,
+  "datasetSlug": "forecasting-task",
+  "hasDatasetSlug": true,
+  "ownerUser": "maxinstellar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 3945,
+  "totalVotes": 6,
+  "totalDownloads": 256,
+  "title": "Forecasting task",
+  "hasTitle": true,
+  "subtitle": "Execute a forecasting task. Description of the task in the attached files.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIn this test task, you need to build a sales forecast for the month (March 2020).\nYou have historical data for 2 full years, as well as 1 quarter of 2020.\nThe dataset shows sales for two brands across three stores.\n\n\n### Content\n\nThere are 4 files in a dataset:\n1. sales_train - sales for the period from 2018.01.01 to 2019.03.31\n2. Items - this table contains common information on brands\n3. stock - this file contains count of days with zero balance for items\n4. test_submission - a sample of what the final file should look like.\n\n### Acknowledgements\n\nThanks to \"Zolotoe Yabloko\" company for the data provided specially for Zero to Pandas course from Jovian.ml\n\n\n### Inspiration\n\nThis task is a forecasting task. The expected content item:\n    \u2022 Carry out preprocessing of data (search for anomalies, removal / cut of outliers, etc.). Conduct time series analysis (graphical presentation, descriptive statistics).\n    \u2022 Summarize the results of the cleaning, data preprocessing. Draw conclusions based on your analysis.\n    \u2022 Feature engineering\n    \u2022 Which of the algorithms is better suited. What data do you think you need to enrich the current dataset for more accurate, effective sales forecasting.\n    \u2022 Construction of a forecast and its assessment. Please comment on your chosen metric to evaluate the forecast. MAE, RMSE, etc? and why. Is it necessary to use CV in this example? Will it give the best result.\n\nIf needed, some EDA analysis: https://github.com/max1mka1/sales-forecast-data-exploration",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "make-up and cosmetics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

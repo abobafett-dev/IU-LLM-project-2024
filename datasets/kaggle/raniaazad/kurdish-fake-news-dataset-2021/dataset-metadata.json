@@ -1,0 +1,44 @@
+{
+  "id": "raniaazad/kurdish-fake-news-dataset-2021",
+  "id_no": 1367792,
+  "datasetSlugNullable": "kurdish-fake-news-dataset-2021",
+  "ownerUserNullable": "raniaazad",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "FakeKurdNews - Fake Kurdish News Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nThe majority of the previous studies got focused on detecting fake news in the English language due to the availability of well-known annotated fake corpus openly available, variety of fact-checkers around the world while the less-resourced languages left behind such as the Kurdish language. While the Kurdish language is spoken by more than 30 million people around the world, yet, it is considered as less-resourced in the Natural Language Processing (NLP) domain due to the inaccessibility of  NLP tools and the shortage or unavailability of the labeled corpus.\n\nThis is a repository for a fake news dataset for a research project at the College of Informatics, Sulaimani Polytechnic University, Iraq. \n\n[In this paper:](https://turcomat.org/index.php/turkbilmat/article/view/8393) full details about data collection, pre-processing and classifiers used on this dataset.\n\n### Content\n\nOur dataset consists of 3 sets of news articles crawled from Facebook pages in KurdKurdish language only in different subjects.\n\nThe dataset consists of a set of articles/news labeled by 0 (fake) or 1 (credible).\nThe dataset consists of: \n- 5000 articles labeled as true \n- 5000 articles labeled false\n- 5000 articles automatically modified from the real articles to create fake news\n\n",
+  "datasetId": 1367792,
+  "datasetSlug": "kurdish-fake-news-dataset-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "raniaazad",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 2524,
+  "totalVotes": 4,
+  "totalDownloads": 119,
+  "title": "FakeKurdNews - Fake Kurdish News Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe majority of the previous studies got focused on detecting fake news in the English language due to the availability of well-known annotated fake corpus openly available, variety of fact-checkers around the world while the less-resourced languages left behind such as the Kurdish language. While the Kurdish language is spoken by more than 30 million people around the world, yet, it is considered as less-resourced in the Natural Language Processing (NLP) domain due to the inaccessibility of  NLP tools and the shortage or unavailability of the labeled corpus.\n\nThis is a repository for a fake news dataset for a research project at the College of Informatics, Sulaimani Polytechnic University, Iraq. \n\n[In this paper:](https://turcomat.org/index.php/turkbilmat/article/view/8393) full details about data collection, pre-processing and classifiers used on this dataset.\n\n### Content\n\nOur dataset consists of 3 sets of news articles crawled from Facebook pages in KurdKurdish language only in different subjects.\n\nThe dataset consists of a set of articles/news labeled by 0 (fake) or 1 (credible).\nThe dataset consists of: \n- 5000 articles labeled as true \n- 5000 articles labeled false\n- 5000 articles automatically modified from the real articles to create fake news\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "naive bayes",
+    "svm",
+    "decision tree",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

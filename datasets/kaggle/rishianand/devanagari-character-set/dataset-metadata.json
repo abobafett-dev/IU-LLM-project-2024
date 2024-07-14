@@ -1,0 +1,42 @@
+{
+  "id": "rishianand/devanagari-character-set",
+  "id_no": 1168,
+  "datasetSlugNullable": "devanagari-character-set",
+  "ownerUserNullable": "rishianand",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Devanagari Character Set",
+  "subtitleNullable": "Over 92 thousand images of characters from devanagari script",
+  "descriptionNullable": "# Context \nThis is a dataset of Devanagari Script Characters. It comprises of 92000 images [32x32 px] corresponding to 46 characters, consonants \"ka\" to \"gya\", and the digits 0 to 9. The vowels are missing.\n\n\n# Content\nThe CSV file is of the dimension 92000 * 1025. There are 1024 input features of pixel values in grayscale (0 to 255). The column \"character\" represents the Devanagari Character Name corresponding to each image.\n\n\n# Acknowledgements\nThis dataset was originally created by Computer Vision Research Group, Nepal. [website archive] (https://web.archive.org/web/20160105230017/http://cvresearchnepal.com/wordpress/dhcd/)\n\n# Example Script\nhttps://nbviewer.jupyter.org/github/rishianand9/devanagari-character-recognition/blob/master/DCRS.ipynb",
+  "datasetId": 1168,
+  "datasetSlug": "devanagari-character-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "rishianand",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 41609,
+  "totalVotes": 92,
+  "totalDownloads": 4386,
+  "title": "Devanagari Character Set",
+  "hasTitle": true,
+  "subtitle": "Over 92 thousand images of characters from devanagari script",
+  "hasSubtitle": true,
+  "description": "# Context \nThis is a dataset of Devanagari Script Characters. It comprises of 92000 images [32x32 px] corresponding to 46 characters, consonants \"ka\" to \"gya\", and the digits 0 to 9. The vowels are missing.\n\n\n# Content\nThe CSV file is of the dimension 92000 * 1025. There are 1024 input features of pixel values in grayscale (0 to 255). The column \"character\" represents the Devanagari Character Name corresponding to each image.\n\n\n# Acknowledgements\nThis dataset was originally created by Computer Vision Research Group, Nepal. [website archive] (https://web.archive.org/web/20160105230017/http://cvresearchnepal.com/wordpress/dhcd/)\n\n# Example Script\nhttps://nbviewer.jupyter.org/github/rishianand9/devanagari-character-recognition/blob/master/DCRS.ipynb",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "linguistics",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

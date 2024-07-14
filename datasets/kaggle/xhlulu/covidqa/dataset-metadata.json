@@ -1,0 +1,42 @@
+{
+  "id": "xhlulu/covidqa",
+  "id_no": 600878,
+  "datasetSlugNullable": "covidqa",
+  "ownerUserNullable": "xhlulu",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "COVID-QA",
+  "subtitleNullable": "A collection of COVID-19 Q&A pairs and transformer baselines for QA evaluation",
+  "descriptionNullable": "# COVID-QA\n\n*A collection of COVID-19 Q&A pairs and transformer baselines for evaluating question-answering models*\n\n### Links\n\n\ud83d\udcbe [Official Kaggle Dataset](https://www.kaggle.com/xhlulu/covidqa)\n\n\ud83d\udcbb [Official Github Repository](https://github.com/xhlulu/covid-qa)\n\n:bookmark: [Alternate Download Link](https://github.com/xhlulu/covid-qa/releases)\n\n### Data summary\n\n* **400+ pairs** collected from 15 English news websites across 4 continents -&gt; `community.csv`\n* **600+ pairs** queried from 26 Stackexchange communities, grouped in 3 distinct categories -&gt; `news.csv`\n* **800+ pairs** retrieved from CDC and WHO's official FAQs, available in 8 languages -&gt; `multilingual.csv`\n* All pairs are cleaned with regex, labelled with metadata, converted to tables, and stored in CSV files.\n* Each question also includes a heuristically-sampled negative (incorrect) answer. The selection process varies depending on the dataset, and is optional.\n\nIn addition, we included a clean, tabular version of **290k non-COVID Q&A pairs**, queried from the same Stackexchange communities. You can [download it here](https://www.kaggle.com/xhlulu/stackexchange-qa-pairs).\n\n### Model summary\n\n* Electra-small and Electra-base, both trained on 500k subsample of [Healthtap Q&A pairs](https://github.com/durakkerem/Medical-Question-Answer-Datasets).\n* Electra-small and Electra-base, both trained on 290k question and answer pairs from Stackexchange.\n* 2 versions of Multilingual DistilBERT, trained on Healthtap and on Stackexchange, respectively.\n* All the models were finetuned in `tf.keras` on Kaggle's TPUs. \n* All the training scripts are available on Kaggle, and can be easily rerun. Check out the \"Source Code\" section for more information.\n\n### Are you releasing a new model for diagnosing COVID-19? Can we start using it for our projects?\n\nThe goal of COVID-QA is not to release novel models, but to **provide a dataset for evaluating your own Q&A models**, along with strong **baselines that you can easily reproduce and improve**. In fact, the datasets relate more closely to news, public health, and community discussions; it is **not intended to be used in a clinical setting, and should not be used to influence clinical outcomes**. Both the data and models are there to help you for your research projects or R&D prototypes. **If you are planning to build and deploy any model or system that uses COVID-QA in some way, please ensure that it is sufficiently tested and validated by medical and public health experts. The content of this collection has not been medically validated.**\n\n### For more information\n\nAll the instructions are on our repository. [Check it out](https://github.com/xhlulu/covid-qa)!\n\n### Notes\n\nThe banner image used was edited from this [image released by CDC](https://phil.cdc.gov/Details.aspx?pid=23354) under Creative Commons.",
+  "datasetId": 600878,
+  "datasetSlug": "covidqa",
+  "hasDatasetSlug": true,
+  "ownerUser": "xhlulu",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 24612,
+  "totalVotes": 29,
+  "totalDownloads": 1412,
+  "title": "COVID-QA",
+  "hasTitle": true,
+  "subtitle": "A collection of COVID-19 Q&A pairs and transformer baselines for QA evaluation",
+  "hasSubtitle": true,
+  "description": "# COVID-QA\n\n*A collection of COVID-19 Q&A pairs and transformer baselines for evaluating question-answering models*\n\n### Links\n\n\ud83d\udcbe [Official Kaggle Dataset](https://www.kaggle.com/xhlulu/covidqa)\n\n\ud83d\udcbb [Official Github Repository](https://github.com/xhlulu/covid-qa)\n\n:bookmark: [Alternate Download Link](https://github.com/xhlulu/covid-qa/releases)\n\n### Data summary\n\n* **400+ pairs** collected from 15 English news websites across 4 continents -&gt; `community.csv`\n* **600+ pairs** queried from 26 Stackexchange communities, grouped in 3 distinct categories -&gt; `news.csv`\n* **800+ pairs** retrieved from CDC and WHO's official FAQs, available in 8 languages -&gt; `multilingual.csv`\n* All pairs are cleaned with regex, labelled with metadata, converted to tables, and stored in CSV files.\n* Each question also includes a heuristically-sampled negative (incorrect) answer. The selection process varies depending on the dataset, and is optional.\n\nIn addition, we included a clean, tabular version of **290k non-COVID Q&A pairs**, queried from the same Stackexchange communities. You can [download it here](https://www.kaggle.com/xhlulu/stackexchange-qa-pairs).\n\n### Model summary\n\n* Electra-small and Electra-base, both trained on 500k subsample of [Healthtap Q&A pairs](https://github.com/durakkerem/Medical-Question-Answer-Datasets).\n* Electra-small and Electra-base, both trained on 290k question and answer pairs from Stackexchange.\n* 2 versions of Multilingual DistilBERT, trained on Healthtap and on Stackexchange, respectively.\n* All the models were finetuned in `tf.keras` on Kaggle's TPUs. \n* All the training scripts are available on Kaggle, and can be easily rerun. Check out the \"Source Code\" section for more information.\n\n### Are you releasing a new model for diagnosing COVID-19? Can we start using it for our projects?\n\nThe goal of COVID-QA is not to release novel models, but to **provide a dataset for evaluating your own Q&A models**, along with strong **baselines that you can easily reproduce and improve**. In fact, the datasets relate more closely to news, public health, and community discussions; it is **not intended to be used in a clinical setting, and should not be used to influence clinical outcomes**. Both the data and models are there to help you for your research projects or R&D prototypes. **If you are planning to build and deploy any model or system that uses COVID-QA in some way, please ensure that it is sufficiently tested and validated by medical and public health experts. The content of this collection has not been medically validated.**\n\n### For more information\n\nAll the instructions are on our repository. [Check it out](https://github.com/xhlulu/covid-qa)!\n\n### Notes\n\nThe banner image used was edited from this [image released by CDC](https://phil.cdc.gov/Details.aspx?pid=23354) under Creative Commons.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "text",
+    "news",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

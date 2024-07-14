@@ -1,0 +1,39 @@
+{
+  "id": "shramanabhattacharya/store-sales-ts-forecastingmerged-dataset",
+  "id_no": 1797079,
+  "datasetSlugNullable": "store-sales-ts-forecastingmerged-dataset",
+  "ownerUserNullable": "shramanabhattacharya",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Store Sales - T.S Forecasting...Merged Dataset",
+  "subtitleNullable": "Use Machine Learning to predict grocery sales",
+  "descriptionNullable": "This dataset is a merged dataset created from the data provided in the competition \"Store Sales - Time Series Forecasting\". The other datasets that were provided there apart from train and test (for example holidays_events, oil, stores, etc.) could not be used in the final prediction. According to my understanding, through the EDA of the merged dataset, we will be able to get a clearer picture of the other factors that might also affect the final prediction of grocery sales. Therefore, I created this merged dataset and posted it here for the further scope of analysis.\n\n**##### Data Description Data Field Information**\n(This is a copy of the description as provided in the actual dataset)\n\n**Train.csv**\n- **id**: store id\n- **date**: date of the sale\n- **store_nbr**: identifies the store at which the products are sold.\n-**family**: identifies the type of product sold.\n- **sales**: gives the total sales for a product family at a particular store at a given date. Fractional values are possible since products can be sold in fractional units (1.5 kg of cheese, for instance, as opposed to 1 bag of chips).\n- **onpromotion**: gives the total number of items in a product family that were being promoted at a store on a given date.\n- Store metadata, including ****city, state, type, and cluster.****\n- **cluster** is a grouping of similar stores.\n- Holidays and Events, with metadata\nNOTE: Pay special attention to the **transferred** column. A holiday that is transferred officially falls on that calendar day but was moved to another date by the government. A transferred day is more like a normal day than a holiday. To find the day that it was celebrated, look for the corresponding row where the type is Transfer. For example, the holiday Independencia de Guayaquil was transferred from 2012-10-09 to 2012-10-12, which means it was celebrated on 2012-10-12. Days that are type Bridge are extra days that are added to a holiday (e.g., to extend the break across a long weekend). These are frequently made up by the type Work Day which is a day not normally scheduled for work (e.g., Saturday) that is meant to pay back the Bridge.\nAdditional holidays are days added to a regular calendar holiday, for example, as typically happens around Christmas (making Christmas Eve a holiday).\n- **dcoilwtico**: Daily oil price. Includes values during both the train and test data timeframes. (Ecuador is an oil-dependent country and its economic health is highly vulnerable to shocks in oil prices.)\n\n**Note: ***There is a **transaction** column in the training dataset which displays the sales transactions on that particular date.\n*\n**Test.csv**\n- The test data, having the same features like the training data. You will predict the target sales for the dates in this file.\n- The dates in the test data are for the 15 days after the last date in the training data.\n**Note: ***There is a **no transaction** column in the test dataset as was there in the training dataset. Therefore, while building the model, you might exclude this column and may use it only for EDA.*\n\n**submission.csv**\n- A sample submission file in the correct format.",
+  "datasetId": 1797079,
+  "datasetSlug": "store-sales-ts-forecastingmerged-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shramanabhattacharya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 4758,
+  "totalVotes": 12,
+  "totalDownloads": 459,
+  "title": "Store Sales - T.S Forecasting...Merged Dataset",
+  "hasTitle": true,
+  "subtitle": "Use Machine Learning to predict grocery sales",
+  "hasSubtitle": true,
+  "description": "This dataset is a merged dataset created from the data provided in the competition \"Store Sales - Time Series Forecasting\". The other datasets that were provided there apart from train and test (for example holidays_events, oil, stores, etc.) could not be used in the final prediction. According to my understanding, through the EDA of the merged dataset, we will be able to get a clearer picture of the other factors that might also affect the final prediction of grocery sales. Therefore, I created this merged dataset and posted it here for the further scope of analysis.\n\n**##### Data Description Data Field Information**\n(This is a copy of the description as provided in the actual dataset)\n\n**Train.csv**\n- **id**: store id\n- **date**: date of the sale\n- **store_nbr**: identifies the store at which the products are sold.\n-**family**: identifies the type of product sold.\n- **sales**: gives the total sales for a product family at a particular store at a given date. Fractional values are possible since products can be sold in fractional units (1.5 kg of cheese, for instance, as opposed to 1 bag of chips).\n- **onpromotion**: gives the total number of items in a product family that were being promoted at a store on a given date.\n- Store metadata, including ****city, state, type, and cluster.****\n- **cluster** is a grouping of similar stores.\n- Holidays and Events, with metadata\nNOTE: Pay special attention to the **transferred** column. A holiday that is transferred officially falls on that calendar day but was moved to another date by the government. A transferred day is more like a normal day than a holiday. To find the day that it was celebrated, look for the corresponding row where the type is Transfer. For example, the holiday Independencia de Guayaquil was transferred from 2012-10-09 to 2012-10-12, which means it was celebrated on 2012-10-12. Days that are type Bridge are extra days that are added to a holiday (e.g., to extend the break across a long weekend). These are frequently made up by the type Work Day which is a day not normally scheduled for work (e.g., Saturday) that is meant to pay back the Bridge.\nAdditional holidays are days added to a regular calendar holiday, for example, as typically happens around Christmas (making Christmas Eve a holiday).\n- **dcoilwtico**: Daily oil price. Includes values during both the train and test data timeframes. (Ecuador is an oil-dependent country and its economic health is highly vulnerable to shocks in oil prices.)\n\n**Note: ***There is a **transaction** column in the training dataset which displays the sales transactions on that particular date.\n*\n**Test.csv**\n- The test data, having the same features like the training data. You will predict the target sales for the dates in this file.\n- The dates in the test data are for the 15 days after the last date in the training data.\n**Note: ***There is a **no transaction** column in the test dataset as was there in the training dataset. Therefore, while building the model, you might exclude this column and may use it only for EDA.*\n\n**submission.csv**\n- A sample submission file in the correct format.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sarthak108/asian-paints-data-2016-2023",
+  "id_no": 3698468,
+  "datasetSlugNullable": "asian-paints-data-2016-2023",
+  "ownerUserNullable": "sarthak108",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Asian Paints stock data from 2016 till 2023",
+  "subtitleNullable": "Stock data for Asian Paints",
+  "descriptionNullable": "The Asian Paints Stock Price and Financial Data Dataset, spanning from 2016 to 2023, offers a comprehensive collection of historical stock market information and financial metrics related to Asian Paints Limited, one of India's leading paint manufacturers and a prominent player in the global coatings industry. This dataset serves as an invaluable resource for financial analysts, researchers, investors, and data enthusiasts interested in analyzing and understanding the performance of Asian Paints' stock over a significant time frame.\n\nDate: The trading date for which the stock price information is recorded.\nOpen Price: The opening price of HDFC's stock at the beginning of the trading session.\nHigh Price: The highest price reached by HDFC's stock during the trading session.\nLow Price: The lowest price reached by HDFC's stock during the trading session.\nClose Price: The closing price of HDFC's stock at the end of the trading session.\nPrevious Close: The closing price of previous trading session.\nTOTTRDQTY: Total trade quantity in current session.\nTOTTRDVAL: Total traded value of stock in current session.\n\n\n\nThe Asian Paints Stock Price and Financial Data Dataset is available in CSV,making it accessible for data manipulation and analysis using popular data science tools and programming languages. Users can retrieve historical data for a specific time range, enabling them to tailor their analysis to their specific needs.\n\nDisclaimer:\nWhile the Asian Paints Stock Price and Financial Data Dataset provides valuable insights into historical stock performance, it is essential to note that past performance is not indicative of future results. Users should exercise caution and conduct thorough analysis before making any investment decisions based on the information contained in the dataset.\nAlways ensure to use accurate and up-to-date data for analysis and decision-making.",
+  "datasetId": 3698468,
+  "datasetSlug": "asian-paints-data-2016-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "sarthak108",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 309,
+  "totalVotes": 1,
+  "totalDownloads": 76,
+  "title": "Asian Paints stock data from 2016 till 2023",
+  "hasTitle": true,
+  "subtitle": "Stock data for Asian Paints",
+  "hasSubtitle": true,
+  "description": "The Asian Paints Stock Price and Financial Data Dataset, spanning from 2016 to 2023, offers a comprehensive collection of historical stock market information and financial metrics related to Asian Paints Limited, one of India's leading paint manufacturers and a prominent player in the global coatings industry. This dataset serves as an invaluable resource for financial analysts, researchers, investors, and data enthusiasts interested in analyzing and understanding the performance of Asian Paints' stock over a significant time frame.\n\nDate: The trading date for which the stock price information is recorded.\nOpen Price: The opening price of HDFC's stock at the beginning of the trading session.\nHigh Price: The highest price reached by HDFC's stock during the trading session.\nLow Price: The lowest price reached by HDFC's stock during the trading session.\nClose Price: The closing price of HDFC's stock at the end of the trading session.\nPrevious Close: The closing price of previous trading session.\nTOTTRDQTY: Total trade quantity in current session.\nTOTTRDVAL: Total traded value of stock in current session.\n\n\n\nThe Asian Paints Stock Price and Financial Data Dataset is available in CSV,making it accessible for data manipulation and analysis using popular data science tools and programming languages. Users can retrieve historical data for a specific time range, enabling them to tailor their analysis to their specific needs.\n\nDisclaimer:\nWhile the Asian Paints Stock Price and Financial Data Dataset provides valuable insights into historical stock performance, it is essential to note that past performance is not indicative of future results. Users should exercise caution and conduct thorough analysis before making any investment decisions based on the information contained in the dataset.\nAlways ensure to use accurate and up-to-date data for analysis and decision-making.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "economics",
+    "data visualization",
+    "data analytics",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

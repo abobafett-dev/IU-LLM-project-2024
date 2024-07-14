@@ -1,0 +1,40 @@
+{
+  "id": "sumithbhongale/american-university-data-ipeds-dataset",
+  "id_no": 2849,
+  "datasetSlugNullable": "american-university-data-ipeds-dataset",
+  "ownerUserNullable": "sumithbhongale",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "\u201cAmerican University Data\u201d IPEDS dataset",
+  "subtitleNullable": "Enrollment rate and graduation rate using machine learning and  IPEDS dataset  .",
+  "descriptionNullable": "### Business problem\n\nMost American institutions (that are not necessarily the top 10-20) that provide undergraduate education face a challenge i.e. what kind of students they will make an offer for admission so that they can maintain a good performance in terms of number of students completing their courses in time. They also need to predict how the current batch of intake will perform. The universities cannot relax the entry criteria too much as that way the quality of education that they provide gets diluted. At the other hand, they have to make offers to the candidates who are not only having appropriate profile but are also most likely to accept the offers.  \nOn the other side, the students have a challenge deciding which colleges they should apply i.e. the colleges that provide best performance at a minimal cost given their own profiles.  The student profile is determined by not only the performance in examination such as SAT and ACT, but also other data points such as their ethnicity, immigration status, gender etc.  \nWe will be interested in answering three main questions for an institute i.e. \n\n(a) What will be a likely enrollment rate?  \n(b) What will be a likely graduation rate? \n (c) Which are the most lucrative colleges for students in terms of pass rate and cost?\n\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\nBoth (a) and (b) are regression problems as we are trying to predict values of continuous variables.\n\n### The dataset \n\nUse the dataset provided at https://public.tableau.com/en-us/s/resources \nIt is called \u201cAmerican University Data\u201d. This is a smaller version of dataset available at https://nces.ed.gov/ipeds/Home/UseTheData. If you need explanation about the dataset, refer to this parent site. ",
+  "datasetId": 2849,
+  "datasetSlug": "american-university-data-ipeds-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sumithbhongale",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 50675,
+  "totalVotes": 52,
+  "totalDownloads": 5275,
+  "title": "\u201cAmerican University Data\u201d IPEDS dataset",
+  "hasTitle": true,
+  "subtitle": "Enrollment rate and graduation rate using machine learning and  IPEDS dataset  .",
+  "hasSubtitle": true,
+  "description": "### Business problem\n\nMost American institutions (that are not necessarily the top 10-20) that provide undergraduate education face a challenge i.e. what kind of students they will make an offer for admission so that they can maintain a good performance in terms of number of students completing their courses in time. They also need to predict how the current batch of intake will perform. The universities cannot relax the entry criteria too much as that way the quality of education that they provide gets diluted. At the other hand, they have to make offers to the candidates who are not only having appropriate profile but are also most likely to accept the offers.  \nOn the other side, the students have a challenge deciding which colleges they should apply i.e. the colleges that provide best performance at a minimal cost given their own profiles.  The student profile is determined by not only the performance in examination such as SAT and ACT, but also other data points such as their ethnicity, immigration status, gender etc.  \nWe will be interested in answering three main questions for an institute i.e. \n\n(a) What will be a likely enrollment rate?  \n(b) What will be a likely graduation rate? \n (c) Which are the most lucrative colleges for students in terms of pass rate and cost?\n\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\nBoth (a) and (b) are regression problems as we are trying to predict values of continuous variables.\n\n### The dataset \n\nUse the dataset provided at https://public.tableau.com/en-us/s/resources \nIt is called \u201cAmerican University Data\u201d. This is a smaller version of dataset available at https://nces.ed.gov/ipeds/Home/UseTheData. If you need explanation about the dataset, refer to this parent site. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "education"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

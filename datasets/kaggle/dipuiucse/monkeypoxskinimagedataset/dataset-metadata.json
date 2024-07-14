@@ -1,0 +1,42 @@
+{
+  "id": "dipuiucse/monkeypoxskinimagedataset",
+  "id_no": 2357179,
+  "datasetSlugNullable": "monkeypoxskinimagedataset",
+  "ownerUserNullable": "dipuiucse",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Monkeypox Skin Images Dataset (MSID)",
+  "subtitleNullable": "A New Multiclass Skin-based Image Datatset for Monkeypox Disease Detection",
+  "descriptionNullable": "The latest outbreak of monkeypox has now become a source of concern for healthcare professionals throughout the world. It is essential to have an early diagnosis in order to slow down its rapid progression. For this purpose, we have created a new skin image-based dataset for the detection of monkeypox disease. This dataset consists of four classes: Monkeypox, Chickenpox, Measles, and Normal. All the image classes are collected from internet-based sources. The entire dataset has been developed by the Department of Computer Science and Engineering, Islamic University, Kushtia-7003, Bangladesh.\n\n**If you use this dataset, please cite the following paper:**\n[MonkeyNet: A robust deep convolutional neural network for monkeypox disease detection and classification. https://doi.org/10.1016/j.neunet.2023.02.022] (https://www.sciencedirect.com/science/article/pii/S0893608023000850#:~:text=Furthermore%2C%20we%20proposed%20and%20evaluated,93.19%25%20and%2098.91%25%20respectively.)\n\n**Citation:**\n@article{bala2023monkeynet, \ntitle={MonkeyNet: A robust deep convolutional neural network for monkeypox disease detection and classification},\nauthor={Bala, Diponkor and Hossain, Md Shamim and Hossain, Mohammad Alamgir and Abdullah, Md Ibrahim and Rahman, Md Mizanur and Manavalan, Balachandran and Gu, Naijie and Islam, Mohammad S and Huang, Zhangjin}, \njournal={Neural Networks}, \nvolume={161}, \npages={757--775}, \nyear={2023}, \npublisher={Elsevier} }",
+  "datasetId": 2357179,
+  "datasetSlug": "monkeypoxskinimagedataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "dipuiucse",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 12683,
+  "totalVotes": 22,
+  "totalDownloads": 1681,
+  "title": "Monkeypox Skin Images Dataset (MSID)",
+  "hasTitle": true,
+  "subtitle": "A New Multiclass Skin-based Image Datatset for Monkeypox Disease Detection",
+  "hasSubtitle": true,
+  "description": "The latest outbreak of monkeypox has now become a source of concern for healthcare professionals throughout the world. It is essential to have an early diagnosis in order to slow down its rapid progression. For this purpose, we have created a new skin image-based dataset for the detection of monkeypox disease. This dataset consists of four classes: Monkeypox, Chickenpox, Measles, and Normal. All the image classes are collected from internet-based sources. The entire dataset has been developed by the Department of Computer Science and Engineering, Islamic University, Kushtia-7003, Bangladesh.\n\n**If you use this dataset, please cite the following paper:**\n[MonkeyNet: A robust deep convolutional neural network for monkeypox disease detection and classification. https://doi.org/10.1016/j.neunet.2023.02.022] (https://www.sciencedirect.com/science/article/pii/S0893608023000850#:~:text=Furthermore%2C%20we%20proposed%20and%20evaluated,93.19%25%20and%2098.91%25%20respectively.)\n\n**Citation:**\n@article{bala2023monkeynet, \ntitle={MonkeyNet: A robust deep convolutional neural network for monkeypox disease detection and classification},\nauthor={Bala, Diponkor and Hossain, Md Shamim and Hossain, Mohammad Alamgir and Abdullah, Md Ibrahim and Rahman, Md Mizanur and Manavalan, Balachandran and Gu, Naijie and Islam, Mohammad S and Huang, Zhangjin}, \njournal={Neural Networks}, \nvolume={161}, \npages={757--775}, \nyear={2023}, \npublisher={Elsevier} }",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "medicine",
+    "computer science",
+    "image",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

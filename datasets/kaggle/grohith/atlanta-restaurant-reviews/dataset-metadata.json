@@ -1,0 +1,43 @@
+{
+  "id": "grohith/atlanta-restaurant-reviews",
+  "id_no": 4826585,
+  "datasetSlugNullable": "atlanta-restaurant-reviews",
+  "ownerUserNullable": "grohith",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Atlanta restaurant reviews",
+  "subtitleNullable": "Reviews are scraped from Google Maps for restaurants in Atlanta area",
+  "descriptionNullable": "This dataset is ideal for analyzing trends in customer feedback across different types of businesses, understanding the impact of online presence through websites on customer ratings, and exploring geographical patterns in business performance via Google Maps links. Suitable for data scientists, market analysts, or anyone interested in business analytics or sentiment analysis. \u200b\n\n- Title: Name of the restaurant.\n- CategoryName: Type or category of the establishment (e.g., Mexican, Asian).\n- Website: URL to the establishment's official website, if available.\n- URL: Google Maps URL of the establishment.\n- ReviewsCount: Number of reviews the establishment has received on Google Maps.\n- Stars: Average star rating of the establishment on Google Maps, on a scale from 1 to 5.\n- Text: Actual text of the reviews (partially available, as some entries are missing review text).",
+  "datasetId": 4826585,
+  "datasetSlug": "atlanta-restaurant-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "grohith",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 108,
+  "totalVotes": 1,
+  "totalDownloads": 23,
+  "title": "Atlanta restaurant reviews",
+  "hasTitle": true,
+  "subtitle": "Reviews are scraped from Google Maps for restaurants in Atlanta area",
+  "hasSubtitle": true,
+  "description": "This dataset is ideal for analyzing trends in customer feedback across different types of businesses, understanding the impact of online presence through websites on customer ratings, and exploring geographical patterns in business performance via Google Maps links. Suitable for data scientists, market analysts, or anyone interested in business analytics or sentiment analysis. \u200b\n\n- Title: Name of the restaurant.\n- CategoryName: Type or category of the establishment (e.g., Mexican, Asian).\n- Website: URL to the establishment's official website, if available.\n- URL: Google Maps URL of the establishment.\n- ReviewsCount: Number of reviews the establishment has received on Google Maps.\n- Stars: Average star rating of the establishment on Google Maps, on a scale from 1 to 5.\n- Text: Actual text of the reviews (partially available, as some entries are missing review text).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "business",
+    "nlp",
+    "recommender systems",
+    "restaurants"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

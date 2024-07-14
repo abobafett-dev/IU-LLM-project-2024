@@ -1,0 +1,44 @@
+{
+  "id": "khushiipatni/satellite-image-and-mask",
+  "id_no": 3328703,
+  "datasetSlugNullable": "satellite-image-and-mask",
+  "ownerUserNullable": "khushiipatni",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Land Cover Classification : Bhuvan Satellite Data",
+  "subtitleNullable": "A dataset for accurate land cover classification and semantic segmentation",
+  "descriptionNullable": "**Context**\nThe Bhuvan Satellite Dataset is a valuable resource for land cover analysis and segmentation tasks. It includes a collection of satellite images and corresponding segmentation masks. The segmentation masks provide a pixel-level classification for five distinct land cover classes: vegetation, urban areas, forest, water bodies, and roads. \n\n**Content**\nThe dataset consists of satellite 2D images of Varanasi, a city located in the northern part of India, in the state of Uttar Pradesh, with coordinates ranging from 25.3\u00b0 to 25.5\u00b0 N latitude and 83\u00b0 to 83.2\u00b0 E longitude.\nIt comprises a collection of high-resolution images capturing the Earth's surface. These images were obtained from the Indian Remote Sensing Satellite (IRS) and were processed and made available through the Bhuvan Geo Platform, which is managed by the Indian Space Research Organization (ISRO). \n\nThe dataset includes various files that offer valuable insights into the land cover classification and segmentation tasks. Here are the different data files available:\n\n1. pixel_based_mask: This file contains pixel-level segmentation masks that classify each pixel in the satellite images into one of the land cover classes, such as vegetation, urban areas, forest, water bodies, and roads.\n2. test_mask and train_mask: These files contain the manually generated segmentation masks specifically for creating the pixel-based mask.\n3. test_image and train_image: These files contain the corresponding satellite images that are used for testing and training the land cover classification models. These high-resolution 2D images provide visual information about the Earth's surface in Varanasi.\n4. class_dict_seg.csv: This file serves as a reference for the class labels used in the segmentation masks. It provides a mapping between the class names and their corresponding numeric labels in RGB format.\n\nResearchers and professionals can leverage this dataset to conduct in-depth analysis and segmentation tasks related to land cover classification. The dataset's rich content enables the exploration of urban development, vegetation patterns, forest cover, water resources, and road networks within the Varanasi region.\n\n**Acknowledgements**\nWe would like to express our gratitude to Bhuvan - India Geo Platform of ISRO for providing the satellite images, which serve as a valuable resource for land cover analysis. We appreciate their efforts in collecting and curating satellite images, enabling researchers and professionals to explore and advance their work in remote sensing and geospatial analysis.\n\n**Inspiration**\nArtificial Intelligence, Computer Vision, Image Processing, Deep Learning, Machine Learning, Satellite Image, Remote Sensing",
+  "datasetId": 3328703,
+  "datasetSlug": "satellite-image-and-mask",
+  "hasDatasetSlug": true,
+  "ownerUser": "khushiipatni",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2901,
+  "totalVotes": 4,
+  "totalDownloads": 455,
+  "title": "Land Cover Classification : Bhuvan Satellite Data",
+  "hasTitle": true,
+  "subtitle": "A dataset for accurate land cover classification and semantic segmentation",
+  "hasSubtitle": true,
+  "description": "**Context**\nThe Bhuvan Satellite Dataset is a valuable resource for land cover analysis and segmentation tasks. It includes a collection of satellite images and corresponding segmentation masks. The segmentation masks provide a pixel-level classification for five distinct land cover classes: vegetation, urban areas, forest, water bodies, and roads. \n\n**Content**\nThe dataset consists of satellite 2D images of Varanasi, a city located in the northern part of India, in the state of Uttar Pradesh, with coordinates ranging from 25.3\u00b0 to 25.5\u00b0 N latitude and 83\u00b0 to 83.2\u00b0 E longitude.\nIt comprises a collection of high-resolution images capturing the Earth's surface. These images were obtained from the Indian Remote Sensing Satellite (IRS) and were processed and made available through the Bhuvan Geo Platform, which is managed by the Indian Space Research Organization (ISRO). \n\nThe dataset includes various files that offer valuable insights into the land cover classification and segmentation tasks. Here are the different data files available:\n\n1. pixel_based_mask: This file contains pixel-level segmentation masks that classify each pixel in the satellite images into one of the land cover classes, such as vegetation, urban areas, forest, water bodies, and roads.\n2. test_mask and train_mask: These files contain the manually generated segmentation masks specifically for creating the pixel-based mask.\n3. test_image and train_image: These files contain the corresponding satellite images that are used for testing and training the land cover classification models. These high-resolution 2D images provide visual information about the Earth's surface in Varanasi.\n4. class_dict_seg.csv: This file serves as a reference for the class labels used in the segmentation masks. It provides a mapping between the class names and their corresponding numeric labels in RGB format.\n\nResearchers and professionals can leverage this dataset to conduct in-depth analysis and segmentation tasks related to land cover classification. The dataset's rich content enables the exploration of urban development, vegetation patterns, forest cover, water resources, and road networks within the Varanasi region.\n\n**Acknowledgements**\nWe would like to express our gratitude to Bhuvan - India Geo Platform of ISRO for providing the satellite images, which serve as a valuable resource for land cover analysis. We appreciate their efforts in collecting and curating satellite images, enabling researchers and professionals to explore and advance their work in remote sensing and geospatial analysis.\n\n**Inspiration**\nArtificial Intelligence, Computer Vision, Image Processing, Deep Learning, Machine Learning, Satellite Image, Remote Sensing",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "earth and nature",
+    "deep learning",
+    "image",
+    "multiclass classification",
+    "segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

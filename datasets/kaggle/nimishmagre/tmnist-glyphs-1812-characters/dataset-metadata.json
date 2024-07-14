@@ -1,0 +1,41 @@
+{
+  "id": "nimishmagre/tmnist-glyphs-1812-characters",
+  "id_no": 1573084,
+  "datasetSlugNullable": "tmnist-glyphs-1812-characters",
+  "ownerUserNullable": "nimishmagre",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "TMNIST-Glyphs (MNIST Style Glyph images)",
+  "subtitleNullable": "Typography MNIST (TMNIST): Over 500000 images of 1812 glyphs in 2990 font styles",
+  "descriptionNullable": "##TMNIST (Typography MNIST) Glyphs: A database of over 500,000 MNIST style images made from 1,812 unique glyphs and 2,990 font-styles\n\nThis repository contains a single csv file.\nThe structure of the csv file is:\n- The first row contains column headers ['font_name','glyph_name', 'label','1','2',\u2026..'784']\n- The 'font_name' column contains font file names such as 'Acme-Regular' and 'ZillaSlab-Bold'\n- The 'glyph_name' column contains the unicodedata name for the glyph such as 'LATIN CAPITAL LETTER A' and 'DEVANAGARI LETTER AA'\n- For glyphs that are represented by more than 1 unicode character, the 'glyph_name' column contains the the individual names of both the characters concatenated with a '+' sign. For ex: '\u0905\u0902' has the 'glyph_name' = 'DEVANAGARI LETTER A + DEVANAGARI SIGN ANUSVARA'\n- The 'label' column contains characters such as '\u0634','E' or '\u091b'\n- The remaining 784 columns contain the grayscale pixel values for the image of the corresponding character in the 'font_name' font-style\n\nThis dataset contains over 500,000 images and is part of the [Warhol.ai](http://warhol.ai/) Computational Creativity and [Congnitive Type](https://cognitivetype.org) projects. \nDo check out the earlier releases of the TMNIST dataset\n1. [TMNIST-DIGIT](www.kaggle.com/dataset/7a2a5621ee8c66c1aba046f9810a79aa27aafdbbe5d6a475b861d2ba8552d1fc) (Approximately 30,000 MNIST style images of digits from 0-9\n2. [TMNIST-ALPHABET](https://www.kaggle.com/nikbearbrown/tmnist-alphabet-94-characters) (Over 281,000 images of alphabets, digits and punctuations - 94 characters) ",
+  "datasetId": 1573084,
+  "datasetSlug": "tmnist-glyphs-1812-characters",
+  "hasDatasetSlug": true,
+  "ownerUser": "nimishmagre",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 6954,
+  "totalVotes": 19,
+  "totalDownloads": 318,
+  "title": "TMNIST-Glyphs (MNIST Style Glyph images)",
+  "hasTitle": true,
+  "subtitle": "Typography MNIST (TMNIST): Over 500000 images of 1812 glyphs in 2990 font styles",
+  "hasSubtitle": true,
+  "description": "##TMNIST (Typography MNIST) Glyphs: A database of over 500,000 MNIST style images made from 1,812 unique glyphs and 2,990 font-styles\n\nThis repository contains a single csv file.\nThe structure of the csv file is:\n- The first row contains column headers ['font_name','glyph_name', 'label','1','2',\u2026..'784']\n- The 'font_name' column contains font file names such as 'Acme-Regular' and 'ZillaSlab-Bold'\n- The 'glyph_name' column contains the unicodedata name for the glyph such as 'LATIN CAPITAL LETTER A' and 'DEVANAGARI LETTER AA'\n- For glyphs that are represented by more than 1 unicode character, the 'glyph_name' column contains the the individual names of both the characters concatenated with a '+' sign. For ex: '\u0905\u0902' has the 'glyph_name' = 'DEVANAGARI LETTER A + DEVANAGARI SIGN ANUSVARA'\n- The 'label' column contains characters such as '\u0634','E' or '\u091b'\n- The remaining 784 columns contain the grayscale pixel values for the image of the corresponding character in the 'font_name' font-style\n\nThis dataset contains over 500,000 images and is part of the [Warhol.ai](http://warhol.ai/) Computational Creativity and [Congnitive Type](https://cognitivetype.org) projects. \nDo check out the earlier releases of the TMNIST dataset\n1. [TMNIST-DIGIT](www.kaggle.com/dataset/7a2a5621ee8c66c1aba046f9810a79aa27aafdbbe5d6a475b861d2ba8552d1fc) (Approximately 30,000 MNIST style images of digits from 0-9\n2. [TMNIST-ALPHABET](https://www.kaggle.com/nikbearbrown/tmnist-alphabet-94-characters) (Over 281,000 images of alphabets, digits and punctuations - 94 characters) ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

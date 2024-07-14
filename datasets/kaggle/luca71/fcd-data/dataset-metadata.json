@@ -1,0 +1,41 @@
+{
+  "id": "luca71/fcd-data",
+  "id_no": 1271898,
+  "datasetSlugNullable": "fcd-data",
+  "ownerUserNullable": "luca71",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "FCD Trajectories",
+  "subtitleNullable": "Floating Car Data points collected in four Italian cities",
+  "descriptionNullable": "### Context\n\nThis dataset contains FCD points collected from four Italian cities: Milan, Naples, Rome, and Turin. This data can be used for time series analysis and geospatial analysis.\n\n### Content\n\nThe data presented here has already been processed for time series analysis. Each row contains a single trajectory of 20 points separated by a fixed time-step of 60 seconds. Points are expressed as (x, y) coordinates.\n\n### Acknowledgements\n\nThis data has been acquired and pre-processed by VEM Solutions Spa (www.vemsolutions.it).",
+  "datasetId": 1271898,
+  "datasetSlug": "fcd-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "luca71",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 3400,
+  "totalVotes": 3,
+  "totalDownloads": 93,
+  "title": "FCD Trajectories",
+  "hasTitle": true,
+  "subtitle": "Floating Car Data points collected in four Italian cities",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains FCD points collected from four Italian cities: Milan, Naples, Rome, and Turin. This data can be used for time series analysis and geospatial analysis.\n\n### Content\n\nThe data presented here has already been processed for time series analysis. Each row contains a single trajectory of 20 points separated by a fixed time-step of 60 seconds. Points are expressed as (x, y) coordinates.\n\n### Acknowledgements\n\nThis data has been acquired and pre-processed by VEM Solutions Spa (www.vemsolutions.it).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "geospatial analysis",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

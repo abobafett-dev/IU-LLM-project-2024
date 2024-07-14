@@ -1,0 +1,43 @@
+{
+  "id": "kishorkhengare/cement-sales-demand",
+  "id_no": 2850053,
+  "datasetSlugNullable": "cement-sales-demand",
+  "ownerUserNullable": "kishorkhengare",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cement Sales & Demand ",
+  "subtitleNullable": "external factors affecting cement sales and demand ",
+  "descriptionNullable": "The dataset is related to Cement Sales and Demand in India, it also contains some external factors that which affecting the sales and demand of cement. \nIt has features like Production, Sales, Demand,  Population, GDP, Loan Disbursement, and Interest Rates.\nThis is a simulated dataset, Data was collected in a yearly format and then simulated on the basis of research papers \nWe can build different models on this data set like Forecasting, Regression.\n\nAbout this file\nThis data set has information about cement data, it has features as follows\n1) Month = This data is sequentially collected from January 2010 to November 2022\n2) Production = cement production by XYZ company per month in tons\n3) Sales = Cement Sales by XYZ company per month in tons, sales are done by XYZ company\n4) Demand = Demand of cement per month in tons, these are orders that XYZ company has for that month\n5) Population = India's population per month in billion\n6) GDP = Gross Domestic Product(GDP) of India per month in billion\n7) Disbursement = Home Loans amounts given by XYZ company in Cr.\n8) Interest Rate = Home loans Interest rate by XYZ bank in % over the period of time\n\n*Note = the data is collected in year format and then it is simulated on monthly basis with the help of research papers",
+  "datasetId": 2850053,
+  "datasetSlug": "cement-sales-demand",
+  "hasDatasetSlug": true,
+  "ownerUser": "kishorkhengare",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3508,
+  "totalVotes": 7,
+  "totalDownloads": 725,
+  "title": "Cement Sales & Demand ",
+  "hasTitle": true,
+  "subtitle": "external factors affecting cement sales and demand ",
+  "hasSubtitle": true,
+  "description": "The dataset is related to Cement Sales and Demand in India, it also contains some external factors that which affecting the sales and demand of cement. \nIt has features like Production, Sales, Demand,  Population, GDP, Loan Disbursement, and Interest Rates.\nThis is a simulated dataset, Data was collected in a yearly format and then simulated on the basis of research papers \nWe can build different models on this data set like Forecasting, Regression.\n\nAbout this file\nThis data set has information about cement data, it has features as follows\n1) Month = This data is sequentially collected from January 2010 to November 2022\n2) Production = cement production by XYZ company per month in tons\n3) Sales = Cement Sales by XYZ company per month in tons, sales are done by XYZ company\n4) Demand = Demand of cement per month in tons, these are orders that XYZ company has for that month\n5) Population = India's population per month in billion\n6) GDP = Gross Domestic Product(GDP) of India per month in billion\n7) Disbursement = Home Loans amounts given by XYZ company in Cr.\n8) Interest Rate = Home loans Interest rate by XYZ bank in % over the period of time\n\n*Note = the data is collected in year format and then it is simulated on monthly basis with the help of research papers",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "real estate",
+    "manufacturing",
+    "data cleaning",
+    "time series analysis",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ahmettezcantekin/currency-data",
+  "id_no": 792963,
+  "datasetSlugNullable": "currency-data",
+  "ownerUserNullable": "ahmettezcantekin",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "currency_data",
+  "subtitleNullable": "currency data between 2017-2020",
+  "descriptionNullable": "\n### Content\n\nThis data consists of 3.5 years currency exchange info for several currencies.\n\n### Column Description\n\ncurrency_from: source currency \ncurrency_to: target currency\ncurrency_value: exchange rate\ndate: correspondent date.\n\n\n### Inspiration\n\nCurrency information can affect especially sales trends. So, adding this data to your initial dataset may improve your model result.\n\n### Note\nThis data is updated every week.",
+  "datasetId": 792963,
+  "datasetSlug": "currency-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahmettezcantekin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2015,
+  "totalVotes": 9,
+  "totalDownloads": 99,
+  "title": "currency_data",
+  "hasTitle": true,
+  "subtitle": "currency data between 2017-2020",
+  "hasSubtitle": true,
+  "description": "\n### Content\n\nThis data consists of 3.5 years currency exchange info for several currencies.\n\n### Column Description\n\ncurrency_from: source currency \ncurrency_to: target currency\ncurrency_value: exchange rate\ndate: correspondent date.\n\n\n### Inspiration\n\nCurrency information can affect especially sales trends. So, adding this data to your initial dataset may improve your model result.\n\n### Note\nThis data is updated every week.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

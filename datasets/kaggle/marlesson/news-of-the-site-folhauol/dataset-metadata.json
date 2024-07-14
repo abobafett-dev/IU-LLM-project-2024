@@ -1,0 +1,41 @@
+{
+  "id": "marlesson/news-of-the-site-folhauol",
+  "id_no": 3660,
+  "datasetSlugNullable": "news-of-the-site-folhauol",
+  "ownerUserNullable": "marlesson",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "News of the Brazilian Newspaper",
+  "subtitleNullable": "167.053 news of the site Folha de S\u00e3o Paulo (Brazilian Newspaper)",
+  "descriptionNullable": "### Content\n\nThe dataset consists of 167.053 examples and contains Headlines, Url of Article, Complete Article and Category. I gathered the summarized news from Inshorts and only scraped the news articles from Folha de S\u00e3o Paulo - http://www.folha.uol.com.br/ (Brazilian Newspaper). Time period ranges is between January 2015 and September 2017.\n\nhttps://github.com/marlesson/scrapy_folha",
+  "datasetId": 3660,
+  "datasetSlug": "news-of-the-site-folhauol",
+  "hasDatasetSlug": true,
+  "ownerUser": "marlesson",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 21209,
+  "totalVotes": 82,
+  "totalDownloads": 4077,
+  "title": "News of the Brazilian Newspaper",
+  "hasTitle": true,
+  "subtitle": "167.053 news of the site Folha de S\u00e3o Paulo (Brazilian Newspaper)",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThe dataset consists of 167.053 examples and contains Headlines, Url of Article, Complete Article and Category. I gathered the summarized news from Inshorts and only scraped the news articles from Folha de S\u00e3o Paulo - http://www.folha.uol.com.br/ (Brazilian Newspaper). Time period ranges is between January 2015 and September 2017.\n\nhttps://github.com/marlesson/scrapy_folha",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "brazil",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

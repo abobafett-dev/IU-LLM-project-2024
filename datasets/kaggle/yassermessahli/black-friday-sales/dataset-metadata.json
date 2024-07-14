@@ -1,0 +1,41 @@
+{
+  "id": "yassermessahli/black-friday-sales",
+  "id_no": 5262703,
+  "datasetSlugNullable": "black-friday-sales",
+  "ownerUserNullable": "yassermessahli",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Black Friday Sales",
+  "subtitleNullable": "black friday dataset for analysis and prediction from america's sales points",
+  "descriptionNullable": "# Dataset Description\nThe dataset contains sales transactions captured at various retail stores across the United States during the **Black Friday** shopping event. It includes a comprehensive set of features that provide insights into `customer demographics`, `product categories`, and `sales patterns`. The dataset is designed to help retailers and e-commerce businesses optimize their sales strategies and maximize profits during this critical shopping period.\n\n## Key Features\n1. **User Information:** Includes user demographics such as age, gender, marital status, and occupation.\n2. **Product Information:** Covers product categories, subcategories, and specific product details.\n3. **Purchase Information:** Contains the amount spent by each user for each purchase, in U.S. dollars.\n4. **Geographical Information:** Includes city categories and the number of years the buyer has lived in their city.\n\n## Dataset Size\nThe dataset consists of approximately `550,000` records, providing a robust and representative sample of Black Friday sales data.\n\n## Purpose\nThe primary goal of this dataset is to help retailers and e-commerce businesses **predict** sales and optimize their pricing strategies to **maximize profits** during the Black Friday shopping event. This dataset can be used to develop **machine learning models** that can accurately forecast sales and identify trends in customer behavior.\n\n## Potential Use Cases\n- **Sales Forecasting:** Use machine learning algorithms to predict sales based on historical data and optimize pricing strategies.\n- **Customer Segmentation:** Identify and analyze customer demographics and purchasing patterns to tailor marketing campaigns and promotions.\n- **Product Recommendations:** Develop personalized product recommendations based on customer preferences and purchase history.\n- **Store Optimization:** Analyze sales data to optimize store layouts, product placement, and inventory management.",
+  "datasetId": 5262703,
+  "datasetSlug": "black-friday-sales",
+  "hasDatasetSlug": true,
+  "ownerUser": "yassermessahli",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 228,
+  "totalVotes": 1,
+  "totalDownloads": 41,
+  "title": "Black Friday Sales",
+  "hasTitle": true,
+  "subtitle": "black friday dataset for analysis and prediction from america's sales points",
+  "hasSubtitle": true,
+  "description": "# Dataset Description\nThe dataset contains sales transactions captured at various retail stores across the United States during the **Black Friday** shopping event. It includes a comprehensive set of features that provide insights into `customer demographics`, `product categories`, and `sales patterns`. The dataset is designed to help retailers and e-commerce businesses optimize their sales strategies and maximize profits during this critical shopping period.\n\n## Key Features\n1. **User Information:** Includes user demographics such as age, gender, marital status, and occupation.\n2. **Product Information:** Covers product categories, subcategories, and specific product details.\n3. **Purchase Information:** Contains the amount spent by each user for each purchase, in U.S. dollars.\n4. **Geographical Information:** Includes city categories and the number of years the buyer has lived in their city.\n\n## Dataset Size\nThe dataset consists of approximately `550,000` records, providing a robust and representative sample of Black Friday sales data.\n\n## Purpose\nThe primary goal of this dataset is to help retailers and e-commerce businesses **predict** sales and optimize their pricing strategies to **maximize profits** during the Black Friday shopping event. This dataset can be used to develop **machine learning models** that can accurately forecast sales and identify trends in customer behavior.\n\n## Potential Use Cases\n- **Sales Forecasting:** Use machine learning algorithms to predict sales based on historical data and optimize pricing strategies.\n- **Customer Segmentation:** Identify and analyze customer demographics and purchasing patterns to tailor marketing campaigns and promotions.\n- **Product Recommendations:** Develop personalized product recommendations based on customer preferences and purchase history.\n- **Store Optimization:** Analyze sales data to optimize store layouts, product placement, and inventory management.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "data analytics",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

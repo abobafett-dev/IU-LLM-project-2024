@@ -1,0 +1,43 @@
+{
+  "id": "nothingifnotcrucial/jf21-dataset",
+  "id_no": 1103255,
+  "datasetSlugNullable": "jf21-dataset",
+  "ownerUserNullable": "nothingifnotcrucial",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "JF21 Dataset",
+  "subtitleNullable": "17 classes in 4 categorys for image classification.",
+  "descriptionNullable": "This dataset has been created for the 2021 Jugend Forscht competition. It contains 42500 Images with a size of 500x500.\n\nThere are 17 classes. Each class has 2000 train and 500 test images. The classes are divided into four categories: Rubber Toy, Pig Head, Lego, and Chips. The classes are variations of the overall category. These variations can differ in Color, Pattern, and Form.\n\nFor example, the images of class 2 and 3 are both part of the category Rubber Toy and the images of class 10 and 11 are both part of the category Lego.",
+  "datasetId": 1103255,
+  "datasetSlug": "jf21-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "nothingifnotcrucial",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 2081,
+  "totalVotes": 2,
+  "totalDownloads": 19,
+  "title": "JF21 Dataset",
+  "hasTitle": true,
+  "subtitle": "17 classes in 4 categorys for image classification.",
+  "hasSubtitle": true,
+  "description": "This dataset has been created for the 2021 Jugend Forscht competition. It contains 42500 Images with a size of 500x500.\n\nThere are 17 classes. Each class has 2000 train and 500 test images. The classes are divided into four categories: Rubber Toy, Pig Head, Lego, and Chips. The classes are variations of the overall category. These variations can differ in Color, Pattern, and Form.\n\nFor example, the images of class 2 and 3 are both part of the category Rubber Toy and the images of class 10 and 11 are both part of the category Lego.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "computer vision",
+    "classification",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

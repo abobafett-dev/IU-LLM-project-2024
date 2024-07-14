@@ -1,0 +1,44 @@
+{
+  "id": "souvikahmed071/social-media-and-mental-health",
+  "id_no": 2752689,
+  "datasetSlugNullable": "social-media-and-mental-health",
+  "ownerUserNullable": "souvikahmed071",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Social Media and Mental Health",
+  "subtitleNullable": "Correlation between Social Media use and General Mental Well-being",
+  "descriptionNullable": "This dataset was originally collected for a data science and machine learning project that aimed at investigating the potential correlation between the amount of time an individual spends on social media and the impact it has on their mental health.\n\nThe project involves conducting a survey to collect data, organizing the data, and using machine learning techniques to create a predictive model that can determine whether a person should seek professional help based on their answers to the survey questions.\n\nThis project was completed as part of a Statistics course at a university, and the team is currently in the process of writing a report and completing a paper that summarizes and discusses the findings in relation to other research on the topic.\n\nThe following is the Google Colab link to the project, done on Jupyter Notebook -\n\n[https://colab.research.google.com/drive/1p7P6lL1QUw1TtyUD1odNR4M6TVJK7IYN](url)\n\nThe following is the GitHub Repository of the project -\n\n[https://github.com/daerkns/social-media-and-mental-health](url)\n\nLibraries used for the Project -\n\n    Pandas\n    Numpy\n    Matplotlib\n    Seaborn\n    Sci-kit Learn\n",
+  "datasetId": 2752689,
+  "datasetSlug": "social-media-and-mental-health",
+  "hasDatasetSlug": true,
+  "ownerUser": "souvikahmed071",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 39099,
+  "totalVotes": 83,
+  "totalDownloads": 7555,
+  "title": "Social Media and Mental Health",
+  "hasTitle": true,
+  "subtitle": "Correlation between Social Media use and General Mental Well-being",
+  "hasSubtitle": true,
+  "description": "This dataset was originally collected for a data science and machine learning project that aimed at investigating the potential correlation between the amount of time an individual spends on social media and the impact it has on their mental health.\n\nThe project involves conducting a survey to collect data, organizing the data, and using machine learning techniques to create a predictive model that can determine whether a person should seek professional help based on their answers to the survey questions.\n\nThis project was completed as part of a Statistics course at a university, and the team is currently in the process of writing a report and completing a paper that summarizes and discusses the findings in relation to other research on the topic.\n\nThe following is the Google Colab link to the project, done on Jupyter Notebook -\n\n[https://colab.research.google.com/drive/1p7P6lL1QUw1TtyUD1odNR4M6TVJK7IYN](url)\n\nThe following is the GitHub Repository of the project -\n\n[https://github.com/daerkns/social-media-and-mental-health](url)\n\nLibraries used for the Project -\n\n    Pandas\n    Numpy\n    Matplotlib\n    Seaborn\n    Sci-kit Learn\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "muhesena",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

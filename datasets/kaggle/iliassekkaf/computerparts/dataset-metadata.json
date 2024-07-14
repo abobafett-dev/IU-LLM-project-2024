@@ -1,0 +1,39 @@
+{
+  "id": "iliassekkaf/computerparts",
+  "id_no": 2442,
+  "datasetSlugNullable": "computerparts",
+  "ownerUserNullable": "iliassekkaf",
+  "usabilityRatingNullable": 0.7352941176470589,
+  "titleNullable": "Computer Parts (CPUs and GPUs)",
+  "subtitleNullable": "How did computer specifications and performance evolve over time?",
+  "descriptionNullable": "### Contents\nThis dataset contains detailed specifications, release dates, and release prices of computer parts.\n\nThe dataset contains two CSV files: `gpus.csv` for Graphics Processing Units (GPUs), and `cpus.csv` for Central Processing Units (CPUs). Each table has its own list of unique entries, but the list of features includes: clock speeds, maximum temperatures, display resolutions, power draws, number of threads, release dates, release prices, die size, virtualization support, and many other similar fields. For more specific column-level metadata refer to the [Column Metadata](https://www.kaggle.com/iliassekkaf/computerparts/data).\n\nLooking for inspiration? Try starting by reading [\"Using regression to predict the GPUs of the future\"](https://www.kaggle.com/skalskip/using-regression-to-predict-gpus-of-the-future).\n\n### Inspiration\n\n* How did performance over price ratio evolve over time? \n* How about general computing power?  \n* Are there any manufacturers that are known for some specific range of performance &amp; price? \n\n### Acknowledgements\n\nThe data given here belongs mainly to Intel, Game-Debate, and the companies involved in producing the part. I do not own the data I uploaded it solely for informative purposes, under their original license.\n\n\n  [1]: http://www.futureelectronics.com/en/Microprocessors/embedded-processors.aspx",
+  "datasetId": 2442,
+  "datasetSlug": "computerparts",
+  "hasDatasetSlug": true,
+  "ownerUser": "iliassekkaf",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7352941176470589,
+  "hasUsabilityRating": true,
+  "totalViews": 114847,
+  "totalVotes": 132,
+  "totalDownloads": 8911,
+  "title": "Computer Parts (CPUs and GPUs)",
+  "hasTitle": true,
+  "subtitle": "How did computer specifications and performance evolve over time?",
+  "hasSubtitle": true,
+  "description": "### Contents\nThis dataset contains detailed specifications, release dates, and release prices of computer parts.\n\nThe dataset contains two CSV files: `gpus.csv` for Graphics Processing Units (GPUs), and `cpus.csv` for Central Processing Units (CPUs). Each table has its own list of unique entries, but the list of features includes: clock speeds, maximum temperatures, display resolutions, power draws, number of threads, release dates, release prices, die size, virtualization support, and many other similar fields. For more specific column-level metadata refer to the [Column Metadata](https://www.kaggle.com/iliassekkaf/computerparts/data).\n\nLooking for inspiration? Try starting by reading [\"Using regression to predict the GPUs of the future\"](https://www.kaggle.com/skalskip/using-regression-to-predict-gpus-of-the-future).\n\n### Inspiration\n\n* How did performance over price ratio evolve over time? \n* How about general computing power?  \n* Are there any manufacturers that are known for some specific range of performance &amp; price? \n\n### Acknowledgements\n\nThe data given here belongs mainly to Intel, Game-Debate, and the companies involved in producing the part. I do not own the data I uploaded it solely for informative purposes, under their original license.\n\n\n  [1]: http://www.futureelectronics.com/en/Microprocessors/embedded-processors.aspx",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

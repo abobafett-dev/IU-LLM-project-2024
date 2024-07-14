@@ -1,0 +1,43 @@
+{
+  "id": "faisaljanjua0555/most-played-games-of-all-time",
+  "id_no": 2910272,
+  "datasetSlugNullable": "most-played-games-of-all-time",
+  "ownerUserNullable": "faisaljanjua0555",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Most Played Games of All Time",
+  "subtitleNullable": "Combined data of 5,000 games scraped from Steam.",
+  "descriptionNullable": "I wanted to create a dataset from scratch based around games on the Steam Store. Using data gathered from the Steam, this dataset provides information about various aspects of games on the.\n\nMost of all, I hope you enjoy exploring this data. It's my first big data project, and I wanted to make it about something fun and interesting. Feedback and suggestions are more than welcome.",
+  "datasetId": 2910272,
+  "datasetSlug": "most-played-games-of-all-time",
+  "hasDatasetSlug": true,
+  "ownerUser": "faisaljanjua0555",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 5686,
+  "totalVotes": 47,
+  "totalDownloads": 809,
+  "title": "Most Played Games of All Time",
+  "hasTitle": true,
+  "subtitle": "Combined data of 5,000 games scraped from Steam.",
+  "hasSubtitle": true,
+  "description": "I wanted to create a dataset from scratch based around games on the Steam Store. Using data gathered from the Steam, this dataset provides information about various aspects of games on the.\n\nMost of all, I hope you enjoy exploring this data. It's my first big data project, and I wanted to make it about something fun and interesting. Feedback and suggestions are more than welcome.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "games",
+    "video games",
+    "internet",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

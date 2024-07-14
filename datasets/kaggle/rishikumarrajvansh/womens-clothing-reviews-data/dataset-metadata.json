@@ -1,0 +1,42 @@
+{
+  "id": "rishikumarrajvansh/womens-clothing-reviews-data",
+  "id_no": 4374668,
+  "datasetSlugNullable": "womens-clothing-reviews-data",
+  "ownerUserNullable": "rishikumarrajvansh",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Womens Clothing Reviews Data",
+  "subtitleNullable": "Customer Review Analysis For Leading woman clothing E-Commerce Company ",
+  "descriptionNullable": "Business Context:\nOne of the leading woman clothing e-commerce companies would like to analyse the customer\u2019s\nbehaviour by analysing customer\u2019s demographics and reviews submitted on the website.\nBusiness Objectives:\nOur main objectives are as follows.\na. Performing exploratory analysis on the data to understand the patterns\nb. Perform text mining tasks to understand what most frequent words are using for positive\nsentiment and negative sentiment. Create word clouds for the positive & negative reviews\nseparately.\nc. Understand sentiment among the customers on the different categories, sub categories,\nproducts by location and age group\nd. Perform predictive analytics to understand the drivers of customers who are recommending\nthe products.\ne. Create topics and understand themes behind the topics by performing topic mining.\nExpected Outputs:\nThe team expecting below outputs\na. Detailed Exploratory analysis and create dashboard using these analysis including word\nclouds, frequency plots, sentiment analysis by channel, location, category, subcategories,\nage group etc.\nb. Performing predictive analysis tasks including topic mining, classification models for\npredicting which customers are recommending, also predicting rating based on the review.\nAvailable Data:\nData has been provided for 23000+ Customer's Reviews and Ratings with 11 columns. The below\ntable provides the description of each variable.\n\n\nColumn Name             Description\nProduct ID                   Clothing ID\nCategory                     Product Category\nSubcategory1              Product Subcategory Level1\nSubCategory2             Product Subcategory Level2\nLocation                       Customer Location\nCustomer Age              Customer Age\nChannel                       Channel Used (Web or Mobile)\nReview Title                 Review Title\nReview Text                 Review Description\nRating                           Review  Rating\nRecommend Flag        Customer willing to recommend product or not\n\n",
+  "datasetId": 4374668,
+  "datasetSlug": "womens-clothing-reviews-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "rishikumarrajvansh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 795,
+  "totalVotes": 0,
+  "totalDownloads": 137,
+  "title": "Womens Clothing Reviews Data",
+  "hasTitle": true,
+  "subtitle": "Customer Review Analysis For Leading woman clothing E-Commerce Company ",
+  "hasSubtitle": true,
+  "description": "Business Context:\nOne of the leading woman clothing e-commerce companies would like to analyse the customer\u2019s\nbehaviour by analysing customer\u2019s demographics and reviews submitted on the website.\nBusiness Objectives:\nOur main objectives are as follows.\na. Performing exploratory analysis on the data to understand the patterns\nb. Perform text mining tasks to understand what most frequent words are using for positive\nsentiment and negative sentiment. Create word clouds for the positive & negative reviews\nseparately.\nc. Understand sentiment among the customers on the different categories, sub categories,\nproducts by location and age group\nd. Perform predictive analytics to understand the drivers of customers who are recommending\nthe products.\ne. Create topics and understand themes behind the topics by performing topic mining.\nExpected Outputs:\nThe team expecting below outputs\na. Detailed Exploratory analysis and create dashboard using these analysis including word\nclouds, frequency plots, sentiment analysis by channel, location, category, subcategories,\nage group etc.\nb. Performing predictive analysis tasks including topic mining, classification models for\npredicting which customers are recommending, also predicting rating based on the review.\nAvailable Data:\nData has been provided for 23000+ Customer's Reviews and Ratings with 11 columns. The below\ntable provides the description of each variable.\n\n\nColumn Name             Description\nProduct ID                   Clothing ID\nCategory                     Product Category\nSubcategory1              Product Subcategory Level1\nSubCategory2             Product Subcategory Level2\nLocation                       Customer Location\nCustomer Age              Customer Age\nChannel                       Channel Used (Web or Mobile)\nReview Title                 Review Title\nReview Text                 Review Description\nRating                           Review  Rating\nRecommend Flag        Customer willing to recommend product or not\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "retail and shopping",
+    "ratings and reviews",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

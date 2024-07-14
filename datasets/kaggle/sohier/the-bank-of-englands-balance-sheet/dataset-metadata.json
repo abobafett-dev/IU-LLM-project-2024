@@ -1,0 +1,41 @@
+{
+  "id": "sohier/the-bank-of-englands-balance-sheet",
+  "id_no": 2530,
+  "datasetSlugNullable": "the-bank-of-englands-balance-sheet",
+  "ownerUserNullable": "sohier",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "The Bank of England\u2019s balance sheet",
+  "subtitleNullable": "Annual data from 1696 to 2014",
+  "descriptionNullable": "This dataset contains an annual summary of the assets and liabilities from the bank's founding in 1696 through 2014.\n\n### Content\n\nThe csv is a condensed version of the original spreadsheet. Some notes, disclaimers, and a small portion of the data have been discarded to enable the format conversion.\n\n### Acknowledgements\n\nThis dataset was kindly made available by the [Bank of England][1]. You can find [the original dataset here][2].\n\n### Inspiration\n\n- Can you back out key moments in history from this dataset using time series analysis?\n\n\n  [1]: http://www.bankofengland.co.uk/Pages/home.aspx\n  [2]: http://www.bankofengland.co.uk/research/Pages/datasets/default.aspx#",
+  "datasetId": 2530,
+  "datasetSlug": "the-bank-of-englands-balance-sheet",
+  "hasDatasetSlug": true,
+  "ownerUser": "sohier",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 10819,
+  "totalVotes": 15,
+  "totalDownloads": 1130,
+  "title": "The Bank of England\u2019s balance sheet",
+  "hasTitle": true,
+  "subtitle": "Annual data from 1696 to 2014",
+  "hasSubtitle": true,
+  "description": "This dataset contains an annual summary of the assets and liabilities from the bank's founding in 1696 through 2014.\n\n### Content\n\nThe csv is a condensed version of the original spreadsheet. Some notes, disclaimers, and a small portion of the data have been discarded to enable the format conversion.\n\n### Acknowledgements\n\nThis dataset was kindly made available by the [Bank of England][1]. You can find [the original dataset here][2].\n\n### Inspiration\n\n- Can you back out key moments in history from this dataset using time series analysis?\n\n\n  [1]: http://www.bankofengland.co.uk/Pages/home.aspx\n  [2]: http://www.bankofengland.co.uk/research/Pages/datasets/default.aspx#",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "economics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

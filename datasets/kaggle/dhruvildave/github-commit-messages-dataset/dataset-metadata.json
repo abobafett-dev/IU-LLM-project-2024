@@ -1,0 +1,44 @@
+{
+  "id": "dhruvildave/github-commit-messages-dataset",
+  "id_no": 1188849,
+  "datasetSlugNullable": "github-commit-messages-dataset",
+  "ownerUserNullable": "dhruvildave",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "GitHub Commit Messages Dataset",
+  "subtitleNullable": "4.3 Million commit messages on GitHub",
+  "descriptionNullable": "![GitHub](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)\n\nImage credits: https://github.com\n\n## Introduction\n\nThis is a dataset that contains all commit messages and its related metadata from 34 popular GitHub repositories. These repositories are:\n\n- tensorflow/tensorflow\n- pytorch/pytorch\n- torvalds/linux\n- python/cpython\n- rust-lang/rust\n- microsoft/TypeScript\n- microsoft/vscode\n- golang/go\n- numpy/numpy\n- scikit-learn/scikit-learn\n- openbsd/src\n- freebsd/freebsd-src\n- pandas-dev/pandas\n- scipy/scipy\n- tidyverse/ggplot2\n- kubernetes/kubernetes\n- postgres/postgres\n- nodejs/node\n- facebook/react\n- angular/angular\n- matplotlib/matplotlib\n- apache/httpd\n- nginx/nginx\n- opencv/opencv\n- ipython/ipython\n- rstudio/rstudio\n- jupyterlab/jupyterlab\n- gcc-mirror/gcc\n- apple/swift\n- denoland/deno\n- apache/spark\n- llvm/llvm-project\n- chromium/chromium\n- v8/v8\n\nData as of Wed Apr 21 03:42:44 PM IST 2021\n\n## Credits\n\nImage credits: [Unsplash - plhnk](https://unsplash.com/photos/Abida9j2_F0)",
+  "datasetId": 1188849,
+  "datasetSlug": "github-commit-messages-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "dhruvildave",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12761,
+  "totalVotes": 41,
+  "totalDownloads": 863,
+  "title": "GitHub Commit Messages Dataset",
+  "hasTitle": true,
+  "subtitle": "4.3 Million commit messages on GitHub",
+  "hasSubtitle": true,
+  "description": "![GitHub](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)\n\nImage credits: https://github.com\n\n## Introduction\n\nThis is a dataset that contains all commit messages and its related metadata from 34 popular GitHub repositories. These repositories are:\n\n- tensorflow/tensorflow\n- pytorch/pytorch\n- torvalds/linux\n- python/cpython\n- rust-lang/rust\n- microsoft/TypeScript\n- microsoft/vscode\n- golang/go\n- numpy/numpy\n- scikit-learn/scikit-learn\n- openbsd/src\n- freebsd/freebsd-src\n- pandas-dev/pandas\n- scipy/scipy\n- tidyverse/ggplot2\n- kubernetes/kubernetes\n- postgres/postgres\n- nodejs/node\n- facebook/react\n- angular/angular\n- matplotlib/matplotlib\n- apache/httpd\n- nginx/nginx\n- opencv/opencv\n- ipython/ipython\n- rstudio/rstudio\n- jupyterlab/jupyterlab\n- gcc-mirror/gcc\n- apple/swift\n- denoland/deno\n- apache/spark\n- llvm/llvm-project\n- chromium/chromium\n- v8/v8\n\nData as of Wed Apr 21 03:42:44 PM IST 2021\n\n## Credits\n\nImage credits: [Unsplash - plhnk](https://unsplash.com/photos/Abida9j2_F0)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "computer science",
+    "programming",
+    "nlp",
+    "time series analysis",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

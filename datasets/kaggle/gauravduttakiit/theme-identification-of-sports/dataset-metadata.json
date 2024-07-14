@@ -1,0 +1,42 @@
+{
+  "id": "gauravduttakiit/theme-identification-of-sports",
+  "id_no": 2828405,
+  "datasetSlugNullable": "theme-identification-of-sports",
+  "ownerUserNullable": "gauravduttakiit",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Theme Identification of Sports",
+  "subtitleNullable": "Identify the Sports Theme using Computer Vision",
+  "descriptionNullable": "Sports are an activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment. It is a part of every culture past and present, but each culture has its own definition of sports. No one can say when sports began. Since it is impossible to imagine a time when children did not spontaneously run races or wrestle, it is clear that children have always included sports in their play, but one can only speculate about the emergence of sports as autotelic physical contests for adults\n\n \n\nAn agency of the Governmental Sports Authority is planning to implement an automated system based on computer vision so that it can identify the type of Sport based on images.. As a consultant for this project, you are responsible for developing an efficient model.\n\n \n\nYour Task is to build an Image Classification Model using CNN that classifies to which class of sports each image belongs to.",
+  "datasetId": 2828405,
+  "datasetSlug": "theme-identification-of-sports",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravduttakiit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 620,
+  "totalVotes": 6,
+  "totalDownloads": 37,
+  "title": "Theme Identification of Sports",
+  "hasTitle": true,
+  "subtitle": "Identify the Sports Theme using Computer Vision",
+  "hasSubtitle": true,
+  "description": "Sports are an activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment. It is a part of every culture past and present, but each culture has its own definition of sports. No one can say when sports began. Since it is impossible to imagine a time when children did not spontaneously run races or wrestle, it is clear that children have always included sports in their play, but one can only speculate about the emergence of sports as autotelic physical contests for adults\n\n \n\nAn agency of the Governmental Sports Authority is planning to implement an automated system based on computer vision so that it can identify the type of Sport based on images.. As a consultant for this project, you are responsible for developing an efficient model.\n\n \n\nYour Task is to build an Image Classification Model using CNN that classifies to which class of sports each image belongs to.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "water sports",
+    "exercise",
+    "sports",
+    "water transport"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

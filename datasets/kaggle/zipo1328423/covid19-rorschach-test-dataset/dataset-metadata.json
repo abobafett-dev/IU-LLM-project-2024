@@ -1,0 +1,48 @@
+{
+  "id": "zipo1328423/covid19-rorschach-test-dataset",
+  "id_no": 890250,
+  "datasetSlugNullable": "covid19-rorschach-test-dataset",
+  "ownerUserNullable": "zipo1328423",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "COVID-19 Rorschach test dataset",
+  "subtitleNullable": "Responses to the Rorschach test before and after COVID-19",
+  "descriptionNullable": "The Rorschach inkblot test, a commonly used psychological test, is often utilized to assess personality and emotional functioning. The Rorschach Assistant Program (RAP) is a free online application for the Rorschach testers\u2019 community. The program has been used by professionals all over the world, for coding and analyzing the verbal responses to the ambiguous inkblots.\n\nThe \u2018COVID-19 Rorschach test dataset\u2019 is a sample of protocols and responses, from 2017-01-01 to 2020-09-15. It includes some demographics related variables and the codes of the Comprehensive System (Exner, 2001). The dataset contains more than 500,000 coded responses to the test inkblots stimuli.\n   \nThe dataset large sample and unique content might be useful for the Rorschach test research community. However, you need not have to have much knowledge of the Rorschach test to statistically analyzing the data. For example, it is interesting to see which, if any, of the dataset variables, have been significantly changed after the pandemic outbreak? And if such variables are found, how are they clustered? See also [dataset task](https://www.kaggle.com/zipo1328423/covid19-rorschach-test-dataset/tasks?taskId=2241).\n\n[COVID-19 Rorschach test variables (datatype and description).](https://www.kaggle.com/zipo1328423/covid19-rorschach-test-dataset/discussion/186980)\n[COVID-19 Rorschach test descriptive statistics.](https://datastudio.google.com/reporting/45aa1d0c-1a24-47df-9cd0-69fc140f3911/page/JlikB)",
+  "datasetId": 890250,
+  "datasetSlug": "covid19-rorschach-test-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "zipo1328423",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 13612,
+  "totalVotes": 15,
+  "totalDownloads": 658,
+  "title": "COVID-19 Rorschach test dataset",
+  "hasTitle": true,
+  "subtitle": "Responses to the Rorschach test before and after COVID-19",
+  "hasSubtitle": true,
+  "description": "The Rorschach inkblot test, a commonly used psychological test, is often utilized to assess personality and emotional functioning. The Rorschach Assistant Program (RAP) is a free online application for the Rorschach testers\u2019 community. The program has been used by professionals all over the world, for coding and analyzing the verbal responses to the ambiguous inkblots.\n\nThe \u2018COVID-19 Rorschach test dataset\u2019 is a sample of protocols and responses, from 2017-01-01 to 2020-09-15. It includes some demographics related variables and the codes of the Comprehensive System (Exner, 2001). The dataset contains more than 500,000 coded responses to the test inkblots stimuli.\n   \nThe dataset large sample and unique content might be useful for the Rorschach test research community. However, you need not have to have much knowledge of the Rorschach test to statistically analyzing the data. For example, it is interesting to see which, if any, of the dataset variables, have been significantly changed after the pandemic outbreak? And if such variables are found, how are they clustered? See also [dataset task](https://www.kaggle.com/zipo1328423/covid19-rorschach-test-dataset/tasks?taskId=2241).\n\n[COVID-19 Rorschach test variables (datatype and description).](https://www.kaggle.com/zipo1328423/covid19-rorschach-test-dataset/discussion/186980)\n[COVID-19 Rorschach test descriptive statistics.](https://datastudio.google.com/reporting/45aa1d0c-1a24-47df-9cd0-69fc140f3911/page/JlikB)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "healthcare",
+    "psychology",
+    "exploratory data analysis",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "surekharamireddy",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

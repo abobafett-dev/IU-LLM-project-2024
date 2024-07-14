@@ -1,0 +1,44 @@
+{
+  "id": "ravina029/tmdb-movie-tilte-and-review",
+  "id_no": 4402739,
+  "datasetSlugNullable": "tmdb-movie-tilte-and-review",
+  "ownerUserNullable": "ravina029",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "TMDB_Movie_tilte_and_review_and_genre",
+  "subtitleNullable": "TMDB_Movie_tilte_and_review_and_genre",
+  "descriptionNullable": "**Title:**  **TMDB Top Rated Movies Dataset**\n\n**Overview:**\nThis dataset provides a collection of information about top-rated movies obtained from The Movie Database (TMDB). It includes key details such as movie title, overview, and genre. The dataset is rich in content and serves as a valuable resource for movie enthusiasts, researchers, and data analysts interested in exploring trends and patterns within the realm of top-rated films.\n\n**Columns:**\n\n\n**title:** The title of the movie.\n**overview:** A brief description of the movie's plot.\n**genre:** genre of the movie\n\n**Potential Applications:**\n\n**Movie Analysis:** Explore trends and patterns in top-rated movies over time.\n**Recommendation Systems:** Develop recommendation algorithms based on popularity and user ratings.\n**Sentiment Analysis:** Analyze movie overviews to understand audience sentiments.\n**Temporal Analysis:** Examine how movie popularity and ratings change over release years.\n\n\n**Acknowledgments:**\nThis dataset is sourced from TMDB, a leading movie database, and is made available for public use. Please consider citing TMDB if you use this dataset in your research or projects.\n\n",
+  "datasetId": 4402739,
+  "datasetSlug": "tmdb-movie-tilte-and-review",
+  "hasDatasetSlug": true,
+  "ownerUser": "ravina029",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 50,
+  "totalVotes": 3,
+  "totalDownloads": 8,
+  "title": "TMDB_Movie_tilte_and_review_and_genre",
+  "hasTitle": true,
+  "subtitle": "TMDB_Movie_tilte_and_review_and_genre",
+  "hasSubtitle": true,
+  "description": "**Title:**  **TMDB Top Rated Movies Dataset**\n\n**Overview:**\nThis dataset provides a collection of information about top-rated movies obtained from The Movie Database (TMDB). It includes key details such as movie title, overview, and genre. The dataset is rich in content and serves as a valuable resource for movie enthusiasts, researchers, and data analysts interested in exploring trends and patterns within the realm of top-rated films.\n\n**Columns:**\n\n\n**title:** The title of the movie.\n**overview:** A brief description of the movie's plot.\n**genre:** genre of the movie\n\n**Potential Applications:**\n\n**Movie Analysis:** Explore trends and patterns in top-rated movies over time.\n**Recommendation Systems:** Develop recommendation algorithms based on popularity and user ratings.\n**Sentiment Analysis:** Analyze movie overviews to understand audience sentiments.\n**Temporal Analysis:** Examine how movie popularity and ratings change over release years.\n\n\n**Acknowledgments:**\nThis dataset is sourced from TMDB, a leading movie database, and is made available for public use. Please consider citing TMDB if you use this dataset in your research or projects.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "data cleaning",
+    "data visualization",
+    "text",
+    "spaCy",
+    "nltk"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

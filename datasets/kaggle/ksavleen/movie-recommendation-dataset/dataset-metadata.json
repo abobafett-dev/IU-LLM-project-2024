@@ -1,0 +1,39 @@
+{
+  "id": "ksavleen/movie-recommendation-dataset",
+  "id_no": 2265269,
+  "datasetSlugNullable": "movie-recommendation-dataset",
+  "ownerUserNullable": "ksavleen",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Movie Recommendation Datasets",
+  "subtitleNullable": "Movie Ratings and Movie Details reviewed by different viewers.",
+  "descriptionNullable": "Datasets have **movie titles** and details of **movie ratings** from **MovieLens** datasets \nIt has details like Item ID, User ID, Movie Title, Ratings given by viewers on scale of 1 to 5 and timestamps",
+  "datasetId": 2265269,
+  "datasetSlug": "movie-recommendation-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ksavleen",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 2604,
+  "totalVotes": 10,
+  "totalDownloads": 297,
+  "title": "Movie Recommendation Datasets",
+  "hasTitle": true,
+  "subtitle": "Movie Ratings and Movie Details reviewed by different viewers.",
+  "hasSubtitle": true,
+  "description": "Datasets have **movie titles** and details of **movie ratings** from **MovieLens** datasets \nIt has details like Item ID, User ID, Movie Title, Ratings given by viewers on scale of 1 to 5 and timestamps",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

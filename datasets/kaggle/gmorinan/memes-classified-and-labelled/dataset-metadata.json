@@ -1,0 +1,41 @@
+{
+  "id": "gmorinan/memes-classified-and-labelled",
+  "id_no": 742070,
+  "datasetSlugNullable": "memes-classified-and-labelled",
+  "ownerUserNullable": "gmorinan",
+  "usabilityRatingNullable": 0.7352941176470589,
+  "titleNullable": "memes classified and labelled",
+  "subtitleNullable": "images and metadata scraped from Reddit, then classified using image recognition ",
+  "descriptionNullable": "**Disclaimer**: These memes were collected by a blind web scrape, the vast majority of them I have not looked at; I do not endorse any sentiments expressed in them. \n\n### Context\nThis data contains ~50 examples from each of the 115 of the most common memes posted to Reddit during 2018.  This dataset is a subset of a larger set of Reddit memes collected over the course of 1 year by scraping posts from dozens of meme orientated Subreddits. [Using an image recognition methodology dubbed \"Meme Vision\"](https://towardsdatascience.com/meme-vision-framework-e90a9a7a4187) the images were then labelled into ~1000 different classifications (i.e. 1 classification = 1 type of meme). \n\n### Content\n5716 image, consisting of ~50 examples from each of 115 meme types. Organised into folders, with a 20/80 train/validation split. Also metadata including the original link, score, number of comments etc for (nearly) all of the images. Note that sometimes exactly the same image appears twice - this is because it was posted to two different Subreddits. \n\n### Acknowledgements\nWeb scraping implemented using [Python Reddit API Wrapper developed by Bryce Boe](https://praw.readthedocs.io/en/latest/), which in turn uses the [Reddit API](https://www.reddit.com/dev/api). Web scraping also implemented using [Imgur Python API](https://github.com/Imgur/imgurpython) which in turn uses the [Imgur API](https://api.imgur.com/). Collection & storage was facilitated using [AWS infrastructure](https://aws.amazon.com). \n\n### Copyright \nCopyright of all images retained by respective owners. All images posted to Reddit under fair use. ",
+  "datasetId": 742070,
+  "datasetSlug": "memes-classified-and-labelled",
+  "hasDatasetSlug": true,
+  "ownerUser": "gmorinan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7352941176470589,
+  "hasUsabilityRating": true,
+  "totalViews": 8314,
+  "totalVotes": 16,
+  "totalDownloads": 534,
+  "title": "memes classified and labelled",
+  "hasTitle": true,
+  "subtitle": "images and metadata scraped from Reddit, then classified using image recognition ",
+  "hasSubtitle": true,
+  "description": "**Disclaimer**: These memes were collected by a blind web scrape, the vast majority of them I have not looked at; I do not endorse any sentiments expressed in them. \n\n### Context\nThis data contains ~50 examples from each of the 115 of the most common memes posted to Reddit during 2018.  This dataset is a subset of a larger set of Reddit memes collected over the course of 1 year by scraping posts from dozens of meme orientated Subreddits. [Using an image recognition methodology dubbed \"Meme Vision\"](https://towardsdatascience.com/meme-vision-framework-e90a9a7a4187) the images were then labelled into ~1000 different classifications (i.e. 1 classification = 1 type of meme). \n\n### Content\n5716 image, consisting of ~50 examples from each of 115 meme types. Organised into folders, with a 20/80 train/validation split. Also metadata including the original link, score, number of comments etc for (nearly) all of the images. Note that sometimes exactly the same image appears twice - this is because it was posted to two different Subreddits. \n\n### Acknowledgements\nWeb scraping implemented using [Python Reddit API Wrapper developed by Bryce Boe](https://praw.readthedocs.io/en/latest/), which in turn uses the [Reddit API](https://www.reddit.com/dev/api). Web scraping also implemented using [Imgur Python API](https://github.com/Imgur/imgurpython) which in turn uses the [Imgur API](https://api.imgur.com/). Collection & storage was facilitated using [AWS infrastructure](https://aws.amazon.com). \n\n### Copyright \nCopyright of all images retained by respective owners. All images posted to Reddit under fair use. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

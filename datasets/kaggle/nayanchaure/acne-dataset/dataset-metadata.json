@@ -1,0 +1,37 @@
+{
+  "id": "nayanchaure/acne-dataset",
+  "id_no": 2553733,
+  "datasetSlugNullable": "acne-dataset",
+  "ownerUserNullable": "nayanchaure",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Acne dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "This Dataset contains approximate 1800 images of acne which will help you for your Machine Learning Project or data analysis project. The quantities of image in dataset is good. The trained classification model was able to identify between acne-affected and unaffected faces using the semantic segmentation model to filter the re-annotated dataset. This result, when compared to other methods suggested in the literature, may be deemed state-of-the-art.",
+  "datasetId": 2553733,
+  "datasetSlug": "acne-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "nayanchaure",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 9777,
+  "totalVotes": 12,
+  "totalDownloads": 1262,
+  "title": "Acne dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This Dataset contains approximate 1800 images of acne which will help you for your Machine Learning Project or data analysis project. The quantities of image in dataset is good. The trained classification model was able to identify between acne-affected and unaffected faces using the semantic segmentation model to filter the re-annotated dataset. This result, when compared to other methods suggested in the literature, may be deemed state-of-the-art.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

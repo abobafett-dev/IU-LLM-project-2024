@@ -1,0 +1,43 @@
+{
+  "id": "anuragbantu/new-delhi-air-quality",
+  "id_no": 2568267,
+  "datasetSlugNullable": "new-delhi-air-quality",
+  "ownerUserNullable": "anuragbantu",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "New Delhi Air Quality",
+  "subtitleNullable": "Information about air quality in the Indian capital",
+  "descriptionNullable": "According to a WHO survey of 1,650 global cities and a survey of 7,000 global cities conducted by the US-based Health Effects Institute in August 2022, the air quality in Delhi, the capital region of India, is the worst of any large city in the world.&nbsp;&nbsp;According to estimates, air pollution kills around 2 million Indians annually, making it the country's sixth leading cause of death. According to the WHO, India has the highest mortality rate worldwide from asthma and chronic respiratory disorders. In Delhi, 2.2 million people, or 50% of all children, have irreparable lung damage.\n\nBetween March and September, Delhi's air quality index is typically Good (0-50), Satisfactory (51-100), to Moderate (101-200), and then it rapidly deteriorates to Poor (201-300), Very Poor (301-400), Severe (401-500), or Hazardous (500+) levels due to a variety of factors, such as the burning of effigies for Vijayadashami, the setting off of fireworks for Diwali, the burning of stubble for winter, Furthermore, the Air Quality Index for the Delhi National Capital Region is above 200 for at least half the year, according to information made public by the environment ministry in 2022.\n\nOn November 19, 2021, NASA published a report on Delhi's air pollution problem. Bloomberg reported that 16.7 lakh people in India perished in 2019 as a result of air pollution. The administration is working to address this major catastrophe, but it does not appear to be an easy task.\n\nThis dataset describes the air quality observations in New Delhi in the past 72 hours. The features mentioned are the Air quality index (AQI), date-time, timestamps (in local IST and UTC) and levels of chemical compounds such as Carbon Monoxide (CO), Nitrogen Dioxide (NO2), Ozone (O3), Sulphur Dioxide (SO2) and particulate matter (PM10 and PM25). This data was collected using an Air Quality API and it will be updated regularly.",
+  "datasetId": 2568267,
+  "datasetSlug": "new-delhi-air-quality",
+  "hasDatasetSlug": true,
+  "ownerUser": "anuragbantu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 3569,
+  "totalVotes": 35,
+  "totalDownloads": 657,
+  "title": "New Delhi Air Quality",
+  "hasTitle": true,
+  "subtitle": "Information about air quality in the Indian capital",
+  "hasSubtitle": true,
+  "description": "According to a WHO survey of 1,650 global cities and a survey of 7,000 global cities conducted by the US-based Health Effects Institute in August 2022, the air quality in Delhi, the capital region of India, is the worst of any large city in the world.&nbsp;&nbsp;According to estimates, air pollution kills around 2 million Indians annually, making it the country's sixth leading cause of death. According to the WHO, India has the highest mortality rate worldwide from asthma and chronic respiratory disorders. In Delhi, 2.2 million people, or 50% of all children, have irreparable lung damage.\n\nBetween March and September, Delhi's air quality index is typically Good (0-50), Satisfactory (51-100), to Moderate (101-200), and then it rapidly deteriorates to Poor (201-300), Very Poor (301-400), Severe (401-500), or Hazardous (500+) levels due to a variety of factors, such as the burning of effigies for Vijayadashami, the setting off of fireworks for Diwali, the burning of stubble for winter, Furthermore, the Air Quality Index for the Delhi National Capital Region is above 200 for at least half the year, according to information made public by the environment ministry in 2022.\n\nOn November 19, 2021, NASA published a report on Delhi's air pollution problem. Bloomberg reported that 16.7 lakh people in India perished in 2019 as a result of air pollution. The administration is working to address this major catastrophe, but it does not appear to be an easy task.\n\nThis dataset describes the air quality observations in New Delhi in the past 72 hours. The features mentioned are the Air quality index (AQI), date-time, timestamps (in local IST and UTC) and levels of chemical compounds such as Carbon Monoxide (CO), Nitrogen Dioxide (NO2), Ozone (O3), Sulphur Dioxide (SO2) and particulate matter (PM10 and PM25). This data was collected using an Air Quality API and it will be updated regularly.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "exploratory data analysis",
+    "data visualization",
+    "time series analysis",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "oscarm524/influence-of-coupons-on-order-patterns",
+  "id_no": 2727072,
+  "datasetSlugNullable": "influence-of-coupons-on-order-patterns",
+  "ownerUserNullable": "oscarm524",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Influence of Coupons on Order Patterns",
+  "subtitleNullable": "Predict coupon usage and basket value",
+  "descriptionNullable": "This dataset deals with the topic of coupon generation. What is interesting in this case is the impact of coupons on the shopping basket value as well as the redemption rate of the individual coupons. Coupons have been used as purchase incentives for some time now, not only by mail order companies. This presents interesting challenges, including the question: \u201cWho responds to coupons?\u201d, and then the question: \u201cWho would have made the purchase even without the coupon?\u201d. Only by giving equal consideration to both of these questions can we arrive at profitable couponing. Data mining processes, in particular scoring processes, can be used to answer these questions. Such processes make it possible to create forecasting models which provide answers to both questions.\n\nUsing the historical order data from an online shop with accompanying coupon generation, a model should be created that comes up with a prediction for the redeemed coupons and for the shopping basket value for new orders within the shop. The historical data contains both a time stamp of the coupon generation and the orders as well as different products and customer attributes. The information ``coupon redeemed yes/no'' and the basket value of the order are also known in the historical data. \n\n# The Data\n\nReal anonymous shop data in the form of structured text files consisting of individual datasets are provided. Below are some points to note about the files:\n\n1. Each dataset is in a row of its own, ending with \"CR'\" (\"carriage return\", 0xD) or \"CR'' and \"LF'' (\"carriage return'' or \"line feed'', 0xD and 0xA).\n2. The first row has the same structure as the datasets, but contains the names of the respective columns (data fields).\n3. The top row and each dataset contains several fields separated from each other by the pipe symbol (\"|'').\n4. There is no escape character, quotes are not used.\n5. ASCII is the character set used.\n6. Missing values may occur.\n\nA brief description of the fields can be found in \"*features.pdf*\". The training data file is \"orders\\_train.txt\", and the test data file is \"orders\\_class.txt\". Notice that the test data file doesn't contain the target attributes \"coupon1Used\", \"coupon2Used\", \"coupon3Used\" and \"basketValue\".\n\n# The Task\n\nHistorical data used in generating coupons over a period of several weeks is known for the task. One coupon applies to a single product. In addition, the orders are still given in response to the generation including the information as to which coupons have been redeemed and the total basket value of each order. Using this data, a model for predicting coupon redemption and the total basket value should be learned. The target attributes  \"coupon1Used\", \"coupon2Used\", \"coupon3Used\" are described with the value \"0\" for coupons not redeemed and \"1\" for coupons redeemed. The remaining target attribute \"basketValue\" contains the total basket value of the order in the form of a real number. An analysis as to whether the coupons will be redeemed as well as the total basket value should be made for a portion of the coupon generation. For more detail see the DMC\\_2015\\_task.pdf file.\n\n# Acknowledgements\n\nThis dataset is publicly available in the [data-mining-cup-website](https://www.data-mining-cup.com/reviews/dmc-2015/). ",
+  "datasetId": 2727072,
+  "datasetSlug": "influence-of-coupons-on-order-patterns",
+  "hasDatasetSlug": true,
+  "ownerUser": "oscarm524",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 1494,
+  "totalVotes": 16,
+  "totalDownloads": 165,
+  "title": "Influence of Coupons on Order Patterns",
+  "hasTitle": true,
+  "subtitle": "Predict coupon usage and basket value",
+  "hasSubtitle": true,
+  "description": "This dataset deals with the topic of coupon generation. What is interesting in this case is the impact of coupons on the shopping basket value as well as the redemption rate of the individual coupons. Coupons have been used as purchase incentives for some time now, not only by mail order companies. This presents interesting challenges, including the question: \u201cWho responds to coupons?\u201d, and then the question: \u201cWho would have made the purchase even without the coupon?\u201d. Only by giving equal consideration to both of these questions can we arrive at profitable couponing. Data mining processes, in particular scoring processes, can be used to answer these questions. Such processes make it possible to create forecasting models which provide answers to both questions.\n\nUsing the historical order data from an online shop with accompanying coupon generation, a model should be created that comes up with a prediction for the redeemed coupons and for the shopping basket value for new orders within the shop. The historical data contains both a time stamp of the coupon generation and the orders as well as different products and customer attributes. The information ``coupon redeemed yes/no'' and the basket value of the order are also known in the historical data. \n\n# The Data\n\nReal anonymous shop data in the form of structured text files consisting of individual datasets are provided. Below are some points to note about the files:\n\n1. Each dataset is in a row of its own, ending with \"CR'\" (\"carriage return\", 0xD) or \"CR'' and \"LF'' (\"carriage return'' or \"line feed'', 0xD and 0xA).\n2. The first row has the same structure as the datasets, but contains the names of the respective columns (data fields).\n3. The top row and each dataset contains several fields separated from each other by the pipe symbol (\"|'').\n4. There is no escape character, quotes are not used.\n5. ASCII is the character set used.\n6. Missing values may occur.\n\nA brief description of the fields can be found in \"*features.pdf*\". The training data file is \"orders\\_train.txt\", and the test data file is \"orders\\_class.txt\". Notice that the test data file doesn't contain the target attributes \"coupon1Used\", \"coupon2Used\", \"coupon3Used\" and \"basketValue\".\n\n# The Task\n\nHistorical data used in generating coupons over a period of several weeks is known for the task. One coupon applies to a single product. In addition, the orders are still given in response to the generation including the information as to which coupons have been redeemed and the total basket value of each order. Using this data, a model for predicting coupon redemption and the total basket value should be learned. The target attributes  \"coupon1Used\", \"coupon2Used\", \"coupon3Used\" are described with the value \"0\" for coupons not redeemed and \"1\" for coupons redeemed. The remaining target attribute \"basketValue\" contains the total basket value of the order in the form of a real number. An analysis as to whether the coupons will be redeemed as well as the total basket value should be made for a portion of the coupon generation. For more detail see the DMC\\_2015\\_task.pdf file.\n\n# Acknowledgements\n\nThis dataset is publicly available in the [data-mining-cup-website](https://www.data-mining-cup.com/reviews/dmc-2015/). ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "classification",
+    "tabular",
+    "regression",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

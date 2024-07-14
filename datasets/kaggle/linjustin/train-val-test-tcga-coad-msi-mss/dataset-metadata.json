@@ -1,0 +1,43 @@
+{
+  "id": "linjustin/train-val-test-tcga-coad-msi-mss",
+  "id_no": 594679,
+  "datasetSlugNullable": "train-val-test-tcga-coad-msi-mss",
+  "ownerUserNullable": "linjustin",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Gastrointestinal Cancer MSI MSS Prediction",
+  "subtitleNullable": "Histopathology Image Analysis with CNN and Transfer Learning",
+  "descriptionNullable": "### Context\n\nThe original dataset can be found [here](https://www.kaggle.com/joangibert/tcga_coad_msi_mss_jpg). I split the dataset into train, val, and test using the `split_folders` package. Here is the [link](https://github.com/jfilter/split-folders) to the package.\n\n\n### Content\n\nThe dataset contains histological images for MSI vs MSS classification in gastrointestinal cancer. There are 192312 unique images split into train, val, and test sets.\n\n\n### Acknowledgements\n\nThank you Joan Gibert and Jakob Nikolas Kather for this data set.\n\n\n### Inspiration\n\nI'm passionate about deep learning and its applications in medical imaging. I believe it is a great tool to aid pathologists and medical professionals.",
+  "datasetId": 594679,
+  "datasetSlug": "train-val-test-tcga-coad-msi-mss",
+  "hasDatasetSlug": true,
+  "ownerUser": "linjustin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 18162,
+  "totalVotes": 24,
+  "totalDownloads": 1725,
+  "title": "Gastrointestinal Cancer MSI MSS Prediction",
+  "hasTitle": true,
+  "subtitle": "Histopathology Image Analysis with CNN and Transfer Learning",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe original dataset can be found [here](https://www.kaggle.com/joangibert/tcga_coad_msi_mss_jpg). I split the dataset into train, val, and test using the `split_folders` package. Here is the [link](https://github.com/jfilter/split-folders) to the package.\n\n\n### Content\n\nThe dataset contains histological images for MSI vs MSS classification in gastrointestinal cancer. There are 192312 unique images split into train, val, and test sets.\n\n\n### Acknowledgements\n\nThank you Joan Gibert and Jakob Nikolas Kather for this data set.\n\n\n### Inspiration\n\nI'm passionate about deep learning and its applications in medical imaging. I believe it is a great tool to aid pathologists and medical professionals.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "deep learning",
+    "image",
+    "binary classification",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "gpiosenka/headgear-image-classification",
+  "id_no": 3278384,
+  "datasetSlugNullable": "headgear-image-classification",
+  "ownerUserNullable": "gpiosenka",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Headgear  20 classes-Image Classification",
+  "subtitleNullable": "20 classes 3620 train, 100 test 100 validation images 224 X 224 X3 jpg",
+  "descriptionNullable": "Image dataset of 20 classes of head gear-hats,caps, helmets. 3620 train images,100 test and 100 validation images. All images are 224 X 224 X 3 in jpg format. Also included is aan EfficentNetB0 trained model and a csv file.",
+  "datasetId": 3278384,
+  "datasetSlug": "headgear-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "gpiosenka",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 3281,
+  "totalVotes": 16,
+  "totalDownloads": 569,
+  "title": "Headgear  20 classes-Image Classification",
+  "hasTitle": true,
+  "subtitle": "20 classes 3620 train, 100 test 100 validation images 224 X 224 X3 jpg",
+  "hasSubtitle": true,
+  "description": "Image dataset of 20 classes of head gear-hats,caps, helmets. 3620 train images,100 test and 100 validation images. All images are 224 X 224 X 3 in jpg format. Also included is aan EfficentNetB0 trained model and a csv file.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "computer vision",
+    "classification",
+    "multiclass classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "mhmmadalewi/buildings-vs-forests",
+  "id_no": 3586819,
+  "datasetSlugNullable": "buildings-vs-forests",
+  "ownerUserNullable": "mhmmadalewi",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Buildings-vs-Forests",
+  "subtitleNullable": "Image dataset for binary classification.",
+  "descriptionNullable": "# Context\n\nThis data set contains two class of images Buildings and Forests. This can be best utilized in a binary classification problem set in computer vision.\n\n## Note: I got this data from[ Intel Image Classification](url), but I only chose two classes for binary classification\n\n# Content \n\nThis data contains around 5k images, And I spilt the data for two directory \ntraining_set contains around a 4k images\ntest_set contains around a 1k images\n\n# Acknowledgements\nThanks to https://datahack.analyticsvidhya.com for the challenge and Intel for the Data\n\nPhoto by [Jan B\u00f6ttinger on Unsplash](url)\n\n\n\n",
+  "datasetId": 3586819,
+  "datasetSlug": "buildings-vs-forests",
+  "hasDatasetSlug": true,
+  "ownerUser": "mhmmadalewi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 850,
+  "totalVotes": 9,
+  "totalDownloads": 253,
+  "title": "Buildings-vs-Forests",
+  "hasTitle": true,
+  "subtitle": "Image dataset for binary classification.",
+  "hasSubtitle": true,
+  "description": "# Context\n\nThis data set contains two class of images Buildings and Forests. This can be best utilized in a binary classification problem set in computer vision.\n\n## Note: I got this data from[ Intel Image Classification](url), but I only chose two classes for binary classification\n\n# Content \n\nThis data contains around 5k images, And I spilt the data for two directory \ntraining_set contains around a 4k images\ntest_set contains around a 1k images\n\n# Acknowledgements\nThanks to https://datahack.analyticsvidhya.com for the challenge and Intel for the Data\n\nPhoto by [Jan B\u00f6ttinger on Unsplash](url)\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "forestry",
+    "cnn",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

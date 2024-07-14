@@ -1,0 +1,43 @@
+{
+  "id": "muhammadafaq786/fer2013-images",
+  "id_no": 4666070,
+  "datasetSlugNullable": "fer2013-images",
+  "ownerUserNullable": "muhammadafaq786",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "FER2013_images",
+  "subtitleNullable": "Exploring Facial Expressions: A Deep Dive into the FER2013 Dataset.",
+  "descriptionNullable": "The Fer2013 dataset is a widely used benchmark dataset in the field of facial expression recognition. It consists of over 35,000 grayscale images categorized into seven emotions: anger, disgust, fear, happiness, sadness, surprise, and neutral. Each image is labeled with one of these emotion classes, making it suitable for training and evaluating emotion recognition models. The dataset is often utilized for training deep learning models due to its large size and diverse range of facial expressions captured in various lighting conditions and backgrounds.",
+  "datasetId": 4666070,
+  "datasetSlug": "fer2013-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammadafaq786",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 156,
+  "totalVotes": 0,
+  "totalDownloads": 30,
+  "title": "FER2013_images",
+  "hasTitle": true,
+  "subtitle": "Exploring Facial Expressions: A Deep Dive into the FER2013 Dataset.",
+  "hasSubtitle": true,
+  "description": "The Fer2013 dataset is a widely used benchmark dataset in the field of facial expression recognition. It consists of over 35,000 grayscale images categorized into seven emotions: anger, disgust, fear, happiness, sadness, surprise, and neutral. Each image is labeled with one of these emotion classes, making it suitable for training and evaluating emotion recognition models. The dataset is often utilized for training deep learning models due to its large size and diverse range of facial expressions captured in various lighting conditions and backgrounds.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "deep learning",
+    "image",
+    "tensorflow",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

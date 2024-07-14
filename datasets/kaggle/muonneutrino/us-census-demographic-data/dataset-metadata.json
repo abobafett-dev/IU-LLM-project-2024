@@ -1,0 +1,43 @@
+{
+  "id": "muonneutrino/us-census-demographic-data",
+  "id_no": 7001,
+  "datasetSlugNullable": "us-census-demographic-data",
+  "ownerUserNullable": "muonneutrino",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "US Census Demographic Data",
+  "subtitleNullable": "Demographic and Economic Data for Tracts and Counties",
+  "descriptionNullable": "### Context\n\nThis dataset expands on my earlier [New York City Census Data][1] dataset. It includes data from the entire country instead of just New York City. The expanded data will allow for much more interesting analyses and will also be much more useful at supporting other data sets.\n\n### Content\n\nThe data here are taken from the DP03 and DP05 tables of the 2015 American Community Survey 5-year estimates. The full datasets and much more can be found at the American Factfinder [website][2]. Currently, I include two data files:\n\n 1. acs2015_census_tract_data.csv: Data for each census tract in the US, including DC and Puerto Rico.\n 2. acs2015_county_data.csv: Data for each county or county equivalent in the US, including DC and Puerto Rico.\n\nThe two files have the same structure, with just a small difference in the name of the id column. Counties are political subdivisions, and the boundaries of some have been set for centuries. Census tracts, however, are defined by the census bureau and will have a much more consistent size. A typical census tract has around 5000 or so residents.\n\nThe Census Bureau updates the estimates approximately every year. At least some of the 2016 data is already available, so I will likely update this in the near future.\n\n### Acknowledgements\n\nThe data here were collected by the US Census Bureau. As a product of the US federal government, this is not subject to copyright within the US.\n\n### Inspiration\n\nThere are many questions that we could try to answer with the data here. Can we predict things such as the state (classification) or household income (regression)? What kinds of clusters can we find in the data? What other datasets can be improved by the addition of census data? \n\n  [1]: https://www.kaggle.com/muonneutrino/new-york-city-census-data\n  [2]: https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml",
+  "datasetId": 7001,
+  "datasetSlug": "us-census-demographic-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "muonneutrino",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 206241,
+  "totalVotes": 351,
+  "totalDownloads": 30387,
+  "title": "US Census Demographic Data",
+  "hasTitle": true,
+  "subtitle": "Demographic and Economic Data for Tracts and Counties",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset expands on my earlier [New York City Census Data][1] dataset. It includes data from the entire country instead of just New York City. The expanded data will allow for much more interesting analyses and will also be much more useful at supporting other data sets.\n\n### Content\n\nThe data here are taken from the DP03 and DP05 tables of the 2015 American Community Survey 5-year estimates. The full datasets and much more can be found at the American Factfinder [website][2]. Currently, I include two data files:\n\n 1. acs2015_census_tract_data.csv: Data for each census tract in the US, including DC and Puerto Rico.\n 2. acs2015_county_data.csv: Data for each county or county equivalent in the US, including DC and Puerto Rico.\n\nThe two files have the same structure, with just a small difference in the name of the id column. Counties are political subdivisions, and the boundaries of some have been set for centuries. Census tracts, however, are defined by the census bureau and will have a much more consistent size. A typical census tract has around 5000 or so residents.\n\nThe Census Bureau updates the estimates approximately every year. At least some of the 2016 data is already available, so I will likely update this in the near future.\n\n### Acknowledgements\n\nThe data here were collected by the US Census Bureau. As a product of the US federal government, this is not subject to copyright within the US.\n\n### Inspiration\n\nThere are many questions that we could try to answer with the data here. Can we predict things such as the state (classification) or household income (regression)? What kinds of clusters can we find in the data? What other datasets can be improved by the addition of census data? \n\n  [1]: https://www.kaggle.com/muonneutrino/new-york-city-census-data\n  [2]: https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "business",
+    "social science",
+    "demographics",
+    "economics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

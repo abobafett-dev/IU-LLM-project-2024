@@ -1,0 +1,41 @@
+{
+  "id": "saraivaufc/land-use-land-cover-time-series",
+  "id_no": 1073978,
+  "datasetSlugNullable": "land-use-land-cover-time-series",
+  "ownerUserNullable": "saraivaufc",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Land Use/Land Cover Time Series ",
+  "subtitleNullable": "Vegetation Index Time Series Annotated with 20 Land Use and Land Cover Classes",
+  "descriptionNullable": "### Context\n\nThis dataset presents 10K time series of vegetation indexes obtained from the Moderate Resolution Imaging Spectroradiometer (MOD13Q1 product) and annotated with 20 land use/land cover classes obtained from the LEM Dataset. \n\nThis dataset was created with a focus on the Western Region of Bahia, Brazil. Region with relevant national agricultural production.\n\n### Content\n\nThis dataset consists of CSV files with the following columns:\n* id: time series identification;\n* date: date, in yyyy-MM-dd format, indicating the date of the MOD13Q1 product;\n* evi: value of the Enhanced vegetation index (EVI) on the date indicated;\n* class: land use / land cover class on the indicated date.\n   - 0 - not identified\n   - 1 - soybean \n   - 2 - maize\n   - 3 - cotton\n   - 4 - coffee\n   - 5- beans \n   - 6 - wheat\n   - 7 - sorghum\n   - 8 - millet\n   - 9 - eucalyptus\n   - 10 - pasture\n   - 11 - hay\n   - 12 - grass\n   - 13 - crotalari\n   - 14 - maize+crotalari\n   - 15 - cerrado\n   - 16 - conversion area\n   - 17 - uncultivated soil\n   - 18 - ncc\n   - 19 - brachiaria\n\nTime series example:\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1601740%2F0e709b5b22a66c48aa8bf4e73ed7260b%2FScreenshot%202021-01-03%20014842.png?generation=1609715067903154&alt=media)\n\n\nSome images, in GeoTIFF format, have been added to illustrate the complete process of mapping land use using this dataset.\n\n### Acknowledgements\n\nHuete, A., Justice, C., & Van Leeuwen, W. (1999). MODIS vegetation index (MOD13). Algorithm theoretical basis document, 3(213).\n\nSanches, I. D., Feitosa, R. Q., Montibeller, B., Diaz, P. A., Luiz, A. J. B., Soares, M. D., ... & Chamorro, J. (2020). First Results of the Lem Benchmark Database for Agricultural Applications. The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, 43, 251-256\n\n### Kernel Starter\n\nKernel: [Land use classification using Encoder-Decoder LSTM ](https://www.kaggle.com/saraivaufc/land-use-classification-using-encoder-decoder-lstm)\nResults:\n![](https://media1.giphy.com/media/31QWFDvEhMqo8quD1v/giphy.gif)",
+  "datasetId": 1073978,
+  "datasetSlug": "land-use-land-cover-time-series",
+  "hasDatasetSlug": true,
+  "ownerUser": "saraivaufc",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 6736,
+  "totalVotes": 10,
+  "totalDownloads": 1277,
+  "title": "Land Use/Land Cover Time Series ",
+  "hasTitle": true,
+  "subtitle": "Vegetation Index Time Series Annotated with 20 Land Use and Land Cover Classes",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset presents 10K time series of vegetation indexes obtained from the Moderate Resolution Imaging Spectroradiometer (MOD13Q1 product) and annotated with 20 land use/land cover classes obtained from the LEM Dataset. \n\nThis dataset was created with a focus on the Western Region of Bahia, Brazil. Region with relevant national agricultural production.\n\n### Content\n\nThis dataset consists of CSV files with the following columns:\n* id: time series identification;\n* date: date, in yyyy-MM-dd format, indicating the date of the MOD13Q1 product;\n* evi: value of the Enhanced vegetation index (EVI) on the date indicated;\n* class: land use / land cover class on the indicated date.\n   - 0 - not identified\n   - 1 - soybean \n   - 2 - maize\n   - 3 - cotton\n   - 4 - coffee\n   - 5- beans \n   - 6 - wheat\n   - 7 - sorghum\n   - 8 - millet\n   - 9 - eucalyptus\n   - 10 - pasture\n   - 11 - hay\n   - 12 - grass\n   - 13 - crotalari\n   - 14 - maize+crotalari\n   - 15 - cerrado\n   - 16 - conversion area\n   - 17 - uncultivated soil\n   - 18 - ncc\n   - 19 - brachiaria\n\nTime series example:\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1601740%2F0e709b5b22a66c48aa8bf4e73ed7260b%2FScreenshot%202021-01-03%20014842.png?generation=1609715067903154&alt=media)\n\n\nSome images, in GeoTIFF format, have been added to illustrate the complete process of mapping land use using this dataset.\n\n### Acknowledgements\n\nHuete, A., Justice, C., & Van Leeuwen, W. (1999). MODIS vegetation index (MOD13). Algorithm theoretical basis document, 3(213).\n\nSanches, I. D., Feitosa, R. Q., Montibeller, B., Diaz, P. A., Luiz, A. J. B., Soares, M. D., ... & Chamorro, J. (2020). First Results of the Lem Benchmark Database for Agricultural Applications. The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, 43, 251-256\n\n### Kernel Starter\n\nKernel: [Land use classification using Encoder-Decoder LSTM ](https://www.kaggle.com/saraivaufc/land-use-classification-using-encoder-decoder-lstm)\nResults:\n![](https://media1.giphy.com/media/31QWFDvEhMqo8quD1v/giphy.gif)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "real estate",
+    "software",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

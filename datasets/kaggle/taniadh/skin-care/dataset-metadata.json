@@ -1,0 +1,43 @@
+{
+  "id": "taniadh/skin-care",
+  "id_no": 2179264,
+  "datasetSlugNullable": "skin-care",
+  "ownerUserNullable": "taniadh",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Skin Care",
+  "subtitleNullable": "Korean Skincare product lists and reviews",
+  "descriptionNullable": "**Motive**\nThis data was created to build a knowledge-based recommendation system. Where user will give their preferences and they get recommended products based on their similarity to top rated products reviews. I attempted to solve the problem of cold-start when there is no new customer data available. This data can also be used for content-based recommendation system, sentiment analysis etc.,\n\n**Data**\nThe data is relational data with two files: \n1. **productlist.csv** with following attributes: product ID, product name, product brand, price, description and product type\n2.  **productReviews.csv** with following attributes: product ID and review\n\n**Source**\nThe data was web scraped from https://sokoglam.com/",
+  "datasetId": 2179264,
+  "datasetSlug": "skin-care",
+  "hasDatasetSlug": true,
+  "ownerUser": "taniadh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 3376,
+  "totalVotes": 6,
+  "totalDownloads": 353,
+  "title": "Skin Care",
+  "hasTitle": true,
+  "subtitle": "Korean Skincare product lists and reviews",
+  "hasSubtitle": true,
+  "description": "**Motive**\nThis data was created to build a knowledge-based recommendation system. Where user will give their preferences and they get recommended products based on their similarity to top rated products reviews. I attempted to solve the problem of cold-start when there is no new customer data available. This data can also be used for content-based recommendation system, sentiment analysis etc.,\n\n**Data**\nThe data is relational data with two files: \n1. **productlist.csv** with following attributes: product ID, product name, product brand, price, description and product type\n2.  **productReviews.csv** with following attributes: product ID and review\n\n**Source**\nThe data was web scraped from https://sokoglam.com/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "recommender systems",
+    "tabular",
+    "make-up and cosmetics",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

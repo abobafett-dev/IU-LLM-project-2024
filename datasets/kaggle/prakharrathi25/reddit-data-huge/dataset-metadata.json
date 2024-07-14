@@ -1,0 +1,42 @@
+{
+  "id": "prakharrathi25/reddit-data-huge",
+  "id_no": 843131,
+  "datasetSlugNullable": "reddit-data-huge",
+  "ownerUserNullable": "prakharrathi25",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Reddit Data Huge ",
+  "subtitleNullable": "Dataset containing Reddit Posts and Comments from various different subreddits. ",
+  "descriptionNullable": "### What is Reddit?\n\nReddit is a collection of forums where people can share news and content as a thread or comment on other people\u2019s posts. Reddit is broken up into more than a million communities known as \u201csubreddits,\u201d each of which covers a different topic. The name of a subreddit begins with /r/, which is part of the URLs that Reddit uses. For example, /r/nba is a subreddit where people talk about the National Basketball Association, while /r/boardgames is a subreddit for people to discuss board games.\n\n### Content\n\nIn this dataset, I have added data from many different subreddits. This will act as an NLP gold mine for Social Media Analysis. This can help people understand what the youth is talking about. \n\n\n### Acknowledgements\n\nI have collected it on my own using this [article](https://towardsdatascience.com/predicting-reddit-flairs-using-machine-learning-and-deploying-the-model-on-heroku-part-1-574b69098d9a). ",
+  "datasetId": 843131,
+  "datasetSlug": "reddit-data-huge",
+  "hasDatasetSlug": true,
+  "ownerUser": "prakharrathi25",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 4850,
+  "totalVotes": 12,
+  "totalDownloads": 340,
+  "title": "Reddit Data Huge ",
+  "hasTitle": true,
+  "subtitle": "Dataset containing Reddit Posts and Comments from various different subreddits. ",
+  "hasSubtitle": true,
+  "description": "### What is Reddit?\n\nReddit is a collection of forums where people can share news and content as a thread or comment on other people\u2019s posts. Reddit is broken up into more than a million communities known as \u201csubreddits,\u201d each of which covers a different topic. The name of a subreddit begins with /r/, which is part of the URLs that Reddit uses. For example, /r/nba is a subreddit where people talk about the National Basketball Association, while /r/boardgames is a subreddit for people to discuss board games.\n\n### Content\n\nIn this dataset, I have added data from many different subreddits. This will act as an NLP gold mine for Social Media Analysis. This can help people understand what the youth is talking about. \n\n\n### Acknowledgements\n\nI have collected it on my own using this [article](https://towardsdatascience.com/predicting-reddit-flairs-using-machine-learning-and-deploying-the-model-on-heroku-part-1-574b69098d9a). ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "basketball",
+    "nlp",
+    "online communities",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

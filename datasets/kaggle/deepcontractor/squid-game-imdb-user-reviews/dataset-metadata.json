@@ -1,0 +1,43 @@
+{
+  "id": "deepcontractor/squid-game-imdb-user-reviews",
+  "id_no": 1651623,
+  "datasetSlugNullable": "squid-game-imdb-user-reviews",
+  "ownerUserNullable": "deepcontractor",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Squid Game IMDB User Reviews",
+  "subtitleNullable": "IMDB User Reviews for the Netflix Tv-show Squid Game",
+  "descriptionNullable": "Source: IMDB\nCollection Method: Custom Scraper using selenium.\nImage Credits: Sky News\n![Image](https://e3.365dm.com/21/10/2048x1152/skynews-squid-game-netflix_5537962.jpg)",
+  "datasetId": 1651623,
+  "datasetSlug": "squid-game-imdb-user-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "deepcontractor",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 8244,
+  "totalVotes": 45,
+  "totalDownloads": 772,
+  "title": "Squid Game IMDB User Reviews",
+  "hasTitle": true,
+  "subtitle": "IMDB User Reviews for the Netflix Tv-show Squid Game",
+  "hasSubtitle": true,
+  "description": "Source: IMDB\nCollection Method: Custom Scraper using selenium.\nImage Credits: Sky News\n![Image](https://e3.365dm.com/21/10/2048x1152/skynews-squid-game-netflix_5537962.jpg)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "beginner",
+    "tabular",
+    "text",
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

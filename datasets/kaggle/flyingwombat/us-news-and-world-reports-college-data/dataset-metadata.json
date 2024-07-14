@@ -1,0 +1,41 @@
+{
+  "id": "flyingwombat/us-news-and-world-reports-college-data",
+  "id_no": 1901,
+  "datasetSlugNullable": "us-news-and-world-reports-college-data",
+  "ownerUserNullable": "flyingwombat",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "U.S. News and World Report\u2019s College Data",
+  "subtitleNullable": "From the \"ISLR\" R package",
+  "descriptionNullable": "### Context\n\nStatistics for a large number of US Colleges from the 1995 issue of US News and World Report.\n\n### Content\n\nA data frame with 777 observations on the following 18 variables.\n\n**Private** A factor with levels No and Yes indicating private or public university\n\n**Apps** Number of applications received\n\n**Accept** Number of applications accepted\n\n**Enroll** Number of new students enrolled\n\n**Top10perc** Pct. new students from top 10% of H.S. class\n\n**Top25perc** Pct. new students from top 25% of H.S. class\n\n**F.Undergrad** Number of fulltime undergraduates\n\n**P.Undergrad** Number of parttime undergraduates\n\n**Outstate** Out-of-state tuition\n\n**Room.Board** Room and board costs\n\n**Books** Estimated book costs\n\n**Personal** Estimated personal spending\n\n**PhD** Pct. of faculty with Ph.D.\u2019s\n\n**Terminal** Pct. of faculty with terminal degree\n\n**S.F.Ratio** Student/faculty ratio\n\n**perc.alumni** Pct. alumni who donate\n\n**Expend** Instructional expenditure per student\n\n**Grad.Rate** Graduation rate\n\n\n### Source\n\nThis dataset was taken from the StatLib library which is maintained at Carnegie Mellon University.\n\nThe dataset was used in the ASA Statistical Graphics Section\u2019s 1995 Data Analysis Exposition.",
+  "datasetId": 1901,
+  "datasetSlug": "us-news-and-world-reports-college-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "flyingwombat",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 32870,
+  "totalVotes": 36,
+  "totalDownloads": 6921,
+  "title": "U.S. News and World Report\u2019s College Data",
+  "hasTitle": true,
+  "subtitle": "From the \"ISLR\" R package",
+  "hasSubtitle": true,
+  "description": "### Context\n\nStatistics for a large number of US Colleges from the 1995 issue of US News and World Report.\n\n### Content\n\nA data frame with 777 observations on the following 18 variables.\n\n**Private** A factor with levels No and Yes indicating private or public university\n\n**Apps** Number of applications received\n\n**Accept** Number of applications accepted\n\n**Enroll** Number of new students enrolled\n\n**Top10perc** Pct. new students from top 10% of H.S. class\n\n**Top25perc** Pct. new students from top 25% of H.S. class\n\n**F.Undergrad** Number of fulltime undergraduates\n\n**P.Undergrad** Number of parttime undergraduates\n\n**Outstate** Out-of-state tuition\n\n**Room.Board** Room and board costs\n\n**Books** Estimated book costs\n\n**Personal** Estimated personal spending\n\n**PhD** Pct. of faculty with Ph.D.\u2019s\n\n**Terminal** Pct. of faculty with terminal degree\n\n**S.F.Ratio** Student/faculty ratio\n\n**perc.alumni** Pct. alumni who donate\n\n**Expend** Instructional expenditure per student\n\n**Grad.Rate** Graduation rate\n\n\n### Source\n\nThis dataset was taken from the StatLib library which is maintained at Carnegie Mellon University.\n\nThe dataset was used in the ASA Statistical Graphics Section\u2019s 1995 Data Analysis Exposition.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "earth and nature",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

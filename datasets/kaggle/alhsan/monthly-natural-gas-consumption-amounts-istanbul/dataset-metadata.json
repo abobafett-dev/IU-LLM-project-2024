@@ -1,0 +1,43 @@
+{
+  "id": "alhsan/monthly-natural-gas-consumption-amounts-istanbul",
+  "id_no": 4557956,
+  "datasetSlugNullable": "monthly-natural-gas-consumption-amounts-istanbul",
+  "ownerUserNullable": "alhsan",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Monthly Natural Gas Consumption Amounts - Istanbul",
+  "subtitleNullable": "I think it will be useful for time series and forecasting.",
+  "descriptionNullable": "It includes the monthly natural gas usage amount in m\u00b3 of 39 districts in Istanbul between 2015 and April 2023.\n\nIt consists of real data from the districts of Istanbul, one of Turkey's metropolitan cities. The data is open source and taken from the Istanbul Municipality's website. \n\nhttps://data.ibb.gov.tr/dataset/02bdc2d6-94bb-4e31-816e-528bc9d98703/resource/d5fe41b0-3848-4548-9ac7-6e4756c3027b/download/ilce-baznda-aylk-doalgaz-tuketim-miktar-2015-2023-nisan.xlsx\n\nI think this data set, consisting of 3900 rows and 4 columns, will be useful for time series and forecasting.",
+  "datasetId": 4557956,
+  "datasetSlug": "monthly-natural-gas-consumption-amounts-istanbul",
+  "hasDatasetSlug": true,
+  "ownerUser": "alhsan",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 515,
+  "totalVotes": 8,
+  "totalDownloads": 106,
+  "title": "Monthly Natural Gas Consumption Amounts - Istanbul",
+  "hasTitle": true,
+  "subtitle": "I think it will be useful for time series and forecasting.",
+  "hasSubtitle": true,
+  "description": "It includes the monthly natural gas usage amount in m\u00b3 of 39 districts in Istanbul between 2015 and April 2023.\n\nIt consists of real data from the districts of Istanbul, one of Turkey's metropolitan cities. The data is open source and taken from the Istanbul Municipality's website. \n\nhttps://data.ibb.gov.tr/dataset/02bdc2d6-94bb-4e31-816e-528bc9d98703/resource/d5fe41b0-3848-4548-9ac7-6e4756c3027b/download/ilce-baznda-aylk-doalgaz-tuketim-miktar-2015-2023-nisan.xlsx\n\nI think this data set, consisting of 3900 rows and 4 columns, will be useful for time series and forecasting.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "energy",
+    "exploratory data analysis",
+    "tabular",
+    "oil and gas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

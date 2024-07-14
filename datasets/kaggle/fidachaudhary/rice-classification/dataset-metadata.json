@@ -1,0 +1,43 @@
+{
+  "id": "fidachaudhary/rice-classification",
+  "id_no": 3031800,
+  "datasetSlugNullable": "rice-classification",
+  "ownerUserNullable": "fidachaudhary",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Rice Classification",
+  "subtitleNullable": "Image dataset of Rice Classification of 7 different types.",
+  "descriptionNullable": "This dataset is a rich collection of rice images, meticulously compiled and structured to facilitate the task of rice type classification through machine learning. These images serve as the primary source of information for training and validating image-based classification models.\nThe seven classes in the dataset are as follows:\n\n- 1121\n- 1401\n- 1509\n- PR-11\n- RH-10\n- Sharbati\n- Sona Masoori\n- Sugandha",
+  "datasetId": 3031800,
+  "datasetSlug": "rice-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "fidachaudhary",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 249,
+  "totalVotes": 1,
+  "totalDownloads": 8,
+  "title": "Rice Classification",
+  "hasTitle": true,
+  "subtitle": "Image dataset of Rice Classification of 7 different types.",
+  "hasSubtitle": true,
+  "description": "This dataset is a rich collection of rice images, meticulously compiled and structured to facilitate the task of rice type classification through machine learning. These images serve as the primary source of information for training and validating image-based classification models.\nThe seven classes in the dataset are as follows:\n\n- 1121\n- 1401\n- 1509\n- PR-11\n- RH-10\n- Sharbati\n- Sona Masoori\n- Sugandha",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "computer vision",
+    "deep learning",
+    "image classification",
+    "feature extraction"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

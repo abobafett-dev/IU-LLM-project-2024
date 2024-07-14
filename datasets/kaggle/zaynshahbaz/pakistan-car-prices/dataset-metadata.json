@@ -1,0 +1,43 @@
+{
+  "id": "zaynshahbaz/pakistan-car-prices",
+  "id_no": 1516968,
+  "datasetSlugNullable": "pakistan-car-prices",
+  "ownerUserNullable": "zaynshahbaz",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "Pakistan car prices",
+  "subtitleNullable": "Largest marketplace of Pakistan for cars, PakWheels data for price prediction",
+  "descriptionNullable": "The following dataset is obtained from https://github.com/AsadAliDD/pkwheels_scraper and was cleaned during preprocessing to make the data feasible enough to generate a prediction.\nThis dataset is scraped from PakWheels and contains information regarding almost all the cars for sale on the Platform.\n\nFields:\nAd Ref No.\nName\nPrice\nModel Year\nLocation\nMileage\nRegistered City\nEngine Type\nEngine Capacity\nTransmission\nColor\nAssembly\nBody Type\nFeatures\nLast Updated\nURL\nDisclaimer: All Data belongs to PakWheels and the code scraper(Asad Ali, Profile link: https://www.kaggle.com/spideysloth)",
+  "datasetId": 1516968,
+  "datasetSlug": "pakistan-car-prices",
+  "hasDatasetSlug": true,
+  "ownerUser": "zaynshahbaz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 3308,
+  "totalVotes": 8,
+  "totalDownloads": 271,
+  "title": "Pakistan car prices",
+  "hasTitle": true,
+  "subtitle": "Largest marketplace of Pakistan for cars, PakWheels data for price prediction",
+  "hasSubtitle": true,
+  "description": "The following dataset is obtained from https://github.com/AsadAliDD/pkwheels_scraper and was cleaned during preprocessing to make the data feasible enough to generate a prediction.\nThis dataset is scraped from PakWheels and contains information regarding almost all the cars for sale on the Platform.\n\nFields:\nAd Ref No.\nName\nPrice\nModel Year\nLocation\nMileage\nRegistered City\nEngine Type\nEngine Capacity\nTransmission\nColor\nAssembly\nBody Type\nFeatures\nLast Updated\nURL\nDisclaimer: All Data belongs to PakWheels and the code scraper(Asad Ali, Profile link: https://www.kaggle.com/spideysloth)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "beginner",
+    "linear regression",
+    "tabular",
+    "sklearn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

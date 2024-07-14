@@ -1,0 +1,40 @@
+{
+  "id": "gpreda/russian-invasion-of-ukraine",
+  "id_no": 2019403,
+  "datasetSlugNullable": "russian-invasion-of-ukraine",
+  "ownerUserNullable": "gpreda",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Russian Invasion of Ukraine",
+  "subtitleNullable": "Collected reddit posts from the subreddit about Russian Invasion of Ukraine",
+  "descriptionNullable": "## Content\n\n\n<img src=\"https://static4.libertatea.ro/wp-content/uploads/2022/03/slava-ukraini.jpg\">\n\nNews & Events Surrounding Russia's Invasion of Ukraine from r/UkrainianConflict subreddit.\nPosts and comments are collected from this subrredit.\n\n## Data source and collection\n\nData source is: https://www.reddit.com/r/UkrainianConflict/  \nData collected using praw Python package  \nData is collected and merged daily\n\n## Acknowledgments\n\nThe data content is created by the Reddit contributors in this subrredit. \n\n## Inspiration\n\n\nUse this data to understand the daily events of Russian invasion of Ukraine. Perform sentiment analysis for the posts and comments of this dataset. Extract the topics (using topic modelling) in the posts and comments.\n\n\n",
+  "datasetId": 2019403,
+  "datasetSlug": "russian-invasion-of-ukraine",
+  "hasDatasetSlug": true,
+  "ownerUser": "gpreda",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13102,
+  "totalVotes": 42,
+  "totalDownloads": 449,
+  "title": "Russian Invasion of Ukraine",
+  "hasTitle": true,
+  "subtitle": "Collected reddit posts from the subreddit about Russian Invasion of Ukraine",
+  "hasSubtitle": true,
+  "description": "## Content\n\n\n<img src=\"https://static4.libertatea.ro/wp-content/uploads/2022/03/slava-ukraini.jpg\">\n\nNews & Events Surrounding Russia's Invasion of Ukraine from r/UkrainianConflict subreddit.\nPosts and comments are collected from this subrredit.\n\n## Data source and collection\n\nData source is: https://www.reddit.com/r/UkrainianConflict/  \nData collected using praw Python package  \nData is collected and merged daily\n\n## Acknowledgments\n\nThe data content is created by the Reddit contributors in this subrredit. \n\n## Inspiration\n\n\nUse this data to understand the daily events of Russian invasion of Ukraine. Perform sentiment analysis for the posts and comments of this dataset. Extract the topics (using topic modelling) in the posts and comments.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "europe",
+    "politics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

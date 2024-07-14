@@ -1,0 +1,43 @@
+{
+  "id": "gpiosenka/yikes-spiders-15-species",
+  "id_no": 1335355,
+  "datasetSlugNullable": "yikes-spiders-15-species",
+  "ownerUserNullable": "gpiosenka",
+  "usabilityRatingNullable": 0.6176470588235294,
+  "titleNullable": "YIKES! Spiders -15 Species Classification",
+  "subtitleNullable": "2186 train, 75 test, 75 validation Images 224 X 224X 3 jpg format + 1 csv file",
+  "descriptionNullable": "",
+  "datasetId": 1335355,
+  "datasetSlug": "yikes-spiders-15-species",
+  "hasDatasetSlug": true,
+  "ownerUser": "gpiosenka",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6176470588235294,
+  "hasUsabilityRating": true,
+  "totalViews": 7638,
+  "totalVotes": 14,
+  "totalDownloads": 562,
+  "title": "YIKES! Spiders -15 Species Classification",
+  "hasTitle": true,
+  "subtitle": "2186 train, 75 test, 75 validation Images 224 X 224X 3 jpg format + 1 csv file",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "computer vision",
+    "classification",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

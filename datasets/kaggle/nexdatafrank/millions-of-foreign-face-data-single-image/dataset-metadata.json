@@ -1,0 +1,40 @@
+{
+  "id": "nexdatafrank/millions-of-foreign-face-data-single-image",
+  "id_no": 5166572,
+  "datasetSlugNullable": "millions-of-foreign-face-data-single-image",
+  "ownerUserNullable": "nexdatafrank",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Millions of Foreign Face Data_Single Image",
+  "subtitleNullable": "",
+  "descriptionNullable": "# Millions of Foreign Face Data_Single Image\n\n\n## Description\nMillions of Foreign Face Data. One person have one frontal face image. The race distribution includes Asian, Black, Caucasian and brown people, the age distribution is ranging from infant to the elderly, the middle-aged and young people are the majorities. The collection environment includes indoor and outdoor scenes. The data diversity includes multiple age periods, multiple scenes, multiple facial postures and multiple expressions. The data can be used for tasks such as face recognition. We strictly adhere to data protection regulations and privacy standards, ensuring the maintenance of user privacy and legal rights throughout the data collection, storage, and usage processes, our datasets are all GDPR, CCPA, PIPL complied.\nFor more details, please refer to the link: https://www.nexdata.ai/datasets/1487?source=Kaggle\n\n## Data size\nat least a million, one person have one frontal face image\n## Poplution distribution\nrace distribution: Asian, Black, Caucasian, Brown people; gender distribution: male, female; age distribution: ranging from infant to the elderly, the middle-aged and young people are the majorities\n## Collecting environment\nindoor scenes, outdoor scenes\n## Data diversity\nmultiple age periods, multiple scenes, multiple facial postures, multiple expressions\n## Device\ncellphone, camera\n## Data format\nthe image data format is .jpg\nthe image data format is .jpg\nlabel the person \u2013 ID, nationality, gender, age group\n## Accuracy rate\nthe accuracy of label annotation is not less than 95%\n# Licensing Information\nCommercial License\n",
+  "datasetId": 5166572,
+  "datasetSlug": "millions-of-foreign-face-data-single-image",
+  "hasDatasetSlug": true,
+  "ownerUser": "nexdatafrank",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 13,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Millions of Foreign Face Data_Single Image",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "# Millions of Foreign Face Data_Single Image\n\n\n## Description\nMillions of Foreign Face Data. One person have one frontal face image. The race distribution includes Asian, Black, Caucasian and brown people, the age distribution is ranging from infant to the elderly, the middle-aged and young people are the majorities. The collection environment includes indoor and outdoor scenes. The data diversity includes multiple age periods, multiple scenes, multiple facial postures and multiple expressions. The data can be used for tasks such as face recognition. We strictly adhere to data protection regulations and privacy standards, ensuring the maintenance of user privacy and legal rights throughout the data collection, storage, and usage processes, our datasets are all GDPR, CCPA, PIPL complied.\nFor more details, please refer to the link: https://www.nexdata.ai/datasets/1487?source=Kaggle\n\n## Data size\nat least a million, one person have one frontal face image\n## Poplution distribution\nrace distribution: Asian, Black, Caucasian, Brown people; gender distribution: male, female; age distribution: ranging from infant to the elderly, the middle-aged and young people are the majorities\n## Collecting environment\nindoor scenes, outdoor scenes\n## Data diversity\nmultiple age periods, multiple scenes, multiple facial postures, multiple expressions\n## Device\ncellphone, camera\n## Data format\nthe image data format is .jpg\nthe image data format is .jpg\nlabel the person \u2013 ID, nationality, gender, age group\n## Accuracy rate\nthe accuracy of label annotation is not less than 95%\n# Licensing Information\nCommercial License\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

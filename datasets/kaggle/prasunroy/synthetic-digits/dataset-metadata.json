@@ -1,0 +1,54 @@
+{
+  "id": "prasunroy/synthetic-digits",
+  "id_no": 42460,
+  "datasetSlugNullable": "synthetic-digits",
+  "ownerUserNullable": "prasunroy",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Synthetic Digits",
+  "subtitleNullable": "Synthetically generated images of English digits embedded on random backgrounds.",
+  "descriptionNullable": "### Context\n\nSynthetic digits with noisy backgrounds for testing robustness of classification algorithms.\n\n----------\n\n### Content\nThis dataset contains 12,000 synthetically generated images of English digits embedded on random backgrounds. The images are generated with varying fonts, colors, scales and rotations. The backgrounds are randomly selected from a [***subset***][3] of [***COCO***][4] dataset.\n\n----------\n\n### Acknowledgements\n@article{roy2018effects, <br>\ntitle={Effects of Degradations on Deep Neural Network Architectures}, <br>\nauthor={Roy, Prasun and Ghosh, Subhankar and Bhattacharya, Saumik and Pal, Umapada}, <br>\njournal={arXiv preprint arXiv:1807.10108}, <br>\nyear={2018} <br>\n}\n\nThis dataset is created as a benchmark dataset for the work on [***Effects of Degradations on Deep Neural Network Architectures***][1]. <br>\nThe source code is publicly available on [***GitHub***][2].\n\n[1]: https://arxiv.org/abs/1807.10108\n[2]: https://github.com/prasunroy/cnn-on-degraded-images\n[3]: http://images.cocodataset.org/zips/val2017.zip\n[4]: http://cocodataset.org\n",
+  "datasetId": 42460,
+  "datasetSlug": "synthetic-digits",
+  "hasDatasetSlug": true,
+  "ownerUser": "prasunroy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 16389,
+  "totalVotes": 37,
+  "totalDownloads": 1610,
+  "title": "Synthetic Digits",
+  "hasTitle": true,
+  "subtitle": "Synthetically generated images of English digits embedded on random backgrounds.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nSynthetic digits with noisy backgrounds for testing robustness of classification algorithms.\n\n----------\n\n### Content\nThis dataset contains 12,000 synthetically generated images of English digits embedded on random backgrounds. The images are generated with varying fonts, colors, scales and rotations. The backgrounds are randomly selected from a [***subset***][3] of [***COCO***][4] dataset.\n\n----------\n\n### Acknowledgements\n@article{roy2018effects, <br>\ntitle={Effects of Degradations on Deep Neural Network Architectures}, <br>\nauthor={Roy, Prasun and Ghosh, Subhankar and Bhattacharya, Saumik and Pal, Umapada}, <br>\njournal={arXiv preprint arXiv:1807.10108}, <br>\nyear={2018} <br>\n}\n\nThis dataset is created as a benchmark dataset for the work on [***Effects of Degradations on Deep Neural Network Architectures***][1]. <br>\nThe source code is publicly available on [***GitHub***][2].\n\n[1]: https://arxiv.org/abs/1807.10108\n[2]: https://github.com/prasunroy/cnn-on-degraded-images\n[3]: http://images.cocodataset.org/zips/val2017.zip\n[4]: http://cocodataset.org\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "automobiles and vehicles",
+    "classification",
+    "deep learning",
+    "image",
+    "multiclass classification",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "saumik",
+      "role": "writer"
+    },
+    {
+      "username": "sgcs2005",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

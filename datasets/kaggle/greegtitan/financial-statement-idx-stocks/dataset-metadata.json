@@ -1,0 +1,40 @@
+{
+  "id": "greegtitan/financial-statement-idx-stocks",
+  "id_no": 2643694,
+  "datasetSlugNullable": "financial-statement-idx-stocks",
+  "ownerUserNullable": "greegtitan",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Financial Statement IDX Stocks",
+  "subtitleNullable": "Balance Sheet, Cash Flow, and Income Statement of Indonesia Public Company",
+  "descriptionNullable": "&gt; Analyst often asked, which method bring higher return? Technical or Fundamental? When should we use techinal analysis or when fundamental analysis is more relevant?. These question sparks a lot of debate and each side assume that they are better than the other. Warren Buffet himself is a value investor, who bought stock depends on how the company perform, and mention that buying a stock based on recent price alone is kind of foolish. Market decide price, and our turn to buy it if the price favor our assumption on how valueable a company is. The intelligent investor buy the business, not the stock.\\nWith these financial reports we could perform a small fundamental analysis based on the value on each item in statement. Of course fundamental analysis covers a lot more than just financial statement alone, but this could be a jumping stone to see how the actual price as stock supposed to be. Combine it with the [stock price](https://www.kaggle.com/datasets/greegtitan/stock-price-and-volume-idn), and we'll proseper.\n\n&gt; This dataset contains **almost** all public company financial statement annually and quarterly. **Company that's not included in this dataset either do not report their financial statement or contains some irrelevant publishing date** \n\n## How to use this dataset\n&gt; EDA\n&gt; Classifier\n&gt; Stock Recommendation\n&gt; Fundamental Analysis\n\n## Features\n|Feature|Description|\n|---|---|\n|  **symbol**| unique stock identifier|\n|  **account**| Financial statement on financial reports. `BS` = Balance Sheet, `CF` = Cash Flow, `IS` = Income Statement |\n|  **type** | item in financial statement. Some value are poorly written |\n|  **timestamp** | annual and quarter reports differ. Annual covers from 2018-2021 and quarter covers Q32021-Q32022|\n\n## Other Information\n\n&gt; You also could use dataset outside this one. [This dataset](https://www.kaggle.com/datasets/greegtitan/public-company-idn) present all public company data in Indonesia and [Stock Price](https://www.kaggle.com/datasets/greegtitan/stock-price-and-volume-idn) cover the stock price movement of those companies. Might be helpful to do certain task, e.g. classification for the industry, etc.\n\n## Acknowledgement\n\n&gt; Yahoo Finance\n",
+  "datasetId": 2643694,
+  "datasetSlug": "financial-statement-idx-stocks",
+  "hasDatasetSlug": true,
+  "ownerUser": "greegtitan",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3369,
+  "totalVotes": 17,
+  "totalDownloads": 538,
+  "title": "Financial Statement IDX Stocks",
+  "hasTitle": true,
+  "subtitle": "Balance Sheet, Cash Flow, and Income Statement of Indonesia Public Company",
+  "hasSubtitle": true,
+  "description": "&gt; Analyst often asked, which method bring higher return? Technical or Fundamental? When should we use techinal analysis or when fundamental analysis is more relevant?. These question sparks a lot of debate and each side assume that they are better than the other. Warren Buffet himself is a value investor, who bought stock depends on how the company perform, and mention that buying a stock based on recent price alone is kind of foolish. Market decide price, and our turn to buy it if the price favor our assumption on how valueable a company is. The intelligent investor buy the business, not the stock.\\nWith these financial reports we could perform a small fundamental analysis based on the value on each item in statement. Of course fundamental analysis covers a lot more than just financial statement alone, but this could be a jumping stone to see how the actual price as stock supposed to be. Combine it with the [stock price](https://www.kaggle.com/datasets/greegtitan/stock-price-and-volume-idn), and we'll proseper.\n\n&gt; This dataset contains **almost** all public company financial statement annually and quarterly. **Company that's not included in this dataset either do not report their financial statement or contains some irrelevant publishing date** \n\n## How to use this dataset\n&gt; EDA\n&gt; Classifier\n&gt; Stock Recommendation\n&gt; Fundamental Analysis\n\n## Features\n|Feature|Description|\n|---|---|\n|  **symbol**| unique stock identifier|\n|  **account**| Financial statement on financial reports. `BS` = Balance Sheet, `CF` = Cash Flow, `IS` = Income Statement |\n|  **type** | item in financial statement. Some value are poorly written |\n|  **timestamp** | annual and quarter reports differ. Annual covers from 2018-2021 and quarter covers Q32021-Q32022|\n\n## Other Information\n\n&gt; You also could use dataset outside this one. [This dataset](https://www.kaggle.com/datasets/greegtitan/public-company-idn) present all public company data in Indonesia and [Stock Price](https://www.kaggle.com/datasets/greegtitan/stock-price-and-volume-idn) cover the stock price movement of those companies. Might be helpful to do certain task, e.g. classification for the industry, etc.\n\n## Acknowledgement\n\n&gt; Yahoo Finance\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

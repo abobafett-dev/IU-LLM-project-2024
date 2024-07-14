@@ -1,0 +1,42 @@
+{
+  "id": "buraktopal/wonderland",
+  "id_no": 4149196,
+  "datasetSlugNullable": "wonderland",
+  "ownerUserNullable": "buraktopal",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "wonderland",
+  "subtitleNullable": "",
+  "descriptionNullable": "This description outlines a dataset consisting of six folders named \"cat,\" \"dog,\" \"deer,\" \"human,\" \"parrot,\" and \"shark,\" each containing 100 images. Such a dataset is commonly used in computer vision applications for tasks like image classification, object recognition, or detection.\n\n**cat**: In this folder, there are 100 images representing various cat breeds. These images may include different cat species in various poses and situations.\n\n**dog**: The \"dog\" folder contains 100 images representing different dog breeds. It aims to cover a diverse range of dog images in various scenarios.\n\n**deer**: In this folder, 100 images depict different deer species. These images may showcase deer in their natural habitats or various situations.\n\n**human**: The \"human\" folder includes 100 images representing humans. It can encompass people of different age groups, ethnicities, or engaging in various activities.\n\n**parrot**: This folder holds 100 images representing various parrot species. The images may display parrots in different colors and species.\n\n**shark**: Lastly, the \"shark\" folder contains 100 images representing different shark species. These images could capture sharks in different water conditions and positions.\n\nThis type of dataset can be used to train and test machine learning models. For instance, an image classification model trained on these images can learn to recognize different objects. This aids in improving the model's generalization ability, allowing it to make accurate predictions on new and unseen images.",
+  "datasetId": 4149196,
+  "datasetSlug": "wonderland",
+  "hasDatasetSlug": true,
+  "ownerUser": "buraktopal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 179,
+  "totalVotes": 5,
+  "totalDownloads": 19,
+  "title": "wonderland",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This description outlines a dataset consisting of six folders named \"cat,\" \"dog,\" \"deer,\" \"human,\" \"parrot,\" and \"shark,\" each containing 100 images. Such a dataset is commonly used in computer vision applications for tasks like image classification, object recognition, or detection.\n\n**cat**: In this folder, there are 100 images representing various cat breeds. These images may include different cat species in various poses and situations.\n\n**dog**: The \"dog\" folder contains 100 images representing different dog breeds. It aims to cover a diverse range of dog images in various scenarios.\n\n**deer**: In this folder, 100 images depict different deer species. These images may showcase deer in their natural habitats or various situations.\n\n**human**: The \"human\" folder includes 100 images representing humans. It can encompass people of different age groups, ethnicities, or engaging in various activities.\n\n**parrot**: This folder holds 100 images representing various parrot species. The images may display parrots in different colors and species.\n\n**shark**: Lastly, the \"shark\" folder contains 100 images representing different shark species. These images could capture sharks in different water conditions and positions.\n\nThis type of dataset can be used to train and test machine learning models. For instance, an image classification model trained on these images can learn to recognize different objects. This aids in improving the model's generalization ability, allowing it to make accurate predictions on new and unseen images.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "python",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

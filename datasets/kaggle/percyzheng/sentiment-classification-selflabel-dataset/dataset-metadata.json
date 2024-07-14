@@ -1,0 +1,43 @@
+{
+  "id": "percyzheng/sentiment-classification-selflabel-dataset",
+  "id_no": 1869447,
+  "datasetSlugNullable": "sentiment-classification-selflabel-dataset",
+  "ownerUserNullable": "percyzheng",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Financial News Sentiment Classification Dataset",
+  "subtitleNullable": "Sentiment classification",
+  "descriptionNullable": "### Context\n\nDue to the limited sentiment classification dataset online, I labeled more than 200 news title(from well-known financial websites such as CNBC, Financial times etc.) with 3 sentiment categories. This dataset contains relative new information which may be helpful for you in predicting new trends such as **COVID-19**\uff09. The standard that how I labeled is based on the other two already exist datasets. So when you judge the sentences you might have some different feelings. Hope if you also do this job you can share your data with us if you can! Also looking forward to have a thumb up from you!\n\n",
+  "datasetId": 1869447,
+  "datasetSlug": "sentiment-classification-selflabel-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "percyzheng",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 4666,
+  "totalVotes": 13,
+  "totalDownloads": 339,
+  "title": "Financial News Sentiment Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Sentiment classification",
+  "hasSubtitle": true,
+  "description": "### Context\n\nDue to the limited sentiment classification dataset online, I labeled more than 200 news title(from well-known financial websites such as CNBC, Financial times etc.) with 3 sentiment categories. This dataset contains relative new information which may be helpful for you in predicting new trends such as **COVID-19**\uff09. The standard that how I labeled is based on the other two already exist datasets. So when you judge the sentences you might have some different feelings. Hope if you also do this job you can share your data with us if you can! Also looking forward to have a thumb up from you!\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "nlp",
+    "text",
+    "news",
+    "sklearn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

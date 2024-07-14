@@ -1,0 +1,49 @@
+{
+  "id": "cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts",
+  "id_no": 1627069,
+  "datasetSlugNullable": "sentnob-sentiment-analysis-in-noisy-bangla-texts",
+  "ownerUserNullable": "cryptexcode",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "SentNoB",
+  "subtitleNullable": "A Dataset for Analysing Sentiment on Noisy Bangla Texts",
+  "descriptionNullable": "### SentNoB: A Dataset for Analysing Sentiment on Noisy Bangla Texts\n**EMNLP 2021**\n1. Khondoker Ittehadul Islam, Shahjalal University of Science and Technology, Bangladesh, khondoker07@student.sust.edu\n2. Md Saiful Islam, University of Alberta, Canada\n3. Sudipta Kar, Amazon Alexa AI, USA\n4. Mohammad Ruhul Amin, Fordham University, USA\n\nThe paper is available [here](https://aclanthology.org/2021.findings-emnlp.278.pdf) \n\n### Abstract\n\nIn this paper, we propose an annotated sentiment analysis dataset made of informally written Bangla texts. This dataset comprises public comments on news and videos collected from social media covering 13 different domains, including politics, education, and agriculture. These comments are labeled with one of the polarity labels, namely positive, negative, and neutral. One significant characteristic of the dataset is that each of the comments is noisy in terms of the mix of dialects and grammatical incorrectness. Our experiments to develop a benchmark classification system show that hand-crafted lexical features provide superior performance than neural network and pretrained language models. We have made the dataset and accompanying models presented in this paper publicly available at https://git.io/JuuNB.\n\n### Bibtex\n```\n@inproceedings{islam2021sentnob,\n  title={SentNoB: A Dataset for Analysing Sentiment on Noisy Bangla Texts},\n  author={Islam, Khondoker Ittehadul and Kar, Sudipta and Islam, Md Saiful and Amin, Mohammad Ruhul},\n  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2021},\n  pages={3265--3271},\n  year={2021}\n}\n```\n\n\n\n",
+  "datasetId": 1627069,
+  "datasetSlug": "sentnob-sentiment-analysis-in-noisy-bangla-texts",
+  "hasDatasetSlug": true,
+  "ownerUser": "cryptexcode",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 8938,
+  "totalVotes": 31,
+  "totalDownloads": 768,
+  "title": "SentNoB",
+  "hasTitle": true,
+  "subtitle": "A Dataset for Analysing Sentiment on Noisy Bangla Texts",
+  "hasSubtitle": true,
+  "description": "### SentNoB: A Dataset for Analysing Sentiment on Noisy Bangla Texts\n**EMNLP 2021**\n1. Khondoker Ittehadul Islam, Shahjalal University of Science and Technology, Bangladesh, khondoker07@student.sust.edu\n2. Md Saiful Islam, University of Alberta, Canada\n3. Sudipta Kar, Amazon Alexa AI, USA\n4. Mohammad Ruhul Amin, Fordham University, USA\n\nThe paper is available [here](https://aclanthology.org/2021.findings-emnlp.278.pdf) \n\n### Abstract\n\nIn this paper, we propose an annotated sentiment analysis dataset made of informally written Bangla texts. This dataset comprises public comments on news and videos collected from social media covering 13 different domains, including politics, education, and agriculture. These comments are labeled with one of the polarity labels, namely positive, negative, and neutral. One significant characteristic of the dataset is that each of the comments is noisy in terms of the mix of dialects and grammatical incorrectness. Our experiments to develop a benchmark classification system show that hand-crafted lexical features provide superior performance than neural network and pretrained language models. We have made the dataset and accompanying models presented in this paper publicly available at https://git.io/JuuNB.\n\n### Bibtex\n```\n@inproceedings{islam2021sentnob,\n  title={SentNoB: A Dataset for Analysing Sentiment on Noisy Bangla Texts},\n  author={Islam, Khondoker Ittehadul and Kar, Sudipta and Islam, Md Saiful and Amin, Mohammad Ruhul},\n  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2021},\n  pages={3265--3271},\n  year={2021}\n}\n```\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "nlp"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "saifsust",
+      "role": "writer"
+    },
+    {
+      "username": "khondoker",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "davidbroberts/us-employment-by-industry-20012019",
+  "id_no": 1423367,
+  "datasetSlugNullable": "us-employment-by-industry-20012019",
+  "ownerUserNullable": "davidbroberts",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "US Employment By Industry - 2001-2019",
+  "subtitleNullable": "Sorry I'm late boss ..",
+  "descriptionNullable": "Where do people in the US work? What has changed over the last 20 years regarding employment in the US.\n\nThis data set comes from the Bureau of Economic Analysis (https://bea.gov). It has employment data by US state for time period of 2001-2019.\n\nIt breaks down Total Full Time and Part Time Employment by NAICS (North American Industry Classification System) Industry.\n\nHere's a notebook that explains the basic of BEA data files and graphs a specific state/industry -&gt; https://www.kaggle.com/davidbroberts/us-employment-by-industry-2001-2019\n\nThanks to https://unsplash.com/@emmages for the splash image",
+  "datasetId": 1423367,
+  "datasetSlug": "us-employment-by-industry-20012019",
+  "hasDatasetSlug": true,
+  "ownerUser": "davidbroberts",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2291,
+  "totalVotes": 10,
+  "totalDownloads": 356,
+  "title": "US Employment By Industry - 2001-2019",
+  "hasTitle": true,
+  "subtitle": "Sorry I'm late boss ..",
+  "hasSubtitle": true,
+  "description": "Where do people in the US work? What has changed over the last 20 years regarding employment in the US.\n\nThis data set comes from the Bureau of Economic Analysis (https://bea.gov). It has employment data by US state for time period of 2001-2019.\n\nIt breaks down Total Full Time and Part Time Employment by NAICS (North American Industry Classification System) Industry.\n\nHere's a notebook that explains the basic of BEA data files and graphs a specific state/industry -&gt; https://www.kaggle.com/davidbroberts/us-employment-by-industry-2001-2019\n\nThanks to https://unsplash.com/@emmages for the splash image",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "employment",
+    "economics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

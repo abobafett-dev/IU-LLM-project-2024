@@ -1,0 +1,43 @@
+{
+  "id": "crsuthikshnkumar/drone-data-set",
+  "id_no": 3069942,
+  "datasetSlugNullable": "drone-data-set",
+  "ownerUserNullable": "crsuthikshnkumar",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Drone Data Set",
+  "subtitleNullable": "Drone Image Data Set for ML based Classification tasks",
+  "descriptionNullable": "Drone images have been collected and labelled for ML training and Classification. The images are in standard formats such as Jpg. The drone images are obtained at various angles. The ML algorithm can be trained and tested with this data set. ",
+  "datasetId": 3069942,
+  "datasetSlug": "drone-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "crsuthikshnkumar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 1562,
+  "totalVotes": 10,
+  "totalDownloads": 120,
+  "title": "Drone Data Set",
+  "hasTitle": true,
+  "subtitle": "Drone Image Data Set for ML based Classification tasks",
+  "hasSubtitle": true,
+  "description": "Drone images have been collected and labelled for ML training and Classification. The images are in standard formats such as Jpg. The drone images are obtained at various angles. The ML algorithm can be trained and tested with this data set. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "deep learning",
+    "neural networks",
+    "decision tree",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

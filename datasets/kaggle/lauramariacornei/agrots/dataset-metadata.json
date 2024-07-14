@@ -1,0 +1,43 @@
+{
+  "id": "lauramariacornei/agrots",
+  "id_no": 4571736,
+  "datasetSlugNullable": "agrots",
+  "ownerUserNullable": "lauramariacornei",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "AGROTS",
+  "subtitleNullable": "Agricultural Time Series Dataset with information collected by IoT devices",
+  "descriptionNullable": "AGROTS is a real dataset, containing information concerning a series of environmental factors, collected by IoT devices for a period of approximately 2 years. The dataset was previously processed by eliminating noises caused by measurement errors, resampling data by hour and performing a linear interpolation to fill N/A values.\n\nFeatures:\n- **Timestamp** - timestamp indicating the date and hour when the information was collected \n- **AirPressure** - atmospheric pressure\n- **AirTemperatureA** - air temperature (measured in a point A)\n- **AirHumidity** - air humidity\n- **AirTemperatureB** - air temperature (measured in a point B)\n- **V450, B500, G550, Y570, O600, R650** - luminosity associated to each color (violet, blue, green, yellow, orange and red)\n- **SoilTemperatureA** - soil temperature (measured in a point A)\n- **SoilTemperatureB**  - soil temperature (measured in a point B)\n- **TotalLuminosity** - total luminosity (measured without using a color filter)\n",
+  "datasetId": 4571736,
+  "datasetSlug": "agrots",
+  "hasDatasetSlug": true,
+  "ownerUser": "lauramariacornei",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 258,
+  "totalVotes": 5,
+  "totalDownloads": 31,
+  "title": "AGROTS",
+  "hasTitle": true,
+  "subtitle": "Agricultural Time Series Dataset with information collected by IoT devices",
+  "hasSubtitle": true,
+  "description": "AGROTS is a real dataset, containing information concerning a series of environmental factors, collected by IoT devices for a period of approximately 2 years. The dataset was previously processed by eliminating noises caused by measurement errors, resampling data by hour and performing a linear interpolation to fill N/A values.\n\nFeatures:\n- **Timestamp** - timestamp indicating the date and hour when the information was collected \n- **AirPressure** - atmospheric pressure\n- **AirTemperatureA** - air temperature (measured in a point A)\n- **AirHumidity** - air humidity\n- **AirTemperatureB** - air temperature (measured in a point B)\n- **V450, B500, G550, Y570, O600, R650** - luminosity associated to each color (violet, blue, green, yellow, orange and red)\n- **SoilTemperatureA** - soil temperature (measured in a point A)\n- **SoilTemperatureB**  - soil temperature (measured in a point B)\n- **TotalLuminosity** - total luminosity (measured without using a color filter)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "agriculture",
+    "time series analysis",
+    "tabular",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

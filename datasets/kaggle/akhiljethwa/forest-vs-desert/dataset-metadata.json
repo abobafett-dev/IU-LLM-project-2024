@@ -1,0 +1,43 @@
+{
+  "id": "akhiljethwa/forest-vs-desert",
+  "id_no": 2617195,
+  "datasetSlugNullable": "forest-vs-desert",
+  "ownerUserNullable": "akhiljethwa",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Forest vs Desert",
+  "subtitleNullable": "Dataset containing images of some of the famous forests and deserts of the world",
+  "descriptionNullable": "This is a dataset mainly made for image classification. Both classes contains images with huge amount of color difference which is helpful in image classification.",
+  "datasetId": 2617195,
+  "datasetSlug": "forest-vs-desert",
+  "hasDatasetSlug": true,
+  "ownerUser": "akhiljethwa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 2845,
+  "totalVotes": 23,
+  "totalDownloads": 398,
+  "title": "Forest vs Desert",
+  "hasTitle": true,
+  "subtitle": "Dataset containing images of some of the famous forests and deserts of the world",
+  "hasSubtitle": true,
+  "description": "This is a dataset mainly made for image classification. Both classes contains images with huge amount of color difference which is helpful in image classification.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "classification",
+    "neural networks",
+    "image",
+    "cv2"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

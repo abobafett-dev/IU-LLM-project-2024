@@ -1,0 +1,41 @@
+{
+  "id": "jbatistazerpa/goldprices1993to2024",
+  "id_no": 4827460,
+  "datasetSlugNullable": "goldprices1993to2024",
+  "ownerUserNullable": "jbatistazerpa",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "GoldPrices1993to2024",
+  "subtitleNullable": "Temporal Series Analysis",
+  "descriptionNullable": "Gold Price Dataset Overview\nThis dataset consists of historical gold price data, spanning from January 4, 1993, to March 27, 2024. It comprises a total of 7,967 entries, with each entry corresponding to the market behavior of gold on a specific date.\n\nColumn Descriptions\nDate (Data): The date of the record. Each row corresponds to a single trading day for gold. The column is formatted as datetime64[ns], ensuring accurate time series analyses.\nLast (\u00daltimo): The last recorded trading price of gold for the day. This column is represented as a float64, indicating the final trading value at the close of the market.\nOpen (Abertura): The opening price of gold at the beginning of the trading day. This column is a float64, showing the price at which gold first traded upon the market opening.\nHigh (M\u00e1xima): The highest price at which gold was traded during the trading day. This is captured as a float64, reflecting the peak value reached.\nLow (M\u00ednima): The lowest price of gold during the trading day. This value is also stored as a float64, representing the minimum price.\nVolume (Vol.): The total volume of gold traded on that day. This column, a float64, may contain NaN values indicating days with no available volume data.\nChange Percentage (Var%): The percentage change in the gold price compared to the previous trading day. This is a float64 that calculates the day-over-day percentage variation in price.\nAdditional Information\nMissing Data: The Volume column has some missing entries (NaN), likely due to non-trading activities or data unavailability on certain days.\nMemory Usage: The entire dataset occupies approximately 435.8 KB of memory.\nThis dataset is particularly valuable for conducting time series analysis, studying market trends in the gold sector, or developing financial models based on historical gold price movements and trading volumes.",
+  "datasetId": 4827460,
+  "datasetSlug": "goldprices1993to2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "jbatistazerpa",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 248,
+  "totalVotes": 1,
+  "totalDownloads": 51,
+  "title": "GoldPrices1993to2024",
+  "hasTitle": true,
+  "subtitle": "Temporal Series Analysis",
+  "hasSubtitle": true,
+  "description": "Gold Price Dataset Overview\nThis dataset consists of historical gold price data, spanning from January 4, 1993, to March 27, 2024. It comprises a total of 7,967 entries, with each entry corresponding to the market behavior of gold on a specific date.\n\nColumn Descriptions\nDate (Data): The date of the record. Each row corresponds to a single trading day for gold. The column is formatted as datetime64[ns], ensuring accurate time series analyses.\nLast (\u00daltimo): The last recorded trading price of gold for the day. This column is represented as a float64, indicating the final trading value at the close of the market.\nOpen (Abertura): The opening price of gold at the beginning of the trading day. This column is a float64, showing the price at which gold first traded upon the market opening.\nHigh (M\u00e1xima): The highest price at which gold was traded during the trading day. This is captured as a float64, reflecting the peak value reached.\nLow (M\u00ednima): The lowest price of gold during the trading day. This value is also stored as a float64, representing the minimum price.\nVolume (Vol.): The total volume of gold traded on that day. This column, a float64, may contain NaN values indicating days with no available volume data.\nChange Percentage (Var%): The percentage change in the gold price compared to the previous trading day. This is a float64 that calculates the day-over-day percentage variation in price.\nAdditional Information\nMissing Data: The Volume column has some missing entries (NaN), likely due to non-trading activities or data unavailability on certain days.\nMemory Usage: The entire dataset occupies approximately 435.8 KB of memory.\nThis dataset is particularly valuable for conducting time series analysis, studying market trends in the gold sector, or developing financial models based on historical gold price movements and trading volumes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "time series analysis",
+    "lstm",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

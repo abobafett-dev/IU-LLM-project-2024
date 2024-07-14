@@ -1,0 +1,42 @@
+{
+  "id": "deepakjoshi2k/yahoo-stock-prediction-by-news",
+  "id_no": 2452273,
+  "datasetSlugNullable": "yahoo-stock-prediction-by-news",
+  "ownerUserNullable": "deepakjoshi2k",
+  "usabilityRatingNullable": 0.6176470588235294,
+  "titleNullable": "Yahoo stock prediction by News",
+  "subtitleNullable": "Yahoo Stock Prediction From News",
+  "descriptionNullable": "Use this Data set for sentiment analysis from news articles and predict whether the stock price goes up or not.\nUse features like Title and content for NLP and label as target column.\nThis is time series data.\nThe stock price was scraped via Yahoo Finance and news data was scraped via dataset from Kaggle.\nThe label is created as \" 1 \" if the close price is greater than the open price else it is \" 0 \".",
+  "datasetId": 2452273,
+  "datasetSlug": "yahoo-stock-prediction-by-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "deepakjoshi2k",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6176470588235294,
+  "hasUsabilityRating": true,
+  "totalViews": 3154,
+  "totalVotes": 16,
+  "totalDownloads": 453,
+  "title": "Yahoo stock prediction by News",
+  "hasTitle": true,
+  "subtitle": "Yahoo Stock Prediction From News",
+  "hasSubtitle": true,
+  "description": "Use this Data set for sentiment analysis from news articles and predict whether the stock price goes up or not.\nUse features like Title and content for NLP and label as target column.\nThis is time series data.\nThe stock price was scraped via Yahoo Finance and news data was scraped via dataset from Kaggle.\nThe label is created as \" 1 \" if the close price is greater than the open price else it is \" 0 \".",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "business",
+    "nlp",
+    "nltk"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

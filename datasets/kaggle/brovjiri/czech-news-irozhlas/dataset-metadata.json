@@ -1,0 +1,39 @@
+{
+  "id": "brovjiri/czech-news-irozhlas",
+  "id_no": 3645464,
+  "datasetSlugNullable": "czech-news-irozhlas",
+  "ownerUserNullable": "brovjiri",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Czech News iRozhlas",
+  "subtitleNullable": "News from iRozhlas from January 1st 2020 to April 2023",
+  "descriptionNullable": "Result of basic crawling of news reports from January 2020 to April 2023, covers quite a lot of topics. It is mainly \"built\" as a Character level dataset, but word and BPE encodings are also possible, provided the hardware can handle the tokenizing process (Mine cannot)",
+  "datasetId": 3645464,
+  "datasetSlug": "czech-news-irozhlas",
+  "hasDatasetSlug": true,
+  "ownerUser": "brovjiri",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 13,
+  "totalVotes": 0,
+  "totalDownloads": 2,
+  "title": "Czech News iRozhlas",
+  "hasTitle": true,
+  "subtitle": "News from iRozhlas from January 1st 2020 to April 2023",
+  "hasSubtitle": true,
+  "description": "Result of basic crawling of news reports from January 2020 to April 2023, covers quite a lot of topics. It is mainly \"built\" as a Character level dataset, but word and BPE encodings are also possible, provided the hardware can handle the tokenizing process (Mine cannot)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

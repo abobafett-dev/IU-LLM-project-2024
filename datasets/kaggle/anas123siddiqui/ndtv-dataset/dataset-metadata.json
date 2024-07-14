@@ -1,0 +1,43 @@
+{
+  "id": "anas123siddiqui/ndtv-dataset",
+  "id_no": 2865840,
+  "datasetSlugNullable": "ndtv-dataset",
+  "ownerUserNullable": "anas123siddiqui",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "NDTV Dataset",
+  "subtitleNullable": "\"NDTV News Channel YouTube Analytics: A Comprehensive Dataset ",
+  "descriptionNullable": "This dataset contains detailed analytics of the YouTube channel of NDTV News, a leading news television and digital journalism organization in India. The data was collected through web scraping and includes the following columns:\n\n1. Title: The title of each video on NDTV's YouTube channel\n2. Subscriber Count: The number of subscribers of the NDTV YouTube channel at the time the data was collected.\n3. Views: The number of views each video has received on the NDTV YouTube channel.\n4. Likes: The number of likes each video has received on the NDTV YouTube channel.\n5. Summary Caption: A brief summary or caption for each video.\n6. Date: The date when each video was uploaded to the NDTV YouTube channel.\n\nThis dataset provides valuable insights into the viewership and popularity of NDTV's digital content, as well as the overall growth of their YouTube channel. It can be used for various data analysis and research purposes such as trend analysis, video performance comparison, and more.",
+  "datasetId": 2865840,
+  "datasetSlug": "ndtv-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "anas123siddiqui",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 468,
+  "totalVotes": 6,
+  "totalDownloads": 59,
+  "title": "NDTV Dataset",
+  "hasTitle": true,
+  "subtitle": "\"NDTV News Channel YouTube Analytics: A Comprehensive Dataset ",
+  "hasSubtitle": true,
+  "description": "This dataset contains detailed analytics of the YouTube channel of NDTV News, a leading news television and digital journalism organization in India. The data was collected through web scraping and includes the following columns:\n\n1. Title: The title of each video on NDTV's YouTube channel\n2. Subscriber Count: The number of subscribers of the NDTV YouTube channel at the time the data was collected.\n3. Views: The number of views each video has received on the NDTV YouTube channel.\n4. Likes: The number of likes each video has received on the NDTV YouTube channel.\n5. Summary Caption: A brief summary or caption for each video.\n6. Date: The date when each video was uploaded to the NDTV YouTube channel.\n\nThis dataset provides valuable insights into the viewership and popularity of NDTV's digital content, as well as the overall growth of their YouTube channel. It can be used for various data analysis and research purposes such as trend analysis, video performance comparison, and more.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "categorical",
+    "politics",
+    "news",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "michaelacorley/genetic-medication-selection-product-awareness",
+  "id_no": 155071,
+  "datasetSlugNullable": "genetic-medication-selection-product-awareness",
+  "ownerUserNullable": "michaelacorley",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Genetic medication selection awareness",
+  "subtitleNullable": "Machine learning diagnostics for mental health",
+  "descriptionNullable": "### Context\nPhamramacogenetic and pharmacodynamic tests in medication selection are machine learning diagnostics used to aid in the selection of medications. Most of the time doctors are just guessing. The diagnostics are able to provide a probabilistic choice of medication that is approximately 2x better than a physician at present. Most of these tests are 100% covered by Medicare, Medicaid or by private insurance. The key issue right now is product awareness.\n\nGeneSight, an example test, provides average cost savings of $5,505 but only prices at $1,030, before insurance ([source][1]).\n\nThis survey analyzes product awareness about these types of tests, as well as awareness about a popular version of the test called GeneSight.\n\n### Content\n\n    Have you heard of \"pharacogenetic\" or \"pharmacodynamic\" diagnostics?\tResponse\n\n    If there was a diagnostic test available to help you avoid medication side-effects based on your genetic attributes, would you \n    take it?\tResponse\n\n    Have you heard of GeneSight?\tResponse\n\n    I have one or more of the following conditions:\n        Pain\n    \tAnxiety\n    \tDepression\n    \tADHD (attention deficit)\n    \tPsychosis or Schizophrenia\n    \tDepression\n    \tNone\n\n    I am on medication for one or more of the previously mentioned illnesses\tResponse\n\n    Age\tResponse\n    Gender\tResponse\n    Household Income\tResponse\n    Region\tResponse\n    Device Type\tResponse\n\n### Acknowledgements\n\nGeneSight did not pay for this research. We did. We have no affiliation with GeneSight.\n\n### Inspiration\n\nHelping people with mental illnesses lives have less side effects.\n\n\n  [1]: https://www.healio.com/psychiatry/practice-management/news/online/%7B95eaf281-36bd-4e37-9ed0-9a9562232f80%7D/genesight-genetic-test-yields-cost-savings-for-psychiatric-patients",
+  "datasetId": 155071,
+  "datasetSlug": "genetic-medication-selection-product-awareness",
+  "hasDatasetSlug": true,
+  "ownerUser": "michaelacorley",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 8399,
+  "totalVotes": 17,
+  "totalDownloads": 582,
+  "title": "Genetic medication selection awareness",
+  "hasTitle": true,
+  "subtitle": "Machine learning diagnostics for mental health",
+  "hasSubtitle": true,
+  "description": "### Context\nPhamramacogenetic and pharmacodynamic tests in medication selection are machine learning diagnostics used to aid in the selection of medications. Most of the time doctors are just guessing. The diagnostics are able to provide a probabilistic choice of medication that is approximately 2x better than a physician at present. Most of these tests are 100% covered by Medicare, Medicaid or by private insurance. The key issue right now is product awareness.\n\nGeneSight, an example test, provides average cost savings of $5,505 but only prices at $1,030, before insurance ([source][1]).\n\nThis survey analyzes product awareness about these types of tests, as well as awareness about a popular version of the test called GeneSight.\n\n### Content\n\n    Have you heard of \"pharacogenetic\" or \"pharmacodynamic\" diagnostics?\tResponse\n\n    If there was a diagnostic test available to help you avoid medication side-effects based on your genetic attributes, would you \n    take it?\tResponse\n\n    Have you heard of GeneSight?\tResponse\n\n    I have one or more of the following conditions:\n        Pain\n    \tAnxiety\n    \tDepression\n    \tADHD (attention deficit)\n    \tPsychosis or Schizophrenia\n    \tDepression\n    \tNone\n\n    I am on medication for one or more of the previously mentioned illnesses\tResponse\n\n    Age\tResponse\n    Gender\tResponse\n    Household Income\tResponse\n    Region\tResponse\n    Device Type\tResponse\n\n### Acknowledgements\n\nGeneSight did not pay for this research. We did. We have no affiliation with GeneSight.\n\n### Inspiration\n\nHelping people with mental illnesses lives have less side effects.\n\n\n  [1]: https://www.healio.com/psychiatry/practice-management/news/online/%7B95eaf281-36bd-4e37-9ed0-9a9562232f80%7D/genesight-genetic-test-yields-cost-savings-for-psychiatric-patients",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "healthcare",
+    "health",
+    "data analytics",
+    "drugs and medications",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

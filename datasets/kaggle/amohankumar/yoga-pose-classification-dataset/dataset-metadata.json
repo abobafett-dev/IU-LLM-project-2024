@@ -1,0 +1,39 @@
+{
+  "id": "amohankumar/yoga-pose-classification-dataset",
+  "id_no": 3946517,
+  "datasetSlugNullable": "yoga-pose-classification-dataset",
+  "ownerUserNullable": "amohankumar",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Yoga Pose Classification Dataset",
+  "subtitleNullable": "Posture and Pose Estimation ( Yoga Asanas)",
+  "descriptionNullable": "Build a machine learning model which is able **classify the yoga Asanas** being performed in the image \nThe developed model should perform well on both train and test dataset with high accuracies. \nFocus on the taking a look at the **features of the yoga pose images, pre-processing the images** for better training, building various **deep learning models** for pose classification and comparing results among different models.\n\n The dataset folder comprises **9 folders, 1** for each yoga pose. Each pose has almost **250+ images** extracted from Google.\n",
+  "datasetId": 3946517,
+  "datasetSlug": "yoga-pose-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "amohankumar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2619,
+  "totalVotes": 38,
+  "totalDownloads": 306,
+  "title": "Yoga Pose Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Posture and Pose Estimation ( Yoga Asanas)",
+  "hasSubtitle": true,
+  "description": "Build a machine learning model which is able **classify the yoga Asanas** being performed in the image \nThe developed model should perform well on both train and test dataset with high accuracies. \nFocus on the taking a look at the **features of the yoga pose images, pre-processing the images** for better training, building various **deep learning models** for pose classification and comparing results among different models.\n\n The dataset folder comprises **9 folders, 1** for each yoga pose. Each pose has almost **250+ images** extracted from Google.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exercise"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

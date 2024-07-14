@@ -1,0 +1,44 @@
+{
+  "id": "mariammarioma/midjourney-cifake-inspired",
+  "id_no": 4797317,
+  "datasetSlugNullable": "midjourney-cifake-inspired",
+  "ownerUserNullable": "mariammarioma",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Midjourney CIFAKE-Inspired",
+  "subtitleNullable": "Image Classification (Real & Fake) ",
+  "descriptionNullable": "This dataset consists of a total of 4,000 images (2,000 real & 2,000 fake). Real images are taken from the CIFAKE dataset's real images (32x32) . Fake images were generated using Midjourney v6. There are 10 classes (airplane, car, bird, cat, deer, frog, horse, ship, truck). They are present in the dataset in equal numbers (200 real & 200 fake).\n\n",
+  "datasetId": 4797317,
+  "datasetSlug": "midjourney-cifake-inspired",
+  "hasDatasetSlug": true,
+  "ownerUser": "mariammarioma",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 191,
+  "totalVotes": 5,
+  "totalDownloads": 40,
+  "title": "Midjourney CIFAKE-Inspired",
+  "hasTitle": true,
+  "subtitle": "Image Classification (Real & Fake) ",
+  "hasSubtitle": true,
+  "description": "This dataset consists of a total of 4,000 images (2,000 real & 2,000 fake). Real images are taken from the CIFAKE dataset's real images (32x32) . Fake images were generated using Midjourney v6. There are 10 classes (airplane, car, bird, cat, deer, frog, horse, ship, truck). They are present in the dataset in equal numbers (200 real & 200 fake).\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "intermediate",
+    "neural networks",
+    "image",
+    "online communities",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

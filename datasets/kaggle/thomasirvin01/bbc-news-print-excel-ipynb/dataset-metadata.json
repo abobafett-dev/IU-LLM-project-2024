@@ -1,0 +1,43 @@
+{
+  "id": "thomasirvin01/bbc-news-print-excel-ipynb",
+  "id_no": 3876036,
+  "datasetSlugNullable": "bbc-news-print-excel-ipynb",
+  "ownerUserNullable": "thomasirvin01",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "BBC_News_Print_Excel.ipynb",
+  "subtitleNullable": "Data Extraction from the web. ",
+  "descriptionNullable": "This dataset was extracted via Python code from the home page of BBC News. It exists for educational purposes only. The code for extraction into an Excel spreadsheet can be found here: https://www.kaggle.com/code/thomasirvin01/extract-bbc-news-home-page-headlines/notebook. ",
+  "datasetId": 3876036,
+  "datasetSlug": "bbc-news-print-excel-ipynb",
+  "hasDatasetSlug": true,
+  "ownerUser": "thomasirvin01",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 26,
+  "totalVotes": 1,
+  "totalDownloads": 2,
+  "title": "BBC_News_Print_Excel.ipynb",
+  "hasTitle": true,
+  "subtitle": "Data Extraction from the web. ",
+  "hasSubtitle": true,
+  "description": "This dataset was extracted via Python code from the home page of BBC News. It exists for educational purposes only. The code for extraction into an Excel spreadsheet can be found here: https://www.kaggle.com/code/thomasirvin01/extract-bbc-news-home-page-headlines/notebook. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "sampling",
+    "business",
+    "text",
+    "news",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

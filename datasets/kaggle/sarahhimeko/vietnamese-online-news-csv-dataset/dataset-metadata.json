@@ -1,0 +1,56 @@
+{
+  "id": "sarahhimeko/vietnamese-online-news-csv-dataset",
+  "id_no": 3466975,
+  "datasetSlugNullable": "vietnamese-online-news-csv-dataset",
+  "ownerUserNullable": "sarahhimeko",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Vietnamese Online News .csv dataset",
+  "subtitleNullable": "Copyright belong to HAITRANQUANG-OFFICIAL. A dataset that consists of 150K+ news",
+  "descriptionNullable": "The copyright belongs to HAITRANQUANG-OFFICIAL. Initially, the format of this dataset was .json, so I converted it to .csv for ease of data processing.\n\nIf you wish to work with the original .json file, you can look for it at: https://www.kaggle.com/datasets/haitranquangofficial/vietnamese-online-news-dataset\n\n\"Online articles from the 25 most popular news sites in Vietnam in July 2022, suitable for practicing Natural Language Processing in Vietnamese.\n\nOnline news outlets are an unavoidable part of our society today due to their easy access, mostly free. Their effects on the way communities think and act is becoming a concern for a multitude of groups of people, including legislators, content creators, and marketers, just to name a few. Aside from the effects, what is being written on the news should be a good reflection of people\u2019s will, attention, and even cultural standard.\n\nIn Vietnam, even though journalists have received much criticism, especially in recent years, news outlets still receive a lot of traffic (27%) compared to other methods to receive information.\"",
+  "datasetId": 3466975,
+  "datasetSlug": "vietnamese-online-news-csv-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sarahhimeko",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1624,
+  "totalVotes": 6,
+  "totalDownloads": 198,
+  "title": "Vietnamese Online News .csv dataset",
+  "hasTitle": true,
+  "subtitle": "Copyright belong to HAITRANQUANG-OFFICIAL. A dataset that consists of 150K+ news",
+  "hasSubtitle": true,
+  "description": "The copyright belongs to HAITRANQUANG-OFFICIAL. Initially, the format of this dataset was .json, so I converted it to .csv for ease of data processing.\n\nIf you wish to work with the original .json file, you can look for it at: https://www.kaggle.com/datasets/haitranquangofficial/vietnamese-online-news-dataset\n\n\"Online articles from the 25 most popular news sites in Vietnam in July 2022, suitable for practicing Natural Language Processing in Vietnamese.\n\nOnline news outlets are an unavoidable part of our society today due to their easy access, mostly free. Their effects on the way communities think and act is becoming a concern for a multitude of groups of people, including legislators, content creators, and marketers, just to name a few. Aside from the effects, what is being written on the news should be a good reflection of people\u2019s will, attention, and even cultural standard.\n\nIn Vietnam, even though journalists have received much criticism, especially in recent years, news outlets still receive a lot of traffic (27%) compared to other methods to receive information.\"",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "nlp",
+    "text",
+    "text pre-processing",
+    "vietnamese"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "haitranquangofficial",
+      "role": "reader"
+    },
+    {
+      "username": "trninh",
+      "role": "writer"
+    },
+    {
+      "username": "lolicel1",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

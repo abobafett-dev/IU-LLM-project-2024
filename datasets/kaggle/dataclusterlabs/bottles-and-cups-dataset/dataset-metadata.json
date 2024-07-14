@@ -1,0 +1,44 @@
+{
+  "id": "dataclusterlabs/bottles-and-cups-dataset",
+  "id_no": 1541266,
+  "datasetSlugNullable": "bottles-and-cups-dataset",
+  "ownerUserNullable": "dataclusterlabs",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Bottles and Cups Dataset | Household Objects",
+  "subtitleNullable": "Plastic Bottles and cups images for Object Detection",
+  "descriptionNullable": "### To download full datasets or to submit a request for your dataset needs, please email on: sales@datacluster.ai\n\nThis dataset consists of images of bottles and cups.\n\n### **Introduction**\nDataset consists of images of bottle and cups captured using mobile phones in a real-world scenario. Images were captured under a wide variety of indoor lighting conditions. This dataset can be used for the detection of a wide variety of bottles and cups made up of a variety of materials from a lot of different of viewpoints, locations, orientations, etc.\n\n### **Dataset Features**\n- Captured by 3000+ unique users\n- Captured using mobile phones\n- Variety of different material of bottles and cups\n- HD Resolution\n- Highly diverse\n- Various lighting conditions\n- Indoor scenes\n\n### **Dataset Features**\n- Classification and detection annotations available\n- Multiple category annotations possible\n- COCO, PASCAL VOC and YOLO formats\n**The images in this dataset are exclusively owned by Data Cluster Labs and were not downloaded from the internet. To access a larger portion of the training dataset for research and commercial purposes, a license can be purchased. Contact us at sales@datacluster.ai Visit www.datacluster.ai to know more.**    \n",
+  "datasetId": 1541266,
+  "datasetSlug": "bottles-and-cups-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "dataclusterlabs",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 14847,
+  "totalVotes": 18,
+  "totalDownloads": 1323,
+  "title": "Bottles and Cups Dataset | Household Objects",
+  "hasTitle": true,
+  "subtitle": "Plastic Bottles and cups images for Object Detection",
+  "hasSubtitle": true,
+  "description": "### To download full datasets or to submit a request for your dataset needs, please email on: sales@datacluster.ai\n\nThis dataset consists of images of bottles and cups.\n\n### **Introduction**\nDataset consists of images of bottle and cups captured using mobile phones in a real-world scenario. Images were captured under a wide variety of indoor lighting conditions. This dataset can be used for the detection of a wide variety of bottles and cups made up of a variety of materials from a lot of different of viewpoints, locations, orientations, etc.\n\n### **Dataset Features**\n- Captured by 3000+ unique users\n- Captured using mobile phones\n- Variety of different material of bottles and cups\n- HD Resolution\n- Highly diverse\n- Various lighting conditions\n- Indoor scenes\n\n### **Dataset Features**\n- Classification and detection annotations available\n- Multiple category annotations possible\n- COCO, PASCAL VOC and YOLO formats\n**The images in this dataset are exclusively owned by Data Cluster Labs and were not downloaded from the internet. To access a larger portion of the training dataset for research and commercial purposes, a license can be purchased. Contact us at sales@datacluster.ai Visit www.datacluster.ai to know more.**    \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "computer vision",
+    "cnn",
+    "image",
+    "retail and shopping",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

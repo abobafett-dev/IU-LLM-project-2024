@@ -1,0 +1,40 @@
+{
+  "id": "tunguz/estimated-gasoline-sales",
+  "id_no": 1292845,
+  "datasetSlugNullable": "estimated-gasoline-sales",
+  "ownerUserNullable": "tunguz",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Estimated New York  Gasoline Sales",
+  "subtitleNullable": "Estimated New York  State Gasoline Sales: Beginning 1995",
+  "descriptionNullable": "# About the dataset\n\nEstimated gasoline sales data is derived from New York StateDepartment of Taxation and Finance data on gasoline sales and gasoline sales tax collections. Gasoline sales data is estimated for eachcounty with the exception that individual county data for New YorkCity is not available. Data is weighted for regional price differencesand differing county tax rates.\n\nHow does your organization use this dataset? What other NYSERDA or energy-related datasets would you like to see on Open NY? Let us know by emailing OpenNY@nyserda.ny.gov.",
+  "datasetId": 1292845,
+  "datasetSlug": "estimated-gasoline-sales",
+  "hasDatasetSlug": true,
+  "ownerUser": "tunguz",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5840,
+  "totalVotes": 29,
+  "totalDownloads": 506,
+  "title": "Estimated New York  Gasoline Sales",
+  "hasTitle": true,
+  "subtitle": "Estimated New York  State Gasoline Sales: Beginning 1995",
+  "hasSubtitle": true,
+  "description": "# About the dataset\n\nEstimated gasoline sales data is derived from New York StateDepartment of Taxation and Finance data on gasoline sales and gasoline sales tax collections. Gasoline sales data is estimated for eachcounty with the exception that individual county data for New YorkCity is not available. Data is weighted for regional price differencesand differing county tax rates.\n\nHow does your organization use this dataset? What other NYSERDA or energy-related datasets would you like to see on Open NY? Let us know by emailing OpenNY@nyserda.ny.gov.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "economics",
+    "oil and gas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

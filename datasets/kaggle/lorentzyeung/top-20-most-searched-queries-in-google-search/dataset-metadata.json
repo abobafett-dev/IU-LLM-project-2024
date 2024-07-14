@@ -1,0 +1,39 @@
+{
+  "id": "lorentzyeung/top-20-most-searched-queries-in-google-search",
+  "id_no": 3689277,
+  "datasetSlugNullable": "top-20-most-searched-queries-in-google-search",
+  "ownerUserNullable": "lorentzyeung",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top 20 most searched queries in Google Search",
+  "subtitleNullable": "History of top 20 queries each day in EMEA Big 5 countries, plus USA + Australia",
+  "descriptionNullable": "During my tenure at Microsoft, I was often tasked with performing extensive Exploratory Data Analysis (EDA) on some historical data. One major challenge we data analysts encountered was the difficulty in understanding the significance of specific events from several months or even years prior. Although we could employ various filtering mechanisms to sift through news articles, it was still a challenge to gauge whether a subject was a trending topic at that time.\n\nTo address this, I developed a Python-based web scraping utility. This tool captures the top 20 search results from various countries\u2014specifically the US, UK, Germany (DE), France (FR), Netherlands (NL), Italy (IT), and Australia (AUS)\u2014and stores them in my personal SQL database. \n\nIt's worth noting that there are gaps in the collected data, owing to a range of unforeseen circumstances such as power outages, residential moves, and server maintenance among others.\n\nYou are welcome to use this dataset for various types of analysis. For example, you could examine how long public sentiment around a particular event, like the outbreak of the Ukrainian War, remains prevalent in a specific country, like the United States.\n\nI plan to update this dataset on a monthly basis and will also release past datasets for further scrutiny.",
+  "datasetId": 3689277,
+  "datasetSlug": "top-20-most-searched-queries-in-google-search",
+  "hasDatasetSlug": true,
+  "ownerUser": "lorentzyeung",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3090,
+  "totalVotes": 30,
+  "totalDownloads": 511,
+  "title": "Top 20 most searched queries in Google Search",
+  "hasTitle": true,
+  "subtitle": "History of top 20 queries each day in EMEA Big 5 countries, plus USA + Australia",
+  "hasSubtitle": true,
+  "description": "During my tenure at Microsoft, I was often tasked with performing extensive Exploratory Data Analysis (EDA) on some historical data. One major challenge we data analysts encountered was the difficulty in understanding the significance of specific events from several months or even years prior. Although we could employ various filtering mechanisms to sift through news articles, it was still a challenge to gauge whether a subject was a trending topic at that time.\n\nTo address this, I developed a Python-based web scraping utility. This tool captures the top 20 search results from various countries\u2014specifically the US, UK, Germany (DE), France (FR), Netherlands (NL), Italy (IT), and Australia (AUS)\u2014and stores them in my personal SQL database. \n\nIt's worth noting that there are gaps in the collected data, owing to a range of unforeseen circumstances such as power outages, residential moves, and server maintenance among others.\n\nYou are welcome to use this dataset for various types of analysis. For example, you could examine how long public sentiment around a particular event, like the outbreak of the Ukrainian War, remains prevalent in a specific country, like the United States.\n\nI plan to update this dataset on a monthly basis and will also release past datasets for further scrutiny.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

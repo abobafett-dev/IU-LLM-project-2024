@@ -1,0 +1,48 @@
+{
+  "id": "amirkhalesi/decentraland-nft-estates-dataset-2022",
+  "id_no": 2482894,
+  "datasetSlugNullable": "decentraland-nft-estates-dataset-2022",
+  "ownerUserNullable": "amirkhalesi",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Decentraland NFT Virtual Estate Dataset 2022",
+  "subtitleNullable": "Dataset on NFT land prices + features from the marketplace",
+  "descriptionNullable": "**NFT DATASET**\nThis dataset consists of latest transactions (buy/sell) on the Decentraland's \"land\" datas, which have one of the highest bid/sell values in NFT and Metaverse projects.\n\n**CONTENTS**\nThe dataset is a .csv file with the following columns:\n\n-Contract ID\n-Transaction ID\n-Sales price\n-timestamp\n-Owner ID\n-Bids count\n-Sales count\n-Parcels list\n-Parcels count\n-Status (label)\n-Adjacency (to road, districts or plaza)\n-coord-estimation\n-mana price\n-land price\n\n**BRIEF DATASET DESCRIPTION**\nSimilar to a real estate data, NFT land data consists of a house feature such as area, adjacency to important locations, Total number of buy/sells and ... .\nEach \"Land\" consists of at least one parcel (the base metric value of a land in Decentraland), and can be interpreted as the Area of it.\nAlso, they have a category which can range from parcel/Estate (a 1 parcel Estate is called Parcel) as same a house in real estate, to road, plazas or districts.\nEach existing parcel of an Estate have a coordination on the map of Decentraland (ranging from -150,150 in the top left, to 150,-150 in the bottom right). Also, an avg location of the Estate is included on the data.\n\n**INSPIRATION**\n- Evaluating the avg price of an estate using it's features\n- Categorizing Estates based on their features\n- Predicting the future price of land NFTs and decentraland token\n- Finding the most profiting lands based on their features\n\n**important note**\nTo get a better grasp on the Decentraland's land NFTs, checkout it's website:\nhttps://market.decentraland.org/lands?assetType=nft\u00a7ion=land&vendor=decentraland&page=1&sortBy=newest&onlyOnSale=true&viewAsGuest=false&onlySmart=false\n\n**FOLLOW TO STAY TUNED FOR THE PROCESSING AND PREDICTION NOTEBOOKS ON THIS DATA**\n",
+  "datasetId": 2482894,
+  "datasetSlug": "decentraland-nft-estates-dataset-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "amirkhalesi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 2587,
+  "totalVotes": 13,
+  "totalDownloads": 279,
+  "title": "Decentraland NFT Virtual Estate Dataset 2022",
+  "hasTitle": true,
+  "subtitle": "Dataset on NFT land prices + features from the marketplace",
+  "hasSubtitle": true,
+  "description": "**NFT DATASET**\nThis dataset consists of latest transactions (buy/sell) on the Decentraland's \"land\" datas, which have one of the highest bid/sell values in NFT and Metaverse projects.\n\n**CONTENTS**\nThe dataset is a .csv file with the following columns:\n\n-Contract ID\n-Transaction ID\n-Sales price\n-timestamp\n-Owner ID\n-Bids count\n-Sales count\n-Parcels list\n-Parcels count\n-Status (label)\n-Adjacency (to road, districts or plaza)\n-coord-estimation\n-mana price\n-land price\n\n**BRIEF DATASET DESCRIPTION**\nSimilar to a real estate data, NFT land data consists of a house feature such as area, adjacency to important locations, Total number of buy/sells and ... .\nEach \"Land\" consists of at least one parcel (the base metric value of a land in Decentraland), and can be interpreted as the Area of it.\nAlso, they have a category which can range from parcel/Estate (a 1 parcel Estate is called Parcel) as same a house in real estate, to road, plazas or districts.\nEach existing parcel of an Estate have a coordination on the map of Decentraland (ranging from -150,150 in the top left, to 150,-150 in the bottom right). Also, an avg location of the Estate is included on the data.\n\n**INSPIRATION**\n- Evaluating the avg price of an estate using it's features\n- Categorizing Estates based on their features\n- Predicting the future price of land NFTs and decentraland token\n- Finding the most profiting lands based on their features\n\n**important note**\nTo get a better grasp on the Decentraland's land NFTs, checkout it's website:\nhttps://market.decentraland.org/lands?assetType=nft\u00a7ion=land&vendor=decentraland&page=1&sortBy=newest&onlyOnSale=true&viewAsGuest=false&onlySmart=false\n\n**FOLLOW TO STAY TUNED FOR THE PROCESSING AND PREDICTION NOTEBOOKS ON THIS DATA**\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "tabular",
+    "investing",
+    "matplotlib",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "mahsazamanifard",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

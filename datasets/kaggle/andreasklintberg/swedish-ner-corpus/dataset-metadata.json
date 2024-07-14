@@ -1,0 +1,41 @@
+{
+  "id": "andreasklintberg/swedish-ner-corpus",
+  "id_no": 6904,
+  "datasetSlugNullable": "swedish-ner-corpus",
+  "ownerUserNullable": "andreasklintberg",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Swedish NER corpus",
+  "subtitleNullable": "~8000 sentences annotated for Swedish NER (PER, LOC, ORG, MISC)",
+  "descriptionNullable": "### Context\n\nBootstrapped and manually annotated NER Swedish web news from 2012. NER stands for Named entity recognition, and its used to describe entities in a text such as organisations, locations and people for instance. \n\nIts a very common operation in general NLP pipeline, and several algorithms can be used to train a model. Traditionally many NER systems were trained using some kind of CRF (conditionally random fields) approach, but nowadays many people successfully uses LSTM:s or other sequence based deep learning techniques.  \n\nA tutorial on how to use this dataset to train an NER for Stanford CoreNLP is available here https://medium.com/@klintcho/training-a-swedish-ner-model-for-stanford-corenlp-part-2-20a0cfd801dd\n\n### Content\n\nThe dataset is very simple and can easily be adapted into other formats, it is specifically adapted to CoreNLP NER. Thus the first column is a word. Second column (tab separated) is either the NER category (ORG, PER, LOC, MISC) or a 0 if it does not belong to any category (not an entity). Each word is separated by a new line, and each sentence is separated by an empty new line.\n\nSample structure (of two sentences, one three word sentence, and another 4 word sentence):\nApple     ORG\nis            0\nnice        0\n.              0\n\nPer         PER\nis            0\nnot         0\nsad        0\n\n\n### Acknowledgements\n\nText is annotated from http://spraakbanken.gu.se/eng/resource/webbnyheter2012. Thanks Norah Klintberg Sakal for helping out with the annotation and reviewing all annotations as well.\n\n### Inspiration\n\nFeel free to use this for whatever you like. As most datasets it would definitely benefit from becoming larger, feel free to create a pull request https://github.com/klintan/swedish-ner-corpus/ or update it here on Kaggle.",
+  "datasetId": 6904,
+  "datasetSlug": "swedish-ner-corpus",
+  "hasDatasetSlug": true,
+  "ownerUser": "andreasklintberg",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 11253,
+  "totalVotes": 19,
+  "totalDownloads": 418,
+  "title": "Swedish NER corpus",
+  "hasTitle": true,
+  "subtitle": "~8000 sentences annotated for Swedish NER (PER, LOC, ORG, MISC)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nBootstrapped and manually annotated NER Swedish web news from 2012. NER stands for Named entity recognition, and its used to describe entities in a text such as organisations, locations and people for instance. \n\nIts a very common operation in general NLP pipeline, and several algorithms can be used to train a model. Traditionally many NER systems were trained using some kind of CRF (conditionally random fields) approach, but nowadays many people successfully uses LSTM:s or other sequence based deep learning techniques.  \n\nA tutorial on how to use this dataset to train an NER for Stanford CoreNLP is available here https://medium.com/@klintcho/training-a-swedish-ner-model-for-stanford-corenlp-part-2-20a0cfd801dd\n\n### Content\n\nThe dataset is very simple and can easily be adapted into other formats, it is specifically adapted to CoreNLP NER. Thus the first column is a word. Second column (tab separated) is either the NER category (ORG, PER, LOC, MISC) or a 0 if it does not belong to any category (not an entity). Each word is separated by a new line, and each sentence is separated by an empty new line.\n\nSample structure (of two sentences, one three word sentence, and another 4 word sentence):\nApple     ORG\nis            0\nnice        0\n.              0\n\nPer         PER\nis            0\nnot         0\nsad        0\n\n\n### Acknowledgements\n\nText is annotated from http://spraakbanken.gu.se/eng/resource/webbnyheter2012. Thanks Norah Klintberg Sakal for helping out with the annotation and reviewing all annotations as well.\n\n### Inspiration\n\nFeel free to use this for whatever you like. As most datasets it would definitely benefit from becoming larger, feel free to create a pull request https://github.com/klintan/swedish-ner-corpus/ or update it here on Kaggle.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "computer science",
+    "software"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

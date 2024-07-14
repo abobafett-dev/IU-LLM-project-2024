@@ -1,0 +1,45 @@
+{
+  "id": "hevean110/macaws-dataset",
+  "id_no": 1697377,
+  "datasetSlugNullable": "macaws-dataset",
+  "ownerUserNullable": "hevean110",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Macaws Detection Dataset",
+  "subtitleNullable": "Macaws images and labels for object detection",
+  "descriptionNullable": "### Context\n\nThis dataset was created for an activity in a Data Science Specialization, we thought in using macaws because it's a native animal of Amazon Forest. Currently, it only has \"blue-macaw\" class but we can improve this dataset and add other classes.\n\n### Content\n\nAll the images has different sizes so you need to resizing before doing any trainning. The dataset contains 240 images, divided in 70% for train, 20% for valid and 10% test, initially it had 100 images and we did a data augmentation process.\n\nCurrently it has one class: `blue-macaw`, the labels were exported for YOLOV5.\n\n**Note:** This datasets contains only few images because we had only week to create it.\n\n### Acknowledgements\nSpecial thanks for Roboflow for initially hosting this dataset, allowing us to do annotation and data augmentation, and another special thanks for my partner [Francisco Marcelo](https://www.kaggle.com/fmmdamasceno) that helped me building this dataset.\n\n### License\nAll the images were collected from Flickr distributed with Creative Common, and this dataset uses CC BY 4.0 License, so you are free to use it.",
+  "datasetId": 1697377,
+  "datasetSlug": "macaws-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "hevean110",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2474,
+  "totalVotes": 2,
+  "totalDownloads": 65,
+  "title": "Macaws Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Macaws images and labels for object detection",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset was created for an activity in a Data Science Specialization, we thought in using macaws because it's a native animal of Amazon Forest. Currently, it only has \"blue-macaw\" class but we can improve this dataset and add other classes.\n\n### Content\n\nAll the images has different sizes so you need to resizing before doing any trainning. The dataset contains 240 images, divided in 70% for train, 20% for valid and 10% test, initially it had 100 images and we did a data augmentation process.\n\nCurrently it has one class: `blue-macaw`, the labels were exported for YOLOV5.\n\n**Note:** This datasets contains only few images because we had only week to create it.\n\n### Acknowledgements\nSpecial thanks for Roboflow for initially hosting this dataset, allowing us to do annotation and data augmentation, and another special thanks for my partner [Francisco Marcelo](https://www.kaggle.com/fmmdamasceno) that helped me building this dataset.\n\n### License\nAll the images were collected from Flickr distributed with Creative Common, and this dataset uses CC BY 4.0 License, so you are free to use it.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "fmmdamasceno",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

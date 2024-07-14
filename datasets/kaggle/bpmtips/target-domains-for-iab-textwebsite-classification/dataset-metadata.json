@@ -1,0 +1,42 @@
+{
+  "id": "bpmtips/target-domains-for-iab-textwebsite-classification",
+  "id_no": 2305822,
+  "datasetSlugNullable": "target-domains-for-iab-textwebsite-classification",
+  "ownerUserNullable": "bpmtips",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Target Domains for IAB text/website classification",
+  "subtitleNullable": "2.5 Million Target Domains for IAB text/website classification",
+  "descriptionNullable": "This is a subset of data from https://front-page.com for testing IAB website classification, a preliminary classification has been attempted and is available in the last column. The counterpart data set is seed-database  https://www.kaggle.com/datasets/bpmtips/websiteiabcategorization for training the model which has correct manual categorization.\n\ncan also be used for image analysis since the screenshot urls are provided in the dataset.\n\nattribution to https://front-page.com is required.\n\ncomplete data for 10 million domains available at\n\nhttps://www.rest-apis.com/\n\n",
+  "datasetId": 2305822,
+  "datasetSlug": "target-domains-for-iab-textwebsite-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "bpmtips",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2789,
+  "totalVotes": 10,
+  "totalDownloads": 303,
+  "title": "Target Domains for IAB text/website classification",
+  "hasTitle": true,
+  "subtitle": "2.5 Million Target Domains for IAB text/website classification",
+  "hasSubtitle": true,
+  "description": "This is a subset of data from https://front-page.com for testing IAB website classification, a preliminary classification has been attempted and is available in the last column. The counterpart data set is seed-database  https://www.kaggle.com/datasets/bpmtips/websiteiabcategorization for training the model which has correct manual categorization.\n\ncan also be used for image analysis since the screenshot urls are provided in the dataset.\n\nattribution to https://front-page.com is required.\n\ncomplete data for 10 million domains available at\n\nhttps://www.rest-apis.com/\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "categorical",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "umairatwork/mu-ssid",
+  "id_no": 2348058,
+  "datasetSlugNullable": "mu-ssid",
+  "ownerUserNullable": "umairatwork",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Manzoor-Umair: Sea State Image Dataset (MU-SSiD)",
+  "subtitleNullable": "A novel visual-range sea state image dataset for deep learning models",
+  "descriptionNullable": "We have proposed and developed a novel visual-range sea state image dataset named Manzoor-Umair Sea State Image Dataset (MU-SSiD) for sea state classification using deep learning models. To the best of our knowledge, MU-SSiD is first publicly available visual-range sea state image dataset. \n\nFrom February 2020 to April 2021, ten data collection experiments were conducted at five different offshore and onshore locations in West Malaysia. During these experiments, 1.7 million visual-range sea surface video frames and corresponding weather conditions were recorded.\n\nThe Beaufort wind force scale was used to establish the ground truth using image\u2019s visual features and prevailing wind observations. Five sea states were identified in the raw data. However, after data preprocessing and quality checks, four sea states were finalized for the final dataset development. Various image augmentation techniques were evaluated, and the suitable label-preserving augmentations were applied to the source images. As a result, the dataset consists of four sea state classes (1-4 on the Beaufort wind force scale) and a total of 100,800 images, which are divided into disjointed training, validation, and testing sets.\n\nThe dataset was evaluated and benchmarked against state-of-the-art deep learning image classification models. A novel sea state classification model, MUSeNet, was proposed, which takes its design inspiration from GoogLeNet. As compared to the state-of-the-art models, MUSeNet reported an 8.5% improvement in classification accuracy, 26% less training time, and competitive image processing time, i.e., 11 milliseconds.\n\n\nFollowing article should be cited for using this dataset.\n\nUmair, M.; Hashmani, M.A.; Hussain Rizvi, S.S.; Taib, H.; Abdullah, M.N.; Memon, M.M. A Novel Deep Learning Model for Sea State Classification Using Visual-Range Sea Images. Symmetry 2022, 14, 1487. https://doi.org/10.3390/sym14071487\n\nFollowing article may be cited for using this dataset.\n\nUmair, M.; Hashmani, M.A. Towards Development of Visual-Range Sea State Image Dataset for Deep Learning Models. In Proceedings of the 2021 International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA), Bandung, Indonesia, 1\u20132 December 2021; pp. 23\u201327. https://doi.org/10.1109/ICICyTA53712.2021.9689093\n",
+  "datasetId": 2348058,
+  "datasetSlug": "mu-ssid",
+  "hasDatasetSlug": true,
+  "ownerUser": "umairatwork",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 1704,
+  "totalVotes": 5,
+  "totalDownloads": 95,
+  "title": "Manzoor-Umair: Sea State Image Dataset (MU-SSiD)",
+  "hasTitle": true,
+  "subtitle": "A novel visual-range sea state image dataset for deep learning models",
+  "hasSubtitle": true,
+  "description": "We have proposed and developed a novel visual-range sea state image dataset named Manzoor-Umair Sea State Image Dataset (MU-SSiD) for sea state classification using deep learning models. To the best of our knowledge, MU-SSiD is first publicly available visual-range sea state image dataset. \n\nFrom February 2020 to April 2021, ten data collection experiments were conducted at five different offshore and onshore locations in West Malaysia. During these experiments, 1.7 million visual-range sea surface video frames and corresponding weather conditions were recorded.\n\nThe Beaufort wind force scale was used to establish the ground truth using image\u2019s visual features and prevailing wind observations. Five sea states were identified in the raw data. However, after data preprocessing and quality checks, four sea states were finalized for the final dataset development. Various image augmentation techniques were evaluated, and the suitable label-preserving augmentations were applied to the source images. As a result, the dataset consists of four sea state classes (1-4 on the Beaufort wind force scale) and a total of 100,800 images, which are divided into disjointed training, validation, and testing sets.\n\nThe dataset was evaluated and benchmarked against state-of-the-art deep learning image classification models. A novel sea state classification model, MUSeNet, was proposed, which takes its design inspiration from GoogLeNet. As compared to the state-of-the-art models, MUSeNet reported an 8.5% improvement in classification accuracy, 26% less training time, and competitive image processing time, i.e., 11 milliseconds.\n\n\nFollowing article should be cited for using this dataset.\n\nUmair, M.; Hashmani, M.A.; Hussain Rizvi, S.S.; Taib, H.; Abdullah, M.N.; Memon, M.M. A Novel Deep Learning Model for Sea State Classification Using Visual-Range Sea Images. Symmetry 2022, 14, 1487. https://doi.org/10.3390/sym14071487\n\nFollowing article may be cited for using this dataset.\n\nUmair, M.; Hashmani, M.A. Towards Development of Visual-Range Sea State Image Dataset for Deep Learning Models. In Proceedings of the 2021 International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA), Bandung, Indonesia, 1\u20132 December 2021; pp. 23\u201327. https://doi.org/10.1109/ICICyTA53712.2021.9689093\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "classification",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

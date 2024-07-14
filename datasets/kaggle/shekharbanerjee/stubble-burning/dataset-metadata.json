@@ -1,0 +1,44 @@
+{
+  "id": "shekharbanerjee/stubble-burning",
+  "id_no": 2872680,
+  "datasetSlugNullable": "stubble-burning",
+  "ownerUserNullable": "shekharbanerjee",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "stubble_burning",
+  "subtitleNullable": "Trends in Stubble Burning , Leading To Air Pollution",
+  "descriptionNullable": "The datasets comprise a compilation of air pollution and economic data for the city of New Delhi from publicly available data by Indian government, as well as FIRECOUNT data made available by NASA for academic purposes.\n\nPollution data is 24h data, processed from data taken from Central Control Room for Air Quality Management: https://app.cpcbccr.com/ccr/\n\nFIRECOUNT Data is processed from the VIIRS 375 m (S-NPP) 24h data made available by NASA: https://firms.modaps.eosdis.nasa.gov/active_fire/#firms-txt\n\nAir Pollution and Weather Data were downloaded for 24 hr periods from CCR website for each of the 5 monitoring stations for 5 pollution parameters for the years 2012 to 2021. Gaps in the data were filled with \"NaN\" for Python processing. No other modification was done to the data. The data for Sep-Dec periods for each year was taken for the regression analysis.\n\nEconomic Data was taken from Ministry of Statistics, for the city of New Delhi. No changes were made to the data. The data for the city of New Delhi was taken as the same value for the entire year, for every year, and merged with all other data.\n\nFIRECOUNT data was taken from \"Active Fire Data\" by NASA. For every day (Sep-Dec), for each year (2012-2021), number of values of fire were counted and recorded. These values correspond to the number of field fires in that 24 hr period in the region of interest. This data was merged with all other data.\n\nSubnational HDI data was taken from Global Data Lab site, for the city of New Delhi. The value for every year was taken as constant (for every day) for that year.\n\nAll these datasets were merged to create 5 files of data for 5 monitoring stations.\nFor regression analysis, all the datasets are used in the merged files.\n\n\nAgarwal, Arti (2022), \u201cData for: The Economic Cost of Air Pollution Due to Stubble Burning: Evidence from Delhi\u201d, Mendeley Data, V1, doi: 10.17632/yxzxvxtvpr.1",
+  "datasetId": 2872680,
+  "datasetSlug": "stubble-burning",
+  "hasDatasetSlug": true,
+  "ownerUser": "shekharbanerjee",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 509,
+  "totalVotes": 4,
+  "totalDownloads": 78,
+  "title": "stubble_burning",
+  "hasTitle": true,
+  "subtitle": "Trends in Stubble Burning , Leading To Air Pollution",
+  "hasSubtitle": true,
+  "description": "The datasets comprise a compilation of air pollution and economic data for the city of New Delhi from publicly available data by Indian government, as well as FIRECOUNT data made available by NASA for academic purposes.\n\nPollution data is 24h data, processed from data taken from Central Control Room for Air Quality Management: https://app.cpcbccr.com/ccr/\n\nFIRECOUNT Data is processed from the VIIRS 375 m (S-NPP) 24h data made available by NASA: https://firms.modaps.eosdis.nasa.gov/active_fire/#firms-txt\n\nAir Pollution and Weather Data were downloaded for 24 hr periods from CCR website for each of the 5 monitoring stations for 5 pollution parameters for the years 2012 to 2021. Gaps in the data were filled with \"NaN\" for Python processing. No other modification was done to the data. The data for Sep-Dec periods for each year was taken for the regression analysis.\n\nEconomic Data was taken from Ministry of Statistics, for the city of New Delhi. No changes were made to the data. The data for the city of New Delhi was taken as the same value for the entire year, for every year, and merged with all other data.\n\nFIRECOUNT data was taken from \"Active Fire Data\" by NASA. For every day (Sep-Dec), for each year (2012-2021), number of values of fire were counted and recorded. These values correspond to the number of field fires in that 24 hr period in the region of interest. This data was merged with all other data.\n\nSubnational HDI data was taken from Global Data Lab site, for the city of New Delhi. The value for every year was taken as constant (for every day) for that year.\n\nAll these datasets were merged to create 5 files of data for 5 monitoring stations.\nFor regression analysis, all the datasets are used in the merged files.\n\n\nAgarwal, Arti (2022), \u201cData for: The Economic Cost of Air Pollution Due to Stubble Burning: Evidence from Delhi\u201d, Mendeley Data, V1, doi: 10.17632/yxzxvxtvpr.1",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "pollution",
+    "exploratory data analysis",
+    "time series analysis",
+    "data analytics",
+    "seaborn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

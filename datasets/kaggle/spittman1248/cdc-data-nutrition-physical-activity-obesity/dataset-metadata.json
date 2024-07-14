@@ -1,0 +1,41 @@
+{
+  "id": "spittman1248/cdc-data-nutrition-physical-activity-obesity",
+  "id_no": 18069,
+  "datasetSlugNullable": "cdc-data-nutrition-physical-activity-obesity",
+  "ownerUserNullable": "spittman1248",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "CDC Data: Nutrition, Physical Activity, & Obesity",
+  "subtitleNullable": "Obesity Trends in US",
+  "descriptionNullable": "This dataset includes data on adult's diet, physical activity, and weight status from Behavioral Risk Factor Surveillance System. This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity, and breastfeeding.  I was particularly curious on whether socioeconomic status has an impact on obesity.  In my analysis, I compare the obesity rate in each state, and then perform a linear regression on the obesity rate for each educational status and the income bracket.  \n",
+  "datasetId": 18069,
+  "datasetSlug": "cdc-data-nutrition-physical-activity-obesity",
+  "hasDatasetSlug": true,
+  "ownerUser": "spittman1248",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 199645,
+  "totalVotes": 211,
+  "totalDownloads": 29145,
+  "title": "CDC Data: Nutrition, Physical Activity, & Obesity",
+  "hasTitle": true,
+  "subtitle": "Obesity Trends in US",
+  "hasSubtitle": true,
+  "description": "This dataset includes data on adult's diet, physical activity, and weight status from Behavioral Risk Factor Surveillance System. This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity, and breastfeeding.  I was particularly curious on whether socioeconomic status has an impact on obesity.  In my analysis, I compare the obesity rate in each state, and then perform a linear regression on the obesity rate for each educational status and the income bracket.  \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nutrition",
+    "health",
+    "demographics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

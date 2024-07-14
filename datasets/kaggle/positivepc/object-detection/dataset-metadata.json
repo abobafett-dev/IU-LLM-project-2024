@@ -1,0 +1,42 @@
+{
+  "id": "positivepc/object-detection",
+  "id_no": 181847,
+  "datasetSlugNullable": "object-detection",
+  "ownerUserNullable": "positivepc",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Object Classification",
+  "subtitleNullable": "Classification is the categorization of the object based on defined classes..",
+  "descriptionNullable": "### Context\n\nThis data set contains the images of the electric bus and electric car which is around 2000 in number.\n\n\n### Content\n\nThis images are collected using google and duck duck go search engine using script to download the images separately.this data set is used for object classification task using CNN and resnet  models.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others.\n\n\n### Inspiration\n",
+  "datasetId": 181847,
+  "datasetSlug": "object-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "positivepc",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 18745,
+  "totalVotes": 28,
+  "totalDownloads": 1425,
+  "title": "Object Classification",
+  "hasTitle": true,
+  "subtitle": "Classification is the categorization of the object based on defined classes..",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data set contains the images of the electric bus and electric car which is around 2000 in number.\n\n\n### Content\n\nThis images are collected using google and duck duck go search engine using script to download the images separately.this data set is used for object classification task using CNN and resnet  models.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others.\n\n\n### Inspiration\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "internet",
+    "deep learning",
+    "cnn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

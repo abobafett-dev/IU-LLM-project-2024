@@ -1,0 +1,41 @@
+{
+  "id": "chrisfilo/example-brain-mapping-dataset",
+  "id_no": 42802,
+  "datasetSlugNullable": "example-brain-mapping-dataset",
+  "ownerUserNullable": "chrisfilo",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Example brain mapping dataset",
+  "subtitleNullable": "Which part of the brain is involved in moving your lips?",
+  "descriptionNullable": "### Context\n\nA test-retest fMRI dataset for motor, language and spatial attention functions.\n\n### Content\n\nSingle session, single subject from ds000114 dataset. Full dataset can be found at https://openneuro.org/datasets/ds000114. More info at https://dx.doi.org/10.1186%2F2047-217X-2-6\n\n- BOLD timeseries in standard space (MNI)\n- brain mask in standard space (MNI)\n- timing of in scanner stimuli\n- scanning parameters\n\n# Acknowledgements\n\nBanner Image by [Ken Treloar on Unsplash][1]\n\nFull dataset can be found at https://openneuro.org/datasets/ds000114. More info at https://dx.doi.org/10.1186%2F2047-217X-2-6\n\n  [1]: https://unsplash.com/photos/pFoA5Pphb-Q",
+  "datasetId": 42802,
+  "datasetSlug": "example-brain-mapping-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "chrisfilo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 15426,
+  "totalVotes": 46,
+  "totalDownloads": 764,
+  "title": "Example brain mapping dataset",
+  "hasTitle": true,
+  "subtitle": "Which part of the brain is involved in moving your lips?",
+  "hasSubtitle": true,
+  "description": "### Context\n\nA test-retest fMRI dataset for motor, language and spatial attention functions.\n\n### Content\n\nSingle session, single subject from ds000114 dataset. Full dataset can be found at https://openneuro.org/datasets/ds000114. More info at https://dx.doi.org/10.1186%2F2047-217X-2-6\n\n- BOLD timeseries in standard space (MNI)\n- brain mask in standard space (MNI)\n- timing of in scanner stimuli\n- scanning parameters\n\n# Acknowledgements\n\nBanner Image by [Ken Treloar on Unsplash][1]\n\nFull dataset can be found at https://openneuro.org/datasets/ds000114. More info at https://dx.doi.org/10.1186%2F2047-217X-2-6\n\n  [1]: https://unsplash.com/photos/pFoA5Pphb-Q",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "earth and nature",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

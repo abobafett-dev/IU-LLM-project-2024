@@ -1,0 +1,44 @@
+{
+  "id": "prabhakarz/tmdb-15000-movies-dataset-with-credits",
+  "id_no": 3107775,
+  "datasetSlugNullable": "tmdb-15000-movies-dataset-with-credits",
+  "ownerUserNullable": "prabhakarz",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "TMDB 15000 Movies Dataset (with credits)",
+  "subtitleNullable": "Dataset about top rated and some Indian(perfect for building recommender system)",
+  "descriptionNullable": "**About**\nThis dataset contains data about the top rated movies of all time. Data was sourced from TMDB APIs.\n\n**Columns**\nadult: type of move\nbackdrop_path: photo path of backdrop, you can access with https://image.tmdb.org/t/p/w500/{backdrop_path}\nmovie_id : id of movie on tmdb\noriginal_language: original language of movie\noriginal_title: native title of movie\noverview : movie plot description\npopularity: \nposter_path\nrelease_date:\ntitle : name of the movie\nvideo:\nvote_average:\nvote_count:\ngenres : genres of movie\nkeywords : a short phrase attached to a title (e.g. movie / series / episode) that describes it in some way\ncast : all the casts worked in movie\ncrew : details of all crew who involved in movie\n\n\n**Inspiration**\nThis dataset was curated with a passion for exploring the rich history of cinema and storytelling, and with a deep desire to create unique and powerful insights into the world of movies. By performing an extensive exploratory data analysis on this data, I aim to uncover hidden patterns and trends in movie data that have never been seen before, and to use these insights to build cutting-edge recommender systems that can help movie lovers discover new and exciting films they might otherwise never have known about. Whether you're a die-hard movie buff or just someone who loves a good story, this dataset has something for everyone, and I'm excited to share it with the world!",
+  "datasetId": 3107775,
+  "datasetSlug": "tmdb-15000-movies-dataset-with-credits",
+  "hasDatasetSlug": true,
+  "ownerUser": "prabhakarz",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6225,
+  "totalVotes": 32,
+  "totalDownloads": 983,
+  "title": "TMDB 15000 Movies Dataset (with credits)",
+  "hasTitle": true,
+  "subtitle": "Dataset about top rated and some Indian(perfect for building recommender system)",
+  "hasSubtitle": true,
+  "description": "**About**\nThis dataset contains data about the top rated movies of all time. Data was sourced from TMDB APIs.\n\n**Columns**\nadult: type of move\nbackdrop_path: photo path of backdrop, you can access with https://image.tmdb.org/t/p/w500/{backdrop_path}\nmovie_id : id of movie on tmdb\noriginal_language: original language of movie\noriginal_title: native title of movie\noverview : movie plot description\npopularity: \nposter_path\nrelease_date:\ntitle : name of the movie\nvideo:\nvote_average:\nvote_count:\ngenres : genres of movie\nkeywords : a short phrase attached to a title (e.g. movie / series / episode) that describes it in some way\ncast : all the casts worked in movie\ncrew : details of all crew who involved in movie\n\n\n**Inspiration**\nThis dataset was curated with a passion for exploring the rich history of cinema and storytelling, and with a deep desire to create unique and powerful insights into the world of movies. By performing an extensive exploratory data analysis on this data, I aim to uncover hidden patterns and trends in movie data that have never been seen before, and to use these insights to build cutting-edge recommender systems that can help movie lovers discover new and exciting films they might otherwise never have known about. Whether you're a die-hard movie buff or just someone who loves a good story, this dataset has something for everyone, and I'm excited to share it with the world!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "intermediate",
+    "recommender systems",
+    "text",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

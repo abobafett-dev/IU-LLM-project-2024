@@ -1,0 +1,41 @@
+{
+  "id": "hemanthhari/vlsi-data",
+  "id_no": 1028384,
+  "datasetSlugNullable": "vlsi-data",
+  "ownerUserNullable": "hemanthhari",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "VLSI_data",
+  "subtitleNullable": "Data Containing parameters for a Mosfet ",
+  "descriptionNullable": "The dataset contains various MOSFET properties data. The end goal is to predict the threshold characteristics and i/o characteristics for the provided parameters. \nThe dataset was collected a part of multiple experiments. With the advancement in technology, it would be great if we can deploy AI to predict the characteristics.",
+  "datasetId": 1028384,
+  "datasetSlug": "vlsi-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "hemanthhari",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3131,
+  "totalVotes": 14,
+  "totalDownloads": 165,
+  "title": "VLSI_data",
+  "hasTitle": true,
+  "subtitle": "Data Containing parameters for a Mosfet ",
+  "hasSubtitle": true,
+  "description": "The dataset contains various MOSFET properties data. The end goal is to predict the threshold characteristics and i/o characteristics for the provided parameters. \nThe dataset was collected a part of multiple experiments. With the advancement in technology, it would be great if we can deploy AI to predict the characteristics.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "electronics",
+    "engineering",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

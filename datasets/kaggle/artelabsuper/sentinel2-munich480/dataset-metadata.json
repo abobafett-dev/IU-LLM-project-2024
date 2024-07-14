@@ -1,0 +1,43 @@
+{
+  "id": "artelabsuper/sentinel2-munich480",
+  "id_no": 1485675,
+  "datasetSlugNullable": "sentinel2-munich480",
+  "ownerUserNullable": "artelabsuper",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Sentinel2 Munich480",
+  "subtitleNullable": "Sentinel2 time series dataset",
+  "descriptionNullable": "### Context\n\nThis dataset is useful for doing research in the field of crop mapping by exploiting the time series of Sentinel-2 satellite images, with the specific aim of extracting information on \"where and when\" crops are grown. \nDataset used in the paper \"[Sentinel 2 Time Series Analysis with 3D Feature Pyramid Network and Time Domain Class Activation Intervals for Crop Mapping](https://www.mdpi.com/2220-9964/10/7/483/htm)\".\nThis dataset was extracted from the dataset used in the paper [Multi-Temporal Land Cover Classification with\nSequential Recurrent Encoders](https://arxiv.org/pdf/1802.02080.pdf), which is a much larger and more generic dataset.\nWe decide to publish this version of the dataset to make it easier to compare with the results obtained in our paper.\n\n### Content\n\nAs input we have time series of about 30 acquisitions made in a year by the Sentinel-2 satellite.\nThe ground truth is a 2D image containing the segmentation of the various crops present in each sample, where each pixel has an associated class label obtained from the two growing seasons 2016 and 2017. \nThe segmentation data are not for each date of the time series but are associated with an entire year, so in each pixel, the label represents the harvest crop declared in that year.\nThe dataset does not contain information on when a crop is present (sowing and plant growth) and when it is absent (harvest) during a year of observations.\nThe dataset is very unbalanced.\n\n### Acknowledgements\n\nWe thanks the authors of the paper [Multi-Temporal Land Cover Classification with\nSequential Recurrent Encoders](https://arxiv.org/pdf/1802.02080.pdf), who created the original dataset.\n\n### Inspiration\n\nProducing more (food) with less (consumption of natural resources) is one of the biggest challenges our society is facing to guarantee food security globally and it is, therefore, one of the priorities of UN SDG goals. To achieve this, agricultural production must be supported by sustainable planning and one of the first pieces of information needed is \u201cwhere and when\u201d crops are cultivated. Satellite Remote Sensing is the best candidate as an information source to perform crop monitoring worldwide.",
+  "datasetId": 1485675,
+  "datasetSlug": "sentinel2-munich480",
+  "hasDatasetSlug": true,
+  "ownerUser": "artelabsuper",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 7579,
+  "totalVotes": 13,
+  "totalDownloads": 1022,
+  "title": "Sentinel2 Munich480",
+  "hasTitle": true,
+  "subtitle": "Sentinel2 time series dataset",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is useful for doing research in the field of crop mapping by exploiting the time series of Sentinel-2 satellite images, with the specific aim of extracting information on \"where and when\" crops are grown. \nDataset used in the paper \"[Sentinel 2 Time Series Analysis with 3D Feature Pyramid Network and Time Domain Class Activation Intervals for Crop Mapping](https://www.mdpi.com/2220-9964/10/7/483/htm)\".\nThis dataset was extracted from the dataset used in the paper [Multi-Temporal Land Cover Classification with\nSequential Recurrent Encoders](https://arxiv.org/pdf/1802.02080.pdf), which is a much larger and more generic dataset.\nWe decide to publish this version of the dataset to make it easier to compare with the results obtained in our paper.\n\n### Content\n\nAs input we have time series of about 30 acquisitions made in a year by the Sentinel-2 satellite.\nThe ground truth is a 2D image containing the segmentation of the various crops present in each sample, where each pixel has an associated class label obtained from the two growing seasons 2016 and 2017. \nThe segmentation data are not for each date of the time series but are associated with an entire year, so in each pixel, the label represents the harvest crop declared in that year.\nThe dataset does not contain information on when a crop is present (sowing and plant growth) and when it is absent (harvest) during a year of observations.\nThe dataset is very unbalanced.\n\n### Acknowledgements\n\nWe thanks the authors of the paper [Multi-Temporal Land Cover Classification with\nSequential Recurrent Encoders](https://arxiv.org/pdf/1802.02080.pdf), who created the original dataset.\n\n### Inspiration\n\nProducing more (food) with less (consumption of natural resources) is one of the biggest challenges our society is facing to guarantee food security globally and it is, therefore, one of the priorities of UN SDG goals. To achieve this, agricultural production must be supported by sustainable planning and one of the first pieces of information needed is \u201cwhere and when\u201d crops are cultivated. Satellite Remote Sensing is the best candidate as an information source to perform crop monitoring worldwide.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "agriculture",
+    "geospatial analysis",
+    "time series analysis",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "faizalkarim/cleandirty-road-classification",
+  "id_no": 2819333,
+  "datasetSlugNullable": "cleandirty-road-classification",
+  "ownerUserNullable": "faizalkarim",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Clean/Littered Road Classification",
+  "subtitleNullable": "Classify roads if clean or littered. ",
+  "descriptionNullable": "The dataset contains images of clean and dirty road. \n\nThere are a total of 237 images, all of which bootstraped from the internet. The task is to create a classification model, which can accurately classify if a road is clean or littered. Because of the lack of data, pretrained models and data augmentation may be used.\n\nSuch a classification model can be used to develope applications to detect littered part of roads using cameras and send necessary service to those areas. \n\n#### Naviagate Dataset:\n\n1. **Images**: Folder containing all the road images.\n2. **metadata.csv**: A csv file mapping the image name with the class label.\n\n",
+  "datasetId": 2819333,
+  "datasetSlug": "cleandirty-road-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "faizalkarim",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 14199,
+  "totalVotes": 46,
+  "totalDownloads": 1692,
+  "title": "Clean/Littered Road Classification",
+  "hasTitle": true,
+  "subtitle": "Classify roads if clean or littered. ",
+  "hasSubtitle": true,
+  "description": "The dataset contains images of clean and dirty road. \n\nThere are a total of 237 images, all of which bootstraped from the internet. The task is to create a classification model, which can accurately classify if a road is clean or littered. Because of the lack of data, pretrained models and data augmentation may be used.\n\nSuch a classification model can be used to develope applications to detect littered part of roads using cameras and send necessary service to those areas. \n\n#### Naviagate Dataset:\n\n1. **Images**: Folder containing all the road images.\n2. **metadata.csv**: A csv file mapping the image name with the class label.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "beginner",
+    "computer vision",
+    "deep learning",
+    "transfer learning",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "krishnavrajbangshi",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

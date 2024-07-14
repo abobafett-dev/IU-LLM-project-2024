@@ -1,0 +1,41 @@
+{
+  "id": "tbhamidipati/aquaculture",
+  "id_no": 914662,
+  "datasetSlugNullable": "aquaculture",
+  "ownerUserNullable": "tbhamidipati",
+  "usabilityRatingNullable": 0.7352941176470589,
+  "titleNullable": "Global Aquaculture Production 1950-2018",
+  "subtitleNullable": "Fisheries and Aquaculture Information ",
+  "descriptionNullable": "### Context\nAquaculture\nis understood to mean the farming of aquatic organisms including fish, molluscs, crustaceans and aquatic plants. Farming implies some form of intervention in the rearing process to enhance production, such as regular stocking, feeding, protection from predators, etc. Farming also implies individual or corporate ownership of the stock being cultivated. For statistical purposes, aquatic organisms which are harvested by an individual of corporate body which has owned them throughout their rearing period contribute to aquaculture while aquatic organisms which are exploitable by public as a common property resource, with or without appropriate licences, are the harvest of fisheries\n\nAquaculture production\nspecifically refers to output from aquaculture activities, which are designated for final harvest for consumption. \n\n### Content\n\nLand Area  - Continent\nOcean Area - Marine or Inland waters\nEnvironment - Type of Environment\nSpecies - Species of the catch\nScientific name - Scientific name of the catch\n\nSix types of&nbsp;special values&nbsp;may be displayed in the data. \n\n1. ... and 0 (unknown)  - Data not available.\n2. &lt;0.5 and 0 0&nbsp;(negligible) - More than zero but less than half of the unit used.\n3. 0 and 0-&nbsp;(zero) - An actual null value.\n4. F&nbsp;(FAO estimate) - Data estimated from available source of information or calculation based on specific assumptions.\n5. R&nbsp;(repetition) - Repetition of data previously reported.\n6. W&nbsp;(wrong unit) - Data for the record is in a unit that does not match the standard dataset unit.\n\n- no&nbsp;(number) - Indicates that data unit is number.\n- t&nbsp;&nbsp;&nbsp;(tonnes =1000 kg) - Indicates that data unit is tonne.\n\n",
+  "datasetId": 914662,
+  "datasetSlug": "aquaculture",
+  "hasDatasetSlug": true,
+  "ownerUser": "tbhamidipati",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7352941176470589,
+  "hasUsabilityRating": true,
+  "totalViews": 4674,
+  "totalVotes": 7,
+  "totalDownloads": 269,
+  "title": "Global Aquaculture Production 1950-2018",
+  "hasTitle": true,
+  "subtitle": "Fisheries and Aquaculture Information ",
+  "hasSubtitle": true,
+  "description": "### Context\nAquaculture\nis understood to mean the farming of aquatic organisms including fish, molluscs, crustaceans and aquatic plants. Farming implies some form of intervention in the rearing process to enhance production, such as regular stocking, feeding, protection from predators, etc. Farming also implies individual or corporate ownership of the stock being cultivated. For statistical purposes, aquatic organisms which are harvested by an individual of corporate body which has owned them throughout their rearing period contribute to aquaculture while aquatic organisms which are exploitable by public as a common property resource, with or without appropriate licences, are the harvest of fisheries\n\nAquaculture production\nspecifically refers to output from aquaculture activities, which are designated for final harvest for consumption. \n\n### Content\n\nLand Area  - Continent\nOcean Area - Marine or Inland waters\nEnvironment - Type of Environment\nSpecies - Species of the catch\nScientific name - Scientific name of the catch\n\nSix types of&nbsp;special values&nbsp;may be displayed in the data. \n\n1. ... and 0 (unknown)  - Data not available.\n2. &lt;0.5 and 0 0&nbsp;(negligible) - More than zero but less than half of the unit used.\n3. 0 and 0-&nbsp;(zero) - An actual null value.\n4. F&nbsp;(FAO estimate) - Data estimated from available source of information or calculation based on specific assumptions.\n5. R&nbsp;(repetition) - Repetition of data previously reported.\n6. W&nbsp;(wrong unit) - Data for the record is in a unit that does not match the standard dataset unit.\n\n- no&nbsp;(number) - Indicates that data unit is number.\n- t&nbsp;&nbsp;&nbsp;(tonnes =1000 kg) - Indicates that data unit is tonne.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "time series analysis",
+    "fish and aquaria"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

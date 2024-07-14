@@ -1,0 +1,43 @@
+{
+  "id": "jarmos/stack-overflow-developer-survey-2011-2022",
+  "id_no": 3019874,
+  "datasetSlugNullable": "stack-overflow-developer-survey-2011-2022",
+  "ownerUserNullable": "jarmos",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Stack Overflow Developer Survey 2011-2022",
+  "subtitleNullable": "The entire Stack Overflow historical survey compiled under one source!",
+  "descriptionNullable": "The [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey) is an online questionnaire format survey organised by the guys at Stack Overflow. It consists of responses of Software Engineers & Software Developers from different backgrounds around the world. And this dataset is a compiled set of all those historical responses right from 2011 to 2022 (and the near future!).\n\nThe contents of this dataset **ARE NOT** owned by me and all copyrights should be accredited to the original authors at Stack Overflow instead. The work involved in this dataset is simply a compilation of all the data made publicly available by the guys at Stack Overflow instead.",
+  "datasetId": 3019874,
+  "datasetSlug": "stack-overflow-developer-survey-2011-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "jarmos",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 348,
+  "totalVotes": 2,
+  "totalDownloads": 30,
+  "title": "Stack Overflow Developer Survey 2011-2022",
+  "hasTitle": true,
+  "subtitle": "The entire Stack Overflow historical survey compiled under one source!",
+  "hasSubtitle": true,
+  "description": "The [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey) is an online questionnaire format survey organised by the guys at Stack Overflow. It consists of responses of Software Engineers & Software Developers from different backgrounds around the world. And this dataset is a compiled set of all those historical responses right from 2011 to 2022 (and the near future!).\n\nThe contents of this dataset **ARE NOT** owned by me and all copyrights should be accredited to the original authors at Stack Overflow instead. The work involved in this dataset is simply a compilation of all the data made publicly available by the guys at Stack Overflow instead.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "computer science",
+    "programming",
+    "tabular",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

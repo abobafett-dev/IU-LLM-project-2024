@@ -1,0 +1,42 @@
+{
+  "id": "talhakabakus/turkish-covid19-twitter-dataset",
+  "id_no": 2568559,
+  "datasetSlugNullable": "turkish-covid19-twitter-dataset",
+  "ownerUserNullable": "talhakabakus",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Turkish COVID-19 Twitter Dataset",
+  "subtitleNullable": "A Novel Turkish COVID-19 Twitter Dataset for Sentiment Analysis",
+  "descriptionNullable": "This novel dataset was constructed for the implementation of my study titled \"*A Novel COVID-19 Sentiment Analysis in Turkish based on the Combination of Convolutional Neural Network and Bidirectional Long-Short Term Memory on Twitter*\", which was published in [Concurrency and Computation: Practice and Experience, Volume: 34, Issue: 22, DOI: 10.1002/cpe.6883](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.6883). Please cite this paper in case you use this dataset.",
+  "datasetId": 2568559,
+  "datasetSlug": "turkish-covid19-twitter-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "talhakabakus",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 288,
+  "totalVotes": 1,
+  "totalDownloads": 23,
+  "title": "Turkish COVID-19 Twitter Dataset",
+  "hasTitle": true,
+  "subtitle": "A Novel Turkish COVID-19 Twitter Dataset for Sentiment Analysis",
+  "hasSubtitle": true,
+  "description": "This novel dataset was constructed for the implementation of my study titled \"*A Novel COVID-19 Sentiment Analysis in Turkish based on the Combination of Convolutional Neural Network and Bidirectional Long-Short Term Memory on Twitter*\", which was published in [Concurrency and Computation: Practice and Experience, Volume: 34, Issue: 22, DOI: 10.1002/cpe.6883](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.6883). Please cite this paper in case you use this dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "computer science",
+    "classification",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

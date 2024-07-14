@@ -1,0 +1,40 @@
+{
+  "id": "sjleshrac/airlines-customer-satisfaction",
+  "id_no": 562352,
+  "datasetSlugNullable": "airlines-customer-satisfaction",
+  "ownerUserNullable": "sjleshrac",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Airlines Customer satisfaction",
+  "subtitleNullable": "Customer satisfaction with various other factors",
+  "descriptionNullable": "This data given by an airline organization. The actual name of the company is not given due to various purposes that's why the name Invistico airlines.\n\nThe dataset consists of the details of customers who have already flown with them. The feedback of the customers on various context and their flight data has been consolidated. \n\nThe main purpose of this dataset is to predict whether a future customer would be satisfied with their service given the details of the other parameters values. \n\nAlso the airlines need to know on which aspect of the services offered by them have to be emphasized more to generate more satisfied customers.",
+  "datasetId": 562352,
+  "datasetSlug": "airlines-customer-satisfaction",
+  "hasDatasetSlug": true,
+  "ownerUser": "sjleshrac",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 113216,
+  "totalVotes": 162,
+  "totalDownloads": 16930,
+  "title": "Airlines Customer satisfaction",
+  "hasTitle": true,
+  "subtitle": "Customer satisfaction with various other factors",
+  "hasSubtitle": true,
+  "description": "This data given by an airline organization. The actual name of the company is not given due to various purposes that's why the name Invistico airlines.\n\nThe dataset consists of the details of customers who have already flown with them. The feedback of the customers on various context and their flight data has been consolidated. \n\nThe main purpose of this dataset is to predict whether a future customer would be satisfied with their service given the details of the other parameters values. \n\nAlso the airlines need to know on which aspect of the services offered by them have to be emphasized more to generate more satisfied customers.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "logistic regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

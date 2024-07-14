@@ -1,0 +1,40 @@
+{
+  "id": "ronmallory/fdic-failed-bank-dataset",
+  "id_no": 3687684,
+  "datasetSlugNullable": "fdic-failed-bank-dataset",
+  "ownerUserNullable": "ronmallory",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "FDIC Failed bank dataset",
+  "subtitleNullable": "This data set contains the fdic public data on fdic institutions.",
+  "descriptionNullable": "# Comprehensive FDIC Public Data on U.S. Bank Institutions and Failures\n\n## Short Description\n\nA rich dataset that provides detailed information about FDIC-insured bank institutions, their locations, and historical bank failures in the United States from 1934 to present.\n\n## Long Description\n\n#### Overview\n\nThis dataset is compiled from public data provided by the Federal Deposit Insurance Corporation (FDIC). It offers a comprehensive look at FDIC-insured banking institutions, their various events, locations, and a historical account of bank failures in the United States from 1934 to the present day.\n\n#### Data Files\n\nSee the dataset-metadata for file and column descriptions.\n\n#### Potential Use-Cases\n\n- Risk Assessment: Evaluate the risk factors associated with various banks.\n- Historical Analysis: Perform a time-series analysis on bank failures.\n- Geographical Insights: Investigate the distribution of bank institutions across different states or regions.\n- Regulatory Compliance: Monitor banks that are FDIC insured for compliance with federal laws.\n\n\n#### Update Schedule\n\nThis dataset is updated daily to reflect the most current data available from the FDIC.\n\n#### Reporting Issues\n\nIf you encounter any issues or discrepancies with the dataset, please report them at our GitHub Issues Page.\n\n#### Data Source\n\nAll data is sourced from the Federal Deposit Insurance Corporation (FDIC).\n\n#### Licensing\n\nThis licensed apache-2.0. Please attribute the source when using this data.\n\n#### Acknowledgements\nWe would like to thank the FDIC for making this data publicly available.\n",
+  "datasetId": 3687684,
+  "datasetSlug": "fdic-failed-bank-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ronmallory",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 566,
+  "totalVotes": 3,
+  "totalDownloads": 91,
+  "title": "FDIC Failed bank dataset",
+  "hasTitle": true,
+  "subtitle": "This data set contains the fdic public data on fdic institutions.",
+  "hasSubtitle": true,
+  "description": "# Comprehensive FDIC Public Data on U.S. Bank Institutions and Failures\n\n## Short Description\n\nA rich dataset that provides detailed information about FDIC-insured bank institutions, their locations, and historical bank failures in the United States from 1934 to present.\n\n## Long Description\n\n#### Overview\n\nThis dataset is compiled from public data provided by the Federal Deposit Insurance Corporation (FDIC). It offers a comprehensive look at FDIC-insured banking institutions, their various events, locations, and a historical account of bank failures in the United States from 1934 to the present day.\n\n#### Data Files\n\nSee the dataset-metadata for file and column descriptions.\n\n#### Potential Use-Cases\n\n- Risk Assessment: Evaluate the risk factors associated with various banks.\n- Historical Analysis: Perform a time-series analysis on bank failures.\n- Geographical Insights: Investigate the distribution of bank institutions across different states or regions.\n- Regulatory Compliance: Monitor banks that are FDIC insured for compliance with federal laws.\n\n\n#### Update Schedule\n\nThis dataset is updated daily to reflect the most current data available from the FDIC.\n\n#### Reporting Issues\n\nIf you encounter any issues or discrepancies with the dataset, please report them at our GitHub Issues Page.\n\n#### Data Source\n\nAll data is sourced from the Federal Deposit Insurance Corporation (FDIC).\n\n#### Licensing\n\nThis licensed apache-2.0. Please attribute the source when using this data.\n\n#### Acknowledgements\nWe would like to thank the FDIC for making this data publicly available.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "banking",
+    "beginner"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

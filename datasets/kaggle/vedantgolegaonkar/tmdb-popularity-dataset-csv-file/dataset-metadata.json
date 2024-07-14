@@ -1,0 +1,43 @@
+{
+  "id": "vedantgolegaonkar/tmdb-popularity-dataset-csv-file",
+  "id_no": 1947852,
+  "datasetSlugNullable": "tmdb-popularity-dataset-csv-file",
+  "ownerUserNullable": "vedantgolegaonkar",
+  "usabilityRatingNullable": 0.6764705882352942,
+  "titleNullable": "TMDB - Popularity DataSet, CSV File",
+  "subtitleNullable": "TMDB Popularity Dataset - Huge collection ",
+  "descriptionNullable": "###** Context**\n\nThe TMDB dataset is a csv file. This is a huge dataset of dimensions (244880 x 14). The first line contains the headers that describes what the column/ field contains. Addition to that headers also contain the description of the column.\n\n\n### **Content**\n\nThe available dataset is as follows:\n1. Adult : This field says whether the movie is Adult Rated or not.\n2. backdrop_path : This column provides the link to the backdrop path\n3. genre_ids : This field contains the ID allotted to the specific genre.\n4. id: This field labels the ID to the movie.\n5. original_language : The original language in which the movie is released.\n6. original_title : This field provides the original title of the movie.\n7. overview : The overview column describes the movie in brief.\n8. Popularity : This field tells us how popular the movie is till date.\n9.  Poster Path : Provides path to the poster of the movie.\n\n### **Inspiration**\n\n1. You can build a recommendation system.\n2. You can predict the popularity of the upcoming movie.",
+  "datasetId": 1947852,
+  "datasetSlug": "tmdb-popularity-dataset-csv-file",
+  "hasDatasetSlug": true,
+  "ownerUser": "vedantgolegaonkar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6764705882352942,
+  "hasUsabilityRating": true,
+  "totalViews": 1965,
+  "totalVotes": 8,
+  "totalDownloads": 144,
+  "title": "TMDB - Popularity DataSet, CSV File",
+  "hasTitle": true,
+  "subtitle": "TMDB Popularity Dataset - Huge collection ",
+  "hasSubtitle": true,
+  "description": "###** Context**\n\nThe TMDB dataset is a csv file. This is a huge dataset of dimensions (244880 x 14). The first line contains the headers that describes what the column/ field contains. Addition to that headers also contain the description of the column.\n\n\n### **Content**\n\nThe available dataset is as follows:\n1. Adult : This field says whether the movie is Adult Rated or not.\n2. backdrop_path : This column provides the link to the backdrop path\n3. genre_ids : This field contains the ID allotted to the specific genre.\n4. id: This field labels the ID to the movie.\n5. original_language : The original language in which the movie is released.\n6. original_title : This field provides the original title of the movie.\n7. overview : The overview column describes the movie in brief.\n8. Popularity : This field tells us how popular the movie is till date.\n9.  Poster Path : Provides path to the poster of the movie.\n\n### **Inspiration**\n\n1. You can build a recommendation system.\n2. You can predict the popularity of the upcoming movie.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "beginner",
+    "data cleaning",
+    "data visualization",
+    "linear regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

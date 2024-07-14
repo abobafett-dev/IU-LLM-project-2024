@@ -1,0 +1,42 @@
+{
+  "id": "concaption/pepsico-lab-potato-quality-control",
+  "id_no": 1837571,
+  "datasetSlugNullable": "pepsico-lab-potato-quality-control",
+  "ownerUserNullable": "concaption",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "PepsiCo Lab Potato Chips Quality Control",
+  "subtitleNullable": "Image dataset for the binary classification of potato chips for quality control",
+  "descriptionNullable": "### Starter code at\nKindly start this repository to encourage me to contribute more to the open source.\nhttps://github.com/concaption/PepsiCo-Lab-Potato-Quality-Control\n\n### Context\n\nA lot of research is being done to improve the quality of the food. Frito-Lay is the subsidiary of Pepsico that makes globally famous potato chips. The chips get burnt due to during the process. There is a minimum requirement for the amount of the burned or damaged part that can be on a chip.\nAs a PepsiCo intern, you are advised to build a deep learning-based approach towards solving the quality issues of potato chips. You are advised to find the area of the chips that is damaged. \nAlso research about other chips quality control methods that are being researched in academia and industry.\n* https://doi.org/10.1016/B978-0-12-802232-0.00022-0\n* \n\n\n### Content\n\nThe directory contains a balanced dataset of binary classification; the two labels being defective and non-defective. The data set contains almost a thousand image.\n\n\n### Acknowledgements\n\nhttp://UsamaNavid.com/\nhttp://BilalMujahid.me/\n\n\n### Inspiration\n\nThe inspiration of the project is to solve the problems in the industry using cutting-edge technology and bring academia and industry together. Industry 4.0 is here.",
+  "datasetId": 1837571,
+  "datasetSlug": "pepsico-lab-potato-quality-control",
+  "hasDatasetSlug": true,
+  "ownerUser": "concaption",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 12196,
+  "totalVotes": 24,
+  "totalDownloads": 915,
+  "title": "PepsiCo Lab Potato Chips Quality Control",
+  "hasTitle": true,
+  "subtitle": "Image dataset for the binary classification of potato chips for quality control",
+  "hasSubtitle": true,
+  "description": "### Starter code at\nKindly start this repository to encourage me to contribute more to the open source.\nhttps://github.com/concaption/PepsiCo-Lab-Potato-Quality-Control\n\n### Context\n\nA lot of research is being done to improve the quality of the food. Frito-Lay is the subsidiary of Pepsico that makes globally famous potato chips. The chips get burnt due to during the process. There is a minimum requirement for the amount of the burned or damaged part that can be on a chip.\nAs a PepsiCo intern, you are advised to build a deep learning-based approach towards solving the quality issues of potato chips. You are advised to find the area of the chips that is damaged. \nAlso research about other chips quality control methods that are being researched in academia and industry.\n* https://doi.org/10.1016/B978-0-12-802232-0.00022-0\n* \n\n\n### Content\n\nThe directory contains a balanced dataset of binary classification; the two labels being defective and non-defective. The data set contains almost a thousand image.\n\n\n### Acknowledgements\n\nhttp://UsamaNavid.com/\nhttp://BilalMujahid.me/\n\n\n### Inspiration\n\nThe inspiration of the project is to solve the problems in the industry using cutting-edge technology and bring academia and industry together. Industry 4.0 is here.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "binary classification",
+    "transfer learning",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

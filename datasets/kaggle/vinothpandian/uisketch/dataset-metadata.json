@@ -1,0 +1,43 @@
+{
+  "id": "vinothpandian/uisketch",
+  "id_no": 1092122,
+  "datasetSlugNullable": "uisketch",
+  "ownerUserNullable": "vinothpandian",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "UISketch dataset",
+  "subtitleNullable": "A dataset of 19,000 hand-drawn sketches of 21 UI element categories",
+  "descriptionNullable": "# UISketch Dataset\n\nA large-scale dataset of 19,000 hand-drawn sketches of 21 UI element categories collected from 1,218 participants, including UI/UX designers, front-end developers, HCI, and CS grad students\n\n## Citation\n\n```bibtex\n@inbook{uisketch,\n\ttitle        = {UISketch: A Large-Scale Dataset of UI Element Sketches},\n\tauthor       = {Sermuga Pandian, Vinoth Pandian and Suleri, Sarah and Jarke, Prof. Dr. Matthias},\n\tyear         = 2021,\n\tbooktitle    = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},\n\tpublisher    = {Association for Computing Machinery},\n\taddress      = {New York, NY, USA},\n\tisbn         = 9781450380966,\n\turl          = {https://doi.org/10.1145/3411764.3445784},\n\tarticleno    = 319,\n\tnumpages     = 14\n}\n```\n---\n\n&gt; NOTE: **The models mentioned below were trained for a subset (17,979 sketches). Check [kaggle notebooks](https://www.kaggle.com/vinothpandian/code), specifically [ResNet 152 notebook](https://www.kaggle.com/vinothpandian/resnet-152) on how to reuse the weights mentioned below**\n\n## Download trained model checkpoints\n\n- [Alexnet](https://blackbox-toolkit.com/models/uisketch/alexnet/alexnet.pth)\n- [Densenet121](https://blackbox-toolkit.com/models/uisketch/densenet121/densenet121.pth)\n- [Densenet169](https://blackbox-toolkit.com/models/uisketch/densenet169/densenet169.pth)\n- [Densenet201](https://blackbox-toolkit.com/models/uisketch/densenet201/densenet201.pth)\n- [Efficientnet_B0](https://blackbox-toolkit.com/models/uisketch/efficientnet_b0/efficientnet_b0.pth)\n- [Efficientnet_B1](https://blackbox-toolkit.com/models/uisketch/efficientnet_b1/efficientnet_b1.pth)\n- [Efficientnet_B2](https://blackbox-toolkit.com/models/uisketch/efficientnet_b2/efficientnet_b2.pth)\n- [Efficientnet_B3](https://blackbox-toolkit.com/models/uisketch/efficientnet_b3/efficientnet_b3.pth)\n- [Efficientnet_ES](https://blackbox-toolkit.com/models/uisketch/efficientnet_es/efficientnet_es.pth)\n- [Googlenet](https://blackbox-toolkit.com/models/uisketch/googlenet/googlenet.pth)\n- [Metamorph](https://blackbox-toolkit.com/models/uisketch/metamorph/metamorph.pth)\n- [Mixnet_L](https://blackbox-toolkit.com/models/uisketch/mixnet_l/mixnet_l.pth)\n- [Resnet101](https://blackbox-toolkit.com/models/uisketch/resnet101/resnet101.pth)\n- [Resnet152](https://blackbox-toolkit.com/models/uisketch/resnet152/resnet152.pth)\n- [Resnet18](https://blackbox-toolkit.com/models/uisketch/resnet18/resnet18.pth)\n- [Resnet34](https://blackbox-toolkit.com/models/uisketch/resnet34/resnet34.pth)\n- [Resnet50](https://blackbox-toolkit.com/models/uisketch/resnet50/resnet50.pth)\n- [Resnext50_32x4d](https://blackbox-toolkit.com/models/uisketch/resnext50_32x4d/resnext50_32x4d.pth)\n- [Shufflenet_v2_x0_5](https://blackbox-toolkit.com/models/uisketch/shufflenet_v2_x0_5/shufflenet_v2_x0_5.pth)\n- [Shufflenet_v2_x1_0](https://blackbox-toolkit.com/models/uisketch/shufflenet_v2_x1_0/shufflenet_v2_x1_0.pth)\n- [Squeezenet1_0](https://blackbox-toolkit.com/models/uisketch/squeezenet1_0/squeezenet1_0.pth)\n- [Squeezenet1_1](https://blackbox-toolkit.com/models/uisketch/squeezenet1_1/squeezenet1_1.pth)\n- [Vgg11_bn](https://blackbox-toolkit.com/models/uisketch/vgg11_bn/vgg11_bn.pth)\n- [Vgg13_bn](https://blackbox-toolkit.com/models/uisketch/vgg13_bn/vgg13_bn.pth)\n- [Vgg16_bn](https://blackbox-toolkit.com/models/uisketch/vgg16_bn/vgg16_bn.pth)\n- [Vgg19_bn](https://blackbox-toolkit.com/models/uisketch/vgg19_bn/vgg19_bn.pth)\n- [Wide_resnet50_2](https://blackbox-toolkit.com/models/uisketch/wide_resnet50_2/wide_resnet50_2.pth)\n- [Inceptionv3](https://blackbox-toolkit.com/models/uisketch/inceptionv3/inceptionv3.pth)",
+  "datasetId": 1092122,
+  "datasetSlug": "uisketch",
+  "hasDatasetSlug": true,
+  "ownerUser": "vinothpandian",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 12643,
+  "totalVotes": 24,
+  "totalDownloads": 745,
+  "title": "UISketch dataset",
+  "hasTitle": true,
+  "subtitle": "A dataset of 19,000 hand-drawn sketches of 21 UI element categories",
+  "hasSubtitle": true,
+  "description": "# UISketch Dataset\n\nA large-scale dataset of 19,000 hand-drawn sketches of 21 UI element categories collected from 1,218 participants, including UI/UX designers, front-end developers, HCI, and CS grad students\n\n## Citation\n\n```bibtex\n@inbook{uisketch,\n\ttitle        = {UISketch: A Large-Scale Dataset of UI Element Sketches},\n\tauthor       = {Sermuga Pandian, Vinoth Pandian and Suleri, Sarah and Jarke, Prof. Dr. Matthias},\n\tyear         = 2021,\n\tbooktitle    = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},\n\tpublisher    = {Association for Computing Machinery},\n\taddress      = {New York, NY, USA},\n\tisbn         = 9781450380966,\n\turl          = {https://doi.org/10.1145/3411764.3445784},\n\tarticleno    = 319,\n\tnumpages     = 14\n}\n```\n---\n\n&gt; NOTE: **The models mentioned below were trained for a subset (17,979 sketches). Check [kaggle notebooks](https://www.kaggle.com/vinothpandian/code), specifically [ResNet 152 notebook](https://www.kaggle.com/vinothpandian/resnet-152) on how to reuse the weights mentioned below**\n\n## Download trained model checkpoints\n\n- [Alexnet](https://blackbox-toolkit.com/models/uisketch/alexnet/alexnet.pth)\n- [Densenet121](https://blackbox-toolkit.com/models/uisketch/densenet121/densenet121.pth)\n- [Densenet169](https://blackbox-toolkit.com/models/uisketch/densenet169/densenet169.pth)\n- [Densenet201](https://blackbox-toolkit.com/models/uisketch/densenet201/densenet201.pth)\n- [Efficientnet_B0](https://blackbox-toolkit.com/models/uisketch/efficientnet_b0/efficientnet_b0.pth)\n- [Efficientnet_B1](https://blackbox-toolkit.com/models/uisketch/efficientnet_b1/efficientnet_b1.pth)\n- [Efficientnet_B2](https://blackbox-toolkit.com/models/uisketch/efficientnet_b2/efficientnet_b2.pth)\n- [Efficientnet_B3](https://blackbox-toolkit.com/models/uisketch/efficientnet_b3/efficientnet_b3.pth)\n- [Efficientnet_ES](https://blackbox-toolkit.com/models/uisketch/efficientnet_es/efficientnet_es.pth)\n- [Googlenet](https://blackbox-toolkit.com/models/uisketch/googlenet/googlenet.pth)\n- [Metamorph](https://blackbox-toolkit.com/models/uisketch/metamorph/metamorph.pth)\n- [Mixnet_L](https://blackbox-toolkit.com/models/uisketch/mixnet_l/mixnet_l.pth)\n- [Resnet101](https://blackbox-toolkit.com/models/uisketch/resnet101/resnet101.pth)\n- [Resnet152](https://blackbox-toolkit.com/models/uisketch/resnet152/resnet152.pth)\n- [Resnet18](https://blackbox-toolkit.com/models/uisketch/resnet18/resnet18.pth)\n- [Resnet34](https://blackbox-toolkit.com/models/uisketch/resnet34/resnet34.pth)\n- [Resnet50](https://blackbox-toolkit.com/models/uisketch/resnet50/resnet50.pth)\n- [Resnext50_32x4d](https://blackbox-toolkit.com/models/uisketch/resnext50_32x4d/resnext50_32x4d.pth)\n- [Shufflenet_v2_x0_5](https://blackbox-toolkit.com/models/uisketch/shufflenet_v2_x0_5/shufflenet_v2_x0_5.pth)\n- [Shufflenet_v2_x1_0](https://blackbox-toolkit.com/models/uisketch/shufflenet_v2_x1_0/shufflenet_v2_x1_0.pth)\n- [Squeezenet1_0](https://blackbox-toolkit.com/models/uisketch/squeezenet1_0/squeezenet1_0.pth)\n- [Squeezenet1_1](https://blackbox-toolkit.com/models/uisketch/squeezenet1_1/squeezenet1_1.pth)\n- [Vgg11_bn](https://blackbox-toolkit.com/models/uisketch/vgg11_bn/vgg11_bn.pth)\n- [Vgg13_bn](https://blackbox-toolkit.com/models/uisketch/vgg13_bn/vgg13_bn.pth)\n- [Vgg16_bn](https://blackbox-toolkit.com/models/uisketch/vgg16_bn/vgg16_bn.pth)\n- [Vgg19_bn](https://blackbox-toolkit.com/models/uisketch/vgg19_bn/vgg19_bn.pth)\n- [Wide_resnet50_2](https://blackbox-toolkit.com/models/uisketch/wide_resnet50_2/wide_resnet50_2.pth)\n- [Inceptionv3](https://blackbox-toolkit.com/models/uisketch/inceptionv3/inceptionv3.pth)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "beginner",
+    "computer vision",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

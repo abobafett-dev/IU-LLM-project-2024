@@ -1,0 +1,41 @@
+{
+  "id": "oguzhannefsoglu/electricity-load-and-generation-in-turkey",
+  "id_no": 2204342,
+  "datasetSlugNullable": "electricity-load-and-generation-in-turkey",
+  "ownerUserNullable": "oguzhannefsoglu",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Electricity Load and Generation in Turkey",
+  "subtitleNullable": "Hourly electricity generation(by production type) and load between 2016-2022",
+  "descriptionNullable": "This dataset consists of hourly(aggregated) electricity generation and load(demand) in Turkey. Dataset spans the time between 31-12-2015 and 03-05-2022. Generation is given as both per production type(natural gas, geothermal, solar, etc.) and total.\n\nData is taken from [EPIAS](https://seffaflik.epias.com.tr/transparency/).\n\nThis dataset can be used for different purposes. For instance, STLF(Short Term Load Forecasting), which helps developing better day-ahead generator planning.",
+  "datasetId": 2204342,
+  "datasetSlug": "electricity-load-and-generation-in-turkey",
+  "hasDatasetSlug": true,
+  "ownerUser": "oguzhannefsoglu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 1324,
+  "totalVotes": 4,
+  "totalDownloads": 206,
+  "title": "Electricity Load and Generation in Turkey",
+  "hasTitle": true,
+  "subtitle": "Hourly electricity generation(by production type) and load between 2016-2022",
+  "hasSubtitle": true,
+  "description": "This dataset consists of hourly(aggregated) electricity generation and load(demand) in Turkey. Dataset spans the time between 31-12-2015 and 03-05-2022. Generation is given as both per production type(natural gas, geothermal, solar, etc.) and total.\n\nData is taken from [EPIAS](https://seffaflik.epias.com.tr/transparency/).\n\nThis dataset can be used for different purposes. For instance, STLF(Short Term Load Forecasting), which helps developing better day-ahead generator planning.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "time series analysis",
+    "tabular",
+    "electricity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

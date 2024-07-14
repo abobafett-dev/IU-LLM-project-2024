@@ -1,0 +1,43 @@
+{
+  "id": "die9origephit/human-activity-recognition",
+  "id_no": 2528857,
+  "datasetSlugNullable": "human-activity-recognition",
+  "ownerUserNullable": "die9origephit",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Human Activity Recognition",
+  "subtitleNullable": "Human activity recognition from accelerometers time-series data",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F6372737%2F47d4254cf709e8038a199096ce2e3b75%2Fimage_thumbnail%20(4).jpg?generation=1665091063695984&alt=media)\n\n\n<br>\n\nThe dataset, acquired from WISDM Lab, consists of data collected from 36 different users performing six types of human activities (ascending and descending stairs, sitting, walking, jogging, and standing) for specific periods of time. <br>\n\nThese data were acquired from accelerometers, which are able of detecting the orientation of the device measuring the acceleration along the three different dimensions. They were collected using a sample rate of 20 Hz (1 sample every 50 millisecond) that is equivalent to 20 samples per second. <br>\n\nThese time-series data can be used to perform various techniques, such as human activity recognition.\n\n\n### **Fields:**\n- **user**: the user who acquired the data (integer from 1 to 36).\n- **activity**: the activity that the user was carrying out. It could be:\n     - 1. walking\n     - 2. Jogging\n     - 3. Sitting\n     - 4. Standing\n     - 5. Upstairs\n     - 6. Downstairs.\n\t\t\n\n- **timestamp**: generally the phone's uptime in nanoseconds.\n\n- **x-axis**:  The acceleration in the x direction as measured by the android phone's accelerometer.  \nFloating-point values between -20 and 20. A value of 10 = 1g = 9.81 m/s^2, and 0 = no acceleration. \nThe acceleration recorded includes gravitational acceleration toward the center of the Earth, so that when the phone is at rest on a flat surface the vertical axis will register +-10.\n\n- **y-axis**: same as x-axis, but along y axis.\n\n- **z-axis**: same as x-axis, but along z axis.\n<br>\n\n**Remember to upvote if you found the dataset useful :)**.\n** **\n\n## **Inspiration**\nThe data can be used to perform human activity prediction. I strongly suggest you to take a look to this [article](https://towardsdatascience.com/feature-engineering-on-time-series-data-transforming-signal-data-of-a-smartphone-accelerometer-for-72cbe34b8a60) if you want to have a reference for performing this task, and considering that the given dataset was already cleaned.\nIn addition, you can try to perform other feature engineering and selection techniques, and using more complex models for prediction.\n\n** **\n## **Acknowledgement**\nData were fetched from the [WISDM dataset website](https://www.cis.fordham.edu/wisdm/dataset.php), and they were cleaned, deleting missing values, replacing inconsistent strings and converting the dataset to csv. <br>\n\nJeffrey W. Lockhart, Tony Pulickal, and Gary M. Weiss (2012). \n\t\"Applications of Mobile Activity Recognition,\" \n\tProceedings of the ACM UbiComp International Workshop \n\ton Situation, Activity, and Goal Awareness, Pittsburgh, \n\tPA. <br>\n\nGary M. Weiss and Jeffrey W. Lockhart (2012). \"The Impact of \n\tPersonalization on Smartphone-Based Activity Recognition,\" \n\tProceedings of the AAAI-12 Workshop on Activity Context \n\tRepresentation: Techniques and Languages, Toronto, CA. <br>\n\nJennifer R. Kwapisz, Gary M. Weiss and Samuel A. Moore (2010). \n\t\"Activity Recognition using Cell Phone Accelerometers,\" \n\tProceedings of the Fourth International Workshop on \n\tKnowledge Discovery from Sensor Data (at KDD-10), Washington \n\tDC. <br>\n",
+  "datasetId": 2528857,
+  "datasetSlug": "human-activity-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "die9origephit",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 21053,
+  "totalVotes": 54,
+  "totalDownloads": 2105,
+  "title": "Human Activity Recognition",
+  "hasTitle": true,
+  "subtitle": "Human activity recognition from accelerometers time-series data",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F6372737%2F47d4254cf709e8038a199096ce2e3b75%2Fimage_thumbnail%20(4).jpg?generation=1665091063695984&alt=media)\n\n\n<br>\n\nThe dataset, acquired from WISDM Lab, consists of data collected from 36 different users performing six types of human activities (ascending and descending stairs, sitting, walking, jogging, and standing) for specific periods of time. <br>\n\nThese data were acquired from accelerometers, which are able of detecting the orientation of the device measuring the acceleration along the three different dimensions. They were collected using a sample rate of 20 Hz (1 sample every 50 millisecond) that is equivalent to 20 samples per second. <br>\n\nThese time-series data can be used to perform various techniques, such as human activity recognition.\n\n\n### **Fields:**\n- **user**: the user who acquired the data (integer from 1 to 36).\n- **activity**: the activity that the user was carrying out. It could be:\n     - 1. walking\n     - 2. Jogging\n     - 3. Sitting\n     - 4. Standing\n     - 5. Upstairs\n     - 6. Downstairs.\n\t\t\n\n- **timestamp**: generally the phone's uptime in nanoseconds.\n\n- **x-axis**:  The acceleration in the x direction as measured by the android phone's accelerometer.  \nFloating-point values between -20 and 20. A value of 10 = 1g = 9.81 m/s^2, and 0 = no acceleration. \nThe acceleration recorded includes gravitational acceleration toward the center of the Earth, so that when the phone is at rest on a flat surface the vertical axis will register +-10.\n\n- **y-axis**: same as x-axis, but along y axis.\n\n- **z-axis**: same as x-axis, but along z axis.\n<br>\n\n**Remember to upvote if you found the dataset useful :)**.\n** **\n\n## **Inspiration**\nThe data can be used to perform human activity prediction. I strongly suggest you to take a look to this [article](https://towardsdatascience.com/feature-engineering-on-time-series-data-transforming-signal-data-of-a-smartphone-accelerometer-for-72cbe34b8a60) if you want to have a reference for performing this task, and considering that the given dataset was already cleaned.\nIn addition, you can try to perform other feature engineering and selection techniques, and using more complex models for prediction.\n\n** **\n## **Acknowledgement**\nData were fetched from the [WISDM dataset website](https://www.cis.fordham.edu/wisdm/dataset.php), and they were cleaned, deleting missing values, replacing inconsistent strings and converting the dataset to csv. <br>\n\nJeffrey W. Lockhart, Tony Pulickal, and Gary M. Weiss (2012). \n\t\"Applications of Mobile Activity Recognition,\" \n\tProceedings of the ACM UbiComp International Workshop \n\ton Situation, Activity, and Goal Awareness, Pittsburgh, \n\tPA. <br>\n\nGary M. Weiss and Jeffrey W. Lockhart (2012). \"The Impact of \n\tPersonalization on Smartphone-Based Activity Recognition,\" \n\tProceedings of the AAAI-12 Workshop on Activity Context \n\tRepresentation: Techniques and Languages, Toronto, CA. <br>\n\nJennifer R. Kwapisz, Gary M. Weiss and Samuel A. Moore (2010). \n\t\"Activity Recognition using Cell Phone Accelerometers,\" \n\tProceedings of the Fourth International Workshop on \n\tKnowledge Discovery from Sensor Data (at KDD-10), Washington \n\tDC. <br>\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "data visualization",
+    "time series analysis",
+    "classification",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

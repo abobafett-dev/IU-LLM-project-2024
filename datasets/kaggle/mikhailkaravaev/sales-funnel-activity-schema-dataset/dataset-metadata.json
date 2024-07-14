@@ -1,0 +1,41 @@
+{
+  "id": "mikhailkaravaev/sales-funnel-activity-schema-dataset",
+  "id_no": 3547024,
+  "datasetSlugNullable": "sales-funnel-activity-schema-dataset",
+  "ownerUserNullable": "mikhailkaravaev",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Sales Funnel Activity Schema Dataset",
+  "subtitleNullable": "Example of an activity schema populated with fictional data",
+  "descriptionNullable": "This dataset was created as an example of activity schema. \nSee more (notebook, SQL queries, naming convention, etc.) on https://github.com/peargrape/activity_schema_sample\n\nThere are 4 types of activities, `link_clicked` -&gt; `lead_generated` -&gt; `cons_arranged` -&gt; `payment_made`. A customer clicks links one or several times (links they have clicked are displayed in `link_clicked`column), then it can be followed by a `lead_generated` with filling a form (displayed in `feature_json` column), then a `cons_arranged` comes (`feature_json` displays preferred time), and, finally, it can end up with a sale(`payment_made`). In this case, there is a description in `feature_json` column, e.g.\n\n```json\n{\n     \"product\": \"ebook\", \"price\": 19.99\n}\n```\n",
+  "datasetId": 3547024,
+  "datasetSlug": "sales-funnel-activity-schema-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mikhailkaravaev",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 347,
+  "totalVotes": 1,
+  "totalDownloads": 51,
+  "title": "Sales Funnel Activity Schema Dataset",
+  "hasTitle": true,
+  "subtitle": "Example of an activity schema populated with fictional data",
+  "hasSubtitle": true,
+  "description": "This dataset was created as an example of activity schema. \nSee more (notebook, SQL queries, naming convention, etc.) on https://github.com/peargrape/activity_schema_sample\n\nThere are 4 types of activities, `link_clicked` -&gt; `lead_generated` -&gt; `cons_arranged` -&gt; `payment_made`. A customer clicks links one or several times (links they have clicked are displayed in `link_clicked`column), then it can be followed by a `lead_generated` with filling a form (displayed in `feature_json` column), then a `cons_arranged` comes (`feature_json` displays preferred time), and, finally, it can end up with a sale(`payment_made`). In this case, there is a description in `feature_json` column, e.g.\n\n```json\n{\n     \"product\": \"ebook\", \"price\": 19.99\n}\n```\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "english",
+    "multimodal"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

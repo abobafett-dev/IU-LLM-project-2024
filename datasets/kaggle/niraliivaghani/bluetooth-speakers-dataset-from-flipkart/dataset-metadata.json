@@ -1,0 +1,43 @@
+{
+  "id": "niraliivaghani/bluetooth-speakers-dataset-from-flipkart",
+  "id_no": 2874276,
+  "datasetSlugNullable": "bluetooth-speakers-dataset-from-flipkart",
+  "ownerUserNullable": "niraliivaghani",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Electronic product Dataset",
+  "subtitleNullable": "Flipkart product Dataset of bluetooth-speakers",
+  "descriptionNullable": "This dataset include description on flipkart's Product name, Rate, Reviews and Summary in csv format. This dataset has one product call Bluetooth speakers. It has 12202 rows and 4 columns.\n\nThis dataset has been used for classification either binary or multiclass classification based on review or summary. Here, shared notebook shows sentiment given was based on column called Review using NLP and Vader model. However, you can also use or try some cleaning techniques on Review and Summary. which you can learn through any online sources(Also I uploaded one notebooks for that).\n\nData was collected through web scraping using the library called beautifulsoup from flipkart.com. The scraping done in december 2022.\n\n**Applications:**\n1. Text Classification\n2. Sentiment analysis\n3. Natural Language Processing\n4. Customer services\nand so on.",
+  "datasetId": 2874276,
+  "datasetSlug": "bluetooth-speakers-dataset-from-flipkart",
+  "hasDatasetSlug": true,
+  "ownerUser": "niraliivaghani",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 843,
+  "totalVotes": 3,
+  "totalDownloads": 108,
+  "title": "Electronic product Dataset",
+  "hasTitle": true,
+  "subtitle": "Flipkart product Dataset of bluetooth-speakers",
+  "hasSubtitle": true,
+  "description": "This dataset include description on flipkart's Product name, Rate, Reviews and Summary in csv format. This dataset has one product call Bluetooth speakers. It has 12202 rows and 4 columns.\n\nThis dataset has been used for classification either binary or multiclass classification based on review or summary. Here, shared notebook shows sentiment given was based on column called Review using NLP and Vader model. However, you can also use or try some cleaning techniques on Review and Summary. which you can learn through any online sources(Also I uploaded one notebooks for that).\n\nData was collected through web scraping using the library called beautifulsoup from flipkart.com. The scraping done in december 2022.\n\n**Applications:**\n1. Text Classification\n2. Sentiment analysis\n3. Natural Language Processing\n4. Customer services\nand so on.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data cleaning",
+    "tabular",
+    "multiclass classification",
+    "nltk",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

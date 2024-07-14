@@ -1,0 +1,41 @@
+{
+  "id": "caesuric/bgggamesdata",
+  "id_no": 782540,
+  "datasetSlugNullable": "bgggamesdata",
+  "ownerUserNullable": "caesuric",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "bgg-games-data",
+  "subtitleNullable": "Data for 286,000+ Board Games",
+  "descriptionNullable": "### Context\n\nI really wanted to run some statistical correlations on boardgames and their mechanics, so I scraped this data. I hope it helps others!\n\n\n### Content\n\nData was acquired by scraping the BoardGameGeek XML API at all boardgame entry endpoints. Finished acquiring data on 7/15/2020. XML files in raw_data represent the raw endpoints, while the CSVs are distillations of that data for users' convenience.\n\n* basic_data.csv - basic stats on all boardgames in the database\n* categories_data.csv - what categories do games belong to, and what are their BGG scores?\n* mechanics_data.csv - what game mechanics do games use, and what are their BGG scores?\n* subdomain_data.csv - what broad BGG categories do games fall under (e.g. Strategy Games, Party Games, etc.) and what are their BGG scores?\n\n### Acknowledgements\n\nThanks to BGG for providing the XML API that made this possible, as well as to [mrpantherson ](https://www.kaggle.com/mrpantherson)whose original BGG dataset of the top 5,000 games inspired this effort. And thanks to the many users that powered this data by providing scores, tagging mechanics, etc.!\n\n### Inspiration\n\nI'd love to get a better understanding of the correlations between various game attributes and how they are rated on BGG. It might also be fun to correlate with the \"owned\" property to get a rough measure of what qualities in games drive sales (at least among the BGG community).",
+  "datasetId": 782540,
+  "datasetSlug": "bgggamesdata",
+  "hasDatasetSlug": true,
+  "ownerUser": "caesuric",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 4074,
+  "totalVotes": 12,
+  "totalDownloads": 274,
+  "title": "bgg-games-data",
+  "hasTitle": true,
+  "subtitle": "Data for 286,000+ Board Games",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI really wanted to run some statistical correlations on boardgames and their mechanics, so I scraped this data. I hope it helps others!\n\n\n### Content\n\nData was acquired by scraping the BoardGameGeek XML API at all boardgame entry endpoints. Finished acquiring data on 7/15/2020. XML files in raw_data represent the raw endpoints, while the CSVs are distillations of that data for users' convenience.\n\n* basic_data.csv - basic stats on all boardgames in the database\n* categories_data.csv - what categories do games belong to, and what are their BGG scores?\n* mechanics_data.csv - what game mechanics do games use, and what are their BGG scores?\n* subdomain_data.csv - what broad BGG categories do games fall under (e.g. Strategy Games, Party Games, etc.) and what are their BGG scores?\n\n### Acknowledgements\n\nThanks to BGG for providing the XML API that made this possible, as well as to [mrpantherson ](https://www.kaggle.com/mrpantherson)whose original BGG dataset of the top 5,000 games inspired this effort. And thanks to the many users that powered this data by providing scores, tagging mechanics, etc.!\n\n### Inspiration\n\nI'd love to get a better understanding of the correlations between various game attributes and how they are rated on BGG. It might also be fun to correlate with the \"owned\" property to get a rough measure of what qualities in games drive sales (at least among the BGG community).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "board games",
+    "education"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "newsdataio/health-news-dataset",
+  "id_no": 1674598,
+  "datasetSlugNullable": "health-news-dataset",
+  "ownerUserNullable": "newsdataio",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Health news dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset contains world news related to health and also with the news article's available metadata.",
+  "datasetId": 1674598,
+  "datasetSlug": "health-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "newsdataio",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 1366,
+  "totalVotes": 1,
+  "totalDownloads": 47,
+  "title": "Health news dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset contains world news related to health and also with the news article's available metadata.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

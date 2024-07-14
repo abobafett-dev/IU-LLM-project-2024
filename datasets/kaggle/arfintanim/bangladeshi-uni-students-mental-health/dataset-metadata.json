@@ -1,0 +1,39 @@
+{
+  "id": "arfintanim/bangladeshi-uni-students-mental-health",
+  "id_no": 4982128,
+  "datasetSlugNullable": "bangladeshi-uni-students-mental-health",
+  "ownerUserNullable": "arfintanim",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Bangladeshi University Students Mental Health",
+  "subtitleNullable": "",
+  "descriptionNullable": "\nDataset Description:\n\nThis dataset, named \"Raw Data.csv,\" provides insights into various attributes related to students' academic experiences and demographics. The dataset appears to contain 39 columns, and the provided excerpt offers a glimpse into the types of data captured. Below is a summary of some of the key attributes included in the dataset:\n\nAge: Age of the students, likely represented in ranges such as \"18-22\" and \"23-26.\"\nGender: Gender of the students, categorized as \"Male,\" \"Female,\" and potentially \"Other.\"\nUniversity: Names of universities attended by the students, with examples such as \"Independent University, Bangladesh (IUB)\" and \"American International University Bangladesh (AIUB).\"\nDepartment: Academic departments or fields of study pursued by the students, including \"Engineering - CS / CSE / CSC / Similar to CS\" and \"Business and Entrepreneurship Studies.\"\nAcademic Year: Current academic year or equivalent status, with categories like \"First Year or Equivalent\" and \"Fourth Year or Equivalent.\"\nCurrent CGPA: Cumulative Grade Point Average (CGPA) of the students, typically provided as numerical ranges.\nScholarship/Waiver: Indication of whether the students received financial assistance or waivers at their universities, with options like \"true\" and \"false.\"\nAcademic Pressure Metrics: Insights into the frequency and impact of academic pressure on students, captured through questions like \"In a semester, how often you felt nervous, anxious or on edge due to academic pressure?\" and related responses.\nAdditionally, the dataset may contain other demographic and academic-related attributes, as well as labels or outcomes associated with students' performance or experiences.\n\n**The dataset is sourced from Mendeley** and offers valuable insights into students' academic experiences and demographics. Researchers and analysts can use this dataset to explore various factors influencing students' academic performance, well-being, and success.",
+  "datasetId": 4982128,
+  "datasetSlug": "bangladeshi-uni-students-mental-health",
+  "hasDatasetSlug": true,
+  "ownerUser": "arfintanim",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 80,
+  "totalVotes": 0,
+  "totalDownloads": 12,
+  "title": "Bangladeshi University Students Mental Health",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "\nDataset Description:\n\nThis dataset, named \"Raw Data.csv,\" provides insights into various attributes related to students' academic experiences and demographics. The dataset appears to contain 39 columns, and the provided excerpt offers a glimpse into the types of data captured. Below is a summary of some of the key attributes included in the dataset:\n\nAge: Age of the students, likely represented in ranges such as \"18-22\" and \"23-26.\"\nGender: Gender of the students, categorized as \"Male,\" \"Female,\" and potentially \"Other.\"\nUniversity: Names of universities attended by the students, with examples such as \"Independent University, Bangladesh (IUB)\" and \"American International University Bangladesh (AIUB).\"\nDepartment: Academic departments or fields of study pursued by the students, including \"Engineering - CS / CSE / CSC / Similar to CS\" and \"Business and Entrepreneurship Studies.\"\nAcademic Year: Current academic year or equivalent status, with categories like \"First Year or Equivalent\" and \"Fourth Year or Equivalent.\"\nCurrent CGPA: Cumulative Grade Point Average (CGPA) of the students, typically provided as numerical ranges.\nScholarship/Waiver: Indication of whether the students received financial assistance or waivers at their universities, with options like \"true\" and \"false.\"\nAcademic Pressure Metrics: Insights into the frequency and impact of academic pressure on students, captured through questions like \"In a semester, how often you felt nervous, anxious or on edge due to academic pressure?\" and related responses.\nAdditionally, the dataset may contain other demographic and academic-related attributes, as well as labels or outcomes associated with students' performance or experiences.\n\n**The dataset is sourced from Mendeley** and offers valuable insights into students' academic experiences and demographics. Researchers and analysts can use this dataset to explore various factors influencing students' academic performance, well-being, and success.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

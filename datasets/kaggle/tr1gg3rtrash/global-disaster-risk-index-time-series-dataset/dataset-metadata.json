@@ -1,0 +1,43 @@
+{
+  "id": "tr1gg3rtrash/global-disaster-risk-index-time-series-dataset",
+  "id_no": 2451619,
+  "datasetSlugNullable": "global-disaster-risk-index-time-series-dataset",
+  "ownerUserNullable": "tr1gg3rtrash",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "World Disaster Risk Dataset",
+  "subtitleNullable": "Predict the next disaster risk index of your country.",
+  "descriptionNullable": "The WorldRiskReport is an annual technical report on global disaster risks. The yearly issues of the WorldRiskReport focus on varying critical topics related to disaster risk management and are published in German and English. The report includes the WorldRiskIndex, which identifies the risk of an extreme natural event becoming a disaster for numerous countries worldwide.\n\nThe WorldRiskIndex uses 27 aggregated, publicly available indicators to determine disaster risk for 181 countries worldwide. Conceptually, the index is composed of exposure to extreme natural hazards and the societal vulnerability of individual countries. Earthquakes, cyclones, floods, droughts, and climate-induced sea-level rise are considered in the exposure analysis. Societal vulnerability is divided into susceptibility to extreme natural events, lack of coping capacities, and lack of adaptive capacities. All index components are scaled to the value range from 0 to 100. The higher a country's index score on the WorldRiskIndex, the higher its national disaster risk. \n\nThe dataset consists of 11 years data of multiple countries with features including:\n- Region\n- WRI\n- Exposure\n- Vulnerability\n- Susceptibility\n- Lack of Coping Capabilities\n- Lack of Adaptive Capabilities\n- Year\n- WRI Category\n- Exposure Category\n- Vulnerability Category\n- Susceptibility Category\n\n| Feature Name | Data Type | Feature Description |\n| --- | --- | --- |\n| Region | String | Name of the region. |\n| WRI | Decimal | World Risk Score of the region. |\n| Exposure | Decimal | Risk/exposure to natural hazards such as earthquakes, hurricanes, floods, droughts, and sea \u200b\u200blevel rise. |\n| Vulnerability | Decimal | Vulnerability depending on infrastructure, nutrition, housing situation, and economic framework conditions. |\n| Susceptibility | Decimal | Susceptibility depending on infrastructure, nutrition, housing situation, and economic framework conditions. |\n| Lack of Coping Capabilities | Decimal  |  Coping capacities in dependence of governance, preparedness and early warning, medical care, and social and material security. |\n| Lack of Adaptive Capacities | Decimal  | Adaptive capacities related to coming natural events, climate change, and other challenges. |\n| Year | Decimal  | Year data is being described. |\n| WRI Category | String  | WRI Category for the given WRI Score. |\n| Exposure Category | String | Exposure Category for the given Exposure Score. |\n| Vulnerability Categoy  | String  | Vulnerability Category for the given Vulnerability Score. |\n| Susceptibility Category| String  | Susceptibility Category for the given Susceptibility Score. |\n\n## Acknowledgment\n\nThis Dataset is created from https://weltrisikobericht.de/weltrisikobericht-2021-e/. If you want to learn more, you can visit the Website. ",
+  "datasetId": 2451619,
+  "datasetSlug": "global-disaster-risk-index-time-series-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tr1gg3rtrash",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 16902,
+  "totalVotes": 64,
+  "totalDownloads": 2619,
+  "title": "World Disaster Risk Dataset",
+  "hasTitle": true,
+  "subtitle": "Predict the next disaster risk index of your country.",
+  "hasSubtitle": true,
+  "description": "The WorldRiskReport is an annual technical report on global disaster risks. The yearly issues of the WorldRiskReport focus on varying critical topics related to disaster risk management and are published in German and English. The report includes the WorldRiskIndex, which identifies the risk of an extreme natural event becoming a disaster for numerous countries worldwide.\n\nThe WorldRiskIndex uses 27 aggregated, publicly available indicators to determine disaster risk for 181 countries worldwide. Conceptually, the index is composed of exposure to extreme natural hazards and the societal vulnerability of individual countries. Earthquakes, cyclones, floods, droughts, and climate-induced sea-level rise are considered in the exposure analysis. Societal vulnerability is divided into susceptibility to extreme natural events, lack of coping capacities, and lack of adaptive capacities. All index components are scaled to the value range from 0 to 100. The higher a country's index score on the WorldRiskIndex, the higher its national disaster risk. \n\nThe dataset consists of 11 years data of multiple countries with features including:\n- Region\n- WRI\n- Exposure\n- Vulnerability\n- Susceptibility\n- Lack of Coping Capabilities\n- Lack of Adaptive Capabilities\n- Year\n- WRI Category\n- Exposure Category\n- Vulnerability Category\n- Susceptibility Category\n\n| Feature Name | Data Type | Feature Description |\n| --- | --- | --- |\n| Region | String | Name of the region. |\n| WRI | Decimal | World Risk Score of the region. |\n| Exposure | Decimal | Risk/exposure to natural hazards such as earthquakes, hurricanes, floods, droughts, and sea \u200b\u200blevel rise. |\n| Vulnerability | Decimal | Vulnerability depending on infrastructure, nutrition, housing situation, and economic framework conditions. |\n| Susceptibility | Decimal | Susceptibility depending on infrastructure, nutrition, housing situation, and economic framework conditions. |\n| Lack of Coping Capabilities | Decimal  |  Coping capacities in dependence of governance, preparedness and early warning, medical care, and social and material security. |\n| Lack of Adaptive Capacities | Decimal  | Adaptive capacities related to coming natural events, climate change, and other challenges. |\n| Year | Decimal  | Year data is being described. |\n| WRI Category | String  | WRI Category for the given WRI Score. |\n| Exposure Category | String | Exposure Category for the given Exposure Score. |\n| Vulnerability Categoy  | String  | Vulnerability Category for the given Vulnerability Score. |\n| Susceptibility Category| String  | Susceptibility Category for the given Susceptibility Score. |\n\n## Acknowledgment\n\nThis Dataset is created from https://weltrisikobericht.de/weltrisikobericht-2021-e/. If you want to learn more, you can visit the Website. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "advanced",
+    "geospatial analysis",
+    "time series analysis",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

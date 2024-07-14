@@ -1,0 +1,40 @@
+{
+  "id": "mathurinache/simpsons-images",
+  "id_no": 1253893,
+  "datasetSlugNullable": "simpsons-images",
+  "ownerUserNullable": "mathurinache",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Simpsons Images",
+  "subtitleNullable": "Dataset pour Simpsons Classification Images Project",
+  "descriptionNullable": "DESCRIPTION\nContains the characters, locations, episode details, and script lines for approximately 600 Simpsons episodes.\n\nSUMMARY\nOriginally, this dataset was scraped by Tod Schenider for his post The Simpsons by the Data, for which he made the scraper available on GitHub. Kaggle user William Cukierski used the scraper to upload the data set, which has been rehosted here.\n\nAn additional column, chalkboardgag, has been added to the simpsonsepisodes.csv file, scraped from Simpsons Wiki.",
+  "datasetId": 1253893,
+  "datasetSlug": "simpsons-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "mathurinache",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4573,
+  "totalVotes": 18,
+  "totalDownloads": 332,
+  "title": "Simpsons Images",
+  "hasTitle": true,
+  "subtitle": "Dataset pour Simpsons Classification Images Project",
+  "hasSubtitle": true,
+  "description": "DESCRIPTION\nContains the characters, locations, episode details, and script lines for approximately 600 Simpsons episodes.\n\nSUMMARY\nOriginally, this dataset was scraped by Tod Schenider for his post The Simpsons by the Data, for which he made the scraper available on GitHub. Kaggle user William Cukierski used the scraper to upload the data set, which has been rehosted here.\n\nAn additional column, chalkboardgag, has been added to the simpsonsepisodes.csv file, scraped from Simpsons Wiki.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

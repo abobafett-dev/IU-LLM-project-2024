@@ -1,0 +1,42 @@
+{
+  "id": "yasirabdaali/tmdb-8500-top-rated-movies-dataset",
+  "id_no": 2384883,
+  "datasetSlugNullable": "tmdb-8500-top-rated-movies-dataset",
+  "ownerUserNullable": "yasirabdaali",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "TMDb (8500) top rated movies dataset",
+  "subtitleNullable": "Contains data of top 8560 TMDb movies.",
+  "descriptionNullable": "This dataset contains the data of the top 8500 TMDb movies including the id, title, release date,avg vote,vote count, overview and popularity, etc.\nThis data was collected by using the TMDB API, requests, json and converted into a dataframe using pandas.\nYou can use this data to make movies recommendation systems furthermore you can get the postures of the movies using the id and display it in your website.",
+  "datasetId": 2384883,
+  "datasetSlug": "tmdb-8500-top-rated-movies-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yasirabdaali",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 370,
+  "totalVotes": 13,
+  "totalDownloads": 57,
+  "title": "TMDb (8500) top rated movies dataset",
+  "hasTitle": true,
+  "subtitle": "Contains data of top 8560 TMDb movies.",
+  "hasSubtitle": true,
+  "description": "This dataset contains the data of the top 8500 TMDb movies including the id, title, release date,avg vote,vote count, overview and popularity, etc.\nThis data was collected by using the TMDB API, requests, json and converted into a dataframe using pandas.\nYou can use this data to make movies recommendation systems furthermore you can get the postures of the movies using the id and display it in your website.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "tabular",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

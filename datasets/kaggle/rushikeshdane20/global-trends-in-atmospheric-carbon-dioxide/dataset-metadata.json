@@ -1,0 +1,43 @@
+{
+  "id": "rushikeshdane20/global-trends-in-atmospheric-carbon-dioxide",
+  "id_no": 4786663,
+  "datasetSlugNullable": "global-trends-in-atmospheric-carbon-dioxide",
+  "ownerUserNullable": "rushikeshdane20",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Global Trends in Atmospheric CO2 Emission",
+  "subtitleNullable": "Rise of the Invisible: A Data Deep Dive into Global CO2 Patterns",
+  "descriptionNullable": "Data are sourced from the US Government's Earth System Research Laboratory, Global Monitoring Division. Two main series are provided: the Mauna Loa series (which has the longest continuous series since 1958) and a Global Average series (a global average over marine surface sites).\n\n*Data are reported as a dry air mole fraction defined as the number of molecules of carbon dioxide divided by the number of all molecules in air, including CO2 itself, after water vapor has been removed. The mole fraction is expressed as parts per million (ppm). Example: 0.000400 is expressed as 400 ppm*\n\n**Date:** Represents the year and month when the CO2 measurements were taken, formatted as 'YYYY-MM'.\n\n**Decimal Date**: Indicates the date in a decimal year format, calculated as the year plus the fraction of the year that has passed by the date of the measurement\n\n**Average**: The average monthly concentration of atmospheric CO2 measured in parts per million (ppm).\n\n**Interpolated**: The interpolated value of CO2 concentration for months with missing data, ensuring a continuous time series\n\n**Trend**: This column shows the value of CO2 concentration adjusted to remove the seasonal cycle, providing a clearer view of the long-term trend.\n\n**Number of Days**: Indicates the number of days in the month that valid measurements were available.\n\n**Year**: Represents the year for which the annual mean CO2 concentration is measured\n\n**Uncertainty**: The uncertainty associated with the annual mean CO2 concentration, also measured in parts per million (ppm).\n\n**Annual Increase**: Represents the year-over-year change in the concentration of atmospheric CO2, measured in parts per million (ppm)\n\n.\n",
+  "datasetId": 4786663,
+  "datasetSlug": "global-trends-in-atmospheric-carbon-dioxide",
+  "hasDatasetSlug": true,
+  "ownerUser": "rushikeshdane20",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 4865,
+  "totalVotes": 23,
+  "totalDownloads": 808,
+  "title": "Global Trends in Atmospheric CO2 Emission",
+  "hasTitle": true,
+  "subtitle": "Rise of the Invisible: A Data Deep Dive into Global CO2 Patterns",
+  "hasSubtitle": true,
+  "description": "Data are sourced from the US Government's Earth System Research Laboratory, Global Monitoring Division. Two main series are provided: the Mauna Loa series (which has the longest continuous series since 1958) and a Global Average series (a global average over marine surface sites).\n\n*Data are reported as a dry air mole fraction defined as the number of molecules of carbon dioxide divided by the number of all molecules in air, including CO2 itself, after water vapor has been removed. The mole fraction is expressed as parts per million (ppm). Example: 0.000400 is expressed as 400 ppm*\n\n**Date:** Represents the year and month when the CO2 measurements were taken, formatted as 'YYYY-MM'.\n\n**Decimal Date**: Indicates the date in a decimal year format, calculated as the year plus the fraction of the year that has passed by the date of the measurement\n\n**Average**: The average monthly concentration of atmospheric CO2 measured in parts per million (ppm).\n\n**Interpolated**: The interpolated value of CO2 concentration for months with missing data, ensuring a continuous time series\n\n**Trend**: This column shows the value of CO2 concentration adjusted to remove the seasonal cycle, providing a clearer view of the long-term trend.\n\n**Number of Days**: Indicates the number of days in the month that valid measurements were available.\n\n**Year**: Represents the year for which the annual mean CO2 concentration is measured\n\n**Uncertainty**: The uncertainty associated with the annual mean CO2 concentration, also measured in parts per million (ppm).\n\n**Annual Increase**: Represents the year-over-year change in the concentration of atmospheric CO2, measured in parts per million (ppm)\n\n.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth science",
+    "atmospheric science",
+    "time series analysis",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Permissive - Version 1.0",
+      "name": "Community Data License Agreement - Permissive - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "turbotobe/youtube-comments-of-tucker-carlson-tonight",
+  "id_no": 2906957,
+  "datasetSlugNullable": "youtube-comments-of-tucker-carlson-tonight",
+  "ownerUserNullable": "turbotobe",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Every YouTube comment of Tucker Carlson Tonight",
+  "subtitleNullable": "Comment and video data of the FOX show up to January '23",
+  "descriptionNullable": "### The show\nTucker Carlson Tonight is an American talk show and current affairs program hosted by conservative commentator Tucker Carlson on the television network Fox News. The show premiered in November 2016 and includes political commentary, monologues, interviews, and analysis, similar to Fox News' On the Record. [(Wikipedia)  ](https://en.wikipedia.org/wiki/Tucker_Carlson_Tonight)\n\n### The data\nThe associated data contains comments and replies for all published videos of 'Tucker Carlson Tonight' available on YouTube. In total, nearly **9 million** comments were posted across **~3000 videos** over a time period from December 2017 to January 2023.  The data allows a detailed look into audience feedback and replies to a wide spectrum of topics over many years.\n\n### Things to do\n- Data visualization reflecting the success of the various videos and the dynamics of commenting \n- What is the relationship between comment dynamic and the success of a video?\n- Feature engineering for video and/or comment related metrics \n- NLP applied on comments or other text features (video description)\n- and much more ...\n\n\n\n",
+  "datasetId": 2906957,
+  "datasetSlug": "youtube-comments-of-tucker-carlson-tonight",
+  "hasDatasetSlug": true,
+  "ownerUser": "turbotobe",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 459,
+  "totalVotes": 3,
+  "totalDownloads": 43,
+  "title": "Every YouTube comment of Tucker Carlson Tonight",
+  "hasTitle": true,
+  "subtitle": "Comment and video data of the FOX show up to January '23",
+  "hasSubtitle": true,
+  "description": "### The show\nTucker Carlson Tonight is an American talk show and current affairs program hosted by conservative commentator Tucker Carlson on the television network Fox News. The show premiered in November 2016 and includes political commentary, monologues, interviews, and analysis, similar to Fox News' On the Record. [(Wikipedia)  ](https://en.wikipedia.org/wiki/Tucker_Carlson_Tonight)\n\n### The data\nThe associated data contains comments and replies for all published videos of 'Tucker Carlson Tonight' available on YouTube. In total, nearly **9 million** comments were posted across **~3000 videos** over a time period from December 2017 to January 2023.  The data allows a detailed look into audience feedback and replies to a wide spectrum of topics over many years.\n\n### Things to do\n- Data visualization reflecting the success of the various videos and the dynamics of commenting \n- What is the relationship between comment dynamic and the success of a video?\n- Feature engineering for video and/or comment related metrics \n- NLP applied on comments or other text features (video description)\n- and much more ...\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "politics",
+    "feature engineering",
+    "news",
+    "text classification",
+    "feature extraction"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "calebreigada/south-korean-pollution",
+  "id_no": 1946242,
+  "datasetSlugNullable": "south-korean-pollution",
+  "ownerUserNullable": "calebreigada",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "South Korean Pollution",
+  "subtitleNullable": "Pollutant levels in South Korea",
+  "descriptionNullable": "### Background\n\nAir pollution is a major problem in South Korea. On days with high pollution, citizens are advised not to go outdoors. This is especially true for those who are elderly or have pre-existing medical conditions. Pollution levels are higher at certain times of year and can change rapidly based on meteorological effects. Being able to accurately forecast the level of pollution would allow South Koreans to plan ahead and avoid exposing themselves to the harsh pollutants.\n\n\n### Data\n<p><strong>Pollution data</strong></p>\n<ul>\n<li><strong>date</strong> - date of measurement</li>\n<li><strong>pm25</strong> - fine particulate matter (PM2.5) (\u00b5g/m3)</li>\n<li><strong>pm10</strong> - fine particulate matter (PM10) (\u00b5g/m3)</li>\n<li><strong>o3</strong> - Ozone (O3) (\u00b5g/m3)</li>\n<li><strong>no2</strong> - Nitrogen Dioxide (NO2) (ppm)</li>\n<li><strong>so2</strong> - Sulfur Dioxide (SO2) (ppm)</li>\n<li><strong>co</strong> - Carbon Monoxide (CO) (ppm)</li>\n<li><strong>Lat</strong> - Latitude where measurement was taken</li>\n<li><strong>Long</strong> - Longitude where measurement was taken</li>\n<li><strong>City</strong> - City where measurement was taken</li>\n<li><strong>District</strong> - District where measurement was taken</li>\n<li><strong>Country</strong> - Country where measurement was taken</li>\n</ul>\n\n\n<p><strong>Weather Data (auxiliary)</strong></p>\n<ul>\n<li><strong>STATION</strong> - Station Number</li>\n<li><strong>NAME</strong> - Station Name</li>\n<li><strong>LATITUDE</strong> - Latitude of station</li>\n<li><strong>LONGITUDE</strong> - Longitude of station</li>\n<li><strong>ELEVATION</strong> - Elevation of station</li>\n<li><strong>DATE</strong> - Date of observation</li>\n<li><strong>LIQUID_PRECIPITATION</strong> - Liquid precipitation (AA1)</li>\n<li><strong>SNOW_DEPTH</strong> - Snow depth (AJ1)</li>\n<li><strong>DEW</strong> - Dew</li>\n<li><strong>EXTREME_AIR_TEMP</strong> - Extreme air temperature (KA1)</li>\n<li><strong>ATMOSPHERIC_PRESSURE</strong> - Atmospheric pressure (MA1)</li>\n<li><strong>SEA_LEVEL_PRESSURE</strong> - Sea level pressure (SLP)</li>\n<li><strong>TEMP</strong> - Temperature (TMP)</li>\n<li><strong>VIS</strong> - Visibility</li>\n<li><strong>WND</strong> - Wind</li>\n</ul>\n\n<p><strong>For more detailed information about each field, you can view the documentation here: <a href=\"https://www.ncei.noaa.gov/data/global-hourly/doc/isd-format-document.pdf\">documentation</a>. NOTE: some field names were changed for clarity -- if so, original field names are in parenthesis.</strong></p>\n\n### Source\n<p>pollution data: <a href=\"https://www.airkorea.or.kr/\">https://www.airkorea.or.kr/</a></p>\n\n<p>weather data: <a href=\"https://www.ncei.noaa.gov/\">https://www.ncei.noaa.gov/</a></p>\n",
+  "datasetId": 1946242,
+  "datasetSlug": "south-korean-pollution",
+  "hasDatasetSlug": true,
+  "ownerUser": "calebreigada",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12074,
+  "totalVotes": 41,
+  "totalDownloads": 1802,
+  "title": "South Korean Pollution",
+  "hasTitle": true,
+  "subtitle": "Pollutant levels in South Korea",
+  "hasSubtitle": true,
+  "description": "### Background\n\nAir pollution is a major problem in South Korea. On days with high pollution, citizens are advised not to go outdoors. This is especially true for those who are elderly or have pre-existing medical conditions. Pollution levels are higher at certain times of year and can change rapidly based on meteorological effects. Being able to accurately forecast the level of pollution would allow South Koreans to plan ahead and avoid exposing themselves to the harsh pollutants.\n\n\n### Data\n<p><strong>Pollution data</strong></p>\n<ul>\n<li><strong>date</strong> - date of measurement</li>\n<li><strong>pm25</strong> - fine particulate matter (PM2.5) (\u00b5g/m3)</li>\n<li><strong>pm10</strong> - fine particulate matter (PM10) (\u00b5g/m3)</li>\n<li><strong>o3</strong> - Ozone (O3) (\u00b5g/m3)</li>\n<li><strong>no2</strong> - Nitrogen Dioxide (NO2) (ppm)</li>\n<li><strong>so2</strong> - Sulfur Dioxide (SO2) (ppm)</li>\n<li><strong>co</strong> - Carbon Monoxide (CO) (ppm)</li>\n<li><strong>Lat</strong> - Latitude where measurement was taken</li>\n<li><strong>Long</strong> - Longitude where measurement was taken</li>\n<li><strong>City</strong> - City where measurement was taken</li>\n<li><strong>District</strong> - District where measurement was taken</li>\n<li><strong>Country</strong> - Country where measurement was taken</li>\n</ul>\n\n\n<p><strong>Weather Data (auxiliary)</strong></p>\n<ul>\n<li><strong>STATION</strong> - Station Number</li>\n<li><strong>NAME</strong> - Station Name</li>\n<li><strong>LATITUDE</strong> - Latitude of station</li>\n<li><strong>LONGITUDE</strong> - Longitude of station</li>\n<li><strong>ELEVATION</strong> - Elevation of station</li>\n<li><strong>DATE</strong> - Date of observation</li>\n<li><strong>LIQUID_PRECIPITATION</strong> - Liquid precipitation (AA1)</li>\n<li><strong>SNOW_DEPTH</strong> - Snow depth (AJ1)</li>\n<li><strong>DEW</strong> - Dew</li>\n<li><strong>EXTREME_AIR_TEMP</strong> - Extreme air temperature (KA1)</li>\n<li><strong>ATMOSPHERIC_PRESSURE</strong> - Atmospheric pressure (MA1)</li>\n<li><strong>SEA_LEVEL_PRESSURE</strong> - Sea level pressure (SLP)</li>\n<li><strong>TEMP</strong> - Temperature (TMP)</li>\n<li><strong>VIS</strong> - Visibility</li>\n<li><strong>WND</strong> - Wind</li>\n</ul>\n\n<p><strong>For more detailed information about each field, you can view the documentation here: <a href=\"https://www.ncei.noaa.gov/data/global-hourly/doc/isd-format-document.pdf\">documentation</a>. NOTE: some field names were changed for clarity -- if so, original field names are in parenthesis.</strong></p>\n\n### Source\n<p>pollution data: <a href=\"https://www.airkorea.or.kr/\">https://www.airkorea.or.kr/</a></p>\n\n<p>weather data: <a href=\"https://www.ncei.noaa.gov/\">https://www.ncei.noaa.gov/</a></p>\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "environment",
+    "pollution",
+    "time series analysis",
+    "tabular",
+    "news",
+    "korea"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "quantigoai/people-segmentation",
+  "id_no": 3145890,
+  "datasetSlugNullable": "people-segmentation",
+  "ownerUserNullable": "quantigoai",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "People - Segmentation",
+  "subtitleNullable": "1000 Annotated Images for Human Detection and Analysis",
+  "descriptionNullable": "The **\"People - Segmentation\"** dataset is a high-quality polygon annotation dataset containing **1000** publicly available images of people in various settings and environments. The dataset comprises a total of **1035 labels across one class**, capturing people in different poses, expressions, and backgrounds. It is released under the CC BY-SA 4.0 license, providing researchers, data scientists, and enthusiasts with the ability to gain valuable insights into human activities and enabling object-level understanding. This makes it an indispensable tool for a range of applications, including but not limited to object detection, facial recognition, and human-computer interaction systems. With annotations, researchers can analyze and gain insights into the development of accurate person detection algorithms.\n\nDataset Name - People - Segmentation\nData Asset Type - Image\nData Asset Volume - 1000 images\nData Asset Content - People in various settings and environments\nData Asset Source - Publicly available on the web\nAnnotation Type - Polygon\nAnnotation Format - COCO\nPlatform Used - Supervisely\n\nThis dataset is created by Quantigo AI, as a part of our commitment towards advancing the fields of AI and machine learning. If you have any queries about our datasets, please contact us at **datasets@quantigo.ai**. \n\nVisit our website at **https://quantigo.ai/** to learn more about our services and commitment to advancing the fields of AI and machine learning.\n",
+  "datasetId": 3145890,
+  "datasetSlug": "people-segmentation",
+  "hasDatasetSlug": true,
+  "ownerUser": "quantigoai",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 1455,
+  "totalVotes": 2,
+  "totalDownloads": 149,
+  "title": "People - Segmentation",
+  "hasTitle": true,
+  "subtitle": "1000 Annotated Images for Human Detection and Analysis",
+  "hasSubtitle": true,
+  "description": "The **\"People - Segmentation\"** dataset is a high-quality polygon annotation dataset containing **1000** publicly available images of people in various settings and environments. The dataset comprises a total of **1035 labels across one class**, capturing people in different poses, expressions, and backgrounds. It is released under the CC BY-SA 4.0 license, providing researchers, data scientists, and enthusiasts with the ability to gain valuable insights into human activities and enabling object-level understanding. This makes it an indispensable tool for a range of applications, including but not limited to object detection, facial recognition, and human-computer interaction systems. With annotations, researchers can analyze and gain insights into the development of accurate person detection algorithms.\n\nDataset Name - People - Segmentation\nData Asset Type - Image\nData Asset Volume - 1000 images\nData Asset Content - People in various settings and environments\nData Asset Source - Publicly available on the web\nAnnotation Type - Polygon\nAnnotation Format - COCO\nPlatform Used - Supervisely\n\nThis dataset is created by Quantigo AI, as a part of our commitment towards advancing the fields of AI and machine learning. If you have any queries about our datasets, please contact us at **datasets@quantigo.ai**. \n\nVisit our website at **https://quantigo.ai/** to learn more about our services and commitment to advancing the fields of AI and machine learning.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "image",
+    "social networks",
+    "segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "raihanulbashar",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

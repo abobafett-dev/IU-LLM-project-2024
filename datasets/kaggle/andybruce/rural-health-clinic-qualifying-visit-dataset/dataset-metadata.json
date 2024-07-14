@@ -1,0 +1,42 @@
+{
+  "id": "andybruce/rural-health-clinic-qualifying-visit-dataset",
+  "id_no": 1596890,
+  "datasetSlugNullable": "rural-health-clinic-qualifying-visit-dataset",
+  "ownerUserNullable": "andybruce",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Rural Health Clinic QVL Dataset",
+  "subtitleNullable": "List of RHC Qualifying Visits (QVLs) and related attributes",
+  "descriptionNullable": "### Context\nAn RHC visit is defined as a medically necessary medical or mental health visit or a qualified preventive health visit. The visit must be a face-to-face (one-on-one) encounter between the patient and an RHC practitioner during which time one or more RHC services are furnished. A Transitional Care Management service can also be an RHC visit.\n\nQualified preventive health services include the IPPE, the AWV, and other Medicare-covered preventive services recommended by the USPSTF with a grade of A or B. For a complete list of preventive services and their coinsurance and deductible requirements, see the \u201cRHC Preventive Services Chart\u201d on the CMS RHC center webpage. To qualify for Medicare payment, all the coverage requirements for an RHC visit must be met. A  RHC visit must be furnished in accordance with the applicable regulations at 42 CFR Part 405 Subpart X, including 42 CFR 405.2463 that describes what constitutes a visit. For additional information on RHC policies and requirements, see the \u201cMedicare Benefit Policy Manual,\u201d Chapter 13.\n\nThe RHC QVL is intended as guidance for RHCs beginning to report HCPCS codes. It consists of frequently reported Healthcare Common Procedure Coding System (HCPCS) codes that qualify as a face-to-face visit between the patient and an RHC practitioner and it is not an all-inclusive list of stand-alone billable visits for RHCs.\n\nMore information on Rural Health Clinics (RHCs): [https://www.ruralhealthinfo.org/topics/rural-health-clinics](https://www.ruralhealthinfo.org/topics/rural-health-clinics)\n\n### Content\nI converted the table of qualifying visits contained within the following pdf into a dataset for future use in data analysis:\n[https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/FQHCPPS/Downloads/RHC-Qualifying-Visit-List.pdf](https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/FQHCPPS/Downloads/RHC-Qualifying-Visit-List.pdf)",
+  "datasetId": 1596890,
+  "datasetSlug": "rural-health-clinic-qualifying-visit-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "andybruce",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 1472,
+  "totalVotes": 5,
+  "totalDownloads": 47,
+  "title": "Rural Health Clinic QVL Dataset",
+  "hasTitle": true,
+  "subtitle": "List of RHC Qualifying Visits (QVLs) and related attributes",
+  "hasSubtitle": true,
+  "description": "### Context\nAn RHC visit is defined as a medically necessary medical or mental health visit or a qualified preventive health visit. The visit must be a face-to-face (one-on-one) encounter between the patient and an RHC practitioner during which time one or more RHC services are furnished. A Transitional Care Management service can also be an RHC visit.\n\nQualified preventive health services include the IPPE, the AWV, and other Medicare-covered preventive services recommended by the USPSTF with a grade of A or B. For a complete list of preventive services and their coinsurance and deductible requirements, see the \u201cRHC Preventive Services Chart\u201d on the CMS RHC center webpage. To qualify for Medicare payment, all the coverage requirements for an RHC visit must be met. A  RHC visit must be furnished in accordance with the applicable regulations at 42 CFR Part 405 Subpart X, including 42 CFR 405.2463 that describes what constitutes a visit. For additional information on RHC policies and requirements, see the \u201cMedicare Benefit Policy Manual,\u201d Chapter 13.\n\nThe RHC QVL is intended as guidance for RHCs beginning to report HCPCS codes. It consists of frequently reported Healthcare Common Procedure Coding System (HCPCS) codes that qualify as a face-to-face visit between the patient and an RHC practitioner and it is not an all-inclusive list of stand-alone billable visits for RHCs.\n\nMore information on Rural Health Clinics (RHCs): [https://www.ruralhealthinfo.org/topics/rural-health-clinics](https://www.ruralhealthinfo.org/topics/rural-health-clinics)\n\n### Content\nI converted the table of qualifying visits contained within the following pdf into a dataset for future use in data analysis:\n[https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/FQHCPPS/Downloads/RHC-Qualifying-Visit-List.pdf](https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/FQHCPPS/Downloads/RHC-Qualifying-Visit-List.pdf)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "public health",
+    "categorical",
+    "insurance"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

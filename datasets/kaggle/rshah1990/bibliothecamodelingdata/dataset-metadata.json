@@ -1,0 +1,45 @@
+{
+  "id": "rshah1990/bibliothecamodelingdata",
+  "id_no": 143211,
+  "datasetSlugNullable": "bibliothecamodelingdata",
+  "ownerUserNullable": "rshah1990",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "BibliothecaModelingData",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Recommendation System\n\nBook recommendation for Bibliotheca",
+  "datasetId": 143211,
+  "datasetSlug": "bibliothecamodelingdata",
+  "hasDatasetSlug": true,
+  "ownerUser": "rshah1990",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 1399,
+  "totalVotes": 1,
+  "totalDownloads": 22,
+  "title": "BibliothecaModelingData",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Recommendation System\n\nBook recommendation for Bibliotheca",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "recommender systems"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "buntyshah",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

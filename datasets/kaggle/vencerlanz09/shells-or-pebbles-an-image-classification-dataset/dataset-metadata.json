@@ -1,0 +1,43 @@
+{
+  "id": "vencerlanz09/shells-or-pebbles-an-image-classification-dataset",
+  "id_no": 2441249,
+  "datasetSlugNullable": "shells-or-pebbles-an-image-classification-dataset",
+  "ownerUserNullable": "vencerlanz09",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Shells or Pebbles: An Image Classification Dataset",
+  "subtitleNullable": "A dataset containing images of shells and pebbles for image classification tasks",
+  "descriptionNullable": "## Overview\nThe dataset contains two classes: Shells or Pebbles. This dataset can be used to for binary classification tasks to determine whether a certain image constitutes as a shell or a pebble. <a href=\"https://www.freepik.com/free-photo/shells-close-up-north-sea-coast-hague_13562959.htm#query=shells%20and%20pebbles&position=18&from_view=search\">Cover Image by wirestock</a> on Freepik \n\n## Inspiration\nI found it cool to create an app with a CV algorithm that could classify whether a certain picture is a shell or image. The next time that I would be visiting a beach, I could just use the app to help me collect either shells or pebbles. \ud83d\ude04 ",
+  "datasetId": 2441249,
+  "datasetSlug": "shells-or-pebbles-an-image-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "vencerlanz09",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4474,
+  "totalVotes": 86,
+  "totalDownloads": 636,
+  "title": "Shells or Pebbles: An Image Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "A dataset containing images of shells and pebbles for image classification tasks",
+  "hasSubtitle": true,
+  "description": "## Overview\nThe dataset contains two classes: Shells or Pebbles. This dataset can be used to for binary classification tasks to determine whether a certain image constitutes as a shell or a pebble. <a href=\"https://www.freepik.com/free-photo/shells-close-up-north-sea-coast-hague_13562959.htm#query=shells%20and%20pebbles&position=18&from_view=search\">Cover Image by wirestock</a> on Freepik \n\n## Inspiration\nI found it cool to create an app with a CV algorithm that could classify whether a certain picture is a shell or image. The next time that I would be visiting a beach, I could just use the app to help me collect either shells or pebbles. \ud83d\ude04 ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "computer vision",
+    "image",
+    "tensorflow",
+    "torchvision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "gadigevishalsai/sachin-tendulkar-100-centuries",
+  "id_no": 2625870,
+  "datasetSlugNullable": "sachin-tendulkar-100-centuries",
+  "ownerUserNullable": "gadigevishalsai",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Sachin Tendulkar - 100 Centuries",
+  "subtitleNullable": "List of all the international centuries made by Sachin Tendulkar",
+  "descriptionNullable": "Sachin Ramesh Tendulkar is an Indian former international cricketer who captained the Indian national team. He is regarded as one of the greatest batsmen in the history of cricket. He was a right-handed top-order batsman in the Indian Cricket Team. He is known for his batting skills, technique, vision, and game reading. He is the all-time most runscorer in both ODI and Test Format with more than 18000 runs and 15000 runs respectively in total. He also holds the record for receiving the most Man-of-the-Match awards in International Cricket in all forms combined. He is the only batsman in the world to score 100 international centuries. This dataset consists of all the 100s scored by Sachin during his international career.\n\nThe task is to perform Exploratory Data Analysis on the dataset and to revisit the centuries made by the little master.\n\nThe dataset description is as follows:\n1. S.No: International Century Number\n2. Score: Number of runs scored by Sachin in the match\n3. Dismissed: Whether Sachin is dismissed or not?\n4. Captain: Is Sachin the captain of the match?\n5. Player of the match: Did Sachin win the player of the match for his performance?\n6. Against: The opposition team\n7. Position: Batting position of Sachin in that match\n8. Innings: In which innings of the match did Sachin score the century?\n9. Test: Test match number in the series\n10. Strike Rate: Number of runs scored per 100 balls\n11. Venue: The stadium where the match is played\n12. City: The city in which the stadium is present\n13. H/A: Is the game played at home or away or at a neutral venue?\n14. Date: The date on which Sachin scored that century\n15. Result: Result of the match",
+  "datasetId": 2625870,
+  "datasetSlug": "sachin-tendulkar-100-centuries",
+  "hasDatasetSlug": true,
+  "ownerUser": "gadigevishalsai",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4887,
+  "totalVotes": 21,
+  "totalDownloads": 635,
+  "title": "Sachin Tendulkar - 100 Centuries",
+  "hasTitle": true,
+  "subtitle": "List of all the international centuries made by Sachin Tendulkar",
+  "hasSubtitle": true,
+  "description": "Sachin Ramesh Tendulkar is an Indian former international cricketer who captained the Indian national team. He is regarded as one of the greatest batsmen in the history of cricket. He was a right-handed top-order batsman in the Indian Cricket Team. He is known for his batting skills, technique, vision, and game reading. He is the all-time most runscorer in both ODI and Test Format with more than 18000 runs and 15000 runs respectively in total. He also holds the record for receiving the most Man-of-the-Match awards in International Cricket in all forms combined. He is the only batsman in the world to score 100 international centuries. This dataset consists of all the 100s scored by Sachin during his international career.\n\nThe task is to perform Exploratory Data Analysis on the dataset and to revisit the centuries made by the little master.\n\nThe dataset description is as follows:\n1. S.No: International Century Number\n2. Score: Number of runs scored by Sachin in the match\n3. Dismissed: Whether Sachin is dismissed or not?\n4. Captain: Is Sachin the captain of the match?\n5. Player of the match: Did Sachin win the player of the match for his performance?\n6. Against: The opposition team\n7. Position: Batting position of Sachin in that match\n8. Innings: In which innings of the match did Sachin score the century?\n9. Test: Test match number in the series\n10. Strike Rate: Number of runs scored per 100 balls\n11. Venue: The stadium where the match is played\n12. City: The city in which the stadium is present\n13. H/A: Is the game played at home or away or at a neutral venue?\n14. Date: The date on which Sachin scored that century\n15. Result: Result of the match",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cricket",
+    "sports",
+    "beginner",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

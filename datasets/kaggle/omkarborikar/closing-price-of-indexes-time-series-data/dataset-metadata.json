@@ -1,0 +1,45 @@
+{
+  "id": "omkarborikar/closing-price-of-indexes-time-series-data",
+  "id_no": 1683036,
+  "datasetSlugNullable": "closing-price-of-indexes-time-series-data",
+  "ownerUserNullable": "omkarborikar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Closing price of Top Indexes | Time Series Data |",
+  "subtitleNullable": "Closing price of Top Indexes recorded over the span of 27 years.",
+  "descriptionNullable": "### Context\n\nTime Series Analysis is an important part in Data science toolkit. This dataset was created from Yahoo Finance with the help of their official API yfinance.\n\n\n### Content\n\nThis dataset contains closing price of Top 4 indexes recorded over daily frame from 1994 to 2021 October (27 years). \n\n| Column | Description |\n| --- | --- |\n| Date | Date from 7th January 1994 to 28th October 2021 in format yyyy/mm/dd |\n| spx | The S&P 500 Index, or Standard & Poor's 500 Index, is a market-capitalization-weighted index of 500 leading publicly traded companies in the U.S |\n| dax | The DAX\u2014also known as the Deutscher Aktien Index\u2014is a stock index that represents 40 of the largest and most liquid German companies that trade on the Frankfurt Exchange |\n| ftse | The Financial Times Stock Exchange (FTSE), now known as FTSE Russell Group, is a British financial organization that specializes in providing index offerings for the global financial markets |\n| nikkie | The Nikkei is short for Japan's Nikkei 225 Stock Average, the leading and most-respected index of Japanese stocks. |\n",
+  "datasetId": 1683036,
+  "datasetSlug": "closing-price-of-indexes-time-series-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "omkarborikar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2634,
+  "totalVotes": 10,
+  "totalDownloads": 260,
+  "title": "Closing price of Top Indexes | Time Series Data |",
+  "hasTitle": true,
+  "subtitle": "Closing price of Top Indexes recorded over the span of 27 years.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nTime Series Analysis is an important part in Data science toolkit. This dataset was created from Yahoo Finance with the help of their official API yfinance.\n\n\n### Content\n\nThis dataset contains closing price of Top 4 indexes recorded over daily frame from 1994 to 2021 October (27 years). \n\n| Column | Description |\n| --- | --- |\n| Date | Date from 7th January 1994 to 28th October 2021 in format yyyy/mm/dd |\n| spx | The S&P 500 Index, or Standard & Poor's 500 Index, is a market-capitalization-weighted index of 500 leading publicly traded companies in the U.S |\n| dax | The DAX\u2014also known as the Deutscher Aktien Index\u2014is a stock index that represents 40 of the largest and most liquid German companies that trade on the Frankfurt Exchange |\n| ftse | The Financial Times Stock Exchange (FTSE), now known as FTSE Russell Group, is a British financial organization that specializes in providing index offerings for the global financial markets |\n| nikkie | The Nikkei is short for Japan's Nikkei 225 Stock Average, the leading and most-respected index of Japanese stocks. |\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "time series analysis",
+    "statistical analysis",
+    "investing",
+    "news",
+    "datetime",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

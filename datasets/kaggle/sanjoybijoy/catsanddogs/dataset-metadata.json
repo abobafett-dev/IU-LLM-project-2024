@@ -1,0 +1,43 @@
+{
+  "id": "sanjoybijoy/catsanddogs",
+  "id_no": 84252,
+  "datasetSlugNullable": "catsanddogs",
+  "ownerUserNullable": "sanjoybijoy",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "Cats and Dogs data for classification",
+  "subtitleNullable": "Image Classification ",
+  "descriptionNullable": "",
+  "datasetId": 84252,
+  "datasetSlug": "catsanddogs",
+  "hasDatasetSlug": true,
+  "ownerUser": "sanjoybijoy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 2982,
+  "totalVotes": 5,
+  "totalDownloads": 156,
+  "title": "Cats and Dogs data for classification",
+  "hasTitle": true,
+  "subtitle": "Image Classification ",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "classification",
+    "image",
+    "json",
+    "keras"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

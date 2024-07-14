@@ -1,0 +1,43 @@
+{
+  "id": "jassican/hacklive-3-guided-hackathon-nlp",
+  "id_no": 925632,
+  "datasetSlugNullable": "hacklive-3-guided-hackathon-nlp",
+  "ownerUserNullable": "jassican",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "HackLive 3: Guided Hackathon - NLP",
+  "subtitleNullable": "Analytics Vidhya Problem ",
+  "descriptionNullable": "### Context\n\nTopic Modeling for Research Articles 2.0\nResearchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more and more difficult. Tagging or topic modelling provides a way to give clear token of identification to research articles which facilitates recommendation and search process. \n\nEarlier on the Independence Day we conducted a Hackathon to predict the topics for each article included in the test set. Continuing with the same problem, In this Live Hackathon we will take one more step ahead and predict the tags associated with the articles.\n\nGiven the abstracts for a set of research articles, predict the tags for each article included in the test set. \nNote that a research article can possibly have multiple tags. The research article abstracts are sourced from the following 4 topics: \n\n1. Computer Science\n\n2. Mathematics\n\n3. Physics\n\n4. Statistics\n\nList of possible tags are as follows:\n\n[Tags, Analysis of PDEs, Applications, Artificial Intelligence,Astrophysics of Galaxies, Computation and Language, Computer Vision and Pattern Recognition, Cosmology and Nongalactic Astrophysics, Data Structures and Algorithms, Differential Geometry, Earth and Planetary Astrophysics, Fluid Dynamics,Information Theory, Instrumentation and Methods for Astrophysics, Machine Learning, Materials Science, Methodology, Number Theory, Optimization and Control, Representation Theory, Robotics, Social and Information Networks, Statistics Theory, Strongly Correlated Electrons, Superconductivity, Systems and Control]\n\n\n### Content\nid                                                Unique ID for each article\nABSTRACT\t                          Abstract of the research article\nComputer Science                   Whether article belongs to topic computer science (1/0)\nMathematics\t                          Whether article belongs to topic Mathematics (1/0)\nPhysics\t                                  Whether article belongs to topic physics (1/0)\n\nStatistics\tWhether article belongs to topic Statistics (1/0)\nTags\t(TARGET) There are 25 columns of possible tags with (1/0) :\n1 : if article belongs to that tag\n0 : if article doesn't belong to that tag\n \n\n### Inspiration\n\nAnalytics Vidhya dataset\n\n#### Link to Competition\nhttps://datahack.analyticsvidhya.com/contest/hacklive-3-guided-hackathon-text-classification/#LeaderBoard",
+  "datasetId": 925632,
+  "datasetSlug": "hacklive-3-guided-hackathon-nlp",
+  "hasDatasetSlug": true,
+  "ownerUser": "jassican",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1609,
+  "totalVotes": 3,
+  "totalDownloads": 76,
+  "title": "HackLive 3: Guided Hackathon - NLP",
+  "hasTitle": true,
+  "subtitle": "Analytics Vidhya Problem ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nTopic Modeling for Research Articles 2.0\nResearchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more and more difficult. Tagging or topic modelling provides a way to give clear token of identification to research articles which facilitates recommendation and search process. \n\nEarlier on the Independence Day we conducted a Hackathon to predict the topics for each article included in the test set. Continuing with the same problem, In this Live Hackathon we will take one more step ahead and predict the tags associated with the articles.\n\nGiven the abstracts for a set of research articles, predict the tags for each article included in the test set. \nNote that a research article can possibly have multiple tags. The research article abstracts are sourced from the following 4 topics: \n\n1. Computer Science\n\n2. Mathematics\n\n3. Physics\n\n4. Statistics\n\nList of possible tags are as follows:\n\n[Tags, Analysis of PDEs, Applications, Artificial Intelligence,Astrophysics of Galaxies, Computation and Language, Computer Vision and Pattern Recognition, Cosmology and Nongalactic Astrophysics, Data Structures and Algorithms, Differential Geometry, Earth and Planetary Astrophysics, Fluid Dynamics,Information Theory, Instrumentation and Methods for Astrophysics, Machine Learning, Materials Science, Methodology, Number Theory, Optimization and Control, Representation Theory, Robotics, Social and Information Networks, Statistics Theory, Strongly Correlated Electrons, Superconductivity, Systems and Control]\n\n\n### Content\nid                                                Unique ID for each article\nABSTRACT\t                          Abstract of the research article\nComputer Science                   Whether article belongs to topic computer science (1/0)\nMathematics\t                          Whether article belongs to topic Mathematics (1/0)\nPhysics\t                                  Whether article belongs to topic physics (1/0)\n\nStatistics\tWhether article belongs to topic Statistics (1/0)\nTags\t(TARGET) There are 25 columns of possible tags with (1/0) :\n1 : if article belongs to that tag\n0 : if article doesn't belong to that tag\n \n\n### Inspiration\n\nAnalytics Vidhya dataset\n\n#### Link to Competition\nhttps://datahack.analyticsvidhya.com/contest/hacklive-3-guided-hackathon-text-classification/#LeaderBoard",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "education",
+    "nlp",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

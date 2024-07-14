@@ -1,0 +1,43 @@
+{
+  "id": "rashmisg/anime-dataset",
+  "id_no": 4985826,
+  "datasetSlugNullable": "anime-dataset",
+  "ownerUserNullable": "rashmisg",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Anime Dataset",
+  "subtitleNullable": "A dataset on the top animes with their images",
+  "descriptionNullable": "### Context\nThe Data was created to perform some simple EDA \n### Source\nThe data was collected from the website called as Rapid API.\nhttps://rapidapi.com/hub \n### Inspiration\nThis Data may be used for the beginners for performing basic EDA and cleaning of data.\n",
+  "datasetId": 4985826,
+  "datasetSlug": "anime-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rashmisg",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 49,
+  "totalVotes": 0,
+  "totalDownloads": 3,
+  "title": "Anime Dataset",
+  "hasTitle": true,
+  "subtitle": "A dataset on the top animes with their images",
+  "hasSubtitle": true,
+  "description": "### Context\nThe Data was created to perform some simple EDA \n### Source\nThe data was collected from the website called as Rapid API.\nhttps://rapidapi.com/hub \n### Inspiration\nThis Data may be used for the beginners for performing basic EDA and cleaning of data.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "beginner",
+    "data cleaning",
+    "anime and manga",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

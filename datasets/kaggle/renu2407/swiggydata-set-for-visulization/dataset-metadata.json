@@ -1,0 +1,43 @@
+{
+  "id": "renu2407/swiggydata-set-for-visulization",
+  "id_no": 4910006,
+  "datasetSlugNullable": "swiggydata-set-for-visulization",
+  "ownerUserNullable": "renu2407",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "SWIGGYDATA SET FOR VISULIZATION",
+  "subtitleNullable": "",
+  "descriptionNullable": "The Swiggy dataset is a collection of information about orders placed on the Swiggy food delivery platform. It includes details such as the order ID, customer ID, order date and time, restaurant name, cuisine type, order total, delivery time, driver ID, and delivery status. This data gives us a glimpse into how people use Swiggy to order food, what types of cuisine they prefer, and how efficiently orders are delivered.\nThe dataset was compiled from Swiggy's internal records and anonymized for analysis purposes. It represents a snapshot of orders placed over a specific period of time, allowing us to analyze trends and patterns in customer behavior.\nThe inspiration behind creating this dataset is to gain insights into Swiggy's performance as a food delivery platform. By analyzing the data, we can understand customer preferences, operational efficiency, and market trends, which can help Swiggy make informed decisions to improve its services and stay competitive in the online food delivery industry.",
+  "datasetId": 4910006,
+  "datasetSlug": "swiggydata-set-for-visulization",
+  "hasDatasetSlug": true,
+  "ownerUser": "renu2407",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 115,
+  "totalVotes": 0,
+  "totalDownloads": 16,
+  "title": "SWIGGYDATA SET FOR VISULIZATION",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The Swiggy dataset is a collection of information about orders placed on the Swiggy food delivery platform. It includes details such as the order ID, customer ID, order date and time, restaurant name, cuisine type, order total, delivery time, driver ID, and delivery status. This data gives us a glimpse into how people use Swiggy to order food, what types of cuisine they prefer, and how efficiently orders are delivered.\nThe dataset was compiled from Swiggy's internal records and anonymized for analysis purposes. It represents a snapshot of orders placed over a specific period of time, allowing us to analyze trends and patterns in customer behavior.\nThe inspiration behind creating this dataset is to gain insights into Swiggy's performance as a food delivery platform. By analyzing the data, we can understand customer preferences, operational efficiency, and market trends, which can help Swiggy make informed decisions to improve its services and stay competitive in the online food delivery industry.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "data analytics",
+    "food",
+    "python",
+    "sql"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

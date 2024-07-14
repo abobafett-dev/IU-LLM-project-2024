@@ -1,0 +1,40 @@
+{
+  "id": "disisbig/gujarati-news-dataset",
+  "id_no": 455697,
+  "datasetSlugNullable": "gujarati-news-dataset",
+  "ownerUserNullable": "disisbig",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Gujarati News Dataset",
+  "subtitleNullable": "Perform Text Classification in Gujarati using this Dataset",
+  "descriptionNullable": "This data set contains ~6500 news article headlines which I had collected from Gujarati news websites.\n\nThe data set has been cleaned and contains train and test set using which you can benchmark your classification models in Gujarati\n\nThe scripts which were used to create the data set can be found [here](https://github.com/goru001/nlp-for-gujarati/tree/master/datasets-preparation)",
+  "datasetId": 455697,
+  "datasetSlug": "gujarati-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "disisbig",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 7407,
+  "totalVotes": 6,
+  "totalDownloads": 451,
+  "title": "Gujarati News Dataset",
+  "hasTitle": true,
+  "subtitle": "Perform Text Classification in Gujarati using this Dataset",
+  "hasSubtitle": true,
+  "description": "This data set contains ~6500 news article headlines which I had collected from Gujarati news websites.\n\nThe data set has been cleaned and contains train and test set using which you can benchmark your classification models in Gujarati\n\nThe scripts which were used to create the data set can be found [here](https://github.com/goru001/nlp-for-gujarati/tree/master/datasets-preparation)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

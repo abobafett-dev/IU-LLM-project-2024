@@ -1,0 +1,43 @@
+{
+  "id": "trainingdatapro/facial-hair-classification-dataset",
+  "id_no": 3566337,
+  "datasetSlugNullable": "facial-hair-classification-dataset",
+  "ownerUserNullable": "trainingdatapro",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Facial Attribute Classification Dataset",
+  "subtitleNullable": "Photos of people with & without a beard - Segmetation & Object Detection datas",
+  "descriptionNullable": "# Facial Hair Classification & Object Detection dataset\nThe Facial Hair Classification Dataset is a comprehensive collection of high-resolution images showcasing individuals **with and without** a beard. The dataset includes a diverse range of individuals of various ages, ethnicities, and genders. \n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/facial-hair-classification?utm_source=kaggle&utm_medium=cpc&utm_campaign=facial-hair-classification-dataset)** to buy the dataset\n\nThe dataset also contains images of individuals **without facial hair**, serving as a valuable reference for comparison and contrast. These images showcase clean-shaven faces, enabling research into distinguishing facial hair patterns from those without any beard growth.\n\nEach image in the dataset is carefully curated to showcase the subject's face prominently and with optimal lighting conditions, ensuring clarity and accuracy in the classification and analysis of facial hair presence.\n\n### Types of photos in the dataset:\n- **beard** - photos of people **with** a beard.\n- **no beard** - photos of people **without** a beard.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F72e33b9bbe0a8539635aba2fd997eb99%2Fbb.png?generation=1690557438276163&alt=media)\n\nThe Facial Hair Classification Dataset offers a robust collection of images that accurately represent the diverse range of facial hair styles found in the real world. This dataset provides ample opportunities for training facial recognition algorithms, identifying facial hair patterns, and conducting research on facial hair classification and analysis.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/facial-hair-classification?utm_source=kaggle&utm_medium=cpc&utm_campaign=facial-hair-classification-dataset) to discuss your requirements, learn about the price and buy the dataset**\n\n# Content\nThe dataset is splitted in three folders: **train**, **validate** and **test** to build a classification model.\n\nEach of these folders includes:\n- **beard** folder: includes photos of people **with** a beard\n- **no_beard** folder: includes photos of people **without** a beard\n\n### File with the extension .csv\n- **file**: link to access the media file,\n- **type**: does a person has or has not a beard\n\n# Files for Facial Hair Classification might be collected in accordance with your requirements.\n\n## **[TrainingData](https://trainingdata.pro/datasets/facial-hair-classification?utm_source=kaggle&utm_medium=cpc&utm_campaign=facial-hair-classification-dataset)** provides high-quality data annotation tailored to your needs\n\n*keywords: facial hair classification, image classification, mustaches, beard detection, beard segmentation, beard recognition, biometric dataset, biometric data dataset,face detection dataset, facial analysis, human images dataset, face images, multi-task learning approach, facial hair types*",
+  "datasetId": 3566337,
+  "datasetSlug": "facial-hair-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "trainingdatapro",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1676,
+  "totalVotes": 10,
+  "totalDownloads": 190,
+  "title": "Facial Attribute Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Photos of people with & without a beard - Segmetation & Object Detection datas",
+  "hasSubtitle": true,
+  "description": "# Facial Hair Classification & Object Detection dataset\nThe Facial Hair Classification Dataset is a comprehensive collection of high-resolution images showcasing individuals **with and without** a beard. The dataset includes a diverse range of individuals of various ages, ethnicities, and genders. \n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/facial-hair-classification?utm_source=kaggle&utm_medium=cpc&utm_campaign=facial-hair-classification-dataset)** to buy the dataset\n\nThe dataset also contains images of individuals **without facial hair**, serving as a valuable reference for comparison and contrast. These images showcase clean-shaven faces, enabling research into distinguishing facial hair patterns from those without any beard growth.\n\nEach image in the dataset is carefully curated to showcase the subject's face prominently and with optimal lighting conditions, ensuring clarity and accuracy in the classification and analysis of facial hair presence.\n\n### Types of photos in the dataset:\n- **beard** - photos of people **with** a beard.\n- **no beard** - photos of people **without** a beard.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F72e33b9bbe0a8539635aba2fd997eb99%2Fbb.png?generation=1690557438276163&alt=media)\n\nThe Facial Hair Classification Dataset offers a robust collection of images that accurately represent the diverse range of facial hair styles found in the real world. This dataset provides ample opportunities for training facial recognition algorithms, identifying facial hair patterns, and conducting research on facial hair classification and analysis.\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/facial-hair-classification?utm_source=kaggle&utm_medium=cpc&utm_campaign=facial-hair-classification-dataset) to discuss your requirements, learn about the price and buy the dataset**\n\n# Content\nThe dataset is splitted in three folders: **train**, **validate** and **test** to build a classification model.\n\nEach of these folders includes:\n- **beard** folder: includes photos of people **with** a beard\n- **no_beard** folder: includes photos of people **without** a beard\n\n### File with the extension .csv\n- **file**: link to access the media file,\n- **type**: does a person has or has not a beard\n\n# Files for Facial Hair Classification might be collected in accordance with your requirements.\n\n## **[TrainingData](https://trainingdata.pro/datasets/facial-hair-classification?utm_source=kaggle&utm_medium=cpc&utm_campaign=facial-hair-classification-dataset)** provides high-quality data annotation tailored to your needs\n\n*keywords: facial hair classification, image classification, mustaches, beard detection, beard segmentation, beard recognition, biometric dataset, biometric data dataset,face detection dataset, facial analysis, human images dataset, face images, multi-task learning approach, facial hair types*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "computer vision",
+    "image",
+    "e-commerce services",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

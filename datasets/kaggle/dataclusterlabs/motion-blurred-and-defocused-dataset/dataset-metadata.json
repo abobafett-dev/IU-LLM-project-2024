@@ -1,0 +1,42 @@
+{
+  "id": "dataclusterlabs/motion-blurred-and-defocused-dataset",
+  "id_no": 1618425,
+  "datasetSlugNullable": "motion-blurred-and-defocused-dataset",
+  "ownerUserNullable": "dataclusterlabs",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Motion Blurred and Defocused Dataset",
+  "subtitleNullable": "Real world blurred and noisy image dataset",
+  "descriptionNullable": "### **This sample dataset is collected by DataCluster Labs, India.**\n\n### To download full datasets or to submit a request for your dataset needs, please email on: sales@datacluster.ai\n\nThis dataset consists of blurred, noisy and defocused images.\n\n### **Introduction**\nDataset consists of blurred images captured using mobile phones in real-world scenario. Images were captured under wide variety of lighting conditions, weather, indoor and outdoor. This dataset can be used for Image De-noising, Deblurring and noise removal algorithms. This can be also work as robust test set for denoising algorithms.\n\n### **Dataset Features**\n- Captured by 3000+ unique users\n- Rich in diversity\n- Mobile phone view point\n- HD Resolution\n- Various lighting conditions\n- Indoor and Outdoor scene\n\n### **Dataset Features**\n- Classification and detection annotations available\n- Multiple category annotations possible\n- COCO, PASCAL VOC and YOLO formats\n\n**The images in this dataset are exclusively owned by Data Cluster Labs and were not downloaded from the internet. To access a larger portion of the training dataset for research and commercial purposes, a license can be purchased. Contact us at sales@datacluster.ai Visit www.datacluster.ai to know more.**    \n",
+  "datasetId": 1618425,
+  "datasetSlug": "motion-blurred-and-defocused-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "dataclusterlabs",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 4345,
+  "totalVotes": 6,
+  "totalDownloads": 274,
+  "title": "Motion Blurred and Defocused Dataset",
+  "hasTitle": true,
+  "subtitle": "Real world blurred and noisy image dataset",
+  "hasSubtitle": true,
+  "description": "### **This sample dataset is collected by DataCluster Labs, India.**\n\n### To download full datasets or to submit a request for your dataset needs, please email on: sales@datacluster.ai\n\nThis dataset consists of blurred, noisy and defocused images.\n\n### **Introduction**\nDataset consists of blurred images captured using mobile phones in real-world scenario. Images were captured under wide variety of lighting conditions, weather, indoor and outdoor. This dataset can be used for Image De-noising, Deblurring and noise removal algorithms. This can be also work as robust test set for denoising algorithms.\n\n### **Dataset Features**\n- Captured by 3000+ unique users\n- Rich in diversity\n- Mobile phone view point\n- HD Resolution\n- Various lighting conditions\n- Indoor and Outdoor scene\n\n### **Dataset Features**\n- Classification and detection annotations available\n- Multiple category annotations possible\n- COCO, PASCAL VOC and YOLO formats\n\n**The images in this dataset are exclusively owned by Data Cluster Labs and were not downloaded from the internet. To access a larger portion of the training dataset for research and commercial purposes, a license can be purchased. Contact us at sales@datacluster.ai Visit www.datacluster.ai to know more.**    \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "artificial intelligence",
+    "image",
+    "eyes and vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

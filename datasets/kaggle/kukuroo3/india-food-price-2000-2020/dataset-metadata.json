@@ -1,0 +1,43 @@
+{
+  "id": "kukuroo3/india-food-price-2000-2020",
+  "id_no": 1904193,
+  "datasetSlugNullable": "india-food-price-2000-2020",
+  "ownerUserNullable": "kukuroo3",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "India Food Price (2000 - 2020)",
+  "subtitleNullable": "Predict 2019-2020 Onions Price",
+  "descriptionNullable": "## Datasets\nThis dataset is data showing the price of 7 food ingredients in India as a time series.      \nIt represents the monthly price (INR unit) from 2000 to 2020.\n\n## Problem\nThe problem to be solved is to predict the onion price from 2019.      \nI have added the correct answer to \"result.csv\" separately.\n\nsource : [link](https://data.world/wfp/dc663585-4b6f-46ae-a6d6-b2f3e4ea32b5) and post-processing of Data",
+  "datasetId": 1904193,
+  "datasetSlug": "india-food-price-2000-2020",
+  "hasDatasetSlug": true,
+  "ownerUser": "kukuroo3",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 8093,
+  "totalVotes": 59,
+  "totalDownloads": 1028,
+  "title": "India Food Price (2000 - 2020)",
+  "hasTitle": true,
+  "subtitle": "Predict 2019-2020 Onions Price",
+  "hasSubtitle": true,
+  "description": "## Datasets\nThis dataset is data showing the price of 7 food ingredients in India as a time series.      \nIt represents the monthly price (INR unit) from 2000 to 2020.\n\n## Problem\nThe problem to be solved is to predict the onion price from 2019.      \nI have added the correct answer to \"result.csv\" separately.\n\nsource : [link](https://data.world/wfp/dc663585-4b6f-46ae-a6d6-b2f3e4ea32b5) and post-processing of Data",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "time series analysis",
+    "logistic regression",
+    "regression",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "eddardd/continuous-stirred-tank-reactor-domain-adaptation",
+  "id_no": 3074934,
+  "datasetSlugNullable": "continuous-stirred-tank-reactor-domain-adaptation",
+  "ownerUserNullable": "eddardd",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "CSTR Domain Adaptation and Fault Diagnosis",
+  "subtitleNullable": "Cross-Domain Fault Diagnosis for a Continuous Stirred Tank Reactor process",
+  "descriptionNullable": "# Context\n\nFault Diagnosis is a cornerstone in modern statistical process control, allowing computers to automatically determine which type of fault has occurred from measured signals.\n\nThis datasets contains a set of simulations of a known benchmark in the fault diagnosis for chemical processes community, i.e., the Continuous Stirred Tank Reactor. This system carries an exothermic reaction A -&gt; B, and a feedback loop for controlling the reactor's temperature. There are 7 measured variables,\n\n* Concentration of A in the inlet flow,\n* Temperature of the inlet flow,\n* Temperature of the inlet coolant flow,\n* Coolant flow-rate,\n* Concentration of B in the outlet flow,\n* Temperature of the outlet flow,\n* Temperature of the outlet coolant flow.\n\nThe goal is to predict a set of 12 faults from these 7 variables, measured throughout 200 minutes, at a 1 minute rate. Further description of the considered faults is included in Chapter 5 of [1] and [2].\n\n## Domain Adaptation Scenario\n\nAs described in [1, 2, 3], the CSTR system can be used as a simple study-case of domain adaptation. Indeed, the system is simple enough so that a set of ordinary differential equations represent the system accurately. These equations depend on a series of parameters (i.e. reactor volume, reaction speed, fluid density) that may change from one application to another. These are described in Chapter 5 of [1].\n\nThe domain adaptation scenario is as follows. A source domain is generated through a fixed set of parameters (described in Table 5.1. of [2]). We generate 6 domains, by varying the reaction order N within values [1.0, 1.5, 2.0], and introducing a random noise (10, 15 and 20%) in the parameters. This scenario is described in detail by [1, 2].\n\n## Citation\n\nIf you find this dataset useful in your research, please consider citing,\n\n```\n@phdthesis{montesuma2021,\n    author       = {Eduardo Fernandes Montesuma}, \n    title        = {Cross-Domain Fault Diagnosis through Optimal Transport},\n    school       = {Universidade Federal do Cear\u00e1},\n    year         = 2021,\n    type         = {Bachelor's Thesis}\n}  \n```\n\nand\n\n```\n@article{montesuma2022cross,\n  title={Cross-domain fault diagnosis through optimal transport for a CSTR process},\n  author={Montesuma, Eduardo Fernandes and Mulas, Michela and Corona, Francesco and Mboula, Fred Maurice Ngole},\n  journal={IFAC-PapersOnLine},\n  volume={55},\n  number={7},\n  pages={946--951},\n  year={2022},\n  publisher={Elsevier}\n}\n```\n\n## References\n\n[1] Montesuma, E., 2021. Cross-Domain Fault Diagnosis through Optimal Transport. Bachelor dissertation. Universidade Federal do Cear\u00e1.\n\n[2] Montesuma, E. F., Mulas, M., Corona, F., & Mboula, F. M. N. (2022). Cross-domain fault diagnosis through optimal transport for a CSTR process. IFAC-PapersOnLine, 55(7), 946-951.\n\n[3] Li, W., Gu, S., Zhang, X., Chen, T., 2020. Transfer learning for process fault diagnosis: Knowledge transfer from simulation to physical processes. Computers & Chemical Engineering , 106904.\n\n## See Also\n\nImplementations of algorithms and further description about this dataset can be found at this [Github Repository](https://github.com/eddardd/CrossDomainFaultDiagnosis)",
+  "datasetId": 3074934,
+  "datasetSlug": "continuous-stirred-tank-reactor-domain-adaptation",
+  "hasDatasetSlug": true,
+  "ownerUser": "eddardd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2655,
+  "totalVotes": 16,
+  "totalDownloads": 361,
+  "title": "CSTR Domain Adaptation and Fault Diagnosis",
+  "hasTitle": true,
+  "subtitle": "Cross-Domain Fault Diagnosis for a Continuous Stirred Tank Reactor process",
+  "hasSubtitle": true,
+  "description": "# Context\n\nFault Diagnosis is a cornerstone in modern statistical process control, allowing computers to automatically determine which type of fault has occurred from measured signals.\n\nThis datasets contains a set of simulations of a known benchmark in the fault diagnosis for chemical processes community, i.e., the Continuous Stirred Tank Reactor. This system carries an exothermic reaction A -&gt; B, and a feedback loop for controlling the reactor's temperature. There are 7 measured variables,\n\n* Concentration of A in the inlet flow,\n* Temperature of the inlet flow,\n* Temperature of the inlet coolant flow,\n* Coolant flow-rate,\n* Concentration of B in the outlet flow,\n* Temperature of the outlet flow,\n* Temperature of the outlet coolant flow.\n\nThe goal is to predict a set of 12 faults from these 7 variables, measured throughout 200 minutes, at a 1 minute rate. Further description of the considered faults is included in Chapter 5 of [1] and [2].\n\n## Domain Adaptation Scenario\n\nAs described in [1, 2, 3], the CSTR system can be used as a simple study-case of domain adaptation. Indeed, the system is simple enough so that a set of ordinary differential equations represent the system accurately. These equations depend on a series of parameters (i.e. reactor volume, reaction speed, fluid density) that may change from one application to another. These are described in Chapter 5 of [1].\n\nThe domain adaptation scenario is as follows. A source domain is generated through a fixed set of parameters (described in Table 5.1. of [2]). We generate 6 domains, by varying the reaction order N within values [1.0, 1.5, 2.0], and introducing a random noise (10, 15 and 20%) in the parameters. This scenario is described in detail by [1, 2].\n\n## Citation\n\nIf you find this dataset useful in your research, please consider citing,\n\n```\n@phdthesis{montesuma2021,\n    author       = {Eduardo Fernandes Montesuma}, \n    title        = {Cross-Domain Fault Diagnosis through Optimal Transport},\n    school       = {Universidade Federal do Cear\u00e1},\n    year         = 2021,\n    type         = {Bachelor's Thesis}\n}  \n```\n\nand\n\n```\n@article{montesuma2022cross,\n  title={Cross-domain fault diagnosis through optimal transport for a CSTR process},\n  author={Montesuma, Eduardo Fernandes and Mulas, Michela and Corona, Francesco and Mboula, Fred Maurice Ngole},\n  journal={IFAC-PapersOnLine},\n  volume={55},\n  number={7},\n  pages={946--951},\n  year={2022},\n  publisher={Elsevier}\n}\n```\n\n## References\n\n[1] Montesuma, E., 2021. Cross-Domain Fault Diagnosis through Optimal Transport. Bachelor dissertation. Universidade Federal do Cear\u00e1.\n\n[2] Montesuma, E. F., Mulas, M., Corona, F., & Mboula, F. M. N. (2022). Cross-domain fault diagnosis through optimal transport for a CSTR process. IFAC-PapersOnLine, 55(7), 946-951.\n\n[3] Li, W., Gu, S., Zhang, X., Chen, T., 2020. Transfer learning for process fault diagnosis: Knowledge transfer from simulation to physical processes. Computers & Chemical Engineering , 106904.\n\n## See Also\n\nImplementations of algorithms and further description about this dataset can be found at this [Github Repository](https://github.com/eddardd/CrossDomainFaultDiagnosis)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "chemistry",
+    "computer science",
+    "time series analysis",
+    "classification",
+    "transfer learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

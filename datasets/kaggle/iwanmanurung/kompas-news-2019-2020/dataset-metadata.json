@@ -1,0 +1,39 @@
+{
+  "id": "iwanmanurung/kompas-news-2019-2020",
+  "id_no": 718968,
+  "datasetSlugNullable": "kompas-news-2019-2020",
+  "ownerUserNullable": "iwanmanurung",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Kompas news 2019 - 2020",
+  "subtitleNullable": "Kompas.com Scrapped daily posted news from 1 Jan 2019 to 31 May 2020",
+  "descriptionNullable": "### Context\n\nThe dataset contains news information posted on https://indeks.kompas.com/. Started from Jan 2019 until May 2020 \n\n\n### Content\n\nDataset scrapped from the website and compile all together so it easy to understand\nDate : the date which news posted\nURL : news URL from the index page\nlive_url : the redirected url\ntitle : the title of the news\nnews : the content of the news\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered? ",
+  "datasetId": 718968,
+  "datasetSlug": "kompas-news-2019-2020",
+  "hasDatasetSlug": true,
+  "ownerUser": "iwanmanurung",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 1942,
+  "totalVotes": 2,
+  "totalDownloads": 39,
+  "title": "Kompas news 2019 - 2020",
+  "hasTitle": true,
+  "subtitle": "Kompas.com Scrapped daily posted news from 1 Jan 2019 to 31 May 2020",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe dataset contains news information posted on https://indeks.kompas.com/. Started from Jan 2019 until May 2020 \n\n\n### Content\n\nDataset scrapped from the website and compile all together so it easy to understand\nDate : the date which news posted\nURL : news URL from the index page\nlive_url : the redirected url\ntitle : the title of the news\nnews : the content of the news\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered? ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

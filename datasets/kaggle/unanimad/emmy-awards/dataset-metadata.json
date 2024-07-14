@@ -1,0 +1,40 @@
+{
+  "id": "unanimad/emmy-awards",
+  "id_no": 457675,
+  "datasetSlugNullable": "emmy-awards",
+  "ownerUserNullable": "unanimad",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Emmy Awards",
+  "subtitleNullable": "Television Academy - Emmy Awards, 1949 - 2019",
+  "descriptionNullable": "[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/unanimad/)\n\n# About\nAn [Emmy Award](https://en.wikipedia.org/wiki/Emmy_Award), or simply Emmy, is an American award that recognizes excellence in the television industry. It is presented at numerous annual events held throughout the calendar year, each honoring one of the various sectors of the television industry. The two ceremonies that receive the most media coverage are the Primetime Emmy Awards and the Daytime Emmy Awards, which recognize outstanding work in American primetime and daytime entertainment programming, respectively. Other notable Emmy events include those honoring national sports programming, national news and documentary shows, and technological and engineering achievements in television, including the Primetime Engineering Emmy Awards. Regional Emmy Awards are also presented throughout the country at various times through the year, recognizing excellence in local and statewide television. In addition, the International Emmy Awards honor excellence in TV programming produced and initially aired outside the United States.\n\n---\n\n## Method\n\nThe data were extracted from [Awards' list page](https://www.emmys.com/).\n\n---\n\n# Inspiration\n\n1. Which nominee has received the most awards overall or in a single year?\n2. Which work has received the most awards in a event?\n3. Which country received the most awards at a ceremony and overall?",
+  "datasetId": 457675,
+  "datasetSlug": "emmy-awards",
+  "hasDatasetSlug": true,
+  "ownerUser": "unanimad",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8136,
+  "totalVotes": 11,
+  "totalDownloads": 512,
+  "title": "Emmy Awards",
+  "hasTitle": true,
+  "subtitle": "Television Academy - Emmy Awards, 1949 - 2019",
+  "hasSubtitle": true,
+  "description": "[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/unanimad/)\n\n# About\nAn [Emmy Award](https://en.wikipedia.org/wiki/Emmy_Award), or simply Emmy, is an American award that recognizes excellence in the television industry. It is presented at numerous annual events held throughout the calendar year, each honoring one of the various sectors of the television industry. The two ceremonies that receive the most media coverage are the Primetime Emmy Awards and the Daytime Emmy Awards, which recognize outstanding work in American primetime and daytime entertainment programming, respectively. Other notable Emmy events include those honoring national sports programming, national news and documentary shows, and technological and engineering achievements in television, including the Primetime Engineering Emmy Awards. Regional Emmy Awards are also presented throughout the country at various times through the year, recognizing excellence in local and statewide television. In addition, the International Emmy Awards honor excellence in TV programming produced and initially aired outside the United States.\n\n---\n\n## Method\n\nThe data were extracted from [Awards' list page](https://www.emmys.com/).\n\n---\n\n# Inspiration\n\n1. Which nominee has received the most awards overall or in a single year?\n2. Which work has received the most awards in a event?\n3. Which country received the most awards at a ceremony and overall?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

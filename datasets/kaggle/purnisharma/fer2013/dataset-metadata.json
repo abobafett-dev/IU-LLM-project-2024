@@ -1,0 +1,39 @@
+{
+  "id": "purnisharma/fer2013",
+  "id_no": 4353292,
+  "datasetSlugNullable": "fer2013",
+  "ownerUserNullable": "purnisharma",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "fer2013",
+  "subtitleNullable": "Facial Emotion Detection ",
+  "descriptionNullable": "The data consists of 48x48 pixel grayscale images of faces. The faces have been automatically registered so that the face is more or less centred and occupies about the same amount of space in each image.\n\nThe task is to categorize each face based on the emotion shown in the facial expression into one of seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral). The training set consists of 28,709 examples and the public test set consists of 3,589 examples.",
+  "datasetId": 4353292,
+  "datasetSlug": "fer2013",
+  "hasDatasetSlug": true,
+  "ownerUser": "purnisharma",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 87,
+  "totalVotes": 1,
+  "totalDownloads": 14,
+  "title": "fer2013",
+  "hasTitle": true,
+  "subtitle": "Facial Emotion Detection ",
+  "hasSubtitle": true,
+  "description": "The data consists of 48x48 pixel grayscale images of faces. The faces have been automatically registered so that the face is more or less centred and occupies about the same amount of space in each image.\n\nThe task is to categorize each face based on the emotion shown in the facial expression into one of seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral). The training set consists of 28,709 examples and the public test set consists of 3,589 examples.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

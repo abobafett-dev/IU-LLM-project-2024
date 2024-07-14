@@ -1,0 +1,43 @@
+{
+  "id": "bpkapkar/health-prescription-data",
+  "id_no": 1292803,
+  "datasetSlugNullable": "health-prescription-data",
+  "ownerUserNullable": "bpkapkar",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Health Prescription data",
+  "subtitleNullable": "Health Prescription data",
+  "descriptionNullable": "NLP Task\nThe goal of this task is to examine your skills in implementing NLP and machine learning algorithms, team working and communication, report writing, and presentation. In this assignment, a dataset of \u2018clinical notes\u2019 is provided. The clinical notes are available in the \u2018TEXT\u2019 field. We would expect you:\n 1) extract meaningful sentences from the \u2018TEXT\u2019 field by using the Spacy library, and then \n2) classify the sentences by using \u2018zero-shot learner.\n\nTherefore, you have to provide these outputs. The Python code in which the requested algorithm is implemented. ",
+  "datasetId": 1292803,
+  "datasetSlug": "health-prescription-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "bpkapkar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 3275,
+  "totalVotes": 7,
+  "totalDownloads": 262,
+  "title": "Health Prescription data",
+  "hasTitle": true,
+  "subtitle": "Health Prescription data",
+  "hasSubtitle": true,
+  "description": "NLP Task\nThe goal of this task is to examine your skills in implementing NLP and machine learning algorithms, team working and communication, report writing, and presentation. In this assignment, a dataset of \u2018clinical notes\u2019 is provided. The clinical notes are available in the \u2018TEXT\u2019 field. We would expect you:\n 1) extract meaningful sentences from the \u2018TEXT\u2019 field by using the Spacy library, and then \n2) classify the sentences by using \u2018zero-shot learner.\n\nTherefore, you have to provide these outputs. The Python code in which the requested algorithm is implemented. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "healthcare",
+    "public health",
+    "health",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

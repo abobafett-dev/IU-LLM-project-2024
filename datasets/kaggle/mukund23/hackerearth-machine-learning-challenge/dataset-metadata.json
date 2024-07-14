@@ -1,0 +1,43 @@
+{
+  "id": "mukund23/hackerearth-machine-learning-challenge",
+  "id_no": 1375471,
+  "datasetSlugNullable": "hackerearth-machine-learning-challenge",
+  "ownerUserNullable": "mukund23",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Hackerearth Machine Learning Challenge",
+  "subtitleNullable": "Predict the Power(Kw/h) produced by Windmills",
+  "descriptionNullable": "### Context\n\nIt is the year 2021 and we are at the verge of a massive climatic change. With global warming at its peak and fossil fuels inching towards its extinction, it is the need of the hour to step up and take responsibility for our planet. Developing countries all over the world are making a shift towards a cleaner energy source and are looking at ways to expand their global energy source power. \n\nSwitching to renewable energy sources is a great way to reduce dependency on imported fuels and increase cost efficiency. It is time we move towards a low-carbon future by embracing solar, hydro, geothermal energy and so on, to protect mother nature.\n\nAn efficient energy source that has been gaining popularity around the world is wind turbines. Wind turbines generate power by capturing the kinetic energy of the wind. Factors such as temperature, wind direction, turbine status, weather, blade length, and so on influence the amount of power generated.\n\n### Task\n\nYou are appointed by an environmentalist for their Non Government Organization as a climate warrior who comes to the rescue. Your task is to build a sophisticated Machine Learning model that predicts the power that is generated (in KW/h) based on the various features provided in the dataset.\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 1375471,
+  "datasetSlug": "hackerearth-machine-learning-challenge",
+  "hasDatasetSlug": true,
+  "ownerUser": "mukund23",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 3159,
+  "totalVotes": 7,
+  "totalDownloads": 216,
+  "title": "Hackerearth Machine Learning Challenge",
+  "hasTitle": true,
+  "subtitle": "Predict the Power(Kw/h) produced by Windmills",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIt is the year 2021 and we are at the verge of a massive climatic change. With global warming at its peak and fossil fuels inching towards its extinction, it is the need of the hour to step up and take responsibility for our planet. Developing countries all over the world are making a shift towards a cleaner energy source and are looking at ways to expand their global energy source power. \n\nSwitching to renewable energy sources is a great way to reduce dependency on imported fuels and increase cost efficiency. It is time we move towards a low-carbon future by embracing solar, hydro, geothermal energy and so on, to protect mother nature.\n\nAn efficient energy source that has been gaining popularity around the world is wind turbines. Wind turbines generate power by capturing the kinetic energy of the wind. Factors such as temperature, wind direction, turbine status, weather, blade length, and so on influence the amount of power generated.\n\n### Task\n\nYou are appointed by an environmentalist for their Non Government Organization as a climate warrior who comes to the rescue. Your task is to build a sophisticated Machine Learning model that predicts the power that is generated (in KW/h) based on the various features provided in the dataset.\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "energy",
+    "renewable energy",
+    "intermediate",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "andycheung0211/forbes-ai50-2022",
+  "id_no": 2163212,
+  "datasetSlugNullable": "forbes-ai50-2022",
+  "ownerUserNullable": "andycheung0211",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Forbes AI50 2022",
+  "subtitleNullable": "The fourth annual Forbes AI 50 list 2022",
+  "descriptionNullable": "# About dataset\n\n## Data source\nThis dataset is from [Forbes AI 50 2022](https://www.forbes.com/lists/ai50/?sh=6702a2aa290f)\n\n## Features\n\n1. NAME =&gt; Name of the company\n2. INDUSTRY =&gt; which can be one of the following industry type: AI infrastructure, Agriculture, Biotech, Construction, Consumer Technology, Customer Service, Cybersecurity, Data Science, Education, Employee Support, Environment and Energy, Financial Services, Healthcare, Media and entertainment, Pharmaceutical, Retail, Sales and Marketing and Transportation and Logistics.\n3. FUNDING =&gt; among of funding in Millions dollars\n4. HEADQUARTERS =&gt; location of head quarter of the company\n5. CEO =&gt; name of the CEO of the company",
+  "datasetId": 2163212,
+  "datasetSlug": "forbes-ai50-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "andycheung0211",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 1958,
+  "totalVotes": 4,
+  "totalDownloads": 170,
+  "title": "Forbes AI50 2022",
+  "hasTitle": true,
+  "subtitle": "The fourth annual Forbes AI 50 list 2022",
+  "hasSubtitle": true,
+  "description": "# About dataset\n\n## Data source\nThis dataset is from [Forbes AI 50 2022](https://www.forbes.com/lists/ai50/?sh=6702a2aa290f)\n\n## Features\n\n1. NAME =&gt; Name of the company\n2. INDUSTRY =&gt; which can be one of the following industry type: AI infrastructure, Agriculture, Biotech, Construction, Consumer Technology, Customer Service, Cybersecurity, Data Science, Education, Employee Support, Environment and Energy, Financial Services, Healthcare, Media and entertainment, Pharmaceutical, Retail, Sales and Marketing and Transportation and Logistics.\n3. FUNDING =&gt; among of funding in Millions dollars\n4. HEADQUARTERS =&gt; location of head quarter of the company\n5. CEO =&gt; name of the CEO of the company",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "abuchionwuegbusi/recipe-reviews-and-user-feedback",
+  "id_no": 5022227,
+  "datasetSlugNullable": "recipe-reviews-and-user-feedback",
+  "ownerUserNullable": "abuchionwuegbusi",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Recipe Reviews and User Feedback",
+  "subtitleNullable": "It offers a window into the dynamics of recipe reviews and user feedbacks.",
+  "descriptionNullable": "**Description:**\nThe \"Recipe Reviews and User Feedback Dataset\" is a comprehensive repository of data encompassing various aspects of recipe reviews and user interactions. \nIt includes essential information such as the recipe name, its ranking on the top 100 recipes list, a unique recipe code, and user details like user ID, user name, and an internal user reputation score. Each review comment is uniquely identified with a comment ID and comes with additional attributes, including the creation timestamp, reply count, and the number of up-votes and down-votes received. Users' sentiment towards recipes is quantified on a 1 to 5 star rating scale, with a score of 0 denoting an absence of rating. \n\nThis dataset is a valuable resource for researchers and data scientists, facilitating endeavors in sentiment analysis, user behavior analysis, recipe recommendation systems, and more. It offers a window into the dynamics of recipe reviews and user feedback within the culinary website domain.\n\n\n**Dataset Characteristics:** Tabular, Other.\n\n**Feature Type:** Real, Categorical, Integer.\n\n**#Features:** 15.\n\n**#Instances:** 18182.\n\n**Associated Tasks:** Classification, Other.\n\n\n**Has Missing Values?:** Yes \n\n\n\n**Variables:**\n\n**num_records:**  Integer:\tnumber of records.\n**recipe_number:** Integer:\tplacement of the recipe on the top 100 recipes list.\n**recipe_code:**\tInteger:\tunique id of the recipe used by the site.\n**recipe_name:**\tCategorical:\tname of the recipe the comment was posted on.\n**comment_id:**\tCategorical,\tunique id of the comment.\n**user_id:**\tCategorical:\tunique id of the user who left the comment.\n**user_name:**\tCategorical,\tname of the user.\n**user_reputation:**\tInteger:\tinternal score of the site, roughly roughly quantifying the past behaviour of the user.\n**created_at:**\tInteger:\ttime at which the comment was posted as unix timestamp.\n**reply_count:**\tInteger:\tnumber of replies to the comment.\n**thumbs_up:**\tInteger,\tnumber of up-votes the comment has received.\n**thumbs_down:**\tInteger,\tnumber of down-votes the comment has received.\n**stars:**\tInteger:  the score on a 1 to 5 scale that the user gave to the recipe. A score of 0 means that no score was given.\n**best_score:**\tInteger:\tscore of the comment, likely used by the site the help determine the order the comments appear in.\n**text:**\tCategorical:\tthe text content of the comment.",
+  "datasetId": 5022227,
+  "datasetSlug": "recipe-reviews-and-user-feedback",
+  "hasDatasetSlug": true,
+  "ownerUser": "abuchionwuegbusi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 52,
+  "totalVotes": 2,
+  "totalDownloads": 7,
+  "title": "Recipe Reviews and User Feedback",
+  "hasTitle": true,
+  "subtitle": "It offers a window into the dynamics of recipe reviews and user feedbacks.",
+  "hasSubtitle": true,
+  "description": "**Description:**\nThe \"Recipe Reviews and User Feedback Dataset\" is a comprehensive repository of data encompassing various aspects of recipe reviews and user interactions. \nIt includes essential information such as the recipe name, its ranking on the top 100 recipes list, a unique recipe code, and user details like user ID, user name, and an internal user reputation score. Each review comment is uniquely identified with a comment ID and comes with additional attributes, including the creation timestamp, reply count, and the number of up-votes and down-votes received. Users' sentiment towards recipes is quantified on a 1 to 5 star rating scale, with a score of 0 denoting an absence of rating. \n\nThis dataset is a valuable resource for researchers and data scientists, facilitating endeavors in sentiment analysis, user behavior analysis, recipe recommendation systems, and more. It offers a window into the dynamics of recipe reviews and user feedback within the culinary website domain.\n\n\n**Dataset Characteristics:** Tabular, Other.\n\n**Feature Type:** Real, Categorical, Integer.\n\n**#Features:** 15.\n\n**#Instances:** 18182.\n\n**Associated Tasks:** Classification, Other.\n\n\n**Has Missing Values?:** Yes \n\n\n\n**Variables:**\n\n**num_records:**  Integer:\tnumber of records.\n**recipe_number:** Integer:\tplacement of the recipe on the top 100 recipes list.\n**recipe_code:**\tInteger:\tunique id of the recipe used by the site.\n**recipe_name:**\tCategorical:\tname of the recipe the comment was posted on.\n**comment_id:**\tCategorical,\tunique id of the comment.\n**user_id:**\tCategorical:\tunique id of the user who left the comment.\n**user_name:**\tCategorical,\tname of the user.\n**user_reputation:**\tInteger:\tinternal score of the site, roughly roughly quantifying the past behaviour of the user.\n**created_at:**\tInteger:\ttime at which the comment was posted as unix timestamp.\n**reply_count:**\tInteger:\tnumber of replies to the comment.\n**thumbs_up:**\tInteger,\tnumber of up-votes the comment has received.\n**thumbs_down:**\tInteger,\tnumber of down-votes the comment has received.\n**stars:**\tInteger:  the score on a 1 to 5 scale that the user gave to the recipe. A score of 0 means that no score was given.\n**best_score:**\tInteger:\tscore of the comment, likely used by the site the help determine the order the comments appear in.\n**text:**\tCategorical:\tthe text content of the comment.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cooking and recipes"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

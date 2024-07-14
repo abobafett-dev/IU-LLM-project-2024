@@ -1,0 +1,43 @@
+{
+  "id": "matejkore/dezinfo-sk-fake-news-dataset",
+  "id_no": 3068620,
+  "datasetSlugNullable": "dezinfo-sk-fake-news-dataset",
+  "ownerUserNullable": "matejkore",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Dezinfo SK - Fake News Dataset",
+  "subtitleNullable": "Slovak language fake and real news dataset",
+  "descriptionNullable": "Dataset bol vytvoren\u00fd ako s\u00fa\u010das\u0165 bakal\u00e1rskej pr\u00e1ce. Z\u00e1mienkou na jeho vytvorenie bol nedostatok verejne pr\u00edstupn\u00fdch d\u00e1t pre klasifik\u00e1ciu textu v slovenskom jazyku. Taktie\u017e sl\u00fa\u017ei ako demon\u0161tr\u00e1cia robustnosti modelov vyu\u017e\u00edvan\u00fdch na tento \u00fakon v zmysle mo\u017enosti vyu\u017eitia in\u00fdch jazykov. Dataset svojou rozsiahlos\u0165ou nekonkuruje t\u00fdm anglick\u00fdm, av\u0161ak bol vytvoren\u00fd manu\u00e1lne so z\u00e1ujmom zachovania objektivity d\u00e1t a taktie\u017e ich vecnosti. Je mo\u017en\u00e9 ho vo\u013ene pou\u017e\u00edva\u0165 a tr\u00e9nova\u0165 na \u0148om vlastn\u00e9 modely.\n\nDataset was created as a part of a bachelor's thesis. The purpouse of its creation was tha lack of availale datasets in slovak language. It also serves as a demonstration of robustness for models used in this case as in the meaning of using various other languages. Dataset with it's vastness can not compete against those in english, however, it was created manually with the intention to sustain objectivity and it's overall meaningfulness. It is available online to be used for model training for free  ",
+  "datasetId": 3068620,
+  "datasetSlug": "dezinfo-sk-fake-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "matejkore",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 741,
+  "totalVotes": 7,
+  "totalDownloads": 61,
+  "title": "Dezinfo SK - Fake News Dataset",
+  "hasTitle": true,
+  "subtitle": "Slovak language fake and real news dataset",
+  "hasSubtitle": true,
+  "description": "Dataset bol vytvoren\u00fd ako s\u00fa\u010das\u0165 bakal\u00e1rskej pr\u00e1ce. Z\u00e1mienkou na jeho vytvorenie bol nedostatok verejne pr\u00edstupn\u00fdch d\u00e1t pre klasifik\u00e1ciu textu v slovenskom jazyku. Taktie\u017e sl\u00fa\u017ei ako demon\u0161tr\u00e1cia robustnosti modelov vyu\u017e\u00edvan\u00fdch na tento \u00fakon v zmysle mo\u017enosti vyu\u017eitia in\u00fdch jazykov. Dataset svojou rozsiahlos\u0165ou nekonkuruje t\u00fdm anglick\u00fdm, av\u0161ak bol vytvoren\u00fd manu\u00e1lne so z\u00e1ujmom zachovania objektivity d\u00e1t a taktie\u017e ich vecnosti. Je mo\u017en\u00e9 ho vo\u013ene pou\u017e\u00edva\u0165 a tr\u00e9nova\u0165 na \u0148om vlastn\u00e9 modely.\n\nDataset was created as a part of a bachelor's thesis. The purpouse of its creation was tha lack of availale datasets in slovak language. It also serves as a demonstration of robustness for models used in this case as in the meaning of using various other languages. Dataset with it's vastness can not compete against those in english, however, it was created manually with the intention to sustain objectivity and it's overall meaningfulness. It is available online to be used for model training for free  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "classification",
+    "text",
+    "news",
+    "slovak"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

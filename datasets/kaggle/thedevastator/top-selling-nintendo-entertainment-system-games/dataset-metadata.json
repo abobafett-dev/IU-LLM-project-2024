@@ -1,0 +1,41 @@
+{
+  "id": "thedevastator/top-selling-nintendo-entertainment-system-games",
+  "id_no": 2627212,
+  "datasetSlugNullable": "top-selling-nintendo-entertainment-system-games",
+  "ownerUserNullable": "thedevastator",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Nintendo Entertainment System Games",
+  "subtitleNullable": "Games released for the NES system",
+  "descriptionNullable": "# Nintendo Entertainment System Games\n### Games released for the NES system\n_____\n\n### About this dataset\n\n### How to use the dataset\n&gt; There are a few ways that you can use this dataset:\n&gt; - Use it to find out which Nintendo Entertainment System games were the top sellers of all time.\n&gt; - Find out which games were cancelle, and when they were cancelle.\n&gt; - Study who the developers and publishers were for each game\n\n### Research Ideas\n&gt; - Use the data to predict future sales of Nintendo Entertainment System games\n&gt; - Use the data to analyze which developers and publishers are most successful in terms of game sales\n&gt; - Use the data to study how cancellin a game affects its sales\n\n### Acknowledgements\n&gt; \n&gt; \n&gt; ### License\n&gt; \n&gt; \n&gt; &gt; **License: [CC0 1.0 Universal (CC0 1.0) - Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)**\n&gt; &gt; No Copyright - You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. [See Other Information](https://creativecommons.org/publicdomain/zero/1.0/).\n\n### Columns\n\n**File: df_1.csv**\n| Column name        | Description                               |\n|:-------------------|:------------------------------------------|\n| **Developer(s)**   | The game's developer. (String)            |\n| **Release date**   | The game's release date. (Date)           |\n| **Release date.1** | The game's alternate release date. (Date) |\n\n_____\n\n**File: df_4.csv**\n| Column name           | Description                                            |\n|:----------------------|:-------------------------------------------------------|\n| **Title(s)**          | The title of the game. (String)                        |\n| **Cancellation date** | The date the game was cancelled, if applicable. (Date) |\n| **Developer**         | The developer of the game. (String)                    |\n| **Publisher**         | The publisher of the game. (String)                    |\n\n_____\n\n**File: df_9.csv**\n\n_____\n\n**File: df_3.csv**\n\n_____\n\n**File: df_2.csv**\n| Column name      | Description                     |\n|:-----------------|:--------------------------------|\n| **Developer(s)** | The game's developer. (String)  |\n| **Release date** | The game's release date. (Date) |\n| **Title**        | The game's title. (String)      |\n\n_____\n\n**File: df_6.csv**\n\n_____\n\n**File: df_7.csv**\n\n_____\n\n**File: df_8.csv**\n| Column name   | Description   |\n|:--------------|:--------------|\n| **0**         |               |\n| **1**         |               |\n\n_____\n\n**File: df_5.csv**",
+  "datasetId": 2627212,
+  "datasetSlug": "top-selling-nintendo-entertainment-system-games",
+  "hasDatasetSlug": true,
+  "ownerUser": "thedevastator",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 7322,
+  "totalVotes": 28,
+  "totalDownloads": 946,
+  "title": "Nintendo Entertainment System Games",
+  "hasTitle": true,
+  "subtitle": "Games released for the NES system",
+  "hasSubtitle": true,
+  "description": "# Nintendo Entertainment System Games\n### Games released for the NES system\n_____\n\n### About this dataset\n\n### How to use the dataset\n&gt; There are a few ways that you can use this dataset:\n&gt; - Use it to find out which Nintendo Entertainment System games were the top sellers of all time.\n&gt; - Find out which games were cancelle, and when they were cancelle.\n&gt; - Study who the developers and publishers were for each game\n\n### Research Ideas\n&gt; - Use the data to predict future sales of Nintendo Entertainment System games\n&gt; - Use the data to analyze which developers and publishers are most successful in terms of game sales\n&gt; - Use the data to study how cancellin a game affects its sales\n\n### Acknowledgements\n&gt; \n&gt; \n&gt; ### License\n&gt; \n&gt; \n&gt; &gt; **License: [CC0 1.0 Universal (CC0 1.0) - Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)**\n&gt; &gt; No Copyright - You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. [See Other Information](https://creativecommons.org/publicdomain/zero/1.0/).\n\n### Columns\n\n**File: df_1.csv**\n| Column name        | Description                               |\n|:-------------------|:------------------------------------------|\n| **Developer(s)**   | The game's developer. (String)            |\n| **Release date**   | The game's release date. (Date)           |\n| **Release date.1** | The game's alternate release date. (Date) |\n\n_____\n\n**File: df_4.csv**\n| Column name           | Description                                            |\n|:----------------------|:-------------------------------------------------------|\n| **Title(s)**          | The title of the game. (String)                        |\n| **Cancellation date** | The date the game was cancelled, if applicable. (Date) |\n| **Developer**         | The developer of the game. (String)                    |\n| **Publisher**         | The publisher of the game. (String)                    |\n\n_____\n\n**File: df_9.csv**\n\n_____\n\n**File: df_3.csv**\n\n_____\n\n**File: df_2.csv**\n| Column name      | Description                     |\n|:-----------------|:--------------------------------|\n| **Developer(s)** | The game's developer. (String)  |\n| **Release date** | The game's release date. (Date) |\n| **Title**        | The game's title. (String)      |\n\n_____\n\n**File: df_6.csv**\n\n_____\n\n**File: df_7.csv**\n\n_____\n\n**File: df_8.csv**\n| Column name   | Description   |\n|:--------------|:--------------|\n| **0**         |               |\n| **1**         |               |\n\n_____\n\n**File: df_5.csv**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "movies and tv shows",
+    "video games"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

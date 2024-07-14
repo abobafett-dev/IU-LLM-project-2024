@@ -1,0 +1,39 @@
+{
+  "id": "zavidnikitamahbub/russian-economy-macroeconomic-data-2005-2021",
+  "id_no": 3171471,
+  "datasetSlugNullable": "russian-economy-macroeconomic-data-2005-2021",
+  "ownerUserNullable": "zavidnikitamahbub",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Macroeconomic data on the Russian economy",
+  "subtitleNullable": "Quarterly data from 2005Q1 till 2021Q4",
+  "descriptionNullable": "The dataset contains several macroeconomic time-series regarding the Russian economy. The time-series were collected from the [Russian Federal State Statistics Service](https://eng.rosstat.gov.ru/), the [Bank of Russia](https://www.cbr.ru/eng/statistics/) and [Federal Reserve Economic Data](https://fred.stlouisfed.org/). The time-series included in the dataset are:\n1. `Time`: 1-Jan-2005 = 1, every successive step in time represents one quarter\n2. `Date`: Quarterly dates from 1-Jan-2005 to 1-Oct-2021\n5. `GDP`: Quarterly nominal GDP in 2016 prices, excluding seasonal factor (bln RUB)\n6. `GDPgr`: Nominal GDP growth rate (Quarterly, %)\n7. `M0`: Base or high-powered money (bln RUB)\n8. `M0gr`: M0 growth rate (Quarterly, %)\n9. `BM`: M2 measure of money supply (bln RUB) \n10. `BMgr`: M2 growth rate (Quarterly, %)\n11. `Interest`:  90-day interbank rate (APR, %)\n12. `USDRUB`: USD/RUB exchange rate (RUB)\n12. `EURRUB`: EUR/RUB exchange rate (RUB)\n13. `Unemployment`: Unemployment rate (%)\n14. `PPI`: Domestic producer price index (index: 2015=100)\n15. `PPIgr`: Growth rate of producer price index (Quarterly, %)\n16. `OIL`: Spot prices of Brent per barrel (USD)\n17. `OILgr`: Growth rate of Brent prices (Quarterly, %)\n18. `WAGE`: Average monthly nominal wage rate (RUB)\n19. `WAGEgr`: Changes in nominal wage rate (Quarterly, %)\n3. `CPI`: Change in CPI as a ratio (End of quarter to end of previous quarter, %)\n4. `Inflation`: Percentage change in CPI, calculated as Relative CPI - 100 (Quarterly, %)\n\nThe data was used to in time-series regression modelling to explain the factors affecting inflation in Russia. Some other modelling ideas for the dataset are:\n1. Shift the focus from factor analysis to predicting future inflation\n2. Perform factor analyses of other key macroeconomic variables, such as the GDP growth rate, the unemployment rate or the interest rate\n\nDue to the low number of available observations because of quarterly sampling, this dataset is probably better suited to time-series econometric analysis rather than more modern machine learning methods.",
+  "datasetId": 3171471,
+  "datasetSlug": "russian-economy-macroeconomic-data-2005-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "zavidnikitamahbub",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1601,
+  "totalVotes": 4,
+  "totalDownloads": 265,
+  "title": "Macroeconomic data on the Russian economy",
+  "hasTitle": true,
+  "subtitle": "Quarterly data from 2005Q1 till 2021Q4",
+  "hasSubtitle": true,
+  "description": "The dataset contains several macroeconomic time-series regarding the Russian economy. The time-series were collected from the [Russian Federal State Statistics Service](https://eng.rosstat.gov.ru/), the [Bank of Russia](https://www.cbr.ru/eng/statistics/) and [Federal Reserve Economic Data](https://fred.stlouisfed.org/). The time-series included in the dataset are:\n1. `Time`: 1-Jan-2005 = 1, every successive step in time represents one quarter\n2. `Date`: Quarterly dates from 1-Jan-2005 to 1-Oct-2021\n5. `GDP`: Quarterly nominal GDP in 2016 prices, excluding seasonal factor (bln RUB)\n6. `GDPgr`: Nominal GDP growth rate (Quarterly, %)\n7. `M0`: Base or high-powered money (bln RUB)\n8. `M0gr`: M0 growth rate (Quarterly, %)\n9. `BM`: M2 measure of money supply (bln RUB) \n10. `BMgr`: M2 growth rate (Quarterly, %)\n11. `Interest`:  90-day interbank rate (APR, %)\n12. `USDRUB`: USD/RUB exchange rate (RUB)\n12. `EURRUB`: EUR/RUB exchange rate (RUB)\n13. `Unemployment`: Unemployment rate (%)\n14. `PPI`: Domestic producer price index (index: 2015=100)\n15. `PPIgr`: Growth rate of producer price index (Quarterly, %)\n16. `OIL`: Spot prices of Brent per barrel (USD)\n17. `OILgr`: Growth rate of Brent prices (Quarterly, %)\n18. `WAGE`: Average monthly nominal wage rate (RUB)\n19. `WAGEgr`: Changes in nominal wage rate (Quarterly, %)\n3. `CPI`: Change in CPI as a ratio (End of quarter to end of previous quarter, %)\n4. `Inflation`: Percentage change in CPI, calculated as Relative CPI - 100 (Quarterly, %)\n\nThe data was used to in time-series regression modelling to explain the factors affecting inflation in Russia. Some other modelling ideas for the dataset are:\n1. Shift the focus from factor analysis to predicting future inflation\n2. Perform factor analyses of other key macroeconomic variables, such as the GDP growth rate, the unemployment rate or the interest rate\n\nDue to the low number of available observations because of quarterly sampling, this dataset is probably better suited to time-series econometric analysis rather than more modern machine learning methods.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "economics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

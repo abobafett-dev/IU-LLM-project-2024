@@ -1,0 +1,42 @@
+{
+  "id": "amananandrai/complete-eeg-dataset",
+  "id_no": 1034180,
+  "datasetSlugNullable": "complete-eeg-dataset",
+  "ownerUserNullable": "amananandrai",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Complete EEG dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "\n# Introduction\nThe database contains EEG recordings of subjects before and during the performance of mental arithmetic tasks.\n\n# Method of Recording Signals\nThe EEGs were recorded monopolarly using Neurocom EEG 23-channel system (Ukraine, XAI-MEDICA). The silver/silver chloride electrodes were placed on the scalp according to the International 10/20 scheme. All electrodes were referenced to the interconnected ear reference electrodes.\n\nA high-pass filter with a 30 Hz cut-off frequency and a power line notch filter (50 Hz) were used. All recordings are artifact-free EEG segments of 60 seconds duration. At the stage of data preprocessing, the Independent Component Analysis (ICA) was used to eliminate the artifacts (eyes, muscle, and cardiac overlapping of the cardiac pulsation). The arithmetic task was the serial subtraction of two numbers. Each trial started with the communication orally 4-digit (minuend) and 2-digit (subtrahend) numbers (e.g. 3141 and 42).\n\n# Data Description\nThe data contains 36 csv files for each subject having 19 channels. It is converted from EDF to csv from the original data source.\nThe channels selected are Fp1, Fp2, F3, F4, F7, F8, T3,T4, C3, C4, T5, T6, P3, P4, O1, O2, Fz, Cz, Pz. These are the columns in the dataset.\n\n# Acknowledgements\n\nThe data is taken from the  following resources\n\nhttps://www.mdpi.com/2306-5729/4/1/14\n\nGoldberger, A., et al. \"PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215\u2013e220.\" (2000).\n\n",
+  "datasetId": 1034180,
+  "datasetSlug": "complete-eeg-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "amananandrai",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 21244,
+  "totalVotes": 23,
+  "totalDownloads": 2735,
+  "title": "Complete EEG dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "\n# Introduction\nThe database contains EEG recordings of subjects before and during the performance of mental arithmetic tasks.\n\n# Method of Recording Signals\nThe EEGs were recorded monopolarly using Neurocom EEG 23-channel system (Ukraine, XAI-MEDICA). The silver/silver chloride electrodes were placed on the scalp according to the International 10/20 scheme. All electrodes were referenced to the interconnected ear reference electrodes.\n\nA high-pass filter with a 30 Hz cut-off frequency and a power line notch filter (50 Hz) were used. All recordings are artifact-free EEG segments of 60 seconds duration. At the stage of data preprocessing, the Independent Component Analysis (ICA) was used to eliminate the artifacts (eyes, muscle, and cardiac overlapping of the cardiac pulsation). The arithmetic task was the serial subtraction of two numbers. Each trial started with the communication orally 4-digit (minuend) and 2-digit (subtrahend) numbers (e.g. 3141 and 42).\n\n# Data Description\nThe data contains 36 csv files for each subject having 19 channels. It is converted from EDF to csv from the original data source.\nThe channels selected are Fp1, Fp2, F3, F4, F7, F8, T3,T4, C3, C4, T5, T6, P3, P4, O1, O2, Fz, Cz, Pz. These are the columns in the dataset.\n\n# Acknowledgements\n\nThe data is taken from the  following resources\n\nhttps://www.mdpi.com/2306-5729/4/1/14\n\nGoldberger, A., et al. \"PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215\u2013e220.\" (2000).\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health and fitness",
+    "biology",
+    "neuroscience",
+    "health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dasanson/best-selling-manga-of-all-time",
+  "id_no": 4940066,
+  "datasetSlugNullable": "best-selling-manga-of-all-time",
+  "ownerUserNullable": "dasanson",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Best-Selling Manga of All Time",
+  "subtitleNullable": "This dataset shows the best-selling manga of all time as of today",
+  "descriptionNullable": "This dataset shows the best-selling manga of all time based on the total number of copies sold as of today, organized alphabetically. Only series with 20 million copies sold in total or more are included.\n\nThe Excel file includes filters for each column.\n\n**Column Description**\n\n- **Manga**: Name of the manga in English\n- **Japanese**: Name of the manga in Japanese\n- **Hepburn**: Hepburn romanization of the name in Japanese\n- **Author(s)**: Author(s) of the manga\n- **Demographic**: Target demographic of the manga\n- **Publisher**: Publisher of the manga\n- **N\u00b0 Volumes**: Number of collected volumes\n- **Total Sales (millions)**: Total sales in millions\n- **Average Sales per Volume (millions)**: Average sales per volume in millions\n- **Rating**: Rating according to MyAnimeList\n- **Start Year**: Year the manga was published\n- **End Year**: Year the manga ended\n- **Status**: Current status of the manga",
+  "datasetId": 4940066,
+  "datasetSlug": "best-selling-manga-of-all-time",
+  "hasDatasetSlug": true,
+  "ownerUser": "dasanson",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 123,
+  "totalVotes": 0,
+  "totalDownloads": 30,
+  "title": "Best-Selling Manga of All Time",
+  "hasTitle": true,
+  "subtitle": "This dataset shows the best-selling manga of all time as of today",
+  "hasSubtitle": true,
+  "description": "This dataset shows the best-selling manga of all time based on the total number of copies sold as of today, organized alphabetically. Only series with 20 million copies sold in total or more are included.\n\nThe Excel file includes filters for each column.\n\n**Column Description**\n\n- **Manga**: Name of the manga in English\n- **Japanese**: Name of the manga in Japanese\n- **Hepburn**: Hepburn romanization of the name in Japanese\n- **Author(s)**: Author(s) of the manga\n- **Demographic**: Target demographic of the manga\n- **Publisher**: Publisher of the manga\n- **N\u00b0 Volumes**: Number of collected volumes\n- **Total Sales (millions)**: Total sales in millions\n- **Average Sales per Volume (millions)**: Average sales per volume in millions\n- **Rating**: Rating according to MyAnimeList\n- **Start Year**: Year the manga was published\n- **End Year**: Year the manga ended\n- **Status**: Current status of the manga",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

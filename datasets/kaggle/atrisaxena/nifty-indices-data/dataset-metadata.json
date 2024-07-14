@@ -1,0 +1,41 @@
+{
+  "id": "atrisaxena/nifty-indices-data",
+  "id_no": 1897197,
+  "datasetSlugNullable": "nifty-indices-data",
+  "ownerUserNullable": "atrisaxena",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "NIFTY INDICES DATA Jan22",
+  "subtitleNullable": "Daily level historical dataset of major NIFTY indices",
+  "descriptionNullable": "### Context\n\nThe National Stock Exchange of India Limited (NSE) is the leading stock exchange of India, located in Mumbai. The NIFTY 50 index is National Stock Exchange of India's benchmark broad based stock market index for the Indian equity market.\n\n\n### Content\n\nThis dataset has day level information on major NIFTY indices starting from 01 January 2000.\n\nTwo new indices are added: \n- Nifty Private Bank\n- Nifty Oil&Gas\n\nEach file represents an index and has the following columns\n\nDate - date of observation\nOpen - open value of the index on that day\nHigh - highest value of the index on that day\nLow - lowest value of the index on that day\nClose - closing value of the index on that day\nVolume - volume of transaction\nTurnover - turn over\nP/E - price to earnings ratio\nP/B - price to book value\nDiv Yield - dividend yield\n\n### Acknowledgements\n\nThe data is obtained from [NSE website](https://www1.nseindia.com/) and updated from old dataset. \nhttps://www.kaggle.com/sudalairajkumar/nifty-indices-dataset\n\nPhoto credits: piqsels\n\n### Inspiration\n\nUse this data to predict future stock prices or analyze the trend.",
+  "datasetId": 1897197,
+  "datasetSlug": "nifty-indices-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "atrisaxena",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1571,
+  "totalVotes": 18,
+  "totalDownloads": 188,
+  "title": "NIFTY INDICES DATA Jan22",
+  "hasTitle": true,
+  "subtitle": "Daily level historical dataset of major NIFTY indices",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe National Stock Exchange of India Limited (NSE) is the leading stock exchange of India, located in Mumbai. The NIFTY 50 index is National Stock Exchange of India's benchmark broad based stock market index for the Indian equity market.\n\n\n### Content\n\nThis dataset has day level information on major NIFTY indices starting from 01 January 2000.\n\nTwo new indices are added: \n- Nifty Private Bank\n- Nifty Oil&Gas\n\nEach file represents an index and has the following columns\n\nDate - date of observation\nOpen - open value of the index on that day\nHigh - highest value of the index on that day\nLow - lowest value of the index on that day\nClose - closing value of the index on that day\nVolume - volume of transaction\nTurnover - turn over\nP/E - price to earnings ratio\nP/B - price to book value\nDiv Yield - dividend yield\n\n### Acknowledgements\n\nThe data is obtained from [NSE website](https://www1.nseindia.com/) and updated from old dataset. \nhttps://www.kaggle.com/sudalairajkumar/nifty-indices-dataset\n\nPhoto credits: piqsels\n\n### Inspiration\n\nUse this data to predict future stock prices or analyze the trend.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

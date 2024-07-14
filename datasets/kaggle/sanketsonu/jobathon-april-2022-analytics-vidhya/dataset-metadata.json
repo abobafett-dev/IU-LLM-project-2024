@@ -1,0 +1,40 @@
+{
+  "id": "sanketsonu/jobathon-april-2022-analytics-vidhya",
+  "id_no": 2112058,
+  "datasetSlugNullable": "jobathon-april-2022-analytics-vidhya",
+  "ownerUserNullable": "sanketsonu",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Forecast | AnalyticsVidhya | JOB-A-THON April 2022",
+  "subtitleNullable": "",
+  "descriptionNullable": "Demand Forecasting:\nCredits:\nThis is dataset is released as part of a hackathon conducted by Analytics Vidhya in April 2022.\nLink: https://datahack.analyticsvidhya.com/contest/job-a-thon-april-2022/#ProblemStatement\n\nCan you forecast the demand for car rentals on an hourly basis?\n\nProblem Statement\nABC is a car rental company based out of Bangalore. It rents cars for both in and outstations at affordable prices. The users can rent different types of cars like Sedans, Hatchbacks, SUVs and MUVs, Minivans, and so on.\n\nIn recent times, the demand for cars is on the rise. As a result, the company would like to tackle the problem of supply and demand. The ultimate goal of the company is to strike the balance between supply and demand in order to meet user expectations. \n\nThe company has collected the details of each rental. Based on the past data, the company would like to forecast the demand of c car rentals on an hourly basis. \n\nObjective\nThe main objective of the problem is to develop the machine learning approach to forecast the demand of car rentals on an hourly basis.\n\nData Dictionary\nYou are provided with 3 files - train.csv, test.csv, and sample_submission.csv\n\nTraining set\ntrain.csv contains the hourly demand for car rentals from August 2018 to February 2021.\n\nEvaluation metric\nThe evaluation metric for this hackathon is the RMSE score.",
+  "datasetId": 2112058,
+  "datasetSlug": "jobathon-april-2022-analytics-vidhya",
+  "hasDatasetSlug": true,
+  "ownerUser": "sanketsonu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 1067,
+  "totalVotes": 4,
+  "totalDownloads": 71,
+  "title": "Forecast | AnalyticsVidhya | JOB-A-THON April 2022",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Demand Forecasting:\nCredits:\nThis is dataset is released as part of a hackathon conducted by Analytics Vidhya in April 2022.\nLink: https://datahack.analyticsvidhya.com/contest/job-a-thon-april-2022/#ProblemStatement\n\nCan you forecast the demand for car rentals on an hourly basis?\n\nProblem Statement\nABC is a car rental company based out of Bangalore. It rents cars for both in and outstations at affordable prices. The users can rent different types of cars like Sedans, Hatchbacks, SUVs and MUVs, Minivans, and so on.\n\nIn recent times, the demand for cars is on the rise. As a result, the company would like to tackle the problem of supply and demand. The ultimate goal of the company is to strike the balance between supply and demand in order to meet user expectations. \n\nThe company has collected the details of each rental. Based on the past data, the company would like to forecast the demand of c car rentals on an hourly basis. \n\nObjective\nThe main objective of the problem is to develop the machine learning approach to forecast the demand of car rentals on an hourly basis.\n\nData Dictionary\nYou are provided with 3 files - train.csv, test.csv, and sample_submission.csv\n\nTraining set\ntrain.csv contains the hourly demand for car rentals from August 2018 to February 2021.\n\nEvaluation metric\nThe evaluation metric for this hackathon is the RMSE score.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "anushabellam/amazon-reviews-dataset",
+  "id_no": 2532650,
+  "datasetSlugNullable": "amazon-reviews-dataset",
+  "ownerUserNullable": "anushabellam",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon Reviews Dataset",
+  "subtitleNullable": "Reviews on Amazon products",
+  "descriptionNullable": "Customer Reviews help customers to learn more about the product and decide whether it is the right product for them.\n\nCustomer Reviews should give customers genuine product feedback from fellow shoppers. We have a zero tolerance policy for any review designed to mislead or manipulate customers.\n\nWe don't allow anyone to write reviews as a form of promotion.\n\nThe following are types of reviews that we don't allow and will remove:\n\nA review by someone who has a direct or indirect financial interest in the product.\nA review by someone perceived to have a close personal relationship with the product's owner, author, or artist.\nA review by the product manufacturer, posing as an unbiased shopper.\nMultiple negative reviews for the same product from one customer.\nA review in exchange for monetary reward.\nA review of a game in exchange for bonus in-game credits.\nA negative review from a seller on a competitor's product.\nA positive review from an artist on a peer's album in exchange for receiving a positive review from them.\nYou can see all of \n\nThe source of this dataset is from https://huggingface.co/datasets.\nData contains different products and their reviews.\nhttps://huggingface.co/datasets/amazon_us_reviews/viewer/Books_v1_00/train\nhttps://huggingface.co/datasets/amazon_us_reviews/viewer/Jewelry_v1_00/train\nhttps://huggingface.co/datasets/amazon_us_reviews/viewer/Digital_Ebook_Purchase_v1_01/train\nhttps://huggingface.co/datasets/amazon_us_reviews/viewer/Grocery_v1_00/train\nhttps://huggingface.co/datasets/amazon_us_reviews/viewer/PC_v1_00/train\n\nThe data contains the following columns:\n 1)   marketplace (string)    - Location of the product         \n 2)   customer_id (string)     - Unique  ID of the Customer         \n 3)   review_id (string)     -  Reviewing ID        \n 4)   product_id (string)    -    Unique ID of the product       \n 5)   product_parent (string)     - Parent Product     \n 6)   product_title (string)      - Title of the product reviewed      \n 7)   product_category (string)    - Different products categories    \n 8)   star_rating (int)        - Rating of the product out of 5         \n 9)   helpful_votes (int)      - Rating of the product which is helpful for more sales      \n 10)   total_votes (int)     - Total number of votes of the product         \n 11)  review_headline (string)      - heading of the review   \n 12)  review_body (string)       - Content of the review      \n 13)  review_date (string)       - date at which the product is reviewed.",
+  "datasetId": 2532650,
+  "datasetSlug": "amazon-reviews-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "anushabellam",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13262,
+  "totalVotes": 24,
+  "totalDownloads": 1774,
+  "title": "Amazon Reviews Dataset",
+  "hasTitle": true,
+  "subtitle": "Reviews on Amazon products",
+  "hasSubtitle": true,
+  "description": "Customer Reviews help customers to learn more about the product and decide whether it is the right product for them.\n\nCustomer Reviews should give customers genuine product feedback from fellow shoppers. We have a zero tolerance policy for any review designed to mislead or manipulate customers.\n\nWe don't allow anyone to write reviews as a form of promotion.\n\nThe following are types of reviews that we don't allow and will remove:\n\nA review by someone who has a direct or indirect financial interest in the product.\nA review by someone perceived to have a close personal relationship with the product's owner, author, or artist.\nA review by the product manufacturer, posing as an unbiased shopper.\nMultiple negative reviews for the same product from one customer.\nA review in exchange for monetary reward.\nA review of a game in exchange for bonus in-game credits.\nA negative review from a seller on a competitor's product.\nA positive review from an artist on a peer's album in exchange for receiving a positive review from them.\nYou can see all of \n\nThe source of this dataset is from https://huggingface.co/datasets.\nData contains different products and their reviews.\nhttps://huggingface.co/datasets/amazon_us_reviews/viewer/Books_v1_00/train\nhttps://huggingface.co/datasets/amazon_us_reviews/viewer/Jewelry_v1_00/train\nhttps://huggingface.co/datasets/amazon_us_reviews/viewer/Digital_Ebook_Purchase_v1_01/train\nhttps://huggingface.co/datasets/amazon_us_reviews/viewer/Grocery_v1_00/train\nhttps://huggingface.co/datasets/amazon_us_reviews/viewer/PC_v1_00/train\n\nThe data contains the following columns:\n 1)   marketplace (string)    - Location of the product         \n 2)   customer_id (string)     - Unique  ID of the Customer         \n 3)   review_id (string)     -  Reviewing ID        \n 4)   product_id (string)    -    Unique ID of the product       \n 5)   product_parent (string)     - Parent Product     \n 6)   product_title (string)      - Title of the product reviewed      \n 7)   product_category (string)    - Different products categories    \n 8)   star_rating (int)        - Rating of the product out of 5         \n 9)   helpful_votes (int)      - Rating of the product which is helpful for more sales      \n 10)   total_votes (int)     - Total number of votes of the product         \n 11)  review_headline (string)      - heading of the review   \n 12)  review_body (string)       - Content of the review      \n 13)  review_date (string)       - date at which the product is reviewed.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "data cleaning",
+    "data visualization",
+    "text",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

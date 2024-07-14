@@ -1,0 +1,43 @@
+{
+  "id": "varpit94/disaster-images-dataset",
+  "id_no": 1472998,
+  "datasetSlugNullable": "disaster-images-dataset",
+  "ownerUserNullable": "varpit94",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Disaster Images Dataset",
+  "subtitleNullable": "Can you classify disasters by images?",
+  "descriptionNullable": "### Context\n\nThis dataset contains images for each disaster. Images are placed in folders with disaster name. Images with no damage are also available, for model training purposes. Can you develop a model to classify images into type of disaster?\n\nIf you have any suggestions/improvements in the dataset, please feel free to message me.",
+  "datasetId": 1472998,
+  "datasetSlug": "disaster-images-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "varpit94",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 14095,
+  "totalVotes": 40,
+  "totalDownloads": 1018,
+  "title": "Disaster Images Dataset",
+  "hasTitle": true,
+  "subtitle": "Can you classify disasters by images?",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains images for each disaster. Images are placed in folders with disaster name. Images with no damage are also available, for model training purposes. Can you develop a model to classify images into type of disaster?\n\nIf you have any suggestions/improvements in the dataset, please feel free to message me.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "classification",
+    "image",
+    "multiclass classification",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

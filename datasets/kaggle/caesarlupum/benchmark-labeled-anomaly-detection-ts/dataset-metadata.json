@@ -1,0 +1,45 @@
+{
+  "id": "caesarlupum/benchmark-labeled-anomaly-detection-ts",
+  "id_no": 1251064,
+  "datasetSlugNullable": "benchmark-labeled-anomaly-detection-ts",
+  "ownerUserNullable": "caesarlupum",
+  "usabilityRatingNullable": 0.6764705882352942,
+  "titleNullable": "Benchmark: Labeled Anomaly Detection TS",
+  "subtitleNullable": "Anomaly Detection for seasonal KPIs.",
+  "descriptionNullable": "### Context\n\nAnomaly detection algorithm for seasonal KPIs.\n\n### Citation\n\n@inproceedings{donut,\n  title={Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications},\n  author={Xu, Haowen and Chen, Wenxiao and Zhao, Nengwen and Li, Zeyan and Bu, Jiahao and Li, Zhihan and Liu, Ying and Zhao, Youjian and Pei, Dan and Feng, Yang and others},\n  booktitle={Proceedings of the 2018 World Wide Web Conference on World Wide Web},\n  pages={187--196},\n  year={2018},\n  organization={International World Wide Web Conferences Steering Committee}\n}\n\n### Inspiration\nGithub: https://github.com/NetManAIOps/donut\n",
+  "datasetId": 1251064,
+  "datasetSlug": "benchmark-labeled-anomaly-detection-ts",
+  "hasDatasetSlug": true,
+  "ownerUser": "caesarlupum",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6764705882352942,
+  "hasUsabilityRating": true,
+  "totalViews": 8600,
+  "totalVotes": 29,
+  "totalDownloads": 757,
+  "title": "Benchmark: Labeled Anomaly Detection TS",
+  "hasTitle": true,
+  "subtitle": "Anomaly Detection for seasonal KPIs.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAnomaly detection algorithm for seasonal KPIs.\n\n### Citation\n\n@inproceedings{donut,\n  title={Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications},\n  author={Xu, Haowen and Chen, Wenxiao and Zhao, Nengwen and Li, Zeyan and Bu, Jiahao and Li, Zhihan and Liu, Ying and Zhao, Youjian and Pei, Dan and Feng, Yang and others},\n  booktitle={Proceedings of the 2018 World Wide Web Conference on World Wide Web},\n  pages={187--196},\n  year={2018},\n  organization={International World Wide Web Conferences Steering Committee}\n}\n\n### Inspiration\nGithub: https://github.com/NetManAIOps/donut\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "computer science",
+    "intermediate",
+    "advanced",
+    "time series analysis",
+    "outlier analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

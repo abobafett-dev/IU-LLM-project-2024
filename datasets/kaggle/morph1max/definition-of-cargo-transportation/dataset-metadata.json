@@ -1,0 +1,43 @@
+{
+  "id": "morph1max/definition-of-cargo-transportation",
+  "id_no": 4062651,
+  "datasetSlugNullable": "definition-of-cargo-transportation",
+  "ownerUserNullable": "morph1max",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Waste classification",
+  "subtitleNullable": "The dataset contains images for classification and detection.",
+  "descriptionNullable": "Dataset for the classification of waste in the body of the vehicle.\nFor your convenience, this task can be solved using 2 methods: classification (folder \"cargo_classification\") and detection (folder \"cargo_detection\").\n\nThere are 2179 images in total in the dataset. You should divide it into a training and validation sample in any way that is convenient for you.\n",
+  "datasetId": 4062651,
+  "datasetSlug": "definition-of-cargo-transportation",
+  "hasDatasetSlug": true,
+  "ownerUser": "morph1max",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1837,
+  "totalVotes": 9,
+  "totalDownloads": 89,
+  "title": "Waste classification",
+  "hasTitle": true,
+  "subtitle": "The dataset contains images for classification and detection.",
+  "hasSubtitle": true,
+  "description": "Dataset for the classification of waste in the body of the vehicle.\nFor your convenience, this task can be solved using 2 methods: classification (folder \"cargo_classification\") and detection (folder \"cargo_detection\").\n\nThere are 2179 images in total in the dataset. You should divide it into a training and validation sample in any way that is convenient for you.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "deep learning",
+    "image",
+    "image classification",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

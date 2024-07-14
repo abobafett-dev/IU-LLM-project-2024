@@ -1,0 +1,39 @@
+{
+  "id": "hariharanalm/dahlias-flower-varieties-dataset",
+  "id_no": 3846789,
+  "datasetSlugNullable": "dahlias-flower-varieties-dataset",
+  "ownerUserNullable": "hariharanalm",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Dahlias Flowers Dataset",
+  "subtitleNullable": "A flower dataset for Image Classification and others",
+  "descriptionNullable": "Title: Dahlias Flower Variety Dataset\n\nDescription:\n\nThe Dahlias Flower Variety dataset is a comprehensive collection of high-quality images and associated metadata for various dahlia flower varieties. Dahlias are well-known for their stunning, vibrant, and diverse flower forms, making them a favorite subject for both gardening enthusiasts and photographers.\n\nDataset Contents:\n\nImages: The dataset comprises a diverse selection of images showcasing different dahlia flower varieties. These images are captured in varying lighting conditions, settings, and angles, making it an excellent resource for researchers, florists, and hobbyists.\n\nMetadata: Each image is accompanied by essential metadata, including the variety name, color, bloom size, and other relevant details. The metadata provides valuable information for research, classification, and flower variety identification.\n\nUse Cases:\n\nThe Dahlias Flower Variety Dataset is a valuable resource for a wide range of applications:\n\nBotanical Research: Researchers and botanists can use this dataset to study and classify dahlia flower varieties, contributing to our understanding of the species.\n\nHorticulture: For gardening enthusiasts and professionals, this dataset can serve as a reference to identify different varieties, plan landscaping projects, and create colorful flower arrangements.\n\nComputer Vision and Machine Learning: Data scientists and machine learning enthusiasts can use this dataset to train and evaluate computer vision models for flower recognition, classification, and segmentation tasks.\n\nAcknowledgments:\n\nThe images in this dataset have been collected from various sources, including photography enthusiasts, botanical gardens, and dahlia enthusiasts. We are grateful for their contributions to this dataset.\n\nLicense:\n\nThis dataset is provided under an open data license, which allows for free access and use for both non-commercial and commercial purposes. Users are encouraged to respect the license terms and provide appropriate attribution.",
+  "datasetId": 3846789,
+  "datasetSlug": "dahlias-flower-varieties-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "hariharanalm",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 520,
+  "totalVotes": 9,
+  "totalDownloads": 88,
+  "title": "Dahlias Flowers Dataset",
+  "hasTitle": true,
+  "subtitle": "A flower dataset for Image Classification and others",
+  "hasSubtitle": true,
+  "description": "Title: Dahlias Flower Variety Dataset\n\nDescription:\n\nThe Dahlias Flower Variety dataset is a comprehensive collection of high-quality images and associated metadata for various dahlia flower varieties. Dahlias are well-known for their stunning, vibrant, and diverse flower forms, making them a favorite subject for both gardening enthusiasts and photographers.\n\nDataset Contents:\n\nImages: The dataset comprises a diverse selection of images showcasing different dahlia flower varieties. These images are captured in varying lighting conditions, settings, and angles, making it an excellent resource for researchers, florists, and hobbyists.\n\nMetadata: Each image is accompanied by essential metadata, including the variety name, color, bloom size, and other relevant details. The metadata provides valuable information for research, classification, and flower variety identification.\n\nUse Cases:\n\nThe Dahlias Flower Variety Dataset is a valuable resource for a wide range of applications:\n\nBotanical Research: Researchers and botanists can use this dataset to study and classify dahlia flower varieties, contributing to our understanding of the species.\n\nHorticulture: For gardening enthusiasts and professionals, this dataset can serve as a reference to identify different varieties, plan landscaping projects, and create colorful flower arrangements.\n\nComputer Vision and Machine Learning: Data scientists and machine learning enthusiasts can use this dataset to train and evaluate computer vision models for flower recognition, classification, and segmentation tasks.\n\nAcknowledgments:\n\nThe images in this dataset have been collected from various sources, including photography enthusiasts, botanical gardens, and dahlia enthusiasts. We are grateful for their contributions to this dataset.\n\nLicense:\n\nThis dataset is provided under an open data license, which allows for free access and use for both non-commercial and commercial purposes. Users are encouraged to respect the license terms and provide appropriate attribution.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ngalenal1004/tmdb-movies-dataset-2024",
+  "id_no": 4218278,
+  "datasetSlugNullable": "tmdb-movies-dataset-2024",
+  "ownerUserNullable": "ngalenal1004",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "TMDB Movies Dataset 2024",
+  "subtitleNullable": "A collection of 10000 movies sourced from The Movie Database (TMDb)",
+  "descriptionNullable": "### Title: TMDB Movies Dataset 2024\n\nTMDB Movies Dataset 2024\n\n### Description:\n\nThis dataset contains information about a collection of 10000 movies sourced from The Movie Database (TMDb). The data includes details about the movies such as titles, genres, actors, directors, average ratings, release years, and other relevant information.\n\n### Content:\n\n- **Included Columns:**\n  - MovieID: Unique identifier for the movie\n  - Title: Movie title\n  - Genres: Movie genres\n  - Actors: List of actors in the movie\n  - Director: Movie director\n  - VoteAverage: Average rating of the movie\n  - ReleaseYear: Year of movie release\n\n\n### Usage:\n\nThis dataset can be utilized for creating movie recommendation systems, analyzing movie trends, practicing data cleaning and feature engineering, and other movie-related projects. It can inspire in-depth analyses on user preferences in movies, the evolution of movie genres over time, or exploration of top-rated movies by year.\n\n### Source:\n\nThe data has been collected from The Movie Database (TMDb) API.\n\n### Additional Notes:\n\n- **Notes:** This dataset may require initial cleaning and manipulation for more advanced analyses. Some data might be missing or need additional processing.\n\n### Author:\n\n- **Author:** NGARI LENDOYE Alix\n- **Contact Email:** ngarilenal@gmail.com\n\n### License:\n\nThe data is provided under the MIT license. Ensure compliance with the license terms and provide appropriate attribution to the data source (TMDb) when using the dataset.\n",
+  "datasetId": 4218278,
+  "datasetSlug": "tmdb-movies-dataset-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "ngalenal1004",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 346,
+  "totalVotes": 5,
+  "totalDownloads": 68,
+  "title": "TMDB Movies Dataset 2024",
+  "hasTitle": true,
+  "subtitle": "A collection of 10000 movies sourced from The Movie Database (TMDb)",
+  "hasSubtitle": true,
+  "description": "### Title: TMDB Movies Dataset 2024\n\nTMDB Movies Dataset 2024\n\n### Description:\n\nThis dataset contains information about a collection of 10000 movies sourced from The Movie Database (TMDb). The data includes details about the movies such as titles, genres, actors, directors, average ratings, release years, and other relevant information.\n\n### Content:\n\n- **Included Columns:**\n  - MovieID: Unique identifier for the movie\n  - Title: Movie title\n  - Genres: Movie genres\n  - Actors: List of actors in the movie\n  - Director: Movie director\n  - VoteAverage: Average rating of the movie\n  - ReleaseYear: Year of movie release\n\n\n### Usage:\n\nThis dataset can be utilized for creating movie recommendation systems, analyzing movie trends, practicing data cleaning and feature engineering, and other movie-related projects. It can inspire in-depth analyses on user preferences in movies, the evolution of movie genres over time, or exploration of top-rated movies by year.\n\n### Source:\n\nThe data has been collected from The Movie Database (TMDb) API.\n\n### Additional Notes:\n\n- **Notes:** This dataset may require initial cleaning and manipulation for more advanced analyses. Some data might be missing or need additional processing.\n\n### Author:\n\n- **Author:** NGARI LENDOYE Alix\n- **Contact Email:** ngarilenal@gmail.com\n\n### License:\n\nThe data is provided under the MIT license. Ensure compliance with the license terms and provide appropriate attribution to the data source (TMDb) when using the dataset.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

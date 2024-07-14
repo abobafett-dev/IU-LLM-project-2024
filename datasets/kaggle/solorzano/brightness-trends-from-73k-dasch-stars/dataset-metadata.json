@@ -1,0 +1,41 @@
+{
+  "id": "solorzano/brightness-trends-from-73k-dasch-stars",
+  "id_no": 1196462,
+  "datasetSlugNullable": "brightness-trends-from-73k-dasch-stars",
+  "ownerUserNullable": "solorzano",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Brightness Trends from 73K DASCH stars",
+  "subtitleNullable": "Century scale slopes and standard errors",
+  "descriptionNullable": "### Context\n\nThe  [Digital Access to a Sky Century @ Harvard (DASCH)](https://projects.iq.harvard.edu/dasch) is \"a unique project at the Harvard College Observatory that aims to digitize the majority of the Astronomical Photographic Plate Collection's 500,000 glass plate negatives and produce full photometry results for the entire sky.\" The archive contains photometry spanning about a century.\n\n### Content\n\nThis dataset contains estimated magnitude slopes (brightness trends), standard errors and mean magnitudes for 73K DASCH stars. It consists of 2 files:\n\n* summarized-dasch-trends.csv: Slopes estimated without outlier removal.\n* summarized-dasch-trends-wor.csv: Slopes estimated after removing records whose residuals (after a first attempt at linear regression) are 3-sigma outliers.\n\nStars are identified with an APASS DR9 ID, which can be matched with the *recno* field from the *external.apassdr9* table found at the Gaia Archive.\n\nThis dataset can also be joined with the _[253K APASS DR9 Stars W/ Gaia DR2 Photometry](https://www.kaggle.com/solorzano/253k-apass-dr9-stars-w-gaia-dr2-photometry)_ dataset.\n\nThe dataset is mostly limited to the celestial Northern Hemisphere. That's what's available in DASCH at the time of this writing.\n\n### Data retrieval methodology\n\nShort-form text files for each target were automatically downloaded from the [DASCH website](http://dasch.rc.fas.harvard.edu/lightcurve.php) between late January and early March 2021. The baseline dataset used for searching targets is _[an APASS dataset](https://www.kaggle.com/solorzano/253k-apass-dr9-stars-w-gaia-dr2-photometry)_  with cross-match angular distance limited to at most 0.35 arcseconds.\n\nSearch parameters were N &gt;= 1000 and d &lt;= 1 arcsec. The source catalog used is the APASS Input Catalog (B-band). The search position consisted of the APASS DR9 celestial coordinates of each target.\n\nA match was considered valid if there was only one entry found containing the text \"APASS\". The first short-form text file was then downloaded.\n\n### Slope estimates\n\nThe source code used to estimate slopes is [made available on GitHub](https://github.com/jose-solorzano/dasch-summarizer).\n\nBefore performing linear regression, records with negative magnitudes, 'inf' years, and those matching certain DASCH AFLAGS were removed. Based on what best minimizes the slope standard deviation and mean standard error, only records with AFLAGS matching 0x800000 (bad bin) and 0x2000000 (defective plate) were removed.\n\n### Acknowledgements\n\nThis work has made use of data from the DASCH project (https://projects.iq.harvard.edu/dasch). DASCH receives partial support from NSF grants AST-0407380, AST-0909073, and AST-1313370.\n\nThis research was made possible through the use of the AAVSO Photometric All-Sky Survey (APASS), funded by the Robert Martin Ayers Sciences Fund and NSF AST-1412587.\n\n### Inspiration\n\nDASCH brightness trends are not only important in Astronomy. They are potentially informative in Dysonian SETI research.",
+  "datasetId": 1196462,
+  "datasetSlug": "brightness-trends-from-73k-dasch-stars",
+  "hasDatasetSlug": true,
+  "ownerUser": "solorzano",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1605,
+  "totalVotes": 2,
+  "totalDownloads": 48,
+  "title": "Brightness Trends from 73K DASCH stars",
+  "hasTitle": true,
+  "subtitle": "Century scale slopes and standard errors",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe  [Digital Access to a Sky Century @ Harvard (DASCH)](https://projects.iq.harvard.edu/dasch) is \"a unique project at the Harvard College Observatory that aims to digitize the majority of the Astronomical Photographic Plate Collection's 500,000 glass plate negatives and produce full photometry results for the entire sky.\" The archive contains photometry spanning about a century.\n\n### Content\n\nThis dataset contains estimated magnitude slopes (brightness trends), standard errors and mean magnitudes for 73K DASCH stars. It consists of 2 files:\n\n* summarized-dasch-trends.csv: Slopes estimated without outlier removal.\n* summarized-dasch-trends-wor.csv: Slopes estimated after removing records whose residuals (after a first attempt at linear regression) are 3-sigma outliers.\n\nStars are identified with an APASS DR9 ID, which can be matched with the *recno* field from the *external.apassdr9* table found at the Gaia Archive.\n\nThis dataset can also be joined with the _[253K APASS DR9 Stars W/ Gaia DR2 Photometry](https://www.kaggle.com/solorzano/253k-apass-dr9-stars-w-gaia-dr2-photometry)_ dataset.\n\nThe dataset is mostly limited to the celestial Northern Hemisphere. That's what's available in DASCH at the time of this writing.\n\n### Data retrieval methodology\n\nShort-form text files for each target were automatically downloaded from the [DASCH website](http://dasch.rc.fas.harvard.edu/lightcurve.php) between late January and early March 2021. The baseline dataset used for searching targets is _[an APASS dataset](https://www.kaggle.com/solorzano/253k-apass-dr9-stars-w-gaia-dr2-photometry)_  with cross-match angular distance limited to at most 0.35 arcseconds.\n\nSearch parameters were N &gt;= 1000 and d &lt;= 1 arcsec. The source catalog used is the APASS Input Catalog (B-band). The search position consisted of the APASS DR9 celestial coordinates of each target.\n\nA match was considered valid if there was only one entry found containing the text \"APASS\". The first short-form text file was then downloaded.\n\n### Slope estimates\n\nThe source code used to estimate slopes is [made available on GitHub](https://github.com/jose-solorzano/dasch-summarizer).\n\nBefore performing linear regression, records with negative magnitudes, 'inf' years, and those matching certain DASCH AFLAGS were removed. Based on what best minimizes the slope standard deviation and mean standard error, only records with AFLAGS matching 0x800000 (bad bin) and 0x2000000 (defective plate) were removed.\n\n### Acknowledgements\n\nThis work has made use of data from the DASCH project (https://projects.iq.harvard.edu/dasch). DASCH receives partial support from NSF grants AST-0407380, AST-0909073, and AST-1313370.\n\nThis research was made possible through the use of the AAVSO Photometric All-Sky Survey (APASS), funded by the Robert Martin Ayers Sciences Fund and NSF AST-1412587.\n\n### Inspiration\n\nDASCH brightness trends are not only important in Astronomy. They are potentially informative in Dysonian SETI research.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth science",
+    "astronomy",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

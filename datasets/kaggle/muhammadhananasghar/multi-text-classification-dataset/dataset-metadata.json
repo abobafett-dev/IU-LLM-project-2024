@@ -1,0 +1,43 @@
+{
+  "id": "muhammadhananasghar/multi-text-classification-dataset",
+  "id_no": 1465855,
+  "datasetSlugNullable": "multi-text-classification-dataset",
+  "ownerUserNullable": "muhammadhananasghar",
+  "usabilityRatingNullable": 0.3125,
+  "titleNullable": "Multi Text Classification Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "labels = {\n    \"business\":0,\n    \"gaming\":1,\n    \"tech\":2\n}\n\nThis Dataset is Scrapped from CNET(Tech News), Reuters(Business News) and PCGaming(Gaming News).\nContaining 20000 Headlines per label.",
+  "datasetId": 1465855,
+  "datasetSlug": "multi-text-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammadhananasghar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.3125,
+  "hasUsabilityRating": true,
+  "totalViews": 1410,
+  "totalVotes": 3,
+  "totalDownloads": 37,
+  "title": "Multi Text Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "labels = {\n    \"business\":0,\n    \"gaming\":1,\n    \"tech\":2\n}\n\nThis Dataset is Scrapped from CNET(Tech News), Reuters(Business News) and PCGaming(Gaming News).\nContaining 20000 Headlines per label.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "lstm",
+    "text",
+    "keras",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

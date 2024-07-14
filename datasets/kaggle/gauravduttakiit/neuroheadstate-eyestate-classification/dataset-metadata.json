@@ -1,0 +1,40 @@
+{
+  "id": "gauravduttakiit/neuroheadstate-eyestate-classification",
+  "id_no": 2321186,
+  "datasetSlugNullable": "neuroheadstate-eyestate-classification",
+  "ownerUserNullable": "gauravduttakiit",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Neuroheadstate Eye-State Classification",
+  "subtitleNullable": "Predict eye-open state from EEG Neuroheadset data",
+  "descriptionNullable": " \n\nOver the years, technology has been inclined and interested in testing its potentials in the field of human activity classification. They have come up with a diversity of innovations ranging from wearable devices to artificial intelligence systems software. Those that are drawn to the use and derivation of various intelligent systems are already on the step of venturing the fields of neural network and machine learning algorithms, exploring its capabilities to try and classify various human activities, ranging from the different movements and actions that the human body can perform, to the complexities of a hand gesture, down to the most minute kinds of physical action such as the eye movement. \n\n \n\nOne of the devices that has been gaining high traction lately is the availability of wireless electroencephalogram (EEG) headsets in the market. EEG is a device used to read electrical signals produced by the brain while performing different activities ranging from physical, mental to emotional. It is mainly used in the medical field specifically in the past, but with the current advancements in technology maximizing the use of this specific sensor's anatomy, its use is now being explored in various fields\n\n \n\nYour Task is to come up with an efficient Machine Learning model based on the data obtained from EEG\u2019s that helps to classify and differentiate  two states of minute action: having a person's eyes closed and eyes opened with the highest possible accuracy\n\n\n\n\nThe dataset is composed of 15 attributes in total, each inclusive of the eye state classified for each data point acquired using a video recording that was simultaneously done while collecting the EEG data using the EEG device. \n\nThe attributes that the specified dataset contains are the channels in the EEG device used to record the data. Instances were input chronologically, enabling the analysis of useful test set for syntactic and semantic theories. \n\nThere is a total of 14 electrodes attached, each labelled and placed on the following scalp areas: AF3, F7, F3, FC5, T7, P7, FC6, F4, F8, O1, O2, P8, T8 and AF4. ",
+  "datasetId": 2321186,
+  "datasetSlug": "neuroheadstate-eyestate-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravduttakiit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 2180,
+  "totalVotes": 11,
+  "totalDownloads": 222,
+  "title": "Neuroheadstate Eye-State Classification",
+  "hasTitle": true,
+  "subtitle": "Predict eye-open state from EEG Neuroheadset data",
+  "hasSubtitle": true,
+  "description": " \n\nOver the years, technology has been inclined and interested in testing its potentials in the field of human activity classification. They have come up with a diversity of innovations ranging from wearable devices to artificial intelligence systems software. Those that are drawn to the use and derivation of various intelligent systems are already on the step of venturing the fields of neural network and machine learning algorithms, exploring its capabilities to try and classify various human activities, ranging from the different movements and actions that the human body can perform, to the complexities of a hand gesture, down to the most minute kinds of physical action such as the eye movement. \n\n \n\nOne of the devices that has been gaining high traction lately is the availability of wireless electroencephalogram (EEG) headsets in the market. EEG is a device used to read electrical signals produced by the brain while performing different activities ranging from physical, mental to emotional. It is mainly used in the medical field specifically in the past, but with the current advancements in technology maximizing the use of this specific sensor's anatomy, its use is now being explored in various fields\n\n \n\nYour Task is to come up with an efficient Machine Learning model based on the data obtained from EEG\u2019s that helps to classify and differentiate  two states of minute action: having a person's eyes closed and eyes opened with the highest possible accuracy\n\n\n\n\nThe dataset is composed of 15 attributes in total, each inclusive of the eye state classified for each data point acquired using a video recording that was simultaneously done while collecting the EEG data using the EEG device. \n\nThe attributes that the specified dataset contains are the channels in the EEG device used to record the data. Instances were input chronologically, enabling the analysis of useful test set for syntactic and semantic theories. \n\nThere is a total of 14 electrodes attached, each labelled and placed on the following scalp areas: AF3, F7, F3, FC5, T7, P7, FC6, F4, F8, O1, O2, P8, T8 and AF4. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "eyes and vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

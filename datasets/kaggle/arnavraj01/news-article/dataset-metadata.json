@@ -1,0 +1,41 @@
+{
+  "id": "arnavraj01/news-article",
+  "id_no": 826582,
+  "datasetSlugNullable": "news-article",
+  "ownerUserNullable": "arnavraj01",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "News Article",
+  "subtitleNullable": "The Hindu Extracts on 12th Aug 2020",
+  "descriptionNullable": "### Context\n\nI am currently working on text summarisation project which would help to test efficiency of various text summarisation techniques available. News articles are rich in grammar and vocabulary which allows us to gain greater insightsN\n\n### Content\n\nThe dataset consists of 10892 entries with columns publishdate, createddate, modifieddate, section, author, tags, title, description, text, and url. I gathered these news articles by using scrapy spider on The Hindu online news dated on 12th Aug 2020.\n\n\n### Acknowledgements\n\nThankful to Scrapy and The Hindu.\n\n\n### Inspiration\n\nCreating a model, which has the highest efficiency using this dataset as a training and test data. ",
+  "datasetId": 826582,
+  "datasetSlug": "news-article",
+  "hasDatasetSlug": true,
+  "ownerUser": "arnavraj01",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 2020,
+  "totalVotes": 2,
+  "totalDownloads": 72,
+  "title": "News Article",
+  "hasTitle": true,
+  "subtitle": "The Hindu Extracts on 12th Aug 2020",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI am currently working on text summarisation project which would help to test efficiency of various text summarisation techniques available. News articles are rich in grammar and vocabulary which allows us to gain greater insightsN\n\n### Content\n\nThe dataset consists of 10892 entries with columns publishdate, createddate, modifieddate, section, author, tags, title, description, text, and url. I gathered these news articles by using scrapy spider on The Hindu online news dated on 12th Aug 2020.\n\n\n### Acknowledgements\n\nThankful to Scrapy and The Hindu.\n\n\n### Inspiration\n\nCreating a model, which has the highest efficiency using this dataset as a training and test data. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

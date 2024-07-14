@@ -1,0 +1,43 @@
+{
+  "id": "mehantkammakomati/cob-common-objects-in-bathroom",
+  "id_no": 2275679,
+  "datasetSlugNullable": "cob-common-objects-in-bathroom",
+  "ownerUserNullable": "mehantkammakomati",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "COB: Common Objects in Bathroom (Restroom)",
+  "subtitleNullable": "Images of various commonly found objects in the bathroom or restroom.",
+  "descriptionNullable": "Image of various commonly found objects in the bathroom is classified and placed in their respective folders. This dataset can be used for classification tasks. The dataset contains the following classes: mirror, Wastebasket, Bath towels, hand towels, washcloths, soap bar, soap bottle, comb, toothbrush, toothbrush holder, toothpaste, bathtub, bathbrush item, Toilet Brush item, water bucket item, Lavatory Brush, mat, wall hooks single piece, toilet paper, curtains, sink, western toilet, Indian Toilet Seat, water tap single piece, and shower head.",
+  "datasetId": 2275679,
+  "datasetSlug": "cob-common-objects-in-bathroom",
+  "hasDatasetSlug": true,
+  "ownerUser": "mehantkammakomati",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2714,
+  "totalVotes": 11,
+  "totalDownloads": 322,
+  "title": "COB: Common Objects in Bathroom (Restroom)",
+  "hasTitle": true,
+  "subtitle": "Images of various commonly found objects in the bathroom or restroom.",
+  "hasSubtitle": true,
+  "description": "Image of various commonly found objects in the bathroom is classified and placed in their respective folders. This dataset can be used for classification tasks. The dataset contains the following classes: mirror, Wastebasket, Bath towels, hand towels, washcloths, soap bar, soap bottle, comb, toothbrush, toothbrush holder, toothpaste, bathtub, bathbrush item, Toilet Brush item, water bucket item, Lavatory Brush, mat, wall hooks single piece, toilet paper, curtains, sink, western toilet, Indian Toilet Seat, water tap single piece, and shower head.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "computer vision",
+    "classification",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

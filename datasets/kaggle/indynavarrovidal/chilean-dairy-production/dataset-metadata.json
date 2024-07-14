@@ -1,0 +1,42 @@
+{
+  "id": "indynavarrovidal/chilean-dairy-production",
+  "id_no": 3048193,
+  "datasetSlugNullable": "chilean-dairy-production",
+  "ownerUserNullable": "indynavarrovidal",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Chilean Dairy Production",
+  "subtitleNullable": "Record of the production of dairy products in Chile since 2002",
+  "descriptionNullable": "The following dataset is public information at the next [link](https://aplicativos.odepa.gob.cl/recepcion-industria-lactea.do). The data consists of the products made in the country by different companies each month.\n\nThis dataset can serve as inspiration for developing predictions for time series, demand estimation, complement for simulated supply chain optimization models, or simply for EDA.\n\nThis dataset consists of only one file. The columns are as follows:\n\nYear:  Year corresponding to production\nFactory_Name: Name of the Plant where the production was carried out. Note that the name of the company and location are included (in parentheses)\nProduct: produced dairy\nUnity: Kg or Lts\nMonth: Month corresponding to production\nQuantity: Amount produced. Several plants do not make specific products, so they will always have zero product production.\n",
+  "datasetId": 3048193,
+  "datasetSlug": "chilean-dairy-production",
+  "hasDatasetSlug": true,
+  "ownerUser": "indynavarrovidal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 2285,
+  "totalVotes": 6,
+  "totalDownloads": 250,
+  "title": "Chilean Dairy Production",
+  "hasTitle": true,
+  "subtitle": "Record of the production of dairy products in Chile since 2002",
+  "hasSubtitle": true,
+  "description": "The following dataset is public information at the next [link](https://aplicativos.odepa.gob.cl/recepcion-industria-lactea.do). The data consists of the products made in the country by different companies each month.\n\nThis dataset can serve as inspiration for developing predictions for time series, demand estimation, complement for simulated supply chain optimization models, or simply for EDA.\n\nThis dataset consists of only one file. The columns are as follows:\n\nYear:  Year corresponding to production\nFactory_Name: Name of the Plant where the production was carried out. Note that the name of the company and location are included (in parentheses)\nProduct: produced dairy\nUnity: Kg or Lts\nMonth: Month corresponding to production\nQuantity: Amount produced. Several plants do not make specific products, so they will always have zero product production.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "economics",
+    "time series analysis",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "victorsoeiro/crunchyroll-animes-and-movies",
+  "id_no": 2173488,
+  "datasetSlugNullable": "crunchyroll-animes-and-movies",
+  "ownerUserNullable": "victorsoeiro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Crunchyroll Animes and Movies",
+  "subtitleNullable": "Animes and Movies listings on Crunchyroll (May, 2022)",
+  "descriptionNullable": "## **Crunchyroll - Animes and Movies**\n\n&gt; This data set was created to list all shows available on Crunchyroll streaming, and analyze the data to find interesting facts. This data was acquired in May 2022 containing data available in the United States. \n\n## **Content**\n\n&gt; This dataset has two files containing the titles (**titles.csv**) and the cast (**credits.csv**) for the title. \n\n&gt; This dataset contains **+1000** unique **titles on Crunchyroll** with 15 columns containing their information, including:\n\n&gt; - id: The title ID on JustWatch.\n&gt; - title: The name of the title.\n&gt; - show_type: TV show or movie.\n&gt; - description: A brief description.\n&gt; - release_year: The release year.\n&gt; - age_certification: The age certification.\n&gt; - runtime: The length of the episode (SHOW) or movie.\n&gt; - genres: A list of genres.\n&gt; - production_countries: A list of countries that produced the title.\n&gt; - seasons: Number of seasons if it's a SHOW.\n&gt; - imdb_id: The title ID on IMDB.\n&gt; - imdb_score: Score on IMDB.\n&gt; - imdb_votes: Votes on IMDB.\n&gt; - tmdb_popularity: Popularity on TMDB.\n&gt; - tmdb_score: Score on TMDB.\n\n&gt; And **over +9k** credits of **actors and directors** on Crunchyroll titles with 5 columns containing their information, including:\n\n&gt; - person_ID: The person ID on JustWatch.\n&gt; - id: The title ID on JustWatch.\n&gt; - name: The actor or director's name.\n&gt; - character_name: The character name.\n&gt; - role: ACTOR or DIRECTOR.\n\n##**Tasks**\n&gt; - Developing a content-based recommender system using the genres and/or descriptions.\n&gt; - Identifying the main content available on the streaming.\n&gt; - Network analysis on the cast of the titles.\n&gt; - Exploratory data analysis to find interesting insights.\n\n## **Other Streaming Datasets**\n\n&gt; - [HBO Max TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/hbo-max-tv-shows-and-movies?select=titles.csv)\n&gt; - [Amazon Prime TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/amazon-prime-tv-shows-and-movies?select=titles.csv)\n&gt; - [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)\n&gt; - [Disney+ TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/disney-tv-shows-and-movies?select=titles.csv)\n&gt; - [Hulu TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/hulu-tv-shows-and-movies?select=titles.csv)\n&gt; - [Paramount TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/paramount-tv-shows-and-movies?select=titles.csv)\n&gt; - [Rakuten Viki TV Dramas and Movies](https://www.kaggle.com/datasets/victorsoeiro/rakuten-tv-dramas-and-movies?select=titles.csv)\n&gt; - [Dark Matter TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/dark-matter-tv-shows-and-movies)\n\n##**How to obtain the data**\n\n&gt; If you want to see how I obtained these data, please check my [GitHub repository](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/justwatch).\n\n## **Acknowledgements**\n\n&gt; All data were collected from [JustWatch](https://www.justwatch.com/us).\n",
+  "datasetId": 2173488,
+  "datasetSlug": "crunchyroll-animes-and-movies",
+  "hasDatasetSlug": true,
+  "ownerUser": "victorsoeiro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6425,
+  "totalVotes": 36,
+  "totalDownloads": 1016,
+  "title": "Crunchyroll Animes and Movies",
+  "hasTitle": true,
+  "subtitle": "Animes and Movies listings on Crunchyroll (May, 2022)",
+  "hasSubtitle": true,
+  "description": "## **Crunchyroll - Animes and Movies**\n\n&gt; This data set was created to list all shows available on Crunchyroll streaming, and analyze the data to find interesting facts. This data was acquired in May 2022 containing data available in the United States. \n\n## **Content**\n\n&gt; This dataset has two files containing the titles (**titles.csv**) and the cast (**credits.csv**) for the title. \n\n&gt; This dataset contains **+1000** unique **titles on Crunchyroll** with 15 columns containing their information, including:\n\n&gt; - id: The title ID on JustWatch.\n&gt; - title: The name of the title.\n&gt; - show_type: TV show or movie.\n&gt; - description: A brief description.\n&gt; - release_year: The release year.\n&gt; - age_certification: The age certification.\n&gt; - runtime: The length of the episode (SHOW) or movie.\n&gt; - genres: A list of genres.\n&gt; - production_countries: A list of countries that produced the title.\n&gt; - seasons: Number of seasons if it's a SHOW.\n&gt; - imdb_id: The title ID on IMDB.\n&gt; - imdb_score: Score on IMDB.\n&gt; - imdb_votes: Votes on IMDB.\n&gt; - tmdb_popularity: Popularity on TMDB.\n&gt; - tmdb_score: Score on TMDB.\n\n&gt; And **over +9k** credits of **actors and directors** on Crunchyroll titles with 5 columns containing their information, including:\n\n&gt; - person_ID: The person ID on JustWatch.\n&gt; - id: The title ID on JustWatch.\n&gt; - name: The actor or director's name.\n&gt; - character_name: The character name.\n&gt; - role: ACTOR or DIRECTOR.\n\n##**Tasks**\n&gt; - Developing a content-based recommender system using the genres and/or descriptions.\n&gt; - Identifying the main content available on the streaming.\n&gt; - Network analysis on the cast of the titles.\n&gt; - Exploratory data analysis to find interesting insights.\n\n## **Other Streaming Datasets**\n\n&gt; - [HBO Max TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/hbo-max-tv-shows-and-movies?select=titles.csv)\n&gt; - [Amazon Prime TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/amazon-prime-tv-shows-and-movies?select=titles.csv)\n&gt; - [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)\n&gt; - [Disney+ TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/disney-tv-shows-and-movies?select=titles.csv)\n&gt; - [Hulu TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/hulu-tv-shows-and-movies?select=titles.csv)\n&gt; - [Paramount TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/paramount-tv-shows-and-movies?select=titles.csv)\n&gt; - [Rakuten Viki TV Dramas and Movies](https://www.kaggle.com/datasets/victorsoeiro/rakuten-tv-dramas-and-movies?select=titles.csv)\n&gt; - [Dark Matter TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/dark-matter-tv-shows-and-movies)\n\n##**How to obtain the data**\n\n&gt; If you want to see how I obtained these data, please check my [GitHub repository](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/justwatch).\n\n## **Acknowledgements**\n\n&gt; All data were collected from [JustWatch](https://www.justwatch.com/us).\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "exploratory data analysis",
+    "recommender systems",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "yaminh/product-sales-and-returns-dataset",
+  "id_no": 4557806,
+  "datasetSlugNullable": "product-sales-and-returns-dataset",
+  "ownerUserNullable": "yaminh",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Product Sales and Returns Dataset",
+  "subtitleNullable": "Insights into Retail Transactions. Best use for Customer Segmentation",
+  "descriptionNullable": "About the columns:\n\n1. Item Name: This column likely represents the name or description of the product.\n2. Category: This indicates the type or category of the product.\n3. Version: It specifies a particular version or variant of the product.\n4. Item Code: This is a unique code or identifier for the product variant.\n5. Item ID: This column represents a unique identifier for the specific item.\n6.  Buyer ID: It identifies the customer who made the purchase.\n7. Transaction ID: This is a unique identifier for the order or transaction.\n8. Date: This column represents the date when the transaction occurred.\n9. Final Quantity: This indicates the final quantity of the product sold.\n10. Total Revenue: It represents the total sales revenue generated from this transaction.\n11. Price Reductions: This indicates any discounts or price reductions applied to the total sales.\n12. Refunds: This represents the amount refunded for returned items.\n13. Final Revenue: This represents the net sales revenue after deductions such as discounts and refunds.\n14. Sales Tax: This represents any applicable taxes on the transaction.\n15. Overall Revenue: This column represents the total revenue, including taxes.\n16. Refunded Item Count: It indicates the quantity of items returned in this transaction.\n17. Purchased Item Count: This column represents the total quantity of items ordered in this transaction.",
+  "datasetId": 4557806,
+  "datasetSlug": "product-sales-and-returns-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yaminh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 2063,
+  "totalVotes": 11,
+  "totalDownloads": 372,
+  "title": "Product Sales and Returns Dataset",
+  "hasTitle": true,
+  "subtitle": "Insights into Retail Transactions. Best use for Customer Segmentation",
+  "hasSubtitle": true,
+  "description": "About the columns:\n\n1. Item Name: This column likely represents the name or description of the product.\n2. Category: This indicates the type or category of the product.\n3. Version: It specifies a particular version or variant of the product.\n4. Item Code: This is a unique code or identifier for the product variant.\n5. Item ID: This column represents a unique identifier for the specific item.\n6.  Buyer ID: It identifies the customer who made the purchase.\n7. Transaction ID: This is a unique identifier for the order or transaction.\n8. Date: This column represents the date when the transaction occurred.\n9. Final Quantity: This indicates the final quantity of the product sold.\n10. Total Revenue: It represents the total sales revenue generated from this transaction.\n11. Price Reductions: This indicates any discounts or price reductions applied to the total sales.\n12. Refunds: This represents the amount refunded for returned items.\n13. Final Revenue: This represents the net sales revenue after deductions such as discounts and refunds.\n14. Sales Tax: This represents any applicable taxes on the transaction.\n15. Overall Revenue: This column represents the total revenue, including taxes.\n16. Refunded Item Count: It indicates the quantity of items returned in this transaction.\n17. Purchased Item Count: This column represents the total quantity of items ordered in this transaction.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "intermediate",
+    "tabular",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

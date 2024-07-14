@@ -1,0 +1,45 @@
+{
+  "id": "olgabelitskaya/image-classification-for-biospecies",
+  "id_no": 679136,
+  "datasetSlugNullable": "image-classification-for-biospecies",
+  "ownerUserNullable": "olgabelitskaya",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Image Classification for Biospecies",
+  "subtitleNullable": "Collection of H5 Files",
+  "descriptionNullable": "## Context\n\nThis data collection was created for quick and easy applying Machine Learning.\nAll images and labels are numeric arrays with the same data types and shapes.\nOf course, the data is free for noncommercial and nongovernmental goals as original data.\n\n## Content\n\n1) DogBreedImages.h5(3.77 GB)\nOrigin: [Homepage](http://vision.stanford.edu/aditya86/ImageNetDogs/main.html)  &  [Source code](tfds.image_classification.stanford_dogs.StanfordDogs)\nImages (float32 =&gt; 128x128 pixels, 3 color channels) and labels (int32 =&gt; 120 classes): \n12,000 for training & 8580 for testing.\n\n## Acknowledgments\n\nThis catalog really impressed me =&gt; [TensorFlow Datasets](https://www.tensorflow.org/datasets/catalog/)\n\n## Inspiration\n\nDiscovering the capabilities of algorithms in the recognition of biological objects based on the same formatted data.",
+  "datasetId": 679136,
+  "datasetSlug": "image-classification-for-biospecies",
+  "hasDatasetSlug": true,
+  "ownerUser": "olgabelitskaya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 3941,
+  "totalVotes": 4,
+  "totalDownloads": 5,
+  "title": "Image Classification for Biospecies",
+  "hasTitle": true,
+  "subtitle": "Collection of H5 Files",
+  "hasSubtitle": true,
+  "description": "## Context\n\nThis data collection was created for quick and easy applying Machine Learning.\nAll images and labels are numeric arrays with the same data types and shapes.\nOf course, the data is free for noncommercial and nongovernmental goals as original data.\n\n## Content\n\n1) DogBreedImages.h5(3.77 GB)\nOrigin: [Homepage](http://vision.stanford.edu/aditya86/ImageNetDogs/main.html)  &  [Source code](tfds.image_classification.stanford_dogs.StanfordDogs)\nImages (float32 =&gt; 128x128 pixels, 3 color channels) and labels (int32 =&gt; 120 classes): \n12,000 for training & 8580 for testing.\n\n## Acknowledgments\n\nThis catalog really impressed me =&gt; [TensorFlow Datasets](https://www.tensorflow.org/datasets/catalog/)\n\n## Inspiration\n\nDiscovering the capabilities of algorithms in the recognition of biological objects based on the same formatted data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "computer science",
+    "computer vision",
+    "deep learning",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

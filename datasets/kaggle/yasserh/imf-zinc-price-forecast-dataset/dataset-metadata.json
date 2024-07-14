@@ -1,0 +1,43 @@
+{
+  "id": "yasserh/imf-zinc-price-forecast-dataset",
+  "id_no": 1833396,
+  "datasetSlugNullable": "imf-zinc-price-forecast-dataset",
+  "ownerUserNullable": "yasserh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IMF Zinc Price Forecast Dataset",
+  "subtitleNullable": "The Dataset to forecast the future prices of zinc.",
+  "descriptionNullable": "### Description:\n\nA simple yet challenging project, to forecast the IMF commodity price of Zinc, based on monthly totals zinc price recorded from 1980 to 2016.\nCan you overcome these obstacles & Forecast its future prices?\n\nThis data frame contains the following columns:\n\n* Month : The month of observation\n* Price : Average Prices of zinc in that particular month\n\n### Acknowledgement\n\nThis dataset is referred from Kaggle.\n\n### Objectives:\n- Understand the Dataset & cleanup (if required).\n- Perform the necessary checks like stationarity & DF on the Dataset.\n- Build a forcasting model to forecast zinc prices.",
+  "datasetId": 1833396,
+  "datasetSlug": "imf-zinc-price-forecast-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yasserh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1520,
+  "totalVotes": 8,
+  "totalDownloads": 205,
+  "title": "IMF Zinc Price Forecast Dataset",
+  "hasTitle": true,
+  "subtitle": "The Dataset to forecast the future prices of zinc.",
+  "hasSubtitle": true,
+  "description": "### Description:\n\nA simple yet challenging project, to forecast the IMF commodity price of Zinc, based on monthly totals zinc price recorded from 1980 to 2016.\nCan you overcome these obstacles & Forecast its future prices?\n\nThis data frame contains the following columns:\n\n* Month : The month of observation\n* Price : Average Prices of zinc in that particular month\n\n### Acknowledgement\n\nThis dataset is referred from Kaggle.\n\n### Objectives:\n- Understand the Dataset & cleanup (if required).\n- Perform the necessary checks like stationarity & DF on the Dataset.\n- Build a forcasting model to forecast zinc prices.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "manufacturing",
+    "beginner",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "cashbowman/sentiment-labeled-headlines",
+  "id_no": 3663765,
+  "datasetSlugNullable": "sentiment-labeled-headlines",
+  "ownerUserNullable": "cashbowman",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Sentiment Labeled Headlines",
+  "subtitleNullable": "Financial News Headlines with Sentiment Analysis Scores From 1-5",
+  "descriptionNullable": "This dataset includes information from three financial news organizations: CNBC, Guardian, and Reuters; such as dates of articles, headlines, and BERT sentiment analyses. The BERT code used to create sentiment will be pinned under 'code'.",
+  "datasetId": 3663765,
+  "datasetSlug": "sentiment-labeled-headlines",
+  "hasDatasetSlug": true,
+  "ownerUser": "cashbowman",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 542,
+  "totalVotes": 3,
+  "totalDownloads": 78,
+  "title": "Sentiment Labeled Headlines",
+  "hasTitle": true,
+  "subtitle": "Financial News Headlines with Sentiment Analysis Scores From 1-5",
+  "hasSubtitle": true,
+  "description": "This dataset includes information from three financial news organizations: CNBC, Guardian, and Reuters; such as dates of articles, headlines, and BERT sentiment analyses. The BERT code used to create sentiment will be pinned under 'code'.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "rnn",
+    "news",
+    "transformers",
+    "bert"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

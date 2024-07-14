@@ -1,0 +1,39 @@
+{
+  "id": "dariadorog/fake-news-in-politics",
+  "id_no": 3482243,
+  "datasetSlugNullable": "fake-news-in-politics",
+  "ownerUserNullable": "dariadorog",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Fake news in politics",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset is built from 2 separate datasets: liar liar pants on fire and ISOT. \nProper citations are provided below:\nW. Y. Wang, \u201c\u201d liar, liar pants on fire\u201d: A new benchmark dataset for fake news detection,\u201d arXiv preprint arXiv:1705.00648, 2017.\nH. Ahmed, I. Traore, and S. Saad, \u201cDetecting opinion spams and fake news using text classification,\u201d Journal of Security and Privacy, vol. 1, no. 1, 2018.\n\u201cDetection of online fake news using n-gram analysis and machine learning techniques,\u201d in Intelligent, Secure, and Dependable Systems in Distributed and Cloud Environments: First International Conference, ISDDC 2017, Vancouver, BC, Can- ada, October 26-28, 2017, Proceedings 1. Springer, 2017, pp. 127\u2013138.\n\nThe data from these 2 sources has been pre-processed, meaning some fields were left out and also some inputs, as it only covers a binary classification.",
+  "datasetId": 3482243,
+  "datasetSlug": "fake-news-in-politics",
+  "hasDatasetSlug": true,
+  "ownerUser": "dariadorog",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 425,
+  "totalVotes": 1,
+  "totalDownloads": 98,
+  "title": "Fake news in politics",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset is built from 2 separate datasets: liar liar pants on fire and ISOT. \nProper citations are provided below:\nW. Y. Wang, \u201c\u201d liar, liar pants on fire\u201d: A new benchmark dataset for fake news detection,\u201d arXiv preprint arXiv:1705.00648, 2017.\nH. Ahmed, I. Traore, and S. Saad, \u201cDetecting opinion spams and fake news using text classification,\u201d Journal of Security and Privacy, vol. 1, no. 1, 2018.\n\u201cDetection of online fake news using n-gram analysis and machine learning techniques,\u201d in Intelligent, Secure, and Dependable Systems in Distributed and Cloud Environments: First International Conference, ISDDC 2017, Vancouver, BC, Can- ada, October 26-28, 2017, Proceedings 1. Springer, 2017, pp. 127\u2013138.\n\nThe data from these 2 sources has been pre-processed, meaning some fields were left out and also some inputs, as it only covers a binary classification.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "politics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

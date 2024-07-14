@@ -1,0 +1,43 @@
+{
+  "id": "gatewayadam/cars-and-tanks-image-classification",
+  "id_no": 2930176,
+  "datasetSlugNullable": "cars-and-tanks-image-classification",
+  "ownerUserNullable": "gatewayadam",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Cars and Tanks Image Classification",
+  "subtitleNullable": "Test image classification skills with predictions for tanks and cars.",
+  "descriptionNullable": "Images are sourced from reddit r/carporn and r/tankporn.\nContains:\n735 training images of cars.\n586 training images of tanks.\n100 test images of each class.\nAll images are jpegs and have been resized and centered to 256x256.\nCheck out the full project repository here:  https://github.com/AdamPeetz/CustomImageClassifierTools\n\nIf you found my page, I would appreciate you taking a minute to upvote the dataset. Thanks - Adam",
+  "datasetId": 2930176,
+  "datasetSlug": "cars-and-tanks-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "gatewayadam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 3966,
+  "totalVotes": 19,
+  "totalDownloads": 627,
+  "title": "Cars and Tanks Image Classification",
+  "hasTitle": true,
+  "subtitle": "Test image classification skills with predictions for tanks and cars.",
+  "hasSubtitle": true,
+  "description": "Images are sourced from reddit r/carporn and r/tankporn.\nContains:\n735 training images of cars.\n586 training images of tanks.\n100 test images of each class.\nAll images are jpegs and have been resized and centered to 256x256.\nCheck out the full project repository here:  https://github.com/AdamPeetz/CustomImageClassifierTools\n\nIf you found my page, I would appreciate you taking a minute to upvote the dataset. Thanks - Adam",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "beginner",
+    "computer vision",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

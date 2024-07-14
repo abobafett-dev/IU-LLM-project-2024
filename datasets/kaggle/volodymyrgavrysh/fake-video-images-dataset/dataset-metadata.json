@@ -1,0 +1,43 @@
+{
+  "id": "volodymyrgavrysh/fake-video-images-dataset",
+  "id_no": 1683429,
+  "datasetSlugNullable": "fake-video-images-dataset",
+  "ownerUserNullable": "volodymyrgavrysh",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Fake_video_images_dataset",
+  "subtitleNullable": "Frame images taken from True/Fake video streams, for binary classification task",
+  "descriptionNullable": "### Context\n\nWith the advent of neural network architectures that are capable of forging various images* with a good degree of similarity, the problem of recognizing such modified images (video) has become urgent. This set of images is a good start for training classifiers of various types and architectures.\n\n### Content\nTotal 82k images in .jpg format. For each video used 2 random frames, i.g. 41k video processed. \n\nThe dataset contains frame images with a size of 160 x  160, random frames from a video stream, for 2 random frames each. \nThe file name indicates whether the video (and the frame, respectively) is modified or not.\n\nFor example, if the files are named **aafrqzumnqcjweerkqabfmxlyteecdou_9_0.jpg** and **aafrqzumnqcjweerkqabfmxlyteecdou_98_0.jpg**\nMeans the unique name of the video (**aafrqzumnqcjweerkqabfmxlyteecdou**), and **9** and **98** frame numbers (random numbers for each video) and label **0** (no fake video)\n\nHere is other file is labeled **1** i.e. video fake **aagnkwoqtttoqtmfflhnkypdpekspfon_3_1.jpg**\n\n### Acknowledgements\n\nUsed public video (Kaggle, YouTube)\n\n* here we assume that video is sequence of images ",
+  "datasetId": 1683429,
+  "datasetSlug": "fake-video-images-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "volodymyrgavrysh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 4423,
+  "totalVotes": 17,
+  "totalDownloads": 234,
+  "title": "Fake_video_images_dataset",
+  "hasTitle": true,
+  "subtitle": "Frame images taken from True/Fake video streams, for binary classification task",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWith the advent of neural network architectures that are capable of forging various images* with a good degree of similarity, the problem of recognizing such modified images (video) has become urgent. This set of images is a good start for training classifiers of various types and architectures.\n\n### Content\nTotal 82k images in .jpg format. For each video used 2 random frames, i.g. 41k video processed. \n\nThe dataset contains frame images with a size of 160 x  160, random frames from a video stream, for 2 random frames each. \nThe file name indicates whether the video (and the frame, respectively) is modified or not.\n\nFor example, if the files are named **aafrqzumnqcjweerkqabfmxlyteecdou_9_0.jpg** and **aafrqzumnqcjweerkqabfmxlyteecdou_98_0.jpg**\nMeans the unique name of the video (**aafrqzumnqcjweerkqabfmxlyteecdou**), and **9** and **98** frame numbers (random numbers for each video) and label **0** (no fake video)\n\nHere is other file is labeled **1** i.e. video fake **aagnkwoqtttoqtmfflhnkypdpekspfon_3_1.jpg**\n\n### Acknowledgements\n\nUsed public video (Kaggle, YouTube)\n\n* here we assume that video is sequence of images ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "neural networks",
+    "image",
+    "video",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

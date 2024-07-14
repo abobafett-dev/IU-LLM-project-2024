@@ -1,0 +1,43 @@
+{
+  "id": "elakapoor/article-published-analysis",
+  "id_no": 2050648,
+  "datasetSlugNullable": "article-published-analysis",
+  "ownerUserNullable": "elakapoor",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Article_published_analysis",
+  "subtitleNullable": "Articles scrapped from Guardian API related to Justin Trudeau ",
+  "descriptionNullable": "The data is collected as a project related to **web scraping** and **data analysis**. The data shows article published by ***Guardian*** till today. The data can be used for the time series analysis or for the sentiment analysis. It can provide the combine information such as how the sentiment changes over time. The analysis can be done related to the frequency under which the articles are published.\n",
+  "datasetId": 2050648,
+  "datasetSlug": "article-published-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "elakapoor",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 309,
+  "totalVotes": 3,
+  "totalDownloads": 27,
+  "title": "Article_published_analysis",
+  "hasTitle": true,
+  "subtitle": "Articles scrapped from Guardian API related to Justin Trudeau ",
+  "hasSubtitle": true,
+  "description": "The data is collected as a project related to **web scraping** and **data analysis**. The data shows article published by ***Guardian*** till today. The data can be used for the time series analysis or for the sentiment analysis. It can provide the combine information such as how the sentiment changes over time. The analysis can be done related to the frequency under which the articles are published.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "politics",
+    "data visualization",
+    "data analytics",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

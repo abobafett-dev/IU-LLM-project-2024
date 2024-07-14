@@ -1,0 +1,42 @@
+{
+  "id": "baraazaid/superhero-battles",
+  "id_no": 2841928,
+  "datasetSlugNullable": "superhero-battles",
+  "ownerUserNullable": "baraazaid",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Superhero Battles",
+  "subtitleNullable": "Dataset of over 200k Superhero fights and battles",
+  "descriptionNullable": "# Overview\nThis dataset contains information on various superhero battles, including the title of the battle, the url of the source of the battle, the characters involved, the characters' names, the characters' universes, the results of the battle, and the percentage of wins for each superhero. The dataset is provided in json format and contains a total of nearly 200k rows, with each row representing a different superhero battle.\n\n## Column Descriptions\n-**Battle_title**: The title of the battle.\n-**Battle_url**: The url of the source of the battle.\n-**Sup_1_Character**: The name of the first superhero involved in the battle (e.g. Batman).\n-**Sup_1_Name**: The real name of the first superhero involved in the battle (e.g. Bruce Wayne).\n-**Sup_1_Universe**: The universe of the first superhero involved in the battle.\n-**Sup_2_Character**: The name of the second superhero involved in the battle.\n-**Sup_2_Name**: The real name of the second superhero involved in the battle.\n-**Sup_2_Universe**: The universe of the second superhero involved in the battle.\n-**Superhero_1_win**: The percentage of wins for the first superhero.\n-**Superhero_2_win**: The percentage of wins for the second superhero.\n-**Draw**: The percentage that the battle ends in a draw.\n\n\n## Notes\nThe dataset was obtained using Python's scrapy. The scarper can be found (here)[https://github.com/BaraaZ95/Superhero_battles]\nThe Draw column was added separately from the scraped json file.\n",
+  "datasetId": 2841928,
+  "datasetSlug": "superhero-battles",
+  "hasDatasetSlug": true,
+  "ownerUser": "baraazaid",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1504,
+  "totalVotes": 6,
+  "totalDownloads": 249,
+  "title": "Superhero Battles",
+  "hasTitle": true,
+  "subtitle": "Dataset of over 200k Superhero fights and battles",
+  "hasSubtitle": true,
+  "description": "# Overview\nThis dataset contains information on various superhero battles, including the title of the battle, the url of the source of the battle, the characters involved, the characters' names, the characters' universes, the results of the battle, and the percentage of wins for each superhero. The dataset is provided in json format and contains a total of nearly 200k rows, with each row representing a different superhero battle.\n\n## Column Descriptions\n-**Battle_title**: The title of the battle.\n-**Battle_url**: The url of the source of the battle.\n-**Sup_1_Character**: The name of the first superhero involved in the battle (e.g. Batman).\n-**Sup_1_Name**: The real name of the first superhero involved in the battle (e.g. Bruce Wayne).\n-**Sup_1_Universe**: The universe of the first superhero involved in the battle.\n-**Sup_2_Character**: The name of the second superhero involved in the battle.\n-**Sup_2_Name**: The real name of the second superhero involved in the battle.\n-**Sup_2_Universe**: The universe of the second superhero involved in the battle.\n-**Superhero_1_win**: The percentage of wins for the first superhero.\n-**Superhero_2_win**: The percentage of wins for the second superhero.\n-**Draw**: The percentage that the battle ends in a draw.\n\n\n## Notes\nThe dataset was obtained using Python's scrapy. The scarper can be found (here)[https://github.com/BaraaZ95/Superhero_battles]\nThe Draw column was added separately from the scraped json file.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "tabular",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

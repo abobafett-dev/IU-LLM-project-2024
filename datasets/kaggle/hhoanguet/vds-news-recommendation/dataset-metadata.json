@@ -1,0 +1,48 @@
+{
+  "id": "hhoanguet/vds-news-recommendation",
+  "id_no": 3682141,
+  "datasetSlugNullable": "vds-news-recommendation",
+  "ownerUserNullable": "hhoanguet",
+  "usabilityRatingNullable": 0.3125,
+  "titleNullable": "VDS News Recommendation",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 3682141,
+  "datasetSlug": "vds-news-recommendation",
+  "hasDatasetSlug": true,
+  "ownerUser": "hhoanguet",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.3125,
+  "hasUsabilityRating": true,
+  "totalViews": 82,
+  "totalVotes": 0,
+  "totalDownloads": 12,
+  "title": "VDS News Recommendation",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "ngohoangdang",
+      "role": "reader"
+    },
+    {
+      "username": "del=eb35b30392f869ac",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

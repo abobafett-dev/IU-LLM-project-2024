@@ -1,0 +1,42 @@
+{
+  "id": "anubhavgoyal10/google-stock-prices-since-the-pandemic-started",
+  "id_no": 2475276,
+  "datasetSlugNullable": "google-stock-prices-since-the-pandemic-started",
+  "ownerUserNullable": "anubhavgoyal10",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Google Stock Prices Since COVID-19 started",
+  "subtitleNullable": "Dataset containing stock prices of Google since the pandemic began",
+  "descriptionNullable": "This dataset contains the stock prices of Google since the COVID-19 pandemic began. \nThere are 7 columns in this dataset:\n\n| Feature | Description |\n| --- | --- |\n| Data | Date on which the market was open |\n| Open | Stock price at which market was open |\n| High | Highest price of stock on that date |\n| Low | Lowest price of stock on that dated |\n| Close | Price of stock when market closed |\n| Adj Close | Adjusted closed price after considering some factors |\n| Volume | Volume of trade which took place during the day |",
+  "datasetId": 2475276,
+  "datasetSlug": "google-stock-prices-since-the-pandemic-started",
+  "hasDatasetSlug": true,
+  "ownerUser": "anubhavgoyal10",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3714,
+  "totalVotes": 34,
+  "totalDownloads": 602,
+  "title": "Google Stock Prices Since COVID-19 started",
+  "hasTitle": true,
+  "subtitle": "Dataset containing stock prices of Google since the pandemic began",
+  "hasSubtitle": true,
+  "description": "This dataset contains the stock prices of Google since the COVID-19 pandemic began. \nThere are 7 columns in this dataset:\n\n| Feature | Description |\n| --- | --- |\n| Data | Date on which the market was open |\n| Open | Stock price at which market was open |\n| High | Highest price of stock on that date |\n| Low | Lowest price of stock on that dated |\n| Close | Price of stock when market closed |\n| Adj Close | Adjusted closed price after considering some factors |\n| Volume | Volume of trade which took place during the day |",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

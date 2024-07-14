@@ -1,0 +1,39 @@
+{
+  "id": "msorondo/argentina-venta-de-propiedades",
+  "id_no": 819798,
+  "datasetSlugNullable": "argentina-venta-de-propiedades",
+  "ownerUserNullable": "msorondo",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "2 million rows of data on homes for sale",
+  "subtitleNullable": "Get your hands dirty with a dataset about homes for sale at Argentina.",
+  "descriptionNullable": "[Description in Spanish, original page](https://www.properati.com.ar/data/)\nThe data in this dataset was collected by <a href=\"https://www.properati.com.ar\">Properati</a>.\n\n# Context\n\nOne of the best applications of data science and machine learning in general is the real estate business. This data set provides data for those who want to make data analysis and use of machine learning models to perform multiple tasks and generate new insights.\n\n##Content\n\nIt consists of a .csv where each row contains a publication.\nThe .csv contains no missing data, this means that it is almost ready for use and model training. The only thing necessary is to convert the \"string\" type data into numerical data.\n\n##Columns\n\nid - Notice identifier. It is not unique: if the notification is updated by the real estate agency (new version of the notification) a new record is created with the same id but different dates: registration and cancellation.\n\noperation_type - Type of operation (these are all sales, can be removed).\n\nl2 - Administrative level 2: usually province\n\nl3 - Administrative level 3: usually city\n\nlat - Latitude.\n\nlon - Longitude.\n\nprice - Price published in the ad.\n\nproperty_type - Type of property (House, Apartment, PH).\n\nrooms - Number of rooms (useful in Argentina).\n\nbathrooms - Number of bathrooms.\n\nstart_date - Date when the ad was created.\n\nend_date - Date of termination of the advertisement.\n\ncreated_on - Date when the first version of the notice was created.\n\nsurface_total - Total area in m\u00b2.\n\nsurface_covered - Covered area in m\u00b2.\n\ntitle - Title of the advertisement.\n\ndescription - Description of the advertisement.\n\nad_type - Type of ad (Property, Development/Project).\n\n#Acknowledgements\n\nThe data in this dataset was collected by <a href=\"https://www.properati.com.ar\">Properati</a>.\n\n",
+  "datasetId": 819798,
+  "datasetSlug": "argentina-venta-de-propiedades",
+  "hasDatasetSlug": true,
+  "ownerUser": "msorondo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 13276,
+  "totalVotes": 22,
+  "totalDownloads": 1535,
+  "title": "2 million rows of data on homes for sale",
+  "hasTitle": true,
+  "subtitle": "Get your hands dirty with a dataset about homes for sale at Argentina.",
+  "hasSubtitle": true,
+  "description": "[Description in Spanish, original page](https://www.properati.com.ar/data/)\nThe data in this dataset was collected by <a href=\"https://www.properati.com.ar\">Properati</a>.\n\n# Context\n\nOne of the best applications of data science and machine learning in general is the real estate business. This data set provides data for those who want to make data analysis and use of machine learning models to perform multiple tasks and generate new insights.\n\n##Content\n\nIt consists of a .csv where each row contains a publication.\nThe .csv contains no missing data, this means that it is almost ready for use and model training. The only thing necessary is to convert the \"string\" type data into numerical data.\n\n##Columns\n\nid - Notice identifier. It is not unique: if the notification is updated by the real estate agency (new version of the notification) a new record is created with the same id but different dates: registration and cancellation.\n\noperation_type - Type of operation (these are all sales, can be removed).\n\nl2 - Administrative level 2: usually province\n\nl3 - Administrative level 3: usually city\n\nlat - Latitude.\n\nlon - Longitude.\n\nprice - Price published in the ad.\n\nproperty_type - Type of property (House, Apartment, PH).\n\nrooms - Number of rooms (useful in Argentina).\n\nbathrooms - Number of bathrooms.\n\nstart_date - Date when the ad was created.\n\nend_date - Date of termination of the advertisement.\n\ncreated_on - Date when the first version of the notice was created.\n\nsurface_total - Total area in m\u00b2.\n\nsurface_covered - Covered area in m\u00b2.\n\ntitle - Title of the advertisement.\n\ndescription - Description of the advertisement.\n\nad_type - Type of ad (Property, Development/Project).\n\n#Acknowledgements\n\nThe data in this dataset was collected by <a href=\"https://www.properati.com.ar\">Properati</a>.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "harshbhutra/amazons-bestsellers-in-clothing-and-accessories",
+  "id_no": 3622160,
+  "datasetSlugNullable": "amazons-bestsellers-in-clothing-and-accessories",
+  "ownerUserNullable": "harshbhutra",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Amazon's Bestsellers in Clothing & Accessories",
+  "subtitleNullable": "",
+  "descriptionNullable": "The data in the dataset lists all the best selling products on amazon in the category clothing and accessories. The columns in the DataFrame include:\n\nRanking: The ranking or position of the product in the list of best-selling apparel products.\n\nTitle: The title or name of the apparel product.\n\nReviews: The number of reviews or feedback received for the product.\n\nRatings: The rating or average customer rating for the product.",
+  "datasetId": 3622160,
+  "datasetSlug": "amazons-bestsellers-in-clothing-and-accessories",
+  "hasDatasetSlug": true,
+  "ownerUser": "harshbhutra",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 188,
+  "totalVotes": 1,
+  "totalDownloads": 24,
+  "title": "Amazon's Bestsellers in Clothing & Accessories",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The data in the dataset lists all the best selling products on amazon in the category clothing and accessories. The columns in the DataFrame include:\n\nRanking: The ranking or position of the product in the list of best-selling apparel products.\n\nTitle: The title or name of the apparel product.\n\nReviews: The number of reviews or feedback received for the product.\n\nRatings: The rating or average customer rating for the product.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

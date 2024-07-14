@@ -1,0 +1,40 @@
+{
+  "id": "hossamahmedsalah/anime-mal-dataset",
+  "id_no": 3539632,
+  "datasetSlugNullable": "anime-mal-dataset",
+  "ownerUserNullable": "hossamahmedsalah",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Anime MAL dataset",
+  "subtitleNullable": "My Anime List dataset ",
+  "descriptionNullable": "MyAnimeList is a popular online platform that allows users to create a list of anime and manga they have watched or read, rate them, and write reviews. The MyAnimeList dataset available on Kaggle is a collection of information about various anime titles and their corresponding attributes, such as title, genre, rating, popularity, and episode count.\n The columns include information about the anime title, the type of anime (TV show, movie, OVA, etc.), the genre(s) it belongs to, the studio that produced it, the source material (whether it is an original work or an adaptation), and the season and year of release.\n\nIn addition to the basic information, the dataset also includes ratings and popularity metrics, such as the number of users who have rated the anime and the average rating score, as well as the number of members who have added the anime to their list and the number of favorites. Moreover, the dataset includes information about the anime's episodes, duration, and opening and ending themes.\n\nThis dataset could be useful for various applications, such as building recommendation systems, conducting research on anime trends, and analyzing the relationship between various attributes (e.g., genre and popularity). Overall, the MyAnimeList dataset is an invaluable resource for anyone interested in anime and manga, and it provides a wealth of information that can be leveraged for various data-driven analyses.",
+  "datasetId": 3539632,
+  "datasetSlug": "anime-mal-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "hossamahmedsalah",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 889,
+  "totalVotes": 25,
+  "totalDownloads": 106,
+  "title": "Anime MAL dataset",
+  "hasTitle": true,
+  "subtitle": "My Anime List dataset ",
+  "hasSubtitle": true,
+  "description": "MyAnimeList is a popular online platform that allows users to create a list of anime and manga they have watched or read, rate them, and write reviews. The MyAnimeList dataset available on Kaggle is a collection of information about various anime titles and their corresponding attributes, such as title, genre, rating, popularity, and episode count.\n The columns include information about the anime title, the type of anime (TV show, movie, OVA, etc.), the genre(s) it belongs to, the studio that produced it, the source material (whether it is an original work or an adaptation), and the season and year of release.\n\nIn addition to the basic information, the dataset also includes ratings and popularity metrics, such as the number of users who have rated the anime and the average rating score, as well as the number of members who have added the anime to their list and the number of favorites. Moreover, the dataset includes information about the anime's episodes, duration, and opening and ending themes.\n\nThis dataset could be useful for various applications, such as building recommendation systems, conducting research on anime trends, and analyzing the relationship between various attributes (e.g., genre and popularity). Overall, the MyAnimeList dataset is an invaluable resource for anyone interested in anime and manga, and it provides a wealth of information that can be leveraged for various data-driven analyses.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "recommender systems",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Permissive - Version 1.0",
+      "name": "Community Data License Agreement - Permissive - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

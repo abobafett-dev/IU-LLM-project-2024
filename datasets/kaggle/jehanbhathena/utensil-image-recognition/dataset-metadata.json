@@ -1,0 +1,43 @@
+{
+  "id": "jehanbhathena/utensil-image-recognition",
+  "id_no": 1755187,
+  "datasetSlugNullable": "utensil-image-recognition",
+  "ownerUserNullable": "jehanbhathena",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Utensil Image Recognition",
+  "subtitleNullable": "Binary and raw images of 20 categories of utensils",
+  "descriptionNullable": "#Context\nThis dataset contains images of various Objects used in the kitchen, It contains images in both binary and raw format of images, It can be used for multiclass classification\n\n# Content\nThe Pictures are divided into Binary(Black and White) and Raw(Whole image) formats which are further divided into 20 categories.\n\n# Acknowledgements\n\n## Citation\nWe thank the D. Fullerton, A. Goel, R. B. Fisher for the use of the Edinburgh Kitchen Utensil Database. There is a [brief report](https://homepages.inf.ed.ac.uk/rbf/UTENSILS/AGreport.pdf) about the acquisition of the images and an initial exploration of automatic recognition by Arushi Goel.\n\n## Website of collection\nData Collected from https://homepages.inf.ed.ac.uk/rbf/UTENSILS/",
+  "datasetId": 1755187,
+  "datasetSlug": "utensil-image-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "jehanbhathena",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 7135,
+  "totalVotes": 23,
+  "totalDownloads": 354,
+  "title": "Utensil Image Recognition",
+  "hasTitle": true,
+  "subtitle": "Binary and raw images of 20 categories of utensils",
+  "hasSubtitle": true,
+  "description": "#Context\nThis dataset contains images of various Objects used in the kitchen, It contains images in both binary and raw format of images, It can be used for multiclass classification\n\n# Content\nThe Pictures are divided into Binary(Black and White) and Raw(Whole image) formats which are further divided into 20 categories.\n\n# Acknowledgements\n\n## Citation\nWe thank the D. Fullerton, A. Goel, R. B. Fisher for the use of the Edinburgh Kitchen Utensil Database. There is a [brief report](https://homepages.inf.ed.ac.uk/rbf/UTENSILS/AGreport.pdf) about the acquisition of the images and an initial exploration of automatic recognition by Arushi Goel.\n\n## Website of collection\nData Collected from https://homepages.inf.ed.ac.uk/rbf/UTENSILS/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "computer vision",
+    "deep learning",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

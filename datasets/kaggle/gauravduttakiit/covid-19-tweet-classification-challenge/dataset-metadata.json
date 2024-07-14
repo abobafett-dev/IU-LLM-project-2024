@@ -1,0 +1,39 @@
+{
+  "id": "gauravduttakiit/covid-19-tweet-classification-challenge",
+  "id_no": 3286628,
+  "datasetSlugNullable": "covid-19-tweet-classification-challenge",
+  "ownerUserNullable": "gauravduttakiit",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "COVID-19 Tweet Classification Challenge",
+  "subtitleNullable": "Can you identify tweets about coronavirus without using keywords?",
+  "descriptionNullable": "ML-driven sentiment analysis is an important tool to understand communities\u2019 feelings around major issues such as COVID-19. Gathering comprehensive social data for sentiment analysis can be limited, however, if data collection relies only on keywords such as \u2018coronavirus\u2019 or \u2018covid\u2019.\n\nThe objective of this challenge is to develop a machine learning model to assess if a Twitter post is about COVID-19 or not. This model will help gather tweet data about the epidemic without relying only on key words like \u2018covid\u2019 or \u2018coronavirus\u2019 being present, allowing researchers and engineers to gather a more comprehensive dataset for sentiment analysis.\n\nThis model could be put into practice as part of a larger effort to understand online sentiment around COVID-19, and inform future communications and public interventions by governments and non-government public health organisations.\n\n\n\nThe objective of this challenge is to develop a machine learning model to assess if a Twitter post is about covid-19 or not.The data used for this challenge has been collected by the Zindi team via Twitter API from tweets over the past year. The are ~7,000 tweets in the train set and ~3,000 in the test set.\n\nTweets have been classified as covid-19-related (1) or not covid-19-related (0). All tweets have had the following keywords removed:\n\ncorona\ncoronavirus\ncovid\ncovid19\ncovid-19\nsarscov2\n19\nThe tweets have also had usernames and web addresses removed to ensure anonymity.\n\nLeave your predictions as probabilities with values between 0 and 1 and do not round them to 0s or 1s.",
+  "datasetId": 3286628,
+  "datasetSlug": "covid-19-tweet-classification-challenge",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravduttakiit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 385,
+  "totalVotes": 1,
+  "totalDownloads": 32,
+  "title": "COVID-19 Tweet Classification Challenge",
+  "hasTitle": true,
+  "subtitle": "Can you identify tweets about coronavirus without using keywords?",
+  "hasSubtitle": true,
+  "description": "ML-driven sentiment analysis is an important tool to understand communities\u2019 feelings around major issues such as COVID-19. Gathering comprehensive social data for sentiment analysis can be limited, however, if data collection relies only on keywords such as \u2018coronavirus\u2019 or \u2018covid\u2019.\n\nThe objective of this challenge is to develop a machine learning model to assess if a Twitter post is about COVID-19 or not. This model will help gather tweet data about the epidemic without relying only on key words like \u2018covid\u2019 or \u2018coronavirus\u2019 being present, allowing researchers and engineers to gather a more comprehensive dataset for sentiment analysis.\n\nThis model could be put into practice as part of a larger effort to understand online sentiment around COVID-19, and inform future communications and public interventions by governments and non-government public health organisations.\n\n\n\nThe objective of this challenge is to develop a machine learning model to assess if a Twitter post is about covid-19 or not.The data used for this challenge has been collected by the Zindi team via Twitter API from tweets over the past year. The are ~7,000 tweets in the train set and ~3,000 in the test set.\n\nTweets have been classified as covid-19-related (1) or not covid-19-related (0). All tweets have had the following keywords removed:\n\ncorona\ncoronavirus\ncovid\ncovid19\ncovid-19\nsarscov2\n19\nThe tweets have also had usernames and web addresses removed to ensure anonymity.\n\nLeave your predictions as probabilities with values between 0 and 1 and do not round them to 0s or 1s.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

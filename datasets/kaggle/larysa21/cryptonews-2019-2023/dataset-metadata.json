@@ -1,0 +1,44 @@
+{
+  "id": "larysa21/cryptonews-2019-2023",
+  "id_no": 3487585,
+  "datasetSlugNullable": "cryptonews-2019-2023",
+  "ownerUserNullable": "larysa21",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Cryptonews 2019-2023",
+  "subtitleNullable": "Unveiling Cryptocurrency News: Sentiments and Criminal Activity",
+  "descriptionNullable": "Dataset represents a collection of news articles, mostly from 2022-2023 years, specifically focused on cryptocurrencies. It contains information related to 140 different cryptocurrencies (BTC, ETH, USDT, BNB, USDC, XRP, ADA, DOGE, LTC, SOL, TRX, DOT, MATIC, SHIB, BUSD, XMR, ATOM, NEAR, ALGO, EOS, LUNC, LUNA, DASH etc.).  \nThe dataset contains important columns including cryptocurrency, URL, title, text, date, predicted labels, sentiment, polarity, and subjectivity.  \nNotably, the dataset provides labels obtained through a machine learning algorithm that categorize the news articles as potentially related (1) or unrelated (0) to criminal activities (ML model - https://github.com/LaraCodesmith/crypto_news_illicit). This information enables researchers to investigate the prevalence of illicit practices within the cryptocurrency domain.  \nSentiment, polarity and subjectivity criteria were generated using TextBlob.  \nThis example dataset was collected using a news web-scrapper https://github.com/LaraCodesmith/crypto-news-scraper.",
+  "datasetId": 3487585,
+  "datasetSlug": "cryptonews-2019-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "larysa21",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 609,
+  "totalVotes": 6,
+  "totalDownloads": 118,
+  "title": "Cryptonews 2019-2023",
+  "hasTitle": true,
+  "subtitle": "Unveiling Cryptocurrency News: Sentiments and Criminal Activity",
+  "hasSubtitle": true,
+  "description": "Dataset represents a collection of news articles, mostly from 2022-2023 years, specifically focused on cryptocurrencies. It contains information related to 140 different cryptocurrencies (BTC, ETH, USDT, BNB, USDC, XRP, ADA, DOGE, LTC, SOL, TRX, DOT, MATIC, SHIB, BUSD, XMR, ATOM, NEAR, ALGO, EOS, LUNC, LUNA, DASH etc.).  \nThe dataset contains important columns including cryptocurrency, URL, title, text, date, predicted labels, sentiment, polarity, and subjectivity.  \nNotably, the dataset provides labels obtained through a machine learning algorithm that categorize the news articles as potentially related (1) or unrelated (0) to criminal activities (ML model - https://github.com/LaraCodesmith/crypto_news_illicit). This information enables researchers to investigate the prevalence of illicit practices within the cryptocurrency domain.  \nSentiment, polarity and subjectivity criteria were generated using TextBlob.  \nThis example dataset was collected using a news web-scrapper https://github.com/LaraCodesmith/crypto-news-scraper.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "finance",
+    "text",
+    "currencies and foreign exchange",
+    "news",
+    "text classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

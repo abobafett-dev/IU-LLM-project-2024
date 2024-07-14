@@ -1,0 +1,43 @@
+{
+  "id": "crawlfeeds/huffspot-news-dataset",
+  "id_no": 2244163,
+  "datasetSlugNullable": "huffspot-news-dataset",
+  "ownerUserNullable": "crawlfeeds",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Huffspot news dataset ",
+  "subtitleNullable": "Huffspot news Dataset  articles from year 2015 to 2022",
+  "descriptionNullable": "Huffspot news Dataset  news articles from year 2015 to 2022. \n\nFields:\nheadline, url, slug, short_description, tags, source, source_title, article_section, author, primary_image, language, description, raw_description, created_at, modified_at, published_at, uniq_id, scraped_at\n\nGet complete dataset from [crawl feeds]( https://crawlfeeds.com/datasets/news-category-dataset-from-huffpost) for research and analysis purposes",
+  "datasetId": 2244163,
+  "datasetSlug": "huffspot-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "crawlfeeds",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 350,
+  "totalVotes": 5,
+  "totalDownloads": 44,
+  "title": "Huffspot news dataset ",
+  "hasTitle": true,
+  "subtitle": "Huffspot news Dataset  articles from year 2015 to 2022",
+  "hasSubtitle": true,
+  "description": "Huffspot news Dataset  news articles from year 2015 to 2022. \n\nFields:\nheadline, url, slug, short_description, tags, source, source_title, article_section, author, primary_image, language, description, raw_description, created_at, modified_at, published_at, uniq_id, scraped_at\n\nGet complete dataset from [crawl feeds]( https://crawlfeeds.com/datasets/news-category-dataset-from-huffpost) for research and analysis purposes",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "data analytics",
+    "tabular",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

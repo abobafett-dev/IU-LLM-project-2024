@@ -1,0 +1,40 @@
+{
+  "id": "danttis/one-piece-haki-users",
+  "id_no": 5218303,
+  "datasetSlugNullable": "one-piece-haki-users",
+  "ownerUserNullable": "danttis",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "One Piece - Haki Users",
+  "subtitleNullable": "List of users of each type of Haki from the Anime One Piece",
+  "descriptionNullable": "**One Piece** is one of the most famous anime of all time. In the anime, there are several types of powers that users have access to. Some of them are:\n\n1. **Devil Fruits**: These are special fruits that grant powers to whoever consumes them.\n2. **Haki**: These powers are classified into three types:\n\n - **Kenbunshoku Haki (Observation Haki)**: Grants the user the ability to predict the opponent's movements, see long distances and predict the future.\n - **Busoshoku Haki (Armament Haki)**: Grants the user the ability to cover the body like armor. It is also possible to cover objects, making them more resistant and sharp.\n - **Haoshoku Haki (Conqueror's Haki)**: Allows the user to impose their own will on others.\n\nIn the available dataset, we have the character's name and three columns that indicate the types of Haki. In these columns, 1 indicates that the user has the Haki type and 0 indicates that they do not have it.\n\nThe dataset comes from a web scraping of the website: https://onepiece.fandom.com/",
+  "datasetId": 5218303,
+  "datasetSlug": "one-piece-haki-users",
+  "hasDatasetSlug": true,
+  "ownerUser": "danttis",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 64,
+  "totalVotes": 2,
+  "totalDownloads": 8,
+  "title": "One Piece - Haki Users",
+  "hasTitle": true,
+  "subtitle": "List of users of each type of Haki from the Anime One Piece",
+  "hasSubtitle": true,
+  "description": "**One Piece** is one of the most famous anime of all time. In the anime, there are several types of powers that users have access to. Some of them are:\n\n1. **Devil Fruits**: These are special fruits that grant powers to whoever consumes them.\n2. **Haki**: These powers are classified into three types:\n\n - **Kenbunshoku Haki (Observation Haki)**: Grants the user the ability to predict the opponent's movements, see long distances and predict the future.\n - **Busoshoku Haki (Armament Haki)**: Grants the user the ability to cover the body like armor. It is also possible to cover objects, making them more resistant and sharp.\n - **Haoshoku Haki (Conqueror's Haki)**: Allows the user to impose their own will on others.\n\nIn the available dataset, we have the character's name and three columns that indicate the types of Haki. In these columns, 1 indicates that the user has the Haki type and 0 indicates that they do not have it.\n\nThe dataset comes from a web scraping of the website: https://onepiece.fandom.com/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

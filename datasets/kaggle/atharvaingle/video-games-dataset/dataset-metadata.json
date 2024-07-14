@@ -1,0 +1,43 @@
+{
+  "id": "atharvaingle/video-games-dataset",
+  "id_no": 1190950,
+  "datasetSlugNullable": "video-games-dataset",
+  "ownerUserNullable": "atharvaingle",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Video Games Dataset",
+  "subtitleNullable": "Sale description of most popular video games",
+  "descriptionNullable": "### Context\n\nThis dataset has the sale history of most popular video game year and region wise\n\n### Description\n- `Rank` =&gt; Rank of the game\n- `Name` =&gt; Name of the game\n- `Platform` =&gt; Platform on which the game can run\n- `Year` =&gt; Release year\n- `Genre` =&gt; Genre of game\n- `Publisher` =&gt; Publishing company\n- `NorthAmerica_Sales` =&gt; Sales in North America \n- `EurpeanUnion_Sales` =&gt; Sales in European Union\n- `Japan_Sales` =&gt; Sales in Japan\n- `Other_Sales` =&gt; Sales in other countries\n- `Global_Sales` =&gt; Total Global sales",
+  "datasetId": 1190950,
+  "datasetSlug": "video-games-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "atharvaingle",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 15443,
+  "totalVotes": 25,
+  "totalDownloads": 1483,
+  "title": "Video Games Dataset",
+  "hasTitle": true,
+  "subtitle": "Sale description of most popular video games",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset has the sale history of most popular video game year and region wise\n\n### Description\n- `Rank` =&gt; Rank of the game\n- `Name` =&gt; Name of the game\n- `Platform` =&gt; Platform on which the game can run\n- `Year` =&gt; Release year\n- `Genre` =&gt; Genre of game\n- `Publisher` =&gt; Publishing company\n- `NorthAmerica_Sales` =&gt; Sales in North America \n- `EurpeanUnion_Sales` =&gt; Sales in European Union\n- `Japan_Sales` =&gt; Sales in Japan\n- `Other_Sales` =&gt; Sales in other countries\n- `Global_Sales` =&gt; Total Global sales",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games",
+    "beginner",
+    "classification",
+    "clustering",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

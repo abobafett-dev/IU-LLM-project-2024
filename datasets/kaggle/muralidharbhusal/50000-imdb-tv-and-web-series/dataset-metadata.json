@@ -1,0 +1,43 @@
+{
+  "id": "muralidharbhusal/50000-imdb-tv-and-web-series",
+  "id_no": 2802805,
+  "datasetSlugNullable": "50000-imdb-tv-and-web-series",
+  "ownerUserNullable": "muralidharbhusal",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "50,000 IMDB TV and Web Series",
+  "subtitleNullable": "Top 50,000 IMDB TV and Web series based on popularity",
+  "descriptionNullable": "## About Dataset\n\n### Context \nScrapped from IMDb, the dataset is a collection of top 50,000 TV shows worldwide based on their popularity.\n\n### Content\nThe data contains 7 columns and 50,000 rows. \n1. Series Title : The name of the TV show\n2. Release Year : The Year the show was released in \n3. Runtime : The runtime of single episode of the Show\n4. Genre : The genre of the show \n5. Rating : The rating the specific show has received from users in IMDB\n6. Cast : The leading stars of the show\n7. Synopsis : Background and summary of the story of the show\n\n### Inspiration\n\nOne of the most popular use of this dataset can be to create recommendation systems. The series can be categorized based on cast of your choice, rating and the type of genre you are into among others.\n\n### Acknowledgement\nThe dataset is prepared by scraping the IMDb's website but is not endorsed by IMDb.",
+  "datasetId": 2802805,
+  "datasetSlug": "50000-imdb-tv-and-web-series",
+  "hasDatasetSlug": true,
+  "ownerUser": "muralidharbhusal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 6009,
+  "totalVotes": 35,
+  "totalDownloads": 1025,
+  "title": "50,000 IMDB TV and Web Series",
+  "hasTitle": true,
+  "subtitle": "Top 50,000 IMDB TV and Web series based on popularity",
+  "hasSubtitle": true,
+  "description": "## About Dataset\n\n### Context \nScrapped from IMDb, the dataset is a collection of top 50,000 TV shows worldwide based on their popularity.\n\n### Content\nThe data contains 7 columns and 50,000 rows. \n1. Series Title : The name of the TV show\n2. Release Year : The Year the show was released in \n3. Runtime : The runtime of single episode of the Show\n4. Genre : The genre of the show \n5. Rating : The rating the specific show has received from users in IMDB\n6. Cast : The leading stars of the show\n7. Synopsis : Background and summary of the story of the show\n\n### Inspiration\n\nOne of the most popular use of this dataset can be to create recommendation systems. The series can be categorized based on cast of your choice, rating and the type of genre you are into among others.\n\n### Acknowledgement\nThe dataset is prepared by scraping the IMDb's website but is not endorsed by IMDb.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "intermediate",
+    "recommender systems",
+    "text",
+    "randomForest"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

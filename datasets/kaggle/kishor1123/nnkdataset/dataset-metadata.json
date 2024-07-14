@@ -1,0 +1,49 @@
+{
+  "id": "kishor1123/nnkdataset",
+  "id_no": 890491,
+  "datasetSlugNullable": "nnkdataset",
+  "ownerUserNullable": "kishor1123",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "NNK-Dataset",
+  "subtitleNullable": " collection of 1000 news report dataset on COVID-19",
+  "descriptionNullable": "We accumulated 1000 online newspaper report from United States of America (USA) on COVID-19. The newspaper includes The Washington Post (USA) and StarTribune (USA). We have named it as \u201cCovid-News-USA-NNK\u201d. We also accumulated 50 online newspaper report from Bangladesh on the issue and named it \u201cCovid-News-BD-NNK\u201d. The newspaper includes The Daily Star (BD) and Prothom Alo (BD). All these newspapers are from the top provider and top read in the respective countries. The collection was done manually by 10 human data-collectors of age group 23- with university degrees. This approach was suitable compared to automation to ensure the news were highly relevant to the subject. The newspaper online sites had dynamic content with advertisements in no particular order. Therefore there were high chances of online scrappers to collect inaccurate news reports. One of the challenges while collecting the data is the requirement of subscription. Each newspaper required $1 per subscriptions. Some criteria in collecting the news reports provided as guideline to the human data-collectors were as follows:\n\n    The headline must have one or more words directly or indirectly related to COVID-19.\n    The content of each news must have 5 or more keywords directly or indirectly related to COVID-19.\n    The genre of the news can be anything as long as it is relevant to the topic. Political, social, economical genres are to be more prioritized.\n    Avoid taking duplicate reports.\n    Maintain a time frame for the above mentioned newspapers.\n\nTo collect these data we used a google form for USA and BD. We have two human editor to go through each entry to check any spam or troll entry.\n\n2.2 Data Pre-processing and Statistics\n\nSome pre-processing steps performed on the newspaper report dataset are as follows:\n\n    Remove hyperlinks.\n    Remove non-English alphanumeric characters.\n    Remove stop words.\n    Lemmatize text.\n\nWhile more pre-processing could have been applied, we tried to keep the data as much unchanged as possible since changing sentence structures could result us in valuable information loss. While this was done with help of a script, we also assigned same human collectors to cross check for any presence of the above mentioned criteria.\n\nFor citeation : Sadman, N. (2020). INTRODUCTION OF COVID-NEWS-US-NNK AND COVID-NEWS-BD-NNK DATASET. doi:10.13140/RG.2.2.19443.96802\n",
+  "datasetId": 890491,
+  "datasetSlug": "nnkdataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kishor1123",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 2750,
+  "totalVotes": 4,
+  "totalDownloads": 78,
+  "title": "NNK-Dataset",
+  "hasTitle": true,
+  "subtitle": " collection of 1000 news report dataset on COVID-19",
+  "hasSubtitle": true,
+  "description": "We accumulated 1000 online newspaper report from United States of America (USA) on COVID-19. The newspaper includes The Washington Post (USA) and StarTribune (USA). We have named it as \u201cCovid-News-USA-NNK\u201d. We also accumulated 50 online newspaper report from Bangladesh on the issue and named it \u201cCovid-News-BD-NNK\u201d. The newspaper includes The Daily Star (BD) and Prothom Alo (BD). All these newspapers are from the top provider and top read in the respective countries. The collection was done manually by 10 human data-collectors of age group 23- with university degrees. This approach was suitable compared to automation to ensure the news were highly relevant to the subject. The newspaper online sites had dynamic content with advertisements in no particular order. Therefore there were high chances of online scrappers to collect inaccurate news reports. One of the challenges while collecting the data is the requirement of subscription. Each newspaper required $1 per subscriptions. Some criteria in collecting the news reports provided as guideline to the human data-collectors were as follows:\n\n    The headline must have one or more words directly or indirectly related to COVID-19.\n    The content of each news must have 5 or more keywords directly or indirectly related to COVID-19.\n    The genre of the news can be anything as long as it is relevant to the topic. Political, social, economical genres are to be more prioritized.\n    Avoid taking duplicate reports.\n    Maintain a time frame for the above mentioned newspapers.\n\nTo collect these data we used a google form for USA and BD. We have two human editor to go through each entry to check any spam or troll entry.\n\n2.2 Data Pre-processing and Statistics\n\nSome pre-processing steps performed on the newspaper report dataset are as follows:\n\n    Remove hyperlinks.\n    Remove non-English alphanumeric characters.\n    Remove stop words.\n    Lemmatize text.\n\nWhile more pre-processing could have been applied, we tried to keep the data as much unchanged as possible since changing sentence structures could result us in valuable information loss. While this was done with help of a script, we also assigned same human collectors to cross check for any presence of the above mentioned criteria.\n\nFor citeation : Sadman, N. (2020). INTRODUCTION OF COVID-NEWS-US-NNK AND COVID-NEWS-BD-NNK DATASET. doi:10.13140/RG.2.2.19443.96802\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "nlp",
+    "text mining",
+    "text",
+    "news",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "nafizsadman",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

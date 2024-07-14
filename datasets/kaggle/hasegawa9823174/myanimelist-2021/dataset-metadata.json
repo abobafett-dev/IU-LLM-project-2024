@@ -1,0 +1,40 @@
+{
+  "id": "hasegawa9823174/myanimelist-2021",
+  "id_no": 1501270,
+  "datasetSlugNullable": "myanimelist-2021",
+  "ownerUserNullable": "hasegawa9823174",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "MyAnimeList 2021",
+  "subtitleNullable": "contains 449k users, 18k anime and 74 mil. ratings from myanimelist.net",
+  "descriptionNullable": "### About\nThis dataset contains some of the information publicly displayed at https://myanimelist.net. That is information about Anime itself as well as user ratings and user data.\n\n\n### Content\n\nThis dataset contains\n\n- 449 251 users\n- 18 353 anime\n- 129 419 831 anime list entries\n- 74 098 119 of those with a rating\n\ncrawled from https://myanimelist.net using https://jikan.moe/ .\n\nThe files users.tar.zst and anime.tar.zst contain the API responses from Jikan as json/csv file for each request, everything else in this dataset is derived from these. There has been done no further cleaning or filtering of the data.\n\n### Loading tables\n\nYou can either decompress the archives using https://github.com/facebook/zstd or directly read from them with python:\n```python\nimport pandas as pd\nimport zstandard as zstd\n\ndef read_zstd(path: str):\n    with open(path, \"rb\") as f:\n        return pd.read_csv(zstd.ZstdDecompressor().stream_reader(f))\n\ndf = read_zstd(\"anime.csv.zst\")\n```",
+  "datasetId": 1501270,
+  "datasetSlug": "myanimelist-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "hasegawa9823174",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 2887,
+  "totalVotes": 12,
+  "totalDownloads": 272,
+  "title": "MyAnimeList 2021",
+  "hasTitle": true,
+  "subtitle": "contains 449k users, 18k anime and 74 mil. ratings from myanimelist.net",
+  "hasSubtitle": true,
+  "description": "### About\nThis dataset contains some of the information publicly displayed at https://myanimelist.net. That is information about Anime itself as well as user ratings and user data.\n\n\n### Content\n\nThis dataset contains\n\n- 449 251 users\n- 18 353 anime\n- 129 419 831 anime list entries\n- 74 098 119 of those with a rating\n\ncrawled from https://myanimelist.net using https://jikan.moe/ .\n\nThe files users.tar.zst and anime.tar.zst contain the API responses from Jikan as json/csv file for each request, everything else in this dataset is derived from these. There has been done no further cleaning or filtering of the data.\n\n### Loading tables\n\nYou can either decompress the archives using https://github.com/facebook/zstd or directly read from them with python:\n```python\nimport pandas as pd\nimport zstandard as zstd\n\ndef read_zstd(path: str):\n    with open(path, \"rb\") as f:\n        return pd.read_csv(zstd.ZstdDecompressor().stream_reader(f))\n\ndf = read_zstd(\"anime.csv.zst\")\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "tabular",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

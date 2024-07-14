@@ -1,0 +1,41 @@
+{
+  "id": "/fivethirtyeight-puerto-rico-media-dataset",
+  "id_no": 68935,
+  "datasetSlugNullable": "fivethirtyeight-puerto-rico-media-dataset",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "FiveThirtyEight Puerto Rico Media Dataset",
+  "subtitleNullable": "Explore Data from FiveThirtyEight",
+  "descriptionNullable": "### Content  \n\n# Puerto Rico Media\n\nThis folder contains data behind the stories:\n* [The Media Really Has Neglected Puerto Rico](https://fivethirtyeight.com/features/the-media-really-has-neglected-puerto-rico/)\n* [The Media Really Started Paying Attention To Puerto Rico When Trump Did](https://fivethirtyeight.com/features/the-media-really-started-paying-attention-to-puerto-rico-when-trump-did/)\n\n### Online News Data\n\nData about Online News was collected using the [Media Cloud](https://mediacloud.org/) dashboard, an open source suite of tools for analyzing a database of online news.\n\n* `mediacloud_hurricanes.csv` contains the number of sentences per day that mention Hurricanes Harvey, Irma, Jose, and Maria in online news.\n* `mediacloud_states.csv` **(Updated through 10/10/2017)** contains the number of sentences per day that mention Puerto Rico, Texas, and Florida in online news.\n* `mediacloud_trump.csv` **(Updated through 10/10/2017)** contains the number of headlines that mention Puerto Rico, Texas, and Florida, as well as headlines that mention those three locations along with 'President' or 'Trump'.\n* `mediacloud_top_online_news.csv` contains a list of sources included in Media Cloud's \"U.S. Top Online News\" collection.\n\n\n### TV News Data\n\nTV News Data was collected from the [Internet TV News Archive](https://archive.org/details/tv) using the [Television Explorer](https://television.gdeltproject.org/cgi-bin/iatv_ftxtsearch/iatv_ftxtsearch) tool. \n\n* `tv_hurricanes.csv` - contains the percent of sentences per day in TV News that mention Hurricanes Harvey, Irma, Jose, and Maria.\n* `tv_hurricanes_by_network.csv` - contains the percent of sentences per day in TV News per network that mention Hurricanes Harvey, Irma, Jose, and Maria.\n* `tv_states.csv` **(Updated through 10/10/2017)** - contains the percent of sentences per day in TV News that mention Puerto Rico, Texas, and Florida.\n\n### Google Search Queries\n\nGoogle search data was collected using the [Google Trends](https://trends.google.com/trends/) dashboard.\n\n* `google_trends.csv` - Contains data on google trend searches for Hurricanes Harvey, Irma, Jose, and Maria.\n  \n\n### Context  \n\nThis is a dataset from [FiveThirtyEight](https://fivethirtyeight.com/) hosted on their [GitHub](https://github.com/fivethirtyeight/data). Explore FiveThirtyEight data using Kaggle and all of the data sources available through the FiveThirtyEight [organization page](https://www.kaggle.com/fivethirtyeight)!  \n\n* Update Frequency: This dataset is updated daily.\n\n### Acknowledgements\n\nThis dataset is maintained using GitHub's [API](https://developer.github.com/v3/?) and Kaggle's [API](https://github.com/Kaggle/kaggle-api).\n\nThis dataset is distributed under the [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.",
+  "datasetId": 68935,
+  "datasetSlug": "fivethirtyeight-puerto-rico-media-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 4107,
+  "totalVotes": 1,
+  "totalDownloads": 59,
+  "title": "FiveThirtyEight Puerto Rico Media Dataset",
+  "hasTitle": true,
+  "subtitle": "Explore Data from FiveThirtyEight",
+  "hasSubtitle": true,
+  "description": "### Content  \n\n# Puerto Rico Media\n\nThis folder contains data behind the stories:\n* [The Media Really Has Neglected Puerto Rico](https://fivethirtyeight.com/features/the-media-really-has-neglected-puerto-rico/)\n* [The Media Really Started Paying Attention To Puerto Rico When Trump Did](https://fivethirtyeight.com/features/the-media-really-started-paying-attention-to-puerto-rico-when-trump-did/)\n\n### Online News Data\n\nData about Online News was collected using the [Media Cloud](https://mediacloud.org/) dashboard, an open source suite of tools for analyzing a database of online news.\n\n* `mediacloud_hurricanes.csv` contains the number of sentences per day that mention Hurricanes Harvey, Irma, Jose, and Maria in online news.\n* `mediacloud_states.csv` **(Updated through 10/10/2017)** contains the number of sentences per day that mention Puerto Rico, Texas, and Florida in online news.\n* `mediacloud_trump.csv` **(Updated through 10/10/2017)** contains the number of headlines that mention Puerto Rico, Texas, and Florida, as well as headlines that mention those three locations along with 'President' or 'Trump'.\n* `mediacloud_top_online_news.csv` contains a list of sources included in Media Cloud's \"U.S. Top Online News\" collection.\n\n\n### TV News Data\n\nTV News Data was collected from the [Internet TV News Archive](https://archive.org/details/tv) using the [Television Explorer](https://television.gdeltproject.org/cgi-bin/iatv_ftxtsearch/iatv_ftxtsearch) tool. \n\n* `tv_hurricanes.csv` - contains the percent of sentences per day in TV News that mention Hurricanes Harvey, Irma, Jose, and Maria.\n* `tv_hurricanes_by_network.csv` - contains the percent of sentences per day in TV News per network that mention Hurricanes Harvey, Irma, Jose, and Maria.\n* `tv_states.csv` **(Updated through 10/10/2017)** - contains the percent of sentences per day in TV News that mention Puerto Rico, Texas, and Florida.\n\n### Google Search Queries\n\nGoogle search data was collected using the [Google Trends](https://trends.google.com/trends/) dashboard.\n\n* `google_trends.csv` - Contains data on google trend searches for Hurricanes Harvey, Irma, Jose, and Maria.\n  \n\n### Context  \n\nThis is a dataset from [FiveThirtyEight](https://fivethirtyeight.com/) hosted on their [GitHub](https://github.com/fivethirtyeight/data). Explore FiveThirtyEight data using Kaggle and all of the data sources available through the FiveThirtyEight [organization page](https://www.kaggle.com/fivethirtyeight)!  \n\n* Update Frequency: This dataset is updated daily.\n\n### Acknowledgements\n\nThis dataset is maintained using GitHub's [API](https://developer.github.com/v3/?) and Kaggle's [API](https://github.com/Kaggle/kaggle-api).\n\nThis dataset is distributed under the [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "internet",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

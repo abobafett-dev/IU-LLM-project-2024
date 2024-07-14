@@ -1,0 +1,52 @@
+{
+  "id": "dinishsubaramaniam/op-episodes-and-arcs",
+  "id_no": 3766211,
+  "datasetSlugNullable": "op-episodes-and-arcs",
+  "ownerUserNullable": "dinishsubaramaniam",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "One Piece Episodes & Arcs",
+  "subtitleNullable": "Analyzing One Piece Episode & Arc: Ratings, Manga%, and Anime%",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10573470%2Fcf82aa3bf60b7b99baf59e98bec8f50b%2FEddZwxLVAAE9DJa.jfif?generation=1695301281767230&alt=media)\n\nLike its rubber protagonist, One Piece is a media franchise that can bend and stretch every which way. Created by manga artist Eiichiro Oda, it tells the tale of a young boy named Luffy and his pirate crew as they embark on a quest for a legendary treasure known as the One Piece. Initially, it began as a serialized comic in Weekly Sh\u014dnen Jump back in 1997. Now, after more than 25 years, the series continues to thrive, boasting over 1,000 chapters and more than 100 volumes. Since its inception, One Piece has expanded into a popular anime adaptation, numerous cinematic adaptations, various video games, and most recently, a live-action series produced by Netflix.\n\nHere are two data sets. The first data set **(one piece arcs)** contains the list of every Arc with the following columns:\n\n* Arc Name - Name of the Arc\n* Arc Type - Cannon or Filler\n* Total Chapters - Total number of chapters drawn In Manga Volume\n* Manga Percentage - The overall contribution of that particular Arc in One Piece Manga\n* Total Episodes - Total number of episode animated by Toei Animation\n* Total Minutes - Total number of minutes of episode In the Arc\n* Anime Percentage - The overall contribution of that particular Arc in One Piece Anime\n\n\nWhereas, the second data set **(one piece episodes)**, collected from [here](https://www.ratingraph.com/tv-shows/one-piece-ratings-17673/), contains the list of every episode with the following columns:\n\n* Episode Number - Number of the episode\n* Episode Name - Name of the episode\n* Episode Type - Canon or Filler\n* Arc Name - Name of the Arc\n* Year - Year of episode release\n* Total Vote - Total number of votes per episode\n* Average Rating - Average rating of each episode",
+  "datasetId": 3766211,
+  "datasetSlug": "op-episodes-and-arcs",
+  "hasDatasetSlug": true,
+  "ownerUser": "dinishsubaramaniam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1773,
+  "totalVotes": 15,
+  "totalDownloads": 264,
+  "title": "One Piece Episodes & Arcs",
+  "hasTitle": true,
+  "subtitle": "Analyzing One Piece Episode & Arc: Ratings, Manga%, and Anime%",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10573470%2Fcf82aa3bf60b7b99baf59e98bec8f50b%2FEddZwxLVAAE9DJa.jfif?generation=1695301281767230&alt=media)\n\nLike its rubber protagonist, One Piece is a media franchise that can bend and stretch every which way. Created by manga artist Eiichiro Oda, it tells the tale of a young boy named Luffy and his pirate crew as they embark on a quest for a legendary treasure known as the One Piece. Initially, it began as a serialized comic in Weekly Sh\u014dnen Jump back in 1997. Now, after more than 25 years, the series continues to thrive, boasting over 1,000 chapters and more than 100 volumes. Since its inception, One Piece has expanded into a popular anime adaptation, numerous cinematic adaptations, various video games, and most recently, a live-action series produced by Netflix.\n\nHere are two data sets. The first data set **(one piece arcs)** contains the list of every Arc with the following columns:\n\n* Arc Name - Name of the Arc\n* Arc Type - Cannon or Filler\n* Total Chapters - Total number of chapters drawn In Manga Volume\n* Manga Percentage - The overall contribution of that particular Arc in One Piece Manga\n* Total Episodes - Total number of episode animated by Toei Animation\n* Total Minutes - Total number of minutes of episode In the Arc\n* Anime Percentage - The overall contribution of that particular Arc in One Piece Anime\n\n\nWhereas, the second data set **(one piece episodes)**, collected from [here](https://www.ratingraph.com/tv-shows/one-piece-ratings-17673/), contains the list of every episode with the following columns:\n\n* Episode Number - Number of the episode\n* Episode Name - Name of the episode\n* Episode Type - Canon or Filler\n* Arc Name - Name of the Arc\n* Year - Year of episode release\n* Total Vote - Total number of votes per episode\n* Average Rating - Average rating of each episode",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data visualization",
+    "data analytics",
+    "anime and manga",
+    "ggplot2",
+    "r"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "aditya2803",
+      "role": "reader"
+    },
+    {
+      "username": "tarundalal",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

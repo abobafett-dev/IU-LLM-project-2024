@@ -1,0 +1,42 @@
+{
+  "id": "brikwerk/ikeafs",
+  "id_no": 2668209,
+  "datasetSlugNullable": "ikeafs",
+  "ownerUserNullable": "brikwerk",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "IKEA-FS",
+  "subtitleNullable": "IKEA furniture images for out-of-domain few-shot classification",
+  "descriptionNullable": "IKEA-FS: A dataset composed of IKEA furniture images for out-of-domain few-shot classification.\n\nWe recommend using IKEA-FS as an out-of-domain testing target for few-shot learning. As such, we publish no training/testing splits for use with this dataset.\n\n## Dataset Structure and Composition\n\nThis dataset is structured as an image folder dataset, meaning each folder represents a class and contains images of the respective class.\n\nTotal Number of Images: 1092\nTotal Number of Classes: 46\nImages per Class: ~20-36\n\n## Testing Setup\n\nIn-domain Training Set: mini-imagenet training set\nTesting Settings: 5-way 1-shot and 5-way 5-shot\n\n## License\n\nMIT",
+  "datasetId": 2668209,
+  "datasetSlug": "ikeafs",
+  "hasDatasetSlug": true,
+  "ownerUser": "brikwerk",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 1663,
+  "totalVotes": 4,
+  "totalDownloads": 188,
+  "title": "IKEA-FS",
+  "hasTitle": true,
+  "subtitle": "IKEA furniture images for out-of-domain few-shot classification",
+  "hasSubtitle": true,
+  "description": "IKEA-FS: A dataset composed of IKEA furniture images for out-of-domain few-shot classification.\n\nWe recommend using IKEA-FS as an out-of-domain testing target for few-shot learning. As such, we publish no training/testing splits for use with this dataset.\n\n## Dataset Structure and Composition\n\nThis dataset is structured as an image folder dataset, meaning each folder represents a class and contains images of the respective class.\n\nTotal Number of Images: 1092\nTotal Number of Classes: 46\nImages per Class: ~20-36\n\n## Testing Setup\n\nIn-domain Training Set: mini-imagenet training set\nTesting Settings: 5-way 1-shot and 5-way 5-shot\n\n## License\n\nMIT",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "classification",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

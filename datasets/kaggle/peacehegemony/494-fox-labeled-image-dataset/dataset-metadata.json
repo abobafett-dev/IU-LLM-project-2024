@@ -1,0 +1,40 @@
+{
+  "id": "peacehegemony/494-fox-labeled-image-dataset",
+  "id_no": 2817539,
+  "datasetSlugNullable": "494-fox-labeled-image-dataset",
+  "ownerUserNullable": "peacehegemony",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "494 Fox labeled image dataset",
+  "subtitleNullable": "This dataset contain 494 images of Fox",
+  "descriptionNullable": "The Fox Image Classification Dataset is a collection of images of foxes in various poses and environments. The dataset includes 494 images of foxes. The images are of high resolution and have been pre-processed to ensure consistency in size and quality. The dataset is well-suited for training and evaluating machine learning models for image classification tasks. Additionally, this dataset can be used for research on computer vision, object detection, and image segmentation.",
+  "datasetId": 2817539,
+  "datasetSlug": "494-fox-labeled-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "peacehegemony",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 917,
+  "totalVotes": 1,
+  "totalDownloads": 214,
+  "title": "494 Fox labeled image dataset",
+  "hasTitle": true,
+  "subtitle": "This dataset contain 494 images of Fox",
+  "hasSubtitle": true,
+  "description": "The Fox Image Classification Dataset is a collection of images of foxes in various poses and environments. The dataset includes 494 images of foxes. The images are of high resolution and have been pre-processed to ensure consistency in size and quality. The dataset is well-suited for training and evaluating machine learning models for image classification tasks. Additionally, this dataset can be used for research on computer vision, object detection, and image segmentation.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "animals"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

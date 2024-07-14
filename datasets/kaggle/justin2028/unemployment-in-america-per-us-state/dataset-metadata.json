@@ -1,0 +1,44 @@
+{
+  "id": "justin2028/unemployment-in-america-per-us-state",
+  "id_no": 2955856,
+  "datasetSlugNullable": "unemployment-in-america-per-us-state",
+  "ownerUserNullable": "justin2028",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Unemployment in America, Per US State",
+  "subtitleNullable": "Tracks unemployment per US state since 1976 from the Bureau of Labor Statistics",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12064410%2Fe1c439d356d34481d8343cfcc5f32bb2%2Funemployment%20flag.png?generation=1677706474308274&alt=media)\n\n# DAY ~17,000 (January 1976 to December 2022)\nThis is a dataset that tracks **relevant population statistics** and **employment rates** per US state since 1976. \n\nAll data are official figures from the Bureau of Labor Statistics that have been compiled and structured by myself. Besides the 50 US states, the unemployment data of *three other areas* are also being tracked in order to increase the analytical potential of the dataset: the **District of Columbia**, the **Los Angeles-Long Beach-Glendale metropolitan division**, and **New York City**.\n\nWhy did I create this dataset? Employment continues to be a **significant issue** in America today and contributes to other predicaments such as the homelessness crisis. By uploading time-series data regarding American unemployment over the past four decades, I hope that the community is able to determine the various statistical trends offered. In my personal opinion, achieving a **quantitative yet objective viewpoint** of a subject such as unemployment is crucial to understanding the issues at hand.\n\n# Data Sources\n##### The primary data source used was the Bureau of Labor Statistics's official website, which publishes employment data pertaining to America. Considering the meticulous documentation of federal statistics by such a accredited government agency, no other authority is more equipped to provide insight on US unemployment.\n\n1. [The Bureau of Labor Statistics's Economic News Release on (Monthly) State Employment and Unemployment](https://www.bls.gov/web/laus.supp.toc.htm) - The Bureau of Labor Statistics has published monthly updates on unemployment rates since January 1976. \n2. [The Bureau of Labor Statistics's State Employment and Unemployment Technical Note](https://www.bls.gov/news.release/laus.tn.htm) - The Bureau of Labor Statistics released a detailed overview of their unemployment data, the methodology behind their data, and the proper definitions and terminologies for the variables tracked. The guide mainly provided essential contextual knowledge needed to create a meaningful dataset.\n\n# Statistics Being Tracked\n- FIPS Code of State/Area\n- Year/Month of Statistic\n- Total Civilian Non-Institutional Population in State/Area\n- Total Civilian Labor Force in State/Area\n- Percent (%) of State/Area's Population\n- Total Employment in State/Area\n- Percent (%) of Labor Force Employed in State/Area\n- Total Unemployment in State/Area\n- Percent (%) of Labor Force Unemployed in State/Area\n\n# Dataset History\n2023-03-01 - Dataset is created (17,227 days after temporal coverage start date).\n\n[GitHub Repository](https://github.com/justin-2028/Unemployment-in-America-Per-US-State) - The same data but on GitHub.\n\n# Code Starter\n[Link to Notebook](https://www.kaggle.com/code/justin2028/unemployment-in-america-per-us-state-code-starter)\n",
+  "datasetId": 2955856,
+  "datasetSlug": "unemployment-in-america-per-us-state",
+  "hasDatasetSlug": true,
+  "ownerUser": "justin2028",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 17457,
+  "totalVotes": 103,
+  "totalDownloads": 3509,
+  "title": "Unemployment in America, Per US State",
+  "hasTitle": true,
+  "subtitle": "Tracks unemployment per US state since 1976 from the Bureau of Labor Statistics",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12064410%2Fe1c439d356d34481d8343cfcc5f32bb2%2Funemployment%20flag.png?generation=1677706474308274&alt=media)\n\n# DAY ~17,000 (January 1976 to December 2022)\nThis is a dataset that tracks **relevant population statistics** and **employment rates** per US state since 1976. \n\nAll data are official figures from the Bureau of Labor Statistics that have been compiled and structured by myself. Besides the 50 US states, the unemployment data of *three other areas* are also being tracked in order to increase the analytical potential of the dataset: the **District of Columbia**, the **Los Angeles-Long Beach-Glendale metropolitan division**, and **New York City**.\n\nWhy did I create this dataset? Employment continues to be a **significant issue** in America today and contributes to other predicaments such as the homelessness crisis. By uploading time-series data regarding American unemployment over the past four decades, I hope that the community is able to determine the various statistical trends offered. In my personal opinion, achieving a **quantitative yet objective viewpoint** of a subject such as unemployment is crucial to understanding the issues at hand.\n\n# Data Sources\n##### The primary data source used was the Bureau of Labor Statistics's official website, which publishes employment data pertaining to America. Considering the meticulous documentation of federal statistics by such a accredited government agency, no other authority is more equipped to provide insight on US unemployment.\n\n1. [The Bureau of Labor Statistics's Economic News Release on (Monthly) State Employment and Unemployment](https://www.bls.gov/web/laus.supp.toc.htm) - The Bureau of Labor Statistics has published monthly updates on unemployment rates since January 1976. \n2. [The Bureau of Labor Statistics's State Employment and Unemployment Technical Note](https://www.bls.gov/news.release/laus.tn.htm) - The Bureau of Labor Statistics released a detailed overview of their unemployment data, the methodology behind their data, and the proper definitions and terminologies for the variables tracked. The guide mainly provided essential contextual knowledge needed to create a meaningful dataset.\n\n# Statistics Being Tracked\n- FIPS Code of State/Area\n- Year/Month of Statistic\n- Total Civilian Non-Institutional Population in State/Area\n- Total Civilian Labor Force in State/Area\n- Percent (%) of State/Area's Population\n- Total Employment in State/Area\n- Percent (%) of Labor Force Employed in State/Area\n- Total Unemployment in State/Area\n- Percent (%) of Labor Force Unemployed in State/Area\n\n# Dataset History\n2023-03-01 - Dataset is created (17,227 days after temporal coverage start date).\n\n[GitHub Repository](https://github.com/justin-2028/Unemployment-in-America-Per-US-State) - The same data but on GitHub.\n\n# Code Starter\n[Link to Notebook](https://www.kaggle.com/code/justin2028/unemployment-in-america-per-us-state-code-starter)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "employment",
+    "social science",
+    "demographics",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "alisson987/naruto-shippuden-rate",
+  "id_no": 1755975,
+  "datasetSlugNullable": "naruto-shippuden-rate",
+  "ownerUserNullable": "alisson987",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Naruto Shippuden Episodes",
+  "subtitleNullable": "Information about all episodes of Naruto Shippuden",
+  "descriptionNullable": "### Context\n\nI was watching One Piece and out of nowhere I started watching an episode that looked like a filler, but the platform I was watching didn't say whether or not it was, then after that, so every time I had to look on weird websites to see if the episode was filler , so I decided to create an application that would provide such information which can be consulted  [here](https://alissonrp.shinyapps.io/op_beta/) (beta version).   \nFollowing the same idea, I also decided to create a database for Naruto, for those who watch anime, it is common knowledge that Naruto Shippuden has numerous fillers, so I decided to make this dataset available for those who want to analyze the episodes!\n\n\n### Content\n\n*  Num_episode: Number of respective episodes\n* Title: Title of respective episodes\n* Type: Type of episode (filler, cannon, etc)\n* Year_launch: Episode release year\n* Rate: Average Rate of respective episode\n* Votes: Total of votes in the respective episode (11/29/2021)\n* Saga: Season of the history\n\n\n\n\n",
+  "datasetId": 1755975,
+  "datasetSlug": "naruto-shippuden-rate",
+  "hasDatasetSlug": true,
+  "ownerUser": "alisson987",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 4318,
+  "totalVotes": 15,
+  "totalDownloads": 566,
+  "title": "Naruto Shippuden Episodes",
+  "hasTitle": true,
+  "subtitle": "Information about all episodes of Naruto Shippuden",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI was watching One Piece and out of nowhere I started watching an episode that looked like a filler, but the platform I was watching didn't say whether or not it was, then after that, so every time I had to look on weird websites to see if the episode was filler , so I decided to create an application that would provide such information which can be consulted  [here](https://alissonrp.shinyapps.io/op_beta/) (beta version).   \nFollowing the same idea, I also decided to create a database for Naruto, for those who watch anime, it is common knowledge that Naruto Shippuden has numerous fillers, so I decided to make this dataset available for those who want to analyze the episodes!\n\n\n### Content\n\n*  Num_episode: Number of respective episodes\n* Title: Title of respective episodes\n* Type: Type of episode (filler, cannon, etc)\n* Year_launch: Episode release year\n* Rate: Average Rate of respective episode\n* Votes: Total of votes in the respective episode (11/29/2021)\n* Saga: Season of the history\n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

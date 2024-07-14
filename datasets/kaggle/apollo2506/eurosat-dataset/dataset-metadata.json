@@ -1,0 +1,48 @@
+{
+  "id": "apollo2506/eurosat-dataset",
+  "id_no": 918039,
+  "datasetSlugNullable": "eurosat-dataset",
+  "ownerUserNullable": "apollo2506",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "EuroSat Dataset",
+  "subtitleNullable": "Dataset contains all the RGB and Bands images from Sentinel-2",
+  "descriptionNullable": "### Context\n\nThis dataset is being used for classifying the use of land in geospatial images. The end goal for the classification is that the top 2 uses of land in an image are given as output to the user.\n\n### Content\n\nThis dataset contains images belonging to the EuroSat dataset. There are 2 folders, namely,\n- EuroSAT \u2192 Contains RGB images collected from the Sentinel Dataset.\n- EuroSATallBands \u2192 Contains *.tif* files which have all the bands of the spectrum as collected from the Sentinel-2 satellite.\n\nEach image is 64x64 pixels with a Ground Sampling Distance of 10m. They were all collected from the [Sentinel-2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) satellite\n\nThe 2 directories containing the following class folders :\n1. AnnualCrop\n2. Forest\n3. HerbaceousVegatation\n4. Highway\n5. Industrial\n6. Pasture\n7. PermanentCrop\n8. Residential\n9. River\n10. SeaLake\n\n&gt; Note: Drop *Index* columns [the first column in all CSV files] while reading the training, testing and validation CSV files.\n\n### Acknowledgements\n\nEurosat: A novel dataset and deep learning benchmark for land use and land cover classification, Helber, Patrick and Bischke, Benjamin and Dengel, Andreas and Borth, Damian, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2019, IEEE.\n\n",
+  "datasetId": 918039,
+  "datasetSlug": "eurosat-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "apollo2506",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 36857,
+  "totalVotes": 60,
+  "totalDownloads": 5037,
+  "title": "EuroSat Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset contains all the RGB and Bands images from Sentinel-2",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is being used for classifying the use of land in geospatial images. The end goal for the classification is that the top 2 uses of land in an image are given as output to the user.\n\n### Content\n\nThis dataset contains images belonging to the EuroSat dataset. There are 2 folders, namely,\n- EuroSAT \u2192 Contains RGB images collected from the Sentinel Dataset.\n- EuroSATallBands \u2192 Contains *.tif* files which have all the bands of the spectrum as collected from the Sentinel-2 satellite.\n\nEach image is 64x64 pixels with a Ground Sampling Distance of 10m. They were all collected from the [Sentinel-2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) satellite\n\nThe 2 directories containing the following class folders :\n1. AnnualCrop\n2. Forest\n3. HerbaceousVegatation\n4. Highway\n5. Industrial\n6. Pasture\n7. PermanentCrop\n8. Residential\n9. River\n10. SeaLake\n\n&gt; Note: Drop *Index* columns [the first column in all CSV files] while reading the training, testing and validation CSV files.\n\n### Acknowledgements\n\nEurosat: A novel dataset and deep learning benchmark for land use and land cover classification, Helber, Patrick and Bischke, Benjamin and Dengel, Andreas and Borth, Damian, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2019, IEEE.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "artificial intelligence",
+    "geospatial analysis",
+    "computer vision",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "arjun21",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

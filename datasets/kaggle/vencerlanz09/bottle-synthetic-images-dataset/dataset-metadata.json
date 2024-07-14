@@ -1,0 +1,44 @@
+{
+  "id": "vencerlanz09/bottle-synthetic-images-dataset",
+  "id_no": 2404973,
+  "datasetSlugNullable": "bottle-synthetic-images-dataset",
+  "ownerUserNullable": "vencerlanz09",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Bottles Synthetic Images",
+  "subtitleNullable": "A Synthetically Generated Bottle Dataset for Image Recognition",
+  "descriptionNullable": "## Overview\nThe dataset contains synthetically generated images of  bottles scattered around random backgrounds. The download files contain 5000 Images for each classes of bottles available. Currently there are five classes available: `Plastic Bottles` , `Beer Bottles`, `Soda Bottles`, `Water Bottles`, and `Wine Bottles`. I will try to add more bottle types in the future.\n\n## Update\nPreviously, the dataset only contains images of plastic bottles and beer bottles. Now I've included images of soda, water, and wine bottles also. I will be adding more images in the future. **You could always check the previous versions of the dataset if you want to retrieve the previous directory**. Cheers! :D",
+  "datasetId": 2404973,
+  "datasetSlug": "bottle-synthetic-images-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "vencerlanz09",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 15439,
+  "totalVotes": 113,
+  "totalDownloads": 3146,
+  "title": "Bottles Synthetic Images",
+  "hasTitle": true,
+  "subtitle": "A Synthetically Generated Bottle Dataset for Image Recognition",
+  "hasSubtitle": true,
+  "description": "## Overview\nThe dataset contains synthetically generated images of  bottles scattered around random backgrounds. The download files contain 5000 Images for each classes of bottles available. Currently there are five classes available: `Plastic Bottles` , `Beer Bottles`, `Soda Bottles`, `Water Bottles`, and `Wine Bottles`. I will try to add more bottle types in the future.\n\n## Update\nPreviously, the dataset only contains images of plastic bottles and beer bottles. Now I've included images of soda, water, and wine bottles also. I will be adding more images in the future. **You could always check the previous versions of the dataset if you want to retrieve the previous directory**. Cheers! :D",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "environment",
+    "data visualization",
+    "classification",
+    "cnn",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-3.0",
+      "name": "CC-BY-SA-3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

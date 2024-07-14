@@ -1,0 +1,42 @@
+{
+  "id": "lukastaylor2/brffs-us-health-survey-2021",
+  "id_no": 3293296,
+  "datasetSlugNullable": "brffs-us-health-survey-2021",
+  "ownerUserNullable": "lukastaylor2",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "BRFFS US Health Survey 2021 Raw Data",
+  "subtitleNullable": "Contains raw survey answers to health-related questions",
+  "descriptionNullable": "This dataset contains raw survey data, not summary statistics. Check the names and labels file for short summaries for each variable.\n\nFor more in-depth explanations on each variable, the codebook can be found here. You'll find a list of data columns and what the variables mean: https://www.cdc.gov/brfss/annual_data/2021/pdf/codebook21_llcp-v2-508.pdf\n\n\"The Behavioral Risk Factor Surveillance System (BRFSS) is the nation\u2019s premier system of health-related telephone surveys that collect state data about U.S. residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services. Established in 1984 with 15 states, BRFSS now collects data in all 50 states as well as the District of Columbia and three U.S. territories. BRFSS completes more than 400,000 adult interviews each year, making it the largest continuously conducted health survey system in the world.\n\nBy collecting behavioral health risk data at the state and local level, BRFSS has become a powerful tool for targeting and building health promotion activities. As a result, BRFSS users have increasingly demanded more data and asked for more questions on the survey. Currently, there is a wide sponsorship of the BRFSS survey, including most divisions in the CDC National Center for Chronic Disease Prevention and Health Promotion; other CDC centers; and federal agencies, such as the Health Resources and Services Administration, Administration on Aging, Department of Veterans Affairs, and Substance Abuse and Mental Health Services Administration.\" - Behavioral Risk Factor Surveillance System, About BRFFS\n\nPermission to reproduce material:\n\n\"Generally, data and materials produced by federal agencies are in the public domain and may be reproduced without permission. However, we do ask that any published material derived from the data acknowledge CDC\u2019s BRFSS as the original source.\nSuggested Citation for Survey Questions:\nCenters for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System Survey Questionnaire. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].\n\nSuggested Citation for Online BRFSS Database:\nCenters for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System Survey Data. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].\n\nFor more information on citations and keywords, visit http://www.cdc.gov/brfss/questionnaires/.\" - BRFSS Frequently Asked Questions (FAQs)\n\nRetrieved from: https://www.cdc.gov/brfss/annual_data/annual_2021.html",
+  "datasetId": 3293296,
+  "datasetSlug": "brffs-us-health-survey-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "lukastaylor2",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 585,
+  "totalVotes": 4,
+  "totalDownloads": 65,
+  "title": "BRFFS US Health Survey 2021 Raw Data",
+  "hasTitle": true,
+  "subtitle": "Contains raw survey answers to health-related questions",
+  "hasSubtitle": true,
+  "description": "This dataset contains raw survey data, not summary statistics. Check the names and labels file for short summaries for each variable.\n\nFor more in-depth explanations on each variable, the codebook can be found here. You'll find a list of data columns and what the variables mean: https://www.cdc.gov/brfss/annual_data/2021/pdf/codebook21_llcp-v2-508.pdf\n\n\"The Behavioral Risk Factor Surveillance System (BRFSS) is the nation\u2019s premier system of health-related telephone surveys that collect state data about U.S. residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services. Established in 1984 with 15 states, BRFSS now collects data in all 50 states as well as the District of Columbia and three U.S. territories. BRFSS completes more than 400,000 adult interviews each year, making it the largest continuously conducted health survey system in the world.\n\nBy collecting behavioral health risk data at the state and local level, BRFSS has become a powerful tool for targeting and building health promotion activities. As a result, BRFSS users have increasingly demanded more data and asked for more questions on the survey. Currently, there is a wide sponsorship of the BRFSS survey, including most divisions in the CDC National Center for Chronic Disease Prevention and Health Promotion; other CDC centers; and federal agencies, such as the Health Resources and Services Administration, Administration on Aging, Department of Veterans Affairs, and Substance Abuse and Mental Health Services Administration.\" - Behavioral Risk Factor Surveillance System, About BRFFS\n\nPermission to reproduce material:\n\n\"Generally, data and materials produced by federal agencies are in the public domain and may be reproduced without permission. However, we do ask that any published material derived from the data acknowledge CDC\u2019s BRFSS as the original source.\nSuggested Citation for Survey Questions:\nCenters for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System Survey Questionnaire. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].\n\nSuggested Citation for Online BRFSS Database:\nCenters for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System Survey Data. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].\n\nFor more information on citations and keywords, visit http://www.cdc.gov/brfss/questionnaires/.\" - BRFSS Frequently Asked Questions (FAQs)\n\nRetrieved from: https://www.cdc.gov/brfss/annual_data/annual_2021.html",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "diseases",
+    "health",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "U.S. Government Works",
+      "name": "U.S. Government Works",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

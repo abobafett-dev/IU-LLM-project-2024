@@ -1,0 +1,39 @@
+{
+  "id": "jagadeesh23/weather-classification",
+  "id_no": 781953,
+  "datasetSlugNullable": "weather-classification",
+  "ownerUserNullable": "jagadeesh23",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Weather Classification",
+  "subtitleNullable": "",
+  "descriptionNullable": "I had collected this data to solve a image classification problem from various sources.  The main aim of this data set to help blind people know about the weather without any external person help and also to use it in autonomous driving cars.(For ex : when its raining, its better for car to go slow, so that it can reduce the chances of skidding. \n\nFor blind people , i had thought of making a web app or an android app, with a voice based service. \n\n\nThis data set contains images of 5 different climatic conditions. ( Cloudy( 0 ), Sunny( 1 ), Rainy( 2 ), Snowy( 3 ), Foggy( 4 ))\nIt can be used for classifying  different climatic conditions.\n",
+  "datasetId": 781953,
+  "datasetSlug": "weather-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "jagadeesh23",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 4731,
+  "totalVotes": 10,
+  "totalDownloads": 278,
+  "title": "Weather Classification",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "I had collected this data to solve a image classification problem from various sources.  The main aim of this data set to help blind people know about the weather without any external person help and also to use it in autonomous driving cars.(For ex : when its raining, its better for car to go slow, so that it can reduce the chances of skidding. \n\nFor blind people , i had thought of making a web app or an android app, with a voice based service. \n\n\nThis data set contains images of 5 different climatic conditions. ( Cloudy( 0 ), Sunny( 1 ), Rainy( 2 ), Snowy( 3 ), Foggy( 4 ))\nIt can be used for classifying  different climatic conditions.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "weather and climate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

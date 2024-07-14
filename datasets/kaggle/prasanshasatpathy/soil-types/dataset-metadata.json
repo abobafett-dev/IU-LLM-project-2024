@@ -1,0 +1,44 @@
+{
+  "id": "prasanshasatpathy/soil-types",
+  "id_no": 1420369,
+  "datasetSlugNullable": "soil-types",
+  "ownerUserNullable": "prasanshasatpathy",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Soil Types",
+  "subtitleNullable": "Small Image Dataset for Image classification for beginner",
+  "descriptionNullable": "### Context\nThe dataset consists of 5 varieties of soil images in 5 directories or folders. The dataset is a very small dataset meant for beginners to build ML models using this dataset currently. A small dataset helps learn without wasting hefty time A small dataset helps in learning without wasting hefty time in training the model for half an hour or more and expensive computation. The results won't be really great as the dataset is really low and thus overfitting and other issues. A small dataset helps learn without wasting hefty time. A small dataset helps in learning without wasting hefty time in training the model for half an hour or more and expensive computation. \nIt will be probably updated soon to a larger dataset with better images and collection.\n\n\n### Content\nThe dataset consists of 5 varieties of soil images in 5 directories or folders. The dataset was made because I was unable to find any reliable image dataset for soil varieties. The dataset will be soon updated to better richness. For which I will be soon crowdsourcing. \n\nThe dataset is without annotation, for same another concept of real-time augmentation can be applied.\nOne can go through this notebook for learning how...\nhttps://www.kaggle.com/prasanshasatpathy/soil-type-image-classification\n\n\n### Acknowledgements\nI have made the initial set of this small dataset. Soon I expect collaborations to increase the size and types of the dataset.\nThe method for contributing would be released soon.\n\n### Inspiration\nBetter dataset with less complexity and really necessary. ",
+  "datasetId": 1420369,
+  "datasetSlug": "soil-types",
+  "hasDatasetSlug": true,
+  "ownerUser": "prasanshasatpathy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 28837,
+  "totalVotes": 40,
+  "totalDownloads": 3716,
+  "title": "Soil Types",
+  "hasTitle": true,
+  "subtitle": "Small Image Dataset for Image classification for beginner",
+  "hasSubtitle": true,
+  "description": "### Context\nThe dataset consists of 5 varieties of soil images in 5 directories or folders. The dataset is a very small dataset meant for beginners to build ML models using this dataset currently. A small dataset helps learn without wasting hefty time A small dataset helps in learning without wasting hefty time in training the model for half an hour or more and expensive computation. The results won't be really great as the dataset is really low and thus overfitting and other issues. A small dataset helps learn without wasting hefty time. A small dataset helps in learning without wasting hefty time in training the model for half an hour or more and expensive computation. \nIt will be probably updated soon to a larger dataset with better images and collection.\n\n\n### Content\nThe dataset consists of 5 varieties of soil images in 5 directories or folders. The dataset was made because I was unable to find any reliable image dataset for soil varieties. The dataset will be soon updated to better richness. For which I will be soon crowdsourcing. \n\nThe dataset is without annotation, for same another concept of real-time augmentation can be applied.\nOne can go through this notebook for learning how...\nhttps://www.kaggle.com/prasanshasatpathy/soil-type-image-classification\n\n\n### Acknowledgements\nI have made the initial set of this small dataset. Soon I expect collaborations to increase the size and types of the dataset.\nThe method for contributing would be released soon.\n\n### Inspiration\nBetter dataset with less complexity and really necessary. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "plants",
+    "agriculture",
+    "beginner",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

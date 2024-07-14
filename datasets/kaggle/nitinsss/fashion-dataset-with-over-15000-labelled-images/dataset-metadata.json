@@ -1,0 +1,40 @@
+{
+  "id": "nitinsss/fashion-dataset-with-over-15000-labelled-images",
+  "id_no": 447769,
+  "datasetSlugNullable": "fashion-dataset-with-over-15000-labelled-images",
+  "ownerUserNullable": "nitinsss",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fashion Dataset",
+  "subtitleNullable": "Over 15000 images with various dress categories",
+  "descriptionNullable": "### Context\nImage Classification.\n\n### Content\nAll images from real fashion photos. So, there is a lot of background noise. But the dresses in the images have been tagged over by red rectangles.\n\n\n### Acknowledgements\n\nhttps://www.greendeck.co/\n\n\n### Inspiration\n\nThe task to build an accurate image classifier.",
+  "datasetId": 447769,
+  "datasetSlug": "fashion-dataset-with-over-15000-labelled-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "nitinsss",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 39078,
+  "totalVotes": 40,
+  "totalDownloads": 3092,
+  "title": "Fashion Dataset",
+  "hasTitle": true,
+  "subtitle": "Over 15000 images with various dress categories",
+  "hasSubtitle": true,
+  "description": "### Context\nImage Classification.\n\n### Content\nAll images from real fashion photos. So, there is a lot of background noise. But the dresses in the images have been tagged over by red rectangles.\n\n\n### Acknowledgements\n\nhttps://www.greendeck.co/\n\n\n### Inspiration\n\nThe task to build an accurate image classifier.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

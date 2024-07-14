@@ -1,0 +1,39 @@
+{
+  "id": "neelghoshal/reddit-mental-health-data",
+  "id_no": 3518362,
+  "datasetSlugNullable": "reddit-mental-health-data",
+  "ownerUserNullable": "neelghoshal",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Reddit Mental Health Data",
+  "subtitleNullable": "Data scraped from subreddits concerned with mental health ",
+  "descriptionNullable": "Sourced from subreddits concerned with mental health based conversations\nTargets given have the following mappings:\n0 = Stress\n1 = Depression\n2 = Bipolar disorder\n3 = Personality disorder\n4 = Anxiety",
+  "datasetId": 3518362,
+  "datasetSlug": "reddit-mental-health-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "neelghoshal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1566,
+  "totalVotes": 2,
+  "totalDownloads": 207,
+  "title": "Reddit Mental Health Data",
+  "hasTitle": true,
+  "subtitle": "Data scraped from subreddits concerned with mental health ",
+  "hasSubtitle": true,
+  "description": "Sourced from subreddits concerned with mental health based conversations\nTargets given have the following mappings:\n0 = Stress\n1 = Depression\n2 = Bipolar disorder\n3 = Personality disorder\n4 = Anxiety",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

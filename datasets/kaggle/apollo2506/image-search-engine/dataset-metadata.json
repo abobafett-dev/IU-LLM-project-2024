@@ -1,0 +1,42 @@
+{
+  "id": "apollo2506/image-search-engine",
+  "id_no": 892242,
+  "datasetSlugNullable": "image-search-engine",
+  "ownerUserNullable": "apollo2506",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Image Search Engine",
+  "subtitleNullable": "Dataset for creating an Image Search Engine",
+  "descriptionNullable": "### Context\n\nThis dataset is being made for creating an image search engine where a user uploads an image and similar images are returned. \n\n### Content\n\nThe *ImageSearch* directory contains 4 directories namely,\n* dataset -&gt; Contains the label binarized pickle file, training, validation and testing splits of the dataset.\n* The other directories contain the images corresponding to that class name. The folder names are the class names. \n\nThe *train.csv* and *validation.csv* contain the extracted features of all images present in the training and validation datasets after passing them through a MobileNet CNN without the fully connected layers.\n\n### Acknowledgements\n\nAll the data was downloaded from Flickr using their Flickr API. The script for downloading the images can be found at [Download Images Script](https://gitlab.com/GotamDahiya/helper-scripts/-/blob/master/download_images_flickr.py)\n\n### Inspiration\n\nThis dataset is being made for an Image search engine, which can allow users to search highly specialised datasets. All the images are first passed through a CNN, then en encoder, clustered using a clustering algorithm and finally images present in the cluster are compared with the query image using Siamese networks. Here is the [README](https://gitlab.com/GotamDahiya/imagesearchengine)\n\nBanner Picture Credits: ",
+  "datasetId": 892242,
+  "datasetSlug": "image-search-engine",
+  "hasDatasetSlug": true,
+  "ownerUser": "apollo2506",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 7023,
+  "totalVotes": 8,
+  "totalDownloads": 250,
+  "title": "Image Search Engine",
+  "hasTitle": true,
+  "subtitle": "Dataset for creating an Image Search Engine",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is being made for creating an image search engine where a user uploads an image and similar images are returned. \n\n### Content\n\nThe *ImageSearch* directory contains 4 directories namely,\n* dataset -&gt; Contains the label binarized pickle file, training, validation and testing splits of the dataset.\n* The other directories contain the images corresponding to that class name. The folder names are the class names. \n\nThe *train.csv* and *validation.csv* contain the extracted features of all images present in the training and validation datasets after passing them through a MobileNet CNN without the fully connected layers.\n\n### Acknowledgements\n\nAll the data was downloaded from Flickr using their Flickr API. The script for downloading the images can be found at [Download Images Script](https://gitlab.com/GotamDahiya/helper-scripts/-/blob/master/download_images_flickr.py)\n\n### Inspiration\n\nThis dataset is being made for an Image search engine, which can allow users to search highly specialised datasets. All the images are first passed through a CNN, then en encoder, clustered using a clustering algorithm and finally images present in the cluster are compared with the query image using Siamese networks. Here is the [README](https://gitlab.com/GotamDahiya/imagesearchengine)\n\nBanner Picture Credits: ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "classification",
+    "clustering",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

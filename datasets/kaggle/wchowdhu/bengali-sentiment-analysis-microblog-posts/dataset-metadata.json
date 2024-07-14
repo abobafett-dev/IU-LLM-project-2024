@@ -1,0 +1,43 @@
+{
+  "id": "wchowdhu/bengali-sentiment-analysis-microblog-posts",
+  "id_no": 2179023,
+  "datasetSlugNullable": "bengali-sentiment-analysis-microblog-posts",
+  "ownerUserNullable": "wchowdhu",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Bangla Sentiment Analysis + Microblog Posts",
+  "subtitleNullable": "Contains resources for Bangla/Bengali sentiment classification",
+  "descriptionNullable": "### Contains training and test sets as well as the manually created Twitter-specific lexicons for the following paper,\n\n### [*Performing Sentiment Analysis in Bangla Microblog Posts*](https://ieeexplore.ieee.org/abstract/document/6850712)\n\n### The resources are made available to encourage more research in Bangla sentiment classification and other NLP tasks.\n\nPlease cite the paper if you use the dataset or lexicon",
+  "datasetId": 2179023,
+  "datasetSlug": "bengali-sentiment-analysis-microblog-posts",
+  "hasDatasetSlug": true,
+  "ownerUser": "wchowdhu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 1651,
+  "totalVotes": 12,
+  "totalDownloads": 126,
+  "title": "Bangla Sentiment Analysis + Microblog Posts",
+  "hasTitle": true,
+  "subtitle": "Contains resources for Bangla/Bengali sentiment classification",
+  "hasSubtitle": true,
+  "description": "### Contains training and test sets as well as the manually created Twitter-specific lexicons for the following paper,\n\n### [*Performing Sentiment Analysis in Bangla Microblog Posts*](https://ieeexplore.ieee.org/abstract/document/6850712)\n\n### The resources are made available to encourage more research in Bangla sentiment classification and other NLP tasks.\n\nPlease cite the paper if you use the dataset or lexicon",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "text",
+    "ratings and reviews",
+    "online communities",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

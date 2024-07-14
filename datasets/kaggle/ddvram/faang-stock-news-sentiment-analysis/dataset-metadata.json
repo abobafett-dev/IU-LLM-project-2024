@@ -1,0 +1,43 @@
+{
+  "id": "ddvram/faang-stock-news-sentiment-analysis",
+  "id_no": 1604872,
+  "datasetSlugNullable": "faang-stock-news-sentiment-analysis",
+  "ownerUserNullable": "ddvram",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "FAANG Stock news Sentiment Analysis ",
+  "subtitleNullable": "Stock news by Sentiment Analysis",
+  "descriptionNullable": "# About the Dataset\nThe following dataset have news of FAANG (Facebook,Amazon,Apple,Netflix,Google).\nThe Dataset is collected from finviz website did web scrapping.\n\n\n# Columns \nTicker, data, time, headlines, neg, neu , pos, compound\n\n# Tasks\nCreate a machine learning model predicts if a stock is buying or selling or hold based on news headlines and sentimental analysis. ",
+  "datasetId": 1604872,
+  "datasetSlug": "faang-stock-news-sentiment-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "ddvram",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 4116,
+  "totalVotes": 8,
+  "totalDownloads": 265,
+  "title": "FAANG Stock news Sentiment Analysis ",
+  "hasTitle": true,
+  "subtitle": "Stock news by Sentiment Analysis",
+  "hasSubtitle": true,
+  "description": "# About the Dataset\nThe following dataset have news of FAANG (Facebook,Amazon,Apple,Netflix,Google).\nThe Dataset is collected from finviz website did web scrapping.\n\n\n# Columns \nTicker, data, time, headlines, neg, neu , pos, compound\n\n# Tasks\nCreate a machine learning model predicts if a stock is buying or selling or hold based on news headlines and sentimental analysis. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "economics",
+    "investing",
+    "currencies and foreign exchange",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

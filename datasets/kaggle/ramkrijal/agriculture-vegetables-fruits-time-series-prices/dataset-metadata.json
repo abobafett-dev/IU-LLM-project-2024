@@ -1,0 +1,43 @@
+{
+  "id": "ramkrijal/agriculture-vegetables-fruits-time-series-prices",
+  "id_no": 2968114,
+  "datasetSlugNullable": "agriculture-vegetables-fruits-time-series-prices",
+  "ownerUserNullable": "ramkrijal",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Time Series Price Vegetables and Fruits",
+  "subtitleNullable": "Evolution of price from 2013 to 2021 of major fruits and vegetables",
+  "descriptionNullable": "This dataset contains official price information for major vegetables and fruits in Nepal from 2013 to 2021. The dataset includes daily price data for each vegetable and fruit, as well as the maximum, minimum, and average prices over the period. The prices are based on official figures and provide a valuable resource for anyone interested in analyzing the prices of agricultural commodities in Nepal. \n\n**This dataset can be used to: **\n**Forecasting future prices: ** Using the historical daily price data, time series forecasting models can be applied to predict future prices of vegetables and fruits in Nepal. \n\n**Analyzing price trends and seasonality: ** Time series analysis techniques can be applied to identify trends and seasonality in the price data. \n\n**Identifying price anomalies and outliers:** Machine learning algorithms can be applied to detect unusual patterns or anomalies in the price data. \n\n**Developing pricing strategies: ** By analyzing the relationships between different vegetable and fruit prices, machine learning models can be used to develop pricing strategies for farmers and traders. ",
+  "datasetId": 2968114,
+  "datasetSlug": "agriculture-vegetables-fruits-time-series-prices",
+  "hasDatasetSlug": true,
+  "ownerUser": "ramkrijal",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 17110,
+  "totalVotes": 44,
+  "totalDownloads": 3046,
+  "title": "Time Series Price Vegetables and Fruits",
+  "hasTitle": true,
+  "subtitle": "Evolution of price from 2013 to 2021 of major fruits and vegetables",
+  "hasSubtitle": true,
+  "description": "This dataset contains official price information for major vegetables and fruits in Nepal from 2013 to 2021. The dataset includes daily price data for each vegetable and fruit, as well as the maximum, minimum, and average prices over the period. The prices are based on official figures and provide a valuable resource for anyone interested in analyzing the prices of agricultural commodities in Nepal. \n\n**This dataset can be used to: **\n**Forecasting future prices: ** Using the historical daily price data, time series forecasting models can be applied to predict future prices of vegetables and fruits in Nepal. \n\n**Analyzing price trends and seasonality: ** Time series analysis techniques can be applied to identify trends and seasonality in the price data. \n\n**Identifying price anomalies and outliers:** Machine learning algorithms can be applied to detect unusual patterns or anomalies in the price data. \n\n**Developing pricing strategies: ** By analyzing the relationships between different vegetable and fruit prices, machine learning models can be used to develop pricing strategies for farmers and traders. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "asia",
+    "agriculture",
+    "tabular",
+    "food",
+    "feature extraction"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

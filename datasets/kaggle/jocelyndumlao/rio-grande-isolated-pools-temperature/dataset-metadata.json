@@ -1,0 +1,44 @@
+{
+  "id": "jocelyndumlao/rio-grande-isolated-pools-temperature",
+  "id_no": 3633929,
+  "datasetSlugNullable": "rio-grande-isolated-pools-temperature",
+  "ownerUserNullable": "jocelyndumlao",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Rio Grande Isolated Pools Temperature",
+  "subtitleNullable": "Temperature Tranquility",
+  "descriptionNullable": "# Description:\n\nDought and irrigation diversions result in streamflow intermittency and stranding of an endangered fish in the Rio Grande of New Mexico, USA. We collected temperatures of isolated pools (by date and time) that formed during streamflow intermittency in the Middle Rio Grande of New Mexico, USA, 2011-2016 (time.temp2.cs) during fish rescue. We compared these temperatures to stream temperature at an upstream perennial site in Albuquerque, New Mexico, USA, by date and time (alameda_combined_final.csv). We also collected Rio Grande silvery minnow during streamflow intermittency in 2018 and 2020 to evaluate post-rescue survival in captivity in 2018 and 2020 (rescue_surv_all.csv).\n\n# Dataset Attribute:\n\n- **collno:** Field collection identification number\n- **rm:**river mile pool was located in\n- **reach:** Reach of river, below Isleta or below San Acacia Diversion Dam\n- **Date:** Date of observation\n- **time :** 24-hour time of observation\n- **time.dec:** Time in hours and decimal hours\n- **depth:** max depth of pool in meters\n- **temperature:** Temperature of pool\n- **use:** flag indicating complete record\n- **time.round:** time rounded down\n- **week:** Week of the year of observation\n- **week.down:** Week of the year rounded down\n- **total.minnows:** total Rio Grande silvery minnows collected from the pool\n- **ph:** pH if observed\n- **do.percent:** dissolved oxygen in percent if observed\n- **do:** do in mg/L if observed\n- **Num:** Entry number\n- **Stamp:** Time and date stamp\n- **doy:** ordinal day of year of observation\n- **temp:**\tWater temperature in Celsius\n- **time:** 24-hour time\n- **time.conv:** conversion column\n- **time.dec:** Time in hours and decimal hours\n- **day:** The day number corresponding to the data entry.\n- **alive:** The number of organisms alive in the aquarium.\n- **start:** The initial count of organisms in the aquarium.\n- **percent:** The percentage of surviving organisms (alive/start).\n- **Year:** year of observation\n- **WJR11-1052:** A code or identifier for a specific category.\n- **TJA11-071:** Another code or identifier for a different category.\n- **B1:** Identifier for a specific group or tank (could indicate different tanks or groups).\n\n# Categories:\n\nFish, Survival Analysis, Water Temperature\n\n# Area covered:\nRio Grande, United States\n\n# Acknowledgment & Data source:\n\nThomas Archdeacon\n\n[Data source](https://data.mendeley.com/datasets/bz3dvhf95s/1)\n\n[View details](https://plu.mx/plum/a?mendeley_data_id=bz3dvhf95s&theme=plum-bigben-theme)",
+  "datasetId": 3633929,
+  "datasetSlug": "rio-grande-isolated-pools-temperature",
+  "hasDatasetSlug": true,
+  "ownerUser": "jocelyndumlao",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 194,
+  "totalVotes": 8,
+  "totalDownloads": 13,
+  "title": "Rio Grande Isolated Pools Temperature",
+  "hasTitle": true,
+  "subtitle": "Temperature Tranquility",
+  "hasSubtitle": true,
+  "description": "# Description:\n\nDought and irrigation diversions result in streamflow intermittency and stranding of an endangered fish in the Rio Grande of New Mexico, USA. We collected temperatures of isolated pools (by date and time) that formed during streamflow intermittency in the Middle Rio Grande of New Mexico, USA, 2011-2016 (time.temp2.cs) during fish rescue. We compared these temperatures to stream temperature at an upstream perennial site in Albuquerque, New Mexico, USA, by date and time (alameda_combined_final.csv). We also collected Rio Grande silvery minnow during streamflow intermittency in 2018 and 2020 to evaluate post-rescue survival in captivity in 2018 and 2020 (rescue_surv_all.csv).\n\n# Dataset Attribute:\n\n- **collno:** Field collection identification number\n- **rm:**river mile pool was located in\n- **reach:** Reach of river, below Isleta or below San Acacia Diversion Dam\n- **Date:** Date of observation\n- **time :** 24-hour time of observation\n- **time.dec:** Time in hours and decimal hours\n- **depth:** max depth of pool in meters\n- **temperature:** Temperature of pool\n- **use:** flag indicating complete record\n- **time.round:** time rounded down\n- **week:** Week of the year of observation\n- **week.down:** Week of the year rounded down\n- **total.minnows:** total Rio Grande silvery minnows collected from the pool\n- **ph:** pH if observed\n- **do.percent:** dissolved oxygen in percent if observed\n- **do:** do in mg/L if observed\n- **Num:** Entry number\n- **Stamp:** Time and date stamp\n- **doy:** ordinal day of year of observation\n- **temp:**\tWater temperature in Celsius\n- **time:** 24-hour time\n- **time.conv:** conversion column\n- **time.dec:** Time in hours and decimal hours\n- **day:** The day number corresponding to the data entry.\n- **alive:** The number of organisms alive in the aquarium.\n- **start:** The initial count of organisms in the aquarium.\n- **percent:** The percentage of surviving organisms (alive/start).\n- **Year:** year of observation\n- **WJR11-1052:** A code or identifier for a specific category.\n- **TJA11-071:** Another code or identifier for a different category.\n- **B1:** Identifier for a specific group or tank (could indicate different tanks or groups).\n\n# Categories:\n\nFish, Survival Analysis, Water Temperature\n\n# Area covered:\nRio Grande, United States\n\n# Acknowledgment & Data source:\n\nThomas Archdeacon\n\n[Data source](https://data.mendeley.com/datasets/bz3dvhf95s/1)\n\n[View details](https://plu.mx/plum/a?mendeley_data_id=bz3dvhf95s&theme=plum-bigben-theme)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "earth and nature",
+    "earth science",
+    "exploratory data analysis",
+    "geospatial analysis",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

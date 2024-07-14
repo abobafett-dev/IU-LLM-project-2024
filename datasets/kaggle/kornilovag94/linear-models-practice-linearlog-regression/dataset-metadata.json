@@ -1,0 +1,43 @@
+{
+  "id": "kornilovag94/linear-models-practice-linearlog-regression",
+  "id_no": 3411992,
+  "datasetSlugNullable": "linear-models-practice-linearlog-regression",
+  "ownerUserNullable": "kornilovag94",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Linear Models Practice (Linear/Log Regression)",
+  "subtitleNullable": "This is a synthetic learning dataset for linear models' practice.",
+  "descriptionNullable": "In order to access the building, one must pass through a gate. To gain entry to the car park, the barrier needs to be opened. To reach a specific floor, a 'tablet' must be utilized. Every entry is recorded, noting the individuals, the dates, and the times of their arrival.\n\nIs it possible to analyze the available data and ascertain the arrival methods of each office visitor, allowing for predictions? For instance, \"User 5 arrives at gate 4 every Monday at 8 am,\" or \"User 18 visits at 11 am on Saturdays, except for the last day of the month.\" Are there patterns within the current data?\n\nThis is a synthetic learning dataset for linear models' practice.",
+  "datasetId": 3411992,
+  "datasetSlug": "linear-models-practice-linearlog-regression",
+  "hasDatasetSlug": true,
+  "ownerUser": "kornilovag94",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 590,
+  "totalVotes": 7,
+  "totalDownloads": 51,
+  "title": "Linear Models Practice (Linear/Log Regression)",
+  "hasTitle": true,
+  "subtitle": "This is a synthetic learning dataset for linear models' practice.",
+  "hasSubtitle": true,
+  "description": "In order to access the building, one must pass through a gate. To gain entry to the car park, the barrier needs to be opened. To reach a specific floor, a 'tablet' must be utilized. Every entry is recorded, noting the individuals, the dates, and the times of their arrival.\n\nIs it possible to analyze the available data and ascertain the arrival methods of each office visitor, allowing for predictions? For instance, \"User 5 arrives at gate 4 every Monday at 8 am,\" or \"User 18 visits at 11 am on Saturdays, except for the last day of the month.\" Are there patterns within the current data?\n\nThis is a synthetic learning dataset for linear models' practice.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "beginner",
+    "time series analysis",
+    "logistic regression",
+    "linear regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

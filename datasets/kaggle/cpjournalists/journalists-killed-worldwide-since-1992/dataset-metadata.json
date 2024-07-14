@@ -1,0 +1,41 @@
+{
+  "id": "/journalists-killed-worldwide-since-1992",
+  "id_no": 363,
+  "datasetSlugNullable": "journalists-killed-worldwide-since-1992",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Journalists Killed Worldwide Since 1992",
+  "subtitleNullable": "Journalist Deaths from 1992-2016",
+  "descriptionNullable": "## Context\n\nCPJ began compiling detailed records on journalist deaths in 1992. CPJ applies strict journalistic standards when investigating a death. One important aspect of their research is determining whether a death was work-related. As a result, they classify deaths as \"motive confirmed\" or \"motive unconfirmed.\"\n\n## Content\n\nThe dataset contains 18 variables:\n\n* **Type**: CPJ classified deaths as motive confirmed or motive confirmed, as well as Media Workers\n\n* **Date**\n\n* **Name**\n\n* **Sex**\n\n* **Country_killed**\n\n* **Organization**\n\n* **Nationality**\n\n* **Medium**\n\n* **Job**\n\n* **Coverage**\n\n* **Freelance**\n\n* **Local_Foreign**\n\n* **Source_fire**\n\n* **Type_death**\n\n* **Impunity_for_murder**\n\n* **Taken_captive**\n\n* **Threatened**\n\n* **Tortured**\n\n## Acknowledgements\n\nThe original dataset can be found [here](https://cpj.org/killed/2016/).\n\n## Inspiration\n\nSome ideas for exploring the dataset:\n\n* What is the trend in journalist deaths over time and how does this differ by type of death, job, coverage, and country?\n\n* Are there differences by sex and/or nationality?",
+  "datasetId": 363,
+  "datasetSlug": "journalists-killed-worldwide-since-1992",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 15578,
+  "totalVotes": 42,
+  "totalDownloads": 1691,
+  "title": "Journalists Killed Worldwide Since 1992",
+  "hasTitle": true,
+  "subtitle": "Journalist Deaths from 1992-2016",
+  "hasSubtitle": true,
+  "description": "## Context\n\nCPJ began compiling detailed records on journalist deaths in 1992. CPJ applies strict journalistic standards when investigating a death. One important aspect of their research is determining whether a death was work-related. As a result, they classify deaths as \"motive confirmed\" or \"motive unconfirmed.\"\n\n## Content\n\nThe dataset contains 18 variables:\n\n* **Type**: CPJ classified deaths as motive confirmed or motive confirmed, as well as Media Workers\n\n* **Date**\n\n* **Name**\n\n* **Sex**\n\n* **Country_killed**\n\n* **Organization**\n\n* **Nationality**\n\n* **Medium**\n\n* **Job**\n\n* **Coverage**\n\n* **Freelance**\n\n* **Local_Foreign**\n\n* **Source_fire**\n\n* **Type_death**\n\n* **Impunity_for_murder**\n\n* **Taken_captive**\n\n* **Threatened**\n\n* **Tortured**\n\n## Acknowledgements\n\nThe original dataset can be found [here](https://cpj.org/killed/2016/).\n\n## Inspiration\n\nSome ideas for exploring the dataset:\n\n* What is the trend in journalist deaths over time and how does this differ by type of death, job, coverage, and country?\n\n* Are there differences by sex and/or nationality?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "crime",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

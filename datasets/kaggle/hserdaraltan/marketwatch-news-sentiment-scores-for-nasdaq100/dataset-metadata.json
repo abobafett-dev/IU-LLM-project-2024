@@ -1,0 +1,45 @@
+{
+  "id": "hserdaraltan/marketwatch-news-sentiment-scores-for-nasdaq100",
+  "id_no": 1368835,
+  "datasetSlugNullable": "marketwatch-news-sentiment-scores-for-nasdaq100",
+  "ownerUserNullable": "hserdaraltan",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "MarketWatch News Links and Prices for NASDAQ100",
+  "subtitleNullable": "MarketWatch News Links, Stock Prices and Polarity Scores of Articles",
+  "descriptionNullable": "URL links of news articles from MarketWatch dated from Jan 1, 2017, to May 1, 2021, for NASDAQ100 companies. It includes URLs, article dates, sentiment scores, stock symbols, stock prices on, before and after the article date, and stock returns.",
+  "datasetId": 1368835,
+  "datasetSlug": "marketwatch-news-sentiment-scores-for-nasdaq100",
+  "hasDatasetSlug": true,
+  "ownerUser": "hserdaraltan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2432,
+  "totalVotes": 6,
+  "totalDownloads": 65,
+  "title": "MarketWatch News Links and Prices for NASDAQ100",
+  "hasTitle": true,
+  "subtitle": "MarketWatch News Links, Stock Prices and Polarity Scores of Articles",
+  "hasSubtitle": true,
+  "description": "URL links of news articles from MarketWatch dated from Jan 1, 2017, to May 1, 2021, for NASDAQ100 companies. It includes URLs, article dates, sentiment scores, stock symbols, stock prices on, before and after the article date, and stock returns.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "nlp",
+    "linear regression",
+    "investing",
+    "news",
+    "nltk",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

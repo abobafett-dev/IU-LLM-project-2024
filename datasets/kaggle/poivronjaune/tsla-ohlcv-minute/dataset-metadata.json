@@ -1,0 +1,42 @@
+{
+  "id": "poivronjaune/tsla-ohlcv-minute",
+  "id_no": 2838879,
+  "datasetSlugNullable": "tsla-ohlcv-minute",
+  "ownerUserNullable": "poivronjaune",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "tsla-ohlcv-minute",
+  "subtitleNullable": "",
+  "descriptionNullable": "Stock market data for TSLA, Open, High, Low, Close, Volume for every minute trading including after market hours and adjusted close prices.",
+  "datasetId": 2838879,
+  "datasetSlug": "tsla-ohlcv-minute",
+  "hasDatasetSlug": true,
+  "ownerUser": "poivronjaune",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 99,
+  "totalVotes": 0,
+  "totalDownloads": 16,
+  "title": "tsla-ohlcv-minute",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Stock market data for TSLA, Open, High, Low, Close, Volume for every minute trading including after market hours and adjusted close prices.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "time series analysis",
+    "tabular",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

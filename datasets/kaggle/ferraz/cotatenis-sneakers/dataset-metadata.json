@@ -1,0 +1,46 @@
+{
+  "id": "ferraz/cotatenis-sneakers",
+  "id_no": 2007154,
+  "datasetSlugNullable": "cotatenis-sneakers",
+  "ownerUserNullable": "ferraz",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "cotatenis-sneakers",
+  "subtitleNullable": "Sneakers images from several brands like Nike, Adidas, and Jordan.",
+  "descriptionNullable": "# \ud83d\udc5f A collection of sneakers images for several brands including Nike, Adidas, and Jordan\n\n##1. Description\n```\nThis dataset was built during the development of the cotatenis project. It was a Brazilian search engine for sneakers, mainly for those looking for the best prices.  We've built web crawlers to collect prices and metadata (images included) for several sneakers across various e-commerces in Brazil. Furthermore, once we decided to finish our side project, we've decided to release this dataset to collaborate with the data science community.\n```\n## 2. Vocabulary\n\n- **Style code / ID** : A sneaker style code / ID is often asked on social media such as Facebook or Instagram, for example, if you want to know the brand or the exact article of a piece of clothing. ([source](https://www.sneaktorious.com/dictionary/style-code))\n\n## 3. Folder Organization\nEach image inside `sneakers_dataset` folder was named with its style code as a prefix. We suggested that prefixes should be used as labels for those willing to create a classification model with this dataset.\n\nFor instance, those files below belong to the sneaker with style code **307960-306**\n\n- `307960-306_Tenis-Nike-Air-Max-95-Feminino-Verde.jpg`\n- `307960-306_Tenis-Nike-Air-Max-95-Feminino-Verde-2.jpg`\n- `307960-306_Tenis-Nike-Air-Max-95-Feminino-Verde-3.jpg`\n- `307960-306_Tenis-Nike-Air-Max-95-Feminino-Verde-4.jpg`\n- `307960-306_Tenis-Nike-Air-Max-95-Feminino-Verde-5.jpg`\n- `307960-306_Tenis-Nike-Air-Max-95-Feminino-Verde-6.jpg`\n- `307960-306_Tenis-Nike-Air-Max-95-Feminino-Verde-7.jpg`\n",
+  "datasetId": 2007154,
+  "datasetSlug": "cotatenis-sneakers",
+  "hasDatasetSlug": true,
+  "ownerUser": "ferraz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 6227,
+  "totalVotes": 27,
+  "totalDownloads": 519,
+  "title": "cotatenis-sneakers",
+  "hasTitle": true,
+  "subtitle": "Sneakers images from several brands like Nike, Adidas, and Jordan.",
+  "hasSubtitle": true,
+  "description": "# \ud83d\udc5f A collection of sneakers images for several brands including Nike, Adidas, and Jordan\n\n##1. Description\n```\nThis dataset was built during the development of the cotatenis project. It was a Brazilian search engine for sneakers, mainly for those looking for the best prices.  We've built web crawlers to collect prices and metadata (images included) for several sneakers across various e-commerces in Brazil. Furthermore, once we decided to finish our side project, we've decided to release this dataset to collaborate with the data science community.\n```\n## 2. Vocabulary\n\n- **Style code / ID** : A sneaker style code / ID is often asked on social media such as Facebook or Instagram, for example, if you want to know the brand or the exact article of a piece of clothing. ([source](https://www.sneaktorious.com/dictionary/style-code))\n\n## 3. Folder Organization\nEach image inside `sneakers_dataset` folder was named with its style code as a prefix. We suggested that prefixes should be used as labels for those willing to create a classification model with this dataset.\n\nFor instance, those files below belong to the sneaker with style code **307960-306**\n\n- `307960-306_Tenis-Nike-Air-Max-95-Feminino-Verde.jpg`\n- `307960-306_Tenis-Nike-Air-Max-95-Feminino-Verde-2.jpg`\n- `307960-306_Tenis-Nike-Air-Max-95-Feminino-Verde-3.jpg`\n- `307960-306_Tenis-Nike-Air-Max-95-Feminino-Verde-4.jpg`\n- `307960-306_Tenis-Nike-Air-Max-95-Feminino-Verde-5.jpg`\n- `307960-306_Tenis-Nike-Air-Max-95-Feminino-Verde-6.jpg`\n- `307960-306_Tenis-Nike-Air-Max-95-Feminino-Verde-7.jpg`\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "marcelmenezes",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "sayeemmohammed/anemia-detection",
+  "id_no": 5219837,
+  "datasetSlugNullable": "anemia-detection",
+  "ownerUserNullable": "sayeemmohammed",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Anemia_Dataset",
+  "subtitleNullable": "Predict anemia based on image pixel values and hemoglobin levels",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F16507975%2Fd0ec4690765c112869286a1ff8f56f4b%2FScreenshot%202024-06-20%20164616.png?generation=1718880703392565&alt=media)\n\nThe dataset includes various attributes that capture the color composition of pixels in images and their corresponding hemoglobin (Hb) levels. Anemia is determined based on the hemoglobin levels, with a binary classification indicating whether an individual is anemic or not.\n\n### **Attributes**\n1. Number: A unique identifier for each record.\n2. Name: The name of the individual.\n3. %Red Pixel: The percentage of red pixels in the image.\n4. %Green Pixel: The percentage of green pixels in the image.\n5. %Blue Pixel: The percentage of blue pixels in the image.\n6. Hb (Hemoglobin): Hemoglobin level in the blood, measured in grams per deciliter (g/dL). Hemoglobin is a protein in red blood cells that carries oxygen from the lungs to the rest of the body and returns carbon dioxide from the body to the lungs.\n7. Anaemic: A binary indicator of anemia status:\n- Yes: The individual is anemic.\n- No: The individual is not anemic.",
+  "datasetId": 5219837,
+  "datasetSlug": "anemia-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "sayeemmohammed",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3776,
+  "totalVotes": 23,
+  "totalDownloads": 708,
+  "title": "Anemia_Dataset",
+  "hasTitle": true,
+  "subtitle": "Predict anemia based on image pixel values and hemoglobin levels",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F16507975%2Fd0ec4690765c112869286a1ff8f56f4b%2FScreenshot%202024-06-20%20164616.png?generation=1718880703392565&alt=media)\n\nThe dataset includes various attributes that capture the color composition of pixels in images and their corresponding hemoglobin (Hb) levels. Anemia is determined based on the hemoglobin levels, with a binary classification indicating whether an individual is anemic or not.\n\n### **Attributes**\n1. Number: A unique identifier for each record.\n2. Name: The name of the individual.\n3. %Red Pixel: The percentage of red pixels in the image.\n4. %Green Pixel: The percentage of green pixels in the image.\n5. %Blue Pixel: The percentage of blue pixels in the image.\n6. Hb (Hemoglobin): Hemoglobin level in the blood, measured in grams per deciliter (g/dL). Hemoglobin is a protein in red blood cells that carries oxygen from the lungs to the rest of the body and returns carbon dioxide from the body to the lungs.\n7. Anaemic: A binary indicator of anemia status:\n- Yes: The individual is anemic.\n- No: The individual is not anemic.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

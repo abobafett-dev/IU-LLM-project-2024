@@ -1,0 +1,39 @@
+{
+  "id": "abhisheksinghblr/trafficsignsdata",
+  "id_no": 681795,
+  "datasetSlugNullable": "trafficsignsdata",
+  "ownerUserNullable": "abhisheksinghblr",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "traffic-signs-data",
+  "subtitleNullable": "The dataset contains 43 different classes of images",
+  "descriptionNullable": "The dataset contains 43 different classes of images.\n\nClasses are as listed below:\n\n    ( 0, b'Speed limit (20km/h)') ( 1, b'Speed limit (30km/h)')\n    ( 2, b'Speed limit (50km/h)') ( 3, b'Speed limit (60km/h)')\n    ( 4, b'Speed limit (70km/h)') ( 5, b'Speed limit (80km/h)')\n    ( 6, b'End of speed limit (80km/h)') ( 7, b'Speed limit (100km/h)')\n    ( 8, b'Speed limit (120km/h)') ( 9, b'No passing')\n    (10, b'No passing for vehicles over 3.5 metric tons')\n    (11, b'Right-of-way at the next intersection') (12, b'Priority road')\n    (13, b'Yield') (14, b'Stop') (15, b'No vehicles')\n    (16, b'Vehicles over 3.5 metric tons prohibited') (17, b'No entry')\n    (18, b'General caution') (19, b'Dangerous curve to the left')\n    (20, b'Dangerous curve to the right') (21, b'Double curve')\n    (22, b'Bumpy road') (23, b'Slippery road')\n    (24, b'Road narrows on the right') (25, b'Road work')\n    (26, b'Traffic signals') (27, b'Pedestrians') (28, b'Children crossing')\n    (29, b'Bicycles crossing') (30, b'Beware of ice/snow')\n    (31, b'Wild animals crossing')\n    (32, b'End of all speed and passing limits') (33, b'Turn right ahead')\n    (34, b'Turn left ahead') (35, b'Ahead only') (36, b'Go straight or right')\n    (37, b'Go straight or left') (38, b'Keep right') (39, b'Keep left')\n    (40, b'Roundabout mandatory') (41, b'End of no passing')\n    (42, b'End of no passing by vehicles over 3.5 metric tons')\n\n",
+  "datasetId": 681795,
+  "datasetSlug": "trafficsignsdata",
+  "hasDatasetSlug": true,
+  "ownerUser": "abhisheksinghblr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 3310,
+  "totalVotes": 3,
+  "totalDownloads": 177,
+  "title": "traffic-signs-data",
+  "hasTitle": true,
+  "subtitle": "The dataset contains 43 different classes of images",
+  "hasSubtitle": true,
+  "description": "The dataset contains 43 different classes of images.\n\nClasses are as listed below:\n\n    ( 0, b'Speed limit (20km/h)') ( 1, b'Speed limit (30km/h)')\n    ( 2, b'Speed limit (50km/h)') ( 3, b'Speed limit (60km/h)')\n    ( 4, b'Speed limit (70km/h)') ( 5, b'Speed limit (80km/h)')\n    ( 6, b'End of speed limit (80km/h)') ( 7, b'Speed limit (100km/h)')\n    ( 8, b'Speed limit (120km/h)') ( 9, b'No passing')\n    (10, b'No passing for vehicles over 3.5 metric tons')\n    (11, b'Right-of-way at the next intersection') (12, b'Priority road')\n    (13, b'Yield') (14, b'Stop') (15, b'No vehicles')\n    (16, b'Vehicles over 3.5 metric tons prohibited') (17, b'No entry')\n    (18, b'General caution') (19, b'Dangerous curve to the left')\n    (20, b'Dangerous curve to the right') (21, b'Double curve')\n    (22, b'Bumpy road') (23, b'Slippery road')\n    (24, b'Road narrows on the right') (25, b'Road work')\n    (26, b'Traffic signals') (27, b'Pedestrians') (28, b'Children crossing')\n    (29, b'Bicycles crossing') (30, b'Beware of ice/snow')\n    (31, b'Wild animals crossing')\n    (32, b'End of all speed and passing limits') (33, b'Turn right ahead')\n    (34, b'Turn left ahead') (35, b'Ahead only') (36, b'Go straight or right')\n    (37, b'Go straight or left') (38, b'Keep right') (39, b'Keep left')\n    (40, b'Roundabout mandatory') (41, b'End of no passing')\n    (42, b'End of no passing by vehicles over 3.5 metric tons')\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

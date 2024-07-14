@@ -1,0 +1,39 @@
+{
+  "id": "neelgajare/2022-usa-college-rankings-more",
+  "id_no": 2012372,
+  "datasetSlugNullable": "2022-usa-college-rankings-more",
+  "ownerUserNullable": "neelgajare",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "2022 USA Undergrad College Rankings & More",
+  "subtitleNullable": "2022 Ranking of American Universities for Undergrads",
+  "descriptionNullable": "### Context\n\nThis dataset contains the US News rankings of the best American universities of undergraduate programs. This is how US News ranks the colleges:\n\"We calculated 10 distinct overall rankings where colleges and universities were grouped by their academic missions. For each ranking, the sum of weighted, normalized values across 17 indicators of academic quality determine each school's overall score and, by extension, its overall rank.\nThe top performer(s) in each ranking displays an overall score of 100. Others' overall scores are on a 0-99 scale reflecting the distance from their ranking's top-performing school(s). Those placing outside the top 75% display their ranking's bottom quartile range (e.g., No. 90-120) instead of their individual ranks (e.g., No. 102).\"\n\n### Content\n\nThis dataset contains the rankings of 392 American universities based on their undergraduate programs. It also contains the tuitions and enrollment numbers of each university. 2 colleges don't have tuition data, so it is labelled -1.\n\n\n### Acknowledgements\n\nWe acknowledge US News for providing these rankings.\n\n### Inspiration\n\nAs a high schooler applying to undergraduate programs in America, it would be useful to know which colleges are best, and to compare tuitions and enrollment numbers.",
+  "datasetId": 2012372,
+  "datasetSlug": "2022-usa-college-rankings-more",
+  "hasDatasetSlug": true,
+  "ownerUser": "neelgajare",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12730,
+  "totalVotes": 33,
+  "totalDownloads": 1475,
+  "title": "2022 USA Undergrad College Rankings & More",
+  "hasTitle": true,
+  "subtitle": "2022 Ranking of American Universities for Undergrads",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains the US News rankings of the best American universities of undergraduate programs. This is how US News ranks the colleges:\n\"We calculated 10 distinct overall rankings where colleges and universities were grouped by their academic missions. For each ranking, the sum of weighted, normalized values across 17 indicators of academic quality determine each school's overall score and, by extension, its overall rank.\nThe top performer(s) in each ranking displays an overall score of 100. Others' overall scores are on a 0-99 scale reflecting the distance from their ranking's top-performing school(s). Those placing outside the top 75% display their ranking's bottom quartile range (e.g., No. 90-120) instead of their individual ranks (e.g., No. 102).\"\n\n### Content\n\nThis dataset contains the rankings of 392 American universities based on their undergraduate programs. It also contains the tuitions and enrollment numbers of each university. 2 colleges don't have tuition data, so it is labelled -1.\n\n\n### Acknowledgements\n\nWe acknowledge US News for providing these rankings.\n\n### Inspiration\n\nAs a high schooler applying to undergraduate programs in America, it would be useful to know which colleges are best, and to compare tuitions and enrollment numbers.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

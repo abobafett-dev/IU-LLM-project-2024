@@ -1,0 +1,42 @@
+{
+  "id": "sondosaabed/casia-iris-thousand",
+  "id_no": 4887736,
+  "datasetSlugNullable": "casia-iris-thousand",
+  "ownerUserNullable": "sondosaabed",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "CASIA-Iris-Thousand",
+  "subtitleNullable": "Iris bometric authentication model",
+  "descriptionNullable": "CASIA-Iris-Thousand contains 20,000 iris images from 1,000 subjects, which were collected using IKEMB-100 camera (Fig. 8) produced by IrisKing. IKEMB-100 is a dual-eye iris camera with friendly visual feedback, realizing the effect of \u201cWhat You See Is What You Get\u201d. The bounding boxes shown in the frontal LCD help users adjust their pose for high-quality iris image acquisition. The main sources of intra-class variations in CASIA-Iris-Thousand are eyeglasses and specular reflections. Since CASIA-Iris-Thousand is the first publicly available iris dataset with one thousand subjects, it is well-suited for studying the uniqueness of iris features and develop novel iris classification and indexing methods.",
+  "datasetId": 4887736,
+  "datasetSlug": "casia-iris-thousand",
+  "hasDatasetSlug": true,
+  "ownerUser": "sondosaabed",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 208,
+  "totalVotes": 8,
+  "totalDownloads": 38,
+  "title": "CASIA-Iris-Thousand",
+  "hasTitle": true,
+  "subtitle": "Iris bometric authentication model",
+  "hasSubtitle": true,
+  "description": "CASIA-Iris-Thousand contains 20,000 iris images from 1,000 subjects, which were collected using IKEMB-100 camera (Fig. 8) produced by IrisKing. IKEMB-100 is a dual-eye iris camera with friendly visual feedback, realizing the effect of \u201cWhat You See Is What You Get\u201d. The bounding boxes shown in the frontal LCD help users adjust their pose for high-quality iris image acquisition. The main sources of intra-class variations in CASIA-Iris-Thousand are eyeglasses and specular reflections. Since CASIA-Iris-Thousand is the first publicly available iris dataset with one thousand subjects, it is well-suited for studying the uniqueness of iris features and develop novel iris classification and indexing methods.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "data analytics",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "aahaan007/online-news-popularity",
+  "id_no": 446518,
+  "datasetSlugNullable": "online-news-popularity",
+  "ownerUserNullable": "aahaan007",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Online News Popularity",
+  "subtitleNullable": "News Popularity and its Growth in this era",
+  "descriptionNullable": "Abstract: \n\nThis dataset summarizes a heterogeneous set of features about articles published by Mashable in a period of two years. The goal is to predict the number of shares in social networks (popularity).\n\nSource:\n\nKelwin Fernandes (kafc \u00e2\u20ac\u02dc@\u00e2\u20ac\u2122 inesctec.pt, kelwinfc \u00e2\u20ac\u2122@\u00e2\u20ac\u2122 gmail.com) - INESC TEC, Porto, Portugal/Universidade do Porto, Portugal.\nPedro Vinagre (pedro.vinagre.sousa \u00e2\u20ac\u2122@\u00e2\u20ac\u2122 gmail.com) - ALGORITMI Research Centre, Universidade do Minho, Portugal\nPaulo Cortez - ALGORITMI Research Centre, Universidade do Minho, Portugal\nPedro Sernadela - Universidade de Aveiro\n\n\nData Set Information:\n\n* The articles were published by Mashable (www.mashable.com) and their content as the rights to reproduce it belongs to them. Hence, this dataset does not share the original content but some statistics associated with it. The original content be publicly accessed and retrieved using the provided urls.\n* Acquisition date: January 8, 2015\n* The estimated relative performance values were estimated by the authors using a Random Forest classifier and a rolling windows as assessment method. See their article for more details on how the relative performance values were set.\n\nAttribute Information:\n\nNumber of Attributes: 61 (58 predictive attributes, 2 non-predictive, 1 goal field)",
+  "datasetId": 446518,
+  "datasetSlug": "online-news-popularity",
+  "hasDatasetSlug": true,
+  "ownerUser": "aahaan007",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 5858,
+  "totalVotes": 6,
+  "totalDownloads": 173,
+  "title": "Online News Popularity",
+  "hasTitle": true,
+  "subtitle": "News Popularity and its Growth in this era",
+  "hasSubtitle": true,
+  "description": "Abstract: \n\nThis dataset summarizes a heterogeneous set of features about articles published by Mashable in a period of two years. The goal is to predict the number of shares in social networks (popularity).\n\nSource:\n\nKelwin Fernandes (kafc \u00e2\u20ac\u02dc@\u00e2\u20ac\u2122 inesctec.pt, kelwinfc \u00e2\u20ac\u2122@\u00e2\u20ac\u2122 gmail.com) - INESC TEC, Porto, Portugal/Universidade do Porto, Portugal.\nPedro Vinagre (pedro.vinagre.sousa \u00e2\u20ac\u2122@\u00e2\u20ac\u2122 gmail.com) - ALGORITMI Research Centre, Universidade do Minho, Portugal\nPaulo Cortez - ALGORITMI Research Centre, Universidade do Minho, Portugal\nPedro Sernadela - Universidade de Aveiro\n\n\nData Set Information:\n\n* The articles were published by Mashable (www.mashable.com) and their content as the rights to reproduce it belongs to them. Hence, this dataset does not share the original content but some statistics associated with it. The original content be publicly accessed and retrieved using the provided urls.\n* Acquisition date: January 8, 2015\n* The estimated relative performance values were estimated by the authors using a Random Forest classifier and a rolling windows as assessment method. See their article for more details on how the relative performance values were set.\n\nAttribute Information:\n\nNumber of Attributes: 61 (58 predictive attributes, 2 non-predictive, 1 goal field)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "news",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "maxscheijen/dutch-energy-generation",
+  "id_no": 2389413,
+  "datasetSlugNullable": "dutch-energy-generation",
+  "ownerUserNullable": "maxscheijen",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Dutch Energy Generation",
+  "subtitleNullable": "Types of Dutch Energy Generation",
+  "descriptionNullable": "This dataset contains **Dutch energy generation per production type.** The data is updated daily and is always a day behind the current date.\n\nEnergy values are in MW.\n\n**Source**: [ENTSOE-E Transparency Platform](https://transparency.entsoe.eu/)\n\nENTSOE-E is the European association for the cooperation of transmission system operators (TSOs) for electricity.",
+  "datasetId": 2389413,
+  "datasetSlug": "dutch-energy-generation",
+  "hasDatasetSlug": true,
+  "ownerUser": "maxscheijen",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4102,
+  "totalVotes": 26,
+  "totalDownloads": 424,
+  "title": "Dutch Energy Generation",
+  "hasTitle": true,
+  "subtitle": "Types of Dutch Energy Generation",
+  "hasSubtitle": true,
+  "description": "This dataset contains **Dutch energy generation per production type.** The data is updated daily and is always a day behind the current date.\n\nEnergy values are in MW.\n\n**Source**: [ENTSOE-E Transparency Platform](https://transparency.entsoe.eu/)\n\nENTSOE-E is the European association for the cooperation of transmission system operators (TSOs) for electricity.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "energy",
+    "renewable energy",
+    "time series analysis",
+    "electricity",
+    "oil and gas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

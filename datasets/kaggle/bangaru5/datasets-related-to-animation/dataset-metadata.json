@@ -1,0 +1,39 @@
+{
+  "id": "bangaru5/datasets-related-to-animation",
+  "id_no": 3882897,
+  "datasetSlugNullable": "datasets-related-to-animation",
+  "ownerUserNullable": "bangaru5",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Datasets related to Animation",
+  "subtitleNullable": "Animation Quality Datasets based on Anime and Animated Movies",
+  "descriptionNullable": "The information is datasets was collected from the reviewers from there given score. The accuracy of the anime quality can be measured using ML algorithms. Anime.csv can be executed using regression algorithms in ML. Animation.csv and anime.csv both are same, but anime.csv is used for running the regression algorithms like\n1. Conventional Neural Network\n2. Random Forest\n3. Decision Tree\n4. Support Vector Machine .. etc..\n",
+  "datasetId": 3882897,
+  "datasetSlug": "datasets-related-to-animation",
+  "hasDatasetSlug": true,
+  "ownerUser": "bangaru5",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 3645,
+  "totalVotes": 26,
+  "totalDownloads": 630,
+  "title": "Datasets related to Animation",
+  "hasTitle": true,
+  "subtitle": "Animation Quality Datasets based on Anime and Animated Movies",
+  "hasSubtitle": true,
+  "description": "The information is datasets was collected from the reviewers from there given score. The accuracy of the anime quality can be measured using ML algorithms. Anime.csv can be executed using regression algorithms in ML. Animation.csv and anime.csv both are same, but anime.csv is used for running the regression algorithms like\n1. Conventional Neural Network\n2. Random Forest\n3. Decision Tree\n4. Support Vector Machine .. etc..\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

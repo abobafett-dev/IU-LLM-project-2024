@@ -1,0 +1,42 @@
+{
+  "id": "vineethakkinapalli/citibike-bike-sharingnewyork-cityjan-to-apr-2021",
+  "id_no": 1339590,
+  "datasetSlugNullable": "citibike-bike-sharingnewyork-cityjan-to-apr-2021",
+  "ownerUserNullable": "vineethakkinapalli",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Citibike BikeSharing-NewYork-2020,2021(Jan to Apr)",
+  "subtitleNullable": "Bike Sharing data in New York City from Citibike",
+  "descriptionNullable": "**Citi Bike** is a privately owned public bicycle sharing system serving the New York City boroughs of the Bronx, Brooklyn, Manhattan, and Queens, as well as Jersey City, New Jersey. Named after lead sponsor Citigroup, it is operated by Motivate (formerly Alta Bicycle Share), with former Metropolitan Transportation Authority CEO Jay Walder as chief executive until September 30, 2018 when the company was acquired by **Lyft**. The system's bikes and stations use **BIXI-branded** **technology** from PBSC Urban Solutions. \n\nAs of July 2019, there are 169,000 annual subscribers. Citi Bike riders took an average of 56,497 rides per day in 2019, and the system reached a total of 50 million rides in October 2017. source [wikipedia](https://en.wikipedia.org/wiki/Citi_Bike)\n\nThis dataset contains ride details for the year 2021 from January to April. It contains 15 columns each:\n\n&gt; tripduration - Duration in Seconds\n&gt; starttime - Start Time and Date\n&gt; stoptime - Stop Time and Date\n&gt; start station id - ID of Start Station\n&gt; start station name - Name of Start Station\n&gt; start station latitude - Latitude of start station\n&gt; start station longitude - Longitude of start station\n&gt; end station id - ID of End Station\n&gt; end station name - Name of End Station\n&gt; end station latitude - Latitude of End station\n&gt; end station longitude - Longitude of End station\n&gt; Bike ID - Bike ID\n&gt; usertype -  Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member\n&gt; gender - Zero=unknown; 1=male; 2=female\n&gt; birthyear - Year of Birth",
+  "datasetId": 1339590,
+  "datasetSlug": "citibike-bike-sharingnewyork-cityjan-to-apr-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "vineethakkinapalli",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10558,
+  "totalVotes": 30,
+  "totalDownloads": 1106,
+  "title": "Citibike BikeSharing-NewYork-2020,2021(Jan to Apr)",
+  "hasTitle": true,
+  "subtitle": "Bike Sharing data in New York City from Citibike",
+  "hasSubtitle": true,
+  "description": "**Citi Bike** is a privately owned public bicycle sharing system serving the New York City boroughs of the Bronx, Brooklyn, Manhattan, and Queens, as well as Jersey City, New Jersey. Named after lead sponsor Citigroup, it is operated by Motivate (formerly Alta Bicycle Share), with former Metropolitan Transportation Authority CEO Jay Walder as chief executive until September 30, 2018 when the company was acquired by **Lyft**. The system's bikes and stations use **BIXI-branded** **technology** from PBSC Urban Solutions. \n\nAs of July 2019, there are 169,000 annual subscribers. Citi Bike riders took an average of 56,497 rides per day in 2019, and the system reached a total of 50 million rides in October 2017. source [wikipedia](https://en.wikipedia.org/wiki/Citi_Bike)\n\nThis dataset contains ride details for the year 2021 from January to April. It contains 15 columns each:\n\n&gt; tripduration - Duration in Seconds\n&gt; starttime - Start Time and Date\n&gt; stoptime - Stop Time and Date\n&gt; start station id - ID of Start Station\n&gt; start station name - Name of Start Station\n&gt; start station latitude - Latitude of start station\n&gt; start station longitude - Longitude of start station\n&gt; end station id - ID of End Station\n&gt; end station name - Name of End Station\n&gt; end station latitude - Latitude of End station\n&gt; end station longitude - Longitude of End station\n&gt; Bike ID - Bike ID\n&gt; usertype -  Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member\n&gt; gender - Zero=unknown; 1=male; 2=female\n&gt; birthyear - Year of Birth",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "categorical",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

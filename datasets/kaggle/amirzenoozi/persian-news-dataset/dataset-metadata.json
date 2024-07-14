@@ -1,0 +1,43 @@
+{
+  "id": "amirzenoozi/persian-news-dataset",
+  "id_no": 3551778,
+  "datasetSlugNullable": "persian-news-dataset",
+  "ownerUserNullable": "amirzenoozi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Persian News Dataset",
+  "subtitleNullable": "Ideal for NLP tasks, sentiment analysis, topic modeling, and more.",
+  "descriptionNullable": "# Persian News Dataset\n\nBy Using This Dataset You Will Have Access To 391,749 News From [FarsNews](https://www.farsnews.ir/) Agency (178,480), [MehrNews](https://www.mehrnews.com/) Agency (87,471), [MashreghNews](https://www.mashreghnews.ir/) Agency (53,414), [ISNA](https://www.isna.ir/) Agency (51,779), and [KhabarOnline](https://www.khabaronline.ir/) Agency (20,605). This Dataset Includes Title, Description, Publish Date, Service, Category, and Tags. In The Future, We Will Update This Dataset\n\n\n## Supported Agencies\n\n- FarsNews\n- MehrNews\n- KhabarOnline\n- ISNA\n- MashreghNews\n\n\n## Changelog\n\n### Version 1\n- It just only has FarsNews Agency Records\n\n### Version 2\n- MehrNews Agency Records are Added\n\n### Version 3\n- KhabarOnline Agency Records are Added\n\n### Version 4\n- ISNA Agency Records are Added\n- PublishDateTime format is Updated For FarsNews Records\n\n### Version 5\n- MashreghNews Agency Records are Added\n",
+  "datasetId": 3551778,
+  "datasetSlug": "persian-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "amirzenoozi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1379,
+  "totalVotes": 12,
+  "totalDownloads": 147,
+  "title": "Persian News Dataset",
+  "hasTitle": true,
+  "subtitle": "Ideal for NLP tasks, sentiment analysis, topic modeling, and more.",
+  "hasSubtitle": true,
+  "description": "# Persian News Dataset\n\nBy Using This Dataset You Will Have Access To 391,749 News From [FarsNews](https://www.farsnews.ir/) Agency (178,480), [MehrNews](https://www.mehrnews.com/) Agency (87,471), [MashreghNews](https://www.mashreghnews.ir/) Agency (53,414), [ISNA](https://www.isna.ir/) Agency (51,779), and [KhabarOnline](https://www.khabaronline.ir/) Agency (20,605). This Dataset Includes Title, Description, Publish Date, Service, Category, and Tags. In The Future, We Will Update This Dataset\n\n\n## Supported Agencies\n\n- FarsNews\n- MehrNews\n- KhabarOnline\n- ISNA\n- MashreghNews\n\n\n## Changelog\n\n### Version 1\n- It just only has FarsNews Agency Records\n\n### Version 2\n- MehrNews Agency Records are Added\n\n### Version 3\n- KhabarOnline Agency Records are Added\n\n### Version 4\n- ISNA Agency Records are Added\n- PublishDateTime format is Updated For FarsNews Records\n\n### Version 5\n- MashreghNews Agency Records are Added\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "text mining",
+    "classification",
+    "news",
+    "persian"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

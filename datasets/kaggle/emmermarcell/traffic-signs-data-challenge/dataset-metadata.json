@@ -1,0 +1,39 @@
+{
+  "id": "emmermarcell/traffic-signs-data-challenge",
+  "id_no": 4181100,
+  "datasetSlugNullable": "traffic-signs-data-challenge",
+  "ownerUserNullable": "emmermarcell",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Traffic Signs Data Challenge",
+  "subtitleNullable": "A training data set (20 images) for traffic signs. Made by J\u00e1nos T\u00f6r\u00f6k.",
+  "descriptionNullable": "The dataset contains 20 images that are screenshots from Google Street View. The challenge is to identify the different Traffic signs shown in the dataset.\n\nThe different classes are:\n\nno-right-left-or-u-turn\nspeed-limit\nroad-closed\nno-entry\nno-stopping-no-parking\nother\n\nThe original dataset was made by T\u00f6r\u00f6k J\u00e1nos and I used Roboflow to annotate the images manually.",
+  "datasetId": 4181100,
+  "datasetSlug": "traffic-signs-data-challenge",
+  "hasDatasetSlug": true,
+  "ownerUser": "emmermarcell",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 175,
+  "totalVotes": 1,
+  "totalDownloads": 37,
+  "title": "Traffic Signs Data Challenge",
+  "hasTitle": true,
+  "subtitle": "A training data set (20 images) for traffic signs. Made by J\u00e1nos T\u00f6r\u00f6k.",
+  "hasSubtitle": true,
+  "description": "The dataset contains 20 images that are screenshots from Google Street View. The challenge is to identify the different Traffic signs shown in the dataset.\n\nThe different classes are:\n\nno-right-left-or-u-turn\nspeed-limit\nroad-closed\nno-entry\nno-stopping-no-parking\nother\n\nThe original dataset was made by T\u00f6r\u00f6k J\u00e1nos and I used Roboflow to annotate the images manually.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

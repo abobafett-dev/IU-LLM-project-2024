@@ -1,0 +1,43 @@
+{
+  "id": "archisha26/blood-face-detection",
+  "id_no": 1135184,
+  "datasetSlugNullable": "blood-face-detection",
+  "ownerUserNullable": "archisha26",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Blood Face Detection",
+  "subtitleNullable": "Image Classification",
+  "descriptionNullable": "### Content\n\nThe information about the folder contents are as follows:\n1. Blood : Faces containing blood\n2. NoBlood : Faces not containing blood\n3. Faces: Contains cropped images of faces\nThe aim is to build a model that will be able to detect and differentiate a face with blood and the one without.\n\n\n### Acknowledgements\n\nThis dataset is the courtesy of [Tessact](http://tessact.com/) ",
+  "datasetId": 1135184,
+  "datasetSlug": "blood-face-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "archisha26",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 809,
+  "totalVotes": 2,
+  "totalDownloads": 70,
+  "title": "Blood Face Detection",
+  "hasTitle": true,
+  "subtitle": "Image Classification",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThe information about the folder contents are as follows:\n1. Blood : Faces containing blood\n2. NoBlood : Faces not containing blood\n3. Faces: Contains cropped images of faces\nThe aim is to build a model that will be able to detect and differentiate a face with blood and the one without.\n\n\n### Acknowledgements\n\nThis dataset is the courtesy of [Tessact](http://tessact.com/) ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "beginner",
+    "intermediate",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

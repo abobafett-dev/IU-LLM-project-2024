@@ -1,0 +1,42 @@
+{
+  "id": "sadmansarar/dse-news-archive",
+  "id_no": 390231,
+  "datasetSlugNullable": "dse-news-archive",
+  "ownerUserNullable": "sadmansarar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "DSE News Archive",
+  "subtitleNullable": "Collection of 111K Dhaka Stock Exchange news with trading code",
+  "descriptionNullable": "### Content\n\nThis dataset contains Treading Code, Post Date and News of Dhaka Stock Exchange\n\n\n### Acknowledgements\n\nThe dataset was created from scraping data from [https://dsebd.org](https://dsebd.org) \n\n### Inspiration\n\nThis dataset aims to assist the researcher in the Dhaka Stock Exchange market place.",
+  "datasetId": 390231,
+  "datasetSlug": "dse-news-archive",
+  "hasDatasetSlug": true,
+  "ownerUser": "sadmansarar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6237,
+  "totalVotes": 4,
+  "totalDownloads": 110,
+  "title": "DSE News Archive",
+  "hasTitle": true,
+  "subtitle": "Collection of 111K Dhaka Stock Exchange news with trading code",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThis dataset contains Treading Code, Post Date and News of Dhaka Stock Exchange\n\n\n### Acknowledgements\n\nThe dataset was created from scraping data from [https://dsebd.org](https://dsebd.org) \n\n### Inspiration\n\nThis dataset aims to assist the researcher in the Dhaka Stock Exchange market place.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "investing",
+    "news",
+    "public safety"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

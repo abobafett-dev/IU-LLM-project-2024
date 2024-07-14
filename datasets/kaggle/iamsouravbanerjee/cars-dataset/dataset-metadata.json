@@ -1,0 +1,39 @@
+{
+  "id": "iamsouravbanerjee/cars-dataset",
+  "id_no": 3870303,
+  "datasetSlugNullable": "cars-dataset",
+  "ownerUserNullable": "iamsouravbanerjee",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cars Dataset",
+  "subtitleNullable": "Insights into the World of Automobiles: A Synthetic Dataset",
+  "descriptionNullable": "### Context\n\nAutomobile data holds immense importance as it offers insights into the functioning and efficiency of the automotive industry. It provides valuable information about car models, specifications, sales trends, consumer demographics, and preferences, which car manufacturers and dealerships can leverage to optimize their operations and enhance customer experiences. By analyzing data on vehicle reliability, fuel efficiency, safety ratings, and resale values, the automotive industry can identify trends and implement strategies to produce more reliable and environmentally friendly vehicles, improve safety standards, and enhance the overall value of cars for consumers. Moreover, regulatory bodies and policymakers rely on this data to enforce regulations, set emissions standards, and make informed decisions regarding automotive policies and environmental impacts. Researchers and analysts use car purchase data to study market trends, assess the environmental impact of various vehicle types, and develop strategies for sustainable growth within the industry. In essence, car purchase data serves as a foundation for informed decision-making, operational efficiency, and the overall advancement of the automotive sector.\n\n### Content\n\nThis dataset comprises diverse parameters relating to car purchases and ownership on a global scale. The dataset prominently incorporates fields such as 'First Name', 'Last Name', 'Country', 'Car Brand', 'Car Model', 'Car Color', 'Year of Manufacture', and 'Credit Card Type'. These columns collectively provide comprehensive insights into customer demographics, vehicle details, and payment information. Researchers and industry experts can leverage this dataset to analyze trends in car purchasing behavior, optimize the customer car-buying experience, evaluate the popularity of car brands and models, and understand payment preferences within the automotive industry.\n\n### Dataset Glossary (Column-wise)\n\n* **First Name** - The first name of the car purchaser.\n* **Last Name** - The last name of the car purchaser.\n* **Country** - The country of residence of the car purchaser.\n* **Car Brand** - The brand or manufacturer of the purchased car.\n* **Car Model** - The specific model of the purchased car.\n* **Car Color** - The color of the purchased car.\n* **Year of Manufacture** - The year the car was manufactured.\n* **Credit Card Type** - The type of credit card used for the car purchase.\n\n### Structure of the Dataset\n\n![](https://i.imgur.com/olZpXsT.png)\n\n### Acknowledgement\n\nThe dataset provided here is a simulated example and was generated using the online platform found at <b>[Mockaroo](https://www.mockaroo.com/)</b>. This web-based tool offers a service that enables the creation of customizable mock datasets that closely resemble real data. It is primarily intended for use by developers, testers, and data experts who require sample data for a range of uses, including testing databases, filling applications with demonstration data, and crafting lifelike illustrations for presentations and tutorials. To explore further details, you can visit their website.\n\nCover Photo by: <b><a href=\"https://www.freepik.com/free-vector/transport-flat-muscle-car-illustration_28211739.htm#query=car&position=33&from_view=keyword&track=sph\">Freepik</a></b>\n\nThumbnail by: <b><a href=\"https://www.flaticon.com/free-icons/car\">Car icons created by Freepik - Flaticon</a></b>",
+  "datasetId": 3870303,
+  "datasetSlug": "cars-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "iamsouravbanerjee",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12576,
+  "totalVotes": 58,
+  "totalDownloads": 2351,
+  "title": "Cars Dataset",
+  "hasTitle": true,
+  "subtitle": "Insights into the World of Automobiles: A Synthetic Dataset",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAutomobile data holds immense importance as it offers insights into the functioning and efficiency of the automotive industry. It provides valuable information about car models, specifications, sales trends, consumer demographics, and preferences, which car manufacturers and dealerships can leverage to optimize their operations and enhance customer experiences. By analyzing data on vehicle reliability, fuel efficiency, safety ratings, and resale values, the automotive industry can identify trends and implement strategies to produce more reliable and environmentally friendly vehicles, improve safety standards, and enhance the overall value of cars for consumers. Moreover, regulatory bodies and policymakers rely on this data to enforce regulations, set emissions standards, and make informed decisions regarding automotive policies and environmental impacts. Researchers and analysts use car purchase data to study market trends, assess the environmental impact of various vehicle types, and develop strategies for sustainable growth within the industry. In essence, car purchase data serves as a foundation for informed decision-making, operational efficiency, and the overall advancement of the automotive sector.\n\n### Content\n\nThis dataset comprises diverse parameters relating to car purchases and ownership on a global scale. The dataset prominently incorporates fields such as 'First Name', 'Last Name', 'Country', 'Car Brand', 'Car Model', 'Car Color', 'Year of Manufacture', and 'Credit Card Type'. These columns collectively provide comprehensive insights into customer demographics, vehicle details, and payment information. Researchers and industry experts can leverage this dataset to analyze trends in car purchasing behavior, optimize the customer car-buying experience, evaluate the popularity of car brands and models, and understand payment preferences within the automotive industry.\n\n### Dataset Glossary (Column-wise)\n\n* **First Name** - The first name of the car purchaser.\n* **Last Name** - The last name of the car purchaser.\n* **Country** - The country of residence of the car purchaser.\n* **Car Brand** - The brand or manufacturer of the purchased car.\n* **Car Model** - The specific model of the purchased car.\n* **Car Color** - The color of the purchased car.\n* **Year of Manufacture** - The year the car was manufactured.\n* **Credit Card Type** - The type of credit card used for the car purchase.\n\n### Structure of the Dataset\n\n![](https://i.imgur.com/olZpXsT.png)\n\n### Acknowledgement\n\nThe dataset provided here is a simulated example and was generated using the online platform found at <b>[Mockaroo](https://www.mockaroo.com/)</b>. This web-based tool offers a service that enables the creation of customizable mock datasets that closely resemble real data. It is primarily intended for use by developers, testers, and data experts who require sample data for a range of uses, including testing databases, filling applications with demonstration data, and crafting lifelike illustrations for presentations and tutorials. To explore further details, you can visit their website.\n\nCover Photo by: <b><a href=\"https://www.freepik.com/free-vector/transport-flat-muscle-car-illustration_28211739.htm#query=car&position=33&from_view=keyword&track=sph\">Freepik</a></b>\n\nThumbnail by: <b><a href=\"https://www.flaticon.com/free-icons/car\">Car icons created by Freepik - Flaticon</a></b>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

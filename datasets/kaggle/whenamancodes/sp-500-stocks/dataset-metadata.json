@@ -1,0 +1,43 @@
+{
+  "id": "whenamancodes/sp-500-stocks",
+  "id_no": 2515222,
+  "datasetSlugNullable": "sp-500-stocks",
+  "ownerUserNullable": "whenamancodes",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "S&P 500 Stocks",
+  "subtitleNullable": "S&P 500 Stocks Index",
+  "descriptionNullable": "Stock Market Analysis of S&P 500 from it's Founding / Listing Years which is 1985 to 2022\n\n## Data Dictionary\n| Columns | Description |\n| --- | --- |\n| Date | Date of Listing (YYYY-MM-DD) |\n| Open | Price when the market opens |\n| High | Highest recorded price for the day |\n| Low | Lowest recorded price for the day |\n| Close | Price when the market closes |\n| Adj Close | Modified closing price based on corporate actions |\n| Volume | Amount of stocks sold in a day |\n\n# About S&P 500\nThe Standard and Poor's 500 or S&P 500 is the most famous financial benchmark in the world.\nThis stock market index tracks the performance of 500 large companies listed on stock exchanges in the United States. As of December 31, 2020, more than $5.4 trillion was invested in assets tied to the performance of this index.\nBecause the index includes multiple classes of stock of some constituent companies\u2014for example, Alphabet's Class A (GOOGL) and Class C (GOOG)\u2014there are actually 505 stocks in the gauge.\n\n&gt; More\n- Find More Exciting\ud83d\ude40 Datasets [Here](https://www.kaggle.com/whenamancodes/datasets)\n- An Upvote\ud83d\udc4d A Day\u1559(`\u25bf\u00b4)\u1557 , Keeps Aman Hurray Hurray..... \u0669(\u02d8\u25e1\u02d8)\u06f6Hehe",
+  "datasetId": 2515222,
+  "datasetSlug": "sp-500-stocks",
+  "hasDatasetSlug": true,
+  "ownerUser": "whenamancodes",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1764,
+  "totalVotes": 4,
+  "totalDownloads": 250,
+  "title": "S&P 500 Stocks",
+  "hasTitle": true,
+  "subtitle": "S&P 500 Stocks Index",
+  "hasSubtitle": true,
+  "description": "Stock Market Analysis of S&P 500 from it's Founding / Listing Years which is 1985 to 2022\n\n## Data Dictionary\n| Columns | Description |\n| --- | --- |\n| Date | Date of Listing (YYYY-MM-DD) |\n| Open | Price when the market opens |\n| High | Highest recorded price for the day |\n| Low | Lowest recorded price for the day |\n| Close | Price when the market closes |\n| Adj Close | Modified closing price based on corporate actions |\n| Volume | Amount of stocks sold in a day |\n\n# About S&P 500\nThe Standard and Poor's 500 or S&P 500 is the most famous financial benchmark in the world.\nThis stock market index tracks the performance of 500 large companies listed on stock exchanges in the United States. As of December 31, 2020, more than $5.4 trillion was invested in assets tied to the performance of this index.\nBecause the index includes multiple classes of stock of some constituent companies\u2014for example, Alphabet's Class A (GOOGL) and Class C (GOOG)\u2014there are actually 505 stocks in the gauge.\n\n&gt; More\n- Find More Exciting\ud83d\ude40 Datasets [Here](https://www.kaggle.com/whenamancodes/datasets)\n- An Upvote\ud83d\udc4d A Day\u1559(`\u25bf\u00b4)\u1557 , Keeps Aman Hurray Hurray..... \u0669(\u02d8\u25e1\u02d8)\u06f6Hehe",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "education",
+    "data visualization",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "agungpambudi/africa-soil-mapping-isdasoil-exploration",
+  "id_no": 3991932,
+  "datasetSlugNullable": "africa-soil-mapping-isdasoil-exploration",
+  "ownerUserNullable": "agungpambudi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "AFRICA: Soil Analysis for iSDAsoil Mapping",
+  "subtitleNullable": "In-depth soil analysis powering iSDAsoil maps across Africa.",
+  "descriptionNullable": "This dataset is available under a CC-BY-4.0 licence. Please cite using the following DOI: https://doi.org/10.17605/OSF.IO/A69R5\n\n---------------------------------\n\nThis dataset provides comprehensive soil analysis specifically tailored for Africa, meticulously prepared in an analysis-ready format. It serves as the cornerstone for training models instrumental in crafting the cutting-edge iSDAsoil maps.\n\n\n|column_name|description|unit|\n| --- | --- |\n|longitude|Latitude of soil sampling location|decimal degrees|\n|latitude|Longitude of soil sampling location|decimal degrees|\n|start_date|Combined with end_date to indicate the timespan <br>over which data were collected||\n|end_date|Combined with start_date to indicate the timespan <br>over which data were collected||\n|source|Reference to the original source of the dataset. <br>More information is available upon request.||\n|horizon_lower|Depth of bottom of sampled layer|cm|\n|horizon_upper|Depth of top of sampled layer|cm|\n|aluminium_extractable|\"Aluminum, Mehlich3 extraction\"|mg/kg|\n|boron_extractable|\"Boron, Mehlich3 extraction\"|mg/kg|\n|calcium_extractable|\"Calcium, Mehlich3 extraction\"|mg/kg|\n|carbon_organic|Organic Carbon by combustion after acidification|g/kg|\n|carbon_total|Total Carbon by combustion|g/kg|\n|copper_extractable|\"Copper, Mehlich3 extraction\"|mg/kg|\n|electrical_conductivity|\"Electrical conductivity, Saturation Extract\"|dS/m|\n|iron_extractable|\"Iron, Mehlich3 extraction\"|mg/kg|\n|magnesium_extractable|\"Magnesium, Mehlich3 extraction\"|mg/kg|\n|manganese_extractable|\"Manganese, Mehlich3 extraction\"|mg/kg|\n|nitrogen_total|Total Nitrogen by combustion|g/kg|\n|ph|\"pH, measured in 1:1 soil-water suspension\"||\n|phosphorus_extractable|\"Phosphorus, Mehlich3 extraction\"|mg/kg|\n|potassium_etractable|\"Potassium, Mehlich3 extraction\"|mg/kg|\n|sodium_extractable|\"Sodium, Mehlich3 extraction\"|mg/kg|\n|sulphur_extractable|\"Sulphur, Mehlich3 extraction\"|mg/kg|\n|zn_mehlich3|\"Zinc, Mehlich3 extraction\"|mg/kg|\n",
+  "datasetId": 3991932,
+  "datasetSlug": "africa-soil-mapping-isdasoil-exploration",
+  "hasDatasetSlug": true,
+  "ownerUser": "agungpambudi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 780,
+  "totalVotes": 15,
+  "totalDownloads": 102,
+  "title": "AFRICA: Soil Analysis for iSDAsoil Mapping",
+  "hasTitle": true,
+  "subtitle": "In-depth soil analysis powering iSDAsoil maps across Africa.",
+  "hasSubtitle": true,
+  "description": "This dataset is available under a CC-BY-4.0 licence. Please cite using the following DOI: https://doi.org/10.17605/OSF.IO/A69R5\n\n---------------------------------\n\nThis dataset provides comprehensive soil analysis specifically tailored for Africa, meticulously prepared in an analysis-ready format. It serves as the cornerstone for training models instrumental in crafting the cutting-edge iSDAsoil maps.\n\n\n|column_name|description|unit|\n| --- | --- |\n|longitude|Latitude of soil sampling location|decimal degrees|\n|latitude|Longitude of soil sampling location|decimal degrees|\n|start_date|Combined with end_date to indicate the timespan <br>over which data were collected||\n|end_date|Combined with start_date to indicate the timespan <br>over which data were collected||\n|source|Reference to the original source of the dataset. <br>More information is available upon request.||\n|horizon_lower|Depth of bottom of sampled layer|cm|\n|horizon_upper|Depth of top of sampled layer|cm|\n|aluminium_extractable|\"Aluminum, Mehlich3 extraction\"|mg/kg|\n|boron_extractable|\"Boron, Mehlich3 extraction\"|mg/kg|\n|calcium_extractable|\"Calcium, Mehlich3 extraction\"|mg/kg|\n|carbon_organic|Organic Carbon by combustion after acidification|g/kg|\n|carbon_total|Total Carbon by combustion|g/kg|\n|copper_extractable|\"Copper, Mehlich3 extraction\"|mg/kg|\n|electrical_conductivity|\"Electrical conductivity, Saturation Extract\"|dS/m|\n|iron_extractable|\"Iron, Mehlich3 extraction\"|mg/kg|\n|magnesium_extractable|\"Magnesium, Mehlich3 extraction\"|mg/kg|\n|manganese_extractable|\"Manganese, Mehlich3 extraction\"|mg/kg|\n|nitrogen_total|Total Nitrogen by combustion|g/kg|\n|ph|\"pH, measured in 1:1 soil-water suspension\"||\n|phosphorus_extractable|\"Phosphorus, Mehlich3 extraction\"|mg/kg|\n|potassium_etractable|\"Potassium, Mehlich3 extraction\"|mg/kg|\n|sodium_extractable|\"Sodium, Mehlich3 extraction\"|mg/kg|\n|sulphur_extractable|\"Sulphur, Mehlich3 extraction\"|mg/kg|\n|zn_mehlich3|\"Zinc, Mehlich3 extraction\"|mg/kg|\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth science",
+    "environment",
+    "time series analysis",
+    "classification",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

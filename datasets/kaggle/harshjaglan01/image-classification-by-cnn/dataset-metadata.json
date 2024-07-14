@@ -1,0 +1,45 @@
+{
+  "id": "harshjaglan01/image-classification-by-cnn",
+  "id_no": 4538307,
+  "datasetSlugNullable": "image-classification-by-cnn",
+  "ownerUserNullable": "harshjaglan01",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Image Classification by CNN",
+  "subtitleNullable": "Automated Flower Identification Using Convolutional Neural Networks",
+  "descriptionNullable": "# Automated Flower Identification Using Convolutional Neural Networks\nThis project aims to develop a model for identifying five different flower species (rose, tulip, sunflower, dandelion, daisy) using Convolutional Neural Networks (CNNs).\n\n#Description\nThe dataset consists of 5,000 images (1,000 images per class) collected from various online sources.\nThe model achieved an accuracy of 98.58% on the test set.\nUsage\n\n#This project requires Python 3.x and the following libraries:\nTensorFlow: For making Neural Networks\nnumpy: For numerical computing and array operations.\npandas: For data manipulation and analysis.\nmatplotlib: For creating visualizations such as line plots, bar plots, and histograms.\nseaborn: For advanced data visualization and creating statistically-informed graphics.\nscikit-learn: For machine learning algorithms and model training.\nTo run the project:\n\n#Clone this repository.\nInstall the required libraries.\nRun the Jupyter Notebook: jupyter notebook flower_classification.ipynb\nAdditional Information\nLink to code: https://github.com/Harshjaglan01/flower-classification-cnn\nLicense: MIT License",
+  "datasetId": 4538307,
+  "datasetSlug": "image-classification-by-cnn",
+  "hasDatasetSlug": true,
+  "ownerUser": "harshjaglan01",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 553,
+  "totalVotes": 4,
+  "totalDownloads": 82,
+  "title": "Image Classification by CNN",
+  "hasTitle": true,
+  "subtitle": "Automated Flower Identification Using Convolutional Neural Networks",
+  "hasSubtitle": true,
+  "description": "# Automated Flower Identification Using Convolutional Neural Networks\nThis project aims to develop a model for identifying five different flower species (rose, tulip, sunflower, dandelion, daisy) using Convolutional Neural Networks (CNNs).\n\n#Description\nThe dataset consists of 5,000 images (1,000 images per class) collected from various online sources.\nThe model achieved an accuracy of 98.58% on the test set.\nUsage\n\n#This project requires Python 3.x and the following libraries:\nTensorFlow: For making Neural Networks\nnumpy: For numerical computing and array operations.\npandas: For data manipulation and analysis.\nmatplotlib: For creating visualizations such as line plots, bar plots, and histograms.\nseaborn: For advanced data visualization and creating statistically-informed graphics.\nscikit-learn: For machine learning algorithms and model training.\nTo run the project:\n\n#Clone this repository.\nInstall the required libraries.\nRun the Jupyter Notebook: jupyter notebook flower_classification.ipynb\nAdditional Information\nLink to code: https://github.com/Harshjaglan01/flower-classification-cnn\nLicense: MIT License",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "programming",
+    "beginner",
+    "deep learning",
+    "image",
+    "tensorflow",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

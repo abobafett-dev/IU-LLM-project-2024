@@ -1,0 +1,43 @@
+{
+  "id": "svenasai/japan-loto7-raw-data",
+  "id_no": 946906,
+  "datasetSlugNullable": "japan-loto7-raw-data",
+  "ownerUserNullable": "svenasai",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Japan LOTO7 raw data",
+  "subtitleNullable": "Japanese lottery LOTO7 drawing data etc.",
+  "descriptionNullable": "### Context\nHello, dear unknown Kagglers,\n\nIntentions are quite clear. We will work on a lottery dataset and use different approaches to get as many as possible of the future winning numbers within the next or a few following predictions. Current predictions on a weekly basis are produced with a simple neural net and a Boltzmann machine with rather depressing outcomes , too often below hypergeometric distribution based expectation values. \nConsidering what high accuracies are needed and already delivered by AI approaches on fields like autonomous driving or pattern / speech recognition, we don\u2019t need so much here. But it seems to be extraordinary difficult for usual AI methods, if not impossible. Only an accuracy between 56% and 78% would do it for the prediction output data record. That are very low values, unacceptable in autonomous driving, X-ray cancer detection et al.\nWhat\u2019s wrong here with all that global IT and AI hype? Well, enough told and cried....\nTime series analysis, predicting future outcomes and refining with inputs for deep learning , all with quick GPU or TPU support are now on the agenda. Formula based descriptive Markov chains are , as you surely know, no problem at all for AI, the learning and predictions are almost perfect. \nNow let\u2019s see, what AI can do on all those lottery Markov chains, that are very much biased and fuzzied. Is Deep learning sufficient, or do we need to wait and transform into quantum computing as a last resort, or is AI completely useless at all? We will find out soon.\n\n\n### Content\n\nPlease, refer to the dataset and field descriptions.\n\n### Acknowledgements \nOf course, a first big thank you to Kaggle Bot for providing the first base and some initial notebook program lines.\nWish, it could write the whole thing in a second, too. lol\n\n### Inspiration\n\nAny hints, inspirations and prediction code lines or program snippets welcome.\nSimilar datasets for your projects can be ordered too, I\u2019ll provide them, if I find the base data and some time.",
+  "datasetId": 946906,
+  "datasetSlug": "japan-loto7-raw-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "svenasai",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5069,
+  "totalVotes": 14,
+  "totalDownloads": 222,
+  "title": "Japan LOTO7 raw data",
+  "hasTitle": true,
+  "subtitle": "Japanese lottery LOTO7 drawing data etc.",
+  "hasSubtitle": true,
+  "description": "### Context\nHello, dear unknown Kagglers,\n\nIntentions are quite clear. We will work on a lottery dataset and use different approaches to get as many as possible of the future winning numbers within the next or a few following predictions. Current predictions on a weekly basis are produced with a simple neural net and a Boltzmann machine with rather depressing outcomes , too often below hypergeometric distribution based expectation values. \nConsidering what high accuracies are needed and already delivered by AI approaches on fields like autonomous driving or pattern / speech recognition, we don\u2019t need so much here. But it seems to be extraordinary difficult for usual AI methods, if not impossible. Only an accuracy between 56% and 78% would do it for the prediction output data record. That are very low values, unacceptable in autonomous driving, X-ray cancer detection et al.\nWhat\u2019s wrong here with all that global IT and AI hype? Well, enough told and cried....\nTime series analysis, predicting future outcomes and refining with inputs for deep learning , all with quick GPU or TPU support are now on the agenda. Formula based descriptive Markov chains are , as you surely know, no problem at all for AI, the learning and predictions are almost perfect. \nNow let\u2019s see, what AI can do on all those lottery Markov chains, that are very much biased and fuzzied. Is Deep learning sufficient, or do we need to wait and transform into quantum computing as a last resort, or is AI completely useless at all? We will find out soon.\n\n\n### Content\n\nPlease, refer to the dataset and field descriptions.\n\n### Acknowledgements \nOf course, a first big thank you to Kaggle Bot for providing the first base and some initial notebook program lines.\nWish, it could write the whole thing in a second, too. lol\n\n### Inspiration\n\nAny hints, inspirations and prediction code lines or program snippets welcome.\nSimilar datasets for your projects can be ordered too, I\u2019ll provide them, if I find the base data and some time.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "tabular",
+    "keras",
+    "sklearn",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

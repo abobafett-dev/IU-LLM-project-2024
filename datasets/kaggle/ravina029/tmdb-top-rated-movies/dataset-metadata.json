@@ -1,0 +1,44 @@
+{
+  "id": "ravina029/tmdb-top-rated-movies",
+  "id_no": 4402366,
+  "datasetSlugNullable": "tmdb-top-rated-movies",
+  "ownerUserNullable": "ravina029",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "TMDB_Top_rated_Movies",
+  "subtitleNullable": "Top_Rated_Movie_dataset_from_TMDB",
+  "descriptionNullable": "**Title:**  **TMDB Top Rated Movies Dataset**\n\n**Overview:**\nThis dataset provides a comprehensive collection of information about top-rated movies obtained from The Movie Database (TMDB). It includes key details such as movie title, overview, release date, popularity, vote average, and vote count. The dataset is rich in content and serves as a valuable resource for movie enthusiasts, researchers, and data analysts interested in exploring trends and patterns within the realm of top-rated films.\n\n**Columns:**\n\n**id:** Unique identifier for each movie.\n**title:** The title of the movie.\n**overview:** A brief description of the movie's plot.\n**release_date:** The date when the movie was released.\n**popularity:** Popularity score indicating the movie's popularity.\n**vote_average:** The average rating given by viewers.\n**vote_count:** The count of votes received by the movie.\n\n\n**Potential Applications:**\n\n**Movie Analysis:** Explore trends and patterns in top-rated movies over time.\n**Recommendation Syste**ms: Develop recommendation algorithms based on popularity and user ratings.\n**Sentiment Analysis:** Analyze movie overviews to understand audience sentiments.\n**Temporal Analysis:** Examine how movie popularity and ratings change over release years.\n\n\n**Acknowledgments:**\nThis dataset is sourced from TMDB, a leading movie database, and is made available for public use. Please consider citing TMDB if you use this dataset in your research or projects.\n\n",
+  "datasetId": 4402366,
+  "datasetSlug": "tmdb-top-rated-movies",
+  "hasDatasetSlug": true,
+  "ownerUser": "ravina029",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 45,
+  "totalVotes": 3,
+  "totalDownloads": 6,
+  "title": "TMDB_Top_rated_Movies",
+  "hasTitle": true,
+  "subtitle": "Top_Rated_Movie_dataset_from_TMDB",
+  "hasSubtitle": true,
+  "description": "**Title:**  **TMDB Top Rated Movies Dataset**\n\n**Overview:**\nThis dataset provides a comprehensive collection of information about top-rated movies obtained from The Movie Database (TMDB). It includes key details such as movie title, overview, release date, popularity, vote average, and vote count. The dataset is rich in content and serves as a valuable resource for movie enthusiasts, researchers, and data analysts interested in exploring trends and patterns within the realm of top-rated films.\n\n**Columns:**\n\n**id:** Unique identifier for each movie.\n**title:** The title of the movie.\n**overview:** A brief description of the movie's plot.\n**release_date:** The date when the movie was released.\n**popularity:** Popularity score indicating the movie's popularity.\n**vote_average:** The average rating given by viewers.\n**vote_count:** The count of votes received by the movie.\n\n\n**Potential Applications:**\n\n**Movie Analysis:** Explore trends and patterns in top-rated movies over time.\n**Recommendation Syste**ms: Develop recommendation algorithms based on popularity and user ratings.\n**Sentiment Analysis:** Analyze movie overviews to understand audience sentiments.\n**Temporal Analysis:** Examine how movie popularity and ratings change over release years.\n\n\n**Acknowledgments:**\nThis dataset is sourced from TMDB, a leading movie database, and is made available for public use. Please consider citing TMDB if you use this dataset in your research or projects.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "exploratory data analysis",
+    "data visualization",
+    "recommender systems",
+    "spaCy",
+    "nltk"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "fekihmea/the-effect-of-economic-news-on-gold-prices",
+  "id_no": 4212509,
+  "datasetSlugNullable": "the-effect-of-economic-news-on-gold-prices",
+  "ownerUserNullable": "fekihmea",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "The Effect of Economic News on Gold Prices",
+  "subtitleNullable": "Decoding Market Shifts: Gold Prices and Economic News Insights (2019-2023)",
+  "descriptionNullable": "Explore the intricate dance between gold prices and key economic events across major global players \u2013 Canada, Japan, USA, Russia, European Union, and China. This comprehensive dataset spans from January 2019 to December 2023, offering a nuanced analysis of how economic news from these influential regions impacts the ever-volatile gold market. Delve into the ebb and flow of financial landscapes, uncovering trends, correlations, and invaluable insights for strategic decision-making in the dynamic world of investments.\n\n**Historical Gold Price Dataset:**\n\n- **Day**: The day of the week when the data was recorded.\n- **Date**: The specific date corresponding to the recorded gold price.\n- **Hour**: The time of day when the gold price was recorded.\n- **Country**: The country associated with the economic event or news affecting gold prices.\n- **Event**: The economic event or news that potentially influenced gold prices.\n- **Actual**: The actual reported value or figure related to the economic event.\n- **Previous**: The previously reported value or figure for the same economic event.\n- **Consensus**: The consensus forecast or expected value for the economic event.\n- **Forecast**: The forecasted value or figure for the economic event.\n\n** Economic Calendar Dataset**:\n\n- **Day**: The day of the week when the economic event is scheduled.\n- **Date**: The specific date when the economic event is expected to occur.\n- **Hour**: The time of day when the economic event is scheduled.\n- **Country**: The country associated with the economic event.\n- **Event**: The specific economic event or news scheduled to take place.\n- **Actual** The actual reported value or figure related to the economic event.\n- **Previous**: The previously reported value or figure for the same economic event.\n- **Consensus**: The consensus forecast or expected value for the economic event.\n- **Forecast**: The forecasted value or figure for the economic event.\n",
+  "datasetId": 4212509,
+  "datasetSlug": "the-effect-of-economic-news-on-gold-prices",
+  "hasDatasetSlug": true,
+  "ownerUser": "fekihmea",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3973,
+  "totalVotes": 27,
+  "totalDownloads": 633,
+  "title": "The Effect of Economic News on Gold Prices",
+  "hasTitle": true,
+  "subtitle": "Decoding Market Shifts: Gold Prices and Economic News Insights (2019-2023)",
+  "hasSubtitle": true,
+  "description": "Explore the intricate dance between gold prices and key economic events across major global players \u2013 Canada, Japan, USA, Russia, European Union, and China. This comprehensive dataset spans from January 2019 to December 2023, offering a nuanced analysis of how economic news from these influential regions impacts the ever-volatile gold market. Delve into the ebb and flow of financial landscapes, uncovering trends, correlations, and invaluable insights for strategic decision-making in the dynamic world of investments.\n\n**Historical Gold Price Dataset:**\n\n- **Day**: The day of the week when the data was recorded.\n- **Date**: The specific date corresponding to the recorded gold price.\n- **Hour**: The time of day when the gold price was recorded.\n- **Country**: The country associated with the economic event or news affecting gold prices.\n- **Event**: The economic event or news that potentially influenced gold prices.\n- **Actual**: The actual reported value or figure related to the economic event.\n- **Previous**: The previously reported value or figure for the same economic event.\n- **Consensus**: The consensus forecast or expected value for the economic event.\n- **Forecast**: The forecasted value or figure for the economic event.\n\n** Economic Calendar Dataset**:\n\n- **Day**: The day of the week when the economic event is scheduled.\n- **Date**: The specific date when the economic event is expected to occur.\n- **Hour**: The time of day when the economic event is scheduled.\n- **Country**: The country associated with the economic event.\n- **Event**: The specific economic event or news scheduled to take place.\n- **Actual** The actual reported value or figure related to the economic event.\n- **Previous**: The previously reported value or figure for the same economic event.\n- **Consensus**: The consensus forecast or expected value for the economic event.\n- **Forecast**: The forecasted value or figure for the economic event.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "intermediate",
+    "data visualization",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

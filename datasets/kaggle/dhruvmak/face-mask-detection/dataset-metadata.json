@@ -1,0 +1,48 @@
+{
+  "id": "dhruvmak/face-mask-detection",
+  "id_no": 798318,
+  "datasetSlugNullable": "face-mask-detection",
+  "ownerUserNullable": "dhruvmak",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Face Mask Classification",
+  "subtitleNullable": "Classify between Face with mask and no mask",
+  "descriptionNullable": "",
+  "datasetId": 798318,
+  "datasetSlug": "face-mask-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "dhruvmak",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 18685,
+  "totalVotes": 36,
+  "totalDownloads": 2621,
+  "title": "Face Mask Classification",
+  "hasTitle": true,
+  "subtitle": "Classify between Face with mask and no mask",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "education",
+    "health",
+    "image",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "bhaveshwadhwani",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

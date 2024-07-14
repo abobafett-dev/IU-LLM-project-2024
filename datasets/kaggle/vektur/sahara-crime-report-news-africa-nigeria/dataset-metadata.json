@@ -1,0 +1,39 @@
+{
+  "id": "vektur/sahara-crime-report-news-africa-nigeria",
+  "id_no": 4312877,
+  "datasetSlugNullable": "sahara-crime-report-news-africa-nigeria",
+  "ownerUserNullable": "vektur",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Sahara Crime Report News - Africa, Nigeria",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset is a dataset of hand-picked news from the Sahara crime report, it has three columns, viz: the label, header, and the url of the news.\n\nThe labels are Rape, Arson, Shooting, Bribery, Murder and Theft.\n\nThe header is categorically the title of the news.\n\nWhile the url is the url where the news is located",
+  "datasetId": 4312877,
+  "datasetSlug": "sahara-crime-report-news-africa-nigeria",
+  "hasDatasetSlug": true,
+  "ownerUser": "vektur",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 67,
+  "totalVotes": 1,
+  "totalDownloads": 17,
+  "title": "Sahara Crime Report News - Africa, Nigeria",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset is a dataset of hand-picked news from the Sahara crime report, it has three columns, viz: the label, header, and the url of the news.\n\nThe labels are Rape, Arson, Shooting, Bribery, Murder and Theft.\n\nThe header is categorically the title of the news.\n\nWhile the url is the url where the news is located",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "crime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mohamadshirzad/iran-news-dataset",
+  "id_no": 3918728,
+  "datasetSlugNullable": "iran-news-dataset",
+  "ownerUserNullable": "mohamadshirzad",
+  "usabilityRatingNullable": 0.23529411764705882,
+  "titleNullable": "Iran news dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "Data about news in Iran in housing field.This data has been collected from https://khabaronline.ir",
+  "datasetId": 3918728,
+  "datasetSlug": "iran-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohamadshirzad",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.23529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 41,
+  "totalVotes": 6,
+  "totalDownloads": 9,
+  "title": "Iran news dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Data about news in Iran in housing field.This data has been collected from https://khabaronline.ir",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "nlp",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

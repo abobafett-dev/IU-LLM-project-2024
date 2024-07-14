@@ -1,0 +1,43 @@
+{
+  "id": "rupakroy/stock-trading-data",
+  "id_no": 1894641,
+  "datasetSlugNullable": "stock-trading-data",
+  "ownerUserNullable": "rupakroy",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "stock_trading_data",
+  "subtitleNullable": "The dataset contains stock trading data properly formatted with datetime.",
+  "descriptionNullable": "The dataset contains stock trading data properly formatted with datetime. Helpful for quick Time Series debugging and sequential learning process. \n\nThe dataset contains:\nDateTime.\nOpening Stock\nHigh.\nLow\nClosing Stock.",
+  "datasetId": 1894641,
+  "datasetSlug": "stock-trading-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "rupakroy",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2341,
+  "totalVotes": 13,
+  "totalDownloads": 363,
+  "title": "stock_trading_data",
+  "hasTitle": true,
+  "subtitle": "The dataset contains stock trading data properly formatted with datetime.",
+  "hasSubtitle": true,
+  "description": "The dataset contains stock trading data properly formatted with datetime. Helpful for quick Time Series debugging and sequential learning process. \n\nThe dataset contains:\nDateTime.\nOpening Stock\nHigh.\nLow\nClosing Stock.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "advanced",
+    "time series analysis",
+    "deep learning",
+    "investing",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

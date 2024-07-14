@@ -1,0 +1,42 @@
+{
+  "id": "saijeevan/alzheimers-disease-and-healthy-aging-data",
+  "id_no": 5305746,
+  "datasetSlugNullable": "alzheimers-disease-and-healthy-aging-data",
+  "ownerUserNullable": "saijeevan",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Alzheimer's Disease and Healthy Aging Data",
+  "subtitleNullable": "Analysis of Mental Health and Demographic Trends in Older Adults (2015-2022)",
+  "descriptionNullable": "Here are the column descriptions for the dataset:\n\n1. **RowId**: Unique identifier for each row in the dataset.\n2. **YearStart**: The starting year of the data collection period.\n3. **YearEnd**: The ending year of the data collection period.\n4. **LocationAbbr**: Abbreviation for the location (usually a state code).\n5. **LocationDesc**: Full name of the location (state).\n6. **Datasource**: The source of the data, in this case, BRFSS.\n7. **Class**: Category of the data (e.g., Mental Health).\n8. **Topic**: Specific topic within the category (e.g., Frequent mental distress).\n9. **Question**: The specific question asked in the survey.\n10. **Data_Value_Unit**: The unit of the data value (e.g., percentage).\n11. **DataValueTypeID**: Identifier for the type of data value.\n12. **Data_Value_Type**: Type of the data value (e.g., percentage).\n13. **Data_Value**: The actual data value (e.g., percentage of people experiencing mental distress).\n14. **Data_Value_Alt**: Alternative representation of the data value.\n15. **Data_Value_Footnote_Symbol**: Symbol indicating footnotes related to the data value.\n16. **Data_Value_Footnote**: Footnote providing additional information about the data value.\n17. **Low_Confidence_Limit**: Lower bound of the confidence interval for the data value.\n18. **High_Confidence_Limit**: Upper bound of the confidence interval for the data value.\n19. **StratificationCategory1**: Primary category used for stratification (e.g., AGE).\n20. **Stratification1**: Specific value within the primary stratification category (e.g., 65PLUS).\n21. **StratificationCategory2**: Secondary category used for stratification (e.g., RACE).\n22. **Stratification2**: Specific value within the secondary stratification category (e.g., Hispanic).\n23. **Geolocation**: Geographic coordinates of the location.\n24. **ClassID**: Identifier for the class.\n25. **TopicID**: Identifier for the topic.\n26. **QuestionID**: Identifier for the question.\n27. **LocationID**: Identifier for the location.\n28. **StratificationCategoryID1**: Identifier for the primary stratification category.\n29. **StratificationID1**: Identifier for the specific value within the primary stratification category.\n30. **StratificationCategoryID2**: Identifier for the secondary stratification category.\n31. **StratificationID2**: Identifier for the specific value within the secondary stratification category.",
+  "datasetId": 5305746,
+  "datasetSlug": "alzheimers-disease-and-healthy-aging-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "saijeevan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 16,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Alzheimer's Disease and Healthy Aging Data",
+  "hasTitle": true,
+  "subtitle": "Analysis of Mental Health and Demographic Trends in Older Adults (2015-2022)",
+  "hasSubtitle": true,
+  "description": "Here are the column descriptions for the dataset:\n\n1. **RowId**: Unique identifier for each row in the dataset.\n2. **YearStart**: The starting year of the data collection period.\n3. **YearEnd**: The ending year of the data collection period.\n4. **LocationAbbr**: Abbreviation for the location (usually a state code).\n5. **LocationDesc**: Full name of the location (state).\n6. **Datasource**: The source of the data, in this case, BRFSS.\n7. **Class**: Category of the data (e.g., Mental Health).\n8. **Topic**: Specific topic within the category (e.g., Frequent mental distress).\n9. **Question**: The specific question asked in the survey.\n10. **Data_Value_Unit**: The unit of the data value (e.g., percentage).\n11. **DataValueTypeID**: Identifier for the type of data value.\n12. **Data_Value_Type**: Type of the data value (e.g., percentage).\n13. **Data_Value**: The actual data value (e.g., percentage of people experiencing mental distress).\n14. **Data_Value_Alt**: Alternative representation of the data value.\n15. **Data_Value_Footnote_Symbol**: Symbol indicating footnotes related to the data value.\n16. **Data_Value_Footnote**: Footnote providing additional information about the data value.\n17. **Low_Confidence_Limit**: Lower bound of the confidence interval for the data value.\n18. **High_Confidence_Limit**: Upper bound of the confidence interval for the data value.\n19. **StratificationCategory1**: Primary category used for stratification (e.g., AGE).\n20. **Stratification1**: Specific value within the primary stratification category (e.g., 65PLUS).\n21. **StratificationCategory2**: Secondary category used for stratification (e.g., RACE).\n22. **Stratification2**: Specific value within the secondary stratification category (e.g., Hispanic).\n23. **Geolocation**: Geographic coordinates of the location.\n24. **ClassID**: Identifier for the class.\n25. **TopicID**: Identifier for the topic.\n26. **QuestionID**: Identifier for the question.\n27. **LocationID**: Identifier for the location.\n28. **StratificationCategoryID1**: Identifier for the primary stratification category.\n29. **StratificationID1**: Identifier for the specific value within the primary stratification category.\n30. **StratificationCategoryID2**: Identifier for the secondary stratification category.\n31. **StratificationID2**: Identifier for the specific value within the secondary stratification category.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "public health",
+    "demographics",
+    "survey analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

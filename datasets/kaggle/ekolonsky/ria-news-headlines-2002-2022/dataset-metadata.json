@@ -1,0 +1,43 @@
+{
+  "id": "ekolonsky/ria-news-headlines-2002-2022",
+  "id_no": 2183314,
+  "datasetSlugNullable": "ria-news-headlines-2002-2022",
+  "ownerUserNullable": "ekolonsky",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "RIA News headlines 2002 - 2022",
+  "subtitleNullable": "Over 300 mln headlines text corpus for lingvo analysis.",
+  "descriptionNullable": "Over 300Mln Russian news headlines from 01/01/2002 to 11/05/2002, collected from RIA Novosti Russian State News Agency.\nThs source code for web scrapper on github: \nhttps://github.com/ekolonsky/RIA_news",
+  "datasetId": 2183314,
+  "datasetSlug": "ria-news-headlines-2002-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "ekolonsky",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 710,
+  "totalVotes": 3,
+  "totalDownloads": 61,
+  "title": "RIA News headlines 2002 - 2022",
+  "hasTitle": true,
+  "subtitle": "Over 300 mln headlines text corpus for lingvo analysis.",
+  "hasSubtitle": true,
+  "description": "Over 300Mln Russian news headlines from 01/01/2002 to 11/05/2002, collected from RIA Novosti Russian State News Agency.\nThs source code for web scrapper on github: \nhttps://github.com/ekolonsky/RIA_news",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "russia",
+    "social science",
+    "text mining",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

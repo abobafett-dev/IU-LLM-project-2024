@@ -1,0 +1,39 @@
+{
+  "id": "atahantekcan/amazon-review",
+  "id_no": 3776788,
+  "datasetSlugNullable": "amazon-review",
+  "ownerUserNullable": "atahantekcan",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Amazon-Review",
+  "subtitleNullable": "User Ratings & Reviews of a Product Listed on Amazon ",
+  "descriptionNullable": "One of the most important problems in e-commerce is the accurate calculation of post-purchase ratings for products. Solving this problem means providing greater customer satisfaction for the e-commerce website, highlighting the product for sellers, and ensuring a seamless shopping experience for buyers. \n\nAnother problem is the accurate sorting of product reviews. The prominence of misleading reviews can directly impact product sales, leading to both financial loss and customer attrition. By addressing these two fundamental problems, e-commerce websites and sellers can increase their sales, while customers can complete their purchase journey smoothly.\n\nIn the shared dataset you can find users ratings and reviews for a product in Amazon.\n\n**The Dataset**\n\n| No | Feature | Description |\n| --- | --- | --- |\n|reviewerID |User ID |\n|asin | Product ID |\n|reviewerName | User Name |\n|helpful | evaluation degree of being useful to customers|\n|reviewText | evaluation |\n|overall | product rating |\n|summary| evaluation summary |\n|unixReviewTime| evaluation time |\n|reviewTime| evaluation time {RAW}|\n|day_diff| number of days since assessment|\n|helpful_yes| number of times the evaluation was found useful|\n|total_vote| number of votes given to the evaluation|\n\n",
+  "datasetId": 3776788,
+  "datasetSlug": "amazon-review",
+  "hasDatasetSlug": true,
+  "ownerUser": "atahantekcan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 257,
+  "totalVotes": 1,
+  "totalDownloads": 46,
+  "title": "Amazon-Review",
+  "hasTitle": true,
+  "subtitle": "User Ratings & Reviews of a Product Listed on Amazon ",
+  "hasSubtitle": true,
+  "description": "One of the most important problems in e-commerce is the accurate calculation of post-purchase ratings for products. Solving this problem means providing greater customer satisfaction for the e-commerce website, highlighting the product for sellers, and ensuring a seamless shopping experience for buyers. \n\nAnother problem is the accurate sorting of product reviews. The prominence of misleading reviews can directly impact product sales, leading to both financial loss and customer attrition. By addressing these two fundamental problems, e-commerce websites and sellers can increase their sales, while customers can complete their purchase journey smoothly.\n\nIn the shared dataset you can find users ratings and reviews for a product in Amazon.\n\n**The Dataset**\n\n| No | Feature | Description |\n| --- | --- | --- |\n|reviewerID |User ID |\n|asin | Product ID |\n|reviewerName | User Name |\n|helpful | evaluation degree of being useful to customers|\n|reviewText | evaluation |\n|overall | product rating |\n|summary| evaluation summary |\n|unixReviewTime| evaluation time |\n|reviewTime| evaluation time {RAW}|\n|day_diff| number of days since assessment|\n|helpful_yes| number of times the evaluation was found useful|\n|total_vote| number of votes given to the evaluation|\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

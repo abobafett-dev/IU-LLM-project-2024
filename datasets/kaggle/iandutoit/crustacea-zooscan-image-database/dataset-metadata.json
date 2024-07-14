@@ -1,0 +1,39 @@
+{
+  "id": "iandutoit/crustacea-zooscan-image-database",
+  "id_no": 2234975,
+  "datasetSlugNullable": "crustacea-zooscan-image-database",
+  "ownerUserNullable": "iandutoit",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Crustacea, ZooScan Image database",
+  "subtitleNullable": "Preprocessed sample plankton image database containing 24 classes of crustacea .",
+  "descriptionNullable": "This dataset was created in order to demonstrate how marine scientists can use machine learning and computer vision methods to assist with the classification of collected samples. This database is a subset of a much larger database and the samples have been slightly preprocessed for ease of use. This dataset has been validated by experts in the field of marine science.\ud83d\ude01 ",
+  "datasetId": 2234975,
+  "datasetSlug": "crustacea-zooscan-image-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "iandutoit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 1330,
+  "totalVotes": 13,
+  "totalDownloads": 81,
+  "title": "Crustacea, ZooScan Image database",
+  "hasTitle": true,
+  "subtitle": "Preprocessed sample plankton image database containing 24 classes of crustacea .",
+  "hasSubtitle": true,
+  "description": "This dataset was created in order to demonstrate how marine scientists can use machine learning and computer vision methods to assist with the classification of collected samples. This database is a subset of a much larger database and the samples have been slightly preprocessed for ease of use. This dataset has been validated by experts in the field of marine science.\ud83d\ude01 ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

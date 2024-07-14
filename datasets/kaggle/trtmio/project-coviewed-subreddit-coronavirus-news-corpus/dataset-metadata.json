@@ -1,0 +1,39 @@
+{
+  "id": "trtmio/project-coviewed-subreddit-coronavirus-news-corpus",
+  "id_no": 577497,
+  "datasetSlugNullable": "project-coviewed-subreddit-coronavirus-news-corpus",
+  "ownerUserNullable": "trtmio",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "COVIEWED",
+  "subtitleNullable": "A coronavirus/covid-19 claims corpus from web texts.",
+  "descriptionNullable": "### Context\n\nProject COVIEWED's aim is to fight against misinformation on the web regarding the recent coronavirus pandemic / covid-19 outbreak. To achieve this, we collect different types of claims from web sources with supporting or attacking evidence. This information is used to train a machine learning classifier. Once trained, we plan to release a browser widget that highlights potential true/false claims on a web page to assist users in their information gathering process.\n\n\n### Content\n\nThe starter kernel https://www.kaggle.com/trtmio/project-coviewed-coronavirus-news-corpus can be used to download the news articles which were submitted to /r/Coronavirus in a specific date.\n\n### Motivation\n\nIs Russia running a coronavirus disinformation campaign?\nhttps://www.dw.com/en/is-russia-running-a-coronavirus-disinformation-campaign/a-52864106\n\nFake news obstructs Africa's coronavirus response\nhttps://www.dw.com/en/fake-news-obstructs-africas-coronavirus-response/a-52869028",
+  "datasetId": 577497,
+  "datasetSlug": "project-coviewed-subreddit-coronavirus-news-corpus",
+  "hasDatasetSlug": true,
+  "ownerUser": "trtmio",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 9936,
+  "totalVotes": 16,
+  "totalDownloads": 328,
+  "title": "COVIEWED",
+  "hasTitle": true,
+  "subtitle": "A coronavirus/covid-19 claims corpus from web texts.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nProject COVIEWED's aim is to fight against misinformation on the web regarding the recent coronavirus pandemic / covid-19 outbreak. To achieve this, we collect different types of claims from web sources with supporting or attacking evidence. This information is used to train a machine learning classifier. Once trained, we plan to release a browser widget that highlights potential true/false claims on a web page to assist users in their information gathering process.\n\n\n### Content\n\nThe starter kernel https://www.kaggle.com/trtmio/project-coviewed-coronavirus-news-corpus can be used to download the news articles which were submitted to /r/Coronavirus in a specific date.\n\n### Motivation\n\nIs Russia running a coronavirus disinformation campaign?\nhttps://www.dw.com/en/is-russia-running-a-coronavirus-disinformation-campaign/a-52864106\n\nFake news obstructs Africa's coronavirus response\nhttps://www.dw.com/en/fake-news-obstructs-africas-coronavirus-response/a-52869028",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

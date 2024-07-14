@@ -1,0 +1,44 @@
+{
+  "id": "kalilurrahman/new-york-times-covid19-dataset",
+  "id_no": 1565723,
+  "datasetSlugNullable": "new-york-times-covid19-dataset",
+  "ownerUserNullable": "kalilurrahman",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "New York Times - COVID-19 Dataset",
+  "subtitleNullable": "Github Dataset of COVID-19 Dataset from NewYork Times  - Public data",
+  "descriptionNullable": "### Context\n\nNew York Times COVID Dataset from \n[https://www.github.com/nytimes/covid-19-data/](https://www.github.com/nytimes/covid-19-data/)\n\n### Content\n\nProvides data at the state and county level\n\n### Acknowledgements\n\nFrom NYT Github site",
+  "datasetId": 1565723,
+  "datasetSlug": "new-york-times-covid19-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kalilurrahman",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8580,
+  "totalVotes": 29,
+  "totalDownloads": 824,
+  "title": "New York Times - COVID-19 Dataset",
+  "hasTitle": true,
+  "subtitle": "Github Dataset of COVID-19 Dataset from NewYork Times  - Public data",
+  "hasSubtitle": true,
+  "description": "### Context\n\nNew York Times COVID Dataset from \n[https://www.github.com/nytimes/covid-19-data/](https://www.github.com/nytimes/covid-19-data/)\n\n### Content\n\nProvides data at the state and county level\n\n### Acknowledgements\n\nFrom NYT Github site",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data visualization",
+    "tabular",
+    "news",
+    "covid19",
+    "plotly"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

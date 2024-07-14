@@ -1,0 +1,43 @@
+{
+  "id": "jonathanchan/dlai3-hackathon-phase3-covid19-cxr-challenge",
+  "id_no": 783964,
+  "datasetSlugNullable": "dlai3-hackathon-phase3-covid19-cxr-challenge",
+  "ownerUserNullable": "jonathanchan",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "DLAI3 Hackathon Phase3 COVID-19 CXR Challenge",
+  "subtitleNullable": "Multi-class CXR dataset of COVID-19, Thorax Disease, and No Finding",
+  "descriptionNullable": "### Background\n\nThis dataset is created for Phase 3 of the 3rd Deep Learning and AI Summer/Winter School ([DLAI3](https://deeplearningandaiwinterschool.github.io/)). More details about the challenge can be found at [https://www.kaggle.com/c/dlai3-phase3/](https://www.kaggle.com/c/dlai3-phase3/).\n\nMedical image analysis has continually been an area of prominent and growing importance, in both the research and application aspects. However, it is important to realize that the algorithms, methodology, as well as the source of data, need to be strictly scrutinized. Phase 3 of the DLAI3 Hackathon is a challenge that provides a mixed dataset of publicly available COVID-19 chest x-ray images from various sources, a pneumonia dataset obtained from a study on children, partially verified thorax CXR images of adults from NIH, and unverified no-finding images from NIH. See below for the sources of these data.\n\nThe participants are challenged to obtain good performance in their modeling in the Public and Private Leaderboards, \nas well as to be able to interpret their results in form of a full paper submission to CSBio2020 under CHAT-2020 (www.csbio.org/2020/). A test set will be provided after the Phase 3 DLAI3 Hackathon competition.\n\nPlease cite this dataset as follows: Jonathan H. Chan, \u201cDLAI3 Hackathon Phase3 COVID-19 CXR Challenge.\u201d Kaggle, doi: 10.34740/KAGGLE/DSV/1347344.\n\n\n### Acknowledgements\n\nThe following are the sources and related publications for this dataset:\n\n1)\n\nPneumonia CXR images of children retrieved from Mendeley at:\nhttps://data.mendeley.com/datasets/rscbjbr9sj/2\n\nRelated publication:\nhttps://www.cell.com/cell/fulltext/S0092-8674(18)30154-5\n\n2)\n\nCropped COVID-19 + selected images from the following (retrieved July 17, 2020):\nhttps://github.com/agchung/Actualmed-COVID-chestxray-dataset\n\nRelated publication:\nhttps://arxiv.org/abs/2003.09871\nv4 Mon, 11 May 2020\n\n3)\n\nCOVID-19 chest x-ray images from:\nhttps://github.com/ieee8023/covid-chestxray-dataset\n\n(Retrieved July 13, 2020)\n\nImages:\nhttps://github.com/ieee8023/covid-chestxray-dataset/blob/master/images\n\nMetadata:\nhttps://github.com/ieee8023/covid-chestxray-dataset/blob/master/metadata.csv\n\n4)\n\nSelected images from:\nhttps://nihcc.app.box.com/v/ChestXray-NIHCC\n\nPublication:\n\nChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on\nWeakly-Supervised Classification and Localization of Common Thorax Diseases\n\nhttps://arxiv.org/abs/1705.02315\n[v5] Thu, 14 Dec 2017\n\nSemi-verified by:\nhttps://lukeoakdenrayner.wordpress.com/2017/12/18/the-chestxray14-dataset-problems/comment-page-1/\n",
+  "datasetId": 783964,
+  "datasetSlug": "dlai3-hackathon-phase3-covid19-cxr-challenge",
+  "hasDatasetSlug": true,
+  "ownerUser": "jonathanchan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 8150,
+  "totalVotes": 9,
+  "totalDownloads": 317,
+  "title": "DLAI3 Hackathon Phase3 COVID-19 CXR Challenge",
+  "hasTitle": true,
+  "subtitle": "Multi-class CXR dataset of COVID-19, Thorax Disease, and No Finding",
+  "hasSubtitle": true,
+  "description": "### Background\n\nThis dataset is created for Phase 3 of the 3rd Deep Learning and AI Summer/Winter School ([DLAI3](https://deeplearningandaiwinterschool.github.io/)). More details about the challenge can be found at [https://www.kaggle.com/c/dlai3-phase3/](https://www.kaggle.com/c/dlai3-phase3/).\n\nMedical image analysis has continually been an area of prominent and growing importance, in both the research and application aspects. However, it is important to realize that the algorithms, methodology, as well as the source of data, need to be strictly scrutinized. Phase 3 of the DLAI3 Hackathon is a challenge that provides a mixed dataset of publicly available COVID-19 chest x-ray images from various sources, a pneumonia dataset obtained from a study on children, partially verified thorax CXR images of adults from NIH, and unverified no-finding images from NIH. See below for the sources of these data.\n\nThe participants are challenged to obtain good performance in their modeling in the Public and Private Leaderboards, \nas well as to be able to interpret their results in form of a full paper submission to CSBio2020 under CHAT-2020 (www.csbio.org/2020/). A test set will be provided after the Phase 3 DLAI3 Hackathon competition.\n\nPlease cite this dataset as follows: Jonathan H. Chan, \u201cDLAI3 Hackathon Phase3 COVID-19 CXR Challenge.\u201d Kaggle, doi: 10.34740/KAGGLE/DSV/1347344.\n\n\n### Acknowledgements\n\nThe following are the sources and related publications for this dataset:\n\n1)\n\nPneumonia CXR images of children retrieved from Mendeley at:\nhttps://data.mendeley.com/datasets/rscbjbr9sj/2\n\nRelated publication:\nhttps://www.cell.com/cell/fulltext/S0092-8674(18)30154-5\n\n2)\n\nCropped COVID-19 + selected images from the following (retrieved July 17, 2020):\nhttps://github.com/agchung/Actualmed-COVID-chestxray-dataset\n\nRelated publication:\nhttps://arxiv.org/abs/2003.09871\nv4 Mon, 11 May 2020\n\n3)\n\nCOVID-19 chest x-ray images from:\nhttps://github.com/ieee8023/covid-chestxray-dataset\n\n(Retrieved July 13, 2020)\n\nImages:\nhttps://github.com/ieee8023/covid-chestxray-dataset/blob/master/images\n\nMetadata:\nhttps://github.com/ieee8023/covid-chestxray-dataset/blob/master/metadata.csv\n\n4)\n\nSelected images from:\nhttps://nihcc.app.box.com/v/ChestXray-NIHCC\n\nPublication:\n\nChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on\nWeakly-Supervised Classification and Localization of Common Thorax Diseases\n\nhttps://arxiv.org/abs/1705.02315\n[v5] Thu, 14 Dec 2017\n\nSemi-verified by:\nhttps://lukeoakdenrayner.wordpress.com/2017/12/18/the-chestxray14-dataset-problems/comment-page-1/\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "health",
+    "classification",
+    "deep learning",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

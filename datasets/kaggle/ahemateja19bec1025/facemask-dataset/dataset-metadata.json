@@ -1,0 +1,43 @@
+{
+  "id": "ahemateja19bec1025/facemask-dataset",
+  "id_no": 1791814,
+  "datasetSlugNullable": "facemask-dataset",
+  "ownerUserNullable": "ahemateja19bec1025",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "FaceMask Dataset",
+  "subtitleNullable": "Beware and Wear\ud83d\udc8a\ud83d\udc8a\ud83d\udc8a\ud83d\udc89\ud83d\udc89\ud83d\udc89\ud83d\udee1\ud83d\udee1\ud83d\udee1",
+  "descriptionNullable": "# PLEASE UPVOTE \ud83d\ude01\ud83d\ude01\ud83d\ude01\nThis is the dataset that I gathered from different sources for FaceMask Detection.\n\nThere are around 1350 images in those two files and there is a handling code in the Notebook named \"Official\" at the end.\n\nPlease use the dataset wisely and only for good purposes.",
+  "datasetId": 1791814,
+  "datasetSlug": "facemask-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahemateja19bec1025",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8455,
+  "totalVotes": 31,
+  "totalDownloads": 844,
+  "title": "FaceMask Dataset",
+  "hasTitle": true,
+  "subtitle": "Beware and Wear\ud83d\udc8a\ud83d\udc8a\ud83d\udc8a\ud83d\udc89\ud83d\udc89\ud83d\udc89\ud83d\udee1\ud83d\udee1\ud83d\udee1",
+  "hasSubtitle": true,
+  "description": "# PLEASE UPVOTE \ud83d\ude01\ud83d\ude01\ud83d\ude01\nThis is the dataset that I gathered from different sources for FaceMask Detection.\n\nThere are around 1350 images in those two files and there is a handling code in the Notebook named \"Official\" at the end.\n\nPlease use the dataset wisely and only for good purposes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "cnn",
+    "image",
+    "binary classification",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

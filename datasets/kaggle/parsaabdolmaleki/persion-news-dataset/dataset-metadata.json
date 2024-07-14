@@ -1,0 +1,40 @@
+{
+  "id": "parsaabdolmaleki/persion-news-dataset",
+  "id_no": 4801949,
+  "datasetSlugNullable": "persion-news-dataset",
+  "ownerUserNullable": "parsaabdolmaleki",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "persian news dataset",
+  "subtitleNullable": "This dataset contains news in 11 classes.",
+  "descriptionNullable": "11,000 headlines and Farsi news text distributed in 11 classes (data is balanced).\nNo pre-processing has been done on it and it has been crawled from a news site.",
+  "datasetId": 4801949,
+  "datasetSlug": "persion-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "parsaabdolmaleki",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 23,
+  "totalVotes": 0,
+  "totalDownloads": 2,
+  "title": "persian news dataset",
+  "hasTitle": true,
+  "subtitle": "This dataset contains news in 11 classes.",
+  "hasSubtitle": true,
+  "description": "11,000 headlines and Farsi news text distributed in 11 classes (data is balanced).\nNo pre-processing has been done on it and it has been crawled from a news site.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

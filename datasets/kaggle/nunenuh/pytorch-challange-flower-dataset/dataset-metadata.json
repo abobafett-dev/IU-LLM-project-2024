@@ -1,0 +1,49 @@
+{
+  "id": "nunenuh/pytorch-challange-flower-dataset",
+  "id_no": 76785,
+  "datasetSlugNullable": "pytorch-challange-flower-dataset",
+  "ownerUserNullable": "nunenuh",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Oxford 102 Flower Dataset",
+  "subtitleNullable": "PyTorch Challenge Dataset in Intro to Deep Learning with PyTorch at Udacity",
+  "descriptionNullable": "## Overview\n\nWe have created a 102 category dataset, consisting of 102 flower categories. The flowers chosen to be flower commonly occuring in the United Kingdom. Each class consists of between 40 and 258 images. The details of the categories and the number of images for each class can be found on this category statistics page.\n\nThe images have large scale, pose and light variations. In addition, there are categories that have large variations within the category and several very similar categories. The dataset is visualized using isomap with shape and colour features.\n\n\n\n## Directory Structure\n\n```\n&gt; dataset\n\t&gt; train\n\t&gt; valid\n\t&gt; test\n- cat_to_name.json\n- README.md\n- sample_submission.csv\n```\n\n\n\n## Visualization of the dataset\n\nWe visualize the categories in the dataset using SIFT features as shape descriptors and HSV as colour descriptor. The images are randomly sampled from the category.\n\n![](https://i.imgur.com/Tl6TKUC.png)\n\n\n\n## Publications\n\nNilsback, M-E. and Zisserman, A.\n<a href=\"https://www.robots.ox.ac.uk/~vgg/publications/2008/Nilsback08/\">Automated flower classification over a large number of classes</a>  \nProceedings of the Indian Conference on Computer Vision, Graphics and Image Processing (2008)\n\n\n\n## Source\n\n* Original source of this data can be found in <a href=\"https://www.robots.ox.ac.uk/~vgg/data/flowers/102/\"> 102 Category Flower Dataset</a>\n* Original readme from author can be found in <a href=\"https://www.robots.ox.ac.uk/~vgg/data/flowers/102/README.txt\">AUTHOR README</a>\n* Directory test is added from another kaggle dataset that can be found in <a href=\"https://www.kaggle.com/c/oxford-102-flower-pytorch/\">Oxford 102 Flower Pytorch</a>",
+  "datasetId": 76785,
+  "datasetSlug": "pytorch-challange-flower-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "nunenuh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 29458,
+  "totalVotes": 38,
+  "totalDownloads": 5567,
+  "title": "Oxford 102 Flower Dataset",
+  "hasTitle": true,
+  "subtitle": "PyTorch Challenge Dataset in Intro to Deep Learning with PyTorch at Udacity",
+  "hasSubtitle": true,
+  "description": "## Overview\n\nWe have created a 102 category dataset, consisting of 102 flower categories. The flowers chosen to be flower commonly occuring in the United Kingdom. Each class consists of between 40 and 258 images. The details of the categories and the number of images for each class can be found on this category statistics page.\n\nThe images have large scale, pose and light variations. In addition, there are categories that have large variations within the category and several very similar categories. The dataset is visualized using isomap with shape and colour features.\n\n\n\n## Directory Structure\n\n```\n&gt; dataset\n\t&gt; train\n\t&gt; valid\n\t&gt; test\n- cat_to_name.json\n- README.md\n- sample_submission.csv\n```\n\n\n\n## Visualization of the dataset\n\nWe visualize the categories in the dataset using SIFT features as shape descriptors and HSV as colour descriptor. The images are randomly sampled from the category.\n\n![](https://i.imgur.com/Tl6TKUC.png)\n\n\n\n## Publications\n\nNilsback, M-E. and Zisserman, A.\n<a href=\"https://www.robots.ox.ac.uk/~vgg/publications/2008/Nilsback08/\">Automated flower classification over a large number of classes</a>  \nProceedings of the Indian Conference on Computer Vision, Graphics and Image Processing (2008)\n\n\n\n## Source\n\n* Original source of this data can be found in <a href=\"https://www.robots.ox.ac.uk/~vgg/data/flowers/102/\"> 102 Category Flower Dataset</a>\n* Original readme from author can be found in <a href=\"https://www.robots.ox.ac.uk/~vgg/data/flowers/102/README.txt\">AUTHOR README</a>\n* Directory test is added from another kaggle dataset that can be found in <a href=\"https://www.kaggle.com/c/oxford-102-flower-pytorch/\">Oxford 102 Flower Pytorch</a>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "education",
+    "beginner",
+    "intermediate",
+    "advanced",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "gaungalif",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gaborfodor/owid-covid19",
+  "id_no": 908922,
+  "datasetSlugNullable": "owid-covid19",
+  "ownerUserNullable": "gaborfodor",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "OWID COVID19",
+  "subtitleNullable": "Coronavirus Pandemic (COVID-19) - Published online at OurWorldInData.org",
+  "descriptionNullable": "### Content\n\nWidely available data on confirmed cases only becomes meaningful when it can be interpreted in light of how much a country is testing. This is why **Our World in Data** built the global database on COVID-19 testing [1]. The additional smoothing  and per capita rates make different countries (somewhat) comparable. \n\nOur World in Data also had a good overview of global cause of death two years ago [2] I shared that data as well for additional comparisons. \n\n\n### Acknowledgements\n[1] Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - \"Coronavirus Pandemic (COVID-19)\". Published online at OurWorldInData.org. https://ourworldindata.org/coronavirus\n\n[2] Hannah Ritchie (2018) - \"Causes of Death\". Published online at OurWorldInData.org. https://ourworldindata.org/causes-of-death\n\n\n\n### Inspiration\n\n* First and second wave differences in Europe\n* Global Forecasting for total 2020 numbers\n* Covid death toll compared to main cause of death",
+  "datasetId": 908922,
+  "datasetSlug": "owid-covid19",
+  "hasDatasetSlug": true,
+  "ownerUser": "gaborfodor",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 4690,
+  "totalVotes": 6,
+  "totalDownloads": 158,
+  "title": "OWID COVID19",
+  "hasTitle": true,
+  "subtitle": "Coronavirus Pandemic (COVID-19) - Published online at OurWorldInData.org",
+  "hasSubtitle": true,
+  "description": "### Content\n\nWidely available data on confirmed cases only becomes meaningful when it can be interpreted in light of how much a country is testing. This is why **Our World in Data** built the global database on COVID-19 testing [1]. The additional smoothing  and per capita rates make different countries (somewhat) comparable. \n\nOur World in Data also had a good overview of global cause of death two years ago [2] I shared that data as well for additional comparisons. \n\n\n### Acknowledgements\n[1] Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - \"Coronavirus Pandemic (COVID-19)\". Published online at OurWorldInData.org. https://ourworldindata.org/coronavirus\n\n[2] Hannah Ritchie (2018) - \"Causes of Death\". Published online at OurWorldInData.org. https://ourworldindata.org/causes-of-death\n\n\n\n### Inspiration\n\n* First and second wave differences in Europe\n* Global Forecasting for total 2020 numbers\n* Covid death toll compared to main cause of death",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "time series analysis",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

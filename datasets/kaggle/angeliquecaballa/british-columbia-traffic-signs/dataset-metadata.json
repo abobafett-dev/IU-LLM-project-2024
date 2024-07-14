@@ -1,0 +1,41 @@
+{
+  "id": "angeliquecaballa/british-columbia-traffic-signs",
+  "id_no": 1768879,
+  "datasetSlugNullable": "british-columbia-traffic-signs",
+  "ownerUserNullable": "angeliquecaballa",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Few British Columbia Traffic Signs",
+  "subtitleNullable": "Collected from Google Maps Street View",
+  "descriptionNullable": "This data was collected for an academic project to analyze the performance of an existing Convolutional Neural Network that is able to identify German Traffic Signs (https://data-flair.training/blogs/python-project-traffic-signs-recognition/). 6 traffic signs recognized in British Columbia were added to the CNN. All data was collected through screenshotting Google Maps Street View images for Richmond, Surrey, Delta, North Vancouver, and West Vancouver. Greenshot was used in taking the screenshots.\n\n# 6 Traffic Signs Include (at least 270+ images)\n- Merging Traffic Ahead\n- Pedestrian Crossing\n- Maximum 50km/h\n- Obstruction - Keep Right or Left*\n- Obstruction - Keep Right*\n- Obstruction - Keep Left*\n\n*Data Augmentation was performed. \"Obstruction - Keep Right or Left\" images were copied and mirrored. \"Obstruction - Keep Right\" and \"Obstruction - Keep Left\" were copied, mirrored, and added to the other's folders.\n\n# 2 Traffic Signs that were not included in the project, but uploaded (fewer images):\n- Maximum 30km/h\n- Playground nearby",
+  "datasetId": 1768879,
+  "datasetSlug": "british-columbia-traffic-signs",
+  "hasDatasetSlug": true,
+  "ownerUser": "angeliquecaballa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 2668,
+  "totalVotes": 1,
+  "totalDownloads": 22,
+  "title": "Few British Columbia Traffic Signs",
+  "hasTitle": true,
+  "subtitle": "Collected from Google Maps Street View",
+  "hasSubtitle": true,
+  "description": "This data was collected for an academic project to analyze the performance of an existing Convolutional Neural Network that is able to identify German Traffic Signs (https://data-flair.training/blogs/python-project-traffic-signs-recognition/). 6 traffic signs recognized in British Columbia were added to the CNN. All data was collected through screenshotting Google Maps Street View images for Richmond, Surrey, Delta, North Vancouver, and West Vancouver. Greenshot was used in taking the screenshots.\n\n# 6 Traffic Signs Include (at least 270+ images)\n- Merging Traffic Ahead\n- Pedestrian Crossing\n- Maximum 50km/h\n- Obstruction - Keep Right or Left*\n- Obstruction - Keep Right*\n- Obstruction - Keep Left*\n\n*Data Augmentation was performed. \"Obstruction - Keep Right or Left\" images were copied and mirrored. \"Obstruction - Keep Right\" and \"Obstruction - Keep Left\" were copied, mirrored, and added to the other's folders.\n\n# 2 Traffic Signs that were not included in the project, but uploaded (fewer images):\n- Maximum 30km/h\n- Playground nearby",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "image",
+    "canada"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "joebeachcapital/turkish-music-emotion",
+  "id_no": 3874031,
+  "datasetSlugNullable": "turkish-music-emotion",
+  "ownerUserNullable": "joebeachcapital",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Turkish Music Emotion",
+  "subtitleNullable": "Four different classes of music emotions in dataset: happy, sad, angry, relax.",
+  "descriptionNullable": "There are four different classes of music emotions in the dataset: happy, sad, angry, and relax. \n\nThe dataset is designed as a discrete model, and there are four classes in the dataset: happy, sad, angry, relax. To prepare the dataset, verbal and non-verbal music are selected from different genres of Turkish music. A total of 100 music pieces are determined for each class in the database to have an equal number of samples in each class. There are 400 samples in the original dataset as 30 seconds from each sample.\n\nNumber of Data in Each class\nRelax 100\nHappy 100\nSad 100\nAngry 100",
+  "datasetId": 3874031,
+  "datasetSlug": "turkish-music-emotion",
+  "hasDatasetSlug": true,
+  "ownerUser": "joebeachcapital",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3314,
+  "totalVotes": 27,
+  "totalDownloads": 522,
+  "title": "Turkish Music Emotion",
+  "hasTitle": true,
+  "subtitle": "Four different classes of music emotions in dataset: happy, sad, angry, relax.",
+  "hasSubtitle": true,
+  "description": "There are four different classes of music emotions in the dataset: happy, sad, angry, and relax. \n\nThe dataset is designed as a discrete model, and there are four classes in the dataset: happy, sad, angry, relax. To prepare the dataset, verbal and non-verbal music are selected from different genres of Turkish music. A total of 100 music pieces are determined for each class in the database to have an equal number of samples in each class. There are 400 samples in the original dataset as 30 seconds from each sample.\n\nNumber of Data in Each class\nRelax 100\nHappy 100\nSad 100\nAngry 100",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "music",
+    "mental health",
+    "multiclass classification",
+    "turkish"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

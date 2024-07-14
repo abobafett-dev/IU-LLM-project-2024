@@ -1,0 +1,44 @@
+{
+  "id": "kiranshahi/life-expectancy-dataset",
+  "id_no": 1980580,
+  "datasetSlugNullable": "life-expectancy-dataset",
+  "ownerUserNullable": "kiranshahi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "life expectancy dataset",
+  "subtitleNullable": "Life expectancy prediction dataset based on World Development Indicator (WDI).",
+  "descriptionNullable": "&gt; These datasets were collected to fulfil the requirement of University coursework.\n \n[The complete source code and paper are available on GitHub.  **Click here**.](https://github.com/kiranshahi/Life-expectancy-prediction)\n\n## About Dataset\nThese datasets contain the information of the World Development Indicator (WDI) provided by the world bank, the non-communicable mortality rate, the suicide rate and the number of health workforce data by the World Health Organization (WHO).\n\n\n| Dataset | Description |\n| --- | --- |\n| [World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/) | This dataset contains the data of 1444 development indicators for 2666 countries and country groups between the years 1960 to 2020. This dataset was downloaded from the world bank\u2019s data hub. |\n| [Health workforce](https://apps.who.int/gho/data/node.main.HWFGRP_0020?lang=en) | This dataset contains the health workforce information such as medical doctors (per 10000 population), number of medical doctors, number of Generalist medical practitioners, etc. |\n| [Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)](https://data.worldbank.org/indicator/SH.DYN.NCOM.ZS) | This dataset contains information on mortality caused by various non-communicable diseases such as cardiovascular disease (CVD), cancer, diabetes etc. We have used two files for this dataset. Separately for both males and females. This dataset was downloaded from the world bank\u2019s databank. |\n| [Suicide mortality rate (per 100,000 population)](https://data.worldbank.org/indicator/SH.STA.SUIC.P5) | This data set contains information on the suicide mortality rate per 100,000 population. We have used two files for this dataset. Separately for both males and females. This dataset was downloaded from the world bank\u2019s databank. |\n\n## Implementation \n- [Data Cleaning and Preparation](https://www.kaggle.com/code/kiranshahi/data-cleaning-and-preparation)\n- [Exploratory Data Analysis](https://www.kaggle.com/code/kiranshahi/exploratory-data-analysis)\n- [Machine Learning Prediction - Random Forest](https://www.kaggle.com/code/kiranshahi/machine-learning-prediction-random-forest)\n- [Deep Learning Prediction - Neural Network](https://www.kaggle.com/code/kiranshahi/deep-learning-prediction-neural-network)",
+  "datasetId": 1980580,
+  "datasetSlug": "life-expectancy-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kiranshahi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13383,
+  "totalVotes": 22,
+  "totalDownloads": 1170,
+  "title": "life expectancy dataset",
+  "hasTitle": true,
+  "subtitle": "Life expectancy prediction dataset based on World Development Indicator (WDI).",
+  "hasSubtitle": true,
+  "description": "&gt; These datasets were collected to fulfil the requirement of University coursework.\n \n[The complete source code and paper are available on GitHub.  **Click here**.](https://github.com/kiranshahi/Life-expectancy-prediction)\n\n## About Dataset\nThese datasets contain the information of the World Development Indicator (WDI) provided by the world bank, the non-communicable mortality rate, the suicide rate and the number of health workforce data by the World Health Organization (WHO).\n\n\n| Dataset | Description |\n| --- | --- |\n| [World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/) | This dataset contains the data of 1444 development indicators for 2666 countries and country groups between the years 1960 to 2020. This dataset was downloaded from the world bank\u2019s data hub. |\n| [Health workforce](https://apps.who.int/gho/data/node.main.HWFGRP_0020?lang=en) | This dataset contains the health workforce information such as medical doctors (per 10000 population), number of medical doctors, number of Generalist medical practitioners, etc. |\n| [Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)](https://data.worldbank.org/indicator/SH.DYN.NCOM.ZS) | This dataset contains information on mortality caused by various non-communicable diseases such as cardiovascular disease (CVD), cancer, diabetes etc. We have used two files for this dataset. Separately for both males and females. This dataset was downloaded from the world bank\u2019s databank. |\n| [Suicide mortality rate (per 100,000 population)](https://data.worldbank.org/indicator/SH.STA.SUIC.P5) | This data set contains information on the suicide mortality rate per 100,000 population. We have used two files for this dataset. Separately for both males and females. This dataset was downloaded from the world bank\u2019s databank. |\n\n## Implementation \n- [Data Cleaning and Preparation](https://www.kaggle.com/code/kiranshahi/data-cleaning-and-preparation)\n- [Exploratory Data Analysis](https://www.kaggle.com/code/kiranshahi/exploratory-data-analysis)\n- [Machine Learning Prediction - Random Forest](https://www.kaggle.com/code/kiranshahi/machine-learning-prediction-random-forest)\n- [Deep Learning Prediction - Neural Network](https://www.kaggle.com/code/kiranshahi/deep-learning-prediction-neural-network)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "business",
+    "social science",
+    "pca",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "varpit94/facebook-stock-data",
+  "id_no": 1517723,
+  "datasetSlugNullable": "facebook-stock-data",
+  "ownerUserNullable": "varpit94",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Meta (FB) Stock Data",
+  "subtitleNullable": "Meta Platforms, Inc. (FB) | Currency in USD | Daily Data",
+  "descriptionNullable": "### Context\nFacebook, Inc., is an American multinational conglomerate based in Menlo Park, California. It was founded by Mark Zuckerberg, along with his fellow roommates and students at Harvard College, who were Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes, originally as TheFacebook.com\u2014today's Facebook, a popular global social networking service. It is one of the world's most valuable companies. It is considered one of the Big Five companies in U.S. information technology, with Google, Apple, Microsoft and Amazon.\n\n### Content\nThis dataset provides the history of daily prices of Facebook stock. The data starts from 18-May-2012. All the column descriptions are provided. Currency is USD.",
+  "datasetId": 1517723,
+  "datasetSlug": "facebook-stock-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "varpit94",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12090,
+  "totalVotes": 28,
+  "totalDownloads": 1624,
+  "title": "Meta (FB) Stock Data",
+  "hasTitle": true,
+  "subtitle": "Meta Platforms, Inc. (FB) | Currency in USD | Daily Data",
+  "hasSubtitle": true,
+  "description": "### Context\nFacebook, Inc., is an American multinational conglomerate based in Menlo Park, California. It was founded by Mark Zuckerberg, along with his fellow roommates and students at Harvard College, who were Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes, originally as TheFacebook.com\u2014today's Facebook, a popular global social networking service. It is one of the world's most valuable companies. It is considered one of the Big Five companies in U.S. information technology, with Google, Apple, Microsoft and Amazon.\n\n### Content\nThis dataset provides the history of daily prices of Facebook stock. The data starts from 18-May-2012. All the column descriptions are provided. Currency is USD.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "time series analysis",
+    "currencies and foreign exchange",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

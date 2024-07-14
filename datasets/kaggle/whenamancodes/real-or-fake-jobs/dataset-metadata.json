@@ -1,0 +1,44 @@
+{
+  "id": "whenamancodes/real-or-fake-jobs",
+  "id_no": 2494867,
+  "datasetSlugNullable": "real-or-fake-jobs",
+  "ownerUserNullable": "whenamancodes",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Real OR Fake Jobs",
+  "subtitleNullable": "Dataset of Real OR Fake Jobs",
+  "descriptionNullable": "# [Real or Fake] : Fake Job Description Prediction\nThis dataset contains 18K job descriptions out of which about 800 are fake. The data consists of both textual information and meta-information about the jobs. The dataset can be used to create classification models which can learn the job descriptions which are fraudulent.\n\n# Data Dictionary\n| Coulmns | Description |\n| --- | --- |\n| job_id | Unique Job ID |\n| title | The title of the job ad entry |\n| location | Geographical location of the job ad |\n| department | Corporate department (e.g. sales) |\n| salary_range | Indicative salary range (e.g. $50,000-$60,000) |\n| company_profile | A brief company description |\n| description | The details description of the job ad |\n| requirements | Enlisted requirements for the job opening |\n| benefits | Enlisted offered benefits by the employer |\n| telecommuting | True for telecommuting positions |\n| has_company_logo | True if company logo is present |\n| has_questions | True if screening questions are present |\n| employment_type | Full-type, Part-time, Contract, etc |\n| required_experience | Executive, Entry level, Intern, etc |\n| required_education | Doctorate, Master\u2019s Degree, Bachelor, etc |\n| industry | Automotive, IT, Health care, Real estate, etc |\n| function | Consulting, Engineering, Research, Sales etc |\n| fraudulent | target - Classification attribute |\n\n# Inspiration\nThe dataset is very valuable as it can be used to answer the following questions:\n- Create a classification model that uses text data features and meta-features and predict which job description are fraudulent or real.\n- Identify key traits/features (words, entities, phrases) of job descriptions which are fraudulent in nature.\n- Run a contextual embedding model to identify the most similar job descriptions.\n- Perform Exploratory Data Analysis on the dataset to identify interesting insights from this dataset.\n\n&gt; More\n- Find More Exciting\ud83d\ude40 Datasets [Here](https://www.kaggle.com/whenamancodes/datasets)\n- An Upvote\ud83d\udc4d A Day\u1559(`\u25bf\u00b4)\u1557 , Keeps Aman Hurray Hurray..... \u0669(\u02d8\u25e1\u02d8)\u06f6Hehe",
+  "datasetId": 2494867,
+  "datasetSlug": "real-or-fake-jobs",
+  "hasDatasetSlug": true,
+  "ownerUser": "whenamancodes",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 20854,
+  "totalVotes": 32,
+  "totalDownloads": 2021,
+  "title": "Real OR Fake Jobs",
+  "hasTitle": true,
+  "subtitle": "Dataset of Real OR Fake Jobs",
+  "hasSubtitle": true,
+  "description": "# [Real or Fake] : Fake Job Description Prediction\nThis dataset contains 18K job descriptions out of which about 800 are fake. The data consists of both textual information and meta-information about the jobs. The dataset can be used to create classification models which can learn the job descriptions which are fraudulent.\n\n# Data Dictionary\n| Coulmns | Description |\n| --- | --- |\n| job_id | Unique Job ID |\n| title | The title of the job ad entry |\n| location | Geographical location of the job ad |\n| department | Corporate department (e.g. sales) |\n| salary_range | Indicative salary range (e.g. $50,000-$60,000) |\n| company_profile | A brief company description |\n| description | The details description of the job ad |\n| requirements | Enlisted requirements for the job opening |\n| benefits | Enlisted offered benefits by the employer |\n| telecommuting | True for telecommuting positions |\n| has_company_logo | True if company logo is present |\n| has_questions | True if screening questions are present |\n| employment_type | Full-type, Part-time, Contract, etc |\n| required_experience | Executive, Entry level, Intern, etc |\n| required_education | Doctorate, Master\u2019s Degree, Bachelor, etc |\n| industry | Automotive, IT, Health care, Real estate, etc |\n| function | Consulting, Engineering, Research, Sales etc |\n| fraudulent | target - Classification attribute |\n\n# Inspiration\nThe dataset is very valuable as it can be used to answer the following questions:\n- Create a classification model that uses text data features and meta-features and predict which job description are fraudulent or real.\n- Identify key traits/features (words, entities, phrases) of job descriptions which are fraudulent in nature.\n- Run a contextual embedding model to identify the most similar job descriptions.\n- Perform Exploratory Data Analysis on the dataset to identify interesting insights from this dataset.\n\n&gt; More\n- Find More Exciting\ud83d\ude40 Datasets [Here](https://www.kaggle.com/whenamancodes/datasets)\n- An Upvote\ud83d\udc4d A Day\u1559(`\u25bf\u00b4)\u1557 , Keeps Aman Hurray Hurray..... \u0669(\u02d8\u25e1\u02d8)\u06f6Hehe",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "employment",
+    "education",
+    "data visualization",
+    "data analytics",
+    "classification",
+    "jobs and career"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

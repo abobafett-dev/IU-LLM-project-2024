@@ -1,0 +1,44 @@
+{
+  "id": "balabaskar/elon-musk-news-articles-corpora",
+  "id_no": 2529853,
+  "datasetSlugNullable": "elon-musk-news-articles-corpora",
+  "ownerUserNullable": "balabaskar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Elon Musk - News articles text corpora",
+  "subtitleNullable": "Text corpora of 5k news articles about Elon Musk",
+  "descriptionNullable": "# Introduction\n\nElon Reeve Musk FRS is a business magnate and investor. He is the founder, CEO, and chief engineer of SpaceX; angel investor, CEO, and product architect of Tesla, Inc.; founder of The Boring Company; and co-founder of Neuralink and OpenAI. With an estimated net worth of around $238 billion as of September 26, 2022 Musk is the wealthiest person in the world according to the Bloomberg Billionaires Index and Forbes' real-time billionaires' list. (Reference - [Wikipedia](https://en.wikipedia.org/wiki/Elon_Musk)\n\n# Content\n\nThis dataset contains the corpora of news articles that involved Elon Musk. It consists of 5000 news articles that are web scraped from various sources on the Internet by Newscatcher API.\n\nThe information is given in the form of CSV files, and it contains columns with various details about the articles. \n\n**Below is an example given to show kind of information available for one article:**\n\n`article id` - 0e81aa01030edd3259773ee0e2b0a7ed\n`title` - You're free to tweet: Messages reveal Elon Musk- Parag Agrawal fall out\n`author` - Mallika Soni\n`published date` - 01-10-2022  02:20:00  \n`link` - https://www.hindustantimes.com/world-news/elon-musk-news-elon-musk-parag-agrawal-fight-elon-musk-twitter-deal-you-re-free-to-tweet-messages-reveal-elon-musk-parag-agrawal-fall-out-101664590071200.html\n`clean_url` - hindustantimes.com\n`excerpt` - Elon Musk-Twitter Trial: Elon Musk and Twitter are due for a trial in court In mid-October which will decide on the former's $44 billion acquisition of the social media platform.\n`summary` -  Messages between Tesla chief Elon Musk and important place holders at Twitter- Jack Dorsey, board chair Bret Taylor and current head Parag Agrawal \u00e2\u20ac\u201c were released during an ongoing documentation ahead of Elon Musk's trial against Twitter.Elon Musk and Twitter are due for a trial in court In mid-October which will decide on the former's $44 billion acquisition of the social media platform.In new messages that were revealed, Elon Musk told Parag Agarwal that he did not think he should be the 'boss of anyone'.\n`rights` - hindustantimes.com\n`article_rank` - 980\n`topic` - news\n`country` - IN\n`language` - en\n`authors` - Mallika Soni\n`media` - https://images.hindustantimes.com/img/2022/10/01/1600x900/Musk-Twitter-CEO-Text-Messages-0_1664590625173_1664590625173_1664590667832_1664590667832.jpg\n`twitter_account` - @httweets\n`article_score` - 22.901016\n\n\n# Inspiration\n\nThis dataset contains textual data that can be used to do text mining, text analytics, sentiment analysis, topic modeling, word embeddings, etc.\n\nHope you will find this dataset informative and useful for data analysis. Have fun and Happy Learning!\n",
+  "datasetId": 2529853,
+  "datasetSlug": "elon-musk-news-articles-corpora",
+  "hasDatasetSlug": true,
+  "ownerUser": "balabaskar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2730,
+  "totalVotes": 30,
+  "totalDownloads": 311,
+  "title": "Elon Musk - News articles text corpora",
+  "hasTitle": true,
+  "subtitle": "Text corpora of 5k news articles about Elon Musk",
+  "hasSubtitle": true,
+  "description": "# Introduction\n\nElon Reeve Musk FRS is a business magnate and investor. He is the founder, CEO, and chief engineer of SpaceX; angel investor, CEO, and product architect of Tesla, Inc.; founder of The Boring Company; and co-founder of Neuralink and OpenAI. With an estimated net worth of around $238 billion as of September 26, 2022 Musk is the wealthiest person in the world according to the Bloomberg Billionaires Index and Forbes' real-time billionaires' list. (Reference - [Wikipedia](https://en.wikipedia.org/wiki/Elon_Musk)\n\n# Content\n\nThis dataset contains the corpora of news articles that involved Elon Musk. It consists of 5000 news articles that are web scraped from various sources on the Internet by Newscatcher API.\n\nThe information is given in the form of CSV files, and it contains columns with various details about the articles. \n\n**Below is an example given to show kind of information available for one article:**\n\n`article id` - 0e81aa01030edd3259773ee0e2b0a7ed\n`title` - You're free to tweet: Messages reveal Elon Musk- Parag Agrawal fall out\n`author` - Mallika Soni\n`published date` - 01-10-2022  02:20:00  \n`link` - https://www.hindustantimes.com/world-news/elon-musk-news-elon-musk-parag-agrawal-fight-elon-musk-twitter-deal-you-re-free-to-tweet-messages-reveal-elon-musk-parag-agrawal-fall-out-101664590071200.html\n`clean_url` - hindustantimes.com\n`excerpt` - Elon Musk-Twitter Trial: Elon Musk and Twitter are due for a trial in court In mid-October which will decide on the former's $44 billion acquisition of the social media platform.\n`summary` -  Messages between Tesla chief Elon Musk and important place holders at Twitter- Jack Dorsey, board chair Bret Taylor and current head Parag Agrawal \u00e2\u20ac\u201c were released during an ongoing documentation ahead of Elon Musk's trial against Twitter.Elon Musk and Twitter are due for a trial in court In mid-October which will decide on the former's $44 billion acquisition of the social media platform.In new messages that were revealed, Elon Musk told Parag Agarwal that he did not think he should be the 'boss of anyone'.\n`rights` - hindustantimes.com\n`article_rank` - 980\n`topic` - news\n`country` - IN\n`language` - en\n`authors` - Mallika Soni\n`media` - https://images.hindustantimes.com/img/2022/10/01/1600x900/Musk-Twitter-CEO-Text-Messages-0_1664590625173_1664590625173_1664590667832_1664590667832.jpg\n`twitter_account` - @httweets\n`article_score` - 22.901016\n\n\n# Inspiration\n\nThis dataset contains textual data that can be used to do text mining, text analytics, sentiment analysis, topic modeling, word embeddings, etc.\n\nHope you will find this dataset informative and useful for data analysis. Have fun and Happy Learning!\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "intermediate",
+    "nlp",
+    "text mining",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

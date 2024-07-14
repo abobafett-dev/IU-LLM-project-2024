@@ -1,0 +1,43 @@
+{
+  "id": "josephchan524/stonybrook-ams578-multiple-regression-dataset",
+  "id_no": 1047965,
+  "datasetSlugNullable": "stonybrook-ams578-multiple-regression-dataset",
+  "ownerUserNullable": "josephchan524",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Stonybrook_AMS578_Multiple_Regression_Dataset",
+  "subtitleNullable": "Multiple_Regression_Dataset ",
+  "descriptionNullable": "### Context\nThis is a dataset is a Multiple Regression Project from an Applied Math Science Graduate Level Course at Stony Brook (AMS578 Spring 2020).\n\nThe class blackboard has a pdf file of a paper by Caspi et al. that reports a finding of a gene-environment interaction. This paper used multiple regression techniques as the methodology for its findings. You should read it for background, as it is the genesis of the models that you will be given. The data that you are analyzing is synthetic. That is, the TA used a model to generate the data. Your task is to find the model that the TA used for your data. For example, one possible model is \n   \nThe class blackboard also contains a paper by Risch et al. that uses a larger collection of data to assess the findings in Caspi et al. These researchers confirmed that Caspi et al. calculated their results correctly but that no other dataset had the relation reported in Caspi et al. That is, Caspi et al. seem to have reported a false positive (Type I error). The class blackboard contains a recent paper about the genetics of mental illness and a technical appendix giving the specifics. Together these papers are an example of the response of the research community to studying the genetics of mental illness, which is a notoriously difficult research area. \n\n\n\n### Content\n\nOne file contains the patient identifier and the dependent variable value. The second file contains the patient identifier and values of six environment variables called E1 to E6. The third file contains the patient identifier and the twenty independent indicator variables called G1 to G20. The records may not be in correct order in each file, and cases may be missing in one or more of the files. You can process the data with VMLOOKUP or other data merging software. ",
+  "datasetId": 1047965,
+  "datasetSlug": "stonybrook-ams578-multiple-regression-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "josephchan524",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 4427,
+  "totalVotes": 10,
+  "totalDownloads": 159,
+  "title": "Stonybrook_AMS578_Multiple_Regression_Dataset",
+  "hasTitle": true,
+  "subtitle": "Multiple_Regression_Dataset ",
+  "hasSubtitle": true,
+  "description": "### Context\nThis is a dataset is a Multiple Regression Project from an Applied Math Science Graduate Level Course at Stony Brook (AMS578 Spring 2020).\n\nThe class blackboard has a pdf file of a paper by Caspi et al. that reports a finding of a gene-environment interaction. This paper used multiple regression techniques as the methodology for its findings. You should read it for background, as it is the genesis of the models that you will be given. The data that you are analyzing is synthetic. That is, the TA used a model to generate the data. Your task is to find the model that the TA used for your data. For example, one possible model is \n   \nThe class blackboard also contains a paper by Risch et al. that uses a larger collection of data to assess the findings in Caspi et al. These researchers confirmed that Caspi et al. calculated their results correctly but that no other dataset had the relation reported in Caspi et al. That is, Caspi et al. seem to have reported a false positive (Type I error). The class blackboard contains a recent paper about the genetics of mental illness and a technical appendix giving the specifics. Together these papers are an example of the response of the research community to studying the genetics of mental illness, which is a notoriously difficult research area. \n\n\n\n### Content\n\nOne file contains the patient identifier and the dependent variable value. The second file contains the patient identifier and values of six environment variables called E1 to E6. The third file contains the patient identifier and the twenty independent indicator variables called G1 to G20. The records may not be in correct order in each file, and cases may be missing in one or more of the files. You can process the data with VMLOOKUP or other data merging software. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "education",
+    "health",
+    "social science",
+    "linear regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

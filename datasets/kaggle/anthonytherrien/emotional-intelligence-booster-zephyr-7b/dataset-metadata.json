@@ -1,0 +1,42 @@
+{
+  "id": "anthonytherrien/emotional-intelligence-booster-zephyr-7b",
+  "id_no": 4325723,
+  "datasetSlugNullable": "emotional-intelligence-booster-zephyr-7b",
+  "ownerUserNullable": "anthonytherrien",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Emotional Intelligence Booster | Zephyr-7B",
+  "subtitleNullable": "Exploring the Depths of Emotional Intelligence with 280,000 Prompt-Answer Pairs",
+  "descriptionNullable": "# Dataset Presentation: Emotional Intelligence through AI-Generated Interactions\n\n## Introduction\nThis dataset presents a unique intersection of artificial intelligence and emotional intelligence, containing 280,000 AI-generated question-and-answer pairs. Each entry is meticulously crafted to reflect a specific emotion, offering a rich resource for understanding emotional nuances in various contexts. This dataset is an invaluable asset for researchers and developers in fields like psychology, education, natural language processing (NLP), and machine learning.\n\n## Dataset Overview\n- **Total Entries:** 280,000 Q&A pairs\n- **Emotions Covered:** 75, encompassing a wide range of human emotions\n- **Generation Model:** Zephyr-7B, known for its sophisticated text generation capabilities\n- **Data Format:** JSON Lines, facilitating easy integration with various data processing tools\n\n## Dataset Structure\n- **Prompt:** A text field containing a question or statement, each linked to a specific emotion.\n- **Emotion:** The emotion associated with each prompt, tagged from a set of 75 emotions.\n- **Response:** AI-generated text responding to the prompt, reflecting the tagged emotion.\n\n## Applications\n- **Psychological Research:** Study emotional responses and their variations across different scenarios.\n- **NLP Development:** Enhance emotion recognition algorithms, sentiment analysis, and emotionally intelligent chatbots.\n- **Educational Tools:** Create emotionally responsive educational software, enhancing student engagement and learning.\n\n## Quality and Ethical Considerations\n- **Accuracy and Relevance:** Information on how the responses were validated for accuracy and relevance to the associated emotion.\n- **Bias Mitigation:** Discussion on potential biases in the dataset and the steps taken to minimize them.\n- **Limitations:** Identification of areas where the dataset may have limitations, such as specific emotions or contexts not fully explored.",
+  "datasetId": 4325723,
+  "datasetSlug": "emotional-intelligence-booster-zephyr-7b",
+  "hasDatasetSlug": true,
+  "ownerUser": "anthonytherrien",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 820,
+  "totalVotes": 9,
+  "totalDownloads": 105,
+  "title": "Emotional Intelligence Booster | Zephyr-7B",
+  "hasTitle": true,
+  "subtitle": "Exploring the Depths of Emotional Intelligence with 280,000 Prompt-Answer Pairs",
+  "hasSubtitle": true,
+  "description": "# Dataset Presentation: Emotional Intelligence through AI-Generated Interactions\n\n## Introduction\nThis dataset presents a unique intersection of artificial intelligence and emotional intelligence, containing 280,000 AI-generated question-and-answer pairs. Each entry is meticulously crafted to reflect a specific emotion, offering a rich resource for understanding emotional nuances in various contexts. This dataset is an invaluable asset for researchers and developers in fields like psychology, education, natural language processing (NLP), and machine learning.\n\n## Dataset Overview\n- **Total Entries:** 280,000 Q&A pairs\n- **Emotions Covered:** 75, encompassing a wide range of human emotions\n- **Generation Model:** Zephyr-7B, known for its sophisticated text generation capabilities\n- **Data Format:** JSON Lines, facilitating easy integration with various data processing tools\n\n## Dataset Structure\n- **Prompt:** A text field containing a question or statement, each linked to a specific emotion.\n- **Emotion:** The emotion associated with each prompt, tagged from a set of 75 emotions.\n- **Response:** AI-generated text responding to the prompt, reflecting the tagged emotion.\n\n## Applications\n- **Psychological Research:** Study emotional responses and their variations across different scenarios.\n- **NLP Development:** Enhance emotion recognition algorithms, sentiment analysis, and emotionally intelligent chatbots.\n- **Educational Tools:** Create emotionally responsive educational software, enhancing student engagement and learning.\n\n## Quality and Ethical Considerations\n- **Accuracy and Relevance:** Information on how the responses were validated for accuracy and relevance to the associated emotion.\n- **Bias Mitigation:** Discussion on potential biases in the dataset and the steps taken to minimize them.\n- **Limitations:** Identification of areas where the dataset may have limitations, such as specific emotions or contexts not fully explored.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "people and society",
+    "psychology",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

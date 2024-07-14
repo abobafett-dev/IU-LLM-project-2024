@@ -1,0 +1,43 @@
+{
+  "id": "asheniranga/leaf-disease-dataset-combination",
+  "id_no": 1851550,
+  "datasetSlugNullable": "leaf-disease-dataset-combination",
+  "ownerUserNullable": "asheniranga",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Leaf Disease Dataset (combination)",
+  "subtitleNullable": "256x256 color images of leaves healthy and affected",
+  "descriptionNullable": "### Context\n\nwhile working on the leaf disease classification model created this collected dataset based on the plantvillage, rice leaf disease dataset and cassava dataset already publically available in Kaggle.\n\n\n### Content\n\nall images are well organized in train, test, and validation directories within their relevant class name folder. all images are in 256x256 size and RGB colour scheme. cassava images do not contain all images that are in the original dataset. they are preprocessed to 256x256 and also croped u using tensorflow.\n\n\n\n### Acknowledgements\n\n[plant village dataset](https://www.kaggle.com/abdallahalidev/plantvillage-dataset)\n[rice leaf disease dataset](https://www.kaggle.com/nizorogbezuode/rice-leaf-images)\n[cassava leaf dataset](https://www.kaggle.com/c/cassava-leaf-disease-classification/data)",
+  "datasetId": 1851550,
+  "datasetSlug": "leaf-disease-dataset-combination",
+  "hasDatasetSlug": true,
+  "ownerUser": "asheniranga",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 14150,
+  "totalVotes": 40,
+  "totalDownloads": 2061,
+  "title": "Leaf Disease Dataset (combination)",
+  "hasTitle": true,
+  "subtitle": "256x256 color images of leaves healthy and affected",
+  "hasSubtitle": true,
+  "description": "### Context\n\nwhile working on the leaf disease classification model created this collected dataset based on the plantvillage, rice leaf disease dataset and cassava dataset already publically available in Kaggle.\n\n\n### Content\n\nall images are well organized in train, test, and validation directories within their relevant class name folder. all images are in 256x256 size and RGB colour scheme. cassava images do not contain all images that are in the original dataset. they are preprocessed to 256x256 and also croped u using tensorflow.\n\n\n\n### Acknowledgements\n\n[plant village dataset](https://www.kaggle.com/abdallahalidev/plantvillage-dataset)\n[rice leaf disease dataset](https://www.kaggle.com/nizorogbezuode/rice-leaf-images)\n[cassava leaf dataset](https://www.kaggle.com/c/cassava-leaf-disease-classification/data)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "agriculture",
+    "classification",
+    "image",
+    "cv2",
+    "keras"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

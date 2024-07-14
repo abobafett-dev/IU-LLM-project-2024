@@ -1,0 +1,43 @@
+{
+  "id": "tanakritsaipahn/salmon-raw",
+  "id_no": 2326597,
+  "datasetSlugNullable": "salmon-raw",
+  "ownerUserNullable": "tanakritsaipahn",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Raw salmon for detection",
+  "subtitleNullable": "Let predict raw samon",
+  "descriptionNullable": "This dataset is binary salmon class dataset that classifly between farm raw salmon  and natural raw salmon . Different things about farm raw and natural raw are fat layer, meat color and size. However in this dataset not only classsifled class but this dataset also label position of salmon raw in coco format.So you can use the dataset to classification or objectdetection.Warning, this dataset also contains little information.It would have been better to train with pretrained model.",
+  "datasetId": 2326597,
+  "datasetSlug": "salmon-raw",
+  "hasDatasetSlug": true,
+  "ownerUser": "tanakritsaipahn",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 2763,
+  "totalVotes": 26,
+  "totalDownloads": 184,
+  "title": "Raw salmon for detection",
+  "hasTitle": true,
+  "subtitle": "Let predict raw samon",
+  "hasSubtitle": true,
+  "description": "This dataset is binary salmon class dataset that classifly between farm raw salmon  and natural raw salmon . Different things about farm raw and natural raw are fat layer, meat color and size. However in this dataset not only classsifled class but this dataset also label position of salmon raw in coco format.So you can use the dataset to classification or objectdetection.Warning, this dataset also contains little information.It would have been better to train with pretrained model.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "cnn",
+    "image",
+    "transfer learning",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

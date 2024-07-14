@@ -1,0 +1,43 @@
+{
+  "id": "sapal6/motion",
+  "id_no": 2215565,
+  "datasetSlugNullable": "motion",
+  "ownerUserNullable": "sapal6",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Motion",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset contains two types of images. \n\n1. Dogs in motion. For example, an image may have a dog/dogs running , playing or catching something. The images may or may not contain humans alongside dogs.\n\n2. Kids in motion. For example, an image may have kids playing, running and doing other things that kids do. The images may contain a single child or group of children.\n\n#### How can this dataset be used?\nI created this dataset for my blog on GANs but this data can be used for other purposes like object detection, classification etc.\n\n#### Structure of the data\nThe data directory contains two sub directories named -\n1. dogs-running - Contains 1000 images of dogs as the subject of the image.\n2. children-running - Contains 1000 images of children as the subject of the image\n\n#### From where the data was collected?\nThe images used in this dataset were collected from the website - pexels.com which is a stock image website that provides free stock photos. ",
+  "datasetId": 2215565,
+  "datasetSlug": "motion",
+  "hasDatasetSlug": true,
+  "ownerUser": "sapal6",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 1122,
+  "totalVotes": 6,
+  "totalDownloads": 99,
+  "title": "Motion",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset contains two types of images. \n\n1. Dogs in motion. For example, an image may have a dog/dogs running , playing or catching something. The images may or may not contain humans alongside dogs.\n\n2. Kids in motion. For example, an image may have kids playing, running and doing other things that kids do. The images may contain a single child or group of children.\n\n#### How can this dataset be used?\nI created this dataset for my blog on GANs but this data can be used for other purposes like object detection, classification etc.\n\n#### Structure of the data\nThe data directory contains two sub directories named -\n1. dogs-running - Contains 1000 images of dogs as the subject of the image.\n2. children-running - Contains 1000 images of children as the subject of the image\n\n#### From where the data was collected?\nThe images used in this dataset were collected from the website - pexels.com which is a stock image website that provides free stock photos. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "gan",
+    "cnn",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sauravsolanki/hire-a-perfect-machine-learning-engineer",
+  "id_no": 1540110,
+  "datasetSlugNullable": "hire-a-perfect-machine-learning-engineer",
+  "ownerUserNullable": "sauravsolanki",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Hire A Perfect Machine Learning Engineer",
+  "subtitleNullable": "Given Job Description, Can you find the Perfect Match?",
+  "descriptionNullable": "### Context\n\nRecruitment is very complex, dynamic and time consuming process. It is more fear of False Positives.Hiring a Best candidate out of thousands of resume after multiple round of interviews. For Job Recruiter, this dataset will help them to have smarted way to shortlist candidate resumes. For Job Seekers, this would help them what to modify in Resume if he fulfills Job Description perfectly. \n\n\n### Content\n\nGiven job description, you have to train one model to give one scrore based on candidate resume like 0.10, 0.50, etc. Hiring for any role for best candidate, is really hard to deal with. Both side faces issue. In such case, this small dataset from hackerearth challeges gives a beginning to tackle such problem, selecting resume just like ATL software.\n\nThis dataset focus on ML Enginner but I will be adding more resumes based on multiple role like MERN Stack Developer, AWS Enginner, Computer Vision Engineer, etc. Such ML task is challenging as well as fun to see how NLP and Regression and Recognition combined gives a powerful model.\n\n\n\n### Acknowledgements\nThe initial dataset is From HackerEarth Challenges:\nsource: https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-resume-shortlisting/problems/\n\nMore addition for JD and resumes will be added in next month.\n\n### Inspiration\nI would like invite everyone to help in collection dataset and deploying model over the web.\n\nLet's help job seekers and job recruter, to hire best talent . Let's make relative comparision, a fair comparision! ",
+  "datasetId": 1540110,
+  "datasetSlug": "hire-a-perfect-machine-learning-engineer",
+  "hasDatasetSlug": true,
+  "ownerUser": "sauravsolanki",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 4449,
+  "totalVotes": 8,
+  "totalDownloads": 370,
+  "title": "Hire A Perfect Machine Learning Engineer",
+  "hasTitle": true,
+  "subtitle": "Given Job Description, Can you find the Perfect Match?",
+  "hasSubtitle": true,
+  "description": "### Context\n\nRecruitment is very complex, dynamic and time consuming process. It is more fear of False Positives.Hiring a Best candidate out of thousands of resume after multiple round of interviews. For Job Recruiter, this dataset will help them to have smarted way to shortlist candidate resumes. For Job Seekers, this would help them what to modify in Resume if he fulfills Job Description perfectly. \n\n\n### Content\n\nGiven job description, you have to train one model to give one scrore based on candidate resume like 0.10, 0.50, etc. Hiring for any role for best candidate, is really hard to deal with. Both side faces issue. In such case, this small dataset from hackerearth challeges gives a beginning to tackle such problem, selecting resume just like ATL software.\n\nThis dataset focus on ML Enginner but I will be adding more resumes based on multiple role like MERN Stack Developer, AWS Enginner, Computer Vision Engineer, etc. Such ML task is challenging as well as fun to see how NLP and Regression and Recognition combined gives a powerful model.\n\n\n\n### Acknowledgements\nThe initial dataset is From HackerEarth Challenges:\nsource: https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-resume-shortlisting/problems/\n\nMore addition for JD and resumes will be added in next month.\n\n### Inspiration\nI would like invite everyone to help in collection dataset and deploying model over the web.\n\nLet's help job seekers and job recruter, to hire best talent . Let's make relative comparision, a fair comparision! ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "employment",
+    "science and technology",
+    "nlp",
+    "lstm",
+    "jobs and career"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

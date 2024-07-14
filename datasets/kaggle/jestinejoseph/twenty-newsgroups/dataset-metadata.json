@@ -1,0 +1,43 @@
+{
+  "id": "jestinejoseph/twenty-newsgroups",
+  "id_no": 1025550,
+  "datasetSlugNullable": "twenty-newsgroups",
+  "ownerUserNullable": "jestinejoseph",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Twenty Newsgroups",
+  "subtitleNullable": "Preprocessed dataset of collection of 20 Newsgroups data set",
+  "descriptionNullable": "### **Context**\n\nThis dataset contains the preprocessed data of the original 20 Newsgroups dataset.\nThe 20 newsgroups collection has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering.\n\n### **Content**\n\nThis is the 20 Newsgroups dataset which has been preprocessed for machine learning tasks.\nThe original 20 Newsgroups dataset contains 18828 files belonging to one of the 20 categories. The 20 categories/labels of these files are as follows:\n-rec.sport.hockey  999\n- soc.religion.christian  997\n- rec.motorcycles  994\n- rec.sport.baseball   994\n- sci.crypt   991\n- sci.med  990\n- rec.autos  990\n- sci.space  987\n- comp.os.ms-windows.misc  985\n- comp.sys.ibm.pc.hardware  982\n- sci.electronics  981\n- comp.windows.x  980\n- comp.graphics  973\n- misc.forsale  972\n- comp.sys.mac.hardware  961\n- talk.politics.mideast  940\n- talk.politics.guns  910\n- alt.atheism  799\n- talk.politics.misc  775\n- talk.religion.misc  628\n(number written along with each category shows the number of files/datapoints belonging to that category/label)\n\n### **Acknowledgements**\n\nThe source of original data files: http://qwone.com/~jason/20Newsgroups/",
+  "datasetId": 1025550,
+  "datasetSlug": "twenty-newsgroups",
+  "hasDatasetSlug": true,
+  "ownerUser": "jestinejoseph",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1822,
+  "totalVotes": 5,
+  "totalDownloads": 117,
+  "title": "Twenty Newsgroups",
+  "hasTitle": true,
+  "subtitle": "Preprocessed dataset of collection of 20 Newsgroups data set",
+  "hasSubtitle": true,
+  "description": "### **Context**\n\nThis dataset contains the preprocessed data of the original 20 Newsgroups dataset.\nThe 20 newsgroups collection has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering.\n\n### **Content**\n\nThis is the 20 Newsgroups dataset which has been preprocessed for machine learning tasks.\nThe original 20 Newsgroups dataset contains 18828 files belonging to one of the 20 categories. The 20 categories/labels of these files are as follows:\n-rec.sport.hockey  999\n- soc.religion.christian  997\n- rec.motorcycles  994\n- rec.sport.baseball   994\n- sci.crypt   991\n- sci.med  990\n- rec.autos  990\n- sci.space  987\n- comp.os.ms-windows.misc  985\n- comp.sys.ibm.pc.hardware  982\n- sci.electronics  981\n- comp.windows.x  980\n- comp.graphics  973\n- misc.forsale  972\n- comp.sys.mac.hardware  961\n- talk.politics.mideast  940\n- talk.politics.guns  910\n- alt.atheism  799\n- talk.politics.misc  775\n- talk.religion.misc  628\n(number written along with each category shows the number of files/datapoints belonging to that category/label)\n\n### **Acknowledgements**\n\nThe source of original data files: http://qwone.com/~jason/20Newsgroups/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "linguistics",
+    "internet",
+    "software",
+    "nlp"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

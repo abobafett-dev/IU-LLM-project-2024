@@ -1,0 +1,43 @@
+{
+  "id": "iamsouravbanerjee/family-guy-dataset",
+  "id_no": 2873755,
+  "datasetSlugNullable": "family-guy-dataset",
+  "ownerUserNullable": "iamsouravbanerjee",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Family Guy Dataset",
+  "subtitleNullable": "Navigating the Quirky Universe of Family Guy: A Comprehensive Dataset",
+  "descriptionNullable": "### Context\n\nFamily Guy is an American animated sitcom originally conceived and created by Seth MacFarlane for the Fox Broadcasting Company. The show centers around the Griffins, a dysfunctional family consisting of parents Peter and Lois; their children, Meg, Chris, and Stewie; and their anthropomorphic pet dog, Brian. Set in the fictional city of Quahog, Rhode Island, the show exhibits much of its humor in the form of metafictional cutaway gags that often lampoon American culture.\n\nThe family was conceived by MacFarlane after developing two animated films, The Life of Larry and Larry & Steve. MacFarlane redesigned the films' protagonist, Larry, and his dog, Steve, and renamed them Peter and Brian, respectively. MacFarlane pitched a seven-minute pilot to Fox in December 1998, and the show was greenlit and began production. Family Guy's cancellation was announced shortly after the third season had aired in 2002, with one unaired episode eventually premiering on Adult Swim in 2003, finishing the series' original run. Favorable DVD sales and high ratings from syndicated reruns since then convinced Fox to revive the show in 2004.\n\nSince its premiere, Family Guy has received generally positive reviews. In 2009, it was nominated for a Primetime Emmy Award for Outstanding Comedy Series, the first time an animated series was nominated for the award since The Flintstones in 1961. In 2013, TV Guide ranked Family Guy the ninth Greatest TV Cartoon of All Time.\n\n### Content\n\nIn this Dataset, we have various information about each Episode/Season of Family Guy. The key features of this Dataset are - Season, No. of Episodes (Season), No. of Episodes (Overall), Title of the Episode, Director, Assistant Director, Written by, Storyboard by, Guest Starring, Featuring, Also Appearing, Musical Numbers, Original Air Date, Product Code, U.S. Viewers (Millions), TV Rating, Running Time (Minutes), Aspect Ratio, Production Companies, IMDb Rating, Synopsis of each Episode.\n\n### Dataset Glossary (Column-wise)\n\n* <b>Season</b> - No. of Seasons\n* <b>No. of Episode (Season)</b> - No. of Episode in a particular Season\n* <b>No. of Episode (Overall)</b> - No. of Episode in the whole Series\n* <b>Title of the Episode</b> - Name of the Episode\n* <b>Director</b> - Name(s) of the Director\n* <b>Assistant Director</b> - Name(s) of the Assistant Director\n* <b>Written by</b> - Name(s) of the Writer\n* <b>Storyboard by</b> - Name(s) of the Storyboarder\n* <b>Guest Starring</b> - Guest Staring Actors/Actresses\n* <b>Featuring</b> - Main Casts of the Episode\n* <b>Also Appearing</b> - Secondary Casts for the Episode\n* <b>Musical Numbers</b> - Name of the Musical Numbers\n* <b>Original Air Date</b> - Original Air Date of the Episode\n* <b>Product Code</b> - Product Code for the Episode\n* <b>U.S. Viewers (Millions)</b> - No of U.S. Viewers of the Episode in Millions\n* <b>TV Rating</b> - TV Rating\n* <b>Running Time (Minutes)</b> - Runtime of the Episode in Minutes\n* <b>Aspect Ratio</b> - Aspect Ratio of the Episode (Screen)\n* <b>Production Companies</b> - Name(s) of the Production Companies\n* <b>IMDb Rating</b> - IMDb Rating of the Episode (10 point scale)\n* <b>Synopsis</b> - Synopsis of the Episode\n\n### Structure of the Dataset\n\n![](https://i.imgur.com/uTvzTEn.png)\n\n\n### Acknowledgement\n\nThis Dataset is created from <b>[Wikipedia](https://www.wikipedia.org/)</b> and <b>[Fandom](https://www.fandom.com/)</b>. Also, the ratings are taken from <b>[IMDb](https://www.imdb.com/)</b>. If you want to learn more, you can visit the above-mentioned Websites.\n\nCover Photo by: <b>[WallpaperSet](https://wallpaperset.com/w/full/f/3/a/230201.jpg)</b>",
+  "datasetId": 2873755,
+  "datasetSlug": "family-guy-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "iamsouravbanerjee",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6350,
+  "totalVotes": 90,
+  "totalDownloads": 536,
+  "title": "Family Guy Dataset",
+  "hasTitle": true,
+  "subtitle": "Navigating the Quirky Universe of Family Guy: A Comprehensive Dataset",
+  "hasSubtitle": true,
+  "description": "### Context\n\nFamily Guy is an American animated sitcom originally conceived and created by Seth MacFarlane for the Fox Broadcasting Company. The show centers around the Griffins, a dysfunctional family consisting of parents Peter and Lois; their children, Meg, Chris, and Stewie; and their anthropomorphic pet dog, Brian. Set in the fictional city of Quahog, Rhode Island, the show exhibits much of its humor in the form of metafictional cutaway gags that often lampoon American culture.\n\nThe family was conceived by MacFarlane after developing two animated films, The Life of Larry and Larry & Steve. MacFarlane redesigned the films' protagonist, Larry, and his dog, Steve, and renamed them Peter and Brian, respectively. MacFarlane pitched a seven-minute pilot to Fox in December 1998, and the show was greenlit and began production. Family Guy's cancellation was announced shortly after the third season had aired in 2002, with one unaired episode eventually premiering on Adult Swim in 2003, finishing the series' original run. Favorable DVD sales and high ratings from syndicated reruns since then convinced Fox to revive the show in 2004.\n\nSince its premiere, Family Guy has received generally positive reviews. In 2009, it was nominated for a Primetime Emmy Award for Outstanding Comedy Series, the first time an animated series was nominated for the award since The Flintstones in 1961. In 2013, TV Guide ranked Family Guy the ninth Greatest TV Cartoon of All Time.\n\n### Content\n\nIn this Dataset, we have various information about each Episode/Season of Family Guy. The key features of this Dataset are - Season, No. of Episodes (Season), No. of Episodes (Overall), Title of the Episode, Director, Assistant Director, Written by, Storyboard by, Guest Starring, Featuring, Also Appearing, Musical Numbers, Original Air Date, Product Code, U.S. Viewers (Millions), TV Rating, Running Time (Minutes), Aspect Ratio, Production Companies, IMDb Rating, Synopsis of each Episode.\n\n### Dataset Glossary (Column-wise)\n\n* <b>Season</b> - No. of Seasons\n* <b>No. of Episode (Season)</b> - No. of Episode in a particular Season\n* <b>No. of Episode (Overall)</b> - No. of Episode in the whole Series\n* <b>Title of the Episode</b> - Name of the Episode\n* <b>Director</b> - Name(s) of the Director\n* <b>Assistant Director</b> - Name(s) of the Assistant Director\n* <b>Written by</b> - Name(s) of the Writer\n* <b>Storyboard by</b> - Name(s) of the Storyboarder\n* <b>Guest Starring</b> - Guest Staring Actors/Actresses\n* <b>Featuring</b> - Main Casts of the Episode\n* <b>Also Appearing</b> - Secondary Casts for the Episode\n* <b>Musical Numbers</b> - Name of the Musical Numbers\n* <b>Original Air Date</b> - Original Air Date of the Episode\n* <b>Product Code</b> - Product Code for the Episode\n* <b>U.S. Viewers (Millions)</b> - No of U.S. Viewers of the Episode in Millions\n* <b>TV Rating</b> - TV Rating\n* <b>Running Time (Minutes)</b> - Runtime of the Episode in Minutes\n* <b>Aspect Ratio</b> - Aspect Ratio of the Episode (Screen)\n* <b>Production Companies</b> - Name(s) of the Production Companies\n* <b>IMDb Rating</b> - IMDb Rating of the Episode (10 point scale)\n* <b>Synopsis</b> - Synopsis of the Episode\n\n### Structure of the Dataset\n\n![](https://i.imgur.com/uTvzTEn.png)\n\n\n### Acknowledgement\n\nThis Dataset is created from <b>[Wikipedia](https://www.wikipedia.org/)</b> and <b>[Fandom](https://www.fandom.com/)</b>. Also, the ratings are taken from <b>[IMDb](https://www.imdb.com/)</b>. If you want to learn more, you can visit the above-mentioned Websites.\n\nCover Photo by: <b>[WallpaperSet](https://wallpaperset.com/w/full/f/3/a/230201.jpg)</b>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "beginner",
+    "exploratory data analysis",
+    "data visualization",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

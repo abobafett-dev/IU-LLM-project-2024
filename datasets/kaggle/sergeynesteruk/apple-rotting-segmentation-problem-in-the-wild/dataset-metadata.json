@@ -1,0 +1,43 @@
+{
+  "id": "sergeynesteruk/apple-rotting-segmentation-problem-in-the-wild",
+  "id_no": 1519876,
+  "datasetSlugNullable": "apple-rotting-segmentation-problem-in-the-wild",
+  "ownerUserNullable": "sergeynesteruk",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Lab2Wild apple rotting segmentation ",
+  "subtitleNullable": "Apple spoiling segmentation problem in the wild without wild training data",
+  "descriptionNullable": "### What is Lab2Wild?\n\nTo solve real-world problems, we usually need data collected in the wild. In computer vision tasks it means images with complex backgrounds and natural lighting. However, it is very time-consuming to collect and manually label such data. On the contrary, it is easy to automate image collection in laboratory conditions, and such images are easier to label because of their uniform backgrounds. \n\nThe Lab2Wild dataset challenges you to solve a wild problem using only the lab labeled data.\n\n\n### Features\n\nThis dataset contains images of rotting apples. We use multiple viewpoints, multiple camera types, and different lighting conditions. \nWe also provide various complex background images to use for augmentation. \nThe test set contains images in the wild with segmentation masks. \n\nThe images naming is as follows:\n{year}\\_{month}\\_{date}\\_{hour}\\_{minute}\\_{second}\\_{camera type}\\_{camera viewpoint}\\_{lighting\\_type}\\_{obj / msk}\\_{apple number within this viewpoint}.{jpg / png}\n\nThe values in masks represent:\n*  0 - background\n*  1 - healthy apple\n*  2 - spoiled apple\n\n### Related research\n\nYou can find the code of the proposed object-based augmentation [here](https://github.com/NesterukSergey/segmentation_image_augmentation)\n\nPlease, refer to the following papers for the details:\n```\n@ARTICLE{9721254,\n  author={Nesteruk, Sergey and Illarionova, Svetlana and Akhtyamov, Timur and Shadrin, Dmitrii and Somov, Andrey and Pukalchik, Mariia and Oseledets, Ivan},\n  journal={IEEE Access}, \n  title={XtremeAugment: Getting More From Your Data Through Combination of Image Collection and Image Augmentation}, \n  year={2022},\n  volume={10},\n  number={},\n  pages={24010-24028},\n  doi={10.1109/ACCESS.2022.3154709}}\n\n\n@misc{nesteruk2021image,\n      title={Image Augmentation for Multitask Few-Shot Learning: Agricultural Domain Use-Case}, \n      author={Sergey Nesteruk and Dmitrii Shadrin and Mariia Pukalchik},\n      year={2021},\n      eprint={2102.12295},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV}\n}\n```\n\nMore papers will be added soon.\n",
+  "datasetId": 1519876,
+  "datasetSlug": "apple-rotting-segmentation-problem-in-the-wild",
+  "hasDatasetSlug": true,
+  "ownerUser": "sergeynesteruk",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4080,
+  "totalVotes": 7,
+  "totalDownloads": 148,
+  "title": "Lab2Wild apple rotting segmentation ",
+  "hasTitle": true,
+  "subtitle": "Apple spoiling segmentation problem in the wild without wild training data",
+  "hasSubtitle": true,
+  "description": "### What is Lab2Wild?\n\nTo solve real-world problems, we usually need data collected in the wild. In computer vision tasks it means images with complex backgrounds and natural lighting. However, it is very time-consuming to collect and manually label such data. On the contrary, it is easy to automate image collection in laboratory conditions, and such images are easier to label because of their uniform backgrounds. \n\nThe Lab2Wild dataset challenges you to solve a wild problem using only the lab labeled data.\n\n\n### Features\n\nThis dataset contains images of rotting apples. We use multiple viewpoints, multiple camera types, and different lighting conditions. \nWe also provide various complex background images to use for augmentation. \nThe test set contains images in the wild with segmentation masks. \n\nThe images naming is as follows:\n{year}\\_{month}\\_{date}\\_{hour}\\_{minute}\\_{second}\\_{camera type}\\_{camera viewpoint}\\_{lighting\\_type}\\_{obj / msk}\\_{apple number within this viewpoint}.{jpg / png}\n\nThe values in masks represent:\n*  0 - background\n*  1 - healthy apple\n*  2 - spoiled apple\n\n### Related research\n\nYou can find the code of the proposed object-based augmentation [here](https://github.com/NesterukSergey/segmentation_image_augmentation)\n\nPlease, refer to the following papers for the details:\n```\n@ARTICLE{9721254,\n  author={Nesteruk, Sergey and Illarionova, Svetlana and Akhtyamov, Timur and Shadrin, Dmitrii and Somov, Andrey and Pukalchik, Mariia and Oseledets, Ivan},\n  journal={IEEE Access}, \n  title={XtremeAugment: Getting More From Your Data Through Combination of Image Collection and Image Augmentation}, \n  year={2022},\n  volume={10},\n  number={},\n  pages={24010-24028},\n  doi={10.1109/ACCESS.2022.3154709}}\n\n\n@misc{nesteruk2021image,\n      title={Image Augmentation for Multitask Few-Shot Learning: Agricultural Domain Use-Case}, \n      author={Sergey Nesteruk and Dmitrii Shadrin and Mariia Pukalchik},\n      year={2021},\n      eprint={2102.12295},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV}\n}\n```\n\nMore papers will be added soon.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "agriculture",
+    "computer vision",
+    "time series analysis",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

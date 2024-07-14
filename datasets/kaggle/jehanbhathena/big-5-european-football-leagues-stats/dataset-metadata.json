@@ -1,0 +1,43 @@
+{
+  "id": "jehanbhathena/big-5-european-football-leagues-stats",
+  "id_no": 1701078,
+  "datasetSlugNullable": "big-5-european-football-leagues-stats",
+  "ownerUserNullable": "jehanbhathena",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Top 5 European football leagues teams stats",
+  "subtitleNullable": "The data is for 11 seasons of football(from 2010-2011 to 2020-2021 included) ",
+  "descriptionNullable": "### Context\nThis Dataset contains the data of top 5 European football leagues from 2010/11 season up to 2020/2021.\n\n### Content\n\nThe columns contains stats of teams season by season and can be used to analyze performance of teams over the years.It consists of name of the team/club,games played,number of wins,number of losses,number of draws,points accumulated and other relevant football stats.\n\n\n### Acknowledgements\nCitation: Jordi Grau Escolano, & Albert Geli Taberner. (2021). Big 5 European football leagues: team and player stats [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5651722\n\n### Inspiration\nI love watching football hence I was inspired to find a dataset related to football\n\n### What can this dataset be used for?\nIt can be used for analyzing the performance of a team over the years,predicting the points of a team and other column labels,number of top 4 finishes and number of times the team finished 1st(rank=1),\ntotal points accumlated over all seasons,team with highest points over all the seasons etc.\nIt can also be used to create visualizations on different columns of the dataset",
+  "datasetId": 1701078,
+  "datasetSlug": "big-5-european-football-leagues-stats",
+  "hasDatasetSlug": true,
+  "ownerUser": "jehanbhathena",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 7588,
+  "totalVotes": 24,
+  "totalDownloads": 708,
+  "title": "Top 5 European football leagues teams stats",
+  "hasTitle": true,
+  "subtitle": "The data is for 11 seasons of football(from 2010-2011 to 2020-2021 included) ",
+  "hasSubtitle": true,
+  "description": "### Context\nThis Dataset contains the data of top 5 European football leagues from 2010/11 season up to 2020/2021.\n\n### Content\n\nThe columns contains stats of teams season by season and can be used to analyze performance of teams over the years.It consists of name of the team/club,games played,number of wins,number of losses,number of draws,points accumulated and other relevant football stats.\n\n\n### Acknowledgements\nCitation: Jordi Grau Escolano, & Albert Geli Taberner. (2021). Big 5 European football leagues: team and player stats [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5651722\n\n### Inspiration\nI love watching football hence I was inspired to find a dataset related to football\n\n### What can this dataset be used for?\nIt can be used for analyzing the performance of a team over the years,predicting the points of a team and other column labels,number of top 4 finishes and number of times the team finished 1st(rank=1),\ntotal points accumlated over all seasons,team with highest points over all the seasons etc.\nIt can also be used to create visualizations on different columns of the dataset",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "europe",
+    "sports",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

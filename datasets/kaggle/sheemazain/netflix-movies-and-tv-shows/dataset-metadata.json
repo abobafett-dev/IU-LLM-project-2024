@@ -1,0 +1,37 @@
+{
+  "id": "sheemazain/netflix-movies-and-tv-shows",
+  "id_no": 4986840,
+  "datasetSlugNullable": "netflix-movies-and-tv-shows",
+  "ownerUserNullable": "sheemazain",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Netflix Movies and TV Shows",
+  "subtitleNullable": "",
+  "descriptionNullable": "As of my last update, Netflix doesn't publicly release a comprehensive dataset of its movies and TV shows. However, there are various third-party datasets available that have been compiled by enthusiasts and researchers. These datasets typically include information such as titles, genres, release years, ratings, and sometimes even viewer reviews.\n\nOne popular dataset is the \"Netflix Prize\" dataset, which was released by Netflix for a competition aimed at improving its recommendation algorithm. However, this dataset is quite old and may not include more recent additions to the Netflix library.\n\nAlternatively, you can use web scraping techniques to extract data from Netflix's website, but keep in mind that this may violate their terms of service.\n\nIf you're interested in exploring Netflix data for research or analysis purposes, I recommend checking out platforms like Kaggle, where you might find user-contributed datasets and kernels analyzing Netflix content. Just ensure that you're complying with any usage restrictions and respecting copyright laws when using such data.",
+  "datasetId": 4986840,
+  "datasetSlug": "netflix-movies-and-tv-shows",
+  "hasDatasetSlug": true,
+  "ownerUser": "sheemazain",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 77,
+  "totalVotes": 3,
+  "totalDownloads": 10,
+  "title": "Netflix Movies and TV Shows",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "As of my last update, Netflix doesn't publicly release a comprehensive dataset of its movies and TV shows. However, there are various third-party datasets available that have been compiled by enthusiasts and researchers. These datasets typically include information such as titles, genres, release years, ratings, and sometimes even viewer reviews.\n\nOne popular dataset is the \"Netflix Prize\" dataset, which was released by Netflix for a competition aimed at improving its recommendation algorithm. However, this dataset is quite old and may not include more recent additions to the Netflix library.\n\nAlternatively, you can use web scraping techniques to extract data from Netflix's website, but keep in mind that this may violate their terms of service.\n\nIf you're interested in exploring Netflix data for research or analysis purposes, I recommend checking out platforms like Kaggle, where you might find user-contributed datasets and kernels analyzing Netflix content. Just ensure that you're complying with any usage restrictions and respecting copyright laws when using such data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

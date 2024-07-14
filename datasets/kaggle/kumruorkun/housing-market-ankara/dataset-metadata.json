@@ -1,0 +1,43 @@
+{
+  "id": "kumruorkun/housing-market-ankara",
+  "id_no": 2011725,
+  "datasetSlugNullable": "housing-market-ankara",
+  "ownerUserNullable": "kumruorkun",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Housing Market Ankara",
+  "subtitleNullable": "Housing Prices around Ankara",
+  "descriptionNullable": "\n### The dataset is primarily centered around the housing market of Ankara. The variables are explained below.\n\nid = id of house\n\nfiyat = sales price of house (TL)\n\noda_salon_sayisi = total number of rooms and saloon in the house\n\nnet_m2 = size of house (in m2)\n\nbina_yasi = age of the house (in year)\n\nisinma_tipi = type of heating system for the house\n\nkrediye_uygunluk = situation of suitability for credit\n\nbulundugu_kat = position of the house\n\nbanyo_sayisi = number of bathrooms in the house\n\nilce = name of the district where the house locates in\n\nn\u00fcfus = population of district where the house locates in\n\ne\u011fitim = education level of the district where the house locates in\n\nokuma_yazma_bilmeyen = percentage of the illiterate population of the district where the house locates in\n",
+  "datasetId": 2011725,
+  "datasetSlug": "housing-market-ankara",
+  "hasDatasetSlug": true,
+  "ownerUser": "kumruorkun",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 768,
+  "totalVotes": 5,
+  "totalDownloads": 83,
+  "title": "Housing Market Ankara",
+  "hasTitle": true,
+  "subtitle": "Housing Prices around Ankara",
+  "hasSubtitle": true,
+  "description": "\n### The dataset is primarily centered around the housing market of Ankara. The variables are explained below.\n\nid = id of house\n\nfiyat = sales price of house (TL)\n\noda_salon_sayisi = total number of rooms and saloon in the house\n\nnet_m2 = size of house (in m2)\n\nbina_yasi = age of the house (in year)\n\nisinma_tipi = type of heating system for the house\n\nkrediye_uygunluk = situation of suitability for credit\n\nbulundugu_kat = position of the house\n\nbanyo_sayisi = number of bathrooms in the house\n\nilce = name of the district where the house locates in\n\nn\u00fcfus = population of district where the house locates in\n\ne\u011fitim = education level of the district where the house locates in\n\nokuma_yazma_bilmeyen = percentage of the illiterate population of the district where the house locates in\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "beginner",
+    "intermediate",
+    "tabular",
+    "middle east"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

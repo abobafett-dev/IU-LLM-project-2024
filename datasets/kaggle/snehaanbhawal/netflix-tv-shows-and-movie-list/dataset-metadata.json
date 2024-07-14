@@ -1,0 +1,42 @@
+{
+  "id": "snehaanbhawal/netflix-tv-shows-and-movie-list",
+  "id_no": 1405292,
+  "datasetSlugNullable": "netflix-tv-shows-and-movie-list",
+  "ownerUserNullable": "snehaanbhawal",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Netflix Movie and TV Shows (June 2021)",
+  "subtitleNullable": "Data of 7000 Netflix Movies and TV shows for Recommendation system",
+  "descriptionNullable": "### Context\n\nDataset contains the list and metadata of all TV Shows and Movies available on Netflix currently about 7000 taken from the IMDB website.\nUpvote if you liked it.\n\n\n### Content\n\nnetflix_list.csv\n\n- imdb_id           : Unique show identifier.\n- title                  : Title of the show.\n- popular_rank   : Ranking as given by IMDB when filtered by popularity.\n- certificate        : Contains the age certifications received by the show. Many null values.\n- startYear          : When the show was first broadcasted.\n- endYear           : Year of show ending\n- episodes         : Number of episodes in the show. 1 for movies.\n- type                 : Movie or Series\n- orign_country  : Country of origin of the show\n- language          : Language of the show.\n- plot                   : Synopsis of the show.\n- summary          : Summary of the story of the show.\n- rating               : Average rating given to the show.\n- numVotes        : Number of votes received by the show.\n- genres             : Genre the show belongs to.\n- isAdult             : 1  If adult content present. 0 if not.\n- cast                 : Main cast of the show in list format.\n- image_url        : Link to poster image.\n\n### Acknowledgements\n\nThis is collected from IMDB website\nData collected by web scrapping through the shows ranking pages with filtered to show Netflix related content(16000+ entries) and noting down the imdb_id, followed by single page search for each collected ID and unique title name.\n\n",
+  "datasetId": 1405292,
+  "datasetSlug": "netflix-tv-shows-and-movie-list",
+  "hasDatasetSlug": true,
+  "ownerUser": "snehaanbhawal",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13826,
+  "totalVotes": 29,
+  "totalDownloads": 2161,
+  "title": "Netflix Movie and TV Shows (June 2021)",
+  "hasTitle": true,
+  "subtitle": "Data of 7000 Netflix Movies and TV shows for Recommendation system",
+  "hasSubtitle": true,
+  "description": "### Context\n\nDataset contains the list and metadata of all TV Shows and Movies available on Netflix currently about 7000 taken from the IMDB website.\nUpvote if you liked it.\n\n\n### Content\n\nnetflix_list.csv\n\n- imdb_id           : Unique show identifier.\n- title                  : Title of the show.\n- popular_rank   : Ranking as given by IMDB when filtered by popularity.\n- certificate        : Contains the age certifications received by the show. Many null values.\n- startYear          : When the show was first broadcasted.\n- endYear           : Year of show ending\n- episodes         : Number of episodes in the show. 1 for movies.\n- type                 : Movie or Series\n- orign_country  : Country of origin of the show\n- language          : Language of the show.\n- plot                   : Synopsis of the show.\n- summary          : Summary of the story of the show.\n- rating               : Average rating given to the show.\n- numVotes        : Number of votes received by the show.\n- genres             : Genre the show belongs to.\n- isAdult             : 1  If adult content present. 0 if not.\n- cast                 : Main cast of the show in list format.\n- image_url        : Link to poster image.\n\n### Acknowledgements\n\nThis is collected from IMDB website\nData collected by web scrapping through the shows ranking pages with filtered to show Netflix related content(16000+ entries) and noting down the imdb_id, followed by single page search for each collected ID and unique title name.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "nlp",
+    "recommender systems"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

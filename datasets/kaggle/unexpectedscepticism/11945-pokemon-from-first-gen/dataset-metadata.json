@@ -1,0 +1,43 @@
+{
+  "id": "unexpectedscepticism/11945-pokemon-from-first-gen",
+  "id_no": 1794964,
+  "datasetSlugNullable": "11945-pokemon-from-first-gen",
+  "ownerUserNullable": "unexpectedscepticism",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "11945 Pokemon from First Gen",
+  "subtitleNullable": "11945 different pokemon .jpg images with same aspect ratio and manually cropped.",
+  "descriptionNullable": "### Context\n\nThis dataset was created for a university project for classification with CNN, ResNet and MobileNetV2.\n\n\n### Content\nObject types in dataset:\n- pok\u00e9mon cards\n- plushies\n- anime scenes\n- fanart\n- 3D models\n- pixel art\n\nAll images are in `.jpg` with same aspect ratio. (min res `224x224`)",
+  "datasetId": 1794964,
+  "datasetSlug": "11945-pokemon-from-first-gen",
+  "hasDatasetSlug": true,
+  "ownerUser": "unexpectedscepticism",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 6293,
+  "totalVotes": 39,
+  "totalDownloads": 415,
+  "title": "11945 Pokemon from First Gen",
+  "hasTitle": true,
+  "subtitle": "11945 different pokemon .jpg images with same aspect ratio and manually cropped.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset was created for a university project for classification with CNN, ResNet and MobileNetV2.\n\n\n### Content\nObject types in dataset:\n- pok\u00e9mon cards\n- plushies\n- anime scenes\n- fanart\n- 3D models\n- pixel art\n\nAll images are in `.jpg` with same aspect ratio. (min res `224x224`)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "games",
+    "card games",
+    "classification",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

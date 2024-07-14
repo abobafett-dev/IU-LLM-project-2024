@@ -1,0 +1,43 @@
+{
+  "id": "dk123891/books-dataset-goodreadsmay-2024",
+  "id_no": 5030050,
+  "datasetSlugNullable": "books-dataset-goodreadsmay-2024",
+  "ownerUserNullable": "dk123891",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Books_Dataset_GoodReads(May 2024)",
+  "subtitleNullable": "Analyzing GoodReads: Books, Details, and Insights from User Reviews (May 2024)",
+  "descriptionNullable": "**Description**: This dataset provides a comprehensive collection of data from GoodReads, a popular platform for readers to discover and review books. It includes information on books, book details, and user reviews, offering insights into the literary world.\n\n**Content**:\n- **Books**: The dataset contains information such as book titles, authors, genres, publication dates, and ISBN numbers. Additionally, it includes details about book collections, including the total number of books in each collection and the total votes received for the collection.\n- **Book Details**: Supplementary details about the books, such as summaries, cover images, formats, publication info, and the number of pages.\n- **User Reviews**: User-generated reviews and ratings for the books, along with information about the reviewers, such as their usernames, follower counts, total reviews written, review dates, and review ratings.\n\n**Size**: The dataset is approximately 205MB in size.\n\n**Format**: The dataset files are stored in SQLite(db) and csv format.\n\n**Date Range**: The dataset covers the period of May 2024.\n\n**Source**: The data was collected from GoodReads, a leading platform for book lovers to explore, review, and discuss literature.\n\n**Purpose**: The dataset serves various purposes, including analysis, research, and application in Natural Language Processing (NLP), Deep Learning (DL), and image generation tasks. It can be used to analyze trends in book genres, study user preferences, build recommendation systems, and perform sentiment analysis on user reviews.\n\n**Usage**: Researchers, data scientists, and enthusiasts can leverage this dataset to gain insights into the literary landscape, understand readers' preferences, and develop novel applications in the field of literature analysis and recommendation systems. Potential use cases include analyzing book trends over time, predicting user preferences based on reviews, and generating book cover images using Deep Learning techniques.\n\n**License**: This dataset is released under the MIT License, allowing users to freely use, modify, and distribute the data for both commercial and non-commercial purposes.\n\n**Example Entries**:\n- **Books**:\n  - Book Title: \"To Kill a Mockingbird\"\n    Author: Harper Lee\n    Genre: Fiction\n    Publication Date: July 11, 1960\n    Collection Title: Classic Novels\n    Total Books in Collection: 100\n    Total Votes for Collection: 5000\n\n  - Book Title: \"1984\"\n    Author: George Orwell\n    Genre: Dystopian Fiction\n    Publication Date: June 8, 1949\n    Collection Title: Modern Classics\n    Total Books in Collection: 75\n    Total Votes for Collection: 3500\n  \n- **Book Details**:\n  - Book ID: 123456\n    Title: \"The Great Gatsby\"\n    Cover Image URI: https://example.com/great-gatsby-cover.jpg\n    Format: Paperback\n    Publication Info: Scribner; Reprint edition (May 6, 2003)\n    Authorlink: https://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald\n    Author: F. Scott Fitzgerald\n    Num Pages: 180\n\n- **User Reviews**:\n  - Reviewer ID: user123\n    Reviewer Name: John Doe\n    Likes on Review: 25\n    Review Content: \"This book was fantastic! Couldn't put it down.\"\n    Reviewer Followers: 500\n    Reviewer Total Reviews: 50\n    Review Date: May 15, 2024\n    Review Rating: 5/5\n",
+  "datasetId": 5030050,
+  "datasetSlug": "books-dataset-goodreadsmay-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "dk123891",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3883,
+  "totalVotes": 24,
+  "totalDownloads": 777,
+  "title": "Books_Dataset_GoodReads(May 2024)",
+  "hasTitle": true,
+  "subtitle": "Analyzing GoodReads: Books, Details, and Insights from User Reviews (May 2024)",
+  "hasSubtitle": true,
+  "description": "**Description**: This dataset provides a comprehensive collection of data from GoodReads, a popular platform for readers to discover and review books. It includes information on books, book details, and user reviews, offering insights into the literary world.\n\n**Content**:\n- **Books**: The dataset contains information such as book titles, authors, genres, publication dates, and ISBN numbers. Additionally, it includes details about book collections, including the total number of books in each collection and the total votes received for the collection.\n- **Book Details**: Supplementary details about the books, such as summaries, cover images, formats, publication info, and the number of pages.\n- **User Reviews**: User-generated reviews and ratings for the books, along with information about the reviewers, such as their usernames, follower counts, total reviews written, review dates, and review ratings.\n\n**Size**: The dataset is approximately 205MB in size.\n\n**Format**: The dataset files are stored in SQLite(db) and csv format.\n\n**Date Range**: The dataset covers the period of May 2024.\n\n**Source**: The data was collected from GoodReads, a leading platform for book lovers to explore, review, and discuss literature.\n\n**Purpose**: The dataset serves various purposes, including analysis, research, and application in Natural Language Processing (NLP), Deep Learning (DL), and image generation tasks. It can be used to analyze trends in book genres, study user preferences, build recommendation systems, and perform sentiment analysis on user reviews.\n\n**Usage**: Researchers, data scientists, and enthusiasts can leverage this dataset to gain insights into the literary landscape, understand readers' preferences, and develop novel applications in the field of literature analysis and recommendation systems. Potential use cases include analyzing book trends over time, predicting user preferences based on reviews, and generating book cover images using Deep Learning techniques.\n\n**License**: This dataset is released under the MIT License, allowing users to freely use, modify, and distribute the data for both commercial and non-commercial purposes.\n\n**Example Entries**:\n- **Books**:\n  - Book Title: \"To Kill a Mockingbird\"\n    Author: Harper Lee\n    Genre: Fiction\n    Publication Date: July 11, 1960\n    Collection Title: Classic Novels\n    Total Books in Collection: 100\n    Total Votes for Collection: 5000\n\n  - Book Title: \"1984\"\n    Author: George Orwell\n    Genre: Dystopian Fiction\n    Publication Date: June 8, 1949\n    Collection Title: Modern Classics\n    Total Books in Collection: 75\n    Total Votes for Collection: 3500\n  \n- **Book Details**:\n  - Book ID: 123456\n    Title: \"The Great Gatsby\"\n    Cover Image URI: https://example.com/great-gatsby-cover.jpg\n    Format: Paperback\n    Publication Info: Scribner; Reprint edition (May 6, 2003)\n    Authorlink: https://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald\n    Author: F. Scott Fitzgerald\n    Num Pages: 180\n\n- **User Reviews**:\n  - Reviewer ID: user123\n    Reviewer Name: John Doe\n    Likes on Review: 25\n    Review Content: \"This book was fantastic! Couldn't put it down.\"\n    Reviewer Followers: 500\n    Reviewer Total Reviews: 50\n    Review Date: May 15, 2024\n    Review Rating: 5/5\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "intermediate",
+    "advanced",
+    "image",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

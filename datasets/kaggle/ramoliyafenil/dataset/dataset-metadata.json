@@ -1,0 +1,43 @@
+{
+  "id": "ramoliyafenil/dataset",
+  "id_no": 3632964,
+  "datasetSlugNullable": "dataset",
+  "ownerUserNullable": "ramoliyafenil",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "The Flavors of India: A Recipe Collection",
+  "subtitleNullable": "Discover the Rich Culinary Heritage of India",
+  "descriptionNullable": "This dataset is a meticulously curated collection of authentic Indian recipes, capturing the diverse flavors and culinary traditions from various regions of the subcontinent. Each recipe provides detailed information, including the recipe name, a list of ingredients, total cooking time, cuisine type, a full description, a shortened and cleaned version of the description, the ingredient count, and a URL for reference. This comprehensive dataset offers a gateway to explore the vibrant and flavorful world of Indian cuisine, catering to food enthusiasts, chefs, and culinary researchers alike.\nPotential Real-World Applications and Advanced Usefulness:\n**1) Personalized Meal Planning and Recommendation Systems:** This dataset can be utilized to develop intelligent recommendation systems that suggest personalized meal plans or recipe recommendations based on an individual's dietary preferences, allergies, and taste profiles.\n**2) Nutritional Analysis and Dietary Guidance:** By combining this dataset with nutritional information, researchers and healthcare professionals can conduct in-depth analyses to provide dietary guidance, identify healthier alternatives, and support individuals with specific dietary requirements or health conditions.\n**3) Cultural and Culinary Education:** Educational institutions, culinary schools, and cultural organizations can leverage this dataset to develop interactive learning resources, teaching materials, or online courses focused on Indian cuisine, its history, and its cultural significance.\n**4) Food Industry Research and Development:** Food manufacturers, restaurants, and catering services can utilize this dataset to conduct market research, identify emerging trends, and develop new products or menu offerings tailored to specific regional preferences or dietary needs.\n**5) Computational Gastronomy and Flavor Analysis:** Researchers in the field of computational gastronomy can use this dataset to explore flavor combinations, ingredient interactions, and develop predictive models for novel recipe creation or flavor enhancement.\n**6) Culinary Tourism and Travel Planning:** Travel agencies, tour operators, and online platforms can integrate this dataset into their services, enabling travelers to plan culinary experiences, explore local cuisines, and discover authentic restaurants or cooking classes in various regions of India.\n**7) Food Photography and Content Creation:** Food bloggers, photographers, and content creators can leverage the descriptions and visuals from this dataset to enhance their storytelling, create engaging food-related content, and inspire their audiences with the rich flavors and traditions of Indian cuisine.",
+  "datasetId": 3632964,
+  "datasetSlug": "dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ramoliyafenil",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 141,
+  "totalVotes": 7,
+  "totalDownloads": 31,
+  "title": "The Flavors of India: A Recipe Collection",
+  "hasTitle": true,
+  "subtitle": "Discover the Rich Culinary Heritage of India",
+  "hasSubtitle": true,
+  "description": "This dataset is a meticulously curated collection of authentic Indian recipes, capturing the diverse flavors and culinary traditions from various regions of the subcontinent. Each recipe provides detailed information, including the recipe name, a list of ingredients, total cooking time, cuisine type, a full description, a shortened and cleaned version of the description, the ingredient count, and a URL for reference. This comprehensive dataset offers a gateway to explore the vibrant and flavorful world of Indian cuisine, catering to food enthusiasts, chefs, and culinary researchers alike.\nPotential Real-World Applications and Advanced Usefulness:\n**1) Personalized Meal Planning and Recommendation Systems:** This dataset can be utilized to develop intelligent recommendation systems that suggest personalized meal plans or recipe recommendations based on an individual's dietary preferences, allergies, and taste profiles.\n**2) Nutritional Analysis and Dietary Guidance:** By combining this dataset with nutritional information, researchers and healthcare professionals can conduct in-depth analyses to provide dietary guidance, identify healthier alternatives, and support individuals with specific dietary requirements or health conditions.\n**3) Cultural and Culinary Education:** Educational institutions, culinary schools, and cultural organizations can leverage this dataset to develop interactive learning resources, teaching materials, or online courses focused on Indian cuisine, its history, and its cultural significance.\n**4) Food Industry Research and Development:** Food manufacturers, restaurants, and catering services can utilize this dataset to conduct market research, identify emerging trends, and develop new products or menu offerings tailored to specific regional preferences or dietary needs.\n**5) Computational Gastronomy and Flavor Analysis:** Researchers in the field of computational gastronomy can use this dataset to explore flavor combinations, ingredient interactions, and develop predictive models for novel recipe creation or flavor enhancement.\n**6) Culinary Tourism and Travel Planning:** Travel agencies, tour operators, and online platforms can integrate this dataset into their services, enabling travelers to plan culinary experiences, explore local cuisines, and discover authentic restaurants or cooking classes in various regions of India.\n**7) Food Photography and Content Creation:** Food bloggers, photographers, and content creators can leverage the descriptions and visuals from this dataset to enhance their storytelling, create engaging food-related content, and inspire their audiences with the rich flavors and traditions of Indian cuisine.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "clustering",
+    "recommender systems",
+    "cooking and recipes",
+    "holidays and cultural events"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

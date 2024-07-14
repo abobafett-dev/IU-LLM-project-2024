@@ -1,0 +1,43 @@
+{
+  "id": "deepann/4000-laptops-data-from-gadgets360",
+  "id_no": 1074924,
+  "datasetSlugNullable": "4000-laptops-data-from-gadgets360",
+  "ownerUserNullable": "deepann",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Gadgets360 Electronics Dataset",
+  "subtitleNullable": "Laptop Mobile Gaming Console Camera Headphone Tablets Smart Watch",
+  "descriptionNullable": "This dataset was collected using this script: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e0CRm7L6rAZAtv1eLzbrZJ-lydnzGzns?usp=sharing)\n\n## What does this contain?\n\nThis dataset contains whatever information about **4000** electronic gadgets that could be scraped from the **Gadget360** website, which was created by **NDTV** , an Indian news media company that focuses on broadcast and digital news publication. They deserve a huge thank you for making this dataset possible. The majority of the columns contain useful information that can help you understand your device better, ranging from wearables to consoles to cameras, but cleaning is required for the majority of them. When compared to the same data provided in CSV format, all JSON files for a particular product contain more information about the product. This dataset was designed to limit the number of columns in tabular format while also providing the most relevant and complete data to kagglers, allowing them to spend less time preprocessing.\n\n## What can be done with this?\n\nI have provided data for all the gadgets in 2 formats: CSV and JSON. These can be used to practice data cleaning procedures and regrexes, after cleaning, procedures like EDA, feature selection, clustering and many more things can be done. JSON based data can also be used to create dashboards and product recommendation based web apps.\n\n***P.S. :*** *Due to the increased number of columns and the fact that most of the columns were self-descriptive, I wasn't able to incorporate column descriptors for the majority of the time..*",
+  "datasetId": 1074924,
+  "datasetSlug": "4000-laptops-data-from-gadgets360",
+  "hasDatasetSlug": true,
+  "ownerUser": "deepann",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 9091,
+  "totalVotes": 20,
+  "totalDownloads": 1214,
+  "title": "Gadgets360 Electronics Dataset",
+  "hasTitle": true,
+  "subtitle": "Laptop Mobile Gaming Console Camera Headphone Tablets Smart Watch",
+  "hasSubtitle": true,
+  "description": "This dataset was collected using this script: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e0CRm7L6rAZAtv1eLzbrZJ-lydnzGzns?usp=sharing)\n\n## What does this contain?\n\nThis dataset contains whatever information about **4000** electronic gadgets that could be scraped from the **Gadget360** website, which was created by **NDTV** , an Indian news media company that focuses on broadcast and digital news publication. They deserve a huge thank you for making this dataset possible. The majority of the columns contain useful information that can help you understand your device better, ranging from wearables to consoles to cameras, but cleaning is required for the majority of them. When compared to the same data provided in CSV format, all JSON files for a particular product contain more information about the product. This dataset was designed to limit the number of columns in tabular format while also providing the most relevant and complete data to kagglers, allowing them to spend less time preprocessing.\n\n## What can be done with this?\n\nI have provided data for all the gadgets in 2 formats: CSV and JSON. These can be used to practice data cleaning procedures and regrexes, after cleaning, procedures like EDA, feature selection, clustering and many more things can be done. JSON based data can also be used to create dashboards and product recommendation based web apps.\n\n***P.S. :*** *Due to the increased number of columns and the fact that most of the columns were self-descriptive, I wasn't able to incorporate column descriptors for the majority of the time..*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health and fitness",
+    "internet",
+    "electronics",
+    "retail and shopping",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

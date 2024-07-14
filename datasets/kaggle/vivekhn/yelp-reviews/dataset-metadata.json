@@ -1,0 +1,39 @@
+{
+  "id": "vivekhn/yelp-reviews",
+  "id_no": 785632,
+  "datasetSlugNullable": "yelp-reviews",
+  "ownerUserNullable": "vivekhn",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Yelp Reviews",
+  "subtitleNullable": "Business rating given by a customer, ranging from 1 to 5",
+  "descriptionNullable": "\n\n\n### About\nData set consists of Yelp reviews.\nNumber of 'stars' indicate the business rating given by a customer, ranging from 1 to 5\n'Cool', 'Useful' and 'Funny' indicate the number of cool votes given by other Yelp users.\n\n\n### Acknowledgements\n\nDataset Credit: https://www.udemy.com/course/deep-learning-machine-learning-practical/\nPhoto Credit: https://commons.wikimedia.org/wiki/File:Yelp_Logo.svg\n",
+  "datasetId": 785632,
+  "datasetSlug": "yelp-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "vivekhn",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 2679,
+  "totalVotes": 7,
+  "totalDownloads": 202,
+  "title": "Yelp Reviews",
+  "hasTitle": true,
+  "subtitle": "Business rating given by a customer, ranging from 1 to 5",
+  "hasSubtitle": true,
+  "description": "\n\n\n### About\nData set consists of Yelp reviews.\nNumber of 'stars' indicate the business rating given by a customer, ranging from 1 to 5\n'Cool', 'Useful' and 'Funny' indicate the number of cool votes given by other Yelp users.\n\n\n### Acknowledgements\n\nDataset Credit: https://www.udemy.com/course/deep-learning-machine-learning-practical/\nPhoto Credit: https://commons.wikimedia.org/wiki/File:Yelp_Logo.svg\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

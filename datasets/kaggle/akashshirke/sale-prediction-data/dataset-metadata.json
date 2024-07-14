@@ -1,0 +1,43 @@
+{
+  "id": "akashshirke/sale-prediction-data",
+  "id_no": 2909132,
+  "datasetSlugNullable": "sale-prediction-data",
+  "ownerUserNullable": "akashshirke",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Sale Prediction Data",
+  "subtitleNullable": "Predict sales by using linear regression",
+  "descriptionNullable": "Use the advertising dataset given in ISLR and analysis the relationship between 'TV' and\n'sales' using a simple linear regression model",
+  "datasetId": 2909132,
+  "datasetSlug": "sale-prediction-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "akashshirke",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 819,
+  "totalVotes": 3,
+  "totalDownloads": 98,
+  "title": "Sale Prediction Data",
+  "hasTitle": true,
+  "subtitle": "Predict sales by using linear regression",
+  "hasSubtitle": true,
+  "description": "Use the advertising dataset given in ISLR and analysis the relationship between 'TV' and\n'sales' using a simple linear regression model",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "asia",
+    "beginner",
+    "feature engineering",
+    "linear regression",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

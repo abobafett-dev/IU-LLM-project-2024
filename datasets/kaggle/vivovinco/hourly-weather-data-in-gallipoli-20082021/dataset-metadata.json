@@ -1,0 +1,41 @@
+{
+  "id": "vivovinco/hourly-weather-data-in-gallipoli-20082021",
+  "id_no": 1865621,
+  "datasetSlugNullable": "hourly-weather-data-in-gallipoli-20082021",
+  "ownerUserNullable": "vivovinco",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Hourly Weather Data in Gallipoli (2008-2021)",
+  "subtitleNullable": "Hourly weather data between 2008 and 2021 for Gallipoli, Turkey.",
+  "descriptionNullable": "### Context\n\nThis dataset contains hourly weather data between 2008 and 2021 for Gallipoli, Turkey.\n\n\n### Content\n\n+120.000 rows and 10 columns.\nColumns' description are listed below.\n\n* DateTime : Datetime in \"dd.mm.yyyy hh:mm\" format\n* Temperature : Temperature at 2 m in \u00b0C\n* Sunshine Duration : Sunshine duration in min\n* Shortwave Radiation : Shortwave radiation in W/m\u00b2\n* Relative Humidity : Relative Humidity at 2 m in %\n* Mean Sea Level Pressure : Mean Sea Level Pressure (MSL) in hPa\n* Soil Temperature : Soil temperature at 0-10 cm down in \u00b0C\n* Soil Moisture : Soil moisture at 0-10 cm down in m\u00b3/m\u00b3\n* Wind Speed : Wind speed at 10 m in km/h\n* Wind Direction : Wind direction at 10 m in degrees\n\n\n### Acknowledgements\n\nData from [Meteoblue](https://www.meteoblue.com/).\nImage from [Anadolu Agency](https://www.aa.com.tr/en/asia-pacific/turkeys-gallipoli-anniversary-marked-in-pakistan/1089591).\n\n**If you're reading this, please upvote.**",
+  "datasetId": 1865621,
+  "datasetSlug": "hourly-weather-data-in-gallipoli-20082021",
+  "hasDatasetSlug": true,
+  "ownerUser": "vivovinco",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2617,
+  "totalVotes": 19,
+  "totalDownloads": 277,
+  "title": "Hourly Weather Data in Gallipoli (2008-2021)",
+  "hasTitle": true,
+  "subtitle": "Hourly weather data between 2008 and 2021 for Gallipoli, Turkey.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains hourly weather data between 2008 and 2021 for Gallipoli, Turkey.\n\n\n### Content\n\n+120.000 rows and 10 columns.\nColumns' description are listed below.\n\n* DateTime : Datetime in \"dd.mm.yyyy hh:mm\" format\n* Temperature : Temperature at 2 m in \u00b0C\n* Sunshine Duration : Sunshine duration in min\n* Shortwave Radiation : Shortwave radiation in W/m\u00b2\n* Relative Humidity : Relative Humidity at 2 m in %\n* Mean Sea Level Pressure : Mean Sea Level Pressure (MSL) in hPa\n* Soil Temperature : Soil temperature at 0-10 cm down in \u00b0C\n* Soil Moisture : Soil moisture at 0-10 cm down in m\u00b3/m\u00b3\n* Wind Speed : Wind speed at 10 m in km/h\n* Wind Direction : Wind direction at 10 m in degrees\n\n\n### Acknowledgements\n\nData from [Meteoblue](https://www.meteoblue.com/).\nImage from [Anadolu Agency](https://www.aa.com.tr/en/asia-pacific/turkeys-gallipoli-anniversary-marked-in-pakistan/1089591).\n\n**If you're reading this, please upvote.**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "weather and climate",
+    "time series analysis",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

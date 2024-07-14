@@ -1,0 +1,41 @@
+{
+  "id": "claireyhc/event-code-count-for-6-countries",
+  "id_no": 30626,
+  "datasetSlugNullable": "event-code-count-for-6-countries",
+  "ownerUserNullable": "claireyhc",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "GDELT Project Data Subset",
+  "subtitleNullable": "subset of data for 6 countries",
+  "descriptionNullable": "### Context\n\nAs mentioned on gdeltproject.org:  \n\nA Global Database of Society\n\nSupported by Google Jigsaw, the GDELT Project monitors the world's broadcast, print, and web news from nearly every corner of every country in over 100 languages and identifies the people, locations, organizations, themes, sources, emotions, counts, quotes, images and events driving our global society every second of every day, creating a free open platform for computing on the entire world.\n\n\n### Content\n\nRaw datafiles based on the date it was added to the GDELT 1.0 database covering a 2 year period from March 23, 2016 to March 22, 2018 were downloaded from source: http://data.gdeltproject.org/events/index.html.\n\nOnce downloaded, the daily files were merged into one datafile which was then loaded into a Hive database table. The table was partitioned by country. Six random countries were chosen: Australia, Belgium, France, India, Japan, and New Zealand. Queries were used to output different attributes and aggregations for each country. The results of the queries were reformatted in Excel and then saved as a csv file.  My goal was to take a big dataset and bring it down to a manageable size that I could use for simple visualizations.\n\n\n### Acknowledgements\n\nGDELT Project website https://www.gdeltproject.org/\n\n\n### Inspiration\n\nTaking a deeper dive into the event codes used to categorize the news events, we can get an idea of the general public sentiment in each country.  The event code classification is according to the [Conflict and Mediation Event Observations (CAMEO)][1] framework for event data research.\n\n\n  [1]: http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf",
+  "datasetId": 30626,
+  "datasetSlug": "event-code-count-for-6-countries",
+  "hasDatasetSlug": true,
+  "ownerUser": "claireyhc",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 3611,
+  "totalVotes": 2,
+  "totalDownloads": 83,
+  "title": "GDELT Project Data Subset",
+  "hasTitle": true,
+  "subtitle": "subset of data for 6 countries",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAs mentioned on gdeltproject.org:  \n\nA Global Database of Society\n\nSupported by Google Jigsaw, the GDELT Project monitors the world's broadcast, print, and web news from nearly every corner of every country in over 100 languages and identifies the people, locations, organizations, themes, sources, emotions, counts, quotes, images and events driving our global society every second of every day, creating a free open platform for computing on the entire world.\n\n\n### Content\n\nRaw datafiles based on the date it was added to the GDELT 1.0 database covering a 2 year period from March 23, 2016 to March 22, 2018 were downloaded from source: http://data.gdeltproject.org/events/index.html.\n\nOnce downloaded, the daily files were merged into one datafile which was then loaded into a Hive database table. The table was partitioned by country. Six random countries were chosen: Australia, Belgium, France, India, Japan, and New Zealand. Queries were used to output different attributes and aggregations for each country. The results of the queries were reformatted in Excel and then saved as a csv file.  My goal was to take a big dataset and bring it down to a manageable size that I could use for simple visualizations.\n\n\n### Acknowledgements\n\nGDELT Project website https://www.gdeltproject.org/\n\n\n### Inspiration\n\nTaking a deeper dive into the event codes used to categorize the news events, we can get an idea of the general public sentiment in each country.  The event code classification is according to the [Conflict and Mediation Event Observations (CAMEO)][1] framework for event data research.\n\n\n  [1]: http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature",
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

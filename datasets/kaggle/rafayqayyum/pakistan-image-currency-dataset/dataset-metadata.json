@@ -1,0 +1,43 @@
+{
+  "id": "rafayqayyum/pakistan-image-currency-dataset",
+  "id_no": 3363933,
+  "datasetSlugNullable": "pakistan-image-currency-dataset",
+  "ownerUserNullable": "rafayqayyum",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Pakistani Currency Image Dataset",
+  "subtitleNullable": "Image dataset of Pakistani Currency Notes",
+  "descriptionNullable": "# Pakistani Currency Image Dataset\n\nThis dataset contains a collection of banknote images, categorized into various denominations and orientations. It consists of a total of 3,891 images, divided into multiple classes representing different combinations of denominations (10, 20, 50, 100, 500,5000 and others) and orientations (front and back).\n\nThe dataset is structured as follows:\n\n1. **10_back:** This folder contains 279 images of 10-PKR banknotes captured from their backside.\n\n2. **10_front:** This folder contains 268 images of 10-PKR banknotes captured from their front side.\n\n3. **20_back:** This folder consists of 258 images of 20-PKR banknotes captured from their backside.\n\n4. **20_front:** This folder includes 248 images of 20-PKR banknotes captured from their front side.\n\n5. **50_back:** This folder contains 253 images of 50-PKR banknotes captured from their backside.\n\n6. **50_front:** This folder includes 240 images of 50-PKR banknotes captured from their front side.\n\n7. **100_back:** This folder consists of 281 images of 100-PKR banknotes captured from their backside.\n\n8. **100_front:** This folder contains 280 images of 100-PKR banknotes captured from their front side.\n\n9. **500_back:** This folder includes 261 images of 500-PKR banknotes captured from their backside.\n\n10. **500_front:** This folder contains 262 images of 500-PKR banknotes captured from their front side.\n\n11. **1000_back:** This folder consists of 236 images of 1000-PKR banknotes captured from their backside.\n\n12. **1000_front:** This folder contains 227 images of 1000-PKR banknotes captured from their front side.\n\n13. **5000_back:** This folder includes 261 images of 5000-PKR banknotes captured from their backside.\n\n14. **5000_front:** This folder contains 257 images of 5000-PKR banknotes captured from their front side.\n\n15. **Others:** This folder contains 280 miscellaneous images that do not fall into any of the specific denomination and orientation categories mentioned above. These are random images and some images of paper with number written on them,\n\nThis dataset can be used for various tasks, such as image classification, object recognition, and machine learning research related to banknote analysis. It provides a diverse collection of banknote images with different denominations and orientations, enabling the development and evaluation of algorithms for banknote detection and classification. Researchers, data scientists, and machine learning enthusiasts can utilize this dataset for training and evaluating their models in the context of banknote recognition and authentication.\n\n**Note: The dataset provided here is for research and educational purposes only and does not endorse or promote any illegal activities involving banknotes.**",
+  "datasetId": 3363933,
+  "datasetSlug": "pakistan-image-currency-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rafayqayyum",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 805,
+  "totalVotes": 5,
+  "totalDownloads": 140,
+  "title": "Pakistani Currency Image Dataset",
+  "hasTitle": true,
+  "subtitle": "Image dataset of Pakistani Currency Notes",
+  "hasSubtitle": true,
+  "description": "# Pakistani Currency Image Dataset\n\nThis dataset contains a collection of banknote images, categorized into various denominations and orientations. It consists of a total of 3,891 images, divided into multiple classes representing different combinations of denominations (10, 20, 50, 100, 500,5000 and others) and orientations (front and back).\n\nThe dataset is structured as follows:\n\n1. **10_back:** This folder contains 279 images of 10-PKR banknotes captured from their backside.\n\n2. **10_front:** This folder contains 268 images of 10-PKR banknotes captured from their front side.\n\n3. **20_back:** This folder consists of 258 images of 20-PKR banknotes captured from their backside.\n\n4. **20_front:** This folder includes 248 images of 20-PKR banknotes captured from their front side.\n\n5. **50_back:** This folder contains 253 images of 50-PKR banknotes captured from their backside.\n\n6. **50_front:** This folder includes 240 images of 50-PKR banknotes captured from their front side.\n\n7. **100_back:** This folder consists of 281 images of 100-PKR banknotes captured from their backside.\n\n8. **100_front:** This folder contains 280 images of 100-PKR banknotes captured from their front side.\n\n9. **500_back:** This folder includes 261 images of 500-PKR banknotes captured from their backside.\n\n10. **500_front:** This folder contains 262 images of 500-PKR banknotes captured from their front side.\n\n11. **1000_back:** This folder consists of 236 images of 1000-PKR banknotes captured from their backside.\n\n12. **1000_front:** This folder contains 227 images of 1000-PKR banknotes captured from their front side.\n\n13. **5000_back:** This folder includes 261 images of 5000-PKR banknotes captured from their backside.\n\n14. **5000_front:** This folder contains 257 images of 5000-PKR banknotes captured from their front side.\n\n15. **Others:** This folder contains 280 miscellaneous images that do not fall into any of the specific denomination and orientation categories mentioned above. These are random images and some images of paper with number written on them,\n\nThis dataset can be used for various tasks, such as image classification, object recognition, and machine learning research related to banknote analysis. It provides a diverse collection of banknote images with different denominations and orientations, enabling the development and evaluation of algorithms for banknote detection and classification. Researchers, data scientists, and machine learning enthusiasts can utilize this dataset for training and evaluating their models in the context of banknote recognition and authentication.\n\n**Note: The dataset provided here is for research and educational purposes only and does not endorse or promote any illegal activities involving banknotes.**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "image",
+    "currencies and foreign exchange",
+    "urdu"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

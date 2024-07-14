@@ -1,0 +1,46 @@
+{
+  "id": "avnishtripathi/forehead-detection-dataset",
+  "id_no": 3350712,
+  "datasetSlugNullable": "forehead-detection-dataset",
+  "ownerUserNullable": "avnishtripathi",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Forehead Detection Dataset",
+  "subtitleNullable": "Dataset designed for forehead co-ordinates at various orientations in an image.",
+  "descriptionNullable": "# Forehead Detection Dataset\n\n## Overview\nThe Forehead Detection Dataset is a collection of human images with annotated forehead regions. The dataset includes images captured from various sources, showcasing different orientations and varying motion artifacts. The annotated bounding box coordinates (upper-left and bottom-right) are provided for each forehead region. This dataset is designed to assist in training machine learning and deep learning models for facial feature recognition, specifically focusing on variations caused by head movements.\n\n## Key Features\n- *Images*: The dataset contains a diverse range of human facial images with annotated forehead regions.\n- *Annotations*: Each image is accompanied by bounding box annotations indicating the forehead's location within the image. The annotations provide the upper-left and bottom-right coordinates of the bounding box.\n- *Variations*: The dataset captures variations in head orientation and motion artifacts, making it suitable for studying the effects of motion on facial features.\n- *Applications*: This dataset can be leveraged to train models that handle motion artifacts in videos, enabling better understanding and recognition of facial features across dynamic scenarios.\n\n## Potential Use Cases\n- *Facial Feature Recognition*: The dataset can be utilized to train machine learning and deep learning models for accurate detection and recognition of forehead regions within human faces.\n- *Motion Artifact Handling*: Researchers can develop algorithms and models to address the challenges posed by motion artifacts in videos, leading to improved video analysis and understanding of facial expressions.\n- *Facial Animation*: By leveraging the dataset, developers and animators can create realistic facial animations that account for head movements and variations.\n\n## Dataset Format\nThe dataset is provided in a structured format, including the following components:\n- A collection of human facial images in common image formats ( JPG) stored in a designated folder.\n- A corresponding annotation file in json format with the same name as the image filenames and their respective forehead bounding box coordinates (upper-left and bottom-right).\n\n## Dataset Usage\nResearchers and practitioners can utilize this dataset for:\n- Training and evaluating facial feature recognition models.\n- Developing algorithms to handle motion artifacts in videos.\n- Conducting experiments and studies on facial variation due to head movements.\n---\n\nThank you for your interest in the Forehead detection Dataset. We hope this dataset will contribute to advancements in facial feature recognition and motion artifact handling. For any inquiries or feedback, please feel free to contact us.",
+  "datasetId": 3350712,
+  "datasetSlug": "forehead-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "avnishtripathi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 302,
+  "totalVotes": 0,
+  "totalDownloads": 17,
+  "title": "Forehead Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset designed for forehead co-ordinates at various orientations in an image.",
+  "hasSubtitle": true,
+  "description": "# Forehead Detection Dataset\n\n## Overview\nThe Forehead Detection Dataset is a collection of human images with annotated forehead regions. The dataset includes images captured from various sources, showcasing different orientations and varying motion artifacts. The annotated bounding box coordinates (upper-left and bottom-right) are provided for each forehead region. This dataset is designed to assist in training machine learning and deep learning models for facial feature recognition, specifically focusing on variations caused by head movements.\n\n## Key Features\n- *Images*: The dataset contains a diverse range of human facial images with annotated forehead regions.\n- *Annotations*: Each image is accompanied by bounding box annotations indicating the forehead's location within the image. The annotations provide the upper-left and bottom-right coordinates of the bounding box.\n- *Variations*: The dataset captures variations in head orientation and motion artifacts, making it suitable for studying the effects of motion on facial features.\n- *Applications*: This dataset can be leveraged to train models that handle motion artifacts in videos, enabling better understanding and recognition of facial features across dynamic scenarios.\n\n## Potential Use Cases\n- *Facial Feature Recognition*: The dataset can be utilized to train machine learning and deep learning models for accurate detection and recognition of forehead regions within human faces.\n- *Motion Artifact Handling*: Researchers can develop algorithms and models to address the challenges posed by motion artifacts in videos, leading to improved video analysis and understanding of facial expressions.\n- *Facial Animation*: By leveraging the dataset, developers and animators can create realistic facial animations that account for head movements and variations.\n\n## Dataset Format\nThe dataset is provided in a structured format, including the following components:\n- A collection of human facial images in common image formats ( JPG) stored in a designated folder.\n- A corresponding annotation file in json format with the same name as the image filenames and their respective forehead bounding box coordinates (upper-left and bottom-right).\n\n## Dataset Usage\nResearchers and practitioners can utilize this dataset for:\n- Training and evaluating facial feature recognition models.\n- Developing algorithms to handle motion artifacts in videos.\n- Conducting experiments and studies on facial variation due to head movements.\n---\n\nThank you for your interest in the Forehead detection Dataset. We hope this dataset will contribute to advancements in facial feature recognition and motion artifact handling. For any inquiries or feedback, please feel free to contact us.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature",
+    "biology"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "allanrobey",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

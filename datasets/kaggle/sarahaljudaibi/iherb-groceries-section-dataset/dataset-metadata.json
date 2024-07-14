@@ -1,0 +1,41 @@
+{
+  "id": "sarahaljudaibi/iherb-groceries-section-dataset",
+  "id_no": 600633,
+  "datasetSlugNullable": "iherb-groceries-section-dataset",
+  "ownerUserNullable": "sarahaljudaibi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Iherb Groceries Section Dataset",
+  "subtitleNullable": "12 different categories under Groceries section",
+  "descriptionNullable": "### Context:\n\nThis data was gathered as part of the data mining project for General Assembly Data Science Immersive course.\n\n### Dataset Description:\n\nFor this project, I choose the Iherb website. this website is famous around the world for groceries and health care products for a reasonable price. One of the benefits of these products it has good customer services and you can find also a lot of customer's experience with its products. On this website, the data were gathered from 12 different categories under the  groceries section: Tea, Coffee, Cocoa, Coconut, Chocolate & Candies, Snack Bars, Vinegar & Oils, Seeds & Nuts, Spices, Breakfast, Fruit & & Vegetables, and Flour mixs\n\n\nThe quality column was self-explanatory, from this link [How to Measure the Quality of Your Product](https://danielelizalde.com/how-to-define-and-measure-the-quality-of-your-product/), I defined the quality of the products based on the customer's satisfaction and rating on the products\n\n\n###  Data Dictionary:\n\n- product id: The product unique id\n- product name: The product name\n- product company: The product company name\n- product flavour: The type of the product and what it's contained\n- category: The product category \n- product size: The product size in grams\n- product price: The product price or if it's not available\n- product rate: The product rate based on customer satisfaction from 1 to 5\n- one star: Number of customers who rate the product one star\n- two star: Number of customers who rate the product two stars\n- three star: Number of customers who rate the product three stars\n- four star: Number of customers who rate the product four stars\n- five star: Number of customers who rate the product five stars\n- reviews number: The total number of customers review in for product\n- product quality: The quality of the products based on customers satisfaction and the rate of the product \n\n### Inspiration:\n* Product Quality: Do you enjoy a good quality product? why you don't let the machine discover which products are excellent for you.\n* prices prediction: why not play around more and predict the prices of the products based on the giving features\n* Feature Engineering: be creative and create new features from this dataset \n\n### Acknowledgement:\nthanks to Iherb website for this amazing data.",
+  "datasetId": 600633,
+  "datasetSlug": "iherb-groceries-section-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sarahaljudaibi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7458,
+  "totalVotes": 10,
+  "totalDownloads": 485,
+  "title": "Iherb Groceries Section Dataset",
+  "hasTitle": true,
+  "subtitle": "12 different categories under Groceries section",
+  "hasSubtitle": true,
+  "description": "### Context:\n\nThis data was gathered as part of the data mining project for General Assembly Data Science Immersive course.\n\n### Dataset Description:\n\nFor this project, I choose the Iherb website. this website is famous around the world for groceries and health care products for a reasonable price. One of the benefits of these products it has good customer services and you can find also a lot of customer's experience with its products. On this website, the data were gathered from 12 different categories under the  groceries section: Tea, Coffee, Cocoa, Coconut, Chocolate & Candies, Snack Bars, Vinegar & Oils, Seeds & Nuts, Spices, Breakfast, Fruit & & Vegetables, and Flour mixs\n\n\nThe quality column was self-explanatory, from this link [How to Measure the Quality of Your Product](https://danielelizalde.com/how-to-define-and-measure-the-quality-of-your-product/), I defined the quality of the products based on the customer's satisfaction and rating on the products\n\n\n###  Data Dictionary:\n\n- product id: The product unique id\n- product name: The product name\n- product company: The product company name\n- product flavour: The type of the product and what it's contained\n- category: The product category \n- product size: The product size in grams\n- product price: The product price or if it's not available\n- product rate: The product rate based on customer satisfaction from 1 to 5\n- one star: Number of customers who rate the product one star\n- two star: Number of customers who rate the product two stars\n- three star: Number of customers who rate the product three stars\n- four star: Number of customers who rate the product four stars\n- five star: Number of customers who rate the product five stars\n- reviews number: The total number of customers review in for product\n- product quality: The quality of the products based on customers satisfaction and the rate of the product \n\n### Inspiration:\n* Product Quality: Do you enjoy a good quality product? why you don't let the machine discover which products are excellent for you.\n* prices prediction: why not play around more and predict the prices of the products based on the giving features\n* Feature Engineering: be creative and create new features from this dataset \n\n### Acknowledgement:\nthanks to Iherb website for this amazing data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

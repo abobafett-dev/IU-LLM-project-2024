@@ -1,0 +1,43 @@
+{
+  "id": "bryanb/standup-targets",
+  "id_no": 2431543,
+  "datasetSlugNullable": "standup-targets",
+  "ownerUserNullable": "bryanb",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Stand-up Targets",
+  "subtitleNullable": "Can you help retrieving the exact score using image analysis ?",
+  "descriptionNullable": "# Stand-up Targets\n\nThe dataset was manually created from a blank image of a shooting target. Casual or Professionals, Airsoft, Hunting, Law enforcement, Military, Precision shooting, Long distance shooting, Sport shooting lovers or not, this dataset is a great playground to learn and apply latest computer vision technics.\n\nData is already annotated, you can train any computer vision algorithm to perform detection, segmentation, classification etc...\n\n# Methodology regarding the data aquisition and preparation\n\n1. Recovery of the image on [this website](https://www.conditionsextremes.com/cible-de-tir/9631-cible-silhouette-30x45cm-birchwood-casey.html?gclid=Cj0KCQjw9ZGYBhCEARIsAEUXITUoNqJB2zI0oCLeHu9lxuJOTF3zg-G8fDwkpBNrw_jMoyhq21-ouUMaAs7uEALw_wcB)\n\n2. Recovery of 5 different bullet holes to reinforce the detection capacity of the algorithm\n\n3. Duplication of the images 1000 for the training set and 250 for the test set.\n\n4. Manual addition of impacts on each image. The number of impacts varies from 1 to 5 and is distributed equally between each bullet impact on the data sets\n\n5. Manual annotation of each image via https://www.makesense.ai/\n\n6. Preprocessing to retrieve the number of impacts per image, the number of points scored. \n\n\n# What am I predicting?\nYou are attempting to predict bounding boxes around each bullet impact in images that have them. You are also predicting the number of points scored.\n\n# Files\n* **train.csv** - the training data\n* **test.csv** - the test data\n* **train.zip** - training images\n* **test.zip** - test images\n\n# Columns\n* **image_name** - the name of the image in format .jpg\n* **label_name** - the number of point score given the impact on the target\n* **image\\_height**, **image\\_width** - the height and width of the images\n* **bbox\\_x**, **bbox\\_y**, **bbox\\_width**, **bbox\\_height** - a bounding box, formatted as a Python-style list of [xmin, ymin, width, height]\netc.",
+  "datasetId": 2431543,
+  "datasetSlug": "standup-targets",
+  "hasDatasetSlug": true,
+  "ownerUser": "bryanb",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 1861,
+  "totalVotes": 12,
+  "totalDownloads": 103,
+  "title": "Stand-up Targets",
+  "hasTitle": true,
+  "subtitle": "Can you help retrieving the exact score using image analysis ?",
+  "hasSubtitle": true,
+  "description": "# Stand-up Targets\n\nThe dataset was manually created from a blank image of a shooting target. Casual or Professionals, Airsoft, Hunting, Law enforcement, Military, Precision shooting, Long distance shooting, Sport shooting lovers or not, this dataset is a great playground to learn and apply latest computer vision technics.\n\nData is already annotated, you can train any computer vision algorithm to perform detection, segmentation, classification etc...\n\n# Methodology regarding the data aquisition and preparation\n\n1. Recovery of the image on [this website](https://www.conditionsextremes.com/cible-de-tir/9631-cible-silhouette-30x45cm-birchwood-casey.html?gclid=Cj0KCQjw9ZGYBhCEARIsAEUXITUoNqJB2zI0oCLeHu9lxuJOTF3zg-G8fDwkpBNrw_jMoyhq21-ouUMaAs7uEALw_wcB)\n\n2. Recovery of 5 different bullet holes to reinforce the detection capacity of the algorithm\n\n3. Duplication of the images 1000 for the training set and 250 for the test set.\n\n4. Manual addition of impacts on each image. The number of impacts varies from 1 to 5 and is distributed equally between each bullet impact on the data sets\n\n5. Manual annotation of each image via https://www.makesense.ai/\n\n6. Preprocessing to retrieve the number of impacts per image, the number of points scored. \n\n\n# What am I predicting?\nYou are attempting to predict bounding boxes around each bullet impact in images that have them. You are also predicting the number of points scored.\n\n# Files\n* **train.csv** - the training data\n* **test.csv** - the test data\n* **train.zip** - training images\n* **test.zip** - test images\n\n# Columns\n* **image_name** - the name of the image in format .jpg\n* **label_name** - the number of point score given the impact on the target\n* **image\\_height**, **image\\_width** - the height and width of the images\n* **bbox\\_x**, **bbox\\_y**, **bbox\\_width**, **bbox\\_height** - a bounding box, formatted as a Python-style list of [xmin, ymin, width, height]\netc.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "programming",
+    "computer vision",
+    "deep learning",
+    "transfer learning",
+    "gpu"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

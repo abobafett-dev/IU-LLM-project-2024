@@ -1,0 +1,44 @@
+{
+  "id": "sayelabualigah/high-quality-financial-news-dataset-for-nlp-tasks",
+  "id_no": 5198043,
+  "datasetSlugNullable": "high-quality-financial-news-dataset-for-nlp-tasks",
+  "ownerUserNullable": "sayelabualigah",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "High-Quality Financial News Dataset for NLP Tasks",
+  "subtitleNullable": "Financial Dataset for SFT Task",
+  "descriptionNullable": "# High-Quality Financial News Dataset\n\n## Description\n\nThis repository contains a meticulously scraped dataset from various financial websites. The data extraction process ensures high-quality and accurate text, including content from both the websites and their embedded PDFs.\n\n### Dataset Features\n\n- **Date**: The date of the announcement.\n- **Subject**: The subject of the financial news.\n- **Content**: The full content of the announcement, including text from the website and PDFs.\n\n### Additional Processed Fields\n\nWe applied the advanced Mixtral 7X8 model to generate the following additional fields:\n\n- **ParaphrasedSubject**: A paraphrased version of the original subject.\n- **CompactedSummary**: A concise summary limited to 1.5 lines.\n- **DetailedSummary**: A detailed summary of the content.\n- **Impact**: The impact of the announcement, summarized in 2 lines.\n\n### Methodology\n\nThe prompt used to generate the additional fields was highly effective, thanks to extensive discussions and collaboration with the Mistral AI team. This ensures that the dataset provides valuable insights and is ready for further analysis and model training.\n\n## Usage\n\nThis dataset can be used for various applications, including but not limited to:\n\n- Financial news analysis\n- Abstractive/Exctractive Summarization tasks\n- Machine learning model training\n- Natural language processing tasks\n",
+  "datasetId": 5198043,
+  "datasetSlug": "high-quality-financial-news-dataset-for-nlp-tasks",
+  "hasDatasetSlug": true,
+  "ownerUser": "sayelabualigah",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 445,
+  "totalVotes": 7,
+  "totalDownloads": 55,
+  "title": "High-Quality Financial News Dataset for NLP Tasks",
+  "hasTitle": true,
+  "subtitle": "Financial Dataset for SFT Task",
+  "hasSubtitle": true,
+  "description": "# High-Quality Financial News Dataset\n\n## Description\n\nThis repository contains a meticulously scraped dataset from various financial websites. The data extraction process ensures high-quality and accurate text, including content from both the websites and their embedded PDFs.\n\n### Dataset Features\n\n- **Date**: The date of the announcement.\n- **Subject**: The subject of the financial news.\n- **Content**: The full content of the announcement, including text from the website and PDFs.\n\n### Additional Processed Fields\n\nWe applied the advanced Mixtral 7X8 model to generate the following additional fields:\n\n- **ParaphrasedSubject**: A paraphrased version of the original subject.\n- **CompactedSummary**: A concise summary limited to 1.5 lines.\n- **DetailedSummary**: A detailed summary of the content.\n- **Impact**: The impact of the announcement, summarized in 2 lines.\n\n### Methodology\n\nThe prompt used to generate the additional fields was highly effective, thanks to extensive discussions and collaboration with the Mistral AI team. This ensures that the dataset provides valuable insights and is ready for further analysis and model training.\n\n## Usage\n\nThis dataset can be used for various applications, including but not limited to:\n\n- Financial news analysis\n- Abstractive/Exctractive Summarization tasks\n- Machine learning model training\n- Natural language processing tasks\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "finance",
+    "banking",
+    "nlp",
+    "transformers"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

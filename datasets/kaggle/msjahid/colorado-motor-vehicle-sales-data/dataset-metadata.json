@@ -1,0 +1,41 @@
+{
+  "id": "msjahid/colorado-motor-vehicle-sales-data",
+  "id_no": 5054801,
+  "datasetSlugNullable": "colorado-motor-vehicle-sales-data",
+  "ownerUserNullable": "msjahid",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Colorado Motor Vehicle Sales Data",
+  "subtitleNullable": "Monthly and annual sales figures for new and used motor vehicles in Colorado",
+  "descriptionNullable": "# Colorado Motor Vehicle Sales Data\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1937611%2F154e9e08b0b0e6e2bf21422aecdc5425%2F_01d75451-99b3-4e23-9cdb-e728dddaee95.jpeg?generation=1716288460302892&alt=media)\n\n## Description\nThis dataset contains information on motor vehicle sales in various counties across Colorado, segmented by year and quarter. The data is useful for analyzing trends in vehicle sales, understanding the economic impact of automotive transactions, and making informed decisions in related business or policy planning.\n\n## Columns\n- **Year**: The calendar year in which the sales data was recorded.\n- **Quarter**: The quarter of the year during which the sales were made. The quarters are divided as follows:\n  - Q1: January to March\n  - Q2: April to June\n  - Q3: July to September\n  - Q4: October to December\n- **County**: The name of the county in Colorado where the sales were recorded.\n- **Sales**: The total dollar amount of motor vehicle sales in the specified county and quarter.\n\n## Use Cases\n- **Economic Analysis**: Track the economic health and trends in the automotive market within Colorado.\n- **Market Research**: Identify sales patterns and market demands in different counties.\n- **Policy Making**: Inform decisions on automotive industry regulations and infrastructure planning.\n\n\n## File Format\nThe dataset is available in CSV format, making it easy to import into various data analysis tools and software. The CSV file might be named `colorado_motor_vehicle_sales.csv`.\n",
+  "datasetId": 5054801,
+  "datasetSlug": "colorado-motor-vehicle-sales-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "msjahid",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2355,
+  "totalVotes": 80,
+  "totalDownloads": 473,
+  "title": "Colorado Motor Vehicle Sales Data",
+  "hasTitle": true,
+  "subtitle": "Monthly and annual sales figures for new and used motor vehicles in Colorado",
+  "hasSubtitle": true,
+  "description": "# Colorado Motor Vehicle Sales Data\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1937611%2F154e9e08b0b0e6e2bf21422aecdc5425%2F_01d75451-99b3-4e23-9cdb-e728dddaee95.jpeg?generation=1716288460302892&alt=media)\n\n## Description\nThis dataset contains information on motor vehicle sales in various counties across Colorado, segmented by year and quarter. The data is useful for analyzing trends in vehicle sales, understanding the economic impact of automotive transactions, and making informed decisions in related business or policy planning.\n\n## Columns\n- **Year**: The calendar year in which the sales data was recorded.\n- **Quarter**: The quarter of the year during which the sales were made. The quarters are divided as follows:\n  - Q1: January to March\n  - Q2: April to June\n  - Q3: July to September\n  - Q4: October to December\n- **County**: The name of the county in Colorado where the sales were recorded.\n- **Sales**: The total dollar amount of motor vehicle sales in the specified county and quarter.\n\n## Use Cases\n- **Economic Analysis**: Track the economic health and trends in the automotive market within Colorado.\n- **Market Research**: Identify sales patterns and market demands in different counties.\n- **Policy Making**: Inform decisions on automotive industry regulations and infrastructure planning.\n\n\n## File Format\nThe dataset is available in CSV format, making it easy to import into various data analysis tools and software. The CSV file might be named `colorado_motor_vehicle_sales.csv`.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "automobiles and vehicles",
+    "exploratory data analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

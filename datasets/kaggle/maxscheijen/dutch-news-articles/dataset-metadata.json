@@ -1,0 +1,43 @@
+{
+  "id": "maxscheijen/dutch-news-articles",
+  "id_no": 1013130,
+  "datasetSlugNullable": "dutch-news-articles",
+  "ownerUserNullable": "maxscheijen",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Dutch News Articles",
+  "subtitleNullable": "A dataset containing news articles published by the NOS.",
+  "descriptionNullable": "## Dutch News Articles\n\nThis dataset contains all the articles published by the [NOS](https://nos.nl/) as of the 1st of January 2010. The data is obtained by scraping the NOS website. The NOS is one of the biggest (online) news organizations in the Netherlands.\n\n### Features: \n- **datetime**: date and time of publication of the article.\n- **title**: the title of the news article.\n- **content**: the content of the news article.\n- **category**: the category under which the NOS filed the article.\n- **url**: link to the original article.\n\n### About the data\n\nThe title and content of features somewhat clean. Meaning extra whites spaces and newlines are removed. Furthermore, these features are normalized (NFKD). The NOS also publishes liveblogs. The posts in this live blog are not part of this dataset. \n\n### Example\n\nI used this dataset in a recent [blog post](https://maxscheijen.com/news).",
+  "datasetId": 1013130,
+  "datasetSlug": "dutch-news-articles",
+  "hasDatasetSlug": true,
+  "ownerUser": "maxscheijen",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12758,
+  "totalVotes": 47,
+  "totalDownloads": 972,
+  "title": "Dutch News Articles",
+  "hasTitle": true,
+  "subtitle": "A dataset containing news articles published by the NOS.",
+  "hasSubtitle": true,
+  "description": "## Dutch News Articles\n\nThis dataset contains all the articles published by the [NOS](https://nos.nl/) as of the 1st of January 2010. The data is obtained by scraping the NOS website. The NOS is one of the biggest (online) news organizations in the Netherlands.\n\n### Features: \n- **datetime**: date and time of publication of the article.\n- **title**: the title of the news article.\n- **content**: the content of the news article.\n- **category**: the category under which the NOS filed the article.\n- **url**: link to the original article.\n\n### About the data\n\nThe title and content of features somewhat clean. Meaning extra whites spaces and newlines are removed. Furthermore, these features are normalized (NFKD). The NOS also publishes liveblogs. The posts in this live blog are not part of this dataset. \n\n### Example\n\nI used this dataset in a recent [blog post](https://maxscheijen.com/news).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "nlp",
+    "text",
+    "news",
+    "transformers"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

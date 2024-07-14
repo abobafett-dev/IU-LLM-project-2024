@@ -1,0 +1,48 @@
+{
+  "id": "nayanack/netflix",
+  "id_no": 4807456,
+  "datasetSlugNullable": "netflix",
+  "ownerUserNullable": "nayanack",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Netflix Chronicles: Exploring Movies and TV Shows ",
+  "subtitleNullable": "Unlocking Netflix: A Comprehensive Database of Movies and TV Shows",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12038776%2Fdbabda1e8f2d39e88b030173303b2724%2FNetflix.jpg?generation=1713257307281984&alt=media)\n#  Dataset Overview\n&gt;Netflix is one of the most popular media and video streaming platforms. They have over 10000 movies or tv shows available on their platform, as of mid-2021, they have over 222M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.\n\n## Key details about the dataset:\n1. Number of Entries: The dataset contains 8807 entries.\n2. Columns: There are 12 columns in total.\n3. Column Details:\n       * show_id: Unique identifier for each show.\n       * type: Indicates whether the entry is a movie or a TV show.\n       * title: The title of the movie or TV show.\n       * director: The director(s) of the movie or TV show.\n       * cast: The cast members of the movie or TV show.\n       * country: The country or countries where the movie or TV show was produced.\n       * date_added: The date when the movie or TV show was added to Netflix.\n       * release_year: The year when the movie or TV show was released.\n       * rating: The rating assigned to the movie or TV show.\n       * duration: The duration of the movie or TV show.\n       * listed_in: The categories or genres that the movie or TV show belongs to.\n\n# Usage \nThis dataset can be used for various analytical purposes such as exploring trends in Netflix content, analyzing user preferences, building recommendation systems, and more.",
+  "datasetId": 4807456,
+  "datasetSlug": "netflix",
+  "hasDatasetSlug": true,
+  "ownerUser": "nayanack",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 9667,
+  "totalVotes": 38,
+  "totalDownloads": 2329,
+  "title": "Netflix Chronicles: Exploring Movies and TV Shows ",
+  "hasTitle": true,
+  "subtitle": "Unlocking Netflix: A Comprehensive Database of Movies and TV Shows",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12038776%2Fdbabda1e8f2d39e88b030173303b2724%2FNetflix.jpg?generation=1713257307281984&alt=media)\n#  Dataset Overview\n&gt;Netflix is one of the most popular media and video streaming platforms. They have over 10000 movies or tv shows available on their platform, as of mid-2021, they have over 222M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.\n\n## Key details about the dataset:\n1. Number of Entries: The dataset contains 8807 entries.\n2. Columns: There are 12 columns in total.\n3. Column Details:\n       * show_id: Unique identifier for each show.\n       * type: Indicates whether the entry is a movie or a TV show.\n       * title: The title of the movie or TV show.\n       * director: The director(s) of the movie or TV show.\n       * cast: The cast members of the movie or TV show.\n       * country: The country or countries where the movie or TV show was produced.\n       * date_added: The date when the movie or TV show was added to Netflix.\n       * release_year: The year when the movie or TV show was released.\n       * rating: The rating assigned to the movie or TV show.\n       * duration: The duration of the movie or TV show.\n       * listed_in: The categories or genres that the movie or TV show belongs to.\n\n# Usage \nThis dataset can be used for various analytical purposes such as exploring trends in Netflix content, analyzing user preferences, building recommendation systems, and more.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "exploratory data analysis",
+    "data visualization",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "arathimnair",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

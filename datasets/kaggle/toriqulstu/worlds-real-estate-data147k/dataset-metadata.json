@@ -1,0 +1,43 @@
+{
+  "id": "toriqulstu/worlds-real-estate-data147k",
+  "id_no": 3703429,
+  "datasetSlugNullable": "worlds-real-estate-data147k",
+  "ownerUserNullable": "toriqulstu",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": " World's Real Estate Data(147k)",
+  "subtitleNullable": "This dataset contains comprehensive Property Insights all over the world",
+  "descriptionNullable": "<img src=\"https://cdn.vectorstock.com/i/preview-1x/58/33/shwedish-town-silhouette-vector-9305833.webp\">\n#Context:\nMy dataset is a valuable collection of real estate information sourced from REALTING.com, an international affiliate sales system known for facilitating safe and convenient property transactions worldwide. REALTING.com has a strong foundation, with its founders boasting approximately 20 years of experience in creating information technologies for the real estate market. This dataset offers insights into various properties across the globe, making it a valuable resource for real estate market analysis, property valuation, and trend prediction.\n\n#Content:\nThe dataset contains information on a diverse range of properties, each represented by a row of data. Here are the key columns and their contents:\n\n- **Title:** A brief description or name of the property listing.\n- **Country:** The country where the property is located.\n- **Location:** The specific address or location of the property within the country.\n- **Building Construction Year:** The year in which the building was constructed.\n- **Building Total Floors:** The total number of floors or stories in the building.\n- **Apartment Floor:** The floor on which the apartment is situated within the building.\n- **Apartment Rooms:** The total number of rooms in the apartment.\n- **Apartment Bedrooms:** The number of bedrooms in the apartment.\n- **Apartment Bathrooms:** The number of bathrooms in the apartment.\n- **Apartment Total Area:** The total area of the apartment in square meters.\n- **Apartment Living Area:** The living area of the apartment in square meters.\n- **Price in USD:** The price of the property listed in United States Dollars (USD).\n- **Image:** References or links to images associated with the property listing.\n- **URL:** Web links to the full property listing or more detailed information.\n\nThis dataset is rich in real estate-related information, making it suitable for various analytical tasks such as market research, property comparison, geographical analysis, and more. The dataset's global scope and diverse property attributes provide a comprehensive view of the international real estate market, offering ample opportunities for data-driven insights and decision-making.",
+  "datasetId": 3703429,
+  "datasetSlug": "worlds-real-estate-data147k",
+  "hasDatasetSlug": true,
+  "ownerUser": "toriqulstu",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7221,
+  "totalVotes": 35,
+  "totalDownloads": 1310,
+  "title": " World's Real Estate Data(147k)",
+  "hasTitle": true,
+  "subtitle": "This dataset contains comprehensive Property Insights all over the world",
+  "hasSubtitle": true,
+  "description": "<img src=\"https://cdn.vectorstock.com/i/preview-1x/58/33/shwedish-town-silhouette-vector-9305833.webp\">\n#Context:\nMy dataset is a valuable collection of real estate information sourced from REALTING.com, an international affiliate sales system known for facilitating safe and convenient property transactions worldwide. REALTING.com has a strong foundation, with its founders boasting approximately 20 years of experience in creating information technologies for the real estate market. This dataset offers insights into various properties across the globe, making it a valuable resource for real estate market analysis, property valuation, and trend prediction.\n\n#Content:\nThe dataset contains information on a diverse range of properties, each represented by a row of data. Here are the key columns and their contents:\n\n- **Title:** A brief description or name of the property listing.\n- **Country:** The country where the property is located.\n- **Location:** The specific address or location of the property within the country.\n- **Building Construction Year:** The year in which the building was constructed.\n- **Building Total Floors:** The total number of floors or stories in the building.\n- **Apartment Floor:** The floor on which the apartment is situated within the building.\n- **Apartment Rooms:** The total number of rooms in the apartment.\n- **Apartment Bedrooms:** The number of bedrooms in the apartment.\n- **Apartment Bathrooms:** The number of bathrooms in the apartment.\n- **Apartment Total Area:** The total area of the apartment in square meters.\n- **Apartment Living Area:** The living area of the apartment in square meters.\n- **Price in USD:** The price of the property listed in United States Dollars (USD).\n- **Image:** References or links to images associated with the property listing.\n- **URL:** Web links to the full property listing or more detailed information.\n\nThis dataset is rich in real estate-related information, making it suitable for various analytical tasks such as market research, property comparison, geographical analysis, and more. The dataset's global scope and diverse property attributes provide a comprehensive view of the international real estate market, offering ample opportunities for data-driven insights and decision-making.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "real estate",
+    "data visualization",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

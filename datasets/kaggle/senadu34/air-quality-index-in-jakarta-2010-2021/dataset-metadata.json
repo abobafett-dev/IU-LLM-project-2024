@@ -1,0 +1,43 @@
+{
+  "id": "senadu34/air-quality-index-in-jakarta-2010-2021",
+  "id_no": 3500382,
+  "datasetSlugNullable": "air-quality-index-in-jakarta-2010-2021",
+  "ownerUserNullable": "senadu34",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Air Quality Index in Jakarta (2010 - 2021)",
+  "subtitleNullable": "The Daily Air Quality Index (AQI) in Jakarta from 2010 - 2021",
+  "descriptionNullable": "This dataset contains the Air Pollutant Standard Index (AQI) or Indeks Standar Pencemar Udara (ISPU) as measured from 5 air quality monitoring stations (SPKU) in DKI Jakarta since 2010 until 2021\n\nExplanation of variables from the data above as follows:\n\n1. tanggal : Date of air quality measurement\n2. stasiun : Measurement location at the station\n3. pm10 : Particulate matter one of the measured parameters\n4. pm25 : Particulate matter one of the parameters measured\n5. so2 : Sulfide (in the form of SO2) one of the parameters measured\n6. co : Carbon Monoxide one of the parameters measured\n7. o3 : Ozone is one of the measured parameters\n8. no2 : Nitrogen dioxide one of the parameters measured\n9. max : The highest measured value of all parameters measured at the same time\n10. critical: The parameter with the highest measurement results\n11. category : Category based on the calculation of the air pollution standard index\n\nThis data is taken from Open Data Jakarta where the data source comes from the DKI Jakarta Province Environmental Service.",
+  "datasetId": 3500382,
+  "datasetSlug": "air-quality-index-in-jakarta-2010-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "senadu34",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3738,
+  "totalVotes": 11,
+  "totalDownloads": 737,
+  "title": "Air Quality Index in Jakarta (2010 - 2021)",
+  "hasTitle": true,
+  "subtitle": "The Daily Air Quality Index (AQI) in Jakarta from 2010 - 2021",
+  "hasSubtitle": true,
+  "description": "This dataset contains the Air Pollutant Standard Index (AQI) or Indeks Standar Pencemar Udara (ISPU) as measured from 5 air quality monitoring stations (SPKU) in DKI Jakarta since 2010 until 2021\n\nExplanation of variables from the data above as follows:\n\n1. tanggal : Date of air quality measurement\n2. stasiun : Measurement location at the station\n3. pm10 : Particulate matter one of the measured parameters\n4. pm25 : Particulate matter one of the parameters measured\n5. so2 : Sulfide (in the form of SO2) one of the parameters measured\n6. co : Carbon Monoxide one of the parameters measured\n7. o3 : Ozone is one of the measured parameters\n8. no2 : Nitrogen dioxide one of the parameters measured\n9. max : The highest measured value of all parameters measured at the same time\n10. critical: The parameter with the highest measurement results\n11. category : Category based on the calculation of the air pollution standard index\n\nThis data is taken from Open Data Jakarta where the data source comes from the DKI Jakarta Province Environmental Service.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "pollution",
+    "exploratory data analysis",
+    "time series analysis",
+    "indonesian"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

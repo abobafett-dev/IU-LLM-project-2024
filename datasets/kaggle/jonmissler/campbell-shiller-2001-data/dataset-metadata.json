@@ -1,0 +1,42 @@
+{
+  "id": "jonmissler/campbell-shiller-2001-data",
+  "id_no": 288369,
+  "datasetSlugNullable": "campbell-shiller-2001-data",
+  "ownerUserNullable": "jonmissler",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Standard and Poor Composite (1871-2019)",
+  "subtitleNullable": "Monthly Standard & Poor Composite Data from January 1871 until July 2019",
+  "descriptionNullable": "Data retrieved from http://www.econ.yale.edu/~shiller/data.htm . For more information about the data and the most recent version, please visit the website linked before.\n\nUsed in John Y. Campbell's and Robert J. Shiller's 2001 research paper \"Valuation Ratios and the Long-Run Stock Market Outlook: An Update\" or Robert J. Shiller's 2000 book \"Irrational Exuberance\".\n\nContains aggregate monthly Standard and Poor Composite stock prices from January 1871 to July 2019. ",
+  "datasetId": 288369,
+  "datasetSlug": "campbell-shiller-2001-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "jonmissler",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 4148,
+  "totalVotes": 5,
+  "totalDownloads": 267,
+  "title": "Standard and Poor Composite (1871-2019)",
+  "hasTitle": true,
+  "subtitle": "Monthly Standard & Poor Composite Data from January 1871 until July 2019",
+  "hasSubtitle": true,
+  "description": "Data retrieved from http://www.econ.yale.edu/~shiller/data.htm . For more information about the data and the most recent version, please visit the website linked before.\n\nUsed in John Y. Campbell's and Robert J. Shiller's 2001 research paper \"Valuation Ratios and the Long-Run Stock Market Outlook: An Update\" or Robert J. Shiller's 2000 book \"Irrational Exuberance\".\n\nContains aggregate monthly Standard and Poor Composite stock prices from January 1871 to July 2019. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "olgabelitskaya/yale-face-database",
+  "id_no": 50067,
+  "datasetSlugNullable": "yale-face-database",
+  "ownerUserNullable": "olgabelitskaya",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Yale Face Database",
+  "subtitleNullable": "Image Classification. Face Recognition",
+  "descriptionNullable": "### Origin\nOriginally obtained from the [Yale Face Database](http://vision.ucsd.edu/content/yale-face-database).\n\n### Content\n\nThe database contains 165 GIF images of 15 subjects (subject01, subject02, etc.).  \n\nThere are 11 images per subject, one for each of the following facial expressions or configurations: \ncenter-light, w/glasses, happy, left-light, w/no glasses, normal, right-light, sad, sleepy, surprised, and wink.  \n\nNote that the image \"subject04.sad\" has been corrupted and has been substituted by \"subject04.normal\".\n\n### Acknowledgments\n\nIt is free to use the data for research purposes. \nIf experimental results are obtained that use images from within the database, all publications of these results should acknowledge the use of the \"Yale Face Database\".\nWithout permission from Yale, images from within the database cannot be incorporated into a larger database which is then publicly distributed.\n\n### Inspiration\nThis data is very useful for starting experiments in face recognition.",
+  "datasetId": 50067,
+  "datasetSlug": "yale-face-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "olgabelitskaya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 92910,
+  "totalVotes": 96,
+  "totalDownloads": 11929,
+  "title": "Yale Face Database",
+  "hasTitle": true,
+  "subtitle": "Image Classification. Face Recognition",
+  "hasSubtitle": true,
+  "description": "### Origin\nOriginally obtained from the [Yale Face Database](http://vision.ucsd.edu/content/yale-face-database).\n\n### Content\n\nThe database contains 165 GIF images of 15 subjects (subject01, subject02, etc.).  \n\nThere are 11 images per subject, one for each of the following facial expressions or configurations: \ncenter-light, w/glasses, happy, left-light, w/no glasses, normal, right-light, sad, sleepy, surprised, and wink.  \n\nNote that the image \"subject04.sad\" has been corrupted and has been substituted by \"subject04.normal\".\n\n### Acknowledgments\n\nIt is free to use the data for research purposes. \nIf experimental results are obtained that use images from within the database, all publications of these results should acknowledge the use of the \"Yale Face Database\".\nWithout permission from Yale, images from within the database cannot be incorporated into a larger database which is then publicly distributed.\n\n### Inspiration\nThis data is very useful for starting experiments in face recognition.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature",
+    "education",
+    "classification",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

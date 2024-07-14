@@ -1,0 +1,42 @@
+{
+  "id": "gpliu1999/stockohlcvgrayscale",
+  "id_no": 2419663,
+  "datasetSlugNullable": "stockohlcvgrayscale",
+  "ownerUserNullable": "gpliu1999",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Stock-OHLCV-Grayscale",
+  "subtitleNullable": "Stock Trend Prediction Task",
+  "descriptionNullable": "This dataset is generated following the practice of Xiu (2020). The \"up\" folder in the data set represents the stock price increase in the next 5 days, and the \"down\" folder represents the future stock price decline. The data used to draw the image comes from the Chinese A-share market.\nYou need to divide the training and test sets yourself and train a machine learning model for this classification task. A very high portfolio Sharpe ratio is reported in the Xiu (2020) paper, and hopefully you will make a fortune from it.",
+  "datasetId": 2419663,
+  "datasetSlug": "stockohlcvgrayscale",
+  "hasDatasetSlug": true,
+  "ownerUser": "gpliu1999",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 1608,
+  "totalVotes": 7,
+  "totalDownloads": 123,
+  "title": "Stock-OHLCV-Grayscale",
+  "hasTitle": true,
+  "subtitle": "Stock Trend Prediction Task",
+  "hasSubtitle": true,
+  "description": "This dataset is generated following the practice of Xiu (2020). The \"up\" folder in the data set represents the stock price increase in the next 5 days, and the \"down\" folder represents the future stock price decline. The data used to draw the image comes from the Chinese A-share market.\nYou need to divide the training and test sets yourself and train a machine learning model for this classification task. A very high portfolio Sharpe ratio is reported in the Xiu (2020) paper, and hopefully you will make a fortune from it.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "classification",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

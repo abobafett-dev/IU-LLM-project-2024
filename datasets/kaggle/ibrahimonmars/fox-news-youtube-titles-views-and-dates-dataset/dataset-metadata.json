@@ -1,0 +1,41 @@
+{
+  "id": "ibrahimonmars/fox-news-youtube-titles-views-and-dates-dataset",
+  "id_no": 3468455,
+  "datasetSlugNullable": "fox-news-youtube-titles-views-and-dates-dataset",
+  "ownerUserNullable": "ibrahimonmars",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fox News YouTube: Titles, Views & Dates Dataset",
+  "subtitleNullable": "Exposing Foxnews by exploring their YouTube channel.",
+  "descriptionNullable": "This dataset was scrapped using one of the python modules called \"SiteScraper\". The \"SiteScraper\" module is build on top of selenium. Here is the link to the module : https://github.com/ibrahim-string/SiteScraper\n\nText summarisation can be done on titles and correlation between views and titles can be explored using this dataset.\n\nThis dataset will be very usefull To find out what kind of content republicans watch.\n\nThis dataset will be updated every week.",
+  "datasetId": 3468455,
+  "datasetSlug": "fox-news-youtube-titles-views-and-dates-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ibrahimonmars",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1440,
+  "totalVotes": 19,
+  "totalDownloads": 206,
+  "title": "Fox News YouTube: Titles, Views & Dates Dataset",
+  "hasTitle": true,
+  "subtitle": "Exposing Foxnews by exploring their YouTube channel.",
+  "hasSubtitle": true,
+  "description": "This dataset was scrapped using one of the python modules called \"SiteScraper\". The \"SiteScraper\" module is build on top of selenium. Here is the link to the module : https://github.com/ibrahim-string/SiteScraper\n\nText summarisation can be done on titles and correlation between views and titles can be explored using this dataset.\n\nThis dataset will be very usefull To find out what kind of content republicans watch.\n\nThis dataset will be updated every week.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "computer science",
+    "programming"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

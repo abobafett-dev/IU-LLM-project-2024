@@ -1,0 +1,44 @@
+{
+  "id": "atifmasih/climate-change-dataset2020-2024",
+  "id_no": 5068420,
+  "datasetSlugNullable": "climate-change-dataset2020-2024",
+  "ownerUserNullable": "atifmasih",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Climate Change Dataset2020_2024",
+  "subtitleNullable": "Unveiling Earth's Symphony: Climate Change Insights from 2020 to 2024",
+  "descriptionNullable": "This dataset, spanning from January 2020 to May 2024, contains a comprehensive collection of global climate data. It includes various climatic features measured on a monthly basis, providing insights into weather patterns, temperature changes, and environmental conditions over time.\n\n## Usefulness\n**Climate Research:** Provides data for studying climate trends, patterns, and changes over time.\n**Weather Forecasting:** Helps in building predictive models for temperature, precipitation, and other weather conditions.\n**Environmental Analysis:** Supports analysis of environmental factors such as CO2 levels, particulate matter, and solar irradiance.\n**Impact Assessment:** Useful for assessing the impact of climate change on various aspects like agriculture, public health, and natural ecosystems.\n**Policy-making:** Provides insights for policymakers to develop strategies related to climate resilience, disaster management, and sustainable development.\n##Features\n**Year:** The year of data collection (2020-2024).\n**Month:** The month of data collection (January to December).\n**Avg_Temp (\u00b0C):** Average temperature in Celsius.\n**Max_Temp (\u00b0C):** Maximum temperature in Celsius.\n**Min_Temp (\u00b0C):** Minimum temperature in Celsius.\n**Precipitation (mm):** Precipitation amount in millimeters.\n**Humidity (%):** Relative humidity in percentage.\n**Wind_Speed (m/s):** Wind speed in meters per second.\n**Solar_Irradiance (W/m\u00b2):** Solar irradiance in watts per square meter.\n**Cloud_Cover (%):** Cloud cover percentage.\n**CO2_Concentration (ppm):** Carbon dioxide concentration in parts per million.\n**Latitude:** Latitude coordinates of the location.\n**Longitude:** Longitude coordinates of the location.\n**Altitude (m):** Altitude above sea level in meters.\n**Proximity_to_Water (km):** Distance to the nearest water body in kilometers.\n**Urbanization_Index:** Index representing urbanization level.\n**Vegetation_Index:** Index representing vegetation coverage.\n**ENSO_Index:** El Ni\u00f1o Southern Oscillation index.\n**Particulate_Matter (\u00b5g/m\u00b3):** Particulate matter concentration in micrograms per cubic meter.\n**Sea_Surface_Temp (\u00b0C):** Sea surface temperature in Celsius.",
+  "datasetId": 5068420,
+  "datasetSlug": "climate-change-dataset2020-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "atifmasih",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 618,
+  "totalVotes": 3,
+  "totalDownloads": 115,
+  "title": "Climate Change Dataset2020_2024",
+  "hasTitle": true,
+  "subtitle": "Unveiling Earth's Symphony: Climate Change Insights from 2020 to 2024",
+  "hasSubtitle": true,
+  "description": "This dataset, spanning from January 2020 to May 2024, contains a comprehensive collection of global climate data. It includes various climatic features measured on a monthly basis, providing insights into weather patterns, temperature changes, and environmental conditions over time.\n\n## Usefulness\n**Climate Research:** Provides data for studying climate trends, patterns, and changes over time.\n**Weather Forecasting:** Helps in building predictive models for temperature, precipitation, and other weather conditions.\n**Environmental Analysis:** Supports analysis of environmental factors such as CO2 levels, particulate matter, and solar irradiance.\n**Impact Assessment:** Useful for assessing the impact of climate change on various aspects like agriculture, public health, and natural ecosystems.\n**Policy-making:** Provides insights for policymakers to develop strategies related to climate resilience, disaster management, and sustainable development.\n##Features\n**Year:** The year of data collection (2020-2024).\n**Month:** The month of data collection (January to December).\n**Avg_Temp (\u00b0C):** Average temperature in Celsius.\n**Max_Temp (\u00b0C):** Maximum temperature in Celsius.\n**Min_Temp (\u00b0C):** Minimum temperature in Celsius.\n**Precipitation (mm):** Precipitation amount in millimeters.\n**Humidity (%):** Relative humidity in percentage.\n**Wind_Speed (m/s):** Wind speed in meters per second.\n**Solar_Irradiance (W/m\u00b2):** Solar irradiance in watts per square meter.\n**Cloud_Cover (%):** Cloud cover percentage.\n**CO2_Concentration (ppm):** Carbon dioxide concentration in parts per million.\n**Latitude:** Latitude coordinates of the location.\n**Longitude:** Longitude coordinates of the location.\n**Altitude (m):** Altitude above sea level in meters.\n**Proximity_to_Water (km):** Distance to the nearest water body in kilometers.\n**Urbanization_Index:** Index representing urbanization level.\n**Vegetation_Index:** Index representing vegetation coverage.\n**ENSO_Index:** El Ni\u00f1o Southern Oscillation index.\n**Particulate_Matter (\u00b5g/m\u00b3):** Particulate matter concentration in micrograms per cubic meter.\n**Sea_Surface_Temp (\u00b0C):** Sea surface temperature in Celsius.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "atmospheric science",
+    "artificial intelligence",
+    "data cleaning",
+    "time series analysis",
+    "linear regression",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

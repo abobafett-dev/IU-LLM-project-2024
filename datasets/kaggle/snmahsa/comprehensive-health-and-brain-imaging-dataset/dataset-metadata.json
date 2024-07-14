@@ -1,0 +1,37 @@
+{
+  "id": "snmahsa/comprehensive-health-and-brain-imaging-dataset",
+  "id_no": 4992503,
+  "datasetSlugNullable": "comprehensive-health-and-brain-imaging-dataset",
+  "ownerUserNullable": "snmahsa",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "TotalBrainHealthDataset",
+  "subtitleNullable": "Exploring the Interplay Between Lifestyle Factors and Neurological Health .",
+  "descriptionNullable": "### General Information:\n\n- **age**: The age of the participants, shown as a number.\n- **gender**: The gender of the participants, usually 'male' or 'female'.\n\n### Health Status:\n\n- **dementia and dementia_all**: Shows if participants have dementia. It is marked as 'yes' or 'no'.\n- **diabetes**: Indicates if participants have diabetes, also marked as 'yes' or 'no'.\n- **hypertension and hypercholesterolemia**: Indicates if participants have high blood pressure or high cholesterol.\n\n### Lifestyle Habits:\n\n- **smoking**: The smoking status of participants, divided into three categories: 'Smoker', 'Quit' (stopped smoking), and 'None' (never smoked).\n\n### Imaging and Brain Health Metrics:\n\n- **EF, PS, Global**: These columns show scores from mental and performance tests.\n- **Lacunes_Presence and CMB_Presence**: Indicates the presence of small cavities in the brain tissue (lacunes) and microbleedings, marked as 'Present' or 'Absent'.\n- **fazekas_cat**: A classification related to the Fazekas scale that indicates the severity of brain white matter changes.\n\n### Related Studies:\n\n- **Study_Name**: The name of the study the participant was involved in, including 'Neuroimaging Study', 'Cerebrovascular Study', among others.\n\n### Additional Information:\n\n- **SVD Simple Score and SVD Amended Score**: Scores related to the examination of small vessel damage, which might be used for further analysis.",
+  "datasetId": 4992503,
+  "datasetSlug": "comprehensive-health-and-brain-imaging-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "snmahsa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 148,
+  "totalVotes": 9,
+  "totalDownloads": 25,
+  "title": "TotalBrainHealthDataset",
+  "hasTitle": true,
+  "subtitle": "Exploring the Interplay Between Lifestyle Factors and Neurological Health .",
+  "hasSubtitle": true,
+  "description": "### General Information:\n\n- **age**: The age of the participants, shown as a number.\n- **gender**: The gender of the participants, usually 'male' or 'female'.\n\n### Health Status:\n\n- **dementia and dementia_all**: Shows if participants have dementia. It is marked as 'yes' or 'no'.\n- **diabetes**: Indicates if participants have diabetes, also marked as 'yes' or 'no'.\n- **hypertension and hypercholesterolemia**: Indicates if participants have high blood pressure or high cholesterol.\n\n### Lifestyle Habits:\n\n- **smoking**: The smoking status of participants, divided into three categories: 'Smoker', 'Quit' (stopped smoking), and 'None' (never smoked).\n\n### Imaging and Brain Health Metrics:\n\n- **EF, PS, Global**: These columns show scores from mental and performance tests.\n- **Lacunes_Presence and CMB_Presence**: Indicates the presence of small cavities in the brain tissue (lacunes) and microbleedings, marked as 'Present' or 'Absent'.\n- **fazekas_cat**: A classification related to the Fazekas scale that indicates the severity of brain white matter changes.\n\n### Related Studies:\n\n- **Study_Name**: The name of the study the participant was involved in, including 'Neuroimaging Study', 'Cerebrovascular Study', among others.\n\n### Additional Information:\n\n- **SVD Simple Score and SVD Amended Score**: Scores related to the examination of small vessel damage, which might be used for further analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

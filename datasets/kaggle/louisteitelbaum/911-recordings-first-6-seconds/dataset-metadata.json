@@ -1,0 +1,44 @@
+{
+  "id": "louisteitelbaum/911-recordings-first-6-seconds",
+  "id_no": 3558738,
+  "datasetSlugNullable": "911-recordings-first-6-seconds",
+  "ownerUserNullable": "louisteitelbaum",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "911 Recordings: The First 6 Seconds",
+  "subtitleNullable": "The critical first 6 seconds of over 700 emergency dispatch calls",
+  "descriptionNullable": "Note: This is a curated dataset designed for machine learning applications. For a complete version, see https://www.kaggle.com/datasets/louisteitelbaum/911-recordings\n\nThese 911 logging tapes were collected from public sources by the late Gary Allen, former editor and publisher of Dispatch Monthly magazine and 911 Dispatch website. He describes his collection process as follows: \"I have posted these particular recordings because they represent examples of critical or unusual calls, and provide excellent second-hand experience for a public safety dispatcher. In many cases, a 911 call here might be the only time you\u2019ll ever encounter the situation being reported, such as an airline crash.\"\n\nRecordings and brief text descriptions of each event were retrieved from an Internet Archive capture of the 911 Dispatch website, which is now defunct. Additional metadata (date, state, citizen initiated, deaths, potential death, and false alarm) were manually coded based on the descriptions, recordings, and additional news sources.\n\nThis curated dataset includes only civilian-initiated 911 calls with valid recordings. Each audio file (in waveform) is the first 6 seconds of a call, starting when the caller begins to explain the nature of the emergency (this is often after reporting their location). Some events produced multiple calls, and are labeled as such.",
+  "datasetId": 3558738,
+  "datasetSlug": "911-recordings-first-6-seconds",
+  "hasDatasetSlug": true,
+  "ownerUser": "louisteitelbaum",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3268,
+  "totalVotes": 28,
+  "totalDownloads": 257,
+  "title": "911 Recordings: The First 6 Seconds",
+  "hasTitle": true,
+  "subtitle": "The critical first 6 seconds of over 700 emergency dispatch calls",
+  "hasSubtitle": true,
+  "description": "Note: This is a curated dataset designed for machine learning applications. For a complete version, see https://www.kaggle.com/datasets/louisteitelbaum/911-recordings\n\nThese 911 logging tapes were collected from public sources by the late Gary Allen, former editor and publisher of Dispatch Monthly magazine and 911 Dispatch website. He describes his collection process as follows: \"I have posted these particular recordings because they represent examples of critical or unusual calls, and provide excellent second-hand experience for a public safety dispatcher. In many cases, a 911 call here might be the only time you\u2019ll ever encounter the situation being reported, such as an airline crash.\"\n\nRecordings and brief text descriptions of each event were retrieved from an Internet Archive capture of the 911 Dispatch website, which is now defunct. Additional metadata (date, state, citizen initiated, deaths, potential death, and false alarm) were manually coded based on the descriptions, recordings, and additional news sources.\n\nThis curated dataset includes only civilian-initiated 911 calls with valid recordings. Each audio file (in waveform) is the first 6 seconds of a call, starting when the caller begins to explain the nature of the emergency (this is often after reporting their location). Some events produced multiple calls, and are labeled as such.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "crime",
+    "audio",
+    "public safety",
+    "audio classification",
+    "text classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

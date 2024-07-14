@@ -1,0 +1,43 @@
+{
+  "id": "heyrobin/action-anime-list",
+  "id_no": 2257151,
+  "datasetSlugNullable": "action-anime-list",
+  "ownerUserNullable": "heyrobin",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Anime Complete List | 14000 anime",
+  "subtitleNullable": "List of all anime with information",
+  "descriptionNullable": "Anime list of all genre\n\nRows = 14000 anime\n\nthe data are taken from the popular site myanimelist.net\n\nTasks:\n- Clean the data in all columns\n- Replace or remove null values if possible\n\nAnalysis:\n- Top anime of all time\n- Top 10 studios that create these anime\n- Top Genere\n- Longest Duration anime episode\n- Top anime movies\n- numbers of types\n\n\n\nBe creative with analysis :) \n\u3042\u308a\u304c\u3068",
+  "datasetId": 2257151,
+  "datasetSlug": "action-anime-list",
+  "hasDatasetSlug": true,
+  "ownerUser": "heyrobin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 1618,
+  "totalVotes": 21,
+  "totalDownloads": 189,
+  "title": "Anime Complete List | 14000 anime",
+  "hasTitle": true,
+  "subtitle": "List of all anime with information",
+  "hasSubtitle": true,
+  "description": "Anime list of all genre\n\nRows = 14000 anime\n\nthe data are taken from the popular site myanimelist.net\n\nTasks:\n- Clean the data in all columns\n- Replace or remove null values if possible\n\nAnalysis:\n- Top anime of all time\n- Top 10 studios that create these anime\n- Top Genere\n- Longest Duration anime episode\n- Top anime movies\n- numbers of types\n\n\n\nBe creative with analysis :) \n\u3042\u308a\u304c\u3068",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "intermediate",
+    "exploratory data analysis",
+    "data analytics",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

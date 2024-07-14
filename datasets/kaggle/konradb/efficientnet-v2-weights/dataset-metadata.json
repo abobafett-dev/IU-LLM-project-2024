@@ -1,0 +1,39 @@
+{
+  "id": "konradb/efficientnet-v2-weights",
+  "id_no": 1339774,
+  "datasetSlugNullable": "efficientnet-v2-weights",
+  "ownerUserNullable": "konradb",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "EfficientNet V2 weights",
+  "subtitleNullable": "Better and faster EfficientNet from the Google repo",
+  "descriptionNullable": "EfficientNetV2 are a family of image classification models, which achieve better parameter efficiency and faster training speed than prior arts. Built upon EfficientNetV1, our EfficientNetV2 models use neural architecture search (NAS) to jointly optimize model size and training speed, and are scaled up in a way for faster training and inference speed. \n\nThe original github repo: https://github.com/google/automl/tree/master/efficientnetv2",
+  "datasetId": 1339774,
+  "datasetSlug": "efficientnet-v2-weights",
+  "hasDatasetSlug": true,
+  "ownerUser": "konradb",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 3727,
+  "totalVotes": 15,
+  "totalDownloads": 29,
+  "title": "EfficientNet V2 weights",
+  "hasTitle": true,
+  "subtitle": "Better and faster EfficientNet from the Google repo",
+  "hasSubtitle": true,
+  "description": "EfficientNetV2 are a family of image classification models, which achieve better parameter efficiency and faster training speed than prior arts. Built upon EfficientNetV1, our EfficientNetV2 models use neural architecture search (NAS) to jointly optimize model size and training speed, and are scaled up in a way for faster training and inference speed. \n\nThe original github repo: https://github.com/google/automl/tree/master/efficientnetv2",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exercise"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

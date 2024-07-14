@@ -1,0 +1,43 @@
+{
+  "id": "pritpal2873/multiple-skin-disease-detection-and-classification",
+  "id_no": 5138420,
+  "datasetSlugNullable": "multiple-skin-disease-detection-and-classification",
+  "ownerUserNullable": "pritpal2873",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Multiple Skin Disease Detection and Classification",
+  "subtitleNullable": "Multiple Skin Disease Image Dataset for Detection and Classification using DL",
+  "descriptionNullable": "Multiple Skin Disease Detection and Classification Dataset contains seven different classes of skin diseases or conditions, which includes:\n- Melanoma\n- Actinic Keratosis\n- Basal Cell Carcinoma\n- Dermatofibroma\n- Nevus\n- Pigmented Benign Keratosis\n- Seborrheic keratosis \n- Squamous Cell Carcinoma\n- Vascular Lesion\n\nMultiple Skin Disease Dataset has taken from ISIC Archive. This dataset can be used to develop deep learning and computer vision models for skin disease detection and classification to improve healthcare systems and to guide dermatologists for better decision making. ",
+  "datasetId": 5138420,
+  "datasetSlug": "multiple-skin-disease-detection-and-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "pritpal2873",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 832,
+  "totalVotes": 3,
+  "totalDownloads": 72,
+  "title": "Multiple Skin Disease Detection and Classification",
+  "hasTitle": true,
+  "subtitle": "Multiple Skin Disease Image Dataset for Detection and Classification using DL",
+  "hasSubtitle": true,
+  "description": "Multiple Skin Disease Detection and Classification Dataset contains seven different classes of skin diseases or conditions, which includes:\n- Melanoma\n- Actinic Keratosis\n- Basal Cell Carcinoma\n- Dermatofibroma\n- Nevus\n- Pigmented Benign Keratosis\n- Seborrheic keratosis \n- Squamous Cell Carcinoma\n- Vascular Lesion\n\nMultiple Skin Disease Dataset has taken from ISIC Archive. This dataset can be used to develop deep learning and computer vision models for skin disease detection and classification to improve healthcare systems and to guide dermatologists for better decision making. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "intermediate",
+    "classification",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "mohamed0hassan/arabic-handwritten-characters",
+  "id_no": 2836600,
+  "datasetSlugNullable": "arabic-handwritten-characters",
+  "ownerUserNullable": "mohamed0hassan",
+  "usabilityRatingNullable": 0.3125,
+  "titleNullable": "Arabic Handwritten Characters",
+  "subtitleNullable": "Arabic Character Classification ",
+  "descriptionNullable": "Arabic characters every character in it's own folder\n\nimage dimensions: 32 * 32 * 3",
+  "datasetId": 2836600,
+  "datasetSlug": "arabic-handwritten-characters",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohamed0hassan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.3125,
+  "hasUsabilityRating": true,
+  "totalViews": 404,
+  "totalVotes": 4,
+  "totalDownloads": 45,
+  "title": "Arabic Handwritten Characters",
+  "hasTitle": true,
+  "subtitle": "Arabic Character Classification ",
+  "hasSubtitle": true,
+  "description": "Arabic characters every character in it's own folder\n\nimage dimensions: 32 * 32 * 3",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "classification",
+    "cnn",
+    "image",
+    "arabic"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

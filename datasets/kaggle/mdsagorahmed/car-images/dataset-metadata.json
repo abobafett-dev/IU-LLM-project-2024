@@ -1,0 +1,43 @@
+{
+  "id": "mdsagorahmed/car-images",
+  "id_no": 3959320,
+  "datasetSlugNullable": "car-images",
+  "ownerUserNullable": "mdsagorahmed",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Car Images",
+  "subtitleNullable": "7-Class Car Image Dataset",
+  "descriptionNullable": "This dataset is a collection of car images divided into seven distinct classes, each representing a different car make and model. It has been carefully curated and labeled to serve as a valuable resource for various computer vision tasks, such as image classification, object detection, and more. Whether you're a machine learning enthusiast, researcher, or developer, this dataset offers an opportunity to explore and experiment with car image recognition.",
+  "datasetId": 3959320,
+  "datasetSlug": "car-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "mdsagorahmed",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 976,
+  "totalVotes": 2,
+  "totalDownloads": 144,
+  "title": "Car Images",
+  "hasTitle": true,
+  "subtitle": "7-Class Car Image Dataset",
+  "hasSubtitle": true,
+  "description": "This dataset is a collection of car images divided into seven distinct classes, each representing a different car make and model. It has been carefully curated and labeled to serve as a valuable resource for various computer vision tasks, such as image classification, object detection, and more. Whether you're a machine learning enthusiast, researcher, or developer, this dataset offers an opportunity to explore and experiment with car image recognition.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "artificial intelligence",
+    "automobiles and vehicles",
+    "computer vision",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

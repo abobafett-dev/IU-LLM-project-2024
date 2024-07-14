@@ -1,0 +1,41 @@
+{
+  "id": "sabbirhossainujjal/potrika-bangla-newspaper-datasets",
+  "id_no": 4514808,
+  "datasetSlugNullable": "potrika-bangla-newspaper-datasets",
+  "ownerUserNullable": "sabbirhossainujjal",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Potrika: Largest Bengali Newspaper Datasets",
+  "subtitleNullable": "Bangla Newspaper Datasets  with Eight Topics and Five Attributes",
+  "descriptionNullable": "**Largest Bengali Newspaper Dataset for news type classification.**\n\nAbstract:\n\nKnowledge is central to human and scientific developments. Natural Language Processing (NLP) allows automated analysis and creation of knowledge. Data is a crucial NLP and machine learning ingredient. The scarcity of open datasets is a well-known problem in machine and deep learning research. This is very much the case for textual NLP datasets in English and other major world languages. For the Bangla language, the situation is even more challenging and the number of large datasets for NLP research is practically nil. We hereby present Potrika, a large single-label Bangla news article textual dataset curated for NLP research from six popular online news portals in Bangladesh (Jugantor, Jaijaidin, Ittefaq, Kaler Kontho, Inqilab, and Somoyer Alo) for the period 2014-2020. The articles are classified into eight distinct categories (National, Sports, Inter-national, Entertainment, Economy, Education, Politics, and Science & Technology) providing five attributes (News Article, Category, Headline, Publication Date, and newspaper Source). The raw dataset contains 185.51 million words and 12.57 million sentences contained in 664,880 news articles. Moreover, using NLP augmentation techniques, we create from the raw (unbalanced) dataset another (balanced) dataset comprising 320,000 news articles with 40,000 articles in each of the eight news categories. Potrika contains both the datasets (raw and balanced) to suit a wide range of NLP research. By far, to the best of our knowledge, Potrika is the largest and the most extensive dataset for news classification.\n\n**cite**:\n`@misc{ahmad2022potrika,\n      title={Potrika: Raw and Balanced Newspaper Datasets in the Bangla Language with Eight Topics and Five Attributes}, \n      author={Istiak Ahmad and Fahad AlQurashi and Rashid Mehmood},\n      year={2022},\n      eprint={2210.09389},\n      archivePrefix={arXiv},\n      primaryClass={cs.CL}\n}`\n\nDataset Source - [Here](https://data.mendeley.com/datasets/v362rp78dc/4)",
+  "datasetId": 4514808,
+  "datasetSlug": "potrika-bangla-newspaper-datasets",
+  "hasDatasetSlug": true,
+  "ownerUser": "sabbirhossainujjal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 80,
+  "totalVotes": 0,
+  "totalDownloads": 7,
+  "title": "Potrika: Largest Bengali Newspaper Datasets",
+  "hasTitle": true,
+  "subtitle": "Bangla Newspaper Datasets  with Eight Topics and Five Attributes",
+  "hasSubtitle": true,
+  "description": "**Largest Bengali Newspaper Dataset for news type classification.**\n\nAbstract:\n\nKnowledge is central to human and scientific developments. Natural Language Processing (NLP) allows automated analysis and creation of knowledge. Data is a crucial NLP and machine learning ingredient. The scarcity of open datasets is a well-known problem in machine and deep learning research. This is very much the case for textual NLP datasets in English and other major world languages. For the Bangla language, the situation is even more challenging and the number of large datasets for NLP research is practically nil. We hereby present Potrika, a large single-label Bangla news article textual dataset curated for NLP research from six popular online news portals in Bangladesh (Jugantor, Jaijaidin, Ittefaq, Kaler Kontho, Inqilab, and Somoyer Alo) for the period 2014-2020. The articles are classified into eight distinct categories (National, Sports, Inter-national, Entertainment, Economy, Education, Politics, and Science & Technology) providing five attributes (News Article, Category, Headline, Publication Date, and newspaper Source). The raw dataset contains 185.51 million words and 12.57 million sentences contained in 664,880 news articles. Moreover, using NLP augmentation techniques, we create from the raw (unbalanced) dataset another (balanced) dataset comprising 320,000 news articles with 40,000 articles in each of the eight news categories. Potrika contains both the datasets (raw and balanced) to suit a wide range of NLP research. By far, to the best of our knowledge, Potrika is the largest and the most extensive dataset for news classification.\n\n**cite**:\n`@misc{ahmad2022potrika,\n      title={Potrika: Raw and Balanced Newspaper Datasets in the Bangla Language with Eight Topics and Five Attributes}, \n      author={Istiak Ahmad and Fahad AlQurashi and Rashid Mehmood},\n      year={2022},\n      eprint={2210.09389},\n      archivePrefix={arXiv},\n      primaryClass={cs.CL}\n}`\n\nDataset Source - [Here](https://data.mendeley.com/datasets/v362rp78dc/4)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "multiclass classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

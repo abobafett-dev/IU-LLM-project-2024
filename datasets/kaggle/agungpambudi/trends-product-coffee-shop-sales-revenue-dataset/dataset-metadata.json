@@ -1,0 +1,43 @@
+{
+  "id": "agungpambudi/trends-product-coffee-shop-sales-revenue-dataset",
+  "id_no": 4074650,
+  "datasetSlugNullable": "trends-product-coffee-shop-sales-revenue-dataset",
+  "ownerUserNullable": "agungpambudi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Maven Roasters: Coffee Shop Sales & Revenue Data",
+  "subtitleNullable": "Unveiling Trends: Time Analysis, Transaction & Revenue in Coffee Shop Sales Data",
+  "descriptionNullable": "This dataset is ideal for exploring the evolving sales trends over time, identifying peak customer traffic days, and delving into the performance metrics of various products. The dataset comprises transactional records from Maven Roasters, a fictional NYC-based coffee shop operating across three distinct locations. It encompasses comprehensive details such as transaction dates, timestamps, geographical specifics, and product-level information. Researchers can analyze the frequency of product sales, pinpoint top revenue drivers, and investigate factors contributing to fluctuations in sales volume.\n\n<br>\n\n| Field | Type | Description |\n| --- | --- | --- |\n|transaction_id | Numeric | Unique identifier for each transaction.|\n|transaction_date | Date | Date when the transaction occurred <br> (YYYY-MM-DD format).|\n|transaction_time | Time | Time of the transaction <br> (HH:MM:SS format).|\n|transaction_qty | Numeric | Quantity of products <br> purchased in a transaction.|\n|store_id | Numeric | Unique identifier for each store location.|\n|store_location | Text | Name or description of the store's <br> physical location.|\n|product_id | Numeric | Unique identifier for each product sold.|\n|unit_price | Numeric | Price of a single unit of the product <br> in the transaction.|\n|product_category | Text | General category to which the product belongs <br> (e.g., Coffee, Tea, Drinking Chocolate).|\n|product_type | Text | Specific type or variant of the product <br> (e.g., Gourmet brewed coffee, Brewed Chai tea, Hot chocolate).|\n|product_detail | Text | Additional details about the product <br> (e.g., specific flavor, size, or blend)|\n\n<br>\n\nReference :\n\nMaven Analytics. (n.d.). Maven Analytics | Data analytics online training for Excel, Power BI, SQL, Tableau, Python and more. [online] Available at: https://mavenanalytics.io [Accessed 6 Dec. 2023].",
+  "datasetId": 4074650,
+  "datasetSlug": "trends-product-coffee-shop-sales-revenue-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "agungpambudi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5217,
+  "totalVotes": 23,
+  "totalDownloads": 1172,
+  "title": "Maven Roasters: Coffee Shop Sales & Revenue Data",
+  "hasTitle": true,
+  "subtitle": "Unveiling Trends: Time Analysis, Transaction & Revenue in Coffee Shop Sales Data",
+  "hasSubtitle": true,
+  "description": "This dataset is ideal for exploring the evolving sales trends over time, identifying peak customer traffic days, and delving into the performance metrics of various products. The dataset comprises transactional records from Maven Roasters, a fictional NYC-based coffee shop operating across three distinct locations. It encompasses comprehensive details such as transaction dates, timestamps, geographical specifics, and product-level information. Researchers can analyze the frequency of product sales, pinpoint top revenue drivers, and investigate factors contributing to fluctuations in sales volume.\n\n<br>\n\n| Field | Type | Description |\n| --- | --- | --- |\n|transaction_id | Numeric | Unique identifier for each transaction.|\n|transaction_date | Date | Date when the transaction occurred <br> (YYYY-MM-DD format).|\n|transaction_time | Time | Time of the transaction <br> (HH:MM:SS format).|\n|transaction_qty | Numeric | Quantity of products <br> purchased in a transaction.|\n|store_id | Numeric | Unique identifier for each store location.|\n|store_location | Text | Name or description of the store's <br> physical location.|\n|product_id | Numeric | Unique identifier for each product sold.|\n|unit_price | Numeric | Price of a single unit of the product <br> in the transaction.|\n|product_category | Text | General category to which the product belongs <br> (e.g., Coffee, Tea, Drinking Chocolate).|\n|product_type | Text | Specific type or variant of the product <br> (e.g., Gourmet brewed coffee, Brewed Chai tea, Hot chocolate).|\n|product_detail | Text | Additional details about the product <br> (e.g., specific flavor, size, or blend)|\n\n<br>\n\nReference :\n\nMaven Analytics. (n.d.). Maven Analytics | Data analytics online training for Excel, Power BI, SQL, Tableau, Python and more. [online] Available at: https://mavenanalytics.io [Accessed 6 Dec. 2023].",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "exploratory data analysis",
+    "geospatial analysis",
+    "time series analysis",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

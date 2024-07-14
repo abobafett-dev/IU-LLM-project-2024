@@ -1,0 +1,43 @@
+{
+  "id": "noobyogi0100/shoe-dataset",
+  "id_no": 1533920,
+  "datasetSlugNullable": "shoe-dataset",
+  "ownerUserNullable": "noobyogi0100",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Shoe Dataset",
+  "subtitleNullable": "Shoe Type Classification Data",
+  "descriptionNullable": "### Context\n\nThis dataset was collected for Topcoder's **EdgeNet Shoe Classification** contest. This challenge required us to classify different types of shoes, and build a classification model that could classify the shoe types.\n\n\n### Content\n\nThis dataset consists of **6 classes** of shoes: **boots, sneakers, flip flops, loafers, sandals, and soccer shoes**. It contains **249** images of each shoe type. The size of the images is variable but the format of each file is **jpeg**.\nThis dataset was acquired by scraping Yahoo Images and Unsplash using a Python script created by me. I took the API which fetches the images for each query and wrote a script to get the images. \nThe dataset contains varied angles of shoes, different scenarios in which shoes are present, and pretty much every variation that you can think of while working on a classification dataset.\n\n\n### Acknowledgements\n\nI would like to thank **Topcoder** community for bringing in such awesome competitions for us to compete and learn new stuff everyday. I would also like to thank my college senior **Yash Jain** for giving me the path to follow to become at least a good machine learning engineer.\n\n\n### Inspiration\n\nYou can use this dataset to train a shoe type classification model which can be used for your social media ads tracker, better shoes recommendations, finding the perfect shoes for you, and many such creative ideas.",
+  "datasetId": 1533920,
+  "datasetSlug": "shoe-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "noobyogi0100",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 30213,
+  "totalVotes": 54,
+  "totalDownloads": 2654,
+  "title": "Shoe Dataset",
+  "hasTitle": true,
+  "subtitle": "Shoe Type Classification Data",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset was collected for Topcoder's **EdgeNet Shoe Classification** contest. This challenge required us to classify different types of shoes, and build a classification model that could classify the shoe types.\n\n\n### Content\n\nThis dataset consists of **6 classes** of shoes: **boots, sneakers, flip flops, loafers, sandals, and soccer shoes**. It contains **249** images of each shoe type. The size of the images is variable but the format of each file is **jpeg**.\nThis dataset was acquired by scraping Yahoo Images and Unsplash using a Python script created by me. I took the API which fetches the images for each query and wrote a script to get the images. \nThe dataset contains varied angles of shoes, different scenarios in which shoes are present, and pretty much every variation that you can think of while working on a classification dataset.\n\n\n### Acknowledgements\n\nI would like to thank **Topcoder** community for bringing in such awesome competitions for us to compete and learn new stuff everyday. I would also like to thank my college senior **Yash Jain** for giving me the path to follow to become at least a good machine learning engineer.\n\n\n### Inspiration\n\nYou can use this dataset to train a shoe type classification model which can be used for your social media ads tracker, better shoes recommendations, finding the perfect shoes for you, and many such creative ideas.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "classification",
+    "image",
+    "multiclass classification",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

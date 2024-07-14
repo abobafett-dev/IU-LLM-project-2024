@@ -1,0 +1,39 @@
+{
+  "id": "/fasttext-wikinews",
+  "id_no": 9235,
+  "datasetSlugNullable": "fasttext-wikinews",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "fastText English Word Vectors",
+  "subtitleNullable": "Word vectors trained on Wikipedia 2017, UMBC webbase corpus, and statmt.org ",
+  "descriptionNullable": "### English Word Vectors\n\n---\n\n###  About fastText<br>\n\nfastText is a library for efficient learning of word representations and sentence classification. One of the key features of fastText word representation is its ability to produce vectors for any words, even made-up ones. Indeed, fastText word vectors are built from vectors of substrings of characters contained in it. This allows you to build vectors even for misspelled words or concatenation of words.\n\n\n### About the vectors<br>\nThese pre-trained vectors contain 1 million word vectors that were learned using Wikipedia 2017, the UMBC webbase corpus and the statmt.org news dataset. In total, it contains 16B tokens.\n\nThe first line of the file contains the number of words in the vocabulary and the size of the vectors. Each line contains a word followed by its vectors, like in the default fastText text format. Each value is space separated. Words are ordered by descending frequency.\n\n### Acknowledgements<br>\nThese word vectors are distributed under the Creative Commons Attribution-Share-Alike License 3.0.\n\nP. Bojanowski*, E. Grave*, A. Joulin, T. Mikolov, Enriching Word Vectors with Subword Information<br>\nA. Joulin, E. Grave, P. Bojanowski, T. Mikolov, Bag of Tricks for Efficient Text Classification<br>\nA. Joulin, E. Grave, P. Bojanowski, M. Douze, H. J\u00e9gou, T. Mikolov, FastText.zip: Compressing text classification models<br><br>\n\n(* These authors contributed equally.)",
+  "datasetId": 9235,
+  "datasetSlug": "fasttext-wikinews",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 13347,
+  "totalVotes": 30,
+  "totalDownloads": 611,
+  "title": "fastText English Word Vectors",
+  "hasTitle": true,
+  "subtitle": "Word vectors trained on Wikipedia 2017, UMBC webbase corpus, and statmt.org ",
+  "hasSubtitle": true,
+  "description": "### English Word Vectors\n\n---\n\n###  About fastText<br>\n\nfastText is a library for efficient learning of word representations and sentence classification. One of the key features of fastText word representation is its ability to produce vectors for any words, even made-up ones. Indeed, fastText word vectors are built from vectors of substrings of characters contained in it. This allows you to build vectors even for misspelled words or concatenation of words.\n\n\n### About the vectors<br>\nThese pre-trained vectors contain 1 million word vectors that were learned using Wikipedia 2017, the UMBC webbase corpus and the statmt.org news dataset. In total, it contains 16B tokens.\n\nThe first line of the file contains the number of words in the vocabulary and the size of the vectors. Each line contains a word followed by its vectors, like in the default fastText text format. Each value is space separated. Words are ordered by descending frequency.\n\n### Acknowledgements<br>\nThese word vectors are distributed under the Creative Commons Attribution-Share-Alike License 3.0.\n\nP. Bojanowski*, E. Grave*, A. Joulin, T. Mikolov, Enriching Word Vectors with Subword Information<br>\nA. Joulin, E. Grave, P. Bojanowski, T. Mikolov, Bag of Tricks for Efficient Text Classification<br>\nA. Joulin, E. Grave, P. Bojanowski, M. Douze, H. J\u00e9gou, T. Mikolov, FastText.zip: Compressing text classification models<br><br>\n\n(* These authors contributed equally.)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-3.0",
+      "name": "CC-BY-SA-3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

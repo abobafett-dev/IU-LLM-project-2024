@@ -1,0 +1,43 @@
+{
+  "id": "ekibee/car-sales-information",
+  "id_no": 2441247,
+  "datasetSlugNullable": "car-sales-information",
+  "ownerUserNullable": "ekibee",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Car Sales",
+  "subtitleNullable": "This is a dataset with data on car sales ads in Russia by region",
+  "descriptionNullable": "The data is taken from a popular website in Russia with ads for the sale of cars. Data is collected hourly from the first hundred pages. The only filter is the region to search for. The date and time of selection is indicated in the \"parse_date\" column.",
+  "datasetId": 2441247,
+  "datasetSlug": "car-sales-information",
+  "hasDatasetSlug": true,
+  "ownerUser": "ekibee",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 45182,
+  "totalVotes": 67,
+  "totalDownloads": 5861,
+  "title": "Car Sales",
+  "hasTitle": true,
+  "subtitle": "This is a dataset with data on car sales ads in Russia by region",
+  "hasSubtitle": true,
+  "description": "The data is taken from a popular website in Russia with ads for the sale of cars. Data is collected hourly from the first hundred pages. The only filter is the region to search for. The date and time of selection is indicated in the \"parse_date\" column.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "russia",
+    "business",
+    "transportation",
+    "tabular",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

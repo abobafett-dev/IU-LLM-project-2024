@@ -1,0 +1,43 @@
+{
+  "id": "aseemdandgaval/23-pet-breeds-image-classification",
+  "id_no": 1615831,
+  "datasetSlugNullable": "23-pet-breeds-image-classification",
+  "ownerUserNullable": "aseemdandgaval",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "23 Pet Breeds Image Classification",
+  "subtitleNullable": "The dataset contains images of dogs and cats with about 170 images per breed.",
+  "descriptionNullable": "### **File Information**\n\n* This Dataset contains images of **dogs** and **cats**.\n* That is 23 of the **most common** breeds; 15 breeds of dogs and 8 breeds of cats.\n* Each of the classes has **170 images** (except the 'mumbai cat' class) and is separated by **folders**.\n* All of the images are in **.jpg** / **.jpeg** format.\n* Most of the images have been cleaned, but further cleaning may be needed to fit to your individual models.\n\n### **Inspiration**\n\n* The dataset is highly inspired by the Oxford Dataset that has 37 breeds of cats and dogs.\n* This one contains the most common breeds of cats and dogs around the world.\n* I really wanted to create my very own dataset, for my custom deep learning model.\n",
+  "datasetId": 1615831,
+  "datasetSlug": "23-pet-breeds-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "aseemdandgaval",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 9072,
+  "totalVotes": 25,
+  "totalDownloads": 1256,
+  "title": "23 Pet Breeds Image Classification",
+  "hasTitle": true,
+  "subtitle": "The dataset contains images of dogs and cats with about 170 images per breed.",
+  "hasSubtitle": true,
+  "description": "### **File Information**\n\n* This Dataset contains images of **dogs** and **cats**.\n* That is 23 of the **most common** breeds; 15 breeds of dogs and 8 breeds of cats.\n* Each of the classes has **170 images** (except the 'mumbai cat' class) and is separated by **folders**.\n* All of the images are in **.jpg** / **.jpeg** format.\n* Most of the images have been cleaned, but further cleaning may be needed to fit to your individual models.\n\n### **Inspiration**\n\n* The dataset is highly inspired by the Oxford Dataset that has 37 breeds of cats and dogs.\n* This one contains the most common breeds of cats and dogs around the world.\n* I really wanted to create my very own dataset, for my custom deep learning model.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "classification",
+    "deep learning",
+    "image",
+    "transfer learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

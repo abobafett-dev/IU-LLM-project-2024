@@ -1,0 +1,42 @@
+{
+  "id": "kingki19/semarang-daily-climate-data-2020-2023",
+  "id_no": 4254113,
+  "datasetSlugNullable": "semarang-daily-climate-data-2020-2023",
+  "ownerUserNullable": "kingki19",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Semarang daily climate data 2020-2023",
+  "subtitleNullable": "Daily climate data in the city of Semarang from 2020 to 2023",
+  "descriptionNullable": "I took this data for research purposes. I've cleaned it up so it's a quality time-series dataset. I wanted to share it with the Kaggle community. Please upvote the dataset if you find this dataset helpful \ud83d\ude01.\n\n# Dataset Information\n**Measured city climate:** Semarang  \n**Data taken from:** [https://dataonline.bmkg.go.id/home](https://dataonline.bmkg.go.id/home)  \n**Stations that take data:** [Stasiun Klimatologi Jawa Tengah](https://iklimjateng.info/)  \n**Range date in dataset:** 1 January 2020 to 31 December 2023  \n**Column explanation:**  \n- **Tanggal:** Daily time (day-month-year)  \n  For this column, i don't set it as datetime type. Convert it to datetime first if you want to use it.\n- **Tn:** Minimum Temperature (\u00b0C)\n- **Tx:** Maximum Temperature (\u00b0C)\n- **Tavg:** Average Temperature (\u00b0C)\n- **RH_avg:** Average Humidity (%)\n- **RR:** Rainfall (mm)\n- **ss:** Duration of Sunshine (hours)\n- **ff_x:** Maximum Wind Speed (m/s)\n- **ddd_x:** Wind Direction at Maximum Speed (\u00b0)\n- **ff_avg:** Average Wind Speed (m/s)\n- **ddd_car:** Most Common Wind Direction (\u00b0)\n\n",
+  "datasetId": 4254113,
+  "datasetSlug": "semarang-daily-climate-data-2020-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "kingki19",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 410,
+  "totalVotes": 7,
+  "totalDownloads": 81,
+  "title": "Semarang daily climate data 2020-2023",
+  "hasTitle": true,
+  "subtitle": "Daily climate data in the city of Semarang from 2020 to 2023",
+  "hasSubtitle": true,
+  "description": "I took this data for research purposes. I've cleaned it up so it's a quality time-series dataset. I wanted to share it with the Kaggle community. Please upvote the dataset if you find this dataset helpful \ud83d\ude01.\n\n# Dataset Information\n**Measured city climate:** Semarang  \n**Data taken from:** [https://dataonline.bmkg.go.id/home](https://dataonline.bmkg.go.id/home)  \n**Stations that take data:** [Stasiun Klimatologi Jawa Tengah](https://iklimjateng.info/)  \n**Range date in dataset:** 1 January 2020 to 31 December 2023  \n**Column explanation:**  \n- **Tanggal:** Daily time (day-month-year)  \n  For this column, i don't set it as datetime type. Convert it to datetime first if you want to use it.\n- **Tn:** Minimum Temperature (\u00b0C)\n- **Tx:** Maximum Temperature (\u00b0C)\n- **Tavg:** Average Temperature (\u00b0C)\n- **RH_avg:** Average Humidity (%)\n- **RR:** Rainfall (mm)\n- **ss:** Duration of Sunshine (hours)\n- **ff_x:** Maximum Wind Speed (m/s)\n- **ddd_x:** Wind Direction at Maximum Speed (\u00b0)\n- **ff_avg:** Average Wind Speed (m/s)\n- **ddd_car:** Most Common Wind Direction (\u00b0)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "weather and climate",
+    "time series analysis",
+    "datetime",
+    "indonesian"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

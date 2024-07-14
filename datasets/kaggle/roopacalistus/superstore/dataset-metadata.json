@@ -1,0 +1,43 @@
+{
+  "id": "roopacalistus/superstore",
+  "id_no": 2594918,
+  "datasetSlugNullable": "superstore",
+  "ownerUserNullable": "roopacalistus",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Retail Supermarket",
+  "subtitleNullable": "Supermarket store data",
+  "descriptionNullable": "The dataset contains sales details of different stores of a supermarket chain that has multiple stores in different parts of the US.\nWith columns such as:\n- Ship Mode\n- Segment\n- Country\n- City\n- State\n- Postal code\n- Region\n- Category\n- Sub-category\n- Sales\n- Quantity\n- Discount\n- Profit",
+  "datasetId": 2594918,
+  "datasetSlug": "superstore",
+  "hasDatasetSlug": true,
+  "ownerUser": "roopacalistus",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 47691,
+  "totalVotes": 85,
+  "totalDownloads": 9372,
+  "title": "Retail Supermarket",
+  "hasTitle": true,
+  "subtitle": "Supermarket store data",
+  "hasSubtitle": true,
+  "description": "The dataset contains sales details of different stores of a supermarket chain that has multiple stores in different parts of the US.\nWith columns such as:\n- Ship Mode\n- Segment\n- Country\n- City\n- State\n- Postal code\n- Region\n- Category\n- Sub-category\n- Sales\n- Quantity\n- Discount\n- Profit",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "categorical",
+    "business",
+    "exploratory data analysis",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "kaushalvivek/hindimediatweets",
+  "id_no": 1357832,
+  "datasetSlugNullable": "hindimediatweets",
+  "ownerUserNullable": "kaushalvivek",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Mainstream Hindi Media Tweets, 2020",
+  "subtitleNullable": "97,000+ Tweets from 5 mainstream Hindi news media sources in 2020.",
+  "descriptionNullable": "### Context and Inspiration\n\nThe core idea behind this dataset is to study the proliferation of Hindi news  from reputable sources concerning the COVID-19 first wave in India. This dataset can also be used for the following purposes:\n- Understanding the popularity of news topics in Hindi news media\n- Studying the propagation of 'fake news' in Hindi news media\n- Studying the spread of clickbait in Hindi news media, as has been done by my paper. [Arxiv Link](https://arxiv.org/abs/2012.07609)\n- Comparing different popular Hindi news sources and their journalistic practices\namong others!\n\n### Content\n\nThis dataset is a collection of 97,000+ tweets by 5 popular and reputed Hindi news sources: BBC Hindi, Dainik Jagran, Dainik Bhaskar, Hindustan and Navbharat Times from late 2019 till late 2020.\n\n### Acknowledgements\n\nI would like to acknowledge the 5 media houses whose tweets have been aggregated here and Twitter.",
+  "datasetId": 1357832,
+  "datasetSlug": "hindimediatweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "kaushalvivek",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2383,
+  "totalVotes": 4,
+  "totalDownloads": 153,
+  "title": "Mainstream Hindi Media Tweets, 2020",
+  "hasTitle": true,
+  "subtitle": "97,000+ Tweets from 5 mainstream Hindi news media sources in 2020.",
+  "hasSubtitle": true,
+  "description": "### Context and Inspiration\n\nThe core idea behind this dataset is to study the proliferation of Hindi news  from reputable sources concerning the COVID-19 first wave in India. This dataset can also be used for the following purposes:\n- Understanding the popularity of news topics in Hindi news media\n- Studying the propagation of 'fake news' in Hindi news media\n- Studying the spread of clickbait in Hindi news media, as has been done by my paper. [Arxiv Link](https://arxiv.org/abs/2012.07609)\n- Comparing different popular Hindi news sources and their journalistic practices\namong others!\n\n### Content\n\nThis dataset is a collection of 97,000+ tweets by 5 popular and reputed Hindi news sources: BBC Hindi, Dainik Jagran, Dainik Bhaskar, Hindustan and Navbharat Times from late 2019 till late 2020.\n\n### Acknowledgements\n\nI would like to acknowledge the 5 media houses whose tweets have been aggregated here and Twitter.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "text",
+    "news",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

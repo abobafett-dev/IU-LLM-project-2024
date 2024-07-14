@@ -1,0 +1,43 @@
+{
+  "id": "praveengovi/tamil-language-corpus-for-nlp",
+  "id_no": 565532,
+  "datasetSlugNullable": "tamil-language-corpus-for-nlp",
+  "ownerUserNullable": "praveengovi",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Tamil - Language Corpus for NLP",
+  "subtitleNullable": " \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0bca\u0bb4\u0bbf \u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0bb8\u0bcd \u0ba4\u0bb0\u0bb5\u0bc1\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1 - \u0b87\u0baf\u0bb1\u0bcd\u0b95\u0bc8 \u0bae\u0bca\u0bb4\u0bbf \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+  "descriptionNullable": "![](https://cms.qz.com/wp-content/uploads/2017/04/tamil.jpg?quality=75&strip=all&w=1400)\n\n### Context\n\nTamil is one of the longest-surviving classical languages in the world.It described as \"the only language of contemporary India which is recognizably continuous with a classical past. The variety and quality of classical Tamil literature has led to it being described as \"one of the great classical traditions and literatures of the world\".\n\nTamil language Corpus helps researches,IT professionals  and students to create tamil language models for classifying sentiments , Topic modeling , text summarisation , text generation ,Named Entity recognition ,Knowledge graph and Chatbot\n\n### Content\n\nTamil language Corpus consist of articles from Wikipedia & Tamil daily news , Dataset split into train and test for ease of use in building machine learning models\n\n### Acknowledgements\n\nThanks to Vanagamudi and Gaurov for contribution to tamil NLP and dataset used for their NLP is really helpful to prepare this dataset\n\nhttps://github.com/vanangamudi/tamil-lm2\nhttps://github.com/goru001/nlp-for-tamil\n\n### Inspiration\n\nEvolving the tamil language in Artificial Intelligence world & contribute to education and research \n",
+  "datasetId": 565532,
+  "datasetSlug": "tamil-language-corpus-for-nlp",
+  "hasDatasetSlug": true,
+  "ownerUser": "praveengovi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 16394,
+  "totalVotes": 37,
+  "totalDownloads": 771,
+  "title": "Tamil - Language Corpus for NLP",
+  "hasTitle": true,
+  "subtitle": " \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0bca\u0bb4\u0bbf \u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0bb8\u0bcd \u0ba4\u0bb0\u0bb5\u0bc1\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1 - \u0b87\u0baf\u0bb1\u0bcd\u0b95\u0bc8 \u0bae\u0bca\u0bb4\u0bbf \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+  "hasSubtitle": true,
+  "description": "![](https://cms.qz.com/wp-content/uploads/2017/04/tamil.jpg?quality=75&strip=all&w=1400)\n\n### Context\n\nTamil is one of the longest-surviving classical languages in the world.It described as \"the only language of contemporary India which is recognizably continuous with a classical past. The variety and quality of classical Tamil literature has led to it being described as \"one of the great classical traditions and literatures of the world\".\n\nTamil language Corpus helps researches,IT professionals  and students to create tamil language models for classifying sentiments , Topic modeling , text summarisation , text generation ,Named Entity recognition ,Knowledge graph and Chatbot\n\n### Content\n\nTamil language Corpus consist of articles from Wikipedia & Tamil daily news , Dataset split into train and test for ease of use in building machine learning models\n\n### Acknowledgements\n\nThanks to Vanagamudi and Gaurov for contribution to tamil NLP and dataset used for their NLP is really helpful to prepare this dataset\n\nhttps://github.com/vanangamudi/tamil-lm2\nhttps://github.com/goru001/nlp-for-tamil\n\n### Inspiration\n\nEvolving the tamil language in Artificial Intelligence world & contribute to education and research \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "business",
+    "artificial intelligence",
+    "nlp",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

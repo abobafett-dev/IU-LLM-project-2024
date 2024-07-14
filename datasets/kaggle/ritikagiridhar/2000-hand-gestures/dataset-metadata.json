@@ -1,0 +1,43 @@
+{
+  "id": "ritikagiridhar/2000-hand-gestures",
+  "id_no": 2206851,
+  "datasetSlugNullable": "2000-hand-gestures",
+  "ownerUserNullable": "ritikagiridhar",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Hand gestures dataset",
+  "subtitleNullable": "Different 207x207 hand gesture images.",
+  "descriptionNullable": "A project for my PROG2051 Artificial Intelligence course at NTNU to classify and recognise over 2000 different hand gestures using AI, ML and image processing. The images  are of my family and friends, and contain different hand gestures under 8 categories (as shown below). The images are 207 x 207.\nPlease do credit me if you are using this dataset for research purposes, thanks! :)",
+  "datasetId": 2206851,
+  "datasetSlug": "2000-hand-gestures",
+  "hasDatasetSlug": true,
+  "ownerUser": "ritikagiridhar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 5410,
+  "totalVotes": 16,
+  "totalDownloads": 612,
+  "title": "Hand gestures dataset",
+  "hasTitle": true,
+  "subtitle": "Different 207x207 hand gesture images.",
+  "hasSubtitle": true,
+  "description": "A project for my PROG2051 Artificial Intelligence course at NTNU to classify and recognise over 2000 different hand gestures using AI, ML and image processing. The images  are of my family and friends, and contain different hand gestures under 8 categories (as shown below). The images are 207 x 207.\nPlease do credit me if you are using this dataset for research purposes, thanks! :)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "dnn",
+    "cnn",
+    "image",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

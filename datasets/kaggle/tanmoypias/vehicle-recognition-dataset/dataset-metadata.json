@@ -1,0 +1,39 @@
+{
+  "id": "tanmoypias/vehicle-recognition-dataset",
+  "id_no": 2287189,
+  "datasetSlugNullable": "vehicle-recognition-dataset",
+  "ownerUserNullable": "tanmoypias",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Vehicle Recognition Dataset",
+  "subtitleNullable": "Accuracy Improvement Challenge!",
+  "descriptionNullable": "Vehicle Recognition Dataset-2022\n\nAccelerometer and gyroscope data were collected by the Vieyra Software app on a Google Pixel 4XL smartphone for the bicycle, bus, and Toyota Camry 2005. Accelerometer and gyroscope data were collected by the Vieyra Software app on a Samsung Galaxy phone for a bicycle, train, and Honda Insight 2013.\n\nFile description: \nbike.csv [City, No Traffic light, Clear Weather, Google Pixel]\nbus.csv [City, No Traffic light, Clear Weather,  Google Pixel]\ncar-city-newark-light-rain.csv [City, Traffic light, Rain, Samsung Galaxy]\ncar-clear.csv (Honda) [City, No Traffic light, Clear Weather, Samsung Galaxy]\ncar-clear2.csv (Toyota) [City, No Traffic light, Clear Weather, Google Pixel]\ncar-rain.csv (Honda) [City, No Traffic light, Rain, Samsung Galaxy]\nrail.csv [City, No Traffic light, Clear Weather, Samsung Galaxy]\n\nColumn Description:\nax, ay, az: accelerometer sensor data\nwx, wy, wz: gyroscope sensor data\ngFx, gFy, gFz: gravity sensor data\n\nResult:\nML-Accuracy\nLogistic Regression-45.36%\nNaive Bayes-58.13%\nSVM-76.12%\nXGBoost-84.73%\nCNN-98%\n\nCorresponding paper:\nPias, Tanmoy Sarkar, David Eisenberg, and Jorge Fresneda Fernandez. \"Accuracy Improvement of Vehicle Recognition by Using Smart Device Sensors.\" Sensors 22, no. 12 (2022): 4397.\nhttps://www.mdpi.com/1671762 \n\nCode:\nhttps://github.com/PiasTanmoy/Vehicle-Recognition-Using-Smart-Sensors ",
+  "datasetId": 2287189,
+  "datasetSlug": "vehicle-recognition-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tanmoypias",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 4855,
+  "totalVotes": 21,
+  "totalDownloads": 589,
+  "title": "Vehicle Recognition Dataset",
+  "hasTitle": true,
+  "subtitle": "Accuracy Improvement Challenge!",
+  "hasSubtitle": true,
+  "description": "Vehicle Recognition Dataset-2022\n\nAccelerometer and gyroscope data were collected by the Vieyra Software app on a Google Pixel 4XL smartphone for the bicycle, bus, and Toyota Camry 2005. Accelerometer and gyroscope data were collected by the Vieyra Software app on a Samsung Galaxy phone for a bicycle, train, and Honda Insight 2013.\n\nFile description: \nbike.csv [City, No Traffic light, Clear Weather, Google Pixel]\nbus.csv [City, No Traffic light, Clear Weather,  Google Pixel]\ncar-city-newark-light-rain.csv [City, Traffic light, Rain, Samsung Galaxy]\ncar-clear.csv (Honda) [City, No Traffic light, Clear Weather, Samsung Galaxy]\ncar-clear2.csv (Toyota) [City, No Traffic light, Clear Weather, Google Pixel]\ncar-rain.csv (Honda) [City, No Traffic light, Rain, Samsung Galaxy]\nrail.csv [City, No Traffic light, Clear Weather, Samsung Galaxy]\n\nColumn Description:\nax, ay, az: accelerometer sensor data\nwx, wy, wz: gyroscope sensor data\ngFx, gFy, gFz: gravity sensor data\n\nResult:\nML-Accuracy\nLogistic Regression-45.36%\nNaive Bayes-58.13%\nSVM-76.12%\nXGBoost-84.73%\nCNN-98%\n\nCorresponding paper:\nPias, Tanmoy Sarkar, David Eisenberg, and Jorge Fresneda Fernandez. \"Accuracy Improvement of Vehicle Recognition by Using Smart Device Sensors.\" Sensors 22, no. 12 (2022): 4397.\nhttps://www.mdpi.com/1671762 \n\nCode:\nhttps://github.com/PiasTanmoy/Vehicle-Recognition-Using-Smart-Sensors ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

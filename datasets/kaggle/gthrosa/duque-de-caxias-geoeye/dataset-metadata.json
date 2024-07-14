@@ -1,0 +1,43 @@
+{
+  "id": "gthrosa/duque-de-caxias-geoeye",
+  "id_no": 1217306,
+  "datasetSlugNullable": "duque-de-caxias-geoeye",
+  "ownerUserNullable": "gthrosa",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Duque de Caxias Geoeye",
+  "subtitleNullable": "Duque de Caxias image obtained from Geoeye sensor",
+  "descriptionNullable": "### Context\nTraditional machine learning algorithms very often assume statistically independent data samples. However, this is not the case in remote sensing image applications, in which pixels present spatial and temporal dependencies. Thus, pixel-based classification plays a vital role in many remote sensing applications, such as land cover and target recognition, just to name a few.\n\n### Content\n\nThe dataset is composed of a .ppm original version of the image, as well as a .pgm annotated ground-truth.\n\nThe Geoeye sensor has acquired the images over the region of Duque de Caxias, Rio de Janeiro, Brazil. Additionally, all images have a resolution of 268x250 pixels and have been annotated to depict the following classes:\n\n * covering of average tonality;\n * bare soil moist;\n * roads;\n * shadows\n * grass lands;\n * covering of clear tonality;\n * covering of tree;\n * covering of dark tonality; and\n * bare soil clear.\n\n### Acknowledgements\n\nIf you use this dataset, we would be greatly thankful if you cite the following work:\n\n* D. Osaku et al. \"Improving land cover classification through contextual-based optimum-path forest\". Information Sciences v.324, (2015): 60-87\n\n### Inspiration\n\n* Fulfill the literature gap in remote sensing images, especially from city-based Brazilian areas;\n* How to improve land cover classification;\n* Do traditional classifiers are often sufficient to overcome such a task;\n* How the proposed task might benefit from more modern Computer Vision approaches.",
+  "datasetId": 1217306,
+  "datasetSlug": "duque-de-caxias-geoeye",
+  "hasDatasetSlug": true,
+  "ownerUser": "gthrosa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 2036,
+  "totalVotes": 3,
+  "totalDownloads": 27,
+  "title": "Duque de Caxias Geoeye",
+  "hasTitle": true,
+  "subtitle": "Duque de Caxias image obtained from Geoeye sensor",
+  "hasSubtitle": true,
+  "description": "### Context\nTraditional machine learning algorithms very often assume statistically independent data samples. However, this is not the case in remote sensing image applications, in which pixels present spatial and temporal dependencies. Thus, pixel-based classification plays a vital role in many remote sensing applications, such as land cover and target recognition, just to name a few.\n\n### Content\n\nThe dataset is composed of a .ppm original version of the image, as well as a .pgm annotated ground-truth.\n\nThe Geoeye sensor has acquired the images over the region of Duque de Caxias, Rio de Janeiro, Brazil. Additionally, all images have a resolution of 268x250 pixels and have been annotated to depict the following classes:\n\n * covering of average tonality;\n * bare soil moist;\n * roads;\n * shadows\n * grass lands;\n * covering of clear tonality;\n * covering of tree;\n * covering of dark tonality; and\n * bare soil clear.\n\n### Acknowledgements\n\nIf you use this dataset, we would be greatly thankful if you cite the following work:\n\n* D. Osaku et al. \"Improving land cover classification through contextual-based optimum-path forest\". Information Sciences v.324, (2015): 60-87\n\n### Inspiration\n\n* Fulfill the literature gap in remote sensing images, especially from city-based Brazilian areas;\n* How to improve land cover classification;\n* Do traditional classifiers are often sufficient to overcome such a task;\n* How the proposed task might benefit from more modern Computer Vision approaches.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "brazil",
+    "environment",
+    "computer science",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

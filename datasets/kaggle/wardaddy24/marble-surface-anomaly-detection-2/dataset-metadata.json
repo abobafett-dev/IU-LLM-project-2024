@@ -1,0 +1,44 @@
+{
+  "id": "wardaddy24/marble-surface-anomaly-detection-2",
+  "id_no": 1428791,
+  "datasetSlugNullable": "marble-surface-anomaly-detection-2",
+  "ownerUserNullable": "wardaddy24",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Marble Surface Anomaly Detection - 2",
+  "subtitleNullable": "Real world use case for anomaly detection",
+  "descriptionNullable": "### Context\n\nThis dataset is an extension of the dataset https://www.kaggle.com/wardaddy24/marble-surface-anomaly-detection. \nThe current dataset is the real-world use case for surface anomaly detection problems. Anomaly detection is one of the most sought scenarios in the field of computer vision.\n\n### Content\n\nThe dataset folder has two folders train and test. In train and test folders there are 4 classes namely: crack, dot, good and joint.\nThere are a total of 2249 files in the train folder and 688 files in the test folder. The images are 256 x 256 in dimension.\nThe images are cropped from the original [dataset] (https://www.kaggle.com/wardaddy24/marble-surface-anomaly-detection). There is no overlapping among the cropped images and the aspect ratio is maintained while generating the crops.\nDue to less availability of the crack, dot and joint classes images, they are augmented using a script. The augmentation is no loss type only the brightness changes and flipping(both horizontal and vertical) of images is done. \n\n### Acknowledgement\n\nI wouldn't be here without the help of Vibhor Deshmukh. He guided and helped in the augmentation and generation of this useful dataset and guided me at every step. Thanks for the guidance and help.\n\n### Experiment Insights\n\nThe dataset is in GoogleNet format.\nImageNets weights are used and transfer learning is done.\nThe 4 class problem is changed to a 2 class problem in the final step where good and joint are classified as a good class and crack and dot are classified as a defect class.\nThe AUROC score is greater than 0.90.\n\n### Inspiration\n\nQ. A classification model that can classify these images into their respective classes.\nQ. How to perform localization of defects in these images.\nQ. How to detect multiple defects in a full image as in the [dataset] (https://www.kaggle.com/wardaddy24/marble-surface-anomaly-detection)",
+  "datasetId": 1428791,
+  "datasetSlug": "marble-surface-anomaly-detection-2",
+  "hasDatasetSlug": true,
+  "ownerUser": "wardaddy24",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 12791,
+  "totalVotes": 13,
+  "totalDownloads": 906,
+  "title": "Marble Surface Anomaly Detection - 2",
+  "hasTitle": true,
+  "subtitle": "Real world use case for anomaly detection",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is an extension of the dataset https://www.kaggle.com/wardaddy24/marble-surface-anomaly-detection. \nThe current dataset is the real-world use case for surface anomaly detection problems. Anomaly detection is one of the most sought scenarios in the field of computer vision.\n\n### Content\n\nThe dataset folder has two folders train and test. In train and test folders there are 4 classes namely: crack, dot, good and joint.\nThere are a total of 2249 files in the train folder and 688 files in the test folder. The images are 256 x 256 in dimension.\nThe images are cropped from the original [dataset] (https://www.kaggle.com/wardaddy24/marble-surface-anomaly-detection). There is no overlapping among the cropped images and the aspect ratio is maintained while generating the crops.\nDue to less availability of the crack, dot and joint classes images, they are augmented using a script. The augmentation is no loss type only the brightness changes and flipping(both horizontal and vertical) of images is done. \n\n### Acknowledgement\n\nI wouldn't be here without the help of Vibhor Deshmukh. He guided and helped in the augmentation and generation of this useful dataset and guided me at every step. Thanks for the guidance and help.\n\n### Experiment Insights\n\nThe dataset is in GoogleNet format.\nImageNets weights are used and transfer learning is done.\nThe 4 class problem is changed to a 2 class problem in the final step where good and joint are classified as a good class and crack and dot are classified as a defect class.\nThe AUROC score is greater than 0.90.\n\n### Inspiration\n\nQ. A classification model that can classify these images into their respective classes.\nQ. How to perform localization of defects in these images.\nQ. How to detect multiple defects in a full image as in the [dataset] (https://www.kaggle.com/wardaddy24/marble-surface-anomaly-detection)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "manufacturing",
+    "computer vision",
+    "classification",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

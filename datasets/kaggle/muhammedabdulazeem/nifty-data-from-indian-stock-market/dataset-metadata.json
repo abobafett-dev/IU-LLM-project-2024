@@ -1,0 +1,42 @@
+{
+  "id": "muhammedabdulazeem/nifty-data-from-indian-stock-market",
+  "id_no": 1158669,
+  "datasetSlugNullable": "nifty-data-from-indian-stock-market",
+  "ownerUserNullable": "muhammedabdulazeem",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Nifty data from Indian Stock Market",
+  "subtitleNullable": "Nifty50 historical data ",
+  "descriptionNullable": "### Context\n\nThis dataset was created to analyze and predict the future trends in the market\n\n\n### Content\n\nThis is dataset was scraped from [here](https://in.investing.com/indices/s-p-cnx-nifty-historical-data?end_date=1577817000&st_date=946665000) using python's scrapy library. It has records from 1st Jan 2000 to the present date as on the dataset was uploaded. I will be uploading the different versions of this dataset. The link to the code for scraping can be found [here](https://github.com/azeem110201/Nifty50)\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYou can analyze the trends and predict how the market will be in future days.",
+  "datasetId": 1158669,
+  "datasetSlug": "nifty-data-from-indian-stock-market",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammedabdulazeem",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 631,
+  "totalVotes": 7,
+  "totalDownloads": 49,
+  "title": "Nifty data from Indian Stock Market",
+  "hasTitle": true,
+  "subtitle": "Nifty50 historical data ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset was created to analyze and predict the future trends in the market\n\n\n### Content\n\nThis is dataset was scraped from [here](https://in.investing.com/indices/s-p-cnx-nifty-historical-data?end_date=1577817000&st_date=946665000) using python's scrapy library. It has records from 1st Jan 2000 to the present date as on the dataset was uploaded. I will be uploading the different versions of this dataset. The link to the code for scraping can be found [here](https://github.com/azeem110201/Nifty50)\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYou can analyze the trends and predict how the market will be in future days.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

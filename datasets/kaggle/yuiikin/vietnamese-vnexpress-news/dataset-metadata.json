@@ -1,0 +1,41 @@
+{
+  "id": "yuiikin/vietnamese-vnexpress-news",
+  "id_no": 892355,
+  "datasetSlugNullable": "vietnamese-vnexpress-news",
+  "ownerUserNullable": "yuiikin",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Vietnamese health news",
+  "subtitleNullable": "5000 Vietnamese articles from vnexpress.net",
+  "descriptionNullable": "### Context\n\nvietnamese news datas were crawled from health category on vnexpress.net site.\nAll datas are not normalized. \n\n### Content\n\n`url`: link of the article\n`title`: title of the article\n`keywords`: keywords of the article\n`description`: description of the article\n`content`: all contents of the article\n`len`: length of the article (words)\n`author`: author of the article\n\n\n### Inspiration\n\n- news title generation\n- fake news generation\n- sentiment classification",
+  "datasetId": 892355,
+  "datasetSlug": "vietnamese-vnexpress-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "yuiikin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 2872,
+  "totalVotes": 3,
+  "totalDownloads": 159,
+  "title": "Vietnamese health news",
+  "hasTitle": true,
+  "subtitle": "5000 Vietnamese articles from vnexpress.net",
+  "hasSubtitle": true,
+  "description": "### Context\n\nvietnamese news datas were crawled from health category on vnexpress.net site.\nAll datas are not normalized. \n\n### Content\n\n`url`: link of the article\n`title`: title of the article\n`keywords`: keywords of the article\n`description`: description of the article\n`content`: all contents of the article\n`len`: length of the article (words)\n`author`: author of the article\n\n\n### Inspiration\n\n- news title generation\n- fake news generation\n- sentiment classification",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "nlp",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

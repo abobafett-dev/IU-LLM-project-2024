@@ -1,0 +1,37 @@
+{
+  "id": "djokester/sales-of-shampoo-over-a-three-year-period",
+  "id_no": 1778,
+  "datasetSlugNullable": "sales-of-shampoo-over-a-three-year-period",
+  "ownerUserNullable": "djokester",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Sales of Shampoo Over a Three Year Period",
+  "subtitleNullable": "Monthly number of sales of shampoo over a 3-year period.",
+  "descriptionNullable": "### Context\n\nThis dataset describes the monthly number of sales of shampoo over a 3-year period.\n\n### Content\n\nThe units are a sales count and there are 36 observations. The original dataset is credited to Makridakis, Wheelwright, and Hyndman (1998).\n\n### Acknowledgements\n\nSource: Time Series Data Library (citing: Makridakis, Wheelwright and Hyndman (1998))",
+  "datasetId": 1778,
+  "datasetSlug": "sales-of-shampoo-over-a-three-year-period",
+  "hasDatasetSlug": true,
+  "ownerUser": "djokester",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 22740,
+  "totalVotes": 14,
+  "totalDownloads": 3242,
+  "title": "Sales of Shampoo Over a Three Year Period",
+  "hasTitle": true,
+  "subtitle": "Monthly number of sales of shampoo over a 3-year period.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset describes the monthly number of sales of shampoo over a 3-year period.\n\n### Content\n\nThe units are a sales count and there are 36 observations. The original dataset is credited to Makridakis, Wheelwright, and Hyndman (1998).\n\n### Acknowledgements\n\nSource: Time Series Data Library (citing: Makridakis, Wheelwright and Hyndman (1998))",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

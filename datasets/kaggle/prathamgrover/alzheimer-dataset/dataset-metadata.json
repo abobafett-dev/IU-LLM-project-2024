@@ -1,0 +1,41 @@
+{
+  "id": "prathamgrover/alzheimer-dataset",
+  "id_no": 3607403,
+  "datasetSlugNullable": "alzheimer-dataset",
+  "ownerUserNullable": "prathamgrover",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Alzheimer dataset",
+  "subtitleNullable": "Brain Alzheimer's dataset for classification",
+  "descriptionNullable": "Use this dataset for classifying if there is dementia forming up in the brain or not. MCI refers to mild cognitive impairment(early stage of Alzheimer) and CN refers to Cognitive Impairment(No dementia)",
+  "datasetId": 3607403,
+  "datasetSlug": "alzheimer-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "prathamgrover",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 2803,
+  "totalVotes": 10,
+  "totalDownloads": 262,
+  "title": "Alzheimer dataset",
+  "hasTitle": true,
+  "subtitle": "Brain Alzheimer's dataset for classification",
+  "hasSubtitle": true,
+  "description": "Use this dataset for classifying if there is dementia forming up in the brain or not. MCI refers to mild cognitive impairment(early stage of Alzheimer) and CN refers to Cognitive Impairment(No dementia)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "multiclass classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

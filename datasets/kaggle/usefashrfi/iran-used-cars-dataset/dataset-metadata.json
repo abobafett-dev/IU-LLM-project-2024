@@ -1,0 +1,43 @@
+{
+  "id": "usefashrfi/iran-used-cars-dataset",
+  "id_no": 2387978,
+  "datasetSlugNullable": "iran-used-cars-dataset",
+  "ownerUserNullable": "usefashrfi",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Iran Cars",
+  "subtitleNullable": "Near 10000 car images were scraped from sheypoor.com ads.",
+  "descriptionNullable": "for the image classification course project, I needed some car data set but didn't want to use data sets in Kaggle like Stanford cars dataset, etc so decided to make one on my own and then write some codes to scrape data from sheypoor.com car ads. I decided to load data set here on Kaggle and share some notebooks and hoping this data set can be fun to explore for the community!\n\nHere we find a small data set of 9737 images in the folder iran-used-cars-dataset distributed in 13 classes as follows:\n\nfolder: Mazda-2000: 607 images\nfolder: Nissan-Zamiad: 589 images\nfolder: Peugeot-206: 787 images\nfolder: Peugeot-207i: 737 images\nfolder: Peugeot-405: 585 images\nfolder: Peugeot-Pars: 738 images\nfolder: Peykan: 761 images\nfolder: Pride-111: 858 images\nfolder: Pride-131: 749 images\nfolder: Quik: 1005 images\nfolder: Renault-L90: 646 images\nfolder: Samand: 843 images\nfolder: Tiba2: 832 images\n\nin the split folder, I have used the splitfolders lib to split the data in 70:15:15 ratio to make it easier to use.",
+  "datasetId": 2387978,
+  "datasetSlug": "iran-used-cars-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "usefashrfi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 6608,
+  "totalVotes": 47,
+  "totalDownloads": 1974,
+  "title": "Iran Cars",
+  "hasTitle": true,
+  "subtitle": "Near 10000 car images were scraped from sheypoor.com ads.",
+  "hasSubtitle": true,
+  "description": "for the image classification course project, I needed some car data set but didn't want to use data sets in Kaggle like Stanford cars dataset, etc so decided to make one on my own and then write some codes to scrape data from sheypoor.com car ads. I decided to load data set here on Kaggle and share some notebooks and hoping this data set can be fun to explore for the community!\n\nHere we find a small data set of 9737 images in the folder iran-used-cars-dataset distributed in 13 classes as follows:\n\nfolder: Mazda-2000: 607 images\nfolder: Nissan-Zamiad: 589 images\nfolder: Peugeot-206: 787 images\nfolder: Peugeot-207i: 737 images\nfolder: Peugeot-405: 585 images\nfolder: Peugeot-Pars: 738 images\nfolder: Peykan: 761 images\nfolder: Pride-111: 858 images\nfolder: Pride-131: 749 images\nfolder: Quik: 1005 images\nfolder: Renault-L90: 646 images\nfolder: Samand: 843 images\nfolder: Tiba2: 832 images\n\nin the split folder, I have used the splitfolders lib to split the data in 70:15:15 ratio to make it easier to use.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "beginner",
+    "classification",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

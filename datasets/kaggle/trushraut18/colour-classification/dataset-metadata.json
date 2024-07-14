@@ -1,0 +1,44 @@
+{
+  "id": "trushraut18/colour-classification",
+  "id_no": 665988,
+  "datasetSlugNullable": "colour-classification",
+  "ownerUserNullable": "trushraut18",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Colour_Classification ",
+  "subtitleNullable": "Multi-Class Classification ,Image Dataset , CNN model,Deep Learning",
+  "descriptionNullable": "Given dataset is multiclass classification problem also called as RGB classification .This dataset contain about 900 images for trainset dataset for each color classes and 100 images for the test set for each class.This dataset gives high accuracy as it contain every possible feature which a model should cover.Also it contains validation set of 100 images per class so that model will not overfit.",
+  "datasetId": 665988,
+  "datasetSlug": "colour-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "trushraut18",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 3471,
+  "totalVotes": 3,
+  "totalDownloads": 239,
+  "title": "Colour_Classification ",
+  "hasTitle": true,
+  "subtitle": "Multi-Class Classification ,Image Dataset , CNN model,Deep Learning",
+  "hasSubtitle": true,
+  "description": "Given dataset is multiclass classification problem also called as RGB classification .This dataset contain about 900 images for trainset dataset for each color classes and 100 images for the test set for each class.This dataset gives high accuracy as it contain every possible feature which a model should cover.Also it contains validation set of 100 images per class so that model will not overfit.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "computer science",
+    "classification",
+    "deep learning",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

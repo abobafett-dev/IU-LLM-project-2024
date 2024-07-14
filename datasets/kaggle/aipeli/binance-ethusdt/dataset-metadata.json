@@ -1,0 +1,43 @@
+{
+  "id": "aipeli/binance-ethusdt",
+  "id_no": 1766844,
+  "datasetSlugNullable": "binance-ethusdt",
+  "ownerUserNullable": "aipeli",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Binance Ethereum Historical Data",
+  "subtitleNullable": "Binance | Ethereum | Spot | ETHUSDT | 1 Minute Data",
+  "descriptionNullable": "### This is a historical bitcoin ETH/USDT 1 minute kline dataset from [Binance Exchange](https://accounts.binance.me/en/register?ref=HOR1N9NY)\nTime range\uff08UTC+8\uff09:  `Jan,01,2021` - `Dec,03,2021`\n\nThe data consists of  `484,287` records\n\nExchange Object: `ETHUSDT SPOT`\n### Dataset columns\n&gt; \nt:  Unix timestamp\no: Opening price on the given day\nh: Highest price on the given day\nl: Lowest price on the given day\nc: Closing price on the given day\nv: Volume of transactions on the given day\n\n### Incomplete data log\n`720 data records for 12 hours`\n```\n\u26d4 [Binance kline_1m] From [2021-02-11 00:00:00]to[2021-02-11 11:59:59], download: 701, saved: 701\n\u26d4 [Binance kline_1m] From [2021-02-11 12:00:00]to[2021-02-11 23:59:59], download: 660, saved: 660\n\u26d4 [Binance kline_1m] From [2021-03-06 00:00:00]to[2021-03-06 11:59:59], download: 630, saved: 630\n\u26d4 [Binance kline_1m] From [2021-04-20 00:00:00]to[2021-04-20 11:59:59], download: 600, saved: 600\n\u26d4 [Binance kline_1m] From [2021-04-20 12:00:00]to[2021-04-20 23:59:59], download: 690, saved: 690\n\u26d4 [Binance kline_1m] From [2021-04-25 12:00:00]to[2021-04-25 23:59:59], download: 436, saved: 436 \n\u26d4 [Binance kline_1m] From [2021-08-13 00:00:00]to[2021-08-13 11:59:59], download: 600, saved: 600  \n\u26d4 [Binance kline_1m] From [2021-08-13 12:00:00]to[2021-08-13 23:59:59], download: 570, saved: 570 \n\u26d4 [Binance kline_1m] From [2021-09-29 12:00:00]to[2021-09-29 23:59:59], download: 600, saved: 600 \n```",
+  "datasetId": 1766844,
+  "datasetSlug": "binance-ethusdt",
+  "hasDatasetSlug": true,
+  "ownerUser": "aipeli",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1703,
+  "totalVotes": 8,
+  "totalDownloads": 198,
+  "title": "Binance Ethereum Historical Data",
+  "hasTitle": true,
+  "subtitle": "Binance | Ethereum | Spot | ETHUSDT | 1 Minute Data",
+  "hasSubtitle": true,
+  "description": "### This is a historical bitcoin ETH/USDT 1 minute kline dataset from [Binance Exchange](https://accounts.binance.me/en/register?ref=HOR1N9NY)\nTime range\uff08UTC+8\uff09:  `Jan,01,2021` - `Dec,03,2021`\n\nThe data consists of  `484,287` records\n\nExchange Object: `ETHUSDT SPOT`\n### Dataset columns\n&gt; \nt:  Unix timestamp\no: Opening price on the given day\nh: Highest price on the given day\nl: Lowest price on the given day\nc: Closing price on the given day\nv: Volume of transactions on the given day\n\n### Incomplete data log\n`720 data records for 12 hours`\n```\n\u26d4 [Binance kline_1m] From [2021-02-11 00:00:00]to[2021-02-11 11:59:59], download: 701, saved: 701\n\u26d4 [Binance kline_1m] From [2021-02-11 12:00:00]to[2021-02-11 23:59:59], download: 660, saved: 660\n\u26d4 [Binance kline_1m] From [2021-03-06 00:00:00]to[2021-03-06 11:59:59], download: 630, saved: 630\n\u26d4 [Binance kline_1m] From [2021-04-20 00:00:00]to[2021-04-20 11:59:59], download: 600, saved: 600\n\u26d4 [Binance kline_1m] From [2021-04-20 12:00:00]to[2021-04-20 23:59:59], download: 690, saved: 690\n\u26d4 [Binance kline_1m] From [2021-04-25 12:00:00]to[2021-04-25 23:59:59], download: 436, saved: 436 \n\u26d4 [Binance kline_1m] From [2021-08-13 00:00:00]to[2021-08-13 11:59:59], download: 600, saved: 600  \n\u26d4 [Binance kline_1m] From [2021-08-13 12:00:00]to[2021-08-13 23:59:59], download: 570, saved: 570 \n\u26d4 [Binance kline_1m] From [2021-09-29 12:00:00]to[2021-09-29 23:59:59], download: 600, saved: 600 \n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "history",
+    "finance",
+    "time series analysis",
+    "investing",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "pavellexyr/reddit-cryptocurrency-data-for-august-2021",
+  "id_no": 1615977,
+  "datasetSlugNullable": "reddit-cryptocurrency-data-for-august-2021",
+  "ownerUserNullable": "pavellexyr",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Reddit cryptocurrency data for August 2021",
+  "subtitleNullable": "The collection of posts/comments on various crypto subreddits for August 2021.",
+  "descriptionNullable": "### Context\n\nThe cryptocurrency community is a growing force in the Internet, especially now as DeFi-based transactions gain worldwide acceptance. This dataset aims to help analyze public sentiment on various cryptocurrencies over a given month.\n\n\n### Content\n\nThe following dataset is a comprehensive list of all the posts and comments made on several of Reddit's cryptocurrency boards from August 1 to August 31 of 2021. The data includes the following subreddits:\n- /r/cryptocurrency\n- /r/cryptocurrencyclassic\n- /r/cryptocurrencyico\n- /r/cryptomars\n- /r/cryptomoon\n- /r/cryptomoonshots\n- /r/satoshistreetbets\n\nThe dataset was procured using [SocialGrep](https://socialgrep.com/datasets?utm_source=kaggle&utm_medium=link&utm_campaign=dataset&utm_term=crypto#crypto-aug-2021).\n\nTo preserve users' anonymity and to prevent targeted harassment, the data does not include usernames.\n\n\n### Acknowledgements\n\nThis dataset is built by the SocialGrep community.\n\n\n### Inspiration\n\n- Can we predict a token's success based on Reddit data?\n- How does public perception of a cryptocurrency shift with the news?\n- Are there any other insights that we can get from Reddit's crypto boards?",
+  "datasetId": 1615977,
+  "datasetSlug": "reddit-cryptocurrency-data-for-august-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "pavellexyr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 5212,
+  "totalVotes": 9,
+  "totalDownloads": 206,
+  "title": "Reddit cryptocurrency data for August 2021",
+  "hasTitle": true,
+  "subtitle": "The collection of posts/comments on various crypto subreddits for August 2021.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe cryptocurrency community is a growing force in the Internet, especially now as DeFi-based transactions gain worldwide acceptance. This dataset aims to help analyze public sentiment on various cryptocurrencies over a given month.\n\n\n### Content\n\nThe following dataset is a comprehensive list of all the posts and comments made on several of Reddit's cryptocurrency boards from August 1 to August 31 of 2021. The data includes the following subreddits:\n- /r/cryptocurrency\n- /r/cryptocurrencyclassic\n- /r/cryptocurrencyico\n- /r/cryptomars\n- /r/cryptomoon\n- /r/cryptomoonshots\n- /r/satoshistreetbets\n\nThe dataset was procured using [SocialGrep](https://socialgrep.com/datasets?utm_source=kaggle&utm_medium=link&utm_campaign=dataset&utm_term=crypto#crypto-aug-2021).\n\nTo preserve users' anonymity and to prevent targeted harassment, the data does not include usernames.\n\n\n### Acknowledgements\n\nThis dataset is built by the SocialGrep community.\n\n\n### Inspiration\n\n- Can we predict a token's success based on Reddit data?\n- How does public perception of a cryptocurrency shift with the news?\n- Are there any other insights that we can get from Reddit's crypto boards?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "nlp",
+    "investing",
+    "currencies and foreign exchange",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

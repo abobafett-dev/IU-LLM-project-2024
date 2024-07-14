@@ -1,0 +1,44 @@
+{
+  "id": "datazng/delta-airline-review-dataset-sentiment-analysis",
+  "id_no": 2925587,
+  "datasetSlugNullable": "delta-airline-review-dataset-sentiment-analysis",
+  "ownerUserNullable": "datazng",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Delta Airline Review data for Sentiment Analysis",
+  "subtitleNullable": "Suitable for Text Mining, Sentiment Analysis, Service Improvement Recommendation",
+  "descriptionNullable": "The dataset was scrapped and complied from website https://www.airlinequality.com/airline-reviews/delta-air-lines by utilizing Python BeautifulSoup package and data manipulation packages including pandas and numpy.\n\nThe expected data science tasks including:\n1. Sentiment analysis utilizing text mining\n2. Data Visualization: popular flight, high rating seat type, customers segmentation, etc \n3. Booking recommendation prediction by using predictive modeling\n\nKey data features are:\n1. Flight route ( geographic location )\n2. Flight date\n3. Rating score\n4. Seat Type ( Economy, Business, First Class)\n5. Reviewer country\n6. Reviewer travel type ( for segment analysis )\n....... \n\nThe dateset has been slightly pre-processed. Please enjoy!",
+  "datasetId": 2925587,
+  "datasetSlug": "delta-airline-review-dataset-sentiment-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "datazng",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 3234,
+  "totalVotes": 12,
+  "totalDownloads": 358,
+  "title": "Delta Airline Review data for Sentiment Analysis",
+  "hasTitle": true,
+  "subtitle": "Suitable for Text Mining, Sentiment Analysis, Service Improvement Recommendation",
+  "hasSubtitle": true,
+  "description": "The dataset was scrapped and complied from website https://www.airlinequality.com/airline-reviews/delta-air-lines by utilizing Python BeautifulSoup package and data manipulation packages including pandas and numpy.\n\nThe expected data science tasks including:\n1. Sentiment analysis utilizing text mining\n2. Data Visualization: popular flight, high rating seat type, customers segmentation, etc \n3. Booking recommendation prediction by using predictive modeling\n\nKey data features are:\n1. Flight route ( geographic location )\n2. Flight date\n3. Rating score\n4. Seat Type ( Economy, Business, First Class)\n5. Reviewer country\n6. Reviewer travel type ( for segment analysis )\n....... \n\nThe dateset has been slightly pre-processed. Please enjoy!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "programming",
+    "text mining",
+    "text",
+    "ratings and reviews",
+    "text pre-processing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

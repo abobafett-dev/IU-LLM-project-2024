@@ -1,0 +1,43 @@
+{
+  "id": "mauryansshivam/new-york-times-tech-news-oct-25-nov-27",
+  "id_no": 4062836,
+  "datasetSlugNullable": "new-york-times-tech-news-oct-25-nov-27",
+  "ownerUserNullable": "mauryansshivam",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "New York Times 500+ Tech News (Oct 25 - Nov 27); ",
+  "subtitleNullable": "Listed Tech Headlines and Description of The New York Times (Oct 25 - Nov 25)",
+  "descriptionNullable": "**New York Times Tech News (Oct 25 - Nov 27)** contains Tech News Headlines with descriptions from 25 October to 25 November. This data scrapped using python library bs4.  \n\n**[The New York Times Tech News Section](https://www.nytimes.com/section/technology)**\n\n**[Python Code used for Scrapping.](https://github.com/shivam-maurya-git/Web-Scrapping/blob/main/The%20New%20York%20Times%20Tech%20News/new_yorktimes.py)**",
+  "datasetId": 4062836,
+  "datasetSlug": "new-york-times-tech-news-oct-25-nov-27",
+  "hasDatasetSlug": true,
+  "ownerUser": "mauryansshivam",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 655,
+  "totalVotes": 12,
+  "totalDownloads": 67,
+  "title": "New York Times 500+ Tech News (Oct 25 - Nov 27); ",
+  "hasTitle": true,
+  "subtitle": "Listed Tech Headlines and Description of The New York Times (Oct 25 - Nov 25)",
+  "hasSubtitle": true,
+  "description": "**New York Times Tech News (Oct 25 - Nov 27)** contains Tech News Headlines with descriptions from 25 October to 25 November. This data scrapped using python library bs4.  \n\n**[The New York Times Tech News Section](https://www.nytimes.com/section/technology)**\n\n**[Python Code used for Scrapping.](https://github.com/shivam-maurya-git/Web-Scrapping/blob/main/The%20New%20York%20Times%20Tech%20News/new_yorktimes.py)**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "science and technology",
+    "beginner",
+    "data visualization",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

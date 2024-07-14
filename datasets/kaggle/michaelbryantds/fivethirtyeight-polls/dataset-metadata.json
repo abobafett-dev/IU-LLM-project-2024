@@ -1,0 +1,42 @@
+{
+  "id": "michaelbryantds/fivethirtyeight-polls",
+  "id_no": 2589074,
+  "datasetSlugNullable": "fivethirtyeight-polls",
+  "ownerUserNullable": "michaelbryantds",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "FiveThirtyEight Election Polls Dataset",
+  "subtitleNullable": "For presidential, house, senate, and governor elections",
+  "descriptionNullable": "FiveThirtyEight, sometimes rendered as 538, is an American website that focuses on opinion poll analysis, politics, economics, and sports blogging in the United States. The website, which takes its name from the number of electors in the United States electoral college, 538 was founded on March 7, 2008, as a polling aggregation website with a blog created by analyst Nate Silver. In August 2010, the blog became a licensed feature of The New York Times online and renamed FiveThirtyEight: Nate Silver's Political Calculus. \n\nThis dataset contains polls for presidential elections (1968-2020), and house, senate, and governor elections for 2022.\n\nSource: https://projects.fivethirtyeight.com/2022-election-forecast/\n\n### See README.md for more information.",
+  "datasetId": 2589074,
+  "datasetSlug": "fivethirtyeight-polls",
+  "hasDatasetSlug": true,
+  "ownerUser": "michaelbryantds",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 783,
+  "totalVotes": 9,
+  "totalDownloads": 60,
+  "title": "FiveThirtyEight Election Polls Dataset",
+  "hasTitle": true,
+  "subtitle": "For presidential, house, senate, and governor elections",
+  "hasSubtitle": true,
+  "description": "FiveThirtyEight, sometimes rendered as 538, is an American website that focuses on opinion poll analysis, politics, economics, and sports blogging in the United States. The website, which takes its name from the number of electors in the United States electoral college, 538 was founded on March 7, 2008, as a polling aggregation website with a blog created by analyst Nate Silver. In August 2010, the blog became a licensed feature of The New York Times online and renamed FiveThirtyEight: Nate Silver's Political Calculus. \n\nThis dataset contains polls for presidential elections (1968-2020), and house, senate, and governor elections for 2022.\n\nSource: https://projects.fivethirtyeight.com/2022-election-forecast/\n\n### See README.md for more information.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "politics",
+    "exploratory data analysis",
+    "classification",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

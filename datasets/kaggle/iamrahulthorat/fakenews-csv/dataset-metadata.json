@@ -1,0 +1,45 @@
+{
+  "id": "iamrahulthorat/fakenews-csv",
+  "id_no": 4596032,
+  "datasetSlugNullable": "fakenews-csv",
+  "ownerUserNullable": "iamrahulthorat",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "fakenews.csv",
+  "subtitleNullable": "Think you know what\u2019s real and what\u2019s fake?",
+  "descriptionNullable": "fakenews.csv is a collection of 4729 unique values that have been labeled as either real or fake. This dataset is useful for training machine learning models to detect fake news.\n\nThis dataset can be used for various applications such as:\n- Training machine learning models to detect fake news in real-time streams of social media posts or news articles.\n- Developing natural language processing (NLP) algorithms that can identify patterns in language use that are indicative of fake news.\n- Creating explainable models that can provide insights into why certain articles are classified as fake news.\n- Evaluating the effectiveness of different feature engineering techniques and machine learning algorithms for detecting fake news.\n- Building applications that can help users make informed decisions about whether to trust a news article or not.",
+  "datasetId": 4596032,
+  "datasetSlug": "fakenews-csv",
+  "hasDatasetSlug": true,
+  "ownerUser": "iamrahulthorat",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 5736,
+  "totalVotes": 31,
+  "totalDownloads": 819,
+  "title": "fakenews.csv",
+  "hasTitle": true,
+  "subtitle": "Think you know what\u2019s real and what\u2019s fake?",
+  "hasSubtitle": true,
+  "description": "fakenews.csv is a collection of 4729 unique values that have been labeled as either real or fake. This dataset is useful for training machine learning models to detect fake news.\n\nThis dataset can be used for various applications such as:\n- Training machine learning models to detect fake news in real-time streams of social media posts or news articles.\n- Developing natural language processing (NLP) algorithms that can identify patterns in language use that are indicative of fake news.\n- Creating explainable models that can provide insights into why certain articles are classified as fake news.\n- Evaluating the effectiveness of different feature engineering techniques and machine learning algorithms for detecting fake news.\n- Building applications that can help users make informed decisions about whether to trust a news article or not.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer science",
+    "nlp",
+    "text",
+    "news",
+    "text classification",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "muhammadusmanfarooq/pakistan-solar-radiation-dataset",
+  "id_no": 2662530,
+  "datasetSlugNullable": "pakistan-solar-radiation-dataset",
+  "ownerUserNullable": "muhammadusmanfarooq",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Pakistan Solar Radiation Dataset",
+  "subtitleNullable": "Multiple cities solar radiation measurements dataset in different stations.",
+  "descriptionNullable": "Multiple cities dataset in Pakistan including:\n- Karachi\n- Lahore\n- Islamabad\n- Peshawar\n\nThere is also a combined CSV which includes combined data of these cities, consisting of:\n - 479618 rows\n - 16 columns\n\n\nFeatures metadata description:\n\n- 'time' = Date time\n- 'ghi_pyr' = GHI Pyranometer\n- 'dni' = Direct normal irradiance (DNI)\n- 'dhi' = Diffuse horizontal irradiance (DHI)\n- 'air_temperature' = Temperature\n- 'relative_humidity', = Humidity\n- 'wind_speed' = Wind speed\n- 'wind_speed_of_gust' = Speed of gust\n- 'wind_from_direction_st_dev', = Wind direction standard deviation\n- 'wind_from_direction' = Direction\n- 'barometric_pressure' = Pressure\n- 'sensor_cleaning' = Sensor cleaning\n- 'comments' = Station comments\n- 'actual_date' = Datetime\n- 'day_lenght' = Day lenght (sunset - sunrise)\n- 'ghi_rsi' = GHI Rotating Shadowband Irradiometer (RSI)\n\n## Please do UPVOTE to show your support  \ud83d\ude4c ",
+  "datasetId": 2662530,
+  "datasetSlug": "pakistan-solar-radiation-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammadusmanfarooq",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1421,
+  "totalVotes": 14,
+  "totalDownloads": 216,
+  "title": "Pakistan Solar Radiation Dataset",
+  "hasTitle": true,
+  "subtitle": "Multiple cities solar radiation measurements dataset in different stations.",
+  "hasSubtitle": true,
+  "description": "Multiple cities dataset in Pakistan including:\n- Karachi\n- Lahore\n- Islamabad\n- Peshawar\n\nThere is also a combined CSV which includes combined data of these cities, consisting of:\n - 479618 rows\n - 16 columns\n\n\nFeatures metadata description:\n\n- 'time' = Date time\n- 'ghi_pyr' = GHI Pyranometer\n- 'dni' = Direct normal irradiance (DNI)\n- 'dhi' = Diffuse horizontal irradiance (DHI)\n- 'air_temperature' = Temperature\n- 'relative_humidity', = Humidity\n- 'wind_speed' = Wind speed\n- 'wind_speed_of_gust' = Speed of gust\n- 'wind_from_direction_st_dev', = Wind direction standard deviation\n- 'wind_from_direction' = Direction\n- 'barometric_pressure' = Pressure\n- 'sensor_cleaning' = Sensor cleaning\n- 'comments' = Station comments\n- 'actual_date' = Datetime\n- 'day_lenght' = Day lenght (sunset - sunrise)\n- 'ghi_rsi' = GHI Rotating Shadowband Irradiometer (RSI)\n\n## Please do UPVOTE to show your support  \ud83d\ude4c ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "energy",
+    "tabular",
+    "regression",
+    "pandas",
+    "sklearn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

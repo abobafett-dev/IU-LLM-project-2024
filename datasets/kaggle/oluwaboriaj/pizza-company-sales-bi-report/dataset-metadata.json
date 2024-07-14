@@ -1,0 +1,37 @@
+{
+  "id": "oluwaboriaj/pizza-company-sales-bi-report",
+  "id_no": 3907682,
+  "datasetSlugNullable": "pizza-company-sales-bi-report",
+  "ownerUserNullable": "oluwaboriaj",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Company Product Sales Analysis & BI Report",
+  "subtitleNullable": "PowerBI and SQL Project:- Company Pizza Sales Analysis and Visualization",
+  "descriptionNullable": "This is a self-guided project.\n\nPROBLEM STATEMENT:\nWhat underlying trends could the company be missing out on in our Pizza Sales data that can aid in gap analysis of its business sales.\n\nOBJECTIVES:\n1. Generate Key Performance Indicators (KPIs) of the Pizza Sales data for insight gain into underlying business performance.\n2. Visualize important aspects of the Pizza Sales data to gain insight and understand key trends\\\n\nI dived into the csv dataset to uncover patterns within the Pizza Sales data which spanned across a calendar.\n\nUsed Microsoft SQL SMSS to perform EDA (Exploratory Data Analysis); ergo, identifying trends and sales patterns.\n\nHaving completed that, I used the Microsoft Power BI to create a visualization as a means to visually represent of my analytical findings to technical and non-technical viewers.\n\nSTEPS COMPLETED:\nData Importation \nSQL Data analysis query writing\nData Cleaning\nData Processing\nData Visualization\nReport/Dashboard Development",
+  "datasetId": 3907682,
+  "datasetSlug": "pizza-company-sales-bi-report",
+  "hasDatasetSlug": true,
+  "ownerUser": "oluwaboriaj",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 1188,
+  "totalVotes": 3,
+  "totalDownloads": 311,
+  "title": "Company Product Sales Analysis & BI Report",
+  "hasTitle": true,
+  "subtitle": "PowerBI and SQL Project:- Company Pizza Sales Analysis and Visualization",
+  "hasSubtitle": true,
+  "description": "This is a self-guided project.\n\nPROBLEM STATEMENT:\nWhat underlying trends could the company be missing out on in our Pizza Sales data that can aid in gap analysis of its business sales.\n\nOBJECTIVES:\n1. Generate Key Performance Indicators (KPIs) of the Pizza Sales data for insight gain into underlying business performance.\n2. Visualize important aspects of the Pizza Sales data to gain insight and understand key trends\\\n\nI dived into the csv dataset to uncover patterns within the Pizza Sales data which spanned across a calendar.\n\nUsed Microsoft SQL SMSS to perform EDA (Exploratory Data Analysis); ergo, identifying trends and sales patterns.\n\nHaving completed that, I used the Microsoft Power BI to create a visualization as a means to visually represent of my analytical findings to technical and non-technical viewers.\n\nSTEPS COMPLETED:\nData Importation \nSQL Data analysis query writing\nData Cleaning\nData Processing\nData Visualization\nReport/Dashboard Development",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

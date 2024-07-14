@@ -1,0 +1,39 @@
+{
+  "id": "ictinstitute/legocolor-dataset",
+  "id_no": 3502986,
+  "datasetSlugNullable": "legocolor-dataset",
+  "ownerUserNullable": "ictinstitute",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Legocolor dataset",
+  "subtitleNullable": "Colourful, simple dataset for learning classification",
+  "descriptionNullable": "Color classification is interesting because it is a real world problem, and it is difficult. Color classification is a subtask in computer vision and robotics: recognising an object by its color is often used in robot navigation. There are robot football leagues where the two goals and the ball have different colors and the robots must recognize goals, the ball and other robots based on color.\nHumans are generally good at sorting lego by color, son one would expect that color classification is an easy task. Unfortunately, it is surprisingly difficult. The same object will appear to have different colors depending on the lighting conditions. The human eye and brain are good compensate for the lighting conditions automatically, so most people are quite good at this task. Electronic cameras are not so good at this, and computers and robots thus often make mistakes. The example shown below shows that the same lego object can register as light grey or dark grey depending on the circumstance. It will be hard to classify these two colors correctly in all photos.\n\nThe Legocolor dataset was created by taking multiple pictures of the same lego setup. Lego was chosen so that other researchers can recreate the results and extend the dataset if needed. Anyone can order the required lego sets, build the same setup and make additional photos. The Lego setup was photographed in different locations, with different cameras and different lighting conditions.  Given the color values from an image, you determine the color of a lego block. \n\nThe Legocolor dataset was created by Rosalie Fischer for her Bachelor thesis at the Vrije Universiteit. The dataset was designed with the following requirements:\n\n- The dataset must be linked to a classification problem.\n- Unlike existing datasets, the problem should have only a few inputs with identical impact on the final result.\n- The problem should not be a yes/no classification, but a problem with multiple labels.\n- The dataset must be based on a real world problem and use real data.\n- The dataset should not contain personal data, so that it can be used without privacy risks or ethical risks.\n\n\n",
+  "datasetId": 3502986,
+  "datasetSlug": "legocolor-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ictinstitute",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2023,
+  "totalVotes": 24,
+  "totalDownloads": 209,
+  "title": "Legocolor dataset",
+  "hasTitle": true,
+  "subtitle": "Colourful, simple dataset for learning classification",
+  "hasSubtitle": true,
+  "description": "Color classification is interesting because it is a real world problem, and it is difficult. Color classification is a subtask in computer vision and robotics: recognising an object by its color is often used in robot navigation. There are robot football leagues where the two goals and the ball have different colors and the robots must recognize goals, the ball and other robots based on color.\nHumans are generally good at sorting lego by color, son one would expect that color classification is an easy task. Unfortunately, it is surprisingly difficult. The same object will appear to have different colors depending on the lighting conditions. The human eye and brain are good compensate for the lighting conditions automatically, so most people are quite good at this task. Electronic cameras are not so good at this, and computers and robots thus often make mistakes. The example shown below shows that the same lego object can register as light grey or dark grey depending on the circumstance. It will be hard to classify these two colors correctly in all photos.\n\nThe Legocolor dataset was created by taking multiple pictures of the same lego setup. Lego was chosen so that other researchers can recreate the results and extend the dataset if needed. Anyone can order the required lego sets, build the same setup and make additional photos. The Lego setup was photographed in different locations, with different cameras and different lighting conditions.  Given the color values from an image, you determine the color of a lego block. \n\nThe Legocolor dataset was created by Rosalie Fischer for her Bachelor thesis at the Vrije Universiteit. The dataset was designed with the following requirements:\n\n- The dataset must be linked to a classification problem.\n- Unlike existing datasets, the problem should have only a few inputs with identical impact on the final result.\n- The problem should not be a yes/no classification, but a problem with multiple labels.\n- The dataset must be based on a real world problem and use real data.\n- The dataset should not contain personal data, so that it can be used without privacy risks or ethical risks.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Permissive - Version 1.0",
+      "name": "Community Data License Agreement - Permissive - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

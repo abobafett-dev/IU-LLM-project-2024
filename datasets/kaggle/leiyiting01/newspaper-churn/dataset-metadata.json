@@ -1,0 +1,39 @@
+{
+  "id": "leiyiting01/newspaper-churn",
+  "id_no": 5683,
+  "datasetSlugNullable": "newspaper-churn",
+  "ownerUserNullable": "leiyiting01",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Newspaper churn",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nThis is a churn data for newspaper from CA, it has more than 10k records of whether customer is still with company, sub_BN = 0 means left customer, =1 means active customer.\n\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 5683,
+  "datasetSlug": "newspaper-churn",
+  "hasDatasetSlug": true,
+  "ownerUser": "leiyiting01",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 4594,
+  "totalVotes": 2,
+  "totalDownloads": 338,
+  "title": "Newspaper churn",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is a churn data for newspaper from CA, it has more than 10k records of whether customer is still with company, sub_BN = 0 means left customer, =1 means active customer.\n\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

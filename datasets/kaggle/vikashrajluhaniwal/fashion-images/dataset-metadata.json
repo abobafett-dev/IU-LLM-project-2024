@@ -1,0 +1,43 @@
+{
+  "id": "vikashrajluhaniwal/fashion-images",
+  "id_no": 1235849,
+  "datasetSlugNullable": "fashion-images",
+  "ownerUserNullable": "vikashrajluhaniwal",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "E-commerce Product Images",
+  "subtitleNullable": "Over 2900 apparel and footwear product images with meta data",
+  "descriptionNullable": "### Context\n\nProduct images provide a better first impression. According to a survey, more than **63 percent ** of consumers say that good product images are more important than product descriptions. \nFor an *e-commerce platform*, good quality product images are instrumental in convincing shoppers to buy. Product images can help shoppers to get a better virtual \u201cfeel\u201d about the product and engage on a deeper  level.\n\n\n### Content\n\nCollection of over 2900 product images under **Apparel** and **Footwear** category. Two gender types **Boys** and **Girls** under **Apparel**, similarly **Men** and **Women** under **Footwear**.  \nEach image is identified by an unique ID(`ProductId`) like `10054`. \n`fashion.csv` contains additional details about the products like title, description, category, gender etc.\n\n\n\n### Inspiration\n\nThe dataset can be used for multiple purpose like - \n- Category and Subcategory Classification\n- Visual(Image) Similarity based Recommendation System\n- Custom NER(colour, gender, category etc.) Recognition\n- Generative Adversarial Networks (GANs) for image generation/translation\n",
+  "datasetId": 1235849,
+  "datasetSlug": "fashion-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "vikashrajluhaniwal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 38776,
+  "totalVotes": 63,
+  "totalDownloads": 4643,
+  "title": "E-commerce Product Images",
+  "hasTitle": true,
+  "subtitle": "Over 2900 apparel and footwear product images with meta data",
+  "hasSubtitle": true,
+  "description": "### Context\n\nProduct images provide a better first impression. According to a survey, more than **63 percent ** of consumers say that good product images are more important than product descriptions. \nFor an *e-commerce platform*, good quality product images are instrumental in convincing shoppers to buy. Product images can help shoppers to get a better virtual \u201cfeel\u201d about the product and engage on a deeper  level.\n\n\n### Content\n\nCollection of over 2900 product images under **Apparel** and **Footwear** category. Two gender types **Boys** and **Girls** under **Apparel**, similarly **Men** and **Women** under **Footwear**.  \nEach image is identified by an unique ID(`ProductId`) like `10054`. \n`fashion.csv` contains additional details about the products like title, description, category, gender etc.\n\n\n\n### Inspiration\n\nThe dataset can be used for multiple purpose like - \n- Category and Subcategory Classification\n- Visual(Image) Similarity based Recommendation System\n- Custom NER(colour, gender, category etc.) Recognition\n- Generative Adversarial Networks (GANs) for image generation/translation\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "computer vision",
+    "recommender systems",
+    "image",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

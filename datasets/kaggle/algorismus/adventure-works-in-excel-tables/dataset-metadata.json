@@ -1,0 +1,43 @@
+{
+  "id": "algorismus/adventure-works-in-excel-tables",
+  "id_no": 2583528,
+  "datasetSlugNullable": "adventure-works-in-excel-tables",
+  "ownerUserNullable": "algorismus",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Adventure Works 2022 CSVs",
+  "subtitleNullable": "Dataset of Adventure Works from SQL to CSVs (useful for PL-300 exam)",
+  "descriptionNullable": "# Adventure Works 2022 dataset\n## How this Dataset is created? \nOn the [official website](https://learn.microsoft.com/en-us/training/modules/get-data/lab-prepare/?ns-enrollment-type=learningpath&ns-enrollment-id=learn-bizapps.data-preparation-in-power-bi) the dataset is available over SQL server (localhost) and CSVs to be used via Power BI Desktop running on Virtual Lab (Virtaul Machine). As per first two steps of Importing data are executed in the virtual lab and then resultant Power BI tables are copied in CSVs. Added records till year 2022 as required.\n## How this Dataset may help you? \nthis dataset will be helpful in case you want to work offline with Adventure Works data in Power BI desktop in order to carry lab instructions as per training material on  [official website](https://learn.microsoft.com/en-us/training/modules/get-data/lab-prepare/?ns-enrollment-type=learningpath&ns-enrollment-id=learn-bizapps.data-preparation-in-power-bi). The dataset is useful in case you want to work on Power BI desktop Sales Analysis example from Microsoft website PL 300 learning. \n## How to use this Dataset?\nDownload the CSV file(s) and import in Power BI desktop as tables. The CSVs are named as tables created after first two steps of importing data as mentioned in the PL-300 Microsoft Power BI Data Analyst exam lab.",
+  "datasetId": 2583528,
+  "datasetSlug": "adventure-works-in-excel-tables",
+  "hasDatasetSlug": true,
+  "ownerUser": "algorismus",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 36848,
+  "totalVotes": 60,
+  "totalDownloads": 10626,
+  "title": "Adventure Works 2022 CSVs",
+  "hasTitle": true,
+  "subtitle": "Dataset of Adventure Works from SQL to CSVs (useful for PL-300 exam)",
+  "hasSubtitle": true,
+  "description": "# Adventure Works 2022 dataset\n## How this Dataset is created? \nOn the [official website](https://learn.microsoft.com/en-us/training/modules/get-data/lab-prepare/?ns-enrollment-type=learningpath&ns-enrollment-id=learn-bizapps.data-preparation-in-power-bi) the dataset is available over SQL server (localhost) and CSVs to be used via Power BI Desktop running on Virtual Lab (Virtaul Machine). As per first two steps of Importing data are executed in the virtual lab and then resultant Power BI tables are copied in CSVs. Added records till year 2022 as required.\n## How this Dataset may help you? \nthis dataset will be helpful in case you want to work offline with Adventure Works data in Power BI desktop in order to carry lab instructions as per training material on  [official website](https://learn.microsoft.com/en-us/training/modules/get-data/lab-prepare/?ns-enrollment-type=learningpath&ns-enrollment-id=learn-bizapps.data-preparation-in-power-bi). The dataset is useful in case you want to work on Power BI desktop Sales Analysis example from Microsoft website PL 300 learning. \n## How to use this Dataset?\nDownload the CSV file(s) and import in Power BI desktop as tables. The CSVs are named as tables created after first two steps of importing data as mentioned in the PL-300 Microsoft Power BI Data Analyst exam lab.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "data cleaning",
+    "data visualization",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

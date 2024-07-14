@@ -1,0 +1,43 @@
+{
+  "id": "jahaidulislam/cryptocurrency-prices-dataset",
+  "id_no": 2906550,
+  "datasetSlugNullable": "cryptocurrency-prices-dataset",
+  "ownerUserNullable": "jahaidulislam",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cryptocurrency Prices Dataset",
+  "subtitleNullable": "Daily prices and market capitalization data for All cryptocurrencies",
+  "descriptionNullable": "The **Cryptocurrency Prices** dataset includes prices and market capitalization data for popular cryptocurrencies, such as Bitcoin, Ethereum, Litecoin, and Ripple. The data covers daily prices and market capitalization from the inception of each cryptocurrency up to the present day.\n\nThe dataset is well-suited for exploratory data analysis, time series analysis, and predictive modeling tasks related to cryptocurrencies. It can be used to examine historical price trends, correlations between different cryptocurrencies, and the overall market capitalization of the cryptocurrency market. Additionally, the data can be used to build models that predict future prices or market capitalization&gt; of specific cryptocurrencies.\n\nEach row of the dataset represents a single day of trading for a particular cryptocurrency. The columns of the dataset include the following:\n\n- **Cryptocurrency Name**\n- **Open Price**: the opening price of the cryptocurrency on the trading day\n- **Volume**: the volume of the cryptocurrency traded on the trading day\n- **Market Cap**: the total market capitalization of the cryptocurrency on the trading day\n- **CMC Rank**\n- **Dominance**\n- **Year till date Price Change Percentage**\n\nThe dataset includes data for multiple cryptocurrencies, such as Bitcoin, Ethereum, Litecoin, Ripple, and many others. Each cryptocurrency has its own set of data columns in the dataset.\n\nThis dataset can be helpful for data analysts, data scientists, traders, investors, and anyone interested in exploring the cryptocurrency market. It is intended to facilitate research and analysis of the market and the underlying factors affecting various cryptocurrency prices and market capitalization. ",
+  "datasetId": 2906550,
+  "datasetSlug": "cryptocurrency-prices-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "jahaidulislam",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4745,
+  "totalVotes": 31,
+  "totalDownloads": 751,
+  "title": "Cryptocurrency Prices Dataset",
+  "hasTitle": true,
+  "subtitle": "Daily prices and market capitalization data for All cryptocurrencies",
+  "hasSubtitle": true,
+  "description": "The **Cryptocurrency Prices** dataset includes prices and market capitalization data for popular cryptocurrencies, such as Bitcoin, Ethereum, Litecoin, and Ripple. The data covers daily prices and market capitalization from the inception of each cryptocurrency up to the present day.\n\nThe dataset is well-suited for exploratory data analysis, time series analysis, and predictive modeling tasks related to cryptocurrencies. It can be used to examine historical price trends, correlations between different cryptocurrencies, and the overall market capitalization of the cryptocurrency market. Additionally, the data can be used to build models that predict future prices or market capitalization&gt; of specific cryptocurrencies.\n\nEach row of the dataset represents a single day of trading for a particular cryptocurrency. The columns of the dataset include the following:\n\n- **Cryptocurrency Name**\n- **Open Price**: the opening price of the cryptocurrency on the trading day\n- **Volume**: the volume of the cryptocurrency traded on the trading day\n- **Market Cap**: the total market capitalization of the cryptocurrency on the trading day\n- **CMC Rank**\n- **Dominance**\n- **Year till date Price Change Percentage**\n\nThe dataset includes data for multiple cryptocurrencies, such as Bitcoin, Ethereum, Litecoin, Ripple, and many others. Each cryptocurrency has its own set of data columns in the dataset.\n\nThis dataset can be helpful for data analysts, data scientists, traders, investors, and anyone interested in exploring the cryptocurrency market. It is intended to facilitate research and analysis of the market and the underlying factors affecting various cryptocurrency prices and market capitalization. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "feature engineering",
+    "text",
+    "currencies and foreign exchange",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

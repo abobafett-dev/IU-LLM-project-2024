@@ -1,0 +1,43 @@
+{
+  "id": "ishikajohari/imdb-data-with-descriptions",
+  "id_no": 3594467,
+  "datasetSlugNullable": "imdb-data-with-descriptions",
+  "ownerUserNullable": "ishikajohari",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IMDb Movies/Shows with Descriptions",
+  "subtitleNullable": "Top 8k movies and/or tv shows with descriptions from the 90s and onwards",
+  "descriptionNullable": "# Context\nThis dataset contains IMDb data in conjunction with descriptions for the titles taken from Rotten Tomatoes.\n\nThis data was collected in an attempt to aid my [Books dataset](https://www.kaggle.com/datasets/ishikajohari/best-books-10k-multi-genre-data) to help with projects concerning cross-content analysis/recommendations for instance.\n\n### *Please Upvote if this helps you!*\n\n# Content\nThe most (Total 21 features) prominent features are:\n1. **Title Type** \n2. **Primary Title**\n3. **Original Title**\n4. **Is Adult?** \n5. **Year** \n6. **Run-time Minutes** \n7. **Genres (Multiple)**\n8. **Average Rating (as on IMDb)** \n9. **Num. of Votes**\n10. **Region**\n11. **Genres** \n12. **Average Rating** \n13. **Number of Ratings** \n14. **Types**\n15. **Attributes** \n16. **Description**\n\n# Important Data Context\nThe initial dataset being too large has been filtered. The following are the criteria for it:\n* The data is from the 90s and onwards\n* Only 'en' (English) language titles have been retained\n* The regions range from Canada, Greater Britain, India and USA Only\n* Movie/shows from the 90s-00s with ratings greater than or equal to 7.9 have been retained\n* Movie/shows from the 2000s and onwards with ratings greater than or equal to 6.5 have been retained\n* Only titles with num of rating votes greater than 3000 have been retained for Canada and India \n\n# Inspiration\n- Cluster movies/shows based on Descriptions and Genres\n- Content-based recommendation system using Genre, Description, and Ratings\n- Genre prediction from Description data (Multi-label classification)",
+  "datasetId": 3594467,
+  "datasetSlug": "imdb-data-with-descriptions",
+  "hasDatasetSlug": true,
+  "ownerUser": "ishikajohari",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5854,
+  "totalVotes": 41,
+  "totalDownloads": 1043,
+  "title": "IMDb Movies/Shows with Descriptions",
+  "hasTitle": true,
+  "subtitle": "Top 8k movies and/or tv shows with descriptions from the 90s and onwards",
+  "hasSubtitle": true,
+  "description": "# Context\nThis dataset contains IMDb data in conjunction with descriptions for the titles taken from Rotten Tomatoes.\n\nThis data was collected in an attempt to aid my [Books dataset](https://www.kaggle.com/datasets/ishikajohari/best-books-10k-multi-genre-data) to help with projects concerning cross-content analysis/recommendations for instance.\n\n### *Please Upvote if this helps you!*\n\n# Content\nThe most (Total 21 features) prominent features are:\n1. **Title Type** \n2. **Primary Title**\n3. **Original Title**\n4. **Is Adult?** \n5. **Year** \n6. **Run-time Minutes** \n7. **Genres (Multiple)**\n8. **Average Rating (as on IMDb)** \n9. **Num. of Votes**\n10. **Region**\n11. **Genres** \n12. **Average Rating** \n13. **Number of Ratings** \n14. **Types**\n15. **Attributes** \n16. **Description**\n\n# Important Data Context\nThe initial dataset being too large has been filtered. The following are the criteria for it:\n* The data is from the 90s and onwards\n* Only 'en' (English) language titles have been retained\n* The regions range from Canada, Greater Britain, India and USA Only\n* Movie/shows from the 90s-00s with ratings greater than or equal to 7.9 have been retained\n* Movie/shows from the 2000s and onwards with ratings greater than or equal to 6.5 have been retained\n* Only titles with num of rating votes greater than 3000 have been retained for Canada and India \n\n# Inspiration\n- Cluster movies/shows based on Descriptions and Genres\n- Content-based recommendation system using Genre, Description, and Ratings\n- Genre prediction from Description data (Multi-label classification)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "exploratory data analysis",
+    "nlp",
+    "recommender systems",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

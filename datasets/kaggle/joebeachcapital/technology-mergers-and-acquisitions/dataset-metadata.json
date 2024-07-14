@@ -1,0 +1,43 @@
+{
+  "id": "joebeachcapital/technology-mergers-and-acquisitions",
+  "id_no": 3609856,
+  "datasetSlugNullable": "technology-mergers-and-acquisitions",
+  "ownerUserNullable": "joebeachcapital",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Technology Mergers & Acquisitions",
+  "subtitleNullable": "Four .csv files containing data from CruchBase on 36 Tech Giants",
+  "descriptionNullable": "These four .CSV contain data from CruchBase on 36 Tech Giants: Adobe, Amazon, AOL, Apple, AT&T, BlackBerry, CA Technologies, Cisco Systems, Comcast, Dell, Dropbox, eBay, EMC , Facebook, Google, HP, IBM, Intel, Juniper Networks, LinkedIn, Microsoft, Nokia, Oracle, Pinterest, Qualcomm, Salesforce, Samsung Electronics, SanDisk, SAP, Sony, Symantec, Teradata, Twitter, Verizon Communications, Vodafone,Yahoo\n\nTheir data contained in each .CSV is:\n\n    Acquiring Companies.csv Information on the 36 Tech Giants:\n\n    CrunchBase Profile\n    Image\n    Tagline\n    Market Categories\n    Year Founded\n    IPO\n    Founders\n    Number of Employees\n    Number of Employees (year of last update)\n    Total Funding ($)\n    Number of Acquisitions\n    Board Members\n    Address (HQ)\n    City (HQ)\n    State / Region (HQ)\n    Country (HQ)\n    Description\n    Homepage\n    Twitter\n    Acquired Companies\n    Acquisitions ID\n    API\n\n    Acquired Companies.csv: Information on the 1610 companies acquired by these tech giants. Variables include:\n\n    CrunchBase Profile\n    Image\n    Tagline\n    Market Categories\n    Year Founded\n    Address (HQ)\n    City (HQ)\n    State / Region (HQ)\n    Country (HQ)\n    Description\n    Homepage\n    Twitter\n    Acquisitions ID\n    API\n\n    Acquisitions.csv Contains the Acquisitions ID for 1643 transactions. the ID can be used to create referential database with other .CSV who have this column. Other variables are:\n\n    Acquired Company\n    Acquiring Company\n    Year of acquisition announcement\n    Deal announced on\n    Price\n    Status\n    Terms\n    Acquisition Profile\n    News\n    News Link\n\n    Founders and Board Members.csv Data on the founders of the 36 tech giants and on who sits in their board. Variables are:\n\n    Name\n    CrunchBase Profile\n    Role\n    Companies\n    Image\n",
+  "datasetId": 3609856,
+  "datasetSlug": "technology-mergers-and-acquisitions",
+  "hasDatasetSlug": true,
+  "ownerUser": "joebeachcapital",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4729,
+  "totalVotes": 29,
+  "totalDownloads": 932,
+  "title": "Technology Mergers & Acquisitions",
+  "hasTitle": true,
+  "subtitle": "Four .csv files containing data from CruchBase on 36 Tech Giants",
+  "hasSubtitle": true,
+  "description": "These four .CSV contain data from CruchBase on 36 Tech Giants: Adobe, Amazon, AOL, Apple, AT&T, BlackBerry, CA Technologies, Cisco Systems, Comcast, Dell, Dropbox, eBay, EMC , Facebook, Google, HP, IBM, Intel, Juniper Networks, LinkedIn, Microsoft, Nokia, Oracle, Pinterest, Qualcomm, Salesforce, Samsung Electronics, SanDisk, SAP, Sony, Symantec, Teradata, Twitter, Verizon Communications, Vodafone,Yahoo\n\nTheir data contained in each .CSV is:\n\n    Acquiring Companies.csv Information on the 36 Tech Giants:\n\n    CrunchBase Profile\n    Image\n    Tagline\n    Market Categories\n    Year Founded\n    IPO\n    Founders\n    Number of Employees\n    Number of Employees (year of last update)\n    Total Funding ($)\n    Number of Acquisitions\n    Board Members\n    Address (HQ)\n    City (HQ)\n    State / Region (HQ)\n    Country (HQ)\n    Description\n    Homepage\n    Twitter\n    Acquired Companies\n    Acquisitions ID\n    API\n\n    Acquired Companies.csv: Information on the 1610 companies acquired by these tech giants. Variables include:\n\n    CrunchBase Profile\n    Image\n    Tagline\n    Market Categories\n    Year Founded\n    Address (HQ)\n    City (HQ)\n    State / Region (HQ)\n    Country (HQ)\n    Description\n    Homepage\n    Twitter\n    Acquisitions ID\n    API\n\n    Acquisitions.csv Contains the Acquisitions ID for 1643 transactions. the ID can be used to create referential database with other .CSV who have this column. Other variables are:\n\n    Acquired Company\n    Acquiring Company\n    Year of acquisition announcement\n    Deal announced on\n    Price\n    Status\n    Terms\n    Acquisition Profile\n    News\n    News Link\n\n    Founders and Board Members.csv Data on the founders of the 36 tech giants and on who sits in their board. Variables are:\n\n    Name\n    CrunchBase Profile\n    Role\n    Companies\n    Image\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "business",
+    "finance",
+    "science and technology",
+    "software"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

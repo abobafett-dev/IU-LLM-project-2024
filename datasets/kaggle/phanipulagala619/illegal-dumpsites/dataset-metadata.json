@@ -1,0 +1,37 @@
+{
+  "id": "phanipulagala619/illegal-dumpsites",
+  "id_no": 2524025,
+  "datasetSlugNullable": "illegal-dumpsites",
+  "ownerUserNullable": "phanipulagala619",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Illegal Dumpsites",
+  "subtitleNullable": "",
+  "descriptionNullable": "The problem\n\nEach year we produce more and more waste. Dumps are often found in places without an address, without an easy way to report them, so getting rid of them can be next to impossible. A small part of the waste gets recycled but a huge amount of trash still ends up on illegal dumps which are everywhere, namely in our cities, nature, rivers, and oceans. There were 55,000 reports of illegal dumping made in 110 countries.\n\nEvery day, an average of 1 kilogram of waste is generated per person around the world, which is 2.7 Billion tonnes of waste every year. This is enough waste to fill 285,000 trucks. If we were to put them in a row, the line would go from New York to London.\n\n \nIllegal dumping and health\n\nIn addition to economical and ecological damage, illegal dumping can have detrimental health effects for people that are living nearby. Dumpsites are a breeding ground for insects like mosquitoes and flies, but also for animals that carry diseases like rats, skunks, and opossums.\n\nDepending on the country, a few of the life-threatening diseases that these insects and animals can bring Dengue Fever, Yellow Fever, Encephalitis, and malaria. Also, living in a community that has visible dumpsites could wear on mental health.\n\nDatasets are extracted from:\n\n    TrashOut: Reports on illegal dumping (s) provided by users through the TrashOut mobile App. For each report, a number of features are recorded, and the most relevant for this analysis were: location (latitude and longitude, city, country, and continent), date, picture, size, and type of waste.\n    Open Street Maps (OSM): Geospatial dataset and information on the cities road network, including the type of roads (e.g. motorway, primary, residential, etc)\n    Socioeconomic Data and Applications Center (SEDAC): Population density at 1km grid, from which we also calculated the population density gradient to account for population density in the neighboring cells\n    FourSquare: Information about nearby venues\n    World Bank Indicators, World Bank\u2019s \u201cWhat a Waste 2.0\u201d, Eurostat, European Commission Directorate-General for Environment: Datasets for socio-economic indicators.\n    Non-dumpsites Control Dataset: we generated our own Control Dataset, which was required to train the model on where dumpsites do not occur. For every TrashOut dumpsite location, we selected a pseudo-random location 1 km away and assigned this as a potential non-dumpsite location.\n",
+  "datasetId": 2524025,
+  "datasetSlug": "illegal-dumpsites",
+  "hasDatasetSlug": true,
+  "ownerUser": "phanipulagala619",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 897,
+  "totalVotes": 3,
+  "totalDownloads": 86,
+  "title": "Illegal Dumpsites",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The problem\n\nEach year we produce more and more waste. Dumps are often found in places without an address, without an easy way to report them, so getting rid of them can be next to impossible. A small part of the waste gets recycled but a huge amount of trash still ends up on illegal dumps which are everywhere, namely in our cities, nature, rivers, and oceans. There were 55,000 reports of illegal dumping made in 110 countries.\n\nEvery day, an average of 1 kilogram of waste is generated per person around the world, which is 2.7 Billion tonnes of waste every year. This is enough waste to fill 285,000 trucks. If we were to put them in a row, the line would go from New York to London.\n\n \nIllegal dumping and health\n\nIn addition to economical and ecological damage, illegal dumping can have detrimental health effects for people that are living nearby. Dumpsites are a breeding ground for insects like mosquitoes and flies, but also for animals that carry diseases like rats, skunks, and opossums.\n\nDepending on the country, a few of the life-threatening diseases that these insects and animals can bring Dengue Fever, Yellow Fever, Encephalitis, and malaria. Also, living in a community that has visible dumpsites could wear on mental health.\n\nDatasets are extracted from:\n\n    TrashOut: Reports on illegal dumping (s) provided by users through the TrashOut mobile App. For each report, a number of features are recorded, and the most relevant for this analysis were: location (latitude and longitude, city, country, and continent), date, picture, size, and type of waste.\n    Open Street Maps (OSM): Geospatial dataset and information on the cities road network, including the type of roads (e.g. motorway, primary, residential, etc)\n    Socioeconomic Data and Applications Center (SEDAC): Population density at 1km grid, from which we also calculated the population density gradient to account for population density in the neighboring cells\n    FourSquare: Information about nearby venues\n    World Bank Indicators, World Bank\u2019s \u201cWhat a Waste 2.0\u201d, Eurostat, European Commission Directorate-General for Environment: Datasets for socio-economic indicators.\n    Non-dumpsites Control Dataset: we generated our own Control Dataset, which was required to train the model on where dumpsites do not occur. For every TrashOut dumpsite location, we selected a pseudo-random location 1 km away and assigned this as a potential non-dumpsite location.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ferrariboy4k/top5leagues",
+  "id_no": 3071909,
+  "datasetSlugNullable": "top5leagues",
+  "ownerUserNullable": "ferrariboy4k",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top 5 European Football Leagues (2014-2022)",
+  "subtitleNullable": "Extended pre and post match statistics for matches of the top 5 European leagues",
+  "descriptionNullable": "## Content\nThe European football dataset with both pre-match statistics like team rating, costs and betting odds, and post-match statistics like goals, shots, expected goals, expected points, etc..\n\n- 10,000+ matches from 2014 to 2022\n- Top European leagues | EPL, La Liga, Bundesliga, Serie A, Ligue 1\n- Expected goals, assists and points post-match data\n- EA Sports FIFA team ratings \n- Market value of teams\n- Betting odds from different providers\n- Detailed post-match statisctics\n\n## Sources\nThe data was collected from different websites, so the data was structured and preprocessed.\n[football-data.co.uk](https://www.football-data.co.uk/) | post-match data and betting odds\n[understat.com](https://understat.com/) | advanced football metrics like expected goals, points, etc.\n[sofifa.com](https://sofifa.com/) | EA Sports FIFA game series team ratings\n[transfermarkt.co.uk](https://www.transfermarkt.co.uk/) | team's squad, market value and players age\n\n## Attributes\n- **Div** \u2014 League Division\n- **Date** \u2014 Match Date\n- **HomeTeam, AwayTeam** \u2014 Home and Away Team\n- **HTOa, ATOa** \u2014 Teams FIFA Overall Rating\n- **HTAt, ATAt** \u2014 Teams FIFA Attack Rating\n- **HTMid, ATMid** \u2014 Teams FIFA Midfield Rating\n- **HTDef, ATDef** \u2014 Teams FIFA Defence Rating\n- **HomeSquad, AwaySquad** \u2014 Teams Number of players\n- **HomeAvgAge, AwayAvgAge** \u2014 Teams Average Age of players\n- **HomeMV, AwayMV** \u2014 Teams Total Market Value\n- **FTHG, FTAG** \u2014 Full Time Teams Goals\n- **FTR** \u2014 Full Time Result (H=Home Win, D=Draw, A=Away Win)\n- **HTHG, HTAG** \u2014 Half Time Teams Goals\n- **HTR** \u2014 Half Time Result (H=Home Win, D=Draw, A=Away Win)\n- **HS, AS** \u2014 Teams Shots\n- **HST, AST** \u2014 Teams Shots on Target\n- **HF, AF** \u2014 Teams Fouls\n- **HC, AC** \u2014 Teams Corners\n- **HY, AY** \u2014 Teams Yellow Cards\n- **HR, AR** \u2014 Teams Red Cards\n- **HxG, AxG** \u2014 Teams Expected Goals \n- **HxA, AxA** \u2014 Teams Expected Goals After Key Passes\n- **HxPTS, AxPTS** \u2014 Teams Expected Points\n- **HPPDA, APPDA** \u2014 Teams passes allowed per defensive action in the opposition half\n- **B365H, B365D, B365A** \u2014 Bet365 odds\n- **BWH, BWD, BWA** \u2014 Bet&Win odds\n- **IWH, IWD, IWA** \u2014 Interwetten odds\n- **PSH, PSD, PSA** \u2014 Pinnacle odds\n- **WHH, WHD, WHA** \u2014 William Hill odds\n- **VCH, VCD, VCA** \u2014 VC Bet odds\n- **PSCH, PSCD, PSCA** \u2014 PSC odds",
+  "datasetId": 3071909,
+  "datasetSlug": "top5leagues",
+  "hasDatasetSlug": true,
+  "ownerUser": "ferrariboy4k",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3887,
+  "totalVotes": 11,
+  "totalDownloads": 646,
+  "title": "Top 5 European Football Leagues (2014-2022)",
+  "hasTitle": true,
+  "subtitle": "Extended pre and post match statistics for matches of the top 5 European leagues",
+  "hasSubtitle": true,
+  "description": "## Content\nThe European football dataset with both pre-match statistics like team rating, costs and betting odds, and post-match statistics like goals, shots, expected goals, expected points, etc..\n\n- 10,000+ matches from 2014 to 2022\n- Top European leagues | EPL, La Liga, Bundesliga, Serie A, Ligue 1\n- Expected goals, assists and points post-match data\n- EA Sports FIFA team ratings \n- Market value of teams\n- Betting odds from different providers\n- Detailed post-match statisctics\n\n## Sources\nThe data was collected from different websites, so the data was structured and preprocessed.\n[football-data.co.uk](https://www.football-data.co.uk/) | post-match data and betting odds\n[understat.com](https://understat.com/) | advanced football metrics like expected goals, points, etc.\n[sofifa.com](https://sofifa.com/) | EA Sports FIFA game series team ratings\n[transfermarkt.co.uk](https://www.transfermarkt.co.uk/) | team's squad, market value and players age\n\n## Attributes\n- **Div** \u2014 League Division\n- **Date** \u2014 Match Date\n- **HomeTeam, AwayTeam** \u2014 Home and Away Team\n- **HTOa, ATOa** \u2014 Teams FIFA Overall Rating\n- **HTAt, ATAt** \u2014 Teams FIFA Attack Rating\n- **HTMid, ATMid** \u2014 Teams FIFA Midfield Rating\n- **HTDef, ATDef** \u2014 Teams FIFA Defence Rating\n- **HomeSquad, AwaySquad** \u2014 Teams Number of players\n- **HomeAvgAge, AwayAvgAge** \u2014 Teams Average Age of players\n- **HomeMV, AwayMV** \u2014 Teams Total Market Value\n- **FTHG, FTAG** \u2014 Full Time Teams Goals\n- **FTR** \u2014 Full Time Result (H=Home Win, D=Draw, A=Away Win)\n- **HTHG, HTAG** \u2014 Half Time Teams Goals\n- **HTR** \u2014 Half Time Result (H=Home Win, D=Draw, A=Away Win)\n- **HS, AS** \u2014 Teams Shots\n- **HST, AST** \u2014 Teams Shots on Target\n- **HF, AF** \u2014 Teams Fouls\n- **HC, AC** \u2014 Teams Corners\n- **HY, AY** \u2014 Teams Yellow Cards\n- **HR, AR** \u2014 Teams Red Cards\n- **HxG, AxG** \u2014 Teams Expected Goals \n- **HxA, AxA** \u2014 Teams Expected Goals After Key Passes\n- **HxPTS, AxPTS** \u2014 Teams Expected Points\n- **HPPDA, APPDA** \u2014 Teams passes allowed per defensive action in the opposition half\n- **B365H, B365D, B365A** \u2014 Bet365 odds\n- **BWH, BWD, BWA** \u2014 Bet&Win odds\n- **IWH, IWD, IWA** \u2014 Interwetten odds\n- **PSH, PSD, PSA** \u2014 Pinnacle odds\n- **WHH, WHD, WHA** \u2014 William Hill odds\n- **VCH, VCD, VCA** \u2014 VC Bet odds\n- **PSCH, PSCD, PSCA** \u2014 PSC odds",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "classification",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

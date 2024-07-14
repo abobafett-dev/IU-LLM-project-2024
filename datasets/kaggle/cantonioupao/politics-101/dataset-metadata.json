@@ -1,0 +1,43 @@
+{
+  "id": "cantonioupao/politics-101",
+  "id_no": 674862,
+  "datasetSlugNullable": "politics-101",
+  "ownerUserNullable": "cantonioupao",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Politics 101",
+  "subtitleNullable": "A dataset consisting of images of politicians (faces) and their labels(names)",
+  "descriptionNullable": "Politics 101\n\nThis datasets constis of 10 classes, where each class represents a famous politician.\nEach class name is reported in each of the following 10 folders.\nThe main purpose of this dataset, is to offer an evaluation dataset for face detection.\nHowever it was contructed also with Facial Recognition in mind for the 10 politicians.\nThe images quality is relatively low and the size of each image is not greater than 500x500.\nThis poses an extra challenge for face detection and for facial recognition especially of the model on this dataset.\nEach folder/class contains the images corresponding to the class , as well as a .csv file with the bounding box coordinates.\nThe .csv format is:\n\n\"class\".csv\n\ne.g \"PUTIN.csv\"\n\n\nAnd each row has the format\n\nclass_label, left, top, width, height, confidence, image, original_img_width, orginal_img_height, face_confidence_score\n\n\ne.g\n\n\"Putin\" , 157, 24, 55, 73, \"2q_(1).jpg\", 299, 168, 1\n\n\n\nTo illustrate the output of the dataset more accurately, remember that the anotattion labels\nreports the bounding box absolute coordinates, by taking origin from top left corner of image\nAs a result, the bounding box coordinates are found on the image by doing\nFor bounding box width [Wstart,Wend] = [left,left+width]\nFor bounding box height [Hstart, Hend] = [top , top+height]\nFinally the confidence score for the face is denoted as 1 for all samples",
+  "datasetId": 674862,
+  "datasetSlug": "politics-101",
+  "hasDatasetSlug": true,
+  "ownerUser": "cantonioupao",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 274,
+  "totalVotes": 1,
+  "totalDownloads": 41,
+  "title": "Politics 101",
+  "hasTitle": true,
+  "subtitle": "A dataset consisting of images of politicians (faces) and their labels(names)",
+  "hasSubtitle": true,
+  "description": "Politics 101\n\nThis datasets constis of 10 classes, where each class represents a famous politician.\nEach class name is reported in each of the following 10 folders.\nThe main purpose of this dataset, is to offer an evaluation dataset for face detection.\nHowever it was contructed also with Facial Recognition in mind for the 10 politicians.\nThe images quality is relatively low and the size of each image is not greater than 500x500.\nThis poses an extra challenge for face detection and for facial recognition especially of the model on this dataset.\nEach folder/class contains the images corresponding to the class , as well as a .csv file with the bounding box coordinates.\nThe .csv format is:\n\n\"class\".csv\n\ne.g \"PUTIN.csv\"\n\n\nAnd each row has the format\n\nclass_label, left, top, width, height, confidence, image, original_img_width, orginal_img_height, face_confidence_score\n\n\ne.g\n\n\"Putin\" , 157, 24, 55, 73, \"2q_(1).jpg\", 299, 168, 1\n\n\n\nTo illustrate the output of the dataset more accurately, remember that the anotattion labels\nreports the bounding box absolute coordinates, by taking origin from top left corner of image\nAs a result, the bounding box coordinates are found on the image by doing\nFor bounding box width [Wstart,Wend] = [left,left+width]\nFor bounding box height [Hstart, Hend] = [top , top+height]\nFinally the confidence score for the face is denoted as 1 for all samples",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "politics",
+    "computer vision",
+    "classification",
+    "image",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

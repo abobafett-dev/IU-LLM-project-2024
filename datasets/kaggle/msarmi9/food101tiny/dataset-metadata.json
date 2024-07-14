@@ -1,0 +1,42 @@
+{
+  "id": "msarmi9/food101tiny",
+  "id_no": 789928,
+  "datasetSlugNullable": "food101tiny",
+  "ownerUserNullable": "msarmi9",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "food-101-tiny",
+  "subtitleNullable": "10 easily classified foods from the Food-101 dataset",
+  "descriptionNullable": "# About food-101-tiny\n\nThe original [Food-101 dataset](https://data.vision.ee.ethz.ch/cvl/vision2/datasets_extra/food-101/) contains images for 101 different classes of foods. Each class has `750` training images and `250` test images.\n\nThis dataset is a subset of `Food-101`. It contains `150` training images and `50` validation images for 10 easily classified foods: `apple pie, bibimbap, cannoli, edamame, falafel, french toast, ice cream, ramen, sushi, and tiramisu`. \n\nThe original purpose of this dataset was to speed development and prototyping of an image classifier on the full `Food-101` dataset and was used to experiment with a variety of techniques, including progressive resizing, label smoothing, and mixup. Training times should be under 30 seconds per epoch when using an image size of `224` or `256` and under a minute when using the max image size `512`. We hope it will help anyone who's looking to quickly test out new ideas for improving performance on the original `Food-101` dataset.\n",
+  "datasetId": 789928,
+  "datasetSlug": "food101tiny",
+  "hasDatasetSlug": true,
+  "ownerUser": "msarmi9",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 7665,
+  "totalVotes": 8,
+  "totalDownloads": 770,
+  "title": "food-101-tiny",
+  "hasTitle": true,
+  "subtitle": "10 easily classified foods from the Food-101 dataset",
+  "hasSubtitle": true,
+  "description": "# About food-101-tiny\n\nThe original [Food-101 dataset](https://data.vision.ee.ethz.ch/cvl/vision2/datasets_extra/food-101/) contains images for 101 different classes of foods. Each class has `750` training images and `250` test images.\n\nThis dataset is a subset of `Food-101`. It contains `150` training images and `50` validation images for 10 easily classified foods: `apple pie, bibimbap, cannoli, edamame, falafel, french toast, ice cream, ramen, sushi, and tiramisu`. \n\nThe original purpose of this dataset was to speed development and prototyping of an image classifier on the full `Food-101` dataset and was used to experiment with a variety of techniques, including progressive resizing, label smoothing, and mixup. Training times should be under 30 seconds per epoch when using an image size of `224` or `256` and under a minute when using the max image size `512`. We hope it will help anyone who's looking to quickly test out new ideas for improving performance on the original `Food-101` dataset.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "image",
+    "multiclass classification",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

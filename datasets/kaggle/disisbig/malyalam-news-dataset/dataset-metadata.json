@@ -1,0 +1,41 @@
+{
+  "id": "disisbig/malyalam-news-dataset",
+  "id_no": 455772,
+  "datasetSlugNullable": "malyalam-news-dataset",
+  "ownerUserNullable": "disisbig",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Malayalam News Dataset",
+  "subtitleNullable": "Perform Text Classification in Malayalam using this Dataset",
+  "descriptionNullable": "This data set contains ~6300 news article headlines which I had collected from Malayalam news websites.\n\nThe data set has been cleaned and contains train and test set using which you can benchmark your classification models in Malayalam\n\nThe scripts which were used to create the data set can be found [here](https://github.com/goru001/nlp-for-malyalam/tree/master/datasets-preparation)",
+  "datasetId": 455772,
+  "datasetSlug": "malyalam-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "disisbig",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 7286,
+  "totalVotes": 11,
+  "totalDownloads": 548,
+  "title": "Malayalam News Dataset",
+  "hasTitle": true,
+  "subtitle": "Perform Text Classification in Malayalam using this Dataset",
+  "hasSubtitle": true,
+  "description": "This data set contains ~6300 news article headlines which I had collected from Malayalam news websites.\n\nThe data set has been cleaned and contains train and test set using which you can benchmark your classification models in Malayalam\n\nThe scripts which were used to create the data set can be found [here](https://github.com/goru001/nlp-for-malyalam/tree/master/datasets-preparation)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

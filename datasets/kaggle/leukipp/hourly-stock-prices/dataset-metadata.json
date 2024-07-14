@@ -1,0 +1,44 @@
+{
+  "id": "leukipp/hourly-stock-prices",
+  "id_no": 2007928,
+  "datasetSlugNullable": "hourly-stock-prices",
+  "ownerUserNullable": "leukipp",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Hourly Stock Prices",
+  "subtitleNullable": "Hourly stock prices covering the entire year 2021",
+  "descriptionNullable": "# Description\nHistorical hourly prices for stocks (7000+) traded on NASDAQ from 2021-01-01 to 2021-12-30. \n\n# Data\nSee [provenance](https://www.kaggle.com/datasets/leukipp/hourly-stock-prices/metadata), times based on stock exchange location:\n- `ticker` (*string*): Symbol name.\n- `name` (*string*): Security name.\n- `date` (*string*): Trading date (Eastern Time Zone).\n- `open` (*float*): Open price on that day.\n- `high` (*float*): Maximum price on that day.\n- `low` (*float*): Minimum price on that day.\n- `close` (*float*): Close price on that day.\n- `adjusted close` (*float*): Close price adjusted for dividends and splits.\n- `volume` (*int*): Share volume traded on that day.\n\n# Usage\nSee [getting started](https://www.kaggle.com/code/leukipp/hourly-stock-prices-getting-started), data available as *csv*.\n\n# Legal\n- *Provided \"as is\" without guarantee of completeness.*\n- *Photo by Alesia Kozik from Pexels.*",
+  "datasetId": 2007928,
+  "datasetSlug": "hourly-stock-prices",
+  "hasDatasetSlug": true,
+  "ownerUser": "leukipp",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 2548,
+  "totalVotes": 5,
+  "totalDownloads": 276,
+  "title": "Hourly Stock Prices",
+  "hasTitle": true,
+  "subtitle": "Hourly stock prices covering the entire year 2021",
+  "hasSubtitle": true,
+  "description": "# Description\nHistorical hourly prices for stocks (7000+) traded on NASDAQ from 2021-01-01 to 2021-12-30. \n\n# Data\nSee [provenance](https://www.kaggle.com/datasets/leukipp/hourly-stock-prices/metadata), times based on stock exchange location:\n- `ticker` (*string*): Symbol name.\n- `name` (*string*): Security name.\n- `date` (*string*): Trading date (Eastern Time Zone).\n- `open` (*float*): Open price on that day.\n- `high` (*float*): Maximum price on that day.\n- `low` (*float*): Minimum price on that day.\n- `close` (*float*): Close price on that day.\n- `adjusted close` (*float*): Close price adjusted for dividends and splits.\n- `volume` (*int*): Share volume traded on that day.\n\n# Usage\nSee [getting started](https://www.kaggle.com/code/leukipp/hourly-stock-prices-getting-started), data available as *csv*.\n\n# Legal\n- *Provided \"as is\" without guarantee of completeness.*\n- *Photo by Alesia Kozik from Pexels.*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "art",
+    "business",
+    "finance",
+    "exploratory data analysis",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

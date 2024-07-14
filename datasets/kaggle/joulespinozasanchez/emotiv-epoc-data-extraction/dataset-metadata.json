@@ -1,0 +1,44 @@
+{
+  "id": "joulespinozasanchez/emotiv-epoc-data-extraction",
+  "id_no": 3806728,
+  "datasetSlugNullable": "emotiv-epoc-data-extraction",
+  "ownerUserNullable": "joulespinozasanchez",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Emotiv Epoc+ Data Extraction",
+  "subtitleNullable": "Dataset generated and used in my undergraduate thesis studying ICI at the UAA",
+  "descriptionNullable": "During my studies at the *Aguascalientes Autonomous University* pursuing my *Engineer in Intelligent Computing* undergraduate degree, I worked on my bachelor's thesis. I began planning this project towards the end of my penultimate year of studies. I knew that I wanted to develop a Machine Learning project and was exploring various topics in that field. Concurrently, I was involved in research projects with the Professor **Aurora Torres Soto**, who mentioned the possibility of undertaking a project that could be incorporated into my thesis while also assisting her with her research project. Her project involved using an *Emotiv Epoc+* headset to translate brain activity into specific actions. After several project phases, it evolved to translate brain activity into two mental processes: concept evocation and movement intention.\n\nFor this project, I decided that I would need a data collection phase. This is where I recruited volunteers for data collection using the headset. Throughout this entire process, my bachelor's thesis \"**Comparative analysis of algorithms in the classification of movement intention through a brain-computer interface**\" was concluded, which can be accessed at this link [here](https://github.com/Joul24py/UAA-ICI-Thesis).",
+  "datasetId": 3806728,
+  "datasetSlug": "emotiv-epoc-data-extraction",
+  "hasDatasetSlug": true,
+  "ownerUser": "joulespinozasanchez",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 178,
+  "totalVotes": 1,
+  "totalDownloads": 24,
+  "title": "Emotiv Epoc+ Data Extraction",
+  "hasTitle": true,
+  "subtitle": "Dataset generated and used in my undergraduate thesis studying ICI at the UAA",
+  "hasSubtitle": true,
+  "description": "During my studies at the *Aguascalientes Autonomous University* pursuing my *Engineer in Intelligent Computing* undergraduate degree, I worked on my bachelor's thesis. I began planning this project towards the end of my penultimate year of studies. I knew that I wanted to develop a Machine Learning project and was exploring various topics in that field. Concurrently, I was involved in research projects with the Professor **Aurora Torres Soto**, who mentioned the possibility of undertaking a project that could be incorporated into my thesis while also assisting her with her research project. Her project involved using an *Emotiv Epoc+* headset to translate brain activity into specific actions. After several project phases, it evolved to translate brain activity into two mental processes: concept evocation and movement intention.\n\nFor this project, I decided that I would need a data collection phase. This is where I recruited volunteers for data collection using the headset. Throughout this entire process, my bachelor's thesis \"**Comparative analysis of algorithms in the classification of movement intention through a brain-computer interface**\" was concluded, which can be accessed at this link [here](https://github.com/Joul24py/UAA-ICI-Thesis).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "neuroscience",
+    "random forest",
+    "naive bayes",
+    "svm",
+    "spanish"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

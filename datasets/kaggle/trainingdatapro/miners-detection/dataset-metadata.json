@@ -1,0 +1,44 @@
+{
+  "id": "trainingdatapro/miners-detection",
+  "id_no": 3752828,
+  "datasetSlugNullable": "miners-detection",
+  "ownerUserNullable": "trainingdatapro",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Coal Miners Detection",
+  "subtitleNullable": "Photos of miners - Object Detection dataset",
+  "descriptionNullable": "# Miners Object Detection dataset\n\nThe dataset consists of of photos captured within various mines, focusing on **miners** engaged in their work. Each photo is annotated with bounding box detection of the miners, an attribute highlights whether each miner is sitting or standing in the photo.\n\nThe dataset's diverse applications such as computer vision, safety assessment and others make it a valuable resource for *researchers, employers, and policymakers in the mining industry*.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Fdb3f193275f5206914a19b127e20138e%2FFrame%2013.png?generation=1695040375509674&alt=media)\n\n# Get the Dataset\n## This is just an example of the data \nLeave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=miners-detection)** to discuss your requirements, learn about the price and buy the dataset\n\n# Dataset structure\n- **images** - contains of original images of miners\n- **boxes** - includes bounding box labeling for the original images\n-  **annotations.xml** -  contains coordinates of the bounding boxes and labels, created for the original photo\n\n# Data Format\n\nEach image from `images` folder is accompanied by an XML-annotation in the `annotations.xml` file indicating the coordinates of the bounding boxes for miners detection. For each point, the x and y coordinates are provided. The position of the miner is also provided by the attribute **is_sitting** (true, false).\n\n# Example of XML file structure\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Febb59bc7d91a28f4e10c3f3da4ce4488%2Fcarbon%20(1).png?generation=1695040600108833&alt=media)\n\n# Miners detection might be made in accordance with your requirements.\n\n## **[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=miners-detection)** provides high-quality data annotation tailored to your needs\n\n*keywords: coal mines, underground, safety monitoring system, safety dataset, manufacturing dataset, industrial safety database, health and safety dataset, quality control dataset, quality assurance dataset, annotations dataset, computer vision dataset, image dataset, object detection, human images, classification*",
+  "datasetId": 3752828,
+  "datasetSlug": "miners-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "trainingdatapro",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1327,
+  "totalVotes": 14,
+  "totalDownloads": 99,
+  "title": "Coal Miners Detection",
+  "hasTitle": true,
+  "subtitle": "Photos of miners - Object Detection dataset",
+  "hasSubtitle": true,
+  "description": "# Miners Object Detection dataset\n\nThe dataset consists of of photos captured within various mines, focusing on **miners** engaged in their work. Each photo is annotated with bounding box detection of the miners, an attribute highlights whether each miner is sitting or standing in the photo.\n\nThe dataset's diverse applications such as computer vision, safety assessment and others make it a valuable resource for *researchers, employers, and policymakers in the mining industry*.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Fdb3f193275f5206914a19b127e20138e%2FFrame%2013.png?generation=1695040375509674&alt=media)\n\n# Get the Dataset\n## This is just an example of the data \nLeave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=miners-detection)** to discuss your requirements, learn about the price and buy the dataset\n\n# Dataset structure\n- **images** - contains of original images of miners\n- **boxes** - includes bounding box labeling for the original images\n-  **annotations.xml** -  contains coordinates of the bounding boxes and labels, created for the original photo\n\n# Data Format\n\nEach image from `images` folder is accompanied by an XML-annotation in the `annotations.xml` file indicating the coordinates of the bounding boxes for miners detection. For each point, the x and y coordinates are provided. The position of the miner is also provided by the attribute **is_sitting** (true, false).\n\n# Example of XML file structure\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Febb59bc7d91a28f4e10c3f3da4ce4488%2Fcarbon%20(1).png?generation=1695040600108833&alt=media)\n\n# Miners detection might be made in accordance with your requirements.\n\n## **[TrainingData](https://trainingdata.pro/datasets?utm_source=kaggle&utm_medium=cpc&utm_campaign=miners-detection)** provides high-quality data annotation tailored to your needs\n\n*keywords: coal mines, underground, safety monitoring system, safety dataset, manufacturing dataset, industrial safety database, health and safety dataset, quality control dataset, quality assurance dataset, annotations dataset, computer vision dataset, image dataset, object detection, human images, classification*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "people",
+    "manufacturing",
+    "computer vision",
+    "image",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

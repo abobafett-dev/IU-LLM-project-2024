@@ -1,0 +1,43 @@
+{
+  "id": "filipdomovic/cars-data",
+  "id_no": 3718137,
+  "datasetSlugNullable": "cars-data",
+  "ownerUserNullable": "filipdomovic",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Cars data",
+  "subtitleNullable": "Most comprehensive cars specifications dataset on Kaggle",
+  "descriptionNullable": "This dataset contains information about various cars and their specifications, with a focus on key attributes that are relevant for predicting car prices, drag race performance, and similar automotive-related predictions. The data is derived from a car website and may be updated in the future with additional performance-related information. \nBelow is a description of each column in the dataset:\n\n**brand:** The brand or manufacturer of the car.\n**car_id:** An identifier for each car in the dataset.\n**model:** The model or name of the car.\n**cylinders:** The number of cylinders in the car's engine.\n**transmission:** The type of transmission (e.g., automatic, manual).\n**drive_wheel:** The type of drive wheel configuration (e.g., front-wheel drive, rear-wheel drive, all-wheel drive).\n**power:** The car's power output in horsepower (HP).\n**max_power_rpm:** The RPM (revolutions per minute) at which the maximum power is achieved.\n**torque:** The car's torque output in Newton-meters (Nm).\n**max_torque_rpm:** The RPM at which the maximum torque is achieved.\n**turbo:** Indicates whether the car has a turbocharger and which type of turbocharger.\n**fuel:** The type of fuel the car uses (e.g., gasoline, diesel).\n**top_speed:** The car's maximum attainable speed in kilometers per hour (km/h).\n**acc_0_100:** The time it takes for the car to accelerate from 0 to 100 km/h in seconds.\n**gear_1 to gear_9:** Information about the gear ratios for each gear (if applicable).\n**gear_r:** Information about the reverse gear (if applicable).\n**gear_final:** The final drive ratio of the car's transmission.\n**front_tire:** Specifications of the front tires.\n**rear_tire:** Specifications of the rear tires.\n**eng_capacity:** The engine capacity in cubic centimeters (cc).\n**weight:** The weight of the car in kilograms (kg).\n**height:** The height of the car in millimeters (mm).\n**width:** The width of the car in millimeters (mm).\n**length:** The length of the car in millimeters (mm).\n**wheelbase:** The wheelbase of the car in millimeters (mm).\n\nThis dataset is well-suited for various predictive modeling tasks, including:\n\n**Car Price Prediction:** The dataset provides key features like brand, model, engine specifications, and more, making it suitable for predicting car prices.\n\n**Drag Race Performance Prediction:** With attributes such as power, torque, and acceleration data, this dataset can be used to predict a car's performance in drag races.\n\n**Automotive Analytics:** Researchers and enthusiasts can use this dataset to conduct in-depth analysis of various car attributes and their impact on performance and pricing.\n\n**Recommendation Systems:** The dataset can be used to build recommendation systems for car buyers based on their preferences and needs.\n\n**Machine Learning Projects:** It serves as a valuable resource for machine learning projects related to cars, automotive technology, and performance analysis.\n\nKeep in mind that as the dataset is updated with more performance-related data in the future, its utility for predicting various automotive-related outcomes is likely to increase.",
+  "datasetId": 3718137,
+  "datasetSlug": "cars-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "filipdomovic",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 733,
+  "totalVotes": 2,
+  "totalDownloads": 154,
+  "title": "Cars data",
+  "hasTitle": true,
+  "subtitle": "Most comprehensive cars specifications dataset on Kaggle",
+  "hasSubtitle": true,
+  "description": "This dataset contains information about various cars and their specifications, with a focus on key attributes that are relevant for predicting car prices, drag race performance, and similar automotive-related predictions. The data is derived from a car website and may be updated in the future with additional performance-related information. \nBelow is a description of each column in the dataset:\n\n**brand:** The brand or manufacturer of the car.\n**car_id:** An identifier for each car in the dataset.\n**model:** The model or name of the car.\n**cylinders:** The number of cylinders in the car's engine.\n**transmission:** The type of transmission (e.g., automatic, manual).\n**drive_wheel:** The type of drive wheel configuration (e.g., front-wheel drive, rear-wheel drive, all-wheel drive).\n**power:** The car's power output in horsepower (HP).\n**max_power_rpm:** The RPM (revolutions per minute) at which the maximum power is achieved.\n**torque:** The car's torque output in Newton-meters (Nm).\n**max_torque_rpm:** The RPM at which the maximum torque is achieved.\n**turbo:** Indicates whether the car has a turbocharger and which type of turbocharger.\n**fuel:** The type of fuel the car uses (e.g., gasoline, diesel).\n**top_speed:** The car's maximum attainable speed in kilometers per hour (km/h).\n**acc_0_100:** The time it takes for the car to accelerate from 0 to 100 km/h in seconds.\n**gear_1 to gear_9:** Information about the gear ratios for each gear (if applicable).\n**gear_r:** Information about the reverse gear (if applicable).\n**gear_final:** The final drive ratio of the car's transmission.\n**front_tire:** Specifications of the front tires.\n**rear_tire:** Specifications of the rear tires.\n**eng_capacity:** The engine capacity in cubic centimeters (cc).\n**weight:** The weight of the car in kilograms (kg).\n**height:** The height of the car in millimeters (mm).\n**width:** The width of the car in millimeters (mm).\n**length:** The length of the car in millimeters (mm).\n**wheelbase:** The wheelbase of the car in millimeters (mm).\n\nThis dataset is well-suited for various predictive modeling tasks, including:\n\n**Car Price Prediction:** The dataset provides key features like brand, model, engine specifications, and more, making it suitable for predicting car prices.\n\n**Drag Race Performance Prediction:** With attributes such as power, torque, and acceleration data, this dataset can be used to predict a car's performance in drag races.\n\n**Automotive Analytics:** Researchers and enthusiasts can use this dataset to conduct in-depth analysis of various car attributes and their impact on performance and pricing.\n\n**Recommendation Systems:** The dataset can be used to build recommendation systems for car buyers based on their preferences and needs.\n\n**Machine Learning Projects:** It serves as a valuable resource for machine learning projects related to cars, automotive technology, and performance analysis.\n\nKeep in mind that as the dataset is updated with more performance-related data in the future, its utility for predicting various automotive-related outcomes is likely to increase.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "automobiles and vehicles",
+    "data cleaning",
+    "data visualization",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

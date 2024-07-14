@@ -1,0 +1,43 @@
+{
+  "id": "hadiepratamatulili/anime-vs-cartoon-vs-human",
+  "id_no": 2697895,
+  "datasetSlugNullable": "anime-vs-cartoon-vs-human",
+  "ownerUserNullable": "hadiepratamatulili",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Anime VS Cartoon VS Human",
+  "subtitleNullable": "Classification images as a anime or cartoon or human",
+  "descriptionNullable": "# Context\nAlthough Anime and Cartoons are both forms of animation and look almost the same, there are some structural differences between the two that can be exploited to classify them. So design a CNN model to do the job. And I added human images to make it categorical.\n\n# Acknowledgements\nThe images were scrapped through Kaggle and grouped into this dataset.",
+  "datasetId": 2697895,
+  "datasetSlug": "anime-vs-cartoon-vs-human",
+  "hasDatasetSlug": true,
+  "ownerUser": "hadiepratamatulili",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 3608,
+  "totalVotes": 14,
+  "totalDownloads": 378,
+  "title": "Anime VS Cartoon VS Human",
+  "hasTitle": true,
+  "subtitle": "Classification images as a anime or cartoon or human",
+  "hasSubtitle": true,
+  "description": "# Context\nAlthough Anime and Cartoons are both forms of animation and look almost the same, there are some structural differences between the two that can be exploited to classify them. So design a CNN model to do the job. And I added human images to make it categorical.\n\n# Acknowledgements\nThe images were scrapped through Kaggle and grouped into this dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "computer vision",
+    "cnn",
+    "anime and manga",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

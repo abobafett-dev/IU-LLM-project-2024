@@ -1,0 +1,45 @@
+{
+  "id": "bdo0or/distance-education-saudi-arabi-during-covid19",
+  "id_no": 1023685,
+  "datasetSlugNullable": "distance-education-saudi-arabi-during-covid19",
+  "ownerUserNullable": "bdo0or",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Distance education Saudi Arabia during covid-19",
+  "subtitleNullable": "sentiment analysis in Saudi Arabia about distance education during Covid-19",
+  "descriptionNullable": "Context\nThe data were collected from Twitter. About distance education in Saudi Arabia due to the Covid-19 pandemic. Arabic Tweets classified as positive or negative\n\nContent\nThe data was obtained from Twitter. Distance education in Saudi Arabia as a result of the Covid-19 pandemic. Data were obtained from Sep 2 to Sep 17, 2020, which was the first two weeks of the new academic year. From four trending hashtags. Text Tweets in the Arabic language are categorized as positive or negative. The dataset contains 1675 records and 10 columns as following\nDate: the date of the tweet\n\nTime: the time of a tweet\n\nTweet: the text of a tweet\n\nreplies_count: the number of reply to the tweet\n\nretweets_count: the number of retweet for the tweet\n\nlikes_count: the number of likes for the tweet\n\nhashtags: number of hashtags used in the tweet\n\nnear: the name of the city where we collected\n\nweek: week of the tweet if it is in the first or second week\n\nclass: 0 for the reject, 1 for support the distance education\n\nSource\nBador Alqahtani, Arwa Aldossary, Amnah Algamdi\n\nAcknowledgements\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\nInspiration\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 1023685,
+  "datasetSlug": "distance-education-saudi-arabi-during-covid19",
+  "hasDatasetSlug": true,
+  "ownerUser": "bdo0or",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 1953,
+  "totalVotes": 2,
+  "totalDownloads": 164,
+  "title": "Distance education Saudi Arabia during covid-19",
+  "hasTitle": true,
+  "subtitle": "sentiment analysis in Saudi Arabia about distance education during Covid-19",
+  "hasSubtitle": true,
+  "description": "Context\nThe data were collected from Twitter. About distance education in Saudi Arabia due to the Covid-19 pandemic. Arabic Tweets classified as positive or negative\n\nContent\nThe data was obtained from Twitter. Distance education in Saudi Arabia as a result of the Covid-19 pandemic. Data were obtained from Sep 2 to Sep 17, 2020, which was the first two weeks of the new academic year. From four trending hashtags. Text Tweets in the Arabic language are categorized as positive or negative. The dataset contains 1675 records and 10 columns as following\nDate: the date of the tweet\n\nTime: the time of a tweet\n\nTweet: the text of a tweet\n\nreplies_count: the number of reply to the tweet\n\nretweets_count: the number of retweet for the tweet\n\nlikes_count: the number of likes for the tweet\n\nhashtags: number of hashtags used in the tweet\n\nnear: the name of the city where we collected\n\nweek: week of the tweet if it is in the first or second week\n\nclass: 0 for the reject, 1 for support the distance education\n\nSource\nBador Alqahtani, Arwa Aldossary, Amnah Algamdi\n\nAcknowledgements\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\nInspiration\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "education",
+    "text mining",
+    "classification",
+    "primary and secondary schools",
+    "social networks",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

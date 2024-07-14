@@ -1,0 +1,43 @@
+{
+  "id": "qusaybtoush1990/city-of-baltimore-crime-data",
+  "id_no": 1961495,
+  "datasetSlugNullable": "city-of-baltimore-crime-data",
+  "ownerUserNullable": "qusaybtoush1990",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "City of Baltimore Crime Data ",
+  "subtitleNullable": "City of Baltimore Crime Data from 2011-2016",
+  "descriptionNullable": "# City of Baltimore Crime Data\n## City of Baltimore Crime Data from 2011-2016\n\n### SUMMARY\n- This data includes 286k rows and 12 columns as:\n\n- About data and columns:\n\n- Crime Date\n- Crime Time\n- Crime Code\n- Location\n- Description\n- Inside/Outside\n- Weapon\tPost\n- District\n- Neighborhood\n- Location 1\n- Total Incidents\n\n\n### Date and time\n### Location detailed to coordinates\n### Description of crime type\n\n- Source: City of Baltimore Open Data (updated monthly)\nhttps://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij\n\n## Note\n- This data is for training how using data analysis\n\n- Please appreciate the effort with an upvote \ud83d\udc4d\n\n## Thank You\n",
+  "datasetId": 1961495,
+  "datasetSlug": "city-of-baltimore-crime-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "qusaybtoush1990",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 3580,
+  "totalVotes": 32,
+  "totalDownloads": 327,
+  "title": "City of Baltimore Crime Data ",
+  "hasTitle": true,
+  "subtitle": "City of Baltimore Crime Data from 2011-2016",
+  "hasSubtitle": true,
+  "description": "# City of Baltimore Crime Data\n## City of Baltimore Crime Data from 2011-2016\n\n### SUMMARY\n- This data includes 286k rows and 12 columns as:\n\n- About data and columns:\n\n- Crime Date\n- Crime Time\n- Crime Code\n- Location\n- Description\n- Inside/Outside\n- Weapon\tPost\n- District\n- Neighborhood\n- Location 1\n- Total Incidents\n\n\n### Date and time\n### Location detailed to coordinates\n### Description of crime type\n\n- Source: City of Baltimore Open Data (updated monthly)\nhttps://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij\n\n## Note\n- This data is for training how using data analysis\n\n- Please appreciate the effort with an upvote \ud83d\udc4d\n\n## Thank You\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "crime",
+    "data visualization",
+    "time series analysis",
+    "data analytics",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "U.S. Government Works",
+      "name": "U.S. Government Works",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

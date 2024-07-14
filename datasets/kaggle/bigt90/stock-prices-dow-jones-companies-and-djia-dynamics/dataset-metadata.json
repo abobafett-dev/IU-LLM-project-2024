@@ -1,0 +1,44 @@
+{
+  "id": "bigt90/stock-prices-dow-jones-companies-and-djia-dynamics",
+  "id_no": 569572,
+  "datasetSlugNullable": "stock-prices-dow-jones-companies-and-djia-dynamics",
+  "ownerUserNullable": "bigt90",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Stock prices Dow Jones companies and DJIA dynamics",
+  "subtitleNullable": "Info about the oldest US stock market index - Dow Jones Industrial Average",
+  "descriptionNullable": "Datasets contain a sample of the Dow Jones Industrial Average (DJIA) index values, as well as stock prices of the companies that form the DJIA today. A little about this stock market index: https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average\nDaily DJIA index values and stock prices are taken from March 01, 2017 to March 19, 2020. All prices are the closing prices (the last price at which the stock traded during the regular trading day).\nIt should be noted that stock prices Dow Inc. available only from March 20, 2019, the remaining price values are NaN (Dow Inc. was added to the DJIA since April 02, 2019).",
+  "datasetId": 569572,
+  "datasetSlug": "stock-prices-dow-jones-companies-and-djia-dynamics",
+  "hasDatasetSlug": true,
+  "ownerUser": "bigt90",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 3369,
+  "totalVotes": 2,
+  "totalDownloads": 181,
+  "title": "Stock prices Dow Jones companies and DJIA dynamics",
+  "hasTitle": true,
+  "subtitle": "Info about the oldest US stock market index - Dow Jones Industrial Average",
+  "hasSubtitle": true,
+  "description": "Datasets contain a sample of the Dow Jones Industrial Average (DJIA) index values, as well as stock prices of the companies that form the DJIA today. A little about this stock market index: https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average\nDaily DJIA index values and stock prices are taken from March 01, 2017 to March 19, 2020. All prices are the closing prices (the last price at which the stock traded during the regular trading day).\nIt should be noted that stock prices Dow Inc. available only from March 20, 2019, the remaining price values are NaN (Dow Inc. was added to the DJIA since April 02, 2019).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "data visualization",
+    "time series analysis",
+    "dimensionality reduction",
+    "investing",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

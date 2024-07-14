@@ -1,0 +1,42 @@
+{
+  "id": "eldamar1717/depression-suicide-twits-ru",
+  "id_no": 4124872,
+  "datasetSlugNullable": "depression-suicide-twits-ru",
+  "ownerUserNullable": "eldamar1717",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Depression-Suicide posts RU",
+  "subtitleNullable": "This dataset can be used to detect depression and suicide in a russian text.",
+  "descriptionNullable": "It's a dataset with posts from Reddit that contains about 48000 posts marked is it suicide or not on Russian language.\nIt's based on [this](https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch).",
+  "datasetId": 4124872,
+  "datasetSlug": "depression-suicide-twits-ru",
+  "hasDatasetSlug": true,
+  "ownerUser": "eldamar1717",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 374,
+  "totalVotes": 2,
+  "totalDownloads": 52,
+  "title": "Depression-Suicide posts RU",
+  "hasTitle": true,
+  "subtitle": "This dataset can be used to detect depression and suicide in a russian text.",
+  "hasSubtitle": true,
+  "description": "It's a dataset with posts from Reddit that contains about 48000 posts marked is it suicide or not on Russian language.\nIt's based on [this](https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "text",
+    "health conditions",
+    "russian"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

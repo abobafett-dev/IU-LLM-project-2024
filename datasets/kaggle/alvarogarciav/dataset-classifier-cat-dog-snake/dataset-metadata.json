@@ -1,0 +1,39 @@
+{
+  "id": "alvarogarciav/dataset-classifier-cat-dog-snake",
+  "id_no": 4729191,
+  "datasetSlugNullable": "dataset-classifier-cat-dog-snake",
+  "ownerUserNullable": "alvarogarciav",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Animal Image Classification Dataset",
+  "subtitleNullable": "Dataset for a classifier of cats, dogs and snakes.",
+  "descriptionNullable": "Dataset Summary:\nThe Animal Image Classification Dataset is a comprehensive collection of images tailored for the development and evaluation of machine learning models in the field of computer vision. It contains 3,000 JPG images, carefully segmented into three classes representing common pets and wildlife: cats, dogs, and snakes.\n\nDataset Contents:\n\ncats/: A set of 1,000 JPG images of cats, showcasing a wide array of breeds, environments, and postures.\ndogs/: A diverse compilation of 1,000 dog images, capturing a multitude of breeds in various activities and settings.\nsnakes/: An assortment of 1,000 images of snakes, depicting numerous species in both natural and controlled habitats.\nImage Details:\n\nResolution: Each image maintains a uniform resolution of 256x256 pixels, providing clarity and consistency for model training.\nFile Format: JPG\nColor Space: RGB\nIntended Applications:\nThis dataset is primed for use in developing and testing AI models specialized in multi-class animal recognition. It offers valuable resources for researchers and hobbyists in fields such as zoology, pet technology, and biodiversity conservation.\n\nAcknowledgments and Licensing:\nThis dataset is a collective effort of various photographers and organizations. All images are distributed with permissions for academic and non-commercial usage, provided that proper attribution is given to the original sources.\n\n",
+  "datasetId": 4729191,
+  "datasetSlug": "dataset-classifier-cat-dog-snake",
+  "hasDatasetSlug": true,
+  "ownerUser": "alvarogarciav",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 90,
+  "totalVotes": 0,
+  "totalDownloads": 11,
+  "title": "Animal Image Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset for a classifier of cats, dogs and snakes.",
+  "hasSubtitle": true,
+  "description": "Dataset Summary:\nThe Animal Image Classification Dataset is a comprehensive collection of images tailored for the development and evaluation of machine learning models in the field of computer vision. It contains 3,000 JPG images, carefully segmented into three classes representing common pets and wildlife: cats, dogs, and snakes.\n\nDataset Contents:\n\ncats/: A set of 1,000 JPG images of cats, showcasing a wide array of breeds, environments, and postures.\ndogs/: A diverse compilation of 1,000 dog images, capturing a multitude of breeds in various activities and settings.\nsnakes/: An assortment of 1,000 images of snakes, depicting numerous species in both natural and controlled habitats.\nImage Details:\n\nResolution: Each image maintains a uniform resolution of 256x256 pixels, providing clarity and consistency for model training.\nFile Format: JPG\nColor Space: RGB\nIntended Applications:\nThis dataset is primed for use in developing and testing AI models specialized in multi-class animal recognition. It offers valuable resources for researchers and hobbyists in fields such as zoology, pet technology, and biodiversity conservation.\n\nAcknowledgments and Licensing:\nThis dataset is a collective effort of various photographers and organizations. All images are distributed with permissions for academic and non-commercial usage, provided that proper attribution is given to the original sources.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dfavenfre/binance-futures-api-dataset",
+  "id_no": 2925741,
+  "datasetSlugNullable": "binance-futures-api-dataset",
+  "ownerUserNullable": "dfavenfre",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "binance_futures_api_dataset",
+  "subtitleNullable": "Data have been retrieved from Binance Futures Connector ",
+  "descriptionNullable": "Data contains 1h OHLCV, funding rate, and sum open interest and long short ratio data from Binance. A multivariate time series analysis has been implemented to conclude which exogeneous variables are better at capturing a successful model when predicting the future price of bitcoin, or altcoins. ",
+  "datasetId": 2925741,
+  "datasetSlug": "binance-futures-api-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "dfavenfre",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 252,
+  "totalVotes": 3,
+  "totalDownloads": 31,
+  "title": "binance_futures_api_dataset",
+  "hasTitle": true,
+  "subtitle": "Data have been retrieved from Binance Futures Connector ",
+  "hasSubtitle": true,
+  "description": "Data contains 1h OHLCV, funding rate, and sum open interest and long short ratio data from Binance. A multivariate time series analysis has been implemented to conclude which exogeneous variables are better at capturing a successful model when predicting the future price of bitcoin, or altcoins. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

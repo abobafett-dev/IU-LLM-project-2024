@@ -1,0 +1,42 @@
+{
+  "id": "raminhuseyn/airline-customer-satisfaction",
+  "id_no": 4952797,
+  "datasetSlugNullable": "airline-customer-satisfaction",
+  "ownerUserNullable": "raminhuseyn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Airline Customer Satisfaction",
+  "subtitleNullable": "Customer satisfaction of an airline customers.",
+  "descriptionNullable": "The dataset provides insights into customer satisfaction levels within an undisclosed airline company. While the specific airline name is withheld, the dataset is rich in information, containing **22 columns and 129,880 rows**. It aims to predict whether future customers will be satisfied based on various parameters included in the dataset.\n\nThe columns likely cover a range of factors that influence customer satisfaction, such as flight punctuality, service quality, and so. By analyzing this dataset, airlines can gain valuable insights into the factors that contribute to customer satisfaction and tailor their services accordingly to enhance the overall customer experience.",
+  "datasetId": 4952797,
+  "datasetSlug": "airline-customer-satisfaction",
+  "hasDatasetSlug": true,
+  "ownerUser": "raminhuseyn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10785,
+  "totalVotes": 38,
+  "totalDownloads": 2625,
+  "title": "Airline Customer Satisfaction",
+  "hasTitle": true,
+  "subtitle": "Customer satisfaction of an airline customers.",
+  "hasSubtitle": true,
+  "description": "The dataset provides insights into customer satisfaction levels within an undisclosed airline company. While the specific airline name is withheld, the dataset is rich in information, containing **22 columns and 129,880 rows**. It aims to predict whether future customers will be satisfied based on various parameters included in the dataset.\n\nThe columns likely cover a range of factors that influence customer satisfaction, such as flight punctuality, service quality, and so. By analyzing this dataset, airlines can gain valuable insights into the factors that contribute to customer satisfaction and tailor their services accordingly to enhance the overall customer experience.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "aviation",
+    "intermediate",
+    "logistic regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

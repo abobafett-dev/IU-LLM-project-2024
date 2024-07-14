@@ -1,0 +1,43 @@
+{
+  "id": "kushsheth/face-vae",
+  "id_no": 4880046,
+  "datasetSlugNullable": "face-vae",
+  "ownerUserNullable": "kushsheth",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "CelebA Dataset",
+  "subtitleNullable": "The best dataset to train your VAEs on!!!",
+  "descriptionNullable": "CelebFaces Attributes Dataset (CelebA) boasts over 200,000 images of celebrities, each meticulously annotated with 40 attributes. These images showcase a wide range of poses and backgrounds, providing a diverse and comprehensive dataset. With 10,177 distinct identities, 202,599 face images, and annotations including 5 landmark locations and 40 binary attributes per image, CelebA is invaluable for various computer vision tasks such as face attribute recognition, face detection, face recognition, facial landmark localization, and face editing and synthesis.",
+  "datasetId": 4880046,
+  "datasetSlug": "face-vae",
+  "hasDatasetSlug": true,
+  "ownerUser": "kushsheth",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 752,
+  "totalVotes": 12,
+  "totalDownloads": 91,
+  "title": "CelebA Dataset",
+  "hasTitle": true,
+  "subtitle": "The best dataset to train your VAEs on!!!",
+  "hasSubtitle": true,
+  "description": "CelebFaces Attributes Dataset (CelebA) boasts over 200,000 images of celebrities, each meticulously annotated with 40 attributes. These images showcase a wide range of poses and backgrounds, providing a diverse and comprehensive dataset. With 10,177 distinct identities, 202,599 face images, and annotations including 5 landmark locations and 40 binary attributes per image, CelebA is invaluable for various computer vision tasks such as face attribute recognition, face detection, face recognition, facial landmark localization, and face editing and synthesis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "celebrities",
+    "cnn",
+    "image",
+    "gpu",
+    "vae"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

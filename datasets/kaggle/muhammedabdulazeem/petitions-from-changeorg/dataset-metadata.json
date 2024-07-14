@@ -1,0 +1,41 @@
+{
+  "id": "muhammedabdulazeem/petitions-from-changeorg",
+  "id_no": 1315893,
+  "datasetSlugNullable": "petitions-from-changeorg",
+  "ownerUserNullable": "muhammedabdulazeem",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Petitions from change.org",
+  "subtitleNullable": "More than 24k+ petitions from change.org",
+  "descriptionNullable": "### Story\n\nEveryday there are many petitions put up by the people on the internet for some cause. [change.org](http://change.org/) is one such organization which helps to do so. \n\n\n### Content\n\nThis dataset contains nearly 40+ columns. You can explore the dataset by creating a notebook instance or by downloading the dataset. Data was scraped from change.org website using python library [scrapy](https://scrapy.org/).\n\n\n### Task creation\n\nYou can create a task if you want to preform any kind of data analysis activity or use machine-learning models to predict any particular attribute. They are both classification and regression task that can be performed with this dataset such as victory for any petition can be taken as classification task and number of signs for that particular petition can be taken as a task of regression.\n",
+  "datasetId": 1315893,
+  "datasetSlug": "petitions-from-changeorg",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammedabdulazeem",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 2420,
+  "totalVotes": 20,
+  "totalDownloads": 136,
+  "title": "Petitions from change.org",
+  "hasTitle": true,
+  "subtitle": "More than 24k+ petitions from change.org",
+  "hasSubtitle": true,
+  "description": "### Story\n\nEveryday there are many petitions put up by the people on the internet for some cause. [change.org](http://change.org/) is one such organization which helps to do so. \n\n\n### Content\n\nThis dataset contains nearly 40+ columns. You can explore the dataset by creating a notebook instance or by downloading the dataset. Data was scraped from change.org website using python library [scrapy](https://scrapy.org/).\n\n\n### Task creation\n\nYou can create a task if you want to preform any kind of data analysis activity or use machine-learning models to predict any particular attribute. They are both classification and regression task that can be performed with this dataset such as victory for any petition can be taken as classification task and number of signs for that particular petition can be taken as a task of regression.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "nlp",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

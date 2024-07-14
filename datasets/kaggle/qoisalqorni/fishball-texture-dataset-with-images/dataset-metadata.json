@@ -1,0 +1,43 @@
+{
+  "id": "qoisalqorni/fishball-texture-dataset-with-images",
+  "id_no": 3434045,
+  "datasetSlugNullable": "fishball-texture-dataset-with-images",
+  "ownerUserNullable": "qoisalqorni",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "fishball texture dataset (with images)",
+  "subtitleNullable": "texture dataset image comparison of fish and flour content in fish meatballs",
+  "descriptionNullable": "This dataset contains images of fish meatball ratio texture levels. The ingredients used are mackerel and wheat flour.\nThere are 5 classes of content comparison, class 1 (1-1) is the ratio of 100 grams of flour : 100 grams of fish, class 2 (1-1.5) is the ratio of 100 grams of flour : 150 grams of fish, class 3 (1-2) is the ratio of 100 grams of flour : 200 grams of fish , class 4 (2-1) is the ratio of 200 grams of flour : 100 grams of fish and class 5 (1.5-1) is the ratio of 150 grams of flour : 100 grams of fish",
+  "datasetId": 3434045,
+  "datasetSlug": "fishball-texture-dataset-with-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "qoisalqorni",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1634,
+  "totalVotes": 30,
+  "totalDownloads": 106,
+  "title": "fishball texture dataset (with images)",
+  "hasTitle": true,
+  "subtitle": "texture dataset image comparison of fish and flour content in fish meatballs",
+  "hasSubtitle": true,
+  "description": "This dataset contains images of fish meatball ratio texture levels. The ingredients used are mackerel and wheat flour.\nThere are 5 classes of content comparison, class 1 (1-1) is the ratio of 100 grams of flour : 100 grams of fish, class 2 (1-1.5) is the ratio of 100 grams of flour : 150 grams of fish, class 3 (1-2) is the ratio of 100 grams of flour : 200 grams of fish , class 4 (2-1) is the ratio of 200 grams of flour : 100 grams of fish and class 5 (1.5-1) is the ratio of 150 grams of flour : 100 grams of fish",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "computer vision",
+    "image",
+    "food",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

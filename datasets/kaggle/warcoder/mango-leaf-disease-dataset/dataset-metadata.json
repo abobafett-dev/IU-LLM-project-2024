@@ -1,0 +1,43 @@
+{
+  "id": "warcoder/mango-leaf-disease-dataset",
+  "id_no": 4083779,
+  "datasetSlugNullable": "mango-leaf-disease-dataset",
+  "ownerUserNullable": "warcoder",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Mango Leaf Disease Dataset",
+  "subtitleNullable": "Suitable for distinguishing healthy and diseases leaves of Mango Tree",
+  "descriptionNullable": "- Type of data:\t240x320 mango leaf images.\n- Data format:\tJPG.\n- Number of images: 4000 images. Of these, around 1800 are of distinct leaves, and the rest are prepared by zooming and rotating where deemed necessary.\n- Diseases considered: Seven diseases, namely Anthracnose, Bacterial Canker, Cutting Weevil, Die Back, Gall Midge, Powdery Mildew, and Sooty Mould.\n- Number of classes: Eight (including the healthy category).\n- Distribution of instances: Each of the eight categories contains 500 images.- Data source locations:Four mango orchards of Bangladesh, namely Sher-e-Bangla Agricultural University orchard, Jahangir Nagar University orchard, Udaypur village mango orchard, and Itakhola village mango orchard.\nWhere applicable:\tSuitable for distinguishing healthy and diseases leaves (two-class prediction) as well as for differentiating among various diseases (multi-class prediction).\n\n",
+  "datasetId": 4083779,
+  "datasetSlug": "mango-leaf-disease-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "warcoder",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4073,
+  "totalVotes": 16,
+  "totalDownloads": 524,
+  "title": "Mango Leaf Disease Dataset",
+  "hasTitle": true,
+  "subtitle": "Suitable for distinguishing healthy and diseases leaves of Mango Tree",
+  "hasSubtitle": true,
+  "description": "- Type of data:\t240x320 mango leaf images.\n- Data format:\tJPG.\n- Number of images: 4000 images. Of these, around 1800 are of distinct leaves, and the rest are prepared by zooming and rotating where deemed necessary.\n- Diseases considered: Seven diseases, namely Anthracnose, Bacterial Canker, Cutting Weevil, Die Back, Gall Midge, Powdery Mildew, and Sooty Mould.\n- Number of classes: Eight (including the healthy category).\n- Distribution of instances: Each of the eight categories contains 500 images.- Data source locations:Four mango orchards of Bangladesh, namely Sher-e-Bangla Agricultural University orchard, Jahangir Nagar University orchard, Udaypur village mango orchard, and Itakhola village mango orchard.\nWhere applicable:\tSuitable for distinguishing healthy and diseases leaves (two-class prediction) as well as for differentiating among various diseases (multi-class prediction).\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "agriculture",
+    "classification",
+    "image",
+    "multiclass classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

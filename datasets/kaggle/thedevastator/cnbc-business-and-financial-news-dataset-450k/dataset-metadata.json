@@ -1,0 +1,42 @@
+{
+  "id": "thedevastator/cnbc-business-and-financial-news-dataset-450k",
+  "id_no": 2538615,
+  "datasetSlugNullable": "cnbc-business-and-financial-news-dataset-450k",
+  "ownerUserNullable": "thedevastator",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "CNBC Business and Financial News",
+  "subtitleNullable": "Financial news from CNBC over time",
+  "descriptionNullable": "# CNBC Business and Financial News\n### Financial news from CNBC over time\n_____\n\n### About this dataset\n&gt; The CNBC Business and Financial News dataset contains over 450,000 articles scraped from CNBC.com. The articles span a wide range of topics, including business news, stock prices, economic indicators, and more. This dataset can be used for a variety of purposes, such as keeping up with the latest news in the business world, conducting research on specific companies or industries, or simply staying informed about current affairs\n\n### How to use the dataset\n&gt; Using this dataset is simple and straightforward. You can use it for a variety of purposes, such as keeping up with the latest news in the business world, conducting research on specific companies or industries, or simply staying informed about current affairs. To get started, simply download the dataset and take a look at the columns. Each column provides important information about each article, such as the title, url, author, publisher, and description. You can use this information to find articles that are relevant to your interests and conduct further research\n\n### Research Ideas\n&gt; - Building a web app that scrapes the latest business news headlines from CNBC.com\n&gt; - Analyzing the most common words used in CNBC business news headlines\n\n### Acknowledgements\n&gt; This dataset was scraped from https://data.world/opensnippets by crawl-feeds on behalf of CNBC\n\n&gt; \n&gt; \n&gt; ### License\n&gt; \n&gt; \n&gt; &gt; **Unknown License - Please check the dataset description for more information.**\n\n### Columns\n\n",
+  "datasetId": 2538615,
+  "datasetSlug": "cnbc-business-and-financial-news-dataset-450k",
+  "hasDatasetSlug": true,
+  "ownerUser": "thedevastator",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2836,
+  "totalVotes": 10,
+  "totalDownloads": 361,
+  "title": "CNBC Business and Financial News",
+  "hasTitle": true,
+  "subtitle": "Financial news from CNBC over time",
+  "hasSubtitle": true,
+  "description": "# CNBC Business and Financial News\n### Financial news from CNBC over time\n_____\n\n### About this dataset\n&gt; The CNBC Business and Financial News dataset contains over 450,000 articles scraped from CNBC.com. The articles span a wide range of topics, including business news, stock prices, economic indicators, and more. This dataset can be used for a variety of purposes, such as keeping up with the latest news in the business world, conducting research on specific companies or industries, or simply staying informed about current affairs\n\n### How to use the dataset\n&gt; Using this dataset is simple and straightforward. You can use it for a variety of purposes, such as keeping up with the latest news in the business world, conducting research on specific companies or industries, or simply staying informed about current affairs. To get started, simply download the dataset and take a look at the columns. Each column provides important information about each article, such as the title, url, author, publisher, and description. You can use this information to find articles that are relevant to your interests and conduct further research\n\n### Research Ideas\n&gt; - Building a web app that scrapes the latest business news headlines from CNBC.com\n&gt; - Analyzing the most common words used in CNBC business news headlines\n\n### Acknowledgements\n&gt; This dataset was scraped from https://data.world/opensnippets by crawl-feeds on behalf of CNBC\n\n&gt; \n&gt; \n&gt; ### License\n&gt; \n&gt; \n&gt; &gt; **Unknown License - Please check the dataset description for more information.**\n\n### Columns\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "data cleaning",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

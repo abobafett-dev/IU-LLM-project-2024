@@ -1,0 +1,57 @@
+{
+  "id": "schobbejak/model-configs",
+  "id_no": 4007111,
+  "datasetSlugNullable": "model-configs",
+  "ownerUserNullable": "schobbejak",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "model_configs",
+  "subtitleNullable": "Model configuration files for Child Mind Institute - Detect Sleep States",
+  "descriptionNullable": "This dataset contains all our model configuration files for the Detect Sleep States competition for the Child Mind Institute. Each file has preprocessing, feature engineering, pretraining and architecture parameters.",
+  "datasetId": 4007111,
+  "datasetSlug": "model-configs",
+  "hasDatasetSlug": true,
+  "ownerUser": "schobbejak",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 181,
+  "totalVotes": 3,
+  "totalDownloads": 15,
+  "title": "model_configs",
+  "hasTitle": true,
+  "subtitle": "Model configuration files for Child Mind Institute - Detect Sleep States",
+  "hasSubtitle": true,
+  "description": "This dataset contains all our model configuration files for the Detect Sleep States competition for the Child Mind Institute. Each file has preprocessing, feature engineering, pretraining and architecture parameters.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "time series analysis",
+    "json"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "hugodeheer",
+      "role": "writer"
+    },
+    {
+      "username": "emielwitting",
+      "role": "writer"
+    },
+    {
+      "username": "tolgakopar",
+      "role": "writer"
+    },
+    {
+      "username": "limjeffrey",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

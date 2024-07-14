@@ -1,0 +1,44 @@
+{
+  "id": "bgallamoza/national-survey-of-drug-use-and-health-20152019",
+  "id_no": 1487904,
+  "datasetSlugNullable": "national-survey-of-drug-use-and-health-20152019",
+  "ownerUserNullable": "bgallamoza",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "National Survey of Drug Use and Health (2015-2019)",
+  "subtitleNullable": "Comprehensive survey on drug use and demographics in the United States",
+  "descriptionNullable": "### National Survey on Drug Use and Health (NSDUH) for Years 2015-2019\n\nThe National Survey on Drug Use and Health (NSDUH) is the \"leading source of statistical information on the use of illicit drugs, alcohol, and tobacco and mental health issues in the United States\" (SAMHSA). **The abundance of Yes/No questions regarding the usage of illicit drugs make this dataset valuable for binary classification problems.** During 2015, the survey received a partial redesign, creating \"broken trends\" from pre-2015 and post-2015. This is dataset contains every year of the NSDUH survey after the major restructuring in 2015.\n\n### Column Descriptions\n\nAll column names are identical to the Question Index found in the NSDUH documentation. The values in each column are codes that correspond to a particular answer in the survey. You can reference each question's meaning in the documentation, found [here.](https://www.datafiles.samhsa.gov/sites/default/files/field-uploads-protected/studies/NSDUH-2002-2018/NSDUH-2002-2018-datasets/NSDUH-2002-2018-DS0001/NSDUH-2002-2018-DS0001-info/NSDUH-2002-2018-DS0001-info-codebook.pdf) **Be sure to account for these codes before performing any analyses.**\n\nAdditionally, some questions are not asked across ALL years, and will instead have an NA value.\n\n### Sources\n\nAll of the data used to create this dataset was obtained from the Substance Abuse & Mental Health Data Archive. You can access the data for separate years [here.](https://www.datafiles.samhsa.gov/dataset/national-survey-drug-use-and-health-2015-nsduh-2015-ds0001)",
+  "datasetId": 1487904,
+  "datasetSlug": "national-survey-of-drug-use-and-health-20152019",
+  "hasDatasetSlug": true,
+  "ownerUser": "bgallamoza",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 15973,
+  "totalVotes": 31,
+  "totalDownloads": 1654,
+  "title": "National Survey of Drug Use and Health (2015-2019)",
+  "hasTitle": true,
+  "subtitle": "Comprehensive survey on drug use and demographics in the United States",
+  "hasSubtitle": true,
+  "description": "### National Survey on Drug Use and Health (NSDUH) for Years 2015-2019\n\nThe National Survey on Drug Use and Health (NSDUH) is the \"leading source of statistical information on the use of illicit drugs, alcohol, and tobacco and mental health issues in the United States\" (SAMHSA). **The abundance of Yes/No questions regarding the usage of illicit drugs make this dataset valuable for binary classification problems.** During 2015, the survey received a partial redesign, creating \"broken trends\" from pre-2015 and post-2015. This is dataset contains every year of the NSDUH survey after the major restructuring in 2015.\n\n### Column Descriptions\n\nAll column names are identical to the Question Index found in the NSDUH documentation. The values in each column are codes that correspond to a particular answer in the survey. You can reference each question's meaning in the documentation, found [here.](https://www.datafiles.samhsa.gov/sites/default/files/field-uploads-protected/studies/NSDUH-2002-2018/NSDUH-2002-2018-datasets/NSDUH-2002-2018-DS0001/NSDUH-2002-2018-DS0001-info/NSDUH-2002-2018-DS0001-info-codebook.pdf) **Be sure to account for these codes before performing any analyses.**\n\nAdditionally, some questions are not asked across ALL years, and will instead have an NA value.\n\n### Sources\n\nAll of the data used to create this dataset was obtained from the Substance Abuse & Mental Health Data Archive. You can access the data for separate years [here.](https://www.datafiles.samhsa.gov/dataset/national-survey-drug-use-and-health-2015-nsduh-2015-ds0001)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "public health",
+    "business",
+    "health",
+    "drugs and medications",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

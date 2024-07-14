@@ -1,0 +1,42 @@
+{
+  "id": "zijiangyang1116/birdclef24-spectrograms-via-cupy",
+  "id_no": 4776799,
+  "datasetSlugNullable": "birdclef24-spectrograms-via-cupy",
+  "ownerUserNullable": "zijiangyang1116",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "BirdCLEF'24 | Spectrograms via CuPy",
+  "subtitleNullable": "Speed up audio-to-spec. via CuPy ",
+  "descriptionNullable": "This dataset contains the preprocessed data of BirdCLEF'24. For each audio file of the training dataset, I crop the center 5 seconds and convert it to spectrogram via CuPy. \n\n- [BirdCLEF'24 | Speed up audio-to-spec. via CuPy ](https://www.kaggle.com/code/zijiangyang1116/birdclef-24-speed-up-audio-to-spec-via-cupy): The description of the preprocessing method\n- [BirdCLEF'24 | Preprocessing via CuPy](https://www.kaggle.com/code/zijiangyang1116/birdclef-24-preprocessing-via-cupy): Example of dataset preprocessing\n- [BirdCLEF'24 | EfficientNetB0 PyTorch [Train]](https://www.kaggle.com/code/zijiangyang1116/birdclef-24-efficientnetb0-pytorch-train): Application of this dataset",
+  "datasetId": 4776799,
+  "datasetSlug": "birdclef24-spectrograms-via-cupy",
+  "hasDatasetSlug": true,
+  "ownerUser": "zijiangyang1116",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1230,
+  "totalVotes": 22,
+  "totalDownloads": 155,
+  "title": "BirdCLEF'24 | Spectrograms via CuPy",
+  "hasTitle": true,
+  "subtitle": "Speed up audio-to-spec. via CuPy ",
+  "hasSubtitle": true,
+  "description": "This dataset contains the preprocessed data of BirdCLEF'24. For each audio file of the training dataset, I crop the center 5 seconds and convert it to spectrogram via CuPy. \n\n- [BirdCLEF'24 | Speed up audio-to-spec. via CuPy ](https://www.kaggle.com/code/zijiangyang1116/birdclef-24-speed-up-audio-to-spec-via-cupy): The description of the preprocessing method\n- [BirdCLEF'24 | Preprocessing via CuPy](https://www.kaggle.com/code/zijiangyang1116/birdclef-24-preprocessing-via-cupy): Example of dataset preprocessing\n- [BirdCLEF'24 | EfficientNetB0 PyTorch [Train]](https://www.kaggle.com/code/zijiangyang1116/birdclef-24-efficientnetb0-pytorch-train): Application of this dataset",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "image",
+    "audio",
+    "audio classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

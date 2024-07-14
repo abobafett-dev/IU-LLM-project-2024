@@ -1,0 +1,44 @@
+{
+  "id": "shuvoalok/cityscapes",
+  "id_no": 3734319,
+  "datasetSlugNullable": "cityscapes",
+  "ownerUserNullable": "shuvoalok",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "cityscapes dataset",
+  "subtitleNullable": "Well Maintained Train and Val data with Separated Image and MASK Label( 96*256)",
+  "descriptionNullable": "\n##  Context\nCityscapes data [ (dataset home page)](https://www.cityscapes-dataset.com/) contains labeled videos taken from vehicles driven in Germany. This version is a processed subsample created as part of the [Pix2Pix paper](https://phillipi.github.io/pix2pix/). The dataset has still images from the original videos, and the semantic segmentation labels are shown in images alongside the original image. This is one of the best datasets around for semantic segmentation tasks.\n\n\n\n## Acknowledgements\nThis dataset is the same as what is available [here](https://tinghuiz.github.io/projects/pix2pix/datasets/) from the Berkeley AI Research group.\n\n## License\nThe Cityscapes data available from cityscapes-dataset.com has the following license:\n\nThis dataset is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation. Permission is granted to use the data given that you agree:\n\nThat the dataset comes \"AS IS\", without express or implied warranty. Although every effort has been made to ensure accuracy, we (Daimler AG, MPI Informatics, TU Darmstadt) do not accept any responsibility for errors or omissions.\nThat you include a reference to the Cityscapes Dataset in any work that makes use of the dataset. For research papers, cite our preferred publication as listed on our website; for other media cite our preferred publication as listed on our website or link to the Cityscapes website.\nThat you do not distribute this dataset or modified versions. It is permissible to distribute derivative works in as far as they are abstract representations of this dataset (such as models trained on it or additional annotations that do not directly include any of our data) and do not allow to recover the dataset or something similar in character.\nThat you may not use the dataset or any derivative work for commercial purposes as, for example, licensing or selling the data, or using the data with a purpose to procure a commercial gain.\nThat all rights not expressly granted to you are reserved by (Daimler AG, MPI Informatics, TU Darmstadt).\n\n## Inspiration\nCan you identify you identify what objects are where in these images from a vehicle.",
+  "datasetId": 3734319,
+  "datasetSlug": "cityscapes",
+  "hasDatasetSlug": true,
+  "ownerUser": "shuvoalok",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1458,
+  "totalVotes": 10,
+  "totalDownloads": 203,
+  "title": "cityscapes dataset",
+  "hasTitle": true,
+  "subtitle": "Well Maintained Train and Val data with Separated Image and MASK Label( 96*256)",
+  "hasSubtitle": true,
+  "description": "\n##  Context\nCityscapes data [ (dataset home page)](https://www.cityscapes-dataset.com/) contains labeled videos taken from vehicles driven in Germany. This version is a processed subsample created as part of the [Pix2Pix paper](https://phillipi.github.io/pix2pix/). The dataset has still images from the original videos, and the semantic segmentation labels are shown in images alongside the original image. This is one of the best datasets around for semantic segmentation tasks.\n\n\n\n## Acknowledgements\nThis dataset is the same as what is available [here](https://tinghuiz.github.io/projects/pix2pix/datasets/) from the Berkeley AI Research group.\n\n## License\nThe Cityscapes data available from cityscapes-dataset.com has the following license:\n\nThis dataset is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation. Permission is granted to use the data given that you agree:\n\nThat the dataset comes \"AS IS\", without express or implied warranty. Although every effort has been made to ensure accuracy, we (Daimler AG, MPI Informatics, TU Darmstadt) do not accept any responsibility for errors or omissions.\nThat you include a reference to the Cityscapes Dataset in any work that makes use of the dataset. For research papers, cite our preferred publication as listed on our website; for other media cite our preferred publication as listed on our website or link to the Cityscapes website.\nThat you do not distribute this dataset or modified versions. It is permissible to distribute derivative works in as far as they are abstract representations of this dataset (such as models trained on it or additional annotations that do not directly include any of our data) and do not allow to recover the dataset or something similar in character.\nThat you may not use the dataset or any derivative work for commercial purposes as, for example, licensing or selling the data, or using the data with a purpose to procure a commercial gain.\nThat all rights not expressly granted to you are reserved by (Daimler AG, MPI Informatics, TU Darmstadt).\n\n## Inspiration\nCan you identify you identify what objects are where in these images from a vehicle.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "art",
+    "artificial intelligence",
+    "deep learning",
+    "image classification",
+    "image segmentation",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

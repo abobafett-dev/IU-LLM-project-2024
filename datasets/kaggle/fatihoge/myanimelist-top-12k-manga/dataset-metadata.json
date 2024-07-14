@@ -1,0 +1,39 @@
+{
+  "id": "fatihoge/myanimelist-top-12k-manga",
+  "id_no": 1767564,
+  "datasetSlugNullable": "myanimelist-top-12k-manga",
+  "ownerUserNullable": "fatihoge",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "myanimelist top 15k manga",
+  "subtitleNullable": "This dataset is taken from myanimelists top manga section",
+  "descriptionNullable": "### Context\n\nThis dataset is taken from myanimelist by using the myanimelist api https://myanimelist.net/apiconfig/references/api/v2.\n\n### Content\n\nThis dataset have all the information that is in myanimelist manga details except for the private information to user\n\n### Missing Values\n\nMissing values are specified as empty strings and NaN values.\n\n### Inspiration\n\nI created this dataset to make a manga recommendation system.",
+  "datasetId": 1767564,
+  "datasetSlug": "myanimelist-top-12k-manga",
+  "hasDatasetSlug": true,
+  "ownerUser": "fatihoge",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 2789,
+  "totalVotes": 9,
+  "totalDownloads": 187,
+  "title": "myanimelist top 15k manga",
+  "hasTitle": true,
+  "subtitle": "This dataset is taken from myanimelists top manga section",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is taken from myanimelist by using the myanimelist api https://myanimelist.net/apiconfig/references/api/v2.\n\n### Content\n\nThis dataset have all the information that is in myanimelist manga details except for the private information to user\n\n### Missing Values\n\nMissing values are specified as empty strings and NaN values.\n\n### Inspiration\n\nI created this dataset to make a manga recommendation system.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

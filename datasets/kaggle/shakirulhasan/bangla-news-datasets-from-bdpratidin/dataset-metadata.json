@@ -1,0 +1,39 @@
+{
+  "id": "shakirulhasan/bangla-news-datasets-from-bdpratidin",
+  "id_no": 866169,
+  "datasetSlugNullable": "bangla-news-datasets-from-bdpratidin",
+  "ownerUserNullable": "shakirulhasan",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Bangla News Datasets from BD-Pratidin",
+  "subtitleNullable": "107k+ News articles from last 1000 days scraped from Bangladesh Pratidin",
+  "descriptionNullable": "Currently, I'm working on a Bangla Natural Language Processing Research. And I need a lot of Bengali sentences. So I started scraping Bengali news sites.\n\nThere is 107k+ news from 13 December 2017 to 9 September 2020 in the dataset.  Which covers around a thousand days.  I used a python script to scrape the news from the site. The scraper is available [here](https://www.kaggle.com/shakirulhasan/scrape-bangladesh-protidin-news).\n\nI'll try to contribute more to this community. If you have any confusion over the dataset, please comment. Thank you.",
+  "datasetId": 866169,
+  "datasetSlug": "bangla-news-datasets-from-bdpratidin",
+  "hasDatasetSlug": true,
+  "ownerUser": "shakirulhasan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 4775,
+  "totalVotes": 15,
+  "totalDownloads": 373,
+  "title": "Bangla News Datasets from BD-Pratidin",
+  "hasTitle": true,
+  "subtitle": "107k+ News articles from last 1000 days scraped from Bangladesh Pratidin",
+  "hasSubtitle": true,
+  "description": "Currently, I'm working on a Bangla Natural Language Processing Research. And I need a lot of Bengali sentences. So I started scraping Bengali news sites.\n\nThere is 107k+ news from 13 December 2017 to 9 September 2020 in the dataset.  Which covers around a thousand days.  I used a python script to scrape the news from the site. The scraper is available [here](https://www.kaggle.com/shakirulhasan/scrape-bangladesh-protidin-news).\n\nI'll try to contribute more to this community. If you have any confusion over the dataset, please comment. Thank you.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

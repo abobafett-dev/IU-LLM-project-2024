@@ -1,0 +1,39 @@
+{
+  "id": "utkarshsaxenadn/monkeyspeciebestmodel",
+  "id_no": 2422910,
+  "datasetSlugNullable": "monkeyspeciebestmodel",
+  "ownerUserNullable": "utkarshsaxenadn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Monkey-Specie-Best-Model",
+  "subtitleNullable": "Transfer Learning with ResNet50V2 for Image Classification 99% Testing Accuracy",
+  "descriptionNullable": "The file contains the weights of the **Custom(TL) CNN Model** trained on the **Monkey Species Dataset** for **Image Classification Task**. As the name suggest this is a model tweaked more than 3 time to get the best performance. The model achieved an unbelievable **Accuracy of 100% on Training data** and **99% Accuracy on Testing Data**.",
+  "datasetId": 2422910,
+  "datasetSlug": "monkeyspeciebestmodel",
+  "hasDatasetSlug": true,
+  "ownerUser": "utkarshsaxenadn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 329,
+  "totalVotes": 6,
+  "totalDownloads": 40,
+  "title": "Monkey-Specie-Best-Model",
+  "hasTitle": true,
+  "subtitle": "Transfer Learning with ResNet50V2 for Image Classification 99% Testing Accuracy",
+  "hasSubtitle": true,
+  "description": "The file contains the weights of the **Custom(TL) CNN Model** trained on the **Monkey Species Dataset** for **Image Classification Task**. As the name suggest this is a model tweaked more than 3 time to get the best performance. The model achieved an unbelievable **Accuracy of 100% on Training data** and **99% Accuracy on Testing Data**.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "pre-trained model"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

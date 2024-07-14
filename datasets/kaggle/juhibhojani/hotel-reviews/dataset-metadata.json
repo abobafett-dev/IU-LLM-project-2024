@@ -1,0 +1,39 @@
+{
+  "id": "juhibhojani/hotel-reviews",
+  "id_no": 3678673,
+  "datasetSlugNullable": "hotel-reviews",
+  "ownerUserNullable": "juhibhojani",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Hotel Reviews",
+  "subtitleNullable": "HotelRevX: Comprehensive Hotel Reviews Dataset",
+  "descriptionNullable": "The \"Hotel Review Insights\" dataset is a rich compilation of hotel reviews from various locations around the world. This dataset includes the following columns:\n\n1. **Index**: A unique identifier for each review entry.\n2. **Name**: The name of the hotel that was reviewed.\n3. **Area**: The geographic area or city where the hotel is located.\n4. **Review Date**: The date when the review was posted.\n5. **Rating Attribute**: The aspect or attribute of the hotel being rated.\n6. **Rating (Out of 10)**: A numerical rating given by the reviewer for the specific attribute.\n7. **Review Text**: The text of the review written by the guest.\n\nThis dataset provides valuable insights into guests' experiences and sentiments towards different aspects of hotels, helping researchers and analysts understand trends, preferences, and areas of improvement in the hospitality industry.\n\n**Data Science and Machine Learning Applications:**\n\n**Sentiment Analysis**: With the textual reviews and associated ratings, this dataset can be used to perform sentiment analysis, determining whether the reviews are positive, negative, or neutral. This can help hotels gauge customer satisfaction and identify areas for enhancement.\n\nIn just a few lines, the dataset empowers data scientists and machine learning practitioners to explore guest sentiments, study patterns, and build predictive models that contribute to enhancing guest experiences and the hospitality industry's overall quality.",
+  "datasetId": 3678673,
+  "datasetSlug": "hotel-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "juhibhojani",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 6961,
+  "totalVotes": 33,
+  "totalDownloads": 1239,
+  "title": "Hotel Reviews",
+  "hasTitle": true,
+  "subtitle": "HotelRevX: Comprehensive Hotel Reviews Dataset",
+  "hasSubtitle": true,
+  "description": "The \"Hotel Review Insights\" dataset is a rich compilation of hotel reviews from various locations around the world. This dataset includes the following columns:\n\n1. **Index**: A unique identifier for each review entry.\n2. **Name**: The name of the hotel that was reviewed.\n3. **Area**: The geographic area or city where the hotel is located.\n4. **Review Date**: The date when the review was posted.\n5. **Rating Attribute**: The aspect or attribute of the hotel being rated.\n6. **Rating (Out of 10)**: A numerical rating given by the reviewer for the specific attribute.\n7. **Review Text**: The text of the review written by the guest.\n\nThis dataset provides valuable insights into guests' experiences and sentiments towards different aspects of hotels, helping researchers and analysts understand trends, preferences, and areas of improvement in the hospitality industry.\n\n**Data Science and Machine Learning Applications:**\n\n**Sentiment Analysis**: With the textual reviews and associated ratings, this dataset can be used to perform sentiment analysis, determining whether the reviews are positive, negative, or neutral. This can help hotels gauge customer satisfaction and identify areas for enhancement.\n\nIn just a few lines, the dataset empowers data scientists and machine learning practitioners to explore guest sentiments, study patterns, and build predictive models that contribute to enhancing guest experiences and the hospitality industry's overall quality.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "hotels and accommodations"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

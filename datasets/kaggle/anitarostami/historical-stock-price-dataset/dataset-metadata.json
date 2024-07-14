@@ -1,0 +1,43 @@
+{
+  "id": "anitarostami/historical-stock-price-dataset",
+  "id_no": 5021975,
+  "datasetSlugNullable": "historical-stock-price-dataset",
+  "ownerUserNullable": "anitarostami",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Historical Stock Price Dataset",
+  "subtitleNullable": "Analyzing Trends and Volatility for Major Ticker Symbols",
+  "descriptionNullable": "**Dataset Description:**\n\nThis dataset provides historical stock price data for selected ticker symbols ['AAPL', 'MSFT', 'JPM', 'GS', 'AMZN', 'PG', 'KO', 'JNJ', 'XOM', 'CAT'] from January 1, 2014, to December 31, 2023. It contains the daily opening, highest, lowest, closing, adjusted closing prices, and trading volume for each trading day. These tickers represent a diverse range of sectors to allow comprehensive financial analysis.\n\n\n\n**Purpose and Use Case:**\n\nThis dataset is ideal for financial analysis, market trend assessments, and investment decision-making. Analysts and researchers can use this dataset to:\n* Analyze price and market trends.\n* Evaluate volatility by analyzing price fluctuations and trading volume.\n* Use historical price movements to forecast and predict future trends.\n* Assess investment opportunities and portfolio performance.\n\n\n\n**Acknowledgments:**\n\nData was collected using Python and Yahoo Finance. This dataset supports visualization, exploratory data analysis (EDA), and in-depth analysis to develop a predictive model for forecasting stock prices, aiming to gain insights, identify patterns, and improve prediction accuracy.\n\n\n\n**Potential Research Questions and Inspiration:**\n\n* What is the correlation between stock prices and trading volume over time?\n* How do corporate actions and adjustments affect adjusted closing prices?\n* How does volatility vary across different stocks and sectors?\n* What key factors influence stock price dynamics, such as earnings reports, industry news, regulatory changes, or global economic trends?\n\n",
+  "datasetId": 5021975,
+  "datasetSlug": "historical-stock-price-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "anitarostami",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 481,
+  "totalVotes": 7,
+  "totalDownloads": 75,
+  "title": "Historical Stock Price Dataset",
+  "hasTitle": true,
+  "subtitle": "Analyzing Trends and Volatility for Major Ticker Symbols",
+  "hasSubtitle": true,
+  "description": "**Dataset Description:**\n\nThis dataset provides historical stock price data for selected ticker symbols ['AAPL', 'MSFT', 'JPM', 'GS', 'AMZN', 'PG', 'KO', 'JNJ', 'XOM', 'CAT'] from January 1, 2014, to December 31, 2023. It contains the daily opening, highest, lowest, closing, adjusted closing prices, and trading volume for each trading day. These tickers represent a diverse range of sectors to allow comprehensive financial analysis.\n\n\n\n**Purpose and Use Case:**\n\nThis dataset is ideal for financial analysis, market trend assessments, and investment decision-making. Analysts and researchers can use this dataset to:\n* Analyze price and market trends.\n* Evaluate volatility by analyzing price fluctuations and trading volume.\n* Use historical price movements to forecast and predict future trends.\n* Assess investment opportunities and portfolio performance.\n\n\n\n**Acknowledgments:**\n\nData was collected using Python and Yahoo Finance. This dataset supports visualization, exploratory data analysis (EDA), and in-depth analysis to develop a predictive model for forecasting stock prices, aiming to gain insights, identify patterns, and improve prediction accuracy.\n\n\n\n**Potential Research Questions and Inspiration:**\n\n* What is the correlation between stock prices and trading volume over time?\n* How do corporate actions and adjustments affect adjusted closing prices?\n* How does volatility vary across different stocks and sectors?\n* What key factors influence stock price dynamics, such as earnings reports, industry news, regulatory changes, or global economic trends?\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "time series analysis",
+    "tabular",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

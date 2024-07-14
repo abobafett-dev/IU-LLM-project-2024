@@ -1,0 +1,37 @@
+{
+  "id": "deepak007chaubey/flight-on-time-dataset",
+  "id_no": 2329653,
+  "datasetSlugNullable": "flight-on-time-dataset",
+  "ownerUserNullable": "deepak007chaubey",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Airport Flight on Time Dataset ",
+  "subtitleNullable": "Depict if flight will be delayed at specific airport? Suggest recommendation?",
+  "descriptionNullable": "**Data_Dictionary_Flight_on_time_HIX**\n\nAirline: Operating airline\n\nFlight_Number: Flight number\n\nPlane_ID: Plane identifier\n\nFlightDate: Date of flight\n\nOrigin_Airport: Origin airport code\n\nDestination_Airport: Destination airport code\n\nFlight_Distance: Distance (miles) between origin and destination\n\nScheduled_Departure_Time: Scheduled departure time\n (local time: hhmm)\n\nActual_Departure_Time: Actual departure time\n (local time: hhmm)\n\nDeparture_Delay_Minutes: Difference in minutes between scheduled and actual departure time. Early departures set to 0.\n\nDeparture_Taxi: Taxi Out Time, in Minutes\n\nDeparture_WheelsOff: Wheels Off Time (local time: hhmm)\n\nScheduled_Arrival_Time: Scheduled arrival time (local time: hhmm)\n\nActual_Arrival_Time: Actual arrival time (local time: hhmm)\n\nArrival_Delay_Minutes: Difference in minutes between scheduled and actual arrival time. Early arrivals set to 0.\n\nArrival_Taxi: Taxi In Time, in Minutes\n\nArrival_WheelsOn: Wheels On Time (local time: hhmm)\n\nDelay_Reason: Major reason for delay\n_______________________________________________________________________________________________\n\n**Data_Dictionary_Airport_Weather**\n\nairport: Airport name\n\ntime: The datetime at which this data point begins.\n\nsummary: A human-readable text summary of this data point.\n\nprecipIntensity: The intensity (in inches of liquid water per hour) of precipitation occurring at the given time.\n\nprecipProbability: The probability of precipitation occurring, between 0 and 1, inclusive.\n\ntemperature: The air temperature in degrees Fahrenheit.\n\napparentTemperature: The apparent (or \u201cfeels like\u201d) temperature in degrees Fahrenheit.\n\ndewPoint: The dew point in degrees Fahrenheit.\n\nhumidity: The relative humidity, between 0 and 1, inclusive.\n\npressure: The sea-level air pressure in millibars.\n\nwindSpeed: The wind speed in miles per hour.\n\nwindGust: The wind gust speed in miles per hour.\n\nwindBearing: The direction that the wind is coming from in degrees, with true north at 0\u00b0 and progressing clockwise. (If windSpeed is zero, then this value will not be defined.)\n\ncloudCover: The percentage of sky occluded by clouds, between 0 and 1, inclusive.\n\nuvIndex: The UV index.\nvisibility: The average visibility in miles, capped at 10 miles.\n\nozone: The columnar density of total atmospheric ozone at the given time in Dobson units.\n\nprecipType: The type of precipitation occurring at the given time. If defined, this property will have one of the following values: \"rain\", \"snow\", or \"sleet\" (which refers to each of freezing rain, ice pellets, and \u201cwintery mix\u201d)\n\nprecipAccumulation: The amount of snowfall accumulation expected to occur (over the hour or day, respectively), in inches. (If no snowfall is expected, this property will not be defined.)",
+  "datasetId": 2329653,
+  "datasetSlug": "flight-on-time-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "deepak007chaubey",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 1976,
+  "totalVotes": 11,
+  "totalDownloads": 227,
+  "title": "Airport Flight on Time Dataset ",
+  "hasTitle": true,
+  "subtitle": "Depict if flight will be delayed at specific airport? Suggest recommendation?",
+  "hasSubtitle": true,
+  "description": "**Data_Dictionary_Flight_on_time_HIX**\n\nAirline: Operating airline\n\nFlight_Number: Flight number\n\nPlane_ID: Plane identifier\n\nFlightDate: Date of flight\n\nOrigin_Airport: Origin airport code\n\nDestination_Airport: Destination airport code\n\nFlight_Distance: Distance (miles) between origin and destination\n\nScheduled_Departure_Time: Scheduled departure time\n (local time: hhmm)\n\nActual_Departure_Time: Actual departure time\n (local time: hhmm)\n\nDeparture_Delay_Minutes: Difference in minutes between scheduled and actual departure time. Early departures set to 0.\n\nDeparture_Taxi: Taxi Out Time, in Minutes\n\nDeparture_WheelsOff: Wheels Off Time (local time: hhmm)\n\nScheduled_Arrival_Time: Scheduled arrival time (local time: hhmm)\n\nActual_Arrival_Time: Actual arrival time (local time: hhmm)\n\nArrival_Delay_Minutes: Difference in minutes between scheduled and actual arrival time. Early arrivals set to 0.\n\nArrival_Taxi: Taxi In Time, in Minutes\n\nArrival_WheelsOn: Wheels On Time (local time: hhmm)\n\nDelay_Reason: Major reason for delay\n_______________________________________________________________________________________________\n\n**Data_Dictionary_Airport_Weather**\n\nairport: Airport name\n\ntime: The datetime at which this data point begins.\n\nsummary: A human-readable text summary of this data point.\n\nprecipIntensity: The intensity (in inches of liquid water per hour) of precipitation occurring at the given time.\n\nprecipProbability: The probability of precipitation occurring, between 0 and 1, inclusive.\n\ntemperature: The air temperature in degrees Fahrenheit.\n\napparentTemperature: The apparent (or \u201cfeels like\u201d) temperature in degrees Fahrenheit.\n\ndewPoint: The dew point in degrees Fahrenheit.\n\nhumidity: The relative humidity, between 0 and 1, inclusive.\n\npressure: The sea-level air pressure in millibars.\n\nwindSpeed: The wind speed in miles per hour.\n\nwindGust: The wind gust speed in miles per hour.\n\nwindBearing: The direction that the wind is coming from in degrees, with true north at 0\u00b0 and progressing clockwise. (If windSpeed is zero, then this value will not be defined.)\n\ncloudCover: The percentage of sky occluded by clouds, between 0 and 1, inclusive.\n\nuvIndex: The UV index.\nvisibility: The average visibility in miles, capped at 10 miles.\n\nozone: The columnar density of total atmospheric ozone at the given time in Dobson units.\n\nprecipType: The type of precipitation occurring at the given time. If defined, this property will have one of the following values: \"rain\", \"snow\", or \"sleet\" (which refers to each of freezing rain, ice pellets, and \u201cwintery mix\u201d)\n\nprecipAccumulation: The amount of snowfall accumulation expected to occur (over the hour or day, respectively), in inches. (If no snowfall is expected, this property will not be defined.)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

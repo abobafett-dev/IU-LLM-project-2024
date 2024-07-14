@@ -1,0 +1,43 @@
+{
+  "id": "utkarshsaxenadn/cat-vs-rabbit-mobile-net-predictor-acc-9999",
+  "id_no": 2814927,
+  "datasetSlugNullable": "cat-vs-rabbit-mobile-net-predictor-acc-9999",
+  "ownerUserNullable": "utkarshsaxenadn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cat vs Rabbit Mobile Net Predictor | Acc : 100%",
+  "subtitleNullable": "Cat vs Rabbit Classification problem solved with 100% accuracy of Test Set.",
+  "descriptionNullable": "This data set comprises the **Mobile Net Model** which is trained for **classifying cats and rabbits**. This model achieved its **peak performance** after **32 Epochs** **:**\n\n* **Training Accuracy** : 0.9981 \n* **Validation Accuracy** : 0.9948\n\n* **Training Loss** : 0.0173\n* **Validation Loss** : 0.0284\n\nThis model established itself to be the finest among **ResNet50, ResNet152, ResNet50V2, ResNet152V2, and InceptionV3**. More details regarding the implementation are public in the notebook associated with this data set.",
+  "datasetId": 2814927,
+  "datasetSlug": "cat-vs-rabbit-mobile-net-predictor-acc-9999",
+  "hasDatasetSlug": true,
+  "ownerUser": "utkarshsaxenadn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10241,
+  "totalVotes": 38,
+  "totalDownloads": 1047,
+  "title": "Cat vs Rabbit Mobile Net Predictor | Acc : 100%",
+  "hasTitle": true,
+  "subtitle": "Cat vs Rabbit Classification problem solved with 100% accuracy of Test Set.",
+  "hasSubtitle": true,
+  "description": "This data set comprises the **Mobile Net Model** which is trained for **classifying cats and rabbits**. This model achieved its **peak performance** after **32 Epochs** **:**\n\n* **Training Accuracy** : 0.9981 \n* **Validation Accuracy** : 0.9948\n\n* **Training Loss** : 0.0173\n* **Validation Loss** : 0.0284\n\nThis model established itself to be the finest among **ResNet50, ResNet152, ResNet50V2, ResNet152V2, and InceptionV3**. More details regarding the implementation are public in the notebook associated with this data set.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "classification",
+    "image classification",
+    "mobilenet v2"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

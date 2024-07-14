@@ -1,0 +1,43 @@
+{
+  "id": "datazone25/bsl-british-sign-language-numbers-dataset",
+  "id_no": 2613847,
+  "datasetSlugNullable": "bsl-british-sign-language-numbers-dataset",
+  "ownerUserNullable": "datazone25",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "British Sign Numbers Dataset (BSL Numbers) ",
+  "subtitleNullable": "hand pose dataset (mediapipe)",
+  "descriptionNullable": "This dataset contains british sign for 0 to 9. signs dataset is generated using mediapipe library. if you have any questions please let me know.\n![help guide](https://files.schudio.com/parkschool/imagecache/800x600s/blog/numbers.png)",
+  "datasetId": 2613847,
+  "datasetSlug": "bsl-british-sign-language-numbers-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "datazone25",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 1782,
+  "totalVotes": 15,
+  "totalDownloads": 132,
+  "title": "British Sign Numbers Dataset (BSL Numbers) ",
+  "hasTitle": true,
+  "subtitle": "hand pose dataset (mediapipe)",
+  "hasSubtitle": true,
+  "description": "This dataset contains british sign for 0 to 9. signs dataset is generated using mediapipe library. if you have any questions please let me know.\n![help guide](https://files.schudio.com/parkschool/imagecache/800x600s/blog/numbers.png)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "svm",
+    "tabular",
+    "image",
+    "cv2"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

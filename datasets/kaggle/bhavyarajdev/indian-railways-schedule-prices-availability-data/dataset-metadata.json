@@ -1,0 +1,43 @@
+{
+  "id": "bhavyarajdev/indian-railways-schedule-prices-availability-data",
+  "id_no": 4150456,
+  "datasetSlugNullable": "indian-railways-schedule-prices-availability-data",
+  "ownerUserNullable": "bhavyarajdev",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Indian Railways Schedule-Prices-Availability Data",
+  "subtitleNullable": "Comprehensive Dataset Featuring Public Trains Scrapped from IRCTC in 10-2023",
+  "descriptionNullable": "**Context**\n\nThis dataset originates from my project that aims to improve the accessibility of train travel in India. The project helps travelers find and book indirect train journeys, which can be useful for long or remote trips where direct trains are scarce. The dataset is based on this project and covers the gap left by other platforms that only show direct trains, which may not suit some travelers' needs.\n\n**Sources**\n\nThe primary source of this dataset is the Indian Railways Catering and Tourism Corporation (IRCTC) website during October-2023. Through web scraping techniques, data was collected, including public train schedules, pricing details, and availability information.\n\n**Project on GitHub**\n\nThe Project Report on my [GitHub Repository](https://github.com/bhavya2403/TrainTripper/) explains how I analyzed the prices and their dependencies, and why I chose decision tree regression as the best ML model for this case. You can find all the code regarding the data collection, model building and final output generation in the repository. Users here can perform time-series analysis on the prices and availability data, improve the accuracy of price prediction and create a model for availability prediction.",
+  "datasetId": 4150456,
+  "datasetSlug": "indian-railways-schedule-prices-availability-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "bhavyarajdev",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2257,
+  "totalVotes": 11,
+  "totalDownloads": 433,
+  "title": "Indian Railways Schedule-Prices-Availability Data",
+  "hasTitle": true,
+  "subtitle": "Comprehensive Dataset Featuring Public Trains Scrapped from IRCTC in 10-2023",
+  "hasSubtitle": true,
+  "description": "**Context**\n\nThis dataset originates from my project that aims to improve the accessibility of train travel in India. The project helps travelers find and book indirect train journeys, which can be useful for long or remote trips where direct trains are scarce. The dataset is based on this project and covers the gap left by other platforms that only show direct trains, which may not suit some travelers' needs.\n\n**Sources**\n\nThe primary source of this dataset is the Indian Railways Catering and Tourism Corporation (IRCTC) website during October-2023. Through web scraping techniques, data was collected, including public train schedules, pricing details, and availability information.\n\n**Project on GitHub**\n\nThe Project Report on my [GitHub Repository](https://github.com/bhavya2403/TrainTripper/) explains how I analyzed the prices and their dependencies, and why I chose decision tree regression as the best ML model for this case. You can find all the code regarding the data collection, model building and final output generation in the repository. Users here can perform time-series analysis on the prices and availability data, improve the accuracy of price prediction and create a model for availability prediction.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "rail transport",
+    "time series analysis",
+    "data analytics",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

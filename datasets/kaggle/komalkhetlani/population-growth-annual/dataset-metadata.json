@@ -1,0 +1,43 @@
+{
+  "id": "komalkhetlani/population-growth-annual",
+  "id_no": 1284112,
+  "datasetSlugNullable": "population-growth-annual",
+  "ownerUserNullable": "komalkhetlani",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Population growth (annual %)",
+  "subtitleNullable": "The dataset shows annual population growth in % from 1961 to 2020",
+  "descriptionNullable": "The annual population growth rate for year t is the exponential rate of growth of the midyear population from year t-1 to t, expressed as a percentage. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship.",
+  "datasetId": 1284112,
+  "datasetSlug": "population-growth-annual",
+  "hasDatasetSlug": true,
+  "ownerUser": "komalkhetlani",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 5850,
+  "totalVotes": 12,
+  "totalDownloads": 733,
+  "title": "Population growth (annual %)",
+  "hasTitle": true,
+  "subtitle": "The dataset shows annual population growth in % from 1961 to 2020",
+  "hasSubtitle": true,
+  "description": "The annual population growth rate for year t is the exponential rate of growth of the midyear population from year t-1 to t, expressed as a percentage. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social science",
+    "data visualization",
+    "time series analysis",
+    "statistical analysis",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

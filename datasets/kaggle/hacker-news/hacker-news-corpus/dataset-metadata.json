@@ -1,0 +1,41 @@
+{
+  "id": "/hacker-news-corpus",
+  "id_no": 1494,
+  "datasetSlugNullable": "hacker-news-corpus",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Hacker News Corpus",
+  "subtitleNullable": "A subset of all Hacker News articles",
+  "descriptionNullable": "### Context\n\nThis dataset contains a randomized sample of roughly one quarter of all stories and comments from Hacker News from its launch in 2006. Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by Paul Graham's investment fund and startup incubator, Y Combinator. In general, content that can be submitted is defined as \"anything that gratifies one's intellectual curiosity\".\n\n### Content\n\nEach story contains a story ID, the author that made the post, when it was written, and the number of points the story received.\n\nPlease note that the text field includes profanity. All texts are the author\u2019s own, do not necessarily reflect the positions of Kaggle or Hacker News, and are presented without endorsement.\n\n### Acknowledgements\n\nThis dataset was kindly made publicly available by [Hacker News][1] under [the MIT license][2].\n\n### Inspiration\n\n - Recent studies have found that many forums tend to be dominated by a\n   very small fraction of users. Is this true of Hacker News?\n\n - Hacker News has received complaints that the site is biased towards Y\n   Combinator startups. Do the data support this? \n\n - Is the amount of coverage by Hacker News predictive of a startup\u2019s\n   success?\n\n### Use this dataset with BigQuery\n\nYou can use Kernels to analyze, share, and discuss this data on Kaggle, but if you\u2019re looking for real-time updates and bigger data, check out the data in BigQuery, too: https://cloud.google.com/bigquery/public-data/hacker-news\n\nThe BigQuery version of this dataset has roughly four times as many articles.\n\n\n\n  [1]: https://github.com/HackerNews/API\n  [2]: https://github.com/HackerNews/API/blob/master/LICENSE",
+  "datasetId": 1494,
+  "datasetSlug": "hacker-news-corpus",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 27803,
+  "totalVotes": 44,
+  "totalDownloads": 1255,
+  "title": "Hacker News Corpus",
+  "hasTitle": true,
+  "subtitle": "A subset of all Hacker News articles",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains a randomized sample of roughly one quarter of all stories and comments from Hacker News from its launch in 2006. Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by Paul Graham's investment fund and startup incubator, Y Combinator. In general, content that can be submitted is defined as \"anything that gratifies one's intellectual curiosity\".\n\n### Content\n\nEach story contains a story ID, the author that made the post, when it was written, and the number of points the story received.\n\nPlease note that the text field includes profanity. All texts are the author\u2019s own, do not necessarily reflect the positions of Kaggle or Hacker News, and are presented without endorsement.\n\n### Acknowledgements\n\nThis dataset was kindly made publicly available by [Hacker News][1] under [the MIT license][2].\n\n### Inspiration\n\n - Recent studies have found that many forums tend to be dominated by a\n   very small fraction of users. Is this true of Hacker News?\n\n - Hacker News has received complaints that the site is biased towards Y\n   Combinator startups. Do the data support this? \n\n - Is the amount of coverage by Hacker News predictive of a startup\u2019s\n   success?\n\n### Use this dataset with BigQuery\n\nYou can use Kernels to analyze, share, and discuss this data on Kaggle, but if you\u2019re looking for real-time updates and bigger data, check out the data in BigQuery, too: https://cloud.google.com/bigquery/public-data/hacker-news\n\nThe BigQuery version of this dataset has roughly four times as many articles.\n\n\n\n  [1]: https://github.com/HackerNews/API\n  [2]: https://github.com/HackerNews/API/blob/master/LICENSE",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "computer science",
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

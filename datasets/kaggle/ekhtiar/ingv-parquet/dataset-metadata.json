@@ -1,0 +1,42 @@
+{
+  "id": "ekhtiar/ingv-parquet",
+  "id_no": 989560,
+  "datasetSlugNullable": "ingv-parquet",
+  "ownerUserNullable": "ekhtiar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "INGV Processed Features With ts-fresh",
+  "subtitleNullable": "INGV - Volcanic Eruption Prediction data processed with ts-fresh",
+  "descriptionNullable": "### Context\n\nThis dataset contains time-series features for volcanic eruption data from the [INGV - Volcanic Eruption Prediction](https://www.kaggle.com/c/predict-volcanic-eruptions-ingv-oe) competition. The features have been extracted using [ts-fresh](https://tsfresh.readthedocs.io/en/latest/index.html) library. Since the features can be time consuming to extract, I figured it would be good for the Kaggle community to have them available. I hope this enables more insights into predicting volcanic eruption in future.\n\n**Because I processed some heavy-weight features, I couldn't process them for longer than 100 seconds. In this competition, for each eruption (or segment_id), there is 60000 data-points (600 seconds). I processed in chunks of 10,000 datapoints (100 seconds). This is my approach, and it has its pros and cons.**\n\n\n### Content\n\nFirst I processed all the possible features of the train dataset from the INGV competition using ts-fresh library (ComprehensiveFCParameters). This generated almost 8000 features. Then I removed highly correlated columns, and quasi-constant features. This brought our features down to 2854. I also applied a recursive feature elimination to take the top 501 features (500 seemed too goodie-to-shoe of a number). \n\nAs I mentioned in the context, keep in mind, for each segment_id you will have 6 rows. This is because I processed some heavy-weight features, and I couldn't process them with full datapoints without splitting them into smaller chunks. So I processed in chunks of 10,000 rows. The positive side of this is we have more datapoints for our model. Negative side of this is perhaps 100 seconds isn't long enough interval to capture the seismic activity.\n\n\n### Acknowledgements\n\nOf course, many thanks to National Institute of Geophysics and Volcanology for hosting the INGV - Volcanic Eruption Prediction competition and providing the original dataset. \n\n\n### Inspiration\n\nI didn't have so much time to really use this dataset to the fullest. I hope Kaggle community can make further use of this dataset to see what really makes a volcano tick (or pop perhaps). I think a comprehensive study of which features are of high importance, and which features of lower importance should be done.",
+  "datasetId": 989560,
+  "datasetSlug": "ingv-parquet",
+  "hasDatasetSlug": true,
+  "ownerUser": "ekhtiar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3943,
+  "totalVotes": 3,
+  "totalDownloads": 144,
+  "title": "INGV Processed Features With ts-fresh",
+  "hasTitle": true,
+  "subtitle": "INGV - Volcanic Eruption Prediction data processed with ts-fresh",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains time-series features for volcanic eruption data from the [INGV - Volcanic Eruption Prediction](https://www.kaggle.com/c/predict-volcanic-eruptions-ingv-oe) competition. The features have been extracted using [ts-fresh](https://tsfresh.readthedocs.io/en/latest/index.html) library. Since the features can be time consuming to extract, I figured it would be good for the Kaggle community to have them available. I hope this enables more insights into predicting volcanic eruption in future.\n\n**Because I processed some heavy-weight features, I couldn't process them for longer than 100 seconds. In this competition, for each eruption (or segment_id), there is 60000 data-points (600 seconds). I processed in chunks of 10,000 datapoints (100 seconds). This is my approach, and it has its pros and cons.**\n\n\n### Content\n\nFirst I processed all the possible features of the train dataset from the INGV competition using ts-fresh library (ComprehensiveFCParameters). This generated almost 8000 features. Then I removed highly correlated columns, and quasi-constant features. This brought our features down to 2854. I also applied a recursive feature elimination to take the top 501 features (500 seemed too goodie-to-shoe of a number). \n\nAs I mentioned in the context, keep in mind, for each segment_id you will have 6 rows. This is because I processed some heavy-weight features, and I couldn't process them with full datapoints without splitting them into smaller chunks. So I processed in chunks of 10,000 rows. The positive side of this is we have more datapoints for our model. Negative side of this is perhaps 100 seconds isn't long enough interval to capture the seismic activity.\n\n\n### Acknowledgements\n\nOf course, many thanks to National Institute of Geophysics and Volcanology for hosting the INGV - Volcanic Eruption Prediction competition and providing the original dataset. \n\n\n### Inspiration\n\nI didn't have so much time to really use this dataset to the fullest. I hope Kaggle community can make further use of this dataset to see what really makes a volcano tick (or pop perhaps). I think a comprehensive study of which features are of high importance, and which features of lower importance should be done.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "geology",
+    "signal processing",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

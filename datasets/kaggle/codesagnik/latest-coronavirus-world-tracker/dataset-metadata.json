@@ -1,0 +1,43 @@
+{
+  "id": "codesagnik/latest-coronavirus-world-tracker",
+  "id_no": 1259547,
+  "datasetSlugNullable": "latest-coronavirus-world-tracker",
+  "ownerUserNullable": "codesagnik",
+  "usabilityRatingNullable": 0.7352941176470589,
+  "titleNullable": "Latest Coronavirus World Tracker",
+  "subtitleNullable": "Lets explore and analyze the data for predictive analysis",
+  "descriptionNullable": "In December 2020, news media reported a new variant of the coronavirus that causes COVID-19, and since then, other variants have been identified and are under investigation. The new variants raise questions: Are people more at risk for getting sick? Will the COVID-19 vaccines still work? Are there new or different things you should do now to keep your family safe?",
+  "datasetId": 1259547,
+  "datasetSlug": "latest-coronavirus-world-tracker",
+  "hasDatasetSlug": true,
+  "ownerUser": "codesagnik",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7352941176470589,
+  "hasUsabilityRating": true,
+  "totalViews": 2310,
+  "totalVotes": 6,
+  "totalDownloads": 76,
+  "title": "Latest Coronavirus World Tracker",
+  "hasTitle": true,
+  "subtitle": "Lets explore and analyze the data for predictive analysis",
+  "hasSubtitle": true,
+  "description": "In December 2020, news media reported a new variant of the coronavirus that causes COVID-19, and since then, other variants have been identified and are under investigation. The new variants raise questions: Are people more at risk for getting sick? Will the COVID-19 vaccines still work? Are there new or different things you should do now to keep your family safe?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "tabular",
+    "regression",
+    "covid19",
+    "sklearn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "valentynsichkar/mnist-preprocessed",
+  "id_no": 271017,
+  "datasetSlugNullable": "mnist-preprocessed",
+  "ownerUserNullable": "valentynsichkar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "MNIST Preprocessed",
+  "subtitleNullable": "Normalized (/255, mean, std) and divided into 3 datasets",
+  "descriptionNullable": "### \ud83d\udcf0 Related Paper\nSichkar V. N. Effect of various dimension convolutional layer filters on traffic sign classification accuracy. *Scientific and Technical Journal of Information Technologies, Mechanics and Optics*, 2019, vol. 19, no. 3, pp. DOI: 10.17586/2226-1494-2019-19-3-546-552 (**Full-text** available here [ResearchGate.net/profile/Valentyn_Sichkar](https://www.researchgate.net/publication/334074308_Effect_of_various_dimension_convolutional_layer_filters_on_traffic_sign_classification_accuracy))\n\n**Test online** with custom Traffic Sign here: [https://valentynsichkar.name/mnist.html](https://valentynsichkar.name/mnist.html)\n\n<br>\n\n### :mortar_board: Related course for classification tasks\n\n**Design**, **Train** & **Test** deep CNN for Image Classification. Join the course & enjoy new opportunities to get deep learning skills:\n[https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/](https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/?referralCode=12EE0D74A405BF4DDE9B)\n\n![CNN Course](https://github.com/sichkar-valentyn/1-million-images-for-Traffic-Signs-Classification-tasks/blob/main/images/slideshow_classification.gif?raw=true =470x516 \"CNN Course\")\n\n<br>\n\n### \ud83d\uddfa\ufe0f Concept Map of the Course\n![Concept map](https://github.com/sichkar-valentyn/1-million-images-for-Traffic-Signs-Classification-tasks/blob/main/images/concept_map.png?raw=true =570x410 \"Concept map\")\n\n<br>\n\n### \ud83d\udc49 Join the Course\n[https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/](https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/?referralCode=12EE0D74A405BF4DDE9B)\n\n<br>\n\n### Content\n\nThis is ready to use preprocessed data saved into `pickle` file.\n<br>Preprocessing stages are as follows:\n<br>- Normalizing whole data by dividing `/ 255.0`.\n<br>- Dividing whole data into three datasets: **train**, **validation** and **test**.\n<br>- Normalizing whole data by subtracting `mean image` and dividing by `standard deviation`.\n<br>- Transposing every dataset to make channels come first.\n\n<br>`mean image` and `standard deviation` were calculated from `train dataset` and applied to all datasets.\n<br>When using user's image for classification, it has to be preprocessed firstly in the same way: `normalized`, subtracted with `mean image` and divided by `standard deviation`. \n\n<br>Data written as dictionary with following keys:\n<br>x_train: (59000, 1, 28, 28)\n<br>y_train: (59000,)\n <br>x_validation: (1000, 1, 28, 28)\n<br>y_validation: (1000,)\n<br>x_test: (1000, 1, 28, 28)\n<br>y_test: (1000,)\n\n<br>Contains pretrained weights `model_params_ConvNet1.pickle` for the model with following architecture:\n<br>`Input` --&gt; `Conv` --&gt; `ReLU` --&gt; `Pool` --&gt; `Affine` --&gt; `ReLU` --&gt; `Affine` --&gt; `Softmax`\n\n<br>Parameters:\n\n - Input is 1-channeled GrayScale image.\n - 32 filters of Convolutional Layer.\n - Stride for `Pool` is 2 and height = width = 2.\n - Number of hidden neurons is 500.\n - Number of output neurons is 10.\n\n<br>Architecture also can be understood as follows:\n<br>![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3400968%2Fc23041248e82134b7d43ed94307b720e%2FModel_1_Architecture_MNIST.png?generation=1563654250901965&alt=media)\n\n### Acknowledgements\n\nInitial data is MNIST that was collected by Yann LeCun, Corinna Cortes, Christopher J.C. Burges.",
+  "datasetId": 271017,
+  "datasetSlug": "mnist-preprocessed",
+  "hasDatasetSlug": true,
+  "ownerUser": "valentynsichkar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7977,
+  "totalVotes": 6,
+  "totalDownloads": 290,
+  "title": "MNIST Preprocessed",
+  "hasTitle": true,
+  "subtitle": "Normalized (/255, mean, std) and divided into 3 datasets",
+  "hasSubtitle": true,
+  "description": "### \ud83d\udcf0 Related Paper\nSichkar V. N. Effect of various dimension convolutional layer filters on traffic sign classification accuracy. *Scientific and Technical Journal of Information Technologies, Mechanics and Optics*, 2019, vol. 19, no. 3, pp. DOI: 10.17586/2226-1494-2019-19-3-546-552 (**Full-text** available here [ResearchGate.net/profile/Valentyn_Sichkar](https://www.researchgate.net/publication/334074308_Effect_of_various_dimension_convolutional_layer_filters_on_traffic_sign_classification_accuracy))\n\n**Test online** with custom Traffic Sign here: [https://valentynsichkar.name/mnist.html](https://valentynsichkar.name/mnist.html)\n\n<br>\n\n### :mortar_board: Related course for classification tasks\n\n**Design**, **Train** & **Test** deep CNN for Image Classification. Join the course & enjoy new opportunities to get deep learning skills:\n[https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/](https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/?referralCode=12EE0D74A405BF4DDE9B)\n\n![CNN Course](https://github.com/sichkar-valentyn/1-million-images-for-Traffic-Signs-Classification-tasks/blob/main/images/slideshow_classification.gif?raw=true =470x516 \"CNN Course\")\n\n<br>\n\n### \ud83d\uddfa\ufe0f Concept Map of the Course\n![Concept map](https://github.com/sichkar-valentyn/1-million-images-for-Traffic-Signs-Classification-tasks/blob/main/images/concept_map.png?raw=true =570x410 \"Concept map\")\n\n<br>\n\n### \ud83d\udc49 Join the Course\n[https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/](https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/?referralCode=12EE0D74A405BF4DDE9B)\n\n<br>\n\n### Content\n\nThis is ready to use preprocessed data saved into `pickle` file.\n<br>Preprocessing stages are as follows:\n<br>- Normalizing whole data by dividing `/ 255.0`.\n<br>- Dividing whole data into three datasets: **train**, **validation** and **test**.\n<br>- Normalizing whole data by subtracting `mean image` and dividing by `standard deviation`.\n<br>- Transposing every dataset to make channels come first.\n\n<br>`mean image` and `standard deviation` were calculated from `train dataset` and applied to all datasets.\n<br>When using user's image for classification, it has to be preprocessed firstly in the same way: `normalized`, subtracted with `mean image` and divided by `standard deviation`. \n\n<br>Data written as dictionary with following keys:\n<br>x_train: (59000, 1, 28, 28)\n<br>y_train: (59000,)\n <br>x_validation: (1000, 1, 28, 28)\n<br>y_validation: (1000,)\n<br>x_test: (1000, 1, 28, 28)\n<br>y_test: (1000,)\n\n<br>Contains pretrained weights `model_params_ConvNet1.pickle` for the model with following architecture:\n<br>`Input` --&gt; `Conv` --&gt; `ReLU` --&gt; `Pool` --&gt; `Affine` --&gt; `ReLU` --&gt; `Affine` --&gt; `Softmax`\n\n<br>Parameters:\n\n - Input is 1-channeled GrayScale image.\n - 32 filters of Convolutional Layer.\n - Stride for `Pool` is 2 and height = width = 2.\n - Number of hidden neurons is 500.\n - Number of output neurons is 10.\n\n<br>Architecture also can be understood as follows:\n<br>![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3400968%2Fc23041248e82134b7d43ed94307b720e%2FModel_1_Architecture_MNIST.png?generation=1563654250901965&alt=media)\n\n### Acknowledgements\n\nInitial data is MNIST that was collected by Yann LeCun, Corinna Cortes, Christopher J.C. Burges.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "image",
+    "binary classification",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

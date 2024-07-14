@@ -1,0 +1,41 @@
+{
+  "id": "bishop36/weather-data",
+  "id_no": 4990426,
+  "datasetSlugNullable": "weather-data",
+  "ownerUserNullable": "bishop36",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Weather Data",
+  "subtitleNullable": "Live weather data which keeps updating daily",
+  "descriptionNullable": "Live weather data captured from microsoft start news using scrapping techniques such as beautiful soup and selenium and loaded to google sheets, excel and also stored as json and also an api. Columns include city, temperature, state, humidity, dew point clothing pattern, driving safety etc.",
+  "datasetId": 4990426,
+  "datasetSlug": "weather-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "bishop36",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 150,
+  "totalVotes": 2,
+  "totalDownloads": 30,
+  "title": "Weather Data",
+  "hasTitle": true,
+  "subtitle": "Live weather data which keeps updating daily",
+  "hasSubtitle": true,
+  "description": "Live weather data captured from microsoft start news using scrapping techniques such as beautiful soup and selenium and loaded to google sheets, excel and also stored as json and also an api. Columns include city, temperature, state, humidity, dew point clothing pattern, driving safety etc.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "intermediate",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "henryshippole/hangul-characters-250k",
+  "id_no": 2433432,
+  "datasetSlugNullable": "hangul-characters-250k",
+  "ownerUserNullable": "henryshippole",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Hangul Characters 250k",
+  "subtitleNullable": "A dataset consisiting of 250k Hangul characters with labels.",
+  "descriptionNullable": "A dataset consisting of 265550 images of Hangul characters with mapped labels. Each image is 224x224 pixels. The 2350 most frequent characters derived from the KS X 1001 encoding were used to create the images. This dataset can be used for computer vision and multimodel NLP/transformers. It will be used to train multiple different Vision Transformers for Hangul Recognition. Trained models will be released. This dataset is based on an outdated repository by IBM: https://github.com/IBM/tensorflow-hangul-recognition.",
+  "datasetId": 2433432,
+  "datasetSlug": "hangul-characters-250k",
+  "hasDatasetSlug": true,
+  "ownerUser": "henryshippole",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 524,
+  "totalVotes": 0,
+  "totalDownloads": 43,
+  "title": "Hangul Characters 250k",
+  "hasTitle": true,
+  "subtitle": "A dataset consisiting of 250k Hangul characters with labels.",
+  "hasSubtitle": true,
+  "description": "A dataset consisting of 265550 images of Hangul characters with mapped labels. Each image is 224x224 pixels. The 2350 most frequent characters derived from the KS X 1001 encoding were used to create the images. This dataset can be used for computer vision and multimodel NLP/transformers. It will be used to train multiple different Vision Transformers for Hangul Recognition. Trained models will be released. This dataset is based on an outdated repository by IBM: https://github.com/IBM/tensorflow-hangul-recognition.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

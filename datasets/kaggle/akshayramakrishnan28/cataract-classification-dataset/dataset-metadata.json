@@ -1,0 +1,41 @@
+{
+  "id": "akshayramakrishnan28/cataract-classification-dataset",
+  "id_no": 5018534,
+  "datasetSlugNullable": "cataract-classification-dataset",
+  "ownerUserNullable": "akshayramakrishnan28",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Cataract Classification Dataset",
+  "subtitleNullable": "Annotated Image Dataset for Cataract Detection and Classification, Preprocessed",
+  "descriptionNullable": "# Description:\nThis dataset comprises 410 annotated images categorized into two classes: immature and mature cataracts. Each image has undergone preprocessing and augmentation to enhance its suitability for machine learning tasks.\n\n# Preprocessing:\nThe images were preprocessed using the following steps:\n\n- Auto-orientation of pixel data, with EXIF-orientation stripping, to ensure consistency in orientation across images.\n- Resizing to 416x416 pixels, facilitating uniformity in image dimensions.\nAugmentation:\n- To increase the diversity of the dataset and improve model robustness, each source image was augmented by introducing salt and pepper noise, affecting 5% of the pixels. This augmentation technique helps in simulating real-world variations and enhancing the model's ability to generalize to unseen data.\n\n# Annotation:\nCataract annotations are provided in folder format, allowing easy access to categorized images for training, validation, and testing purposes.\n\n",
+  "datasetId": 5018534,
+  "datasetSlug": "cataract-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "akshayramakrishnan28",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 5258,
+  "totalVotes": 34,
+  "totalDownloads": 545,
+  "title": "Cataract Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Annotated Image Dataset for Cataract Detection and Classification, Preprocessed",
+  "hasSubtitle": true,
+  "description": "# Description:\nThis dataset comprises 410 annotated images categorized into two classes: immature and mature cataracts. Each image has undergone preprocessing and augmentation to enhance its suitability for machine learning tasks.\n\n# Preprocessing:\nThe images were preprocessed using the following steps:\n\n- Auto-orientation of pixel data, with EXIF-orientation stripping, to ensure consistency in orientation across images.\n- Resizing to 416x416 pixels, facilitating uniformity in image dimensions.\nAugmentation:\n- To increase the diversity of the dataset and improve model robustness, each source image was augmented by introducing salt and pepper noise, affecting 5% of the pixels. This augmentation technique helps in simulating real-world variations and enhancing the model's ability to generalize to unseen data.\n\n# Annotation:\nCataract annotations are provided in folder format, allowing easy access to categorized images for training, validation, and testing purposes.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "eyes and vision",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

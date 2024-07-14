@@ -1,0 +1,39 @@
+{
+  "id": "dasanson/berserk-manga-chapters",
+  "id_no": 4941292,
+  "datasetSlugNullable": "berserk-manga-chapters",
+  "ownerUserNullable": "dasanson",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Berserk Manga Chapters",
+  "subtitleNullable": "This dataset shows all of the chapters in the Berserk manga series",
+  "descriptionNullable": "This dataset shows all of the chapters in the Berserk manga series. The Excel file includes filters for each column.\n\n**Column Description**\n\n- **N\u00b0**: Chapter number\n- **Chapter**: Chapter name in English\n- **Japanese**: Chapter name in Japanese\n- **Hepburn**: Hepburn romanization of the name in Japanese\n- **N\u00b0 Pages**: Number of pages of the chapter\n- **Volume**: Volume to which the chapter belongs\n- **Arc**: Arc to which the chapter belongs\n- **Publication**: Original date of publication\n\n**NOTE**: The first 16 chapters correspond to the prelude of Berserk before the actual chapter count begins.",
+  "datasetId": 4941292,
+  "datasetSlug": "berserk-manga-chapters",
+  "hasDatasetSlug": true,
+  "ownerUser": "dasanson",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 31,
+  "totalVotes": 0,
+  "totalDownloads": 3,
+  "title": "Berserk Manga Chapters",
+  "hasTitle": true,
+  "subtitle": "This dataset shows all of the chapters in the Berserk manga series",
+  "hasSubtitle": true,
+  "description": "This dataset shows all of the chapters in the Berserk manga series. The Excel file includes filters for each column.\n\n**Column Description**\n\n- **N\u00b0**: Chapter number\n- **Chapter**: Chapter name in English\n- **Japanese**: Chapter name in Japanese\n- **Hepburn**: Hepburn romanization of the name in Japanese\n- **N\u00b0 Pages**: Number of pages of the chapter\n- **Volume**: Volume to which the chapter belongs\n- **Arc**: Arc to which the chapter belongs\n- **Publication**: Original date of publication\n\n**NOTE**: The first 16 chapters correspond to the prelude of Berserk before the actual chapter count begins.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

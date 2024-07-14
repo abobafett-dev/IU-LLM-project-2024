@@ -1,0 +1,42 @@
+{
+  "id": "demonplus/flower-dataset-102",
+  "id_no": 403293,
+  "datasetSlugNullable": "flower-dataset-102",
+  "ownerUserNullable": "demonplus",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Flower Dataset 102",
+  "subtitleNullable": "Flower images for 102 different categories",
+  "descriptionNullable": "http://www.robots.ox.ac.uk/~vgg/data/flowers/102/\n\n### Overview\n\nThis set contains images of flowers belonging to 102 different categories. \nThe images were acquired by searching the web and taking pictures. There are a\nminimum of 40 images for each category.\n\nThe images are contained in the file 102flowers.tgz and the image labels in\nimagelabels.mat.\n\n### References and History\n\nThe database was used in:\n\nNilsback, M-E. and Zisserman, A. Automated flower classification over a large number of classes.\nProceedings of the Indian Conference on Computer Vision, Graphics and Image Processing (2008) \nhttp://www.robots.ox.ac.uk/~vgg/publications/papers/nilsback08.{pdf,ps.gz}.\n\n\n",
+  "datasetId": 403293,
+  "datasetSlug": "flower-dataset-102",
+  "hasDatasetSlug": true,
+  "ownerUser": "demonplus",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 10730,
+  "totalVotes": 9,
+  "totalDownloads": 863,
+  "title": "Flower Dataset 102",
+  "hasTitle": true,
+  "subtitle": "Flower images for 102 different categories",
+  "hasSubtitle": true,
+  "description": "http://www.robots.ox.ac.uk/~vgg/data/flowers/102/\n\n### Overview\n\nThis set contains images of flowers belonging to 102 different categories. \nThe images were acquired by searching the web and taking pictures. There are a\nminimum of 40 images for each category.\n\nThe images are contained in the file 102flowers.tgz and the image labels in\nimagelabels.mat.\n\n### References and History\n\nThe database was used in:\n\nNilsback, M-E. and Zisserman, A. Automated flower classification over a large number of classes.\nProceedings of the Indian Conference on Computer Vision, Graphics and Image Processing (2008) \nhttp://www.robots.ox.ac.uk/~vgg/publications/papers/nilsback08.{pdf,ps.gz}.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "image",
+    "multiclass classification",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

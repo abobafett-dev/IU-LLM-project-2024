@@ -1,0 +1,40 @@
+{
+  "id": "nnthanh101/aws-saas-sales",
+  "id_no": 3216789,
+  "datasetSlugNullable": "aws-saas-sales",
+  "ownerUserNullable": "nnthanh101",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Amazon AWS SaaS Sales Dataset",
+  "subtitleNullable": "This dataset contains transactions from a fictitious SaaS company (B2B).",
+  "descriptionNullable": "This dataset contains transaction data from a fictitious SaaS company selling sales and marketing software to other companies (B2B). In the dataset, each row represents a single transaction/order (9,994 transactions), and the columns include:\n\nHere is the Original Dataset: https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/337d5d05acc64a6fa37bcba6b921071c/v1/SaaS-Sales.csv\n\n## Features\n\n| #  | Name of the attribute | Description                                              |\n| -- | --------------------- | -------------------------------------------------------- |\n| 1  | Row ID                | A unique identifier for each transaction.                |\n| 2  | Order ID              | A unique identifier for each order.                      |\n| 3  | Order Date            | The date when the order was placed.                      |\n| 4  | Date Key              | A numerical representation of the order date (YYYYMMDD). |\n| 5  | Contact Name          | The name of the person who placed the order.             |\n| 6  | Country               | The country where the order was placed.                  |\n| 7  | City                  | The city where the order was placed.                     |\n| 8  | Region                | The region where the order was placed.                   |\n| 9  | Subregion             | The subregion where the order was placed.                |\n| 10 | Customer              | The name of the company that placed the order.           |\n| 11 | Customer ID           | A unique identifier for each customer.                   |\n| 13 | Industry              | The industry the customer belongs to.                    |\n| 14 | Segment               | The customer segment (SMB, Strategic, Enterprise, etc.). |\n| 15 | Product               | The product was ordered.                                 |\n| 16 | License               | The license key for the product.                         |\n| 17 | Sales                 | The total sales amount for the transaction.              |\n| 18 | Quantity              | The total number of items in the transaction.            |\n| 19 | Discount              | The discount applied to the transaction.                 |\n| 20 | Profit                | The profit from the transaction.                         |\n\n## Inspiration: The CRoss Industry Standard Process for Data Mining (CRISP-DM) CRISP-DM methodology\n\n* [ ] Understanding the business\n* [ ] Understanding the data\n* [x] Preparing the data\n* [ ] Modelling\n* [ ] Evaluating\n* [ ] Implementing the analysis.",
+  "datasetId": 3216789,
+  "datasetSlug": "aws-saas-sales",
+  "hasDatasetSlug": true,
+  "ownerUser": "nnthanh101",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 5028,
+  "totalVotes": 0,
+  "totalDownloads": 800,
+  "title": "Amazon AWS SaaS Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "This dataset contains transactions from a fictitious SaaS company (B2B).",
+  "hasSubtitle": true,
+  "description": "This dataset contains transaction data from a fictitious SaaS company selling sales and marketing software to other companies (B2B). In the dataset, each row represents a single transaction/order (9,994 transactions), and the columns include:\n\nHere is the Original Dataset: https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/337d5d05acc64a6fa37bcba6b921071c/v1/SaaS-Sales.csv\n\n## Features\n\n| #  | Name of the attribute | Description                                              |\n| -- | --------------------- | -------------------------------------------------------- |\n| 1  | Row ID                | A unique identifier for each transaction.                |\n| 2  | Order ID              | A unique identifier for each order.                      |\n| 3  | Order Date            | The date when the order was placed.                      |\n| 4  | Date Key              | A numerical representation of the order date (YYYYMMDD). |\n| 5  | Contact Name          | The name of the person who placed the order.             |\n| 6  | Country               | The country where the order was placed.                  |\n| 7  | City                  | The city where the order was placed.                     |\n| 8  | Region                | The region where the order was placed.                   |\n| 9  | Subregion             | The subregion where the order was placed.                |\n| 10 | Customer              | The name of the company that placed the order.           |\n| 11 | Customer ID           | A unique identifier for each customer.                   |\n| 13 | Industry              | The industry the customer belongs to.                    |\n| 14 | Segment               | The customer segment (SMB, Strategic, Enterprise, etc.). |\n| 15 | Product               | The product was ordered.                                 |\n| 16 | License               | The license key for the product.                         |\n| 17 | Sales                 | The total sales amount for the transaction.              |\n| 18 | Quantity              | The total number of items in the transaction.            |\n| 19 | Discount              | The discount applied to the transaction.                 |\n| 20 | Profit                | The profit from the transaction.                         |\n\n## Inspiration: The CRoss Industry Standard Process for Data Mining (CRISP-DM) CRISP-DM methodology\n\n* [ ] Understanding the business\n* [ ] Understanding the data\n* [x] Preparing the data\n* [ ] Modelling\n* [ ] Evaluating\n* [ ] Implementing the analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "exploratory data analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Free Documentation License 1.3",
+      "name": "GNU Free Documentation License 1.3",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

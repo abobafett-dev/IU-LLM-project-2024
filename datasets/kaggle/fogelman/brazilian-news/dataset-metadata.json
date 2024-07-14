@@ -1,0 +1,42 @@
+{
+  "id": "fogelman/brazilian-news",
+  "id_no": 752422,
+  "datasetSlugNullable": "brazilian-news",
+  "ownerUserNullable": "fogelman",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Brazilian news",
+  "subtitleNullable": "News collected from federal senate's digital library",
+  "descriptionNullable": "### License\n<a href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/br/deed.en\"><img alt=\"Licen\u00e7a Creative Commons\" style=\"border-width: 0\" src=\"https://i.creativecommons.org/l/by-nc-sa/3.0/br/88x31.png\"></a><br>This dataset is licensed with <a href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/br/deed.en\">CC BY-NC-SA 3.0 BR</a>.\n\n###  Disclamers\nAll news and information present in this dataset originates from [The Brazilian Federal's Digital Library](https://www2.senado.leg.br/bdsf/).\n\n\n### Context\n\nWhen building an `nlp`model consistency and reliability are the utmost importance, therefore this datasets collects curated news from known sources (specified in `citation column`)\n\n\n### Content\n\n### Inspiration\n- Can financial data be predicted with news?",
+  "datasetId": 752422,
+  "datasetSlug": "brazilian-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "fogelman",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2455,
+  "totalVotes": 1,
+  "totalDownloads": 63,
+  "title": "Brazilian news",
+  "hasTitle": true,
+  "subtitle": "News collected from federal senate's digital library",
+  "hasSubtitle": true,
+  "description": "### License\n<a href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/br/deed.en\"><img alt=\"Licen\u00e7a Creative Commons\" style=\"border-width: 0\" src=\"https://i.creativecommons.org/l/by-nc-sa/3.0/br/88x31.png\"></a><br>This dataset is licensed with <a href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/br/deed.en\">CC BY-NC-SA 3.0 BR</a>.\n\n###  Disclamers\nAll news and information present in this dataset originates from [The Brazilian Federal's Digital Library](https://www2.senado.leg.br/bdsf/).\n\n\n### Context\n\nWhen building an `nlp`model consistency and reliability are the utmost importance, therefore this datasets collects curated news from known sources (specified in `citation column`)\n\n\n### Content\n\n### Inspiration\n- Can financial data be predicted with news?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "brazil",
+    "finance",
+    "nlp",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

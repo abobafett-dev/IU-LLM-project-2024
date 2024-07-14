@@ -1,0 +1,43 @@
+{
+  "id": "natalialech/suicidal-ideation-on-twitter",
+  "id_no": 3217457,
+  "datasetSlugNullable": "suicidal-ideation-on-twitter",
+  "ownerUserNullable": "natalialech",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Suicidal ideation on Twitter",
+  "subtitleNullable": "Detect active SI, passive SI and sarcasm on Twitter",
+  "descriptionNullable": "This dataset is the first to focus on the division of suicidal ideation into active and passive. These two types of suicidal ideation require different types of support and, therefore, should not be combined. This dataset is also the first to highlight passive suicidal ideation, which is just as threatening as active suicidal ideation and differs in its vocabulary. Furthermore, this dataset is also the first to include a distinction between sarcasm and suicidal ideation. Sarcasm is very common on Twitter, so this distinction is all the more necessary. \n\nThe dataset consists of 81519 tweets, of which 5051 are active suicidal ideation, 5055 passive suicidal ideation, 5009 sarcasm, 5005 suicide-related tweets and 61333 other tweets. The dataset is imbalanced; the Other class is the majority class. In doing so, it is intended to represent the actual situation on Twitter, where suicide-related tweets make up a small proportion of the chatter. Stratified sampling was utilised to split the dataset into training, validation, and test sets while maintaining the same data distribution. The dataset consists of five classes, and each class was first randomised and then divided into three parts: 70 per cent for the training set (57076 tweets), 15 per cent for the validation set (1221 tweets), and 15 per cent for the test set (12222 tweets).",
+  "datasetId": 3217457,
+  "datasetSlug": "suicidal-ideation-on-twitter",
+  "hasDatasetSlug": true,
+  "ownerUser": "natalialech",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 1728,
+  "totalVotes": 2,
+  "totalDownloads": 197,
+  "title": "Suicidal ideation on Twitter",
+  "hasTitle": true,
+  "subtitle": "Detect active SI, passive SI and sarcasm on Twitter",
+  "hasSubtitle": true,
+  "description": "This dataset is the first to focus on the division of suicidal ideation into active and passive. These two types of suicidal ideation require different types of support and, therefore, should not be combined. This dataset is also the first to highlight passive suicidal ideation, which is just as threatening as active suicidal ideation and differs in its vocabulary. Furthermore, this dataset is also the first to include a distinction between sarcasm and suicidal ideation. Sarcasm is very common on Twitter, so this distinction is all the more necessary. \n\nThe dataset consists of 81519 tweets, of which 5051 are active suicidal ideation, 5055 passive suicidal ideation, 5009 sarcasm, 5005 suicide-related tweets and 61333 other tweets. The dataset is imbalanced; the Other class is the majority class. In doing so, it is intended to represent the actual situation on Twitter, where suicide-related tweets make up a small proportion of the chatter. Stratified sampling was utilised to split the dataset into training, validation, and test sets while maintaining the same data distribution. The dataset consists of five classes, and each class was first randomised and then divided into three parts: 70 per cent for the training set (57076 tweets), 15 per cent for the validation set (1221 tweets), and 15 per cent for the test set (12222 tweets).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "nlp",
+    "text",
+    "multiclass classification",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

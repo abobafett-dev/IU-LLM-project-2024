@@ -1,0 +1,42 @@
+{
+  "id": "robervalt/brazil-gdp-electricity-consumption",
+  "id_no": 976,
+  "datasetSlugNullable": "brazil-gdp-electricity-consumption",
+  "ownerUserNullable": "robervalt",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Brazil Gdp & Electricity Consumption",
+  "subtitleNullable": "From 1979 to 2015 - sources : World Bank and Bacen.",
+  "descriptionNullable": "# Context \n\nCondensation of data from World Bank (Gdp) and Bacen - Banco Central do Brasil (Electricity consumption). Gdp is expressed in Usd Trillion and Electricity in Terawatt hour year.\n\n\n# Content\n\n# Three columns : \"Year\", \"Tw/h\" and \"GDP\"\n\n# Acknowledgements\n\nWorld bank and Bacen.",
+  "datasetId": 976,
+  "datasetSlug": "brazil-gdp-electricity-consumption",
+  "hasDatasetSlug": true,
+  "ownerUser": "robervalt",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 8733,
+  "totalVotes": 13,
+  "totalDownloads": 902,
+  "title": "Brazil Gdp & Electricity Consumption",
+  "hasTitle": true,
+  "subtitle": "From 1979 to 2015 - sources : World Bank and Bacen.",
+  "hasSubtitle": true,
+  "description": "# Context \n\nCondensation of data from World Bank (Gdp) and Bacen - Banco Central do Brasil (Electricity consumption). Gdp is expressed in Usd Trillion and Electricity in Terawatt hour year.\n\n\n# Content\n\n# Three columns : \"Year\", \"Tw/h\" and \"GDP\"\n\n# Acknowledgements\n\nWorld bank and Bacen.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "banking",
+    "economics",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

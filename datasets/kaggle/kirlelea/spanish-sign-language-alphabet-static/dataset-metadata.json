@@ -1,0 +1,43 @@
+{
+  "id": "kirlelea/spanish-sign-language-alphabet-static",
+  "id_no": 2358611,
+  "datasetSlugNullable": "spanish-sign-language-alphabet-static",
+  "ownerUserNullable": "kirlelea",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Spanish Sign Language Alphabet (Static)",
+  "subtitleNullable": "18 inversed static letters from LSE over a white background",
+  "descriptionNullable": "Spanish sign language has 19 static letters and 8 with movement. This dataset was captured over a white screen with a high quality camera with 3 different hands at the same approximate distance. Once captured, the dataset was revised by a person with certificated knowledge of spanish sign language. Each folder has around 100 images of the letter. \n\nThe images are captured with a inversed perspective, like if they are recorded with the internal camera of a smartphone.\n\n\n",
+  "datasetId": 2358611,
+  "datasetSlug": "spanish-sign-language-alphabet-static",
+  "hasDatasetSlug": true,
+  "ownerUser": "kirlelea",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 5242,
+  "totalVotes": 15,
+  "totalDownloads": 462,
+  "title": "Spanish Sign Language Alphabet (Static)",
+  "hasTitle": true,
+  "subtitle": "18 inversed static letters from LSE over a white background",
+  "hasSubtitle": true,
+  "description": "Spanish sign language has 19 static letters and 8 with movement. This dataset was captured over a white screen with a high quality camera with 3 different hands at the same approximate distance. Once captured, the dataset was revised by a person with certificated knowledge of spanish sign language. Each folder has around 100 images of the letter. \n\nThe images are captured with a inversed perspective, like if they are recorded with the internal camera of a smartphone.\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "computer vision",
+    "classification",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

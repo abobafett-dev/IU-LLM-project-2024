@@ -1,0 +1,41 @@
+{
+  "id": "trishalsingh/dogs-vs-cats",
+  "id_no": 1308356,
+  "datasetSlugNullable": "dogs-vs-cats",
+  "ownerUserNullable": "trishalsingh",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Dogs vs cats",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset contains images of dogs and cats which can be used for image classification derived from machinehack.",
+  "datasetId": 1308356,
+  "datasetSlug": "dogs-vs-cats",
+  "hasDatasetSlug": true,
+  "ownerUser": "trishalsingh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 3759,
+  "totalVotes": 3,
+  "totalDownloads": 321,
+  "title": "Dogs vs cats",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset contains images of dogs and cats which can be used for image classification derived from machinehack.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

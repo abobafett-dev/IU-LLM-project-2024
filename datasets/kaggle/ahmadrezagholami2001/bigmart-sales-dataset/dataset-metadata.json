@@ -1,0 +1,43 @@
+{
+  "id": "ahmadrezagholami2001/bigmart-sales-dataset",
+  "id_no": 4353319,
+  "datasetSlugNullable": "bigmart-sales-dataset",
+  "ownerUserNullable": "ahmadrezagholami2001",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Bigmart Sales Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "**Item_Identifier:** Unique product ID\n**Item_Weight:** Weight of product\n**Item_Fat_Content:** Whether the product is low fat or not\n**Item_Visibility :** The % of total display area of all products in a store allocated to the particular product\n**Item_Type:** The category to which the product belongs\n**Item_MRP:** Maximum Retail Price (list price) of the product\n**Outlet_Identifier:** Unique store ID\n**Outlet_Establishment_Year:** The year in which store was established\n**Outlet_Size:** The size of the store in terms of ground area covered\n**Outlet_Location_Type:** The type of city in which the store is located\n**Outlet_Type:** Whether the outlet is just a grocery store or some sort of supermarket\n**Item_Outlet_Sales:** Sales of the product in the particular store. This is the outcome variable to be predicted.(Target)",
+  "datasetId": 4353319,
+  "datasetSlug": "bigmart-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahmadrezagholami2001",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 1553,
+  "totalVotes": 8,
+  "totalDownloads": 285,
+  "title": "Bigmart Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "**Item_Identifier:** Unique product ID\n**Item_Weight:** Weight of product\n**Item_Fat_Content:** Whether the product is low fat or not\n**Item_Visibility :** The % of total display area of all products in a store allocated to the particular product\n**Item_Type:** The category to which the product belongs\n**Item_MRP:** Maximum Retail Price (list price) of the product\n**Outlet_Identifier:** Unique store ID\n**Outlet_Establishment_Year:** The year in which store was established\n**Outlet_Size:** The size of the store in terms of ground area covered\n**Outlet_Location_Type:** The type of city in which the store is located\n**Outlet_Type:** Whether the outlet is just a grocery store or some sort of supermarket\n**Item_Outlet_Sales:** Sales of the product in the particular store. This is the outcome variable to be predicted.(Target)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "beginner",
+    "data cleaning",
+    "linear regression",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

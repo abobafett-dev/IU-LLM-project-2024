@@ -1,0 +1,41 @@
+{
+  "id": "natsum11/household-electricity-usage",
+  "id_no": 4088611,
+  "datasetSlugNullable": "household-electricity-usage",
+  "ownerUserNullable": "natsum11",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Electricity & Gas Consumption and Tariff Data",
+  "subtitleNullable": "half-hourly records of utilities consumption",
+  "descriptionNullable": "**If you find this useful, remind me to update this monthly.**\n\nThis dataset provides detailed half-hourly records of electricity and gas consumption and corresponding pricing data from September 2023. It is designed for energy consumption analysis, cost estimation, and time series forecasting.\n\n  \nPotential Uses:\n- Analyzing daily and seasonal patterns of electricity usage.\n- Calculating the cost of electricity consumption with and without tax implications.\n- Building predictive models for future consumption and cost based on historical data.\n- Assessing the impact of time-based pricing on electricity usage behaviours.\n\nThis data can also serve as a foundation for cost-saving strategies and sustainability efforts within energy management practices.",
+  "datasetId": 4088611,
+  "datasetSlug": "household-electricity-usage",
+  "hasDatasetSlug": true,
+  "ownerUser": "natsum11",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 342,
+  "totalVotes": 1,
+  "totalDownloads": 47,
+  "title": "Electricity & Gas Consumption and Tariff Data",
+  "hasTitle": true,
+  "subtitle": "half-hourly records of utilities consumption",
+  "hasSubtitle": true,
+  "description": "**If you find this useful, remind me to update this monthly.**\n\nThis dataset provides detailed half-hourly records of electricity and gas consumption and corresponding pricing data from September 2023. It is designed for energy consumption analysis, cost estimation, and time series forecasting.\n\n  \nPotential Uses:\n- Analyzing daily and seasonal patterns of electricity usage.\n- Calculating the cost of electricity consumption with and without tax implications.\n- Building predictive models for future consumption and cost based on historical data.\n- Assessing the impact of time-based pricing on electricity usage behaviours.\n\nThis data can also serve as a foundation for cost-saving strategies and sustainability efforts within energy management practices.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "energy",
+    "renewable energy",
+    "electricity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

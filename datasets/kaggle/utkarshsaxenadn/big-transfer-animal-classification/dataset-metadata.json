@@ -1,0 +1,43 @@
+{
+  "id": "utkarshsaxenadn/big-transfer-animal-classification",
+  "id_no": 2647784,
+  "datasetSlugNullable": "big-transfer-animal-classification",
+  "ownerUserNullable": "utkarshsaxenadn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Big Transfer | Animal Classification | Acc : 99%",
+  "subtitleNullable": "Animal Species Classification with Transfer learinig using BiT Transfer",
+  "descriptionNullable": "From architecture perspective **BiT** is nothing but a **4x times Scaled version** of **ResNet152V2**. The main idea here is of **Transfer Learning** this model is **pre-trained** on a **Large Dataset**, so it can be **trained on sub-datasets** or basically **other small datasets** and as the model is pre-trained on a **Very large Dataset** it is expected that it will **perform amazingly well** on the **small dataset**. There are **3 variants of BiT :**\n\n* **BiT-L** : This is trained on **Image Classification** task of **300M Samples**(This is Private).\n* **BiT-M** : This is trained on **Image Classification** task of **14M Samples**.\n* **BiT-S** : This is trained on **Image Classification** task of **1.3M Samples**.\n\nIn this case, the **BiT-M** model is trained for **animal image classification**.  The model achieved a **Training Accuracy of 99%** and **Validation Accuracy of 98%** with **Testing Accuracy of 97%**, with a **Training Loss of 0.05** and **Validation Loss of 0.07**.",
+  "datasetId": 2647784,
+  "datasetSlug": "big-transfer-animal-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "utkarshsaxenadn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1680,
+  "totalVotes": 18,
+  "totalDownloads": 68,
+  "title": "Big Transfer | Animal Classification | Acc : 99%",
+  "hasTitle": true,
+  "subtitle": "Animal Species Classification with Transfer learinig using BiT Transfer",
+  "hasSubtitle": true,
+  "description": "From architecture perspective **BiT** is nothing but a **4x times Scaled version** of **ResNet152V2**. The main idea here is of **Transfer Learning** this model is **pre-trained** on a **Large Dataset**, so it can be **trained on sub-datasets** or basically **other small datasets** and as the model is pre-trained on a **Very large Dataset** it is expected that it will **perform amazingly well** on the **small dataset**. There are **3 variants of BiT :**\n\n* **BiT-L** : This is trained on **Image Classification** task of **300M Samples**(This is Private).\n* **BiT-M** : This is trained on **Image Classification** task of **14M Samples**.\n* **BiT-S** : This is trained on **Image Classification** task of **1.3M Samples**.\n\nIn this case, the **BiT-M** model is trained for **animal image classification**.  The model achieved a **Training Accuracy of 99%** and **Validation Accuracy of 98%** with **Testing Accuracy of 97%**, with a **Training Loss of 0.05** and **Validation Loss of 0.07**.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "classification",
+    "image",
+    "multiclass classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

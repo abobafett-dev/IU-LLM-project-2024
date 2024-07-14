@@ -1,0 +1,43 @@
+{
+  "id": "thomasdubail/chest-pneumonia-256x256",
+  "id_no": 3857211,
+  "datasetSlugNullable": "chest-pneumonia-256x256",
+  "ownerUserNullable": "thomasdubail",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Chest pneumonia 256x256",
+  "subtitleNullable": "A Refined Chest pneumonia Image Dataset with Grayscale Normalization and Zoom",
+  "descriptionNullable": "# Pediatric Chest X-Ray Dataset\n\n## Overview\n\nThis dataset consists of pediatric chest X-ray images collected at Guangzhou Women and Children's Medical Center, Guangzhou, China. The dataset contains a total of 5,863 X-ray images in JPEG format, which are categorized into two classes: Pneumonia and Normal. These images have been used for developing an AI system for chest X-ray analysis.\n\n## Data Sources\n\nThe chest X-ray images were obtained as part of routine clinical care for pediatric patients aged one to five years. Quality control was applied to the images to remove low-quality or unreadable scans. The diagnostic labels for the images were assigned by two expert physicians, and a third expert reviewed an evaluation set to ensure diagnostic accuracy.\n\n## Data Preprocessing\n\nTo facilitate efficient model training, the dataset has undergone the following preprocessing steps:\n- Image Normalization: Images have been normalized to ensure consistent pixel values and enhance model convergence during training.\n- Image Resizing: All images have been resized to 256x256 pixels while preserving the aspect ratio.\n\n## Dataset Split\n\nThe dataset is divided into three subsets grouped by patient_id:\n- Training Set (train): Used for training the AI model.\n- Validation Set (val) : To select your model and tune hyperparameters.\n- Test Set (test): Employed to evaluate the model's performance.\n\n## Categories\n\n- Pneumonia: Chest X-ray images showing signs of pneumonia.\n- Normal: Chest X-ray images with no signs of pathology.\n\n## License\n\n[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)\n\n## Acknowledgments\n\n[https://data.mendeley.com/datasets/rscbjbr9sj/2](https://data.mendeley.com/datasets/rscbjbr9sj/2)\nKermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), \u201cLabeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification\u201d, Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2",
+  "datasetId": 3857211,
+  "datasetSlug": "chest-pneumonia-256x256",
+  "hasDatasetSlug": true,
+  "ownerUser": "thomasdubail",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 724,
+  "totalVotes": 7,
+  "totalDownloads": 131,
+  "title": "Chest pneumonia 256x256",
+  "hasTitle": true,
+  "subtitle": "A Refined Chest pneumonia Image Dataset with Grayscale Normalization and Zoom",
+  "hasSubtitle": true,
+  "description": "# Pediatric Chest X-Ray Dataset\n\n## Overview\n\nThis dataset consists of pediatric chest X-ray images collected at Guangzhou Women and Children's Medical Center, Guangzhou, China. The dataset contains a total of 5,863 X-ray images in JPEG format, which are categorized into two classes: Pneumonia and Normal. These images have been used for developing an AI system for chest X-ray analysis.\n\n## Data Sources\n\nThe chest X-ray images were obtained as part of routine clinical care for pediatric patients aged one to five years. Quality control was applied to the images to remove low-quality or unreadable scans. The diagnostic labels for the images were assigned by two expert physicians, and a third expert reviewed an evaluation set to ensure diagnostic accuracy.\n\n## Data Preprocessing\n\nTo facilitate efficient model training, the dataset has undergone the following preprocessing steps:\n- Image Normalization: Images have been normalized to ensure consistent pixel values and enhance model convergence during training.\n- Image Resizing: All images have been resized to 256x256 pixels while preserving the aspect ratio.\n\n## Dataset Split\n\nThe dataset is divided into three subsets grouped by patient_id:\n- Training Set (train): Used for training the AI model.\n- Validation Set (val) : To select your model and tune hyperparameters.\n- Test Set (test): Employed to evaluate the model's performance.\n\n## Categories\n\n- Pneumonia: Chest X-ray images showing signs of pneumonia.\n- Normal: Chest X-ray images with no signs of pathology.\n\n## License\n\n[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)\n\n## Acknowledgments\n\n[https://data.mendeley.com/datasets/rscbjbr9sj/2](https://data.mendeley.com/datasets/rscbjbr9sj/2)\nKermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), \u201cLabeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification\u201d, Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "beginner",
+    "image",
+    "health conditions",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

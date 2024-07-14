@@ -1,0 +1,42 @@
+{
+  "id": "joebeachcapital/electricity-demand-vic-australia-2018-2023",
+  "id_no": 3471357,
+  "datasetSlugNullable": "electricity-demand-vic-australia-2018-2023",
+  "ownerUserNullable": "joebeachcapital",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Electricity Price & Demand - VIC, AUS 2018-2023",
+  "subtitleNullable": "30 min electricity demand and price data for VIC, Australia from 2018 to 2022.",
+  "descriptionNullable": "This data was downloaded from the [Australian Energy Market Operator (AEMO)](https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data), and contains 30 minute increments of electricity demand and price in Victoria, Australia, from 2018 to mid 2023. This data was made publicly available by AEMO, as per their [Copyright Permission](https://aemo.com.au/privacy-and-legal-notices/copyright-permissions).",
+  "datasetId": 3471357,
+  "datasetSlug": "electricity-demand-vic-australia-2018-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "joebeachcapital",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 788,
+  "totalVotes": 6,
+  "totalDownloads": 102,
+  "title": "Electricity Price & Demand - VIC, AUS 2018-2023",
+  "hasTitle": true,
+  "subtitle": "30 min electricity demand and price data for VIC, Australia from 2018 to 2022.",
+  "hasSubtitle": true,
+  "description": "This data was downloaded from the [Australian Energy Market Operator (AEMO)](https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data), and contains 30 minute increments of electricity demand and price in Victoria, Australia, from 2018 to mid 2023. This data was made publicly available by AEMO, as per their [Copyright Permission](https://aemo.com.au/privacy-and-legal-notices/copyright-permissions).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "energy",
+    "time series analysis",
+    "tabular",
+    "electricity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

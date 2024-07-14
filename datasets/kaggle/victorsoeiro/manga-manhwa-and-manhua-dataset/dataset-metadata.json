@@ -1,0 +1,42 @@
+{
+  "id": "victorsoeiro/manga-manhwa-and-manhua-dataset",
+  "id_no": 2115632,
+  "datasetSlugNullable": "manga-manhwa-and-manhua-dataset",
+  "ownerUserNullable": "victorsoeiro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Manga, Manhwa and Manhua Dataset",
+  "subtitleNullable": "A Dataset of Manga, Manhwa and Manhua on Anime-Planet Website",
+  "descriptionNullable": "## Context\n\nThe dataset contains +70k unique manga, manhwa, and manhua with 6 columns containing general information.  With the increasing popularity of comics over the last decades, I thought this dataset could be useful for EDA and Recommender Systems.\n\n## Content\n\nThe Anime-Planet website uses a system page to show all items in the database. Each row of the database represents a distinct manga, such as Solo Leveling or One Piece. The columns contain the main information of the mangas, like the title, rating, description, released year, tags, and image cover.\n\n- title: Full name of the manga.\n- rating: Average rating of the manga by all users in Anime-Planet.\n- description: Description of the manga.\n- year: Released year of the manga.\n- tags: A list of tags for the manga, like Drama, Comedy, or Fantasy.\n- cover:  The image cover of the manga.\n\nThe code and explanations on how the code was scraped are available on a [repository on GitHub.](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/anime-planet)\n\n## Acknowledgement\n\nThis dataset is only possible because of Anime-Planet Website. and its amazing amount of information. ",
+  "datasetId": 2115632,
+  "datasetSlug": "manga-manhwa-and-manhua-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "victorsoeiro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5035,
+  "totalVotes": 38,
+  "totalDownloads": 578,
+  "title": "Manga, Manhwa and Manhua Dataset",
+  "hasTitle": true,
+  "subtitle": "A Dataset of Manga, Manhwa and Manhua on Anime-Planet Website",
+  "hasSubtitle": true,
+  "description": "## Context\n\nThe dataset contains +70k unique manga, manhwa, and manhua with 6 columns containing general information.  With the increasing popularity of comics over the last decades, I thought this dataset could be useful for EDA and Recommender Systems.\n\n## Content\n\nThe Anime-Planet website uses a system page to show all items in the database. Each row of the database represents a distinct manga, such as Solo Leveling or One Piece. The columns contain the main information of the mangas, like the title, rating, description, released year, tags, and image cover.\n\n- title: Full name of the manga.\n- rating: Average rating of the manga by all users in Anime-Planet.\n- description: Description of the manga.\n- year: Released year of the manga.\n- tags: A list of tags for the manga, like Drama, Comedy, or Fantasy.\n- cover:  The image cover of the manga.\n\nThe code and explanations on how the code was scraped are available on a [repository on GitHub.](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/anime-planet)\n\n## Acknowledgement\n\nThis dataset is only possible because of Anime-Planet Website. and its amazing amount of information. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "recommender systems",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

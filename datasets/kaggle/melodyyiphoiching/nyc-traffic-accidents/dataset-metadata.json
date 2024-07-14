@@ -1,0 +1,43 @@
+{
+  "id": "melodyyiphoiching/nyc-traffic-accidents",
+  "id_no": 1905738,
+  "datasetSlugNullable": "nyc-traffic-accidents",
+  "ownerUserNullable": "melodyyiphoiching",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "NYC Traffic Accidents",
+  "subtitleNullable": "NYC Traffic Accidents2020",
+  "descriptionNullable": "NYC Traffic Accidents\n\nData Source: NYC OpenData | Maven Analytics\nLicense: Public Domain\n\nIntroduction\nMotor vehicle collisions reported by the New York City Police Department from January-August 2020. Each record represents an individual collision, including the date, time and location of the accident (borough, zip code, street name, latitude/longitude), vehicles and victims involved, and contributing factors.\n\nRecommended Analysis\n- Compare the % of total accidents by month. Do you notice any seasonal patterns?\n- Break down accident frequency by day of week and hour of day. Based on this data, when do accidents occur most frequently?\n- On which particular street were the most accidents reported? What does that represent as a % of all reported accidents?\n- What was the most common contributing factor for the accidents reported in this sample (based on Vehicle 1)? What about for fatal accidents specifically?",
+  "datasetId": 1905738,
+  "datasetSlug": "nyc-traffic-accidents",
+  "hasDatasetSlug": true,
+  "ownerUser": "melodyyiphoiching",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 1746,
+  "totalVotes": 6,
+  "totalDownloads": 190,
+  "title": "NYC Traffic Accidents",
+  "hasTitle": true,
+  "subtitle": "NYC Traffic Accidents2020",
+  "hasSubtitle": true,
+  "description": "NYC Traffic Accidents\n\nData Source: NYC OpenData | Maven Analytics\nLicense: Public Domain\n\nIntroduction\nMotor vehicle collisions reported by the New York City Police Department from January-August 2020. Each record represents an individual collision, including the date, time and location of the accident (borough, zip code, street name, latitude/longitude), vehicles and victims involved, and contributing factors.\n\nRecommended Analysis\n- Compare the % of total accidents by month. Do you notice any seasonal patterns?\n- Break down accident frequency by day of week and hour of day. Based on this data, when do accidents occur most frequently?\n- On which particular street were the most accidents reported? What does that represent as a % of all reported accidents?\n- What was the most common contributing factor for the accidents reported in this sample (based on Vehicle 1)? What about for fatal accidents specifically?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "geospatial analysis",
+    "time series analysis",
+    "travel",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

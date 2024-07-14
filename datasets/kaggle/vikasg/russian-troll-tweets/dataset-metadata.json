@@ -1,0 +1,43 @@
+{
+  "id": "vikasg/russian-troll-tweets",
+  "id_no": 13184,
+  "datasetSlugNullable": "russian-troll-tweets",
+  "ownerUserNullable": "vikasg",
+  "usabilityRatingNullable": 0.7352941176470589,
+  "titleNullable": "Russian Troll Tweets",
+  "subtitleNullable": "200,000 malicious-account tweets captured by NBC",
+  "descriptionNullable": "### Context\n\nAs part of the House Intelligence Committee investigation into how Russia may have influenced the 2016 US Election, Twitter released the screen names of almost 3000 Twitter accounts believed to be connected to Russia\u2019s Internet Research Agency, a company known for operating social media troll accounts. Twitter immediately suspended these accounts, deleting their data from Twitter.com and the Twitter API. A team at NBC News including Ben Popken and EJ Fox was able to reconstruct a dataset consisting of a subset of the deleted data for their investigation and were able to show how these troll accounts went on attack during key election moments. This dataset is the body of this open-sourced reconstruction.\n\nFor more background, read the NBC news article publicizing the release: [\"Twitter deleted 200,000 Russian troll tweets. Read them here.\"](https://www.nbcnews.com/tech/social-media/now-available-more-200-000-deleted-russian-troll-tweets-n844731)\n\n### Content\n\nThis dataset contains two CSV files. `tweets.csv` includes details on individual tweets, while `users.csv` includes details on individual accounts.\n\nTo recreate a link to an individual tweet found in the dataset, replace `user_key` in `https://twitter.com/user_key/status/tweet_id` with the screen-name from the `user_key` field and `tweet_id` with the number in the `tweet_id` field.\n\nFollowing the links will lead to a suspended page on Twitter. But some copies of the tweets as they originally appeared, including images, can be found by entering the links on web caches like `archive.org` and `archive.is`.\n\n### Acknowledgements\n\nIf you publish using the data, please credit NBC News and include a link to this page. Send questions to `ben.popken@nbcuni.com`.\n\n### Inspiration\n\nWhat are the characteristics of the fake tweets? Are they distinguishable from real ones? ",
+  "datasetId": 13184,
+  "datasetSlug": "russian-troll-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "vikasg",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7352941176470589,
+  "hasUsabilityRating": true,
+  "totalViews": 54396,
+  "totalVotes": 144,
+  "totalDownloads": 4525,
+  "title": "Russian Troll Tweets",
+  "hasTitle": true,
+  "subtitle": "200,000 malicious-account tweets captured by NBC",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAs part of the House Intelligence Committee investigation into how Russia may have influenced the 2016 US Election, Twitter released the screen names of almost 3000 Twitter accounts believed to be connected to Russia\u2019s Internet Research Agency, a company known for operating social media troll accounts. Twitter immediately suspended these accounts, deleting their data from Twitter.com and the Twitter API. A team at NBC News including Ben Popken and EJ Fox was able to reconstruct a dataset consisting of a subset of the deleted data for their investigation and were able to show how these troll accounts went on attack during key election moments. This dataset is the body of this open-sourced reconstruction.\n\nFor more background, read the NBC news article publicizing the release: [\"Twitter deleted 200,000 Russian troll tweets. Read them here.\"](https://www.nbcnews.com/tech/social-media/now-available-more-200-000-deleted-russian-troll-tweets-n844731)\n\n### Content\n\nThis dataset contains two CSV files. `tweets.csv` includes details on individual tweets, while `users.csv` includes details on individual accounts.\n\nTo recreate a link to an individual tweet found in the dataset, replace `user_key` in `https://twitter.com/user_key/status/tweet_id` with the screen-name from the `user_key` field and `tweet_id` with the number in the `tweet_id` field.\n\nFollowing the links will lead to a suspended page on Twitter. But some copies of the tweets as they originally appeared, including images, can be found by entering the links on web caches like `archive.org` and `archive.is`.\n\n### Acknowledgements\n\nIf you publish using the data, please credit NBC News and include a link to this page. Send questions to `ben.popken@nbcuni.com`.\n\n### Inspiration\n\nWhat are the characteristics of the fake tweets? Are they distinguishable from real ones? ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "russia",
+    "politics",
+    "international relations",
+    "internet",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sachinkumar413/diabetic-retinopathy-dataset",
+  "id_no": 2118574,
+  "datasetSlugNullable": "diabetic-retinopathy-dataset",
+  "ownerUserNullable": "sachinkumar413",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Diabetic Retinopathy Dataset",
+  "subtitleNullable": "Diabetic Retinopathy Preprocessed Dataset (256 x 256)",
+  "descriptionNullable": "***Total Class Labels = 5***\n\n**Total Images = 2750**\n**1. Healthy (Not DR) =** 1000\n**2. Mild DR =** 370\n**3. Moderate DR =** 900\n**4. Proliferative DR =** 290\n**5. Severe DR =** 190\n\n***DR: Diabetic Retinopathy***\n",
+  "datasetId": 2118574,
+  "datasetSlug": "diabetic-retinopathy-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sachinkumar413",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 20903,
+  "totalVotes": 56,
+  "totalDownloads": 2998,
+  "title": "Diabetic Retinopathy Dataset",
+  "hasTitle": true,
+  "subtitle": "Diabetic Retinopathy Preprocessed Dataset (256 x 256)",
+  "hasSubtitle": true,
+  "description": "***Total Class Labels = 5***\n\n**Total Images = 2750**\n**1. Healthy (Not DR) =** 1000\n**2. Mild DR =** 370\n**3. Moderate DR =** 900\n**4. Proliferative DR =** 290\n**5. Severe DR =** 190\n\n***DR: Diabetic Retinopathy***\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "deep learning",
+    "image",
+    "multiclass classification",
+    "diabetes"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

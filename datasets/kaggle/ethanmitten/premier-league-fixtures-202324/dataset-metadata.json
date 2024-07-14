@@ -1,0 +1,41 @@
+{
+  "id": "ethanmitten/premier-league-fixtures-202324",
+  "id_no": 3409692,
+  "datasetSlugNullable": "premier-league-fixtures-202324",
+  "ownerUserNullable": "ethanmitten",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Premier League Fixtures 2023/24",
+  "subtitleNullable": "Manually Collected From: https://www.premierleague.com/news/3537201",
+  "descriptionNullable": "This data was manually collected from the Premier League Website specifically from the link: https://www.premierleague.com/news/3537201. \n\nI am utilizing this information as a table to combine with other team statistics when the season starts to gain insight into player predictions for upcoming fixtures for my FPL team.",
+  "datasetId": 3409692,
+  "datasetSlug": "premier-league-fixtures-202324",
+  "hasDatasetSlug": true,
+  "ownerUser": "ethanmitten",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4836,
+  "totalVotes": 31,
+  "totalDownloads": 617,
+  "title": "Premier League Fixtures 2023/24",
+  "hasTitle": true,
+  "subtitle": "Manually Collected From: https://www.premierleague.com/news/3537201",
+  "hasSubtitle": true,
+  "description": "This data was manually collected from the Premier League Website specifically from the link: https://www.premierleague.com/news/3537201. \n\nI am utilizing this information as a table to combine with other team statistics when the season starts to gain insight into player predictions for upcoming fixtures for my FPL team.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "software"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

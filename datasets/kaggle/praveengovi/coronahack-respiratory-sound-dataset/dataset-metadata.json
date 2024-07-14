@@ -1,0 +1,42 @@
+{
+  "id": "praveengovi/coronahack-respiratory-sound-dataset",
+  "id_no": 1291644,
+  "datasetSlugNullable": "coronahack-respiratory-sound-dataset",
+  "ownerUserNullable": "praveengovi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "CoronaHack Respiratory Sound Dataset",
+  "subtitleNullable": "Respiratory Sound Dataset",
+  "descriptionNullable": "### Context\n\nCorona - COVID19 virus affects the respiratory system of healthy individual & Respiratory Sound is one of the important testing methods to identify the corona virus.\n\nWith the Respiratory Sound dataset, Develop a Machine Learning Model to classify the Respiratory Sound of Healthy vs Corona affected patients & this model powers the AI application to test the Corona Virus in Faster Phase.\n\n\n### Content\n\nRespiratory Sound files of Corona affected users and Users does not have corona is available in CoronaHack-Respiratory-Sound-Dataset\n\nRespiratory sound files available in train and test folders with dates and user ID \n\n- Multiple category of respiratory sound files\n\n - breathing-deep\n - breathing-shallow\n - cough-heavy\n - cough-shallow\n - counting-fast\n - counting-normal\n - vowel-a\n - vowel-e\n - vowel-o\n\nRespiratory Sound files for each users available in data folders and labels , demographic details and other ailments related to User available in Corona-Hack-Respiratory-Sound-Metadata.csv file  \n\nTarget variable - \n\nCOVID_test_status - ( Possible values  1 - User Has COVID , 0 -User does not have COVID & NA - User does't provided COVID status ) \n\nFeatures :- \n\n- User Personal ID \n - USER_ID - User ID is encrypted actual customer is not stored \n - GENDER - M - Male & F - For Female \n - AGE.       - Integer \n - COVID_STATUS - ( Possible values - healthy , resp_illness_not_identified,ect ) \n - ENGLISH_PROFICIENCY - Y - Yes or N - No \n\n- User Demographic details :- \n - COUNTRY\n - COUNTY_RO_STATE\n - CITY_LOCALITY\n\n- Data collection dates - \n - DATES - Date format YYYYMMDD \n\n- User Health ailments and Corona Symptoms ( Possible values - 1 True & 0- False )\n - Diabetes\n - Asthma\n - Smoker\n - Hypertension\n - Fever\n - Returning_User\n - Using_Mask\n - Cold\n - Caugh\n - Muscle_Pain\n - loss_of_smell\n - Sore_Throat\n - Fatigue\n - Breathing_Difficulties\n - Chronic_Lung_Disease\n - Ischemic_Heart_Disease\n - Pneumonia\n - Diarrheoa\n\n- Respiratory Sound file category paths  ( Below files contain the path with file name & if the .Wav file not available value will be blank  )\n\n - breathing-deep\n - breathing-shallow\n - cough-heavy\n - cough-shallow\n - counting-fast\n - counting-normal\n - vowel-a\n - vowel-e\n - vowel-o\n\n### Acknowledgements\n\nRespiratory Data for multiple users is collected from Coswara-Data & credits for data collection deliberately goes to Coswara team , Hope this Kaggle dataset help to speed up building of Machine Learning models and to carry more works on model explainability\n \nLinks :-\n\nhttps://github.com/iiscleap/Coswara-Data\nhttps://coswara.iisc.ac.in/?locale=en-US\n\n### Inspiration\n\nCorona Testing is one of time consuming & it delays the treatment for patient for corona , Corona testing is mandated in all airpots across globe & other places. AI Machine Learning - Respiratory Sound Model will help human society to Speed up Corona testing from Days to Minutes\n\nMachine Learning - Respiratory Sound Model will be driver to Corona testing mobile apps ",
+  "datasetId": 1291644,
+  "datasetSlug": "coronahack-respiratory-sound-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "praveengovi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10176,
+  "totalVotes": 21,
+  "totalDownloads": 1083,
+  "title": "CoronaHack Respiratory Sound Dataset",
+  "hasTitle": true,
+  "subtitle": "Respiratory Sound Dataset",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCorona - COVID19 virus affects the respiratory system of healthy individual & Respiratory Sound is one of the important testing methods to identify the corona virus.\n\nWith the Respiratory Sound dataset, Develop a Machine Learning Model to classify the Respiratory Sound of Healthy vs Corona affected patients & this model powers the AI application to test the Corona Virus in Faster Phase.\n\n\n### Content\n\nRespiratory Sound files of Corona affected users and Users does not have corona is available in CoronaHack-Respiratory-Sound-Dataset\n\nRespiratory sound files available in train and test folders with dates and user ID \n\n- Multiple category of respiratory sound files\n\n - breathing-deep\n - breathing-shallow\n - cough-heavy\n - cough-shallow\n - counting-fast\n - counting-normal\n - vowel-a\n - vowel-e\n - vowel-o\n\nRespiratory Sound files for each users available in data folders and labels , demographic details and other ailments related to User available in Corona-Hack-Respiratory-Sound-Metadata.csv file  \n\nTarget variable - \n\nCOVID_test_status - ( Possible values  1 - User Has COVID , 0 -User does not have COVID & NA - User does't provided COVID status ) \n\nFeatures :- \n\n- User Personal ID \n - USER_ID - User ID is encrypted actual customer is not stored \n - GENDER - M - Male & F - For Female \n - AGE.       - Integer \n - COVID_STATUS - ( Possible values - healthy , resp_illness_not_identified,ect ) \n - ENGLISH_PROFICIENCY - Y - Yes or N - No \n\n- User Demographic details :- \n - COUNTRY\n - COUNTY_RO_STATE\n - CITY_LOCALITY\n\n- Data collection dates - \n - DATES - Date format YYYYMMDD \n\n- User Health ailments and Corona Symptoms ( Possible values - 1 True & 0- False )\n - Diabetes\n - Asthma\n - Smoker\n - Hypertension\n - Fever\n - Returning_User\n - Using_Mask\n - Cold\n - Caugh\n - Muscle_Pain\n - loss_of_smell\n - Sore_Throat\n - Fatigue\n - Breathing_Difficulties\n - Chronic_Lung_Disease\n - Ischemic_Heart_Disease\n - Pneumonia\n - Diarrheoa\n\n- Respiratory Sound file category paths  ( Below files contain the path with file name & if the .Wav file not available value will be blank  )\n\n - breathing-deep\n - breathing-shallow\n - cough-heavy\n - cough-shallow\n - counting-fast\n - counting-normal\n - vowel-a\n - vowel-e\n - vowel-o\n\n### Acknowledgements\n\nRespiratory Data for multiple users is collected from Coswara-Data & credits for data collection deliberately goes to Coswara team , Hope this Kaggle dataset help to speed up building of Machine Learning models and to carry more works on model explainability\n \nLinks :-\n\nhttps://github.com/iiscleap/Coswara-Data\nhttps://coswara.iisc.ac.in/?locale=en-US\n\n### Inspiration\n\nCorona Testing is one of time consuming & it delays the treatment for patient for corona , Corona testing is mandated in all airpots across globe & other places. AI Machine Learning - Respiratory Sound Model will help human society to Speed up Corona testing from Days to Minutes\n\nMachine Learning - Respiratory Sound Model will be driver to Corona testing mobile apps ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "image",
+    "binary classification",
+    "transfer learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

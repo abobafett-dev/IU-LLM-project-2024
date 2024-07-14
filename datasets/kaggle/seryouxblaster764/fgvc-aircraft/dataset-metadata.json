@@ -1,0 +1,39 @@
+{
+  "id": "seryouxblaster764/fgvc-aircraft",
+  "id_no": 782089,
+  "datasetSlugNullable": "fgvc-aircraft",
+  "ownerUserNullable": "seryouxblaster764",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "FGVC Aircraft",
+  "subtitleNullable": "10000 images and 100 classes for Fine-grained image classification",
+  "descriptionNullable": "### Content\n\nThe dataset contains 10,000 images of aircraft, The data is split into 3334 training images, 3333 validation and 3333 testing images\nAircraft models are organized in a four-levels hierarchy. The four levels, from finer to coarser, are:\n\nModel, e.g. Boeing 737-76J. Since certain models are nearly visually indistinguishable, this level is not used in the evaluation.\nVariant, e.g. Boeing 737-700. A variant collapses all the models that are visually indistinguishable into one class. The dataset comprises 100 different variants.\nFamily, e.g. Boeing 737. The dataset comprises 70 different families.\nManufacturer, e.g. Boeing. The dataset comprises 41 different manufacturers.\n\n### csv files\nthe csv files makes easy way to use the dataset. By Separate dataset into 3 file that is train,val and test\nIt contains 3 columns:\n`filename`: image file name \n`Classes`: Variant Classes name e.g. 707-320, A318\n`Labels`: Categorical Value for the Classes that is 0-99 for 100 Classes\n\n### Acknowledgements\n\nData source: http://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/ \nPlease use the following citation when referring to this dataset:\n\nFine-Grained Visual Classification of Aircraft, S. Maji, J. Kannala, E. Rahtu, M. Blaschko, A. Vedaldi, arXiv.org, 2013",
+  "datasetId": 782089,
+  "datasetSlug": "fgvc-aircraft",
+  "hasDatasetSlug": true,
+  "ownerUser": "seryouxblaster764",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 19546,
+  "totalVotes": 34,
+  "totalDownloads": 1925,
+  "title": "FGVC Aircraft",
+  "hasTitle": true,
+  "subtitle": "10000 images and 100 classes for Fine-grained image classification",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThe dataset contains 10,000 images of aircraft, The data is split into 3334 training images, 3333 validation and 3333 testing images\nAircraft models are organized in a four-levels hierarchy. The four levels, from finer to coarser, are:\n\nModel, e.g. Boeing 737-76J. Since certain models are nearly visually indistinguishable, this level is not used in the evaluation.\nVariant, e.g. Boeing 737-700. A variant collapses all the models that are visually indistinguishable into one class. The dataset comprises 100 different variants.\nFamily, e.g. Boeing 737. The dataset comprises 70 different families.\nManufacturer, e.g. Boeing. The dataset comprises 41 different manufacturers.\n\n### csv files\nthe csv files makes easy way to use the dataset. By Separate dataset into 3 file that is train,val and test\nIt contains 3 columns:\n`filename`: image file name \n`Classes`: Variant Classes name e.g. 707-320, A318\n`Labels`: Categorical Value for the Classes that is 0-99 for 100 Classes\n\n### Acknowledgements\n\nData source: http://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/ \nPlease use the following citation when referring to this dataset:\n\nFine-Grained Visual Classification of Aircraft, S. Maji, J. Kannala, E. Rahtu, M. Blaschko, A. Vedaldi, arXiv.org, 2013",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "transportation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

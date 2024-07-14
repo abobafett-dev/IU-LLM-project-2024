@@ -1,0 +1,39 @@
+{
+  "id": "spmohanty09/multi-region-facial-dataset",
+  "id_no": 5092654,
+  "datasetSlugNullable": "multi-region-facial-dataset",
+  "ownerUserNullable": "spmohanty09",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Multi Region Facial Dataset",
+  "subtitleNullable": "Global Facial Expressions: Train and Test Sets from 5 Regions",
+  "descriptionNullable": "Explore the diversity of human facial images with our comprehensive dataset, a modification of the renowned UTK dataset. Our collection features facial expressions categorized into training and testing sets from five distinct regions:\n\n* Region 0 (American)\n* Region 1 (African)\n* Region 2 (Asian)\n* Region 3 (Indian)\n* Region 4 (European)\n\nThis structure provides a robust foundation for developing and validating region detection models that are sensitive to cultural nuances in facial expressions. Dive into this unique collection to enhance your machine learning projects with a global perspective on region recognition.",
+  "datasetId": 5092654,
+  "datasetSlug": "multi-region-facial-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "spmohanty09",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 24,
+  "totalVotes": 5,
+  "totalDownloads": 0,
+  "title": "Multi Region Facial Dataset",
+  "hasTitle": true,
+  "subtitle": "Global Facial Expressions: Train and Test Sets from 5 Regions",
+  "hasSubtitle": true,
+  "description": "Explore the diversity of human facial images with our comprehensive dataset, a modification of the renowned UTK dataset. Our collection features facial expressions categorized into training and testing sets from five distinct regions:\n\n* Region 0 (American)\n* Region 1 (African)\n* Region 2 (Asian)\n* Region 3 (Indian)\n* Region 4 (European)\n\nThis structure provides a robust foundation for developing and validating region detection models that are sensitive to cultural nuances in facial expressions. Dive into this unique collection to enhance your machine learning projects with a global perspective on region recognition.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

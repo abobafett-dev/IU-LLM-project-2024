@@ -1,0 +1,42 @@
+{
+  "id": "ariosliew92/jobactive-employment-fund",
+  "id_no": 1482871,
+  "datasetSlugNullable": "jobactive-employment-fund",
+  "ownerUserNullable": "ariosliew92",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Jobactive Employment Fund",
+  "subtitleNullable": "Jobactive Employment Fund for Transaction Analysis and Classification",
+  "descriptionNullable": "The document and the dataset are licensed under Creative Commons Attribution 2.5 Australia.\n\nThe dataset contains the applications of getting employment funds to cover the applicants' costs related to job searching, job training, relocation assistance, medical and mental expenses and et cetera that can help the applicants to acquire a job and become independent. Therefore, it consists of the demographic details, such as education level, age, race, and Jobactive Stream of the applicants, and the reason for getting the employment fund. There are 3 streams in Jobactive Stream: A (highly trained applicants that require minimum support), B (mediumly trained applicants that require additional support for them to be job ready) and C (applicants that require support to gain vocational or professional skills to be job ready).\n\nThe dataset requires data cleaning and data transformation before data analysis and statistical modelling.\n\nThe dataset is good for descriptive analysis, time series analysis, and classification. \n\nThe dataset is originally from: https://data.gov.au/data/dataset/6fd24a3b-6028-473e-985a-b863bac25521 .\nThe Jobactive program details can be found at: https://nesa.com.au/jobactive/ .\n",
+  "datasetId": 1482871,
+  "datasetSlug": "jobactive-employment-fund",
+  "hasDatasetSlug": true,
+  "ownerUser": "ariosliew92",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2396,
+  "totalVotes": 3,
+  "totalDownloads": 84,
+  "title": "Jobactive Employment Fund",
+  "hasTitle": true,
+  "subtitle": "Jobactive Employment Fund for Transaction Analysis and Classification",
+  "hasSubtitle": true,
+  "description": "The document and the dataset are licensed under Creative Commons Attribution 2.5 Australia.\n\nThe dataset contains the applications of getting employment funds to cover the applicants' costs related to job searching, job training, relocation assistance, medical and mental expenses and et cetera that can help the applicants to acquire a job and become independent. Therefore, it consists of the demographic details, such as education level, age, race, and Jobactive Stream of the applicants, and the reason for getting the employment fund. There are 3 streams in Jobactive Stream: A (highly trained applicants that require minimum support), B (mediumly trained applicants that require additional support for them to be job ready) and C (applicants that require support to gain vocational or professional skills to be job ready).\n\nThe dataset requires data cleaning and data transformation before data analysis and statistical modelling.\n\nThe dataset is good for descriptive analysis, time series analysis, and classification. \n\nThe dataset is originally from: https://data.gov.au/data/dataset/6fd24a3b-6028-473e-985a-b863bac25521 .\nThe Jobactive program details can be found at: https://nesa.com.au/jobactive/ .\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "australia",
+    "employment",
+    "finance",
+    "government"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nxpnsv/country-health-indicators",
+  "id_no": 585107,
+  "datasetSlugNullable": "country-health-indicators",
+  "ownerUserNullable": "nxpnsv",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "country health indicators",
+  "subtitleNullable": "Health indicator relevant to covid19 death and infection risk",
+  "descriptionNullable": "This dataset combines multiple open data sets for Covid-19 cases and deaths ([kaggle1](https://www.kaggle.com/c/covid19-global-forecasting-week-3/data)), Death causes ([ourworldindata1](https://ourworldindata.org/grapher/share-of-total-disease-burden-by-cause), [ourworldindata2](https://ourworldindata.org/grapher/share-deaths-smoking), [ourworldindata3]((https://ourworldindata.org/grapher/pneumonia-death-rates-age-standardized)), Food sources ([FAO1](http://www.fao.org/faostat/en/#data/FBS)), Health Care System ([WHO1](https://apps.who.int/gho/data/node.main.HWFGRP_0020?lang=en), [WHO2](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/hospital-beds-(per-10-000-population)), [WHO3](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/total-density-per-100-000-population-specialized-hospitals)), TB vaccine status ([BCG1](http://www.bcgatlas.org/index.php)) School closures ([UNESCO1](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures)), and People/Society facts ([CIA1](https://www.cia.gov/library/publications/the-world-factbook/docs/rankorderguide.html)).",
+  "datasetId": 585107,
+  "datasetSlug": "country-health-indicators",
+  "hasDatasetSlug": true,
+  "ownerUser": "nxpnsv",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 19507,
+  "totalVotes": 26,
+  "totalDownloads": 1847,
+  "title": "country health indicators",
+  "hasTitle": true,
+  "subtitle": "Health indicator relevant to covid19 death and infection risk",
+  "hasSubtitle": true,
+  "description": "This dataset combines multiple open data sets for Covid-19 cases and deaths ([kaggle1](https://www.kaggle.com/c/covid19-global-forecasting-week-3/data)), Death causes ([ourworldindata1](https://ourworldindata.org/grapher/share-of-total-disease-burden-by-cause), [ourworldindata2](https://ourworldindata.org/grapher/share-deaths-smoking), [ourworldindata3]((https://ourworldindata.org/grapher/pneumonia-death-rates-age-standardized)), Food sources ([FAO1](http://www.fao.org/faostat/en/#data/FBS)), Health Care System ([WHO1](https://apps.who.int/gho/data/node.main.HWFGRP_0020?lang=en), [WHO2](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/hospital-beds-(per-10-000-population)), [WHO3](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/total-density-per-100-000-population-specialized-hospitals)), TB vaccine status ([BCG1](http://www.bcgatlas.org/index.php)) School closures ([UNESCO1](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures)), and People/Society facts ([CIA1](https://www.cia.gov/library/publications/the-world-factbook/docs/rankorderguide.html)).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "economics",
+    "food",
+    "news",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "tbuturishvili",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

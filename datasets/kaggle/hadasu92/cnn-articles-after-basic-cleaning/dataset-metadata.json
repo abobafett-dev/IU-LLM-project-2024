@@ -1,0 +1,43 @@
+{
+  "id": "hadasu92/cnn-articles-after-basic-cleaning",
+  "id_no": 2001636,
+  "datasetSlugNullable": "cnn-articles-after-basic-cleaning",
+  "ownerUserNullable": "hadasu92",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "CNN News Articles from 2011 to 2022",
+  "subtitleNullable": "CNN News Articles from 2011 to 2022 after basic cleaning",
+  "descriptionNullable": "**Context**\nThis dataset contains around 38000 lines of articles from [CNN news](https://edition.cnn.com/) from the year 2011 to 2022.&nbsp;The data were collected using a web crawler. \nThe crawler can be found on my GitHub account (https://github.com/hadasu/CNN_web_crawler ).\nThe crawler scans through the CNN site and extracts various parameters from the HTML of the article. \nYou can edit the crawler to extract as much or as little data as you want.\n\n**Content**\nThis dataset contains Author, Publication date, Category, Article Section, Url source, Headline, Description, Full test, and more...\nFor raw data, you can refer to [CNN Articles, Raw data](https://www.kaggle.com/datasets/hadasu92/cnn-articles)\n\n**Inspiration**\n-  Categories based on&nbsp;Category, Article Section,&nbsp; Headline, Description, and more...\n- Fulltext classification \n- Natural language processing (NLP)",
+  "datasetId": 2001636,
+  "datasetSlug": "cnn-articles-after-basic-cleaning",
+  "hasDatasetSlug": true,
+  "ownerUser": "hadasu92",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 16604,
+  "totalVotes": 39,
+  "totalDownloads": 2847,
+  "title": "CNN News Articles from 2011 to 2022",
+  "hasTitle": true,
+  "subtitle": "CNN News Articles from 2011 to 2022 after basic cleaning",
+  "hasSubtitle": true,
+  "description": "**Context**\nThis dataset contains around 38000 lines of articles from [CNN news](https://edition.cnn.com/) from the year 2011 to 2022.&nbsp;The data were collected using a web crawler. \nThe crawler can be found on my GitHub account (https://github.com/hadasu/CNN_web_crawler ).\nThe crawler scans through the CNN site and extracts various parameters from the HTML of the article. \nYou can edit the crawler to extract as much or as little data as you want.\n\n**Content**\nThis dataset contains Author, Publication date, Category, Article Section, Url source, Headline, Description, Full test, and more...\nFor raw data, you can refer to [CNN Articles, Raw data](https://www.kaggle.com/datasets/hadasu92/cnn-articles)\n\n**Inspiration**\n-  Categories based on&nbsp;Category, Article Section,&nbsp; Headline, Description, and more...\n- Fulltext classification \n- Natural language processing (NLP)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "classification",
+    "clustering",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

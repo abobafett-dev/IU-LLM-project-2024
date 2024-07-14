@@ -1,0 +1,43 @@
+{
+  "id": "engabdulaziz/global-equity-dataset",
+  "id_no": 1128031,
+  "datasetSlugNullable": "global-equity-dataset",
+  "ownerUserNullable": "engabdulaziz",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Global Equity Dataset",
+  "subtitleNullable": "Time Series Forecasting",
+  "descriptionNullable": "### Context\n\nBy used __Alpha Vantage Rapid API__ I have got weekly time series (last trading day of each week, weekly open, weekly high, weekly low, weekly close, weekly volume) of the global equity specified, covering 20+ years of historical data.\n\n### Content\n\nHere index and features of dataset after extraced and cleaned\n\n|Name|Feature\\Index|Type|Description|\n|---|---|---|---|\n|---|Index|datetimes|weekly date of stock traded|\n|open|Feature|float|the price at which a stock started trading when the opening bell rang.|\n|high|Feature|float|the highest price at which a stock traded during a period. |\n|low|Feature|float|the lowest price at which a stock traded during a period|\n|close|Feature|float|the price of an individual stock when the stock exchange closed shop for the day|\n|volume|Feature|float|the total number of shares traded in a security over a period|\n\n\n### Acknowledgements\n\n__RapidAPI__ is a great platform to find, connect to, and manage thousands of APIs.\n",
+  "datasetId": 1128031,
+  "datasetSlug": "global-equity-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "engabdulaziz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 1274,
+  "totalVotes": 3,
+  "totalDownloads": 80,
+  "title": "Global Equity Dataset",
+  "hasTitle": true,
+  "subtitle": "Time Series Forecasting",
+  "hasSubtitle": true,
+  "description": "### Context\n\nBy used __Alpha Vantage Rapid API__ I have got weekly time series (last trading day of each week, weekly open, weekly high, weekly low, weekly close, weekly volume) of the global equity specified, covering 20+ years of historical data.\n\n### Content\n\nHere index and features of dataset after extraced and cleaned\n\n|Name|Feature\\Index|Type|Description|\n|---|---|---|---|\n|---|Index|datetimes|weekly date of stock traded|\n|open|Feature|float|the price at which a stock started trading when the opening bell rang.|\n|high|Feature|float|the highest price at which a stock traded during a period. |\n|low|Feature|float|the lowest price at which a stock traded during a period|\n|close|Feature|float|the price of an individual stock when the stock exchange closed shop for the day|\n|volume|Feature|float|the total number of shares traded in a security over a period|\n\n\n### Acknowledgements\n\n__RapidAPI__ is a great platform to find, connect to, and manage thousands of APIs.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "finance",
+    "time series analysis",
+    "tabular",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "swapnilnaique/tomato-data",
+  "id_no": 4447835,
+  "datasetSlugNullable": "tomato-data",
+  "ownerUserNullable": "swapnilnaique",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Ripeness Classifier Dataset",
+  "subtitleNullable": "Images of ripe and unripe tomatos sourced from Laboro Tomato dataset.",
+  "descriptionNullable": "The images used in this dataset are collected from [Laboro Tomato](https://www.kaggle.com/datasets/nexuswho/laboro-tomato)\nThis Dataset offers a collection of images tailored for CNN models, DL, and ML applications. It features meticulously sorted images of tomatoes categorized into ripe and unripe stages, with separate training and testing sets for model evaluation. \n\nEach image is labelled accordingly, supporting tasks like classification, detection, and segmentation. \n\n- Example of ripe tomatoes \n\n![ripe](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F11887723%2F014349530630fc7f3c09426d38f4dc45%2Fimagy-image(1).jpg?generation=1708266930133459&alt=media) \n\n- Example of Unripe tomatoes \n\n ![unripe](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F11887723%2Fb9b85a4310b42089dd20df4a1064b613%2Fimagy-image.jpg?generation=1708267009687689&alt=media)",
+  "datasetId": 4447835,
+  "datasetSlug": "tomato-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "swapnilnaique",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 545,
+  "totalVotes": 3,
+  "totalDownloads": 96,
+  "title": "Ripeness Classifier Dataset",
+  "hasTitle": true,
+  "subtitle": "Images of ripe and unripe tomatos sourced from Laboro Tomato dataset.",
+  "hasSubtitle": true,
+  "description": "The images used in this dataset are collected from [Laboro Tomato](https://www.kaggle.com/datasets/nexuswho/laboro-tomato)\nThis Dataset offers a collection of images tailored for CNN models, DL, and ML applications. It features meticulously sorted images of tomatoes categorized into ripe and unripe stages, with separate training and testing sets for model evaluation. \n\nEach image is labelled accordingly, supporting tasks like classification, detection, and segmentation. \n\n- Example of ripe tomatoes \n\n![ripe](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F11887723%2F014349530630fc7f3c09426d38f4dc45%2Fimagy-image(1).jpg?generation=1708266930133459&alt=media) \n\n- Example of Unripe tomatoes \n\n ![unripe](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F11887723%2Fb9b85a4310b42089dd20df4a1064b613%2Fimagy-image.jpg?generation=1708267009687689&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "agriculture",
+    "computer vision",
+    "deep learning",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

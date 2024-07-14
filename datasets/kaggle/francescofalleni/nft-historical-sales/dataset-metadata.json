@@ -1,0 +1,44 @@
+{
+  "id": "francescofalleni/nft-historical-sales",
+  "id_no": 2041247,
+  "datasetSlugNullable": "nft-historical-sales",
+  "ownerUserNullable": "francescofalleni",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "NFT historical sales",
+  "subtitleNullable": "NFT historical sales dataset ",
+  "descriptionNullable": "# NFT Historical sales data\nThe dataset consists of opensea NFT sales transactions recorded between 1 February 2021 and 28 February 2021.\ncode used to create the dataset: https://github.com/Checco9811/opensea-api-nft-sales.\n\n## Content\nThe dataset consist of a .csv file with the following attributes:\n- **collections_slug**: unique identifier of the collection\n- **collection_name**: name of the collection\n- **collection_url**: url of the collection\n- **asset_id**: identifier of the asset sold\n- **asset_name**: name of the asset sold\n- **asset_description**: description of the asset sold\n- **asset_contract_date**: the asset contract address creation date\n- **asset_url**: url of the asset sold\n- **asset_image_url**: image url of the asset sold\n- **event_id**: unique identifier of the transaction\n- **event_time**: when the event was recorded\n- **event_auction_type**: auction type\n- **event_contract_address**: the event contract address\n- **event_quantity**: The amount of the item that was sold\n- **event_payment_symbol**: the payment asset used in this transaction, such as ETH, WETH or DAI\n- **event_total_price**: The total price that the asset was bought for\n\nCREDIT: https://opensea.io/",
+  "datasetId": 2041247,
+  "datasetSlug": "nft-historical-sales",
+  "hasDatasetSlug": true,
+  "ownerUser": "francescofalleni",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 4778,
+  "totalVotes": 11,
+  "totalDownloads": 470,
+  "title": "NFT historical sales",
+  "hasTitle": true,
+  "subtitle": "NFT historical sales dataset ",
+  "hasSubtitle": true,
+  "description": "# NFT Historical sales data\nThe dataset consists of opensea NFT sales transactions recorded between 1 February 2021 and 28 February 2021.\ncode used to create the dataset: https://github.com/Checco9811/opensea-api-nft-sales.\n\n## Content\nThe dataset consist of a .csv file with the following attributes:\n- **collections_slug**: unique identifier of the collection\n- **collection_name**: name of the collection\n- **collection_url**: url of the collection\n- **asset_id**: identifier of the asset sold\n- **asset_name**: name of the asset sold\n- **asset_description**: description of the asset sold\n- **asset_contract_date**: the asset contract address creation date\n- **asset_url**: url of the asset sold\n- **asset_image_url**: image url of the asset sold\n- **event_id**: unique identifier of the transaction\n- **event_time**: when the event was recorded\n- **event_auction_type**: auction type\n- **event_contract_address**: the event contract address\n- **event_quantity**: The amount of the item that was sold\n- **event_payment_symbol**: the payment asset used in this transaction, such as ETH, WETH or DAI\n- **event_total_price**: The total price that the asset was bought for\n\nCREDIT: https://opensea.io/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "beginner",
+    "exploratory data analysis",
+    "data visualization",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "shayanriyaz/riceleafs",
+  "id_no": 268405,
+  "datasetSlugNullable": "riceleafs",
+  "ownerUserNullable": "shayanriyaz",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Rice Leafs",
+  "subtitleNullable": "An image collection four rice diseases",
+  "descriptionNullable": "### Context\n\nI found this dataset when it was not uploaded on Kaggle and was scattered across the internet. This dataset is a collection of multiple data sets I found online. The size of this dataset is ~ 7 GB due to the high resolution of images. The number of images in the dataset is\n3355 ```.jpg``` files.\n \n### Content\n\nThe dataset has been divided into two groups, ```train``` and ```validation```.\nInside the two folders are 4 categories of types:\n- BrownSpot \n- Healthy\n- Hispa\n- LeafBlast\n\n**Note:**  The image resolution in the images is not uniform.\n\n### Possible Datasets that can be used alongside\n- [Rice Leaf Disease Dataset by Marsh](https://www.kaggle.com/vbookshelf/rice-leaf-diseases)\n- [Rice Image Dataset by Huy Minh Do](https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset?)\n- [Plant Pathology2020](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/data?)\n\n### Resources:\n[UCI - Rice Disease](https://archive.ics.uci.edu/ml/datasets/Rice+Leaf+Diseases)\n\n",
+  "datasetId": 268405,
+  "datasetSlug": "riceleafs",
+  "hasDatasetSlug": true,
+  "ownerUser": "shayanriyaz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 53004,
+  "totalVotes": 113,
+  "totalDownloads": 8616,
+  "title": "Rice Leafs",
+  "hasTitle": true,
+  "subtitle": "An image collection four rice diseases",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI found this dataset when it was not uploaded on Kaggle and was scattered across the internet. This dataset is a collection of multiple data sets I found online. The size of this dataset is ~ 7 GB due to the high resolution of images. The number of images in the dataset is\n3355 ```.jpg``` files.\n \n### Content\n\nThe dataset has been divided into two groups, ```train``` and ```validation```.\nInside the two folders are 4 categories of types:\n- BrownSpot \n- Healthy\n- Hispa\n- LeafBlast\n\n**Note:**  The image resolution in the images is not uniform.\n\n### Possible Datasets that can be used alongside\n- [Rice Leaf Disease Dataset by Marsh](https://www.kaggle.com/vbookshelf/rice-leaf-diseases)\n- [Rice Image Dataset by Huy Minh Do](https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset?)\n- [Plant Pathology2020](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/data?)\n\n### Resources:\n[UCI - Rice Disease](https://archive.ics.uci.edu/ml/datasets/Rice+Leaf+Diseases)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "plants",
+    "agriculture",
+    "computer science",
+    "computer vision",
+    "classification",
+    "image",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

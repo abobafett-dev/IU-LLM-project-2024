@@ -1,0 +1,43 @@
+{
+  "id": "kanchana1990/air-india-tripadvisor-reviews",
+  "id_no": 4692898,
+  "datasetSlugNullable": "air-india-tripadvisor-reviews",
+  "ownerUserNullable": "kanchana1990",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Air India Tripadvisor Reviews",
+  "subtitleNullable": "Navigating the Skies of Feedback: Insights from Air India TripAdvisor ",
+  "descriptionNullable": "### Dataset Description\n\n#### Overview\nThis dataset, titled \"Air India TripAdvisor Reviews,\" offers a fascinating glimpse into passenger experiences and sentiments regarding Air India flights. It compiles a diverse range of reviews from TripAdvisor, covering various aspects of air travel with India's national carrier. The collection spans multiple reviews, providing a rich tapestry of feedback, from in-flight services to baggage handling and overall customer satisfaction.\n\n#### Data Science Applications\nThe dataset is a goldmine for data scientists and analysts looking to dive into natural language processing (NLP), sentiment analysis, and customer service optimization. By analyzing these reviews, one can develop models to understand customer sentiment trends over time, identify key areas for service improvement, and even predict future customer satisfaction levels based on service changes. It's also perfect for those interested in exploring topic modeling to discover common themes in passenger feedback.\n\n#### Column Descriptors\nThe dataset is structured with the following columns:\n- **published_date**: The date and time the review was published.\n- **rating**: The review rating, indicative of the customer's level of satisfaction.\n- **type**: The type of content, which is predominantly reviews in this dataset.\n- **helpful_votes**: The number of votes indicating the review's helpfulness to others.\n- **title**: The title of the review, summarizing the passenger's experience.\n- **text**: The full text of the review, detailing the passenger's feedback and experiences.\n\n#### Ethical Considerations\nCare has been taken to ethically mine this dataset, ensuring it is free from personal names or any identifiable information. The focus is solely on the content of the reviews, making it a privacy-conscious resource for analysis.\n\n#### Acknowledgments\nA heartfelt thank you to TripAdvisor for being a platform that gathers such valuable customer feedback and to Air India for being the subject of this dataset, allowing insights into the air travel experience they provide. Their contributions are invaluable to data-driven explorations in the travel and hospitality sector.\n\n#### Image Credits\nDataset thumbnail and main image : https://www.moneycontrol.com/news/business/how-air-india-is-forging-an-interconnected-future-with-group-airlines-11426111.html\n\n#### To Data Scientists\nThis dataset provides an excellent opportunity for the data science community to explore and gain insights into the air travel industry, particularly focusing on customer experience with Air India. Whether you're a seasoned data scientist, a student, or a data enthusiast, this dataset offers a wealth of information for analysis, learning, and use the dataset for learning purposes only.\n\n",
+  "datasetId": 4692898,
+  "datasetSlug": "air-india-tripadvisor-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "kanchana1990",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1876,
+  "totalVotes": 37,
+  "totalDownloads": 343,
+  "title": "Air India Tripadvisor Reviews",
+  "hasTitle": true,
+  "subtitle": "Navigating the Skies of Feedback: Insights from Air India TripAdvisor ",
+  "hasSubtitle": true,
+  "description": "### Dataset Description\n\n#### Overview\nThis dataset, titled \"Air India TripAdvisor Reviews,\" offers a fascinating glimpse into passenger experiences and sentiments regarding Air India flights. It compiles a diverse range of reviews from TripAdvisor, covering various aspects of air travel with India's national carrier. The collection spans multiple reviews, providing a rich tapestry of feedback, from in-flight services to baggage handling and overall customer satisfaction.\n\n#### Data Science Applications\nThe dataset is a goldmine for data scientists and analysts looking to dive into natural language processing (NLP), sentiment analysis, and customer service optimization. By analyzing these reviews, one can develop models to understand customer sentiment trends over time, identify key areas for service improvement, and even predict future customer satisfaction levels based on service changes. It's also perfect for those interested in exploring topic modeling to discover common themes in passenger feedback.\n\n#### Column Descriptors\nThe dataset is structured with the following columns:\n- **published_date**: The date and time the review was published.\n- **rating**: The review rating, indicative of the customer's level of satisfaction.\n- **type**: The type of content, which is predominantly reviews in this dataset.\n- **helpful_votes**: The number of votes indicating the review's helpfulness to others.\n- **title**: The title of the review, summarizing the passenger's experience.\n- **text**: The full text of the review, detailing the passenger's feedback and experiences.\n\n#### Ethical Considerations\nCare has been taken to ethically mine this dataset, ensuring it is free from personal names or any identifiable information. The focus is solely on the content of the reviews, making it a privacy-conscious resource for analysis.\n\n#### Acknowledgments\nA heartfelt thank you to TripAdvisor for being a platform that gathers such valuable customer feedback and to Air India for being the subject of this dataset, allowing insights into the air travel experience they provide. Their contributions are invaluable to data-driven explorations in the travel and hospitality sector.\n\n#### Image Credits\nDataset thumbnail and main image : https://www.moneycontrol.com/news/business/how-air-india-is-forging-an-interconnected-future-with-group-airlines-11426111.html\n\n#### To Data Scientists\nThis dataset provides an excellent opportunity for the data science community to explore and gain insights into the air travel industry, particularly focusing on customer experience with Air India. Whether you're a seasoned data scientist, a student, or a data enthusiast, this dataset offers a wealth of information for analysis, learning, and use the dataset for learning purposes only.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "transportation",
+    "ratings and reviews",
+    "travel",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sirsolim/images-of-primitive-3d-objects-for-classification",
+  "id_no": 21587,
+  "datasetSlugNullable": "images-of-primitive-3d-objects-for-classification",
+  "ownerUserNullable": "sirsolim",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Images of primitive 3D objects for classification",
+  "subtitleNullable": "40x40 grayscale images of four distinct primitive three-dimensional shapes",
+  "descriptionNullable": "This is a dataset I created my own using the free software Blender.\n\nIt consists of 480.000 grayscale images of size 40x40 of four distinct primitive three - dimensional shapes (cubes, spheres, cones, torus). The pixel values range from 0 to 255.\n\nThe feature - files should be pretty self - explanatory.\n\nthe label for each image is a four-dimensional, one-hot-vector (cube, sphere, cone, torus).\n\nThe .npy files are not shuffled, meaning that the first 120.000 images are all cubes, followed by 120.000 spheres and so on. they should therefore be shuffled before use. The .csv-files are shuffled already.\n\nIf needed, the dataset can be expanded by cropping, scaling, mirroring etc. the images.\n\nI can add more shapes to the dataset, e.g. cylinders etc. if wanted.\n\nHappy coding everyone :)",
+  "datasetId": 21587,
+  "datasetSlug": "images-of-primitive-3d-objects-for-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "sirsolim",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 8482,
+  "totalVotes": 25,
+  "totalDownloads": 566,
+  "title": "Images of primitive 3D objects for classification",
+  "hasTitle": true,
+  "subtitle": "40x40 grayscale images of four distinct primitive three-dimensional shapes",
+  "hasSubtitle": true,
+  "description": "This is a dataset I created my own using the free software Blender.\n\nIt consists of 480.000 grayscale images of size 40x40 of four distinct primitive three - dimensional shapes (cubes, spheres, cones, torus). The pixel values range from 0 to 255.\n\nThe feature - files should be pretty self - explanatory.\n\nthe label for each image is a four-dimensional, one-hot-vector (cube, sphere, cone, torus).\n\nThe .npy files are not shuffled, meaning that the first 120.000 images are all cubes, followed by 120.000 spheres and so on. they should therefore be shuffled before use. The .csv-files are shuffled already.\n\nIf needed, the dataset can be expanded by cropping, scaling, mirroring etc. the images.\n\nI can add more shapes to the dataset, e.g. cylinders etc. if wanted.\n\nHappy coding everyone :)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "art",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

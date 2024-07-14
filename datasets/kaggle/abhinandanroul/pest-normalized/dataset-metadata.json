@@ -1,0 +1,41 @@
+{
+  "id": "abhinandanroul/pest-normalized",
+  "id_no": 1184525,
+  "datasetSlugNullable": "pest-normalized",
+  "ownerUserNullable": "abhinandanroul",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Pests Identification",
+  "subtitleNullable": "Identify pests from image",
+  "descriptionNullable": "You can use this dataset to build classification models of different pests in agricultural fields. It contains Fruit Piercing Moth, Gall Flies, Locust and Stem Borer. All images are scraped from Google image results on February 28th, 2021.",
+  "datasetId": 1184525,
+  "datasetSlug": "pest-normalized",
+  "hasDatasetSlug": true,
+  "ownerUser": "abhinandanroul",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 5013,
+  "totalVotes": 17,
+  "totalDownloads": 365,
+  "title": "Pests Identification",
+  "hasTitle": true,
+  "subtitle": "Identify pests from image",
+  "hasSubtitle": true,
+  "description": "You can use this dataset to build classification models of different pests in agricultural fields. It contains Fruit Piercing Moth, Gall Flies, Locust and Stem Borer. All images are scraped from Google image results on February 28th, 2021.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "agriculture",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

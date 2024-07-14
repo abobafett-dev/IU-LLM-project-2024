@@ -1,0 +1,41 @@
+{
+  "id": "pstetz/pbs-newshour-transcripts",
+  "id_no": 35660,
+  "datasetSlugNullable": "pbs-newshour-transcripts",
+  "ownerUserNullable": "pstetz",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "PBS Newshour Transcripts",
+  "subtitleNullable": "Transcripts from more than 17,000 news stories",
+  "descriptionNullable": "### Context\n\nPBS Newshour is an American daily news program founded in 1975.  The program spans one hour on the weekdays and 30 minutes on the weekends and it covers domestic and international news.\n\nPBS Newshour is different from other news sources because it is a non-profit supported through limited advertisements and viewer support.\n\n### Data\n\nI scraped this data myself from PBS Newshour's website.  They have an archive of videos that go back to the 1970s and most videos are accompanied by a transcript.  All my code for this project can be found on [Github](https://github.com/pstetz/PBS-Newshour)\n\nI hope to update this dataset quarterly depending on interest.\n\n### Content\n\nIf you're unsure of the dataset feature names, I'd recommend looking at an [example clip](https://www.pbs.org/newshour/show/trump-steps-up-attacks-on-canada-key-ally-and-largest-u-s-export-market) on PBS Newshour's website.\n\nProbably the most confusing feature is `Story`, although this is just the summary of the clip that appears before every transcript.\n\n### MacNeil/Lehrer journalism (PBS Newshour guidelines)\n\nThese guidelines were vocalized by PBS Newshour's founders.  I believe PBS Newshour follows them to a T to this day!\n\n-    \"Do nothing I cannot defend.\"  \n-    \"Cover, write, and present every story with the care I would want if the story were about me.\"  \n-    \"Assume there is at least one other side or version to every story.\"  \n-    \"Assume the viewer is as smart and as caring and as good a person as I am.\"  \n-    \"Assume the same about all people on whom I report.\"  \n-    \"Assume personal lives are a private matter until a legitimate turn in the story absolutely mandates otherwise.\"  \n-    \"Carefully separate opinion and analysis from straight news stories, and clearly label everything.\"  \n-    \"Do not use anonymous sources or blind quotes except on rare and monumental occasions.\"  \n-    \"No one should ever be allowed to attack another anonymously.\"  \n-    \"And finally, I am not in the entertainment business.\"  \n\n### Acknowledgements\n\nThank you to PBS Newshour, my favorite news source!",
+  "datasetId": 35660,
+  "datasetSlug": "pbs-newshour-transcripts",
+  "hasDatasetSlug": true,
+  "ownerUser": "pstetz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 8030,
+  "totalVotes": 17,
+  "totalDownloads": 417,
+  "title": "PBS Newshour Transcripts",
+  "hasTitle": true,
+  "subtitle": "Transcripts from more than 17,000 news stories",
+  "hasSubtitle": true,
+  "description": "### Context\n\nPBS Newshour is an American daily news program founded in 1975.  The program spans one hour on the weekdays and 30 minutes on the weekends and it covers domestic and international news.\n\nPBS Newshour is different from other news sources because it is a non-profit supported through limited advertisements and viewer support.\n\n### Data\n\nI scraped this data myself from PBS Newshour's website.  They have an archive of videos that go back to the 1970s and most videos are accompanied by a transcript.  All my code for this project can be found on [Github](https://github.com/pstetz/PBS-Newshour)\n\nI hope to update this dataset quarterly depending on interest.\n\n### Content\n\nIf you're unsure of the dataset feature names, I'd recommend looking at an [example clip](https://www.pbs.org/newshour/show/trump-steps-up-attacks-on-canada-key-ally-and-largest-u-s-export-market) on PBS Newshour's website.\n\nProbably the most confusing feature is `Story`, although this is just the summary of the clip that appears before every transcript.\n\n### MacNeil/Lehrer journalism (PBS Newshour guidelines)\n\nThese guidelines were vocalized by PBS Newshour's founders.  I believe PBS Newshour follows them to a T to this day!\n\n-    \"Do nothing I cannot defend.\"  \n-    \"Cover, write, and present every story with the care I would want if the story were about me.\"  \n-    \"Assume there is at least one other side or version to every story.\"  \n-    \"Assume the viewer is as smart and as caring and as good a person as I am.\"  \n-    \"Assume the same about all people on whom I report.\"  \n-    \"Assume personal lives are a private matter until a legitimate turn in the story absolutely mandates otherwise.\"  \n-    \"Carefully separate opinion and analysis from straight news stories, and clearly label everything.\"  \n-    \"Do not use anonymous sources or blind quotes except on rare and monumental occasions.\"  \n-    \"No one should ever be allowed to attack another anonymously.\"  \n-    \"And finally, I am not in the entertainment business.\"  \n\n### Acknowledgements\n\nThank you to PBS Newshour, my favorite news source!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "politics",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

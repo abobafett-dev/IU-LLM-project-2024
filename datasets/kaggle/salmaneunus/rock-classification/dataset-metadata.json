@@ -1,0 +1,62 @@
+{
+  "id": "salmaneunus/rock-classification",
+  "id_no": 1293628,
+  "datasetSlugNullable": "rock-classification",
+  "ownerUserNullable": "salmaneunus",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Rock Classification Dataset",
+  "subtitleNullable": "Multi class classification using different types of images of rocks",
+  "descriptionNullable": "### Context\n\nThis dataset is prepared by a team of Brac University Mars Rover Team for the purpose of research of similar rocks identification in a mars-like surface. \n\n\n### Content\n\nIt contains images of rocks of different types.\n\n\n### Acknowledgements\n\nI would like to convey my gratitude to @shahriarhossain, @jukomol  and @rakibulalamnahin  for collecting this dataset\n\n### Inspiration\n\nInspired by the perseverance rover of NASA",
+  "datasetId": 1293628,
+  "datasetSlug": "rock-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "salmaneunus",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 29989,
+  "totalVotes": 71,
+  "totalDownloads": 6040,
+  "title": "Rock Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Multi class classification using different types of images of rocks",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is prepared by a team of Brac University Mars Rover Team for the purpose of research of similar rocks identification in a mars-like surface. \n\n\n### Content\n\nIt contains images of rocks of different types.\n\n\n### Acknowledgements\n\nI would like to convey my gratitude to @shahriarhossain, @jukomol  and @rakibulalamnahin  for collecting this dataset\n\n### Inspiration\n\nInspired by the perseverance rover of NASA",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "asia",
+    "earth and nature",
+    "science and technology",
+    "classification",
+    "image",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "shahriarhossain",
+      "role": "writer"
+    },
+    {
+      "username": "abidmahmoodakash",
+      "role": "writer"
+    },
+    {
+      "username": "jukomol",
+      "role": "writer"
+    },
+    {
+      "username": "rakibulalamnahin",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

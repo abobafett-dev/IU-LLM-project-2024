@@ -1,0 +1,44 @@
+{
+  "id": "shivamardeshna/fruits-dataset",
+  "id_no": 4664354,
+  "datasetSlugNullable": "fruits-dataset",
+  "ownerUserNullable": "shivamardeshna",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Fruits Dataset",
+  "subtitleNullable": "Exploring 3 Popular Fruits With two Categories Fresh and Rotten",
+  "descriptionNullable": "The dataset comprises images of three types of fruits: apples, oranges, and bananas. Each fruit category is organized into separate folders denoting freshness status, with distinct subfolders for fresh and rotten specimens. The dataset is divided into three partitions: training, testing, and validation. The training partition contains labeled images for model training, while the testing partition serves for evaluating model performance on unseen data. The validation partition is used for fine-tuning model hyperparameters and monitoring training progress. Each image is labeled according to its fruit type and freshness state, enabling supervised learning tasks such as classification or object detection. The dataset's structure facilitates robust model development and evaluation for tasks related to fruit quality assessment or sorting.",
+  "datasetId": 4664354,
+  "datasetSlug": "fruits-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivamardeshna",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 2372,
+  "totalVotes": 9,
+  "totalDownloads": 231,
+  "title": "Fruits Dataset",
+  "hasTitle": true,
+  "subtitle": "Exploring 3 Popular Fruits With two Categories Fresh and Rotten",
+  "hasSubtitle": true,
+  "description": "The dataset comprises images of three types of fruits: apples, oranges, and bananas. Each fruit category is organized into separate folders denoting freshness status, with distinct subfolders for fresh and rotten specimens. The dataset is divided into three partitions: training, testing, and validation. The training partition contains labeled images for model training, while the testing partition serves for evaluating model performance on unseen data. The validation partition is used for fine-tuning model hyperparameters and monitoring training progress. Each image is labeled according to its fruit type and freshness state, enabling supervised learning tasks such as classification or object detection. The dataset's structure facilitates robust model development and evaluation for tasks related to fruit quality assessment or sorting.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "deep learning",
+    "image",
+    "food",
+    "feature extraction",
+    "image augmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

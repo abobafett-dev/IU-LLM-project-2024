@@ -1,0 +1,43 @@
+{
+  "id": "kentvejrupmadsen/tmod-dataset",
+  "id_no": 3882553,
+  "datasetSlugNullable": "tmod-dataset",
+  "ownerUserNullable": "kentvejrupmadsen",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "TMOD DataSet",
+  "subtitleNullable": "Tracking Madsen (& Other Dogs)",
+  "descriptionNullable": "Tracking Madsen and Other Dogs (or TMOD), is a dataset with footage of primary a Danish\u2013Swedish Farmdog including other dogs. The dataset as a whole can be used to help with identifying dogs in images with bounding boxes. ([object detection technology](https://keras.io/guides/keras_cv/object_detection_keras_cv/)) \n\n**In short**:\n* The dataset is about 10000 images and annotations in total for now and only dogs are annotated.\n* Images are in original size.\n* Annotations are in the Pascal VOC format which make use of XML as a file format.\n\n**Annotations**:\n1. Dogs",
+  "datasetId": 3882553,
+  "datasetSlug": "tmod-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kentvejrupmadsen",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 64,
+  "totalVotes": 0,
+  "totalDownloads": 9,
+  "title": "TMOD DataSet",
+  "hasTitle": true,
+  "subtitle": "Tracking Madsen (& Other Dogs)",
+  "hasSubtitle": true,
+  "description": "Tracking Madsen and Other Dogs (or TMOD), is a dataset with footage of primary a Danish\u2013Swedish Farmdog including other dogs. The dataset as a whole can be used to help with identifying dogs in images with bounding boxes. ([object detection technology](https://keras.io/guides/keras_cv/object_detection_keras_cv/)) \n\n**In short**:\n* The dataset is about 10000 images and annotations in total for now and only dogs are annotated.\n* Images are in original size.\n* Annotations are in the Pascal VOC format which make use of XML as a file format.\n\n**Annotations**:\n1. Dogs",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "europe",
+    "animals",
+    "image",
+    "text",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

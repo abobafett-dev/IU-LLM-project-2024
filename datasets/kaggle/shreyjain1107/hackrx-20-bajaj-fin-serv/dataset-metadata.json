@@ -1,0 +1,46 @@
+{
+  "id": "shreyjain1107/hackrx-20-bajaj-fin-serv",
+  "id_no": 1494801,
+  "datasetSlugNullable": "hackrx-20-bajaj-fin-serv",
+  "ownerUserNullable": "shreyjain1107",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "HackRx 2.0 Bajaj Fin Serv",
+  "subtitleNullable": "(Social) Content: Re-defining search and recommendation engine for a website",
+  "descriptionNullable": "### Context\n\nThis data is scraped from Bajaj Finserv website which contains lots of articles and blogs and product information regarding financial products like various kinds of insurance, loans, EMIs etc. \n\n### Content\n\nThe data that we have scraped and presented is as follows -\nAll the paragraph and text that has been scraped are added in the file paras-and-lines-website-scraped.csv.\nAll the tweets that were scraped are added in another CSV file. \nAll the URLs of the blog webpages present in the website are present in another CSV file. \n\n### Acknowledgements\n\nWe would like to thank Bajaj Finserv for providing the data for our research.  \n\n### Inspiration\n\nUsing this large corpus of text on a specific domain i.e. financial products, we are trying to create a recommendation system that recommends the web pages that are most closely related to a keyword search.  ",
+  "datasetId": 1494801,
+  "datasetSlug": "hackrx-20-bajaj-fin-serv",
+  "hasDatasetSlug": true,
+  "ownerUser": "shreyjain1107",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 1974,
+  "totalVotes": 1,
+  "totalDownloads": 40,
+  "title": "HackRx 2.0 Bajaj Fin Serv",
+  "hasTitle": true,
+  "subtitle": "(Social) Content: Re-defining search and recommendation engine for a website",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data is scraped from Bajaj Finserv website which contains lots of articles and blogs and product information regarding financial products like various kinds of insurance, loans, EMIs etc. \n\n### Content\n\nThe data that we have scraped and presented is as follows -\nAll the paragraph and text that has been scraped are added in the file paras-and-lines-website-scraped.csv.\nAll the tweets that were scraped are added in another CSV file. \nAll the URLs of the blog webpages present in the website are present in another CSV file. \n\n### Acknowledgements\n\nWe would like to thank Bajaj Finserv for providing the data for our research.  \n\n### Inspiration\n\nUsing this large corpus of text on a specific domain i.e. financial products, we are trying to create a recommendation system that recommends the web pages that are most closely related to a keyword search.  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "search engines",
+    "intermediate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "umus123",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

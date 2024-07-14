@@ -1,0 +1,44 @@
+{
+  "id": "azminetoushikwasi/aqi-air-quality-index-scheduled-daily-update",
+  "id_no": 2354989,
+  "datasetSlugNullable": "aqi-air-quality-index-scheduled-daily-update",
+  "ownerUserNullable": "azminetoushikwasi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "AQI - Air Quality Index",
+  "subtitleNullable": "Country wise Daily AQI - Air Quality Index ",
+  "descriptionNullable": "# Context\nThis dataset contains Air Quality Index of most the countries of the world.\n\n# Challenges\n- Time Series Analysis and Prediction\n- Seasonality finding\n- Geospatial Analysis\n\n# About  Air Quality Index (AQI\nThe Air Quality Index (AQI) is used for reporting daily air quality. It tells you how clean or polluted your air is, and what associated health effects might be a concern for you. The AQI focuses on health effects you may experience within a few hours or days after breathing polluted air.\n\n[![air-quality-index-numerical-scale-vector-24061819.jpg](https://i.postimg.cc/kgRWWChK/air-quality-index-numerical-scale-vector-24061819.jpg)](https://postimg.cc/tsy1HKb4)\n\n# Content\n- **data_date.csv** - date wise organised\n\n# Related Notebooks\n- [**AQI- Air Quality Index : EDA, Forecast [Scheduled]**](https://www.kaggle.com/azminetoushikwasi/aqi-air-quality-index-eda-forecast-scheduled/)\n\n\n# Download\n- kaggle API Command\n`!kaggle datasets download -d azminetoushikwasi/aqi-air-quality-index-scheduled-daily-update`\n\n## Disclaimer\n- The data collected are all publicly available and it's intended for educational purposes only.\n\n## Acknowledgement\n- Cover image taken from internet.\n\n## Appreciate, Support, Share",
+  "datasetId": 2354989,
+  "datasetSlug": "aqi-air-quality-index-scheduled-daily-update",
+  "hasDatasetSlug": true,
+  "ownerUser": "azminetoushikwasi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 29899,
+  "totalVotes": 76,
+  "totalDownloads": 5174,
+  "title": "AQI - Air Quality Index",
+  "hasTitle": true,
+  "subtitle": "Country wise Daily AQI - Air Quality Index ",
+  "hasSubtitle": true,
+  "description": "# Context\nThis dataset contains Air Quality Index of most the countries of the world.\n\n# Challenges\n- Time Series Analysis and Prediction\n- Seasonality finding\n- Geospatial Analysis\n\n# About  Air Quality Index (AQI\nThe Air Quality Index (AQI) is used for reporting daily air quality. It tells you how clean or polluted your air is, and what associated health effects might be a concern for you. The AQI focuses on health effects you may experience within a few hours or days after breathing polluted air.\n\n[![air-quality-index-numerical-scale-vector-24061819.jpg](https://i.postimg.cc/kgRWWChK/air-quality-index-numerical-scale-vector-24061819.jpg)](https://postimg.cc/tsy1HKb4)\n\n# Content\n- **data_date.csv** - date wise organised\n\n# Related Notebooks\n- [**AQI- Air Quality Index : EDA, Forecast [Scheduled]**](https://www.kaggle.com/azminetoushikwasi/aqi-air-quality-index-eda-forecast-scheduled/)\n\n\n# Download\n- kaggle API Command\n`!kaggle datasets download -d azminetoushikwasi/aqi-air-quality-index-scheduled-daily-update`\n\n## Disclaimer\n- The data collected are all publicly available and it's intended for educational purposes only.\n\n## Acknowledgement\n- Cover image taken from internet.\n\n## Appreciate, Support, Share",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "environment",
+    "pollution",
+    "computer science",
+    "geospatial analysis",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

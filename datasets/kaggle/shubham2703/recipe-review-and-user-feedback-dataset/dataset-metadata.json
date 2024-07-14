@@ -1,0 +1,40 @@
+{
+  "id": "shubham2703/recipe-review-and-user-feedback-dataset",
+  "id_no": 4304416,
+  "datasetSlugNullable": "recipe-review-and-user-feedback-dataset",
+  "ownerUserNullable": "shubham2703",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "User Recipe Rating",
+  "subtitleNullable": "Unveiling Culinary Insights: Exploring Recipe Reviews and User Interactions",
+  "descriptionNullable": "\ud83c\udf1f **User Recipe Rating Dataset Overview** \ud83c\udf1f\n\nThe \"User Recipe Rating\" is a comprehensive repository of data encompassing various aspects of recipe reviews and user interactions. It includes essential information such as:\n\n- Recipe name \ud83c\udf72\n- Ranking on the top 100 recipes list \ud83c\udfc6\n- Unique recipe code \ud83c\udd94\n- User details:\n  - User ID \ud83d\udc64\n  - User name \ud83e\uddd1\u200d\ud83c\udf73\n  - Internal user reputation score \u2b50\n\nEach review comment is uniquely identified with a comment ID and comes with additional attributes, including:\n\n- Creation timestamp \ud83d\udd52\n- Reply count \ud83d\udcac\n- Number of up-votes and down-votes received \ud83d\udc4d\ud83d\udc4e\n\nUsers' sentiment towards recipes is quantified on a 1 to 5-star rating scale, with a score of 0 denoting an absence of rating. This dataset is a valuable resource for researchers and data scientists, facilitating endeavors in:\n\n- Sentiment analysis \ud83d\udcca\n- User behavior analysis \ud83e\udd14\n- Recipe recommendation systems \ud83c\udf7d\ufe0f\n- And more! \ud83d\ude80\n\nIt offers a window into the dynamics of recipe reviews and user feedback within the culinary website domain. \ud83c\udf10",
+  "datasetId": 4304416,
+  "datasetSlug": "recipe-review-and-user-feedback-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shubham2703",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 527,
+  "totalVotes": 10,
+  "totalDownloads": 48,
+  "title": "User Recipe Rating",
+  "hasTitle": true,
+  "subtitle": "Unveiling Culinary Insights: Exploring Recipe Reviews and User Interactions",
+  "hasSubtitle": true,
+  "description": "\ud83c\udf1f **User Recipe Rating Dataset Overview** \ud83c\udf1f\n\nThe \"User Recipe Rating\" is a comprehensive repository of data encompassing various aspects of recipe reviews and user interactions. It includes essential information such as:\n\n- Recipe name \ud83c\udf72\n- Ranking on the top 100 recipes list \ud83c\udfc6\n- Unique recipe code \ud83c\udd94\n- User details:\n  - User ID \ud83d\udc64\n  - User name \ud83e\uddd1\u200d\ud83c\udf73\n  - Internal user reputation score \u2b50\n\nEach review comment is uniquely identified with a comment ID and comes with additional attributes, including:\n\n- Creation timestamp \ud83d\udd52\n- Reply count \ud83d\udcac\n- Number of up-votes and down-votes received \ud83d\udc4d\ud83d\udc4e\n\nUsers' sentiment towards recipes is quantified on a 1 to 5-star rating scale, with a score of 0 denoting an absence of rating. This dataset is a valuable resource for researchers and data scientists, facilitating endeavors in:\n\n- Sentiment analysis \ud83d\udcca\n- User behavior analysis \ud83e\udd14\n- Recipe recommendation systems \ud83c\udf7d\ufe0f\n- And more! \ud83d\ude80\n\nIt offers a window into the dynamics of recipe reviews and user feedback within the culinary website domain. \ud83c\udf10",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cooking and recipes",
+    "text classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "humairmunir/gender-recognizer",
+  "id_no": 5328253,
+  "datasetSlugNullable": "gender-recognizer",
+  "ownerUserNullable": "humairmunir",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Gender Recognizer",
+  "subtitleNullable": "Face Recognition : Male & Female Faces Dataset",
+  "descriptionNullable": "****Gender Recognition: Male and Female Images****\n\nThis comprehensive dataset is designed for gender recognition tasks and consists of a wide variety of male and female images collected from public resources. It includes:\n\n**Diverse Age Groups**: Images of individuals from various age groups to ensure a broad representation.\n**Different Ethnicities**: A mix of ethnic backgrounds to support the development of inclusive and generalizable models.\n**Variety of Environments**: Photos taken in diverse settings, including indoor and outdoor locations, to add realism and variability.\n**Multiple Angles and Expressions**: Images capturing different facial angles and expressions to challenge and enhance model robustness.\nThis dataset is ideal for training and evaluating machine learning models aimed at gender classification. Each image is labeled as either 'Male' or 'Female' to facilitate supervised learning tasks.\n\n*****Usage****:\n***Gender Recognition***: Develop models to classify gender based on facial features.\n***Transfer Learning***: Fine-tune pre-trained models on this dataset for gender recognition.\n***Research and Development***: Use the dataset for academic and commercial research to explore gender classification techniques and improve algorithm performance.\n****Data Collection****:\nThe images in this dataset were gathered from publicly available resources, ensuring a rich and diverse set of examples for robust model training and evaluation. Proper permissions and usage rights were considered in the compilation of this dataset.",
+  "datasetId": 5328253,
+  "datasetSlug": "gender-recognizer",
+  "hasDatasetSlug": true,
+  "ownerUser": "humairmunir",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 8,
+  "totalVotes": 2,
+  "totalDownloads": 0,
+  "title": "Gender Recognizer",
+  "hasTitle": true,
+  "subtitle": "Face Recognition : Male & Female Faces Dataset",
+  "hasSubtitle": true,
+  "description": "****Gender Recognition: Male and Female Images****\n\nThis comprehensive dataset is designed for gender recognition tasks and consists of a wide variety of male and female images collected from public resources. It includes:\n\n**Diverse Age Groups**: Images of individuals from various age groups to ensure a broad representation.\n**Different Ethnicities**: A mix of ethnic backgrounds to support the development of inclusive and generalizable models.\n**Variety of Environments**: Photos taken in diverse settings, including indoor and outdoor locations, to add realism and variability.\n**Multiple Angles and Expressions**: Images capturing different facial angles and expressions to challenge and enhance model robustness.\nThis dataset is ideal for training and evaluating machine learning models aimed at gender classification. Each image is labeled as either 'Male' or 'Female' to facilitate supervised learning tasks.\n\n*****Usage****:\n***Gender Recognition***: Develop models to classify gender based on facial features.\n***Transfer Learning***: Fine-tune pre-trained models on this dataset for gender recognition.\n***Research and Development***: Use the dataset for academic and commercial research to explore gender classification techniques and improve algorithm performance.\n****Data Collection****:\nThe images in this dataset were gathered from publicly available resources, ensuring a rich and diverse set of examples for robust model training and evaluation. Proper permissions and usage rights were considered in the compilation of this dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

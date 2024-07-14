@@ -1,0 +1,44 @@
+{
+  "id": "balabaskar/us-dollar-index-data",
+  "id_no": 1811485,
+  "datasetSlugNullable": "us-dollar-index-data",
+  "ownerUserNullable": "balabaskar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "US Dollar Index data - 2001 to 2022 YTD",
+  "subtitleNullable": "Historical data of US Dollar Index listed in NYSE (2001 - 2022 YTD)",
+  "descriptionNullable": "### Context\n\nUS Dollar Index is an index of the value of the US dollar relative to a basket of foreign currencies. The Index goes up when the U.S. dollar gains strength (value) when compared to other currencies.\n\nIt is a weighted geometric mean of the dollar's value relative to the following select currencies:\n\nEuro (EUR),  57.6% weight\nJapanese yen (JPY) 13.6% weight\nPound sterling (GBP), 11.9% weight\nCanadian dollar (CAD), 9.1% weight\nSwedish krona (SEK), 4.2% weight\nSwiss franc (CHF) 3.6% weight\n\nReference - Wikipedia\n\n### Content\n\nThis data contains historical index value since 2001 till date, which helps to analyze the strength pattern of the US dollar against its trading currencies. \n\n### Inspiration\n\n1. Is there seasonality in this data of US dollar value?\n2. How the US dollar index valued during the recession/during lockdown and later recovery phase?",
+  "datasetId": 1811485,
+  "datasetSlug": "us-dollar-index-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "balabaskar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6644,
+  "totalVotes": 46,
+  "totalDownloads": 650,
+  "title": "US Dollar Index data - 2001 to 2022 YTD",
+  "hasTitle": true,
+  "subtitle": "Historical data of US Dollar Index listed in NYSE (2001 - 2022 YTD)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nUS Dollar Index is an index of the value of the US dollar relative to a basket of foreign currencies. The Index goes up when the U.S. dollar gains strength (value) when compared to other currencies.\n\nIt is a weighted geometric mean of the dollar's value relative to the following select currencies:\n\nEuro (EUR),  57.6% weight\nJapanese yen (JPY) 13.6% weight\nPound sterling (GBP), 11.9% weight\nCanadian dollar (CAD), 9.1% weight\nSwedish krona (SEK), 4.2% weight\nSwiss franc (CHF) 3.6% weight\n\nReference - Wikipedia\n\n### Content\n\nThis data contains historical index value since 2001 till date, which helps to analyze the strength pattern of the US dollar against its trading currencies. \n\n### Inspiration\n\n1. Is there seasonality in this data of US dollar value?\n2. How the US dollar index valued during the recession/during lockdown and later recovery phase?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "computer science",
+    "exploratory data analysis",
+    "time series analysis",
+    "investing",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "alod83/us-natural-gas-price-vs-climate-extremes-index",
+  "id_no": 2178817,
+  "datasetSlugNullable": "us-natural-gas-price-vs-climate-extremes-index",
+  "ownerUserNullable": "alod83",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "U.S. Natural Gas Price VS Climate Extremes Index",
+  "subtitleNullable": "Data extracted from Europeana through Versatile Data Kit",
+  "descriptionNullable": "# About Dataset\n\n## Context\nThe datasets have been extracted and cleaned through Versatile Data Kit (VDK), a framework released by VMware. You can find the whole example to extract data at [this link](https://github.com/vmware/versatile-data-kit/tree/main/examples/energy).\nVDK permits you to ingest and process different formats of data. In this case, data have been ingested by exploiting the CSV ingester.\n\n## Content\nThere are four datasets: \n* natural_gas_prices.csv - The Natural Gas Prices dataset contains 5,953 records, provided by the U.S. Energy Information Administration(EIA). Each record contains the daily price of natural gas. For each record, the following information is available: Date (provided on a daily basis), Price (in dollars).\n* climate_extreme_index.csv - The U.S. Climate Extremes Index dataset contains 112 records. For each record, many parameters can be downloaded. Data Analysts select the following information: Date (provided on an annual basis), Percentage of minimum temperature much above normal, Percentage of minimum temperature much below normal.\n* average_gas_prices_by_year.csv - an aggregation of the natural_gas_prices by year.\n* merged_tables.csv - a merged table containing average_gas_prices_by_year and climate_extremes_index. Values are normalized in the interval [0,1] thus making possible a comparison among them.\n\n## Acknowledgements\nThe extraction of this dataset has been supported by VMware.\n\n## Inspiration\nThe datasets can be used for Time Series Analysis.",
+  "datasetId": 2178817,
+  "datasetSlug": "us-natural-gas-price-vs-climate-extremes-index",
+  "hasDatasetSlug": true,
+  "ownerUser": "alod83",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 1332,
+  "totalVotes": 3,
+  "totalDownloads": 29,
+  "title": "U.S. Natural Gas Price VS Climate Extremes Index",
+  "hasTitle": true,
+  "subtitle": "Data extracted from Europeana through Versatile Data Kit",
+  "hasSubtitle": true,
+  "description": "# About Dataset\n\n## Context\nThe datasets have been extracted and cleaned through Versatile Data Kit (VDK), a framework released by VMware. You can find the whole example to extract data at [this link](https://github.com/vmware/versatile-data-kit/tree/main/examples/energy).\nVDK permits you to ingest and process different formats of data. In this case, data have been ingested by exploiting the CSV ingester.\n\n## Content\nThere are four datasets: \n* natural_gas_prices.csv - The Natural Gas Prices dataset contains 5,953 records, provided by the U.S. Energy Information Administration(EIA). Each record contains the daily price of natural gas. For each record, the following information is available: Date (provided on a daily basis), Price (in dollars).\n* climate_extreme_index.csv - The U.S. Climate Extremes Index dataset contains 112 records. For each record, many parameters can be downloaded. Data Analysts select the following information: Date (provided on an annual basis), Percentage of minimum temperature much above normal, Percentage of minimum temperature much below normal.\n* average_gas_prices_by_year.csv - an aggregation of the natural_gas_prices by year.\n* merged_tables.csv - a merged table containing average_gas_prices_by_year and climate_extremes_index. Values are normalized in the interval [0,1] thus making possible a comparison among them.\n\n## Acknowledgements\nThe extraction of this dataset has been supported by VMware.\n\n## Inspiration\nThe datasets can be used for Time Series Analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "north america",
+    "business",
+    "energy",
+    "beginner",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

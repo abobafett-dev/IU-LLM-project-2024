@@ -1,0 +1,43 @@
+{
+  "id": "denizbilginn/tv-shows",
+  "id_no": 4336251,
+  "datasetSlugNullable": "tv-shows",
+  "ownerUserNullable": "denizbilginn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "TV Shows",
+  "subtitleNullable": "A full, 3NF database that about current TV Shows (Approximately 160K Shows)",
+  "descriptionNullable": "Welcome to TV Shows database, the database includes information of approximately **160K shows**. The data of the database is **updated** in **Jan 2024**.\n\nI carefully pre-processed the database as *3NF*. I gather the dataset from Asaniczka's dataset and the I pre-processed it.\nhttps://www.kaggle.com/datasets/asaniczka/full-tmdb-tv-shows-dataset-2023-150k-shows\n\nYou can use this database to research **human taste tendencies**, **AI applications** and more...\n\nThere is a ER diagram, you can use **forward checking** to create whole database clearly. The ER diagram created in **MySQL**. After creating the database, you can upload CSV tables to the SQL tables.\n\n#### Interesting Task Ideas:\n1. Explore trends in TV show popularity based on vote count and average.\n2. Analyze TV show genres to identify the most popular genres or combinations of genres.\n3. Investigate the relationship between TV show ratings and the number of seasons and episodes.\n4. Build a recommendation system that suggests TV shows based on a user's favorite genres or languages.\n5. Predict the success of a TV show based on features like vote count, average, and popularity.\n6. Identify the most prolific TV show creators or production companies based on the number of shows they have created.\n7. Explore the distribution of TV show run times and investigate whether episode duration affects the overall ratings.\n8. Investigate TV show production trends across different countries and networks.\n9. Analyze the relationship between TV show language and popularity, and investigate the popularity of non-English shows.\n10. Track the status of TV shows (in production or not) and analyze their popularity over time.\n11. Develop a language analysis model to identify sentiment or themes from TV show overviews.\n\nPlease feel free to ask any questions about the data in the discussion section.",
+  "datasetId": 4336251,
+  "datasetSlug": "tv-shows",
+  "hasDatasetSlug": true,
+  "ownerUser": "denizbilginn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10865,
+  "totalVotes": 42,
+  "totalDownloads": 2122,
+  "title": "TV Shows",
+  "hasTitle": true,
+  "subtitle": "A full, 3NF database that about current TV Shows (Approximately 160K Shows)",
+  "hasSubtitle": true,
+  "description": "Welcome to TV Shows database, the database includes information of approximately **160K shows**. The data of the database is **updated** in **Jan 2024**.\n\nI carefully pre-processed the database as *3NF*. I gather the dataset from Asaniczka's dataset and the I pre-processed it.\nhttps://www.kaggle.com/datasets/asaniczka/full-tmdb-tv-shows-dataset-2023-150k-shows\n\nYou can use this database to research **human taste tendencies**, **AI applications** and more...\n\nThere is a ER diagram, you can use **forward checking** to create whole database clearly. The ER diagram created in **MySQL**. After creating the database, you can upload CSV tables to the SQL tables.\n\n#### Interesting Task Ideas:\n1. Explore trends in TV show popularity based on vote count and average.\n2. Analyze TV show genres to identify the most popular genres or combinations of genres.\n3. Investigate the relationship between TV show ratings and the number of seasons and episodes.\n4. Build a recommendation system that suggests TV shows based on a user's favorite genres or languages.\n5. Predict the success of a TV show based on features like vote count, average, and popularity.\n6. Identify the most prolific TV show creators or production companies based on the number of shows they have created.\n7. Explore the distribution of TV show run times and investigate whether episode duration affects the overall ratings.\n8. Investigate TV show production trends across different countries and networks.\n9. Analyze the relationship between TV show language and popularity, and investigate the popularity of non-English shows.\n10. Track the status of TV shows (in production or not) and analyze their popularity over time.\n11. Develop a language analysis model to identify sentiment or themes from TV show overviews.\n\nPlease feel free to ask any questions about the data in the discussion section.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "movies and tv shows",
+    "artificial intelligence",
+    "data analytics",
+    "text segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Public Domain Dedication and Licence (PDDL)",
+      "name": "ODC Public Domain Dedication and Licence (PDDL)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

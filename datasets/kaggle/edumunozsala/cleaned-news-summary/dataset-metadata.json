@@ -1,0 +1,40 @@
+{
+  "id": "edumunozsala/cleaned-news-summary",
+  "id_no": 658732,
+  "datasetSlugNullable": "cleaned-news-summary",
+  "ownerUserNullable": "edumunozsala",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Cleaned News summary",
+  "subtitleNullable": "Cleaned version of the dataset News Summary",
+  "descriptionNullable": "### Content\nThis dataset is an extension of the dataset News Summary by Kondalarao Vonteru.\n\nContains about 98,000 news and their summary, cleaned and preprocessed. The cleaning actions applied are:\n- Remove URLs, htmls tags, emojis\n- Expand common contractions\n- Expand some Slang abbrevation\n- Remove punctuation (except . ) non-characters, break line, hashtags\n- Remove mentions @\n- Remove stop words\n\n### Acknowledgements\n\nThanks to Kondalarao Vonteru for providing us with the original dataset.\n",
+  "datasetId": 658732,
+  "datasetSlug": "cleaned-news-summary",
+  "hasDatasetSlug": true,
+  "ownerUser": "edumunozsala",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 2789,
+  "totalVotes": 1,
+  "totalDownloads": 305,
+  "title": "Cleaned News summary",
+  "hasTitle": true,
+  "subtitle": "Cleaned version of the dataset News Summary",
+  "hasSubtitle": true,
+  "description": "### Content\nThis dataset is an extension of the dataset News Summary by Kondalarao Vonteru.\n\nContains about 98,000 news and their summary, cleaned and preprocessed. The cleaning actions applied are:\n- Remove URLs, htmls tags, emojis\n- Expand common contractions\n- Expand some Slang abbrevation\n- Remove punctuation (except . ) non-characters, break line, hashtags\n- Remove mentions @\n- Remove stop words\n\n### Acknowledgements\n\nThanks to Kondalarao Vonteru for providing us with the original dataset.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sdawar/top-25-economies-leading-cause-of-dalys-death",
+  "id_no": 1288041,
+  "datasetSlugNullable": "top-25-economies-leading-cause-of-dalys-death",
+  "ownerUserNullable": "sdawar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "WHO Data: Leading cause of DALYs & Death",
+  "subtitleNullable": "WHO data: leading cause of disability-adjusted life year (DALY) & Death",
+  "descriptionNullable": "### Context\n\n[Top 25 Economies 2021](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)) latest country-level estimates of cause-specific disability-adjusted life year (DALYs), and Deaths for the year 2000, 2010, 2015 and 2019 from World Health Organization.\n\n\n### Content\n\nThis dataset from World Health Organization contains The latest country-level estimates of cause-specific disability-adjusted life year (DALYs), and Deaths for the year 2000, 2010, 2015 and 2019 from World Health Organization.\n\nThe burden of disease is calculated using the disability-adjusted life year (DALY). One DALY represents the loss of the equivalent of one year of full health. DALYs for a disease or health condition are the sum of years of life lost due to premature mortality (YLLs) and years of healthy life lost due to disability (YLDs) due to prevalent cases of the disease or health condition in a population.\n\nI have used a web scraper to scrape the data from WHO site. The original dataset had data for more than 180 countries, but due to memory restrictions, I have downloaded the dataset for the worlds [Top 25 Economies 2021.](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal))\n\nFollowing are the columns in the dataset:\n\n- COUNTRY_CODE : The [ISO 3166-1 alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) country code\n- COUNTRY : The country name\n- GHE\\_CAUSE\\_CODE : Code for the condition/disease\n- GHE\\_CAUSE\\_TYPE : Type of the disease/condition\n- GHE\\_CAUSE\\_TITLE : Title for the condition/disease\n- YEAR : Reporting year\n- SEX_CODE : Sex of the population for the corresponding age group for the reporting year\n- AGEGROUP_CODE : Age group of the population for the corresponding sex for the reporting year\n- POPULATION : Total number of people in corresponding age group and sex for the reporting year\n- DEATHS :  Total deaths occurred within the corresponding age group and sex for the reporting year due to the corresponding condition/disease\n- DEATHS_RATE : Death rate corresponding to the POPULATION due to the corresponding condition/disease\n- DEATHS_100K :  Death rate per 100K POPULATION due to the corresponding condition/disease\n- DALY : DALY value within the corresponding age group and sex for the reporting year due to the corresponding condition/disease\n- DALY_RATE : DALY rate corresponding to the POPULATION due to the corresponding condition/disease\n- DALY_100K : DALY rate per 100K POPULATION due to the corresponding condition/disease\n\n### Acknowledgements\n\nThis dataset and further information on the topic can be found at [WHO website.](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/global-health-estimates-leading-causes-of-dalys)\n\n\n### Inspiration\n\nThe goal is to analyze and interpret the results across multiple variables and find interesting observations, co-relations or patterns.",
+  "datasetId": 1288041,
+  "datasetSlug": "top-25-economies-leading-cause-of-dalys-death",
+  "hasDatasetSlug": true,
+  "ownerUser": "sdawar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5638,
+  "totalVotes": 6,
+  "totalDownloads": 427,
+  "title": "WHO Data: Leading cause of DALYs & Death",
+  "hasTitle": true,
+  "subtitle": "WHO data: leading cause of disability-adjusted life year (DALY) & Death",
+  "hasSubtitle": true,
+  "description": "### Context\n\n[Top 25 Economies 2021](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)) latest country-level estimates of cause-specific disability-adjusted life year (DALYs), and Deaths for the year 2000, 2010, 2015 and 2019 from World Health Organization.\n\n\n### Content\n\nThis dataset from World Health Organization contains The latest country-level estimates of cause-specific disability-adjusted life year (DALYs), and Deaths for the year 2000, 2010, 2015 and 2019 from World Health Organization.\n\nThe burden of disease is calculated using the disability-adjusted life year (DALY). One DALY represents the loss of the equivalent of one year of full health. DALYs for a disease or health condition are the sum of years of life lost due to premature mortality (YLLs) and years of healthy life lost due to disability (YLDs) due to prevalent cases of the disease or health condition in a population.\n\nI have used a web scraper to scrape the data from WHO site. The original dataset had data for more than 180 countries, but due to memory restrictions, I have downloaded the dataset for the worlds [Top 25 Economies 2021.](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal))\n\nFollowing are the columns in the dataset:\n\n- COUNTRY_CODE : The [ISO 3166-1 alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) country code\n- COUNTRY : The country name\n- GHE\\_CAUSE\\_CODE : Code for the condition/disease\n- GHE\\_CAUSE\\_TYPE : Type of the disease/condition\n- GHE\\_CAUSE\\_TITLE : Title for the condition/disease\n- YEAR : Reporting year\n- SEX_CODE : Sex of the population for the corresponding age group for the reporting year\n- AGEGROUP_CODE : Age group of the population for the corresponding sex for the reporting year\n- POPULATION : Total number of people in corresponding age group and sex for the reporting year\n- DEATHS :  Total deaths occurred within the corresponding age group and sex for the reporting year due to the corresponding condition/disease\n- DEATHS_RATE : Death rate corresponding to the POPULATION due to the corresponding condition/disease\n- DEATHS_100K :  Death rate per 100K POPULATION due to the corresponding condition/disease\n- DALY : DALY value within the corresponding age group and sex for the reporting year due to the corresponding condition/disease\n- DALY_RATE : DALY rate corresponding to the POPULATION due to the corresponding condition/disease\n- DALY_100K : DALY rate per 100K POPULATION due to the corresponding condition/disease\n\n### Acknowledgements\n\nThis dataset and further information on the topic can be found at [WHO website.](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/global-health-estimates-leading-causes-of-dalys)\n\n\n### Inspiration\n\nThe goal is to analyze and interpret the results across multiple variables and find interesting observations, co-relations or patterns.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "exploratory data analysis",
+    "data visualization",
+    "time series analysis",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

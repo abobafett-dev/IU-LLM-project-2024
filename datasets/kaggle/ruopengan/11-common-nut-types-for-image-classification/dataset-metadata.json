@@ -1,0 +1,43 @@
+{
+  "id": "ruopengan/11-common-nut-types-for-image-classification",
+  "id_no": 2330904,
+  "datasetSlugNullable": "11-common-nut-types-for-image-classification",
+  "ownerUserNullable": "ruopengan",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "11 Common Nut Types For Image Classification",
+  "subtitleNullable": "We Got Nuts! Use Deep Neural Networks to Classify Images of Common Edible Nuts",
+  "descriptionNullable": "Background: Nuts are nutrient-dense foods that contribute to healthier eating. Food image datasets enable artificial intelligence (AI) powered diet-tracking apps to help people monitor daily eating patterns.\n\nAim: This study aimed to create an image dataset of commonly consumed nut types and use it to build an AI computer vision model to automate nut type classification tasks.\n\nMethods: iPhone 11 was used to take photos of 11 nut types\u2014almond, brazil nut, cashew, chestnut, hazelnut, macadamia, peanut, pecan, pine nut, pistachio, and walnut. The dataset contains 2,200 images, 200 per nut type. The dataset was randomly split into the training (60% or 1,320 images), validation (20% or 440 images), and test sets (20% or 440 images). A neural network model was constructed and trained using transfer learning and other computer vision techniques\u2014data augmentation, mixup, normalization, label smoothing, and learning rate optimization.\n\nResults: The trained neural network model correctly predicted 338 out of 440 images (40 per nut type) in the validation set, achieving 99.55% accuracy. Moreover, the model classified the 440 images in the test set with 100% accuracy.\n\nConclusion: This study built a nut image dataset and used it to train a neural network model to classify images by nut type. The model achieved near-perfect accuracy on the validation and test sets, demonstrating the feasibility of automating nut type classification using smartphone photos. Being made open-source, the dataset and model can assist the development of diet-tracking apps that facilitate users\u2019 adoption and adherence to a healthy diet.\n\nPlease cite the following peer-reviewed publication if you use this dataset:\n     An R, Perez-Cruet J, Wang J. We got nuts! Use deep neural networks to classify images of common edible nuts. 2022. Nutrition and Health. In press.",
+  "datasetId": 2330904,
+  "datasetSlug": "11-common-nut-types-for-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "ruopengan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 3919,
+  "totalVotes": 15,
+  "totalDownloads": 359,
+  "title": "11 Common Nut Types For Image Classification",
+  "hasTitle": true,
+  "subtitle": "We Got Nuts! Use Deep Neural Networks to Classify Images of Common Edible Nuts",
+  "hasSubtitle": true,
+  "description": "Background: Nuts are nutrient-dense foods that contribute to healthier eating. Food image datasets enable artificial intelligence (AI) powered diet-tracking apps to help people monitor daily eating patterns.\n\nAim: This study aimed to create an image dataset of commonly consumed nut types and use it to build an AI computer vision model to automate nut type classification tasks.\n\nMethods: iPhone 11 was used to take photos of 11 nut types\u2014almond, brazil nut, cashew, chestnut, hazelnut, macadamia, peanut, pecan, pine nut, pistachio, and walnut. The dataset contains 2,200 images, 200 per nut type. The dataset was randomly split into the training (60% or 1,320 images), validation (20% or 440 images), and test sets (20% or 440 images). A neural network model was constructed and trained using transfer learning and other computer vision techniques\u2014data augmentation, mixup, normalization, label smoothing, and learning rate optimization.\n\nResults: The trained neural network model correctly predicted 338 out of 440 images (40 per nut type) in the validation set, achieving 99.55% accuracy. Moreover, the model classified the 440 images in the test set with 100% accuracy.\n\nConclusion: This study built a nut image dataset and used it to train a neural network model to classify images by nut type. The model achieved near-perfect accuracy on the validation and test sets, demonstrating the feasibility of automating nut type classification using smartphone photos. Being made open-source, the dataset and model can assist the development of diet-tracking apps that facilitate users\u2019 adoption and adherence to a healthy diet.\n\nPlease cite the following peer-reviewed publication if you use this dataset:\n     An R, Perez-Cruet J, Wang J. We got nuts! Use deep neural networks to classify images of common edible nuts. 2022. Nutrition and Health. In press.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "classification",
+    "deep learning",
+    "image",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

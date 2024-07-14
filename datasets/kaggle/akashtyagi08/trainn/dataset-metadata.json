@@ -1,0 +1,41 @@
+{
+  "id": "akashtyagi08/trainn",
+  "id_no": 404918,
+  "datasetSlugNullable": "trainn",
+  "ownerUserNullable": "akashtyagi08",
+  "usabilityRatingNullable": 0.7352941176470589,
+  "titleNullable": "Train Crowd Density",
+  "subtitleNullable": "Details of several trains along with target variable being Crowd density.",
+  "descriptionNullable": "This dataset contains record of several trains over a span of months. Some of the column values are altered for security reasons but overall this dataset can be used to study time series analysis and to understand different pattern in train schedules with our day to day life that usually apply.\n\nOne can take help of this dataset to predict if on a certain day the crowd will be low or high keeping different factors in mind and with this dataset different insight can also be found out.",
+  "datasetId": 404918,
+  "datasetSlug": "trainn",
+  "hasDatasetSlug": true,
+  "ownerUser": "akashtyagi08",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7352941176470589,
+  "hasUsabilityRating": true,
+  "totalViews": 2365,
+  "totalVotes": 2,
+  "totalDownloads": 114,
+  "title": "Train Crowd Density",
+  "hasTitle": true,
+  "subtitle": "Details of several trains along with target variable being Crowd density.",
+  "hasSubtitle": true,
+  "description": "This dataset contains record of several trains over a span of months. Some of the column values are altered for security reasons but overall this dataset can be used to study time series analysis and to understand different pattern in train schedules with our day to day life that usually apply.\n\nOne can take help of this dataset to predict if on a certain day the crowd will be low or high keeping different factors in mind and with this dataset different insight can also be found out.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "time series analysis",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

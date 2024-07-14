@@ -1,0 +1,39 @@
+{
+  "id": "crawford/vgg16",
+  "id_no": 6302,
+  "datasetSlugNullable": "vgg16",
+  "ownerUserNullable": "crawford",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "VGG-16 ",
+  "subtitleNullable": "VGG-16 Pre-trained Model for Keras",
+  "descriptionNullable": "# VGG16\n\n---\n\n## Very Deep Convolutional Networks for Large-Scale Image Recognition<br>\nIn this work we investigate the effect of the convolutional network depth on its accuracy in the large-scale image recognition setting. Our main contribution is a thorough evaluation of networks of increasing depth using an architecture with very small (3x3) convolution filters, which shows that a significant improvement on the prior-art configurations can be achieved by pushing the depth to 16-19 weight layers. These findings were the basis of our ImageNet Challenge 2014 submission, where our team secured the first and the second places in the localisation and classification tracks respectively. We also show that our representations generalise well to other datasets, where they achieve state-of-the-art results. We have made our two best-performing ConvNet models publicly available to facilitate further research on the use of deep visual representations in computer vision.\n<br>\n\n**Authors: Karen Simonyan, Andrew Zisserman**<br>\n**https://arxiv.org/abs/1409.1556**\n\n---\n\n#VGG Architectures<br>\n![VGG Architecture][1]\n\n\n---\n\n### What is a Pre-trained Model?\nA pre-trained model has been previously trained on a dataset and contains the weights and biases that represent the features of whichever dataset it was trained on. Learned features are often transferable to different data. For example, a model trained on a large dataset of bird images will contain learned features like edges or horizontal lines that you would be transferable your dataset. \n\n### Why use a Pre-trained Model?\nPre-trained models are beneficial to us for many reasons. By using a pre-trained model you are saving time. Someone else has already spent the time and compute resources to learn a lot of features and your model will likely benefit from it. \n\n\n  [1]: https://imgur.com/uLXrKxe.jpg",
+  "datasetId": 6302,
+  "datasetSlug": "vgg16",
+  "hasDatasetSlug": true,
+  "ownerUser": "crawford",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 115632,
+  "totalVotes": 153,
+  "totalDownloads": 11860,
+  "title": "VGG-16 ",
+  "hasTitle": true,
+  "subtitle": "VGG-16 Pre-trained Model for Keras",
+  "hasSubtitle": true,
+  "description": "# VGG16\n\n---\n\n## Very Deep Convolutional Networks for Large-Scale Image Recognition<br>\nIn this work we investigate the effect of the convolutional network depth on its accuracy in the large-scale image recognition setting. Our main contribution is a thorough evaluation of networks of increasing depth using an architecture with very small (3x3) convolution filters, which shows that a significant improvement on the prior-art configurations can be achieved by pushing the depth to 16-19 weight layers. These findings were the basis of our ImageNet Challenge 2014 submission, where our team secured the first and the second places in the localisation and classification tracks respectively. We also show that our representations generalise well to other datasets, where they achieve state-of-the-art results. We have made our two best-performing ConvNet models publicly available to facilitate further research on the use of deep visual representations in computer vision.\n<br>\n\n**Authors: Karen Simonyan, Andrew Zisserman**<br>\n**https://arxiv.org/abs/1409.1556**\n\n---\n\n#VGG Architectures<br>\n![VGG Architecture][1]\n\n\n---\n\n### What is a Pre-trained Model?\nA pre-trained model has been previously trained on a dataset and contains the weights and biases that represent the features of whichever dataset it was trained on. Learned features are often transferable to different data. For example, a model trained on a large dataset of bird images will contain learned features like edges or horizontal lines that you would be transferable your dataset. \n\n### Why use a Pre-trained Model?\nPre-trained models are beneficial to us for many reasons. By using a pre-trained model you are saving time. Someone else has already spent the time and compute resources to learn a lot of features and your model will likely benefit from it. \n\n\n  [1]: https://imgur.com/uLXrKxe.jpg",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

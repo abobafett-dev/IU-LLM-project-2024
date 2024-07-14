@@ -1,0 +1,39 @@
+{
+  "id": "radimkzl/celebrity-large-dataset",
+  "id_no": 5183630,
+  "datasetSlugNullable": "celebrity-large-dataset",
+  "ownerUserNullable": "radimkzl",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Celebrity large dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset is a modified and normalized dataset based on https://www.kaggle.com/datasets/hemantsoni042/celebrity-images-for-face-recognition. The dataset was used for a facial recognition application, namely the DoppelGander application of the OpenCV Academy course. This is a file of 98 people with 30 high-resolution images, suitable for creating a file of about 500 images per person using a simple script using the Pillow library.\n Dlib and OpenFace library models were trained.\n\nNotebook for scale dataset: https://www.kaggle.com/code/radimkzl/scale-up-celebrity-large-dataset?scriptVersionId=182738256",
+  "datasetId": 5183630,
+  "datasetSlug": "celebrity-large-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "radimkzl",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 19,
+  "totalVotes": 1,
+  "totalDownloads": 2,
+  "title": "Celebrity large dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset is a modified and normalized dataset based on https://www.kaggle.com/datasets/hemantsoni042/celebrity-images-for-face-recognition. The dataset was used for a facial recognition application, namely the DoppelGander application of the OpenCV Academy course. This is a file of 98 people with 30 high-resolution images, suitable for creating a file of about 500 images per person using a simple script using the Pillow library.\n Dlib and OpenFace library models were trained.\n\nNotebook for scale dataset: https://www.kaggle.com/code/radimkzl/scale-up-celebrity-large-dataset?scriptVersionId=182738256",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

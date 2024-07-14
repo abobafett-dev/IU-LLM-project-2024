@@ -1,0 +1,43 @@
+{
+  "id": "sureshpokharel444/handwritten-signatures",
+  "id_no": 2476866,
+  "datasetSlugNullable": "handwritten-signatures",
+  "ownerUserNullable": "sureshpokharel444",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Handwritten Signatures",
+  "subtitleNullable": "Handwritten signature images collected from different 27 persons",
+  "descriptionNullable": "Please cite the following paper if you use the dataset:\n\n**Pokharel, Suresh, Santosh Giri, and Subarna Shakyac. \"******Deep learning based handwritten signature recognition******.\" NCE JOURNAL OF SCIENCE AND ENGINEERING (NJSE) (2020): 21.**\n",
+  "datasetId": 2476866,
+  "datasetSlug": "handwritten-signatures",
+  "hasDatasetSlug": true,
+  "ownerUser": "sureshpokharel444",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 3462,
+  "totalVotes": 14,
+  "totalDownloads": 285,
+  "title": "Handwritten Signatures",
+  "hasTitle": true,
+  "subtitle": "Handwritten signature images collected from different 27 persons",
+  "hasSubtitle": true,
+  "description": "Please cite the following paper if you use the dataset:\n\n**Pokharel, Suresh, Santosh Giri, and Subarna Shakyac. \"******Deep learning based handwritten signature recognition******.\" NCE JOURNAL OF SCIENCE AND ENGINEERING (NJSE) (2020): 21.**\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "computer vision",
+    "classification",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

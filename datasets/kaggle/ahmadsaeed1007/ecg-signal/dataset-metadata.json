@@ -1,0 +1,43 @@
+{
+  "id": "ahmadsaeed1007/ecg-signal",
+  "id_no": 1142426,
+  "datasetSlugNullable": "ecg-signal",
+  "ownerUserNullable": "ahmadsaeed1007",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "ECG Signal",
+  "subtitleNullable": "Numerically generated ECG signal",
+  "descriptionNullable": "### Context\n\nECG signal generated from differential equation model . This is not a data from real patient but almost act like the real one . For details check notebook where it is generated .\n\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 1142426,
+  "datasetSlug": "ecg-signal",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahmadsaeed1007",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 6566,
+  "totalVotes": 10,
+  "totalDownloads": 690,
+  "title": "ECG Signal",
+  "hasTitle": true,
+  "subtitle": "Numerically generated ECG signal",
+  "hasSubtitle": true,
+  "description": "### Context\n\nECG signal generated from differential equation model . This is not a data from real patient but almost act like the real one . For details check notebook where it is generated .\n\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "signal processing",
+    "time series analysis",
+    "matplotlib",
+    "numpy",
+    "scipy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

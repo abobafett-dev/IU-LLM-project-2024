@@ -1,0 +1,45 @@
+{
+  "id": "utkarshsaxenadn/landscape-recognition-image-dataset-12k-images",
+  "id_no": 2707450,
+  "datasetSlugNullable": "landscape-recognition-image-dataset-12k-images",
+  "ownerUserNullable": "utkarshsaxenadn",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Landscape Recognition | Image Dataset | 12k Images",
+  "subtitleNullable": "Try to recognize the landscape around you with Machine Learning",
+  "descriptionNullable": "This is **Landscape classification dataset**. This data consists of **5 different classes**. Each **class representing a kind of landscape**. These classes are : \n* **Coast**\n * This class contains images belonging to coastal areas, or simply beaches.\n* **Desert**\n * This class contains images of desert areas such as Sahara Thar, etc.\n* **Forest**\n * This class is filled with images belonging to forest areas such as Amazon.\n* **Glacier**\n * This class consists of some amazing white images, These images belongs to glaciers. For example, the Antarctic.\n* **Mountains**\n * This class shows you the world from the top i.e. the mountain areas such as the Himalayas.\n\nThis data is first divided into **3 sub directories**. These sub directories are the **training, validation, and testing data directories**. Another directory of tensorflow records is also added, which is further divided into 3 directories of **training, validation and testing data**, containing the **tensorflow records of these images**. This allow you to load the data both using Image Data Generator, or using the tensorflow records. \n\nFrom my perspective for any. For any model to perform well on this data set, the model should have proper knowledge of the colors and the geometry of the image. Because when both the colors and geometry come together, they make up a landscape. ",
+  "datasetId": 2707450,
+  "datasetSlug": "landscape-recognition-image-dataset-12k-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "utkarshsaxenadn",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 14540,
+  "totalVotes": 42,
+  "totalDownloads": 2546,
+  "title": "Landscape Recognition | Image Dataset | 12k Images",
+  "hasTitle": true,
+  "subtitle": "Try to recognize the landscape around you with Machine Learning",
+  "hasSubtitle": true,
+  "description": "This is **Landscape classification dataset**. This data consists of **5 different classes**. Each **class representing a kind of landscape**. These classes are : \n* **Coast**\n * This class contains images belonging to coastal areas, or simply beaches.\n* **Desert**\n * This class contains images of desert areas such as Sahara Thar, etc.\n* **Forest**\n * This class is filled with images belonging to forest areas such as Amazon.\n* **Glacier**\n * This class consists of some amazing white images, These images belongs to glaciers. For example, the Antarctic.\n* **Mountains**\n * This class shows you the world from the top i.e. the mountain areas such as the Himalayas.\n\nThis data is first divided into **3 sub directories**. These sub directories are the **training, validation, and testing data directories**. Another directory of tensorflow records is also added, which is further divided into 3 directories of **training, validation and testing data**, containing the **tensorflow records of these images**. This allow you to load the data both using Image Data Generator, or using the tensorflow records. \n\nFrom my perspective for any. For any model to perform well on this data set, the model should have proper knowledge of the colors and the geometry of the image. Because when both the colors and geometry come together, they make up a landscape. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer science",
+    "computer vision",
+    "deep learning",
+    "transfer learning",
+    "online communities",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

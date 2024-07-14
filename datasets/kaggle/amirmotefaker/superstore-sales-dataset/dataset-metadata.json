@@ -1,0 +1,39 @@
+{
+  "id": "amirmotefaker/superstore-sales-dataset",
+  "id_no": 2778144,
+  "datasetSlugNullable": "superstore-sales-dataset",
+  "ownerUserNullable": "amirmotefaker",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "SuperStore sales DataSet",
+  "subtitleNullable": "Retail dataset of a global superstore for 4 years.",
+  "descriptionNullable": "Time series analysis deals with time series based data to extract patterns for predictions and other characteristics of the data. It uses a model for forecasting future values in a small time frame based on previous observations. It is widely used for non-stationary data, such as economic data, weather data, stock prices, and retail sales forecasting.",
+  "datasetId": 2778144,
+  "datasetSlug": "superstore-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "amirmotefaker",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 2039,
+  "totalVotes": 2,
+  "totalDownloads": 345,
+  "title": "SuperStore sales DataSet",
+  "hasTitle": true,
+  "subtitle": "Retail dataset of a global superstore for 4 years.",
+  "hasSubtitle": true,
+  "description": "Time series analysis deals with time series based data to extract patterns for predictions and other characteristics of the data. It uses a model for forecasting future values in a small time frame based on previous observations. It is widely used for non-stationary data, such as economic data, weather data, stock prices, and retail sales forecasting.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

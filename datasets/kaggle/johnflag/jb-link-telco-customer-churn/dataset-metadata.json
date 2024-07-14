@@ -1,0 +1,41 @@
+{
+  "id": "johnflag/jb-link-telco-customer-churn",
+  "id_no": 1779246,
+  "datasetSlugNullable": "jb-link-telco-customer-churn",
+  "ownerUserNullable": "johnflag",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "JB Link Telco Customer Churn",
+  "subtitleNullable": "Customized version of the IBM Dataset",
+  "descriptionNullable": "This is a customized version of the widely known IBM Telco Customer Churn dataset. I've added a few more columns and modified others in order to make it a little more realistic.\n\nMy customizations are based on the following version: [Telco customer churn (11.1.3+)](https://www.kaggle.com/ylchang/telco-customer-churn-1113)\n\nBelow you may find a fictional business problem I created. You may use it in order to start developing something around this dataset.\n\n### **JB Link Customer Churn Problem**\n\nJB Link is a small size telecom company located in the state of California that provides Phone and Internet services to customers on more than a 1,000 cities and 1,600 zip codes.\n\nThe company is in the market for just 6 years and has quickly grown by investing on infrastructure to bring internet and phone networks to regions that had poor or no coverage.\n\nThe company also has a very skilled sales team that is always performing well on attracting new customers. The number of new customers acquired in the past quarter represent 15% over the total.\n\nHowever, by the end of this same period, only 43% of this customers stayed with the company and most of them decided on not renewing their contracts after a few months, meaning the customer churn rate is very high and the company is now facing a big challenge on retaining its customers.\n\nThe total customer churn rate last quarter was around 27%, resulting in a decrease of almost 12% in the total number of customers. \n\nThe executive leadership of JB Link is aware that some competitors are investing on new technologies and on the expansion of their network coverage and they believe this is one of the main drivers of the high customer churn rate.\n\nTherefore, as an action plan, they have decided to created a task force inside the company that will be responsible to work on a customer retention strategy.\n\nThe task force will involve members from different areas of the company, including Sales, Finance, Marketing, Customer Service, Tech Support and a recent formed Data Science team.\n\nThe data science team will play a key role on this process and was assigned some very important tasks that will support on the decisions and actions the other teams will be taking :\n- Gather insights from the data to understand what is driving the high customer churn rate.\n- Develop a Machine Learning model that can accurately predict the customers that are more likely to churn.\n- Prescribe customized actions that could be taken in order to retain each of those customers.\n\nThe Data Science team was given a dataset with a random sample of 7,043 customers that can help on achieving this task.\n\nThe executives are aware that the cost of acquiring a new customer can be up to five times higher than the cost of retaining a customer, so they are expecting that the results of this project will save a lot of money to the company and make it start growing again.",
+  "datasetId": 1779246,
+  "datasetSlug": "jb-link-telco-customer-churn",
+  "hasDatasetSlug": true,
+  "ownerUser": "johnflag",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7119,
+  "totalVotes": 21,
+  "totalDownloads": 898,
+  "title": "JB Link Telco Customer Churn",
+  "hasTitle": true,
+  "subtitle": "Customized version of the IBM Dataset",
+  "hasSubtitle": true,
+  "description": "This is a customized version of the widely known IBM Telco Customer Churn dataset. I've added a few more columns and modified others in order to make it a little more realistic.\n\nMy customizations are based on the following version: [Telco customer churn (11.1.3+)](https://www.kaggle.com/ylchang/telco-customer-churn-1113)\n\nBelow you may find a fictional business problem I created. You may use it in order to start developing something around this dataset.\n\n### **JB Link Customer Churn Problem**\n\nJB Link is a small size telecom company located in the state of California that provides Phone and Internet services to customers on more than a 1,000 cities and 1,600 zip codes.\n\nThe company is in the market for just 6 years and has quickly grown by investing on infrastructure to bring internet and phone networks to regions that had poor or no coverage.\n\nThe company also has a very skilled sales team that is always performing well on attracting new customers. The number of new customers acquired in the past quarter represent 15% over the total.\n\nHowever, by the end of this same period, only 43% of this customers stayed with the company and most of them decided on not renewing their contracts after a few months, meaning the customer churn rate is very high and the company is now facing a big challenge on retaining its customers.\n\nThe total customer churn rate last quarter was around 27%, resulting in a decrease of almost 12% in the total number of customers. \n\nThe executive leadership of JB Link is aware that some competitors are investing on new technologies and on the expansion of their network coverage and they believe this is one of the main drivers of the high customer churn rate.\n\nTherefore, as an action plan, they have decided to created a task force inside the company that will be responsible to work on a customer retention strategy.\n\nThe task force will involve members from different areas of the company, including Sales, Finance, Marketing, Customer Service, Tech Support and a recent formed Data Science team.\n\nThe data science team will play a key role on this process and was assigned some very important tasks that will support on the decisions and actions the other teams will be taking :\n- Gather insights from the data to understand what is driving the high customer churn rate.\n- Develop a Machine Learning model that can accurately predict the customers that are more likely to churn.\n- Prescribe customized actions that could be taken in order to retain each of those customers.\n\nThe Data Science team was given a dataset with a random sample of 7,043 customers that can help on achieving this task.\n\nThe executives are aware that the cost of acquiring a new customer can be up to five times higher than the cost of retaining a customer, so they are expecting that the results of this project will save a lot of money to the company and make it start growing again.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "classification",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

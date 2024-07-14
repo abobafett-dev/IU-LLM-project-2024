@@ -1,0 +1,43 @@
+{
+  "id": "lokeshmadiga/airline-reviews",
+  "id_no": 4704948,
+  "datasetSlugNullable": "airline-reviews",
+  "ownerUserNullable": "lokeshmadiga",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Airline Reviews and Ratings",
+  "subtitleNullable": "563 Companies airline Reviews Ratings Across the globe with 21 Features",
+  "descriptionNullable": "This dataset contains information about airline customer reviews, including details about the reviewers, their travel experiences, and ratings provided. Each row represents a single review submitted by a customer who has flown with the airline.",
+  "datasetId": 4704948,
+  "datasetSlug": "airline-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "lokeshmadiga",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 209,
+  "totalVotes": 1,
+  "totalDownloads": 42,
+  "title": "Airline Reviews and Ratings",
+  "hasTitle": true,
+  "subtitle": "563 Companies airline Reviews Ratings Across the globe with 21 Features",
+  "hasSubtitle": true,
+  "description": "This dataset contains information about airline customer reviews, including details about the reviewers, their travel experiences, and ratings provided. Each row represents a single review submitted by a customer who has flown with the airline.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "aviation",
+    "beginner",
+    "tabular",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

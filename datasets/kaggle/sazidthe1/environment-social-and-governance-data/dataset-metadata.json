@@ -1,0 +1,43 @@
+{
+  "id": "sazidthe1/environment-social-and-governance-data",
+  "id_no": 3836238,
+  "datasetSlugNullable": "environment-social-and-governance-data",
+  "ownerUserNullable": "sazidthe1",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Environment, Social, and Governance Data",
+  "subtitleNullable": "Sustainable Insights: Unraveling ESG Dynamics with Detailed Data up to 2022",
+  "descriptionNullable": "### **Context:**\n\nThe World Bank\u2019s ESG Data Draft dataset is a comprehensive resource offering detailed insights into 17 key sustainability themes, covering a wide spectrum of environmental, social, and governance categories. This dataset has been meticulously curated to facilitate a profound understanding of countries\u2019 sustainability performance and is instrumental in reshaping financial markets towards alignment with global goals.\n\n\n### **Content:**\n\nThis dataset comprises 6 CSVs, each playing a unique role in enriching the dataset:\n\n*ESGCountry:* Contains essential country-specific information, providing a foundational context for sustainability analysis.\n\n*ESGCountry-Series:* Offers a series-based perspective, allowing for a dynamic exploration of sustainability themes over time within individual countries.\n\n*ESGData:* Presents detailed data points pertaining to the 17 sustainability themes, enabling in-depth analysis and comparison.\n\n*ESGFootNote:* Provides additional context and explanations related to specific data points, ensuring clarity and transparency in interpretation.\n\n*ESGSeries:* Focuses on the thematic evolution of sustainability indicators, providing insights into long-term trends and patterns.\n\n*ESGSeries-Time:* Time-based data offering temporal perspectives, facilitating trend analysis and correlation studies over different periods.\n\n\n### **Acknowledgment:**\n\nI extend my sincere gratitude to the Open Data team at the World Bank for their invaluable contribution. The primary dataset was sourced from the World Bank's Open Data Catalog, forming the foundation of this comprehensive resource. Their dedication to providing accessible, high-quality data has been instrumental in the creation of this dataset.\n\n\u00a9\ufe0f Citation: Environment, Social, and Governance Data, The World Bank\n\nImage Credit: [Freepik](https://www.freepik.com/free-photo/sustainable-living-environmentalist-hand-holding-green-earth_15604456.htm)",
+  "datasetId": 3836238,
+  "datasetSlug": "environment-social-and-governance-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "sazidthe1",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2353,
+  "totalVotes": 18,
+  "totalDownloads": 296,
+  "title": "Environment, Social, and Governance Data",
+  "hasTitle": true,
+  "subtitle": "Sustainable Insights: Unraveling ESG Dynamics with Detailed Data up to 2022",
+  "hasSubtitle": true,
+  "description": "### **Context:**\n\nThe World Bank\u2019s ESG Data Draft dataset is a comprehensive resource offering detailed insights into 17 key sustainability themes, covering a wide spectrum of environmental, social, and governance categories. This dataset has been meticulously curated to facilitate a profound understanding of countries\u2019 sustainability performance and is instrumental in reshaping financial markets towards alignment with global goals.\n\n\n### **Content:**\n\nThis dataset comprises 6 CSVs, each playing a unique role in enriching the dataset:\n\n*ESGCountry:* Contains essential country-specific information, providing a foundational context for sustainability analysis.\n\n*ESGCountry-Series:* Offers a series-based perspective, allowing for a dynamic exploration of sustainability themes over time within individual countries.\n\n*ESGData:* Presents detailed data points pertaining to the 17 sustainability themes, enabling in-depth analysis and comparison.\n\n*ESGFootNote:* Provides additional context and explanations related to specific data points, ensuring clarity and transparency in interpretation.\n\n*ESGSeries:* Focuses on the thematic evolution of sustainability indicators, providing insights into long-term trends and patterns.\n\n*ESGSeries-Time:* Time-based data offering temporal perspectives, facilitating trend analysis and correlation studies over different periods.\n\n\n### **Acknowledgment:**\n\nI extend my sincere gratitude to the Open Data team at the World Bank for their invaluable contribution. The primary dataset was sourced from the World Bank's Open Data Catalog, forming the foundation of this comprehensive resource. Their dedication to providing accessible, high-quality data has been instrumental in the creation of this dataset.\n\n\u00a9\ufe0f Citation: Environment, Social, and Governance Data, The World Bank\n\nImage Credit: [Freepik](https://www.freepik.com/free-photo/sustainable-living-environmentalist-hand-holding-green-earth_15604456.htm)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "environment",
+    "people and society",
+    "government",
+    "exploratory data analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

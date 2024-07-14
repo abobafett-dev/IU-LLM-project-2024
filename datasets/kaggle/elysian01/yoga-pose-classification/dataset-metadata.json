@@ -1,0 +1,43 @@
+{
+  "id": "elysian01/yoga-pose-classification",
+  "id_no": 1263448,
+  "datasetSlugNullable": "yoga-pose-classification",
+  "ownerUserNullable": "elysian01",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Yoga Pose Classification",
+  "subtitleNullable": "Classify Downward-Dog, Tree, Goddess, Warrior-1, Warrior-2 and Mountain Poses ",
+  "descriptionNullable": "**Yoga Pose Classification dataset contains image data for 6 poses which are divided into 2 different sets**\n\nThe dataset has been collected via web scraping from Google and Instagram, and it also contains images taken from the camera from different angles and resolutions for real-life use cases.\n\nYoga Set 1 Contains images for\n- Tree Pose \n- Warrior1 Pose \n- Downward Dog Pose \n\n<img src=\"https://i.ibb.co/72hGhF1/yoga-set1.jpg\" alt=\"yoga-set1\">\n\nYoga Set 2 Contains images for\n- Mountain Pose \n- Warrior2 Pose \n- Goddess Pose \n\n<img src=\"https://i.ibb.co/KFW7qKZ/yoga-set2.jpg\" alt=\"yoga-set2\">\n\n**The Dataset is already into train and test data for each pose**\n\nThe information for the number of images for train data for each pose, Is as follow\n\n| Pose | Training Images |\n| ---| ---|\n| Tree | 371 |\n| Warrior1 |  432 |\n| Downward Dog | 381 |\n| Warrior2 | 455 |\n| Mountain | 453 |\n| Goddess | 406 ",
+  "datasetId": 1263448,
+  "datasetSlug": "yoga-pose-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "elysian01",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 8801,
+  "totalVotes": 15,
+  "totalDownloads": 759,
+  "title": "Yoga Pose Classification",
+  "hasTitle": true,
+  "subtitle": "Classify Downward-Dog, Tree, Goddess, Warrior-1, Warrior-2 and Mountain Poses ",
+  "hasSubtitle": true,
+  "description": "**Yoga Pose Classification dataset contains image data for 6 poses which are divided into 2 different sets**\n\nThe dataset has been collected via web scraping from Google and Instagram, and it also contains images taken from the camera from different angles and resolutions for real-life use cases.\n\nYoga Set 1 Contains images for\n- Tree Pose \n- Warrior1 Pose \n- Downward Dog Pose \n\n<img src=\"https://i.ibb.co/72hGhF1/yoga-set1.jpg\" alt=\"yoga-set1\">\n\nYoga Set 2 Contains images for\n- Mountain Pose \n- Warrior2 Pose \n- Goddess Pose \n\n<img src=\"https://i.ibb.co/KFW7qKZ/yoga-set2.jpg\" alt=\"yoga-set2\">\n\n**The Dataset is already into train and test data for each pose**\n\nThe information for the number of images for train data for each pose, Is as follow\n\n| Pose | Training Images |\n| ---| ---|\n| Tree | 371 |\n| Warrior1 |  432 |\n| Downward Dog | 381 |\n| Warrior2 | 455 |\n| Mountain | 453 |\n| Goddess | 406 ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exercise",
+    "classification",
+    "cnn",
+    "image",
+    "transfer learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

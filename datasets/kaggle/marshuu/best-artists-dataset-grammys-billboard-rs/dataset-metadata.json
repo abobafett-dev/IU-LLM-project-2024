@@ -1,0 +1,42 @@
+{
+  "id": "marshuu/best-artists-dataset-grammys-billboard-rs",
+  "id_no": 2839832,
+  "datasetSlugNullable": "best-artists-dataset-grammys-billboard-rs",
+  "ownerUserNullable": "marshuu",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Greatest artists dataset Grammys | Billboard | RS",
+  "subtitleNullable": "A dataset about musicians, their awards and income",
+  "descriptionNullable": "This is a compilation of datasets, the information for which was collected with love for music from Wikipedia, Billboard and Rolling Stone.\n\n**best artists_RS** is a data set collected from Rolling Stone that contains information about the artists and the number of Grammy awards and nominations they received.\n\n **grammys-best album** contains a list of albums that won a Grammy in Best Album nomination each year.\n\n**grammy-best record** contains a list of artists and songs that won a Grammy in Best Record nomination each year.\n\n**money-makers-bb** is a dataset collected from Billboard with information on top 40 artists that made the biggest amount of money on their music. The total income is broken down into sales, streaming, touring and publishing.\n\n**richest musicians by year** is a data table scraped from Wikipedia, that contains information on richest musicians by year. The difference between the previous dataset is that richest musicians by year provides information on total income that includes other sources apart from music (commercials, brands etc.)",
+  "datasetId": 2839832,
+  "datasetSlug": "best-artists-dataset-grammys-billboard-rs",
+  "hasDatasetSlug": true,
+  "ownerUser": "marshuu",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10541,
+  "totalVotes": 49,
+  "totalDownloads": 2389,
+  "title": "Greatest artists dataset Grammys | Billboard | RS",
+  "hasTitle": true,
+  "subtitle": "A dataset about musicians, their awards and income",
+  "hasSubtitle": true,
+  "description": "This is a compilation of datasets, the information for which was collected with love for music from Wikipedia, Billboard and Rolling Stone.\n\n**best artists_RS** is a data set collected from Rolling Stone that contains information about the artists and the number of Grammy awards and nominations they received.\n\n **grammys-best album** contains a list of albums that won a Grammy in Best Album nomination each year.\n\n**grammy-best record** contains a list of artists and songs that won a Grammy in Best Record nomination each year.\n\n**money-makers-bb** is a dataset collected from Billboard with information on top 40 artists that made the biggest amount of money on their music. The total income is broken down into sales, streaming, touring and publishing.\n\n**richest musicians by year** is a data table scraped from Wikipedia, that contains information on richest musicians by year. The difference between the previous dataset is that richest musicians by year provides information on total income that includes other sources apart from music (commercials, brands etc.)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "income",
+    "data analytics",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

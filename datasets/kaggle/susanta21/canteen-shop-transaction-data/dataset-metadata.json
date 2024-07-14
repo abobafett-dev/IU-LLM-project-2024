@@ -1,0 +1,39 @@
+{
+  "id": "susanta21/canteen-shop-transaction-data",
+  "id_no": 4735012,
+  "datasetSlugNullable": "canteen-shop-transaction-data",
+  "ownerUserNullable": "susanta21",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Canteen Shop Transaction Data",
+  "subtitleNullable": "Analysis of Transactions, Customer Behavior, and Weather Conditions in a Canteen",
+  "descriptionNullable": "This dataset contains transaction records from a canteen shop, providing insights into customer purchasing behavior, payment methods, employee interactions, customer satisfaction ratings, and weather conditions. Each transaction is recorded with details such as the date, time, item purchased, price, quantity, total amount, customer ID, payment method, employee ID, customer satisfaction rating, weather condition at the time of purchase, and whether any special offers were provided.\n\nThe dataset is suitable for exploratory data analysis, predictive modeling, and market research in the food service industry. Analysts and data scientists can use this dataset to uncover patterns, trends, and correlations related to customer preferences, sales performance, and the impact of weather on sales. Additionally, this dataset can be utilized to develop machine learning models for sales forecasting, customer segmentation, and personalized marketing strategies.",
+  "datasetId": 4735012,
+  "datasetSlug": "canteen-shop-transaction-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "susanta21",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3650,
+  "totalVotes": 32,
+  "totalDownloads": 893,
+  "title": "Canteen Shop Transaction Data",
+  "hasTitle": true,
+  "subtitle": "Analysis of Transactions, Customer Behavior, and Weather Conditions in a Canteen",
+  "hasSubtitle": true,
+  "description": "This dataset contains transaction records from a canteen shop, providing insights into customer purchasing behavior, payment methods, employee interactions, customer satisfaction ratings, and weather conditions. Each transaction is recorded with details such as the date, time, item purchased, price, quantity, total amount, customer ID, payment method, employee ID, customer satisfaction rating, weather condition at the time of purchase, and whether any special offers were provided.\n\nThe dataset is suitable for exploratory data analysis, predictive modeling, and market research in the food service industry. Analysts and data scientists can use this dataset to uncover patterns, trends, and correlations related to customer preferences, sales performance, and the impact of weather on sales. Additionally, this dataset can be utilized to develop machine learning models for sales forecasting, customer segmentation, and personalized marketing strategies.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

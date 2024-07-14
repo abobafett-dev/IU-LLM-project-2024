@@ -1,0 +1,42 @@
+{
+  "id": "thedevastator/estimating-occupancy-levels-in-enclosed-spaces",
+  "id_no": 2508785,
+  "datasetSlugNullable": "estimating-occupancy-levels-in-enclosed-spaces",
+  "ownerUserNullable": "thedevastator",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Estimating Occupancy Levels in Enclosed Spaces",
+  "subtitleNullable": "Estimate occupancy based on CO2",
+  "descriptionNullable": "## Estimating Occupancy Levels in Enclosed Spaces\n### Estimate occupancy based on CO2\n\n_____\n\n## About the Dataset\n\n### Description of Data\nEach data record is of the following format\n- **timestamp**: the timestamp of the sample, where the first observation is on Aug 1, 2013\n- **CO2**: the concentration of CO2 in parts-per-million (ppm)\n- **humidity**: the ambient humidity as a percentage\n- **temperature**: the ambient temperature in Celcius\n- **occupancy**: the target value, i.e., if the room was occupied or not\n- **light**: the amount of light in the room\n- **day**: the day of the week that the sample was taken\n- **hour**: the hour of the day that the sample was taken\n- **week**: the week number that the sample was taken\n\n____\n\n## Mapping Indoor CO2 to Occupancy\n\n### Outline\nFor this exercise, we have a test data set for two weeks for which we only have CO2 concentration and temperature information. The goal is to map this CO2 concentration and temperature to an occupancy variable.\n\n### Description of Data\nEach data record is of the following format\n- **timestamp**: the timestamp of the sample, where the first observation is on Jan 2, 2014\n- **CO2**: the concentration of CO2 in parts-per-million (ppm)\n- **temperature**: the ambient temperature in Celcius\n\n### Using the Training Data\n- The training data consists of observations over multiple weeks, which you can use to build your model.\n- For example, you could assume that there is no change in CO2 levels with the season, or that they are different depending on the month, week, day of the week, time of day. \n- You can also assume that the CO2 levels at a specific time and day are independent of when they were measured. For example, if there is a certain CO2 concentration at 8am on a Wednesday, it should be the same in 2013 and in 2014, etc.\n- You can assume that there is a temperature effect on CO2 levels, but that they are independent of occupancy, i.e., it is reasonable to assume that people produce a similar amount of CO2 regardless of the room temperature.\n",
+  "datasetId": 2508785,
+  "datasetSlug": "estimating-occupancy-levels-in-enclosed-spaces",
+  "hasDatasetSlug": true,
+  "ownerUser": "thedevastator",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 789,
+  "totalVotes": 6,
+  "totalDownloads": 85,
+  "title": "Estimating Occupancy Levels in Enclosed Spaces",
+  "hasTitle": true,
+  "subtitle": "Estimate occupancy based on CO2",
+  "hasSubtitle": true,
+  "description": "## Estimating Occupancy Levels in Enclosed Spaces\n### Estimate occupancy based on CO2\n\n_____\n\n## About the Dataset\n\n### Description of Data\nEach data record is of the following format\n- **timestamp**: the timestamp of the sample, where the first observation is on Aug 1, 2013\n- **CO2**: the concentration of CO2 in parts-per-million (ppm)\n- **humidity**: the ambient humidity as a percentage\n- **temperature**: the ambient temperature in Celcius\n- **occupancy**: the target value, i.e., if the room was occupied or not\n- **light**: the amount of light in the room\n- **day**: the day of the week that the sample was taken\n- **hour**: the hour of the day that the sample was taken\n- **week**: the week number that the sample was taken\n\n____\n\n## Mapping Indoor CO2 to Occupancy\n\n### Outline\nFor this exercise, we have a test data set for two weeks for which we only have CO2 concentration and temperature information. The goal is to map this CO2 concentration and temperature to an occupancy variable.\n\n### Description of Data\nEach data record is of the following format\n- **timestamp**: the timestamp of the sample, where the first observation is on Jan 2, 2014\n- **CO2**: the concentration of CO2 in parts-per-million (ppm)\n- **temperature**: the ambient temperature in Celcius\n\n### Using the Training Data\n- The training data consists of observations over multiple weeks, which you can use to build your model.\n- For example, you could assume that there is no change in CO2 levels with the season, or that they are different depending on the month, week, day of the week, time of day. \n- You can also assume that the CO2 levels at a specific time and day are independent of when they were measured. For example, if there is a certain CO2 concentration at 8am on a Wednesday, it should be the same in 2013 and in 2014, etc.\n- You can assume that there is a temperature effect on CO2 levels, but that they are independent of occupancy, i.e., it is reasonable to assume that people produce a similar amount of CO2 regardless of the room temperature.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "time series analysis",
+    "deep learning",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

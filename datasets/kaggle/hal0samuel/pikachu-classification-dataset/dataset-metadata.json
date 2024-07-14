@@ -1,0 +1,40 @@
+{
+  "id": "hal0samuel/pikachu-classification-dataset",
+  "id_no": 1860297,
+  "datasetSlugNullable": "pikachu-classification-dataset",
+  "ownerUserNullable": "hal0samuel",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Pikachu Classification Dataset",
+  "subtitleNullable": "Binary image classification dataset with pikachu",
+  "descriptionNullable": "### Context\nThis is a very simple binary image classification dataset with pikachu. The dataset consist of test, train and validation dataset with images of pikachu and non pikachu.\n\nThe images was web scraping from the internet using Azure Bing Web Search API.",
+  "datasetId": 1860297,
+  "datasetSlug": "pikachu-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "hal0samuel",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 1778,
+  "totalVotes": 4,
+  "totalDownloads": 249,
+  "title": "Pikachu Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Binary image classification dataset with pikachu",
+  "hasSubtitle": true,
+  "description": "### Context\nThis is a very simple binary image classification dataset with pikachu. The dataset consist of test, train and validation dataset with images of pikachu and non pikachu.\n\nThe images was web scraping from the internet using Azure Bing Web Search API.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

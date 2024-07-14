@@ -1,0 +1,41 @@
+{
+  "id": "ze1598/arknights-operator-stats",
+  "id_no": 1490526,
+  "datasetSlugNullable": "arknights-operator-stats",
+  "ownerUserNullable": "ze1598",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Arknights Operator Stats",
+  "subtitleNullable": "Stats evolution as operators level up and get promoted",
+  "descriptionNullable": "### Context\n\nInspired by other fan-made Arknights portals and tools, I have decided to scrape the [Arknights wiki](https://gamepress.gg/arknights/tools/interactive-operator-list) from Gamepress. This scraping includes going through each operator's individual page to scrape their stats.\n\n### Content\n\nThis dataset includes the stats for each operator in Arknights, at each level of each promotion rank.\nSo, taking Amiya as an example, there are 50 rows for her stats at each level of Elite 0 promotion, 70 rows for her stats at each level of Elite 1 promotion, and finally 80 rows for her stats at each level of Elite 2 promotion.\n\nThe Python script used to scrape data is available on GitHub [here](https://github.com/Ze1598/data-projects/tree/master/arknights-data-science/ingestion).\n\n### Acknowledgements\n\nAll this data was scraped programmatically from the [Arknights wiki](https://gamepress.gg/arknights/tools/interactive-operator-list) using Python and its implementation of Selenium. \n\n### Inspiration\n\nThe dataset includes the complete stat evolution for all operators. This means it is possible to analyse operators across classes and understand things such as which classes excel at which stats or find outliers (i.e. operators that break the stats \"norm\"). Moreover, it will open a glimpse into how Arknights' progression is balanced. As an ongoing game that receives new content and characters every couple of weeks, it is important to understand trends in operator releases, character progression and even balancing across rarity and classes.",
+  "datasetId": 1490526,
+  "datasetSlug": "arknights-operator-stats",
+  "hasDatasetSlug": true,
+  "ownerUser": "ze1598",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 4332,
+  "totalVotes": 8,
+  "totalDownloads": 133,
+  "title": "Arknights Operator Stats",
+  "hasTitle": true,
+  "subtitle": "Stats evolution as operators level up and get promoted",
+  "hasSubtitle": true,
+  "description": "### Context\n\nInspired by other fan-made Arknights portals and tools, I have decided to scrape the [Arknights wiki](https://gamepress.gg/arknights/tools/interactive-operator-list) from Gamepress. This scraping includes going through each operator's individual page to scrape their stats.\n\n### Content\n\nThis dataset includes the stats for each operator in Arknights, at each level of each promotion rank.\nSo, taking Amiya as an example, there are 50 rows for her stats at each level of Elite 0 promotion, 70 rows for her stats at each level of Elite 1 promotion, and finally 80 rows for her stats at each level of Elite 2 promotion.\n\nThe Python script used to scrape data is available on GitHub [here](https://github.com/Ze1598/data-projects/tree/master/arknights-data-science/ingestion).\n\n### Acknowledgements\n\nAll this data was scraped programmatically from the [Arknights wiki](https://gamepress.gg/arknights/tools/interactive-operator-list) using Python and its implementation of Selenium. \n\n### Inspiration\n\nThe dataset includes the complete stat evolution for all operators. This means it is possible to analyse operators across classes and understand things such as which classes excel at which stats or find outliers (i.e. operators that break the stats \"norm\"). Moreover, it will open a glimpse into how Arknights' progression is balanced. As an ongoing game that receives new content and characters every couple of weeks, it is important to understand trends in operator releases, character progression and even balancing across rarity and classes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games",
+    "tabular",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "radvian/apple-products-image-dataset",
+  "id_no": 997716,
+  "datasetSlugNullable": "apple-products-image-dataset",
+  "ownerUserNullable": "radvian",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Apple Products Image Dataset",
+  "subtitleNullable": "1500 images consisting of Macbook, iPhone, and iPad",
+  "descriptionNullable": "### Context\n\nI wanted to use a unique and different dataset for an exercise of image classification task. That's when I decided to create my own image dataset. This dataset consists of 403 Macbook images, 555 iPad images, and 556 iPhone images, all scraped from the top results of Google Image Search. These images are pretty robust, as they have product images from multiple different angles and in multiple lighting conditions. ",
+  "datasetId": 997716,
+  "datasetSlug": "apple-products-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "radvian",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 7219,
+  "totalVotes": 12,
+  "totalDownloads": 436,
+  "title": "Apple Products Image Dataset",
+  "hasTitle": true,
+  "subtitle": "1500 images consisting of Macbook, iPhone, and iPad",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI wanted to use a unique and different dataset for an exercise of image classification task. That's when I decided to create my own image dataset. This dataset consists of 403 Macbook images, 555 iPad images, and 556 iPhone images, all scraped from the top results of Google Image Search. These images are pretty robust, as they have product images from multiple different angles and in multiple lighting conditions. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

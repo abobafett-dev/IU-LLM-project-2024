@@ -1,0 +1,43 @@
+{
+  "id": "rafsunahmad/ibm-stock-price",
+  "id_no": 4193369,
+  "datasetSlugNullable": "ibm-stock-price",
+  "ownerUserNullable": "rafsunahmad",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "IBM Stock Price till 2023 December",
+  "subtitleNullable": "IBM Stock Price Prediction and Time Series Forecasting",
+  "descriptionNullable": "This data contains data of IBM stock price. Anyone can perform time forecasting and analysis on this data.\nThe columns are:\nOpen: This is the price at which the stock first started trading during a trading session. It represents the initial valuation of the stock on that day.\n\nClose: This is the price at which the stock finished trading at the end of a trading session. It's considered the most crucial price point, as it reflects the final sentiment towards the stock for that day.\n\nHigh: This is the highest price the stock reached during the trading session. It shows the peak demand for the stock throughout the day.\n\nLow: This is the lowest price the stock reached during the trading session. It highlights the weakest point of demand and potential selling pressure.\n\nVolume: This represents the total number of shares of the stock that were traded during the session. It indicates the level of buying and selling activity for the stock.\n\nAdj Close (Adjusted Close): This is the closing price adjusted for any corporate actions like stock splits or dividends. It allows for accurate comparison of prices over time, removing the distorting effects of such events.",
+  "datasetId": 4193369,
+  "datasetSlug": "ibm-stock-price",
+  "hasDatasetSlug": true,
+  "ownerUser": "rafsunahmad",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 282,
+  "totalVotes": 4,
+  "totalDownloads": 48,
+  "title": "IBM Stock Price till 2023 December",
+  "hasTitle": true,
+  "subtitle": "IBM Stock Price Prediction and Time Series Forecasting",
+  "hasSubtitle": true,
+  "description": "This data contains data of IBM stock price. Anyone can perform time forecasting and analysis on this data.\nThe columns are:\nOpen: This is the price at which the stock first started trading during a trading session. It represents the initial valuation of the stock on that day.\n\nClose: This is the price at which the stock finished trading at the end of a trading session. It's considered the most crucial price point, as it reflects the final sentiment towards the stock for that day.\n\nHigh: This is the highest price the stock reached during the trading session. It shows the peak demand for the stock throughout the day.\n\nLow: This is the lowest price the stock reached during the trading session. It highlights the weakest point of demand and potential selling pressure.\n\nVolume: This represents the total number of shares of the stock that were traded during the session. It indicates the level of buying and selling activity for the stock.\n\nAdj Close (Adjusted Close): This is the closing price adjusted for any corporate actions like stock splits or dividends. It allows for accurate comparison of prices over time, removing the distorting effects of such events.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "economics",
+    "energy",
+    "e-commerce services",
+    "insurance",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "world-bank",
+      "name": "world-bank",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

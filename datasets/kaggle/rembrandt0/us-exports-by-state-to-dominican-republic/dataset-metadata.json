@@ -1,0 +1,39 @@
+{
+  "id": "rembrandt0/us-exports-by-state-to-dominican-republic",
+  "id_no": 5207504,
+  "datasetSlugNullable": "us-exports-by-state-to-dominican-republic",
+  "ownerUserNullable": "rembrandt0",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "US$ exports by state to Dominican Republic",
+  "subtitleNullable": "1st in a series on Trade between the US and the DR",
+  "descriptionNullable": "beginning my foray into the world of data analysis i figured dig into data from a country i spend quite a bit of time visiting. my starting point for data was the FRED api and future works will include data from many other sources. the end point im looking for is to be able to create some usable models for prediction, etc.",
+  "datasetId": 5207504,
+  "datasetSlug": "us-exports-by-state-to-dominican-republic",
+  "hasDatasetSlug": true,
+  "ownerUser": "rembrandt0",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 12,
+  "totalVotes": 1,
+  "totalDownloads": 0,
+  "title": "US$ exports by state to Dominican Republic",
+  "hasTitle": true,
+  "subtitle": "1st in a series on Trade between the US and the DR",
+  "hasSubtitle": true,
+  "description": "beginning my foray into the world of data analysis i figured dig into data from a country i spend quite a bit of time visiting. my starting point for data was the FRED api and future works will include data from many other sources. the end point im looking for is to be able to create some usable models for prediction, etc.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "transportation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

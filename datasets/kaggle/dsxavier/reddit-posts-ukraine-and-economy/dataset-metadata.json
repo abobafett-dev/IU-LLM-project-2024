@@ -1,0 +1,43 @@
+{
+  "id": "dsxavier/reddit-posts-ukraine-and-economy",
+  "id_no": 2135276,
+  "datasetSlugNullable": "reddit-posts-ukraine-and-economy",
+  "ownerUserNullable": "dsxavier",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Reddit Posts \u2013 Ukraine and economy",
+  "subtitleNullable": "Reddit posts about Ukraine and Russia war and how it affects the economy",
+  "descriptionNullable": "This data is about Ukraine war news from Reddit and how the war in Ukraine affects the global economy.\n\nThis dataset was collected based on some Reddit pages such as `'ukraine', 'worldnews', 'UkrainianConflict', 'RussiaUkraineWar2022', 'UkraineWarVideoReport'`\n\nI hope you can get out with some information that can help you figure out how it affects the global economic system.",
+  "datasetId": 2135276,
+  "datasetSlug": "reddit-posts-ukraine-and-economy",
+  "hasDatasetSlug": true,
+  "ownerUser": "dsxavier",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 904,
+  "totalVotes": 10,
+  "totalDownloads": 93,
+  "title": "Reddit Posts \u2013 Ukraine and economy",
+  "hasTitle": true,
+  "subtitle": "Reddit posts about Ukraine and Russia war and how it affects the economy",
+  "hasSubtitle": true,
+  "description": "This data is about Ukraine war news from Reddit and how the war in Ukraine affects the global economy.\n\nThis dataset was collected based on some Reddit pages such as `'ukraine', 'worldnews', 'UkrainianConflict', 'RussiaUkraineWar2022', 'UkraineWarVideoReport'`\n\nI hope you can get out with some information that can help you figure out how it affects the global economic system.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "economics",
+    "tabular",
+    "text",
+    "json"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "reddit-api",
+      "name": "reddit-api",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

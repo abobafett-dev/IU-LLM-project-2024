@@ -1,0 +1,41 @@
+{
+  "id": "shuyangli94/interview-npr-media-dialog-transcripts",
+  "id_no": 590180,
+  "datasetSlugNullable": "interview-npr-media-dialog-transcripts",
+  "ownerUserNullable": "shuyangli94",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "INTERVIEW: NPR Media Dialog Transcripts",
+  "subtitleNullable": "Large-Scale Open-Source Corpus of Media Dialog",
+  "descriptionNullable": "## Context\n\nThis dataset consists of 140K+ NPR radio transcripts (from npr.org) covering 20 years of NPR programs, comprising the transcriptions of 10K+ hours of audio. It is introduced and used in the following papers (please cite them if you use this dataset!):\n\n&gt; **Interview: Large-scale Modeling of Media Dialog with Discourse Patterns and Knowledge Grounding**\n&gt; Bodhisattwa Prasad Majumder\\*, Shuyang Li\\*, Jianmo Ni, Julian McAuley\n&gt; EMNLP, 2020\n&gt;\n&gt;\n&gt; **Interview: A Large-Scale Open-Source Corpus of Media Dialog**\n&gt; Bodhisattwa Prasad Majumder\\*, Shuyang Li\\*, Jianmo Ni, Julian McAuley\n&gt; CoRR, 2020\n&gt; https://arxiv.org/pdf/2004.03090.pdf\n\n\n## Content\n\nThis dataset contains both the two-speaker subset (~20K conversations/episodes) and full dataset (~140K conversations/episodes). Individual file formats are described in their \"About this file\" section.\n\nGeneral terminology:\n- Episodes consist of 1+ \"turns\" of dialog\n- Consecutive turns may be from the same or different speakers\n- Turns of dialog consist of 1+ \"utterances\" (or sentences)\n\n## Clarification\n\nFor clarification, send an email to me via Kaggle.",
+  "datasetId": 590180,
+  "datasetSlug": "interview-npr-media-dialog-transcripts",
+  "hasDatasetSlug": true,
+  "ownerUser": "shuyangli94",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 26157,
+  "totalVotes": 61,
+  "totalDownloads": 2173,
+  "title": "INTERVIEW: NPR Media Dialog Transcripts",
+  "hasTitle": true,
+  "subtitle": "Large-Scale Open-Source Corpus of Media Dialog",
+  "hasSubtitle": true,
+  "description": "## Context\n\nThis dataset consists of 140K+ NPR radio transcripts (from npr.org) covering 20 years of NPR programs, comprising the transcriptions of 10K+ hours of audio. It is introduced and used in the following papers (please cite them if you use this dataset!):\n\n&gt; **Interview: Large-scale Modeling of Media Dialog with Discourse Patterns and Knowledge Grounding**\n&gt; Bodhisattwa Prasad Majumder\\*, Shuyang Li\\*, Jianmo Ni, Julian McAuley\n&gt; EMNLP, 2020\n&gt;\n&gt;\n&gt; **Interview: A Large-Scale Open-Source Corpus of Media Dialog**\n&gt; Bodhisattwa Prasad Majumder\\*, Shuyang Li\\*, Jianmo Ni, Julian McAuley\n&gt; CoRR, 2020\n&gt; https://arxiv.org/pdf/2004.03090.pdf\n\n\n## Content\n\nThis dataset contains both the two-speaker subset (~20K conversations/episodes) and full dataset (~140K conversations/episodes). Individual file formats are described in their \"About this file\" section.\n\nGeneral terminology:\n- Episodes consist of 1+ \"turns\" of dialog\n- Consecutive turns may be from the same or different speakers\n- Turns of dialog consist of 1+ \"utterances\" (or sentences)\n\n## Clarification\n\nFor clarification, send an email to me via Kaggle.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text mining",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "wirdinriverarincon/top-animes",
+  "id_no": 4382857,
+  "datasetSlugNullable": "top-animes",
+  "ownerUserNullable": "wirdinriverarincon",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Top Animes From 1960-2024",
+  "subtitleNullable": "Top Animes Based Off Of Score From MyAnimeList.com",
+  "descriptionNullable": "This dataset has been scraped from the website MyAnimeList.com based off of the most popular titles sorted by score. It contains the next columns:\n\n- Title\n- Emition Date\n- Rank\n- Users/Viewers\n- Score\n- Episodes",
+  "datasetId": 4382857,
+  "datasetSlug": "top-animes",
+  "hasDatasetSlug": true,
+  "ownerUser": "wirdinriverarincon",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 443,
+  "totalVotes": 4,
+  "totalDownloads": 59,
+  "title": "Top Animes From 1960-2024",
+  "hasTitle": true,
+  "subtitle": "Top Animes Based Off Of Score From MyAnimeList.com",
+  "hasSubtitle": true,
+  "description": "This dataset has been scraped from the website MyAnimeList.com based off of the most popular titles sorted by score. It contains the next columns:\n\n- Title\n- Emition Date\n- Rank\n- Users/Viewers\n- Score\n- Episodes",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

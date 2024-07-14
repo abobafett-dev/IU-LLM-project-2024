@@ -1,0 +1,40 @@
+{
+  "id": "osamurai/covid19-japan-prefectures-daily-dataset",
+  "id_no": 1936895,
+  "datasetSlugNullable": "covid19-japan-prefectures-daily-dataset",
+  "ownerUserNullable": "osamurai",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "covid19 Japan prefectures daily dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "### About\nDaily COVID19 dataset in Japan\n\n- # of infected person per prefecture\n- # of death per prefecture\n\n### Period\n2020/1/16-2022/2/15 (762 days)\n\n### Notebook\n[EDA Japan COVID-19 infection](https://www.kaggle.com/osamurai/eda-japan-covid-19-infection)\n\n### Updating schedule\nI will update datasets and maintain notebook if I feel like to do it. (Maybe once a month)\n\n### Reference\nhttps://www3.nhk.or.jp/news/special/coronavirus/data/",
+  "datasetId": 1936895,
+  "datasetSlug": "covid19-japan-prefectures-daily-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "osamurai",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 491,
+  "totalVotes": 5,
+  "totalDownloads": 39,
+  "title": "covid19 Japan prefectures daily dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### About\nDaily COVID19 dataset in Japan\n\n- # of infected person per prefecture\n- # of death per prefecture\n\n### Period\n2020/1/16-2022/2/15 (762 days)\n\n### Notebook\n[EDA Japan COVID-19 infection](https://www.kaggle.com/osamurai/eda-japan-covid-19-infection)\n\n### Updating schedule\nI will update datasets and maintain notebook if I feel like to do it. (Maybe once a month)\n\n### Reference\nhttps://www3.nhk.or.jp/news/special/coronavirus/data/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

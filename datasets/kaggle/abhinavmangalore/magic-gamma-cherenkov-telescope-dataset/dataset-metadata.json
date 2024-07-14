@@ -1,0 +1,43 @@
+{
+  "id": "abhinavmangalore/magic-gamma-cherenkov-telescope-dataset",
+  "id_no": 2841298,
+  "datasetSlugNullable": "magic-gamma-cherenkov-telescope-dataset",
+  "ownerUserNullable": "abhinavmangalore",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "MAGIC Gamma Cherenkov Telescope Dataset",
+  "subtitleNullable": "Dataset MC generated to simulate registration of high-energy gamma particles",
+  "descriptionNullable": "======================================================================\nThis is a .csv file dataset from the UCI Machine Learning Repository. The data used in this study is computer generated to simulate the detection of high energy gamma particles using a ground-based atmospheric Cherenkov gamma telescope. This type of telescope detects gamma rays by using the radiation emitted by charged particles produced during electromagnetic showers in the atmosphere. This radiation is recorded by the detector and is used to reconstruct the shower parameters. The information available consists of pulses left by incoming Cherenkov photons on photomultiplier tubes, which are arranged in a camera. Depending on the energy of the primary gamma, a total of few hundreds to some 10000 Cherenkov photons get collected, in patterns (called the shower image), allowing to discriminate statistically those caused by primary gammas (signal) from the images of hadronic showers initiated by cosmic rays in the upper atmosphere (background).\n\nDepending on the energy of the primary gamma, a total of few hundreds to some 10000 Cherenkov photons get collected, in patterns (called the shower image), allowing to discriminate statistically those caused by primary gammas (signal) from the images of hadronic showers initiated by cosmic rays in the upper atmosphere (background).\n\n\nFor technical reasons, the number of h events is underestimated. In the real data, the h class represents the majority of the events.\n\nThe simple classification accuracy is not meaningful for this data, since classifying a background event as signal is worse than classifying a signal event as background. For comparison of different classifiers an ROC curve has to be used. The relevant points on this curve are those, where the probability of accepting a background event as signal is below one of the following thresholds: 0.01, 0.02, 0.05, 0.1, 0.2 depending on the required quality of the sample of the accepted events for different experiments.\n\nCredits:\nDua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.\nSource:\n\nOriginal Owner:\nR. K. Bock\nMajor Atmospheric Gamma Imaging Cherenkov Telescope project (MAGIC)\nhttp://wwwmagic.mppmu.mpg.de\nrkb'@'mail.cern.ch\n\nDonor:\nP. Savicky\nInstitute of Computer Science, AS of CR\nCzech Republic\nsavicky'@'cs.cas.cz\n",
+  "datasetId": 2841298,
+  "datasetSlug": "magic-gamma-cherenkov-telescope-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "abhinavmangalore",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 564,
+  "totalVotes": 9,
+  "totalDownloads": 85,
+  "title": "MAGIC Gamma Cherenkov Telescope Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset MC generated to simulate registration of high-energy gamma particles",
+  "hasSubtitle": true,
+  "description": "======================================================================\nThis is a .csv file dataset from the UCI Machine Learning Repository. The data used in this study is computer generated to simulate the detection of high energy gamma particles using a ground-based atmospheric Cherenkov gamma telescope. This type of telescope detects gamma rays by using the radiation emitted by charged particles produced during electromagnetic showers in the atmosphere. This radiation is recorded by the detector and is used to reconstruct the shower parameters. The information available consists of pulses left by incoming Cherenkov photons on photomultiplier tubes, which are arranged in a camera. Depending on the energy of the primary gamma, a total of few hundreds to some 10000 Cherenkov photons get collected, in patterns (called the shower image), allowing to discriminate statistically those caused by primary gammas (signal) from the images of hadronic showers initiated by cosmic rays in the upper atmosphere (background).\n\nDepending on the energy of the primary gamma, a total of few hundreds to some 10000 Cherenkov photons get collected, in patterns (called the shower image), allowing to discriminate statistically those caused by primary gammas (signal) from the images of hadronic showers initiated by cosmic rays in the upper atmosphere (background).\n\n\nFor technical reasons, the number of h events is underestimated. In the real data, the h class represents the majority of the events.\n\nThe simple classification accuracy is not meaningful for this data, since classifying a background event as signal is worse than classifying a signal event as background. For comparison of different classifiers an ROC curve has to be used. The relevant points on this curve are those, where the probability of accepting a background event as signal is below one of the following thresholds: 0.01, 0.02, 0.05, 0.1, 0.2 depending on the required quality of the sample of the accepted events for different experiments.\n\nCredits:\nDua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.\nSource:\n\nOriginal Owner:\nR. K. Bock\nMajor Atmospheric Gamma Imaging Cherenkov Telescope project (MAGIC)\nhttp://wwwmagic.mppmu.mpg.de\nrkb'@'mail.cern.ch\n\nDonor:\nP. Savicky\nInstitute of Computer Science, AS of CR\nCzech Republic\nsavicky'@'cs.cas.cz\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "earth and nature",
+    "astronomy",
+    "intermediate",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

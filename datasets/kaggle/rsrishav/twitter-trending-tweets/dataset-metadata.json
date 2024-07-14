@@ -1,0 +1,43 @@
+{
+  "id": "rsrishav/twitter-trending-tweets",
+  "id_no": 1360303,
+  "datasetSlugNullable": "twitter-trending-tweets",
+  "ownerUserNullable": "rsrishav",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Twitter: Trending Tweets per week (updated weekly)",
+  "subtitleNullable": "Twitter trending data (Tweets, Trends, Trend-Hashtags) gets updated weekly.",
+  "descriptionNullable": "&gt; Twitter trending data (Tweets, Trends, Trend-Hashtags) gets updated weekly.\n\n\n### Content\n`all_trends_data.csv`: This file contains data for all trends whether the trend is with a hashtag or not.\n`hashtag_trends_data.csv`: This file contains data for all trends only with the hashtag.\n`twitter_trending_data.csv`: Tweet data for the trends.\n\n\n### Acknowledgements\nThis dataset was collected using the Twitter API.\n\n### Inspiration\nThis data collected to see what trends the most at which time frame.\nTwitter contains vast information which can be used for many use-cases. Though I didn't explore it yet but I'm sure it can be used in many ways.",
+  "datasetId": 1360303,
+  "datasetSlug": "twitter-trending-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "rsrishav",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 10310,
+  "totalVotes": 13,
+  "totalDownloads": 520,
+  "title": "Twitter: Trending Tweets per week (updated weekly)",
+  "hasTitle": true,
+  "subtitle": "Twitter trending data (Tweets, Trends, Trend-Hashtags) gets updated weekly.",
+  "hasSubtitle": true,
+  "description": "&gt; Twitter trending data (Tweets, Trends, Trend-Hashtags) gets updated weekly.\n\n\n### Content\n`all_trends_data.csv`: This file contains data for all trends whether the trend is with a hashtag or not.\n`hashtag_trends_data.csv`: This file contains data for all trends only with the hashtag.\n`twitter_trending_data.csv`: Tweet data for the trends.\n\n\n### Acknowledgements\nThis dataset was collected using the Twitter API.\n\n### Inspiration\nThis data collected to see what trends the most at which time frame.\nTwitter contains vast information which can be used for many use-cases. Though I didn't explore it yet but I'm sure it can be used in many ways.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "time series analysis",
+    "tabular",
+    "email and messaging",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

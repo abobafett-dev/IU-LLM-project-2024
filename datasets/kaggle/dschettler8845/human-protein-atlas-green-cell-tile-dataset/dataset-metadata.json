@@ -1,0 +1,43 @@
+{
+  "id": "dschettler8845/human-protein-atlas-green-cell-tile-dataset",
+  "id_no": 1134582,
+  "datasetSlugNullable": "human-protein-atlas-green-cell-tile-dataset",
+  "ownerUserNullable": "dschettler8845",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Human Protein Atlas - Green Cell Tile Dataset",
+  "subtitleNullable": "Individual Cells From the HPA Competition Data - Green Channel Only (Protein)",
+  "descriptionNullable": "### Context\n\nCreate a dataset to help with the HPA Protein Localization Competition\n\n\n### Content\n\nThis dataset contains individual, square, images of cells from the larger images that had only one label. This will not guarantee that the cell-level label is accurate and may still require additional processing.\n\n**I apologize in advance for the weird folder structure. It's due to zipping and was an unfortunate by-product**\n\n### Acknowledgements\n\nThanks to the competition authors and user Tito for his mask dataset\n\n\n### Inspiration\n\nThis is exactly how I would do it if I was tasked to do this task manually.",
+  "datasetId": 1134582,
+  "datasetSlug": "human-protein-atlas-green-cell-tile-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "dschettler8845",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 2569,
+  "totalVotes": 11,
+  "totalDownloads": 161,
+  "title": "Human Protein Atlas - Green Cell Tile Dataset",
+  "hasTitle": true,
+  "subtitle": "Individual Cells From the HPA Competition Data - Green Channel Only (Protein)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCreate a dataset to help with the HPA Protein Localization Competition\n\n\n### Content\n\nThis dataset contains individual, square, images of cells from the larger images that had only one label. This will not guarantee that the cell-level label is accurate and may still require additional processing.\n\n**I apologize in advance for the weird folder structure. It's due to zipping and was an unfortunate by-product**\n\n### Acknowledgements\n\nThanks to the competition authors and user Tito for his mask dataset\n\n\n### Inspiration\n\nThis is exactly how I would do it if I was tasked to do this task manually.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "intermediate",
+    "advanced",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

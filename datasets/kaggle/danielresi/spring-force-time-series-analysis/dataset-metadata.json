@@ -1,0 +1,39 @@
+{
+  "id": "danielresi/spring-force-time-series-analysis",
+  "id_no": 4635238,
+  "datasetSlugNullable": "spring-force-time-series-analysis",
+  "ownerUserNullable": "danielresi",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Spring Force for time series analysis",
+  "subtitleNullable": "",
+  "descriptionNullable": "1. Dataset Description\nDataset: The dataset consists of daily measurements of the force applied to a spring. This force is measured in Newtons (N) and is captured daily over a specific period.\n\nVariables:\n\nTime (Days): The independent variable that indicates the timing of each measurement. This variable is sequential and represents the daily recording of the force.\nSpring Force (N): The dependent variable indicating the force applied to the spring in Newtons. The measurements of this force are the primary data points in the dataset.\n\n2. System Responses (Output)\nThe nine outcomes represent various responses of the system (the spring) influenced by the applied force. \n\nForce (A-C): How the spring vibrates when loaded and then released.\nRel (A-C): The energy dissipation in the spring due to cyclic loading.\nCat (A-C): The impact of moisture on the material properties and behavior of the spring.\n",
+  "datasetId": 4635238,
+  "datasetSlug": "spring-force-time-series-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "danielresi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 48,
+  "totalVotes": 2,
+  "totalDownloads": 2,
+  "title": "Spring Force for time series analysis",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "1. Dataset Description\nDataset: The dataset consists of daily measurements of the force applied to a spring. This force is measured in Newtons (N) and is captured daily over a specific period.\n\nVariables:\n\nTime (Days): The independent variable that indicates the timing of each measurement. This variable is sequential and represents the daily recording of the force.\nSpring Force (N): The dependent variable indicating the force applied to the spring in Newtons. The measurements of this force are the primary data points in the dataset.\n\n2. System Responses (Output)\nThe nine outcomes represent various responses of the system (the spring) influenced by the applied force. \n\nForce (A-C): How the spring vibrates when loaded and then released.\nRel (A-C): The energy dissipation in the spring due to cyclic loading.\nCat (A-C): The impact of moisture on the material properties and behavior of the spring.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

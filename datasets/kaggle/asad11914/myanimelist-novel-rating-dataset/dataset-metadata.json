@@ -1,0 +1,39 @@
+{
+  "id": "asad11914/myanimelist-novel-rating-dataset",
+  "id_no": 5002650,
+  "datasetSlugNullable": "myanimelist-novel-rating-dataset",
+  "ownerUserNullable": "asad11914",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "MyAnimeList Novel Recommendation Dataset",
+  "subtitleNullable": "MyAnimeList Novel and Light Novel dataset for Recommender System",
+  "descriptionNullable": "This is Novel and Lightnovel rating dataset from MyAnimelist. I use Jikan API v4 to retrieve novel data, user data, and reviews. If you want to Jikan API as well, check out [Jikan API v4 Documentation](https://docs.api.jikan.moe/). Note that it limit the API call to 3 per second, and 60 API call per minutes. \n\nThis Dataset contains four csv files. One for novel details (`novels.csv`), one for users details (`users.csv`), interaction between users and novels (`interactions.csv`), and characters in each novel (`characters.csv`).\n\n - `Novels.csv` file contains data of almost all novel and lightnovel in MyAnimeList. This file have `id`, `title`, english title (`eng_title`), `synopsis`, `type` (novel  or light novel), number of chapters (`n_chapters`), `authors`, `genres`, number of volumes (`n_volumes`), publicity status (`status`), `score`, number of user score this novel (`scored_by`), `popularity`, `favorites`, release year `year_start`, finnish year (`year_finnish`), and novel's cover `image` in form of URL. This file excludes novels and light novels that have genres `H3ntai`, `Ecchi`, `Boys Love`, and `Girls Love` because this dataset is used for school projects, and my team feels it's safer to exclude those genres. The genre `Magical Sex Shift` is changed into `Gender Shift` so the user can have better understanding.\n\n - `Users.csv` file contains user data such as username, gender, and age. Although gender and age are included, most of users don't publicize their gender and birth date. \n\n - `Interactions.csv` file contains users interaction to novels. This interaction is retrieved from Jikan API scrapping using `mangaUserUpdate`, where status is 'Add To Read List', 'Reading' or 'Complete' is considered as positive feedback and the others are negative feedback. This version has positive feedback around 92% of the entire data.\n\n - `Characters.csv` file contains characters data including name, novel_id, and description. novel_id is declaring which novel the character is from. Description is the description of the character. Each character can have different formats of description, i.e. Chitanda have age, hair color, and eye color in the description, where Sakura Yamauchi don't have them",
+  "datasetId": 5002650,
+  "datasetSlug": "myanimelist-novel-rating-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "asad11914",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 128,
+  "totalVotes": 1,
+  "totalDownloads": 16,
+  "title": "MyAnimeList Novel Recommendation Dataset",
+  "hasTitle": true,
+  "subtitle": "MyAnimeList Novel and Light Novel dataset for Recommender System",
+  "hasSubtitle": true,
+  "description": "This is Novel and Lightnovel rating dataset from MyAnimelist. I use Jikan API v4 to retrieve novel data, user data, and reviews. If you want to Jikan API as well, check out [Jikan API v4 Documentation](https://docs.api.jikan.moe/). Note that it limit the API call to 3 per second, and 60 API call per minutes. \n\nThis Dataset contains four csv files. One for novel details (`novels.csv`), one for users details (`users.csv`), interaction between users and novels (`interactions.csv`), and characters in each novel (`characters.csv`).\n\n - `Novels.csv` file contains data of almost all novel and lightnovel in MyAnimeList. This file have `id`, `title`, english title (`eng_title`), `synopsis`, `type` (novel  or light novel), number of chapters (`n_chapters`), `authors`, `genres`, number of volumes (`n_volumes`), publicity status (`status`), `score`, number of user score this novel (`scored_by`), `popularity`, `favorites`, release year `year_start`, finnish year (`year_finnish`), and novel's cover `image` in form of URL. This file excludes novels and light novels that have genres `H3ntai`, `Ecchi`, `Boys Love`, and `Girls Love` because this dataset is used for school projects, and my team feels it's safer to exclude those genres. The genre `Magical Sex Shift` is changed into `Gender Shift` so the user can have better understanding.\n\n - `Users.csv` file contains user data such as username, gender, and age. Although gender and age are included, most of users don't publicize their gender and birth date. \n\n - `Interactions.csv` file contains users interaction to novels. This interaction is retrieved from Jikan API scrapping using `mangaUserUpdate`, where status is 'Add To Read List', 'Reading' or 'Complete' is considered as positive feedback and the others are negative feedback. This version has positive feedback around 92% of the entire data.\n\n - `Characters.csv` file contains characters data including name, novel_id, and description. novel_id is declaring which novel the character is from. Description is the description of the character. Each character can have different formats of description, i.e. Chitanda have age, hair color, and eye color in the description, where Sakura Yamauchi don't have them",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "recommender systems"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

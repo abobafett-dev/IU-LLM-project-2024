@@ -1,0 +1,42 @@
+{
+  "id": "tolgaik/marvel-comic-list",
+  "id_no": 2586696,
+  "datasetSlugNullable": "marvel-comic-list",
+  "ownerUserNullable": "tolgaik",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Marvel Comic List",
+  "subtitleNullable": "Marvel all time comic listing",
+  "descriptionNullable": "# Information\nList of all comics from Marvel to date with python web scraping on comics.org\n\n# How to use the dataset\nThis dataset can be used for exploratory data analysis\n\n# Column Description\n* Series: Series Name\n* Year: Published Year\n* Issues: Count of issues\n* Covers: Count of Covers\n* Published: Published Date\n* Series Link: The Url of the Series Detail page\n* Covers1 Link: The Url of the Covers1 Detail page\n* Covers2 Link: The Url of the Covers2 Detail page",
+  "datasetId": 2586696,
+  "datasetSlug": "marvel-comic-list",
+  "hasDatasetSlug": true,
+  "ownerUser": "tolgaik",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 712,
+  "totalVotes": 11,
+  "totalDownloads": 74,
+  "title": "Marvel Comic List",
+  "hasTitle": true,
+  "subtitle": "Marvel all time comic listing",
+  "hasSubtitle": true,
+  "description": "# Information\nList of all comics from Marvel to date with python web scraping on comics.org\n\n# How to use the dataset\nThis dataset can be used for exploratory data analysis\n\n# Column Description\n* Series: Series Name\n* Year: Published Year\n* Issues: Count of issues\n* Covers: Count of Covers\n* Published: Published Date\n* Series Link: The Url of the Series Detail page\n* Covers1 Link: The Url of the Covers1 Detail page\n* Covers2 Link: The Url of the Covers2 Detail page",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data cleaning",
+    "data analytics",
+    "comics and animation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "manish9569/adidas-us-sales-data",
+  "id_no": 4485119,
+  "datasetSlugNullable": "adidas-us-sales-data",
+  "ownerUserNullable": "manish9569",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "ADIDAS US SALES DATA ANALYSIS ",
+  "subtitleNullable": "PYTHON PROJECT Adidas US Sports Product Sales",
+  "descriptionNullable": "Explore the dynamic world of Adidas US Sales with this comprehensive dataset. The dataset encapsulates detailed information on sales transactions, retailer details, product categories, and more. Each entry includes critical metrics such as total sales, operating profit, units sold, and various operational aspects.\n\nKey Points:\n- Rich sales data spanning from 2020 to 2021.\n- Granular details on product types, retailers, and sales methods.\n- Insights into regional performance, pricing strategies, and operating margins.\n- Ideal for exploratory data analysis, predictive modeling, and business strategy formulation.\n\nDataset Columns Which I am Using For Analysis:\n- Retailer\n- Retailer ID\n- Invoice Date\n- Region\n- State\n- City\n- Product\n- Price per Unit\n- Units Sold\n- Total Sales\n- Operating Profit\n- Operating Margin\n- Sales Method\n- Year\nThis dataset to derive actionable insights, refine business strategies, and elevate your data analysis skills. Dive into the world of Adidas US Sales and uncover the stories hidden in the numbers.",
+  "datasetId": 4485119,
+  "datasetSlug": "adidas-us-sales-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "manish9569",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 574,
+  "totalVotes": 1,
+  "totalDownloads": 160,
+  "title": "ADIDAS US SALES DATA ANALYSIS ",
+  "hasTitle": true,
+  "subtitle": "PYTHON PROJECT Adidas US Sports Product Sales",
+  "hasSubtitle": true,
+  "description": "Explore the dynamic world of Adidas US Sales with this comprehensive dataset. The dataset encapsulates detailed information on sales transactions, retailer details, product categories, and more. Each entry includes critical metrics such as total sales, operating profit, units sold, and various operational aspects.\n\nKey Points:\n- Rich sales data spanning from 2020 to 2021.\n- Granular details on product types, retailers, and sales methods.\n- Insights into regional performance, pricing strategies, and operating margins.\n- Ideal for exploratory data analysis, predictive modeling, and business strategy formulation.\n\nDataset Columns Which I am Using For Analysis:\n- Retailer\n- Retailer ID\n- Invoice Date\n- Region\n- State\n- City\n- Product\n- Price per Unit\n- Units Sold\n- Total Sales\n- Operating Profit\n- Operating Margin\n- Sales Method\n- Year\nThis dataset to derive actionable insights, refine business strategies, and elevate your data analysis skills. Dive into the world of Adidas US Sales and uncover the stories hidden in the numbers.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "data cleaning",
+    "data visualization",
+    "data analytics",
+    "graph"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

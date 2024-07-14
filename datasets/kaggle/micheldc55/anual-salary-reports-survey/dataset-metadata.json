@@ -1,0 +1,42 @@
+{
+  "id": "micheldc55/anual-salary-reports-survey",
+  "id_no": 2506069,
+  "datasetSlugNullable": "anual-salary-reports-survey",
+  "ownerUserNullable": "micheldc55",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Anual Salary reports survey",
+  "subtitleNullable": "Simulated salaries for Data Analysis",
+  "descriptionNullable": "Simulated salaries to run correlations between salaries and ages. Used for a class that I taught this year, though it would be interesting to see what predictions you can generate based on the data available! If you have any interesting ideas, please do not hesitate to contact me!\n\nThe file was created using a \";\" separator, so be sure to use that if you are using pandas for reading the file!",
+  "datasetId": 2506069,
+  "datasetSlug": "anual-salary-reports-survey",
+  "hasDatasetSlug": true,
+  "ownerUser": "micheldc55",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 11338,
+  "totalVotes": 31,
+  "totalDownloads": 2222,
+  "title": "Anual Salary reports survey",
+  "hasTitle": true,
+  "subtitle": "Simulated salaries for Data Analysis",
+  "hasSubtitle": true,
+  "description": "Simulated salaries to run correlations between salaries and ages. Used for a class that I taught this year, though it would be interesting to see what predictions you can generate based on the data available! If you have any interesting ideas, please do not hesitate to contact me!\n\nThe file was created using a \";\" separator, so be sure to use that if you are using pandas for reading the file!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "south america",
+    "economics",
+    "beginner",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

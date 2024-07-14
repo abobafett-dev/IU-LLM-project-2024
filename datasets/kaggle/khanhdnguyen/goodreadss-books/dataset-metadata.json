@@ -1,0 +1,43 @@
+{
+  "id": "khanhdnguyen/goodreadss-books",
+  "id_no": 1227674,
+  "datasetSlugNullable": "goodreadss-books",
+  "ownerUserNullable": "khanhdnguyen",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Goodreads's Books",
+  "subtitleNullable": "The collection of books listed on Goodreads.",
+  "descriptionNullable": "### Context\n\nThis dataset consists of over 20,000 books available on Goodreads. The dataset is collected by crawling information directly from official [Goodreads website](https://www.goodreads.com/).<br>\nSince December 2020, Goodreads no longer issues new developer keys for public developer API. Therefore, goodreads crawler project has been created to retrieve raw data from the website.\n\n*Note - Raw data alert:*\n- Duplicates\n- Missing values\n- Invalid values\n- Multi-values columns\n- Datetime formats\n\n### Content\n\nFeatures:\n- bookID: book's ID\n- title: book's title\n- authors: list of authors\n- description: summary description\n- num_ratings: total number of ratings\n- num_reviews: total number of reviews\n- avg_rating: average rating\n- language: languages\n- publish date: current book's published date\n- first_publish_date: The published date of first version\n- series: book's series\n- characters: list of characters \n- places: book's places\n- awards: List of winning awards\n- genres: list of book's genres\n- isbn: International Standard Book Number\n- isbn13: International Standard Book Number (13 digits)\n- rated 5, 4, 3, 2, 1: Number of rated reviews\n\n### Inspiration\n\n* Data wrangling\n* Data visualisation\n* Book classification\n* Book recommendation\n* Predict book popularity/ratings\n\n*Please upvote if you found this dataset is useful*",
+  "datasetId": 1227674,
+  "datasetSlug": "goodreadss-books",
+  "hasDatasetSlug": true,
+  "ownerUser": "khanhdnguyen",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 2799,
+  "totalVotes": 11,
+  "totalDownloads": 505,
+  "title": "Goodreads's Books",
+  "hasTitle": true,
+  "subtitle": "The collection of books listed on Goodreads.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset consists of over 20,000 books available on Goodreads. The dataset is collected by crawling information directly from official [Goodreads website](https://www.goodreads.com/).<br>\nSince December 2020, Goodreads no longer issues new developer keys for public developer API. Therefore, goodreads crawler project has been created to retrieve raw data from the website.\n\n*Note - Raw data alert:*\n- Duplicates\n- Missing values\n- Invalid values\n- Multi-values columns\n- Datetime formats\n\n### Content\n\nFeatures:\n- bookID: book's ID\n- title: book's title\n- authors: list of authors\n- description: summary description\n- num_ratings: total number of ratings\n- num_reviews: total number of reviews\n- avg_rating: average rating\n- language: languages\n- publish date: current book's published date\n- first_publish_date: The published date of first version\n- series: book's series\n- characters: list of characters \n- places: book's places\n- awards: List of winning awards\n- genres: list of book's genres\n- isbn: International Standard Book Number\n- isbn13: International Standard Book Number (13 digits)\n- rated 5, 4, 3, 2, 1: Number of rated reviews\n\n### Inspiration\n\n* Data wrangling\n* Data visualisation\n* Book classification\n* Book recommendation\n* Predict book popularity/ratings\n\n*Please upvote if you found this dataset is useful*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "beginner",
+    "intermediate",
+    "data cleaning",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

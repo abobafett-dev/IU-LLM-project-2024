@@ -1,0 +1,39 @@
+{
+  "id": "unfriendlyai/fractal-brownian-motion",
+  "id_no": 3047309,
+  "datasetSlugNullable": "fractal-brownian-motion",
+  "ownerUserNullable": "unfriendlyai",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Fractal Brownian motion",
+  "subtitleNullable": "FBM time series (1024 time steps) with ground truth future quantiles (1024 ts)",
+  "descriptionNullable": "Fractal Brownian motion Time Series Dataset for Evaluating Probabilistic Forecasting    \n\nTime series with fractal features create additional complexity in their prediction by machine learning methods. The resulting predictions must retain the Hurst exponent and the variance of the original time series increments, which indicates that the approach is accurate and reliable. This dataset is designed for evaluating machine learning models  for probabilistic prediction of time series.\nThe dataset consists of 99 files. Each file contains samples of certain Hurst exponent value H in range [0.01 .. 0.99]. The last two symbols of filename are equal to H*100.  There are 100 time series examples of 1024 time steps with ground truth quantiles for another 1024 future time steps. \nThe dataset does not contain point prediction. It contains 101 quantiles for evaluating the probability distribution the model outputs. 0th and 100th quantiles are minimum and maximum values of 10000 future variants of the example. 50th quantiles is the median value of those  10000 future variants and so on.\n\nEach file shold be read as python dictionary using np.load, for example:\nloaded_dict = np.load('/kaggle/input/fractal-brownian-motion/fbm1024_h75.npy', allow_pickle=True).item()\n\nThat dictionary consists of:\n        loaded_dict['ts'] list of 50 time series [1024,] arrays\n        loaded_dict['quantiles'] list of 100 corresponding future 101 quantiles [101, 1024] arrays\n\nExample of using and visualising is shown in notebook.\n\nFractional Brownian motion (fBm), also called a fractal Brownian motion, is a generalization of Brownian motion. Unlike classical Brownian motion, the increments of fBm need not be independent.\nThe Hurst exponent describes the raggedness of the resultant motion, with a higher value leading to a smoother motion.\nThe value of H determines what kind of process the fBm is:\nif H = 1/2 then the process is in fact a Brownian motion or Wiener process;\nif H &gt; 1/2 then the increments of the process are positively correlated;\nif H &lt; 1/2 then the increments of the process are negatively correlated.\n\n\nCite: Kirichenko L, Lavrynenko R. Probabilistic Machine Learning Methods for Fractional Brownian Motion Time Series Forecasting. Fractal and Fractional. 2023; 7(7):517. https://doi.org/10.3390/fractalfract7070517",
+  "datasetId": 3047309,
+  "datasetSlug": "fractal-brownian-motion",
+  "hasDatasetSlug": true,
+  "ownerUser": "unfriendlyai",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 568,
+  "totalVotes": 0,
+  "totalDownloads": 15,
+  "title": "Fractal Brownian motion",
+  "hasTitle": true,
+  "subtitle": "FBM time series (1024 time steps) with ground truth future quantiles (1024 ts)",
+  "hasSubtitle": true,
+  "description": "Fractal Brownian motion Time Series Dataset for Evaluating Probabilistic Forecasting    \n\nTime series with fractal features create additional complexity in their prediction by machine learning methods. The resulting predictions must retain the Hurst exponent and the variance of the original time series increments, which indicates that the approach is accurate and reliable. This dataset is designed for evaluating machine learning models  for probabilistic prediction of time series.\nThe dataset consists of 99 files. Each file contains samples of certain Hurst exponent value H in range [0.01 .. 0.99]. The last two symbols of filename are equal to H*100.  There are 100 time series examples of 1024 time steps with ground truth quantiles for another 1024 future time steps. \nThe dataset does not contain point prediction. It contains 101 quantiles for evaluating the probability distribution the model outputs. 0th and 100th quantiles are minimum and maximum values of 10000 future variants of the example. 50th quantiles is the median value of those  10000 future variants and so on.\n\nEach file shold be read as python dictionary using np.load, for example:\nloaded_dict = np.load('/kaggle/input/fractal-brownian-motion/fbm1024_h75.npy', allow_pickle=True).item()\n\nThat dictionary consists of:\n        loaded_dict['ts'] list of 50 time series [1024,] arrays\n        loaded_dict['quantiles'] list of 100 corresponding future 101 quantiles [101, 1024] arrays\n\nExample of using and visualising is shown in notebook.\n\nFractional Brownian motion (fBm), also called a fractal Brownian motion, is a generalization of Brownian motion. Unlike classical Brownian motion, the increments of fBm need not be independent.\nThe Hurst exponent describes the raggedness of the resultant motion, with a higher value leading to a smoother motion.\nThe value of H determines what kind of process the fBm is:\nif H = 1/2 then the process is in fact a Brownian motion or Wiener process;\nif H &gt; 1/2 then the increments of the process are positively correlated;\nif H &lt; 1/2 then the increments of the process are negatively correlated.\n\n\nCite: Kirichenko L, Lavrynenko R. Probabilistic Machine Learning Methods for Fractional Brownian Motion Time Series Forecasting. Fractal and Fractional. 2023; 7(7):517. https://doi.org/10.3390/fractalfract7070517",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

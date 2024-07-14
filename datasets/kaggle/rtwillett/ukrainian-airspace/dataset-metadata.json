@@ -1,0 +1,41 @@
+{
+  "id": "rtwillett/ukrainian-airspace",
+  "id_no": 1961580,
+  "datasetSlugNullable": "ukrainian-airspace",
+  "ownerUserNullable": "rtwillett",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Ukraine Airspace",
+  "subtitleNullable": "OpenSky Flight Data for Geofence Around Ukraine (2/22/2022 - present)",
+  "descriptionNullable": "### Context\n\nDuring the build-up to the Ukrainian invasions, I wrote an API to pull down data every minute from the OpenSky API for a geofence around the Ukraine (42.0, 56.5, 20.74, 46.6) and started collection of flight data in Ukrainian airspace on 2/22/2022. This data set is being continuous collected and will updated daily until I can set up automated upload.\n\n### Content\n\nThe data contains ICAO 24-bit code, callsign, origin country, time, last contact time, longitude, latitude, barometic altitude, a boolean if the aircraft is one the ground, velocity, heading, vertical_rate, sensors, geo_altitude, squawk, spi, and position source.\n\n\n### Acknowledgements\n\nThanks to the OpenSky API\n",
+  "datasetId": 1961580,
+  "datasetSlug": "ukrainian-airspace",
+  "hasDatasetSlug": true,
+  "ownerUser": "rtwillett",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9275,
+  "totalVotes": 39,
+  "totalDownloads": 630,
+  "title": "Ukraine Airspace",
+  "hasTitle": true,
+  "subtitle": "OpenSky Flight Data for Geofence Around Ukraine (2/22/2022 - present)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nDuring the build-up to the Ukrainian invasions, I wrote an API to pull down data every minute from the OpenSky API for a geofence around the Ukraine (42.0, 56.5, 20.74, 46.6) and started collection of flight data in Ukrainian airspace on 2/22/2022. This data set is being continuous collected and will updated daily until I can set up automated upload.\n\n### Content\n\nThe data contains ICAO 24-bit code, callsign, origin country, time, last contact time, longitude, latitude, barometic altitude, a boolean if the aircraft is one the ground, velocity, heading, vertical_rate, sensors, geo_altitude, squawk, spi, and position source.\n\n\n### Acknowledgements\n\nThanks to the OpenSky API\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "russia",
+    "transportation",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

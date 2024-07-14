@@ -1,0 +1,41 @@
+{
+  "id": "bsoyka3/educational-stress-due-to-the-coronavirus-pandemic",
+  "id_no": 1014717,
+  "datasetSlugNullable": "educational-stress-due-to-the-coronavirus-pandemic",
+  "ownerUserNullable": "bsoyka3",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "COVID-19's Impact on Educational Stress",
+  "subtitleNullable": "Responses from a public survey of students",
+  "descriptionNullable": "[![Made by Statistry](https://statistry.bsoyka.me/img/badge.png)](https://statistry.bsoyka.me/?utm_source=dataset_description&utm_medium=referral&utm_campaign=educational_stress_due_to_the_coronavirus_pandemic)\n\nThe survey collecting this information is still open for responses [here](https://docs.google.com/forms/d/e/1FAIpQLSfAClggsWPHw1w6qqxpmOB8tRj_TxqFARq-w4qp9aIsawGYqA/viewform).\n\n### Context\n\nI just made this public survey because I want someone to be able to do something fun or insightful with the data that's been gathered. [You can fill it out too!](https://docs.google.com/forms/d/e/1FAIpQLSfAClggsWPHw1w6qqxpmOB8tRj_TxqFARq-w4qp9aIsawGYqA/viewform)\n\n\n### Content\n\nEach row represents a response to the survey. A few things have been done to sanitize the raw responses:\n- Column names and options have been renamed to make them easier to work with without much loss of meaning.\n- Responses from non-students have been removed.\n- Responses with ages greater than or equal to 22 have been removed.\n\nTake a look at the column description for each column to see what exactly it represents.\n\n\n### Acknowledgements\n\nThis dataset wouldn't exist without the help of others. I'd like to thank the following people for their contributions:\n- Every student who responded to the survey with valid responses\n- [@radcliff on GitHub](https://github.com/radcliff) for providing the [list of countries and abbreviations](https://gist.github.com/radcliff/f09c0f88344a7fcef373) used in the survey and dataset\n- [Giovanna de Vincenzo](https://www.kaggle.com/giodev11) for providing the [list of US states](https://www.kaggle.com/giodev11/usstates-dataset) used in the survey and dataset\n- [Simon Migaj](https://unsplash.com/@simonmigaj) for providing the [image](https://unsplash.com/photos/Yui5vfKHuzs) used for the survey and this dataset",
+  "datasetId": 1014717,
+  "datasetSlug": "educational-stress-due-to-the-coronavirus-pandemic",
+  "hasDatasetSlug": true,
+  "ownerUser": "bsoyka3",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 23453,
+  "totalVotes": 44,
+  "totalDownloads": 3530,
+  "title": "COVID-19's Impact on Educational Stress",
+  "hasTitle": true,
+  "subtitle": "Responses from a public survey of students",
+  "hasSubtitle": true,
+  "description": "[![Made by Statistry](https://statistry.bsoyka.me/img/badge.png)](https://statistry.bsoyka.me/?utm_source=dataset_description&utm_medium=referral&utm_campaign=educational_stress_due_to_the_coronavirus_pandemic)\n\nThe survey collecting this information is still open for responses [here](https://docs.google.com/forms/d/e/1FAIpQLSfAClggsWPHw1w6qqxpmOB8tRj_TxqFARq-w4qp9aIsawGYqA/viewform).\n\n### Context\n\nI just made this public survey because I want someone to be able to do something fun or insightful with the data that's been gathered. [You can fill it out too!](https://docs.google.com/forms/d/e/1FAIpQLSfAClggsWPHw1w6qqxpmOB8tRj_TxqFARq-w4qp9aIsawGYqA/viewform)\n\n\n### Content\n\nEach row represents a response to the survey. A few things have been done to sanitize the raw responses:\n- Column names and options have been renamed to make them easier to work with without much loss of meaning.\n- Responses from non-students have been removed.\n- Responses with ages greater than or equal to 22 have been removed.\n\nTake a look at the column description for each column to see what exactly it represents.\n\n\n### Acknowledgements\n\nThis dataset wouldn't exist without the help of others. I'd like to thank the following people for their contributions:\n- Every student who responded to the survey with valid responses\n- [@radcliff on GitHub](https://github.com/radcliff) for providing the [list of countries and abbreviations](https://gist.github.com/radcliff/f09c0f88344a7fcef373) used in the survey and dataset\n- [Giovanna de Vincenzo](https://www.kaggle.com/giodev11) for providing the [list of US states](https://www.kaggle.com/giodev11/usstates-dataset) used in the survey and dataset\n- [Simon Migaj](https://unsplash.com/@simonmigaj) for providing the [image](https://unsplash.com/photos/Yui5vfKHuzs) used for the survey and this dataset",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "education",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "shivamb/go-emotions-google-emotions-dataset",
+  "id_no": 1725235,
+  "datasetSlugNullable": "go-emotions-google-emotions-dataset",
+  "ownerUserNullable": "shivamb",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Go Emotions: Google Emotions Dataset",
+  "subtitleNullable": "Google AI dataset for sentiment / emotions analysis",
+  "descriptionNullable": "The Google AI GoEmotions dataset consists of comments from Reddit users with labels of their emotional coloring. GoEmotions is designed to train neural networks to perform deep analysis of the tonality of texts. Most of the existing emotion classification datasets cover certain areas (for example, news headlines and movie subtitles), are small in size and use a scale of only six basic emotions (anger, surprise, disgust, joy, fear, and sadness). The expansion of the emotional spectrum considered in datasets could make it possible to create more sensitive chatbots, models for detecting dangerous behavior on the Internet, as well as improve customer support services.\n\nThe categories of emotions were identified by Google together with psychologists and include 12 positive,, 11 negative, 4 ambiguous emotions, and 1 neutral, which makes the dataset suitable for solving tasks that require subtle differentiation between different emotions.\n\nSource: https://arxiv.org/pdf/2005.00547.pdf\nGithub: https://github.com/google-research/google-research/tree/master/goemotions",
+  "datasetId": 1725235,
+  "datasetSlug": "go-emotions-google-emotions-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivamb",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 19599,
+  "totalVotes": 43,
+  "totalDownloads": 2026,
+  "title": "Go Emotions: Google Emotions Dataset",
+  "hasTitle": true,
+  "subtitle": "Google AI dataset for sentiment / emotions analysis",
+  "hasSubtitle": true,
+  "description": "The Google AI GoEmotions dataset consists of comments from Reddit users with labels of their emotional coloring. GoEmotions is designed to train neural networks to perform deep analysis of the tonality of texts. Most of the existing emotion classification datasets cover certain areas (for example, news headlines and movie subtitles), are small in size and use a scale of only six basic emotions (anger, surprise, disgust, joy, fear, and sadness). The expansion of the emotional spectrum considered in datasets could make it possible to create more sensitive chatbots, models for detecting dangerous behavior on the Internet, as well as improve customer support services.\n\nThe categories of emotions were identified by Google together with psychologists and include 12 positive,, 11 negative, 4 ambiguous emotions, and 1 neutral, which makes the dataset suitable for solving tasks that require subtle differentiation between different emotions.\n\nSource: https://arxiv.org/pdf/2005.00547.pdf\nGithub: https://github.com/google-research/google-research/tree/master/goemotions",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "nlp",
+    "text",
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

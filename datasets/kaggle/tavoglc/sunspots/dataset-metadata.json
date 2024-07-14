@@ -1,0 +1,41 @@
+{
+  "id": "tavoglc/sunspots",
+  "id_no": 2849123,
+  "datasetSlugNullable": "sunspots",
+  "ownerUserNullable": "tavoglc",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Sunspots",
+  "subtitleNullable": "Sunspots from 1818 to 2022",
+  "descriptionNullable": "# Sunspot Number\n\nDaily Estimated Number of sunspots from 1818 to 2022, added time features for firther analysis. \n\nData from \nWDC-SILSO, Royal Observatory of Belgium, Brussels\n\nImage from  NASA at Unsplash",
+  "datasetId": 2849123,
+  "datasetSlug": "sunspots",
+  "hasDatasetSlug": true,
+  "ownerUser": "tavoglc",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 721,
+  "totalVotes": 2,
+  "totalDownloads": 87,
+  "title": "Sunspots",
+  "hasTitle": true,
+  "subtitle": "Sunspots from 1818 to 2022",
+  "hasSubtitle": true,
+  "description": "# Sunspot Number\n\nDaily Estimated Number of sunspots from 1818 to 2022, added time features for firther analysis. \n\nData from \nWDC-SILSO, Royal Observatory of Belgium, Brussels\n\nImage from  NASA at Unsplash",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "astronomy",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

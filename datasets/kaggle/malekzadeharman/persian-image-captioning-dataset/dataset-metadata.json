@@ -1,0 +1,43 @@
+{
+  "id": "malekzadeharman/persian-image-captioning-dataset",
+  "id_no": 1726543,
+  "datasetSlugNullable": "persian-image-captioning-dataset",
+  "ownerUserNullable": "malekzadeharman",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Persian Image Captioning Dataset",
+  "subtitleNullable": "A collection of images related to Persian news articles",
+  "descriptionNullable": "### Context\n\nThe Persian Image Captioning Dataset is a collection of around 2GB images each related to a news article. There are around 1500 news articles corresponding to the images. The articles were all crawled from the [Tasnim News Agency's website (\"Multimedia News\" Section)](https://www.tasnimnews.com/fa/photos).\n\n\n### Metadata of the dataset \n\nThe file \"news.json\" contains a list of JSON objects each having the following information:\n\n- title: The title of a news article\n- description: A short description of the article\n- category: The category the article belongs to\n- reporter: The name of the reporter who has published this article\n- time: The date and time on which the article was published\n- images: A list of images related to the article (all of them can be found in the \"images\" folder)\n\n### The image files\n\nAll of the files are contained in the \"images\" directory and are in JPEG format. To know which text can describe an image, the user should find the name of that image in the \"news.json\" file (the \"images\" key).\n\n\n### Inspiration\n\nThe \"title\" of each article can be considered as a caption for each image it has. Therefore, the dataset is mainly designed for being used to train image captioner models. Note that one can augment the \"title\"s (e.g., by replacing the Persian words with their synonyms) or augment the images (e.g., by flipping and rotating) to derive a bigger dataset from this one.\n\nAlthough the main usage of this dataset is for image captioning, it can be used for many other tasks. For instance:\n\n- For many of the news, a \"description\" is also available. The \"title\" of an article could be considered as an abstract of the \"description\" of it. Therefore, the dataset can be used for news summarization.\n- Since the articles each belong to a \"category\", the dataset can also be used for News Classification.\n- Someone might use the \"time\" (which is actually both the date and time) of the articles to have some kind of creative time series analysis.",
+  "datasetId": 1726543,
+  "datasetSlug": "persian-image-captioning-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "malekzadeharman",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 5294,
+  "totalVotes": 15,
+  "totalDownloads": 148,
+  "title": "Persian Image Captioning Dataset",
+  "hasTitle": true,
+  "subtitle": "A collection of images related to Persian news articles",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe Persian Image Captioning Dataset is a collection of around 2GB images each related to a news article. There are around 1500 news articles corresponding to the images. The articles were all crawled from the [Tasnim News Agency's website (\"Multimedia News\" Section)](https://www.tasnimnews.com/fa/photos).\n\n\n### Metadata of the dataset \n\nThe file \"news.json\" contains a list of JSON objects each having the following information:\n\n- title: The title of a news article\n- description: A short description of the article\n- category: The category the article belongs to\n- reporter: The name of the reporter who has published this article\n- time: The date and time on which the article was published\n- images: A list of images related to the article (all of them can be found in the \"images\" folder)\n\n### The image files\n\nAll of the files are contained in the \"images\" directory and are in JPEG format. To know which text can describe an image, the user should find the name of that image in the \"news.json\" file (the \"images\" key).\n\n\n### Inspiration\n\nThe \"title\" of each article can be considered as a caption for each image it has. Therefore, the dataset is mainly designed for being used to train image captioner models. Note that one can augment the \"title\"s (e.g., by replacing the Persian words with their synonyms) or augment the images (e.g., by flipping and rotating) to derive a bigger dataset from this one.\n\nAlthough the main usage of this dataset is for image captioning, it can be used for many other tasks. For instance:\n\n- For many of the news, a \"description\" is also available. The \"title\" of an article could be considered as an abstract of the \"description\" of it. Therefore, the dataset can be used for news summarization.\n- Since the articles each belong to a \"category\", the dataset can also be used for News Classification.\n- Someone might use the \"time\" (which is actually both the date and time) of the articles to have some kind of creative time series analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "computer vision",
+    "image",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

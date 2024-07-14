@@ -1,0 +1,42 @@
+{
+  "id": "nayanack/power-consumption",
+  "id_no": 4858116,
+  "datasetSlugNullable": "power-consumption",
+  "ownerUserNullable": "nayanack",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Power Consumption of Tetouan City",
+  "subtitleNullable": "Analysis of Residential Power Usage",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12038776%2F8656e914a85ebc06bb6823f743e8e28e%2Fjpg.jpeg?generation=1713847292872398&alt=media)\n\n# About Dataset\nThis dataset is related to power consumption of three different distribution networks of Tetouan city which is located in north Morocco.\n## Column info\n\n| Variable Name           | Role   | Type            | Description                                                  | Units        | Missing Values |\n|----------------------|-------|--------------|------------------------------------------|------------------|-----------|\n| DateTime                   | Feature|   Date          | Each ten minutes                                        | -                       | no             |\n| Temperature              | Feature| Continuous | Weather Temperature of Tetouan city       | -                       | no             |\n| Humidity                    | Feature| Continuous | Weather Humidity of Tetouan city              | -                       | no             |\n| Wind Speed               | Feature| Continuous | Wind speed of Tetouan city                        | -                       | no             |\n| general diffuse flows | Feature| Continuous | General diffuse flows                               | -                       | no             |\n| diffuse flows              | Feature| Continuous | Diffuse flows                                     | -                       | no             |\n| Zone 1 Power Consumption| Target | Continuous | Power consumption of zone 1 of Tetouan city       | -                    | no            |  \n| Zone 2 Power Consumption| Target | Continuous | Power consumption of zone 2 of Tetouan city       | -                       | no             |\n| Zone 3 Power Consumption| Target | Continuous | Power consumption of zone 3 of Tetouan city       | -                       | no             |\n",
+  "datasetId": 4858116,
+  "datasetSlug": "power-consumption",
+  "hasDatasetSlug": true,
+  "ownerUser": "nayanack",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 411,
+  "totalVotes": 11,
+  "totalDownloads": 83,
+  "title": "Power Consumption of Tetouan City",
+  "hasTitle": true,
+  "subtitle": "Analysis of Residential Power Usage",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12038776%2F8656e914a85ebc06bb6823f743e8e28e%2Fjpg.jpeg?generation=1713847292872398&alt=media)\n\n# About Dataset\nThis dataset is related to power consumption of three different distribution networks of Tetouan city which is located in north Morocco.\n## Column info\n\n| Variable Name           | Role   | Type            | Description                                                  | Units        | Missing Values |\n|----------------------|-------|--------------|------------------------------------------|------------------|-----------|\n| DateTime                   | Feature|   Date          | Each ten minutes                                        | -                       | no             |\n| Temperature              | Feature| Continuous | Weather Temperature of Tetouan city       | -                       | no             |\n| Humidity                    | Feature| Continuous | Weather Humidity of Tetouan city              | -                       | no             |\n| Wind Speed               | Feature| Continuous | Wind speed of Tetouan city                        | -                       | no             |\n| general diffuse flows | Feature| Continuous | General diffuse flows                               | -                       | no             |\n| diffuse flows              | Feature| Continuous | Diffuse flows                                     | -                       | no             |\n| Zone 1 Power Consumption| Target | Continuous | Power consumption of zone 1 of Tetouan city       | -                    | no            |  \n| Zone 2 Power Consumption| Target | Continuous | Power consumption of zone 2 of Tetouan city       | -                       | no             |\n| Zone 3 Power Consumption| Target | Continuous | Power consumption of zone 3 of Tetouan city       | -                       | no             |\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social science",
+    "time series analysis",
+    "regression",
+    "electricity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

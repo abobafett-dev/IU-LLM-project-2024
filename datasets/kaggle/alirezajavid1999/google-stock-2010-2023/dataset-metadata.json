@@ -1,0 +1,43 @@
+{
+  "id": "alirezajavid1999/google-stock-2010-2023",
+  "id_no": 3570475,
+  "datasetSlugNullable": "google-stock-2010-2023",
+  "ownerUserNullable": "alirezajavid1999",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Google Stock (2010-2023)",
+  "subtitleNullable": "dataset contains historical Google stock data for trainig ML and DL models.",
+  "descriptionNullable": "**About the Google Stock Price Dataset**\n\nThe Google Stock Price Dataset consists of two CSV (Comma Separated Values) files containing historical stock price data for training and evaluation. Each row in the dataset represents a trading day, and the columns provide various information related to Google's stock for that day.\n\n**Columns:**\n\nDate: The date of the trading day in the format \"YYYY-MM-DD.\"\n\n\nOpen: The opening price of Google's stock on that trading day.\n\n\nHigh: The highest price reached during the trading day.\n\n\nLow: The lowest price reached during the trading day.\n\n\nClose: The closing price of Google's stock on that trading day.\n\n\nAdj Close: The adjusted closing price, accounting for any corporate actions (e.g., stock splits, dividends) that may affect the stock's value.\n\n\nVolume: The trading volume, representing the number of shares traded on that trading day.\n\n\nTime Period:\nThe train dataset spans from January 1, 2010, to December 31, 2022, providing twelve years of daily stock price information for model training. The test dataset spans from January 1, 2023, to July 30, 2023, providing seven month of daily stock price data for model evaluation.\n\n**Data Source:**\n\nThe dataset was collected from Yahoo Finance (finance.yahoo.com), a reputable and widely-used financial data platform.\n\n**Use Case:**\n\nThe Google Stock Price Dataset can be utilized for various purposes, such as predicting future stock prices, analyzing historical stock trends, and building machine learning models for financial forecasting.\n\n**Potential Applications:**\n\nTime Series Analysis: Explore stock price patterns and seasonality.\nFinancial Modeling: Develop predictive models to forecast stock prices.\nAlgorithmic Trading: Create trading strategies based on historical stock data.\nRisk Management: Assess potential risks and volatilities in the stock market.\n\n**Citation:**\n\nIf you use this dataset in your research or analysis, please provide proper attribution and citation to acknowledge the source.\n\n**License:**\nThis dataset is provided under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication, making it freely available for use without any restrictions or attribution requirements.",
+  "datasetId": 3570475,
+  "datasetSlug": "google-stock-2010-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "alirezajavid1999",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6515,
+  "totalVotes": 36,
+  "totalDownloads": 1393,
+  "title": "Google Stock (2010-2023)",
+  "hasTitle": true,
+  "subtitle": "dataset contains historical Google stock data for trainig ML and DL models.",
+  "hasSubtitle": true,
+  "description": "**About the Google Stock Price Dataset**\n\nThe Google Stock Price Dataset consists of two CSV (Comma Separated Values) files containing historical stock price data for training and evaluation. Each row in the dataset represents a trading day, and the columns provide various information related to Google's stock for that day.\n\n**Columns:**\n\nDate: The date of the trading day in the format \"YYYY-MM-DD.\"\n\n\nOpen: The opening price of Google's stock on that trading day.\n\n\nHigh: The highest price reached during the trading day.\n\n\nLow: The lowest price reached during the trading day.\n\n\nClose: The closing price of Google's stock on that trading day.\n\n\nAdj Close: The adjusted closing price, accounting for any corporate actions (e.g., stock splits, dividends) that may affect the stock's value.\n\n\nVolume: The trading volume, representing the number of shares traded on that trading day.\n\n\nTime Period:\nThe train dataset spans from January 1, 2010, to December 31, 2022, providing twelve years of daily stock price information for model training. The test dataset spans from January 1, 2023, to July 30, 2023, providing seven month of daily stock price data for model evaluation.\n\n**Data Source:**\n\nThe dataset was collected from Yahoo Finance (finance.yahoo.com), a reputable and widely-used financial data platform.\n\n**Use Case:**\n\nThe Google Stock Price Dataset can be utilized for various purposes, such as predicting future stock prices, analyzing historical stock trends, and building machine learning models for financial forecasting.\n\n**Potential Applications:**\n\nTime Series Analysis: Explore stock price patterns and seasonality.\nFinancial Modeling: Develop predictive models to forecast stock prices.\nAlgorithmic Trading: Create trading strategies based on historical stock data.\nRisk Management: Assess potential risks and volatilities in the stock market.\n\n**Citation:**\n\nIf you use this dataset in your research or analysis, please provide proper attribution and citation to acknowledge the source.\n\n**License:**\nThis dataset is provided under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication, making it freely available for use without any restrictions or attribution requirements.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "time series analysis",
+    "lstm",
+    "rnn",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "vencerlanz09/agricultural-pests-image-dataset",
+  "id_no": 3032186,
+  "datasetSlugNullable": "agricultural-pests-image-dataset",
+  "ownerUserNullable": "vencerlanz09",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Agricultural Pests Image Dataset ",
+  "subtitleNullable": "An Image Classification of the Common Pest found in Agricultural Environments",
+  "descriptionNullable": "The Agricultural Pest Image Dataset is a collection of images of 12 different types of agricultural pests, namely Ants, Bees, Beetles, Caterpillars, Earthworms, Earwigs, Grasshoppers, Moths, Slugs, Snails, Wasps, and Weevils. The images were obtained from Flickr using the API and were resized to have a maximum width or height of 300px.\n\nThis dataset is designed to aid researchers and practitioners in the development and evaluation of machine learning models for pest detection and classification in agricultural settings. With 12 classes of pests, the dataset provides a diverse range of images that cover a variety of shapes, colors, and sizes, making it suitable for training and testing algorithms to detect and classify pests in various scenarios.\n\nThe images were collected from Flickr, which is a popular photo-sharing platform. This ensures that the images in the dataset are representative of real-world scenarios and not artificially generated. Additionally, the images were resized to have a maximum width or height of 300px, which makes the dataset lightweight and easy to work with.",
+  "datasetId": 3032186,
+  "datasetSlug": "agricultural-pests-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "vencerlanz09",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 13035,
+  "totalVotes": 89,
+  "totalDownloads": 1930,
+  "title": "Agricultural Pests Image Dataset ",
+  "hasTitle": true,
+  "subtitle": "An Image Classification of the Common Pest found in Agricultural Environments",
+  "hasSubtitle": true,
+  "description": "The Agricultural Pest Image Dataset is a collection of images of 12 different types of agricultural pests, namely Ants, Bees, Beetles, Caterpillars, Earthworms, Earwigs, Grasshoppers, Moths, Slugs, Snails, Wasps, and Weevils. The images were obtained from Flickr using the API and were resized to have a maximum width or height of 300px.\n\nThis dataset is designed to aid researchers and practitioners in the development and evaluation of machine learning models for pest detection and classification in agricultural settings. With 12 classes of pests, the dataset provides a diverse range of images that cover a variety of shapes, colors, and sizes, making it suitable for training and testing algorithms to detect and classify pests in various scenarios.\n\nThe images were collected from Flickr, which is a popular photo-sharing platform. This ensures that the images in the dataset are representative of real-world scenarios and not artificially generated. Additionally, the images were resized to have a maximum width or height of 300px, which makes the dataset lightweight and easy to work with.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

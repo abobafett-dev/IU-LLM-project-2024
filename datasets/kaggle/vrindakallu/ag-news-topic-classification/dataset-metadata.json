@@ -1,0 +1,43 @@
+{
+  "id": "vrindakallu/ag-news-topic-classification",
+  "id_no": 4341171,
+  "datasetSlugNullable": "ag-news-topic-classification",
+  "ownerUserNullable": "vrindakallu",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "News Topic Classification",
+  "subtitleNullable": "Train models to classify news articles into different topics using this dataset",
+  "descriptionNullable": "## Context\nAG is a collection of more than 1 million news articles. News articles have been gathered from more than 2000 news sources by ComeToMyHead in more than 1 year of activity. ComeToMyHead is an academic news search engine which has been running since July, 2004. More information, can be found using this link http://www.di.unipi.it/~gulli/AG_corpus_of_news_articles.html .\n\n## Content\nThese datasets consist of news article headlines. These headlines are labelled as either 0, 1, 2 and 3, these values correspond to 4 types of news topics which are 'World', 'Sports', 'Business' and 'Sci/Tech'.\n\n\n## Acknowledgements\nI installed the AG's news topic classification training dataset which is available from the [huggingface datasets library](https://huggingface.co/datasets/ag_news).\nThe AG's news topic classification training dataset is constructed by Xiang Zhang (xiang.zhang@nyu.edu) from the AG's corpus of news articles. It is used as a text classification benchmark in the following paper: Xiang Zhang, Junbo Zhao, Yann LeCun. Character-level Convolutional Networks for Text Classification. Advances in Neural Information Processing Systems 28 (NIPS 2015).\n",
+  "datasetId": 4341171,
+  "datasetSlug": "ag-news-topic-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "vrindakallu",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1945,
+  "totalVotes": 6,
+  "totalDownloads": 253,
+  "title": "News Topic Classification",
+  "hasTitle": true,
+  "subtitle": "Train models to classify news articles into different topics using this dataset",
+  "hasSubtitle": true,
+  "description": "## Context\nAG is a collection of more than 1 million news articles. News articles have been gathered from more than 2000 news sources by ComeToMyHead in more than 1 year of activity. ComeToMyHead is an academic news search engine which has been running since July, 2004. More information, can be found using this link http://www.di.unipi.it/~gulli/AG_corpus_of_news_articles.html .\n\n## Content\nThese datasets consist of news article headlines. These headlines are labelled as either 0, 1, 2 and 3, these values correspond to 4 types of news topics which are 'World', 'Sports', 'Business' and 'Sci/Tech'.\n\n\n## Acknowledgements\nI installed the AG's news topic classification training dataset which is available from the [huggingface datasets library](https://huggingface.co/datasets/ag_news).\nThe AG's news topic classification training dataset is constructed by Xiang Zhang (xiang.zhang@nyu.edu) from the AG's corpus of news articles. It is used as a text classification benchmark in the following paper: Xiang Zhang, Junbo Zhao, Yann LeCun. Character-level Convolutional Networks for Text Classification. Advances in Neural Information Processing Systems 28 (NIPS 2015).\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "multiclass classification",
+    "model explainability",
+    "news",
+    "text classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

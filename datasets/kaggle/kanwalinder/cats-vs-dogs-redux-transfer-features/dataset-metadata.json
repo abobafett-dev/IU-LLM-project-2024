@@ -1,0 +1,43 @@
+{
+  "id": "kanwalinder/cats-vs-dogs-redux-transfer-features",
+  "id_no": 45609,
+  "datasetSlugNullable": "cats-vs-dogs-redux-transfer-features",
+  "ownerUserNullable": "kanwalinder",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Cats vs Dogs Redux Transfer Features",
+  "subtitleNullable": "Features created with pre-trained Keras CNN models",
+  "descriptionNullable": "### Context\n\nMost machine learning courses start by implementing a fully-connected Deep Neural Network (**DNN**) and proceed towards Convolutional Neural Networks (**CNN**) and Recurrent Neural Networks (**RNN**), teaching skills on how to manage training, inference, and deployment along the way.  For most beginners, the problem with building DNNs from scratch is that either the input data has to be grossly simplified ( working with 64x64x3 images for example) or the network has so many parameters that it is very hard to train.  Meanwhile, **Transfer Learning** has made building even CNNs and RNNs from scratch unnecessary and one can reuse and/or fine tune publicly available CNNs like **Inception V3** with very little data for a new problem.\n\nThe purpose of this dataset is to make a large dataset of 25000 training examples and 12500 test examples available from the ever popular **Dogs vs Cats Redux** competition, suitable for students just starting on machine learning.  The base dataset, which consists of fairly large image sizes, has been transferred through publicly available CNNs like **Inception V3, Inception Resnet V2, Resnet 50, Xception, and MobileNet**, creating features that are very easy to build a pretty good DNN classifier with.  This should make learning to build DNNs from scratch easy to do, while learning a bit of transfer learning and even \"competing\" in Dogs vs Cats Redux for kicks!\n\n\n### Content\n\nAs mentioned, the input data for this dataset are images from the **Dogs vs Cats Redux** competition.  All transfer learning CNN models were obtained from **keras.applications**.  The features derived by processing the input images through the transfer models are flat (**25000x2048** training examples and **12500x2048** test examples when using Inception V3) and ready for ingestion into a DNN.  In addition, the dataset provides **ids** from the original training and test examples so classification results can be reviewed against the base data.\n\nNote that while the classic goal of transfer learning is to apply a network on a smaller dataset and/or fine tune the transferred network on said dataset, the purpose of this dataset is subtly different: make a large dataset available for beginners to build DNNs with.  Of course, a subset of the dataset can be used for classification and the base transfer models can be fine tuned. \n\n\n### Acknowledgements\n\nFrancois Chollet's [Keras][1] framework, specifically [keras.applications][2].\n\nDr. Andrew Ng's [deeplearning.ai][3] specialization on [Coursera][4].  In my spare time, I mentor students in Coursera's **Neural Networks and Deep Learning** and **Convolutional Neural Networks** courses. \n\n### Inspiration\n\nInitially I am posting just the dataset, and will later post the kernel that produced the dataset and a kernel that will use the dataset to classify for Dogs vs Cats Redux.  Can you duplicate the log loss score of 0.21 currently possible with reusing the transfer models with no fine-tuning?  Can you get into the top 50 by fine tuning the base models and/or augmenting the input data?\n\n\n  [1]: https://keras.io/\n  [2]: https://keras.io/applications/\n  [3]: https://www.deeplearning.ai/\n  [4]: http://",
+  "datasetId": 45609,
+  "datasetSlug": "cats-vs-dogs-redux-transfer-features",
+  "hasDatasetSlug": true,
+  "ownerUser": "kanwalinder",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 4764,
+  "totalVotes": 10,
+  "totalDownloads": 257,
+  "title": "Cats vs Dogs Redux Transfer Features",
+  "hasTitle": true,
+  "subtitle": "Features created with pre-trained Keras CNN models",
+  "hasSubtitle": true,
+  "description": "### Context\n\nMost machine learning courses start by implementing a fully-connected Deep Neural Network (**DNN**) and proceed towards Convolutional Neural Networks (**CNN**) and Recurrent Neural Networks (**RNN**), teaching skills on how to manage training, inference, and deployment along the way.  For most beginners, the problem with building DNNs from scratch is that either the input data has to be grossly simplified ( working with 64x64x3 images for example) or the network has so many parameters that it is very hard to train.  Meanwhile, **Transfer Learning** has made building even CNNs and RNNs from scratch unnecessary and one can reuse and/or fine tune publicly available CNNs like **Inception V3** with very little data for a new problem.\n\nThe purpose of this dataset is to make a large dataset of 25000 training examples and 12500 test examples available from the ever popular **Dogs vs Cats Redux** competition, suitable for students just starting on machine learning.  The base dataset, which consists of fairly large image sizes, has been transferred through publicly available CNNs like **Inception V3, Inception Resnet V2, Resnet 50, Xception, and MobileNet**, creating features that are very easy to build a pretty good DNN classifier with.  This should make learning to build DNNs from scratch easy to do, while learning a bit of transfer learning and even \"competing\" in Dogs vs Cats Redux for kicks!\n\n\n### Content\n\nAs mentioned, the input data for this dataset are images from the **Dogs vs Cats Redux** competition.  All transfer learning CNN models were obtained from **keras.applications**.  The features derived by processing the input images through the transfer models are flat (**25000x2048** training examples and **12500x2048** test examples when using Inception V3) and ready for ingestion into a DNN.  In addition, the dataset provides **ids** from the original training and test examples so classification results can be reviewed against the base data.\n\nNote that while the classic goal of transfer learning is to apply a network on a smaller dataset and/or fine tune the transferred network on said dataset, the purpose of this dataset is subtly different: make a large dataset available for beginners to build DNNs with.  Of course, a subset of the dataset can be used for classification and the base transfer models can be fine tuned. \n\n\n### Acknowledgements\n\nFrancois Chollet's [Keras][1] framework, specifically [keras.applications][2].\n\nDr. Andrew Ng's [deeplearning.ai][3] specialization on [Coursera][4].  In my spare time, I mentor students in Coursera's **Neural Networks and Deep Learning** and **Convolutional Neural Networks** courses. \n\n### Inspiration\n\nInitially I am posting just the dataset, and will later post the kernel that produced the dataset and a kernel that will use the dataset to classify for Dogs vs Cats Redux.  Can you duplicate the log loss score of 0.21 currently possible with reusing the transfer models with no fine-tuning?  Can you get into the top 50 by fine tuning the base models and/or augmenting the input data?\n\n\n  [1]: https://keras.io/\n  [2]: https://keras.io/applications/\n  [3]: https://www.deeplearning.ai/\n  [4]: http://",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer science",
+    "deep learning",
+    "image",
+    "transfer learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "farzadnekouei/trash-type-image-dataset",
+  "id_no": 3863975,
+  "datasetSlugNullable": "trash-type-image-dataset",
+  "ownerUserNullable": "farzadnekouei",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Garbage Image Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "### \ud83c\udf10 Overview \n\nThe **Garbage Image Dataset** is crafted for enthusiasts and researchers diving into garbage classification via deep learning models. Hosting a collection of **2,527 images** distributed among six distinct categories - Cardboard, Glass, Metal, Paper, Plastic, and Trash - it serves as a potent source for developing and benchmarking trash classification algorithms.\n\n\n### \ud83d\udd0d Specifications \n\n- \ud83d\uddbc\ufe0f **Total Images**: 2,527\n- \ud83d\udccf **Image Dimensions**: 512x384 pixels\n- \ud83d\udcc2 **Format**: JPEG\n\n\n### \ud83d\udcca Class Distribution \n\n- \ud83d\udce6 **Cardboard**: 403\n- \ud83e\udd42 **Glass**: 501\n- \ud83d\udee2\ufe0f **Metal**: 410\n- \ud83d\uddde\ufe0f **Paper**: 594\n- \ud83e\udd64 **Plastic**: 482\n- \ud83d\uddd1\ufe0f **Trash**: 137\n\n\n### \ud83d\udee0\ufe0f Utility \n\n**Garbage Type** facilitates a practical field for model training and evaluation in the realm of waste classification and management, acting as a stepping stone towards building automated waste segregation systems, which are pivotal for efficient recycling and waste management processes, subsequently contributing to environmental conservation.\n\n\n### \ud83d\udea7 Challenges \n\nNavigating through the dataset\u2019s intrinsic class imbalance poses a constructive challenge, inviting solutions involving resampling, data augmentation, and exploration of diverse evaluation metrics.\n",
+  "datasetId": 3863975,
+  "datasetSlug": "trash-type-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "farzadnekouei",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 7920,
+  "totalVotes": 73,
+  "totalDownloads": 1496,
+  "title": "Garbage Image Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### \ud83c\udf10 Overview \n\nThe **Garbage Image Dataset** is crafted for enthusiasts and researchers diving into garbage classification via deep learning models. Hosting a collection of **2,527 images** distributed among six distinct categories - Cardboard, Glass, Metal, Paper, Plastic, and Trash - it serves as a potent source for developing and benchmarking trash classification algorithms.\n\n\n### \ud83d\udd0d Specifications \n\n- \ud83d\uddbc\ufe0f **Total Images**: 2,527\n- \ud83d\udccf **Image Dimensions**: 512x384 pixels\n- \ud83d\udcc2 **Format**: JPEG\n\n\n### \ud83d\udcca Class Distribution \n\n- \ud83d\udce6 **Cardboard**: 403\n- \ud83e\udd42 **Glass**: 501\n- \ud83d\udee2\ufe0f **Metal**: 410\n- \ud83d\uddde\ufe0f **Paper**: 594\n- \ud83e\udd64 **Plastic**: 482\n- \ud83d\uddd1\ufe0f **Trash**: 137\n\n\n### \ud83d\udee0\ufe0f Utility \n\n**Garbage Type** facilitates a practical field for model training and evaluation in the realm of waste classification and management, acting as a stepping stone towards building automated waste segregation systems, which are pivotal for efficient recycling and waste management processes, subsequently contributing to environmental conservation.\n\n\n### \ud83d\udea7 Challenges \n\nNavigating through the dataset\u2019s intrinsic class imbalance poses a constructive challenge, inviting solutions involving resampling, data augmentation, and exploration of diverse evaluation metrics.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

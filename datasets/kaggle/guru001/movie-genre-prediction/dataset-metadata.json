@@ -1,0 +1,43 @@
+{
+  "id": "guru001/movie-genre-prediction",
+  "id_no": 3545508,
+  "datasetSlugNullable": "movie-genre-prediction",
+  "ownerUserNullable": "guru001",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "movie-genre-prediction",
+  "subtitleNullable": "data-driven science huggingface competition | movie genre prediction competition",
+  "descriptionNullable": "**Objective**\n\nThe goal of this competition is to design a predictive model that accurately classifies movies into their respective genres based on their titles and synopses.\n\nThe challenge lies not just in achieving high accuracy, but also in ensuring that the model is efficient and interpretable.\n\n**Why This is Interesting and Relevant**\n\nUnderstanding movie genres based on titles and synopses is a fascinating problem for multiple reasons.\n\nFrom a recommendation system perspective, an effective genre classifier can help build more personalized user recommendations, increasing user engagement on streaming platforms.\n\nIn the context of box office performance, understanding the relationship between genres and how they are perceived in synopses can provide insight into patterns of commercial success or failure.\n\nFurthermore, this challenge can facilitate a deeper comprehension of movie themes and trends in the industry, contributing to cultural and societal studies.\n\n**Dataset**\n\nParticipants will be provided with a comprehensive dataset comprising ~100,000 movies. Each entry includes the original title, the genre(s), and the synopsis of the movie.\n\nThe dataset contains a mix of both original and AI-generated titles, genres, and synopses to test the robustness of the models.\n\nThe 10 genres include action, adventure, crime, family, fantasy, horror, mystery, romance, scifi, and thriller.",
+  "datasetId": 3545508,
+  "datasetSlug": "movie-genre-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "guru001",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10755,
+  "totalVotes": 39,
+  "totalDownloads": 1619,
+  "title": "movie-genre-prediction",
+  "hasTitle": true,
+  "subtitle": "data-driven science huggingface competition | movie genre prediction competition",
+  "hasSubtitle": true,
+  "description": "**Objective**\n\nThe goal of this competition is to design a predictive model that accurately classifies movies into their respective genres based on their titles and synopses.\n\nThe challenge lies not just in achieving high accuracy, but also in ensuring that the model is efficient and interpretable.\n\n**Why This is Interesting and Relevant**\n\nUnderstanding movie genres based on titles and synopses is a fascinating problem for multiple reasons.\n\nFrom a recommendation system perspective, an effective genre classifier can help build more personalized user recommendations, increasing user engagement on streaming platforms.\n\nIn the context of box office performance, understanding the relationship between genres and how they are perceived in synopses can provide insight into patterns of commercial success or failure.\n\nFurthermore, this challenge can facilitate a deeper comprehension of movie themes and trends in the industry, contributing to cultural and societal studies.\n\n**Dataset**\n\nParticipants will be provided with a comprehensive dataset comprising ~100,000 movies. Each entry includes the original title, the genre(s), and the synopsis of the movie.\n\nThe dataset contains a mix of both original and AI-generated titles, genres, and synopses to test the robustness of the models.\n\nThe 10 genres include action, adventure, crime, family, fantasy, horror, mystery, romance, scifi, and thriller.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "nlp",
+    "multiclass classification",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

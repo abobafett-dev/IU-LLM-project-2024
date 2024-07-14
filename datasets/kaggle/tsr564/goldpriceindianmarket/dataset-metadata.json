@@ -1,0 +1,43 @@
+{
+  "id": "tsr564/goldpriceindianmarket",
+  "id_no": 2361175,
+  "datasetSlugNullable": "goldpriceindianmarket",
+  "ownerUserNullable": "tsr564",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Gold-Price-Indian-Market",
+  "subtitleNullable": "Indian-Commodity-Market",
+  "descriptionNullable": "This Dataset contains Historical Price of Gold in Indian Commodity Market . The data has been collected from https://in.investing.com/commodities/ using web scrapping . The script can be customized to suit the needs (like customizing frequency interval , commodity type etc )\nLink to web scrapping script - https://github.com/Pritam3355/web_scrapping/blob/master/stock_price.py\n\nColumn contains - Date, Price ,Open , High ,Low ,Volume ,Chg%  these columns can be sorted first in the website then use the url in script to download the data according to your need",
+  "datasetId": 2361175,
+  "datasetSlug": "goldpriceindianmarket",
+  "hasDatasetSlug": true,
+  "ownerUser": "tsr564",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 2166,
+  "totalVotes": 15,
+  "totalDownloads": 382,
+  "title": "Gold-Price-Indian-Market",
+  "hasTitle": true,
+  "subtitle": "Indian-Commodity-Market",
+  "hasSubtitle": true,
+  "description": "This Dataset contains Historical Price of Gold in Indian Commodity Market . The data has been collected from https://in.investing.com/commodities/ using web scrapping . The script can be customized to suit the needs (like customizing frequency interval , commodity type etc )\nLink to web scrapping script - https://github.com/Pritam3355/web_scrapping/blob/master/stock_price.py\n\nColumn contains - Date, Price ,Open , High ,Low ,Volume ,Chg%  these columns can be sorted first in the website then use the url in script to download the data according to your need",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "time series analysis",
+    "feature engineering",
+    "tabular",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

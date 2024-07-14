@@ -1,0 +1,40 @@
+{
+  "id": "muhammadaashirirshad/fibromyalgia-sensory-sensitivity-and-autism-traits",
+  "id_no": 5130637,
+  "datasetSlugNullable": "fibromyalgia-sensory-sensitivity-and-autism-traits",
+  "ownerUserNullable": "muhammadaashirirshad",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Fibromyalgia: Sensory Sensitivity & Autism Traits",
+  "subtitleNullable": "Autistic-like Behaviour in Fibromyalgia with Hypersensitisation inSensory Proces",
+  "descriptionNullable": "\n\nDataset Description\nThis dataset investigates the relationship between fibromyalgia and autistic-like behaviors, with a focus on hypersensitisation in sensory processing sensitivity. The data includes various measures collected from both control and fibromyalgia groups.\n\nColumns:\n- Group: Indicates the participant group.\n0 = Control\n1 = Fibromyalgia\n\n- SEX: Indicates the sex of the participant.\n0 = Male\n1 = Female\n- Age: The age of the participant (in years).\n\n- SES: Socioeconomic status of the participant.\n\n- CSI1 - CSI25: Scores on the Central Sensitization Inventory (CSI), consisting of 25 items.\n\n- SPSQa_1 - SPSQa_8: Scores on part A of the Sensory Processing Sensitivity Questionnaire (SPSQ), consisting of 8 items.\n\n- SPSQb_1 - SPSQb_8: Scores on part B of the Sensory Processing Sensitivity Questionnaire (SPSQ), consisting of 8 items.\n\n- SAT1 - SAT24: Scores on the Autism Spectrum Quotient (SAT) questionnaire, consisting of 24 items.\n\n- CSI_total: Total score on the Central Sensitization Inventory.\n\n- SAT_total: Total score on the Autism Spectrum Quotient.\n\n- SPS_total: Total score on the Sensory Processing Sensitivity Questionnaire.\n\n- SPSa_total: Total score on part A of the Sensory Processing Sensitivity Questionnaire.\n\n- SPSb_total: Total score on part B of the Sensory Processing Sensitivity Questionnaire.",
+  "datasetId": 5130637,
+  "datasetSlug": "fibromyalgia-sensory-sensitivity-and-autism-traits",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammadaashirirshad",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 238,
+  "totalVotes": 6,
+  "totalDownloads": 28,
+  "title": "Fibromyalgia: Sensory Sensitivity & Autism Traits",
+  "hasTitle": true,
+  "subtitle": "Autistic-like Behaviour in Fibromyalgia with Hypersensitisation inSensory Proces",
+  "hasSubtitle": true,
+  "description": "\n\nDataset Description\nThis dataset investigates the relationship between fibromyalgia and autistic-like behaviors, with a focus on hypersensitisation in sensory processing sensitivity. The data includes various measures collected from both control and fibromyalgia groups.\n\nColumns:\n- Group: Indicates the participant group.\n0 = Control\n1 = Fibromyalgia\n\n- SEX: Indicates the sex of the participant.\n0 = Male\n1 = Female\n- Age: The age of the participant (in years).\n\n- SES: Socioeconomic status of the participant.\n\n- CSI1 - CSI25: Scores on the Central Sensitization Inventory (CSI), consisting of 25 items.\n\n- SPSQa_1 - SPSQa_8: Scores on part A of the Sensory Processing Sensitivity Questionnaire (SPSQ), consisting of 8 items.\n\n- SPSQb_1 - SPSQb_8: Scores on part B of the Sensory Processing Sensitivity Questionnaire (SPSQ), consisting of 8 items.\n\n- SAT1 - SAT24: Scores on the Autism Spectrum Quotient (SAT) questionnaire, consisting of 24 items.\n\n- CSI_total: Total score on the Central Sensitization Inventory.\n\n- SAT_total: Total score on the Autism Spectrum Quotient.\n\n- SPS_total: Total score on the Sensory Processing Sensitivity Questionnaire.\n\n- SPSa_total: Total score on part A of the Sensory Processing Sensitivity Questionnaire.\n\n- SPSb_total: Total score on part B of the Sensory Processing Sensitivity Questionnaire.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

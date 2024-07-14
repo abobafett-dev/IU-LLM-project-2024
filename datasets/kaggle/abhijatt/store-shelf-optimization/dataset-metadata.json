@@ -1,0 +1,40 @@
+{
+  "id": "abhijatt/store-shelf-optimization",
+  "id_no": 4617199,
+  "datasetSlugNullable": "store-shelf-optimization",
+  "ownerUserNullable": "abhijatt",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Store Shelf Optimization",
+  "subtitleNullable": "This dataset represents sales made by a store for certain products",
+  "descriptionNullable": "**Description**\n\nThis dataset is created to train a Reinforcement Learning model that can look into each column as a list of products and give out the brand/type that made the most sales.\n\n**Data Items**\n1. OilPurchased : Contains the type of oil sold in that transaction. \nElements observed : Soybean, Sunflower, Ricebran and Groundnut\n\n2. MilkPurchased : Contains the brand name for sale made in that transaction.\nElements observed : Amul, MotherDairy and Aavin\n\n3. BreadPurchased : Contains the brand name for sale made in that transaction.\nElements observed : Britania, HarvestGold and Modern",
+  "datasetId": 4617199,
+  "datasetSlug": "store-shelf-optimization",
+  "hasDatasetSlug": true,
+  "ownerUser": "abhijatt",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 302,
+  "totalVotes": 3,
+  "totalDownloads": 20,
+  "title": "Store Shelf Optimization",
+  "hasTitle": true,
+  "subtitle": "This dataset represents sales made by a store for certain products",
+  "hasSubtitle": true,
+  "description": "**Description**\n\nThis dataset is created to train a Reinforcement Learning model that can look into each column as a list of products and give out the brand/type that made the most sales.\n\n**Data Items**\n1. OilPurchased : Contains the type of oil sold in that transaction. \nElements observed : Soybean, Sunflower, Ricebran and Groundnut\n\n2. MilkPurchased : Contains the brand name for sale made in that transaction.\nElements observed : Amul, MotherDairy and Aavin\n\n3. BreadPurchased : Contains the brand name for sale made in that transaction.\nElements observed : Britania, HarvestGold and Modern",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

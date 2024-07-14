@@ -1,0 +1,42 @@
+{
+  "id": "kylekohnen/complete-pokemon-data-set",
+  "id_no": 1515272,
+  "datasetSlugNullable": "complete-pokemon-data-set",
+  "ownerUserNullable": "kylekohnen",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Complete Pokemon Data Set",
+  "subtitleNullable": "Data on all Pokemon up to Generation 8",
+  "descriptionNullable": "# Content\nThis Pokemon data set contains 1118 different Pokemon.  Most of the data was pulled from [PokeAPI](https://pokeapi.co/). Other data sources include [PokemonDB](https://pokemondb.net/), [Serebii](http://serebii.net/), [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page), and [Pokemon Wiki](https://pokemon.fandom.com/wiki/Pok%C3%A9mon_Wiki).\n\nPokemon with special forms (e.g. Mega Evolutions, G-Max, etc.) have their own data entry for the special forms.\n\n\n\n***Update: 8/12/2021***\n- Fixed incorrect `egg_groups` entries \n- Added `shape` and `can_evolve`\n\n***Update: 8/24/2021***\n- Replaced comma separators with tilde (~)\n- Added `genus`, `baby_pokemon`, `egg_cycle`\n- Split `legendary/mythical` feature to `legendary` and`mythical` variables",
+  "datasetId": 1515272,
+  "datasetSlug": "complete-pokemon-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "kylekohnen",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10620,
+  "totalVotes": 37,
+  "totalDownloads": 1172,
+  "title": "Complete Pokemon Data Set",
+  "hasTitle": true,
+  "subtitle": "Data on all Pokemon up to Generation 8",
+  "hasSubtitle": true,
+  "description": "# Content\nThis Pokemon data set contains 1118 different Pokemon.  Most of the data was pulled from [PokeAPI](https://pokeapi.co/). Other data sources include [PokemonDB](https://pokemondb.net/), [Serebii](http://serebii.net/), [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page), and [Pokemon Wiki](https://pokemon.fandom.com/wiki/Pok%C3%A9mon_Wiki).\n\nPokemon with special forms (e.g. Mega Evolutions, G-Max, etc.) have their own data entry for the special forms.\n\n\n\n***Update: 8/12/2021***\n- Fixed incorrect `egg_groups` entries \n- Added `shape` and `can_evolve`\n\n***Update: 8/24/2021***\n- Replaced comma separators with tilde (~)\n- Added `genus`, `baby_pokemon`, `egg_cycle`\n- Split `legendary/mythical` feature to `legendary` and`mythical` variables",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "games",
+    "video games",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

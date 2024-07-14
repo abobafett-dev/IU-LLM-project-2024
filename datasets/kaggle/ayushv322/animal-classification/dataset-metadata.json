@@ -1,0 +1,43 @@
+{
+  "id": "ayushv322/animal-classification",
+  "id_no": 2040796,
+  "datasetSlugNullable": "animal-classification",
+  "ownerUserNullable": "ayushv322",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Animal Classification",
+  "subtitleNullable": "Animal Classification",
+  "descriptionNullable": "The dataset has been scraped from various websites such as Google, Pexels, Pixabay, Unsplash etc.\n\nThis dataset contains 4 animal folders containing 1000 images per animal.\nThe animals are:\n- Buffalo\n- Elephant\n- Rhino\n- Zebra",
+  "datasetId": 2040796,
+  "datasetSlug": "animal-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "ayushv322",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 10091,
+  "totalVotes": 18,
+  "totalDownloads": 1341,
+  "title": "Animal Classification",
+  "hasTitle": true,
+  "subtitle": "Animal Classification",
+  "hasSubtitle": true,
+  "description": "The dataset has been scraped from various websites such as Google, Pexels, Pixabay, Unsplash etc.\n\nThis dataset contains 4 animal folders containing 1000 images per animal.\nThe animals are:\n- Buffalo\n- Elephant\n- Rhino\n- Zebra",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "africa",
+    "animals",
+    "computer vision",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

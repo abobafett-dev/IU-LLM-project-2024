@@ -1,0 +1,43 @@
+{
+  "id": "usamabuttar/suicide-rates-worldwide",
+  "id_no": 3082874,
+  "datasetSlugNullable": "suicide-rates-worldwide",
+  "ownerUserNullable": "usamabuttar",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Suicide Rates Worldwide, 2000-Present",
+  "subtitleNullable": "Age Standardized Suicide Rates Per 100,000 Population",
+  "descriptionNullable": "This dataset contains annual suicide rates from 2000 to 2019 for various countries and regions around the world. The data was collected from the World Health Organization (WHO) Mortality Database, which provides information on deaths and mortality rates from various causes, including suicide. The dataset includes information on the country, location, year, sex, and suicide rates (with upper and lower bounds) for each year.\n\n**Variables:**\n\n**ParentLocation:** The name of the parent location, such as a region or subregion.\n**Location:** The name of the location, such as a country or territory.\n**Period:** The year the suicide rate was recorded.\n**Sex:** The gender of the individual (male or female).\n**FactValueNumeric:** The age-standardized suicide rate (per 100,000 population) for the given sex, age, and year.\n**FactValueNumericLow:** The lower bound of the confidence interval for the suicide rate.\n**FactValueNumericHigh:** The upper bound of the confidence interval for the suicide rate.\n\n**Potential uses:**\n\nThis dataset can be used to explore patterns and trends in suicide rates over time and across different regions of the world. Researchers and policymakers can use this data to identify risk factors and develop interventions to prevent suicides. The dataset can also be used to investigate the impact of economic, social, and cultural factors on suicide rates.\n\n**Caveats:**\n\nIt is important to note that suicide is a sensitive and complex issue, and the data in this dataset may be subject to reporting biases, cultural differences in suicide rates, and other limitations. Additionally, the dataset does not include information on the causes or circumstances surrounding the suicides. Therefore, any analyses based on this dataset should be interpreted with caution and with an understanding of the limitations of the data.",
+  "datasetId": 3082874,
+  "datasetSlug": "suicide-rates-worldwide",
+  "hasDatasetSlug": true,
+  "ownerUser": "usamabuttar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1385,
+  "totalVotes": 7,
+  "totalDownloads": 236,
+  "title": "Suicide Rates Worldwide, 2000-Present",
+  "hasTitle": true,
+  "subtitle": "Age Standardized Suicide Rates Per 100,000 Population",
+  "hasSubtitle": true,
+  "description": "This dataset contains annual suicide rates from 2000 to 2019 for various countries and regions around the world. The data was collected from the World Health Organization (WHO) Mortality Database, which provides information on deaths and mortality rates from various causes, including suicide. The dataset includes information on the country, location, year, sex, and suicide rates (with upper and lower bounds) for each year.\n\n**Variables:**\n\n**ParentLocation:** The name of the parent location, such as a region or subregion.\n**Location:** The name of the location, such as a country or territory.\n**Period:** The year the suicide rate was recorded.\n**Sex:** The gender of the individual (male or female).\n**FactValueNumeric:** The age-standardized suicide rate (per 100,000 population) for the given sex, age, and year.\n**FactValueNumericLow:** The lower bound of the confidence interval for the suicide rate.\n**FactValueNumericHigh:** The upper bound of the confidence interval for the suicide rate.\n\n**Potential uses:**\n\nThis dataset can be used to explore patterns and trends in suicide rates over time and across different regions of the world. Researchers and policymakers can use this data to identify risk factors and develop interventions to prevent suicides. The dataset can also be used to investigate the impact of economic, social, and cultural factors on suicide rates.\n\n**Caveats:**\n\nIt is important to note that suicide is a sensitive and complex issue, and the data in this dataset may be subject to reporting biases, cultural differences in suicide rates, and other limitations. Additionally, the dataset does not include information on the causes or circumstances surrounding the suicides. Therefore, any analyses based on this dataset should be interpreted with caution and with an understanding of the limitations of the data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "mental health",
+    "time series analysis",
+    "statistical analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

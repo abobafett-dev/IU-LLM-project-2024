@@ -1,0 +1,41 @@
+{
+  "id": "sugataghosh/google-word2vec",
+  "id_no": 1595713,
+  "datasetSlugNullable": "google-word2vec",
+  "ownerUserNullable": "sugataghosh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Google Word2Vec",
+  "subtitleNullable": "Pre-trained word to vector model",
+  "descriptionNullable": "[**Word2vec**](https://en.wikipedia.org/wiki/Word2vec) is a specific [**word embedding**](https://en.wikipedia.org/wiki/Word_embedding) technique that uses a [**neural network**](https://en.wikipedia.org/wiki/Artificial_neural_network) model to learn word associations from a reasonably large corpus of text. After training, the model can detect similar words and recommend words to complete a partial sentence. As its name suggests, word2vec maps each distinct word to a vector, which is assigned in such a way that the level of semantic similarity between words is indicated by a simple mathematical operation on the vectors that the words are mapped to (for instance, the [**cosine similarity**](https://en.wikipedia.org/wiki/Cosine_similarity) between the vectors).\n\nThe dataset includes pre-trained vectors trained on a portion of the Google News dataset (consisting of about 100 billion words). The model contains 300-dimensional vectors for about 3 million words and phrases. The phrases were obtained using a simple, data-driven approach discussed in [**this paper**](https://arxiv.org/abs/1310.4546). It can be loaded using the [**gensim**](https://pypi.org/project/gensim/) library.\n\n**Source:** **https://code.google.com/archive/p/word2vec/**\n\n**License of the originally published model:** [**Apache License 2.0**](https://www.apache.org/licenses/LICENSE-2.0)",
+  "datasetId": 1595713,
+  "datasetSlug": "google-word2vec",
+  "hasDatasetSlug": true,
+  "ownerUser": "sugataghosh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7474,
+  "totalVotes": 42,
+  "totalDownloads": 783,
+  "title": "Google Word2Vec",
+  "hasTitle": true,
+  "subtitle": "Pre-trained word to vector model",
+  "hasSubtitle": true,
+  "description": "[**Word2vec**](https://en.wikipedia.org/wiki/Word2vec) is a specific [**word embedding**](https://en.wikipedia.org/wiki/Word_embedding) technique that uses a [**neural network**](https://en.wikipedia.org/wiki/Artificial_neural_network) model to learn word associations from a reasonably large corpus of text. After training, the model can detect similar words and recommend words to complete a partial sentence. As its name suggests, word2vec maps each distinct word to a vector, which is assigned in such a way that the level of semantic similarity between words is indicated by a simple mathematical operation on the vectors that the words are mapped to (for instance, the [**cosine similarity**](https://en.wikipedia.org/wiki/Cosine_similarity) between the vectors).\n\nThe dataset includes pre-trained vectors trained on a portion of the Google News dataset (consisting of about 100 billion words). The model contains 300-dimensional vectors for about 3 million words and phrases. The phrases were obtained using a simple, data-driven approach discussed in [**this paper**](https://arxiv.org/abs/1310.4546). It can be loaded using the [**gensim**](https://pypi.org/project/gensim/) library.\n\n**Source:** **https://code.google.com/archive/p/word2vec/**\n\n**License of the originally published model:** [**Apache License 2.0**](https://www.apache.org/licenses/LICENSE-2.0)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "nlp",
+    "pre-trained model"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

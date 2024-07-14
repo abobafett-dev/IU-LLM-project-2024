@@ -1,0 +1,43 @@
+{
+  "id": "mathurinache/gpr1200-dataset",
+  "id_no": 1840404,
+  "datasetSlugNullable": "gpr1200-dataset",
+  "ownerUserNullable": "mathurinache",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "GPR1200 Dataset",
+  "subtitleNullable": "GPR1200: A Benchmark for General-Purpose Content-Based Image Retrieval ",
+  "descriptionNullable": "### Context\n\nGPR1200: A Benchmark for General-Purpose Content-Based Image Retrieval (ArXiv)\n\n\n\n### Content\n\nSimilar to most vision related tasks, deep learning models have taken over in the field of content-based image retrieval (CBIR) over the course of the last decade. However, most publications that aim to optimise neural networks for CBIR, train and test their models on domain specific datasets. It is therefore unclear, if those networks can be used as a general-purpose image feature extractor. After analyzing popular image retrieval test sets we decided to manually curate GPR1200, an easy to use and accessible but challenging benchmark dataset with 1200 categories and 10 class examples. Classes and images were manually selected from six publicly available datasets of different image areas, ensuring high class diversity and clean class boundaries.\n\n\n\n\n### Acknowledgements\n\n![GPR1200](https://github.com/Visual-Computing/GPR1200/raw/main/images/GPR_main_pic.jpg)\n\n### Inspiration\n\nBenchmark your Image Retrieval Models on It\n![Image Retrieval](https://github.com/Visual-Computing/GPR1200/raw/main/images/result_table.JPG) ",
+  "datasetId": 1840404,
+  "datasetSlug": "gpr1200-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mathurinache",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 5519,
+  "totalVotes": 17,
+  "totalDownloads": 383,
+  "title": "GPR1200 Dataset",
+  "hasTitle": true,
+  "subtitle": "GPR1200: A Benchmark for General-Purpose Content-Based Image Retrieval ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nGPR1200: A Benchmark for General-Purpose Content-Based Image Retrieval (ArXiv)\n\n\n\n### Content\n\nSimilar to most vision related tasks, deep learning models have taken over in the field of content-based image retrieval (CBIR) over the course of the last decade. However, most publications that aim to optimise neural networks for CBIR, train and test their models on domain specific datasets. It is therefore unclear, if those networks can be used as a general-purpose image feature extractor. After analyzing popular image retrieval test sets we decided to manually curate GPR1200, an easy to use and accessible but challenging benchmark dataset with 1200 categories and 10 class examples. Classes and images were manually selected from six publicly available datasets of different image areas, ensuring high class diversity and clean class boundaries.\n\n\n\n\n### Acknowledgements\n\n![GPR1200](https://github.com/Visual-Computing/GPR1200/raw/main/images/GPR_main_pic.jpg)\n\n### Inspiration\n\nBenchmark your Image Retrieval Models on It\n![Image Retrieval](https://github.com/Visual-Computing/GPR1200/raw/main/images/result_table.JPG) ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer vision",
+    "classification",
+    "clustering",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

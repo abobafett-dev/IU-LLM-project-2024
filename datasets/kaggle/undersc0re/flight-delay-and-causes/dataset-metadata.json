@@ -1,0 +1,43 @@
+{
+  "id": "undersc0re/flight-delay-and-causes",
+  "id_no": 1308775,
+  "datasetSlugNullable": "flight-delay-and-causes",
+  "ownerUserNullable": "undersc0re",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Flight Delay and Causes",
+  "subtitleNullable": "This Dataset contains Flights trip and multiple cause of delay",
+  "descriptionNullable": "### Context\n\nUsing this data you can find what caused the delay for flight whether it's Security delay, NAS delay or Carrier delay, etc. \n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Data Dictionary\n\n1. DayOfWeek  \u2192 1 (Monday) - 7 (Sunday)\n2. Date       \u2192 Scheduled date \n3. DepTime    \u2192 Actual departure time (local, hhmm)\n4. ArrTime    \u2192  Actual arrival time (local, hhmm)\n5. CRSArrTime  \u2192  Scheduled arrival time (local, hhmm)\n6. UniqueCarrier  \u2192 Unique carrier code\n7. Airline   \u2192 Airline company\n8. FlightNum  \u2192   flight number\n9. TailNum  \u2192   plane tail number\n10. ActualElapsedTime  \u2192  Actual time an airplane spends in the air(in minutes) with TaxiIn/Out\n11. CRSElapsedTime  \u2192   CRS Elapsed Time of Flight (estimated elapse time), in minutes\n12. AirTime  \u2192 Flight Time (in minutes)\n13. ArrDelay \u2192  Difference in minutes between scheduled and actual arrival time\n14. Origin  \u2192   Origin IATA(International Air Transport Association) airport code   \n15. Org_Airport \u2192 Origin Airport Name\n16. Dest    \u2192 Destination IATA code\n17. Dest_Airport \u2192 Destination Airport Name\n18. Distance \u2192 Distance between airports (miles) \n19. TaxiIn \u2192  Wheels down and arrival at the destination airport gate, in minutes\n20. TaxiOut \u2192  The time elapsed between departure from the origin airport gate and wheels off, in minutes\n21. Cancelled \u2192 Was the flight canceled?\n22. CancellationCode \u2192 Reason for cancellation\n23. Diverted       \u2192  1 = yes, 0 = no\n24. CarrierDelay \u2192 Flight delay due to carrier(e.g. maintenance or crew problems, aircraft cleaning, fueling, etc), 0 = No, yes = (in minutes)\n25. WeatherDelay  \u2192 Flight delay due to weather, 0 = No, yes = (in minutes)\n26. NASDelay     \u2192 Flight delay by NSA(National Aviation System), 0 = No, yes = (in minutes)\n27. SecurityDelay   \u2192 Flight delay by this reason, 0 = No, yes = (in minutes)\n28. LateAircraftDelay  \u2192 Flight delay by this reason, 0 = No, yes = (in minutes)\n\n\n### Acknowledgements\nInspired from others DataSet in the same domain. So, tried to create one balanced dataset ready to use for beginners. This is a public dataset so it's not Licensed by anyone. ",
+  "datasetId": 1308775,
+  "datasetSlug": "flight-delay-and-causes",
+  "hasDatasetSlug": true,
+  "ownerUser": "undersc0re",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 14592,
+  "totalVotes": 13,
+  "totalDownloads": 1753,
+  "title": "Flight Delay and Causes",
+  "hasTitle": true,
+  "subtitle": "This Dataset contains Flights trip and multiple cause of delay",
+  "hasSubtitle": true,
+  "description": "### Context\n\nUsing this data you can find what caused the delay for flight whether it's Security delay, NAS delay or Carrier delay, etc. \n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Data Dictionary\n\n1. DayOfWeek  \u2192 1 (Monday) - 7 (Sunday)\n2. Date       \u2192 Scheduled date \n3. DepTime    \u2192 Actual departure time (local, hhmm)\n4. ArrTime    \u2192  Actual arrival time (local, hhmm)\n5. CRSArrTime  \u2192  Scheduled arrival time (local, hhmm)\n6. UniqueCarrier  \u2192 Unique carrier code\n7. Airline   \u2192 Airline company\n8. FlightNum  \u2192   flight number\n9. TailNum  \u2192   plane tail number\n10. ActualElapsedTime  \u2192  Actual time an airplane spends in the air(in minutes) with TaxiIn/Out\n11. CRSElapsedTime  \u2192   CRS Elapsed Time of Flight (estimated elapse time), in minutes\n12. AirTime  \u2192 Flight Time (in minutes)\n13. ArrDelay \u2192  Difference in minutes between scheduled and actual arrival time\n14. Origin  \u2192   Origin IATA(International Air Transport Association) airport code   \n15. Org_Airport \u2192 Origin Airport Name\n16. Dest    \u2192 Destination IATA code\n17. Dest_Airport \u2192 Destination Airport Name\n18. Distance \u2192 Distance between airports (miles) \n19. TaxiIn \u2192  Wheels down and arrival at the destination airport gate, in minutes\n20. TaxiOut \u2192  The time elapsed between departure from the origin airport gate and wheels off, in minutes\n21. Cancelled \u2192 Was the flight canceled?\n22. CancellationCode \u2192 Reason for cancellation\n23. Diverted       \u2192  1 = yes, 0 = no\n24. CarrierDelay \u2192 Flight delay due to carrier(e.g. maintenance or crew problems, aircraft cleaning, fueling, etc), 0 = No, yes = (in minutes)\n25. WeatherDelay  \u2192 Flight delay due to weather, 0 = No, yes = (in minutes)\n26. NASDelay     \u2192 Flight delay by NSA(National Aviation System), 0 = No, yes = (in minutes)\n27. SecurityDelay   \u2192 Flight delay by this reason, 0 = No, yes = (in minutes)\n28. LateAircraftDelay  \u2192 Flight delay by this reason, 0 = No, yes = (in minutes)\n\n\n### Acknowledgements\nInspired from others DataSet in the same domain. So, tried to create one balanced dataset ready to use for beginners. This is a public dataset so it's not Licensed by anyone. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "exploratory data analysis",
+    "linear regression",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

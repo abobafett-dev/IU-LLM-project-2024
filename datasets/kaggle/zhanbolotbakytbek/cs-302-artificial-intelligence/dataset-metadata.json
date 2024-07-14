@@ -1,0 +1,37 @@
+{
+  "id": "zhanbolotbakytbek/cs-302-artificial-intelligence",
+  "id_no": 3262980,
+  "datasetSlugNullable": "cs-302-artificial-intelligence",
+  "ownerUserNullable": "zhanbolotbakytbek",
+  "usabilityRatingNullable": 0.35294117647058826,
+  "titleNullable": "Market Sales Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "**This dataset was specifically created for the final project of a CS 302 course, with the intention of being used as a source of data for the project**\n\nThe dataset provided contains information on the sales of a particular product in different markets. The dataset consists of 11 columns:\n\n**Sales**: the sales of the product (in thousands of units)\n**CompPrice**: the price charged by the competitor for a similar product\n**Income**: the median income of households in the market area (in thousands of dollars)\n**Advertising**: the level of advertising expenditure for the product in the market area (in thousands of dollars)\n**Population**: the population of the market area (in thousands of people)\n**Price**: the price charged for the product (in dollars)\n**ShelveLoc**: the quality of the shelving location for the product at the store (categorical: Bad, Medium, Good)\n**Age**: the average age of the people in the market area\n**Education**: the education level of the people in the market area (measured as the average number of years of education)\n**Urban**: whether the market area is an urban or rural area (categorical: Yes, No)\n**US**: whether the market area is in the United States or not (categorical: Yes, No)\n\n\nThis dataset can be used to build models that predict the sales of the product based on the other features. The dataset can also be used for exploratory data analysis to gain insights into the relationships between the different features and the sales of the product.",
+  "datasetId": 3262980,
+  "datasetSlug": "cs-302-artificial-intelligence",
+  "hasDatasetSlug": true,
+  "ownerUser": "zhanbolotbakytbek",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.35294117647058826,
+  "hasUsabilityRating": true,
+  "totalViews": 700,
+  "totalVotes": 1,
+  "totalDownloads": 84,
+  "title": "Market Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "**This dataset was specifically created for the final project of a CS 302 course, with the intention of being used as a source of data for the project**\n\nThe dataset provided contains information on the sales of a particular product in different markets. The dataset consists of 11 columns:\n\n**Sales**: the sales of the product (in thousands of units)\n**CompPrice**: the price charged by the competitor for a similar product\n**Income**: the median income of households in the market area (in thousands of dollars)\n**Advertising**: the level of advertising expenditure for the product in the market area (in thousands of dollars)\n**Population**: the population of the market area (in thousands of people)\n**Price**: the price charged for the product (in dollars)\n**ShelveLoc**: the quality of the shelving location for the product at the store (categorical: Bad, Medium, Good)\n**Age**: the average age of the people in the market area\n**Education**: the education level of the people in the market area (measured as the average number of years of education)\n**Urban**: whether the market area is an urban or rural area (categorical: Yes, No)\n**US**: whether the market area is in the United States or not (categorical: Yes, No)\n\n\nThis dataset can be used to build models that predict the sales of the product based on the other features. The dataset can also be used for exploratory data analysis to gain insights into the relationships between the different features and the sales of the product.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

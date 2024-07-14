@@ -1,0 +1,39 @@
+{
+  "id": "printcraft/yolov8-torso-detections-over-booru-chars",
+  "id_no": 4226654,
+  "datasetSlugNullable": "yolov8-torso-detections-over-booru-chars",
+  "ownerUserNullable": "printcraft",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "YOLOv8 torso detections over BOORU CHARS",
+  "subtitleNullable": "Anime / CG / game characters decomPOSEd",
+  "descriptionNullable": "This dataset holds results of batch [torso component detector](https://github.com/aperveyev/booru_yolo) runs over bunches of art data :\n[BOORU CHARS 2021](https://nyaa.si/view/1384820)\n[BOORU CHARS 2015](https://nyaa.si/view/1468367)\n[BOORU CHARS 2022](https://nyaa.si/view/1547662)\n[BOORU CHARS 2023](https://nyaa.si/view/1740396) also direct URL catalog there\n[E621 via TBIB furry](https://nyaa.si/view/1584978)\n\nData structure (tab separated text) : \n* booru+fid - image ID\n* batch_id - model name\n* obj - object number inside model\n* oid - object ID unique within image (some hash)\n* prob - probability\n* x, y, w, h - bounbox \n* oup - \"upper\" OID (head for bust level, bust for belly level)\n* odn - \"down\" OID\n* oxx - XX model OID for PP model object resided within\n* ar - aspect ratio (width/height) for processed image, use it to define whether initial image was cropped\n* oname - full object name for convenience\n\nResults instances :\n- **yolov8s_xx09.tsv** (11.2023) for models AA09 + PP09 (baseline)\n- **yolov8s_xx10.tsv** (01.2024) for models AA10 + PP09 (outdated, dropped)\n- **yolov8s_xx11.tsv** (02.2024) for models AA11 + AS03\n",
+  "datasetId": 4226654,
+  "datasetSlug": "yolov8-torso-detections-over-booru-chars",
+  "hasDatasetSlug": true,
+  "ownerUser": "printcraft",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 94,
+  "totalVotes": 0,
+  "totalDownloads": 2,
+  "title": "YOLOv8 torso detections over BOORU CHARS",
+  "hasTitle": true,
+  "subtitle": "Anime / CG / game characters decomPOSEd",
+  "hasSubtitle": true,
+  "description": "This dataset holds results of batch [torso component detector](https://github.com/aperveyev/booru_yolo) runs over bunches of art data :\n[BOORU CHARS 2021](https://nyaa.si/view/1384820)\n[BOORU CHARS 2015](https://nyaa.si/view/1468367)\n[BOORU CHARS 2022](https://nyaa.si/view/1547662)\n[BOORU CHARS 2023](https://nyaa.si/view/1740396) also direct URL catalog there\n[E621 via TBIB furry](https://nyaa.si/view/1584978)\n\nData structure (tab separated text) : \n* booru+fid - image ID\n* batch_id - model name\n* obj - object number inside model\n* oid - object ID unique within image (some hash)\n* prob - probability\n* x, y, w, h - bounbox \n* oup - \"upper\" OID (head for bust level, bust for belly level)\n* odn - \"down\" OID\n* oxx - XX model OID for PP model object resided within\n* ar - aspect ratio (width/height) for processed image, use it to define whether initial image was cropped\n* oname - full object name for convenience\n\nResults instances :\n- **yolov8s_xx09.tsv** (11.2023) for models AA09 + PP09 (baseline)\n- **yolov8s_xx10.tsv** (01.2024) for models AA10 + PP09 (outdated, dropped)\n- **yolov8s_xx11.tsv** (02.2024) for models AA11 + AS03\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

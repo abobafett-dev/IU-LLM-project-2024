@@ -1,0 +1,43 @@
+{
+  "id": "therohk/ireland-historical-news",
+  "id_no": 30661,
+  "datasetSlugNullable": "ireland-historical-news",
+  "ownerUserNullable": "therohk",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Irish Times - Waxy-Wany News",
+  "subtitleNullable": "25.5 years of covering European events",
+  "descriptionNullable": "### Context\n\nThis news dataset is a composition of 1.61 million headlines posted by the **[Irish Times](https://www.irishtimes.com)** that cover a quarter of a century.\n\nCreated over 160 years ago, the agency can provides long term birds eye view of the happenings in Europe. The major categories include business, sport, culture, lifestyle and opinion in addition to news.\n\nSee these reports for [date distribution](https://www.kaggle.com/therohk/times-and-tides-of-ireland) and [missing dates](https://www.kaggle.com/therohk/ireland-historical-news/discussion/274262).\n\n### Content\n\nCSV Records: 1;611;495\n \n - 1 **publish_date**: Date of the article being published in yyyyMMdd format\n - 2 **headline_category**: Category of the headline, Ascii, dot delimited, lowercase values\n - 3 **headline_text**: Title of the article in English in UTF-8 charset\n\nStart Date: **1996-01-01** ; End Date: **2021-06-30** ;\n\nA separate [bonus](/therohk/global-news-week/discussion/102521) dataset containing fifteen months of observational data from Nigeria is included.\n\n### Inspiration\n\nSpecial Thanks to the journalists who were involved in the creation of this dataset. \n\nGreat care has been taken to conserve these headlines exactly in the order in which they were published by the agency.\n\nMinimal cleanup and processing was required for this dataset due to generally optimal categories, a clean site layout and formatting.",
+  "datasetId": 30661,
+  "datasetSlug": "ireland-historical-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "therohk",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 41963,
+  "totalVotes": 163,
+  "totalDownloads": 3703,
+  "title": "Irish Times - Waxy-Wany News",
+  "hasTitle": true,
+  "subtitle": "25.5 years of covering European events",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis news dataset is a composition of 1.61 million headlines posted by the **[Irish Times](https://www.irishtimes.com)** that cover a quarter of a century.\n\nCreated over 160 years ago, the agency can provides long term birds eye view of the happenings in Europe. The major categories include business, sport, culture, lifestyle and opinion in addition to news.\n\nSee these reports for [date distribution](https://www.kaggle.com/therohk/times-and-tides-of-ireland) and [missing dates](https://www.kaggle.com/therohk/ireland-historical-news/discussion/274262).\n\n### Content\n\nCSV Records: 1;611;495\n \n - 1 **publish_date**: Date of the article being published in yyyyMMdd format\n - 2 **headline_category**: Category of the headline, Ascii, dot delimited, lowercase values\n - 3 **headline_text**: Title of the article in English in UTF-8 charset\n\nStart Date: **1996-01-01** ; End Date: **2021-06-30** ;\n\nA separate [bonus](/therohk/global-news-week/discussion/102521) dataset containing fifteen months of observational data from Nigeria is included.\n\n### Inspiration\n\nSpecial Thanks to the journalists who were involved in the creation of this dataset. \n\nGreat care has been taken to conserve these headlines exactly in the order in which they were published by the agency.\n\nMinimal cleanup and processing was required for this dataset due to generally optimal categories, a clean site layout and formatting.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "europe",
+    "linguistics",
+    "nlp",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

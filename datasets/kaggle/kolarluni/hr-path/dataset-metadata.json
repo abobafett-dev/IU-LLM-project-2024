@@ -1,0 +1,41 @@
+{
+  "id": "kolarluni/hr-path",
+  "id_no": 3677806,
+  "datasetSlugNullable": "hr-path",
+  "ownerUserNullable": "kolarluni",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "MRI_Braintumor_Glioma_Dataset",
+  "subtitleNullable": "MRI Glioma Dataset for Tumor Grade Classification",
+  "descriptionNullable": "The Dataset Contains 9832 MRI Braintumor Glioma Images with the size of 256x256x1.It can used for braintumor grade classification and enhancing the image quality in medical field.",
+  "datasetId": 3677806,
+  "datasetSlug": "hr-path",
+  "hasDatasetSlug": true,
+  "ownerUser": "kolarluni",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 334,
+  "totalVotes": 3,
+  "totalDownloads": 39,
+  "title": "MRI_Braintumor_Glioma_Dataset",
+  "hasTitle": true,
+  "subtitle": "MRI Glioma Dataset for Tumor Grade Classification",
+  "hasSubtitle": true,
+  "description": "The Dataset Contains 9832 MRI Braintumor Glioma Images with the size of 256x256x1.It can used for braintumor grade classification and enhancing the image quality in medical field.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "image",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

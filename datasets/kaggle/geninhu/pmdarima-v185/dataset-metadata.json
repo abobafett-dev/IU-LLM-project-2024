@@ -1,0 +1,40 @@
+{
+  "id": "geninhu/pmdarima-v185",
+  "id_no": 1960058,
+  "datasetSlugNullable": "pmdarima-v185",
+  "ownerUserNullable": "geninhu",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "pmdarima v1.8.5",
+  "subtitleNullable": "Installation package for pmdarima version 1.8.5",
+  "descriptionNullable": "pmdarima is ARIMA estimator for Python\n\nSource: http://alkaline-ml.com/pmdarima/\nLicense: MIT License (The MIT License (Microsoft))\nUsage:\nOpen notebook and import this dataset\nIn a cell, run `!pip -q install ../input/pmdarima-v185/pmdarima-1.8.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl`",
+  "datasetId": 1960058,
+  "datasetSlug": "pmdarima-v185",
+  "hasDatasetSlug": true,
+  "ownerUser": "geninhu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 1141,
+  "totalVotes": 4,
+  "totalDownloads": 17,
+  "title": "pmdarima v1.8.5",
+  "hasTitle": true,
+  "subtitle": "Installation package for pmdarima version 1.8.5",
+  "hasSubtitle": true,
+  "description": "pmdarima is ARIMA estimator for Python\n\nSource: http://alkaline-ml.com/pmdarima/\nLicense: MIT License (The MIT License (Microsoft))\nUsage:\nOpen notebook and import this dataset\nIn a cell, run `!pip -q install ../input/pmdarima-v185/pmdarima-1.8.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl`",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

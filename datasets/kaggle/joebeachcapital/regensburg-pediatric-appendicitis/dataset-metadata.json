@@ -1,0 +1,43 @@
+{
+  "id": "joebeachcapital/regensburg-pediatric-appendicitis",
+  "id_no": 4315187,
+  "datasetSlugNullable": "regensburg-pediatric-appendicitis",
+  "ownerUserNullable": "joebeachcapital",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Regensburg Pediatric Appendicitis",
+  "subtitleNullable": "Retrospective study from a cohort of pediatric patients with abdominal pain",
+  "descriptionNullable": "**Overview**\n\nThis dataset was acquired in a retrospective study from a cohort of pediatric patients admitted with abdominal pain to Children\u2019s Hospital St. Hedwig in Regensburg, Germany. Multiple abdominal B-mode ultrasound images were acquired for most patients, with the number of views varying from 1 to 15. The images depict various regions of interest, such as the abdomen\u2019s right lower quadrant, appendix, intestines, lymph nodes and reproductive organs. Alongside multiple US images for each subject, the dataset includes information encompassing laboratory tests, physical examination results, clinical scores, such as Alvarado and pediatric appendicitis scores, and expert-produced ultrasonographic findings. Lastly, the subjects were labeled w.r.t. three target variables: diagnosis (appendicitis vs. no appendicitis), management (surgical vs. conservative) and severity (complicated vs. uncomplicated or no appendicitis). The study was approved by the Ethics Committee of the University of Regensburg (no. 18-1063-101, 18-1063_1-101 and 18-1063_2-101) and was performed following applicable guidelines and regulations.\n\n**Description**\n\nThis repository holds the data from a cohort of pediatric patients with suspected appendicitis admitted with abdominal pain to Children\u2019s Hospital St. Hedwig in Regensburg, Germany, between 2016 and 2021.\n\nEach patient has (potentially multiple) ultrasound (US) images, aka views, tabular data comprising laboratory, physical examination, scoring results and ultrasonographic findings extracted manually by the experts, and three target variables, namely, diagnosis, management and severity.\n\n**File Structure**\n\nBelow is a brief explanation of the file structure:\n\n    US_Pictures/: folder with the original B-mode ultrasound images in BMP format; images are named as ",
+  "datasetId": 4315187,
+  "datasetSlug": "regensburg-pediatric-appendicitis",
+  "hasDatasetSlug": true,
+  "ownerUser": "joebeachcapital",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1320,
+  "totalVotes": 16,
+  "totalDownloads": 133,
+  "title": "Regensburg Pediatric Appendicitis",
+  "hasTitle": true,
+  "subtitle": "Retrospective study from a cohort of pediatric patients with abdominal pain",
+  "hasSubtitle": true,
+  "description": "**Overview**\n\nThis dataset was acquired in a retrospective study from a cohort of pediatric patients admitted with abdominal pain to Children\u2019s Hospital St. Hedwig in Regensburg, Germany. Multiple abdominal B-mode ultrasound images were acquired for most patients, with the number of views varying from 1 to 15. The images depict various regions of interest, such as the abdomen\u2019s right lower quadrant, appendix, intestines, lymph nodes and reproductive organs. Alongside multiple US images for each subject, the dataset includes information encompassing laboratory tests, physical examination results, clinical scores, such as Alvarado and pediatric appendicitis scores, and expert-produced ultrasonographic findings. Lastly, the subjects were labeled w.r.t. three target variables: diagnosis (appendicitis vs. no appendicitis), management (surgical vs. conservative) and severity (complicated vs. uncomplicated or no appendicitis). The study was approved by the Ethics Committee of the University of Regensburg (no. 18-1063-101, 18-1063_1-101 and 18-1063_2-101) and was performed following applicable guidelines and regulations.\n\n**Description**\n\nThis repository holds the data from a cohort of pediatric patients with suspected appendicitis admitted with abdominal pain to Children\u2019s Hospital St. Hedwig in Regensburg, Germany, between 2016 and 2021.\n\nEach patient has (potentially multiple) ultrasound (US) images, aka views, tabular data comprising laboratory, physical examination, scoring results and ultrasonographic findings extracted manually by the experts, and three target variables, namely, diagnosis, management and severity.\n\n**File Structure**\n\nBelow is a brief explanation of the file structure:\n\n    US_Pictures/: folder with the original B-mode ultrasound images in BMP format; images are named as ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "health",
+    "image",
+    "health conditions",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

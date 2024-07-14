@@ -1,0 +1,43 @@
+{
+  "id": "pavan9065/tcs-stock-price",
+  "id_no": 1620551,
+  "datasetSlugNullable": "tcs-stock-price",
+  "ownerUserNullable": "pavan9065",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "TCS Stock Price",
+  "subtitleNullable": "2002-08-12 to 2021-09-29",
+  "descriptionNullable": "### Content\n\nThe date - \"Date\"\n\nThe opening price of the stock - \"Open\"\n\nThe high price of that day - \"High\"\n\nThe low price of that day - \"Low\"\n\nThe closed price of that day - \"Close\"\n\nThe number of stocks traded during that day - \"Volume\"\n\nThe stock's closing price has been amended to include any distributions/corporate actions that occur before the next day open - \"Adj[usted] Close\"\n\n\n### Acknowledgements\n\nThrough Python programming and checking Sentdex out, I acquired the data from Yahoo Finance. The time period represented starts from 2002-08-12 to 2021-09-29.\n\n### Inspiration\n\nWhat happens when the volume of this stock trading increases/decreases in a short and long period of time? What happens when there is a discrepancy between the adjusted close and the next day's opening price?",
+  "datasetId": 1620551,
+  "datasetSlug": "tcs-stock-price",
+  "hasDatasetSlug": true,
+  "ownerUser": "pavan9065",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2746,
+  "totalVotes": 11,
+  "totalDownloads": 171,
+  "title": "TCS Stock Price",
+  "hasTitle": true,
+  "subtitle": "2002-08-12 to 2021-09-29",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThe date - \"Date\"\n\nThe opening price of the stock - \"Open\"\n\nThe high price of that day - \"High\"\n\nThe low price of that day - \"Low\"\n\nThe closed price of that day - \"Close\"\n\nThe number of stocks traded during that day - \"Volume\"\n\nThe stock's closing price has been amended to include any distributions/corporate actions that occur before the next day open - \"Adj[usted] Close\"\n\n\n### Acknowledgements\n\nThrough Python programming and checking Sentdex out, I acquired the data from Yahoo Finance. The time period represented starts from 2002-08-12 to 2021-09-29.\n\n### Inspiration\n\nWhat happens when the volume of this stock trading increases/decreases in a short and long period of time? What happens when there is a discrepancy between the adjusted close and the next day's opening price?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "history",
+    "finance",
+    "beginner",
+    "time series analysis",
+    "statistical analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

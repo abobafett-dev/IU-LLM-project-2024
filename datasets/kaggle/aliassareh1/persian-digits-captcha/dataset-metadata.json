@@ -1,0 +1,43 @@
+{
+  "id": "aliassareh1/persian-digits-captcha",
+  "id_no": 2395775,
+  "datasetSlugNullable": "persian-digits-captcha",
+  "ownerUserNullable": "aliassareh1",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Persian Digits (captcha)",
+  "subtitleNullable": "30000 Labeled-Persian Digits with Noise in the Background.",
+  "descriptionNullable": "- Each image consists of **4-7** Persian digits with **2** different fonts, **5** different colors, and **7** different font sizes.\n- Some noise is added to make it harder for classification.\n- **Note:** in Persian fonts, there are two types of shapes for digits like 4,5,6, therefore, there are two fonts to handle this issue.\n### Build a model to extract the digits from images",
+  "datasetId": 2395775,
+  "datasetSlug": "persian-digits-captcha",
+  "hasDatasetSlug": true,
+  "ownerUser": "aliassareh1",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4610,
+  "totalVotes": 25,
+  "totalDownloads": 1426,
+  "title": "Persian Digits (captcha)",
+  "hasTitle": true,
+  "subtitle": "30000 Labeled-Persian Digits with Noise in the Background.",
+  "hasSubtitle": true,
+  "description": "- Each image consists of **4-7** Persian digits with **2** different fonts, **5** different colors, and **7** different font sizes.\n- Some noise is added to make it harder for classification.\n- **Note:** in Persian fonts, there are two types of shapes for digits like 4,5,6, therefore, there are two fonts to handle this issue.\n### Build a model to extract the digits from images",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "advanced",
+    "nlp",
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "manashjyotiborah/top-10000-movies-hosted-on-tmdb",
+  "id_no": 3376061,
+  "datasetSlugNullable": "top-10000-movies-hosted-on-tmdb",
+  "ownerUserNullable": "manashjyotiborah",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Popular 10,000 movies listed on TMDb (latest)",
+  "subtitleNullable": "Popular 10000 English movies (latest)",
+  "descriptionNullable": "**Context**: \n\nThese files contain TMDb datasets of popular 10000 English movies. Key data points of the datasets are: cast, crew, keywords, genre, overview, popularity, vote_average, vote_count, title etc.\n\n**Acknowledegements**:\n\nThe cast, crew, keywords, and movie informations have been collected from the TMDb using the public API through web-scraping. Additional information regarding movies can be accessed through the public API on the TMDb website. However, these datasets contain only the relevant columns that are required for building recommendation systems. \n\nIf you need an extra feature/column, feel free to post it on the discussion tab.\n\n**Useful for**:\n\n* building recommendation systems based on *content-based*, *collaborative filtering based* or *hybrid* approach.\n\nPlease consider an **UPVOTE** if you found it useful.",
+  "datasetId": 3376061,
+  "datasetSlug": "top-10000-movies-hosted-on-tmdb",
+  "hasDatasetSlug": true,
+  "ownerUser": "manashjyotiborah",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3638,
+  "totalVotes": 35,
+  "totalDownloads": 685,
+  "title": "Popular 10,000 movies listed on TMDb (latest)",
+  "hasTitle": true,
+  "subtitle": "Popular 10000 English movies (latest)",
+  "hasSubtitle": true,
+  "description": "**Context**: \n\nThese files contain TMDb datasets of popular 10000 English movies. Key data points of the datasets are: cast, crew, keywords, genre, overview, popularity, vote_average, vote_count, title etc.\n\n**Acknowledegements**:\n\nThe cast, crew, keywords, and movie informations have been collected from the TMDb using the public API through web-scraping. Additional information regarding movies can be accessed through the public API on the TMDb website. However, these datasets contain only the relevant columns that are required for building recommendation systems. \n\nIf you need an extra feature/column, feel free to post it on the discussion tab.\n\n**Useful for**:\n\n* building recommendation systems based on *content-based*, *collaborative filtering based* or *hybrid* approach.\n\nPlease consider an **UPVOTE** if you found it useful.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "recommender systems"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "shivamtaneja2304/inshorts-dataset-english",
+  "id_no": 3758248,
+  "datasetSlugNullable": "inshorts-dataset-english",
+  "ownerUserNullable": "shivamtaneja2304",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Inshorts Dataset - English News",
+  "subtitleNullable": "Dataset is scraped daily for news in english on various topics in India",
+  "descriptionNullable": "The dataset is scraped and updated daily, it has scraped news on various topics (the category of the headline is mentioned in the dataset) from inshorts.com\n You get 4 datapoints for each row:\n1. `Headline`\n2. `Content`\n3. `Category`\n4. `Date (of scraping)`\n\nI initially made the dataset for a research project that required classification of news, I decided to update it on a daily basis for others to use :)",
+  "datasetId": 3758248,
+  "datasetSlug": "inshorts-dataset-english",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivamtaneja2304",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1970,
+  "totalVotes": 33,
+  "totalDownloads": 247,
+  "title": "Inshorts Dataset - English News",
+  "hasTitle": true,
+  "subtitle": "Dataset is scraped daily for news in english on various topics in India",
+  "hasSubtitle": true,
+  "description": "The dataset is scraped and updated daily, it has scraped news on various topics (the category of the headline is mentioned in the dataset) from inshorts.com\n You get 4 datapoints for each row:\n1. `Headline`\n2. `Content`\n3. `Category`\n4. `Date (of scraping)`\n\nI initially made the dataset for a research project that required classification of news, I decided to update it on a daily basis for others to use :)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "news",
+    "text classification",
+    "summarization",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

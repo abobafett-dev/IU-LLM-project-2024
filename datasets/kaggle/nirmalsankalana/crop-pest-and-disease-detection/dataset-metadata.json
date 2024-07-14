@@ -1,0 +1,43 @@
+{
+  "id": "nirmalsankalana/crop-pest-and-disease-detection",
+  "id_no": 4280832,
+  "datasetSlugNullable": "crop-pest-and-disease-detection",
+  "ownerUserNullable": "nirmalsankalana",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Crop Pest and Disease Detection",
+  "subtitleNullable": "Dataset for Crop Pest and Disease Detection",
+  "descriptionNullable": "The application of Artificial Intelligence (AI) has been evident in the agricultural sector recently. The main goal of AI in agriculture is to improve crop yield, control crop pests/diseases, and reduce costs. The agricultural sector in developing countries faces severe in the form of disease and pest infestation, the knowledge gap between farmers and technology, and a lack of storage facilities, among others. To help address some of these challenges, this work presents crop pests/disease datasets sourced from local farms in Ghana. The dataset is presented in two folds; the raw images which consist of 24,881 images ( 6,549-Cashew, 7,508-Cassava, 5,389-Maize, and 5,435-Tomato) categorised into 22 classes.\nSource: https://data.mendeley.com/datasets/bwh3zbpkpv/1\n",
+  "datasetId": 4280832,
+  "datasetSlug": "crop-pest-and-disease-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "nirmalsankalana",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 10638,
+  "totalVotes": 35,
+  "totalDownloads": 1614,
+  "title": "Crop Pest and Disease Detection",
+  "hasTitle": true,
+  "subtitle": "Dataset for Crop Pest and Disease Detection",
+  "hasSubtitle": true,
+  "description": "The application of Artificial Intelligence (AI) has been evident in the agricultural sector recently. The main goal of AI in agriculture is to improve crop yield, control crop pests/diseases, and reduce costs. The agricultural sector in developing countries faces severe in the form of disease and pest infestation, the knowledge gap between farmers and technology, and a lack of storage facilities, among others. To help address some of these challenges, this work presents crop pests/disease datasets sourced from local farms in Ghana. The dataset is presented in two folds; the raw images which consist of 24,881 images ( 6,549-Cashew, 7,508-Cassava, 5,389-Maize, and 5,435-Tomato) categorised into 22 classes.\nSource: https://data.mendeley.com/datasets/bwh3zbpkpv/1\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "plants",
+    "agriculture",
+    "computer vision",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

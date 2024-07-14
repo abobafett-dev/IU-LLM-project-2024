@@ -1,0 +1,44 @@
+{
+  "id": "andrewmvd/cat-meow-classification",
+  "id_no": 1736753,
+  "datasetSlugNullable": "cat-meow-classification",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Cat Meow Classification",
+  "subtitleNullable": "440 audio recordings belonging to 3 classes",
+  "descriptionNullable": "![Credit: Carlos Ruas](https://i.imgur.com/RDJPnbd.png)\n\n# About this dataset\n&gt; Ah, yes. Finally a good, relevant question!!! The human race has managed to reach for the stars, however it still struggles to understand our feline friends.\nWith this dataset you can contribute to this relevant task and perhaps one day we'll be able to translate their meows - so that they can officially tell us that we are in fact their pets.\n\n\n&gt; This dataset, composed of 440 sound recordings, contains meows emitted by cats in different contexts. Specifically, 21 cats belonging to 2 breeds (Maine Coon and European Shorthair) have been repeatedly exposed to three different stimuli that act as labels for prediction:\n- Waiting for food;\n- Isolation in unfamiliar environment;\n- Brushing (being brushed affectionately by the owner).\n\n### File naming conventions \n&gt; Files containing meows are in the \"dataset\" folder. They are PCM streams (.wav).\nNaming conventions follow the pattern L[label]\\_CID[Cat ID]\\_BB[Cat Breed]\\_SS[Sex]\\_OID[Owner ID]\\_R[Recording Session]XX[Meow counter].\nThe unique values are available in the 'dataset' folder description.\n\n### Extra content\n&gt; The \"extra\" folder contains excluded recordings (sounds other than meows emitted by cats) and uncut sequences of close vocalizations. It can be used as a 4th class.\n\n\n\n\n\n\n\n# How to use this dataset\n&gt; - Create an audio classifier for Meow Classification\n- Explore the audio spectrograms and tabular variables\n\n\n# Highlighted Notebooks\n&gt; - Your kernel can be featured here!\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n\n\n# Acknowledgements\nIf you use this wonderful dataset in your research, please credit the authors, or the next cat you see will scratch you.\n&gt; ### Citation\n\n&gt; Ntalampiras, S., Ludovico, L.A., Presti, G., Prato Previde, E., Battini, M., Cannas, S., Palestrini, C., Mattiello, S.: Automatic Classification of Cat Vocalizations Emitted in Different Contexts. Animals, vol. 9(8), pp. 543.1\u2013543.14. MDPI (2019).\nISSN: 2076-2615\n\n&gt; Ludovico, L.A., Ntalampiras, S., Presti, G., Cannas, S., Battini, M., Mattiello, S.: CatMeows: A Publicly-Available Dataset of Cat Vocalizations. In: Li, X., Loko\u010d, J., Mezaris, V., Patras, I., Schoeffmann, K., Skopal, T., Vrochidis, S. (eds.) MultiMedia Modeling. 27th International Conference, MMM 2021, Prague, Czech Republic, June 22\u201324, 2021, Proceedings, Part II, LNCS, vol. 12573, pp. 230\u2013243. Springer International Publishing, Cham (2021). \nISBN: 978-3-030-67834-0 (print), 978-3-030-67835-7 (online)\nISSN: 0302-9743 (print), 1611-3349 (online)\n\n\n\n&gt; ### License\nCC BY NC 4.0\n\n\n&gt; ### Splash banner\nIcon by [Freepik](https://www.flaticon.com/authors/freepik) on [FlatIcon](https://www.flaticon.com/free-icon/cat_616430).\nComic by Carlos Ruas at [caesegatos_oficial](https://www.instagram.com/caesegatos_oficial).",
+  "datasetId": 1736753,
+  "datasetSlug": "cat-meow-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 16856,
+  "totalVotes": 61,
+  "totalDownloads": 1053,
+  "title": "Cat Meow Classification",
+  "hasTitle": true,
+  "subtitle": "440 audio recordings belonging to 3 classes",
+  "hasSubtitle": true,
+  "description": "![Credit: Carlos Ruas](https://i.imgur.com/RDJPnbd.png)\n\n# About this dataset\n&gt; Ah, yes. Finally a good, relevant question!!! The human race has managed to reach for the stars, however it still struggles to understand our feline friends.\nWith this dataset you can contribute to this relevant task and perhaps one day we'll be able to translate their meows - so that they can officially tell us that we are in fact their pets.\n\n\n&gt; This dataset, composed of 440 sound recordings, contains meows emitted by cats in different contexts. Specifically, 21 cats belonging to 2 breeds (Maine Coon and European Shorthair) have been repeatedly exposed to three different stimuli that act as labels for prediction:\n- Waiting for food;\n- Isolation in unfamiliar environment;\n- Brushing (being brushed affectionately by the owner).\n\n### File naming conventions \n&gt; Files containing meows are in the \"dataset\" folder. They are PCM streams (.wav).\nNaming conventions follow the pattern L[label]\\_CID[Cat ID]\\_BB[Cat Breed]\\_SS[Sex]\\_OID[Owner ID]\\_R[Recording Session]XX[Meow counter].\nThe unique values are available in the 'dataset' folder description.\n\n### Extra content\n&gt; The \"extra\" folder contains excluded recordings (sounds other than meows emitted by cats) and uncut sequences of close vocalizations. It can be used as a 4th class.\n\n\n\n\n\n\n\n# How to use this dataset\n&gt; - Create an audio classifier for Meow Classification\n- Explore the audio spectrograms and tabular variables\n\n\n# Highlighted Notebooks\n&gt; - Your kernel can be featured here!\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n\n\n# Acknowledgements\nIf you use this wonderful dataset in your research, please credit the authors, or the next cat you see will scratch you.\n&gt; ### Citation\n\n&gt; Ntalampiras, S., Ludovico, L.A., Presti, G., Prato Previde, E., Battini, M., Cannas, S., Palestrini, C., Mattiello, S.: Automatic Classification of Cat Vocalizations Emitted in Different Contexts. Animals, vol. 9(8), pp. 543.1\u2013543.14. MDPI (2019).\nISSN: 2076-2615\n\n&gt; Ludovico, L.A., Ntalampiras, S., Presti, G., Cannas, S., Battini, M., Mattiello, S.: CatMeows: A Publicly-Available Dataset of Cat Vocalizations. In: Li, X., Loko\u010d, J., Mezaris, V., Patras, I., Schoeffmann, K., Skopal, T., Vrochidis, S. (eds.) MultiMedia Modeling. 27th International Conference, MMM 2021, Prague, Czech Republic, June 22\u201324, 2021, Proceedings, Part II, LNCS, vol. 12573, pp. 230\u2013243. Springer International Publishing, Cham (2021). \nISBN: 978-3-030-67834-0 (print), 978-3-030-67835-7 (online)\nISSN: 0302-9743 (print), 1611-3349 (online)\n\n\n\n&gt; ### License\nCC BY NC 4.0\n\n\n&gt; ### Splash banner\nIcon by [Freepik](https://www.flaticon.com/authors/freepik) on [FlatIcon](https://www.flaticon.com/free-icon/cat_616430).\nComic by Carlos Ruas at [caesegatos_oficial](https://www.instagram.com/caesegatos_oficial).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "music",
+    "mental health",
+    "animals",
+    "people and society",
+    "audio"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

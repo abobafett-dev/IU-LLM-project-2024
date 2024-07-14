@@ -1,0 +1,43 @@
+{
+  "id": "gyuntian/cov19fake",
+  "id_no": 2054876,
+  "datasetSlugNullable": "cov19fake",
+  "ownerUserNullable": "gyuntian",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "covid 19 fake news",
+  "subtitleNullable": "Dataset for classification. Data is combined from many sources (Kaggle, Google)",
+  "descriptionNullable": "in final_train.csv, query is the column to be classified.\n\np1, p2, p3 in final train csv are passages related to the query sourced from Covid 19 Open Research Dataset. Some of the p1, p2, p3 are also sourced from other datasets.\n\nYou can opt out of using p1, p2, p3 or use your own.\n\nThe final_train_labels file contain the 0/1 target\n\nData are sourced from google dataset and kaggle",
+  "datasetId": 2054876,
+  "datasetSlug": "cov19fake",
+  "hasDatasetSlug": true,
+  "ownerUser": "gyuntian",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 711,
+  "totalVotes": 1,
+  "totalDownloads": 81,
+  "title": "covid 19 fake news",
+  "hasTitle": true,
+  "subtitle": "Dataset for classification. Data is combined from many sources (Kaggle, Google)",
+  "hasSubtitle": true,
+  "description": "in final_train.csv, query is the column to be classified.\n\np1, p2, p3 in final train csv are passages related to the query sourced from Covid 19 Open Research Dataset. Some of the p1, p2, p3 are also sourced from other datasets.\n\nYou can opt out of using p1, p2, p3 or use your own.\n\nThe final_train_labels file contain the 0/1 target\n\nData are sourced from google dataset and kaggle",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "binary classification",
+    "news",
+    "social networks",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "yathindrak/sinhala-news-article-dataset",
+  "id_no": 1210213,
+  "datasetSlugNullable": "sinhala-news-article-dataset",
+  "ownerUserNullable": "yathindrak",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Sinhala News Article Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\n\nThe dataset has been built using the publically available news data from [Hiru news website](https://www.hirunews.lk/) which is a reputable news source in Sri Lanka. \n\nPlease cite to the [AdaptText research paper](https://ieeexplore.ieee.org/document/9605861)\n\n\n### Content\n\nFormat: CSV - Single File\n\n\n### Inspiration\n\nLack of proper Sinhala multiclass datasets has made me the inspiration to contribute a new dataset for the research community.",
+  "datasetId": 1210213,
+  "datasetSlug": "sinhala-news-article-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yathindrak",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 2223,
+  "totalVotes": 5,
+  "totalDownloads": 112,
+  "title": "Sinhala News Article Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe dataset has been built using the publically available news data from [Hiru news website](https://www.hirunews.lk/) which is a reputable news source in Sri Lanka. \n\nPlease cite to the [AdaptText research paper](https://ieeexplore.ieee.org/document/9605861)\n\n\n### Content\n\nFormat: CSV - Single File\n\n\n### Inspiration\n\nLack of proper Sinhala multiclass datasets has made me the inspiration to contribute a new dataset for the research community.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "nlp",
+    "classification",
+    "text",
+    "multiclass classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

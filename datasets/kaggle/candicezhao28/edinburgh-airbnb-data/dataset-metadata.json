@@ -1,0 +1,44 @@
+{
+  "id": "candicezhao28/edinburgh-airbnb-data",
+  "id_no": 2272261,
+  "datasetSlugNullable": "edinburgh-airbnb-data",
+  "ownerUserNullable": "candicezhao28",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Edinburgh Airbnb Data",
+  "subtitleNullable": "What is a 'normal' price to pay for an Airbnb stay in Edinburgh?",
+  "descriptionNullable": "This dataset provides data of Airbnb listings in the capital of Scotland, Edinburgh, for a period of one year, from 25 June 2019 to 24 June 2020.\n\nThe dataset contains 12 files, 2 of which are original and the rest 10 are processed. The original data are uncleaned web-scraped data, which can be used for data cleaning, data engineering, exploratory data analysis (EDA), followed by any algorithms a user finds suitable. On the other hand, the preprocessed data are provided for users who want to quickly run some _regression_ algorithms without spending time on other aspects of a project.  \n\n## Code\n- The code for obtaining the preprocessed data is provided as notebook `Price Prediction-Part 1 Feature Engineering & EDA`. \n- The code using these preprocessed data to train regression models is provided as `Price Prediction-Part2 Neural Network & XGBoost`.\n\n## Original Data\nSelect your features, clean your data, then EDA or applying algorithms you find suitable.\n- `original_data_listings.csv` (13,245 rows, 106 columns) \nContains data about 13245 properties listed on Airbnb for the period of data collection. 106 fields about the listings are provided, such as the number of bedrooms, neighbourhood, cancellation policy, cleaning fee (averaged over the period of data collection as hosts can change how much they charge for cleaning), etc.  \n\n- `original_data_calendar.csv` (4,834,568 rows, 7 columns)\nContains the status data of each property on each day over the period of data collection, such as, on a given date, whether the property was occupied and the price per night.\n\n## Preprocessed data\nIf you simply would like to run some regression models (predicting a numerical variable), use the preprocessed data. Train and test data are directly available. They were preprocessed separately to prevent data leakage. The target in the preprocessed data is the price per night averaged over the period of data collection.\n\nIt is straightforward to tell what each preprocessed data file is for. For example, `targets_train.csv` contains the targets for training, and `inputs_numerical_test.csv` contains the numerical predictor features for testing.  \n\nNote that the numerical and categorical features are provided in separate files. Users need to combine them before model training. DataFrame index of the numerical and categorical features are identical so one can simply use a merge or join on `id`. The reason why the numerical and categorical features are stored in separate files is that one of the categorical features `neighbourhood` (cardinality = 111) was handled in 3 different ways. Users can choose which version of categorical data to use based on the encoding of this feature:\n- version 1: OneHot Encoding\n- version 2: Target / Mean Encoding (with additive smoothing)\n- version 3: Replacing with a new feature: avg_price_per_bedroom_by_neighbourhood, the price per bedroom averaged over neighbourhood.",
+  "datasetId": 2272261,
+  "datasetSlug": "edinburgh-airbnb-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "candicezhao28",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 2673,
+  "totalVotes": 9,
+  "totalDownloads": 302,
+  "title": "Edinburgh Airbnb Data",
+  "hasTitle": true,
+  "subtitle": "What is a 'normal' price to pay for an Airbnb stay in Edinburgh?",
+  "hasSubtitle": true,
+  "description": "This dataset provides data of Airbnb listings in the capital of Scotland, Edinburgh, for a period of one year, from 25 June 2019 to 24 June 2020.\n\nThe dataset contains 12 files, 2 of which are original and the rest 10 are processed. The original data are uncleaned web-scraped data, which can be used for data cleaning, data engineering, exploratory data analysis (EDA), followed by any algorithms a user finds suitable. On the other hand, the preprocessed data are provided for users who want to quickly run some _regression_ algorithms without spending time on other aspects of a project.  \n\n## Code\n- The code for obtaining the preprocessed data is provided as notebook `Price Prediction-Part 1 Feature Engineering & EDA`. \n- The code using these preprocessed data to train regression models is provided as `Price Prediction-Part2 Neural Network & XGBoost`.\n\n## Original Data\nSelect your features, clean your data, then EDA or applying algorithms you find suitable.\n- `original_data_listings.csv` (13,245 rows, 106 columns) \nContains data about 13245 properties listed on Airbnb for the period of data collection. 106 fields about the listings are provided, such as the number of bedrooms, neighbourhood, cancellation policy, cleaning fee (averaged over the period of data collection as hosts can change how much they charge for cleaning), etc.  \n\n- `original_data_calendar.csv` (4,834,568 rows, 7 columns)\nContains the status data of each property on each day over the period of data collection, such as, on a given date, whether the property was occupied and the price per night.\n\n## Preprocessed data\nIf you simply would like to run some regression models (predicting a numerical variable), use the preprocessed data. Train and test data are directly available. They were preprocessed separately to prevent data leakage. The target in the preprocessed data is the price per night averaged over the period of data collection.\n\nIt is straightforward to tell what each preprocessed data file is for. For example, `targets_train.csv` contains the targets for training, and `inputs_numerical_test.csv` contains the numerical predictor features for testing.  \n\nNote that the numerical and categorical features are provided in separate files. Users need to combine them before model training. DataFrame index of the numerical and categorical features are identical so one can simply use a merge or join on `id`. The reason why the numerical and categorical features are stored in separate files is that one of the categorical features `neighbourhood` (cardinality = 111) was handled in 3 different ways. Users can choose which version of categorical data to use based on the encoding of this feature:\n- version 1: OneHot Encoding\n- version 2: Target / Mean Encoding (with additive smoothing)\n- version 3: Replacing with a new feature: avg_price_per_bedroom_by_neighbourhood, the price per bedroom averaged over neighbourhood.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "real estate",
+    "exploratory data analysis",
+    "neural networks",
+    "regression",
+    "hotels and accommodations"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

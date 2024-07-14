@@ -1,0 +1,40 @@
+{
+  "id": "trajput508/coursera-data",
+  "id_no": 1260575,
+  "datasetSlugNullable": "coursera-data",
+  "ownerUserNullable": "trajput508",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Coursera Data",
+  "subtitleNullable": "",
+  "descriptionNullable": "The course contains Course name, university name, course type,course duration, course language, course rating, course level, instructors name, course details.\n\nThe data is collected using web-scraping Coursera website. The Coursera course directory helped a lot in finding the course names  and their respective links.\n\nThis data was collected to make a recommendation system that recommends courses based on similar courses viewed by the user ",
+  "datasetId": 1260575,
+  "datasetSlug": "coursera-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "trajput508",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 2011,
+  "totalVotes": 4,
+  "totalDownloads": 231,
+  "title": "Coursera Data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The course contains Course name, university name, course type,course duration, course language, course rating, course level, instructors name, course details.\n\nThe data is collected using web-scraping Coursera website. The Coursera course directory helped a lot in finding the course names  and their respective links.\n\nThis data was collected to make a recommendation system that recommends courses based on similar courses viewed by the user ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

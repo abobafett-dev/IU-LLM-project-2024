@@ -1,0 +1,43 @@
+{
+  "id": "aiswaryaramachandran/twitter-data-on-abrogation-of-article-370",
+  "id_no": 305028,
+  "datasetSlugNullable": "twitter-data-on-abrogation-of-article-370",
+  "ownerUserNullable": "aiswaryaramachandran",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Twitter Data on Abrogation of Article 370",
+  "subtitleNullable": "One that changed the history",
+  "descriptionNullable": "### Context\n\nOn Aug 5 2019 there was an historical decision taken in India's History - Article 370 was abolished.While time will tell us if this was the right decision or not, there was a flooding on tweets on this topic when it was announced in the parliament and was sign of an new era in indian politics.\n\n### Content\n\nWe have scraped data from period of 5th Aug to 10th Aug when the abolishment of Article 370 was announced.There are about 190985 tweets. The dataset does not include any retweets. The tweets contain information of when it was tweeted, what was the tweet about and who tweeted, number of replies, number of people who liked the tweet and also number of replies to the tweet,\n\n\n### Acknowledgements\n\nThe tweets were scrapped using the below github repo, which allows to scrap tweets without using the Twitter REST API\n\nhttps://github.com/jonbakerfish/TweetScraper\n\n\n### Inspiration\n\nBased on this data, here are some useful ways of deriving insights and analysis:\n\n1. **Sentiment Analysis** :What is the sentiment of people on the abolishment of Article 370\n2. **Topic Modelling**: What is the different topics on which people are talking about when it comes to Article 370\n3. **Time Series Analysis**: Visualize all the tweets over a timeline and identify peak moments\n\nThe data will be updated soon with more tweets.",
+  "datasetId": 305028,
+  "datasetSlug": "twitter-data-on-abrogation-of-article-370",
+  "hasDatasetSlug": true,
+  "ownerUser": "aiswaryaramachandran",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 4900,
+  "totalVotes": 12,
+  "totalDownloads": 354,
+  "title": "Twitter Data on Abrogation of Article 370",
+  "hasTitle": true,
+  "subtitle": "One that changed the history",
+  "hasSubtitle": true,
+  "description": "### Context\n\nOn Aug 5 2019 there was an historical decision taken in India's History - Article 370 was abolished.While time will tell us if this was the right decision or not, there was a flooding on tweets on this topic when it was announced in the parliament and was sign of an new era in indian politics.\n\n### Content\n\nWe have scraped data from period of 5th Aug to 10th Aug when the abolishment of Article 370 was announced.There are about 190985 tweets. The dataset does not include any retweets. The tweets contain information of when it was tweeted, what was the tweet about and who tweeted, number of replies, number of people who liked the tweet and also number of replies to the tweet,\n\n\n### Acknowledgements\n\nThe tweets were scrapped using the below github repo, which allows to scrap tweets without using the Twitter REST API\n\nhttps://github.com/jonbakerfish/TweetScraper\n\n\n### Inspiration\n\nBased on this data, here are some useful ways of deriving insights and analysis:\n\n1. **Sentiment Analysis** :What is the sentiment of people on the abolishment of Article 370\n2. **Topic Modelling**: What is the different topics on which people are talking about when it comes to Article 370\n3. **Time Series Analysis**: Visualize all the tweets over a timeline and identify peak moments\n\nThe data will be updated soon with more tweets.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "history",
+    "nlp",
+    "text",
+    "email and messaging",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

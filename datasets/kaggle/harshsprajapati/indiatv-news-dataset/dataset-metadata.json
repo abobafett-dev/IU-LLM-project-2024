@@ -1,0 +1,43 @@
+{
+  "id": "harshsprajapati/indiatv-news-dataset",
+  "id_no": 4243760,
+  "datasetSlugNullable": "indiatv-news-dataset",
+  "ownerUserNullable": "harshsprajapati",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "IndiaTv News Dataset",
+  "subtitleNullable": "IndiaTV News Dataset for summarization and classification task",
+  "descriptionNullable": "The IndiaTV News Dataset has been meticulously curated to serve as a foundational resource for deep learning research, specifically targeting content summarization and heading classification tasks. Obtained through web scraping from the IndiaTV news website, this dataset encompasses a comprehensive collection of news articles, featuring both the complete article content and concise short descriptions. The inclusion of entire articles provides a rich corpus for training deep learning models to understand and process extensive textual information. Additionally, the accompanying short descriptions offer valuable targets for text summarization tasks.\n\n**Note**: Researchers are kindly urged to uphold ethical guidelines, respect the terms of use outlined by the data source, and refrain from any commercial use of the scraped data.\n\n",
+  "datasetId": 4243760,
+  "datasetSlug": "indiatv-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "harshsprajapati",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 260,
+  "totalVotes": 5,
+  "totalDownloads": 23,
+  "title": "IndiaTv News Dataset",
+  "hasTitle": true,
+  "subtitle": "IndiaTV News Dataset for summarization and classification task",
+  "hasSubtitle": true,
+  "description": "The IndiaTV News Dataset has been meticulously curated to serve as a foundational resource for deep learning research, specifically targeting content summarization and heading classification tasks. Obtained through web scraping from the IndiaTV news website, this dataset encompasses a comprehensive collection of news articles, featuring both the complete article content and concise short descriptions. The inclusion of entire articles provides a rich corpus for training deep learning models to understand and process extensive textual information. Additionally, the accompanying short descriptions offer valuable targets for text summarization tasks.\n\n**Note**: Researchers are kindly urged to uphold ethical guidelines, respect the terms of use outlined by the data source, and refrain from any commercial use of the scraped data.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "intermediate",
+    "advanced",
+    "news",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

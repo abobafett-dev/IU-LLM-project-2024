@@ -1,0 +1,42 @@
+{
+  "id": "rayhan32/trip-advisor-newyork-city-restaurants-dataset-10k",
+  "id_no": 3251931,
+  "datasetSlugNullable": "trip-advisor-newyork-city-restaurants-dataset-10k",
+  "ownerUserNullable": "rayhan32",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Trip Advisor Newyork City restaurants Dataset 10k+",
+  "subtitleNullable": "Newyork City Dataset from Tripadvisor",
+  "descriptionNullable": "If you're looking to share a valuable dataset on Kaggle, consider uploading the TripAdvisor New York Restaurant Dataset, which contains over 10,000 records of restaurant reviews in New York. The dataset comprises several key entities, including restaurant titles, reviews, comments, popular foods, categories, and whether online delivery is available or not.\n\nWith this dataset, data analysts, researchers, and machine learning practitioners can gain insights into restaurant trends in New York and make data-driven decisions. For instance, by analyzing the most popular foods or categories, restaurant owners can tailor their menus and services to meet the demands of customers. Data scientists can also develop predictive models that forecast restaurant sales or customer satisfaction based on specific factors like reviews, categories, or delivery options.\n\nTo upload this dataset, start by preparing the data in a standard CSV format with appropriate headers for each field. Then, create a Kaggle account, navigate to the Datasets tab, and click \"New Dataset.\" Fill in the relevant information, including a dataset title, description, and license, and upload the CSV file.\n\nBe sure to provide clear documentation for the dataset, including data cleaning and preprocessing steps, any known limitations, and guidelines for proper usage. This information will help other users understand the dataset and use it effectively in their analyses.\n\nOverall, sharing the TripAdvisor New York Restaurant Dataset on Kaggle can be a valuable contribution to the data science community and provide insights into one of the most vibrant food scenes in the world.",
+  "datasetId": 3251931,
+  "datasetSlug": "trip-advisor-newyork-city-restaurants-dataset-10k",
+  "hasDatasetSlug": true,
+  "ownerUser": "rayhan32",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5920,
+  "totalVotes": 27,
+  "totalDownloads": 935,
+  "title": "Trip Advisor Newyork City restaurants Dataset 10k+",
+  "hasTitle": true,
+  "subtitle": "Newyork City Dataset from Tripadvisor",
+  "hasSubtitle": true,
+  "description": "If you're looking to share a valuable dataset on Kaggle, consider uploading the TripAdvisor New York Restaurant Dataset, which contains over 10,000 records of restaurant reviews in New York. The dataset comprises several key entities, including restaurant titles, reviews, comments, popular foods, categories, and whether online delivery is available or not.\n\nWith this dataset, data analysts, researchers, and machine learning practitioners can gain insights into restaurant trends in New York and make data-driven decisions. For instance, by analyzing the most popular foods or categories, restaurant owners can tailor their menus and services to meet the demands of customers. Data scientists can also develop predictive models that forecast restaurant sales or customer satisfaction based on specific factors like reviews, categories, or delivery options.\n\nTo upload this dataset, start by preparing the data in a standard CSV format with appropriate headers for each field. Then, create a Kaggle account, navigate to the Datasets tab, and click \"New Dataset.\" Fill in the relevant information, including a dataset title, description, and license, and upload the CSV file.\n\nBe sure to provide clear documentation for the dataset, including data cleaning and preprocessing steps, any known limitations, and guidelines for proper usage. This information will help other users understand the dataset and use it effectively in their analyses.\n\nOverall, sharing the TripAdvisor New York Restaurant Dataset on Kaggle can be a valuable contribution to the data science community and provide insights into one of the most vibrant food scenes in the world.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "food",
+    "restaurants",
+    "travel"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

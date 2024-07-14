@@ -1,0 +1,43 @@
+{
+  "id": "hammadjavaid/6992-labeled-meme-images-dataset",
+  "id_no": 3496678,
+  "datasetSlugNullable": "6992-labeled-meme-images-dataset",
+  "ownerUserNullable": "hammadjavaid",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "6992 Meme Images Dataset with Labels",
+  "subtitleNullable": "6992 Memes for Sentimental analysis along with labels.csv",
+  "descriptionNullable": "Explore the sentiments behind internet memes with this diverse dataset of 6992 meme images. The set is aimed at tasks like sentiment classification and majority voting using any six classifiers of your choice (three for images, three for text) from the sklearn library. \n\nOutputs should include confusion matrix, accuracy, recall, precision, and F1-measure, providing a comprehensive overview of classifier performance. Ideal for those interested in multimodal data, social media analysis, NLP, image/text classification, text mining, machine learning, deep learning, and sentiment analysis.",
+  "datasetId": 3496678,
+  "datasetSlug": "6992-labeled-meme-images-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "hammadjavaid",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2803,
+  "totalVotes": 15,
+  "totalDownloads": 473,
+  "title": "6992 Meme Images Dataset with Labels",
+  "hasTitle": true,
+  "subtitle": "6992 Memes for Sentimental analysis along with labels.csv",
+  "hasSubtitle": true,
+  "description": "Explore the sentiments behind internet memes with this diverse dataset of 6992 meme images. The set is aimed at tasks like sentiment classification and majority voting using any six classifiers of your choice (three for images, three for text) from the sklearn library. \n\nOutputs should include confusion matrix, accuracy, recall, precision, and F1-measure, providing a comprehensive overview of classifier performance. Ideal for those interested in multimodal data, social media analysis, NLP, image/text classification, text mining, machine learning, deep learning, and sentiment analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "classification",
+    "deep learning",
+    "image",
+    "multimodal"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

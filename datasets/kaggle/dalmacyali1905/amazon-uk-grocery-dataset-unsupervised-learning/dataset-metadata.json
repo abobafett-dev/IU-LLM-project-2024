@@ -1,0 +1,40 @@
+{
+  "id": "dalmacyali1905/amazon-uk-grocery-dataset-unsupervised-learning",
+  "id_no": 3658758,
+  "datasetSlugNullable": "amazon-uk-grocery-dataset-unsupervised-learning",
+  "ownerUserNullable": "dalmacyali1905",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon UK Grocery Dataset (Un)Supervised Learning",
+  "subtitleNullable": "In-depth Analysis of Amazon Grocery Products: Sales, Reviews, and More!",
+  "descriptionNullable": "Overview:\nThis dataset provides a comprehensive overview of various Amazon grocery products. It captures vital statistics such as sales figures, revenue, ratings, and other essential metrics. This data was collected using the Helium10 tool.\n\nKey Features:\nProduct Details: A description of the grocery product.\nASIN: Amazon Standard Identification Number.\nBrand: Brand of the product.\nPrice: Price of the product.\nSales: Number of units sold.\nRevenue: Total revenue generated from the product.\nBSR: Best Seller Rank on Amazon.\nFBA Fees: Fulfillment By Amazon fees.\nActive Sellers #: Number of active sellers for the product.\nRatings: Average customer rating.\nReview Count: Number of customer reviews.\nImages: Number of product images available.\nReview velocity: The number of reviews added in a specified time frame.\nBuy Box: The seller who currently has the \"Buy Box\" for the product.\nCategory: The category of the product on Amazon (e.g., Food Cupboard, Drinks).\nSize Tier: Size classification for the product.\nDelivery: Delivery method.\nDimensions: Product dimensions (Length x Width x Height).\nWeight: Weight of the product.\nCreation Date: The date when the product was added to Amazon.\n\nUsage: \nThis dataset can be used for various purposes, including:\n\n- Market analysis for grocery products on Amazon.\n- Brand comparison based on sales, reviews, and ratings.\n- Predictive modeling for sales or revenue.\n- Analyzing the relationship between price, sales, and reviews.\n- Understanding the importance of product images in sales.\n\nAcknowledgments:\nData was collected using the Helium10 tool. ",
+  "datasetId": 3658758,
+  "datasetSlug": "amazon-uk-grocery-dataset-unsupervised-learning",
+  "hasDatasetSlug": true,
+  "ownerUser": "dalmacyali1905",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3266,
+  "totalVotes": 9,
+  "totalDownloads": 534,
+  "title": "Amazon UK Grocery Dataset (Un)Supervised Learning",
+  "hasTitle": true,
+  "subtitle": "In-depth Analysis of Amazon Grocery Products: Sales, Reviews, and More!",
+  "hasSubtitle": true,
+  "description": "Overview:\nThis dataset provides a comprehensive overview of various Amazon grocery products. It captures vital statistics such as sales figures, revenue, ratings, and other essential metrics. This data was collected using the Helium10 tool.\n\nKey Features:\nProduct Details: A description of the grocery product.\nASIN: Amazon Standard Identification Number.\nBrand: Brand of the product.\nPrice: Price of the product.\nSales: Number of units sold.\nRevenue: Total revenue generated from the product.\nBSR: Best Seller Rank on Amazon.\nFBA Fees: Fulfillment By Amazon fees.\nActive Sellers #: Number of active sellers for the product.\nRatings: Average customer rating.\nReview Count: Number of customer reviews.\nImages: Number of product images available.\nReview velocity: The number of reviews added in a specified time frame.\nBuy Box: The seller who currently has the \"Buy Box\" for the product.\nCategory: The category of the product on Amazon (e.g., Food Cupboard, Drinks).\nSize Tier: Size classification for the product.\nDelivery: Delivery method.\nDimensions: Product dimensions (Length x Width x Height).\nWeight: Weight of the product.\nCreation Date: The date when the product was added to Amazon.\n\nUsage: \nThis dataset can be used for various purposes, including:\n\n- Market analysis for grocery products on Amazon.\n- Brand comparison based on sales, reviews, and ratings.\n- Predictive modeling for sales or revenue.\n- Analyzing the relationship between price, sales, and reviews.\n- Understanding the importance of product images in sales.\n\nAcknowledgments:\nData was collected using the Helium10 tool. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "marketing",
+    "multimodal"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

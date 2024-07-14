@@ -1,0 +1,45 @@
+{
+  "id": "pawankumarsahu/multidomain-human-face-classification-dataset",
+  "id_no": 1700705,
+  "datasetSlugNullable": "multidomain-human-face-classification-dataset",
+  "ownerUserNullable": "pawankumarsahu",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Multi-domain Human Face Classification Dataset",
+  "subtitleNullable": "multiple-domain images that look close to Human Faces for classification task",
+  "descriptionNullable": "# Content\nThe dataset comprises of images from different domains that are either REAL human faces, FAKE human faces (like sketches or anime) or NON human faces (like animal faces or inanimate objects). The images belonging to the same domain are kept in the same directory, seperated from other domains' images. \n**Directories belonging to each are as listed below:**\n- REAL human faces\n    - celeb\n- FAKE human faces\n    - anime\n    - cartoon\n    - sketches\n    - vector art\n    - HL\n- NON human faces\n    - animal1\n    - animal2\n    - blob\n    - fishes\n    - homeobjects\n    - NF\n    - others\n\n### Disclaimer\nI created the dataset for personal and non-commercial use. All the images are either web-scraped or are extracted from existing datasets.",
+  "datasetId": 1700705,
+  "datasetSlug": "multidomain-human-face-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "pawankumarsahu",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 3006,
+  "totalVotes": 4,
+  "totalDownloads": 138,
+  "title": "Multi-domain Human Face Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "multiple-domain images that look close to Human Faces for classification task",
+  "hasSubtitle": true,
+  "description": "# Content\nThe dataset comprises of images from different domains that are either REAL human faces, FAKE human faces (like sketches or anime) or NON human faces (like animal faces or inanimate objects). The images belonging to the same domain are kept in the same directory, seperated from other domains' images. \n**Directories belonging to each are as listed below:**\n- REAL human faces\n    - celeb\n- FAKE human faces\n    - anime\n    - cartoon\n    - sketches\n    - vector art\n    - HL\n- NON human faces\n    - animal1\n    - animal2\n    - blob\n    - fishes\n    - homeobjects\n    - NF\n    - others\n\n### Disclaimer\nI created the dataset for personal and non-commercial use. All the images are either web-scraped or are extracted from existing datasets.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "categorical",
+    "people",
+    "clustering",
+    "image",
+    "multiclass classification",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

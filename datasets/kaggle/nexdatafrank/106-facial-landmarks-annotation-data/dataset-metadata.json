@@ -1,0 +1,40 @@
+{
+  "id": "nexdatafrank/106-facial-landmarks-annotation-data",
+  "id_no": 3866917,
+  "datasetSlugNullable": "106-facial-landmarks-annotation-data",
+  "ownerUserNullable": "nexdatafrank",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "106 Facial Landmarks Annotation Data",
+  "subtitleNullable": "",
+  "descriptionNullable": "**Description**\nThis dataset includes yellow race, black race, white race and Indian people. In order to be more challenging, the data includes multiple scenes, multiple poses, different ages, light conditions and complicated expressions. This data can be used for tasks such as face detection and face recognition.\nFor more details, please visit: https://www.nexdata.ai/datasets/961?source=Kaggle\n\n**Specifications**\nData size\n87,871 images. There is only one face in an image\nGender distribution\nmale: 37,268 images, female: 50,603 images\nRace distribution\n56,325 images of yellow race, 15,625 images of white race, 4,492 images of black race, 11,432 images of Indian\nAge distribution:\nbaby: 3,848 images\uff1bteenager: 5,792 images\uff1b young: 64,935 images\uff1b midlife: 9,879 images\uff1b senior: 3,418 images\nCollecting environment\nincluding indoor and outdoor scenes\nData format\n.jpg, .json\nData diversity\nmultiple scenes, multiple poses, multiple ages, multiple light conditions and complicated expressions\nAnnotation content\n9 facial attributes, 106 facial landmarks\nAccuracy\nannotation accuracies of facial attributes and landmarks are over 97%\n\n**Get the Dataset**\nThis is just an example of the data. To access more sample data or request the price, contact us  at info@nexdata.ai",
+  "datasetId": 3866917,
+  "datasetSlug": "106-facial-landmarks-annotation-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "nexdatafrank",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 143,
+  "totalVotes": 3,
+  "totalDownloads": 12,
+  "title": "106 Facial Landmarks Annotation Data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "**Description**\nThis dataset includes yellow race, black race, white race and Indian people. In order to be more challenging, the data includes multiple scenes, multiple poses, different ages, light conditions and complicated expressions. This data can be used for tasks such as face detection and face recognition.\nFor more details, please visit: https://www.nexdata.ai/datasets/961?source=Kaggle\n\n**Specifications**\nData size\n87,871 images. There is only one face in an image\nGender distribution\nmale: 37,268 images, female: 50,603 images\nRace distribution\n56,325 images of yellow race, 15,625 images of white race, 4,492 images of black race, 11,432 images of Indian\nAge distribution:\nbaby: 3,848 images\uff1bteenager: 5,792 images\uff1b young: 64,935 images\uff1b midlife: 9,879 images\uff1b senior: 3,418 images\nCollecting environment\nincluding indoor and outdoor scenes\nData format\n.jpg, .json\nData diversity\nmultiple scenes, multiple poses, multiple ages, multiple light conditions and complicated expressions\nAnnotation content\n9 facial attributes, 106 facial landmarks\nAccuracy\nannotation accuracies of facial attributes and landmarks are over 97%\n\n**Get the Dataset**\nThis is just an example of the data. To access more sample data or request the price, contact us  at info@nexdata.ai",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

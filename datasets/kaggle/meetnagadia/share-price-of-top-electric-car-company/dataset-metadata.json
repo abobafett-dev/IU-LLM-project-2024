@@ -1,0 +1,43 @@
+{
+  "id": "meetnagadia/share-price-of-top-electric-car-company",
+  "id_no": 1549344,
+  "datasetSlugNullable": "share-price-of-top-electric-car-company",
+  "ownerUserNullable": "meetnagadia",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Share price of Top Electric Car Company ",
+  "subtitleNullable": "This Dataset has various Car Companies and their Stock Price Data from 2016-2021",
+  "descriptionNullable": "### Context\nThis data is collected from Yahoo Finance so barely has missing data you can perform EDA and the build model to predict future values.\n\n### Submission \n You can submit your work using any method and can/cannot perform EDA.\n\n### Source\nYahoo Finance",
+  "datasetId": 1549344,
+  "datasetSlug": "share-price-of-top-electric-car-company",
+  "hasDatasetSlug": true,
+  "ownerUser": "meetnagadia",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 8468,
+  "totalVotes": 30,
+  "totalDownloads": 1034,
+  "title": "Share price of Top Electric Car Company ",
+  "hasTitle": true,
+  "subtitle": "This Dataset has various Car Companies and their Stock Price Data from 2016-2021",
+  "hasSubtitle": true,
+  "description": "### Context\nThis data is collected from Yahoo Finance so barely has missing data you can perform EDA and the build model to predict future values.\n\n### Submission \n You can submit your work using any method and can/cannot perform EDA.\n\n### Source\nYahoo Finance",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "automobiles and vehicles",
+    "time series analysis",
+    "lstm",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

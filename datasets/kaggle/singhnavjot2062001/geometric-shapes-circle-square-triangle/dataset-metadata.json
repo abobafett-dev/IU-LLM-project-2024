@@ -1,0 +1,43 @@
+{
+  "id": "singhnavjot2062001/geometric-shapes-circle-square-triangle",
+  "id_no": 4184221,
+  "datasetSlugNullable": "geometric-shapes-circle-square-triangle",
+  "ownerUserNullable": "singhnavjot2062001",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "600 Synthetic Shapes: Circles, Squares, Triangles ",
+  "subtitleNullable": "Discover the Artistry in Circles, Squares, and Triangles.",
+  "descriptionNullable": "Unlock the potential of **machine learning** with the **\"Synthetic Shapes\"** dataset, meticulously crafted using **Python.** This collection comprises **600 high-quality** images featuring **circles**, **squares**, and **triangles**, with each class containing **200 images.** Carefully divided into training and testing sets, this dataset serves as a valuable resource for **shape recognition tasks.** Whether you're a researcher, enthusiast, or practitioner in **computer vision and machine learning,** explore the versatility and precision of this synthetically generated dataset.",
+  "datasetId": 4184221,
+  "datasetSlug": "geometric-shapes-circle-square-triangle",
+  "hasDatasetSlug": true,
+  "ownerUser": "singhnavjot2062001",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 940,
+  "totalVotes": 12,
+  "totalDownloads": 128,
+  "title": "600 Synthetic Shapes: Circles, Squares, Triangles ",
+  "hasTitle": true,
+  "subtitle": "Discover the Artistry in Circles, Squares, and Triangles.",
+  "hasSubtitle": true,
+  "description": "Unlock the potential of **machine learning** with the **\"Synthetic Shapes\"** dataset, meticulously crafted using **Python.** This collection comprises **600 high-quality** images featuring **circles**, **squares**, and **triangles**, with each class containing **200 images.** Carefully divided into training and testing sets, this dataset serves as a valuable resource for **shape recognition tasks.** Whether you're a researcher, enthusiast, or practitioner in **computer vision and machine learning,** explore the versatility and precision of this synthetically generated dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cnn",
+    "multiclass classification",
+    "keras",
+    "tensorflow",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

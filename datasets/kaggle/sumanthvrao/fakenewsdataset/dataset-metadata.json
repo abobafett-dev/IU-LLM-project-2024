@@ -1,0 +1,40 @@
+{
+  "id": "sumanthvrao/fakenewsdataset",
+  "id_no": 169457,
+  "datasetSlugNullable": "fakenewsdataset",
+  "ownerUserNullable": "sumanthvrao",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Fake-News-Dataset",
+  "subtitleNullable": "Two fake news datasets covering seven different news domains. ",
+  "descriptionNullable": "## Introduction\nThis describes two fake news datasets covering seven different news domains. One of the datasets is collected by combining manual and crowdsourced annotation approaches (FakeNewsAMT), while the second is collected directly from the web (Celebrity).\n\n## Data collection\nThe FakeNewsDatabase dataset contains news in six different domains: technology, education, business, sports, politics, and entertainment. The legitimate news included in the dataset were collected from a variety of mainstream news websites predominantly in the US such as the ABCNews, CNN, USAToday, NewYorkTimes, FoxNews, Bloomberg, and CNET among others. The fake news included in this dataset consist of fake versions of the legitimate news in the dataset, written using Mechanical Turk. More details on the data collection are provided in section 3 of the paper. \n\nThe Celebrity dataset contain news about celebrities (actors, singers, socialites, and politicians). The legitimate news in the dataset were obtained from entertainment, fashion and style news sections in mainstream news websites and from entertainment magazines websites. The fake news were obtained from gossip websites such as Entertainment Weekly, People Magazine, RadarOnline, and other tabloid and entertainment-oriented publications. The news articles were collected in pairs, with one article being legitimate and the other fake (rumors and false reports). The articles were manually verified using gossip-checking sites such as \"GossipCop.com\", and also cross-referenced with information from other entertainment news sources on the web.\n\nThe data directory contains two fake news datasets:\n\n- Celebrity\nThe fake and legitimate news are provided in two separate folders. The fake and legitimate labels are also provided as part of the filename.\n\n- FakeNewsAMT\nThe fake and legitimate news are provided in two separate folders. Each folder contains 40 news from six different domains: technology, education, business, sports, politics, and entertainment. The file names indicate the news domain: business (biz), education (edu), entertainment (entmt), politics (polit), sports (sports) and technology (tech). The fake and legitimate labels are also provided as part of the filename.\n\n## Dataset citation :\n@article{Perez-Rosas18Automatic,\nauthor = {Ver\\\u2019{o}nica P\\'{e}rez-Rosas, Bennett Kleinberg, Alexandra Lefevre, Rada Mihalcea},\ntitle = {Automatic Detection of Fake News},\njournal = {International Conference on Computational Linguistics (COLING)},\nyear = {2018}\n}",
+  "datasetId": 169457,
+  "datasetSlug": "fakenewsdataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sumanthvrao",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 20515,
+  "totalVotes": 27,
+  "totalDownloads": 1750,
+  "title": "Fake-News-Dataset",
+  "hasTitle": true,
+  "subtitle": "Two fake news datasets covering seven different news domains. ",
+  "hasSubtitle": true,
+  "description": "## Introduction\nThis describes two fake news datasets covering seven different news domains. One of the datasets is collected by combining manual and crowdsourced annotation approaches (FakeNewsAMT), while the second is collected directly from the web (Celebrity).\n\n## Data collection\nThe FakeNewsDatabase dataset contains news in six different domains: technology, education, business, sports, politics, and entertainment. The legitimate news included in the dataset were collected from a variety of mainstream news websites predominantly in the US such as the ABCNews, CNN, USAToday, NewYorkTimes, FoxNews, Bloomberg, and CNET among others. The fake news included in this dataset consist of fake versions of the legitimate news in the dataset, written using Mechanical Turk. More details on the data collection are provided in section 3 of the paper. \n\nThe Celebrity dataset contain news about celebrities (actors, singers, socialites, and politicians). The legitimate news in the dataset were obtained from entertainment, fashion and style news sections in mainstream news websites and from entertainment magazines websites. The fake news were obtained from gossip websites such as Entertainment Weekly, People Magazine, RadarOnline, and other tabloid and entertainment-oriented publications. The news articles were collected in pairs, with one article being legitimate and the other fake (rumors and false reports). The articles were manually verified using gossip-checking sites such as \"GossipCop.com\", and also cross-referenced with information from other entertainment news sources on the web.\n\nThe data directory contains two fake news datasets:\n\n- Celebrity\nThe fake and legitimate news are provided in two separate folders. The fake and legitimate labels are also provided as part of the filename.\n\n- FakeNewsAMT\nThe fake and legitimate news are provided in two separate folders. Each folder contains 40 news from six different domains: technology, education, business, sports, politics, and entertainment. The file names indicate the news domain: business (biz), education (edu), entertainment (entmt), politics (polit), sports (sports) and technology (tech). The fake and legitimate labels are also provided as part of the filename.\n\n## Dataset citation :\n@article{Perez-Rosas18Automatic,\nauthor = {Ver\\\u2019{o}nica P\\'{e}rez-Rosas, Bennett Kleinberg, Alexandra Lefevre, Rada Mihalcea},\ntitle = {Automatic Detection of Fake News},\njournal = {International Conference on Computational Linguistics (COLING)},\nyear = {2018}\n}",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "lstm",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

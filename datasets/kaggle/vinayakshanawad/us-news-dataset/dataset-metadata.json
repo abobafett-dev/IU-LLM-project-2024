@@ -1,0 +1,40 @@
+{
+  "id": "vinayakshanawad/us-news-dataset",
+  "id_no": 1525403,
+  "datasetSlugNullable": "us-news-dataset",
+  "ownerUserNullable": "vinayakshanawad",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "USA News Dataset",
+  "subtitleNullable": "Information of news articles and click histories",
+  "descriptionNullable": "### Problem Description\n\nConstruct two types of models -- (A) a deep learning classifier such as LSTM or similar model to predict the category of a news article given its title and abstract, and (B) A recommendation system to recommend posts that a user is most likely to click.\n\nThe dataset consists of two files -- (1) user_news_clicks.csv, and (2) news_text.csv.\n\nModel A, the deep learning classifier only requires the news_text.csv dataset. The goal is to predict the \u2018category\u2019 label using the \u2018title\u2019 and \u2018abstract; columns. Model B, the recommendation system only requires user_news_clicks.csv but you can use the news_text.csv in addition if you\u2019d like though it is not necessary for this exercise. The goal is to be able to recommend users news articles that they\u2019re likely to click.\n\n### Data Description\n\nIn news_text.csv - each record consists of three attributes and a target variable:\n- Category - There are lots of news categories available in this dataset, as requested we need to only 3 categories - news, sports and finance\n- news_id - Identification number of the news\n- title - Title of the news\n- abstract - Abstract of the news\n\nIn user_news_clicks.csv - each record consists of two attributes and a target variable:\n- click - User has clicked the articles or not\n- user_id - Identification number of the user\n- item - Identification number of an item\n\n### Goals\n\n- Design the deep learning classifier and the recommendation system models\n- Build and train the models using a Python deep learning library such as Tensorflow or PyTorch\n- Test the model\u2019s performance using a set of metrics\n- Report on the performance of the model\n\n### Instructions\n\n- Read about the dataset at\nhttps://github.com/msnews/msnews.github.io/blob/master/assets/doc/introduction.md\n\n**NOTE**: We do not need to use the entire dataset, if resources are limited. Feel free to sample.\n- For Model A, use only the top 3 categories -- namely news, sports, and finance for model training and validation.\n- Code and build the models A and B using a Python library such as Pytorch or Tensorflow",
+  "datasetId": 1525403,
+  "datasetSlug": "us-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "vinayakshanawad",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 4292,
+  "totalVotes": 4,
+  "totalDownloads": 336,
+  "title": "USA News Dataset",
+  "hasTitle": true,
+  "subtitle": "Information of news articles and click histories",
+  "hasSubtitle": true,
+  "description": "### Problem Description\n\nConstruct two types of models -- (A) a deep learning classifier such as LSTM or similar model to predict the category of a news article given its title and abstract, and (B) A recommendation system to recommend posts that a user is most likely to click.\n\nThe dataset consists of two files -- (1) user_news_clicks.csv, and (2) news_text.csv.\n\nModel A, the deep learning classifier only requires the news_text.csv dataset. The goal is to predict the \u2018category\u2019 label using the \u2018title\u2019 and \u2018abstract; columns. Model B, the recommendation system only requires user_news_clicks.csv but you can use the news_text.csv in addition if you\u2019d like though it is not necessary for this exercise. The goal is to be able to recommend users news articles that they\u2019re likely to click.\n\n### Data Description\n\nIn news_text.csv - each record consists of three attributes and a target variable:\n- Category - There are lots of news categories available in this dataset, as requested we need to only 3 categories - news, sports and finance\n- news_id - Identification number of the news\n- title - Title of the news\n- abstract - Abstract of the news\n\nIn user_news_clicks.csv - each record consists of two attributes and a target variable:\n- click - User has clicked the articles or not\n- user_id - Identification number of the user\n- item - Identification number of an item\n\n### Goals\n\n- Design the deep learning classifier and the recommendation system models\n- Build and train the models using a Python deep learning library such as Tensorflow or PyTorch\n- Test the model\u2019s performance using a set of metrics\n- Report on the performance of the model\n\n### Instructions\n\n- Read about the dataset at\nhttps://github.com/msnews/msnews.github.io/blob/master/assets/doc/introduction.md\n\n**NOTE**: We do not need to use the entire dataset, if resources are limited. Feel free to sample.\n- For Model A, use only the top 3 categories -- namely news, sports, and finance for model training and validation.\n- Code and build the models A and B using a Python library such as Pytorch or Tensorflow",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

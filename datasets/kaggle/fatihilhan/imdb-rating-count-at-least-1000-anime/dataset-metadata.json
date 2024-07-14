@@ -1,0 +1,43 @@
+{
+  "id": "fatihilhan/imdb-rating-count-at-least-1000-anime",
+  "id_no": 3978925,
+  "datasetSlugNullable": "imdb-rating-count-at-least-1000-anime",
+  "ownerUserNullable": "fatihilhan",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IMDb Rating Count at least 1,000 anime",
+  "subtitleNullable": "IMDb Rating Count at least 1,000, Animation, anime",
+  "descriptionNullable": "**Title:** IMDb Rating Count at least 1,000, Animation, anime (Sorted by IMDb Rating Descending)\n\n**Description:**\nThis dataset contains a curated selection of animated TV shows and anime from IMDb with a minimum rating count of 1,000. The dataset is sorted by IMDb ratings in descending order, featuring various animated series falling under the genres of Animation, Anime, Action, and Adventure.\n\n**Content:**\n\n- Anime Series: Names of the anime series included in the dataset.\n- Release Date: The date or date range when the series was released.\n- Length: Duration of episodes (e.g., 24 minutes).\n- Genre: Categories of the series (e.g., Animation, Action, Adventure).\n- Rating: IMDb rating of the series, with a count of at least 1,000 user ratings.\n\n**Use Case**:\nThis dataset can be utilized for various analytical purposes, such as:\n\n- Understanding the highest-rated animated series with a significant number of IMDb ratings.\n- Analyzing trends and patterns in highly rated animation and anime shows.\n\nNote to Users:\n- The dataset is pre-filtered to include only TV shows with a minimum of 1,000 user ratings on IMDb.\n- Genre categories primarily include Animation, Anime, Action, and Adventure.\n- The dataset is sorted by IMDb rating in descending order.\n\n**Citation:**\nIf you use this dataset in your work or analysis, kindly consider citing or referencing this dataset as appropriate.",
+  "datasetId": 3978925,
+  "datasetSlug": "imdb-rating-count-at-least-1000-anime",
+  "hasDatasetSlug": true,
+  "ownerUser": "fatihilhan",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5042,
+  "totalVotes": 31,
+  "totalDownloads": 1086,
+  "title": "IMDb Rating Count at least 1,000 anime",
+  "hasTitle": true,
+  "subtitle": "IMDb Rating Count at least 1,000, Animation, anime",
+  "hasSubtitle": true,
+  "description": "**Title:** IMDb Rating Count at least 1,000, Animation, anime (Sorted by IMDb Rating Descending)\n\n**Description:**\nThis dataset contains a curated selection of animated TV shows and anime from IMDb with a minimum rating count of 1,000. The dataset is sorted by IMDb ratings in descending order, featuring various animated series falling under the genres of Animation, Anime, Action, and Adventure.\n\n**Content:**\n\n- Anime Series: Names of the anime series included in the dataset.\n- Release Date: The date or date range when the series was released.\n- Length: Duration of episodes (e.g., 24 minutes).\n- Genre: Categories of the series (e.g., Animation, Action, Adventure).\n- Rating: IMDb rating of the series, with a count of at least 1,000 user ratings.\n\n**Use Case**:\nThis dataset can be utilized for various analytical purposes, such as:\n\n- Understanding the highest-rated animated series with a significant number of IMDb ratings.\n- Analyzing trends and patterns in highly rated animation and anime shows.\n\nNote to Users:\n- The dataset is pre-filtered to include only TV shows with a minimum of 1,000 user ratings on IMDb.\n- Genre categories primarily include Animation, Anime, Action, and Adventure.\n- The dataset is sorted by IMDb rating in descending order.\n\n**Citation:**\nIf you use this dataset in your work or analysis, kindly consider citing or referencing this dataset as appropriate.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "exploratory data analysis",
+    "data analytics",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

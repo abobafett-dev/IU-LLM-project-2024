@@ -1,0 +1,45 @@
+{
+  "id": "shivam17299/oral-cancer-lips-and-tongue-images",
+  "id_no": 908874,
+  "datasetSlugNullable": "oral-cancer-lips-and-tongue-images",
+  "ownerUserNullable": "shivam17299",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Oral Cancer (Lips and Tongue) images",
+  "subtitleNullable": "Captured Images of Cancererous and Non-Cancererous Lips and Tongue",
+  "descriptionNullable": "This is the image classification dataset of oral cancer.\n\nIt contains images of lips and tongue which are classified in cancerous and non-cancerous groups.\n\nWe captured images in various ENT hospitals of Ahmedabad and classified the images with the help of ENT doctors. \n\nYou can try and practice on this dataset but We're not 100% sure about reliability.\n\n\nThank you!!",
+  "datasetId": 908874,
+  "datasetSlug": "oral-cancer-lips-and-tongue-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivam17299",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 23611,
+  "totalVotes": 33,
+  "totalDownloads": 2456,
+  "title": "Oral Cancer (Lips and Tongue) images",
+  "hasTitle": true,
+  "subtitle": "Captured Images of Cancererous and Non-Cancererous Lips and Tongue",
+  "hasSubtitle": true,
+  "description": "This is the image classification dataset of oral cancer.\n\nIt contains images of lips and tongue which are classified in cancerous and non-cancerous groups.\n\nWe captured images in various ENT hospitals of Ahmedabad and classified the images with the help of ENT doctors. \n\nYou can try and practice on this dataset but We're not 100% sure about reliability.\n\n\nThank you!!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "dentistry",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "prakrutsuthar",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

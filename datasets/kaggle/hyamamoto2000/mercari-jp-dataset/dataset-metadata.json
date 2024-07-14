@@ -1,0 +1,44 @@
+{
+  "id": "hyamamoto2000/mercari-jp-dataset",
+  "id_no": 4874371,
+  "datasetSlugNullable": "mercari-jp-dataset",
+  "ownerUserNullable": "hyamamoto2000",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Mercari Japanese Dataset",
+  "subtitleNullable": "Item sales dataset for price-prediction/classification/NLP",
+  "descriptionNullable": "# Mercari Japanese Item Sales Dataset \ud83d\udecd\n\nThis dataset contains items listed and sold on Mercari Japanese [website](http://mercari.jp) offering a unique glimpse into the world of e-commerce on the website.  The data is intentionally structured similar to that of the official Price Suggestion Challenge [on Kaggle](https://www.kaggle.com/competitions/mercari-price-suggestion-challenge) held 7 years ago, aiming at the successive transfer of knowledge and technique. It's that this dataset is completely renewed and has more predictors/features in it. It may be used for various tasks including classification, regression, natural language processing, and price prediction. Non commercial use only. I hope next generation of data engineers, ah hopefully that includes me, find this interesting.\n\n## Data Overview:\n\n- **Content:** List of sold items on Mercari Japanese website\n- **Source:** In-house web scraper via official web interface\n- **Number of samples:** about 867,700 (one item per row)\n- **Data format:** TSV\n- **Encoding:** UTF-8\n\n\n\n## Feature Description:\n\n|      Feature Name     |              Description                           |    Data Type    |\n|-----------------------|----------------------------------------------------|-----------------|\n| **id**                | Obfuscated item identifier                         | str             |\n| **is_shop**           | Indicates if the seller is a shop <br>(0 = n; 1 = y)  | int/bool        |\n| **name**              | Item name                                          | str             |\n| **item_description**  | Item's description                                 | str             |\n| **price**             | Listed price (yen) of the item                     | int             |\n| **brand_name**        | Item brand (if available)                          | str/categorical |\n| **item_condition**    | Item's condition (e.g., new, used,...)             | int/categorical |\n| **shipping**          | Who pays for shipping <br>(0 = buyer; 1 = seller)      | int/bool        |\n| **shipping_from_area**| Area where the item ships from                     | int/categorical |\n| **shipping_duration** | Estimated shipping time                            | int/categorical |\n| **seller_id**         | Obfuscated seller identifier                       | str             |\n| **category_name**     | Categories <br>(levels are separated by \"/\")           | str/categorical<br>/concatenated |\n| **updated_date**      | Last updated date <br>(rounded by 4 hours)             | date            |\n\n\n\n## Important Notes:\n\n- This dataset is made public for educational purpose. Non-commercial use only\n- This dataset includes items across all categories\n- Certain data points were anonymized (`seller_id`, `item_id`) or removed (`images`, `update_time`, `description`, etc...) from original materials to prevent misuse\n- Brand IDs and category IDs have been replaced with corresponding names for easier use\n- Sellers and items are obfuscated but still identifiable by manually searching it on the original website\n\n## Contact:\n\nIf you find this dataset valuable or have suggestions, share your finding with the Kaggle community.\nAlso feel free to [contact me](mailto:hyamamoto2000@gmail.com).\n- This dataset is currently on beta. Do you want some Kaggle competition with this?\n- Do you want other features imported from original data source?\n\n## Future Data Acquisition:\n\nThe dataset is intended to be updated over time.\n",
+  "datasetId": 4874371,
+  "datasetSlug": "mercari-jp-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "hyamamoto2000",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 193,
+  "totalVotes": 1,
+  "totalDownloads": 14,
+  "title": "Mercari Japanese Dataset",
+  "hasTitle": true,
+  "subtitle": "Item sales dataset for price-prediction/classification/NLP",
+  "hasSubtitle": true,
+  "description": "# Mercari Japanese Item Sales Dataset \ud83d\udecd\n\nThis dataset contains items listed and sold on Mercari Japanese [website](http://mercari.jp) offering a unique glimpse into the world of e-commerce on the website.  The data is intentionally structured similar to that of the official Price Suggestion Challenge [on Kaggle](https://www.kaggle.com/competitions/mercari-price-suggestion-challenge) held 7 years ago, aiming at the successive transfer of knowledge and technique. It's that this dataset is completely renewed and has more predictors/features in it. It may be used for various tasks including classification, regression, natural language processing, and price prediction. Non commercial use only. I hope next generation of data engineers, ah hopefully that includes me, find this interesting.\n\n## Data Overview:\n\n- **Content:** List of sold items on Mercari Japanese website\n- **Source:** In-house web scraper via official web interface\n- **Number of samples:** about 867,700 (one item per row)\n- **Data format:** TSV\n- **Encoding:** UTF-8\n\n\n\n## Feature Description:\n\n|      Feature Name     |              Description                           |    Data Type    |\n|-----------------------|----------------------------------------------------|-----------------|\n| **id**                | Obfuscated item identifier                         | str             |\n| **is_shop**           | Indicates if the seller is a shop <br>(0 = n; 1 = y)  | int/bool        |\n| **name**              | Item name                                          | str             |\n| **item_description**  | Item's description                                 | str             |\n| **price**             | Listed price (yen) of the item                     | int             |\n| **brand_name**        | Item brand (if available)                          | str/categorical |\n| **item_condition**    | Item's condition (e.g., new, used,...)             | int/categorical |\n| **shipping**          | Who pays for shipping <br>(0 = buyer; 1 = seller)      | int/bool        |\n| **shipping_from_area**| Area where the item ships from                     | int/categorical |\n| **shipping_duration** | Estimated shipping time                            | int/categorical |\n| **seller_id**         | Obfuscated seller identifier                       | str             |\n| **category_name**     | Categories <br>(levels are separated by \"/\")           | str/categorical<br>/concatenated |\n| **updated_date**      | Last updated date <br>(rounded by 4 hours)             | date            |\n\n\n\n## Important Notes:\n\n- This dataset is made public for educational purpose. Non-commercial use only\n- This dataset includes items across all categories\n- Certain data points were anonymized (`seller_id`, `item_id`) or removed (`images`, `update_time`, `description`, etc...) from original materials to prevent misuse\n- Brand IDs and category IDs have been replaced with corresponding names for easier use\n- Sellers and items are obfuscated but still identifiable by manually searching it on the original website\n\n## Contact:\n\nIf you find this dataset valuable or have suggestions, share your finding with the Kaggle community.\nAlso feel free to [contact me](mailto:hyamamoto2000@gmail.com).\n- This dataset is currently on beta. Do you want some Kaggle competition with this?\n- Do you want other features imported from original data source?\n\n## Future Data Acquisition:\n\nThe dataset is intended to be updated over time.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "computer science",
+    "exploratory data analysis",
+    "tabular",
+    "e-commerce services",
+    "japanese"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

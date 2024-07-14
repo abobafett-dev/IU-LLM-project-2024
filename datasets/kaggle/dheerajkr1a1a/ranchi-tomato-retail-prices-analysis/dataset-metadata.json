@@ -1,0 +1,41 @@
+{
+  "id": "dheerajkr1a1a/ranchi-tomato-retail-prices-analysis",
+  "id_no": 3564393,
+  "datasetSlugNullable": "ranchi-tomato-retail-prices-analysis",
+  "ownerUserNullable": "dheerajkr1a1a",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Ranchi tomato retail prices analysis",
+  "subtitleNullable": "Unraveling Ranchi's Tomato Retail Price Trends: A Comprehensive Analysis",
+  "descriptionNullable": "For code report:\ncv_: https://iitkgpacin-my.sharepoint.com/:w:/g/personal/dheerajkr_kgpian_iitkgp_ac_in/EdBAua47g0tOq_lGyys_mz4BPz0NzSzBSWy8cT0dAKufjw?e=8u0U29\n\nhttps://iitkgpacin-my.sharepoint.com/:w:/g/personal/dheerajkr_kgpian_iitkgp_ac_in/EdJR0xwKvu1BiJVDWsjihYYB9EIvtVl50RD-fuHzQyzDHg?e=j3agKM\n\nThis is the data specifically for Ranchi city, it involves complete_data(Prices and arrival quantity), rainfall, temperature, GDP, CPI, Fertilizers subsidy rates, Diesel prices and Reserves.\n\nSource for Fert_dies_price.csv: Its the output file of the following notebook:\nhttps://www.kaggle.com/code/dheerajkr1a1a/data-of-other-variables\n\nSource for Rainfall.csv:  Its the output file of the following notebook:\nhttps://www.kaggle.com/code/dheerajkr1a1a/lat-long-to-timeseries\n\nSource for Sohdag_temp_data.csv: Its the output file of the following notebook:\nhttps://www.kaggle.com/code/dheerajkr1a1a/ranchi-precise-temp-data\n\nSource for complete_data.csv: Its the output file of the following notebook: \nhttps://www.kaggle.com/code/dheerajkr1a1a/data-reorganization\n\nSource for gdp and cpi merged.csv: Its the output file of the following notebook: \nhttps://www.kaggle.com/code/dheerajkr1a1a/data-of-other-variables",
+  "datasetId": 3564393,
+  "datasetSlug": "ranchi-tomato-retail-prices-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "dheerajkr1a1a",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 197,
+  "totalVotes": 1,
+  "totalDownloads": 15,
+  "title": "Ranchi tomato retail prices analysis",
+  "hasTitle": true,
+  "subtitle": "Unraveling Ranchi's Tomato Retail Price Trends: A Comprehensive Analysis",
+  "hasSubtitle": true,
+  "description": "For code report:\ncv_: https://iitkgpacin-my.sharepoint.com/:w:/g/personal/dheerajkr_kgpian_iitkgp_ac_in/EdBAua47g0tOq_lGyys_mz4BPz0NzSzBSWy8cT0dAKufjw?e=8u0U29\n\nhttps://iitkgpacin-my.sharepoint.com/:w:/g/personal/dheerajkr_kgpian_iitkgp_ac_in/EdJR0xwKvu1BiJVDWsjihYYB9EIvtVl50RD-fuHzQyzDHg?e=j3agKM\n\nThis is the data specifically for Ranchi city, it involves complete_data(Prices and arrival quantity), rainfall, temperature, GDP, CPI, Fertilizers subsidy rates, Diesel prices and Reserves.\n\nSource for Fert_dies_price.csv: Its the output file of the following notebook:\nhttps://www.kaggle.com/code/dheerajkr1a1a/data-of-other-variables\n\nSource for Rainfall.csv:  Its the output file of the following notebook:\nhttps://www.kaggle.com/code/dheerajkr1a1a/lat-long-to-timeseries\n\nSource for Sohdag_temp_data.csv: Its the output file of the following notebook:\nhttps://www.kaggle.com/code/dheerajkr1a1a/ranchi-precise-temp-data\n\nSource for complete_data.csv: Its the output file of the following notebook: \nhttps://www.kaggle.com/code/dheerajkr1a1a/data-reorganization\n\nSource for gdp and cpi merged.csv: Its the output file of the following notebook: \nhttps://www.kaggle.com/code/dheerajkr1a1a/data-of-other-variables",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "agriculture",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

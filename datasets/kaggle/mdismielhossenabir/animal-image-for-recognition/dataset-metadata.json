@@ -1,0 +1,42 @@
+{
+  "id": "mdismielhossenabir/animal-image-for-recognition",
+  "id_no": 4215813,
+  "datasetSlugNullable": "animal-image-for-recognition",
+  "ownerUserNullable": "mdismielhossenabir",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Animal image for Recognition",
+  "subtitleNullable": "Images of four different types of animals for image classification.",
+  "descriptionNullable": "This dataset comprises images of four distinct types of animals: nilgai, horse, cow, and water buffalos. The primary objective of this dataset is to facilitate the classification of images within these four categories. \n\n#### Key Features:\n\n###### Animal Categories:\n\n**\nNilgai\n\nHorse\n\nCow\n\nWater Buffalos\n**\n\n###### Classification Task:\n\nThe primary goal is to develop and train image classification models capable of accurately categorizing images into one of the four specified animal types.\n",
+  "datasetId": 4215813,
+  "datasetSlug": "animal-image-for-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "mdismielhossenabir",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 833,
+  "totalVotes": 51,
+  "totalDownloads": 127,
+  "title": "Animal image for Recognition",
+  "hasTitle": true,
+  "subtitle": "Images of four different types of animals for image classification.",
+  "hasSubtitle": true,
+  "description": "This dataset comprises images of four distinct types of animals: nilgai, horse, cow, and water buffalos. The primary objective of this dataset is to facilitate the classification of images within these four categories. \n\n#### Key Features:\n\n###### Animal Categories:\n\n**\nNilgai\n\nHorse\n\nCow\n\nWater Buffalos\n**\n\n###### Classification Task:\n\nThe primary goal is to develop and train image classification models capable of accurately categorizing images into one of the four specified animal types.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "computer vision",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

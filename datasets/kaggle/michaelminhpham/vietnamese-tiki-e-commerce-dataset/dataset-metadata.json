@@ -1,0 +1,45 @@
+{
+  "id": "michaelminhpham/vietnamese-tiki-e-commerce-dataset",
+  "id_no": 3723294,
+  "datasetSlugNullable": "vietnamese-tiki-e-commerce-dataset",
+  "ownerUserNullable": "michaelminhpham",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "TIKI E-Commerce - Fashion Products Dataset",
+  "subtitleNullable": "Predict product quantity sold in TIKI online website on fashion items dataset",
+  "descriptionNullable": "# DATASET CLARIFICATION\n\n- This data is crawled from TIKI e-commerce platform, one of the top online marketplaces also reknowned as the AMAZON website in Vietnam.\n- The main task of this dataset is to predict the QUANTITY SOLD of a product. You can also perform your own ideas on this dataset as well.\n- Because of huge number of items on TIKI and for education purpose, I crawled only popular items (based on product ranking of TIKI). This would not only minimize the size of the data but also excludes 'empty' or unwanted 'dead' product ID.\n\n**Note: **\n- main language is Vietnamese UTF-8, \n- currency is vietnam dong (vnd). For reference, 1 usd = 24,000 vnd (as of Sep, 2023)\n\n# FILES ARRANGEMENT\n- This dataset contains a range of .csv files, each represents one root category of TIKI.\n- Each file have the same formats and same number of features as well as headers.\n\n# Features explainations\n- id: unique product ID\n- name: product title \n- description: product description\n- original_price: price without discount\n- price: current price (may or may not applied discount)\n- fulfillment_type: dropship / seller_delivery / tiki_delivery. Dropship products go frrom (seller - TIKI warehouse  - customers), packaging by TIKI. seller_delivery products go from (seller - customers) directly, packaging by sellers. tiki_delivery TIKI-self-owned products go from (TIKI warehouse - customers)\n- brand: OEM or registered brands. OEM means original equiment manufacturer or briefly 'no brand'.\n- review_counts: number of reviews\n- rating_average: average product rating \n- favorite_count: number users add this product to their favorite items\n- pay_later: allow a purchase now pay later program\n- current_seller: name of the seller\n- date_created: days from last update date and created date\n- number_of_images: number of product images uploaded\n- vnd_cashback: amount of vnd cashback\n- has_video: True if it has a video clip else False\n- quantity_sold: historical total units sold\n\n# LICENSE:\nProduct crawled from open public API from TIKI.\nDataset used for education purpose",
+  "datasetId": 3723294,
+  "datasetSlug": "vietnamese-tiki-e-commerce-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "michaelminhpham",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 6353,
+  "totalVotes": 29,
+  "totalDownloads": 958,
+  "title": "TIKI E-Commerce - Fashion Products Dataset",
+  "hasTitle": true,
+  "subtitle": "Predict product quantity sold in TIKI online website on fashion items dataset",
+  "hasSubtitle": true,
+  "description": "# DATASET CLARIFICATION\n\n- This data is crawled from TIKI e-commerce platform, one of the top online marketplaces also reknowned as the AMAZON website in Vietnam.\n- The main task of this dataset is to predict the QUANTITY SOLD of a product. You can also perform your own ideas on this dataset as well.\n- Because of huge number of items on TIKI and for education purpose, I crawled only popular items (based on product ranking of TIKI). This would not only minimize the size of the data but also excludes 'empty' or unwanted 'dead' product ID.\n\n**Note: **\n- main language is Vietnamese UTF-8, \n- currency is vietnam dong (vnd). For reference, 1 usd = 24,000 vnd (as of Sep, 2023)\n\n# FILES ARRANGEMENT\n- This dataset contains a range of .csv files, each represents one root category of TIKI.\n- Each file have the same formats and same number of features as well as headers.\n\n# Features explainations\n- id: unique product ID\n- name: product title \n- description: product description\n- original_price: price without discount\n- price: current price (may or may not applied discount)\n- fulfillment_type: dropship / seller_delivery / tiki_delivery. Dropship products go frrom (seller - TIKI warehouse  - customers), packaging by TIKI. seller_delivery products go from (seller - customers) directly, packaging by sellers. tiki_delivery TIKI-self-owned products go from (TIKI warehouse - customers)\n- brand: OEM or registered brands. OEM means original equiment manufacturer or briefly 'no brand'.\n- review_counts: number of reviews\n- rating_average: average product rating \n- favorite_count: number users add this product to their favorite items\n- pay_later: allow a purchase now pay later program\n- current_seller: name of the seller\n- date_created: days from last update date and created date\n- number_of_images: number of product images uploaded\n- vnd_cashback: amount of vnd cashback\n- has_video: True if it has a video clip else False\n- quantity_sold: historical total units sold\n\n# LICENSE:\nProduct crawled from open public API from TIKI.\nDataset used for education purpose",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "intermediate",
+    "tabular",
+    "regression",
+    "retail and shopping",
+    "e-commerce services",
+    "vietnamese"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "abrahametry/aruzz22-5k-an-image-dataset-of-rice-varieties",
+  "id_no": 4472124,
+  "datasetSlugNullable": "aruzz22-5k-an-image-dataset-of-rice-varieties",
+  "ownerUserNullable": "abrahametry",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Aruzz22.5K: An Image Dataset of Rice Varieties",
+  "subtitleNullable": "20 Types of Rice Grain Image Dataset",
+  "descriptionNullable": "Please CITE in your ARTICLE or RESEARCH:\n**Dataset Citation:** *Islam, Md Masudul; Himel, Galib Muhammad Shahriar; Moazzam, Md. Golam; Uddin, Mohammad Shorif (2023), \u201cAn Image Dataset of Rice Varieties\u201d, Mendeley Data, V3, doi: 10.17632/3mn9843tz2.3*\n\nThis extensive dataset presents a meticulously curated collection of low-resolution images showcasing 20 well-established rice varieties native to diverse regions of Bangladesh. The rice samples were carefully gathered from both rural areas and local marketplaces, ensuring a comprehensive and varied representation. Serving as a visual compendium, the dataset provides a thorough exploration of the distinct characteristics of these rice varieties, facilitating precise classification.\n\n**#Dataset Composition#**\nThe dataset encompasses 20 distinct classes, encompassing \"1_Subol_Lota\",\"2_Bashmoti\",\"3_Ganjiya\",\"4_Shampakatari\",\"5_Katarivog\",\"6_BR28\",\"7_BR29\",\"8_Paijam\",\"9_Bashful\",\"10_Lal_Aush\",\"11_Jirashail\",\"12_Gutisharna\",\"13_Red_Cargo\",\"14_Najirshail\",\"15_Katari_Polao\",\"16_Lal_Bi\"roi,\"17_Chinigura_Polao\",\"18_Amon\",\"19_Shorna5\",\"20_Lal_Binni\". In total, the dataset comprises 4,500 original JPG images and 22,500 augmented images.\n\n**#Image Capture and Dataset Organization#**\nThese images were captured using an iPhone 11 camera with a 5x zoom feature. Each image capturing these rice varieties was diligently taken between October 18 and November 29, 2023. To facilitate efficient data management and organization, the dataset is structured into two variants: Original images and Augmented images. Each variant is systematically categorized into 20 distinct sub-directories, each corresponding to a specific rice variety.\n\n**#Original and Augmented Image Dataset#**\nThe primary and the augmented image set comprises 4,500 JPG images, uniformly sized at 512 \u00d7 512 pixels. To address the substantial image volume requirements of deep learning models for machine vision, data augmentation techniques were implemented. Transformations such as rotation (90\u00b0 left, 90\u00b0 right, 180\u00b0 left) and flip were applied, generating an additional set of augmented images in every class, totaling 22,500 augmented images. \n**\n#Dataset Storage and Access#**\nThe datasets are stored in two distinct folders namely '1_TRAIN' and '2_VALID'. Both zip files contain 20 sub-folders representing a unique rice variety, namely 1_Subol_Lota, 2_Bashmoti, 3_Ganjiya, 4_Shampakatari, 5_Katarivog, 6_BR28, 7_BR29, 8_Paijam, 9_Bashful, 10_Lal_Aush, 11_Jirashail, 12_Gutisharna, 13_Red_Cargo,14_Najirshail, 15_Katari_Polao, 16_Lal_Biroi, 17_Chinigura_Polao, 18_Amon, 19_Shorna5, 20_Lal_Binni.",
+  "datasetId": 4472124,
+  "datasetSlug": "aruzz22-5k-an-image-dataset-of-rice-varieties",
+  "hasDatasetSlug": true,
+  "ownerUser": "abrahametry",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 407,
+  "totalVotes": 6,
+  "totalDownloads": 63,
+  "title": "Aruzz22.5K: An Image Dataset of Rice Varieties",
+  "hasTitle": true,
+  "subtitle": "20 Types of Rice Grain Image Dataset",
+  "hasSubtitle": true,
+  "description": "Please CITE in your ARTICLE or RESEARCH:\n**Dataset Citation:** *Islam, Md Masudul; Himel, Galib Muhammad Shahriar; Moazzam, Md. Golam; Uddin, Mohammad Shorif (2023), \u201cAn Image Dataset of Rice Varieties\u201d, Mendeley Data, V3, doi: 10.17632/3mn9843tz2.3*\n\nThis extensive dataset presents a meticulously curated collection of low-resolution images showcasing 20 well-established rice varieties native to diverse regions of Bangladesh. The rice samples were carefully gathered from both rural areas and local marketplaces, ensuring a comprehensive and varied representation. Serving as a visual compendium, the dataset provides a thorough exploration of the distinct characteristics of these rice varieties, facilitating precise classification.\n\n**#Dataset Composition#**\nThe dataset encompasses 20 distinct classes, encompassing \"1_Subol_Lota\",\"2_Bashmoti\",\"3_Ganjiya\",\"4_Shampakatari\",\"5_Katarivog\",\"6_BR28\",\"7_BR29\",\"8_Paijam\",\"9_Bashful\",\"10_Lal_Aush\",\"11_Jirashail\",\"12_Gutisharna\",\"13_Red_Cargo\",\"14_Najirshail\",\"15_Katari_Polao\",\"16_Lal_Bi\"roi,\"17_Chinigura_Polao\",\"18_Amon\",\"19_Shorna5\",\"20_Lal_Binni\". In total, the dataset comprises 4,500 original JPG images and 22,500 augmented images.\n\n**#Image Capture and Dataset Organization#**\nThese images were captured using an iPhone 11 camera with a 5x zoom feature. Each image capturing these rice varieties was diligently taken between October 18 and November 29, 2023. To facilitate efficient data management and organization, the dataset is structured into two variants: Original images and Augmented images. Each variant is systematically categorized into 20 distinct sub-directories, each corresponding to a specific rice variety.\n\n**#Original and Augmented Image Dataset#**\nThe primary and the augmented image set comprises 4,500 JPG images, uniformly sized at 512 \u00d7 512 pixels. To address the substantial image volume requirements of deep learning models for machine vision, data augmentation techniques were implemented. Transformations such as rotation (90\u00b0 left, 90\u00b0 right, 180\u00b0 left) and flip were applied, generating an additional set of augmented images in every class, totaling 22,500 augmented images. \n**\n#Dataset Storage and Access#**\nThe datasets are stored in two distinct folders namely '1_TRAIN' and '2_VALID'. Both zip files contain 20 sub-folders representing a unique rice variety, namely 1_Subol_Lota, 2_Bashmoti, 3_Ganjiya, 4_Shampakatari, 5_Katarivog, 6_BR28, 7_BR29, 8_Paijam, 9_Bashful, 10_Lal_Aush, 11_Jirashail, 12_Gutisharna, 13_Red_Cargo,14_Najirshail, 15_Katari_Polao, 16_Lal_Biroi, 17_Chinigura_Polao, 18_Amon, 19_Shorna5, 20_Lal_Binni.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "agriculture",
+    "intermediate",
+    "classification",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "galibusm",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

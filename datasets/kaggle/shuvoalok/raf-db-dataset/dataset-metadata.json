@@ -1,0 +1,41 @@
+{
+  "id": "shuvoalok/raf-db-dataset",
+  "id_no": 3758654,
+  "datasetSlugNullable": "raf-db-dataset",
+  "ownerUserNullable": "shuvoalok",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "RAF-DB DATASET",
+  "subtitleNullable": "For Recognize emotion from Facial expression",
+  "descriptionNullable": "The Real-world Affective Faces Database (RAF-DB) is a dataset for facial expression. This version Contains 15000k facial images tagged with basic or compound expressions by 40 independent taggers. Images in this database are of great variability in subjects' age, gender and ethnicity, head poses, lighting conditions, occlusions, (e.g. glasses, facial hair or self-occlusion), post-processing operations (e.g. various filters and special effects), etc.\n\nFor More Info Visit: [Here](http://www.whdeng.cn/raf/model1.html)\n\n## Terms & Conditions\nThe RAF database is available for non-commercial research purposes only.\n\nAll images of the RAF database are obtained from the Internet which are not property of PRIS, Beijing University of Posts and Telecommunications. The PRIS is not responsible for the content nor the meaning of these images.\n\nYou agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.\n\nYou agree not to further copy, publish or distribute any portion of the RAF database. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.\n\nThe PRIS reserves the right to terminate your access to the RAF database at any time.",
+  "datasetId": 3758654,
+  "datasetSlug": "raf-db-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shuvoalok",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 8413,
+  "totalVotes": 17,
+  "totalDownloads": 3407,
+  "title": "RAF-DB DATASET",
+  "hasTitle": true,
+  "subtitle": "For Recognize emotion from Facial expression",
+  "hasSubtitle": true,
+  "description": "The Real-world Affective Faces Database (RAF-DB) is a dataset for facial expression. This version Contains 15000k facial images tagged with basic or compound expressions by 40 independent taggers. Images in this database are of great variability in subjects' age, gender and ethnicity, head poses, lighting conditions, occlusions, (e.g. glasses, facial hair or self-occlusion), post-processing operations (e.g. various filters and special effects), etc.\n\nFor More Info Visit: [Here](http://www.whdeng.cn/raf/model1.html)\n\n## Terms & Conditions\nThe RAF database is available for non-commercial research purposes only.\n\nAll images of the RAF database are obtained from the Internet which are not property of PRIS, Beijing University of Posts and Telecommunications. The PRIS is not responsible for the content nor the meaning of these images.\n\nYou agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.\n\nYou agree not to further copy, publish or distribute any portion of the RAF database. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.\n\nThe PRIS reserves the right to terminate your access to the RAF database at any time.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "cnn",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "vijayabhaskar96/tamil-news-dataset-19-million-records",
+  "id_no": 465687,
+  "datasetSlugNullable": "tamil-news-dataset-19-million-records",
+  "ownerUserNullable": "vijayabhaskar96",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Dinamalar Tamil News Corpus (1.9 million records)",
+  "subtitleNullable": "The largest dataset in Tamil language.",
+  "descriptionNullable": "### Context\n\nThere were no large datasets in the Tamil language apart from the Tamil wiki dataset (120k articles), So I decided to create my own. This dataset is the result of it!\n\n### Content\n\nThe data is acquired by scrapping the publicly available articles published on [Dinamalar.com](https://dinamalar.com), which is a well-known newspaper in Tamil nadu, India.\nThe dataset contains articles from 2009 - 2019.\n\n### Acknowledgements\n\nThis dataset exists because of [Dinamalar.com](https://dinamalar.com). All thanks to them.",
+  "datasetId": 465687,
+  "datasetSlug": "tamil-news-dataset-19-million-records",
+  "hasDatasetSlug": true,
+  "ownerUser": "vijayabhaskar96",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 5635,
+  "totalVotes": 7,
+  "totalDownloads": 205,
+  "title": "Dinamalar Tamil News Corpus (1.9 million records)",
+  "hasTitle": true,
+  "subtitle": "The largest dataset in Tamil language.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThere were no large datasets in the Tamil language apart from the Tamil wiki dataset (120k articles), So I decided to create my own. This dataset is the result of it!\n\n### Content\n\nThe data is acquired by scrapping the publicly available articles published on [Dinamalar.com](https://dinamalar.com), which is a well-known newspaper in Tamil nadu, India.\nThe dataset contains articles from 2009 - 2019.\n\n### Acknowledgements\n\nThis dataset exists because of [Dinamalar.com](https://dinamalar.com). All thanks to them.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

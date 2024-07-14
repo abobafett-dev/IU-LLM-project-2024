@@ -1,0 +1,43 @@
+{
+  "id": "tapakah68/selfie-and-video-on-back-camera",
+  "id_no": 3466774,
+  "datasetSlugNullable": "selfie-and-video-on-back-camera",
+  "ownerUserNullable": "tapakah68",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Selfie and Video Dataset - Back Camera",
+  "subtitleNullable": "Selfies and videos of people made with the back camera",
+  "descriptionNullable": "# Selfie and Video on Back Camera Dataset\nThe dataset consists of selfies and video of real people made on a back camera of the smartphone. The dataset solves tasks in the field of anti-spoofing and it is useful for buisness and safety systems.\n\nThe videos were gathered by capturing faces of genuine individuals presenting spoofs, using facial presentations. Our dataset proposes a novel approach that learns and detects spoofing techniques, extracting features from the genuine facial images to prevent the capturing of such information by fake users.\n\nThe dataset contains images and videos of real humans with various **resolutions, views, and colors**, making it a comprehensive resource for researchers working on anti-spoofing technologies.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/selfie-and-video?utm_source=kaggle&utm_medium=cpc&utm_campaign=selfie-and-video-on-back-camera)** to buy the dataset\n\n### The dataset includes 2 different types of files:\n- **Photo** - a selfie of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible. \n- **Video** - filmed on the front camera, on which a person moves his/her head left, right, up and down. Duration of the video is from 10 to 20 seconds.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F618942%2Fcb68f607125c83bb97b5e7a4e6edf519%2FMacBook%20Air%20-%201%20(1).png?generation=1688132311367523&alt=media)\n\nThe dataset provides data to combine and apply different techniques, approaches, and models to address the challenging task of distinguishing between genuine and spoofed inputs, providing effective anti-spoofing solutions in active authentication systems. These solutions are crucial as newer devices, such as phones, have become vulnerable to spoofing attacks due to the availability of technologies that can create replays, reflections, and depths, making them susceptible to spoofing and generalization.\n\nOur dataset also explores the use of neural architectures, such as deep neural networks, to facilitate the identification of distinguishing patterns and textures in different regions of the face, increasing the accuracy and generalizability of the anti-spoofing models.\n\n# Content\n### Phone models in the datset:\n- iPhone 13 mini \n- iPhone 11\n- iPhone XR \n- iPhone 8 plus \n- Samsung A80 \n- Samsung galaxy A51 5G\n- Samsung A32\n- Samsung Galaxy S10 5G \n\n\n### File with the extension .csv\nincludes the following information for each media file:\n\n- **photo**: link to access the selfie,\n- **video**: link to access the video,\n- **phone**: the device used to capture selfie and video,\n- **gender**: gender of a person,\n- **age**: age of the person,\n- **country**: country of the person\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/selfie-and-video?utm_source=kaggle&utm_medium=cpc&utm_campaign=selfie-and-video-on-back-camera)** to discuss your requirements, learn about the price and buy the dataset\n\n*keywords: biometric system, biometric dataset, face recognition database, face recognition dataset, face detection dataset, facial analysis, object detection dataset, deep learning datasets, computer vision datset, human images dataset, human videos dataset, human faces dataset, machine learning, video-to-image, re-identification, verification models, video dataset, video classification, video recognition, photos and videos*",
+  "datasetId": 3466774,
+  "datasetSlug": "selfie-and-video-on-back-camera",
+  "hasDatasetSlug": true,
+  "ownerUser": "tapakah68",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1123,
+  "totalVotes": 5,
+  "totalDownloads": 176,
+  "title": "Selfie and Video Dataset - Back Camera",
+  "hasTitle": true,
+  "subtitle": "Selfies and videos of people made with the back camera",
+  "hasSubtitle": true,
+  "description": "# Selfie and Video on Back Camera Dataset\nThe dataset consists of selfies and video of real people made on a back camera of the smartphone. The dataset solves tasks in the field of anti-spoofing and it is useful for buisness and safety systems.\n\nThe videos were gathered by capturing faces of genuine individuals presenting spoofs, using facial presentations. Our dataset proposes a novel approach that learns and detects spoofing techniques, extracting features from the genuine facial images to prevent the capturing of such information by fake users.\n\nThe dataset contains images and videos of real humans with various **resolutions, views, and colors**, making it a comprehensive resource for researchers working on anti-spoofing technologies.\n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/selfie-and-video?utm_source=kaggle&utm_medium=cpc&utm_campaign=selfie-and-video-on-back-camera)** to buy the dataset\n\n### The dataset includes 2 different types of files:\n- **Photo** - a selfie of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible. \n- **Video** - filmed on the front camera, on which a person moves his/her head left, right, up and down. Duration of the video is from 10 to 20 seconds.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F618942%2Fcb68f607125c83bb97b5e7a4e6edf519%2FMacBook%20Air%20-%201%20(1).png?generation=1688132311367523&alt=media)\n\nThe dataset provides data to combine and apply different techniques, approaches, and models to address the challenging task of distinguishing between genuine and spoofed inputs, providing effective anti-spoofing solutions in active authentication systems. These solutions are crucial as newer devices, such as phones, have become vulnerable to spoofing attacks due to the availability of technologies that can create replays, reflections, and depths, making them susceptible to spoofing and generalization.\n\nOur dataset also explores the use of neural architectures, such as deep neural networks, to facilitate the identification of distinguishing patterns and textures in different regions of the face, increasing the accuracy and generalizability of the anti-spoofing models.\n\n# Content\n### Phone models in the datset:\n- iPhone 13 mini \n- iPhone 11\n- iPhone XR \n- iPhone 8 plus \n- Samsung A80 \n- Samsung galaxy A51 5G\n- Samsung A32\n- Samsung Galaxy S10 5G \n\n\n### File with the extension .csv\nincludes the following information for each media file:\n\n- **photo**: link to access the selfie,\n- **video**: link to access the video,\n- **phone**: the device used to capture selfie and video,\n- **gender**: gender of a person,\n- **age**: age of the person,\n- **country**: country of the person\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/selfie-and-video?utm_source=kaggle&utm_medium=cpc&utm_campaign=selfie-and-video-on-back-camera)** to discuss your requirements, learn about the price and buy the dataset\n\n*keywords: biometric system, biometric dataset, face recognition database, face recognition dataset, face detection dataset, facial analysis, object detection dataset, deep learning datasets, computer vision datset, human images dataset, human videos dataset, human faces dataset, machine learning, video-to-image, re-identification, verification models, video dataset, video classification, video recognition, photos and videos*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "computer vision",
+    "deep learning",
+    "image",
+    "video"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

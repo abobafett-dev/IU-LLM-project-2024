@@ -1,0 +1,40 @@
+{
+  "id": "/oakland-emergency-department-visits",
+  "id_no": 49847,
+  "datasetSlugNullable": "oakland-emergency-department-visits",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Oakland Emergency Department Visits",
+  "subtitleNullable": "Explore open data from the city of Oakland",
+  "descriptionNullable": "### Content  \n\nMore details about each file are in the individual file descriptions.  \n\n### Context  \n\nThis is a dataset hosted by the city of Oakland in California. The organization has an open data platform found [here](data.oaklandnet.com) and they update their information according to the amount of data that is brought in. Explore Oakland's Data using Kaggle and all of the data sources available through the city of Oakland [organization page](https://www.kaggle.com/cityofoakland)!  \n\n* Update Frequency: This dataset is updated daily.\n\n### Acknowledgements\n\nThis dataset is maintained using Socrata's API and Kaggle's API. [Socrata](https://socrata.com/) has assisted countless organizations with hosting their open data and has been an integral part of the process of bringing more data to the public.  \n\nThis dataset is distributed under the following licenses: NA",
+  "datasetId": 49847,
+  "datasetSlug": "oakland-emergency-department-visits",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 9988,
+  "totalVotes": 5,
+  "totalDownloads": 167,
+  "title": "Oakland Emergency Department Visits",
+  "hasTitle": true,
+  "subtitle": "Explore open data from the city of Oakland",
+  "hasSubtitle": true,
+  "description": "### Content  \n\nMore details about each file are in the individual file descriptions.  \n\n### Context  \n\nThis is a dataset hosted by the city of Oakland in California. The organization has an open data platform found [here](data.oaklandnet.com) and they update their information according to the amount of data that is brought in. Explore Oakland's Data using Kaggle and all of the data sources available through the city of Oakland [organization page](https://www.kaggle.com/cityofoakland)!  \n\n* Update Frequency: This dataset is updated daily.\n\n### Acknowledgements\n\nThis dataset is maintained using Socrata's API and Kaggle's API. [Socrata](https://socrata.com/) has assisted countless organizations with hosting their open data and has been an integral part of the process of bringing more data to the public.  \n\nThis dataset is distributed under the following licenses: NA",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "socrata"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

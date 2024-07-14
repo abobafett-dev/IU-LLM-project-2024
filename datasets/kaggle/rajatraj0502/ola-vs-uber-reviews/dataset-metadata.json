@@ -1,0 +1,39 @@
+{
+  "id": "rajatraj0502/ola-vs-uber-reviews",
+  "id_no": 3696134,
+  "datasetSlugNullable": "ola-vs-uber-reviews",
+  "ownerUserNullable": "rajatraj0502",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Ola Vs Uber Reviews",
+  "subtitleNullable": "Ride-Share App Insights: Analyzing User Reviews of Uber and Ola Services",
+  "descriptionNullable": "**About Dataset**\nUber and Ola Play Store Reviews Dataset\nDescription:\nThis dataset contains Play Store reviews for two prominent car services, Uber \ud83d\ude97 and Ola \ud83d\ude95. It provides valuable insights into user experiences, feedback, and sentiments towards these ride-sharing apps. The dataset includes various attributes such as review ID, user name, review title, review description, rating, thumbs up count, review date, developer response, developer response date, app version, language code, and country code. The dataset is a valuable resource for analyzing user sentiments, trends, and contributing factors that impact user satisfaction.\n\n**Columns:**\n- review_id: A unique identifier for each review.\n- user_name: The username associated with the review.\n- review_title: The title of the review.\n- review_description: The main content of the review provided by the user.\n- rating: The user's rating for the app (e.g., on a scale of 1 to 5).\n- thumbs_up: The count of thumbs up \ud83d\udc4d given by other users for this review.\n- review_date: The date when the review was posted.\n- developer_response: Any response provided by the app developer to the review.\n- developer_response_date: The date of the developer's response.\n- appVersion: The version of the app when the review was submitted.\n- language_code: The code representing the language of the review.\n- country_code: The code representing the country of the user.\n\n**Preprocessing Steps:**\n- Missing Values Handling: Rows with missing values in essential columns were dropped to ensure data integrity.\n- Text Cleaning: Text data in review_title and review_description were converted to lowercase, and special characters, punctuation, and extra white spaces were removed.\n- Rating Normalization: Ratings were scaled to a consistent 0-10 scale for better comparability.\n- Date Parsing: Dates in review_date and developer_response_date were parsed into a standardized format.\n- Categorical Encoding: Categorical variables (appVersion, language_code, country_code) were one-hot encoded for analysis.\n- Sentiment Analysis: Sentiment analysis was performed on review_description to categorize reviews as positive \ud83d\ude00, negative \ud83d\ude1e, or neutral \ud83d\ude10.\n- Feature Engineering: A new feature indicating the presence of developer responses was created for further analysis.\n\n**Potential Use Cases:**\n- Sentiment Analysis: Understand user sentiment towards Uber and Ola through sentiment analysis of reviews.\n- Rating Analysis: Analyze the distribution of ratings and trends in user satisfaction.\n- Top Contributors: Identify influential users based on review count and thumbs up count.\n- Developer Response Impact: Investigate whether developer responses influence user satisfaction.\n- Feature Request Analysis: Analyze recurring keywords to identify common feature requests.\n- Geographical Insights: Explore user sentiments and ratings across different countries.\n- App Version Analysis: Study user sentiments based on different app versions.\n- User Experience Trends: Extract insights from recurring keywords in review titles and descriptions.\n",
+  "datasetId": 3696134,
+  "datasetSlug": "ola-vs-uber-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "rajatraj0502",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 2115,
+  "totalVotes": 20,
+  "totalDownloads": 364,
+  "title": "Ola Vs Uber Reviews",
+  "hasTitle": true,
+  "subtitle": "Ride-Share App Insights: Analyzing User Reviews of Uber and Ola Services",
+  "hasSubtitle": true,
+  "description": "**About Dataset**\nUber and Ola Play Store Reviews Dataset\nDescription:\nThis dataset contains Play Store reviews for two prominent car services, Uber \ud83d\ude97 and Ola \ud83d\ude95. It provides valuable insights into user experiences, feedback, and sentiments towards these ride-sharing apps. The dataset includes various attributes such as review ID, user name, review title, review description, rating, thumbs up count, review date, developer response, developer response date, app version, language code, and country code. The dataset is a valuable resource for analyzing user sentiments, trends, and contributing factors that impact user satisfaction.\n\n**Columns:**\n- review_id: A unique identifier for each review.\n- user_name: The username associated with the review.\n- review_title: The title of the review.\n- review_description: The main content of the review provided by the user.\n- rating: The user's rating for the app (e.g., on a scale of 1 to 5).\n- thumbs_up: The count of thumbs up \ud83d\udc4d given by other users for this review.\n- review_date: The date when the review was posted.\n- developer_response: Any response provided by the app developer to the review.\n- developer_response_date: The date of the developer's response.\n- appVersion: The version of the app when the review was submitted.\n- language_code: The code representing the language of the review.\n- country_code: The code representing the country of the user.\n\n**Preprocessing Steps:**\n- Missing Values Handling: Rows with missing values in essential columns were dropped to ensure data integrity.\n- Text Cleaning: Text data in review_title and review_description were converted to lowercase, and special characters, punctuation, and extra white spaces were removed.\n- Rating Normalization: Ratings were scaled to a consistent 0-10 scale for better comparability.\n- Date Parsing: Dates in review_date and developer_response_date were parsed into a standardized format.\n- Categorical Encoding: Categorical variables (appVersion, language_code, country_code) were one-hot encoded for analysis.\n- Sentiment Analysis: Sentiment analysis was performed on review_description to categorize reviews as positive \ud83d\ude00, negative \ud83d\ude1e, or neutral \ud83d\ude10.\n- Feature Engineering: A new feature indicating the presence of developer responses was created for further analysis.\n\n**Potential Use Cases:**\n- Sentiment Analysis: Understand user sentiment towards Uber and Ola through sentiment analysis of reviews.\n- Rating Analysis: Analyze the distribution of ratings and trends in user satisfaction.\n- Top Contributors: Identify influential users based on review count and thumbs up count.\n- Developer Response Impact: Investigate whether developer responses influence user satisfaction.\n- Feature Request Analysis: Analyze recurring keywords to identify common feature requests.\n- Geographical Insights: Explore user sentiments and ratings across different countries.\n- App Version Analysis: Study user sentiments based on different app versions.\n- User Experience Trends: Extract insights from recurring keywords in review titles and descriptions.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "travel"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

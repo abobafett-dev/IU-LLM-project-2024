@@ -1,0 +1,42 @@
+{
+  "id": "kumarujjawal123456/famous-religious-symbols",
+  "id_no": 3473243,
+  "datasetSlugNullable": "famous-religious-symbols",
+  "ownerUserNullable": "kumarujjawal123456",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Religious symbols-image classification",
+  "subtitleNullable": "Classify universally recognised religious symbols.",
+  "descriptionNullable": "1. The dataset contains 14 different symbols of religious importance. You can build a Deep Learning model for their classification. \n\n2. You can learn **Image preprocessing** though this dataset. Because the images are of non-similar dimensions like (1350, 1200, 4), (1073, 925, 3), (360, 360) etc. \n\n3. Be cautious at applying **Data augmentation** in cases like symbol classification, where the orientation of an image is an identity of it. For example, rotating a Hindu's sacred symbol, Swastika, can turn out to be Nazi's symbol.\n\n\nPS: For wise people religion is a wake to make friends- DR APJ ABDUL KALAM.  So if you find any error in labelling then you can bring my attention. Also you can tell me to add more symbols",
+  "datasetId": 3473243,
+  "datasetSlug": "famous-religious-symbols",
+  "hasDatasetSlug": true,
+  "ownerUser": "kumarujjawal123456",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 217,
+  "totalVotes": 2,
+  "totalDownloads": 30,
+  "title": "Religious symbols-image classification",
+  "hasTitle": true,
+  "subtitle": "Classify universally recognised religious symbols.",
+  "hasSubtitle": true,
+  "description": "1. The dataset contains 14 different symbols of religious importance. You can build a Deep Learning model for their classification. \n\n2. You can learn **Image preprocessing** though this dataset. Because the images are of non-similar dimensions like (1350, 1200, 4), (1073, 925, 3), (360, 360) etc. \n\n3. Be cautious at applying **Data augmentation** in cases like symbol classification, where the orientation of an image is an identity of it. For example, rotating a Hindu's sacred symbol, Swastika, can turn out to be Nazi's symbol.\n\n\nPS: For wise people religion is a wake to make friends- DR APJ ABDUL KALAM.  So if you find any error in labelling then you can bring my attention. Also you can tell me to add more symbols",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "religion and belief systems",
+    "cnn",
+    "online communities",
+    "image augmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

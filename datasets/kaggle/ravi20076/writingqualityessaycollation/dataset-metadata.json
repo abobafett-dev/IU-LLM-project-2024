@@ -1,0 +1,45 @@
+{
+  "id": "ravi20076/writingqualityessaycollation",
+  "id_no": 3856968,
+  "datasetSlugNullable": "writingqualityessaycollation",
+  "ownerUserNullable": "ravi20076",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "WritingQuality|EssayCollation",
+  "subtitleNullable": "Construction of essays from the competition training data using text change",
+  "descriptionNullable": "This is a supplementary dataset created from the competition training data using the text change column.\nThis data contains ids and constructed essays across text change column including the old and new text for replacement and input text otherwise. This could be used for EDA and any supplementary analysis as deemed suitable. \nBest regards.\nP.S.- competition link- https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality",
+  "datasetId": 3856968,
+  "datasetSlug": "writingqualityessaycollation",
+  "hasDatasetSlug": true,
+  "ownerUser": "ravi20076",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1128,
+  "totalVotes": 44,
+  "totalDownloads": 102,
+  "title": "WritingQuality|EssayCollation",
+  "hasTitle": true,
+  "subtitle": "Construction of essays from the competition training data using text change",
+  "hasSubtitle": true,
+  "description": "This is a supplementary dataset created from the competition training data using the text change column.\nThis data contains ids and constructed essays across text change column including the old and new text for replacement and input text otherwise. This could be used for EDA and any supplementary analysis as deemed suitable. \nBest regards.\nP.S.- competition link- https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "education",
+    "linguistics",
+    "data cleaning",
+    "data analytics",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

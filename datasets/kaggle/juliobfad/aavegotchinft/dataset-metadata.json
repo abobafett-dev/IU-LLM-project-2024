@@ -1,0 +1,43 @@
+{
+  "id": "juliobfad/aavegotchinft",
+  "id_no": 2724253,
+  "datasetSlugNullable": "aavegotchinft",
+  "ownerUserNullable": "juliobfad",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Aavegotchi Gotchis & Wearable sales 2020-2022",
+  "subtitleNullable": "Analyze the thriving NFT Polygon market leveraging on the Aavegotchi protocol.",
+  "descriptionNullable": "#  Welcome to the Aavegotchi Rabbithole\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F7796991%2Fb53949ac349111ab82666c0d00c391c1%2Fgotchisun.png?generation=1670934029339188&alt=media)\n\n\n\n\nAavegotchi NFT general info  : https://wiki.aavegotchi.com/\n\nAavegotchi_sales.csv: Sales from gotchis market:\n\n- $GHST_price: price at which the gotchi was sold in the cryptocurrency $GHST\n- ID: ID of the gotchi\n- BRS: Base Rarity Score of the gotchi, it is calculated from its traits : \n if (number &lt; 50): \n     \u2003 return 100 - number\n else: \n     \u2003 return number + 1\n- HAUNT: Which haunt the gotchi belongs to, Haunt 1(Edition1): 10000, Haunt2: 15000\n- Wearables: The wearables gotchis were wearing the moment they sold, comes in a list which represents the body slot of the gotchi as follows : Body/Face/Eyes/Head/LHands/RHands/Pet/Background \n- Seller: Seller address\n- Buyer: Buyer address\n- MBRS: Modified Basic Rarity Score, takes into account the effects from the wearables, which modify the BRS of the gotchis\n- Wearables additional data: https://wiki.aavegotchi.com/en/wearables\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F7796991%2Fb32b5cff479b3ebf7e9832d34668fc94%2Fgotchitraits2.png?generation=1670932622836036&alt=media)\n\n- nrgTrait: Energy trait of the gotchi.\n- aggTrait: Aggression trait of the gotchi.\n- spkTrait: Spookyness trait of the gotchi.\n- brnTrait: Brain trait of the gotchi\n- eysTrait: Eyeshape trait of the gotchi\n- eyecTrait: Eyecolour trait of the gotchi\n- Date: Sell day\n- $USD_price: Price of $GHST (daily mean) @ the day of the sell.\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F7796991%2F33ca17b185e8af3e5762561c39521fe8%2Fwearables.png?generation=1670932799509596&alt=media)\n\nWearable_sales.csv: Sales from the wearables market\n- $GHST_price: price at which the wearable was sold in the cryptocurrency $GHST\n- WearID : Wearable ID, corresponds to a wearable name\n- Rarity: Rarity level of the wearable: {0:Common,1:Uncommon,2:Rare,3:Legendary,4:Mythical,5:Godlike}\n- Quantity: Number of the same ID wearable sold\n- Seller: Seller address\n- Buyer: Buyer address\n- Date: Sell day\n- $USD_price: Price of $GHST (daily mean) @ the day of the sell.\n\nGHST.csv: Daily close price of the $GHST cryptocurrency.\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F7796991%2F3290aca1a8afe80e33cb026686364e90%2Fghstprice.png?generation=1670932938413258&alt=media)\n\nSource: Coingecko API",
+  "datasetId": 2724253,
+  "datasetSlug": "aavegotchinft",
+  "hasDatasetSlug": true,
+  "ownerUser": "juliobfad",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 955,
+  "totalVotes": 14,
+  "totalDownloads": 71,
+  "title": "Aavegotchi Gotchis & Wearable sales 2020-2022",
+  "hasTitle": true,
+  "subtitle": "Analyze the thriving NFT Polygon market leveraging on the Aavegotchi protocol.",
+  "hasSubtitle": true,
+  "description": "#  Welcome to the Aavegotchi Rabbithole\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F7796991%2Fb53949ac349111ab82666c0d00c391c1%2Fgotchisun.png?generation=1670934029339188&alt=media)\n\n\n\n\nAavegotchi NFT general info  : https://wiki.aavegotchi.com/\n\nAavegotchi_sales.csv: Sales from gotchis market:\n\n- $GHST_price: price at which the gotchi was sold in the cryptocurrency $GHST\n- ID: ID of the gotchi\n- BRS: Base Rarity Score of the gotchi, it is calculated from its traits : \n if (number &lt; 50): \n     \u2003 return 100 - number\n else: \n     \u2003 return number + 1\n- HAUNT: Which haunt the gotchi belongs to, Haunt 1(Edition1): 10000, Haunt2: 15000\n- Wearables: The wearables gotchis were wearing the moment they sold, comes in a list which represents the body slot of the gotchi as follows : Body/Face/Eyes/Head/LHands/RHands/Pet/Background \n- Seller: Seller address\n- Buyer: Buyer address\n- MBRS: Modified Basic Rarity Score, takes into account the effects from the wearables, which modify the BRS of the gotchis\n- Wearables additional data: https://wiki.aavegotchi.com/en/wearables\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F7796991%2Fb32b5cff479b3ebf7e9832d34668fc94%2Fgotchitraits2.png?generation=1670932622836036&alt=media)\n\n- nrgTrait: Energy trait of the gotchi.\n- aggTrait: Aggression trait of the gotchi.\n- spkTrait: Spookyness trait of the gotchi.\n- brnTrait: Brain trait of the gotchi\n- eysTrait: Eyeshape trait of the gotchi\n- eyecTrait: Eyecolour trait of the gotchi\n- Date: Sell day\n- $USD_price: Price of $GHST (daily mean) @ the day of the sell.\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F7796991%2F33ca17b185e8af3e5762561c39521fe8%2Fwearables.png?generation=1670932799509596&alt=media)\n\nWearable_sales.csv: Sales from the wearables market\n- $GHST_price: price at which the wearable was sold in the cryptocurrency $GHST\n- WearID : Wearable ID, corresponds to a wearable name\n- Rarity: Rarity level of the wearable: {0:Common,1:Uncommon,2:Rare,3:Legendary,4:Mythical,5:Godlike}\n- Quantity: Number of the same ID wearable sold\n- Seller: Seller address\n- Buyer: Buyer address\n- Date: Sell day\n- $USD_price: Price of $GHST (daily mean) @ the day of the sell.\n\nGHST.csv: Daily close price of the $GHST cryptocurrency.\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F7796991%2F3290aca1a8afe80e33cb026686364e90%2Fghstprice.png?generation=1670932938413258&alt=media)\n\nSource: Coingecko API",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "exploratory data analysis",
+    "statistical analysis",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

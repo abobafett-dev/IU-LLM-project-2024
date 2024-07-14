@@ -1,0 +1,43 @@
+{
+  "id": "talhabu/bangladesh-weather-history",
+  "id_no": 3044456,
+  "datasetSlugNullable": "bangladesh-weather-history",
+  "ownerUserNullable": "talhabu",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Bangladesh Weather History",
+  "subtitleNullable": "Weather history of Dhaka City",
+  "descriptionNullable": "This dataset contains the weather history of Dhaka City, the capital city of Bangladesh. The data was collected from an online weather service and contains information on temperature, dew point, humidity, wind, pressure, precipitation, and condition. There are a total of 2917 rows and 11 columns in this dataset. The data is recorded at hourly intervals, making it suitable for time-series analysis.",
+  "datasetId": 3044456,
+  "datasetSlug": "bangladesh-weather-history",
+  "hasDatasetSlug": true,
+  "ownerUser": "talhabu",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1975,
+  "totalVotes": 11,
+  "totalDownloads": 382,
+  "title": "Bangladesh Weather History",
+  "hasTitle": true,
+  "subtitle": "Weather history of Dhaka City",
+  "hasSubtitle": true,
+  "description": "This dataset contains the weather history of Dhaka City, the capital city of Bangladesh. The data was collected from an online weather service and contains information on temperature, dew point, humidity, wind, pressure, precipitation, and condition. There are a total of 2917 rows and 11 columns in this dataset. The data is recorded at hourly intervals, making it suitable for time-series analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "weather and climate",
+    "data visualization",
+    "time series analysis",
+    "classification",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

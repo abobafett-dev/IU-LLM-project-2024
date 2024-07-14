@@ -1,0 +1,43 @@
+{
+  "id": "sugataghosh/spect-heart-dataset",
+  "id_no": 2375664,
+  "datasetSlugNullable": "spect-heart-dataset",
+  "ownerUserNullable": "sugataghosh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "SPECT Heart Dataset",
+  "subtitleNullable": "Data on cardiac Single Proton Emission Computed Tomography (SPECT) images",
+  "descriptionNullable": "The dataset describes diagnosis of cardiac [single-photon emission computed tomography](https://en.wikipedia.org/wiki/Single-photon_emission_computed_tomography) (SPECT) images. Each of the patients is classified into two categories: *normal* and *abnormal*. 267 SPECT image sets (patients) was processed to extract features that summarize the original SPECT images. As a result, 44 continuous features was created for each patient. These features were further processed to obtain 22 binary features.\n\n*Data collected from* : [SPECT Heart Data Set](https://archive.ics.uci.edu/ml/datasets/SPECT+Heart) at [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)\n\n*Original owners* : Krzysztof J. Cios, Lukasz A. Kurgan (University of Colorado at Denver, Denver, CO 80217, U.S.A.) and Lucy S. Goodenday (Medical College of Ohio, OH, U.S.A.)\n\n*Donors* : Lukasz A.Kurgan and Krzysztof J. Cios",
+  "datasetId": 2375664,
+  "datasetSlug": "spect-heart-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "sugataghosh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8914,
+  "totalVotes": 51,
+  "totalDownloads": 2216,
+  "title": "SPECT Heart Dataset",
+  "hasTitle": true,
+  "subtitle": "Data on cardiac Single Proton Emission Computed Tomography (SPECT) images",
+  "hasSubtitle": true,
+  "description": "The dataset describes diagnosis of cardiac [single-photon emission computed tomography](https://en.wikipedia.org/wiki/Single-photon_emission_computed_tomography) (SPECT) images. Each of the patients is classified into two categories: *normal* and *abnormal*. 267 SPECT image sets (patients) was processed to extract features that summarize the original SPECT images. As a result, 44 continuous features was created for each patient. These features were further processed to obtain 22 binary features.\n\n*Data collected from* : [SPECT Heart Data Set](https://archive.ics.uci.edu/ml/datasets/SPECT+Heart) at [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)\n\n*Original owners* : Krzysztof J. Cios, Lukasz A. Kurgan (University of Colorado at Denver, Denver, CO 80217, U.S.A.) and Lucy S. Goodenday (Medical College of Ohio, OH, U.S.A.)\n\n*Donors* : Lukasz A.Kurgan and Krzysztof J. Cios",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "classification",
+    "binary classification",
+    "health conditions",
+    "heart conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

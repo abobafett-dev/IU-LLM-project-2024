@@ -1,0 +1,48 @@
+{
+  "id": "tejshahi/20nepalinews",
+  "id_no": 36205,
+  "datasetSlugNullable": "20nepalinews",
+  "ownerUserNullable": "tejshahi",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Nepali News Datasets (Small)",
+  "subtitleNullable": "Nepali News Dataset (small- inspired from twenty news group dataset)",
+  "descriptionNullable": "### Context\n\nThis Dataset has been created for research purpose only. \n### Content\n\nAll the text documents are news articles published in online Nepali News portal. The articles were collected by web crawling through leading news portal such as www.onlinekhabar.com, www.setopati.com, www.ekantipur.com etc.\n\n### Dataset statistics\n\n    Category| Number of docs\n    Agriculture| 100\n    Automobiles| 95\n    Bank| 417\n    Blog| 209\n    Business| 142\n    Economy| 500\n    Education| 85\n    Employment| 154\n    Entertainment| 500\n    Health| 31\n    Interview| 229\n    Literature| 102\n    Migration| 111\n    Opinion| 500\n    Politics| 500\n    Society| 253\n    Sports| 500\n    Technology| 110\n    Tourism| 214\n    World| 212\n    **Total**| 4964\n\n### Acknowledgements\n\nWe would like to acknowledge all the online news portal specially onlinekhabar, setopati, Ratopati.\n\n### Citations\nPlease cite in your publications if it helps your research:\n\n<hr>@inproceedings{shahi2018off,\n <p> title={Nepali News Classification Using Naive Bayes, Support vector Machine and Neural Networks},</p><p>\n  </p><p>author={Shahi, Tej Bahadur, Pant, Ashok Kumar},</p>\n  <p>booktitle={2018 International Conference on Communication, Information & Computing Technology (ICCICT)},</p><p>\n</p><p>  pages={1--5},</p>\n  <p>year={2018},</p>\n  organization={IEEE}",
+  "datasetId": 36205,
+  "datasetSlug": "20nepalinews",
+  "hasDatasetSlug": true,
+  "ownerUser": "tejshahi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 4241,
+  "totalVotes": 4,
+  "totalDownloads": 234,
+  "title": "Nepali News Datasets (Small)",
+  "hasTitle": true,
+  "subtitle": "Nepali News Dataset (small- inspired from twenty news group dataset)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis Dataset has been created for research purpose only. \n### Content\n\nAll the text documents are news articles published in online Nepali News portal. The articles were collected by web crawling through leading news portal such as www.onlinekhabar.com, www.setopati.com, www.ekantipur.com etc.\n\n### Dataset statistics\n\n    Category| Number of docs\n    Agriculture| 100\n    Automobiles| 95\n    Bank| 417\n    Blog| 209\n    Business| 142\n    Economy| 500\n    Education| 85\n    Employment| 154\n    Entertainment| 500\n    Health| 31\n    Interview| 229\n    Literature| 102\n    Migration| 111\n    Opinion| 500\n    Politics| 500\n    Society| 253\n    Sports| 500\n    Technology| 110\n    Tourism| 214\n    World| 212\n    **Total**| 4964\n\n### Acknowledgements\n\nWe would like to acknowledge all the online news portal specially onlinekhabar, setopati, Ratopati.\n\n### Citations\nPlease cite in your publications if it helps your research:\n\n<hr>@inproceedings{shahi2018off,\n <p> title={Nepali News Classification Using Naive Bayes, Support vector Machine and Neural Networks},</p><p>\n  </p><p>author={Shahi, Tej Bahadur, Pant, Ashok Kumar},</p>\n  <p>booktitle={2018 International Conference on Communication, Information & Computing Technology (ICCICT)},</p><p>\n</p><p>  pages={1--5},</p>\n  <p>year={2018},</p>\n  organization={IEEE}",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "linguistics",
+    "text mining",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "ashokpant",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

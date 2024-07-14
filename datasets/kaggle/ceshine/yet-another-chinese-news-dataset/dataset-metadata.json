@@ -1,0 +1,42 @@
+{
+  "id": "ceshine/yet-another-chinese-news-dataset",
+  "id_no": 124897,
+  "datasetSlugNullable": "yet-another-chinese-news-dataset",
+  "ownerUserNullable": "ceshine",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Yet Another Chinese News Dataset",
+  "subtitleNullable": "With Article Titles, Descriptions, Cover Images, and Links.",
+  "descriptionNullable": "A collections of news articles in Traditional and Simplified Chinese. It includes some Internet news outlets that are NOT Chinese state media (they deserve a separate dataset). \n\nComplete coverage is not guaranteed. Therefore this dataset is not suitable for analyzing event coverage. It is meant for using as a corpus for NLP algorithms.\n\n## Data Collection Process\n\n1. The links to the news articles were collected from the RSS feeds or the Twitter accounts of the news outlets. \n2. Download and parse the web pages. Then the meta tags were used to extract the title, description/summary, and cover image of each article. (These are the stuffs that are used in the Twitter and Facebook summary cards.)\n\nNote: Only minimal text cleaning has been performed on the meta tags.\n\n### Data Fields\n\n1. title: Article title from `og:title` or `twitter:title` meta tag.\n2. desc: Article summary from `twitter:description` or `og:description` meta tag.\n3. image: URL to the cover image from `twitter:image` or `og:image` meta tag.\n4. url: URL of the article.\n5. source: The code of the news outlet.\n6. date: The publish date of the article on Twitter or in RSS feeds. Format: YYYYMMDD\n\nThis dataset does not provide full texts of the article. You'll need to scrape it yourself using the links provided.\n",
+  "datasetId": 124897,
+  "datasetSlug": "yet-another-chinese-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ceshine",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 26239,
+  "totalVotes": 35,
+  "totalDownloads": 1676,
+  "title": "Yet Another Chinese News Dataset",
+  "hasTitle": true,
+  "subtitle": "With Article Titles, Descriptions, Cover Images, and Links.",
+  "hasSubtitle": true,
+  "description": "A collections of news articles in Traditional and Simplified Chinese. It includes some Internet news outlets that are NOT Chinese state media (they deserve a separate dataset). \n\nComplete coverage is not guaranteed. Therefore this dataset is not suitable for analyzing event coverage. It is meant for using as a corpus for NLP algorithms.\n\n## Data Collection Process\n\n1. The links to the news articles were collected from the RSS feeds or the Twitter accounts of the news outlets. \n2. Download and parse the web pages. Then the meta tags were used to extract the title, description/summary, and cover image of each article. (These are the stuffs that are used in the Twitter and Facebook summary cards.)\n\nNote: Only minimal text cleaning has been performed on the meta tags.\n\n### Data Fields\n\n1. title: Article title from `og:title` or `twitter:title` meta tag.\n2. desc: Article summary from `twitter:description` or `og:description` meta tag.\n3. image: URL to the cover image from `twitter:image` or `og:image` meta tag.\n4. url: URL of the article.\n5. source: The code of the news outlet.\n6. date: The publish date of the article on Twitter or in RSS feeds. Format: YYYYMMDD\n\nThis dataset does not provide full texts of the article. You'll need to scrape it yourself using the links provided.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "nlp",
+    "image",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

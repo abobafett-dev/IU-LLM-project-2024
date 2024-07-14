@@ -1,0 +1,41 @@
+{
+  "id": "marquis03/high-throughput-algae-cell-detection",
+  "id_no": 4223075,
+  "datasetSlugNullable": "high-throughput-algae-cell-detection",
+  "ownerUserNullable": "marquis03",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "High-Throughput Algae Cell Detection",
+  "subtitleNullable": "2023 IEEE Cybermatics Congress \u201cVision Meets Algae\u201d Object Detection Challenge",
+  "descriptionNullable": "Microalgae, as an important natural resource, find widespread applications in various fields such as marine environments, biomedical research, clean energy, and food engineering. Monitoring the abundance and species composition of microalgae in water bodies can help identify potential environmental issues such as eutrophication, changes in water quality, and ecological balance. This is crucial for ecological assessment, establishing warning systems, and implementing the restoration of marine ecosystems. One major challenge in microalgae research lies in the rapid identification and quantification of diverse and variable microalgal samples. Currently, researchers mainly rely on microscopic examination of microalgal cells. However, this method often suffers from low throughput and sample damage, potentially overlooking the inherent heterogeneity among cells.\n\nTo address the above problem, microfluidic chip technology is a promising solution. Microfluidic chips are characterized by miniaturization, integration, high sensitivity and low cost, and have gradually become an ideal platform for real-time cell analysis and microbial monitoring. However, the existing cell detection models on microfluidic platforms have limitations, and it is difficult to achieve multi-classification of cells and accurate detection of cells with similar size but different states at the same time. This is especially evident in microalgae samples, due to the diversity of species, the size variation of cells within the same species, and the significant size difference between different species, which pose a unique challenge. Therefore, there is an urgent need to develop a label-free, high-throughput, multi-classification, multi-scale microalgae cell detection method to meet the practical needs of microalgae research. This development will help promote technological innovation in the microalgae field and provide more reliable tools for future ecological protection and resource management.\n\nTo address the challenges of high-throughput algae cell detection, we have organized the second International \"Vision Meets Algae\" (VisAlgae) Challenge and Workshop. VisAlgae 2023 will be held in conjunction with the IEEE Cybermatics Conference, focusing on the interdisciplinary application of algae research and computer vision technology. We conducted experiments on a high-throughput microfluidic platform, collecting dynamic video data of microalgal cells under different fields of view and imaging conditions. The experimental subjects include six types of microalgal cells: Platymonas, Chlorella, Dunaliella salina, Effrenium, Porphyridium, and Haematococcus. These cells exhibit significant differences in size, pose challenges with extremely small targets, and may experience motion blur and defocus under certain conditions. Our task is to address the practical challenges of high-throughput algae cell detection, develop targeted object detection algorithms to overcome issues such as detecting small targets, handling multiscale issues, managing motion blur, dealing with complex backgrounds, and maximize detection accuracy.\n\nThe training set contains 700 images and the testing set contains 300 images, with 6 classes. The annotations of training set are in YOLO format. Each image has a corresponding annotation file in .txt format.\n\nEach line in the txt file means:Class, x_center, y_center, w, h\n\nClasses names:\n0: Platymonas\n1: Chlorella\n2: Dunaliella salina\n3: Effrenium\n4: Porphyridium\n5: Haematococcus",
+  "datasetId": 4223075,
+  "datasetSlug": "high-throughput-algae-cell-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "marquis03",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1520,
+  "totalVotes": 12,
+  "totalDownloads": 195,
+  "title": "High-Throughput Algae Cell Detection",
+  "hasTitle": true,
+  "subtitle": "2023 IEEE Cybermatics Congress \u201cVision Meets Algae\u201d Object Detection Challenge",
+  "hasSubtitle": true,
+  "description": "Microalgae, as an important natural resource, find widespread applications in various fields such as marine environments, biomedical research, clean energy, and food engineering. Monitoring the abundance and species composition of microalgae in water bodies can help identify potential environmental issues such as eutrophication, changes in water quality, and ecological balance. This is crucial for ecological assessment, establishing warning systems, and implementing the restoration of marine ecosystems. One major challenge in microalgae research lies in the rapid identification and quantification of diverse and variable microalgal samples. Currently, researchers mainly rely on microscopic examination of microalgal cells. However, this method often suffers from low throughput and sample damage, potentially overlooking the inherent heterogeneity among cells.\n\nTo address the above problem, microfluidic chip technology is a promising solution. Microfluidic chips are characterized by miniaturization, integration, high sensitivity and low cost, and have gradually become an ideal platform for real-time cell analysis and microbial monitoring. However, the existing cell detection models on microfluidic platforms have limitations, and it is difficult to achieve multi-classification of cells and accurate detection of cells with similar size but different states at the same time. This is especially evident in microalgae samples, due to the diversity of species, the size variation of cells within the same species, and the significant size difference between different species, which pose a unique challenge. Therefore, there is an urgent need to develop a label-free, high-throughput, multi-classification, multi-scale microalgae cell detection method to meet the practical needs of microalgae research. This development will help promote technological innovation in the microalgae field and provide more reliable tools for future ecological protection and resource management.\n\nTo address the challenges of high-throughput algae cell detection, we have organized the second International \"Vision Meets Algae\" (VisAlgae) Challenge and Workshop. VisAlgae 2023 will be held in conjunction with the IEEE Cybermatics Conference, focusing on the interdisciplinary application of algae research and computer vision technology. We conducted experiments on a high-throughput microfluidic platform, collecting dynamic video data of microalgal cells under different fields of view and imaging conditions. The experimental subjects include six types of microalgal cells: Platymonas, Chlorella, Dunaliella salina, Effrenium, Porphyridium, and Haematococcus. These cells exhibit significant differences in size, pose challenges with extremely small targets, and may experience motion blur and defocus under certain conditions. Our task is to address the practical challenges of high-throughput algae cell detection, develop targeted object detection algorithms to overcome issues such as detecting small targets, handling multiscale issues, managing motion blur, dealing with complex backgrounds, and maximize detection accuracy.\n\nThe training set contains 700 images and the testing set contains 300 images, with 6 classes. The annotations of training set are in YOLO format. Each image has a corresponding annotation file in .txt format.\n\nEach line in the txt file means:Class, x_center, y_center, w, h\n\nClasses names:\n0: Platymonas\n1: Chlorella\n2: Dunaliella salina\n3: Effrenium\n4: Porphyridium\n5: Haematococcus",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "science and technology",
+    "computer vision",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

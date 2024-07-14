@@ -1,0 +1,43 @@
+{
+  "id": "rajattomar132/payment-date-dataset",
+  "id_no": 2106227,
+  "datasetSlugNullable": "payment-date-dataset",
+  "ownerUserNullable": "rajattomar132",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Payment Date Dataset",
+  "subtitleNullable": "Dataset about Payment Date perfect for payment date prediction",
+  "descriptionNullable": "The invoices dataset contains the past payment information and behaviour of various buyers. Based on the previous payment patterns, the ML model will predict what will be the date a payment is made by the customer for an invoice.\nThe model will also predict which aging bucket the invoice falls into based on the predicted payment date.",
+  "datasetId": 2106227,
+  "datasetSlug": "payment-date-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rajattomar132",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 8002,
+  "totalVotes": 34,
+  "totalDownloads": 1038,
+  "title": "Payment Date Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset about Payment Date perfect for payment date prediction",
+  "hasSubtitle": true,
+  "description": "The invoices dataset contains the past payment information and behaviour of various buyers. Based on the previous payment patterns, the ML model will predict what will be the date a payment is made by the customer for an invoice.\nThe model will also predict which aging bucket the invoice falls into based on the predicted payment date.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "north america",
+    "intermediate",
+    "linear regression",
+    "tabular",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

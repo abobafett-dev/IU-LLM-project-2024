@@ -1,0 +1,48 @@
+{
+  "id": "tarundalal/dangerous-insects-dataset",
+  "id_no": 3444216,
+  "datasetSlugNullable": "dangerous-insects-dataset",
+  "ownerUserNullable": "tarundalal",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Dangerous Farm Insects Dataset",
+  "subtitleNullable": "Collection of 15 Harmful Insects Found in Farming Environments",
+  "descriptionNullable": "### Description:\n\nThe Dangerous Farm Insects Image Dataset is a curated collection of images featuring 15 different types of insects commonly found in agricultural settings. This dataset provides valuable visual resources for studying, identifying, and understanding the characteristics of these potentially harmful insects. Each insect is represented by multiple high-quality images, showcasing their distinct features, colors, and patterns.\n\n### Usefulness and Potential Applications:\n\n**1. Pest Identification and Management**: This dataset serves as a valuable resource for farmers, entomologists, and agricultural researchers involved in pest management. The images enable accurate identification of dangerous farm insects, allowing for timely and targeted pest control strategies.\n\n**2. Crop Protection and Yield Enhancement**: By recognizing and understanding the appearance of these harmful insects, farmers can implement preventive measures to protect their crops from infestations. The dataset aids in developing efficient pest control strategies, reducing the risk of crop damage and improving overall yield.\n\n**3. Education and Awareness**: The dataset can be utilized in educational settings to teach students about the importance of insect identification, the impact of harmful insects on agriculture, and the significance of integrated pest management practices. It promotes awareness among farmers, students, and the general public regarding the threats posed by these insects and the importance of sustainable farming practices.\n\n**4. Machine Learning and Computer Vision:** The dataset can be utilized for training and evaluating computer vision models and machine learning algorithms. Researchers and data scientists can leverage this dataset to develop automated systems for insect recognition, classification, and early detection of infestations.\n\n**5. Research and Analysis:** The dataset provides a valuable resource for conducting research and analysis on the behaviour, distribution, and ecological impact of dangerous farm insects. It facilitates studies on the effectiveness of various control methods and the development of innovative solutions for sustainable agriculture.\n\nWith its diverse collection of high-quality images and its potential applications in pest management, crop protection, education, and research, the Dangerous Farm Insects Image Dataset is a valuable asset for anyone involved in the agricultural industry, entomology research, or computer vision applications in the field of farming.\n\nKeywords: farm insects, dangerous insects, pest management, crop protection, agriculture, entomology, integrated pest management, computer vision, machine learning, dataset.",
+  "datasetId": 3444216,
+  "datasetSlug": "dangerous-insects-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tarundalal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 14118,
+  "totalVotes": 49,
+  "totalDownloads": 1937,
+  "title": "Dangerous Farm Insects Dataset",
+  "hasTitle": true,
+  "subtitle": "Collection of 15 Harmful Insects Found in Farming Environments",
+  "hasSubtitle": true,
+  "description": "### Description:\n\nThe Dangerous Farm Insects Image Dataset is a curated collection of images featuring 15 different types of insects commonly found in agricultural settings. This dataset provides valuable visual resources for studying, identifying, and understanding the characteristics of these potentially harmful insects. Each insect is represented by multiple high-quality images, showcasing their distinct features, colors, and patterns.\n\n### Usefulness and Potential Applications:\n\n**1. Pest Identification and Management**: This dataset serves as a valuable resource for farmers, entomologists, and agricultural researchers involved in pest management. The images enable accurate identification of dangerous farm insects, allowing for timely and targeted pest control strategies.\n\n**2. Crop Protection and Yield Enhancement**: By recognizing and understanding the appearance of these harmful insects, farmers can implement preventive measures to protect their crops from infestations. The dataset aids in developing efficient pest control strategies, reducing the risk of crop damage and improving overall yield.\n\n**3. Education and Awareness**: The dataset can be utilized in educational settings to teach students about the importance of insect identification, the impact of harmful insects on agriculture, and the significance of integrated pest management practices. It promotes awareness among farmers, students, and the general public regarding the threats posed by these insects and the importance of sustainable farming practices.\n\n**4. Machine Learning and Computer Vision:** The dataset can be utilized for training and evaluating computer vision models and machine learning algorithms. Researchers and data scientists can leverage this dataset to develop automated systems for insect recognition, classification, and early detection of infestations.\n\n**5. Research and Analysis:** The dataset provides a valuable resource for conducting research and analysis on the behaviour, distribution, and ecological impact of dangerous farm insects. It facilitates studies on the effectiveness of various control methods and the development of innovative solutions for sustainable agriculture.\n\nWith its diverse collection of high-quality images and its potential applications in pest management, crop protection, education, and research, the Dangerous Farm Insects Image Dataset is a valuable asset for anyone involved in the agricultural industry, entomology research, or computer vision applications in the field of farming.\n\nKeywords: farm insects, dangerous insects, pest management, crop protection, agriculture, entomology, integrated pest management, computer vision, machine learning, dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "computer vision",
+    "multiclass classification",
+    "image classification",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "rahuljayyn",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "bjoernjostein/the-circor-digiscope-phonocardiogram-dataset-v2",
+  "id_no": 2143280,
+  "datasetSlugNullable": "the-circor-digiscope-phonocardiogram-dataset-v2",
+  "ownerUserNullable": "bjoernjostein",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "The CirCor DigiScope Phonocardiogram Dataset",
+  "subtitleNullable": "George Moody PhysioNet Challenge 2022: Classification of heart sounds",
+  "descriptionNullable": "The data were collected from a pediatric population during two mass screening campaigns conducted in Northeast Brazil in July-August 2014 and June-July 2015. The target population was individuals who were 21 years old or younger who presented voluntarily for screening with a signed parental or legal guardian consent form. All participants completed a sociodemographic questionnaire and subsequently underwent a clinical examination, a nursing assessment, and cardiac investigations. A detailed description of the dataset can be found here: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9658215",
+  "datasetId": 2143280,
+  "datasetSlug": "the-circor-digiscope-phonocardiogram-dataset-v2",
+  "hasDatasetSlug": true,
+  "ownerUser": "bjoernjostein",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 2478,
+  "totalVotes": 7,
+  "totalDownloads": 556,
+  "title": "The CirCor DigiScope Phonocardiogram Dataset",
+  "hasTitle": true,
+  "subtitle": "George Moody PhysioNet Challenge 2022: Classification of heart sounds",
+  "hasSubtitle": true,
+  "description": "The data were collected from a pediatric population during two mass screening campaigns conducted in Northeast Brazil in July-August 2014 and June-July 2015. The target population was individuals who were 21 years old or younger who presented voluntarily for screening with a signed parental or legal guardian consent form. All participants completed a sociodemographic questionnaire and subsequently underwent a clinical examination, a nursing assessment, and cardiac investigations. A detailed description of the dataset can be found here: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9658215",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "south america",
+    "healthcare",
+    "health",
+    "time series analysis",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "jonnah",
+      "role": "writer"
+    },
+    {
+      "username": "mikolajpabiszczak",
+      "role": "writer"
+    },
+    {
+      "username": "larsailobongo",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "prashanthacsq/ovfacemodels",
+  "id_no": 2539161,
+  "datasetSlugNullable": "ovfacemodels",
+  "ownerUserNullable": "prashanthacsq",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "OV-Face-Models",
+  "subtitleNullable": "OpenVINO pretrained facial detection and recognition models",
+  "descriptionNullable": "## **OpenVINO pretrained facial detection and recognition models**\n\nModels Information\n\n    - `detect_model`               = `face-detection-retail-0044`\n    - `recog_model_1` (arcface)    = `face-recognition-resnet100-arcface-onnx`\n    - `recog_model_2` (facenet)    = `facenet-20180408-102900`\n    - `recog_model_3` (sphereface) = `Sphereface`",
+  "datasetId": 2539161,
+  "datasetSlug": "ovfacemodels",
+  "hasDatasetSlug": true,
+  "ownerUser": "prashanthacsq",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 280,
+  "totalVotes": 1,
+  "totalDownloads": 12,
+  "title": "OV-Face-Models",
+  "hasTitle": true,
+  "subtitle": "OpenVINO pretrained facial detection and recognition models",
+  "hasSubtitle": true,
+  "description": "## **OpenVINO pretrained facial detection and recognition models**\n\nModels Information\n\n    - `detect_model`               = `face-detection-retail-0044`\n    - `recog_model_1` (arcface)    = `face-recognition-resnet100-arcface-onnx`\n    - `recog_model_2` (facenet)    = `facenet-20180408-102900`\n    - `recog_model_3` (sphereface) = `Sphereface`",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "pre-trained model"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

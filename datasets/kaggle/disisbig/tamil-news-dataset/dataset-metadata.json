@@ -1,0 +1,42 @@
+{
+  "id": "disisbig/tamil-news-dataset",
+  "id_no": 455877,
+  "datasetSlugNullable": "tamil-news-dataset",
+  "ownerUserNullable": "disisbig",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Tamil News Dataset",
+  "subtitleNullable": "Perform Text Classification in Tamil using this Dataset",
+  "descriptionNullable": "This data set contains ~6500 news articles which were collected by [Ravi](https://github.com/ravi-annaswamy) from Tamil news websites.\n\nThe data set has been cleaned and contains train and test set using which you can benchmark your classification models in Tamil\n\nThe scripts which were used to create the data set can be found [here](https://github.com/goru001/nlp-for-tamil/tree/master/dataset-preparation)\n\n**Credits:**\nFull credit to [Ravi](https://github.com/ravi-annaswamy) for this Data set. Also, Thanks to thetamilhindu headline crawler built using news crawler from [vanangamudi](https://github.com/vanangamudi)",
+  "datasetId": 455877,
+  "datasetSlug": "tamil-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "disisbig",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 7846,
+  "totalVotes": 7,
+  "totalDownloads": 416,
+  "title": "Tamil News Dataset",
+  "hasTitle": true,
+  "subtitle": "Perform Text Classification in Tamil using this Dataset",
+  "hasSubtitle": true,
+  "description": "This data set contains ~6500 news articles which were collected by [Ravi](https://github.com/ravi-annaswamy) from Tamil news websites.\n\nThe data set has been cleaned and contains train and test set using which you can benchmark your classification models in Tamil\n\nThe scripts which were used to create the data set can be found [here](https://github.com/goru001/nlp-for-tamil/tree/master/dataset-preparation)\n\n**Credits:**\nFull credit to [Ravi](https://github.com/ravi-annaswamy) for this Data set. Also, Thanks to thetamilhindu headline crawler built using news crawler from [vanangamudi](https://github.com/vanangamudi)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "internet",
+    "classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

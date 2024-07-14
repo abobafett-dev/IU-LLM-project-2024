@@ -1,0 +1,39 @@
+{
+  "id": "stealthtechnologies/budgerigar-repository",
+  "id_no": 4572014,
+  "datasetSlugNullable": "budgerigar-repository",
+  "ownerUserNullable": "stealthtechnologies",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Budgie Color Variation Dataset",
+  "subtitleNullable": "A dataset containing images of budgies ",
+  "descriptionNullable": "This dataset encompasses four primary color categories: wild, blue, yellow, and white budgies. Each category represents distinct color mutations commonly found in captive-bred budgerigars, offering valuable insights into the genetic diversity and selective breeding practices within the budgie community.\n\n**Wild Budgies**: \nThis category comprises images depicting budgerigars with the characteristic green plumage, yellow face and abdomen, black wing markings, and blue cheek patches, representing the natural coloration of wild budgerigars.\n\n**Blue Budgies**: \nIn this category, you will find images showcasing budgerigars with a blue color mutation, where the typical green plumage is replaced by varying shades of blue, often retaining the signature black wing markings and blue cheek patches.\n\n**Yellow Budgies**: \nThis category features budgerigars with vibrant yellow plumage, resulting from specific genetic mutations inhibiting melanin production. These birds exhibit a range of shades from pale yellow to deep golden, adding a bright and cheerful presence to the dataset.\n\n**White Budgies**:\nThe white budgie category includes images of budgerigars with pure white plumage, a result of genetic mutations suppressing pigment production. These birds may have dark or pink eyes, contributing to their unique appearance within the dataset.\n\n\n**Others**:\nIn this category there are two or more budgies of different colorations in a single image\n\n**NOTE**: Images are of various sizes",
+  "datasetId": 4572014,
+  "datasetSlug": "budgerigar-repository",
+  "hasDatasetSlug": true,
+  "ownerUser": "stealthtechnologies",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 185,
+  "totalVotes": 8,
+  "totalDownloads": 35,
+  "title": "Budgie Color Variation Dataset",
+  "hasTitle": true,
+  "subtitle": "A dataset containing images of budgies ",
+  "hasSubtitle": true,
+  "description": "This dataset encompasses four primary color categories: wild, blue, yellow, and white budgies. Each category represents distinct color mutations commonly found in captive-bred budgerigars, offering valuable insights into the genetic diversity and selective breeding practices within the budgie community.\n\n**Wild Budgies**: \nThis category comprises images depicting budgerigars with the characteristic green plumage, yellow face and abdomen, black wing markings, and blue cheek patches, representing the natural coloration of wild budgerigars.\n\n**Blue Budgies**: \nIn this category, you will find images showcasing budgerigars with a blue color mutation, where the typical green plumage is replaced by varying shades of blue, often retaining the signature black wing markings and blue cheek patches.\n\n**Yellow Budgies**: \nThis category features budgerigars with vibrant yellow plumage, resulting from specific genetic mutations inhibiting melanin production. These birds exhibit a range of shades from pale yellow to deep golden, adding a bright and cheerful presence to the dataset.\n\n**White Budgies**:\nThe white budgie category includes images of budgerigars with pure white plumage, a result of genetic mutations suppressing pigment production. These birds may have dark or pink eyes, contributing to their unique appearance within the dataset.\n\n\n**Others**:\nIn this category there are two or more budgies of different colorations in a single image\n\n**NOTE**: Images are of various sizes",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

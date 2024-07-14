@@ -1,0 +1,43 @@
+{
+  "id": "riotulab/car-make-model-and-generation",
+  "id_no": 3649326,
+  "datasetSlugNullable": "car-make-model-and-generation",
+  "ownerUserNullable": "riotulab",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Car make, model, and generation",
+  "subtitleNullable": "Image classification of car make, model, and generation",
+  "descriptionNullable": " This dataset of **41,521 images** was built by collecting images from the Internet and photos captured by mobile phones, then manually labeling them following the pattern: make\u2013model\u2013generation. \n\n\nIt contains **24 different makes** (e.g., Audi, Toyota, Hyundai, . . . ), 90 different models (e.g., Audi Q7, Toyota Camry, Hyundai Accent,. . . ), and 196 different generations (e.g., Audi Q7 generation 2009\u20132015, Toyota Camry generation 2012\u20132017, Hyundai Accent generation 2006\u20132011, . . . ) which are considered as the final classes. We tried to keep the dataset as balanced as possible, but the way the dataset was collected caused some discrepancies, with an average of 189 images per class in the training dataset, a minimum of 73, a maximum of 384, and a standard deviation of 48.\n\n\nIf you use this dataset in an a research paper, please cite the following **reference**: \nAmmar, Adel, Anis Koubaa, Wadii Boulila, Bilel Benjdira, and Yasser Alhabashi. \"*A multi-stage deep-learning-based vehicle and license plate recognition system with real-time edge inference.*\" Sensors 23, no. 4 (2023): 2120.",
+  "datasetId": 3649326,
+  "datasetSlug": "car-make-model-and-generation",
+  "hasDatasetSlug": true,
+  "ownerUser": "riotulab",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 1025,
+  "totalVotes": 3,
+  "totalDownloads": 146,
+  "title": "Car make, model, and generation",
+  "hasTitle": true,
+  "subtitle": "Image classification of car make, model, and generation",
+  "hasSubtitle": true,
+  "description": " This dataset of **41,521 images** was built by collecting images from the Internet and photos captured by mobile phones, then manually labeling them following the pattern: make\u2013model\u2013generation. \n\n\nIt contains **24 different makes** (e.g., Audi, Toyota, Hyundai, . . . ), 90 different models (e.g., Audi Q7, Toyota Camry, Hyundai Accent,. . . ), and 196 different generations (e.g., Audi Q7 generation 2009\u20132015, Toyota Camry generation 2012\u20132017, Hyundai Accent generation 2006\u20132011, . . . ) which are considered as the final classes. We tried to keep the dataset as balanced as possible, but the way the dataset was collected caused some discrepancies, with an average of 189 images per class in the training dataset, a minimum of 73, a maximum of 384, and a standard deviation of 48.\n\n\nIf you use this dataset in an a research paper, please cite the following **reference**: \nAmmar, Adel, Anis Koubaa, Wadii Boulila, Bilel Benjdira, and Yasser Alhabashi. \"*A multi-stage deep-learning-based vehicle and license plate recognition system with real-time edge inference.*\" Sensors 23, no. 4 (2023): 2120.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "computer vision",
+    "deep learning",
+    "image",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

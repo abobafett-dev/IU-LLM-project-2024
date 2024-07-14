@@ -1,0 +1,44 @@
+{
+  "id": "mhadani/predictive-maintenance-aircraft-engine",
+  "id_no": 5101272,
+  "datasetSlugNullable": "predictive-maintenance-aircraft-engine",
+  "ownerUserNullable": "mhadani",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Predictive Maintenance: Aircraft Engine",
+  "subtitleNullable": "Multivariate Time Series Data for Predictive Maintenance  of Aircraft Engines",
+  "descriptionNullable": "This dataset is designed for predictive maintenance of aircraft engines and consists of three primary files:\n\n1. **Training Data (\"PM_train.csv\")**: This file contains multiple multivariate time series data, with each time series representing the operational cycles of different aircraft engines of the same type. Each cycle includes 21 sensor readings. Engines start with varying initial wear and manufacturing differences, which are unknown to the user. Initially, engines operate normally and begin to degrade over time. The degradation increases until a predefined threshold is reached, marking the engine as unsafe for further use. The final cycle in each time series indicates the failure point of the engine.\n\n2. **Testing Data (\"PM_test.csv\")**: This file shares the same schema as the training data but does not specify the failure points. For example, an engine might run from cycle 1 to cycle 31 without indicating how many more cycles it can last before failure.\n\n3. **Ground Truth Data (\"PM_truth.csv\")**: This file provides the actual remaining working cycles for the engines in the testing data. For instance, it shows that an engine running from cycle 1 to cycle 31 in the testing data has 112 remaining cycles before failure.\n\nThis dataset enables the development and evaluation of predictive maintenance models, allowing for the prediction of engine degradation and failure, thereby enhancing maintenance schedules and ensuring operational safety.",
+  "datasetId": 5101272,
+  "datasetSlug": "predictive-maintenance-aircraft-engine",
+  "hasDatasetSlug": true,
+  "ownerUser": "mhadani",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 2838,
+  "totalVotes": 26,
+  "totalDownloads": 419,
+  "title": "Predictive Maintenance: Aircraft Engine",
+  "hasTitle": true,
+  "subtitle": "Multivariate Time Series Data for Predictive Maintenance  of Aircraft Engines",
+  "hasSubtitle": true,
+  "description": "This dataset is designed for predictive maintenance of aircraft engines and consists of three primary files:\n\n1. **Training Data (\"PM_train.csv\")**: This file contains multiple multivariate time series data, with each time series representing the operational cycles of different aircraft engines of the same type. Each cycle includes 21 sensor readings. Engines start with varying initial wear and manufacturing differences, which are unknown to the user. Initially, engines operate normally and begin to degrade over time. The degradation increases until a predefined threshold is reached, marking the engine as unsafe for further use. The final cycle in each time series indicates the failure point of the engine.\n\n2. **Testing Data (\"PM_test.csv\")**: This file shares the same schema as the training data but does not specify the failure points. For example, an engine might run from cycle 1 to cycle 31 without indicating how many more cycles it can last before failure.\n\n3. **Ground Truth Data (\"PM_truth.csv\")**: This file provides the actual remaining working cycles for the engines in the testing data. For instance, it shows that an engine running from cycle 1 to cycle 31 in the testing data has 112 remaining cycles before failure.\n\nThis dataset enables the development and evaluation of predictive maintenance models, allowing for the prediction of engine degradation and failure, thereby enhancing maintenance schedules and ensuring operational safety.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "computer science",
+    "aviation",
+    "time series analysis",
+    "feature engineering",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "quadeer15sh/augmented-forest-segmentation",
+  "id_no": 1650618,
+  "datasetSlugNullable": "augmented-forest-segmentation",
+  "ownerUserNullable": "quadeer15sh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Forest Aerial Images for Segmentation",
+  "subtitleNullable": "Aerial images of Forests for image segmentation tasks",
+  "descriptionNullable": "### Context\n\nAutomatic categorization and segmentation of forest cover is of great importance for sustainable development  and urban planning. The importance of forests cannot be underestimated as they support the flow of essential ecosystem services such as fibre, energy, recreation, biodiversity, carbon storage and flux and water. Forests are also important areas to identify before commencing any kind of industrial activity that requires on field work. Satellite or remote sensed images can be used to identify and segment the forest cover regions in the image and get a clear idea about how much land does forest cover. This problem is defined as a binary segmentation task to detect forest areas.\n\n### Content\n\nThis dataset contains 5108 aerial images of dimensions 256x256\nThe meta_data.csv file maintains the information about the aerial images and their respective binary mask images\n\n### Acknowledgements\n\nThis dataset was obtained from Land Cover Classification Track in DeepGlobe Challenge . For more details on the dataset refer the related publication - DeepGlobe 2018: A Challenge to Parse the Earth through Satellite Images. The images in the dataset were patched into images of size 256x256 to create more number of image samples.\n\nAny work based on the dataset should cite:\n\n@InProceedings{DeepGlobe18,\n author = {Demir, Ilke and Koperski, Krzysztof and Lindenbaum, David and Pang, Guan and Huang, Jing and Basu, Saikat and Hughes, Forest and Tuia, Devis and Raskar, Ramesh},\n title = {DeepGlobe 2018: A Challenge to Parse the Earth Through Satellite Images},\n booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},\n month = {June},\n year = {2018}\n}\n\n### Terms & Conditions\nThe DeepGlobe Land Cover Classification Challenge and hence, the dataset are governed by DeepGlobe Rules, The DigitalGlobe's Internal Use License Agreement, and Annotation License Agreement.\n\n### Inspiration\n\nA lot of solutions related to forest protection require labelled mask images, this dataset provides a good number of samples to fulfill these objectives",
+  "datasetId": 1650618,
+  "datasetSlug": "augmented-forest-segmentation",
+  "hasDatasetSlug": true,
+  "ownerUser": "quadeer15sh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 23422,
+  "totalVotes": 68,
+  "totalDownloads": 3884,
+  "title": "Forest Aerial Images for Segmentation",
+  "hasTitle": true,
+  "subtitle": "Aerial images of Forests for image segmentation tasks",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAutomatic categorization and segmentation of forest cover is of great importance for sustainable development  and urban planning. The importance of forests cannot be underestimated as they support the flow of essential ecosystem services such as fibre, energy, recreation, biodiversity, carbon storage and flux and water. Forests are also important areas to identify before commencing any kind of industrial activity that requires on field work. Satellite or remote sensed images can be used to identify and segment the forest cover regions in the image and get a clear idea about how much land does forest cover. This problem is defined as a binary segmentation task to detect forest areas.\n\n### Content\n\nThis dataset contains 5108 aerial images of dimensions 256x256\nThe meta_data.csv file maintains the information about the aerial images and their respective binary mask images\n\n### Acknowledgements\n\nThis dataset was obtained from Land Cover Classification Track in DeepGlobe Challenge . For more details on the dataset refer the related publication - DeepGlobe 2018: A Challenge to Parse the Earth through Satellite Images. The images in the dataset were patched into images of size 256x256 to create more number of image samples.\n\nAny work based on the dataset should cite:\n\n@InProceedings{DeepGlobe18,\n author = {Demir, Ilke and Koperski, Krzysztof and Lindenbaum, David and Pang, Guan and Huang, Jing and Basu, Saikat and Hughes, Forest and Tuia, Devis and Raskar, Ramesh},\n title = {DeepGlobe 2018: A Challenge to Parse the Earth Through Satellite Images},\n booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},\n month = {June},\n year = {2018}\n}\n\n### Terms & Conditions\nThe DeepGlobe Land Cover Classification Challenge and hence, the dataset are governed by DeepGlobe Rules, The DigitalGlobe's Internal Use License Agreement, and Annotation License Agreement.\n\n### Inspiration\n\nA lot of solutions related to forest protection require labelled mask images, this dataset provides a good number of samples to fulfill these objectives",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "forestry",
+    "beginner",
+    "cnn",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "tejasurya/ethereum-historical-data",
+  "id_no": 2278730,
+  "datasetSlugNullable": "ethereum-historical-data",
+  "ownerUserNullable": "tejasurya",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Ethereum-INR Historical Data ",
+  "subtitleNullable": "ETH-INR | ETH-USD | Daily data | 11-11-2017 to 18-06-2022",
+  "descriptionNullable": "## Ethereum\nEthereum is a decentralized, open-source blockchain with smart contract functionality. Ether (ETH or \u039e) is the native cryptocurrency of the platform. Among cryptocurrencies, Ether is second only to Bitcoin in market capitalization. Ethereum was conceived in 2013 by programmer Vitalik Buterin. \n\nEthereum allows anyone to deploy permanent and immutable decentralized applications onto it, with which users can interact.Decentralized finance (DeFi) applications provide a broad array of financial services without the need for typical financial intermediaries like brokerages, exchanges, or banks, such as allowing cryptocurrency users to borrow against their holdings or lend them out for interest. Ethereum also allows users to create and exchange NFTs, which are unique tokens representing ownership of an associated asset or privilege, as recognized by any number of institutions. \n**Source**: `Wikipedia`\n\n### Data Description\nThis dataset provides the history of daily prices of Ethereum. The data starts from 09-Nov-2017. All the column descriptions are provided. Currency is USD and INR.\n\nDataset is available in both .csv and .parquet format.\nTwo Datasets are ETH-USD and ETH-INR.",
+  "datasetId": 2278730,
+  "datasetSlug": "ethereum-historical-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "tejasurya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 857,
+  "totalVotes": 18,
+  "totalDownloads": 123,
+  "title": "Ethereum-INR Historical Data ",
+  "hasTitle": true,
+  "subtitle": "ETH-INR | ETH-USD | Daily data | 11-11-2017 to 18-06-2022",
+  "hasSubtitle": true,
+  "description": "## Ethereum\nEthereum is a decentralized, open-source blockchain with smart contract functionality. Ether (ETH or \u039e) is the native cryptocurrency of the platform. Among cryptocurrencies, Ether is second only to Bitcoin in market capitalization. Ethereum was conceived in 2013 by programmer Vitalik Buterin. \n\nEthereum allows anyone to deploy permanent and immutable decentralized applications onto it, with which users can interact.Decentralized finance (DeFi) applications provide a broad array of financial services without the need for typical financial intermediaries like brokerages, exchanges, or banks, such as allowing cryptocurrency users to borrow against their holdings or lend them out for interest. Ethereum also allows users to create and exchange NFTs, which are unique tokens representing ownership of an associated asset or privilege, as recognized by any number of institutions. \n**Source**: `Wikipedia`\n\n### Data Description\nThis dataset provides the history of daily prices of Ethereum. The data starts from 09-Nov-2017. All the column descriptions are provided. Currency is USD and INR.\n\nDataset is available in both .csv and .parquet format.\nTwo Datasets are ETH-USD and ETH-INR.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "time series analysis",
+    "investing",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

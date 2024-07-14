@@ -1,0 +1,43 @@
+{
+  "id": "pavellexyr/wallstreetbets-posts-and-comments-for-august-2021",
+  "id_no": 1589738,
+  "datasetSlugNullable": "wallstreetbets-posts-and-comments-for-august-2021",
+  "ownerUserNullable": "pavellexyr",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Reddit /r/WallStreetBets data for August 2021",
+  "subtitleNullable": "The complete collection of posts/comments of /r/wallstreetbets for August 2021.",
+  "descriptionNullable": "### Context\n\nReddit's WallStreetBets community has become famous on the internet earlier this year, with their coordinated GameStop ($GME) squeeze. That was a sign that social media can influence market data in ways before unseen. To help data scientists investigate this, we have compiled a comprehensive dataset of posts and comments on /r/WallStreetBets for the month of August 2021. \n\n\n### Content\n\nThe following dataset is a comprehensive list of all the posts and comments made on Reddit's WallStreetBets board from August 1 to August 31 of 2021. The data includes sentiment, post and comment content and timestamps. The dataset was procured using [SocialGrep](https://socialgrep.com/datasets?utm_source=kaggle&utm_medium=link&utm_campaign=dataset&utm_term=wallstreetbets#wsb-aug-2021).\n\nTo preserve traders' anonymity and to prevent targeted harassment, the data does not include usernames.\n\n\n### Acknowledgements\n\nThis dataset is dedicated to \"Koe\", an instrumental force in Reddit data compilation and public opinion research. He is no longer with us - may he be in a better place.\n\n\n### Inspiration\n\n- Can we predict stock trends based on Reddit data?\n- How does public perception of a stock shift with the news?\n- Are there any other insights that we can get from the board that caused the Short Squeeze of 2021?",
+  "datasetId": 1589738,
+  "datasetSlug": "wallstreetbets-posts-and-comments-for-august-2021",
+  "hasDatasetSlug": true,
+  "ownerUser": "pavellexyr",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4548,
+  "totalVotes": 9,
+  "totalDownloads": 204,
+  "title": "Reddit /r/WallStreetBets data for August 2021",
+  "hasTitle": true,
+  "subtitle": "The complete collection of posts/comments of /r/wallstreetbets for August 2021.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nReddit's WallStreetBets community has become famous on the internet earlier this year, with their coordinated GameStop ($GME) squeeze. That was a sign that social media can influence market data in ways before unseen. To help data scientists investigate this, we have compiled a comprehensive dataset of posts and comments on /r/WallStreetBets for the month of August 2021. \n\n\n### Content\n\nThe following dataset is a comprehensive list of all the posts and comments made on Reddit's WallStreetBets board from August 1 to August 31 of 2021. The data includes sentiment, post and comment content and timestamps. The dataset was procured using [SocialGrep](https://socialgrep.com/datasets?utm_source=kaggle&utm_medium=link&utm_campaign=dataset&utm_term=wallstreetbets#wsb-aug-2021).\n\nTo preserve traders' anonymity and to prevent targeted harassment, the data does not include usernames.\n\n\n### Acknowledgements\n\nThis dataset is dedicated to \"Koe\", an instrumental force in Reddit data compilation and public opinion research. He is no longer with us - may he be in a better place.\n\n\n### Inspiration\n\n- Can we predict stock trends based on Reddit data?\n- How does public perception of a stock shift with the news?\n- Are there any other insights that we can get from the board that caused the Short Squeeze of 2021?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "economics",
+    "nlp",
+    "text",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "agungpambudi/property-sales-data-real-estate-trends",
+  "id_no": 3838017,
+  "datasetSlugNullable": "property-sales-data-real-estate-trends",
+  "ownerUserNullable": "agungpambudi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Property Sales Data: Exploring Real Estate Trends",
+  "subtitleNullable": "Property sales data from 2002-2022 with details on type, location, and style. ",
+  "descriptionNullable": "This dataset contains property sales data, including information such as PropertyID, property type (e.g., Commercial or Residential), tax keys, property addresses, architectural styles, exterior wall materials, number of stories, year built, room counts, finished square footage, units (e.g., apartments), bedroom and bathroom counts, lot sizes, sale dates, and sale prices. Explore this dataset to gain insights into real estate trends and property characteristics.\n\n\n|Field Name|Description|Type|\n| --- | --- |--- |\n|PropertyID|A unique identifier for each property.|text|\n|PropType|The type of property (e.g., Commercial or Residential).|text|\n|taxkey|The tax key associated with the property.|text|\n|Address|The address of the property.|text|\n|CondoProject|Information about whether the property is part of a condominium |text|\n| | project (NaN indicates missing data). | |\n|District|The district number for the property.|text|\n|nbhd|The neighborhood number for the property.|text|\n|Style|The architectural style of the property.|text|\n|Extwall|The type of exterior wall material used.|text|\n|Stories|The number of stories in the building.|text|\n|Year_Built|The year the property was built.|text|\n|Rooms|The number of rooms in the property.|text|\n|FinishedSqft|The total square footage of finished space in the property.|text|\n|Units|The number of units in the property|text|\n| |  (e.g., apartments in a multifamily building). | |\n|Bdrms|The number of bedrooms in the property.|text|\n|Fbath|The number of full bathrooms in the property.|text|\n|Hbath|The number of half bathrooms in the property.|text|\n|Lotsize|The size of the lot associated with the property.|text|\n|Sale_date|The date when the property was sold.|text|\n|Sale_price|The sale price of the property.|text|\n\n<br>\n<br>\n<br>\n\nData.milwaukee.gov, (2023). Property Sales Data. [online] Available at: https://data.milwaukee.gov [Accessed 9th October 2023]. \n\nOpen Definition. (n.d.). Creative Commons Attribution 4.0 International Public License (CC BY 4.0). [online] Available at: http://www.opendefinition.org/licenses/cc-by [Accessed 9th October 2023].",
+  "datasetId": 3838017,
+  "datasetSlug": "property-sales-data-real-estate-trends",
+  "hasDatasetSlug": true,
+  "ownerUser": "agungpambudi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9798,
+  "totalVotes": 52,
+  "totalDownloads": 1863,
+  "title": "Property Sales Data: Exploring Real Estate Trends",
+  "hasTitle": true,
+  "subtitle": "Property sales data from 2002-2022 with details on type, location, and style. ",
+  "hasSubtitle": true,
+  "description": "This dataset contains property sales data, including information such as PropertyID, property type (e.g., Commercial or Residential), tax keys, property addresses, architectural styles, exterior wall materials, number of stories, year built, room counts, finished square footage, units (e.g., apartments), bedroom and bathroom counts, lot sizes, sale dates, and sale prices. Explore this dataset to gain insights into real estate trends and property characteristics.\n\n\n|Field Name|Description|Type|\n| --- | --- |--- |\n|PropertyID|A unique identifier for each property.|text|\n|PropType|The type of property (e.g., Commercial or Residential).|text|\n|taxkey|The tax key associated with the property.|text|\n|Address|The address of the property.|text|\n|CondoProject|Information about whether the property is part of a condominium |text|\n| | project (NaN indicates missing data). | |\n|District|The district number for the property.|text|\n|nbhd|The neighborhood number for the property.|text|\n|Style|The architectural style of the property.|text|\n|Extwall|The type of exterior wall material used.|text|\n|Stories|The number of stories in the building.|text|\n|Year_Built|The year the property was built.|text|\n|Rooms|The number of rooms in the property.|text|\n|FinishedSqft|The total square footage of finished space in the property.|text|\n|Units|The number of units in the property|text|\n| |  (e.g., apartments in a multifamily building). | |\n|Bdrms|The number of bedrooms in the property.|text|\n|Fbath|The number of full bathrooms in the property.|text|\n|Hbath|The number of half bathrooms in the property.|text|\n|Lotsize|The size of the lot associated with the property.|text|\n|Sale_date|The date when the property was sold.|text|\n|Sale_price|The sale price of the property.|text|\n\n<br>\n<br>\n<br>\n\nData.milwaukee.gov, (2023). Property Sales Data. [online] Available at: https://data.milwaukee.gov [Accessed 9th October 2023]. \n\nOpen Definition. (n.d.). Creative Commons Attribution 4.0 International Public License (CC BY 4.0). [online] Available at: http://www.opendefinition.org/licenses/cc-by [Accessed 9th October 2023].",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "real estate",
+    "economics",
+    "classification",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

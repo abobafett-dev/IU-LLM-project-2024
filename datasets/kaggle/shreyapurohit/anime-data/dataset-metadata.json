@@ -1,0 +1,39 @@
+{
+  "id": "shreyapurohit/anime-data",
+  "id_no": 3549194,
+  "datasetSlugNullable": "anime-data",
+  "ownerUserNullable": "shreyapurohit",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Anime Data 2023: MyAnimeList",
+  "subtitleNullable": "Best-Rated Anime Series on MyAnimeList",
+  "descriptionNullable": "**Tutorial**: [Kaggle Notebook](https://www.kaggle.com/code/shreyapurohit/web-scraping-tutorial-myanimelist).\n\n---\n\nThis dataset contains **top-rated anime series** as ranked on [MyAnimeList (MAL)](https://myanimelist.net/). MyAnimeList is a popular community-driven anime and manga database, where users can rate, review, and keep track of their favorite anime and manga titles.\n\nThe dataset includes details of the top-rated anime series as per user ratings and rankings on MyAnimeList. Each entry in the dataset represents an anime and provides the following information:\n\n- Rank: The ranking of the anime based on user ratings and popularity on MyAnimeList.\n- Title: The title or name of the anime series.\n- Rating: The average user rating of the anime, calculated from user reviews and scores on MyAnimeList.\n- Episodes: The total number of episodes in the anime series.\n- Date: The release or air date of the anime.\n\n\n## Data Source:\nThe data was collected by web scraping the top anime rankings from MyAnimeList using Python and the Beautiful Soup library. The web scraping process involved extracting the ranking, title, rating, episode count, and release date information from the anime listing pages on MyAnimeList.\n\nYou can check the step-by-step process in [this Kaggle Notebook](https://www.kaggle.com/code/shreyapurohit/web-scraping-tutorial-myanimelist).\n\n## Purpose:\nThis dataset is ideal for data analysis, machine learning, and visualization projects related to anime and entertainment. It provides valuable insights into user preferences and popularity trends for anime series. Analysts and researchers can use this dataset to explore correlations between anime characteristics and user ratings, discover trends in anime popularity over time, and build recommendation systems for anime enthusiasts.\n\n## Acknowledgements:\nSpecial thanks to MyAnimeList for providing the platform and anime community that allowed us to gather this data. Please note that this dataset is for educational and non-commercial purposes only.\n\nFeel free to upvote if it helped! Thanks :)\n",
+  "datasetId": 3549194,
+  "datasetSlug": "anime-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "shreyapurohit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 554,
+  "totalVotes": 4,
+  "totalDownloads": 76,
+  "title": "Anime Data 2023: MyAnimeList",
+  "hasTitle": true,
+  "subtitle": "Best-Rated Anime Series on MyAnimeList",
+  "hasSubtitle": true,
+  "description": "**Tutorial**: [Kaggle Notebook](https://www.kaggle.com/code/shreyapurohit/web-scraping-tutorial-myanimelist).\n\n---\n\nThis dataset contains **top-rated anime series** as ranked on [MyAnimeList (MAL)](https://myanimelist.net/). MyAnimeList is a popular community-driven anime and manga database, where users can rate, review, and keep track of their favorite anime and manga titles.\n\nThe dataset includes details of the top-rated anime series as per user ratings and rankings on MyAnimeList. Each entry in the dataset represents an anime and provides the following information:\n\n- Rank: The ranking of the anime based on user ratings and popularity on MyAnimeList.\n- Title: The title or name of the anime series.\n- Rating: The average user rating of the anime, calculated from user reviews and scores on MyAnimeList.\n- Episodes: The total number of episodes in the anime series.\n- Date: The release or air date of the anime.\n\n\n## Data Source:\nThe data was collected by web scraping the top anime rankings from MyAnimeList using Python and the Beautiful Soup library. The web scraping process involved extracting the ranking, title, rating, episode count, and release date information from the anime listing pages on MyAnimeList.\n\nYou can check the step-by-step process in [this Kaggle Notebook](https://www.kaggle.com/code/shreyapurohit/web-scraping-tutorial-myanimelist).\n\n## Purpose:\nThis dataset is ideal for data analysis, machine learning, and visualization projects related to anime and entertainment. It provides valuable insights into user preferences and popularity trends for anime series. Analysts and researchers can use this dataset to explore correlations between anime characteristics and user ratings, discover trends in anime popularity over time, and build recommendation systems for anime enthusiasts.\n\n## Acknowledgements:\nSpecial thanks to MyAnimeList for providing the platform and anime community that allowed us to gather this data. Please note that this dataset is for educational and non-commercial purposes only.\n\nFeel free to upvote if it helped! Thanks :)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

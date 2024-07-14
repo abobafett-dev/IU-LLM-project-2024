@@ -1,0 +1,43 @@
+{
+  "id": "soumicksarker/openeds-dataset",
+  "id_no": 3552058,
+  "datasetSlugNullable": "openeds-dataset",
+  "ownerUserNullable": "soumicksarker",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "openEDS Dataset",
+  "subtitleNullable": "OpenEDS (Open Eye Dataset) is a large scale data set of eye-images",
+  "descriptionNullable": "OpenEDS (Open Eye Dataset) is a large scale data set of eye-images captured using a virtual-reality (VR) head mounted display mounted with two synchronized eyefacing cameras at a frame rate of 200 Hz under controlled illumination. This dataset is compiled from video capture of the eye-region collected from 152 individual participants and is divided into four subsets: (i) 12,759 images with pixel-level annotations for key eye-regions: iris, pupil and sclera (ii) 252,690 unlabelled eye-images, (iii) 91,200 frames from randomly selected video sequence of 1.5 seconds in duration and (iv) 143 pairs of left and right point cloud data compiled from corneal topography of eye regions collected from a subset, 143 out of 152, participants in the study.",
+  "datasetId": 3552058,
+  "datasetSlug": "openeds-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "soumicksarker",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 3399,
+  "totalVotes": 21,
+  "totalDownloads": 536,
+  "title": "openEDS Dataset",
+  "hasTitle": true,
+  "subtitle": "OpenEDS (Open Eye Dataset) is a large scale data set of eye-images",
+  "hasSubtitle": true,
+  "description": "OpenEDS (Open Eye Dataset) is a large scale data set of eye-images captured using a virtual-reality (VR) head mounted display mounted with two synchronized eyefacing cameras at a frame rate of 200 Hz under controlled illumination. This dataset is compiled from video capture of the eye-region collected from 152 individual participants and is divided into four subsets: (i) 12,759 images with pixel-level annotations for key eye-regions: iris, pupil and sclera (ii) 252,690 unlabelled eye-images, (iii) 91,200 frames from randomly selected video sequence of 1.5 seconds in duration and (iv) 143 pairs of left and right point cloud data compiled from corneal topography of eye regions collected from a subset, 143 out of 152, participants in the study.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "intermediate",
+    "computer vision",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Affero General Public License 3.0",
+      "name": "GNU Affero General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

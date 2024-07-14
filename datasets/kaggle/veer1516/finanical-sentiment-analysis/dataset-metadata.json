@@ -1,0 +1,44 @@
+{
+  "id": "veer1516/finanical-sentiment-analysis",
+  "id_no": 3581589,
+  "datasetSlugNullable": "finanical-sentiment-analysis",
+  "ownerUserNullable": "veer1516",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "finanical sentiment analysis",
+  "subtitleNullable": "A verbose dataset for models which need to be trained on Financial Sentiment",
+  "descriptionNullable": "This dataset was made in mind for training a bot that will mainly be checking the sentiment of a news headline and the impact it would have on the stock/ entity involved in the headline. For example: \"Company X becomes the leaders of production of Y\". Looking at this sentence, we can tell that company X will probably experience a surge in their stock price. The model does the same. If it detects the presence of an increase in the stock price, it will reply with positive, else negative.",
+  "datasetId": 3581589,
+  "datasetSlug": "finanical-sentiment-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "veer1516",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1415,
+  "totalVotes": 6,
+  "totalDownloads": 192,
+  "title": "finanical sentiment analysis",
+  "hasTitle": true,
+  "subtitle": "A verbose dataset for models which need to be trained on Financial Sentiment",
+  "hasSubtitle": true,
+  "description": "This dataset was made in mind for training a bot that will mainly be checking the sentiment of a news headline and the impact it would have on the stock/ entity involved in the headline. For example: \"Company X becomes the leaders of production of Y\". Looking at this sentence, we can tell that company X will probably experience a surge in their stock price. The model does the same. If it detects the presence of an increase in the stock price, it will reply with positive, else negative.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "deep learning",
+    "rnn",
+    "text",
+    "nltk",
+    "pytorch"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

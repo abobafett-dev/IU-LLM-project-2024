@@ -1,0 +1,43 @@
+{
+  "id": "coreylammie/deepweedsx",
+  "id_no": 168282,
+  "datasetSlugNullable": "deepweedsx",
+  "ownerUserNullable": "coreylammie",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "DeepWeedsX",
+  "subtitleNullable": "A large weed species image dataset collected across northern Australia.",
+  "descriptionNullable": "### Context\n\nThe *DeepWeedsX* dataset consists of 17,508 unique 256x256 colour images in 9 classes. There are 15,007 training images and 2,501 test images. These images were collected in situ from eight rangeland environments across northern Australia.\n\nLiaison with land care groups and property owners across northern Australia led to the selection of eight target weed species\nfor the the collection of a large weed species image dataset; Chinee Apple (Ziziphus mauritiana), Lantana, Parkinsonia (Parkinsonia aculeata), Parthenium (Parthenium hysterophorus), Prickly Acacia (Vachellianilotica), Rubber vine (Cryptostegia grandiflora), Siam weed (Chromolaena odorata) and Snakeweed (Stachytarphetaspp).\n\n*DeepWeedsX is a subset of the DeepWeeds dataset, which was originally collected by Alex Olsen, and has previously been made openly accessible. We present a labeled variant with clearly defined training and test datasets. A validation dataset may be constructed for parameter optimization using a subset of the labeled training dataset.*\n\n\n### Content\n\nAll class label files consist of Comma Seperated Values (CSVs) detailing the label and species, for example: *20161207-111327-0.jpg, 0* denotes that *20161207-111327-0.jpg* belongs to class 0 (Chinee Apple).\n\nClass and species labels are as follows:\n\n0- Chinee Apple\n1- Lantana\n2- Parkinsonia\n3- Parthenium\n4- Prickly Acacia\n5- Rubber Vine\n6- Siam Weed\n7- Snake Weed\n8- Other.\n\nAll images are compressed in a single ZIP archive, and are labelled as per the class file labels.\n\n### Citation\n\nTo cite the *DeepWeedsX* dataset, kindly use the following BibTex entry:\n\n`\n@ARTICLE{8693488, \nauthor={C. {Lammie} and A. {Olsen} and T. {Carrick} and M. R. {Azghadi}}, \njournal={IEEE Access}, \ntitle={Low-Power and High-Speed Deep FPGA Inference Engines for Weed Classification at the Edge}, \nyear={2019}, \nvolume={}, \nnumber={}, \npages={1-1}, \nkeywords={Machine Learning (ML);Deep Neural Networks (DNNs);Convolutional Neural Networks (CNNs);Binarized Neural Networks (BNNs);Internet of Things (IoT);Field Programmable Gate Arrays (FPGAs);High-level Synthesis (HLS);Weed Classification}, \ndoi={10.1109/ACCESS.2019.2911709}, \nISSN={2169-3536}, \nmonth={},}\n`\n\n### Acknowledgements\n\nAll original data collection was funded by the Australian Government Department of Agriculture and Water Resources Control Tools and Technologies for Established Pest Animals and Weeds Programme (Grant No. 4-53KULEI).",
+  "datasetId": 168282,
+  "datasetSlug": "deepweedsx",
+  "hasDatasetSlug": true,
+  "ownerUser": "coreylammie",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 14448,
+  "totalVotes": 37,
+  "totalDownloads": 1272,
+  "title": "DeepWeedsX",
+  "hasTitle": true,
+  "subtitle": "A large weed species image dataset collected across northern Australia.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe *DeepWeedsX* dataset consists of 17,508 unique 256x256 colour images in 9 classes. There are 15,007 training images and 2,501 test images. These images were collected in situ from eight rangeland environments across northern Australia.\n\nLiaison with land care groups and property owners across northern Australia led to the selection of eight target weed species\nfor the the collection of a large weed species image dataset; Chinee Apple (Ziziphus mauritiana), Lantana, Parkinsonia (Parkinsonia aculeata), Parthenium (Parthenium hysterophorus), Prickly Acacia (Vachellianilotica), Rubber vine (Cryptostegia grandiflora), Siam weed (Chromolaena odorata) and Snakeweed (Stachytarphetaspp).\n\n*DeepWeedsX is a subset of the DeepWeeds dataset, which was originally collected by Alex Olsen, and has previously been made openly accessible. We present a labeled variant with clearly defined training and test datasets. A validation dataset may be constructed for parameter optimization using a subset of the labeled training dataset.*\n\n\n### Content\n\nAll class label files consist of Comma Seperated Values (CSVs) detailing the label and species, for example: *20161207-111327-0.jpg, 0* denotes that *20161207-111327-0.jpg* belongs to class 0 (Chinee Apple).\n\nClass and species labels are as follows:\n\n0- Chinee Apple\n1- Lantana\n2- Parkinsonia\n3- Parthenium\n4- Prickly Acacia\n5- Rubber Vine\n6- Siam Weed\n7- Snake Weed\n8- Other.\n\nAll images are compressed in a single ZIP archive, and are labelled as per the class file labels.\n\n### Citation\n\nTo cite the *DeepWeedsX* dataset, kindly use the following BibTex entry:\n\n`\n@ARTICLE{8693488, \nauthor={C. {Lammie} and A. {Olsen} and T. {Carrick} and M. R. {Azghadi}}, \njournal={IEEE Access}, \ntitle={Low-Power and High-Speed Deep FPGA Inference Engines for Weed Classification at the Edge}, \nyear={2019}, \nvolume={}, \nnumber={}, \npages={1-1}, \nkeywords={Machine Learning (ML);Deep Neural Networks (DNNs);Convolutional Neural Networks (CNNs);Binarized Neural Networks (BNNs);Internet of Things (IoT);Field Programmable Gate Arrays (FPGAs);High-level Synthesis (HLS);Weed Classification}, \ndoi={10.1109/ACCESS.2019.2911709}, \nISSN={2169-3536}, \nmonth={},}\n`\n\n### Acknowledgements\n\nAll original data collection was funded by the Australian Government Department of Agriculture and Water Resources Control Tools and Technologies for Established Pest Animals and Weeds Programme (Grant No. 4-53KULEI).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "biology",
+    "agriculture",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

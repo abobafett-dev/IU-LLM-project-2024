@@ -1,0 +1,41 @@
+{
+  "id": "shubham2703/five-crop-diseases-dataset",
+  "id_no": 3771148,
+  "datasetSlugNullable": "five-crop-diseases-dataset",
+  "ownerUserNullable": "shubham2703",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Five Crop Diseases Dataset",
+  "subtitleNullable": "Understanding Crop Ailments: Insights from Five Common Diseases Dataset",
+  "descriptionNullable": "Total number of classes = 17\nTotal number of images = 13,324 \n\nClass Labels: Corn___Common_Rust, Corn___Gray_Leaf_Spot, Corn___Healthy, Corn___Northern_Leaf_Blight, Potato___Early_Blight, Potato___Healthy, Potato___Late_Blight, Rice___Brown_Spot, Rice___Healthy, Rice___Leaf_Blast, Rice___Neck_Blast, Wheat___Brown_Rust, Wheat___Healthy, Wheat___Yellow_Rust , Sugarcane__Red_Rot , Sugarcane__Healthy , Sugarcane__Bacterial Blight.\n\nCorn Plant Species:\n\n1. Common Rust (1192 images)\n2. Gray Leaf Spot (513 images)\n3. Healthy (1162 images)\n4. Northern Leaf Blight (985 images)\n\nTotal images: 3852 images    \n52,229,657 bytes\nAll the images of the Corn species has been collected from the PlantVillage dataset [1]. PlantVillage is a standard and most popular leaf image dataset for plant disease detection.\n\nPotato Plant Species:\n\n1. Early Blight (1000 images)\n2. Healthy (152 images)\n3. Late Blight (1000 images)\n\nTotal images: 2152 images    \n39,441,201 bytes\nAll the images of the Potato species has been collected from the PlantVillage dataset [1].\n\nRice Plant Species:\n\n1. Brown Spot (613 images)\n2. Healthy (1488 images)\n3. Leaf Blast (977 images)\n4. Neck Blast (1000 images)\n\nTotal images: 4078 images\n2,105,364,423 bytes\n\nRice images were collected from the datasets:\n1. Dhan-Shomadhan: A Dataset of Rice Leaf Disease Classification for Bangladeshi Local Rice [2]. \nThe images from the Leaf background images of the classes Brown Spot and Rice Blast was added to the classes Rice___Brown_Spot and Rice___Leaf_Blast to increase the number of training samples. This dataset has the license CC BY 4.0 [3]. The images were not changed or edited.\n2. \"Rice Leafs\" dataset from Kaggle [4]. \nThe images of this dataset was added to the classes Rice___Brown_Spot, Rice___Healthy, and Rice___Leaf_Blast.\n\nWheat Plant Species:\n\n1. Brown Rust (902 images)\n2. Healthy (1116 images)\n3. Yellow Rust (924 images)\n\nTotal images: 2942 images\n405,695,274 bytes\n\nWheat images were collected from the datasets:\n\"Wheat Disease Detection\" dataset from Kaggle [5].\n\nSugarCane Plant Species:\n\n1. Red Rot (100 images)\n2. Healthy (100 images)\n3. Bacterial Blight (100 images)\n\nTotal images: 300 images\n2,18,41,29,319 bytes\n\nSugarCane Images were collected from the datasets:\n\"Sugarcane Disease Dataset\" dataset from kaggle [6].",
+  "datasetId": 3771148,
+  "datasetSlug": "five-crop-diseases-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shubham2703",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 2270,
+  "totalVotes": 11,
+  "totalDownloads": 297,
+  "title": "Five Crop Diseases Dataset",
+  "hasTitle": true,
+  "subtitle": "Understanding Crop Ailments: Insights from Five Common Diseases Dataset",
+  "hasSubtitle": true,
+  "description": "Total number of classes = 17\nTotal number of images = 13,324 \n\nClass Labels: Corn___Common_Rust, Corn___Gray_Leaf_Spot, Corn___Healthy, Corn___Northern_Leaf_Blight, Potato___Early_Blight, Potato___Healthy, Potato___Late_Blight, Rice___Brown_Spot, Rice___Healthy, Rice___Leaf_Blast, Rice___Neck_Blast, Wheat___Brown_Rust, Wheat___Healthy, Wheat___Yellow_Rust , Sugarcane__Red_Rot , Sugarcane__Healthy , Sugarcane__Bacterial Blight.\n\nCorn Plant Species:\n\n1. Common Rust (1192 images)\n2. Gray Leaf Spot (513 images)\n3. Healthy (1162 images)\n4. Northern Leaf Blight (985 images)\n\nTotal images: 3852 images    \n52,229,657 bytes\nAll the images of the Corn species has been collected from the PlantVillage dataset [1]. PlantVillage is a standard and most popular leaf image dataset for plant disease detection.\n\nPotato Plant Species:\n\n1. Early Blight (1000 images)\n2. Healthy (152 images)\n3. Late Blight (1000 images)\n\nTotal images: 2152 images    \n39,441,201 bytes\nAll the images of the Potato species has been collected from the PlantVillage dataset [1].\n\nRice Plant Species:\n\n1. Brown Spot (613 images)\n2. Healthy (1488 images)\n3. Leaf Blast (977 images)\n4. Neck Blast (1000 images)\n\nTotal images: 4078 images\n2,105,364,423 bytes\n\nRice images were collected from the datasets:\n1. Dhan-Shomadhan: A Dataset of Rice Leaf Disease Classification for Bangladeshi Local Rice [2]. \nThe images from the Leaf background images of the classes Brown Spot and Rice Blast was added to the classes Rice___Brown_Spot and Rice___Leaf_Blast to increase the number of training samples. This dataset has the license CC BY 4.0 [3]. The images were not changed or edited.\n2. \"Rice Leafs\" dataset from Kaggle [4]. \nThe images of this dataset was added to the classes Rice___Brown_Spot, Rice___Healthy, and Rice___Leaf_Blast.\n\nWheat Plant Species:\n\n1. Brown Rust (902 images)\n2. Healthy (1116 images)\n3. Yellow Rust (924 images)\n\nTotal images: 2942 images\n405,695,274 bytes\n\nWheat images were collected from the datasets:\n\"Wheat Disease Detection\" dataset from Kaggle [5].\n\nSugarCane Plant Species:\n\n1. Red Rot (100 images)\n2. Healthy (100 images)\n3. Bacterial Blight (100 images)\n\nTotal images: 300 images\n2,18,41,29,319 bytes\n\nSugarCane Images were collected from the datasets:\n\"Sugarcane Disease Dataset\" dataset from kaggle [6].",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "plants",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

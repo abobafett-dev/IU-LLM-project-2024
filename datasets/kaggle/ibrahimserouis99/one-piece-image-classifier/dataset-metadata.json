@@ -1,0 +1,44 @@
+{
+  "id": "ibrahimserouis99/one-piece-image-classifier",
+  "id_no": 1602386,
+  "datasetSlugNullable": "one-piece-image-classifier",
+  "ownerUserNullable": "ibrahimserouis99",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "One Piece image classifier",
+  "subtitleNullable": "A dataset containing manually selected images of some One Piece characters.",
+  "descriptionNullable": "## Goal \n\nAfter designing an image classification model, the next step is to create a One Piece character detector to which this classifier will be applied.\n\n## Data collection \n- Sources : Google search, Bing search \n\n## Contents info\n\n- Contains some transformed images, using various techniques \n- Some images have been manually cropped to remove unnecessary noise\n\nThe folders contain approximately 650 images of : Luffy, Zoro, Sanji, Nami, Franky, Brook, Chopper, Usopp, Jinbei, Robin, Ace, Law, Shanks, Kurohige, Mihawk, Rayleigh. \n\n**I do not own these images.**\n\n## Acknowledgements \n- ImageMagick tool :  which helped me correct some png profiles \n- EdiKer : which helped me augment a part of the data",
+  "datasetId": 1602386,
+  "datasetSlug": "one-piece-image-classifier",
+  "hasDatasetSlug": true,
+  "ownerUser": "ibrahimserouis99",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 18733,
+  "totalVotes": 47,
+  "totalDownloads": 1722,
+  "title": "One Piece image classifier",
+  "hasTitle": true,
+  "subtitle": "A dataset containing manually selected images of some One Piece characters.",
+  "hasSubtitle": true,
+  "description": "## Goal \n\nAfter designing an image classification model, the next step is to create a One Piece character detector to which this classifier will be applied.\n\n## Data collection \n- Sources : Google search, Bing search \n\n## Contents info\n\n- Contains some transformed images, using various techniques \n- Some images have been manually cropped to remove unnecessary noise\n\nThe folders contain approximately 650 images of : Luffy, Zoro, Sanji, Nami, Franky, Brook, Chopper, Usopp, Jinbei, Robin, Ace, Law, Shanks, Kurohige, Mihawk, Rayleigh. \n\n**I do not own these images.**\n\n## Acknowledgements \n- ImageMagick tool :  which helped me correct some png profiles \n- EdiKer : which helped me augment a part of the data",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "beginner",
+    "computer vision",
+    "classification",
+    "image",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

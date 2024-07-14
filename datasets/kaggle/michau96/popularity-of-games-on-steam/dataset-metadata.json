@@ -1,0 +1,43 @@
+{
+  "id": "michau96/popularity-of-games-on-steam",
+  "id_no": 1148331,
+  "datasetSlugNullable": "popularity-of-games-on-steam",
+  "ownerUserNullable": "michau96",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Popularity of games on Steam ",
+  "subtitleNullable": "1200+ games popularity since the game was released on Steam",
+  "descriptionNullable": "### Context\n\nSteam, one of the world's largest digital distribution platforms and multiplayer game system and social networking site created by Valve Corporation, is a place of leisure for millions of people around the world. I invite you to familiarize yourself with the database on the number of players in time in individual games.\n\n### Content\n\nThe data includes information on approximately 1200 games on Steam, and the time of the collected data depends on the time of the game's release on Steam. One line represents data (such as average, peak, and month-to-month difference in average) for one game. So the database has a \"long\" format.\n\nThe data was downloaded from the [steamcharts](https://steamcharts.com/) website using webscraping. The R language was used for this purpose, especially the \"rvesrt\" package and a Chrome add-on called \"SelectorGadet\". The page creator in the robots.txt document didn't specify information that he didn't want to download. The database can be updated once a month, when data about it appear in the database after the end of the month and the number of rows grows.\n\n### Inspiration\n\nThe data can be a great addition to previously published Steam databases, which are quite popular. It can also be used to compare different games over time. Anyway, only your imagination and common sense limit what you can do with any database!",
+  "datasetId": 1148331,
+  "datasetSlug": "popularity-of-games-on-steam",
+  "hasDatasetSlug": true,
+  "ownerUser": "michau96",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 23185,
+  "totalVotes": 58,
+  "totalDownloads": 2138,
+  "title": "Popularity of games on Steam ",
+  "hasTitle": true,
+  "subtitle": "1200+ games popularity since the game was released on Steam",
+  "hasSubtitle": true,
+  "description": "### Context\n\nSteam, one of the world's largest digital distribution platforms and multiplayer game system and social networking site created by Valve Corporation, is a place of leisure for millions of people around the world. I invite you to familiarize yourself with the database on the number of players in time in individual games.\n\n### Content\n\nThe data includes information on approximately 1200 games on Steam, and the time of the collected data depends on the time of the game's release on Steam. One line represents data (such as average, peak, and month-to-month difference in average) for one game. So the database has a \"long\" format.\n\nThe data was downloaded from the [steamcharts](https://steamcharts.com/) website using webscraping. The R language was used for this purpose, especially the \"rvesrt\" package and a Chrome add-on called \"SelectorGadet\". The page creator in the robots.txt document didn't specify information that he didn't want to download. The database can be updated once a month, when data about it appear in the database after the end of the month and the number of rows grows.\n\n### Inspiration\n\nThe data can be a great addition to previously published Steam databases, which are quite popular. It can also be used to compare different games over time. Anyway, only your imagination and common sense limit what you can do with any database!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "games",
+    "video games",
+    "time series analysis",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

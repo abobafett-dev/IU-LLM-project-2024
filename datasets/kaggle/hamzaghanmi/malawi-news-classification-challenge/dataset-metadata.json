@@ -1,0 +1,40 @@
+{
+  "id": "hamzaghanmi/malawi-news-classification-challenge",
+  "id_no": 1116813,
+  "datasetSlugNullable": "malawi-news-classification-challenge",
+  "ownerUserNullable": "hamzaghanmi",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Malawi News Classification Challenge",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\nThe data was collected from news publications in Malawi. tNyasa Ltd Data Science Lab have used three main broadcasters: the Nation Online newspaper, Radio Maria and the Malawi Broadcasting Corporation. The articles presented in the dataset are full articles and span many different genres: from social issues, family and relationships to political or economic issues\n\n\n### Content\nTrain.csv - contains the target. This is the dataset that you will use to train your model.\nTest.csv- resembles Train.csv but without the target-related columns. This is the dataset on which you will apply your mode.\nSampleSubmission.csv - shows the submission format for this competition, with the \u2018ID\u2019 column mirroring that of Test.csv. The order of the rows does not matter, but the names of the IDs must be correct\nList of classes: ['SOCIAL ISSUES', 'EDUCATION', 'RELATIONSHIPS', 'ECONOMY', 'RELIGION', 'POLITICS', 'LAW/ORDER', 'SOCIAL', 'HEALTH', 'ARTS AND CRAFTS', 'FARMING', 'CULTURE', 'FLOODING', 'WITCHCRAFT', 'MUSIC', 'TRANSPORT', 'WILDLIFE/ENVIRONMENT', 'LOCALCHIEFS', 'SPORTS', 'OPINION/ESSAY']\n\n### Inspiration\n\nYour task is to classify the news articles into one of 19 classes. The classes are mutually exclusive.",
+  "datasetId": 1116813,
+  "datasetSlug": "malawi-news-classification-challenge",
+  "hasDatasetSlug": true,
+  "ownerUser": "hamzaghanmi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 2397,
+  "totalVotes": 10,
+  "totalDownloads": 58,
+  "title": "Malawi News Classification Challenge",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\nThe data was collected from news publications in Malawi. tNyasa Ltd Data Science Lab have used three main broadcasters: the Nation Online newspaper, Radio Maria and the Malawi Broadcasting Corporation. The articles presented in the dataset are full articles and span many different genres: from social issues, family and relationships to political or economic issues\n\n\n### Content\nTrain.csv - contains the target. This is the dataset that you will use to train your model.\nTest.csv- resembles Train.csv but without the target-related columns. This is the dataset on which you will apply your mode.\nSampleSubmission.csv - shows the submission format for this competition, with the \u2018ID\u2019 column mirroring that of Test.csv. The order of the rows does not matter, but the names of the IDs must be correct\nList of classes: ['SOCIAL ISSUES', 'EDUCATION', 'RELATIONSHIPS', 'ECONOMY', 'RELIGION', 'POLITICS', 'LAW/ORDER', 'SOCIAL', 'HEALTH', 'ARTS AND CRAFTS', 'FARMING', 'CULTURE', 'FLOODING', 'WITCHCRAFT', 'MUSIC', 'TRANSPORT', 'WILDLIFE/ENVIRONMENT', 'LOCALCHIEFS', 'SPORTS', 'OPINION/ESSAY']\n\n### Inspiration\n\nYour task is to classify the news articles into one of 19 classes. The classes are mutually exclusive.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

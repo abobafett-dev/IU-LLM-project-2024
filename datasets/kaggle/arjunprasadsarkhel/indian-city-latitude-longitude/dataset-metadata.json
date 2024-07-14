@@ -1,0 +1,43 @@
+{
+  "id": "arjunprasadsarkhel/indian-city-latitude-longitude",
+  "id_no": 1469717,
+  "datasetSlugNullable": "indian-city-latitude-longitude",
+  "ownerUserNullable": "arjunprasadsarkhel",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Indian City Latitude & Longitude Coordinates",
+  "subtitleNullable": "Contains the latitude, longitude of Major Indian Cities(can be used geopandas)",
+  "descriptionNullable": "### Context\n\nI was looking for a dataset that will help me to map all the Major Indian Cities using Geopandas but I couldn't find non. This dataset help me to achieve what I was looking for.\nThis data can be used for choropleth map, foilage map using Geopandas. There was only state value(lat & long), which I found in existing datasets. So I found this dataset.\n\n\n### Content\n\nThis contains all the Major Cities and their respective Latitude and Longitude Values along with the rounded-off population and the exact population\n\n\n### Acknowledgements\n\nThanks to Simple Maps for making all this data available in one place, you can find the original dataset here:- https://simplemaps.com/data/in-cities\n\n\n### Inspiration\n\nYou can use this dataset for plotting various features about the Major Indian Cities with the help of Geopandas. ",
+  "datasetId": 1469717,
+  "datasetSlug": "indian-city-latitude-longitude",
+  "hasDatasetSlug": true,
+  "ownerUser": "arjunprasadsarkhel",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12633,
+  "totalVotes": 17,
+  "totalDownloads": 1516,
+  "title": "Indian City Latitude & Longitude Coordinates",
+  "hasTitle": true,
+  "subtitle": "Contains the latitude, longitude of Major Indian Cities(can be used geopandas)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI was looking for a dataset that will help me to map all the Major Indian Cities using Geopandas but I couldn't find non. This dataset help me to achieve what I was looking for.\nThis data can be used for choropleth map, foilage map using Geopandas. There was only state value(lat & long), which I found in existing datasets. So I found this dataset.\n\n\n### Content\n\nThis contains all the Major Cities and their respective Latitude and Longitude Values along with the rounded-off population and the exact population\n\n\n### Acknowledgements\n\nThanks to Simple Maps for making all this data available in one place, you can find the original dataset here:- https://simplemaps.com/data/in-cities\n\n\n### Inspiration\n\nYou can use this dataset for plotting various features about the Major Indian Cities with the help of Geopandas. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "geospatial analysis",
+    "time series analysis",
+    "data analytics",
+    "plotly"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

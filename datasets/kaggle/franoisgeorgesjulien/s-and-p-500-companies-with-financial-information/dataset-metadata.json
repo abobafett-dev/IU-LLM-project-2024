@@ -1,0 +1,40 @@
+{
+  "id": "franoisgeorgesjulien/s-and-p-500-companies-with-financial-information",
+  "id_no": 3901863,
+  "datasetSlugNullable": "s-and-p-500-companies-with-financial-information",
+  "ownerUserNullable": "franoisgeorgesjulien",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "S&P 500 Companies with Financial Information",
+  "subtitleNullable": "S&P500 Complete Financial Data",
+  "descriptionNullable": "This dataset provides comprehensive financial information for companies listed in the S&P 500 index. The dataset encompasses a range of fundamental financial metrics and attributes, making it a valuable resource for financial analysis, investment research, and market insights.\n\n### **Features:**\n<br>\n**Symbol:** The unique stock symbol or ticker identifier for each S&P 500 company.\n\n**Name:** The official name or full corporate title of each company.\n\n**Sector:** The sector to which the company belongs, categorizing it into specific industry groups within the S&P 500.\n\n**Price:** The current trading price of the company's stock.\n\n**Price/Earnings**: The price-to-earnings (P/E) ratio, a key valuation metric, indicating the relationship between the stock's price and its earnings per share.\n\n**Dividend Yield:** The dividend yield, representing the ratio of the annual dividend payment to the stock's current price.\n\n\n**Earnings/Share:** The earnings per share (EPS), a measure of a company's profitability, calculated as earnings divided by the number of outstanding shares.\n\n**52 Week Low:** The lowest price at which the stock has traded over the past 52 weeks.\n\n**52 Week High:** The highest price at which the stock has traded over the past 52 weeks.\n\n**Market Cap:** The total market capitalization of the company, representing the product of the stock's current price and the total number of outstanding shares.\n\n**EBITDA:** Earnings before interest, taxes, depreciation, and amortization, a measure of a company's operating performance.\n\n**Price/Sales:** The price-to-sales ratio, which compares the stock's price to the company's revenue per share.\n\n**Price/Book:** The price-to-book (P/B) ratio, comparing the stock's price to its book value per share, an indicator of the stock's relative value.\n\n**SEC Filings:** Information regarding the company's filings with the U.S. Securities and Exchange Commission (SEC), providing transparency and compliance data.",
+  "datasetId": 3901863,
+  "datasetSlug": "s-and-p-500-companies-with-financial-information",
+  "hasDatasetSlug": true,
+  "ownerUser": "franoisgeorgesjulien",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4745,
+  "totalVotes": 34,
+  "totalDownloads": 937,
+  "title": "S&P 500 Companies with Financial Information",
+  "hasTitle": true,
+  "subtitle": "S&P500 Complete Financial Data",
+  "hasSubtitle": true,
+  "description": "This dataset provides comprehensive financial information for companies listed in the S&P 500 index. The dataset encompasses a range of fundamental financial metrics and attributes, making it a valuable resource for financial analysis, investment research, and market insights.\n\n### **Features:**\n<br>\n**Symbol:** The unique stock symbol or ticker identifier for each S&P 500 company.\n\n**Name:** The official name or full corporate title of each company.\n\n**Sector:** The sector to which the company belongs, categorizing it into specific industry groups within the S&P 500.\n\n**Price:** The current trading price of the company's stock.\n\n**Price/Earnings**: The price-to-earnings (P/E) ratio, a key valuation metric, indicating the relationship between the stock's price and its earnings per share.\n\n**Dividend Yield:** The dividend yield, representing the ratio of the annual dividend payment to the stock's current price.\n\n\n**Earnings/Share:** The earnings per share (EPS), a measure of a company's profitability, calculated as earnings divided by the number of outstanding shares.\n\n**52 Week Low:** The lowest price at which the stock has traded over the past 52 weeks.\n\n**52 Week High:** The highest price at which the stock has traded over the past 52 weeks.\n\n**Market Cap:** The total market capitalization of the company, representing the product of the stock's current price and the total number of outstanding shares.\n\n**EBITDA:** Earnings before interest, taxes, depreciation, and amortization, a measure of a company's operating performance.\n\n**Price/Sales:** The price-to-sales ratio, which compares the stock's price to the company's revenue per share.\n\n**Price/Book:** The price-to-book (P/B) ratio, comparing the stock's price to its book value per share, an indicator of the stock's relative value.\n\n**SEC Filings:** Information regarding the company's filings with the U.S. Securities and Exchange Commission (SEC), providing transparency and compliance data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

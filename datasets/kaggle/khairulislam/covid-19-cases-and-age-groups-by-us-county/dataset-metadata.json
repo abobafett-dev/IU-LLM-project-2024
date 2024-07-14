@@ -1,0 +1,44 @@
+{
+  "id": "khairulislam/covid-19-cases-and-age-groups-by-us-county",
+  "id_no": 3154230,
+  "datasetSlugNullable": "covid-19-cases-and-age-groups-by-us-county",
+  "ownerUserNullable": "khairulislam",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "COVID-19 Cases and age groups by US county",
+  "subtitleNullable": "Timeseries data for sensitivity analysis of different age groups at county level",
+  "descriptionNullable": "This study aimed to identify the most influential age groups in COVID-19 infection rates at the US county level using the Modified Morris Method and deep learning for time series. The approach involved training the state-of-the-art time-series model Temporal Fusion Transformer on different age groups as a static feature and the population vaccination status as the dynamic feature. The impact of those age groups was analyzed on COVID-19 infection rates by perturbing individual input features and ranked them based on their Morris sensitivity scores, which quantify their contribution to COVID-19 transmission rates. The data contains the population by age subgroups for each of the 3,142 US counties, along with the daily vaccination rate of the population and COVID-19 case report from March 1, 2020, to Dec 27, 2021. The eight age subgroups are 0-4, 5-17, 18-29, 30-39, 40-49, 50-64, 65-74, and 75 and older for all counties.\n\n## Features\n\nThe following table lists the features with their source and description. Note that, past values of the target and known futures are also used as observed inputs by TFT.\n\n<div>\n<table>\n<caption> <h2>Details of Features </h2> </caption>\n<thead>\n<tr>\n<th>Feature</th>\n<th>Type</th>\n<th>Update Frequency</th>\n<th>Description</th>\n<th>Source(s)</th>\n</tr>\n\n</thead>\n\n<tbody>\n\n<tr>\n<td><strong>Age Groups</strong> <br>( UNDER5, AGE517, AGE1829, AGE3039, AGE4049, AGE5064, AGE6574, AGE75PLUS )</td>\n<td>Static</td>\n<td>Once</td>\n<td>Percent of population in each age group.</td>\n<td></td>\n</tr>\n\n<tr>\n<td><strong>Vaccination Full Dose</strong> <br>(Series_Complete_Pop_Pct)</td>\n<td>Observed</td>\n<td>Daily</td>\n<td> Percent of people who are fully vaccinated (have a second dose of a two-dose vaccine or one dose of a single-dose vaccine) based on the jurisdiction and county where the recipient lives.</td>\n<td></td>\n</tr>\n\n<tr>\n<td><strong>SinWeekly</strong></td>\n<td>Known Future</td>\n<td>Daily</td>\n<td> <em>Sin (day of the week / 7) </em>.</td>\n<td>Date</td>\n</tr>\n\n<tr>\n<td><strong>Case</strong></td>\n<td>Target</td>\n<td>Daily</td>\n<td> COVID-19 infection at county level.</td>\n<td></td>\n</tr>\n\n</tbody>\n</table>\n\n</div>",
+  "datasetId": 3154230,
+  "datasetSlug": "covid-19-cases-and-age-groups-by-us-county",
+  "hasDatasetSlug": true,
+  "ownerUser": "khairulislam",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 657,
+  "totalVotes": 1,
+  "totalDownloads": 122,
+  "title": "COVID-19 Cases and age groups by US county",
+  "hasTitle": true,
+  "subtitle": "Timeseries data for sensitivity analysis of different age groups at county level",
+  "hasSubtitle": true,
+  "description": "This study aimed to identify the most influential age groups in COVID-19 infection rates at the US county level using the Modified Morris Method and deep learning for time series. The approach involved training the state-of-the-art time-series model Temporal Fusion Transformer on different age groups as a static feature and the population vaccination status as the dynamic feature. The impact of those age groups was analyzed on COVID-19 infection rates by perturbing individual input features and ranked them based on their Morris sensitivity scores, which quantify their contribution to COVID-19 transmission rates. The data contains the population by age subgroups for each of the 3,142 US counties, along with the daily vaccination rate of the population and COVID-19 case report from March 1, 2020, to Dec 27, 2021. The eight age subgroups are 0-4, 5-17, 18-29, 30-39, 40-49, 50-64, 65-74, and 75 and older for all counties.\n\n## Features\n\nThe following table lists the features with their source and description. Note that, past values of the target and known futures are also used as observed inputs by TFT.\n\n<div>\n<table>\n<caption> <h2>Details of Features </h2> </caption>\n<thead>\n<tr>\n<th>Feature</th>\n<th>Type</th>\n<th>Update Frequency</th>\n<th>Description</th>\n<th>Source(s)</th>\n</tr>\n\n</thead>\n\n<tbody>\n\n<tr>\n<td><strong>Age Groups</strong> <br>( UNDER5, AGE517, AGE1829, AGE3039, AGE4049, AGE5064, AGE6574, AGE75PLUS )</td>\n<td>Static</td>\n<td>Once</td>\n<td>Percent of population in each age group.</td>\n<td></td>\n</tr>\n\n<tr>\n<td><strong>Vaccination Full Dose</strong> <br>(Series_Complete_Pop_Pct)</td>\n<td>Observed</td>\n<td>Daily</td>\n<td> Percent of people who are fully vaccinated (have a second dose of a two-dose vaccine or one dose of a single-dose vaccine) based on the jurisdiction and county where the recipient lives.</td>\n<td></td>\n</tr>\n\n<tr>\n<td><strong>SinWeekly</strong></td>\n<td>Known Future</td>\n<td>Daily</td>\n<td> <em>Sin (day of the week / 7) </em>.</td>\n<td>Date</td>\n</tr>\n\n<tr>\n<td><strong>Case</strong></td>\n<td>Target</td>\n<td>Daily</td>\n<td> COVID-19 infection at county level.</td>\n<td></td>\n</tr>\n\n</tbody>\n</table>\n\n</div>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "healthcare",
+    "health",
+    "time series analysis",
+    "tabular",
+    "pytorch"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

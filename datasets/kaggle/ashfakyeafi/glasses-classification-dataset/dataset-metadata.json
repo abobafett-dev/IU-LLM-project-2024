@@ -1,0 +1,44 @@
+{
+  "id": "ashfakyeafi/glasses-classification-dataset",
+  "id_no": 4150133,
+  "datasetSlugNullable": "glasses-classification-dataset",
+  "ownerUserNullable": "ashfakyeafi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Glasses Classification Dataset",
+  "subtitleNullable": "Dataset for image classification",
+  "descriptionNullable": "This dataset contains a diverse range of images featuring various types, styles, and designs of eyeglasses. Its primary objective is to serve as a comprehensive resource for training and evaluating machine learning models aimed at accurately categorizing and classifying different styles and attributes of glasses depicted in images.",
+  "datasetId": 4150133,
+  "datasetSlug": "glasses-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ashfakyeafi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5011,
+  "totalVotes": 67,
+  "totalDownloads": 699,
+  "title": "Glasses Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset for image classification",
+  "hasSubtitle": true,
+  "description": "This dataset contains a diverse range of images featuring various types, styles, and designs of eyeglasses. Its primary objective is to serve as a comprehensive resource for training and evaluating machine learning models aimed at accurately categorizing and classifying different styles and attributes of glasses depicted in images.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "deep learning",
+    "image",
+    "binary classification",
+    "eyes and vision",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

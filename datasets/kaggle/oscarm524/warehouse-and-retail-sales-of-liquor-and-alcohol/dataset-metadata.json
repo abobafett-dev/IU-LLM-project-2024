@@ -1,0 +1,42 @@
+{
+  "id": "oscarm524/warehouse-and-retail-sales-of-liquor-and-alcohol",
+  "id_no": 2759289,
+  "datasetSlugNullable": "warehouse-and-retail-sales-of-liquor-and-alcohol",
+  "ownerUserNullable": "oscarm524",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Liquor and Alcohol: Warehouse and Retail Sales",
+  "subtitleNullable": "Build a time-series/ML model to forecast liquor and alcohol sales",
+  "descriptionNullable": "This dataset contains a list of sales and movement data by item and department appended monthly from 2017 to 2020 from the Montgomery County, MD. \n\n# Data Description\n\n`YEAR:` Calendar year\n`MONTH:` month of the year\n`SUPPLIER:` supplier name\n`ITEM CODE:` item code\n`ITEM DESCRIPTION:` item description \n`ITEM TYPE:` item type\n`RETAIL SALES:` cases of product sold from DLC dispensaries \n`RETAIL TRANSFERS:` cases of product transferred to DLC dispensaries \n`WAREHOUSE SALES:` cases of product sold to MC licensees \n\n# How to Use this Data\n\nA couple of ideas of how to use this data.\n\n1. First visualize the different time series and explore any potential patterns.\n2. Build time-series/ML models to forecast sales.\n\n# Acknowledgements \n\nThis dataset is publicly available in the [data-montgomery-website](https://data.montgomerycountymd.gov/Community-Recreation/Warehouse-and-Retail-Sales/v76h-r7br)",
+  "datasetId": 2759289,
+  "datasetSlug": "warehouse-and-retail-sales-of-liquor-and-alcohol",
+  "hasDatasetSlug": true,
+  "ownerUser": "oscarm524",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 4053,
+  "totalVotes": 23,
+  "totalDownloads": 620,
+  "title": "Liquor and Alcohol: Warehouse and Retail Sales",
+  "hasTitle": true,
+  "subtitle": "Build a time-series/ML model to forecast liquor and alcohol sales",
+  "hasSubtitle": true,
+  "description": "This dataset contains a list of sales and movement data by item and department appended monthly from 2017 to 2020 from the Montgomery County, MD. \n\n# Data Description\n\n`YEAR:` Calendar year\n`MONTH:` month of the year\n`SUPPLIER:` supplier name\n`ITEM CODE:` item code\n`ITEM DESCRIPTION:` item description \n`ITEM TYPE:` item type\n`RETAIL SALES:` cases of product sold from DLC dispensaries \n`RETAIL TRANSFERS:` cases of product transferred to DLC dispensaries \n`WAREHOUSE SALES:` cases of product sold to MC licensees \n\n# How to Use this Data\n\nA couple of ideas of how to use this data.\n\n1. First visualize the different time series and explore any potential patterns.\n2. Build time-series/ML models to forecast sales.\n\n# Acknowledgements \n\nThis dataset is publicly available in the [data-montgomery-website](https://data.montgomerycountymd.gov/Community-Recreation/Warehouse-and-Retail-Sales/v76h-r7br)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "alcohol",
+    "data visualization",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

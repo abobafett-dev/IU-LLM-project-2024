@@ -1,0 +1,39 @@
+{
+  "id": "cankatsrc/event-attendance-dataset",
+  "id_no": 3059755,
+  "datasetSlugNullable": "event-attendance-dataset",
+  "ownerUserNullable": "cankatsrc",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Event Attendance Dataset",
+  "subtitleNullable": "Fictional Event Attendance Records Dataset",
+  "descriptionNullable": "Description: This dataset contains simulated event attendance records for a series of fictional events. The dataset was generated using the Python Faker library to create realistic but fake data. The dataset includes the following fields for each attendee:\n\nEvent ID: A unique identifier for each event (integer).\nEvent name: A randomly generated event name combining a catchphrase and an event type (Conference, Seminar, Workshop, or Webinar) (string).\nLocation: A randomly generated location with street address, city, state abbreviation, and zip code (string).\nDate and time: A randomly generated date and time within a range of one year in the past to one year in the future (date-time).\nAttendee name: A randomly generated full name (string).\nAttendee email: A randomly generated email address (string).\nAttendee phone number: A randomly generated phone number (string).\nPlease note that this dataset is for demonstration and testing purposes only. The data is entirely fictional and should not be used for any decision-making or analysis.",
+  "datasetId": 3059755,
+  "datasetSlug": "event-attendance-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "cankatsrc",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 751,
+  "totalVotes": 4,
+  "totalDownloads": 79,
+  "title": "Event Attendance Dataset",
+  "hasTitle": true,
+  "subtitle": "Fictional Event Attendance Records Dataset",
+  "hasSubtitle": true,
+  "description": "Description: This dataset contains simulated event attendance records for a series of fictional events. The dataset was generated using the Python Faker library to create realistic but fake data. The dataset includes the following fields for each attendee:\n\nEvent ID: A unique identifier for each event (integer).\nEvent name: A randomly generated event name combining a catchphrase and an event type (Conference, Seminar, Workshop, or Webinar) (string).\nLocation: A randomly generated location with street address, city, state abbreviation, and zip code (string).\nDate and time: A randomly generated date and time within a range of one year in the past to one year in the future (date-time).\nAttendee name: A randomly generated full name (string).\nAttendee email: A randomly generated email address (string).\nAttendee phone number: A randomly generated phone number (string).\nPlease note that this dataset is for demonstration and testing purposes only. The data is entirely fictional and should not be used for any decision-making or analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

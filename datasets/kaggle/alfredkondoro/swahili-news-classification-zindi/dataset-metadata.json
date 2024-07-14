@@ -1,0 +1,39 @@
+{
+  "id": "alfredkondoro/swahili-news-classification-zindi",
+  "id_no": 4464558,
+  "datasetSlugNullable": "swahili-news-classification-zindi",
+  "ownerUserNullable": "alfredkondoro",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Swahili News Classification - Zindi",
+  "subtitleNullable": "Can you create a classification algorithm to identify Swahili news articles by c",
+  "descriptionNullable": "**Context**\n\nThis data was imported from the zindi platform in the context of competition and [here](https://zindi.africa/competitions/swahili-news-classification/data) is the link to the competition The objective of the competition is to accurately classify each swahili news content into five specified categories.\n\n**Description**\n\nThe dataset describes 6439 rows of news from different sources in Tanzania.These news are in 5 different news categories from national news to entertainment news.\n\nYour goal is to accurately classify each swahili news content into five specified categories below:\n\nKitaifa (National)\nKimataifa (International)\nBiashara (Business)\nMichezo (Sports)\nBurudani (Entertainment)",
+  "datasetId": 4464558,
+  "datasetSlug": "swahili-news-classification-zindi",
+  "hasDatasetSlug": true,
+  "ownerUser": "alfredkondoro",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 173,
+  "totalVotes": 55,
+  "totalDownloads": 30,
+  "title": "Swahili News Classification - Zindi",
+  "hasTitle": true,
+  "subtitle": "Can you create a classification algorithm to identify Swahili news articles by c",
+  "hasSubtitle": true,
+  "description": "**Context**\n\nThis data was imported from the zindi platform in the context of competition and [here](https://zindi.africa/competitions/swahili-news-classification/data) is the link to the competition The objective of the competition is to accurately classify each swahili news content into five specified categories.\n\n**Description**\n\nThe dataset describes 6439 rows of news from different sources in Tanzania.These news are in 5 different news categories from national news to entertainment news.\n\nYour goal is to accurately classify each swahili news content into five specified categories below:\n\nKitaifa (National)\nKimataifa (International)\nBiashara (Business)\nMichezo (Sports)\nBurudani (Entertainment)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "jiteshkumarsahoo/ml-and-ds-books-on-amazon14-countries",
+  "id_no": 3973959,
+  "datasetSlugNullable": "ml-and-ds-books-on-amazon14-countries",
+  "ownerUserNullable": "jiteshkumarsahoo",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "ML and DS books on Amazon[14 countries]",
+  "subtitleNullable": "Amazon ML and DS Books Around the World: Exploring Global Bookshelf Trends",
+  "descriptionNullable": "# Amazon ML and DS books sales:\n\n## Overview\nIntroducing the \"Amazon ML and DS books sales\" dataset, a comprehensive collection of book-related data from various countries, providing a panoramic view of the world of literature and e-commerce. This dataset combines information on book titles, authors, prices, ratings, reviews, publishing dates, country origins, and even currency details. Whether you're a book enthusiast, data analyst, or researcher, this dataset offers a treasure trove of opportunities for analysis and exploration.\n\n## Columns\nThis dataset encompasses seven vital columns:\n\n1. **Title**: The title of the book (object).\n2. **Authors**: The authors of the book (object).\n3. **Price**: The listed price of the book (float64).\n4. **Stars**: The average rating given to the book (float64).\n5. **Number of Reviews**: The count of reviews for the book (float64).\n6. **Published Date**: The date when the book was published (datetime64).\n7. **Country**: The specific country where the book is listed (object).\n8. **Currency**: The currency in which the book's price is listed (object).\n\n## Data Details\nWith 8,429 records, this dataset is a substantial resource for research and analysis. It offers extensive insights into books from diverse genres and origins. Some columns may contain missing data, as indicated by the \"Non-Null Count\" for each column, allowing for valuable opportunities for data cleaning and enhancement.\n\n## Potential Use Cases\nThe \"Global Bookstore Insights\" dataset opens doors to a wide range of applications, including:\n\n- **Market Analysis**: Explore book pricing and availability trends across countries and analyze the impact of currency.\n- **Author Profiling**: Identify popular authors and their international reach.\n- **Rating Predictions**: Build models to predict book ratings and recommend reads to users.\n- **Cultural Trends**: Analyze publishing trends and literary preferences in various regions.\n\n## Data Sources\nThis dataset is the result of meticulous data collection efforts, involving book data from Amazon websites of multiple countries. It's intended to serve the purpose of research, education, and analysis.\n\n\nWe invite you to dive into this dataset, conduct your analyses, and share your discoveries with the Kaggle community. Your insights can help expand our understanding of the worldwide literary and e-commerce landscape.\n\n",
+  "datasetId": 3973959,
+  "datasetSlug": "ml-and-ds-books-on-amazon14-countries",
+  "hasDatasetSlug": true,
+  "ownerUser": "jiteshkumarsahoo",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 606,
+  "totalVotes": 13,
+  "totalDownloads": 80,
+  "title": "ML and DS books on Amazon[14 countries]",
+  "hasTitle": true,
+  "subtitle": "Amazon ML and DS Books Around the World: Exploring Global Bookshelf Trends",
+  "hasSubtitle": true,
+  "description": "# Amazon ML and DS books sales:\n\n## Overview\nIntroducing the \"Amazon ML and DS books sales\" dataset, a comprehensive collection of book-related data from various countries, providing a panoramic view of the world of literature and e-commerce. This dataset combines information on book titles, authors, prices, ratings, reviews, publishing dates, country origins, and even currency details. Whether you're a book enthusiast, data analyst, or researcher, this dataset offers a treasure trove of opportunities for analysis and exploration.\n\n## Columns\nThis dataset encompasses seven vital columns:\n\n1. **Title**: The title of the book (object).\n2. **Authors**: The authors of the book (object).\n3. **Price**: The listed price of the book (float64).\n4. **Stars**: The average rating given to the book (float64).\n5. **Number of Reviews**: The count of reviews for the book (float64).\n6. **Published Date**: The date when the book was published (datetime64).\n7. **Country**: The specific country where the book is listed (object).\n8. **Currency**: The currency in which the book's price is listed (object).\n\n## Data Details\nWith 8,429 records, this dataset is a substantial resource for research and analysis. It offers extensive insights into books from diverse genres and origins. Some columns may contain missing data, as indicated by the \"Non-Null Count\" for each column, allowing for valuable opportunities for data cleaning and enhancement.\n\n## Potential Use Cases\nThe \"Global Bookstore Insights\" dataset opens doors to a wide range of applications, including:\n\n- **Market Analysis**: Explore book pricing and availability trends across countries and analyze the impact of currency.\n- **Author Profiling**: Identify popular authors and their international reach.\n- **Rating Predictions**: Build models to predict book ratings and recommend reads to users.\n- **Cultural Trends**: Analyze publishing trends and literary preferences in various regions.\n\n## Data Sources\nThis dataset is the result of meticulous data collection efforts, involving book data from Amazon websites of multiple countries. It's intended to serve the purpose of research, education, and analysis.\n\n\nWe invite you to dive into this dataset, conduct your analyses, and share your discoveries with the Kaggle community. Your insights can help expand our understanding of the worldwide literary and e-commerce landscape.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

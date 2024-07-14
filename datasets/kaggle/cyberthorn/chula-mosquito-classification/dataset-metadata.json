@@ -1,0 +1,41 @@
+{
+  "id": "cyberthorn/chula-mosquito-classification",
+  "id_no": 3082149,
+  "datasetSlugNullable": "chula-mosquito-classification",
+  "ownerUserNullable": "cyberthorn",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "6 Species Mosquito in Thailand for Classification",
+  "subtitleNullable": "The dataset contains six species of mosquito and one miscellaneous species.",
+  "descriptionNullable": "The data availability for \"Enhancement of VGG16 medel with multi-view and spartial dropout for classification of mosquito vectors\" by parasitology department, faculty of medicine and electrical engineering, faculty of engineering,  Chulalongkorn University in Thailand. \n\nThe dataset contains six species of mosquito and one miscellaneous species. (Aedes aegypti, Aedes albopictus, Aedes venaxs, Anopheles tessellatus, Culex quinquefasciatus, Culex vishnui and miscellaneous) taken by smart phone camera. Image augmentation using Albumentations libraries.",
+  "datasetId": 3082149,
+  "datasetSlug": "chula-mosquito-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "cyberthorn",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1150,
+  "totalVotes": 5,
+  "totalDownloads": 184,
+  "title": "6 Species Mosquito in Thailand for Classification",
+  "hasTitle": true,
+  "subtitle": "The dataset contains six species of mosquito and one miscellaneous species.",
+  "hasSubtitle": true,
+  "description": "The data availability for \"Enhancement of VGG16 medel with multi-view and spartial dropout for classification of mosquito vectors\" by parasitology department, faculty of medicine and electrical engineering, faculty of engineering,  Chulalongkorn University in Thailand. \n\nThe dataset contains six species of mosquito and one miscellaneous species. (Aedes aegypti, Aedes albopictus, Aedes venaxs, Anopheles tessellatus, Culex quinquefasciatus, Culex vishnui and miscellaneous) taken by smart phone camera. Image augmentation using Albumentations libraries.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "multiclass classification",
+    "image classification",
+    "image augmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

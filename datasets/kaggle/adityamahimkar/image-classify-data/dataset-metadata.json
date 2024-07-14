@@ -1,0 +1,44 @@
+{
+  "id": "adityamahimkar/image-classify-data",
+  "id_no": 1576699,
+  "datasetSlugNullable": "image-classify-data",
+  "ownerUserNullable": "adityamahimkar",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Image Classification Data",
+  "subtitleNullable": "The dataset consists images of bicycle, boat, cat, motorbike, people, table.",
+  "descriptionNullable": "",
+  "datasetId": 1576699,
+  "datasetSlug": "image-classify-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "adityamahimkar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 4604,
+  "totalVotes": 3,
+  "totalDownloads": 188,
+  "title": "Image Classification Data",
+  "hasTitle": true,
+  "subtitle": "The dataset consists images of bicycle, boat, cat, motorbike, people, table.",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "computer vision",
+    "cnn",
+    "image",
+    "multiclass classification",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

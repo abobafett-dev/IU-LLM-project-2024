@@ -1,0 +1,41 @@
+{
+  "id": "saurabhshahane/time-series-lightening-electricity-data",
+  "id_no": 1413982,
+  "datasetSlugNullable": "time-series-lightening-electricity-data",
+  "ownerUserNullable": "saurabhshahane",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Time Series Lightening Electricity Data",
+  "subtitleNullable": "Time series electricity data for rural households using Solar Nano-grids",
+  "descriptionNullable": "### Context\n\nThis data set is time series electricity use data from rural households using off-grid energy systems in Kenya. As well as indicating lighting electricity use for a real-world use case, it can give insight into active occupancy times in the mornings and evenings. This can support estimation of load profiles for higher tiers of the Multi-tier Framework for energy access by adding in load profiles for additional appliances.\n\nTwo solar nano-grids (SONGs) were built in two rural communities in Kenya, as part of the Solar Nano-grids project (EPSRC ref: EP/L002612/1). One aspect of the SONGs were battery-charging systems, in which batteries could be charged at a central solar hub, and used in households to power lighting and mobile phone charging. For each battery the electricity use was recorded in real-time between July 2016 and November 2016 inclusive. \n\nThe data consist of separate demand (use of battery in the home for lighting) and charging (charging at the central hub) profiles in csv files, individually for each household. The data are half-hourly measurements of average power used for the household lighting system (3 3W LED bulbs with wiring and switches). There is data for 51 households, ranging in length from 3 days to 5 months. Note that the data set is solely electricity use for the household lighting system, and does not include electricity use via the USB port that was present for charging mobile phones. The households are anonymised and are numbered in order of ascending number of days of data. \n\nThe household battery packs were Li-ion with capacity 62 Wh, and the data were recorded using a FRDM K-64F mbed embedded in each. 13 post-processing steps were required to process the data gathered in raw form from the batteries into energy profiles for individual households (see reference below). These included: correcting the timestamps caused by time drift or recalibration of the RTCs, attributing batteries to the correct household, addressing logging disruptions and inconsistent logging frequencies, imposing limits on power and duration of use to remove non-representative battery use, and testing loading conditions to remove abnormal energy use. The gaps in the data and varying lengths of the data are caused by: technical challenges with the batteries, meaning that they required frequent repairing; issues with the RTC on the microcontroller being reset; difficulty in attributing data to the correct household. Between 18th July - 1st August (approx.), the charging hub was shut down and so there is a gap in all energy profiles. \n\nGraphical representations of the data for each household, and further information about the solar nano-grids project, the energy data, and the processing steps involved, can be found in Clements, A F. Data-driven approaches enabling the design of community energy systems in the Global South. DPhil Thesis. Department of Engineering Science, University of Oxford. 2019.  \n\n### Acknowledgements\n\nClements, Anna; mcculloch, malcolm (2019), \u201cTime series lighting electricity data for rural households using Solar Nano-grids in Kenya\u201d, Mendeley Data, V1, doi: 10.17632/4yv37hngp6.1\n\n",
+  "datasetId": 1413982,
+  "datasetSlug": "time-series-lightening-electricity-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "saurabhshahane",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 5183,
+  "totalVotes": 10,
+  "totalDownloads": 301,
+  "title": "Time Series Lightening Electricity Data",
+  "hasTitle": true,
+  "subtitle": "Time series electricity data for rural households using Solar Nano-grids",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data set is time series electricity use data from rural households using off-grid energy systems in Kenya. As well as indicating lighting electricity use for a real-world use case, it can give insight into active occupancy times in the mornings and evenings. This can support estimation of load profiles for higher tiers of the Multi-tier Framework for energy access by adding in load profiles for additional appliances.\n\nTwo solar nano-grids (SONGs) were built in two rural communities in Kenya, as part of the Solar Nano-grids project (EPSRC ref: EP/L002612/1). One aspect of the SONGs were battery-charging systems, in which batteries could be charged at a central solar hub, and used in households to power lighting and mobile phone charging. For each battery the electricity use was recorded in real-time between July 2016 and November 2016 inclusive. \n\nThe data consist of separate demand (use of battery in the home for lighting) and charging (charging at the central hub) profiles in csv files, individually for each household. The data are half-hourly measurements of average power used for the household lighting system (3 3W LED bulbs with wiring and switches). There is data for 51 households, ranging in length from 3 days to 5 months. Note that the data set is solely electricity use for the household lighting system, and does not include electricity use via the USB port that was present for charging mobile phones. The households are anonymised and are numbered in order of ascending number of days of data. \n\nThe household battery packs were Li-ion with capacity 62 Wh, and the data were recorded using a FRDM K-64F mbed embedded in each. 13 post-processing steps were required to process the data gathered in raw form from the batteries into energy profiles for individual households (see reference below). These included: correcting the timestamps caused by time drift or recalibration of the RTCs, attributing batteries to the correct household, addressing logging disruptions and inconsistent logging frequencies, imposing limits on power and duration of use to remove non-representative battery use, and testing loading conditions to remove abnormal energy use. The gaps in the data and varying lengths of the data are caused by: technical challenges with the batteries, meaning that they required frequent repairing; issues with the RTC on the microcontroller being reset; difficulty in attributing data to the correct household. Between 18th July - 1st August (approx.), the charging hub was shut down and so there is a gap in all energy profiles. \n\nGraphical representations of the data for each household, and further information about the solar nano-grids project, the energy data, and the processing steps involved, can be found in Clements, A F. Data-driven approaches enabling the design of community energy systems in the Global South. DPhil Thesis. Department of Engineering Science, University of Oxford. 2019.  \n\n### Acknowledgements\n\nClements, Anna; mcculloch, malcolm (2019), \u201cTime series lighting electricity data for rural households using Solar Nano-grids in Kenya\u201d, Mendeley Data, V1, doi: 10.17632/4yv37hngp6.1\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "energy",
+    "time series analysis",
+    "electricity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "omkarjc27/indian-cricketers-images",
+  "id_no": 1285662,
+  "datasetSlugNullable": "indian-cricketers-images",
+  "ownerUserNullable": "omkarjc27",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Indian Cricketer's Images",
+  "subtitleNullable": "Labelled Images of Indian Cricket Players",
+  "descriptionNullable": "### Context\n\nFew days ago I created a [Cricket Players Faces](https://www.kaggle.com/omkarjc27/cricket-players-faces) dataset and I wanted to develop an image classification model using it. But the problem was, there were some players who did not have a lot of images which resulted in low accuracy of the model. So this dataset has a lot of images of just Indian cricketer's. \n\n### Content\n\nBelow are around 600 images of 15 top Indian cricket players (who have participated in the 2019 ICC Men's Cricket World Cup). There are 30-50 images per player.\n\n### Acknowledgements\n\nI have scrapped all these images from google images using a selenium and beautiful-soup and cleaned them out, image by image. I am Sorry but I can't give credit to the owners. I am Sorry, Really Really SORRY.\n\n### Inspiration\n\nIt would be fun to find everyone's cricketer doppelganger.",
+  "datasetId": 1285662,
+  "datasetSlug": "indian-cricketers-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "omkarjc27",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 6429,
+  "totalVotes": 5,
+  "totalDownloads": 591,
+  "title": "Indian Cricketer's Images",
+  "hasTitle": true,
+  "subtitle": "Labelled Images of Indian Cricket Players",
+  "hasSubtitle": true,
+  "description": "### Context\n\nFew days ago I created a [Cricket Players Faces](https://www.kaggle.com/omkarjc27/cricket-players-faces) dataset and I wanted to develop an image classification model using it. But the problem was, there were some players who did not have a lot of images which resulted in low accuracy of the model. So this dataset has a lot of images of just Indian cricketer's. \n\n### Content\n\nBelow are around 600 images of 15 top Indian cricket players (who have participated in the 2019 ICC Men's Cricket World Cup). There are 30-50 images per player.\n\n### Acknowledgements\n\nI have scrapped all these images from google images using a selenium and beautiful-soup and cleaned them out, image by image. I am Sorry but I can't give credit to the owners. I am Sorry, Really Really SORRY.\n\n### Inspiration\n\nIt would be fun to find everyone's cricketer doppelganger.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cricket",
+    "deep learning",
+    "cnn",
+    "image",
+    "keras"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

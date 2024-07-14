@@ -1,0 +1,44 @@
+{
+  "id": "asasherwyn/behavioral-risk-factor-surveillance-system",
+  "id_no": 2899323,
+  "datasetSlugNullable": "behavioral-risk-factor-surveillance-system",
+  "ownerUserNullable": "asasherwyn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Behavioral Risk Factor Surveillance System 2011-21",
+  "subtitleNullable": "Health and wellness surveys from 400k people in the United States 2011-2021",
+  "descriptionNullable": "## Context\nThe Behavioral Risk Factor Surveillance System (BRFSS) is the Unites States\u2019s premier system of health-related telephone surveys that collect state data about U.S. residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services. Established in 1984 with 15 states, BRFSS now collects data in all 50 states as well as the District of Columbia and three U.S. territories. BRFSS completes more than 400,000 adult interviews each year, making it the largest continuously conducted health survey system in the world.\n\nBy collecting behavioral health risk data at the state and local level, BRFSS has become a powerful tool for targeting and building health promotion activities.\n\n&gt;2011 to present. BRFSS combined land line and cell phone prevalence data. BRFSS is a continuous, state-based surveillance system that collects information about modifiable risk factors for chronic diseases and other leading causes of death. Data will be updated annually as it becomes available. Detailed information on sampling methodology and quality assurance can be found on the BRFSS website (http://www.cdc.gov/brfss).\n\n## Dataset\n2,289,902 rows by 27 columns\n\nEach entry contains the number and percent of responses to a survey question for a given year and demographic category sub-group.\n\n#### Demographic categories: \n- Overall\n- Gender\n- Age Group\n- Race/Ethnicity\n- Education Attained\n- Household Income\n\n#### Question categories:\n- Alcohol Consumption\n- Cholesterol Awareness\n- Chronic Health Indicators\n- Colorectal Cancer Screening\n- Demographics\n- Fruits and Vegetables\n- Health Care Access/Coverage\n- Health Status\n- HIV-AIDS\n- Hypertension Awareness\n- Immunization\n- Injury\n- Oral Health\n- Overweight and Obesity (BMI)\n- Physical Activity\n- Prostate Cancer\n- Tobacco Use\n- Women's Health\n- E-Cigarette Use\n- Days of Poor Health\n\n\n## Source\n [Methodology](http://www.cdc.gov/brfss/factsheets/pdf/DBS_BRFSS_survey.pdf)\n[Glossary](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-H/iuq5-y9ct/data)\n[Original data source](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-P/dttw-5yxu)\nDate Created: June 4, 2015\nLast Updated: October 21, 2022\n\n**This data comes under public domain licensing. Please use it responsibly and ethically. Thank you :)**\n\n*Thumbnail image thanks to: [https://unsplash.com/photos/QsBfOwMoPNY?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink](https://unsplash.com/photos/QsBfOwMoPNY?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)*",
+  "datasetId": 2899323,
+  "datasetSlug": "behavioral-risk-factor-surveillance-system",
+  "hasDatasetSlug": true,
+  "ownerUser": "asasherwyn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3836,
+  "totalVotes": 10,
+  "totalDownloads": 463,
+  "title": "Behavioral Risk Factor Surveillance System 2011-21",
+  "hasTitle": true,
+  "subtitle": "Health and wellness surveys from 400k people in the United States 2011-2021",
+  "hasSubtitle": true,
+  "description": "## Context\nThe Behavioral Risk Factor Surveillance System (BRFSS) is the Unites States\u2019s premier system of health-related telephone surveys that collect state data about U.S. residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services. Established in 1984 with 15 states, BRFSS now collects data in all 50 states as well as the District of Columbia and three U.S. territories. BRFSS completes more than 400,000 adult interviews each year, making it the largest continuously conducted health survey system in the world.\n\nBy collecting behavioral health risk data at the state and local level, BRFSS has become a powerful tool for targeting and building health promotion activities.\n\n&gt;2011 to present. BRFSS combined land line and cell phone prevalence data. BRFSS is a continuous, state-based surveillance system that collects information about modifiable risk factors for chronic diseases and other leading causes of death. Data will be updated annually as it becomes available. Detailed information on sampling methodology and quality assurance can be found on the BRFSS website (http://www.cdc.gov/brfss).\n\n## Dataset\n2,289,902 rows by 27 columns\n\nEach entry contains the number and percent of responses to a survey question for a given year and demographic category sub-group.\n\n#### Demographic categories: \n- Overall\n- Gender\n- Age Group\n- Race/Ethnicity\n- Education Attained\n- Household Income\n\n#### Question categories:\n- Alcohol Consumption\n- Cholesterol Awareness\n- Chronic Health Indicators\n- Colorectal Cancer Screening\n- Demographics\n- Fruits and Vegetables\n- Health Care Access/Coverage\n- Health Status\n- HIV-AIDS\n- Hypertension Awareness\n- Immunization\n- Injury\n- Oral Health\n- Overweight and Obesity (BMI)\n- Physical Activity\n- Prostate Cancer\n- Tobacco Use\n- Women's Health\n- E-Cigarette Use\n- Days of Poor Health\n\n\n## Source\n [Methodology](http://www.cdc.gov/brfss/factsheets/pdf/DBS_BRFSS_survey.pdf)\n[Glossary](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-H/iuq5-y9ct/data)\n[Original data source](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-P/dttw-5yxu)\nDate Created: June 4, 2015\nLast Updated: October 21, 2022\n\n**This data comes under public domain licensing. Please use it responsibly and ethically. Thank you :)**\n\n*Thumbnail image thanks to: [https://unsplash.com/photos/QsBfOwMoPNY?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink](https://unsplash.com/photos/QsBfOwMoPNY?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "nutrition",
+    "health",
+    "diabetes",
+    "heart conditions",
+    "public safety"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

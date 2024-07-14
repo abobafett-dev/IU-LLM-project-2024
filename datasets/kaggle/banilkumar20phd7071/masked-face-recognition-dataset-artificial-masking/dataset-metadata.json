@@ -1,0 +1,37 @@
+{
+  "id": "banilkumar20phd7071/masked-face-recognition-dataset-artificial-masking",
+  "id_no": 3786362,
+  "datasetSlugNullable": "masked-face-recognition-dataset-artificial-masking",
+  "ownerUserNullable": "banilkumar20phd7071",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "3,340 images are Artificially Masked",
+  "subtitleNullable": "3,340 images are Artificially Masked for Masked Face Classification, Recognition",
+  "descriptionNullable": "In our research work, augmentation methods such as \"Artificial masking, 180-degree horizontal flipping, and color augmentation\" are used. The original image dataset was created by ''Rajesh Kumar\" and is accessible on Kaggle, which includes people belonging to 100 different classes without face masks and augmentation. In our study work, ten (10) classes were chosen at random from a total of 100 classes as mentioned above. The original 1,297 images of the 10 classes are increased to 3,340 images using augmentation methods and artificially masking people's faces with masks and then used in our study work for training and performance evaluation. Artificial face masking is important in the areas of computer vision and facial recognition because it addresses privacy, security, and research challenges. It is used to protect people's privacy in images, providing identity in applications such as surveillance and social media sharing. It also improves security by masking facial features to prevent unauthorized entry. In research, artificial masking broadens datasets while maintaining privacy, allowing for the development and evaluation of facial recognition techniques with real-world significance. High-quality datasets are critical for training models, evaluating performance, preventing bias, and guaranteeing algorithm generalization, all of which contribute considerably to the progress and ethical deployment of face recognition technology.",
+  "datasetId": 3786362,
+  "datasetSlug": "masked-face-recognition-dataset-artificial-masking",
+  "hasDatasetSlug": true,
+  "ownerUser": "banilkumar20phd7071",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 636,
+  "totalVotes": 68,
+  "totalDownloads": 128,
+  "title": "3,340 images are Artificially Masked",
+  "hasTitle": true,
+  "subtitle": "3,340 images are Artificially Masked for Masked Face Classification, Recognition",
+  "hasSubtitle": true,
+  "description": "In our research work, augmentation methods such as \"Artificial masking, 180-degree horizontal flipping, and color augmentation\" are used. The original image dataset was created by ''Rajesh Kumar\" and is accessible on Kaggle, which includes people belonging to 100 different classes without face masks and augmentation. In our study work, ten (10) classes were chosen at random from a total of 100 classes as mentioned above. The original 1,297 images of the 10 classes are increased to 3,340 images using augmentation methods and artificially masking people's faces with masks and then used in our study work for training and performance evaluation. Artificial face masking is important in the areas of computer vision and facial recognition because it addresses privacy, security, and research challenges. It is used to protect people's privacy in images, providing identity in applications such as surveillance and social media sharing. It also improves security by masking facial features to prevent unauthorized entry. In research, artificial masking broadens datasets while maintaining privacy, allowing for the development and evaluation of facial recognition techniques with real-world significance. High-quality datasets are critical for training models, evaluating performance, preventing bias, and guaranteeing algorithm generalization, all of which contribute considerably to the progress and ethical deployment of face recognition technology.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

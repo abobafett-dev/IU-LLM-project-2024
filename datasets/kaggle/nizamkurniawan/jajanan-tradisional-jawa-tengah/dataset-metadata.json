@@ -1,0 +1,43 @@
+{
+  "id": "nizamkurniawan/jajanan-tradisional-jawa-tengah",
+  "id_no": 2516107,
+  "datasetSlugNullable": "jajanan-tradisional-jawa-tengah",
+  "ownerUserNullable": "nizamkurniawan",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Jajanan Tradisional Jawa Tengah",
+  "subtitleNullable": "Dataset contains images of central java traditional snacks",
+  "descriptionNullable": "Jajanan Tradisional Jawa Tengah is dataset contains images of traditional snacks in Central Java. This dataset has 6 classes, such as  \n1. Grontol\n2. Lanting\n3. Lumpia\n4. Putu Ayu\n5. Serabi Solo\n6. Wajik\n\nCollection Methodology\nThis dataset was collected from Google Images using selenium and python from this tutorial https://www.analyticsvidhya.com/blog/2020/08/web-scraping-selenium-with-python/",
+  "datasetId": 2516107,
+  "datasetSlug": "jajanan-tradisional-jawa-tengah",
+  "hasDatasetSlug": true,
+  "ownerUser": "nizamkurniawan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 1471,
+  "totalVotes": 13,
+  "totalDownloads": 313,
+  "title": "Jajanan Tradisional Jawa Tengah",
+  "hasTitle": true,
+  "subtitle": "Dataset contains images of central java traditional snacks",
+  "hasSubtitle": true,
+  "description": "Jajanan Tradisional Jawa Tengah is dataset contains images of traditional snacks in Central Java. This dataset has 6 classes, such as  \n1. Grontol\n2. Lanting\n3. Lumpia\n4. Putu Ayu\n5. Serabi Solo\n6. Wajik\n\nCollection Methodology\nThis dataset was collected from Google Images using selenium and python from this tutorial https://www.analyticsvidhya.com/blog/2020/08/web-scraping-selenium-with-python/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "image",
+    "multiclass classification",
+    "food",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

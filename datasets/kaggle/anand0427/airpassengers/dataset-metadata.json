@@ -1,0 +1,41 @@
+{
+  "id": "anand0427/airpassengers",
+  "id_no": 73396,
+  "datasetSlugNullable": "airpassengers",
+  "ownerUserNullable": "anand0427",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "AirPassengers",
+  "subtitleNullable": "Number of passengers flying per month from 1949 to 1960 in US",
+  "descriptionNullable": "",
+  "datasetId": 73396,
+  "datasetSlug": "airpassengers",
+  "hasDatasetSlug": true,
+  "ownerUser": "anand0427",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 8355,
+  "totalVotes": 4,
+  "totalDownloads": 746,
+  "title": "AirPassengers",
+  "hasTitle": true,
+  "subtitle": "Number of passengers flying per month from 1949 to 1960 in US",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "transportation",
+    "beginner",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

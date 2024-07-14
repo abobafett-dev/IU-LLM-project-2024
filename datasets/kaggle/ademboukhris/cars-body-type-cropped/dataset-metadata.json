@@ -1,0 +1,43 @@
+{
+  "id": "ademboukhris/cars-body-type-cropped",
+  "id_no": 3413387,
+  "datasetSlugNullable": "cars-body-type-cropped",
+  "ownerUserNullable": "ademboukhris",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Car Body Types Images Dataset",
+  "subtitleNullable": "1,000 Images per Class: Convertible, Coupe, Hatchback, Pick-Up, SUV, Sedan, VAN",
+  "descriptionNullable": "## **Description:**\nThis dataset is a comprehensive collection of images depicting various car body types, including **Convertible**, **Coupe**, **Hatchback**, **Pick-Up**, **SUV**, **Sedan**, and **VAN**. It has been meticulously curated and organized to facilitate the training and evaluation of machine learning models for car body type classification.\n\n## **Dataset Overview:**\n- **Total Number of Classes**: 7 (Convertible, Coupe, Hatchback, Pick-Up, SUV, Sedan, VAN)\n- **Total Number of Images**: Approximately 7,000 images (1,000 images per class)\n- **Dataset Split**: The dataset is divided into three subsets: Training, Testing, and Validation. Each class contains approximately 1,000 images, equally distributed among these subsets.\n- **Image Variability**: Images in this dataset vary in terms of quality, resolution, lighting conditions, and angles, ensuring a robust and diverse set of samples for model training and testing.\n\n## **Citation:**\nIf you use this dataset in your work or publications, please consider citing it to give credit to the dataset creator.",
+  "datasetId": 3413387,
+  "datasetSlug": "cars-body-type-cropped",
+  "hasDatasetSlug": true,
+  "ownerUser": "ademboukhris",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 1382,
+  "totalVotes": 6,
+  "totalDownloads": 193,
+  "title": "Car Body Types Images Dataset",
+  "hasTitle": true,
+  "subtitle": "1,000 Images per Class: Convertible, Coupe, Hatchback, Pick-Up, SUV, Sedan, VAN",
+  "hasSubtitle": true,
+  "description": "## **Description:**\nThis dataset is a comprehensive collection of images depicting various car body types, including **Convertible**, **Coupe**, **Hatchback**, **Pick-Up**, **SUV**, **Sedan**, and **VAN**. It has been meticulously curated and organized to facilitate the training and evaluation of machine learning models for car body type classification.\n\n## **Dataset Overview:**\n- **Total Number of Classes**: 7 (Convertible, Coupe, Hatchback, Pick-Up, SUV, Sedan, VAN)\n- **Total Number of Images**: Approximately 7,000 images (1,000 images per class)\n- **Dataset Split**: The dataset is divided into three subsets: Training, Testing, and Validation. Each class contains approximately 1,000 images, equally distributed among these subsets.\n- **Image Variability**: Images in this dataset vary in terms of quality, resolution, lighting conditions, and angles, ensuring a robust and diverse set of samples for model training and testing.\n\n## **Citation:**\nIf you use this dataset in your work or publications, please consider citing it to give credit to the dataset creator.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "automobiles and vehicles",
+    "image",
+    "multiclass classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

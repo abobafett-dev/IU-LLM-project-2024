@@ -1,0 +1,43 @@
+{
+  "id": "shaaguunzz/drone-dataset-sentiment",
+  "id_no": 3819532,
+  "datasetSlugNullable": "drone-dataset-sentiment",
+  "ownerUserNullable": "shaaguunzz",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "drone_dataset_sentiment",
+  "subtitleNullable": "Comprehensive Dataset of Drone Purchases and Reviews",
+  "descriptionNullable": "Dataset Description:\n\nThis dataset provides a comprehensive collection of drone purchase and customer satisfaction data, including detailed reviews and related information. It is a valuable resource for data scientists, analysts, and enthusiasts interested in exploring the world of consumer drones.\n\nKey Features:\n\nCustomer Information: Each entry includes a unique customer identifier, purchase date, drone model, price, payment method, warranty details, and usage frequency.\n\nCustomer Satisfaction: Customer satisfaction ratings, ranging from 1 (very dissatisfied) to 5 (very satisfied), provide insights into the overall user experience.\n\nCustomer Feedback: Authentic and diverse customer feedback comments provide valuable context to the satisfaction ratings.\n\nTechnical Issues: Reports of any technical issues encountered by customers, including battery issues, controller problems, or no issues.\n\nCustomer Service Interactions: Records of customer interactions with service representatives, including dates, reasons for contact, and resolutions.\n\nUse Cases:\n\nAnalyze customer satisfaction trends for specific drone models.\nExplore factors affecting customer satisfaction, such as warranty or technical issues.\nBuild natural language processing (NLP) models to extract insights from customer feedback.\nInvestigate the impact of customer service interactions on overall satisfaction.\nAcknowledgment:\n\nWe acknowledge the contributions of our community members in providing this dataset, aiming to enhance the understanding of the consumer drone market.\n\nNote:\n\nThis dataset is for research and analysis purposes and does not contain any personally identifiable information.",
+  "datasetId": 3819532,
+  "datasetSlug": "drone-dataset-sentiment",
+  "hasDatasetSlug": true,
+  "ownerUser": "shaaguunzz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 190,
+  "totalVotes": 1,
+  "totalDownloads": 31,
+  "title": "drone_dataset_sentiment",
+  "hasTitle": true,
+  "subtitle": "Comprehensive Dataset of Drone Purchases and Reviews",
+  "hasSubtitle": true,
+  "description": "Dataset Description:\n\nThis dataset provides a comprehensive collection of drone purchase and customer satisfaction data, including detailed reviews and related information. It is a valuable resource for data scientists, analysts, and enthusiasts interested in exploring the world of consumer drones.\n\nKey Features:\n\nCustomer Information: Each entry includes a unique customer identifier, purchase date, drone model, price, payment method, warranty details, and usage frequency.\n\nCustomer Satisfaction: Customer satisfaction ratings, ranging from 1 (very dissatisfied) to 5 (very satisfied), provide insights into the overall user experience.\n\nCustomer Feedback: Authentic and diverse customer feedback comments provide valuable context to the satisfaction ratings.\n\nTechnical Issues: Reports of any technical issues encountered by customers, including battery issues, controller problems, or no issues.\n\nCustomer Service Interactions: Records of customer interactions with service representatives, including dates, reasons for contact, and resolutions.\n\nUse Cases:\n\nAnalyze customer satisfaction trends for specific drone models.\nExplore factors affecting customer satisfaction, such as warranty or technical issues.\nBuild natural language processing (NLP) models to extract insights from customer feedback.\nInvestigate the impact of customer service interactions on overall satisfaction.\nAcknowledgment:\n\nWe acknowledge the contributions of our community members in providing this dataset, aiming to enhance the understanding of the consumer drone market.\n\nNote:\n\nThis dataset is for research and analysis purposes and does not contain any personally identifiable information.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "electronics",
+    "beginner",
+    "intermediate",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

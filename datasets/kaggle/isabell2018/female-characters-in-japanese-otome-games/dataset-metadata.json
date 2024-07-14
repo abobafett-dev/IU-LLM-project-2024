@@ -1,0 +1,45 @@
+{
+  "id": "isabell2018/female-characters-in-japanese-otome-games",
+  "id_no": 4933193,
+  "datasetSlugNullable": "female-characters-in-japanese-otome-games",
+  "ownerUserNullable": "isabell2018",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Female Characters in Japanese Otome Games",
+  "subtitleNullable": "Main Female Characters in Japanese Otome Games from 1994 to 2024",
+  "descriptionNullable": "An otome game (Japanese: \u4e59\u5973\u30b2\u30fc\u30e0, Hepburn: otome g\u0113mu, lit. \"maiden game\") is a story-based video game that is targeted towards women. Generally one of the goals, besides the main story goal, is to develop a romantic relationship between the female main player character and one of the usually male, secondary lead characters. \n\nThe two datasets provide a selection of 140 Japanese otome games ranging from 1994 to 2024 and the female main characters in the games. \n\n**Definition of \"Main Character\"**:\ncharacters who are introduced on the game's official website, appear in the opening sequence or possess distinctive features and a significant storyline within the game.\n\n**OtomeGame.csv**:\nthis table summarizes a selection of 140 Japanese otome games with cumulative sales exceeding 5,000 copies from 1994 to 2024.\n\n**FemaleChar.csv**:\nthis table compiles data on the main female characters from the previous table's games.",
+  "datasetId": 4933193,
+  "datasetSlug": "female-characters-in-japanese-otome-games",
+  "hasDatasetSlug": true,
+  "ownerUser": "isabell2018",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 213,
+  "totalVotes": 1,
+  "totalDownloads": 10,
+  "title": "Female Characters in Japanese Otome Games",
+  "hasTitle": true,
+  "subtitle": "Main Female Characters in Japanese Otome Games from 1994 to 2024",
+  "hasSubtitle": true,
+  "description": "An otome game (Japanese: \u4e59\u5973\u30b2\u30fc\u30e0, Hepburn: otome g\u0113mu, lit. \"maiden game\") is a story-based video game that is targeted towards women. Generally one of the goals, besides the main story goal, is to develop a romantic relationship between the female main player character and one of the usually male, secondary lead characters. \n\nThe two datasets provide a selection of 140 Japanese otome games ranging from 1994 to 2024 and the female main characters in the games. \n\n**Definition of \"Main Character\"**:\ncharacters who are introduced on the game's official website, appear in the opening sequence or possess distinctive features and a significant storyline within the game.\n\n**OtomeGame.csv**:\nthis table summarizes a selection of 140 Japanese otome games with cumulative sales exceeding 5,000 copies from 1994 to 2024.\n\n**FemaleChar.csv**:\nthis table compiles data on the main female characters from the previous table's games.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "video games",
+    "gender",
+    "data analytics",
+    "japan",
+    "anime and manga",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

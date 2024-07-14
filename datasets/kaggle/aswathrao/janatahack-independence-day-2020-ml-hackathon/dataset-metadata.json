@@ -1,0 +1,40 @@
+{
+  "id": "aswathrao/janatahack-independence-day-2020-ml-hackathon",
+  "id_no": 830992,
+  "datasetSlugNullable": "janatahack-independence-day-2020-ml-hackathon",
+  "ownerUserNullable": "aswathrao",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Janatahack: Independence Day 2020 ML Hackathon",
+  "subtitleNullable": "Machine Learning Hackethon",
+  "descriptionNullable": "Topic Modeling for Research Articles\nResearchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more difficult. Tagging or topic modelling provides a way to give token of identification to research articles which facilitates recommendation and search process.\n\nGiven the abstract and title for a set of research articles, predict the topics for each article included in the test set. \n\nNote that a research article can possibly have more than 1 topic. The research article abstracts and titles are sourced from the following 6 topics: \n\n1. Computer Science\n\n2. Physics\n\n3. Mathematics\n\n4. Statistics\n\n5. Quantitative Biology\n\n6. Quantitative Finance",
+  "datasetId": 830992,
+  "datasetSlug": "janatahack-independence-day-2020-ml-hackathon",
+  "hasDatasetSlug": true,
+  "ownerUser": "aswathrao",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 2157,
+  "totalVotes": 5,
+  "totalDownloads": 31,
+  "title": "Janatahack: Independence Day 2020 ML Hackathon",
+  "hasTitle": true,
+  "subtitle": "Machine Learning Hackethon",
+  "hasSubtitle": true,
+  "description": "Topic Modeling for Research Articles\nResearchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more difficult. Tagging or topic modelling provides a way to give token of identification to research articles which facilitates recommendation and search process.\n\nGiven the abstract and title for a set of research articles, predict the topics for each article included in the test set. \n\nNote that a research article can possibly have more than 1 topic. The research article abstracts and titles are sourced from the following 6 topics: \n\n1. Computer Science\n\n2. Physics\n\n3. Mathematics\n\n4. Statistics\n\n5. Quantitative Biology\n\n6. Quantitative Finance",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "education"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

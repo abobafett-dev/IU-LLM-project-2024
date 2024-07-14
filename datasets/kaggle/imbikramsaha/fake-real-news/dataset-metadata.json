@@ -1,0 +1,43 @@
+{
+  "id": "imbikramsaha/fake-real-news",
+  "id_no": 2354716,
+  "datasetSlugNullable": "fake-real-news",
+  "ownerUserNullable": "imbikramsaha",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Indian Fake News",
+  "subtitleNullable": "Real and Fake news Classification Dataset",
+  "descriptionNullable": "# `news_dataset.csv` is a fake new classification dataset.\n\nIt contains two columns `label` and `text` columns\n\n`text ` columns : news text\n`label` columns : FAKE/REAL\n\nUse 20% of the data as test dataset and rest 80% for training.",
+  "datasetId": 2354716,
+  "datasetSlug": "fake-real-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "imbikramsaha",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3211,
+  "totalVotes": 18,
+  "totalDownloads": 626,
+  "title": "Indian Fake News",
+  "hasTitle": true,
+  "subtitle": "Real and Fake news Classification Dataset",
+  "hasSubtitle": true,
+  "description": "# `news_dataset.csv` is a fake new classification dataset.\n\nIt contains two columns `label` and `text` columns\n\n`text ` columns : news text\n`label` columns : FAKE/REAL\n\nUse 20% of the data as test dataset and rest 80% for training.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "intermediate",
+    "classification",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

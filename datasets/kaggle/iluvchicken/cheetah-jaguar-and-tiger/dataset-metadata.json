@@ -1,0 +1,49 @@
+{
+  "id": "iluvchicken/cheetah-jaguar-and-tiger",
+  "id_no": 653899,
+  "datasetSlugNullable": "cheetah-jaguar-and-tiger",
+  "ownerUserNullable": "iluvchicken",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Cheetah, Hyena, Jaguar and Tiger",
+  "subtitleNullable": "Distinguish the feline animals",
+  "descriptionNullable": "# Introduction\n\nWelcome to the  ****Professor Hyoseok Hwang's Deep Learning class(2020)**** classification competition. \ud83d\ude03\ud83d\udc4b\ud83d\udc4b \n\n\n# Goal of Competition\n\nThrough this competition, \nwe hope to improve deep learning skills and improve pytorch coding skills so that you can finally have a wide perspective on the deep learning model. \ud83d\udcaa\ud83d\udcaa \n\n# Dataset Description\n\nWe offer a total of three types of image datasets: ****cheetahs, jaguars and tigers.****\n\n**900 training images** and **100 validation images** are provided for each type. \n**100 test images are not provided** and final accuracy will be compared with the test dataset.\n(All images size is 400(H) * 400(W) * 3(RGB))\n\nand each label is specified in the **image name**. \nTherefore, you can use the image name to create classification ground truth.\n\nWe look forward to seeing good results. \ud83d\udc4d \ud83d\udc4d \ud83d\udc4d \n\n\n# Evaluation Method\n\nOur evaluation method uses only accuracy.\n\nTherefore, there is no limit to ****data preprocessing(data augmentation)**** to increase accuracy.\nHowever, models trained without using the provided dataset will be \"0\" points.\n\n\n# Contact\n\n\u2714\ufe0f Prof. Hyoseok Hwang : hshwang@gachon.ac.kr\n\u2714\ufe0f TA: Jihu Kim : paransky9577@gmail.com\n\u2714\ufe0f TA: Byunghoon Hwang: byunghoonhwang97@gmail.com\n\n\n\n\n",
+  "datasetId": 653899,
+  "datasetSlug": "cheetah-jaguar-and-tiger",
+  "hasDatasetSlug": true,
+  "ownerUser": "iluvchicken",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 13140,
+  "totalVotes": 30,
+  "totalDownloads": 3932,
+  "title": "Cheetah, Hyena, Jaguar and Tiger",
+  "hasTitle": true,
+  "subtitle": "Distinguish the feline animals",
+  "hasSubtitle": true,
+  "description": "# Introduction\n\nWelcome to the  ****Professor Hyoseok Hwang's Deep Learning class(2020)**** classification competition. \ud83d\ude03\ud83d\udc4b\ud83d\udc4b \n\n\n# Goal of Competition\n\nThrough this competition, \nwe hope to improve deep learning skills and improve pytorch coding skills so that you can finally have a wide perspective on the deep learning model. \ud83d\udcaa\ud83d\udcaa \n\n# Dataset Description\n\nWe offer a total of three types of image datasets: ****cheetahs, jaguars and tigers.****\n\n**900 training images** and **100 validation images** are provided for each type. \n**100 test images are not provided** and final accuracy will be compared with the test dataset.\n(All images size is 400(H) * 400(W) * 3(RGB))\n\nand each label is specified in the **image name**. \nTherefore, you can use the image name to create classification ground truth.\n\nWe look forward to seeing good results. \ud83d\udc4d \ud83d\udc4d \ud83d\udc4d \n\n\n# Evaluation Method\n\nOur evaluation method uses only accuracy.\n\nTherefore, there is no limit to ****data preprocessing(data augmentation)**** to increase accuracy.\nHowever, models trained without using the provided dataset will be \"0\" points.\n\n\n# Contact\n\n\u2714\ufe0f Prof. Hyoseok Hwang : hshwang@gachon.ac.kr\n\u2714\ufe0f TA: Jihu Kim : paransky9577@gmail.com\n\u2714\ufe0f TA: Byunghoon Hwang: byunghoonhwang97@gmail.com\n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature",
+    "business",
+    "education",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "hwangdavid",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

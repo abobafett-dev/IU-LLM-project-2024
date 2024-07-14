@@ -1,0 +1,42 @@
+{
+  "id": "disisbig/hindi-text-short-summarization-corpus",
+  "id_no": 465845,
+  "datasetSlugNullable": "hindi-text-short-summarization-corpus",
+  "ownerUserNullable": "disisbig",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Hindi Text Short Summarization Corpus",
+  "subtitleNullable": "Benchmark your summarization models for Hindi language",
+  "descriptionNullable": "Hindi Text Short Summarization Corpus is a collection of ~330k articles with their headlines collected from Hindi News Websites. \n\nThis is a first of its kind Dataset in Hindi which can be used to benchmark models for Text summarization in Hindi. This does not contain articles contained in [Hindi Text Short and Large Summarization Corpus ](https://www.kaggle.com/disisbig/hindi-text-short-and-large-summarization-corpus) which is being released parallely with this Dataset.\n\nThe dataset retains original punctuation, numbers etc in the articles.",
+  "datasetId": 465845,
+  "datasetSlug": "hindi-text-short-summarization-corpus",
+  "hasDatasetSlug": true,
+  "ownerUser": "disisbig",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 20570,
+  "totalVotes": 16,
+  "totalDownloads": 1497,
+  "title": "Hindi Text Short Summarization Corpus",
+  "hasTitle": true,
+  "subtitle": "Benchmark your summarization models for Hindi language",
+  "hasSubtitle": true,
+  "description": "Hindi Text Short Summarization Corpus is a collection of ~330k articles with their headlines collected from Hindi News Websites. \n\nThis is a first of its kind Dataset in Hindi which can be used to benchmark models for Text summarization in Hindi. This does not contain articles contained in [Hindi Text Short and Large Summarization Corpus ](https://www.kaggle.com/disisbig/hindi-text-short-and-large-summarization-corpus) which is being released parallely with this Dataset.\n\nThe dataset retains original punctuation, numbers etc in the articles.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "software",
+    "deep learning",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

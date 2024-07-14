@@ -1,0 +1,43 @@
+{
+  "id": "utkarshsaxenadn/bitbirdspecies",
+  "id_no": 2652323,
+  "datasetSlugNullable": "bitbirdspecies",
+  "ownerUserNullable": "utkarshsaxenadn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "BiT-Bird-Species",
+  "subtitleNullable": "450 Bird Species Classification with BiT - Big Transfer",
+  "descriptionNullable": "\n\nFrom architecture perspective BiT is nothing but a 4x times Scaled version of ResNet152V2. The main idea here is of Transfer Learning this model is pre-trained on a Large Dataset, so it can be trained on sub-datasets or basically other small datasets and as the model is pre-trained on a Very large Dataset it is expected that it will perform amazingly well on the small dataset. There are 3 variants of BiT :\n\n* BiT-L : This is trained on Image Classification task of 300M Samples(This is Private).\n* BiT-M : This is trained on Image Classification task of 14M Samples.\n* BiT-S : This is trained on Image Classification task of 1.3M Samples.\n\nThis model is trained on the **400 Bird Species Dataset**,  the model achieved **90% Training Accuracy, 95% Validation Accuracy and 94% Testing Accuracy**.",
+  "datasetId": 2652323,
+  "datasetSlug": "bitbirdspecies",
+  "hasDatasetSlug": true,
+  "ownerUser": "utkarshsaxenadn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1426,
+  "totalVotes": 8,
+  "totalDownloads": 50,
+  "title": "BiT-Bird-Species",
+  "hasTitle": true,
+  "subtitle": "450 Bird Species Classification with BiT - Big Transfer",
+  "hasSubtitle": true,
+  "description": "\n\nFrom architecture perspective BiT is nothing but a 4x times Scaled version of ResNet152V2. The main idea here is of Transfer Learning this model is pre-trained on a Large Dataset, so it can be trained on sub-datasets or basically other small datasets and as the model is pre-trained on a Very large Dataset it is expected that it will perform amazingly well on the small dataset. There are 3 variants of BiT :\n\n* BiT-L : This is trained on Image Classification task of 300M Samples(This is Private).\n* BiT-M : This is trained on Image Classification task of 14M Samples.\n* BiT-S : This is trained on Image Classification task of 1.3M Samples.\n\nThis model is trained on the **400 Bird Species Dataset**,  the model achieved **90% Training Accuracy, 95% Validation Accuracy and 94% Testing Accuracy**.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "transfer learning",
+    "gpu",
+    "pre-trained model"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

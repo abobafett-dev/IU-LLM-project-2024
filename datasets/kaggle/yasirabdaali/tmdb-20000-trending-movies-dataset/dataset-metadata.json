@@ -1,0 +1,42 @@
+{
+  "id": "yasirabdaali/tmdb-20000-trending-movies-dataset",
+  "id_no": 2425115,
+  "datasetSlugNullable": "tmdb-20000-trending-movies-dataset",
+  "ownerUserNullable": "yasirabdaali",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "TMDb 20000 Trending Movies Dataset",
+  "subtitleNullable": "Dataset of 20k Movies Trending on TMDb",
+  "descriptionNullable": "This dataset contains the data of the 20000 movies Trending  on TMDb including the id, title, release date,avg vote,vote count, overview and popularity, etc.\nThis data was collected by using the TMDB API, requests, json and converted into a dataframe using pandas.\nYou can use this data to make movies recommendation systems furthermore you can get the postures of the movies using the id and display it in your website.\nHere is what you can do using this dataset:\n1. Get the genres using the genre id from TMDb database and replace the genre id with genre(text)\n2. Get the credits of the movies using the movie id from TMDb database \n3. Create a movie recommendation system based on the genre,overview, actors and director.",
+  "datasetId": 2425115,
+  "datasetSlug": "tmdb-20000-trending-movies-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "yasirabdaali",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 762,
+  "totalVotes": 3,
+  "totalDownloads": 97,
+  "title": "TMDb 20000 Trending Movies Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset of 20k Movies Trending on TMDb",
+  "hasSubtitle": true,
+  "description": "This dataset contains the data of the 20000 movies Trending  on TMDb including the id, title, release date,avg vote,vote count, overview and popularity, etc.\nThis data was collected by using the TMDB API, requests, json and converted into a dataframe using pandas.\nYou can use this data to make movies recommendation systems furthermore you can get the postures of the movies using the id and display it in your website.\nHere is what you can do using this dataset:\n1. Get the genres using the genre id from TMDb database and replace the genre id with genre(text)\n2. Get the credits of the movies using the movie id from TMDb database \n3. Create a movie recommendation system based on the genre,overview, actors and director.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "recommender systems",
+    "tabular",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

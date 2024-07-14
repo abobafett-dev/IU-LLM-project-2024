@@ -1,0 +1,44 @@
+{
+  "id": "mohdrehanhaider/arabic-characters",
+  "id_no": 4637148,
+  "datasetSlugNullable": "arabic-characters",
+  "ownerUserNullable": "mohdrehanhaider",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Arabic Characters",
+  "subtitleNullable": "A dataset for your first Deep Learning Model ;)",
+  "descriptionNullable": "The dataset comprises a collection of handwritten images depicting characters integral to Arabic literature, providing a rich resource for various machine learning and computer vision tasks. Each image is formatted to a size of 32x32 pixels, offering a balanced compromise between image resolution and computational efficiency.\n\nThese handwritten images encapsulate the diversity and intricacies of Arabic script, showcasing variations in stroke thickness, curvature, and overall style. \n\nResearchers and practitioners can leverage this dataset for a myriad of applications, including optical character recognition (OCR), handwriting analysis, language modeling, and font classification.",
+  "datasetId": 4637148,
+  "datasetSlug": "arabic-characters",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohdrehanhaider",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 222,
+  "totalVotes": 7,
+  "totalDownloads": 16,
+  "title": "Arabic Characters",
+  "hasTitle": true,
+  "subtitle": "A dataset for your first Deep Learning Model ;)",
+  "hasSubtitle": true,
+  "description": "The dataset comprises a collection of handwritten images depicting characters integral to Arabic literature, providing a rich resource for various machine learning and computer vision tasks. Each image is formatted to a size of 32x32 pixels, offering a balanced compromise between image resolution and computational efficiency.\n\nThese handwritten images encapsulate the diversity and intricacies of Arabic script, showcasing variations in stroke thickness, curvature, and overall style. \n\nResearchers and practitioners can leverage this dataset for a myriad of applications, including optical character recognition (OCR), handwriting analysis, language modeling, and font classification.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "literature",
+    "earth and nature",
+    "classification",
+    "image",
+    "arabic"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

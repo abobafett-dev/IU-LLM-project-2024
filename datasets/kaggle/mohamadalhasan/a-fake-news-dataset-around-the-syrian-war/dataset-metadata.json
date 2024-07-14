@@ -1,0 +1,44 @@
+{
+  "id": "mohamadalhasan/a-fake-news-dataset-around-the-syrian-war",
+  "id_no": 516226,
+  "datasetSlugNullable": "a-fake-news-dataset-around-the-syrian-war",
+  "ownerUserNullable": "mohamadalhasan",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Fake News Dataset",
+  "subtitleNullable": "Fake News Dataset around the Syrian War",
+  "descriptionNullable": "**Context**\n\nMost currently available fake news datasets revolve around US politics, entrainment news or satire. They are typically scraped from fact-checking websites, where the articles are labeled by human experts.\nThis dataset around the Syrian war. Given the specific nature of news reporting on incidents of wars and the lack of available sources from which manually-labeled news articles can be scraped.\n\n**Content**\n\nOur dataset consists of news articles from several media outlets representing mobilisation press, loyalist press, and diverse print media.\nThe dataset consists of a set of articles/news labeled by 0 (fake) or 1 (credible).\nThe dataset consists of 804 articles labeled as true or fake and that is ideal for training machine learning models to predict the credibility of news articles\n\n\n**Acknowledgements**\n\nCredibility of articles are computed with respect to a ground truth information obtained from the Syrian Violations Documentation Center (VDC). This dataset is collected by researchers at American University of Beirut(AUB).\n\n**Inspiration**\n\nI know the amount of articles in this dataset is not good enough to get a good acuuracy in prediction, but I hope It will be the seed of great work in the future.\n\n. ",
+  "datasetId": 516226,
+  "datasetSlug": "a-fake-news-dataset-around-the-syrian-war",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohamadalhasan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 22600,
+  "totalVotes": 42,
+  "totalDownloads": 3406,
+  "title": "Fake News Dataset",
+  "hasTitle": true,
+  "subtitle": "Fake News Dataset around the Syrian War",
+  "hasSubtitle": true,
+  "description": "**Context**\n\nMost currently available fake news datasets revolve around US politics, entrainment news or satire. They are typically scraped from fact-checking websites, where the articles are labeled by human experts.\nThis dataset around the Syrian war. Given the specific nature of news reporting on incidents of wars and the lack of available sources from which manually-labeled news articles can be scraped.\n\n**Content**\n\nOur dataset consists of news articles from several media outlets representing mobilisation press, loyalist press, and diverse print media.\nThe dataset consists of a set of articles/news labeled by 0 (fake) or 1 (credible).\nThe dataset consists of 804 articles labeled as true or fake and that is ideal for training machine learning models to predict the credibility of news articles\n\n\n**Acknowledgements**\n\nCredibility of articles are computed with respect to a ground truth information obtained from the Syrian Violations Documentation Center (VDC). This dataset is collected by researchers at American University of Beirut(AUB).\n\n**Inspiration**\n\nI know the amount of articles in this dataset is not good enough to get a good acuuracy in prediction, but I hope It will be the seed of great work in the future.\n\n. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "politics",
+    "nlp",
+    "text mining",
+    "classification",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "EU ODP Legal Notice",
+      "name": "EU ODP Legal Notice",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

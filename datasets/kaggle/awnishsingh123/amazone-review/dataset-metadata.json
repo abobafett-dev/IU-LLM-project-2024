@@ -1,0 +1,42 @@
+{
+  "id": "awnishsingh123/amazone-review",
+  "id_no": 4860752,
+  "datasetSlugNullable": "amazone-review",
+  "ownerUserNullable": "awnishsingh123",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Amazone Review",
+  "subtitleNullable": "A list of 1,500+ reviews of Amazon products like the Kindle, Fire TV Stick, etc.",
+  "descriptionNullable": "This is a list of over 1,500 consumer reviews for Amazon products like the Kindle, Fire TV Stick, and more provided by Datafiniti's Product Database. The dataset includes basic product information, rating, review text, and more for each product.\n\nNote that this is a sample of a large dataset. The full dataset is available through Datafiniti.\n\n\n\nWhat You Can Do with this Data\nYou can use this data to analyze Amazon\u2019s most successful consumer electronics product launches; discover insights into consumer reviews and assist with machine learning models. E.g.:\n\nWhat are the most reviewed Amazon products?\nWhat are the initial and current number of customer reviews for each product?\nHow do the reviews in the first 90 days after a product launch compare to the price of the product?\nHow do the reviews in the first 90 days after a product launch compare to the days available for sale?\nMap the keywords in the review text against the review ratings to help train sentiment models.",
+  "datasetId": 4860752,
+  "datasetSlug": "amazone-review",
+  "hasDatasetSlug": true,
+  "ownerUser": "awnishsingh123",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 216,
+  "totalVotes": 2,
+  "totalDownloads": 31,
+  "title": "Amazone Review",
+  "hasTitle": true,
+  "subtitle": "A list of 1,500+ reviews of Amazon products like the Kindle, Fire TV Stick, etc.",
+  "hasSubtitle": true,
+  "description": "This is a list of over 1,500 consumer reviews for Amazon products like the Kindle, Fire TV Stick, and more provided by Datafiniti's Product Database. The dataset includes basic product information, rating, review text, and more for each product.\n\nNote that this is a sample of a large dataset. The full dataset is available through Datafiniti.\n\n\n\nWhat You Can Do with this Data\nYou can use this data to analyze Amazon\u2019s most successful consumer electronics product launches; discover insights into consumer reviews and assist with machine learning models. E.g.:\n\nWhat are the most reviewed Amazon products?\nWhat are the initial and current number of customer reviews for each product?\nHow do the reviews in the first 90 days after a product launch compare to the price of the product?\nHow do the reviews in the first 90 days after a product launch compare to the days available for sale?\nMap the keywords in the review text against the review ratings to help train sentiment models.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "multiclass classification",
+    "ratings and reviews",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

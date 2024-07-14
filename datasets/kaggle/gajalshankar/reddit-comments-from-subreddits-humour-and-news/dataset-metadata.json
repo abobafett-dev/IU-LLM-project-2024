@@ -1,0 +1,41 @@
+{
+  "id": "gajalshankar/reddit-comments-from-subreddits-humour-and-news",
+  "id_no": 1257122,
+  "datasetSlugNullable": "reddit-comments-from-subreddits-humour-and-news",
+  "ownerUserNullable": "gajalshankar",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Reddit comments",
+  "subtitleNullable": "Comments dataset from two categories of subreddits (humour and news)",
+  "descriptionNullable": "Comments dataset from two categories of subreddits (humour and news). Both Category o of comments can be used for analysis \nrefer associated notebook for more - [here](https://www.kaggle.com/gajalshankar/nlp-sentiment-analysis-and-ml-classifier)",
+  "datasetId": 1257122,
+  "datasetSlug": "reddit-comments-from-subreddits-humour-and-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "gajalshankar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 1714,
+  "totalVotes": 3,
+  "totalDownloads": 61,
+  "title": "Reddit comments",
+  "hasTitle": true,
+  "subtitle": "Comments dataset from two categories of subreddits (humour and news)",
+  "hasSubtitle": true,
+  "description": "Comments dataset from two categories of subreddits (humour and news). Both Category o of comments can be used for analysis \nrefer associated notebook for more - [here](https://www.kaggle.com/gajalshankar/nlp-sentiment-analysis-and-ml-classifier)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "news",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

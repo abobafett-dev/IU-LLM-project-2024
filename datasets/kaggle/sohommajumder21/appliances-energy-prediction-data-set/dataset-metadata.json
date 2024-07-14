@@ -1,0 +1,42 @@
+{
+  "id": "sohommajumder21/appliances-energy-prediction-data-set",
+  "id_no": 1403770,
+  "datasetSlugNullable": "appliances-energy-prediction-data-set",
+  "ownerUserNullable": "sohommajumder21",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Appliances energy prediction Data Set",
+  "subtitleNullable": "https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction",
+  "descriptionNullable": "### Context\n\nExperimental data used to create regression models of appliances energy use in a low energy building.\n\n\n### Content\n\nData Set Characteristics:  \n\nMultivariate, Time-Series, Regression\n\nNumber of Instances(Rows):\n\n19735\n\nNumber of Attributes(Columns):\n\n29\n\n\nAssociated Tasks:\n\nRegression\n\n\nSource:\n\nLuis Candanedo, luismiguel.candanedoibarra '@' umons.ac.be, University of Mons (UMONS).\n\n\nData Set Information:\nGiven in Metadata tab about the sources and collection methodology.\n\n\n## Attribute Information:\n\ndate time year-month-day hour:minute:second\n\nAppliances, energy use in Wh (**target variable for prediction**)\n\nlights, energy use of light fixtures in the house in Wh\n\nT1, Temperature in kitchen area, in Celsius\n\nRH_1, Humidity in kitchen area, in %\n\nT2, Temperature in living room area, in Celsius\n\nRH_2, Humidity in living room area, in %\n\nT3, Temperature in laundry room area\n\nRH_3, Humidity in laundry room area, in %\n\nT4, Temperature in office room, in Celsius\n\nRH_4, Humidity in office room, in %\n\nT5, Temperature in bathroom, in Celsius\n\nRH_5, Humidity in bathroom, in %\n\nT6, Temperature outside the building (north side), in Celsius\n\nRH_6, Humidity outside the building (north side), in %\n\nT7, Temperature in ironing room , in Celsius\n\nRH_7, Humidity in ironing room, in %\n\nT8, Temperature in teenager room 2, in Celsius\n\nRH_8, Humidity in teenager room 2, in %\n\nT9, Temperature in parents room, in Celsius\n\nRH_9, Humidity in parents room, in %\n\n\nTo, Temperature outside (from Chievres weather station), in Celsius\n\nPressure (from Chievres weather station), in mm Hg\n\nRH_out, Humidity outside (from Chievres weather station), in %\n\nWind speed (from Chievres weather station), in m/s\n\nVisibility (from Chievres weather station), in km\n\nTdewpoint (from Chievres weather station), \u00c2\u00b0C\n\nrv1, Random variable 1, nondimensional\n\nrv2, Random variable 2, nondimensional\n\nWhere indicated, hourly data (then interpolated) from the nearest airport weather station (Chievres Airport, Belgium) was downloaded from a public data set from Reliable Prognosis, rp5.ru. Permission was obtained from Reliable Prognosis for the distribution of the 4.5 months of weather data.\n\n\n\n\n### Acknowledgements\n\nLuis M. Candanedo, Veronique Feldheim, Dominique Deramaix, Data driven prediction models of energy use of appliances in a low-energy house, Energy and Buildings, Volume 140, 1 April 2017, Pages 81-97, ISSN 0378-7788, [Web Link](https://www.sciencedirect.com/science/article/abs/pii/S0378778816308970?via%3Dihub).\n\n### Citation\n\nDua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.\n\n\n### Inspiration\n\n1) This is a regression task, You should predict the \"appliances\" column. Column descriptions are given above. Please read them before proceeding.\n2) Appropriate time series analysis with regression is preferred more.\n3) Exploratory data analysis with charts and plots.\n\nHave fun!\n",
+  "datasetId": 1403770,
+  "datasetSlug": "appliances-energy-prediction-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "sohommajumder21",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 17308,
+  "totalVotes": 28,
+  "totalDownloads": 1620,
+  "title": "Appliances energy prediction Data Set",
+  "hasTitle": true,
+  "subtitle": "https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction",
+  "hasSubtitle": true,
+  "description": "### Context\n\nExperimental data used to create regression models of appliances energy use in a low energy building.\n\n\n### Content\n\nData Set Characteristics:  \n\nMultivariate, Time-Series, Regression\n\nNumber of Instances(Rows):\n\n19735\n\nNumber of Attributes(Columns):\n\n29\n\n\nAssociated Tasks:\n\nRegression\n\n\nSource:\n\nLuis Candanedo, luismiguel.candanedoibarra '@' umons.ac.be, University of Mons (UMONS).\n\n\nData Set Information:\nGiven in Metadata tab about the sources and collection methodology.\n\n\n## Attribute Information:\n\ndate time year-month-day hour:minute:second\n\nAppliances, energy use in Wh (**target variable for prediction**)\n\nlights, energy use of light fixtures in the house in Wh\n\nT1, Temperature in kitchen area, in Celsius\n\nRH_1, Humidity in kitchen area, in %\n\nT2, Temperature in living room area, in Celsius\n\nRH_2, Humidity in living room area, in %\n\nT3, Temperature in laundry room area\n\nRH_3, Humidity in laundry room area, in %\n\nT4, Temperature in office room, in Celsius\n\nRH_4, Humidity in office room, in %\n\nT5, Temperature in bathroom, in Celsius\n\nRH_5, Humidity in bathroom, in %\n\nT6, Temperature outside the building (north side), in Celsius\n\nRH_6, Humidity outside the building (north side), in %\n\nT7, Temperature in ironing room , in Celsius\n\nRH_7, Humidity in ironing room, in %\n\nT8, Temperature in teenager room 2, in Celsius\n\nRH_8, Humidity in teenager room 2, in %\n\nT9, Temperature in parents room, in Celsius\n\nRH_9, Humidity in parents room, in %\n\n\nTo, Temperature outside (from Chievres weather station), in Celsius\n\nPressure (from Chievres weather station), in mm Hg\n\nRH_out, Humidity outside (from Chievres weather station), in %\n\nWind speed (from Chievres weather station), in m/s\n\nVisibility (from Chievres weather station), in km\n\nTdewpoint (from Chievres weather station), \u00c2\u00b0C\n\nrv1, Random variable 1, nondimensional\n\nrv2, Random variable 2, nondimensional\n\nWhere indicated, hourly data (then interpolated) from the nearest airport weather station (Chievres Airport, Belgium) was downloaded from a public data set from Reliable Prognosis, rp5.ru. Permission was obtained from Reliable Prognosis for the distribution of the 4.5 months of weather data.\n\n\n\n\n### Acknowledgements\n\nLuis M. Candanedo, Veronique Feldheim, Dominique Deramaix, Data driven prediction models of energy use of appliances in a low-energy house, Energy and Buildings, Volume 140, 1 April 2017, Pages 81-97, ISSN 0378-7788, [Web Link](https://www.sciencedirect.com/science/article/abs/pii/S0378778816308970?via%3Dihub).\n\n### Citation\n\nDua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.\n\n\n### Inspiration\n\n1) This is a regression task, You should predict the \"appliances\" column. Column descriptions are given above. Please read them before proceeding.\n2) Appropriate time series analysis with regression is preferred more.\n3) Exploratory data analysis with charts and plots.\n\nHave fun!\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "energy",
+    "beginner",
+    "time series analysis",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "vitthalmadane/pharma-air-handling-units-data",
+  "id_no": 1916125,
+  "datasetSlugNullable": "pharma-air-handling-units-data",
+  "ownerUserNullable": "vitthalmadane",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Air Properties Time Series Dataset",
+  "subtitleNullable": "Air Conditioned Room Air Properties Dataset",
+  "descriptionNullable": "The Data Set Represents real-time  Value of Pharma Cleanroom Air  properties such as Supply air temperature, \nReturn Air Temperature, Humidity, Dew point, Air Flow and KWH Consumption with respect to time and date.\n\n To Maintain clean room conditions such as temperature, Humidity, Differential Pressure essential for product care, we use Air Handling Unit briefly known as AHU to mainten Temperature and Humidity insede pharma cleanrooms where drug formulation/testing take place.\n\nTarget column is Unit Status as Binary Classification \n\nBefore you dive to explore a dataset, understand the Features\n\n\n1. Datetime: Realtime Date and time of recording of the Air Properties\n\n2.  SA DPT : stands for Supply Air Dew Point Temperature meaning temperature of air at which vapour present in air get condesed to form a dew drop\n\n3. SA Temp : Supply Air Temperarure meaning A Value of Temperature of air that is being supplied to room\n\n4. RA DPT : stands for Return Air Dew Point Temperature meaning temperature of Return air to Room at which vapour present in air get condesed to form a dew drop\n\n5. SA %RH: Stands for Supply air % Relative Humidity of Air , Humidity is measure of amount of Moisture present in air\n\n6. RA Temp: Room Return Air Temperature\n\n7. RA Humidity: Return Air Humidity is also a Relative Humidity of Return air From Room\n\n8. Unit Status: Air handling Unit (AHU)  Running Status 1 is for on and 0 for OFF\n\nBlock Diagram of Air Handling Unit is as follows:\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9593084%2F8cac995cbea1998b14b1ee6ea8a69fc1%2Fahu.png?generation=1670400378810914&alt=media)\n\n\nAir Handling Unit Conditions and Circulates Air to Room\nDuct is Hollow Metal Body Carries  conditioned  air to Room and Back to air handling Unit , \nAll Supply Air Properties are Measured with help of sensor in Supply air Duct Similarly Return Air Properties from Return Air Duct\n\n[Explore my Notebook here ](https://www.kaggle.com/code/vitthalmadane/pharma-room-air-properties-notebook-basic-analysis?scriptVersionId=112470970&cellId=3)\n\n\n...  info Is Loading so WATCH THIS SPACE...",
+  "datasetId": 1916125,
+  "datasetSlug": "pharma-air-handling-units-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "vitthalmadane",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3100,
+  "totalVotes": 6,
+  "totalDownloads": 321,
+  "title": "Air Properties Time Series Dataset",
+  "hasTitle": true,
+  "subtitle": "Air Conditioned Room Air Properties Dataset",
+  "hasSubtitle": true,
+  "description": "The Data Set Represents real-time  Value of Pharma Cleanroom Air  properties such as Supply air temperature, \nReturn Air Temperature, Humidity, Dew point, Air Flow and KWH Consumption with respect to time and date.\n\n To Maintain clean room conditions such as temperature, Humidity, Differential Pressure essential for product care, we use Air Handling Unit briefly known as AHU to mainten Temperature and Humidity insede pharma cleanrooms where drug formulation/testing take place.\n\nTarget column is Unit Status as Binary Classification \n\nBefore you dive to explore a dataset, understand the Features\n\n\n1. Datetime: Realtime Date and time of recording of the Air Properties\n\n2.  SA DPT : stands for Supply Air Dew Point Temperature meaning temperature of air at which vapour present in air get condesed to form a dew drop\n\n3. SA Temp : Supply Air Temperarure meaning A Value of Temperature of air that is being supplied to room\n\n4. RA DPT : stands for Return Air Dew Point Temperature meaning temperature of Return air to Room at which vapour present in air get condesed to form a dew drop\n\n5. SA %RH: Stands for Supply air % Relative Humidity of Air , Humidity is measure of amount of Moisture present in air\n\n6. RA Temp: Room Return Air Temperature\n\n7. RA Humidity: Return Air Humidity is also a Relative Humidity of Return air From Room\n\n8. Unit Status: Air handling Unit (AHU)  Running Status 1 is for on and 0 for OFF\n\nBlock Diagram of Air Handling Unit is as follows:\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9593084%2F8cac995cbea1998b14b1ee6ea8a69fc1%2Fahu.png?generation=1670400378810914&alt=media)\n\n\nAir Handling Unit Conditions and Circulates Air to Room\nDuct is Hollow Metal Body Carries  conditioned  air to Room and Back to air handling Unit , \nAll Supply Air Properties are Measured with help of sensor in Supply air Duct Similarly Return Air Properties from Return Air Duct\n\n[Explore my Notebook here ](https://www.kaggle.com/code/vitthalmadane/pharma-room-air-properties-notebook-basic-analysis?scriptVersionId=112470970&cellId=3)\n\n\n...  info Is Loading so WATCH THIS SPACE...",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "weather and climate",
+    "business",
+    "exploratory data analysis",
+    "time series analysis",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

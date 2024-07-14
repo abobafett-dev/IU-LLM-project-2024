@@ -1,0 +1,42 @@
+{
+  "id": "nicolemichelle/pheme-dataset-for-rumour-detection",
+  "id_no": 2455636,
+  "datasetSlugNullable": "pheme-dataset-for-rumour-detection",
+  "ownerUserNullable": "nicolemichelle",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "PHEME Dataset for Rumour Detection",
+  "subtitleNullable": "The Dataset has been developed from the json files of the original PHEME dataset",
+  "descriptionNullable": "PHEME dataset for Rumour Detection and Veracity Classification: This dataset contains a collection of Twitter rumours and non-rumours posted during breaking news. It contains rumours related to 9 events,In this dataset we have converted the PHEME Dataset into it's csv format and focused on 2 events the german wing crash and charlie hebdo, the dataset contains over 60,000+ rows. \nIf you'd like to see the original dataset : https://figshare.com/articles/dataset/PHEME_dataset_for_Rumour_Detection_and_Veracity_Classification/6392078\n",
+  "datasetId": 2455636,
+  "datasetSlug": "pheme-dataset-for-rumour-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "nicolemichelle",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2195,
+  "totalVotes": 8,
+  "totalDownloads": 281,
+  "title": "PHEME Dataset for Rumour Detection",
+  "hasTitle": true,
+  "subtitle": "The Dataset has been developed from the json files of the original PHEME dataset",
+  "hasSubtitle": true,
+  "description": "PHEME dataset for Rumour Detection and Veracity Classification: This dataset contains a collection of Twitter rumours and non-rumours posted during breaking news. It contains rumours related to 9 events,In this dataset we have converted the PHEME Dataset into it's csv format and focused on 2 events the german wing crash and charlie hebdo, the dataset contains over 60,000+ rows. \nIf you'd like to see the original dataset : https://figshare.com/articles/dataset/PHEME_dataset_for_Rumour_Detection_and_Veracity_Classification/6392078\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "internet",
+    "beginner",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

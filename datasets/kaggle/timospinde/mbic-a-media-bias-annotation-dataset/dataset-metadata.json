@@ -1,0 +1,39 @@
+{
+  "id": "timospinde/mbic-a-media-bias-annotation-dataset",
+  "id_no": 1124292,
+  "datasetSlugNullable": "mbic-a-media-bias-annotation-dataset",
+  "ownerUserNullable": "timospinde",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "MBIC \u2013 A Media Bias Annotation Dataset",
+  "subtitleNullable": "MBIC \u2013 A Media Bias Annotation Dataset Including Annotator Characteristics",
+  "descriptionNullable": "Find more and related research on: https://media-bias-research.org\n\nMany people consider news articles to be a reliable source of information on current events. However, due to the range of factors influencing news agencies, such coverage may not always be impartial. Media bias, or slanted news coverage, can have a substantial impact on public perception of events, and, accordingly, can potentially alter the beliefs and views of the public. The main data gap in current research on media bias detection is a robust, representative, and diverse dataset containing annotations of biased words and sentences. In particular, existing datasets do not control for the individual background of annotators, which may affect their assessment and, thus, represents critical information for contextualizing their annotations. In this poster, we present a matrix-based methodology to crowdsource such data using a self-developed annotation platform. We also present MBIC (Media Bias Including Characteristics) - the first sample of 1,700 statements representing various media bias instances. The statements were reviewed by ten annotators each and contain labels for media bias identification both on the word and sentence level. MBIC is the first available dataset about media bias reporting detailed information on annotator characteristics and their individual background. The current dataset already significantly extends existing data in this domain providing unique and more reliable insights into the perception of bias. In future, we will further extend it both with respect to the number of articles and annotators per article.\n\nYou find and cite the paper describing the data set with \n\nT. Spinde, L. Rudnitckaia, K. Sinha, F. Hamborg, B. Gipp, K. Donnay \u201cMBIC \u2013 A Media Bias Annotation Dataset Including Annotator Characteristics\u201d. In: Proceedings of the iConference 2021.\nBibTex:\n@InProceedings{Spinde2021MBIC,\ntitle = {MBIC \u2013 A Media Bias Annotation Dataset Including Annotator Characteristics},\nbooktitle = {Proceedings of the iConference 2021},\nauthor = {Spinde, Timo and Rudnitckaia, Lada and Sinha, Kanishka, and Hamborg, Felix and and Gipp, Bela and Donnay, Karsten},\nyear = {2021},\nlocation = {Beijing, China (Virtual Event)},\nmonth = {March},\ntopic = {newsanalysis},\n}",
+  "datasetId": 1124292,
+  "datasetSlug": "mbic-a-media-bias-annotation-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "timospinde",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 4017,
+  "totalVotes": 9,
+  "totalDownloads": 436,
+  "title": "MBIC \u2013 A Media Bias Annotation Dataset",
+  "hasTitle": true,
+  "subtitle": "MBIC \u2013 A Media Bias Annotation Dataset Including Annotator Characteristics",
+  "hasSubtitle": true,
+  "description": "Find more and related research on: https://media-bias-research.org\n\nMany people consider news articles to be a reliable source of information on current events. However, due to the range of factors influencing news agencies, such coverage may not always be impartial. Media bias, or slanted news coverage, can have a substantial impact on public perception of events, and, accordingly, can potentially alter the beliefs and views of the public. The main data gap in current research on media bias detection is a robust, representative, and diverse dataset containing annotations of biased words and sentences. In particular, existing datasets do not control for the individual background of annotators, which may affect their assessment and, thus, represents critical information for contextualizing their annotations. In this poster, we present a matrix-based methodology to crowdsource such data using a self-developed annotation platform. We also present MBIC (Media Bias Including Characteristics) - the first sample of 1,700 statements representing various media bias instances. The statements were reviewed by ten annotators each and contain labels for media bias identification both on the word and sentence level. MBIC is the first available dataset about media bias reporting detailed information on annotator characteristics and their individual background. The current dataset already significantly extends existing data in this domain providing unique and more reliable insights into the perception of bias. In future, we will further extend it both with respect to the number of articles and annotators per article.\n\nYou find and cite the paper describing the data set with \n\nT. Spinde, L. Rudnitckaia, K. Sinha, F. Hamborg, B. Gipp, K. Donnay \u201cMBIC \u2013 A Media Bias Annotation Dataset Including Annotator Characteristics\u201d. In: Proceedings of the iConference 2021.\nBibTex:\n@InProceedings{Spinde2021MBIC,\ntitle = {MBIC \u2013 A Media Bias Annotation Dataset Including Annotator Characteristics},\nbooktitle = {Proceedings of the iConference 2021},\nauthor = {Spinde, Timo and Rudnitckaia, Lada and Sinha, Kanishka, and Hamborg, Felix and and Gipp, Bela and Donnay, Karsten},\nyear = {2021},\nlocation = {Beijing, China (Virtual Event)},\nmonth = {March},\ntopic = {newsanalysis},\n}",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

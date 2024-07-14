@@ -1,0 +1,43 @@
+{
+  "id": "andrewmvd/isic-2019",
+  "id_no": 679322,
+  "datasetSlugNullable": "isic-2019",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Skin Lesion Images for Melanoma Classification",
+  "subtitleNullable": "25,331 images belonging to 9 classes",
+  "descriptionNullable": "# About this Dataset\n&gt; This dataset contains the training data for the **ISIC 2019 challenge**, note that it **already includes data from previous years (2018 and 2017)**.\n\n&gt; The dataset for ISIC 2019 contains **25,331 images** available for the classification of dermoscopic images among **nine different diagnostic categories**:\n- Melanoma\n- Melanocytic nevus\n- Basal cell carcinoma\n- Actinic keratosis\n- Benign keratosis (solar lentigo / seborrheic keratosis / lichen planus-like keratosis)\n- Dermatofibroma\n- Vascular lesion\n- Squamous cell carcinoma\n- None of the above\n\n# How to use this dataset\n&gt; - [Merge External Data](https://www.kaggle.com/shonenkov/merge-external-data) by [Alex Shonenkov](https://www.kaggle.com/shonenkov)\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n# Copyright and Attribution\nIf you use this dataset in your research, please credit the authors\n\n&gt; ### Citations\n- [1] Tschandl P., Rosendahl C. & Kittler H. The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions. Sci. Data 5, 180161 doi.10.1038/sdata.2018.161 (2018)\n- [2] Noel C. F. Codella, David Gutman, M. Emre Celebi, Brian Helba, Michael A. Marchetti, Stephen W. Dusza, Aadi Kalloo, Konstantinos Liopyris, Nabin Mishra, Harald Kittler, Allan Halpern: \u201cSkin Lesion Analysis Toward Melanoma Detection: A Challenge at the 2017 International Symposium on Biomedical Imaging (ISBI), Hosted by the International Skin Imaging Collaboration (ISIC)\u201d, 2017; arXiv:1710.05006.\n- [3] Marc Combalia, Noel C. F. Codella, Veronica Rotemberg, Brian Helba, Veronica Vilaplana, Ofer Reiter, Allan C. Halpern, Susana Puig, Josep Malvehy: \u201cBCN20000: Dermoscopic Lesions in the Wild\u201d, 2019; arXiv:1908.02288.\n\n### Image Sources\n&gt; - BCN_20000 Dataset: (c) Department of Dermatology, Hospital Cl\u00ednic de Barcelona\n- HAM10000 Dataset: (c) by ViDIR Group, Department of Dermatology, Medical University of Vienna; https://doi.org/10.1038/sdata.2018.161\n- MSK Dataset: (c) Anonymous; https://arxiv.org/abs/1710.05006 ; https://arxiv.org/abs/1902.03368\n\n### License\n&gt; CC BY NC 4.0\n\n### Splash banner\n&gt; Photo by [Carolina Heza](https://unsplash.com/@carolinahdzz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\n\n### Relevant Links\n&gt; [HAM10000 article](https://www.nature.com/articles/sdata2018161)\n&gt; [MSK article](https://arxiv.org/abs/1710.05006)\nFor more datasets, [click here](https://www.kaggle.com/andrewmvd/datasets).",
+  "datasetId": 679322,
+  "datasetSlug": "isic-2019",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 85946,
+  "totalVotes": 157,
+  "totalDownloads": 9058,
+  "title": "Skin Lesion Images for Melanoma Classification",
+  "hasTitle": true,
+  "subtitle": "25,331 images belonging to 9 classes",
+  "hasSubtitle": true,
+  "description": "# About this Dataset\n&gt; This dataset contains the training data for the **ISIC 2019 challenge**, note that it **already includes data from previous years (2018 and 2017)**.\n\n&gt; The dataset for ISIC 2019 contains **25,331 images** available for the classification of dermoscopic images among **nine different diagnostic categories**:\n- Melanoma\n- Melanocytic nevus\n- Basal cell carcinoma\n- Actinic keratosis\n- Benign keratosis (solar lentigo / seborrheic keratosis / lichen planus-like keratosis)\n- Dermatofibroma\n- Vascular lesion\n- Squamous cell carcinoma\n- None of the above\n\n# How to use this dataset\n&gt; - [Merge External Data](https://www.kaggle.com/shonenkov/merge-external-data) by [Alex Shonenkov](https://www.kaggle.com/shonenkov)\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n# Copyright and Attribution\nIf you use this dataset in your research, please credit the authors\n\n&gt; ### Citations\n- [1] Tschandl P., Rosendahl C. & Kittler H. The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions. Sci. Data 5, 180161 doi.10.1038/sdata.2018.161 (2018)\n- [2] Noel C. F. Codella, David Gutman, M. Emre Celebi, Brian Helba, Michael A. Marchetti, Stephen W. Dusza, Aadi Kalloo, Konstantinos Liopyris, Nabin Mishra, Harald Kittler, Allan Halpern: \u201cSkin Lesion Analysis Toward Melanoma Detection: A Challenge at the 2017 International Symposium on Biomedical Imaging (ISBI), Hosted by the International Skin Imaging Collaboration (ISIC)\u201d, 2017; arXiv:1710.05006.\n- [3] Marc Combalia, Noel C. F. Codella, Veronica Rotemberg, Brian Helba, Veronica Vilaplana, Ofer Reiter, Allan C. Halpern, Susana Puig, Josep Malvehy: \u201cBCN20000: Dermoscopic Lesions in the Wild\u201d, 2019; arXiv:1908.02288.\n\n### Image Sources\n&gt; - BCN_20000 Dataset: (c) Department of Dermatology, Hospital Cl\u00ednic de Barcelona\n- HAM10000 Dataset: (c) by ViDIR Group, Department of Dermatology, Medical University of Vienna; https://doi.org/10.1038/sdata.2018.161\n- MSK Dataset: (c) Anonymous; https://arxiv.org/abs/1710.05006 ; https://arxiv.org/abs/1902.03368\n\n### License\n&gt; CC BY NC 4.0\n\n### Splash banner\n&gt; Photo by [Carolina Heza](https://unsplash.com/@carolinahdzz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\n\n### Relevant Links\n&gt; [HAM10000 article](https://www.nature.com/articles/sdata2018161)\n&gt; [MSK article](https://arxiv.org/abs/1710.05006)\nFor more datasets, [click here](https://www.kaggle.com/andrewmvd/datasets).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "healthcare",
+    "health",
+    "health conditions",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

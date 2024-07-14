@@ -1,0 +1,43 @@
+{
+  "id": "bhuviranga/mini-dog-breed-identification",
+  "id_no": 3516326,
+  "datasetSlugNullable": "mini-dog-breed-identification",
+  "ownerUserNullable": "bhuviranga",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Mini Dog Breed Identification",
+  "subtitleNullable": "This is a subset of Dog Breed Identification Dataset",
+  "descriptionNullable": "Subset of the original Dog Breed Identification Dataset.\nThe purpose of this was to make the dataset easy to handle and operate easily.\nThe details of the data are as follows :-\n1. saint Bernard : 84 images\n2. Scottish deerhound : 126 images\n3. Siberian husky : 95 images\n4. silky_terrier : 90 images\n5. Yorkshire terrier : 92 images\n\nLink for the original dataset : <a href=\"https://www.kaggle.com/competitions/dog-breed-identification\">link</a>",
+  "datasetId": 3516326,
+  "datasetSlug": "mini-dog-breed-identification",
+  "hasDatasetSlug": true,
+  "ownerUser": "bhuviranga",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 1998,
+  "totalVotes": 13,
+  "totalDownloads": 224,
+  "title": "Mini Dog Breed Identification",
+  "hasTitle": true,
+  "subtitle": "This is a subset of Dog Breed Identification Dataset",
+  "hasSubtitle": true,
+  "description": "Subset of the original Dog Breed Identification Dataset.\nThe purpose of this was to make the dataset easy to handle and operate easily.\nThe details of the data are as follows :-\n1. saint Bernard : 84 images\n2. Scottish deerhound : 126 images\n3. Siberian husky : 95 images\n4. silky_terrier : 90 images\n5. Yorkshire terrier : 92 images\n\nLink for the original dataset : <a href=\"https://www.kaggle.com/competitions/dog-breed-identification\">link</a>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "cnn",
+    "gpu",
+    "tensorflow",
+    "image augmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

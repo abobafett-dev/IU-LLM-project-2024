@@ -1,0 +1,39 @@
+{
+  "id": "kamal01/crop-prediction",
+  "id_no": 4656695,
+  "datasetSlugNullable": "crop-prediction",
+  "ownerUserNullable": "kamal01",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Three Main Crop Prediction",
+  "subtitleNullable": "Rice, Wheat, Corn Main Crop Prediction Dataset ",
+  "descriptionNullable": "**Overview**\n\nThis dataset contains images of crops categorized into three classes: Corn, Rice, and Wheat. It is intended for use in training machine learning models to classify different types of crops based on images.\n\nTotal number of classes: 3\nTotal number of images: 2667\n\n**Class Labels**:\n\n    Corn: Images of corn crop leaves.\n\n    Rice: Images of rice crop leaves.\n\n    Wheat: Images of wheat crop leaves.\n\n**Usage**\n\nThis dataset can be used for various purposes, including:\n\n    Training machine learning models for crop classification tasks.\n    Research and analysis in the field of agriculture and computer vision.\n    Educational purposes for learning image classification techniques.\n\nRice images were collected from the datasets:\nRice images were collected from the datasets: Dhan-Shomadhan.\n\nWheat images were collected from the datasets:\n\"Wheat Disease Detection\" dataset from Kaggle.\n\n\nAll the images of the Corn species has been collected from the PlantVillage dataset. PlantVillage is a standard and most popular leaf image dataset\n\nThis dataset is released under the **CC0: Public Domain license**, which allows anyone to freely use, modify, and distribute the material without any restrictions. By accessing and using this dataset, you agree to waive all rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking for permission.",
+  "datasetId": 4656695,
+  "datasetSlug": "crop-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "kamal01",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 320,
+  "totalVotes": 5,
+  "totalDownloads": 26,
+  "title": "Three Main Crop Prediction",
+  "hasTitle": true,
+  "subtitle": "Rice, Wheat, Corn Main Crop Prediction Dataset ",
+  "hasSubtitle": true,
+  "description": "**Overview**\n\nThis dataset contains images of crops categorized into three classes: Corn, Rice, and Wheat. It is intended for use in training machine learning models to classify different types of crops based on images.\n\nTotal number of classes: 3\nTotal number of images: 2667\n\n**Class Labels**:\n\n    Corn: Images of corn crop leaves.\n\n    Rice: Images of rice crop leaves.\n\n    Wheat: Images of wheat crop leaves.\n\n**Usage**\n\nThis dataset can be used for various purposes, including:\n\n    Training machine learning models for crop classification tasks.\n    Research and analysis in the field of agriculture and computer vision.\n    Educational purposes for learning image classification techniques.\n\nRice images were collected from the datasets:\nRice images were collected from the datasets: Dhan-Shomadhan.\n\nWheat images were collected from the datasets:\n\"Wheat Disease Detection\" dataset from Kaggle.\n\n\nAll the images of the Corn species has been collected from the PlantVillage dataset. PlantVillage is a standard and most popular leaf image dataset\n\nThis dataset is released under the **CC0: Public Domain license**, which allows anyone to freely use, modify, and distribute the material without any restrictions. By accessing and using this dataset, you agree to waive all rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking for permission.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "religion and belief systems"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

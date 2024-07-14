@@ -1,0 +1,39 @@
+{
+  "id": "syjiang/crunchyroll-anime-dataset",
+  "id_no": 4121662,
+  "datasetSlugNullable": "crunchyroll-anime-dataset",
+  "ownerUserNullable": "syjiang",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Crunchyroll Anime dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "Dataset crawls the rating status of all animations on Crunchyroll, a video platform, on 6/12/2023.\nFor the Collecting Data homework.\n\nThere are some bugs that will be fixed gradually.\n\n## Metadata\nCrunchyroll.csv\n| variable | class | description|\n|----------|-------|------------|\n| title | character | the English name of the anime |\n| series_launch_year | int | Year the animation was launched |\n| season_count | int | Total number of seasons of animation |\n| total | int | Number of voters |\n| average | float | Average score for animation |\n| 1s | character | the quantity of 1 stars votes of the anime |\n| 2s | character | the quantity of 2 stars votes of the anime |\n| 3s | character |  the quantity of 3 stars votes of the anime |\n| 4s | character |  the quantity of 4 stars votes of the anime |\n| 5s | character |  the quantity of 5 stars votes of the anime |\n\n",
+  "datasetId": 4121662,
+  "datasetSlug": "crunchyroll-anime-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "syjiang",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 74,
+  "totalVotes": 0,
+  "totalDownloads": 13,
+  "title": "Crunchyroll Anime dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Dataset crawls the rating status of all animations on Crunchyroll, a video platform, on 6/12/2023.\nFor the Collecting Data homework.\n\nThere are some bugs that will be fixed gradually.\n\n## Metadata\nCrunchyroll.csv\n| variable | class | description|\n|----------|-------|------------|\n| title | character | the English name of the anime |\n| series_launch_year | int | Year the animation was launched |\n| season_count | int | Total number of seasons of animation |\n| total | int | Number of voters |\n| average | float | Average score for animation |\n| 1s | character | the quantity of 1 stars votes of the anime |\n| 2s | character | the quantity of 2 stars votes of the anime |\n| 3s | character |  the quantity of 3 stars votes of the anime |\n| 4s | character |  the quantity of 4 stars votes of the anime |\n| 5s | character |  the quantity of 5 stars votes of the anime |\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

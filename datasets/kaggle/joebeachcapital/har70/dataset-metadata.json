@@ -1,0 +1,44 @@
+{
+  "id": "joebeachcapital/har70",
+  "id_no": 3879311,
+  "datasetSlugNullable": "har70",
+  "ownerUserNullable": "joebeachcapital",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "HAR70+",
+  "subtitleNullable": "18 fit-to-frail older-adult subjects (70-95 yo) wearing two 3-axial acceleromete",
+  "descriptionNullable": "The Human Activity Recognition 70+ (HAR70+) dataset is a professionally-annotated dataset containing 18 fit-to-frail older-adult subjects (70-95 years old) wearing two 3-axial accelerometers for around 40 minutes during a semi-structured free-living protocol. The sensors were attached to the right thigh and lower back. \n\n**For what purpose was the dataset created?**\n\nThe purpose was to train machine learning models for human activity recognition on professionally-annotated accelerometer data of fit-to-frail older adults.\n\n**Additional Information**\n\nThe HAR70+ dataset contains recordings of 18 older adult participants wearing two 3-axial Axivity AX3 accelerometers for around 40 minutes in a semi-structured free-living setting. The participants' age was between 70 and 95 years. Five of the 18 subjects used walking aids during data recording. One sensor was attached to the right front thigh and the other to the lower back. The provided sampling rate is 50Hz. Video recordings of a chest-mounted camera were used to annotate the performed activities frame-by-frame.\n\nEach subject's recordings are provided in a separate .csv file. One such .csv file contains the following columns:\n1. timestamp: date and time of recorded sample\n2. back_x: acceleration of back sensor in x-direction (down) in the unit g\n3. back_y: acceleration of back sensor in y-direction (left) in the unit g\n4. back_z: acceleration of back sensor in z-direction (forward) in the unit g\n5. thigh_x: acceleration of thigh sensor in x-direction (down) in the unit g\n6. thigh_y: acceleration of thigh sensor in y-direction (right) in the unit g\n7. thigh_z: acceleration of thigh sensor in z-direction (backward) in the unit g\n8. label: annotated activity code\n\nThe dataset contains the following annotated activities with the corresponding coding scheme:\n1: walking\t\n3: shuffling\n4: stairs (ascending)\t\n5: stairs (descending)\t\n6: standing\t\n7: sitting\t\n8: lying\n\n**Introductory Paper**\n\n[Validation of an Activity Type Recognition Model Classifying Daily Physical Behavior in Older Adults: The HAR70+ Model](https://doi.org/10.3390/s23052368)\n\nBy Astrid Ustad, Aleksej Logacjov, Stine \u00d8verengen Trolleb\u00f8, Pernille Thingstad, Beatrix Vereijken, Kerstin Bach, and Nina Skj\u00e6ret Maroni. 2023\n\nPublished in Sensors",
+  "datasetId": 3879311,
+  "datasetSlug": "har70",
+  "hasDatasetSlug": true,
+  "ownerUser": "joebeachcapital",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 423,
+  "totalVotes": 11,
+  "totalDownloads": 49,
+  "title": "HAR70+",
+  "hasTitle": true,
+  "subtitle": "18 fit-to-frail older-adult subjects (70-95 yo) wearing two 3-axial acceleromete",
+  "hasSubtitle": true,
+  "description": "The Human Activity Recognition 70+ (HAR70+) dataset is a professionally-annotated dataset containing 18 fit-to-frail older-adult subjects (70-95 years old) wearing two 3-axial accelerometers for around 40 minutes during a semi-structured free-living protocol. The sensors were attached to the right thigh and lower back. \n\n**For what purpose was the dataset created?**\n\nThe purpose was to train machine learning models for human activity recognition on professionally-annotated accelerometer data of fit-to-frail older adults.\n\n**Additional Information**\n\nThe HAR70+ dataset contains recordings of 18 older adult participants wearing two 3-axial Axivity AX3 accelerometers for around 40 minutes in a semi-structured free-living setting. The participants' age was between 70 and 95 years. Five of the 18 subjects used walking aids during data recording. One sensor was attached to the right front thigh and the other to the lower back. The provided sampling rate is 50Hz. Video recordings of a chest-mounted camera were used to annotate the performed activities frame-by-frame.\n\nEach subject's recordings are provided in a separate .csv file. One such .csv file contains the following columns:\n1. timestamp: date and time of recorded sample\n2. back_x: acceleration of back sensor in x-direction (down) in the unit g\n3. back_y: acceleration of back sensor in y-direction (left) in the unit g\n4. back_z: acceleration of back sensor in z-direction (forward) in the unit g\n5. thigh_x: acceleration of thigh sensor in x-direction (down) in the unit g\n6. thigh_y: acceleration of thigh sensor in y-direction (right) in the unit g\n7. thigh_z: acceleration of thigh sensor in z-direction (backward) in the unit g\n8. label: annotated activity code\n\nThe dataset contains the following annotated activities with the corresponding coding scheme:\n1: walking\t\n3: shuffling\n4: stairs (ascending)\t\n5: stairs (descending)\t\n6: standing\t\n7: sitting\t\n8: lying\n\n**Introductory Paper**\n\n[Validation of an Activity Type Recognition Model Classifying Daily Physical Behavior in Older Adults: The HAR70+ Model](https://doi.org/10.3390/s23052368)\n\nBy Astrid Ustad, Aleksej Logacjov, Stine \u00d8verengen Trolleb\u00f8, Pernille Thingstad, Beatrix Vereijken, Kerstin Bach, and Nina Skj\u00e6ret Maroni. 2023\n\nPublished in Sensors",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "health and fitness",
+    "healthcare",
+    "health",
+    "time series analysis",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

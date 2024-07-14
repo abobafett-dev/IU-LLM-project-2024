@@ -1,0 +1,40 @@
+{
+  "id": "corrieaar/disinformation-articles",
+  "id_no": 547462,
+  "datasetSlugNullable": "disinformation-articles",
+  "ownerUserNullable": "corrieaar",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Disinformation and Fake News",
+  "subtitleNullable": "Disinformation cases originating in pro-Kremlin media collected by EUvsDisinfo",
+  "descriptionNullable": "This data set contains disinformation cases as collected by the [EUvsDisinfo](www.euvsdisinfo.eu) project. The project was started in 2015 and identifies, compiles, and exposes disinformation cases originating in pro-Kremlin media that are spread across the EU and Eastern Partnership countries. Their data base contains over 7000 disinformation cases and debunks. \n\n### Content\n\nIt contains both a data set with the meta data collected and hand-labelled by the EUvsDisinfo team. If you want to work with their API directly to get up-to-date data, you can use for example this [R package](https://github.com/corriebar/euvsdisinfoR).\nTheir API does not contain the original article of the disinformation case, it only provides a link. For all disinformation cases of type _news article_, both the html and text were scraped from the original web page.\nThe data was accessed from the EUvsDisinfo API on March, 7th 2020 and all web pages were scraped on March, 8th 2020.\n\n\n### Inspiration\n\nWhich countries are common targets of disinformation? What are frequent topics and recurring narratives? Can we use this data to detect new disinformation campaigns?",
+  "datasetId": 547462,
+  "datasetSlug": "disinformation-articles",
+  "hasDatasetSlug": true,
+  "ownerUser": "corrieaar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 12037,
+  "totalVotes": 22,
+  "totalDownloads": 677,
+  "title": "Disinformation and Fake News",
+  "hasTitle": true,
+  "subtitle": "Disinformation cases originating in pro-Kremlin media collected by EUvsDisinfo",
+  "hasSubtitle": true,
+  "description": "This data set contains disinformation cases as collected by the [EUvsDisinfo](www.euvsdisinfo.eu) project. The project was started in 2015 and identifies, compiles, and exposes disinformation cases originating in pro-Kremlin media that are spread across the EU and Eastern Partnership countries. Their data base contains over 7000 disinformation cases and debunks. \n\n### Content\n\nIt contains both a data set with the meta data collected and hand-labelled by the EUvsDisinfo team. If you want to work with their API directly to get up-to-date data, you can use for example this [R package](https://github.com/corriebar/euvsdisinfoR).\nTheir API does not contain the original article of the disinformation case, it only provides a link. For all disinformation cases of type _news article_, both the html and text were scraped from the original web page.\nThe data was accessed from the EUvsDisinfo API on March, 7th 2020 and all web pages were scraped on March, 8th 2020.\n\n\n### Inspiration\n\nWhich countries are common targets of disinformation? What are frequent topics and recurring narratives? Can we use this data to detect new disinformation campaigns?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news",
+    "social issues and advocacy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

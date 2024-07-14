@@ -1,0 +1,40 @@
+{
+  "id": "aiaiaidavid/covid19-casos-confirmados-paises-15052020",
+  "id_no": 662771,
+  "datasetSlugNullable": "covid19-casos-confirmados-paises-15052020",
+  "ownerUserNullable": "aiaiaidavid",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Covid-19 cases: 8 countries sample",
+  "subtitleNullable": "Confirmed, recovered and death cases . Last updated:  11/08/2020",
+  "descriptionNullable": "From 15/08/2020, I am no longer updating these files. Instead, I am directly reading data files from the Covid-19 Repository at John Hopkins University.\n\n### Context\n\nI have created these datasets specifically for my analysis notebooks:\n\nhttps://www.kaggle.com/aiaiaidavid/how-spain-became-leader-in-covid-19-infections\n\nAnd others I am working on.\n\n### Content\n\nThese datasets  contain covid-19 confirmed, recovered and detah cases time series for the following 10 world countries:\n\n    Europe: Spain, Italy, France, Germany and UK\n    Rest of the world: Australia, Brazil, Canada, Iran and USA\n\nNote the files for 27072020 had two countries (Iran and Australia) removed.\n\nFull data is obtained from the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University:\n\nhttps://github.com/CSSEGISandData/COVID-19\n\n\n### Acknowledgements\n\nThank you to the community of AI Saturdays Spain, which introduced me into Jupyter Notebooks and Kaggle, which has open up a new world of opportunities for me.\n",
+  "datasetId": 662771,
+  "datasetSlug": "covid19-casos-confirmados-paises-15052020",
+  "hasDatasetSlug": true,
+  "ownerUser": "aiaiaidavid",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 2424,
+  "totalVotes": 6,
+  "totalDownloads": 121,
+  "title": "Covid-19 cases: 8 countries sample",
+  "hasTitle": true,
+  "subtitle": "Confirmed, recovered and death cases . Last updated:  11/08/2020",
+  "hasSubtitle": true,
+  "description": "From 15/08/2020, I am no longer updating these files. Instead, I am directly reading data files from the Covid-19 Repository at John Hopkins University.\n\n### Context\n\nI have created these datasets specifically for my analysis notebooks:\n\nhttps://www.kaggle.com/aiaiaidavid/how-spain-became-leader-in-covid-19-infections\n\nAnd others I am working on.\n\n### Content\n\nThese datasets  contain covid-19 confirmed, recovered and detah cases time series for the following 10 world countries:\n\n    Europe: Spain, Italy, France, Germany and UK\n    Rest of the world: Australia, Brazil, Canada, Iran and USA\n\nNote the files for 27072020 had two countries (Iran and Australia) removed.\n\nFull data is obtained from the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University:\n\nhttps://github.com/CSSEGISandData/COVID-19\n\n\n### Acknowledgements\n\nThank you to the community of AI Saturdays Spain, which introduced me into Jupyter Notebooks and Kaggle, which has open up a new world of opportunities for me.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "law",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

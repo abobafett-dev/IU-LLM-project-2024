@@ -1,0 +1,39 @@
+{
+  "id": "sonia22222/students-mental-health-assessments",
+  "id_no": 3579311,
+  "datasetSlugNullable": "students-mental-health-assessments",
+  "ownerUserNullable": "sonia22222",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": " Students Mental Health Assessments",
+  "subtitleNullable": "Dataset for a Statistical Study on Mental Health of Students",
+  "descriptionNullable": "The dataset  represents mental health evaluations of students. This dataset seeks to provide valuable insights into the mental health of students by capturing a number of factors that may impact their mental health.\nThe data set comprises a rich collection of  records, carefully selected from various anonymous sources to ensure privacy and confidentiality. It's essential to acknowledge that no dataset is ever 100% accurate, as it can be affected by numerous sources of error and uncertainty. For previous listings, check older versions of the dataset.\n\n#  Content\n- - - \n    \nStress_Level: The level of stress experienced by the individual.\n\nDepression_Score: The score representing the level of depression experienced by the individual.\n\nAnxiety_Score: The score representing the level of anxiety experienced by the individual.\n\nSleep_Quality: The quality of sleep experienced by the individual .\n\nPhysical_Activity: The level of physical activity .\n\n Diet_Quality: The quality of the individual's diet. \n\nSocial_Support: The level of social support received by the individual.\n\n Substance_Use: The frequency of substance use such as alcohol, cigarettes or other drugs. \n\nFamily_History: Whether the individual has a family history of mental health issues.\n\n Chronic_Illness:  Financial_Stress: The level of financial stress experienced by the individual (between 0 and 5). \n\n Semester_Credit_Load: The number of credits the individual is taking in the semester (15-30).    ",
+  "datasetId": 3579311,
+  "datasetSlug": "students-mental-health-assessments",
+  "hasDatasetSlug": true,
+  "ownerUser": "sonia22222",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 10386,
+  "totalVotes": 23,
+  "totalDownloads": 2149,
+  "title": " Students Mental Health Assessments",
+  "hasTitle": true,
+  "subtitle": "Dataset for a Statistical Study on Mental Health of Students",
+  "hasSubtitle": true,
+  "description": "The dataset  represents mental health evaluations of students. This dataset seeks to provide valuable insights into the mental health of students by capturing a number of factors that may impact their mental health.\nThe data set comprises a rich collection of  records, carefully selected from various anonymous sources to ensure privacy and confidentiality. It's essential to acknowledge that no dataset is ever 100% accurate, as it can be affected by numerous sources of error and uncertainty. For previous listings, check older versions of the dataset.\n\n#  Content\n- - - \n    \nStress_Level: The level of stress experienced by the individual.\n\nDepression_Score: The score representing the level of depression experienced by the individual.\n\nAnxiety_Score: The score representing the level of anxiety experienced by the individual.\n\nSleep_Quality: The quality of sleep experienced by the individual .\n\nPhysical_Activity: The level of physical activity .\n\n Diet_Quality: The quality of the individual's diet. \n\nSocial_Support: The level of social support received by the individual.\n\n Substance_Use: The frequency of substance use such as alcohol, cigarettes or other drugs. \n\nFamily_History: Whether the individual has a family history of mental health issues.\n\n Chronic_Illness:  Financial_Stress: The level of financial stress experienced by the individual (between 0 and 5). \n\n Semester_Credit_Load: The number of credits the individual is taking in the semester (15-30).    ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

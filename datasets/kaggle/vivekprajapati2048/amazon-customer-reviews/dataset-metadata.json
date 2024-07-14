@@ -1,0 +1,43 @@
+{
+  "id": "vivekprajapati2048/amazon-customer-reviews",
+  "id_no": 1470538,
+  "datasetSlugNullable": "amazon-customer-reviews",
+  "ownerUserNullable": "vivekprajapati2048",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Amazon Customer Reviews",
+  "subtitleNullable": "Predict the sentiments of Amazon Customers",
+  "descriptionNullable": "",
+  "datasetId": 1470538,
+  "datasetSlug": "amazon-customer-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "vivekprajapati2048",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 4690,
+  "totalVotes": 8,
+  "totalDownloads": 394,
+  "title": "Amazon Customer Reviews",
+  "hasTitle": true,
+  "subtitle": "Predict the sentiments of Amazon Customers",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "deep learning",
+    "text",
+    "binary classification",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

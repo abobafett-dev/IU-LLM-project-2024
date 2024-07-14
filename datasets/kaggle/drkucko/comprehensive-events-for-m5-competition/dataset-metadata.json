@@ -1,0 +1,40 @@
+{
+  "id": "drkucko/comprehensive-events-for-m5-competition",
+  "id_no": 733638,
+  "datasetSlugNullable": "comprehensive-events-for-m5-competition",
+  "ownerUserNullable": "drkucko",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Comprehensive Events for M5 Competition",
+  "subtitleNullable": "Additional Holidays and Sporting Events relevant to Walmart Store Sales",
+  "descriptionNullable": "### Context\n\nEvents affect consumer behavior, driving people to stores in anticipation for certain occasions, yet also driving them away when life is too busy. The purpose of this data is to more thoroughly account for event impact on store sales thereby improving predictions.\n\n\n### Content\n\nThe `comprehensive_event_calendar.csv` file contains the events from the original M5 Competition dataset, but with additional holidays. Note that it does away with having 2 event columns and uses multiple rows to represent all the events on a given date. The dataset is meant to be used with the `calendar.csv` file of the M5 Competition, which contains the date information and the `wm_yr_wk` / `d` keys. Full disclosure, much of the data was taken from simple Google searches and Wikipedia for confirmation (https://www.wikipedia.org/).\n\nAdditional files with popular sporting events in the U.S. were included, as sports have traditionally had a significant impact on American culture. The basis of predictions is from the perspective of someone with knowledge up to May 22nd, 2016. Anything that would be unknown to a person as of that date is indicated as such in the data. That is, one can see finals events that are indicated as \"tentative\" and with teams that are blank because they would not have been known. The schedules for games, specifically NBA and NHL, are set in advance, so any information that would be known is indeed captured. Here are the following sporting events files with references used to report the data contained inside:\n- `NFL_schedule.csv`\n    - https://www.pro-football-reference.com/years/2015/games.htm\n    - https://en.wikipedia.org/wiki/2016_NFL_Draft\n- `NBA_playoffs_schedule.csv`\n    - https://www.espn.com/nba/story/_/id/13728957/nba-tweaks-format-finals-ease-travel-demands\n    - https://programminginsider.com/2016-nba-playoffs-conference-finals-tv-schedule-tnt-espn/\n    - https://www.basketball-reference.com/playoffs/NBA_2016_games.html\n    - https://en.wikipedia.org/wiki/2016_NBA_Finals\n- `NHL_playoffs_schedule.csv`\n    - https://www.cbssports.com/nhl/news/2016-nhl-playoffs-conference-finals-schedules-results-and-tv-listings/\n    - https://www.hockey-reference.com/leagues/NHL_2016_games.html\n    - https://en.wikipedia.org/wiki/2016_Stanley_Cup_Finals\n- `NCAA_FB_playoffs_schedule.csv`\n    - https://en.wikipedia.org/wiki/2016_College_Football_Playoff_National_Championship\n- `NCAA_BB_playoffs_schedule.csv`\n    - https://en.wikipedia.org/wiki/2016_NCAA_Division_I_Men%27s_Basketball_Tournament#Bracket\n- `MLB_playoffs_schedule.csv`\n    - https://www.baseball-reference.com/bullpen/2015_Postseason\n\n### Acknowledgements\n\nThank you to [Samantha Gades](https://unsplash.com/@srosinger3997) for the [banner photo](https://unsplash.com/photos/fIHozNWfcvs) taken from Unsplash.\n",
+  "datasetId": 733638,
+  "datasetSlug": "comprehensive-events-for-m5-competition",
+  "hasDatasetSlug": true,
+  "ownerUser": "drkucko",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 2090,
+  "totalVotes": 5,
+  "totalDownloads": 39,
+  "title": "Comprehensive Events for M5 Competition",
+  "hasTitle": true,
+  "subtitle": "Additional Holidays and Sporting Events relevant to Walmart Store Sales",
+  "hasSubtitle": true,
+  "description": "### Context\n\nEvents affect consumer behavior, driving people to stores in anticipation for certain occasions, yet also driving them away when life is too busy. The purpose of this data is to more thoroughly account for event impact on store sales thereby improving predictions.\n\n\n### Content\n\nThe `comprehensive_event_calendar.csv` file contains the events from the original M5 Competition dataset, but with additional holidays. Note that it does away with having 2 event columns and uses multiple rows to represent all the events on a given date. The dataset is meant to be used with the `calendar.csv` file of the M5 Competition, which contains the date information and the `wm_yr_wk` / `d` keys. Full disclosure, much of the data was taken from simple Google searches and Wikipedia for confirmation (https://www.wikipedia.org/).\n\nAdditional files with popular sporting events in the U.S. were included, as sports have traditionally had a significant impact on American culture. The basis of predictions is from the perspective of someone with knowledge up to May 22nd, 2016. Anything that would be unknown to a person as of that date is indicated as such in the data. That is, one can see finals events that are indicated as \"tentative\" and with teams that are blank because they would not have been known. The schedules for games, specifically NBA and NHL, are set in advance, so any information that would be known is indeed captured. Here are the following sporting events files with references used to report the data contained inside:\n- `NFL_schedule.csv`\n    - https://www.pro-football-reference.com/years/2015/games.htm\n    - https://en.wikipedia.org/wiki/2016_NFL_Draft\n- `NBA_playoffs_schedule.csv`\n    - https://www.espn.com/nba/story/_/id/13728957/nba-tweaks-format-finals-ease-travel-demands\n    - https://programminginsider.com/2016-nba-playoffs-conference-finals-tv-schedule-tnt-espn/\n    - https://www.basketball-reference.com/playoffs/NBA_2016_games.html\n    - https://en.wikipedia.org/wiki/2016_NBA_Finals\n- `NHL_playoffs_schedule.csv`\n    - https://www.cbssports.com/nhl/news/2016-nhl-playoffs-conference-finals-schedules-results-and-tv-listings/\n    - https://www.hockey-reference.com/leagues/NHL_2016_games.html\n    - https://en.wikipedia.org/wiki/2016_Stanley_Cup_Finals\n- `NCAA_FB_playoffs_schedule.csv`\n    - https://en.wikipedia.org/wiki/2016_College_Football_Playoff_National_Championship\n- `NCAA_BB_playoffs_schedule.csv`\n    - https://en.wikipedia.org/wiki/2016_NCAA_Division_I_Men%27s_Basketball_Tournament#Bracket\n- `MLB_playoffs_schedule.csv`\n    - https://www.baseball-reference.com/bullpen/2015_Postseason\n\n### Acknowledgements\n\nThank you to [Samantha Gades](https://unsplash.com/@srosinger3997) for the [banner photo](https://unsplash.com/photos/fIHozNWfcvs) taken from Unsplash.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

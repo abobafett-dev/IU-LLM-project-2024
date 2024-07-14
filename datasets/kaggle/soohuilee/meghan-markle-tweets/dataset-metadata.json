@@ -1,0 +1,41 @@
+{
+  "id": "soohuilee/meghan-markle-tweets",
+  "id_no": 1207834,
+  "datasetSlugNullable": "meghan-markle-tweets",
+  "ownerUserNullable": "soohuilee",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "#MeghanMarkle Tweets",
+  "subtitleNullable": "Tweets with #MeghanMarkle extracted before, during and after the Oprah Interview",
+  "descriptionNullable": "### Context\nGiven the hype around the interview of Prince Harry and Meghan Markle with Oprah, it would be interesting to analyse people's reaction on Twitter and a chance to improve your NLP skills. \n\n### Content\nIt took me a few days to extract the tweets by trial and error using different source codes. Given the volume, I have to find a code that has faster processing time. The total time taken to extract this dataset is about 6 hours.\n\nIf you would like to learn how to get started in extracting tweets, please check out my article [here](https://medium.com/analytics-vidhya/twitter-analysis-with-python-using-tweepy-getting-started-164af4fb667e).\n\n### Task\n1. Analyse the sentiment before, during and after the interview such as positive/neutral/negative, emoticons used, number of retweets etc\n2. The topic that is most discussed about the interview such as racism, mental health etc\n\nYou can have a look at the main topics discussed during the interview and classify each tweet:\ninsider.com/biggest-bombshells-revealed-prince-harry-meghan-markle-oprah-interview-2021-3\n\nPlease upvote this dataset to give it a ranking boost so that more people can submit their analysis. :D\n\n### Acknowledgements\nSource code to extract the tweets credit to: [Lukastuong123](https://github.com/Lukastuong123/DeepLearing/blob/master/Project-%20US%20Election%202020%20Twitter%20Sentiment%20Analysis/Part%20A%20(Webscrapping%20with%20TwitterAPI%2C%20EDA).ipynb)\n\nImage credit to: [King's Church International](https://unsplash.com/photos/3y1QMNZzcUU)",
+  "datasetId": 1207834,
+  "datasetSlug": "meghan-markle-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "soohuilee",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2385,
+  "totalVotes": 6,
+  "totalDownloads": 78,
+  "title": "#MeghanMarkle Tweets",
+  "hasTitle": true,
+  "subtitle": "Tweets with #MeghanMarkle extracted before, during and after the Oprah Interview",
+  "hasSubtitle": true,
+  "description": "### Context\nGiven the hype around the interview of Prince Harry and Meghan Markle with Oprah, it would be interesting to analyse people's reaction on Twitter and a chance to improve your NLP skills. \n\n### Content\nIt took me a few days to extract the tweets by trial and error using different source codes. Given the volume, I have to find a code that has faster processing time. The total time taken to extract this dataset is about 6 hours.\n\nIf you would like to learn how to get started in extracting tweets, please check out my article [here](https://medium.com/analytics-vidhya/twitter-analysis-with-python-using-tweepy-getting-started-164af4fb667e).\n\n### Task\n1. Analyse the sentiment before, during and after the interview such as positive/neutral/negative, emoticons used, number of retweets etc\n2. The topic that is most discussed about the interview such as racism, mental health etc\n\nYou can have a look at the main topics discussed during the interview and classify each tweet:\ninsider.com/biggest-bombshells-revealed-prince-harry-meghan-markle-oprah-interview-2021-3\n\nPlease upvote this dataset to give it a ranking boost so that more people can submit their analysis. :D\n\n### Acknowledgements\nSource code to extract the tweets credit to: [Lukastuong123](https://github.com/Lukastuong123/DeepLearing/blob/master/Project-%20US%20Election%202020%20Twitter%20Sentiment%20Analysis/Part%20A%20(Webscrapping%20with%20TwitterAPI%2C%20EDA).ipynb)\n\nImage credit to: [King's Church International](https://unsplash.com/photos/3y1QMNZzcUU)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "celebrities",
+    "nlp",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

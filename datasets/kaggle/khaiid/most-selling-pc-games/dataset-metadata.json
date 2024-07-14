@@ -1,0 +1,42 @@
+{
+  "id": "khaiid/most-selling-pc-games",
+  "id_no": 1833449,
+  "datasetSlugNullable": "most-selling-pc-games",
+  "ownerUserNullable": "khaiid",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "PC Games Sales",
+  "subtitleNullable": "Dataset of the best selling pc games",
+  "descriptionNullable": "### Context\n\nGaming industry is an interesting field to explore, it would be fun knowing who is the most popular publishers and developers and which games are the most popular.\n\n### Content\n\nName: Name of the game\n\nSales: Sales of the game in Millions\n\nSeries: Series of the game\n\nRelease: Release date of the game\n\nGenre: Genre of the game\n\nDeveloper: Developer of the game\n\nPublisher: Publisher of the game\n\n### Questions to be answered\n\nWhich genre is the most popular ?\nWhich publisher published most of the games ?\nWhich developer developed most of the games ?\nWhich series is the most popular ?",
+  "datasetId": 1833449,
+  "datasetSlug": "most-selling-pc-games",
+  "hasDatasetSlug": true,
+  "ownerUser": "khaiid",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 33001,
+  "totalVotes": 70,
+  "totalDownloads": 5352,
+  "title": "PC Games Sales",
+  "hasTitle": true,
+  "subtitle": "Dataset of the best selling pc games",
+  "hasSubtitle": true,
+  "description": "### Context\n\nGaming industry is an interesting field to explore, it would be fun knowing who is the most popular publishers and developers and which games are the most popular.\n\n### Content\n\nName: Name of the game\n\nSales: Sales of the game in Millions\n\nSeries: Series of the game\n\nRelease: Release date of the game\n\nGenre: Genre of the game\n\nDeveloper: Developer of the game\n\nPublisher: Publisher of the game\n\n### Questions to be answered\n\nWhich genre is the most popular ?\nWhich publisher published most of the games ?\nWhich developer developed most of the games ?\nWhich series is the most popular ?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "board games",
+    "card games",
+    "video games"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-3.0",
+      "name": "CC-BY-SA-3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

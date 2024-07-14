@@ -1,0 +1,41 @@
+{
+  "id": "gthrosa/leafly-cannabis-strains-metadata",
+  "id_no": 1219829,
+  "datasetSlugNullable": "leafly-cannabis-strains-metadata",
+  "ownerUserNullable": "gthrosa",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Leafly: Cannabis Strains Meta-Data",
+  "subtitleNullable": "Strains meta-information extracted directly from Leafly's website",
+  "descriptionNullable": "### Context\n\nWith the advent of Machine Learning algorithms, it is often to find their usage in a wide range of applications. Nevertheless, such algorithms require a massive amount of data and several tasks still lake some properly described and structured data. In such a context, this dataset aims at providing a unique source of cannabis-related information, which have been directly scrapped from Leafly's website.\n\n### Content\n\nThe dataset is composed of the encoded data in .json and .csv formats, directly scrapped from Leafly's website. Additionally, it holds all meta-information that was possible to be extracted, as follows:\n\n * name;\n * image url;\n * type;\n * thc level;\n * most common terpene;\n * description;\n * positive effects;\n * negative effects; and\n * diseases it helps with.\n\n### Acknowledgements\n\nIf you use this dataset, we would be greatly thankful if you cite the following repository:\n\nhttps://github.com/gugarosa/leaflyer\n\n### Inspiration\n\n* Fulfill the literature gap in cannabis-related data;\n* How to improve cannabis strain classification;\n* Do traditional classifiers are often sufficient to overcome such a task;\n* How the proposed task might benefit from more modern Computer Vision approaches.",
+  "datasetId": 1219829,
+  "datasetSlug": "leafly-cannabis-strains-metadata",
+  "hasDatasetSlug": true,
+  "ownerUser": "gthrosa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 10255,
+  "totalVotes": 29,
+  "totalDownloads": 1063,
+  "title": "Leafly: Cannabis Strains Meta-Data",
+  "hasTitle": true,
+  "subtitle": "Strains meta-information extracted directly from Leafly's website",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWith the advent of Machine Learning algorithms, it is often to find their usage in a wide range of applications. Nevertheless, such algorithms require a massive amount of data and several tasks still lake some properly described and structured data. In such a context, this dataset aims at providing a unique source of cannabis-related information, which have been directly scrapped from Leafly's website.\n\n### Content\n\nThe dataset is composed of the encoded data in .json and .csv formats, directly scrapped from Leafly's website. Additionally, it holds all meta-information that was possible to be extracted, as follows:\n\n * name;\n * image url;\n * type;\n * thc level;\n * most common terpene;\n * description;\n * positive effects;\n * negative effects; and\n * diseases it helps with.\n\n### Acknowledgements\n\nIf you use this dataset, we would be greatly thankful if you cite the following repository:\n\nhttps://github.com/gugarosa/leaflyer\n\n### Inspiration\n\n* Fulfill the literature gap in cannabis-related data;\n* How to improve cannabis strain classification;\n* Do traditional classifiers are often sufficient to overcome such a task;\n* How the proposed task might benefit from more modern Computer Vision approaches.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

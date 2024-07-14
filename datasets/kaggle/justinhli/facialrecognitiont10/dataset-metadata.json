@@ -1,0 +1,48 @@
+{
+  "id": "justinhli/facialrecognitiont10",
+  "id_no": 1332877,
+  "datasetSlugNullable": "facialrecognitiont10",
+  "ownerUserNullable": "justinhli",
+  "usabilityRatingNullable": 0.3125,
+  "titleNullable": "Facial Recognition t10",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 1332877,
+  "datasetSlug": "facialrecognitiont10",
+  "hasDatasetSlug": true,
+  "ownerUser": "justinhli",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.3125,
+  "hasUsabilityRating": true,
+  "totalViews": 1688,
+  "totalVotes": 1,
+  "totalDownloads": 17,
+  "title": "Facial Recognition t10",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "pre-trained model"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "shayoyeyemi",
+      "role": "writer"
+    },
+    {
+      "username": "joeydkim",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

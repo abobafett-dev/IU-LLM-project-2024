@@ -1,0 +1,42 @@
+{
+  "id": "nelyg8002000/commercial-aircraft-dataset",
+  "id_no": 2253599,
+  "datasetSlugNullable": "commercial-aircraft-dataset",
+  "ownerUserNullable": "nelyg8002000",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Commercial Aircraft Dataset",
+  "subtitleNullable": "Commercial aircraft jpg images for classification problems",
+  "descriptionNullable": "This dataset contains 6538 .jpg images of large commercial turbofan aircraft for use in image classification (or however you deem fit).\nPROS: All images have been cleaned, cropped, duplicates removed, bad quality removed etc.\nCONS: Varying sizes.\n\nI have used this dataset with various other ones to train a VGG-16 model in flying object detection and discrimination.",
+  "datasetId": 2253599,
+  "datasetSlug": "commercial-aircraft-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "nelyg8002000",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 5579,
+  "totalVotes": 35,
+  "totalDownloads": 548,
+  "title": "Commercial Aircraft Dataset",
+  "hasTitle": true,
+  "subtitle": "Commercial aircraft jpg images for classification problems",
+  "hasSubtitle": true,
+  "description": "This dataset contains 6538 .jpg images of large commercial turbofan aircraft for use in image classification (or however you deem fit).\nPROS: All images have been cleaned, cropped, duplicates removed, bad quality removed etc.\nCONS: Varying sizes.\n\nI have used this dataset with various other ones to train a VGG-16 model in flying object detection and discrimination.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "artificial intelligence",
+    "transportation",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

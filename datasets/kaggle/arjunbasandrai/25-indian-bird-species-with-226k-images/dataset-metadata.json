@@ -1,0 +1,43 @@
+{
+  "id": "arjunbasandrai/25-indian-bird-species-with-226k-images",
+  "id_no": 2964687,
+  "datasetSlugNullable": "25-indian-bird-species-with-226k-images",
+  "ownerUserNullable": "arjunbasandrai",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "25 Indian Bird species with 22.6k images",
+  "subtitleNullable": "Dataset of 25 bird species for image classification",
+  "descriptionNullable": "This is a dataset of ~925 images of 25 common bird of India.\n\nThe challenge here is to create a model that can accurately identify these bids.\n\nCheckout the sample notebook for inspiration. I used a pretrained VGG16 model and applied transfer learning to train the model and achieved ~92% accuracy using it\n\nSource: https://media.ebird.org/",
+  "datasetId": 2964687,
+  "datasetSlug": "25-indian-bird-species-with-226k-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "arjunbasandrai",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12396,
+  "totalVotes": 64,
+  "totalDownloads": 1659,
+  "title": "25 Indian Bird species with 22.6k images",
+  "hasTitle": true,
+  "subtitle": "Dataset of 25 bird species for image classification",
+  "hasSubtitle": true,
+  "description": "This is a dataset of ~925 images of 25 common bird of India.\n\nThe challenge here is to create a model that can accurately identify these bids.\n\nCheckout the sample notebook for inspiration. I used a pretrained VGG16 model and applied transfer learning to train the model and achieved ~92% accuracy using it\n\nSource: https://media.ebird.org/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "animals",
+    "computer vision",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

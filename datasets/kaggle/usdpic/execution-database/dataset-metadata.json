@@ -1,0 +1,40 @@
+{
+  "id": "/execution-database",
+  "id_no": 709,
+  "datasetSlugNullable": "execution-database",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.7352941176470589,
+  "titleNullable": "Executions in the United States, 1976-2016",
+  "subtitleNullable": "Use of capital punishment or \"death penalty\" in criminal justice system",
+  "descriptionNullable": "# Content\n\nThe execution database includes records of every execution performed in the United States since the Supreme Court reinstated the death penalty in 1976. Federal executions are indicated by FE in the state field and included in the region in which the crime occurred. The information in this database was obtained from news reports, the Department of Corrections in each state, and the NAACP Legal Defense Fund.\n\n\n# Acknowledgements\n\nThe execution database was compiled and published by the Death Penalty Information Center. Victim details, including quantity, sex, and race, were acquired from the Criminal Justice Project's Death Row USA report.",
+  "datasetId": 709,
+  "datasetSlug": "execution-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.7352941176470589,
+  "hasUsabilityRating": true,
+  "totalViews": 20070,
+  "totalVotes": 37,
+  "totalDownloads": 2328,
+  "title": "Executions in the United States, 1976-2016",
+  "hasTitle": true,
+  "subtitle": "Use of capital punishment or \"death penalty\" in criminal justice system",
+  "hasSubtitle": true,
+  "description": "# Content\n\nThe execution database includes records of every execution performed in the United States since the Supreme Court reinstated the death penalty in 1976. Federal executions are indicated by FE in the state field and included in the region in which the crime occurred. The information in this database was obtained from news reports, the Department of Corrections in each state, and the NAACP Legal Defense Fund.\n\n\n# Acknowledgements\n\nThe execution database was compiled and published by the Death Penalty Information Center. Victim details, including quantity, sex, and race, were acquired from the Criminal Justice Project's Death Row USA report.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "crime",
+    "law"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": "maltepedersen/brackishmot",
+  "id_no": 2695511,
+  "datasetSlugNullable": "brackishmot",
+  "ownerUserNullable": "maltepedersen",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "BrackishMOT",
+  "subtitleNullable": "Multi-Object Tracking of Fish and Other Marine Species in Brackish Water",
+  "descriptionNullable": "This is a MOT expansion to the [Brackish Dataset](https://www.kaggle.com/datasets/aalborguniversity/brackish-dataset) which include annotations that follows the [MOTChallenge standard](https://motchallenge.net/) and synthetic sequences that can be used for training.\nAn additional nine real sequences containing the *small fish* class have been added, which are not part of the original Brackish Dataset.\n\nMore information about **BrackishMOT** can be found in the paper **[BrackishMOT: The Brackish Multi-Object Tracking Dataset](https://arxiv.org/abs/2302.10645)** (accepted at SCIA 2023).\n\n### Abstract\nThere exist no publicly available annotated underwater multi-object tracking (MOT) datasets captured in turbid environments. To remedy this we propose the BrackishMOT dataset with focus on tracking schools of small fish, which is a notoriously difficult MOT task. BrackishMOT consists of 98 sequences captured in the wild. Alongside the novel dataset, we present baseline results by training a state-of-the-art tracker. Additionally, we propose a framework for creating synthetic sequences in order to expand the dataset. The framework consists of animated fish models and realistic underwater environments. We analyse the effects of including synthetic data during training and show that a combination of real and synthetic underwater training data can enhance tracking performance.\nProject page: https://www.vap.aau.dk/brackishmot\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3385658%2F27968b2f2b44a750aacefc2f6a10f006%2Fbrackishmot_examples.jpg?generation=1669954450267908&alt=media)\n\n### Citation\n```\n@InProceedings{Pedersen_2023,\nauthor = {Pedersen, Malte and Lehotsk\u00fd, Daniel and Nikolov, Ivan and Moeslund, Thomas B.},\ndoi = {10.48550/ARXIV.2302.10645},\ntitle = {BrackishMOT: The Brackish Multi-Object Tracking Dataset},\npublisher={arXiv}, \nyear={2023}\n}\n```",
+  "datasetId": 2695511,
+  "datasetSlug": "brackishmot",
+  "hasDatasetSlug": true,
+  "ownerUser": "maltepedersen",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2527,
+  "totalVotes": 3,
+  "totalDownloads": 207,
+  "title": "BrackishMOT",
+  "hasTitle": true,
+  "subtitle": "Multi-Object Tracking of Fish and Other Marine Species in Brackish Water",
+  "hasSubtitle": true,
+  "description": "This is a MOT expansion to the [Brackish Dataset](https://www.kaggle.com/datasets/aalborguniversity/brackish-dataset) which include annotations that follows the [MOTChallenge standard](https://motchallenge.net/) and synthetic sequences that can be used for training.\nAn additional nine real sequences containing the *small fish* class have been added, which are not part of the original Brackish Dataset.\n\nMore information about **BrackishMOT** can be found in the paper **[BrackishMOT: The Brackish Multi-Object Tracking Dataset](https://arxiv.org/abs/2302.10645)** (accepted at SCIA 2023).\n\n### Abstract\nThere exist no publicly available annotated underwater multi-object tracking (MOT) datasets captured in turbid environments. To remedy this we propose the BrackishMOT dataset with focus on tracking schools of small fish, which is a notoriously difficult MOT task. BrackishMOT consists of 98 sequences captured in the wild. Alongside the novel dataset, we present baseline results by training a state-of-the-art tracker. Additionally, we propose a framework for creating synthetic sequences in order to expand the dataset. The framework consists of animated fish models and realistic underwater environments. We analyse the effects of including synthetic data during training and show that a combination of real and synthetic underwater training data can enhance tracking performance.\nProject page: https://www.vap.aau.dk/brackishmot\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3385658%2F27968b2f2b44a750aacefc2f6a10f006%2Fbrackishmot_examples.jpg?generation=1669954450267908&alt=media)\n\n### Citation\n```\n@InProceedings{Pedersen_2023,\nauthor = {Pedersen, Malte and Lehotsk\u00fd, Daniel and Nikolov, Ivan and Moeslund, Thomas B.},\ndoi = {10.48550/ARXIV.2302.10645},\ntitle = {BrackishMOT: The Brackish Multi-Object Tracking Dataset},\npublisher={arXiv}, \nyear={2023}\n}\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "europe",
+    "computer vision",
+    "video",
+    "fish and aquaria",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "joakimhaurum",
+      "role": "reader"
+    },
+    {
+      "username": "ivannikolov",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

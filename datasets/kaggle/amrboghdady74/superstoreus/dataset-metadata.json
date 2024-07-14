@@ -1,0 +1,44 @@
+{
+  "id": "amrboghdady74/superstoreus",
+  "id_no": 2443670,
+  "datasetSlugNullable": "superstoreus",
+  "ownerUserNullable": "amrboghdady74",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "SuperStoreUS",
+  "subtitleNullable": "This is online transactions on US Super Store. ",
+  "descriptionNullable": "# Store Transactions Full Analysis\n## We will analysis whole dataset to get good insights from it !\n### This is a store in US, people order lot of orders from all states in US.\n#### Consists of 1952 rows and 27 columns.\n**Questions to answer: **\n1. What is the distribution of days the order takes depends on it's priority ?!\n2. What is the most effective delivery  way ?!\n3. There is a relationship between priority and profit ?!\n4. Which category sells more and in which state ?!\n5. What is the number of order in each region and it's profit ?!\n6. In which month we have best sales ?!\n7. In which month we have least sales ?!\n8. What is the number of orders depends on it's priority and it's profit ?!\n9. Which state has most profit ?!\n10. Which state has least profit ?!\n11. Which city in most profit state has most profit ?!\n12. Which city in least profit state has least profit ?!",
+  "datasetId": 2443670,
+  "datasetSlug": "superstoreus",
+  "hasDatasetSlug": true,
+  "ownerUser": "amrboghdady74",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 2032,
+  "totalVotes": 7,
+  "totalDownloads": 444,
+  "title": "SuperStoreUS",
+  "hasTitle": true,
+  "subtitle": "This is online transactions on US Super Store. ",
+  "hasSubtitle": true,
+  "description": "# Store Transactions Full Analysis\n## We will analysis whole dataset to get good insights from it !\n### This is a store in US, people order lot of orders from all states in US.\n#### Consists of 1952 rows and 27 columns.\n**Questions to answer: **\n1. What is the distribution of days the order takes depends on it's priority ?!\n2. What is the most effective delivery  way ?!\n3. There is a relationship between priority and profit ?!\n4. Which category sells more and in which state ?!\n5. What is the number of order in each region and it's profit ?!\n6. In which month we have best sales ?!\n7. In which month we have least sales ?!\n8. What is the number of orders depends on it's priority and it's profit ?!\n9. Which state has most profit ?!\n10. Which state has least profit ?!\n11. Which city in most profit state has most profit ?!\n12. Which city in least profit state has least profit ?!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "exploratory data analysis",
+    "data visualization",
+    "data analytics",
+    "pandas",
+    "seaborn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

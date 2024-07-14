@@ -1,0 +1,44 @@
+{
+  "id": "bvanntruong/bike-buyers",
+  "id_no": 3374968,
+  "datasetSlugNullable": "bike-buyers",
+  "ownerUserNullable": "bvanntruong",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Bike Buyers - Excel Project",
+  "subtitleNullable": "analysis of customer data from bike sales",
+  "descriptionNullable": "This dataset illustrates customer data from bike sales. It contains information such as Income, Occupation, Age, Commute, Gender, Children, and more. This is fictional data, created and used for data exploration and cleaning. \n\nThe link for the Excel project to download can be found on GitHub [*here*](https://github.com/bvanntruong/EXCELproject.BikeBuyers). It includes the raw data, the cleaned data, Pivot Tables, and a dashboard with Pivot Charts and Slicers for interaction. This allows the interactive dashboard to filter by Marital Status, Region, and Education. \n\nBelow is a screenshot of the dashboard for ease.\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12904052%2Fcbc9db6fe00f3201c64e4fdb668ce9d1%2FBikeBuyers%20Dashboard%20Image.png?generation=1686186378985936&alt=media)",
+  "datasetId": 3374968,
+  "datasetSlug": "bike-buyers",
+  "hasDatasetSlug": true,
+  "ownerUser": "bvanntruong",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 1024,
+  "totalVotes": 4,
+  "totalDownloads": 291,
+  "title": "Bike Buyers - Excel Project",
+  "hasTitle": true,
+  "subtitle": "analysis of customer data from bike sales",
+  "hasSubtitle": true,
+  "description": "This dataset illustrates customer data from bike sales. It contains information such as Income, Occupation, Age, Commute, Gender, Children, and more. This is fictional data, created and used for data exploration and cleaning. \n\nThe link for the Excel project to download can be found on GitHub [*here*](https://github.com/bvanntruong/EXCELproject.BikeBuyers). It includes the raw data, the cleaned data, Pivot Tables, and a dashboard with Pivot Charts and Slicers for interaction. This allows the interactive dashboard to filter by Marital Status, Region, and Education. \n\nBelow is a screenshot of the dashboard for ease.\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12904052%2Fcbc9db6fe00f3201c64e4fdb668ce9d1%2FBikeBuyers%20Dashboard%20Image.png?generation=1686186378985936&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "software",
+    "transportation",
+    "cycling",
+    "exploratory data analysis",
+    "data cleaning",
+    "data visualization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

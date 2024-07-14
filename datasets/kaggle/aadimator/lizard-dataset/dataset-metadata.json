@@ -1,0 +1,44 @@
+{
+  "id": "aadimator/lizard-dataset",
+  "id_no": 1749846,
+  "datasetSlugNullable": "lizard-dataset",
+  "ownerUserNullable": "aadimator",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Lizard dataset",
+  "subtitleNullable": "The largest known nuclear instance segmentation and classification dataset",
+  "descriptionNullable": "The development of deep segmentation models for computational pathology (CPath) can help foster the investigation of interpretable morphological biomarkers. Yet, there is a major bottleneck in the success of such approaches because supervised deep learning models require an abundance of accurately labelled data. This issue is exacerbated in the field of CPath because the generation of detailed annotations usually demands the input of a pathologist to be able to distinguish between different tissue constructs and nuclei. Manually labelling nuclei may not be a feasible approach for collecting large-scale annotated datasets, especially when a single image region can contain thousands of different cells. Yet, solely relying on automatic generation of annotations will limit the accuracy and reliability of ground truth. Therefore, to help overcome the above challenges, we propose a multi-stage annotation pipeline to enable the collection of large-scale datasets for histology image analysis, with pathologist-in-the-loop refinement steps. Using this pipeline, we generate the largest known nuclear instance segmentation and classification dataset, containing nearly half a million labelled nuclei in H&E stained colon tissue. We will publish the dataset and encourage the research community to utilise it to drive forward the development of downstream cell-based models in CPath.\n\n[Link to the dataset paper](https://arxiv.org/abs/2108.11195).\n\n\n### Citation\n\n```\n@inproceedings{graham2021lizard,\n  title={Lizard: A Large-Scale Dataset for Colonic Nuclear Instance Segmentation and Classification},\n  author={Graham, Simon and Jahanifar, Mostafa and Azam, Ayesha and Nimir, Mohammed and Tsang, Yee-Wah and Dodd, Katherine and Hero, Emily and Sahota, Harvir and Tank, Atisha and Benes, Ksenija and others},\n  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},\n  pages={684--693},\n  year={2021}\n}\n```\n\n\n### Acknowledgements\n\nWe would like to acknowledge the following institutions, where the images in this dataset originated from:\n\n- University Hospitals Coventry and Warwickshire, United Kingdom\n- Histo Pathology Diagnostic Center, Shanghai, China\n- Ruijin Hospital, Shanghai, China\n- Xijing Hospital, Xi'an, China\n- Shanghai Songjiang District Central Hospital, Shanghai, China\n- The National Cancer Institute (NCI), United States of America",
+  "datasetId": 1749846,
+  "datasetSlug": "lizard-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "aadimator",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 4779,
+  "totalVotes": 7,
+  "totalDownloads": 449,
+  "title": "Lizard dataset",
+  "hasTitle": true,
+  "subtitle": "The largest known nuclear instance segmentation and classification dataset",
+  "hasSubtitle": true,
+  "description": "The development of deep segmentation models for computational pathology (CPath) can help foster the investigation of interpretable morphological biomarkers. Yet, there is a major bottleneck in the success of such approaches because supervised deep learning models require an abundance of accurately labelled data. This issue is exacerbated in the field of CPath because the generation of detailed annotations usually demands the input of a pathologist to be able to distinguish between different tissue constructs and nuclei. Manually labelling nuclei may not be a feasible approach for collecting large-scale annotated datasets, especially when a single image region can contain thousands of different cells. Yet, solely relying on automatic generation of annotations will limit the accuracy and reliability of ground truth. Therefore, to help overcome the above challenges, we propose a multi-stage annotation pipeline to enable the collection of large-scale datasets for histology image analysis, with pathologist-in-the-loop refinement steps. Using this pipeline, we generate the largest known nuclear instance segmentation and classification dataset, containing nearly half a million labelled nuclei in H&E stained colon tissue. We will publish the dataset and encourage the research community to utilise it to drive forward the development of downstream cell-based models in CPath.\n\n[Link to the dataset paper](https://arxiv.org/abs/2108.11195).\n\n\n### Citation\n\n```\n@inproceedings{graham2021lizard,\n  title={Lizard: A Large-Scale Dataset for Colonic Nuclear Instance Segmentation and Classification},\n  author={Graham, Simon and Jahanifar, Mostafa and Azam, Ayesha and Nimir, Mohammed and Tsang, Yee-Wah and Dodd, Katherine and Hero, Emily and Sahota, Harvir and Tank, Atisha and Benes, Ksenija and others},\n  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},\n  pages={684--693},\n  year={2021}\n}\n```\n\n\n### Acknowledgements\n\nWe would like to acknowledge the following institutions, where the images in this dataset originated from:\n\n- University Hospitals Coventry and Warwickshire, United Kingdom\n- Histo Pathology Diagnostic Center, Shanghai, China\n- Ruijin Hospital, Shanghai, China\n- Xijing Hospital, Xi'an, China\n- Shanghai Songjiang District Central Hospital, Shanghai, China\n- The National Cancer Institute (NCI), United States of America",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "mbhashmi",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

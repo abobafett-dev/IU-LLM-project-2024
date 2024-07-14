@@ -1,0 +1,39 @@
+{
+  "id": "utkarshsaxenadn/intel-image-classifier-resblockcustom-model",
+  "id_no": 2517598,
+  "datasetSlugNullable": "intel-image-classifier-resblockcustom-model",
+  "ownerUserNullable": "utkarshsaxenadn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Intel Image Classifier - ResBlock(Custom Model)",
+  "subtitleNullable": "Intel image classification with a custom model based on residual learning.",
+  "descriptionNullable": "This is a **custom model** based on a **residual block** which is based on **residual learning**. The model achieved an **accuracy of 70%** in just **10 epochs**, which is **remarkable**, considering in mind that the **model is trained from scratch**, and the model architecture is extremely simple with just **one single layer**. Intentionally, the model did not consist of a single layer, but it was too powerful that it started over-fitting the data. The model consists of **convolutional layers**, some **batch normalization layers**, and a **skip connection**. \n\nI highly recommend you to **try this model**. Try out **your own variations**, This is just the **version one** of this model in future it will be **updated**.\n\n---\n**DeepNets**",
+  "datasetId": 2517598,
+  "datasetSlug": "intel-image-classifier-resblockcustom-model",
+  "hasDatasetSlug": true,
+  "ownerUser": "utkarshsaxenadn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 504,
+  "totalVotes": 9,
+  "totalDownloads": 32,
+  "title": "Intel Image Classifier - ResBlock(Custom Model)",
+  "hasTitle": true,
+  "subtitle": "Intel image classification with a custom model based on residual learning.",
+  "hasSubtitle": true,
+  "description": "This is a **custom model** based on a **residual block** which is based on **residual learning**. The model achieved an **accuracy of 70%** in just **10 epochs**, which is **remarkable**, considering in mind that the **model is trained from scratch**, and the model architecture is extremely simple with just **one single layer**. Intentionally, the model did not consist of a single layer, but it was too powerful that it started over-fitting the data. The model consists of **convolutional layers**, some **batch normalization layers**, and a **skip connection**. \n\nI highly recommend you to **try this model**. Try out **your own variations**, This is just the **version one** of this model in future it will be **updated**.\n\n---\n**DeepNets**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

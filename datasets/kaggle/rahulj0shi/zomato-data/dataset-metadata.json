@@ -1,0 +1,37 @@
+{
+  "id": "rahulj0shi/zomato-data",
+  "id_no": 3461960,
+  "datasetSlugNullable": "zomato-data",
+  "ownerUserNullable": "rahulj0shi",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "zomato_data",
+  "subtitleNullable": "",
+  "descriptionNullable": "The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the aggregate rating of each restaurant, establishment of different types of restaurant at different places, Bengaluru being one such city has more than 12,000 restaurants with restaurants serving dishes from all over the world. With each day new restaurants opening the industry has\u2019nt been saturated yet and the demand is increasing day by day. Inspite of increasing demand it however has become difficult for new restaurants to compete with established restaurants. Most of them serving the same food. Bengaluru being an IT capital of India. Most of the people here are dependent mainly on the restaurant food as they don\u2019t have time to cook for themselves. With such an overwhelming demand of restaurants it has therefore become important to study the demography of a location. What kind of a food is more popular in a locality. Do the entire locality loves vegetarian food. If yes then is that locality populated by a particular sect of people for eg. Jain, Marwaris, Gujaratis who are mostly vegetarian. These kind of analysis can be done using the data, by studying different factors.\n\n\nProblem Statement : \n\nIn this challenge, we are analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.\n\n\n\nData Description :\n\n\nurl : contains the url of the restaurant in the zomato website\n\naddress : contains the address of the restaurant in Bengaluru\n\nname : contains the name of the restaurant\n\nonline_order : whether online ordering is available in the restaurant or not\n\nbook_table : table book option available or not\n\nrate : contains the overall rating of the restaurant out of 5\n\nvotes : contains total number of rating for the restaurant as of the above mentioned date\n\nphone : contains the phone number of the restaurant\n\nlocation : contains the neighborhood in which the restaurant is located\n\nrest_type : restaurant type\n\ndish_liked : dishes people liked in the restaurant\n\ncuisines : food styles, separated by comma\n\napprox_cost(for two people) : contains the approximate cost for meal for two people\n\nreviews_list : list of tuples containing reviews for the restaurant, each tuple consists of two values, rating and review by the customer\n\nmenu_item : contains list of menus available in the restaurant\n\nlisted_in(type) : type of meal\n\nlisted_in(city) : contains the neighborhood in which the restaurant is listed\n\n\n\n\n\nReal-world/Business Objectives and Constraints :\n\nThe cost of a mis-classification can be high.\n\nNo strict latency concerns.\n\nIt will help everyone to unterstand the insights of a restaurant business.",
+  "datasetId": 3461960,
+  "datasetSlug": "zomato-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "rahulj0shi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 401,
+  "totalVotes": 4,
+  "totalDownloads": 80,
+  "title": "zomato_data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the aggregate rating of each restaurant, establishment of different types of restaurant at different places, Bengaluru being one such city has more than 12,000 restaurants with restaurants serving dishes from all over the world. With each day new restaurants opening the industry has\u2019nt been saturated yet and the demand is increasing day by day. Inspite of increasing demand it however has become difficult for new restaurants to compete with established restaurants. Most of them serving the same food. Bengaluru being an IT capital of India. Most of the people here are dependent mainly on the restaurant food as they don\u2019t have time to cook for themselves. With such an overwhelming demand of restaurants it has therefore become important to study the demography of a location. What kind of a food is more popular in a locality. Do the entire locality loves vegetarian food. If yes then is that locality populated by a particular sect of people for eg. Jain, Marwaris, Gujaratis who are mostly vegetarian. These kind of analysis can be done using the data, by studying different factors.\n\n\nProblem Statement : \n\nIn this challenge, we are analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.\n\n\n\nData Description :\n\n\nurl : contains the url of the restaurant in the zomato website\n\naddress : contains the address of the restaurant in Bengaluru\n\nname : contains the name of the restaurant\n\nonline_order : whether online ordering is available in the restaurant or not\n\nbook_table : table book option available or not\n\nrate : contains the overall rating of the restaurant out of 5\n\nvotes : contains total number of rating for the restaurant as of the above mentioned date\n\nphone : contains the phone number of the restaurant\n\nlocation : contains the neighborhood in which the restaurant is located\n\nrest_type : restaurant type\n\ndish_liked : dishes people liked in the restaurant\n\ncuisines : food styles, separated by comma\n\napprox_cost(for two people) : contains the approximate cost for meal for two people\n\nreviews_list : list of tuples containing reviews for the restaurant, each tuple consists of two values, rating and review by the customer\n\nmenu_item : contains list of menus available in the restaurant\n\nlisted_in(type) : type of meal\n\nlisted_in(city) : contains the neighborhood in which the restaurant is listed\n\n\n\n\n\nReal-world/Business Objectives and Constraints :\n\nThe cost of a mis-classification can be high.\n\nNo strict latency concerns.\n\nIt will help everyone to unterstand the insights of a restaurant business.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

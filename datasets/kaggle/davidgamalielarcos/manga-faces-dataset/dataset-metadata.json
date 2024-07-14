@@ -1,0 +1,43 @@
+{
+  "id": "davidgamalielarcos/manga-faces-dataset",
+  "id_no": 1866619,
+  "datasetSlugNullable": "manga-faces-dataset",
+  "ownerUserNullable": "davidgamalielarcos",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Manga Faces Dataset",
+  "subtitleNullable": "Manga Faces Dataset classified with facial expressions classes",
+  "descriptionNullable": "### Context\n\nThis database is focused on manga face generation using architectures like Gans.\n\nThis dataset is an extension of the original Manga Facial Expressions, adding more classes and images, extending it to 11 classes and 670 images.\n\n### Content\n\n670 manga faces images, divided in 11 classes.\n\n\u2022 Angry (53)\n\u2022 Blushed (55)\n\u2022 Confused (5)\n\u2022 Crying (64)\n\u2022 Embarrassed (68)\n\u2022 Happy (119)\n\u2022 Normal (92)\n\u2022 Pleased (37)\n\u2022 Pout (16)\n\u2022 Sad (56)\n\u2022 Shock/Surprised (106)\n\n### Acknowledgements\n\nThis database is an extension of the original database [Manga Facial Expressions](https://www.kaggle.com/mertkkl/manga-facial-expressions)\n[Original creator] (https://www.kaggle.com/mertkkl)\n\n\n### Invitation\n\nIf you want me to extend this database please contact me to create a robust database for future projects.\n",
+  "datasetId": 1866619,
+  "datasetSlug": "manga-faces-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "davidgamalielarcos",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 2299,
+  "totalVotes": 9,
+  "totalDownloads": 163,
+  "title": "Manga Faces Dataset",
+  "hasTitle": true,
+  "subtitle": "Manga Faces Dataset classified with facial expressions classes",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis database is focused on manga face generation using architectures like Gans.\n\nThis dataset is an extension of the original Manga Facial Expressions, adding more classes and images, extending it to 11 classes and 670 images.\n\n### Content\n\n670 manga faces images, divided in 11 classes.\n\n\u2022 Angry (53)\n\u2022 Blushed (55)\n\u2022 Confused (5)\n\u2022 Crying (64)\n\u2022 Embarrassed (68)\n\u2022 Happy (119)\n\u2022 Normal (92)\n\u2022 Pleased (37)\n\u2022 Pout (16)\n\u2022 Sad (56)\n\u2022 Shock/Surprised (106)\n\n### Acknowledgements\n\nThis database is an extension of the original database [Manga Facial Expressions](https://www.kaggle.com/mertkkl/manga-facial-expressions)\n[Original creator] (https://www.kaggle.com/mertkkl)\n\n\n### Invitation\n\nIf you want me to extend this database please contact me to create a robust database for future projects.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "gan",
+    "anime and manga",
+    "mexico",
+    "numpy",
+    "pytorch"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Affero General Public License 3.0",
+      "name": "GNU Affero General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

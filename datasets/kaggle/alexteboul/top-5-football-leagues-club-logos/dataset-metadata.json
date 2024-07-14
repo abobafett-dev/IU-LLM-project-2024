@@ -1,0 +1,43 @@
+{
+  "id": "alexteboul/top-5-football-leagues-club-logos",
+  "id_no": 1807253,
+  "datasetSlugNullable": "top-5-football-leagues-club-logos",
+  "ownerUserNullable": "alexteboul",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top 5 Football Leagues Club Logos",
+  "subtitleNullable": "100 Soccer Club Team Logos for Logo Detection",
+  "descriptionNullable": "### Context\n\nI love playing and watching soccer, as do millions of others around the world. These logo images can be used as the base to create logo detection models. I will routinely build out this dataset to improve it for this purpose. Check out my [English Premier League Logo Detection 20K images](https://www.kaggle.com/alexteboul/english-premier-league-logo-detection-20k-images) dataset for an example of what you can do with this data!\n\n\n\n\n### Content\n\n**Top 5 Football/Soccer Leagues:**\n1. English Premier League - https://www.premierleague.com ---&gt;  **Dataset:**  [English Premier League Logo Detection 20K images](https://www.kaggle.com/alexteboul/english-premier-league-logo-detection-20k-images)\n2. Spanish La Liga - https://www.laliga.com\n3. German Bundesliga - https://www.bundesliga.com/en/bundesliga\n4. Italian Serie A - https://www.legaseriea.it/en/\n5. French Ligue1 - https://www.ligue1.com\n\n\n### Acknowledgements\n\nI of course did not create these logos. They cannot be used commercially or for your own businesses without permission from the organizations they belong to. That said, anyone can use them for a data science project here on Kaggle.\n\n### Inspiration\n\nI couldn't find all the logos in one place, so I figured I'd throw them together here for anyone who would like to use them in logo detection projects. MNIST digit recognizers are boring by now. Try to do a similar thing with logos instead. You'll come across new challenges to overcome and it is useful in the real world too if you can create logo recognizers.",
+  "datasetId": 1807253,
+  "datasetSlug": "top-5-football-leagues-club-logos",
+  "hasDatasetSlug": true,
+  "ownerUser": "alexteboul",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13850,
+  "totalVotes": 31,
+  "totalDownloads": 723,
+  "title": "Top 5 Football Leagues Club Logos",
+  "hasTitle": true,
+  "subtitle": "100 Soccer Club Team Logos for Logo Detection",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI love playing and watching soccer, as do millions of others around the world. These logo images can be used as the base to create logo detection models. I will routinely build out this dataset to improve it for this purpose. Check out my [English Premier League Logo Detection 20K images](https://www.kaggle.com/alexteboul/english-premier-league-logo-detection-20k-images) dataset for an example of what you can do with this data!\n\n\n\n\n### Content\n\n**Top 5 Football/Soccer Leagues:**\n1. English Premier League - https://www.premierleague.com ---&gt;  **Dataset:**  [English Premier League Logo Detection 20K images](https://www.kaggle.com/alexteboul/english-premier-league-logo-detection-20k-images)\n2. Spanish La Liga - https://www.laliga.com\n3. German Bundesliga - https://www.bundesliga.com/en/bundesliga\n4. Italian Serie A - https://www.legaseriea.it/en/\n5. French Ligue1 - https://www.ligue1.com\n\n\n### Acknowledgements\n\nI of course did not create these logos. They cannot be used commercially or for your own businesses without permission from the organizations they belong to. That said, anyone can use them for a data science project here on Kaggle.\n\n### Inspiration\n\nI couldn't find all the logos in one place, so I figured I'd throw them together here for anyone who would like to use them in logo detection projects. MNIST digit recognizers are boring by now. Try to do a similar thing with logos instead. You'll come across new challenges to overcome and it is useful in the real world too if you can create logo recognizers.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "sports",
+    "computer vision",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

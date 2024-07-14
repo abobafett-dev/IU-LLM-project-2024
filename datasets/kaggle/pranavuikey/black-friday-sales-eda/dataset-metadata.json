@@ -1,0 +1,39 @@
+{
+  "id": "pranavuikey/black-friday-sales-eda",
+  "id_no": 2457185,
+  "datasetSlugNullable": "black-friday-sales-eda",
+  "ownerUserNullable": "pranavuikey",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Black Friday Sales EDA",
+  "subtitleNullable": "aiadventures-dataset-2",
+  "descriptionNullable": "## Dataset History\n\nA retail company \u201cABC Private Limited\u201d wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products from last month.\nThe data set also contains customer demographics (age, gender, marital status, citytype, stayincurrentcity), product details (productid and product category) and Total purchaseamount from last month.\n\nNow, they want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.\n\n## Tasks to perform\n\n**`Purchase` column is the Target Variable, perform Univariate Analysis and Bivariate Analysis w.r.t the Purchase.**\n\n**Masked in the column description means already converted from categorical value to numerical column.**\n\n**Below mentioned points are just given to get you started with the dataset, not mandatory to follow the same sequence.**\n\n**DATA PREPROCESSING**\n\n\n- Check basic statistics of dataset\n- Check for missing values in the data\n- check for unique values in data\n- Perform EDA\n- Purchase Distribution\n- check for outliers\n- Analysis by Gender, Marital Status, occupation, occupation vs purchase , purchase by city, purchase by age group, etc\n\n- Drop unnecessary fields\n- Convert categorical data into integer using map function (e.g 'Gender' column)\n- missing value treatment\n- Rename columns\n- fill nan values\n- map range variables into integers (e.g 'Age' column)\n\n**Data Visualisation**\n\n- visualize individul column\n- Age vs Purchased\n- Occupation vs Purchased\n- Product_category_1 vs Purchased\n- Product_category_2 vs Purchased\n- Product_category_3 vs Purchased\n- City category pie chart\n- check for more possible plots\n\n## All the Best!!",
+  "datasetId": 2457185,
+  "datasetSlug": "black-friday-sales-eda",
+  "hasDatasetSlug": true,
+  "ownerUser": "pranavuikey",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 32600,
+  "totalVotes": 65,
+  "totalDownloads": 4931,
+  "title": "Black Friday Sales EDA",
+  "hasTitle": true,
+  "subtitle": "aiadventures-dataset-2",
+  "hasSubtitle": true,
+  "description": "## Dataset History\n\nA retail company \u201cABC Private Limited\u201d wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products from last month.\nThe data set also contains customer demographics (age, gender, marital status, citytype, stayincurrentcity), product details (productid and product category) and Total purchaseamount from last month.\n\nNow, they want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.\n\n## Tasks to perform\n\n**`Purchase` column is the Target Variable, perform Univariate Analysis and Bivariate Analysis w.r.t the Purchase.**\n\n**Masked in the column description means already converted from categorical value to numerical column.**\n\n**Below mentioned points are just given to get you started with the dataset, not mandatory to follow the same sequence.**\n\n**DATA PREPROCESSING**\n\n\n- Check basic statistics of dataset\n- Check for missing values in the data\n- check for unique values in data\n- Perform EDA\n- Purchase Distribution\n- check for outliers\n- Analysis by Gender, Marital Status, occupation, occupation vs purchase , purchase by city, purchase by age group, etc\n\n- Drop unnecessary fields\n- Convert categorical data into integer using map function (e.g 'Gender' column)\n- missing value treatment\n- Rename columns\n- fill nan values\n- map range variables into integers (e.g 'Age' column)\n\n**Data Visualisation**\n\n- visualize individul column\n- Age vs Purchased\n- Occupation vs Purchased\n- Product_category_1 vs Purchased\n- Product_category_2 vs Purchased\n- Product_category_3 vs Purchased\n- City category pie chart\n- check for more possible plots\n\n## All the Best!!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

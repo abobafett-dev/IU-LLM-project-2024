@@ -1,0 +1,43 @@
+{
+  "id": "marialevchenko/news-dataset-from-lenta-ru-2019-2023",
+  "id_no": 4276920,
+  "datasetSlugNullable": "news-dataset-from-lenta-ru-2019-2023",
+  "ownerUserNullable": "marialevchenko",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "News dataset from Lenta.Ru 2019-2023",
+  "subtitleNullable": "Latest extension up to 2024",
+  "descriptionNullable": "# Corpus of news articles from Lenta.Ru / \u041a\u043e\u0440\u043f\u0443\u0441 \u043d\u043e\u0432\u043e\u0441\u0442\u0435\u0439 Lenta.Ru\n\nSupplement to [the Lenta.Ru news dataset (until December 2019)](https://www.kaggle.com/datasets/yutkin/corpus-of-russian-news-articles-from-lenta/data)\n\n- Size: 1.23 Gb\n- Articles: 496257\n- Dates: Dec. 2019 - Dec. 2023\n\nUpdated script to download data in current format: [GitHub](https://github.com/mary-lev/Lenta.Ru-News-Dataset)",
+  "datasetId": 4276920,
+  "datasetSlug": "news-dataset-from-lenta-ru-2019-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "marialevchenko",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 906,
+  "totalVotes": 17,
+  "totalDownloads": 113,
+  "title": "News dataset from Lenta.Ru 2019-2023",
+  "hasTitle": true,
+  "subtitle": "Latest extension up to 2024",
+  "hasSubtitle": true,
+  "description": "# Corpus of news articles from Lenta.Ru / \u041a\u043e\u0440\u043f\u0443\u0441 \u043d\u043e\u0432\u043e\u0441\u0442\u0435\u0439 Lenta.Ru\n\nSupplement to [the Lenta.Ru news dataset (until December 2019)](https://www.kaggle.com/datasets/yutkin/corpus-of-russian-news-articles-from-lenta/data)\n\n- Size: 1.23 Gb\n- Articles: 496257\n- Dates: Dec. 2019 - Dec. 2023\n\nUpdated script to download data in current format: [GitHub](https://github.com/mary-lev/Lenta.Ru-News-Dataset)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "russia",
+    "politics",
+    "nlp",
+    "multiclass classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

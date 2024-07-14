@@ -1,0 +1,43 @@
+{
+  "id": "kimmypracha/one-piece-episode-and-production-info",
+  "id_no": 2454135,
+  "datasetSlugNullable": "one-piece-episode-and-production-info",
+  "ownerUserNullable": "kimmypracha",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "One Piece Episode and Production Info",
+  "subtitleNullable": "This dataset contains each episode production info and manga chapter coverage.",
+  "descriptionNullable": "This dataset is collected from onepiece.fandom.com (Thank you!)\n\nThis dataset contains the following columns:\n**Kanji :** contain the title name of the episode in Japanese\n**Romaji :** contain the title name of the episode in Romaji \n**Title :** the title of the episode\n**Screenplay :** The person who is responsible for the screenplay of that episode.\n**Art :** The person/people who is/are responsible for the art of that episode.\n**Animation :** The person/people who is/are responsible for the key animation of that episode.\n**Direction :** The person/people who is/are the director(s) of that episode.\n**Chapter :** the page in manga chapter that this episode covered.\n**Episode_num :** The episode number / The name of the episode  (There is a typo here, there are 5 episode that is not in a format \"Episode #number\", such as \n\n['Episode of East Blue',\n 'Episode of Nami',\n 'One Piece Film Strong World: Episode 0',\n 'One Piece Film: Gold Episode 0',\n 'One Piece: Romance Dawn Story'])\n\nNote : When there are several chapter covered or several animator, this dataset will use \":::\" to separate, since it's easier to distinguish , IMO.\n\nPlease let me know if there is any question.",
+  "datasetId": 2454135,
+  "datasetSlug": "one-piece-episode-and-production-info",
+  "hasDatasetSlug": true,
+  "ownerUser": "kimmypracha",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2124,
+  "totalVotes": 16,
+  "totalDownloads": 149,
+  "title": "One Piece Episode and Production Info",
+  "hasTitle": true,
+  "subtitle": "This dataset contains each episode production info and manga chapter coverage.",
+  "hasSubtitle": true,
+  "description": "This dataset is collected from onepiece.fandom.com (Thank you!)\n\nThis dataset contains the following columns:\n**Kanji :** contain the title name of the episode in Japanese\n**Romaji :** contain the title name of the episode in Romaji \n**Title :** the title of the episode\n**Screenplay :** The person who is responsible for the screenplay of that episode.\n**Art :** The person/people who is/are responsible for the art of that episode.\n**Animation :** The person/people who is/are responsible for the key animation of that episode.\n**Direction :** The person/people who is/are the director(s) of that episode.\n**Chapter :** the page in manga chapter that this episode covered.\n**Episode_num :** The episode number / The name of the episode  (There is a typo here, there are 5 episode that is not in a format \"Episode #number\", such as \n\n['Episode of East Blue',\n 'Episode of Nami',\n 'One Piece Film Strong World: Episode 0',\n 'One Piece Film: Gold Episode 0',\n 'One Piece: Romance Dawn Story'])\n\nNote : When there are several chapter covered or several animator, this dataset will use \":::\" to separate, since it's easier to distinguish , IMO.\n\nPlease let me know if there is any question.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "data visualization",
+    "linear regression",
+    "text",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

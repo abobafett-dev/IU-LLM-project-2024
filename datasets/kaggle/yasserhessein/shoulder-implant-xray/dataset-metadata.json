@@ -1,0 +1,43 @@
+{
+  "id": "yasserhessein/shoulder-implant-xray",
+  "id_no": 1685828,
+  "datasetSlugNullable": "shoulder-implant-xray",
+  "ownerUserNullable": "yasserhessein",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Shoulder Implant X-Ray",
+  "subtitleNullable": "Shoulder Implant X-Ray Manufacturer Classification Data Set",
+  "descriptionNullable": "\n<img src=\"https://www.mdpi.com/coatings/coatings-11-00346/article_deploy/html/images/coatings-11-00346-g002.png\">\n\n### Abstract\n* 597 de-identified raw X-ray scans of implanted shoulder prostheses from four manufactures.\n\n* Data Set Characteristics:  Multivariate\n\n* Number of Instances: 597\n\n* Area: Life\n\n* Attribute Characteristics: Real\n\n* Number of Attributes: 1\n\n* Date Donated 2020-05-20\n\n* Associated Tasks: Classification\n\n* Missing Values? N/A\n\n* Number of Web Hits: 10132\n\n### Source:\n\nKazunori Okada, kazokada '@' sfsu.edu, BIDAL: Biomedical Image and Data Analyses Lab, Department of Computer Science, San Francisco State University\nMaya Belen Stark, maya.b.stark '@' gmail.com, BIDAL: Biomedical Image and Data Analyses Lab, Department of Computer Science, San Francisco State University\nBrian Feeley, brian.feeley '@' ucsf.edu, Department of Orthopedic Surgery, University of California, San Francisco\n\n\n\n###  Data Set Information:\n\nImages were collected by Maya Stark at BIDAL Lab at SFSU for her MS thesis project. They are from The UW Shoulder Site ([Web Link]), manufacturer websites, and Feeley Lab at UCSF. The original collection included 605 X-ray images. Eight images that appeared to have been taken from the same patients were removed, resulting in the final 597 images. The final set contains images from the following manufacturers: 83 from Cofield, 294 from Depuy, 71 from Tornier, and 149 from Zimmer, resulting in a 4-class classification problem. Class labels are provided as the manufacturer name in file names.\n\n### Attribute Information:\n\nImages are with 8-bit grayscale and various dimensions in jpeg format.\n\n\nRelevant Papers:\n\n1) Maya Belen Stark, Automatic detection and segmentation of shoulder implants in X-ray images, MS thesis, San Francisco State University, 2018, [https://sfsu-dspace.calstate.edu/handle/10211.3/204021]\n2) Gregor Urban, Saman Porhemmat, Maya Stark, Brian Feeley, Kazunori Okada, Pierre Baldi, Classifying Shoulder Implants in X-ray Images using Deep Learning, Computational and Structural Biotechnology Journal, 2020: e-pub: [https://www.sciencedirect.com/science/article/pii/S2001037019304179?via%3Dihub]\n\n\n\n\n\n\n### Citation Request:\n\nWhen using this data, please cite above two relevant publications of Stark et al. (2018) and Urban et al. (2020).",
+  "datasetId": 1685828,
+  "datasetSlug": "shoulder-implant-xray",
+  "hasDatasetSlug": true,
+  "ownerUser": "yasserhessein",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 3684,
+  "totalVotes": 19,
+  "totalDownloads": 282,
+  "title": "Shoulder Implant X-Ray",
+  "hasTitle": true,
+  "subtitle": "Shoulder Implant X-Ray Manufacturer Classification Data Set",
+  "hasSubtitle": true,
+  "description": "\n<img src=\"https://www.mdpi.com/coatings/coatings-11-00346/article_deploy/html/images/coatings-11-00346-g002.png\">\n\n### Abstract\n* 597 de-identified raw X-ray scans of implanted shoulder prostheses from four manufactures.\n\n* Data Set Characteristics:  Multivariate\n\n* Number of Instances: 597\n\n* Area: Life\n\n* Attribute Characteristics: Real\n\n* Number of Attributes: 1\n\n* Date Donated 2020-05-20\n\n* Associated Tasks: Classification\n\n* Missing Values? N/A\n\n* Number of Web Hits: 10132\n\n### Source:\n\nKazunori Okada, kazokada '@' sfsu.edu, BIDAL: Biomedical Image and Data Analyses Lab, Department of Computer Science, San Francisco State University\nMaya Belen Stark, maya.b.stark '@' gmail.com, BIDAL: Biomedical Image and Data Analyses Lab, Department of Computer Science, San Francisco State University\nBrian Feeley, brian.feeley '@' ucsf.edu, Department of Orthopedic Surgery, University of California, San Francisco\n\n\n\n###  Data Set Information:\n\nImages were collected by Maya Stark at BIDAL Lab at SFSU for her MS thesis project. They are from The UW Shoulder Site ([Web Link]), manufacturer websites, and Feeley Lab at UCSF. The original collection included 605 X-ray images. Eight images that appeared to have been taken from the same patients were removed, resulting in the final 597 images. The final set contains images from the following manufacturers: 83 from Cofield, 294 from Depuy, 71 from Tornier, and 149 from Zimmer, resulting in a 4-class classification problem. Class labels are provided as the manufacturer name in file names.\n\n### Attribute Information:\n\nImages are with 8-bit grayscale and various dimensions in jpeg format.\n\n\nRelevant Papers:\n\n1) Maya Belen Stark, Automatic detection and segmentation of shoulder implants in X-ray images, MS thesis, San Francisco State University, 2018, [https://sfsu-dspace.calstate.edu/handle/10211.3/204021]\n2) Gregor Urban, Saman Porhemmat, Maya Stark, Brian Feeley, Kazunori Okada, Pierre Baldi, Classifying Shoulder Implants in X-ray Images using Deep Learning, Computational and Structural Biotechnology Journal, 2020: e-pub: [https://www.sciencedirect.com/science/article/pii/S2001037019304179?via%3Dihub]\n\n\n\n\n\n\n### Citation Request:\n\nWhen using this data, please cite above two relevant publications of Stark et al. (2018) and Urban et al. (2020).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "healthcare",
+    "classification",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "eduardowoj/exoplanets-database",
+  "id_no": 14485,
+  "datasetSlugNullable": "exoplanets-database",
+  "ownerUserNullable": "eduardowoj",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Exoplanets Database",
+  "subtitleNullable": "Dataset with 3741 extrasolar planets",
+  "descriptionNullable": "### Context\n\nExtrasolar planets, or exoplanets for short, are all the fuss in astronomy these days. Each week the news outlets reports increasingly exciting new discoveries. This is now your chance to take a dive in this wonderful data.\n\n\n### Content\n\nThis comprehensive dataset is maintened by [the Extrasolar Planets Encyclopaedia][1], and comprises loads of data for confirmed exoplanets from several different sources, including Kepler (detections by transit), CoRoT (detections by radial velocity) and OGLE (microlensing). A plethora of data is available both for the planets and the host stars.\n\nThe data is well structured in a CSV file, but since it comes from several different sources, some parameters aren't well formated, and require some cleaning and filtering, an additional challenge!\n\n### Acknowledgements\n\nhttp://exoplanet.eu/\n\n### Inspiration\n\nThere's so much data that the sky is the limit (pun intended). What kinds of relationships can you find? For example:\n\n- How does the mass of the planets correlates with their radius? What does this tells us about the planets' compositions? (Hint: There are only two kinds of planets: Gas planets and rocky planets, with low and high densities, respectively)\n\n- How does the size of the planet correlates with the orbital period? And what correlations are there with the spectral type of the host stars?\n\n- Which are the best detection methods? What are their limitations? Why does there are no planets with large orbital periods detected by transit and low mass planets detected by radial velocity?\n\n \n\n  [1]: http://exoplanet.eu/",
+  "datasetId": 14485,
+  "datasetSlug": "exoplanets-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "eduardowoj",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 20236,
+  "totalVotes": 62,
+  "totalDownloads": 1693,
+  "title": "Exoplanets Database",
+  "hasTitle": true,
+  "subtitle": "Dataset with 3741 extrasolar planets",
+  "hasSubtitle": true,
+  "description": "### Context\n\nExtrasolar planets, or exoplanets for short, are all the fuss in astronomy these days. Each week the news outlets reports increasingly exciting new discoveries. This is now your chance to take a dive in this wonderful data.\n\n\n### Content\n\nThis comprehensive dataset is maintened by [the Extrasolar Planets Encyclopaedia][1], and comprises loads of data for confirmed exoplanets from several different sources, including Kepler (detections by transit), CoRoT (detections by radial velocity) and OGLE (microlensing). A plethora of data is available both for the planets and the host stars.\n\nThe data is well structured in a CSV file, but since it comes from several different sources, some parameters aren't well formated, and require some cleaning and filtering, an additional challenge!\n\n### Acknowledgements\n\nhttp://exoplanet.eu/\n\n### Inspiration\n\nThere's so much data that the sky is the limit (pun intended). What kinds of relationships can you find? For example:\n\n- How does the mass of the planets correlates with their radius? What does this tells us about the planets' compositions? (Hint: There are only two kinds of planets: Gas planets and rocky planets, with low and high densities, respectively)\n\n- How does the size of the planet correlates with the orbital period? And what correlations are there with the spectral type of the host stars?\n\n- Which are the best detection methods? What are their limitations? Why does there are no planets with large orbital periods detected by transit and low mass planets detected by radial velocity?\n\n \n\n  [1]: http://exoplanet.eu/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "astronomy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "yapwh1208/face-data",
+  "id_no": 3411683,
+  "datasetSlugNullable": "face-data",
+  "ownerUserNullable": "yapwh1208",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Face Data",
+  "subtitleNullable": "Face data for classification and regression",
+  "descriptionNullable": "- Face data from https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/.\n- This dataset can be used for both classification and regression.\n- The first digit of the filename is the age while the second digit is the gender.",
+  "datasetId": 3411683,
+  "datasetSlug": "face-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "yapwh1208",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2615,
+  "totalVotes": 11,
+  "totalDownloads": 305,
+  "title": "Face Data",
+  "hasTitle": true,
+  "subtitle": "Face data for classification and regression",
+  "hasSubtitle": true,
+  "description": "- Face data from https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/.\n- This dataset can be used for both classification and regression.\n- The first digit of the filename is the age while the second digit is the gender.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "data cleaning",
+    "classification",
+    "image",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

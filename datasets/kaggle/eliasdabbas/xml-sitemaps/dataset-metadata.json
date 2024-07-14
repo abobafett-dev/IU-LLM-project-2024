@@ -1,0 +1,44 @@
+{
+  "id": "eliasdabbas/xml-sitemaps",
+  "id_no": 2780776,
+  "datasetSlugNullable": "xml-sitemaps",
+  "ownerUserNullable": "eliasdabbas",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "XML Sitemaps",
+  "subtitleNullable": "Analyze website and URL structure of various websites",
+  "descriptionNullable": "A set of XML sitemaps for various websites.\n\nSitemaps are in CSV format, and can easily be obtained by using the [advertools](https://github.com/eliasdabbas/advertools) function [`sitemap_to_df`](https://advertools.readthedocs.io/en/master/advertools.sitemaps.html).\n\nYou can either supply a sitemap URL (regular sitemap or sitemap index), or a robots.txt file URL, and the function extracts all sitemaps recursively.",
+  "datasetId": 2780776,
+  "datasetSlug": "xml-sitemaps",
+  "hasDatasetSlug": true,
+  "ownerUser": "eliasdabbas",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 3630,
+  "totalVotes": 13,
+  "totalDownloads": 235,
+  "title": "XML Sitemaps",
+  "hasTitle": true,
+  "subtitle": "Analyze website and URL structure of various websites",
+  "hasSubtitle": true,
+  "description": "A set of XML sitemaps for various websites.\n\nSitemaps are in CSV format, and can easily be obtained by using the [advertools](https://github.com/eliasdabbas/advertools) function [`sitemap_to_df`](https://advertools.readthedocs.io/en/master/advertools.sitemaps.html).\n\nYou can either supply a sitemap URL (regular sitemap or sitemap index), or a robots.txt file URL, and the function extracts all sitemaps recursively.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "search engines",
+    "marketing",
+    "computer science",
+    "programming",
+    "exploratory data analysis",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

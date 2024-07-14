@@ -1,0 +1,41 @@
+{
+  "id": "adityaghuse/nifty-3-min-dataset-from-jan-2015-to-oct-2022",
+  "id_no": 3523985,
+  "datasetSlugNullable": "nifty-3-min-dataset-from-jan-2015-to-oct-2022",
+  "ownerUserNullable": "adityaghuse",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Nifty 3 Min dataset from Jan 2015 to Oct 2022",
+  "subtitleNullable": "Nifty dataset in 3 min for analysis   ",
+  "descriptionNullable": "The Nifty 50 is an index that represents the performance of the top 50 companies listed on the National Stock Exchange (NSE) in India. The dataset you mentioned includes 3-minute interval data for the Nifty 50 index from January 2015 to October 2022, with the date and time combined in a single \"Date\" column.\n\nEach entry in the dataset represents a 3-minute interval and includes the following information:\n\n1. date: The specific date and time corresponding to the 3-minute interval.\n2. open: The opening price of the Nifty 50 index during that 3-minute period.\n3. high: The highest price reached by the Nifty 50 index during that 3-minute period.\n4. low: The lowest price reached by the Nifty 50 index during that 3-minute period.\n5. close: The closing price of the Nifty 50 index during that 3-minute period.\n6.volume: NA\n\nThis dataset with combined date and time information in a single \"Date\" column can still be utilized for scalping strategies and general analysis purposes. Traders and analysts can analyze the open, high, low, and close prices at each 3-minute interval, along with the associated date and time, to identify short-term trends, measure volatility, and determine potential entry and exit points for trades.\n\nAdditionally, traders and analysts can perform technical analysis, identify patterns, and develop trading strategies based on this dataset. They can apply various technical indicators, such as moving averages, oscillators, and trend lines, to gain insights into market dynamics and make informed trading decisions, considering the combined date and time information for each 3-minute interval.\n\nBy studying the Nifty 50 3-minute dataset, traders and analysts can gain a deeper understanding of the price behavior of the top 50 companies in the Indian stock market. The dataset spans from January 2015 to October 2022, allowing for comprehensive analysis of historical trends, patterns, and market movements. The combined date and time information in the \"Date\" column provides a reference for each 3-minute interval, enabling traders and analysts to refine their trading strategies, enhance decision-making processes, and potentially extract valuable insights for successful trading.",
+  "datasetId": 3523985,
+  "datasetSlug": "nifty-3-min-dataset-from-jan-2015-to-oct-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "adityaghuse",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 166,
+  "totalVotes": 9,
+  "totalDownloads": 24,
+  "title": "Nifty 3 Min dataset from Jan 2015 to Oct 2022",
+  "hasTitle": true,
+  "subtitle": "Nifty dataset in 3 min for analysis   ",
+  "hasSubtitle": true,
+  "description": "The Nifty 50 is an index that represents the performance of the top 50 companies listed on the National Stock Exchange (NSE) in India. The dataset you mentioned includes 3-minute interval data for the Nifty 50 index from January 2015 to October 2022, with the date and time combined in a single \"Date\" column.\n\nEach entry in the dataset represents a 3-minute interval and includes the following information:\n\n1. date: The specific date and time corresponding to the 3-minute interval.\n2. open: The opening price of the Nifty 50 index during that 3-minute period.\n3. high: The highest price reached by the Nifty 50 index during that 3-minute period.\n4. low: The lowest price reached by the Nifty 50 index during that 3-minute period.\n5. close: The closing price of the Nifty 50 index during that 3-minute period.\n6.volume: NA\n\nThis dataset with combined date and time information in a single \"Date\" column can still be utilized for scalping strategies and general analysis purposes. Traders and analysts can analyze the open, high, low, and close prices at each 3-minute interval, along with the associated date and time, to identify short-term trends, measure volatility, and determine potential entry and exit points for trades.\n\nAdditionally, traders and analysts can perform technical analysis, identify patterns, and develop trading strategies based on this dataset. They can apply various technical indicators, such as moving averages, oscillators, and trend lines, to gain insights into market dynamics and make informed trading decisions, considering the combined date and time information for each 3-minute interval.\n\nBy studying the Nifty 50 3-minute dataset, traders and analysts can gain a deeper understanding of the price behavior of the top 50 companies in the Indian stock market. The dataset spans from January 2015 to October 2022, allowing for comprehensive analysis of historical trends, patterns, and market movements. The combined date and time information in the \"Date\" column provides a reference for each 3-minute interval, enabling traders and analysts to refine their trading strategies, enhance decision-making processes, and potentially extract valuable insights for successful trading.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "time series analysis",
+    "statistical analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

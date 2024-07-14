@@ -1,0 +1,39 @@
+{
+  "id": "/reuters",
+  "id_no": 2110,
+  "datasetSlugNullable": "reuters",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Reuters",
+  "subtitleNullable": "Reuters-21578 benchmark corpus",
+  "descriptionNullable": "### Context\n\nThe canonical metadata on NLTK:\n\n    <package id=\"reuters\" \n         name=\"The Reuters-21578 benchmark corpus, ApteMod version\"\n         webpage=\"http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html\"\n         license=\"The copyright for the text of newswire articles and Reuters \n         annotations in the Reuters-21578 collection resides with Reuters Ltd. \n         Reuters Ltd. and Carnegie Group, Inc. have agreed to allow the free \n         distribution of this data *for research purposes only*.  \n         If you publish results based on this data set, please acknowledge its use, \n         refer to the data set by the name 'Reuters-21578, Distribution 1.0', and \n         inform your readers of the current location of the data set.\"\n         unzip=\"0\"\n         />",
+  "datasetId": 2110,
+  "datasetSlug": "reuters",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 58374,
+  "totalVotes": 59,
+  "totalDownloads": 6156,
+  "title": "Reuters",
+  "hasTitle": true,
+  "subtitle": "Reuters-21578 benchmark corpus",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe canonical metadata on NLTK:\n\n    <package id=\"reuters\" \n         name=\"The Reuters-21578 benchmark corpus, ApteMod version\"\n         webpage=\"http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html\"\n         license=\"The copyright for the text of newswire articles and Reuters \n         annotations in the Reuters-21578 collection resides with Reuters Ltd. \n         Reuters Ltd. and Carnegie Group, Inc. have agreed to allow the free \n         distribution of this data *for research purposes only*.  \n         If you publish results based on this data set, please acknowledge its use, \n         refer to the data set by the name 'Reuters-21578, Distribution 1.0', and \n         inform your readers of the current location of the data set.\"\n         unzip=\"0\"\n         />",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

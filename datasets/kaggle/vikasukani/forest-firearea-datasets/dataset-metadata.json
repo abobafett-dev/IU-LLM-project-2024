@@ -1,0 +1,42 @@
+{
+  "id": "vikasukani/forest-firearea-datasets",
+  "id_no": 891126,
+  "datasetSlugNullable": "forest-firearea-datasets",
+  "ownerUserNullable": "vikasukani",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Forest Fire-area Datasets.",
+  "subtitleNullable": "To Make an analysis and prediction for forest fires in the Montesinho park.",
+  "descriptionNullable": "## Title: Forest Fires\n\n### Context\n\nFires happen when ignition (from a lightning strike or a careless bonfire, for example) meets available fuel (such as dry vegetation), and warm, dry air fans the flames.\n\nThat\u2019s why the fire season tends to coincide with high temperatures and dry conditions. In the eastern U.S., fire season lasts from March through May, while the West sees most of its fire activity from June through October. \n\nFires are an important and necessary part of the lifecycle for many different kinds of ecosystems. For as long as forests and grasslands have grown on earth, fires have burned them. In fact, some tree species, like lodgepole pines and aspens, need fire to stimulate their growth.\n\nFires have also been used by people as a way to manage lands, whether to clear land for farming, get rid of unwanted pests, or to restore nutrients to the soil.\n\n### Content\n\nThe used dataset contains 517 fires from the Montesinho natural park in Portugal. For each incident weekday, month, coordinates, and the burnt area are recorded, as well as several meteorological data such as rain, temperature, humidity, and wind. The workflow reads the data and trains a regression model based on the spatial, temporal, and weather variables. The model is then used to predict the burnt area based on the current date and the coordinates where the fire is spotted. This prediction can be used for calculating the forces sent to the incident.\n\n### Data Information\n\nNumber of Attributes: 12 + output attribute\n\nNote: several of the attributes may be correlated, thus it makes sense to apply some sort of feature selection.\n\n**Attribute information:**\n\nX - x-axis spatial coordinate within the Montesinho park map: 1 to 9\nY - y-axis spatial coordinate within the Montesinho park map: 2 to 9\nmonth - month of the year: \"Jan\" to \"dec\"\nday - day of the week: \"mon\" to \"sun\"\nFFMC - FFMC index from the FWI system: 18.7 to 96.20\nDMC - DMC index from the FWI system: 1.1 to 291.3\nDC - DC index from the FWI system: 7.9 to 860.6\nISI - ISI index from the FWI system: 0.0 to 56.10\ntemp - the temperature in Celsius degrees: 2.2 to 33.30\nRH - relative humidity in %: 15.0 to 100\nwind - wind speed in km/h: 0.40 to 9.40\nrain - outside rain in mm/m2 : 0.0 to 6.4\narea - the burned area of the forest (in ha): 0.00 to 1090.84 (this output variable is very skewed towards 0.0, thus it may make sense to model with the logarithm transform).\n\n\n**Missing Attribute Values: None**\n\n\n### Acknowledgements\n\nThe data has been collected from  [**KNIME Applications**](https://www.knime.com/knime-applications/forest-fire-prediction).\n\n### Relevant Information:\n\nThis is a very difficult regression task. It can be used to test regression methods. Also, it could be used to test outlier detection methods, since it is not clear how many outliers are there. Yet, the number of examples of fires with a large burned area is very small.\n\n#### Number of Instances: 517 \n",
+  "datasetId": 891126,
+  "datasetSlug": "forest-firearea-datasets",
+  "hasDatasetSlug": true,
+  "ownerUser": "vikasukani",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 12614,
+  "totalVotes": 20,
+  "totalDownloads": 1012,
+  "title": "Forest Fire-area Datasets.",
+  "hasTitle": true,
+  "subtitle": "To Make an analysis and prediction for forest fires in the Montesinho park.",
+  "hasSubtitle": true,
+  "description": "## Title: Forest Fires\n\n### Context\n\nFires happen when ignition (from a lightning strike or a careless bonfire, for example) meets available fuel (such as dry vegetation), and warm, dry air fans the flames.\n\nThat\u2019s why the fire season tends to coincide with high temperatures and dry conditions. In the eastern U.S., fire season lasts from March through May, while the West sees most of its fire activity from June through October. \n\nFires are an important and necessary part of the lifecycle for many different kinds of ecosystems. For as long as forests and grasslands have grown on earth, fires have burned them. In fact, some tree species, like lodgepole pines and aspens, need fire to stimulate their growth.\n\nFires have also been used by people as a way to manage lands, whether to clear land for farming, get rid of unwanted pests, or to restore nutrients to the soil.\n\n### Content\n\nThe used dataset contains 517 fires from the Montesinho natural park in Portugal. For each incident weekday, month, coordinates, and the burnt area are recorded, as well as several meteorological data such as rain, temperature, humidity, and wind. The workflow reads the data and trains a regression model based on the spatial, temporal, and weather variables. The model is then used to predict the burnt area based on the current date and the coordinates where the fire is spotted. This prediction can be used for calculating the forces sent to the incident.\n\n### Data Information\n\nNumber of Attributes: 12 + output attribute\n\nNote: several of the attributes may be correlated, thus it makes sense to apply some sort of feature selection.\n\n**Attribute information:**\n\nX - x-axis spatial coordinate within the Montesinho park map: 1 to 9\nY - y-axis spatial coordinate within the Montesinho park map: 2 to 9\nmonth - month of the year: \"Jan\" to \"dec\"\nday - day of the week: \"mon\" to \"sun\"\nFFMC - FFMC index from the FWI system: 18.7 to 96.20\nDMC - DMC index from the FWI system: 1.1 to 291.3\nDC - DC index from the FWI system: 7.9 to 860.6\nISI - ISI index from the FWI system: 0.0 to 56.10\ntemp - the temperature in Celsius degrees: 2.2 to 33.30\nRH - relative humidity in %: 15.0 to 100\nwind - wind speed in km/h: 0.40 to 9.40\nrain - outside rain in mm/m2 : 0.0 to 6.4\narea - the burned area of the forest (in ha): 0.00 to 1090.84 (this output variable is very skewed towards 0.0, thus it may make sense to model with the logarithm transform).\n\n\n**Missing Attribute Values: None**\n\n\n### Acknowledgements\n\nThe data has been collected from  [**KNIME Applications**](https://www.knime.com/knime-applications/forest-fire-prediction).\n\n### Relevant Information:\n\nThis is a very difficult regression task. It can be used to test regression methods. Also, it could be used to test outlier detection methods, since it is not clear how many outliers are there. Yet, the number of examples of fires with a large burned area is very small.\n\n#### Number of Instances: 517 \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "weather and climate",
+    "geospatial analysis",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "dirkbahle/german-new-multilabel-multiclass-classification",
+  "id_no": 1221105,
+  "datasetSlugNullable": "german-new-multilabel-multiclass-classification",
+  "ownerUserNullable": "dirkbahle",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "German News",
+  "subtitleNullable": "Formated for Multilabel Multiclass Classification",
+  "descriptionNullable": "### Context\n\nNewspaper articles are popular and diverse data sources for data scientists in various fields. To collect this kind of information, I built newspipe a scalable pipeline to crawl and extract data from news websites. Showing the power and flexibility of the pipeline, I collected articles from German-speaking publishers by providing the pipeline only with the URL of the website. This dataset is the result of the demonstration. I mainly crawled articles from 15 news sources over an extended period of time. The remaining 33 news sources were only test runs.\n\n### Content\n\n    text: article text as string\n    tags: tags of the article (optional)\n    Ausland: Articles with the tag 'Ausland' are marked with 1, otherwise '0'\n    Deutschland: Articles with the tag 'Deutschland' are marked with 1, otherwise '0'\n    Wirtschaft: Articles with the tag 'Wirtschaft' are marked with 1, otherwise '0'\n    Panorama: Articles with the tag 'Panorama' are marked with 1, otherwise '0'\n    Sport: Articles with the tag 'Sport' are marked with 1, otherwise '0'\n    Coronavirus: Articles with the tag 'Coronavirus' are marked with 1, otherwise '0'\n    Berlin: Articles with the tag 'Berlin' are marked with 1, otherwise '0'\n    Politik: Articles with the tag 'Politik' are marked with 1, otherwise '0'\n    news: : Articles with the tag 'news' are marked with 1, otherwise '0'\n\n### Acknowledgements\n\n\nThe data in this dataset was originally published [here](https://www.kaggle.com/pqbsbk/german-news-dataset). The citation below refers to the dataset cited in the referenced page. The dataset inludes a notebook that shows how the content in this dataset was generated from the original data.\n\n@misc{steven mi_2020, title={German News Dataset}, url={https://www.kaggle.com/dsv/1679751}, DOI={10.34740/KAGGLE/DSV/1679751}, publisher={Kaggle}, author={Steven Mi}, year={2020} }",
+  "datasetId": 1221105,
+  "datasetSlug": "german-new-multilabel-multiclass-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "dirkbahle",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 1803,
+  "totalVotes": 3,
+  "totalDownloads": 93,
+  "title": "German News",
+  "hasTitle": true,
+  "subtitle": "Formated for Multilabel Multiclass Classification",
+  "hasSubtitle": true,
+  "description": "### Context\n\nNewspaper articles are popular and diverse data sources for data scientists in various fields. To collect this kind of information, I built newspipe a scalable pipeline to crawl and extract data from news websites. Showing the power and flexibility of the pipeline, I collected articles from German-speaking publishers by providing the pipeline only with the URL of the website. This dataset is the result of the demonstration. I mainly crawled articles from 15 news sources over an extended period of time. The remaining 33 news sources were only test runs.\n\n### Content\n\n    text: article text as string\n    tags: tags of the article (optional)\n    Ausland: Articles with the tag 'Ausland' are marked with 1, otherwise '0'\n    Deutschland: Articles with the tag 'Deutschland' are marked with 1, otherwise '0'\n    Wirtschaft: Articles with the tag 'Wirtschaft' are marked with 1, otherwise '0'\n    Panorama: Articles with the tag 'Panorama' are marked with 1, otherwise '0'\n    Sport: Articles with the tag 'Sport' are marked with 1, otherwise '0'\n    Coronavirus: Articles with the tag 'Coronavirus' are marked with 1, otherwise '0'\n    Berlin: Articles with the tag 'Berlin' are marked with 1, otherwise '0'\n    Politik: Articles with the tag 'Politik' are marked with 1, otherwise '0'\n    news: : Articles with the tag 'news' are marked with 1, otherwise '0'\n\n### Acknowledgements\n\n\nThe data in this dataset was originally published [here](https://www.kaggle.com/pqbsbk/german-news-dataset). The citation below refers to the dataset cited in the referenced page. The dataset inludes a notebook that shows how the content in this dataset was generated from the original data.\n\n@misc{steven mi_2020, title={German News Dataset}, url={https://www.kaggle.com/dsv/1679751}, DOI={10.34740/KAGGLE/DSV/1679751}, publisher={Kaggle}, author={Steven Mi}, year={2020} }",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "nlp",
+    "text",
+    "multiclass classification",
+    "news",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

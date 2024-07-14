@@ -1,0 +1,43 @@
+{
+  "id": "rhammell/full-vs-flat-tire-images",
+  "id_no": 1571284,
+  "datasetSlugNullable": "full-vs-flat-tire-images",
+  "ownerUserNullable": "rhammell",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Full vs Flat Tire Images",
+  "subtitleNullable": "Classify Images of Properly Filled and Underfilled Tires",
+  "descriptionNullable": "### Context\n\nMultiple industries are tasked with inspecting vehicles to make sure they are safe for the road. For example, truck weigh stations inspect each passing truck to verify they comply with safety regulations and their parts function properly. These inspections are often lengthy and conducted manually.\n\nOne critical safety check is validating that tires are properly inflated. Low pressure tires reduce vehicle handling and can lead to dangerous blowouts on the road. Tires that are underinflated should be fixed before driving on them further. \n\nManually checking each tire can be sped up by employing an automated camera system that captures images of vehicles as they drive past. Machine learning models can process these images to determine what is being seen: a properly inflated tire (full), an underfilled tire (flat), or any non-tire objects (no-tire). Such a system could notify inspectors anytime a flat tire is detected. \n\nThe aim of this dataset is to provide sample images to see if machine learning models can accurately categorize images as \"full\", \"flat\", or \"no-tire\". \n\n# Content\nThis dataset consists of images captured by an OpenMV Cam H7 Plus. It includes 900 240x240 grayscale images labeled as either \"full\", \"flat\", or \"no-tire\". The images were captured from shifted angles and distances, as well as multiple tire rotation angles. \n\nProvided is a directory `tire-dataset` that contains the entire dataset as .jpg images. Three subdirectories titled after each label - \"full\", \"flat\", \"no-tire\" - contain the images for that label. \n\n## Class Labels   \nThe \"full\" class includes 300 images of tires at a proper tire pressure (~45 PSI). Images in this class are near-centered on a single car tire with a 6-12 inch buffer area surrounding it. Images are captured at slightly different angles and distances from the tire, and at various rotations of the tire. Example images from this class are shown below. \n\n![full](https://i.imgur.com/RfVKGDo.png)\n\nThe \"flat\" class includes 300 images of tires at a low tire pressure (~10 PSI). Images in this class are near-centered on a single car tire with a 6-12 inch buffer area surrounding it. Images are captured at slightly different angles and distances from the tire, and at various rotations of the tire. Example images from this class are shown below.\n\n![flat](https://i.imgur.com/Rc56BvP.png)\n\nThe \"no-tire\" class includes 300 images non-tire objects. This includes images of the side of the car, empty garage background, and partial tires that to not meet the criteria of the \"full\" or \"flat\" labels. \n\n![no-tire](https://i.imgur.com/lzDzcKi.png)",
+  "datasetId": 1571284,
+  "datasetSlug": "full-vs-flat-tire-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "rhammell",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 14610,
+  "totalVotes": 16,
+  "totalDownloads": 791,
+  "title": "Full vs Flat Tire Images",
+  "hasTitle": true,
+  "subtitle": "Classify Images of Properly Filled and Underfilled Tires",
+  "hasSubtitle": true,
+  "description": "### Context\n\nMultiple industries are tasked with inspecting vehicles to make sure they are safe for the road. For example, truck weigh stations inspect each passing truck to verify they comply with safety regulations and their parts function properly. These inspections are often lengthy and conducted manually.\n\nOne critical safety check is validating that tires are properly inflated. Low pressure tires reduce vehicle handling and can lead to dangerous blowouts on the road. Tires that are underinflated should be fixed before driving on them further. \n\nManually checking each tire can be sped up by employing an automated camera system that captures images of vehicles as they drive past. Machine learning models can process these images to determine what is being seen: a properly inflated tire (full), an underfilled tire (flat), or any non-tire objects (no-tire). Such a system could notify inspectors anytime a flat tire is detected. \n\nThe aim of this dataset is to provide sample images to see if machine learning models can accurately categorize images as \"full\", \"flat\", or \"no-tire\". \n\n# Content\nThis dataset consists of images captured by an OpenMV Cam H7 Plus. It includes 900 240x240 grayscale images labeled as either \"full\", \"flat\", or \"no-tire\". The images were captured from shifted angles and distances, as well as multiple tire rotation angles. \n\nProvided is a directory `tire-dataset` that contains the entire dataset as .jpg images. Three subdirectories titled after each label - \"full\", \"flat\", \"no-tire\" - contain the images for that label. \n\n## Class Labels   \nThe \"full\" class includes 300 images of tires at a proper tire pressure (~45 PSI). Images in this class are near-centered on a single car tire with a 6-12 inch buffer area surrounding it. Images are captured at slightly different angles and distances from the tire, and at various rotations of the tire. Example images from this class are shown below. \n\n![full](https://i.imgur.com/RfVKGDo.png)\n\nThe \"flat\" class includes 300 images of tires at a low tire pressure (~10 PSI). Images in this class are near-centered on a single car tire with a 6-12 inch buffer area surrounding it. Images are captured at slightly different angles and distances from the tire, and at various rotations of the tire. Example images from this class are shown below.\n\n![flat](https://i.imgur.com/Rc56BvP.png)\n\nThe \"no-tire\" class includes 300 images non-tire objects. This includes images of the side of the car, empty garage background, and partial tires that to not meet the criteria of the \"full\" or \"flat\" labels. \n\n![no-tire](https://i.imgur.com/lzDzcKi.png)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "computer vision",
+    "data visualization",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

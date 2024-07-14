@@ -1,0 +1,44 @@
+{
+  "id": "shubamsumbria/breast-cancer-prediction",
+  "id_no": 1143641,
+  "datasetSlugNullable": "breast-cancer-prediction",
+  "ownerUserNullable": "shubamsumbria",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Breast Cancer Prediction",
+  "subtitleNullable": "This is clean Breast Cancer Wisconsin (Diagnostic) Data Set",
+  "descriptionNullable": "Data Set Information:\nFeatures are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe the characteristics of the cell nuclei.\nThe separating plane described above was obtained using Multi-surface Method-Tree (MSM-T) [K. P. Bennett, \u201cDecision Tree Construction Via Linear Programming.\u201d Proceedings of the 4th Midwest Artificial Intelligence and Cognitive Science Society, pp. 97\u2013101, 1992], a classification method which uses linear programming to construct a decision tree. Relevant features were selected using an exhaustive search in the space of 1\u20134 features and 1\u20133 separating planes.\nThe actual linear program used to get the separating plane in the 3-dimensional space is that described in: [K. P. Bennett and O. L. Mangasarian: \u201cRobust Linear Programming Discrimination of Two Linearly Inseparable Sets\u201d, Optimization Methods and Software 1, 1992, 23\u201334].\n\nAttribute Information:\nID number\nDiagnosis (M = malignant, B = benign)\nTen real-valued features are computed for each cell nucleus (3\u201332):\na) radius (mean of distances from the center to points on the perimeter)\nb) texture (standard deviation of gray-scale values)\nc) perimeter\nd) area\ne) smoothness (local variation in radius lengths)\nf) compactness (perimeter\u00b2 / area \u2014 1.0)\ng) concavity (severity of concave portions of the contour)\nh) concave points (number of concave portions of the contour)\ni) symmetry\nj) fractal dimension (\u201ccoastline approximation\u201d \u2014 1)\n\nCite at:\nDua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.",
+  "datasetId": 1143641,
+  "datasetSlug": "breast-cancer-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "shubamsumbria",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 13119,
+  "totalVotes": 23,
+  "totalDownloads": 1503,
+  "title": "Breast Cancer Prediction",
+  "hasTitle": true,
+  "subtitle": "This is clean Breast Cancer Wisconsin (Diagnostic) Data Set",
+  "hasSubtitle": true,
+  "description": "Data Set Information:\nFeatures are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe the characteristics of the cell nuclei.\nThe separating plane described above was obtained using Multi-surface Method-Tree (MSM-T) [K. P. Bennett, \u201cDecision Tree Construction Via Linear Programming.\u201d Proceedings of the 4th Midwest Artificial Intelligence and Cognitive Science Society, pp. 97\u2013101, 1992], a classification method which uses linear programming to construct a decision tree. Relevant features were selected using an exhaustive search in the space of 1\u20134 features and 1\u20133 separating planes.\nThe actual linear program used to get the separating plane in the 3-dimensional space is that described in: [K. P. Bennett and O. L. Mangasarian: \u201cRobust Linear Programming Discrimination of Two Linearly Inseparable Sets\u201d, Optimization Methods and Software 1, 1992, 23\u201334].\n\nAttribute Information:\nID number\nDiagnosis (M = malignant, B = benign)\nTen real-valued features are computed for each cell nucleus (3\u201332):\na) radius (mean of distances from the center to points on the perimeter)\nb) texture (standard deviation of gray-scale values)\nc) perimeter\nd) area\ne) smoothness (local variation in radius lengths)\nf) compactness (perimeter\u00b2 / area \u2014 1.0)\ng) concavity (severity of concave portions of the contour)\nh) concave points (number of concave portions of the contour)\ni) symmetry\nj) fractal dimension (\u201ccoastline approximation\u201d \u2014 1)\n\nCite at:\nDua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "earth and nature",
+    "data cleaning",
+    "data visualization",
+    "tabular",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

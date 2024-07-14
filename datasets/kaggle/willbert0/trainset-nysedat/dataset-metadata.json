@@ -1,0 +1,39 @@
+{
+  "id": "willbert0/trainset-nysedat",
+  "id_no": 921678,
+  "datasetSlugNullable": "trainset-nysedat",
+  "ownerUserNullable": "willbert0",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Stock Market news sentiment",
+  "subtitleNullable": "sentence sentiment dataset  ",
+  "descriptionNullable": "This is the latest run: sentiment_041921.dat\n\nplease comment on usefulness.  Thank you\n",
+  "datasetId": 921678,
+  "datasetSlug": "trainset-nysedat",
+  "hasDatasetSlug": true,
+  "ownerUser": "willbert0",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 4175,
+  "totalVotes": 7,
+  "totalDownloads": 131,
+  "title": "Stock Market news sentiment",
+  "hasTitle": true,
+  "subtitle": "sentence sentiment dataset  ",
+  "hasSubtitle": true,
+  "description": "This is the latest run: sentiment_041921.dat\n\nplease comment on usefulness.  Thank you\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

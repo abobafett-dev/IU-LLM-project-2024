@@ -1,0 +1,41 @@
+{
+  "id": "andradaolteanu/alaska2-trainvalid-4-class-csv",
+  "id_no": 693742,
+  "datasetSlugNullable": "alaska2-trainvalid-4-class-csv",
+  "ownerUserNullable": "andradaolteanu",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Alaska2 Train-Valid 4 Class .csv",
+  "subtitleNullable": "Dataset for Alaska2 Competition",
+  "descriptionNullable": "### Context\n\nThis dataset is based on the 300,000 images fo training in Alaska2 Competition.\n\n\n### Content\n\n**train**: 225,000 observations labeled from 0 to 3.\n**valid**: 75,000 observations labeled from 0 to 3.\n\n<img src=\"https://i.imgur.com/x6dsHc1.png\" width=\"500\">\n\n\n### Acknowledgements\n\nPaths are based on the image folders in Alaska2 Competition on Kaggle.",
+  "datasetId": 693742,
+  "datasetSlug": "alaska2-trainvalid-4-class-csv",
+  "hasDatasetSlug": true,
+  "ownerUser": "andradaolteanu",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2147,
+  "totalVotes": 11,
+  "totalDownloads": 258,
+  "title": "Alaska2 Train-Valid 4 Class .csv",
+  "hasTitle": true,
+  "subtitle": "Dataset for Alaska2 Competition",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset is based on the 300,000 images fo training in Alaska2 Competition.\n\n\n### Content\n\n**train**: 225,000 observations labeled from 0 to 3.\n**valid**: 75,000 observations labeled from 0 to 3.\n\n<img src=\"https://i.imgur.com/x6dsHc1.png\" width=\"500\">\n\n\n### Acknowledgements\n\nPaths are based on the image folders in Alaska2 Competition on Kaggle.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "tabular",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

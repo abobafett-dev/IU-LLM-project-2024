@@ -1,0 +1,42 @@
+{
+  "id": "/nyc-rat-sightings",
+  "id_no": 2580,
+  "datasetSlugNullable": "nyc-rat-sightings",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "NYC Rat Sightings",
+  "subtitleNullable": "~102k Observations Around New York",
+  "descriptionNullable": "### Context: \nRats in New York City are prevalent, as in many densely populated areas. For a long time, the exact number of rats in New York City was unknown, and a common urban legend was that there were up to four times as many rats as people. In 2014, however, scientists more accurately measured the entire city's rat population to be approximately only 25% of the number of humans; i.e., there were approximately 2 million rats to New York's 8.4 million people at the time of the study.[1][2]\n\n### Content: \nNew York City rodent complaints can be made online, or by dialing 3-1-1, and the New York City guide Preventing Rats on Your Property discusses how the New York City Health Department inspects private and public properties for rats. Property owners that fail inspections receive a Commissioner's Order and have five days to correct the problem. If after five days the property fails a second inspection, the owner receives a Notice of Violation and can be fined. The property owner is billed for any clean-up or extermination carried out by the Health Department.\n\nData is from 2010-Sept 16th, 2017 and includes date, location (lat/lon), type of structure, borough, and community board.\n\n### Acknowledgements: \nData was produced by the [City of New York via their 311 portal](https://data.cityofnewyork.us/Social-Services/Rat-Sightings/3q43-55fe).\n\n### Inspiration: \n* Where and when are rats most seen?\n* Can you predict rat sightings from previous data?\n* Are there any trends in rat sightings?\n",
+  "datasetId": 2580,
+  "datasetSlug": "nyc-rat-sightings",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 22856,
+  "totalVotes": 39,
+  "totalDownloads": 1894,
+  "title": "NYC Rat Sightings",
+  "hasTitle": true,
+  "subtitle": "~102k Observations Around New York",
+  "hasSubtitle": true,
+  "description": "### Context: \nRats in New York City are prevalent, as in many densely populated areas. For a long time, the exact number of rats in New York City was unknown, and a common urban legend was that there were up to four times as many rats as people. In 2014, however, scientists more accurately measured the entire city's rat population to be approximately only 25% of the number of humans; i.e., there were approximately 2 million rats to New York's 8.4 million people at the time of the study.[1][2]\n\n### Content: \nNew York City rodent complaints can be made online, or by dialing 3-1-1, and the New York City guide Preventing Rats on Your Property discusses how the New York City Health Department inspects private and public properties for rats. Property owners that fail inspections receive a Commissioner's Order and have five days to correct the problem. If after five days the property fails a second inspection, the owner receives a Notice of Violation and can be fined. The property owner is billed for any clean-up or extermination carried out by the Health Department.\n\nData is from 2010-Sept 16th, 2017 and includes date, location (lat/lon), type of structure, borough, and community board.\n\n### Acknowledgements: \nData was produced by the [City of New York via their 311 portal](https://data.cityofnewyork.us/Social-Services/Rat-Sightings/3q43-55fe).\n\n### Inspiration: \n* Where and when are rats most seen?\n* Can you predict rat sightings from previous data?\n* Are there any trends in rat sightings?\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "animals",
+    "government",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

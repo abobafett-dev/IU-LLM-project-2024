@@ -1,0 +1,43 @@
+{
+  "id": "tejassurajkoundinya/visualunderstanding",
+  "id_no": 2384868,
+  "datasetSlugNullable": "visualunderstanding",
+  "ownerUserNullable": "tejassurajkoundinya",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Spectrogram of lungsound",
+  "subtitleNullable": "",
+  "descriptionNullable": "Spectrogram of the recorded lung sound\ntrying to find any abnormalities in it by the help of image processing and deep-learning classification of it into 4 fields as mentioned",
+  "datasetId": 2384868,
+  "datasetSlug": "visualunderstanding",
+  "hasDatasetSlug": true,
+  "ownerUser": "tejassurajkoundinya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 367,
+  "totalVotes": 8,
+  "totalDownloads": 36,
+  "title": "Spectrogram of lungsound",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Spectrogram of the recorded lung sound\ntrying to find any abnormalities in it by the help of image processing and deep-learning classification of it into 4 fields as mentioned",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "intermediate",
+    "deep learning",
+    "image",
+    "keras"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

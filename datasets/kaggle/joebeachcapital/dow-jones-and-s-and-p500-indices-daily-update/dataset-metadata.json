@@ -1,0 +1,43 @@
+{
+  "id": "joebeachcapital/dow-jones-and-s-and-p500-indices-daily-update",
+  "id_no": 4009873,
+  "datasetSlugNullable": "dow-jones-and-s-and-p500-indices-daily-update",
+  "ownerUserNullable": "joebeachcapital",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Dow Jones & S&P500 Indices (Daily Update)",
+  "subtitleNullable": "Daily updates of the Dow Jones and S&P500 indices from FRED",
+  "descriptionNullable": "Daily updates of the below Dow Jones indices, as well as S&P500, from FRED. Starting from 18-11-2013.\n\n- Dow Jones Industrial Average (DJIA)\n- Dow Jones Transportation Average (DJTA)\n- Dow Jones Composite Average (DCIA)\n- Dow Jones Utility Average (DUIA)\n- Standard & Poor 500 (SP500)\n\nData license: https://fred.stlouisfed.org/legal/",
+  "datasetId": 4009873,
+  "datasetSlug": "dow-jones-and-s-and-p500-indices-daily-update",
+  "hasDatasetSlug": true,
+  "ownerUser": "joebeachcapital",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3165,
+  "totalVotes": 31,
+  "totalDownloads": 499,
+  "title": "Dow Jones & S&P500 Indices (Daily Update)",
+  "hasTitle": true,
+  "subtitle": "Daily updates of the Dow Jones and S&P500 indices from FRED",
+  "hasSubtitle": true,
+  "description": "Daily updates of the below Dow Jones indices, as well as S&P500, from FRED. Starting from 18-11-2013.\n\n- Dow Jones Industrial Average (DJIA)\n- Dow Jones Transportation Average (DJTA)\n- Dow Jones Composite Average (DCIA)\n- Dow Jones Utility Average (DUIA)\n- Standard & Poor 500 (SP500)\n\nData license: https://fred.stlouisfed.org/legal/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "data visualization",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

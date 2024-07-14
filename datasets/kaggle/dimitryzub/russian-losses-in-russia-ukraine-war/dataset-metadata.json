@@ -1,0 +1,43 @@
+{
+  "id": "dimitryzub/russian-losses-in-russia-ukraine-war",
+  "id_no": 2545868,
+  "datasetSlugNullable": "russian-losses-in-russia-ukraine-war",
+  "ownerUserNullable": "dimitryzub",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Russian Losses in Russia Ukraine War",
+  "subtitleNullable": "All Russian Losses Reported by Ministry Defence of Ukraine \ud83d\udc31\u200d\ud83d\udc64",
+  "descriptionNullable": "Data is gathered by me. Data is publicly available from the [Ministry of Defense of Ukraine](https://www.mil.gov.ua/en/) (News tab).\n\nNotebook: https://www.kaggle.com/dimitryzub/russo-loses-analysis\n\n\n- `date` column is sorted from 2022-02-24 to 2022-10-05.\n- `None` values were filled with `0` as `None` values are [Missing At Random (MAR)](https://www.analyticsvidhya.com/blog/2021/10/handling-missing-value/).\n- Some of the columns need to be standardized e.g `float64` -&gt; `int`. \n\nFor some reason even after type casting, `pandas` saves some of the columns as `float64`. If it happens, here's a code snippet to convert the data type:\n\n```\nastype({\n    'cannons': 'int',\n    'mlrs_buk': 'int',\n    'mlrs_grad': 'int',\n    'mlrs': 'int',\n    'anti_air': 'int',\n    'uav': 'int',\n    'cruise_missiles': 'int',\n    'ships': 'int',\n    'cars_cisterns': 'int',\n    'special_equpment': 'int',\n})\n```\n\n\n\n",
+  "datasetId": 2545868,
+  "datasetSlug": "russian-losses-in-russia-ukraine-war",
+  "hasDatasetSlug": true,
+  "ownerUser": "dimitryzub",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 1420,
+  "totalVotes": 5,
+  "totalDownloads": 112,
+  "title": "Russian Losses in Russia Ukraine War",
+  "hasTitle": true,
+  "subtitle": "All Russian Losses Reported by Ministry Defence of Ukraine \ud83d\udc31\u200d\ud83d\udc64",
+  "hasSubtitle": true,
+  "description": "Data is gathered by me. Data is publicly available from the [Ministry of Defense of Ukraine](https://www.mil.gov.ua/en/) (News tab).\n\nNotebook: https://www.kaggle.com/dimitryzub/russo-loses-analysis\n\n\n- `date` column is sorted from 2022-02-24 to 2022-10-05.\n- `None` values were filled with `0` as `None` values are [Missing At Random (MAR)](https://www.analyticsvidhya.com/blog/2021/10/handling-missing-value/).\n- Some of the columns need to be standardized e.g `float64` -&gt; `int`. \n\nFor some reason even after type casting, `pandas` saves some of the columns as `float64`. If it happens, here's a code snippet to convert the data type:\n\n```\nastype({\n    'cannons': 'int',\n    'mlrs_buk': 'int',\n    'mlrs_grad': 'int',\n    'mlrs': 'int',\n    'anti_air': 'int',\n    'uav': 'int',\n    'cruise_missiles': 'int',\n    'ships': 'int',\n    'cars_cisterns': 'int',\n    'special_equpment': 'int',\n})\n```\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "military",
+    "computer science",
+    "beginner",
+    "pandas",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

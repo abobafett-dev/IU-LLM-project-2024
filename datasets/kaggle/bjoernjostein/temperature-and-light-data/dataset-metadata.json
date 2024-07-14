@@ -1,0 +1,41 @@
+{
+  "id": "bjoernjostein/temperature-and-light-data",
+  "id_no": 519086,
+  "datasetSlugNullable": "temperature-and-light-data",
+  "ownerUserNullable": "bjoernjostein",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Temperature and Light data",
+  "subtitleNullable": "Plotting data with different timestamps",
+  "descriptionNullable": "### Context\n\nThe two datasets provided contains temperature and light sensor readings. The measurements was done from 22:35:41 - 04:49:41. \n\nThe problem with this dataset is to plot the measurements with respect to the datetime.date format when the measurements are taken from one day to another (22:35:41 - 04:49:41) without showing any date. The plot-function automatically starts from 00:00 and puts the data that was measured before 00:00 to the end of the plot.\n\n\n### Content\n\n- Dataset1 contains temperature measurements from 22:37:13 to 04:28:13 with a sampling frequency of 60 sec.\n- Dataset2 contains light measurements from 22:43:41 to 04:49:41 with a sampling frequency of 120 sec.\n\nThe data types are:\n- Temperature dataset:\n    - Time : datetime.time\n    - Temperature : numpy.float64\n- Light dataset:\n    - Time : datetime.time\n    - Light: numpy.float64\n\n\n\n\n**I hope you can help me solve this little plot mystery!**",
+  "datasetId": 519086,
+  "datasetSlug": "temperature-and-light-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "bjoernjostein",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 7291,
+  "totalVotes": 7,
+  "totalDownloads": 391,
+  "title": "Temperature and Light data",
+  "hasTitle": true,
+  "subtitle": "Plotting data with different timestamps",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe two datasets provided contains temperature and light sensor readings. The measurements was done from 22:35:41 - 04:49:41. \n\nThe problem with this dataset is to plot the measurements with respect to the datetime.date format when the measurements are taken from one day to another (22:35:41 - 04:49:41) without showing any date. The plot-function automatically starts from 00:00 and puts the data that was measured before 00:00 to the end of the plot.\n\n\n### Content\n\n- Dataset1 contains temperature measurements from 22:37:13 to 04:28:13 with a sampling frequency of 60 sec.\n- Dataset2 contains light measurements from 22:43:41 to 04:49:41 with a sampling frequency of 120 sec.\n\nThe data types are:\n- Temperature dataset:\n    - Time : datetime.time\n    - Temperature : numpy.float64\n- Light dataset:\n    - Time : datetime.time\n    - Light: numpy.float64\n\n\n\n\n**I hope you can help me solve this little plot mystery!**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "programming",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

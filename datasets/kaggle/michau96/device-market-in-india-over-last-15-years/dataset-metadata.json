@@ -1,0 +1,43 @@
+{
+  "id": "michau96/device-market-in-india-over-last-15-years",
+  "id_no": 4361948,
+  "datasetSlugNullable": "device-market-in-india-over-last-15-years",
+  "ownerUserNullable": "michau96",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Device market in India over last 15 years",
+  "subtitleNullable": "Desktop, mobile and tablet shares (2009 - 2023)",
+  "descriptionNullable": "## Context\nIt is no secret that mobile devices are increasingly taking over the market at the expense of stationary equipment and many forgotten tablets. Trends change over time and the data collected helps us understand them. So let's look at the share of these three sections in the most populous country in the world, which is India.\n\n## Content\nThe database saved in .csv form contains 4 columns. The first column contains the date (YYYY-MM) from the measurement period. Each subsequent column contains the percentage of market share in mobile, desktop and tablet markets, given as a percentage, rounded to 2 decimal places (if the share is less than 0.5%, the value 0 remains, even though it may constitute a very small percentage of the share). We have a total of 180 rows, i.e. full 15 years of data for each month.\n\n## Source\nThe database comes from the [statcounter](https://gs.statcounter.com/) website and is available under the CC BY-SA 3.0 license, which allows you to copy, use and distribute the data also for commercial purposes after citing the source.\n\n\nPhoto by <a href=\"https://unsplash.com/@andrewtneel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Andrew Neel</a> on <a href=\"https://unsplash.com/photos/macbook-pro-white-ceramic-mugand-black-smartphone-on-table-cckf4TsHAuw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>",
+  "datasetId": 4361948,
+  "datasetSlug": "device-market-in-india-over-last-15-years",
+  "hasDatasetSlug": true,
+  "ownerUser": "michau96",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4157,
+  "totalVotes": 27,
+  "totalDownloads": 911,
+  "title": "Device market in India over last 15 years",
+  "hasTitle": true,
+  "subtitle": "Desktop, mobile and tablet shares (2009 - 2023)",
+  "hasSubtitle": true,
+  "description": "## Context\nIt is no secret that mobile devices are increasingly taking over the market at the expense of stationary equipment and many forgotten tablets. Trends change over time and the data collected helps us understand them. So let's look at the share of these three sections in the most populous country in the world, which is India.\n\n## Content\nThe database saved in .csv form contains 4 columns. The first column contains the date (YYYY-MM) from the measurement period. Each subsequent column contains the percentage of market share in mobile, desktop and tablet markets, given as a percentage, rounded to 2 decimal places (if the share is less than 0.5%, the value 0 remains, even though it may constitute a very small percentage of the share). We have a total of 180 rows, i.e. full 15 years of data for each month.\n\n## Source\nThe database comes from the [statcounter](https://gs.statcounter.com/) website and is available under the CC BY-SA 3.0 license, which allows you to copy, use and distribute the data also for commercial purposes after citing the source.\n\n\nPhoto by <a href=\"https://unsplash.com/@andrewtneel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Andrew Neel</a> on <a href=\"https://unsplash.com/photos/macbook-pro-white-ceramic-mugand-black-smartphone-on-table-cckf4TsHAuw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "computer science",
+    "internet",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-3.0",
+      "name": "CC-BY-SA-3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

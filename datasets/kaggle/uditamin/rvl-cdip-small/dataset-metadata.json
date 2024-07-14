@@ -1,0 +1,44 @@
+{
+  "id": "uditamin/rvl-cdip-small",
+  "id_no": 2595054,
+  "datasetSlugNullable": "rvl-cdip-small",
+  "ownerUserNullable": "uditamin",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "RVL CDIP small",
+  "subtitleNullable": "Smaller 5GB version of the RVL CDIP dataset",
+  "descriptionNullable": "This Dataset is sampled from the much larger RVL CDIP dataset, and preprocessed into respective class directories for developing models for classificaation and document analysis for hardware limited systems.\n\nThe RVL-CDIP (Ryerson Vision Lab Complex Document Information Processing) dataset consists of 400,000 grayscale images in 16 classes, with 25,000 images per class. There are 320,000 training images, 40,000 validation images, and 40,000 test images. The images are sized so their largest dimension does not exceed 1000 pixels.\n\nwhere the categories are numbered 0 to 15, in the following order:\n\nletter\nform\nemail\nhandwritten\nadvertisement\nscientific report\nscientific publication\nspecification\nfile folder\nnews article\nbudget\ninvoice\npresentation\nquestionnaire\nresume\nmemo",
+  "datasetId": 2595054,
+  "datasetSlug": "rvl-cdip-small",
+  "hasDatasetSlug": true,
+  "ownerUser": "uditamin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 2591,
+  "totalVotes": 7,
+  "totalDownloads": 563,
+  "title": "RVL CDIP small",
+  "hasTitle": true,
+  "subtitle": "Smaller 5GB version of the RVL CDIP dataset",
+  "hasSubtitle": true,
+  "description": "This Dataset is sampled from the much larger RVL CDIP dataset, and preprocessed into respective class directories for developing models for classificaation and document analysis for hardware limited systems.\n\nThe RVL-CDIP (Ryerson Vision Lab Complex Document Information Processing) dataset consists of 400,000 grayscale images in 16 classes, with 25,000 images per class. There are 320,000 training images, 40,000 validation images, and 40,000 test images. The images are sized so their largest dimension does not exceed 1000 pixels.\n\nwhere the categories are numbered 0 to 15, in the following order:\n\nletter\nform\nemail\nhandwritten\nadvertisement\nscientific report\nscientific publication\nspecification\nfile folder\nnews article\nbudget\ninvoice\npresentation\nquestionnaire\nresume\nmemo",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "nlp",
+    "classification",
+    "cnn",
+    "image",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

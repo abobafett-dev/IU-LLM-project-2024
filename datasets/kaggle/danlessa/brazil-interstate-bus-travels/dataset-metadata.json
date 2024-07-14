@@ -1,0 +1,37 @@
+{
+  "id": "danlessa/brazil-interstate-bus-travels",
+  "id_no": 579337,
+  "datasetSlugNullable": "brazil-interstate-bus-travels",
+  "ownerUserNullable": "danlessa",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Brazil Interstate Bus Tickets",
+  "subtitleNullable": "Bus tickets sales for all interstate brazilian bus travels since 2019",
+  "descriptionNullable": "### Context\n\nThose files were downloaded due to the need of several projects for modelling Brazilian transit around the country. The potential is large, as this dataset could be used to infer insights about tourism habits, epidemics modelling, cultural similarity at city level and among others.\n\n### Content\n\nThere is an file for each month since 2019/jan, and they contain the following info:\n\n* Ticket identifier\n* Bus trip identifier\n* Ticket emission timestamp\n* Trip start and end timestamps\n* Ticket start and end location, at municipality detail level\n* Paid values\n\n### Acknowledgements\n\nWe acknowledge the Open Data initiative of the Brazilian government and ANTT for providing it.\n\n### Inspiration\n",
+  "datasetId": 579337,
+  "datasetSlug": "brazil-interstate-bus-travels",
+  "hasDatasetSlug": true,
+  "ownerUser": "danlessa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 5864,
+  "totalVotes": 17,
+  "totalDownloads": 609,
+  "title": "Brazil Interstate Bus Tickets",
+  "hasTitle": true,
+  "subtitle": "Bus tickets sales for all interstate brazilian bus travels since 2019",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThose files were downloaded due to the need of several projects for modelling Brazilian transit around the country. The potential is large, as this dataset could be used to infer insights about tourism habits, epidemics modelling, cultural similarity at city level and among others.\n\n### Content\n\nThere is an file for each month since 2019/jan, and they contain the following info:\n\n* Ticket identifier\n* Bus trip identifier\n* Ticket emission timestamp\n* Trip start and end timestamps\n* Ticket start and end location, at municipality detail level\n* Paid values\n\n### Acknowledgements\n\nWe acknowledge the Open Data initiative of the Brazilian government and ANTT for providing it.\n\n### Inspiration\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

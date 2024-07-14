@@ -1,0 +1,41 @@
+{
+  "id": "jiayuanchengala/aid-scene-classification-datasets",
+  "id_no": 2227015,
+  "datasetSlugNullable": "aid-scene-classification-datasets",
+  "ownerUserNullable": "jiayuanchengala",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "AID: A scene classification dataset",
+  "subtitleNullable": "A Dataset for Performance Evaluation of Aerial Scene Classificatification",
+  "descriptionNullable": "Intro: https://captain-whu.github.io/AID/\nDataset: https://1drv.ms/u/s!AthY3vMZmuxChNR0Co7QHpJ56M-SvQ\nPaper: https://arxiv.org/pdf/1608.05167.pdf\n\n### Intro\nThe AID dataset has 30 different scene classes and about 200 to 400 samples of size 600x600 in each class.\n\n### Detail\nAID is a new large-scale aerial image dataset, by collecting sample images from Google Earth imagery. Note that although the Google Earth images are post-processed using RGB renderings from the original optical aerial images, it has proven that there is no significant difference between the Google Earth images with the real optical aerial images even in the pixel-level land use/cover mapping. Thus, the Google Earth images can also be used as aerial images for evaluating scene classification algorithms.\n\nThe new dataset is made up of the following 30 aerial scene types: airport, bare land, baseball field, beach, bridge, center, church, commercial, dense residential, desert, farmland, forest, industrial, meadow, medium residential, mountain, park, parking, playground, pond, port, railway station, resort, river, school, sparse residential, square, stadium, storage tanks and viaduct. All the images are labelled by the specialists in the field of remote sensing image interpretation, and some samples of each class are shown in Fig.1. In all, the AID dataset has 30 different scene classes and about 200 to 400 samples of size 600x600 in each class.\n\nThe images in AID are actually multi-source, as Google Earth images are from different remote imaging sensors. This brings more challenges for scene classification than the single source images like UC-Merced dataset. Moreover, all the sample images per each class in AID are carefully chosen from different countries and regions around the world, mainly in China, the United States, England, France, Italy, Japan, Germany, etc., and they are extracted at different time and seasons under different imaging conditions, which increases the intra-class diversities of the data. Some samples of each class are shown in Fig.1.\n\n![Samples of the AID dataset: three examples of each semantic scene class are shown.](https://captain-whu.github.io/AID/aid-dataset.png)",
+  "datasetId": 2227015,
+  "datasetSlug": "aid-scene-classification-datasets",
+  "hasDatasetSlug": true,
+  "ownerUser": "jiayuanchengala",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 10978,
+  "totalVotes": 26,
+  "totalDownloads": 1733,
+  "title": "AID: A scene classification dataset",
+  "hasTitle": true,
+  "subtitle": "A Dataset for Performance Evaluation of Aerial Scene Classificatification",
+  "hasSubtitle": true,
+  "description": "Intro: https://captain-whu.github.io/AID/\nDataset: https://1drv.ms/u/s!AthY3vMZmuxChNR0Co7QHpJ56M-SvQ\nPaper: https://arxiv.org/pdf/1608.05167.pdf\n\n### Intro\nThe AID dataset has 30 different scene classes and about 200 to 400 samples of size 600x600 in each class.\n\n### Detail\nAID is a new large-scale aerial image dataset, by collecting sample images from Google Earth imagery. Note that although the Google Earth images are post-processed using RGB renderings from the original optical aerial images, it has proven that there is no significant difference between the Google Earth images with the real optical aerial images even in the pixel-level land use/cover mapping. Thus, the Google Earth images can also be used as aerial images for evaluating scene classification algorithms.\n\nThe new dataset is made up of the following 30 aerial scene types: airport, bare land, baseball field, beach, bridge, center, church, commercial, dense residential, desert, farmland, forest, industrial, meadow, medium residential, mountain, park, parking, playground, pond, port, railway station, resort, river, school, sparse residential, square, stadium, storage tanks and viaduct. All the images are labelled by the specialists in the field of remote sensing image interpretation, and some samples of each class are shown in Fig.1. In all, the AID dataset has 30 different scene classes and about 200 to 400 samples of size 600x600 in each class.\n\nThe images in AID are actually multi-source, as Google Earth images are from different remote imaging sensors. This brings more challenges for scene classification than the single source images like UC-Merced dataset. Moreover, all the sample images per each class in AID are carefully chosen from different countries and regions around the world, mainly in China, the United States, England, France, Italy, Japan, Germany, etc., and they are extracted at different time and seasons under different imaging conditions, which increases the intra-class diversities of the data. Some samples of each class are shown in Fig.1.\n\n![Samples of the AID dataset: three examples of each semantic scene class are shown.](https://captain-whu.github.io/AID/aid-dataset.png)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

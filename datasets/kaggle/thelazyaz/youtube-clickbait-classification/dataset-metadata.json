@@ -1,0 +1,43 @@
+{
+  "id": "thelazyaz/youtube-clickbait-classification",
+  "id_no": 1609495,
+  "datasetSlugNullable": "youtube-clickbait-classification",
+  "ownerUserNullable": "thelazyaz",
+  "usabilityRatingNullable": 0.7352941176470589,
+  "titleNullable": "YouTube Clickbait Classification",
+  "subtitleNullable": "Titles and Statistics of YouTube Videos to classify them as Clickbait or not",
+  "descriptionNullable": "Using the YouTube API, I hand picked 100 videos as clickbait (misleading) and not clickbait. My API script downloaded each video's title, thumbnail, and various important statistics into a csv file. Thumbnails were also saved into zip files with the video id in the file names. \n\nThis dataset is to be used for a binary classification task. Add an extra column to both csv's with all 1's for clickbait.csv and all 0's for notClickbait.csv.\nAs for the zip files of images, each image name is: [video id___video title], so that each thumbnail photo can be linked to its respective video.\nLink for image zips (kaggle won't let me upload them):\n[Clickbait thumbnails](https://drive.google.com/file/d/1JDzcBlf--xQJA9HxdCtIPxgn_MhNCyc5/view?usp=sharing)\n[NonClickbait thumbnails](https://drive.google.com/file/d/1D8GQI4LpOLvnLtF2UYxc84ruq7fXL49u/view?usp=sharing)",
+  "datasetId": 1609495,
+  "datasetSlug": "youtube-clickbait-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "thelazyaz",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7352941176470589,
+  "hasUsabilityRating": true,
+  "totalViews": 4621,
+  "totalVotes": 4,
+  "totalDownloads": 276,
+  "title": "YouTube Clickbait Classification",
+  "hasTitle": true,
+  "subtitle": "Titles and Statistics of YouTube Videos to classify them as Clickbait or not",
+  "hasSubtitle": true,
+  "description": "Using the YouTube API, I hand picked 100 videos as clickbait (misleading) and not clickbait. My API script downloaded each video's title, thumbnail, and various important statistics into a csv file. Thumbnails were also saved into zip files with the video id in the file names. \n\nThis dataset is to be used for a binary classification task. Add an extra column to both csv's with all 1's for clickbait.csv and all 0's for notClickbait.csv.\nAs for the zip files of images, each image name is: [video id___video title], so that each thumbnail photo can be linked to its respective video.\nLink for image zips (kaggle won't let me upload them):\n[Clickbait thumbnails](https://drive.google.com/file/d/1JDzcBlf--xQJA9HxdCtIPxgn_MhNCyc5/view?usp=sharing)\n[NonClickbait thumbnails](https://drive.google.com/file/d/1D8GQI4LpOLvnLtF2UYxc84ruq7fXL49u/view?usp=sharing)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "marketing",
+    "internet",
+    "nlp",
+    "video",
+    "nltk"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "crisbam/vehicles-sales",
+  "id_no": 4287957,
+  "datasetSlugNullable": "vehicles-sales",
+  "ownerUserNullable": "crisbam",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Vehicles Sales",
+  "subtitleNullable": "Daily vehicles sales from 2005 to 2023",
+  "descriptionNullable": "This dataset contains information about new cars.\nThis data can be used for a lot of purposes such as volume prediction to exemplify the use of linear regression in Machine Learning.",
+  "datasetId": 4287957,
+  "datasetSlug": "vehicles-sales",
+  "hasDatasetSlug": true,
+  "ownerUser": "crisbam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1988,
+  "totalVotes": 6,
+  "totalDownloads": 307,
+  "title": "Vehicles Sales",
+  "hasTitle": true,
+  "subtitle": "Daily vehicles sales from 2005 to 2023",
+  "hasSubtitle": true,
+  "description": "This dataset contains information about new cars.\nThis data can be used for a lot of purposes such as volume prediction to exemplify the use of linear regression in Machine Learning.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

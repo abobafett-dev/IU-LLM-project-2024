@@ -1,0 +1,42 @@
+{
+  "id": "muhakabartay/production-cross-sections-of-inert-doublet-model",
+  "id_no": 768471,
+  "datasetSlugNullable": "production-cross-sections-of-inert-doublet-model",
+  "ownerUserNullable": "muhakabartay",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Production cross sections of Inert Doublet Model",
+  "subtitleNullable": "Phenomenological AI training data",
+  "descriptionNullable": "### Context\n\n**'Learning the production cross-sections of the Inert Doublet Model'**\n[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3689678.svg)](https://doi.org/10.5281/zenodo.3689678)\n\nCite as  \nHumberto Reyes-Gonz\u00e1lez, Andre Lessa, & Sydney Otten. (2020). 'Learning the production cross sections of the Inert Doublet Model' training data set. [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3689678\n\n### Content\n\nPheno AI training dataset used in the ''Learning the production cross-sections of the Inert Doublet Model'' subproject, made of 50000 samples with \n\n5 input values: \n- MH0\n- MA0\n- MHC \n- lam2\n- lamL \n\nand \n\n8 target values \n- xsec_3535_13TeV\n- xsec_3636_13TeV\n- xsec_3737_13TeV\n- xsec_3537_13TeV\n- xsec_3637_13TeV\n- xsec_3735_13TeV\n- xsec_3736_13TeV\n- xsec_3536_13TeV \n\nfrom a parameter space of the Inert Doublet Model chosen as: 50&lt; MH0, MA0, MHC&lt;3000GeV; \u22122\u03c0 &lt; lam2, lamL&lt;2\u03c0. \n\nThe cross-sections were computed at leading order using MADGRAPH2.6.4 and the IDM UFO implementation from the FeynRules database.\n\n### Inert Doublet Model\nThe inert doublet model, a minimal extension of the Standard Model by a second higgs doublet with no direct couplings to quarks or leptons, is one of the simplest scenarios that can explain the dark matter.\n\n### Additional information\n**Pheno AI training data**   \nLes Houches project for a database of networks for regression and classification of quantities relevant for particle physics phenomenology.\n\n**Curated by:** scaron123  \n**Curation policy:** Contact organisers of the Les Houches project  \n**Created:** June 25, 2019  \n**Harvesting API:** [OAI-PMH Interface](https://zenodo.org/oai2d?verb=ListRecords&set=user-phenoml_database&metadataPrefix=oai_dc)  \n\n### Acknowledgements\n\n- [darkmachines.org](darkmachines.org)\n- [phenomldata.org](https://www.phenomldata.org/)",
+  "datasetId": 768471,
+  "datasetSlug": "production-cross-sections-of-inert-doublet-model",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhakabartay",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2922,
+  "totalVotes": 14,
+  "totalDownloads": 123,
+  "title": "Production cross sections of Inert Doublet Model",
+  "hasTitle": true,
+  "subtitle": "Phenomenological AI training data",
+  "hasSubtitle": true,
+  "description": "### Context\n\n**'Learning the production cross-sections of the Inert Doublet Model'**\n[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3689678.svg)](https://doi.org/10.5281/zenodo.3689678)\n\nCite as  \nHumberto Reyes-Gonz\u00e1lez, Andre Lessa, & Sydney Otten. (2020). 'Learning the production cross sections of the Inert Doublet Model' training data set. [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3689678\n\n### Content\n\nPheno AI training dataset used in the ''Learning the production cross-sections of the Inert Doublet Model'' subproject, made of 50000 samples with \n\n5 input values: \n- MH0\n- MA0\n- MHC \n- lam2\n- lamL \n\nand \n\n8 target values \n- xsec_3535_13TeV\n- xsec_3636_13TeV\n- xsec_3737_13TeV\n- xsec_3537_13TeV\n- xsec_3637_13TeV\n- xsec_3735_13TeV\n- xsec_3736_13TeV\n- xsec_3536_13TeV \n\nfrom a parameter space of the Inert Doublet Model chosen as: 50&lt; MH0, MA0, MHC&lt;3000GeV; \u22122\u03c0 &lt; lam2, lamL&lt;2\u03c0. \n\nThe cross-sections were computed at leading order using MADGRAPH2.6.4 and the IDM UFO implementation from the FeynRules database.\n\n### Inert Doublet Model\nThe inert doublet model, a minimal extension of the Standard Model by a second higgs doublet with no direct couplings to quarks or leptons, is one of the simplest scenarios that can explain the dark matter.\n\n### Additional information\n**Pheno AI training data**   \nLes Houches project for a database of networks for regression and classification of quantities relevant for particle physics phenomenology.\n\n**Curated by:** scaron123  \n**Curation policy:** Contact organisers of the Les Houches project  \n**Created:** June 25, 2019  \n**Harvesting API:** [OAI-PMH Interface](https://zenodo.org/oai2d?verb=ListRecords&set=user-phenoml_database&metadataPrefix=oai_dc)  \n\n### Acknowledgements\n\n- [darkmachines.org](darkmachines.org)\n- [phenomldata.org](https://www.phenomldata.org/)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "physics",
+    "exploratory data analysis",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

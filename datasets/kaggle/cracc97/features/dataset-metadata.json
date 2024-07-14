@@ -1,0 +1,43 @@
+{
+  "id": "cracc97/features",
+  "id_no": 1156269,
+  "datasetSlugNullable": "features",
+  "ownerUserNullable": "cracc97",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "MFCCs for Speech Emotion Recognition",
+  "subtitleNullable": "58 MFCCs values per emotion, dataset divided by gender",
+  "descriptionNullable": "### Context\n\nDataset created with the aim to predict females and males emotions based on MFCCs values.\nWith this setup (58 values for each emotion) we were been able to get a good 94% accuracy on the female emotions.\nCheck out the related project at https://www.kaggle.com/cracc97/emotional-speech-recognition\nLeave an upvote if you like our work :)\n\n### Content\n\nThe values are been extracted from audios taken from the notorious datasets: RAVDESS, CREMA-D, TESS and SAVEE. Linked respectively:\n* https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio\n* https://www.kaggle.com/ejlok1/cremad\n* https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess\n* https://www.kaggle.com/ejlok1/surrey-audiovisual-expressed-emotion-savee\n\n\n### Acknowledgements\n\nThis project and dataset has been carried out as university exam, so feel free to use this material if you found it useful\n",
+  "datasetId": 1156269,
+  "datasetSlug": "features",
+  "hasDatasetSlug": true,
+  "ownerUser": "cracc97",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 7856,
+  "totalVotes": 14,
+  "totalDownloads": 858,
+  "title": "MFCCs for Speech Emotion Recognition",
+  "hasTitle": true,
+  "subtitle": "58 MFCCs values per emotion, dataset divided by gender",
+  "hasSubtitle": true,
+  "description": "### Context\n\nDataset created with the aim to predict females and males emotions based on MFCCs values.\nWith this setup (58 values for each emotion) we were been able to get a good 94% accuracy on the female emotions.\nCheck out the related project at https://www.kaggle.com/cracc97/emotional-speech-recognition\nLeave an upvote if you like our work :)\n\n### Content\n\nThe values are been extracted from audios taken from the notorious datasets: RAVDESS, CREMA-D, TESS and SAVEE. Linked respectively:\n* https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio\n* https://www.kaggle.com/ejlok1/cremad\n* https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess\n* https://www.kaggle.com/ejlok1/surrey-audiovisual-expressed-emotion-savee\n\n\n### Acknowledgements\n\nThis project and dataset has been carried out as university exam, so feel free to use this material if you found it useful\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "signal processing",
+    "nlp",
+    "time series analysis",
+    "cnn",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

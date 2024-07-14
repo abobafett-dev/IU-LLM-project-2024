@@ -1,0 +1,37 @@
+{
+  "id": "itsnahm/grocery-sales",
+  "id_no": 2864746,
+  "datasetSlugNullable": "grocery-sales",
+  "ownerUserNullable": "itsnahm",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Grocery Sales",
+  "subtitleNullable": "Dataset of grocery sales",
+  "descriptionNullable": "**Dataset dictionary**\n1. Order ID - ID for each order transaction\n2. Customer ID - Name of customer\n3. Category - Category of product\n4. Sub Category - Sub category of product\n5. City - Where the sales transaction occurred\n6. Order Date - Date of sales transaction occurred\n7. Region - Where the sales transaction occurred\n8. Sales (in USD) - sales amount of each sales transaction\n9. Profit (in USD) - profit amount of each sales transaction",
+  "datasetId": 2864746,
+  "datasetSlug": "grocery-sales",
+  "hasDatasetSlug": true,
+  "ownerUser": "itsnahm",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 467,
+  "totalVotes": 2,
+  "totalDownloads": 77,
+  "title": "Grocery Sales",
+  "hasTitle": true,
+  "subtitle": "Dataset of grocery sales",
+  "hasSubtitle": true,
+  "description": "**Dataset dictionary**\n1. Order ID - ID for each order transaction\n2. Customer ID - Name of customer\n3. Category - Category of product\n4. Sub Category - Sub category of product\n5. City - Where the sales transaction occurred\n6. Order Date - Date of sales transaction occurred\n7. Region - Where the sales transaction occurred\n8. Sales (in USD) - sales amount of each sales transaction\n9. Profit (in USD) - profit amount of each sales transaction",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

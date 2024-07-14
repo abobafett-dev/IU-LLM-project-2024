@@ -1,0 +1,41 @@
+{
+  "id": "/nys-psyckes-antipsychotic-polypharmacy-quality",
+  "id_no": 34093,
+  "datasetSlugNullable": "nys-psyckes-antipsychotic-polypharmacy-quality",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "NYS PSYCKES Antipsychotic Polypharmacy Quality",
+  "subtitleNullable": "Explore Open Data from New York State",
+  "descriptionNullable": "### Content  \n\nThe PSYCKES antipsychotic polypharmacy measure data set provides a count of how many New York State Medicaid enrollees are eligible to be included in the measure (individuals prescribed any antipsychotic medication), the count of how many enrollees meet criteria for the flag (individuals prescribed two or more [2AP] or three or more [3AP] antipsychotic medications concurrently for more than 90 days), and the percentage of enrollees flagged.  \n\n### Context  \n\nThis is a dataset hosted by the State of New York. The state has an open data platform found [here](https://data.ny.gov/) and they update their information according the amount of data that is brought in. Explore New York State using Kaggle and all of the data sources available through the State of New York [organization page](https://www.kaggle.com/new-york-state)!  \n\n* Update Frequency: This dataset is updated annually.\n\n### Acknowledgements\n\nThis dataset is maintained using Socrata's API and Kaggle's API. [Socrata](https://socrata.com/) has assisted countless organizations with hosting their open data and has been an integral part of the process of bringing more data to the public.  \n\n[Cover photo](https://unsplash.com/photos/AVqs0ItdMQM) by [JOSHUA COLEMAN](https://unsplash.com/@jerryinocmd) on [Unsplash](https://unsplash.com/)  \n_Unsplash Images are distributed under a unique [Unsplash License](https://unsplash.com/license)._",
+  "datasetId": 34093,
+  "datasetSlug": "nys-psyckes-antipsychotic-polypharmacy-quality",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 6932,
+  "totalVotes": 8,
+  "totalDownloads": 171,
+  "title": "NYS PSYCKES Antipsychotic Polypharmacy Quality",
+  "hasTitle": true,
+  "subtitle": "Explore Open Data from New York State",
+  "hasSubtitle": true,
+  "description": "### Content  \n\nThe PSYCKES antipsychotic polypharmacy measure data set provides a count of how many New York State Medicaid enrollees are eligible to be included in the measure (individuals prescribed any antipsychotic medication), the count of how many enrollees meet criteria for the flag (individuals prescribed two or more [2AP] or three or more [3AP] antipsychotic medications concurrently for more than 90 days), and the percentage of enrollees flagged.  \n\n### Context  \n\nThis is a dataset hosted by the State of New York. The state has an open data platform found [here](https://data.ny.gov/) and they update their information according the amount of data that is brought in. Explore New York State using Kaggle and all of the data sources available through the State of New York [organization page](https://www.kaggle.com/new-york-state)!  \n\n* Update Frequency: This dataset is updated annually.\n\n### Acknowledgements\n\nThis dataset is maintained using Socrata's API and Kaggle's API. [Socrata](https://socrata.com/) has assisted countless organizations with hosting their open data and has been an integral part of the process of bringing more data to the public.  \n\n[Cover photo](https://unsplash.com/photos/AVqs0ItdMQM) by [JOSHUA COLEMAN](https://unsplash.com/@jerryinocmd) on [Unsplash](https://unsplash.com/)  \n_Unsplash Images are distributed under a unique [Unsplash License](https://unsplash.com/license)._",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "socrata",
+    "drugs and medications"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

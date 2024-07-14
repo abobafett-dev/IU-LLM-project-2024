@@ -1,0 +1,37 @@
+{
+  "id": "claudecostantini/fbi-background-checks-1999-2020",
+  "id_no": 614858,
+  "datasetSlugNullable": "fbi-background-checks-1999-2020",
+  "ownerUserNullable": "claudecostantini",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "FBI_background_checks_1999_2020",
+  "subtitleNullable": "National Instant Criminal Background Check System (NICS) enriched dataset",
+  "descriptionNullable": "### Context\n\nI have downloaded the dataset from open data at the FBI. I have enriched it with spatial polygons and point for geomapping.\n\n### Content\n\nColumns :\n**month **=&gt; it's format is \"YYYY-MM\"\n**state **=&gt; normalised U.S. state names. Be careful, New-york is called \"New-York state\" in order to force geocoders to recognise the state and not NYC.\n**handgun **=&gt; number of background check requested for handguns in the month\n**long_gun **=&gt; number of background check requested for long_guns in the month\n**total **=&gt; add handgun and long_gun for a given month\n**centralPoint **=&gt; the longitude and latitude of the center of the given U.S. state\n**population **=&gt; number of inhabitant of the given U.S. state\n**geometry **=&gt; polynoms representing the boundaries of each given U.S. state\n**xtext **=&gt; horizontal offset for the label (the U.S. states located around NYC are very close, so we want an offset to represent the values we want to show)\n**ytext **=&gt; vertical offset for the label (the U.S. states located around NYC are very close, so we want an offset to represent the values we want to show)\n\n### Acknowledgements\n\nThanks to the COVID19 to allow me to learn a lot of things, while I'm at home. \ud83d\ude03 \n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?\nAre personnal gun sales a sign of general stress, international disorders ?\n",
+  "datasetId": 614858,
+  "datasetSlug": "fbi-background-checks-1999-2020",
+  "hasDatasetSlug": true,
+  "ownerUser": "claudecostantini",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 3002,
+  "totalVotes": 4,
+  "totalDownloads": 140,
+  "title": "FBI_background_checks_1999_2020",
+  "hasTitle": true,
+  "subtitle": "National Instant Criminal Background Check System (NICS) enriched dataset",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI have downloaded the dataset from open data at the FBI. I have enriched it with spatial polygons and point for geomapping.\n\n### Content\n\nColumns :\n**month **=&gt; it's format is \"YYYY-MM\"\n**state **=&gt; normalised U.S. state names. Be careful, New-york is called \"New-York state\" in order to force geocoders to recognise the state and not NYC.\n**handgun **=&gt; number of background check requested for handguns in the month\n**long_gun **=&gt; number of background check requested for long_guns in the month\n**total **=&gt; add handgun and long_gun for a given month\n**centralPoint **=&gt; the longitude and latitude of the center of the given U.S. state\n**population **=&gt; number of inhabitant of the given U.S. state\n**geometry **=&gt; polynoms representing the boundaries of each given U.S. state\n**xtext **=&gt; horizontal offset for the label (the U.S. states located around NYC are very close, so we want an offset to represent the values we want to show)\n**ytext **=&gt; vertical offset for the label (the U.S. states located around NYC are very close, so we want an offset to represent the values we want to show)\n\n### Acknowledgements\n\nThanks to the COVID19 to allow me to learn a lot of things, while I'm at home. \ud83d\ude03 \n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?\nAre personnal gun sales a sign of general stress, international disorders ?\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

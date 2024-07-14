@@ -1,0 +1,41 @@
+{
+  "id": "milanzdravkovic/dhs-substation-data",
+  "id_no": 953401,
+  "datasetSlugNullable": "dhs-substation-data",
+  "ownerUserNullable": "milanzdravkovic",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "DHS substation data",
+  "subtitleNullable": "Historical data for District Heating System substation operation for 3 seasons",
+  "descriptionNullable": "The intended use of the dataset is forecasting of the heat demand in the existing infrastructure, namely the Faculty of Mechanical Engineering in Nis District Heating System (FMEDH). FMEDH has 12 consumers (and respective heating substations - published data is from the individual substation) of different demands, namely secondary education, higher-education and research organizations, student dormitory, restaurant and a residential block and total of nearly 90.000m2 heating area (new consumers are expected to be connected to FMEDH in 2021, increasing the total heating area to 120.000m2). Natural gas is used as primary fuel. FMEDH is equipped with a SCADA system with continuous data acquisition facility (in plant and substations, primary and secondary supply and return lines water temperature, fluid flow and pressure).\n\nThe dataset includes following relevant features: Outside air temperature, acquired by the sensor in the substation (C, tsp), Water temperature in the secondary supply line (C, tns), Water temperature in the secondary return line (C, tps), Water temperature in the primary supply line (C, tns), Water temperature in the primary return line (C, tps) and Heat energy transmitted (Kw, qizm).",
+  "datasetId": 953401,
+  "datasetSlug": "dhs-substation-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "milanzdravkovic",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 5536,
+  "totalVotes": 9,
+  "totalDownloads": 194,
+  "title": "DHS substation data",
+  "hasTitle": true,
+  "subtitle": "Historical data for District Heating System substation operation for 3 seasons",
+  "hasSubtitle": true,
+  "description": "The intended use of the dataset is forecasting of the heat demand in the existing infrastructure, namely the Faculty of Mechanical Engineering in Nis District Heating System (FMEDH). FMEDH has 12 consumers (and respective heating substations - published data is from the individual substation) of different demands, namely secondary education, higher-education and research organizations, student dormitory, restaurant and a residential block and total of nearly 90.000m2 heating area (new consumers are expected to be connected to FMEDH in 2021, increasing the total heating area to 120.000m2). Natural gas is used as primary fuel. FMEDH is equipped with a SCADA system with continuous data acquisition facility (in plant and substations, primary and secondary supply and return lines water temperature, fluid flow and pressure).\n\nThe dataset includes following relevant features: Outside air temperature, acquired by the sensor in the substation (C, tsp), Water temperature in the secondary supply line (C, tns), Water temperature in the secondary return line (C, tps), Water temperature in the primary supply line (C, tns), Water temperature in the primary return line (C, tps) and Heat energy transmitted (Kw, qizm).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "energy",
+    "time series analysis",
+    "electricity"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

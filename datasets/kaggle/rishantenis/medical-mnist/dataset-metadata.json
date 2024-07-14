@@ -1,0 +1,39 @@
+{
+  "id": "rishantenis/medical-mnist",
+  "id_no": 4987991,
+  "datasetSlugNullable": "medical-mnist",
+  "ownerUserNullable": "rishantenis",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Medical-MNIST",
+  "subtitleNullable": "",
+  "descriptionNullable": "<blockquote>\n  <p>This dataset is a simple MNIST-style medical images in 64x64 dimension;<br>\n  There were originaly taken from other datasets and processed into such style. There are 58954 medical images belonging to 6 classes.</p>\n</blockquote>\n<h1>Highlighted Notebooks</h1>\n<blockquote>\n  <p><a target=\"_blank\" href=\"https://www.kaggle.com/anoukstein/fast-ai-implementation-with-radiologic-perspective\">FastAI Implementation with Radiologic Perspective</a> by <a target=\"_blank\" href=\"https://www.kaggle.com/anoukstein\">Anouk Stein, MD</a></p>\n</blockquote>\n<h1>Acknowledgements</h1>\n<p>If you use this dataset in your research, please credit the author.</p>\n<blockquote>\n  <h3>BibTeX</h3>\n  <p><a target=\"_blank\" href=\"https://www.kaggle.com/misc\">@misc</a>{Medical MNIST Classification,<br>\n    author = {apolanco3225},<br>\n    title = {Medical MNIST Classification},<br>\n    year = {2017},<br>\n    publisher = {GitHub},<br>\n    journal = {GitHub repository},<br>\n    howpublished = {\\url{<a target=\"_blank\" href=\"https://github.com/apolanco3225/Medical-MNIST-Classification}}\">https://github.com/apolanco3225/Medical-MNIST-Classification}}</a><br>\n  }</p>\n  <h3>License</h3>\n  <p>Public Domain</p>\n  <h3>Splash Image</h3>\n  <p>Photo by Hush Naidoo on UnsplasheFa</p>\n</blockquote>",
+  "datasetId": 4987991,
+  "datasetSlug": "medical-mnist",
+  "hasDatasetSlug": true,
+  "ownerUser": "rishantenis",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 115,
+  "totalVotes": 6,
+  "totalDownloads": 7,
+  "title": "Medical-MNIST",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "<blockquote>\n  <p>This dataset is a simple MNIST-style medical images in 64x64 dimension;<br>\n  There were originaly taken from other datasets and processed into such style. There are 58954 medical images belonging to 6 classes.</p>\n</blockquote>\n<h1>Highlighted Notebooks</h1>\n<blockquote>\n  <p><a target=\"_blank\" href=\"https://www.kaggle.com/anoukstein/fast-ai-implementation-with-radiologic-perspective\">FastAI Implementation with Radiologic Perspective</a> by <a target=\"_blank\" href=\"https://www.kaggle.com/anoukstein\">Anouk Stein, MD</a></p>\n</blockquote>\n<h1>Acknowledgements</h1>\n<p>If you use this dataset in your research, please credit the author.</p>\n<blockquote>\n  <h3>BibTeX</h3>\n  <p><a target=\"_blank\" href=\"https://www.kaggle.com/misc\">@misc</a>{Medical MNIST Classification,<br>\n    author = {apolanco3225},<br>\n    title = {Medical MNIST Classification},<br>\n    year = {2017},<br>\n    publisher = {GitHub},<br>\n    journal = {GitHub repository},<br>\n    howpublished = {\\url{<a target=\"_blank\" href=\"https://github.com/apolanco3225/Medical-MNIST-Classification}}\">https://github.com/apolanco3225/Medical-MNIST-Classification}}</a><br>\n  }</p>\n  <h3>License</h3>\n  <p>Public Domain</p>\n  <h3>Splash Image</h3>\n  <p>Photo by Hush Naidoo on UnsplasheFa</p>\n</blockquote>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

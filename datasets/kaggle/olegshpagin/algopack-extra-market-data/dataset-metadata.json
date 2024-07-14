@@ -1,0 +1,40 @@
+{
+  "id": "olegshpagin/algopack-extra-market-data",
+  "id_no": 4249205,
+  "datasetSlugNullable": "algopack-extra-market-data",
+  "ownerUserNullable": "olegshpagin",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "ALGOPACK Extra Market Data",
+  "subtitleNullable": "Extra Market Data from MOEX for RUSSIA Stocks",
+  "descriptionNullable": "**Super Candles - 5 minute super candles, 50+ parameters.** History since 2020\nDESCRIPTION OF THE DATASET\nClass|Metrics|Des (all metrics are calculated over a period of 5 minutes)\n| --- | --- | --- |\nreference|secid|at the instrument\nreference|ts|date and time\ntrades|pr_open|opening price\ntrades|pr_high|maximum price for the period\ntrades|pr_low|minimum price for the period\ntrades|pr_close|last price for the period\ntrades|pr_vwap|weighted average price\ntrades|pr_change|price change over the period, %\ntrades|trades|number of transactions\ntrades|vol|volume in lots\ntrades|val|volume in rubles\ntrades|disb|ratio of purchases and sales\ntrades|pr_std|standard deviation of price\ntrades|pr_vwap_b|weighted average purchase price\ntrades|pr_vwap_s|weighted average selling price\ntrades|trades_b|number of purchase transactions\ntrades|trades_s|number of transactions for sale\ntrades|vol_b|volume of purchases in lots\ntrades|vol_s|sales volume in lots\ntrades|val_b|volume of purchases in rubles\ntrades|false|sales volume in rubles\norders|put_orders|number of placed orders per glass\norders|cancel_orders|number of canceled applications\norders|put_vol|volume of wafers placed in a glass\norders|put_val|volume of wafers placed in a glass (rub)\norders|cancel_vol|volume of withdrawn orders\norders|cancel_val|volume of withdrawn orders (RUB)\norders|put_orders_b|number of submitted orders (purchase)\norders|put_orders_s|number of submitted orders (sale)\norders|cancel_orders_b|number of canceled orders (purchase)\norders|cancel_orders_s|number of canceled orders (sale)\norders|put_vol_b|volume of wafers placed in a glass (purchase)\norders|put_vol_s|volume of drinks placed in a glass (sale)\norders|cancel_vol_b|volume of withdrawn orders (purchase)\norders|cancel_vol_s|volume of withdrawn orders (sale)\norders|put_val_b|volume of wafers placed in a glass (purchase, rub)\norders|put_val_s|volume of wafers placed in a glass (sale, rubles)\norders|cancel_val_b|volume of withdrawn orders (purchase, rub)\norders|cancel_val_s|volume of withdrawn orders (sale, rub)\norders|cancel_vwap_b|Weighted average price of canceled orders (purchase)\norders|cancel_vwap_s|Weighted average price of canceled orders (sale)\norders|put_vwap_b|Weighted average bid price (purchase)\norders|put_vwap_s|Weighted average bid price (sale)\norderbook|spread_bbo|spread between best bid and ask price\norderbook|spread_lvl10|spread between the 10th level of bid and ask prices\norderbook|spread_1mio|spread of 1 million rubles\norderbook|levels_b|number of price levels in the order book (purchase)\norderbook|levels_s|number of price levels in the order book (selling)\norderbook|vol_b|total volume of orders in the order book at all levels (buy)\norderbook|vol_s|total volume of orders in the order book at all levels (sale)\norderbook|val_b|total volume of orders in the order book at all levels (buy), RUB\norderbook|false|total volume of orders in the order book at all levels (sale), rub\norderbook|imbalance_vol_bbo|volume imbalance at best prices\norderbook|imbalance_val_bbo|volume imbalance (RUB) at the best prices\norderbook|imbalance_vol|volume imbalance on the entire glass (all levels)\norderbook|imbalance_val|volume imbalance (rub) on the entire glass (all levels)\norderbook|vwap_b|weighted average purchase price in glass\norderbook|vwap_s|weighted average selling price in glass\norderbook|vwap_b_1mio|purchase price of an asset for 1 million rubles\norderbook|vwap_s_1mio|asset sale price for 1 million rubles",
+  "datasetId": 4249205,
+  "datasetSlug": "algopack-extra-market-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "olegshpagin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 510,
+  "totalVotes": 5,
+  "totalDownloads": 75,
+  "title": "ALGOPACK Extra Market Data",
+  "hasTitle": true,
+  "subtitle": "Extra Market Data from MOEX for RUSSIA Stocks",
+  "hasSubtitle": true,
+  "description": "**Super Candles - 5 minute super candles, 50+ parameters.** History since 2020\nDESCRIPTION OF THE DATASET\nClass|Metrics|Des (all metrics are calculated over a period of 5 minutes)\n| --- | --- | --- |\nreference|secid|at the instrument\nreference|ts|date and time\ntrades|pr_open|opening price\ntrades|pr_high|maximum price for the period\ntrades|pr_low|minimum price for the period\ntrades|pr_close|last price for the period\ntrades|pr_vwap|weighted average price\ntrades|pr_change|price change over the period, %\ntrades|trades|number of transactions\ntrades|vol|volume in lots\ntrades|val|volume in rubles\ntrades|disb|ratio of purchases and sales\ntrades|pr_std|standard deviation of price\ntrades|pr_vwap_b|weighted average purchase price\ntrades|pr_vwap_s|weighted average selling price\ntrades|trades_b|number of purchase transactions\ntrades|trades_s|number of transactions for sale\ntrades|vol_b|volume of purchases in lots\ntrades|vol_s|sales volume in lots\ntrades|val_b|volume of purchases in rubles\ntrades|false|sales volume in rubles\norders|put_orders|number of placed orders per glass\norders|cancel_orders|number of canceled applications\norders|put_vol|volume of wafers placed in a glass\norders|put_val|volume of wafers placed in a glass (rub)\norders|cancel_vol|volume of withdrawn orders\norders|cancel_val|volume of withdrawn orders (RUB)\norders|put_orders_b|number of submitted orders (purchase)\norders|put_orders_s|number of submitted orders (sale)\norders|cancel_orders_b|number of canceled orders (purchase)\norders|cancel_orders_s|number of canceled orders (sale)\norders|put_vol_b|volume of wafers placed in a glass (purchase)\norders|put_vol_s|volume of drinks placed in a glass (sale)\norders|cancel_vol_b|volume of withdrawn orders (purchase)\norders|cancel_vol_s|volume of withdrawn orders (sale)\norders|put_val_b|volume of wafers placed in a glass (purchase, rub)\norders|put_val_s|volume of wafers placed in a glass (sale, rubles)\norders|cancel_val_b|volume of withdrawn orders (purchase, rub)\norders|cancel_val_s|volume of withdrawn orders (sale, rub)\norders|cancel_vwap_b|Weighted average price of canceled orders (purchase)\norders|cancel_vwap_s|Weighted average price of canceled orders (sale)\norders|put_vwap_b|Weighted average bid price (purchase)\norders|put_vwap_s|Weighted average bid price (sale)\norderbook|spread_bbo|spread between best bid and ask price\norderbook|spread_lvl10|spread between the 10th level of bid and ask prices\norderbook|spread_1mio|spread of 1 million rubles\norderbook|levels_b|number of price levels in the order book (purchase)\norderbook|levels_s|number of price levels in the order book (selling)\norderbook|vol_b|total volume of orders in the order book at all levels (buy)\norderbook|vol_s|total volume of orders in the order book at all levels (sale)\norderbook|val_b|total volume of orders in the order book at all levels (buy), RUB\norderbook|false|total volume of orders in the order book at all levels (sale), rub\norderbook|imbalance_vol_bbo|volume imbalance at best prices\norderbook|imbalance_val_bbo|volume imbalance (RUB) at the best prices\norderbook|imbalance_vol|volume imbalance on the entire glass (all levels)\norderbook|imbalance_val|volume imbalance (rub) on the entire glass (all levels)\norderbook|vwap_b|weighted average purchase price in glass\norderbook|vwap_s|weighted average selling price in glass\norderbook|vwap_b_1mio|purchase price of an asset for 1 million rubles\norderbook|vwap_s_1mio|asset sale price for 1 million rubles",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sujaykapadnis/simpsons-guest-stars",
+  "id_no": 4010652,
+  "datasetSlugNullable": "simpsons-guest-stars",
+  "ownerUserNullable": "sujaykapadnis",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Simpsons Guest Stars",
+  "subtitleNullable": "Guest Stars that were in Simpsons",
+  "descriptionNullable": "This [**data**](simpsons-guests.csv) is from [Wikipedia](https://en.wikipedia.org/wiki/List_of_The_Simpsons_guest_stars_(seasons_1%E2%80%9320)), by way of [Andrew Collier](https://github.com/rfordatascience/tidytuesday/issues/103).\n\n# Data Dictionary\n\n## `simpsons-guests.csv`\n\n|variable        |class     |description |\n|:---------------|:---------|:-----------|\n|season          | integer | Season of the show |\n|number          | character | Episode number |\n|production_code |character | Production code for the episode |\n|episode_title   |character | Episode Title |\n|guest_star      |character | Guest star (actual name) |\n|role            |character | Role in the show, either a character or themself |\n\ncitation(tidytuesday)",
+  "datasetId": 4010652,
+  "datasetSlug": "simpsons-guest-stars",
+  "hasDatasetSlug": true,
+  "ownerUser": "sujaykapadnis",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 224,
+  "totalVotes": 6,
+  "totalDownloads": 30,
+  "title": "Simpsons Guest Stars",
+  "hasTitle": true,
+  "subtitle": "Guest Stars that were in Simpsons",
+  "hasSubtitle": true,
+  "description": "This [**data**](simpsons-guests.csv) is from [Wikipedia](https://en.wikipedia.org/wiki/List_of_The_Simpsons_guest_stars_(seasons_1%E2%80%9320)), by way of [Andrew Collier](https://github.com/rfordatascience/tidytuesday/issues/103).\n\n# Data Dictionary\n\n## `simpsons-guests.csv`\n\n|variable        |class     |description |\n|:---------------|:---------|:-----------|\n|season          | integer | Season of the show |\n|number          | character | Episode number |\n|production_code |character | Production code for the episode |\n|episode_title   |character | Episode Title |\n|guest_star      |character | Guest star (actual name) |\n|role            |character | Role in the show, either a character or themself |\n\ncitation(tidytuesday)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "art",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

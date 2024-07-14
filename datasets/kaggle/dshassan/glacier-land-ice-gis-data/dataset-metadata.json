@@ -1,0 +1,43 @@
+{
+  "id": "dshassan/glacier-land-ice-gis-data",
+  "id_no": 1622230,
+  "datasetSlugNullable": "glacier-land-ice-gis-data",
+  "ownerUserNullable": "dshassan",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "Glacier_land_ice_gis_data",
+  "subtitleNullable": "Gis data of glacier land and ice data",
+  "descriptionNullable": "Introduction\n\nTo address the debris-cover glacier the on field work sometime difficult and not accessible therefore we use satellite, image through remote sense technique. \nRemote sensing techniques are used for mapping debris covered glacier, but these techniques are failed when applied to glaciers covered by debris because of similar spectral response from supra glacial debris and peril glacial. Moreover, few researchers focused on debris covered glacier through onscreen manual digitization. But the accuracy of manual digitalization of debris-covered glaciers varies, conversely, based on image resolution and personal expertise  resulting in different mappings for the same glacier.\nTo address this challenge, we use machine learning algorithms to classify glaciers, debris covered glacier and non-glaciated areas from remote sensed data.\n\n\n\nConclusion\n\nIn this research work, I am going to investigate three supervised ML classifiers for automatic classification of the glaciers, debris covered glaciers and non-glaciated areas from multi-temporal Sentinel-2 imagary using texture, topographic through remotely sensed data, the ML algorithm will use in this research are Support Vector Machine (SVM), Artificial Neural Network (ANN), and Random Forest (RF).",
+  "datasetId": 1622230,
+  "datasetSlug": "glacier-land-ice-gis-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "dshassan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 2672,
+  "totalVotes": 9,
+  "totalDownloads": 168,
+  "title": "Glacier_land_ice_gis_data",
+  "hasTitle": true,
+  "subtitle": "Gis data of glacier land and ice data",
+  "hasSubtitle": true,
+  "description": "Introduction\n\nTo address the debris-cover glacier the on field work sometime difficult and not accessible therefore we use satellite, image through remote sense technique. \nRemote sensing techniques are used for mapping debris covered glacier, but these techniques are failed when applied to glaciers covered by debris because of similar spectral response from supra glacial debris and peril glacial. Moreover, few researchers focused on debris covered glacier through onscreen manual digitization. But the accuracy of manual digitalization of debris-covered glaciers varies, conversely, based on image resolution and personal expertise  resulting in different mappings for the same glacier.\nTo address this challenge, we use machine learning algorithms to classify glaciers, debris covered glacier and non-glaciated areas from remote sensed data.\n\n\n\nConclusion\n\nIn this research work, I am going to investigate three supervised ML classifiers for automatic classification of the glaciers, debris covered glaciers and non-glaciated areas from multi-temporal Sentinel-2 imagary using texture, topographic through remotely sensed data, the ML algorithm will use in this research are Support Vector Machine (SVM), Artificial Neural Network (ANN), and Random Forest (RF).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "global",
+    "earth science",
+    "geography",
+    "data visualization",
+    "cnn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "saurabhshahane/hippocorpus",
+  "id_no": 1113708,
+  "datasetSlugNullable": "hippocorpus",
+  "ownerUserNullable": "saurabhshahane",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Hippocorpus ",
+  "subtitleNullable": "Studies of Human Cognition with Neural Language Models",
+  "descriptionNullable": "### Context\n\nModels of human cognition hold that information processing occurs in a series of stages. Cognitive psychology, in particular, is concerned with the internal mental processes that begin with the appearance of an external stimulus and result in a behavioral response.\n\n\n### Content\n\nHippocorpus is dataset of 6854 English diary like short stories about recalled and imagined events. Using a crowdsourcing framework the respective owners of this datasets collected recalled stories and summaries from workers, then provided these collected summaries to other workers who write imagined stories. Months later dataset creators collected a retold version of the recalled stories from the subset of recalled authors. \nDataset contains author demographics (age, gender, race), their openness to experience, as well as some variables regarding the author's relationship to the event (e.g., how personal the event is, how often they tell its story, etc.)\ncontent source - https://msropendata.com/datasets/0a83fb6f-a759-4a17-aaa2-fbac84577318 ..\n\n### Acknowledgements\nThanks to Original Authors\nMaarten Sap, Eric Horvitz, Yejin Choi, Noah A. Smith, and James Pennebaker (2020) _Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models._ ACL.\nProject Link - https://www.microsoft.com/en-us/research/project/neural-models-for-studies-of-human-cognition/\nOriginal Dataset - https://msropendata.com/datasets/0a83fb6f-a759-4a17-aaa2-fbac84577318\n\n### License: [Open Use of Data Agreement v1.0](https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view)\n\n### Dataset Discription : \n\nThe dataset contains short stories about recalled and imagined events.\n\nThese are the columns in the data:\n\n- `AssignmentId`: Unique ID of this story\n\n- `WorkTimeInSeconds`: Time in seconds that it took the worker to do the entire HIT (reading instructions, story writing, questions)\n\n- `WorkerId`: Unique ID of the worker (random string, not MTurk worker ID)\n\n- `annotatorAge`: Lower limit of the age bucket of the worker. Buckets are: 18-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55+\n\n- `annotatorGender`: Gender of the worker\n\n- `annotatorRace`: Race/ethnicity of the worker\n\n- `distracted`: How distracted were you while writing your story? (5-point Likert)\n\n- `draining`: How taxing/draining was writing for you emotionally? (5-point Likert)\n\n- `frequency`: How often do you think about or talk about this event? (5-point Likert)\n\n- `importance`: How impactful, important, or personal is this story/event to you? (5-point Likert)\n\n- `logTimeSinceEvent`: Log of time (days) since the recalled event happened\n\n- `mainEvent`: Short phrase describing the main event described\n\n- `memType`: Type of story (recalled, imagined, retold) - The target variable\n\n- `mostSurprising`: Short phrase describing what the most surprising aspect of the story was\n\n- `openness`: Continuous variable representing the openness to experience of the worker\n\n- `recAgnPairId`: ID of the recalled story that corresponds to this retold story (null for imagined stories). Group on this variable to get the recalled-retold pairs.\n\n- `recImgPairId`: ID of the recalled story that corresponds to this imagined story (null for retold stories). Group on this variable to get the recalled-imagined pairs.\n\n- `similarity`: How similar to your life does this event/story feel to you? (5-point Likert)\n\n- `similarityReason`: Free text annotation of similarity\n\n- `story`: Story about the imagined or recalled event (15-25 sentences)\n\n- `stressful`: How stressful was this writing task? (5-point Likert)\n\n- `summary`: Summary of the events in the story (1-3 sentences)\n\n- `timeSinceEvent`: Time (number of days) since the recalled event happened",
+  "datasetId": 1113708,
+  "datasetSlug": "hippocorpus",
+  "hasDatasetSlug": true,
+  "ownerUser": "saurabhshahane",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5970,
+  "totalVotes": 33,
+  "totalDownloads": 276,
+  "title": "Hippocorpus ",
+  "hasTitle": true,
+  "subtitle": "Studies of Human Cognition with Neural Language Models",
+  "hasSubtitle": true,
+  "description": "### Context\n\nModels of human cognition hold that information processing occurs in a series of stages. Cognitive psychology, in particular, is concerned with the internal mental processes that begin with the appearance of an external stimulus and result in a behavioral response.\n\n\n### Content\n\nHippocorpus is dataset of 6854 English diary like short stories about recalled and imagined events. Using a crowdsourcing framework the respective owners of this datasets collected recalled stories and summaries from workers, then provided these collected summaries to other workers who write imagined stories. Months later dataset creators collected a retold version of the recalled stories from the subset of recalled authors. \nDataset contains author demographics (age, gender, race), their openness to experience, as well as some variables regarding the author's relationship to the event (e.g., how personal the event is, how often they tell its story, etc.)\ncontent source - https://msropendata.com/datasets/0a83fb6f-a759-4a17-aaa2-fbac84577318 ..\n\n### Acknowledgements\nThanks to Original Authors\nMaarten Sap, Eric Horvitz, Yejin Choi, Noah A. Smith, and James Pennebaker (2020) _Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models._ ACL.\nProject Link - https://www.microsoft.com/en-us/research/project/neural-models-for-studies-of-human-cognition/\nOriginal Dataset - https://msropendata.com/datasets/0a83fb6f-a759-4a17-aaa2-fbac84577318\n\n### License: [Open Use of Data Agreement v1.0](https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view)\n\n### Dataset Discription : \n\nThe dataset contains short stories about recalled and imagined events.\n\nThese are the columns in the data:\n\n- `AssignmentId`: Unique ID of this story\n\n- `WorkTimeInSeconds`: Time in seconds that it took the worker to do the entire HIT (reading instructions, story writing, questions)\n\n- `WorkerId`: Unique ID of the worker (random string, not MTurk worker ID)\n\n- `annotatorAge`: Lower limit of the age bucket of the worker. Buckets are: 18-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55+\n\n- `annotatorGender`: Gender of the worker\n\n- `annotatorRace`: Race/ethnicity of the worker\n\n- `distracted`: How distracted were you while writing your story? (5-point Likert)\n\n- `draining`: How taxing/draining was writing for you emotionally? (5-point Likert)\n\n- `frequency`: How often do you think about or talk about this event? (5-point Likert)\n\n- `importance`: How impactful, important, or personal is this story/event to you? (5-point Likert)\n\n- `logTimeSinceEvent`: Log of time (days) since the recalled event happened\n\n- `mainEvent`: Short phrase describing the main event described\n\n- `memType`: Type of story (recalled, imagined, retold) - The target variable\n\n- `mostSurprising`: Short phrase describing what the most surprising aspect of the story was\n\n- `openness`: Continuous variable representing the openness to experience of the worker\n\n- `recAgnPairId`: ID of the recalled story that corresponds to this retold story (null for imagined stories). Group on this variable to get the recalled-retold pairs.\n\n- `recImgPairId`: ID of the recalled story that corresponds to this imagined story (null for retold stories). Group on this variable to get the recalled-imagined pairs.\n\n- `similarity`: How similar to your life does this event/story feel to you? (5-point Likert)\n\n- `similarityReason`: Free text annotation of similarity\n\n- `story`: Story about the imagined or recalled event (15-25 sentences)\n\n- `stressful`: How stressful was this writing task? (5-point Likert)\n\n- `summary`: Summary of the events in the story (1-3 sentences)\n\n- `timeSinceEvent`: Time (number of days) since the recalled event happened",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "public health",
+    "neuroscience",
+    "psychology",
+    "intermediate",
+    "advanced",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

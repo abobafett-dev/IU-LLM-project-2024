@@ -1,0 +1,42 @@
+{
+  "id": "timilsinabimal/newsarticlecategories",
+  "id_no": 1550907,
+  "datasetSlugNullable": "newsarticlecategories",
+  "ownerUserNullable": "timilsinabimal",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "News Article Category Dataset",
+  "subtitleNullable": "14 Categories of News Articles with Headline and body.",
+  "descriptionNullable": "### Context\n\nThe data was created for my Academic Project entitled News-Article-Classifier. This dataset can be used to train models to classify news articles into different categories.\n\n\n### Content\n\nIt Contains 6877 unique data about News Articles published in HuffPost. The categories include *ARTS & CULTURE, BUSINESS, COMEDY, CRIME, EDUCATION, ENTERTAINMENT, ENVIRONMENT, MEDIA, POLITICS, RELIGION, SCIENCE, SPORTS, TECH, WOMEN*.  \nCategories and corresponding article counts are as follows:\n- `ARTS AND CULTURE:  1002`\n- `BUSINESS: 501 `\n- `COMEDY: 380`\n- `CRIME: 300`\n- `EDUCATION: 490`\n- `ENTERTAINMENT: 501`\n- `ENVIRONMENT: 501`\n- `MEDIA: 347`\n- `POLITICS: 501`\n- `RELIGION: 501`\n- `SCIENCE: 350`\n- `SPORTS: 501`\n- `TECH: 501`\n- `WOMEN: 501`\n\n\n### Acknowledgements\n\nThe data was created with the help of [News Category Dataset](https://www.kaggle.com/rmisra/news-category-dataset) and scrapped from [HuffPost](https://www.huffpost.com/)\n\n\n### Inspiration\n- Do news articles from different categories have different writing styles?\n- What kinds of words contribute to each of the categories in News Articles?\n\n### Citation\nIf you're using this dataset for research purposes, please use the following BibTex for citations:\n\n@dataset{dataset,\n  author = {Timilsina, Bimal},\n  year = {2021},\n  month = {08},\n  pages = {},\n  title = {News Article Category Dataset},\n}",
+  "datasetId": 1550907,
+  "datasetSlug": "newsarticlecategories",
+  "hasDatasetSlug": true,
+  "ownerUser": "timilsinabimal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 5223,
+  "totalVotes": 12,
+  "totalDownloads": 745,
+  "title": "News Article Category Dataset",
+  "hasTitle": true,
+  "subtitle": "14 Categories of News Articles with Headline and body.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe data was created for my Academic Project entitled News-Article-Classifier. This dataset can be used to train models to classify news articles into different categories.\n\n\n### Content\n\nIt Contains 6877 unique data about News Articles published in HuffPost. The categories include *ARTS & CULTURE, BUSINESS, COMEDY, CRIME, EDUCATION, ENTERTAINMENT, ENVIRONMENT, MEDIA, POLITICS, RELIGION, SCIENCE, SPORTS, TECH, WOMEN*.  \nCategories and corresponding article counts are as follows:\n- `ARTS AND CULTURE:  1002`\n- `BUSINESS: 501 `\n- `COMEDY: 380`\n- `CRIME: 300`\n- `EDUCATION: 490`\n- `ENTERTAINMENT: 501`\n- `ENVIRONMENT: 501`\n- `MEDIA: 347`\n- `POLITICS: 501`\n- `RELIGION: 501`\n- `SCIENCE: 350`\n- `SPORTS: 501`\n- `TECH: 501`\n- `WOMEN: 501`\n\n\n### Acknowledgements\n\nThe data was created with the help of [News Category Dataset](https://www.kaggle.com/rmisra/news-category-dataset) and scrapped from [HuffPost](https://www.huffpost.com/)\n\n\n### Inspiration\n- Do news articles from different categories have different writing styles?\n- What kinds of words contribute to each of the categories in News Articles?\n\n### Citation\nIf you're using this dataset for research purposes, please use the following BibTex for citations:\n\n@dataset{dataset,\n  author = {Timilsina, Bimal},\n  year = {2021},\n  month = {08},\n  pages = {},\n  title = {News Article Category Dataset},\n}",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "classification",
+    "clustering",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

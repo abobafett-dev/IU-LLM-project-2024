@@ -1,0 +1,41 @@
+{
+  "id": "roronoalevi69/myanimelistmal",
+  "id_no": 578069,
+  "datasetSlugNullable": "myanimelistmal",
+  "ownerUserNullable": "roronoalevi69",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "MyAnimeList(MAL) Dataset",
+  "subtitleNullable": "Webscraping and analysis",
+  "descriptionNullable": "### Context\n\nAlways wanted to know how a popular show is actually popular? is it the duration? is it the total episodes? is it solely based on story?  or is it based on all of them?  \n\n### Content\n\nThis data set consists of 7 columns:\nRankings \nTitle\nEpisodes aired\nDuration\nRatings\nMembers watched \n\nI webscraped the data from the MAL site and converted the top 300 anime into a dataset, later performed data cleaning and data analysis to answer the questions above mentioned \n\n\n### Acknowledgements\n\nI am very thankful to the MAL i.e My anime list website for permitting the users to scrap the data and get insights about the anime platform \n\n\n",
+  "datasetId": 578069,
+  "datasetSlug": "myanimelistmal",
+  "hasDatasetSlug": true,
+  "ownerUser": "roronoalevi69",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 2892,
+  "totalVotes": 4,
+  "totalDownloads": 82,
+  "title": "MyAnimeList(MAL) Dataset",
+  "hasTitle": true,
+  "subtitle": "Webscraping and analysis",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAlways wanted to know how a popular show is actually popular? is it the duration? is it the total episodes? is it solely based on story?  or is it based on all of them?  \n\n### Content\n\nThis data set consists of 7 columns:\nRankings \nTitle\nEpisodes aired\nDuration\nRatings\nMembers watched \n\nI webscraped the data from the MAL site and converted the top 300 anime into a dataset, later performed data cleaning and data analysis to answer the questions above mentioned \n\n\n### Acknowledgements\n\nI am very thankful to the MAL i.e My anime list website for permitting the users to scrap the data and get insights about the anime platform \n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "statistical analysis",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

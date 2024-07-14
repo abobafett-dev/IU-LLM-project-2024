@@ -1,0 +1,41 @@
+{
+  "id": "abdeljalilyahya/3-months-of-nasdaq100-related-news-from-gdelt",
+  "id_no": 2892919,
+  "datasetSlugNullable": "3-months-of-nasdaq100-related-news-from-gdelt",
+  "ownerUserNullable": "abdeljalilyahya",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "3 months of Nasdaq100 related news from GDELT ",
+  "subtitleNullable": "For NLP and sentiment analysis",
+  "descriptionNullable": "This dataset was scraped from [GDELT](http://data.gdeltproject.org/events/index.html). It offers news with urls that we scraped looking for NASDAQ100 companies. Every day the scraping function is triggered as a scheduled task and retrieves news. We only show a period of 3 months. The articles are then classified by topic (Environment, Social, Governance or None) by an SGDClassifier algorithm. The sentiment is calculated using VaderSentiment. \n\n",
+  "datasetId": 2892919,
+  "datasetSlug": "3-months-of-nasdaq100-related-news-from-gdelt",
+  "hasDatasetSlug": true,
+  "ownerUser": "abdeljalilyahya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 223,
+  "totalVotes": 1,
+  "totalDownloads": 25,
+  "title": "3 months of Nasdaq100 related news from GDELT ",
+  "hasTitle": true,
+  "subtitle": "For NLP and sentiment analysis",
+  "hasSubtitle": true,
+  "description": "This dataset was scraped from [GDELT](http://data.gdeltproject.org/events/index.html). It offers news with urls that we scraped looking for NASDAQ100 companies. Every day the scraping function is triggered as a scheduled task and retrieves news. We only show a period of 3 months. The articles are then classified by topic (Environment, Social, Governance or None) by an SGDClassifier algorithm. The sentiment is calculated using VaderSentiment. \n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "nlp",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

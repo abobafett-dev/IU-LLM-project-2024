@@ -1,0 +1,44 @@
+{
+  "id": "abukhadeejahkarl/ml-powerlog",
+  "id_no": 3218647,
+  "datasetSlugNullable": "ml-powerlog",
+  "ownerUserNullable": "abukhadeejahkarl",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Motion Labs - Machine Generated Power Logging",
+  "subtitleNullable": "Motion Labs PM-XXX Series Power Meter, lets explore how clients use event power",
+  "descriptionNullable": "I originally started a project while working with this data for an in-house AV company, as a Power Distribution Technician, in my spare time. It was only a basic script that plotted 3 graphs, made some HTML files with plotly and had to be run from the console.\n\nThis is Machine Generated Power usage data from a Motion Labs PM-XXX Series Power Meter that generates a CSV file on a USB stick, one log file per day, logs every 23 seconds or so.  \n\nLogged parameters are as follows (copied from the User Manual):\n\n- Date (file name) and time (Record Time)\n- Ph-N voltages: V1-V2-V3 (single phase, 120 V)\n- Ph-Ph voltages: U12-U23-U31 (two phase 208 V)\n- Phase currents: I1-I2-I3 \n- Frequency\n- Average Ph-N voltage: Va\n- Average Ph-Ph voltage: Ua\n- Average current: Ia\n- Total active power (kW)\n- Total reactive power (kVAr)\n- Total apparent power (kVA)\n- Total power factor (pf)\n- Demands: dI1-dI2-dI3-dIn-dkW-dkVAr\n- Total harmonic distortion: V1-V2-V3-U12-U23-U31-I1-I2-I3-In\n\nmore details can be found in the [User Manual](https://www.motionlabs.com/wp-content/uploads/PM-XXX-Manual.pdf) and [Product page](https://www.motionlabs.com/products/modular-power-distribution-3/).  \n\nAs you will see, the file i edited will display all the columns, but the ones I didn't edit will only show 2 columns.  that is how Kaggle handled the input; no problem, I will use pandas to work with the data and clean it up so it will be usable.  for analysis, plotting and storytelling.",
+  "datasetId": 3218647,
+  "datasetSlug": "ml-powerlog",
+  "hasDatasetSlug": true,
+  "ownerUser": "abukhadeejahkarl",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 198,
+  "totalVotes": 1,
+  "totalDownloads": 19,
+  "title": "Motion Labs - Machine Generated Power Logging",
+  "hasTitle": true,
+  "subtitle": "Motion Labs PM-XXX Series Power Meter, lets explore how clients use event power",
+  "hasSubtitle": true,
+  "description": "I originally started a project while working with this data for an in-house AV company, as a Power Distribution Technician, in my spare time. It was only a basic script that plotted 3 graphs, made some HTML files with plotly and had to be run from the console.\n\nThis is Machine Generated Power usage data from a Motion Labs PM-XXX Series Power Meter that generates a CSV file on a USB stick, one log file per day, logs every 23 seconds or so.  \n\nLogged parameters are as follows (copied from the User Manual):\n\n- Date (file name) and time (Record Time)\n- Ph-N voltages: V1-V2-V3 (single phase, 120 V)\n- Ph-Ph voltages: U12-U23-U31 (two phase 208 V)\n- Phase currents: I1-I2-I3 \n- Frequency\n- Average Ph-N voltage: Va\n- Average Ph-Ph voltage: Ua\n- Average current: Ia\n- Total active power (kW)\n- Total reactive power (kVAr)\n- Total apparent power (kVA)\n- Total power factor (pf)\n- Demands: dI1-dI2-dI3-dIn-dkW-dkVAr\n- Total harmonic distortion: V1-V2-V3-U12-U23-U31-I1-I2-I3-In\n\nmore details can be found in the [User Manual](https://www.motionlabs.com/wp-content/uploads/PM-XXX-Manual.pdf) and [Product page](https://www.motionlabs.com/products/modular-power-distribution-3/).  \n\nAs you will see, the file i edited will display all the columns, but the ones I didn't edit will only show 2 columns.  that is how Kaggle handled the input; no problem, I will use pandas to work with the data and clean it up so it will be usable.  for analysis, plotting and storytelling.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "intermediate",
+    "data cleaning",
+    "data visualization",
+    "electricity",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Permissive - Version 1.0",
+      "name": "Community Data License Agreement - Permissive - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

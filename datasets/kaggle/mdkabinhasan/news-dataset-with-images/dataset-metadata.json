@@ -1,0 +1,39 @@
+{
+  "id": "mdkabinhasan/news-dataset-with-images",
+  "id_no": 5096210,
+  "datasetSlugNullable": "news-dataset-with-images",
+  "ownerUserNullable": "mdkabinhasan",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "News Dataset with Images",
+  "subtitleNullable": "International News Dataset with Headlines, Description and Images",
+  "descriptionNullable": "A dataset that was scraped from various international news site's RSS files. For fetching the data, feedparser library was used, and a total of 5217 data was scraped. \n\nThis dataset includes \n- Headlines \n- Descriptions \n- Image URLs \n- Publish dates \n- News URLs\n- The downloaded images.",
+  "datasetId": 5096210,
+  "datasetSlug": "news-dataset-with-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "mdkabinhasan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 40,
+  "totalVotes": 0,
+  "totalDownloads": 6,
+  "title": "News Dataset with Images",
+  "hasTitle": true,
+  "subtitle": "International News Dataset with Headlines, Description and Images",
+  "hasSubtitle": true,
+  "description": "A dataset that was scraped from various international news site's RSS files. For fetching the data, feedparser library was used, and a total of 5217 data was scraped. \n\nThis dataset includes \n- Headlines \n- Descriptions \n- Image URLs \n- Publish dates \n- News URLs\n- The downloaded images.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

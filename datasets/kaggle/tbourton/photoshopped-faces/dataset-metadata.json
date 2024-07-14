@@ -1,0 +1,43 @@
+{
+  "id": "tbourton/photoshopped-faces",
+  "id_no": 1308634,
+  "datasetSlugNullable": "photoshopped-faces",
+  "ownerUserNullable": "tbourton",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Photoshopped faces",
+  "subtitleNullable": "Photoshopped and real faces.",
+  "descriptionNullable": "This contains 500 original and 500 modified images each from Flickr and OpenImage. This is the validation dataset from Detecting Photoshopped Faces by Scripting Photoshop https://arxiv.org/abs/1906.05856. I do not own this data, I wanted to use it for educational purposes.\n\n\"original faces are in the original folder, and modified faces are in the modified folder. For reference, the reference folder contains the same faces in the modified folder, but those are before modification (original)\"\n\n\n### Acknowledgements\nAll acknowledgements go to:\nWang, Sheng-Yu and Wang, Oliver and Owens, Andrew and Zhang, Richard and Efros, Alexei A\nDetecting Photoshopped Faces by Scripting Photoshop\nhttps://arxiv.org/abs/1906.05856\nhttps://peterwang512.github.io/FALdetector/\nhttps://github.com/PeterWang512/FALdetector",
+  "datasetId": 1308634,
+  "datasetSlug": "photoshopped-faces",
+  "hasDatasetSlug": true,
+  "ownerUser": "tbourton",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 6359,
+  "totalVotes": 12,
+  "totalDownloads": 251,
+  "title": "Photoshopped faces",
+  "hasTitle": true,
+  "subtitle": "Photoshopped and real faces.",
+  "hasSubtitle": true,
+  "description": "This contains 500 original and 500 modified images each from Flickr and OpenImage. This is the validation dataset from Detecting Photoshopped Faces by Scripting Photoshop https://arxiv.org/abs/1906.05856. I do not own this data, I wanted to use it for educational purposes.\n\n\"original faces are in the original folder, and modified faces are in the modified folder. For reference, the reference folder contains the same faces in the modified folder, but those are before modification (original)\"\n\n\n### Acknowledgements\nAll acknowledgements go to:\nWang, Sheng-Yu and Wang, Oliver and Owens, Andrew and Zhang, Richard and Efros, Alexei A\nDetecting Photoshopped Faces by Scripting Photoshop\nhttps://arxiv.org/abs/1906.05856\nhttps://peterwang512.github.io/FALdetector/\nhttps://github.com/PeterWang512/FALdetector",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "cnn",
+    "image",
+    "binary classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

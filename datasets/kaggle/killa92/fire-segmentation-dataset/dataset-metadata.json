@@ -1,0 +1,43 @@
+{
+  "id": "killa92/fire-segmentation-dataset",
+  "id_no": 4663325,
+  "datasetSlugNullable": "fire-segmentation-dataset",
+  "ownerUserNullable": "killa92",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Fire Segmentation Dataset",
+  "subtitleNullable": "Semantic Segmentation Dataset",
+  "descriptionNullable": "This dataset contains fire images and their corresponding segmentation masks for a semantic segmentation task. The dataset can also be used for binary image classification task (to classify images into fire and not fire classes). The dataset has no split of train, validation, and  test folders; so, for training purposes, it should be split into three sets necessary for Machine Learning and Deep Learning tasks, namely train, validation, and test splits. The structure of the data is as follows:\n\n\u251c\u2500\u2500 ROOT:\n    \u2514\u2500\u2500 images:\n        \u251c\u2500\u2500 fire:\n\t\t\u251c\u2500\u2500 img_file;\n\t\t\u251c\u2500\u2500 img_file;\n\t\t\u251c\u2500\u2500 ...;\n\t\t\u2514\u2500\u2500 img_file.\n       \u251c\u2500\u2500 not fire:\n\t\t\u251c\u2500\u2500 img_file;\n\t\t\u251c\u2500\u2500 img_file;\n\t\t\u251c\u2500\u2500 ...;\n\t\t\u2514\u2500\u2500 img_file.\n    \u2514\u2500\u2500 masks:\n\t\u251c\u2500\u2500 img_file;\n\t\u251c\u2500\u2500 img_file;\n\t\u251c\u2500\u2500 ...;\n\t\u2514\u2500\u2500 img_file.\n         \nFor the semantic segmentation task, images name and their corresponding labels have the same file name. And for the image classification task, the class labels can be obtained directory names (fire, not fire). Good luck!",
+  "datasetId": 4663325,
+  "datasetSlug": "fire-segmentation-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "killa92",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 514,
+  "totalVotes": 8,
+  "totalDownloads": 94,
+  "title": "Fire Segmentation Dataset",
+  "hasTitle": true,
+  "subtitle": "Semantic Segmentation Dataset",
+  "hasSubtitle": true,
+  "description": "This dataset contains fire images and their corresponding segmentation masks for a semantic segmentation task. The dataset can also be used for binary image classification task (to classify images into fire and not fire classes). The dataset has no split of train, validation, and  test folders; so, for training purposes, it should be split into three sets necessary for Machine Learning and Deep Learning tasks, namely train, validation, and test splits. The structure of the data is as follows:\n\n\u251c\u2500\u2500 ROOT:\n    \u2514\u2500\u2500 images:\n        \u251c\u2500\u2500 fire:\n\t\t\u251c\u2500\u2500 img_file;\n\t\t\u251c\u2500\u2500 img_file;\n\t\t\u251c\u2500\u2500 ...;\n\t\t\u2514\u2500\u2500 img_file.\n       \u251c\u2500\u2500 not fire:\n\t\t\u251c\u2500\u2500 img_file;\n\t\t\u251c\u2500\u2500 img_file;\n\t\t\u251c\u2500\u2500 ...;\n\t\t\u2514\u2500\u2500 img_file.\n    \u2514\u2500\u2500 masks:\n\t\u251c\u2500\u2500 img_file;\n\t\u251c\u2500\u2500 img_file;\n\t\u251c\u2500\u2500 ...;\n\t\u2514\u2500\u2500 img_file.\n         \nFor the semantic segmentation task, images name and their corresponding labels have the same file name. And for the image classification task, the class labels can be obtained directory names (fire, not fire). Good luck!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "artificial intelligence",
+    "deep learning",
+    "image classification",
+    "image segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

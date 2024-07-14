@@ -1,0 +1,45 @@
+{
+  "id": "altruisticemphasis/spiral-galaxies",
+  "id_no": 1420269,
+  "datasetSlugNullable": "spiral-galaxies",
+  "ownerUserNullable": "altruisticemphasis",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Spiral Galaxies",
+  "subtitleNullable": "A collection of 75 images of Spiral Galaxies to work with on classification",
+  "descriptionNullable": "Context\n\nThe main reason of sharing and creating this dataset is to invite all my fellow Kagglers to come and work on these images for classification ,prediction and much more. This also provides a good platform to actually do hands on image processing and understand the nuances of the field.\n\n\nContent\n\nThis dataset contains 75 images with varying qualities. Pre-processing of the images are necessary to work on with them.\n\n\nAcknowledgements\n\nAll the images in this dataset have been curated from https://hubblesite.org/ . \n\n\nInspiration\n\nI invite all of you to create wonderful notebooks on this data so that the whole community can learn and grow. The notebooks created will also help me to learn more from all of the experiences Kagglers present here. Have fun!!!!!",
+  "datasetId": 1420269,
+  "datasetSlug": "spiral-galaxies",
+  "hasDatasetSlug": true,
+  "ownerUser": "altruisticemphasis",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 3542,
+  "totalVotes": 9,
+  "totalDownloads": 166,
+  "title": "Spiral Galaxies",
+  "hasTitle": true,
+  "subtitle": "A collection of 75 images of Spiral Galaxies to work with on classification",
+  "hasSubtitle": true,
+  "description": "Context\n\nThe main reason of sharing and creating this dataset is to invite all my fellow Kagglers to come and work on these images for classification ,prediction and much more. This also provides a good platform to actually do hands on image processing and understand the nuances of the field.\n\n\nContent\n\nThis dataset contains 75 images with varying qualities. Pre-processing of the images are necessary to work on with them.\n\n\nAcknowledgements\n\nAll the images in this dataset have been curated from https://hubblesite.org/ . \n\n\nInspiration\n\nI invite all of you to create wonderful notebooks on this data so that the whole community can learn and grow. The notebooks created will also help me to learn more from all of the experiences Kagglers present here. Have fun!!!!!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "astronomy",
+    "computer vision",
+    "classification",
+    "deep learning",
+    "image",
+    "pytorch"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

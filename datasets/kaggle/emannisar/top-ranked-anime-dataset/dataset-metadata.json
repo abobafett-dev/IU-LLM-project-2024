@@ -1,0 +1,41 @@
+{
+  "id": "emannisar/top-ranked-anime-dataset",
+  "id_no": 5164613,
+  "datasetSlugNullable": "top-ranked-anime-dataset",
+  "ownerUserNullable": "emannisar",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Top Ranked Anime Dataset 2024",
+  "subtitleNullable": "MyAnimeList Top Anime",
+  "descriptionNullable": "##This dataset offers a collection of anime  from the  [MyAnimeList](https://myanimelist.net/topanime.php)  database.\n\n\n# Content\n\n**Anime Name**: Title of the anime.\n**Type**: Classification of anime (e.g., TV, Movie, OVA).\n**Episodes**: Number of episodes.\n**Status**: Broadcast status (e.g., Finished Airing).\n**Aired**: Original airing dates.\n**Premiered**: Season and year of premiere.\n**Broadcast**: Weekly broadcast time.\n**Producers**: Companies involved in production.\n**Licensors**: Companies responsible for licensing the anime in different regions.\n**Studios**: Studios that animated the series.\n**Source**: Original source material (e.g., Manga, Light novel).\n**Genres**: Categories describing the show (e.g., Action, Drama).\n**Duration**: Length of each episode.\n**Rating**: Audience suitability rating.\n**Score**: Average rating given by MyAnimeList users.\n**Ranked**: Ranking on MyAnimeList.\n**Popularity**: Popularity rank on MyAnimeList.\n**Favorites**: Number of times favorited by users.\n\n\n# **Potential Uses:**\nThis dataset can be employed to develop recommendation engines, perform content analysis, or visualize trends in anime production and reception over the years.",
+  "datasetId": 5164613,
+  "datasetSlug": "top-ranked-anime-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "emannisar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 2726,
+  "totalVotes": 25,
+  "totalDownloads": 474,
+  "title": "Top Ranked Anime Dataset 2024",
+  "hasTitle": true,
+  "subtitle": "MyAnimeList Top Anime",
+  "hasSubtitle": true,
+  "description": "##This dataset offers a collection of anime  from the  [MyAnimeList](https://myanimelist.net/topanime.php)  database.\n\n\n# Content\n\n**Anime Name**: Title of the anime.\n**Type**: Classification of anime (e.g., TV, Movie, OVA).\n**Episodes**: Number of episodes.\n**Status**: Broadcast status (e.g., Finished Airing).\n**Aired**: Original airing dates.\n**Premiered**: Season and year of premiere.\n**Broadcast**: Weekly broadcast time.\n**Producers**: Companies involved in production.\n**Licensors**: Companies responsible for licensing the anime in different regions.\n**Studios**: Studios that animated the series.\n**Source**: Original source material (e.g., Manga, Light novel).\n**Genres**: Categories describing the show (e.g., Action, Drama).\n**Duration**: Length of each episode.\n**Rating**: Audience suitability rating.\n**Score**: Average rating given by MyAnimeList users.\n**Ranked**: Ranking on MyAnimeList.\n**Popularity**: Popularity rank on MyAnimeList.\n**Favorites**: Number of times favorited by users.\n\n\n# **Potential Uses:**\nThis dataset can be employed to develop recommendation engines, perform content analysis, or visualize trends in anime production and reception over the years.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "recommender systems",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

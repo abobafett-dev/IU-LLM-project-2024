@@ -1,0 +1,39 @@
+{
+  "id": "mikegillotti/video-game-sales",
+  "id_no": 3588068,
+  "datasetSlugNullable": "video-game-sales",
+  "ownerUserNullable": "mikegillotti",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Video Game Sales",
+  "subtitleNullable": "A comprehensive video game sales dataset of over 54,000 titles",
+  "descriptionNullable": "An updated version of https://www.kaggle.com/datasets/gregorut/videogamesales\n\nI extracted this data from https://www.vgchartz.com/gamedb/ and I used a web scraper similar to Gregory's but with a slightly different method.\n\nHere's the script I used https://github.com/MikeGillotti/vgchartz-data\n\nThe dataset is separated into 3 files, a table for the individual titles, complete series, and titles that are multi-platform.\n\n\n&gt;Since the end of 2018 VGChartz no longer produces estimates for software sales. This is because the high digital market share for software was making it both more difficult to produce reliable retail estimates and also making those estimates increasingly unrepresentative of the wider performance of the games in question. As a result, on the software front we now only record official shipment/sales data, where such data is made available by developers and publishers. The legacy data remains on the site for those who are interested in browsing through it.\n\n\nhttps://www.vgchartz.com/methodology.php",
+  "datasetId": 3588068,
+  "datasetSlug": "video-game-sales",
+  "hasDatasetSlug": true,
+  "ownerUser": "mikegillotti",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 2461,
+  "totalVotes": 5,
+  "totalDownloads": 496,
+  "title": "Video Game Sales",
+  "hasTitle": true,
+  "subtitle": "A comprehensive video game sales dataset of over 54,000 titles",
+  "hasSubtitle": true,
+  "description": "An updated version of https://www.kaggle.com/datasets/gregorut/videogamesales\n\nI extracted this data from https://www.vgchartz.com/gamedb/ and I used a web scraper similar to Gregory's but with a slightly different method.\n\nHere's the script I used https://github.com/MikeGillotti/vgchartz-data\n\nThe dataset is separated into 3 files, a table for the individual titles, complete series, and titles that are multi-platform.\n\n\n&gt;Since the end of 2018 VGChartz no longer produces estimates for software sales. This is because the high digital market share for software was making it both more difficult to produce reliable retail estimates and also making those estimates increasingly unrepresentative of the wider performance of the games in question. As a result, on the software front we now only record official shipment/sales data, where such data is made available by developers and publishers. The legacy data remains on the site for those who are interested in browsing through it.\n\n\nhttps://www.vgchartz.com/methodology.php",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "dhinaharp/pedal-me-bicycle-deliveries-data-set",
+  "id_no": 1830282,
+  "datasetSlugNullable": "pedal-me-bicycle-deliveries-data-set",
+  "ownerUserNullable": "dhinaharp",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": " Pedal Me Bicycle Deliveries Data Set",
+  "subtitleNullable": "This Dataset is for Beginners",
+  "descriptionNullable": "**Data Set Information:**\n\nA dataset about the number of weekly bicycle package deliveries by Pedal Me in London during 2020 and 2021. Nodes in the graph represent geographical units and edges are proximity based mutual adjacency relationships.\n\n\n**Attribute Information:**\n\nAttributes are the weekly deliveries done by Pedal Me in certain regions of London.\n\n\n**Relevant Papers:**\n\nPyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models\nBenedek Rozemberczki, Paul Scherer, Yixuan He, George Panagopoulos, Maria Astefanoaei, Oliver Kiss, Ferenc Beres, Nicolas Collignon, Rik Sarkar\n\n**Source:**\n\nBenedek Rozemberczki, The University of Edinburgh, benedek.rozemberczki '@' gmail.com",
+  "datasetId": 1830282,
+  "datasetSlug": "pedal-me-bicycle-deliveries-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "dhinaharp",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2379,
+  "totalVotes": 10,
+  "totalDownloads": 111,
+  "title": " Pedal Me Bicycle Deliveries Data Set",
+  "hasTitle": true,
+  "subtitle": "This Dataset is for Beginners",
+  "hasSubtitle": true,
+  "description": "**Data Set Information:**\n\nA dataset about the number of weekly bicycle package deliveries by Pedal Me in London during 2020 and 2021. Nodes in the graph represent geographical units and edges are proximity based mutual adjacency relationships.\n\n\n**Attribute Information:**\n\nAttributes are the weekly deliveries done by Pedal Me in certain regions of London.\n\n\n**Relevant Papers:**\n\nPyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models\nBenedek Rozemberczki, Paul Scherer, Yixuan He, George Panagopoulos, Maria Astefanoaei, Oliver Kiss, Ferenc Beres, Nicolas Collignon, Rik Sarkar\n\n**Source:**\n\nBenedek Rozemberczki, The University of Edinburgh, benedek.rozemberczki '@' gmail.com",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cycling",
+    "beginner",
+    "intermediate",
+    "time series analysis",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

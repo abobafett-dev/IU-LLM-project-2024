@@ -1,0 +1,39 @@
+{
+  "id": "kwongmeiki/forbes-the-global-2000-rankings-2023",
+  "id_no": 3858850,
+  "datasetSlugNullable": "forbes-the-global-2000-rankings-2023",
+  "ownerUserNullable": "kwongmeiki",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Forbes The Global 2000 Rankings 2023",
+  "subtitleNullable": "Forbes The Global 2000 Largest Companies Ranking 2023 Update",
+  "descriptionNullable": "**Data Source:**\n- Article Title: The Global 2000 \n- Organisation: Forbes\n- Authors: Andrea Murphy and Hank Tucker\n- Original Data Updated on June 08, 2023\n- Retrieved from [https://www.forbes.com/lists/global2000/?sh=60bb65b85ac0](url)\n\n**Web Scraping:**\n- Using the robotstxt package in R studio\n\n**Data Overview:**\n- The dataset comprises information on 2000 of the world's largest companies, along with several key determinants of their large-scale operations, including sales, profit, assets, and market values.\n- Data Cleaning: To ensure uniformity, numerical variables were standardized to million USD dollars.\n\n**Row:**\n- 2000 Observations: Data related to the world's largest companies and their financial status across the globe.\n\n**Columns:**\n- Rank (Ordinal): The company's ranking in the Forbes Global 2000 list.\n- Company (Categorical): The name of the company.\n- Country (Categorical): The country where the company is headquartered.\n- Sales (Numerical): Annual sales revenue of the company (in million USD).\n- Profit (Numerical): Annual profit of the company (in million USD).\n- Asset (Numerical): Total assets of the company (in million USD).\n- Market Value (Numerical): Market capitalization of the company (in million USD).\n- Publish Year (Ordinal): 2023 (for potential dataset integration).\n\n**Useful Tips**\n- Dynamic Trend Analysis: Consider exploring the dynamic trends of the global market by combining this dataset with historical data spanning various decades, such as this set of available datasets([https://www.kaggle.com/datasets/joebeachcapital/forbes-global-2000](url)). This can offer valuable insights into how the world's largest companies have evolved over time.\n",
+  "datasetId": 3858850,
+  "datasetSlug": "forbes-the-global-2000-rankings-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "kwongmeiki",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1878,
+  "totalVotes": 26,
+  "totalDownloads": 446,
+  "title": "Forbes The Global 2000 Rankings 2023",
+  "hasTitle": true,
+  "subtitle": "Forbes The Global 2000 Largest Companies Ranking 2023 Update",
+  "hasSubtitle": true,
+  "description": "**Data Source:**\n- Article Title: The Global 2000 \n- Organisation: Forbes\n- Authors: Andrea Murphy and Hank Tucker\n- Original Data Updated on June 08, 2023\n- Retrieved from [https://www.forbes.com/lists/global2000/?sh=60bb65b85ac0](url)\n\n**Web Scraping:**\n- Using the robotstxt package in R studio\n\n**Data Overview:**\n- The dataset comprises information on 2000 of the world's largest companies, along with several key determinants of their large-scale operations, including sales, profit, assets, and market values.\n- Data Cleaning: To ensure uniformity, numerical variables were standardized to million USD dollars.\n\n**Row:**\n- 2000 Observations: Data related to the world's largest companies and their financial status across the globe.\n\n**Columns:**\n- Rank (Ordinal): The company's ranking in the Forbes Global 2000 list.\n- Company (Categorical): The name of the company.\n- Country (Categorical): The country where the company is headquartered.\n- Sales (Numerical): Annual sales revenue of the company (in million USD).\n- Profit (Numerical): Annual profit of the company (in million USD).\n- Asset (Numerical): Total assets of the company (in million USD).\n- Market Value (Numerical): Market capitalization of the company (in million USD).\n- Publish Year (Ordinal): 2023 (for potential dataset integration).\n\n**Useful Tips**\n- Dynamic Trend Analysis: Consider exploring the dynamic trends of the global market by combining this dataset with historical data spanning various decades, such as this set of available datasets([https://www.kaggle.com/datasets/joebeachcapital/forbes-global-2000](url)). This can offer valuable insights into how the world's largest companies have evolved over time.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

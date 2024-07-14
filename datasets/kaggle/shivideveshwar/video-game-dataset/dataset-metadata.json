@@ -1,0 +1,39 @@
+{
+  "id": "shivideveshwar/video-game-dataset",
+  "id_no": 3299578,
+  "datasetSlugNullable": "video-game-dataset",
+  "ownerUserNullable": "shivideveshwar",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Video game pricing analytics dataset",
+  "subtitleNullable": "The review dataset for 3 video games - Call of Duty, Persona 5 Royal & CSGO",
+  "descriptionNullable": "The review dataset for 3 video games - Call of Duty : Black Ops 3, Persona 5 Royal and Counter Strike: Global Offensive was taken through a web scrape of SteamDB [https://steamdb.info/] which is a large repository for game related data such as release dates, reviews, prices, and more. \nIn the initial scrape, each individual game has two files - customer reviews (Count: 100 reviews) and price time series data.\n\nTo obtain data on the reviews of the selected video games, we performed web scraping using R software. \nThe customer reviews dataset contains the date that the review was posted and the review text, while the price dataset contains the date that the price was changed and the price on that date. In order to clean and prepare the data we first start by sectioning the data in excel. After scraping, our csv file fits each review in one row with the date. We split the data, separating date and review, allowing them to have separate columns. Luckily scraping the price separated price and date, so after the separating we just made sure that every file had similar column names.\n\nAfter, we use R to finish the cleaning. Each game has a separate file for prices and review, so each of the prices is converted into a continuous time series by extending the previously available price for each date. Then the price dataset is combined with its respective in R on the common date column using left join. The resulting dataset for each game contains four columns - game name, date, reviews and price. From there, we allow the user to select the game they would like to view.\n",
+  "datasetId": 3299578,
+  "datasetSlug": "video-game-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivideveshwar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 273,
+  "totalVotes": 0,
+  "totalDownloads": 25,
+  "title": "Video game pricing analytics dataset",
+  "hasTitle": true,
+  "subtitle": "The review dataset for 3 video games - Call of Duty, Persona 5 Royal & CSGO",
+  "hasSubtitle": true,
+  "description": "The review dataset for 3 video games - Call of Duty : Black Ops 3, Persona 5 Royal and Counter Strike: Global Offensive was taken through a web scrape of SteamDB [https://steamdb.info/] which is a large repository for game related data such as release dates, reviews, prices, and more. \nIn the initial scrape, each individual game has two files - customer reviews (Count: 100 reviews) and price time series data.\n\nTo obtain data on the reviews of the selected video games, we performed web scraping using R software. \nThe customer reviews dataset contains the date that the review was posted and the review text, while the price dataset contains the date that the price was changed and the price on that date. In order to clean and prepare the data we first start by sectioning the data in excel. After scraping, our csv file fits each review in one row with the date. We split the data, separating date and review, allowing them to have separate columns. Luckily scraping the price separated price and date, so after the separating we just made sure that every file had similar column names.\n\nAfter, we use R to finish the cleaning. Each game has a separate file for prices and review, so each of the prices is converted into a continuous time series by extending the previously available price for each date. Then the price dataset is combined with its respective in R on the common date column using left join. The resulting dataset for each game contains four columns - game name, date, reviews and price. From there, we allow the user to select the game they would like to view.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "/nasdaq-financial-fundamentals",
+  "id_no": 1851,
+  "datasetSlugNullable": "nasdaq-financial-fundamentals",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "NASDAQ financial fundamentals",
+  "subtitleNullable": "Essential fundamental indicators for 2389 companies included into NASDAQ index.",
+  "descriptionNullable": "### Context\n\nDataset contains essential financial fundamental indicators for 2389 companies included into NASDAQ index extracted from https://finintelligence.com service. Dataset contains 10 indicators from Income, Cash Flow and Assets statements.\n\n### Content\n\nDataset contains essential financial fundamental indicators for 2389 companies included into NASDAQ index extracted from https://finintelligence.com service. Dataset contains 10 indicators from Income, Cash Flow and Assets statements.\nSome indicators are automatically calculated, for example:\n\n - Companies often don\u2019t report Q4 indicators. From this reasons Q4\n   amounts may be calculated as annual amount - (Q1 + Q2 + Q3) amounts.\n \n - Companies report some indicators ambiguously. For example companies may\n   report Revenue as Sales of Services, Sales of Goods and in many other\n   ways. From that reason Revenue and some other indicators were\n   automatically mapped from variety of reported source indicators.\n\nAll indicators in datasets are provided for calendar quarters for years of 2014, 2015 and 2016. Periods are rounded to calendar quarters, for example Feb 1 - May 1 period is included as Q1 into dataset.\n\nEach record contains period, company name, stock tickers (some companies have several tickers), indicator name and amount.\nData is originally extracted from companies SEC filings.\n\n\n### Acknowledgements\n\nData is prepared and provided by https://finintelligence.com service. Service provides intelligent access to variety of corporate financial data extracted from companies documents, press releases and news.\nService is absolutely free, no payment required. Visit us today!\n\nHappy data hacking!",
+  "datasetId": 1851,
+  "datasetSlug": "nasdaq-financial-fundamentals",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 15012,
+  "totalVotes": 40,
+  "totalDownloads": 1483,
+  "title": "NASDAQ financial fundamentals",
+  "hasTitle": true,
+  "subtitle": "Essential fundamental indicators for 2389 companies included into NASDAQ index.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nDataset contains essential financial fundamental indicators for 2389 companies included into NASDAQ index extracted from https://finintelligence.com service. Dataset contains 10 indicators from Income, Cash Flow and Assets statements.\n\n### Content\n\nDataset contains essential financial fundamental indicators for 2389 companies included into NASDAQ index extracted from https://finintelligence.com service. Dataset contains 10 indicators from Income, Cash Flow and Assets statements.\nSome indicators are automatically calculated, for example:\n\n - Companies often don\u2019t report Q4 indicators. From this reasons Q4\n   amounts may be calculated as annual amount - (Q1 + Q2 + Q3) amounts.\n \n - Companies report some indicators ambiguously. For example companies may\n   report Revenue as Sales of Services, Sales of Goods and in many other\n   ways. From that reason Revenue and some other indicators were\n   automatically mapped from variety of reported source indicators.\n\nAll indicators in datasets are provided for calendar quarters for years of 2014, 2015 and 2016. Periods are rounded to calendar quarters, for example Feb 1 - May 1 period is included as Q1 into dataset.\n\nEach record contains period, company name, stock tickers (some companies have several tickers), indicator name and amount.\nData is originally extracted from companies SEC filings.\n\n\n### Acknowledgements\n\nData is prepared and provided by https://finintelligence.com service. Service provides intelligent access to variety of corporate financial data extracted from companies documents, press releases and news.\nService is absolutely free, no payment required. Visit us today!\n\nHappy data hacking!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "economics",
+    "investing",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

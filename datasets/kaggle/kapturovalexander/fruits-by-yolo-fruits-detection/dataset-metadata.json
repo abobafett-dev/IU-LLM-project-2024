@@ -1,0 +1,43 @@
+{
+  "id": "kapturovalexander/fruits-by-yolo-fruits-detection",
+  "id_no": 4131216,
+  "datasetSlugNullable": "fruits-by-yolo-fruits-detection",
+  "ownerUserNullable": "kapturovalexander",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Fruits by YOLO - Fruits Detection",
+  "subtitleNullable": "Fruits by YOLO Image Dataset",
+  "descriptionNullable": "### The dataset includes 2974 images.\n### Fruits are annotated in Multi-Class Classification format.\n\n### The following pre-processing was applied to each image:\n* Auto-orientation of pixel data (with EXIF-orientation stripping)\n* Resize to 640x640 (Stretch)\n\n### The following augmentation was applied to create 3 versions of each source image:\n* 50% probability of horizontal flip\n* 50% probability of vertical flip\n* Random rotation of between -15 and +15 degrees\n* Random shear of between -15\u00b0 to +15\u00b0 horizontally and -15\u00b0 to +15\u00b0 vertically\n* Random Gaussian blur of between 0 and 3.5 pixels\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10074224%2F162c55d2565ae2bcd3582afb55604d9a%2F1.png?generation=1702035687994256&alt=media)",
+  "datasetId": 4131216,
+  "datasetSlug": "fruits-by-yolo-fruits-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "kapturovalexander",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4502,
+  "totalVotes": 31,
+  "totalDownloads": 667,
+  "title": "Fruits by YOLO - Fruits Detection",
+  "hasTitle": true,
+  "subtitle": "Fruits by YOLO Image Dataset",
+  "hasSubtitle": true,
+  "description": "### The dataset includes 2974 images.\n### Fruits are annotated in Multi-Class Classification format.\n\n### The following pre-processing was applied to each image:\n* Auto-orientation of pixel data (with EXIF-orientation stripping)\n* Resize to 640x640 (Stretch)\n\n### The following augmentation was applied to create 3 versions of each source image:\n* 50% probability of horizontal flip\n* 50% probability of vertical flip\n* Random rotation of between -15 and +15 degrees\n* Random shear of between -15\u00b0 to +15\u00b0 horizontally and -15\u00b0 to +15\u00b0 vertically\n* Random Gaussian blur of between 0 and 3.5 pixels\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10074224%2F162c55d2565ae2bcd3582afb55604d9a%2F1.png?generation=1702035687994256&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "food",
+    "image augmentation",
+    "segmentation",
+    "yolov8"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

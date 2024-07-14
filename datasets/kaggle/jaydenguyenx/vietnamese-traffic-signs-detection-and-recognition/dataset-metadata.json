@@ -1,0 +1,37 @@
+{
+  "id": "jaydenguyenx/vietnamese-traffic-signs-detection-and-recognition",
+  "id_no": 3422337,
+  "datasetSlugNullable": "vietnamese-traffic-signs-detection-and-recognition",
+  "ownerUserNullable": "jaydenguyenx",
+  "usabilityRatingNullable": 0.3125,
+  "titleNullable": "Vietnamese_traffic_signs_detection_and_recognition",
+  "subtitleNullable": "",
+  "descriptionNullable": "The dataset contains 1,170 images of Vietnamese traffic signs, each with a\nresolution of 1622x626 pixels. There are 29 types of signs categorized by the meanings and shapes of the signs which are divided into 29 classes including the additional classes for signs that aren\u2019t identified.\nClass | Class name\n0 | one way prohibition\n1 | no parking\n2 | no stopping and parking\n3 | no turn left\n4 | no turn right\n5 | no u turn\n6 | no u and left turn\n7 | no u and right turn\n8 | no motorbike entry/turning\n9 | no car entry/turning\n10 | no truck entry/turning\n11 | other prohibition\n12 | indication\n13 | direction\n14 | speed limit\n15 | weight limit\n16 | height limit\n17 | pedestrian crossing\n18 | intersection danger\n19 | road danger\n20 | pedestrian danger\n21 | construction danger\n22 | slow warning\n23 | other warning\n24 | vehicle permission lane\n25 | vehicle and speed permission lane\n26 | overpass route\n27 | no more prohibition\n28 | other",
+  "datasetId": 3422337,
+  "datasetSlug": "vietnamese-traffic-signs-detection-and-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "jaydenguyenx",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.3125,
+  "hasUsabilityRating": true,
+  "totalViews": 340,
+  "totalVotes": 0,
+  "totalDownloads": 53,
+  "title": "Vietnamese_traffic_signs_detection_and_recognition",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "The dataset contains 1,170 images of Vietnamese traffic signs, each with a\nresolution of 1622x626 pixels. There are 29 types of signs categorized by the meanings and shapes of the signs which are divided into 29 classes including the additional classes for signs that aren\u2019t identified.\nClass | Class name\n0 | one way prohibition\n1 | no parking\n2 | no stopping and parking\n3 | no turn left\n4 | no turn right\n5 | no u turn\n6 | no u and left turn\n7 | no u and right turn\n8 | no motorbike entry/turning\n9 | no car entry/turning\n10 | no truck entry/turning\n11 | other prohibition\n12 | indication\n13 | direction\n14 | speed limit\n15 | weight limit\n16 | height limit\n17 | pedestrian crossing\n18 | intersection danger\n19 | road danger\n20 | pedestrian danger\n21 | construction danger\n22 | slow warning\n23 | other warning\n24 | vehicle permission lane\n25 | vehicle and speed permission lane\n26 | overpass route\n27 | no more prohibition\n28 | other",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

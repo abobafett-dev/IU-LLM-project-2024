@@ -1,0 +1,39 @@
+{
+  "id": "ceneksanzak/spotify-song-features",
+  "id_no": 695797,
+  "datasetSlugNullable": "spotify-song-features",
+  "ownerUserNullable": "ceneksanzak",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Spotify Song Features",
+  "subtitleNullable": "Song-Album-Artist names and features data from Spotify API",
+  "descriptionNullable": "### Context\n\nThis data is from Spotify API. It was for my university project about a song recommendation program using prolog language. I processed the data and turned it to csv format\n\n\n### Content\n\nThere are track name,  track id, album name and artist names as string. Other values are features of song in float type.\n\n\n### Acknowledgements\n\nI have this data thanks to Spotify API and our course assistant.  ",
+  "datasetId": 695797,
+  "datasetSlug": "spotify-song-features",
+  "hasDatasetSlug": true,
+  "ownerUser": "ceneksanzak",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 1198,
+  "totalVotes": 2,
+  "totalDownloads": 68,
+  "title": "Spotify Song Features",
+  "hasTitle": true,
+  "subtitle": "Song-Album-Artist names and features data from Spotify API",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data is from Spotify API. It was for my university project about a song recommendation program using prolog language. I processed the data and turned it to csv format\n\n\n### Content\n\nThere are track name,  track id, album name and artist names as string. Other values are features of song in float type.\n\n\n### Acknowledgements\n\nI have this data thanks to Spotify API and our course assistant.  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

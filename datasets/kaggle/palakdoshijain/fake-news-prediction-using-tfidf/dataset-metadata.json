@@ -1,0 +1,39 @@
+{
+  "id": "palakdoshijain/fake-news-prediction-using-tfidf",
+  "id_no": 4375792,
+  "datasetSlugNullable": "fake-news-prediction-using-tfidf",
+  "ownerUserNullable": "palakdoshijain",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Fake News Prediction Using TFidF",
+  "subtitleNullable": "",
+  "descriptionNullable": "Fake news or hoax news is false or misleading information presented as news. Fake news often has the aim of damaging the reputation of a person or entity, or making money through advertising revenue.\n\nThis dataset is having Both Fake and Real news.\nThe columns present in the dataset are:-\n1) Title -&gt; Title of the News\n2) Text -&gt; Text or Content of the News\n3) Label -&gt; Labelling the news as Fake or Real\n\n",
+  "datasetId": 4375792,
+  "datasetSlug": "fake-news-prediction-using-tfidf",
+  "hasDatasetSlug": true,
+  "ownerUser": "palakdoshijain",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 83,
+  "totalVotes": 0,
+  "totalDownloads": 22,
+  "title": "Fake News Prediction Using TFidF",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Fake news or hoax news is false or misleading information presented as news. Fake news often has the aim of damaging the reputation of a person or entity, or making money through advertising revenue.\n\nThis dataset is having Both Fake and Real news.\nThe columns present in the dataset are:-\n1) Title -&gt; Title of the News\n2) Text -&gt; Text or Content of the News\n3) Label -&gt; Labelling the news as Fake or Real\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

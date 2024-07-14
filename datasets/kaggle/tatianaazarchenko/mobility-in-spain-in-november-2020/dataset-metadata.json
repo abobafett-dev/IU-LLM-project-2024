@@ -1,0 +1,39 @@
+{
+  "id": "tatianaazarchenko/mobility-in-spain-in-november-2020",
+  "id_no": 1089609,
+  "datasetSlugNullable": "mobility-in-spain-in-november-2020",
+  "ownerUserNullable": "tatianaazarchenko",
+  "usabilityRatingNullable": 0.5588235294117647,
+  "titleNullable": "Mobility in Spain in November 2020",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset is a one-month preprocessed excerpt from the collection compiled by Spanish Ministry of Transportation on the ground of mobile positioning data. The complete collection can be uploaded from https://www.mitma.es/ministerio/covid-19/evolucion-movilidad-big-data/opendata-movilidad. It represents the mobility of Spanish citizens during the period of COVID (starting with February 29, 2020 till December 31, 2020). The period of reference (a week from Februry 14 till February 20, 2020, before the COVID lockdown) is also included in the collection. Since the files are quite large (&gt; 300MB of daily data) for getting data for one month I had to preprocessed them in a way described in my notebook here \n\nI am going to use the set for modelling time series and predicting mobiity in a certain area of Spain for the next month. I would like to try different approaches to forecasting for time series and will be glad to get a contribution from other kagglers!",
+  "datasetId": 1089609,
+  "datasetSlug": "mobility-in-spain-in-november-2020",
+  "hasDatasetSlug": true,
+  "ownerUser": "tatianaazarchenko",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5588235294117647,
+  "hasUsabilityRating": true,
+  "totalViews": 1003,
+  "totalVotes": 5,
+  "totalDownloads": 36,
+  "title": "Mobility in Spain in November 2020",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset is a one-month preprocessed excerpt from the collection compiled by Spanish Ministry of Transportation on the ground of mobile positioning data. The complete collection can be uploaded from https://www.mitma.es/ministerio/covid-19/evolucion-movilidad-big-data/opendata-movilidad. It represents the mobility of Spanish citizens during the period of COVID (starting with February 29, 2020 till December 31, 2020). The period of reference (a week from Februry 14 till February 20, 2020, before the COVID lockdown) is also included in the collection. Since the files are quite large (&gt; 300MB of daily data) for getting data for one month I had to preprocessed them in a way described in my notebook here \n\nI am going to use the set for modelling time series and predicting mobiity in a certain area of Spain for the next month. I would like to try different approaches to forecasting for time series and will be glad to get a contribution from other kagglers!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

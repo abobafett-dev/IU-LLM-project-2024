@@ -1,0 +1,40 @@
+{
+  "id": "jonathanpoli/sp500-market-stock-prediction-with-nyt-headlines",
+  "id_no": 2370930,
+  "datasetSlugNullable": "sp500-market-stock-prediction-with-nyt-headlines",
+  "ownerUserNullable": "jonathanpoli",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "S&P500 Market Stock Prediction with NYT headlines",
+  "subtitleNullable": "NLP with daily New York Times headlines",
+  "descriptionNullable": "This dataset contains every headlines from the \"World\" section of the NYT for each day, concatenated in one column, ordered by popularity. The label represents if the S&P500 market is going to increase (1) or decrease (0) on the following day.\n\nThe aim is then to predict the market evolution based on the last news.\nThe metrics used for evaluating the model are the accuracy and the f1-score.\n\nExtra-Data can be used.\n\nGood luck and enjoy !",
+  "datasetId": 2370930,
+  "datasetSlug": "sp500-market-stock-prediction-with-nyt-headlines",
+  "hasDatasetSlug": true,
+  "ownerUser": "jonathanpoli",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 1096,
+  "totalVotes": 7,
+  "totalDownloads": 126,
+  "title": "S&P500 Market Stock Prediction with NYT headlines",
+  "hasTitle": true,
+  "subtitle": "NLP with daily New York Times headlines",
+  "hasSubtitle": true,
+  "description": "This dataset contains every headlines from the \"World\" section of the NYT for each day, concatenated in one column, ordered by popularity. The label represents if the S&P500 market is going to increase (1) or decrease (0) on the following day.\n\nThe aim is then to predict the market evolution based on the last news.\nThe metrics used for evaluating the model are the accuracy and the f1-score.\n\nExtra-Data can be used.\n\nGood luck and enjoy !",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

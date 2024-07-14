@@ -1,0 +1,44 @@
+{
+  "id": "iamsouravbanerjee/life-expectancy-at-birth-across-the-globe",
+  "id_no": 3652643,
+  "datasetSlugNullable": "life-expectancy-at-birth-across-the-globe",
+  "ownerUserNullable": "iamsouravbanerjee",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Life Expectancy at Birth Across the Globe",
+  "subtitleNullable": "Exploring the Tapestry of Global Longevity: Life Expectancy at Birth Worldwide",
+  "descriptionNullable": "### Context\n\nLife expectancy at birth is a key metric reflecting the average number of years a person can expect to live from birth, considering current mortality rates. Across the globe, life expectancy varies widely due to factors such as healthcare access, socio-economic conditions, and lifestyle choices. Developed nations often boast higher life expectancies, typically ranging from 75 to 85 years, owing to advanced healthcare systems and improved living standards. In contrast, developing nations often face shorter life expectancies, frequently falling below 70 years, largely due to inadequate healthcare infrastructure and prevailing socio-economic challenges. These disparities underscore the critical importance of global efforts to enhance healthcare access and address socio-economic inequalities.\n\n### Content\n\nThis dataset comprises historical information encompassing various indicators concerning Life Expectancy at Birth on a global scale. The dataset prominently features: ISO3, Country, Continent, Hemisphere, Human Development Groups, UNDP Developing Regions, HDI Rank (2021), and Life Expectancy at Birth from 1990 to 2021.\n\n### Dataset Glossary (Column-wise)\n\n* <b>ISO3</b> - ISO3 for the Country/Territory\n* <b>Country</b> - Name of the Country/Territory\n* <b>Continent</b> - Name of the Continent\n* <b>Hemisphere</b> - Name of the Hemisphere\n* <b>Human Development Groups</b> - Human Development Groups\n* <b>UNDP Developing Regions</b> - UNDP Developing Regions\n* <b>HDI Rank (2021)</b> - Human Development Index Rank for 2021\n* <b>Life Expectancy at Birth from 1990 - 2021</b> - Life Expectancy at Birth from year 1990 to 2021 (32 Columns.)\n\n### Data Dictionary\n\n* <b>UNDP Developing Regions</b>:\n - <b>SSA</b> - Sub-Saharan Africa\n - <b>LAC</b> - Latin America and the Caribbean\n - <b>EAP</b> - East Asia and the Pacific\n - <b>AS</b> - Arab States\n - <b>ECA</b> - Europe and Central Asia\n - <b>SA</b> - South Asia\n\n### Structure of the Dataset\n\n![](https://i.imgur.com/upczekR.png)\n\n### Acknowledgement\n\nThis Dataset is created from <b>[Human Development Reports](https://hdr.undp.org/)</b>. This Dataset falls under the Creative Commons Attribution 3.0 IGO License. You can check the <b>[Terms of Use](https://hdr.undp.org/terms-use)</b> of this Data. If you want to learn more, visit the Website.\n\nCover Photo by: Image by <b><a href=\"https://www.freepik.com/free-vector/different-life-cycle-stages-woman_19642596.htm#query=human%20life%20cycle&position=5&from_view=keyword&track=ais\">Freepik</a></b>\n\nThumbnail by: Image by <b><a href=\"https://www.flaticon.com/free-icons/quality-of-life\">Quality of life icons created by Paul J. - Flaticon</a></b>",
+  "datasetId": 3652643,
+  "datasetSlug": "life-expectancy-at-birth-across-the-globe",
+  "hasDatasetSlug": true,
+  "ownerUser": "iamsouravbanerjee",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6706,
+  "totalVotes": 78,
+  "totalDownloads": 1167,
+  "title": "Life Expectancy at Birth Across the Globe",
+  "hasTitle": true,
+  "subtitle": "Exploring the Tapestry of Global Longevity: Life Expectancy at Birth Worldwide",
+  "hasSubtitle": true,
+  "description": "### Context\n\nLife expectancy at birth is a key metric reflecting the average number of years a person can expect to live from birth, considering current mortality rates. Across the globe, life expectancy varies widely due to factors such as healthcare access, socio-economic conditions, and lifestyle choices. Developed nations often boast higher life expectancies, typically ranging from 75 to 85 years, owing to advanced healthcare systems and improved living standards. In contrast, developing nations often face shorter life expectancies, frequently falling below 70 years, largely due to inadequate healthcare infrastructure and prevailing socio-economic challenges. These disparities underscore the critical importance of global efforts to enhance healthcare access and address socio-economic inequalities.\n\n### Content\n\nThis dataset comprises historical information encompassing various indicators concerning Life Expectancy at Birth on a global scale. The dataset prominently features: ISO3, Country, Continent, Hemisphere, Human Development Groups, UNDP Developing Regions, HDI Rank (2021), and Life Expectancy at Birth from 1990 to 2021.\n\n### Dataset Glossary (Column-wise)\n\n* <b>ISO3</b> - ISO3 for the Country/Territory\n* <b>Country</b> - Name of the Country/Territory\n* <b>Continent</b> - Name of the Continent\n* <b>Hemisphere</b> - Name of the Hemisphere\n* <b>Human Development Groups</b> - Human Development Groups\n* <b>UNDP Developing Regions</b> - UNDP Developing Regions\n* <b>HDI Rank (2021)</b> - Human Development Index Rank for 2021\n* <b>Life Expectancy at Birth from 1990 - 2021</b> - Life Expectancy at Birth from year 1990 to 2021 (32 Columns.)\n\n### Data Dictionary\n\n* <b>UNDP Developing Regions</b>:\n - <b>SSA</b> - Sub-Saharan Africa\n - <b>LAC</b> - Latin America and the Caribbean\n - <b>EAP</b> - East Asia and the Pacific\n - <b>AS</b> - Arab States\n - <b>ECA</b> - Europe and Central Asia\n - <b>SA</b> - South Asia\n\n### Structure of the Dataset\n\n![](https://i.imgur.com/upczekR.png)\n\n### Acknowledgement\n\nThis Dataset is created from <b>[Human Development Reports](https://hdr.undp.org/)</b>. This Dataset falls under the Creative Commons Attribution 3.0 IGO License. You can check the <b>[Terms of Use](https://hdr.undp.org/terms-use)</b> of this Data. If you want to learn more, visit the Website.\n\nCover Photo by: Image by <b><a href=\"https://www.freepik.com/free-vector/different-life-cycle-stages-woman_19642596.htm#query=human%20life%20cycle&position=5&from_view=keyword&track=ais\">Freepik</a></b>\n\nThumbnail by: Image by <b><a href=\"https://www.flaticon.com/free-icons/quality-of-life\">Quality of life icons created by Paul J. - Flaticon</a></b>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "social science",
+    "beginner",
+    "exploratory data analysis",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

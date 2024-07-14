@@ -1,0 +1,43 @@
+{
+  "id": "shivkumarganesh/politifact-factcheck-data",
+  "id_no": 1264238,
+  "datasetSlugNullable": "politifact-factcheck-data",
+  "ownerUserNullable": "shivkumarganesh",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Politifact Factcheck Data",
+  "subtitleNullable": "Truth-O-Meter Data - Fact Check political data with Posts and Classification",
+  "descriptionNullable": "### Context\n\nThis data is scrapped from the [Politifact website](https://www.politifact.com/factchecks/list/). It contains the claims made by individuals and what does the Politifact curators think about the same. This data can be used in order to run various NLP algorithms in order to find the integrity of the data and also determining the validity of a claim.\n\n\n### Content\n\nImage for associating the content:-\nWhen you land on [Politifact website](https://www.politifact.com/factchecks/list/). You will see the page with the list of facts as shown below. I have also annotated the various column fields with the image for convenience.\n\n![Landing page for fact check page of Politifact](https://i.imgur.com/9MH52Uf.jpg)\n\nNow when you click the article you land on the main page and the annotation for the curator is on the main page. You can see it as follows:-\n![Article and other info](https://i.imgur.com/c9Ht0fp.jpg)\n\n\nThe content of the data is scrapped from the Politifact site and has various attributes. This list of attributes are covered below:-\n- **sources:** String representing the person who is associated with the quote.\n- **sources_dates:** Date on which the information was furnished by the source.\n- **sources___post___location:** The location/medium at which the source furnished the information.\n- **sources_quote:** The actual quote/information furnished by the source in question.\n- **curator_name:** Person who curated the information from the source.\n- **curated_date:**Date at which the curator analyzed and assessed the source's quote.\n- **fact:** Fact score that is assigned to the source's quote.\n- **sources_url:** URL of the curator's article about the source's quote\n- **curators___article___title:** Title of the article written by the curator to support/reject the source's claim\n- **curator___complete___article:** Complete blog written by the curator supporting/rejecting the source's claim\n- **curator___tags:** Tags given by curator to the blog post.\n\n\n### Acknowledgements\n\nThe entire acknowledgment goes to [Politifact.com](https://www.politifact.com/) for curating and validating such data and facts.",
+  "datasetId": 1264238,
+  "datasetSlug": "politifact-factcheck-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "shivkumarganesh",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6816,
+  "totalVotes": 17,
+  "totalDownloads": 496,
+  "title": "Politifact Factcheck Data",
+  "hasTitle": true,
+  "subtitle": "Truth-O-Meter Data - Fact Check political data with Posts and Classification",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data is scrapped from the [Politifact website](https://www.politifact.com/factchecks/list/). It contains the claims made by individuals and what does the Politifact curators think about the same. This data can be used in order to run various NLP algorithms in order to find the integrity of the data and also determining the validity of a claim.\n\n\n### Content\n\nImage for associating the content:-\nWhen you land on [Politifact website](https://www.politifact.com/factchecks/list/). You will see the page with the list of facts as shown below. I have also annotated the various column fields with the image for convenience.\n\n![Landing page for fact check page of Politifact](https://i.imgur.com/9MH52Uf.jpg)\n\nNow when you click the article you land on the main page and the annotation for the curator is on the main page. You can see it as follows:-\n![Article and other info](https://i.imgur.com/c9Ht0fp.jpg)\n\n\nThe content of the data is scrapped from the Politifact site and has various attributes. This list of attributes are covered below:-\n- **sources:** String representing the person who is associated with the quote.\n- **sources_dates:** Date on which the information was furnished by the source.\n- **sources___post___location:** The location/medium at which the source furnished the information.\n- **sources_quote:** The actual quote/information furnished by the source in question.\n- **curator_name:** Person who curated the information from the source.\n- **curated_date:**Date at which the curator analyzed and assessed the source's quote.\n- **fact:** Fact score that is assigned to the source's quote.\n- **sources_url:** URL of the curator's article about the source's quote\n- **curators___article___title:** Title of the article written by the curator to support/reject the source's claim\n- **curator___complete___article:** Complete blog written by the curator supporting/rejecting the source's claim\n- **curator___tags:** Tags given by curator to the blog post.\n\n\n### Acknowledgements\n\nThe entire acknowledgment goes to [Politifact.com](https://www.politifact.com/) for curating and validating such data and facts.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "government",
+    "politics",
+    "nlp",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

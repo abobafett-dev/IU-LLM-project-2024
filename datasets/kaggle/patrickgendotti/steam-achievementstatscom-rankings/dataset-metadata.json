@@ -1,0 +1,42 @@
+{
+  "id": "patrickgendotti/steam-achievementstatscom-rankings",
+  "id_no": 2486293,
+  "datasetSlugNullable": "steam-achievementstatscom-rankings",
+  "ownerUserNullable": "patrickgendotti",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Steam AchievementStats.com Rankings",
+  "subtitleNullable": "Are you ranked on Steam?",
+  "descriptionNullable": "This data was scraped from Achievement Stats (https://achievementstats.com/index.php) and provides info for the first 200k ranked players and the aggregated country data for all players with public profiles on Steam. \n\nMy EDA notebook has some basic data visualizations and calculated columns that might be useful to you, as well as a couple of example linear regression models for the country data.\n\nIf you want to learn more about the scraping methods or code behind the data presented here, check out my Github project here: https://github.com/Gendo90/Achievement-Stats-Scraper",
+  "datasetId": 2486293,
+  "datasetSlug": "steam-achievementstatscom-rankings",
+  "hasDatasetSlug": true,
+  "ownerUser": "patrickgendotti",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 9193,
+  "totalVotes": 30,
+  "totalDownloads": 889,
+  "title": "Steam AchievementStats.com Rankings",
+  "hasTitle": true,
+  "subtitle": "Are you ranked on Steam?",
+  "hasSubtitle": true,
+  "description": "This data was scraped from Achievement Stats (https://achievementstats.com/index.php) and provides info for the first 200k ranked players and the aggregated country data for all players with public profiles on Steam. \n\nMy EDA notebook has some basic data visualizations and calculated columns that might be useful to you, as well as a couple of example linear regression models for the country data.\n\nIf you want to learn more about the scraping methods or code behind the data presented here, check out my Github project here: https://github.com/Gendo90/Achievement-Stats-Scraper",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "video games",
+    "global",
+    "linear regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

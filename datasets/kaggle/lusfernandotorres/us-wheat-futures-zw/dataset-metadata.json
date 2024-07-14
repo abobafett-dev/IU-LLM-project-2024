@@ -1,0 +1,43 @@
+{
+  "id": "lusfernandotorres/us-wheat-futures-zw",
+  "id_no": 3560098,
+  "datasetSlugNullable": "us-wheat-futures-zw",
+  "ownerUserNullable": "lusfernandotorres",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "U.S. Wheat Futures (ZW)",
+  "subtitleNullable": "Daily prices of U.S. Wheat Future Contracts traded on the CME",
+  "descriptionNullable": "This dataset contains Historical Data extracted from <a href=\"https://www.investing.com/commodities/us-wheat\">Investing.com</a>. It contains daily prices for U.S. Futures traded on the Chicago Mercantile Exchange (CME) from January 1st, 2006 to July 26th, 2023.\n\n**Rollover months:**\n**H:** March, **K:** May, **N:** July, **U:** September, **Z:** December\n\n**Tick/Symbol:** ZW\n\n**Point Value:** 1 = $50\n\nIn case you have any doubt, feel free to leave a question.",
+  "datasetId": 3560098,
+  "datasetSlug": "us-wheat-futures-zw",
+  "hasDatasetSlug": true,
+  "ownerUser": "lusfernandotorres",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 369,
+  "totalVotes": 8,
+  "totalDownloads": 37,
+  "title": "U.S. Wheat Futures (ZW)",
+  "hasTitle": true,
+  "subtitle": "Daily prices of U.S. Wheat Future Contracts traded on the CME",
+  "hasSubtitle": true,
+  "description": "This dataset contains Historical Data extracted from <a href=\"https://www.investing.com/commodities/us-wheat\">Investing.com</a>. It contains daily prices for U.S. Futures traded on the Chicago Mercantile Exchange (CME) from January 1st, 2006 to July 26th, 2023.\n\n**Rollover months:**\n**H:** March, **K:** May, **N:** July, **U:** September, **Z:** December\n\n**Tick/Symbol:** ZW\n\n**Point Value:** 1 = $50\n\nIn case you have any doubt, feel free to leave a question.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "banking",
+    "agriculture",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

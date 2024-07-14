@@ -1,0 +1,43 @@
+{
+  "id": "husainsb/lendingclub-issued-loans",
+  "id_no": 33672,
+  "datasetSlugNullable": "lendingclub-issued-loans",
+  "ownerUserNullable": "husainsb",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "LendingClub Issued Loans",
+  "subtitleNullable": "LendingClub's complete loan data issued from 2007-2017.",
+  "descriptionNullable": "### Context\n\nThis is LendingClub's complete loan data for all loans issued through the time period stated in US area.\n\n\n### Content\n\nTraining set consist of loan data from 2007 till 2015 and test data set contains loan data from 2016 till 2017. \nUS State codes with their complete name has been provided for maps creation.\n\n\n### Acknowledgements\n\nLoan data has been acquired from [LendingClub][1] official website and US state codes and their names acquired from [Wikipedia][2].\n\n\n### Inspiration\n\n - You can slice and dice the data and gain insights from loans issued till date.\n - Predict which loan will default on payments.\n - Text and Sentiment analysis\n - Time series analysis\n\n  [1]: https://www.lendingclub.com/info/download-data.action\n  [2]: https://en.wikipedia.org/wiki/ISO_3166-2:US",
+  "datasetId": 33672,
+  "datasetSlug": "lendingclub-issued-loans",
+  "hasDatasetSlug": true,
+  "ownerUser": "husainsb",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 53108,
+  "totalVotes": 77,
+  "totalDownloads": 6757,
+  "title": "LendingClub Issued Loans",
+  "hasTitle": true,
+  "subtitle": "LendingClub's complete loan data issued from 2007-2017.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is LendingClub's complete loan data for all loans issued through the time period stated in US area.\n\n\n### Content\n\nTraining set consist of loan data from 2007 till 2015 and test data set contains loan data from 2016 till 2017. \nUS State codes with their complete name has been provided for maps creation.\n\n\n### Acknowledgements\n\nLoan data has been acquired from [LendingClub][1] official website and US state codes and their names acquired from [Wikipedia][2].\n\n\n### Inspiration\n\n - You can slice and dice the data and gain insights from loans issued till date.\n - Predict which loan will default on payments.\n - Text and Sentiment analysis\n - Time series analysis\n\n  [1]: https://www.lendingclub.com/info/download-data.action\n  [2]: https://en.wikipedia.org/wiki/ISO_3166-2:US",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "lending",
+    "data visualization",
+    "time series analysis",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "timmayer/covid-news-articles-2020-2022",
+  "id_no": 2447756,
+  "datasetSlugNullable": "covid-news-articles-2020-2022",
+  "ownerUserNullable": "timmayer",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "COVID News Articles (2020 - 2022)",
+  "subtitleNullable": "Global news articles covering the COVID pandemic peak era of 2 years",
+  "descriptionNullable": "The dataset encapsulates approximately half a million news articles collected over a period of 2 years during the Coronavirus pandemic onset and surge. It consists of 3 columns - **title**, **content** and **category**. **title** refers to the headline of the news article. **content** refers to the article in itself and **category** denotes the overall context of the news article at a high level. The dataset encapsulates approximately half a million news articles collected over a period of 2 years during the Coronavirus pandemic onset and surge. It consists of 3 columns - **title**, **content** and **category**. **title** refers to the headline of the news article. **content** refers to the article in itself and **category** denotes the overall context of the news article at a high level. \n\nThis dataset can be used to pre-train large language models (LLMs) and demonstrate NLP downstream tasks like binary/multi-class text classification. The dataset can be used to study the difference in behaviors of language models when there is a shift in data. For e.g., the classic transformers based BERT model was trained before the COVID era. By training a masked language model (MLM) using this dataset, we can try to differentiate the behaviors of the original BERT model vs the newly trained models.",
+  "datasetId": 2447756,
+  "datasetSlug": "covid-news-articles-2020-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "timmayer",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 10516,
+  "totalVotes": 38,
+  "totalDownloads": 2416,
+  "title": "COVID News Articles (2020 - 2022)",
+  "hasTitle": true,
+  "subtitle": "Global news articles covering the COVID pandemic peak era of 2 years",
+  "hasSubtitle": true,
+  "description": "The dataset encapsulates approximately half a million news articles collected over a period of 2 years during the Coronavirus pandemic onset and surge. It consists of 3 columns - **title**, **content** and **category**. **title** refers to the headline of the news article. **content** refers to the article in itself and **category** denotes the overall context of the news article at a high level. The dataset encapsulates approximately half a million news articles collected over a period of 2 years during the Coronavirus pandemic onset and surge. It consists of 3 columns - **title**, **content** and **category**. **title** refers to the headline of the news article. **content** refers to the article in itself and **category** denotes the overall context of the news article at a high level. \n\nThis dataset can be used to pre-train large language models (LLMs) and demonstrate NLP downstream tasks like binary/multi-class text classification. The dataset can be used to study the difference in behaviors of language models when there is a shift in data. For e.g., the classic transformers based BERT model was trained before the COVID era. By training a masked language model (MLM) using this dataset, we can try to differentiate the behaviors of the original BERT model vs the newly trained models.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "classification",
+    "text",
+    "news",
+    "transformers"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

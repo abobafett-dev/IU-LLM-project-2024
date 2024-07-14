@@ -1,0 +1,40 @@
+{
+  "id": "ishandutta/real-time-election-results-portugal-2019-data-set",
+  "id_no": 714906,
+  "datasetSlugNullable": "real-time-election-results-portugal-2019-data-set",
+  "ownerUserNullable": "ishandutta",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Real Time Election Results: Portugal 2019 Data Set",
+  "subtitleNullable": "Real Time Election Results: Portugal 2019 Data Set",
+  "descriptionNullable": "# Data Set Information:\n\nA data set describing the evolution of results in the Portuguese Parliamentary Elections of October 6th 2019.\nThe data spans a time interval of 4 hours and 25 minutes, in intervals of 5 minutes, concerning the results of the 27 parties involved in the electoral event.\nThe data set is tailored for predictive modelling tasks, mostly focused on numerical forecasting tasks.\nRegardless, it allows for other tasks such as ordinal regression or learn-to-rankProvide a short description of your data set (less than 200 characters).\n\nAdditional (and updated) information may be found in [Web Link] :\n- Raw data sets\n- R code to build the final data set\n- Basic operations to build predictive modelling tasks using this data set\n\n\n# Attribute Information:\n\nTimeElapsed (Numeric): Time (minutes) passed since the first data acquisition\ntime (timestamp): Date and time of the data acquisition\nterritoryName (string): Short name of the location (district or nation-wide)\ntotalMandates (numeric): MP's elected at the moment\navailableMandates (numeric): MP's left to elect at the moment\nnumParishes (numeric): Total number of parishes in this location\nnumParishesApproved (numeric): Number of parishes approved in this location\nblankVotes (numeric): Number of blank votes\nblankVotesPercentage (numeric): Percentage of blank votes\nnullVotes (numeric): Number of null votes\nnullVotesPercentage (numeric): Percentage of null votes\nvotersPercentage (numeric): Percentage of voters\nsubscribedVoters (numeric): Number of subscribed voters in the location\ntotalVoters (numeric): Percentage of blank votes\npre.blankVotes (numeric): Number of blank votes (previous election)\npre.blankVotesPercentage (numeric): Percentage of blank votes (previous election)\npre.nullVotes (numeric): Number of null votes (previous election)\npre.nullVotesPercentage (numeric): Percentage of null votes (previous election)\npre.votersPercentage (numeric): Percentage of voters (previous election)\npre.subscribedVoters (numeric): Number of subscribed voters in the location (previous election)\npre.totalVoters (numeric): Percentage of blank votes (previous election)\nParty (string): Political Party\nMandates (numeric): MP's elected at the moment for the party in a given district\nPercentage (numeric): Percentage of votes in a party\nvalidVotesPercentage (numeric): Percentage of valid votes in a party\nVotes (numeric): Percentage of party votes\nHondt (numeric): Number of MP's according to the distribution of votes now\nFinalMandates (numeric): Target: final number of elected MP's in a district/national-level\n\n\n# Relevant Papers:\n\nNuno Moniz (2019) Real-time 2019 Portuguese Parliament Election Results Dataset. arXiv\n\nCode + Data in [Web Link]\n\n",
+  "datasetId": 714906,
+  "datasetSlug": "real-time-election-results-portugal-2019-data-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "ishandutta",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 2717,
+  "totalVotes": 7,
+  "totalDownloads": 88,
+  "title": "Real Time Election Results: Portugal 2019 Data Set",
+  "hasTitle": true,
+  "subtitle": "Real Time Election Results: Portugal 2019 Data Set",
+  "hasSubtitle": true,
+  "description": "# Data Set Information:\n\nA data set describing the evolution of results in the Portuguese Parliamentary Elections of October 6th 2019.\nThe data spans a time interval of 4 hours and 25 minutes, in intervals of 5 minutes, concerning the results of the 27 parties involved in the electoral event.\nThe data set is tailored for predictive modelling tasks, mostly focused on numerical forecasting tasks.\nRegardless, it allows for other tasks such as ordinal regression or learn-to-rankProvide a short description of your data set (less than 200 characters).\n\nAdditional (and updated) information may be found in [Web Link] :\n- Raw data sets\n- R code to build the final data set\n- Basic operations to build predictive modelling tasks using this data set\n\n\n# Attribute Information:\n\nTimeElapsed (Numeric): Time (minutes) passed since the first data acquisition\ntime (timestamp): Date and time of the data acquisition\nterritoryName (string): Short name of the location (district or nation-wide)\ntotalMandates (numeric): MP's elected at the moment\navailableMandates (numeric): MP's left to elect at the moment\nnumParishes (numeric): Total number of parishes in this location\nnumParishesApproved (numeric): Number of parishes approved in this location\nblankVotes (numeric): Number of blank votes\nblankVotesPercentage (numeric): Percentage of blank votes\nnullVotes (numeric): Number of null votes\nnullVotesPercentage (numeric): Percentage of null votes\nvotersPercentage (numeric): Percentage of voters\nsubscribedVoters (numeric): Number of subscribed voters in the location\ntotalVoters (numeric): Percentage of blank votes\npre.blankVotes (numeric): Number of blank votes (previous election)\npre.blankVotesPercentage (numeric): Percentage of blank votes (previous election)\npre.nullVotes (numeric): Number of null votes (previous election)\npre.nullVotesPercentage (numeric): Percentage of null votes (previous election)\npre.votersPercentage (numeric): Percentage of voters (previous election)\npre.subscribedVoters (numeric): Number of subscribed voters in the location (previous election)\npre.totalVoters (numeric): Percentage of blank votes (previous election)\nParty (string): Political Party\nMandates (numeric): MP's elected at the moment for the party in a given district\nPercentage (numeric): Percentage of votes in a party\nvalidVotesPercentage (numeric): Percentage of valid votes in a party\nVotes (numeric): Percentage of party votes\nHondt (numeric): Number of MP's according to the distribution of votes now\nFinalMandates (numeric): Target: final number of elected MP's in a district/national-level\n\n\n# Relevant Papers:\n\nNuno Moniz (2019) Real-time 2019 Portuguese Parliament Election Results Dataset. arXiv\n\nCode + Data in [Web Link]\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "politics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

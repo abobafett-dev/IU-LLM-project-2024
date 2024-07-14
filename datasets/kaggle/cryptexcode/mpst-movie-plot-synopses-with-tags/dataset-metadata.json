@@ -1,0 +1,43 @@
+{
+  "id": "cryptexcode/mpst-movie-plot-synopses-with-tags",
+  "id_no": 167377,
+  "datasetSlugNullable": "mpst-movie-plot-synopses-with-tags",
+  "ownerUserNullable": "cryptexcode",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "MPST: Movie Plot Synopses with Tags",
+  "subtitleNullable": "A dataset of movie plot synopses with story related tags ",
+  "descriptionNullable": "### Context\n**Abstract** \nSocial tagging of movies reveals a wide range of heterogeneous information about movies, like the genre, plot structure, soundtracks, metadata, visual and emotional experiences. Such information can be valuable in building automatic systems to create tags for movies. Automatic tagging systems can help recommendation engines to improve the retrieval of similar movies as well as help viewers to know what to expect from a movie in advance. In this paper, we set out to the task of collecting a corpus of movie plot synopses and tags. We describe a methodology that enabled us to build a fine-grained set of around 70 tags exposing heterogeneous characteristics of movie plots and the multi-label associations of these tags with some 14K movie plot synopses. We investigate how these tags correlate with movies and the flow of emotions throughout different types of movies. Finally, we use this corpus to explore the feasibility of inferring tags from plot synopses. We expect the corpus will be useful in other tasks where analysis of narratives is relevant.\n\n### Content\nPlease find the paper here:\nhttps://www.aclweb.org/anthology/L18-1274\n\nThis dataset was published in LREC 2018@Miyazaki, Japan.\n\n**Keywords**\nTag generation for movies, Movie plot analysis, Multi-label dataset, Narrative texts\n\nMore information is available here\nhttp://ritual.uh.edu/mpst-2018/\n\nPlease use the following BibTex\u200b to cite the work.\n\n@InProceedings{KAR18.332,\n author = {Sudipta Kar and Suraj Maharjan and A. Pastor L\u00f3pez-Monroy and Thamar Solorio},\n title = {{MPST}: A Corpus of Movie Plot Synopses with Tags},\n booktitle = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},\n year = {2018},\n month = {May},\n date = {7-12},\n location = {Miyazaki, Japan},\neditor = {Nicoletta Calzolari (Conference chair) and Khalid Choukri and Christopher Cieri and Thierry Declerck and Sara Goggi and Koiti Hasida and Hitoshi Isahara and Bente Maegaard and Joseph Mariani and H\u00e9l\u00e8ne Mazo and Asuncion Moreno and Jan Odijk and Stelios Piperidis and Takenobu Tokunaga},\n publisher = {European Language Resources Association (ELRA)},\n address = {Paris, France},\n isbn = {979-10-95546-00-9},\n language = {english}\n }\n\n\n### Acknowledgements\n\nWe would like to thank the National Science Foundation for partially funding this work under award 1462141. We are also grateful to Prasha Shrestha, Giovanni Molina, Deepthi Mave, and Gustavo Aguilar for reviewing and providing valuable feedback during the process of creating tag clusters.",
+  "datasetId": 167377,
+  "datasetSlug": "mpst-movie-plot-synopses-with-tags",
+  "hasDatasetSlug": true,
+  "ownerUser": "cryptexcode",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 35484,
+  "totalVotes": 57,
+  "totalDownloads": 4334,
+  "title": "MPST: Movie Plot Synopses with Tags",
+  "hasTitle": true,
+  "subtitle": "A dataset of movie plot synopses with story related tags ",
+  "hasSubtitle": true,
+  "description": "### Context\n**Abstract** \nSocial tagging of movies reveals a wide range of heterogeneous information about movies, like the genre, plot structure, soundtracks, metadata, visual and emotional experiences. Such information can be valuable in building automatic systems to create tags for movies. Automatic tagging systems can help recommendation engines to improve the retrieval of similar movies as well as help viewers to know what to expect from a movie in advance. In this paper, we set out to the task of collecting a corpus of movie plot synopses and tags. We describe a methodology that enabled us to build a fine-grained set of around 70 tags exposing heterogeneous characteristics of movie plots and the multi-label associations of these tags with some 14K movie plot synopses. We investigate how these tags correlate with movies and the flow of emotions throughout different types of movies. Finally, we use this corpus to explore the feasibility of inferring tags from plot synopses. We expect the corpus will be useful in other tasks where analysis of narratives is relevant.\n\n### Content\nPlease find the paper here:\nhttps://www.aclweb.org/anthology/L18-1274\n\nThis dataset was published in LREC 2018@Miyazaki, Japan.\n\n**Keywords**\nTag generation for movies, Movie plot analysis, Multi-label dataset, Narrative texts\n\nMore information is available here\nhttp://ritual.uh.edu/mpst-2018/\n\nPlease use the following BibTex\u200b to cite the work.\n\n@InProceedings{KAR18.332,\n author = {Sudipta Kar and Suraj Maharjan and A. Pastor L\u00f3pez-Monroy and Thamar Solorio},\n title = {{MPST}: A Corpus of Movie Plot Synopses with Tags},\n booktitle = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},\n year = {2018},\n month = {May},\n date = {7-12},\n location = {Miyazaki, Japan},\neditor = {Nicoletta Calzolari (Conference chair) and Khalid Choukri and Christopher Cieri and Thierry Declerck and Sara Goggi and Koiti Hasida and Hitoshi Isahara and Bente Maegaard and Joseph Mariani and H\u00e9l\u00e8ne Mazo and Asuncion Moreno and Jan Odijk and Stelios Piperidis and Takenobu Tokunaga},\n publisher = {European Language Resources Association (ELRA)},\n address = {Paris, France},\n isbn = {979-10-95546-00-9},\n language = {english}\n }\n\n\n### Acknowledgements\n\nWe would like to thank the National Science Foundation for partially funding this work under award 1462141. We are also grateful to Prasha Shrestha, Giovanni Molina, Deepthi Mave, and Gustavo Aguilar for reviewing and providing valuable feedback during the process of creating tag clusters.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "linguistics",
+    "nlp",
+    "classification",
+    "feature engineering"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

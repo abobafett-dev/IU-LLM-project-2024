@@ -1,0 +1,43 @@
+{
+  "id": "prestongrinstead/car-sales",
+  "id_no": 3345518,
+  "datasetSlugNullable": "car-sales",
+  "ownerUserNullable": "prestongrinstead",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Car_Sales",
+  "subtitleNullable": "Cleaned dataset from 2014 car website",
+  "descriptionNullable": "This is a data set I extracted for a car website I managed about 10-years ago.  Some of the packages have changed as the python version was different, but I fine tuned it to run with Python 3.9xx and updated the url's.  The file titled 'car_sales_data_original' can be accessed on the right hand side, and consists the uncleaned raw data that was extracted. The other file is tailored to what I needed, which  were sales trends over a 20-year period (1993-2013) and it is cleaned.  The 'original' file contains all years there is data for (about 16,000 items) as I re-ran the scraper before posting.  Enjoy and have fun!",
+  "datasetId": 3345518,
+  "datasetSlug": "car-sales",
+  "hasDatasetSlug": true,
+  "ownerUser": "prestongrinstead",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1485,
+  "totalVotes": 3,
+  "totalDownloads": 239,
+  "title": "Car_Sales",
+  "hasTitle": true,
+  "subtitle": "Cleaned dataset from 2014 car website",
+  "hasSubtitle": true,
+  "description": "This is a data set I extracted for a car website I managed about 10-years ago.  Some of the packages have changed as the python version was different, but I fine tuned it to run with Python 3.9xx and updated the url's.  The file titled 'car_sales_data_original' can be accessed on the right hand side, and consists the uncleaned raw data that was extracted. The other file is tailored to what I needed, which  were sales trends over a 20-year period (1993-2013) and it is cleaned.  The 'original' file contains all years there is data for (about 16,000 items) as I re-ran the scraper before posting.  Enjoy and have fun!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "data cleaning",
+    "data analytics",
+    "linear regression",
+    "multimodal"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Public Domain Dedication and Licence (PDDL)",
+      "name": "ODC Public Domain Dedication and Licence (PDDL)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

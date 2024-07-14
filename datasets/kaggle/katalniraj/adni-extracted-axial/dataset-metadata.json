@@ -1,0 +1,43 @@
+{
+  "id": "katalniraj/adni-extracted-axial",
+  "id_no": 1830702,
+  "datasetSlugNullable": "adni-extracted-axial",
+  "ownerUserNullable": "katalniraj",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "ADNI_Extracted_Axial",
+  "subtitleNullable": "Alzheimer's Disease Multiclass imaging data",
+  "descriptionNullable": "### Context\n\nADNI provides Alzheimer's data in Nifti or DICOM format which is 3D volumetric data. It becomes slightly difficult to work directly on the 3D data, hence the given dataset was created for easy implementation of the image processing algorithms.\n\n\n### Content\n\nThis dataset consists of 2D axial images extracted from the ADNI baseline dataset which consisted of Nifti images. It consists of 3 classes, i.e. AD (Alzheimer's Disease), CI (Mild Cognitive Impaired) and CN (Common Normal) subjects\n\n\n### Acknowledgements\n\nThe images have been extracted from the ADNI Baseline dataset (NIFTI format) which consisted of 199 instances. The original images can be downloaded from https://ida.loni.usc.edu/login.jsp?project=ADNI.\n\n\n### Inspiration\n\nAlzheimer's is one of the most prevailing neurodegenerative disorder these days. Data availability becomes a hurdle for researchers. Thus this dataset would be of great help for those researchers who are working in the field of AD diagnosis.",
+  "datasetId": 1830702,
+  "datasetSlug": "adni-extracted-axial",
+  "hasDatasetSlug": true,
+  "ownerUser": "katalniraj",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 12246,
+  "totalVotes": 18,
+  "totalDownloads": 1291,
+  "title": "ADNI_Extracted_Axial",
+  "hasTitle": true,
+  "subtitle": "Alzheimer's Disease Multiclass imaging data",
+  "hasSubtitle": true,
+  "description": "### Context\n\nADNI provides Alzheimer's data in Nifti or DICOM format which is 3D volumetric data. It becomes slightly difficult to work directly on the 3D data, hence the given dataset was created for easy implementation of the image processing algorithms.\n\n\n### Content\n\nThis dataset consists of 2D axial images extracted from the ADNI baseline dataset which consisted of Nifti images. It consists of 3 classes, i.e. AD (Alzheimer's Disease), CI (Mild Cognitive Impaired) and CN (Common Normal) subjects\n\n\n### Acknowledgements\n\nThe images have been extracted from the ADNI Baseline dataset (NIFTI format) which consisted of 199 instances. The original images can be downloaded from https://ida.loni.usc.edu/login.jsp?project=ADNI.\n\n\n### Inspiration\n\nAlzheimer's is one of the most prevailing neurodegenerative disorder these days. Data availability becomes a hurdle for researchers. Thus this dataset would be of great help for those researchers who are working in the field of AD diagnosis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "neuroscience",
+    "classification",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

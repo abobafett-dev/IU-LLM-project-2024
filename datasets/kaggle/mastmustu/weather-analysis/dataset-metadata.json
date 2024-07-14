@@ -1,0 +1,41 @@
+{
+  "id": "mastmustu/weather-analysis",
+  "id_no": 887504,
+  "datasetSlugNullable": "weather-analysis",
+  "ownerUserNullable": "mastmustu",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "weather analysis",
+  "subtitleNullable": "Over a decade of weather data for analysis",
+  "descriptionNullable": "The data contains day wise weather attributes from 2009 to July 2020\n\nDate\nAverage temperature (\u00b0F)\nAverage humidity (%)\nAverage dewpoint (\u00b0F)\nAverage barometer (in)\nAverage windspeed (mph)\nAverage gustspeed (mph)\nAverage direction (\u00b0deg)\nRainfall for month (in)\nRainfall for year (in)\nMaximum rain per minute\nMaximum temperature (\u00b0F)\nMinimum temperature (\u00b0F)\nMaximum humidity (%)\nMinimum humidity (%)\nMaximum pressure\nMinimum pressure\nMaximum windspeed (mph)\nMaximum gust speed (mph)\nMaximum heat index (\u00b0F)\n\nAcknowledgement:\n\n\n[Estespark](https://www.estesparkweather.net/archive_reports.php)",
+  "datasetId": 887504,
+  "datasetSlug": "weather-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "mastmustu",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 15234,
+  "totalVotes": 36,
+  "totalDownloads": 1868,
+  "title": "weather analysis",
+  "hasTitle": true,
+  "subtitle": "Over a decade of weather data for analysis",
+  "hasSubtitle": true,
+  "description": "The data contains day wise weather attributes from 2009 to July 2020\n\nDate\nAverage temperature (\u00b0F)\nAverage humidity (%)\nAverage dewpoint (\u00b0F)\nAverage barometer (in)\nAverage windspeed (mph)\nAverage gustspeed (mph)\nAverage direction (\u00b0deg)\nRainfall for month (in)\nRainfall for year (in)\nMaximum rain per minute\nMaximum temperature (\u00b0F)\nMinimum temperature (\u00b0F)\nMaximum humidity (%)\nMinimum humidity (%)\nMaximum pressure\nMinimum pressure\nMaximum windspeed (mph)\nMaximum gust speed (mph)\nMaximum heat index (\u00b0F)\n\nAcknowledgement:\n\n\n[Estespark](https://www.estesparkweather.net/archive_reports.php)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "weather and climate",
+    "time series analysis",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "tcashion/icbc-vehicle-crash-dataset",
+  "id_no": 4351123,
+  "datasetSlugNullable": "icbc-vehicle-crash-dataset",
+  "ownerUserNullable": "tcashion",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "ICBC Vehicle Crash Dataset",
+  "subtitleNullable": "5 Years of Detailed Individual Vehicle Crashes",
+  "descriptionNullable": "The Insurance Corporation of British Columbia (ICBC) publishes records for all reported crashes in British Columbia, Canada. The dataset includes the month, year, time of day, location, and other information on the crashes (number of vehicles, whether pedestrians or cyclists were involved, etc.). \n\n\nThe file isn't standard encoding, so read in with pandas using:  \n`dat = pd.read_csv('/kaggle/input/icbc-vehicle-crash-dataset/British Columbia_Full Data_data.csv', sep='\t', encoding='utf-16')`.  \n  \n**Time/Date related columns:**\n- Date Of Loss Year =&gt; Year\n- Month Of Year =&gt; Month\n- Day Of Week =&gt; Weekday\n- Time Category =&gt; Time Period\n\n\n  \n**Location based columns:**\n- Region\n- Municipality Name\n- Municipality Name (ifnull)\n- Road Location Description\n- Street Full Name\n- Street Full Name (ifnull)\n- Cross Street Full Name\n- Latitude\n- Longitude\n\n  \nTotal Crashes -&gt; Total number of individual crashes related to this record.   \nTotal Victims -&gt; Total number of individuals injured or killed related to this record.   \n\n  \n**Used with permission under ICBC Open Data Licence.**",
+  "datasetId": 4351123,
+  "datasetSlug": "icbc-vehicle-crash-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "tcashion",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 567,
+  "totalVotes": 3,
+  "totalDownloads": 71,
+  "title": "ICBC Vehicle Crash Dataset",
+  "hasTitle": true,
+  "subtitle": "5 Years of Detailed Individual Vehicle Crashes",
+  "hasSubtitle": true,
+  "description": "The Insurance Corporation of British Columbia (ICBC) publishes records for all reported crashes in British Columbia, Canada. The dataset includes the month, year, time of day, location, and other information on the crashes (number of vehicles, whether pedestrians or cyclists were involved, etc.). \n\n\nThe file isn't standard encoding, so read in with pandas using:  \n`dat = pd.read_csv('/kaggle/input/icbc-vehicle-crash-dataset/British Columbia_Full Data_data.csv', sep='\t', encoding='utf-16')`.  \n  \n**Time/Date related columns:**\n- Date Of Loss Year =&gt; Year\n- Month Of Year =&gt; Month\n- Day Of Week =&gt; Weekday\n- Time Category =&gt; Time Period\n\n\n  \n**Location based columns:**\n- Region\n- Municipality Name\n- Municipality Name (ifnull)\n- Road Location Description\n- Street Full Name\n- Street Full Name (ifnull)\n- Cross Street Full Name\n- Latitude\n- Longitude\n\n  \nTotal Crashes -&gt; Total number of individual crashes related to this record.   \nTotal Victims -&gt; Total number of individuals injured or killed related to this record.   \n\n  \n**Used with permission under ICBC Open Data Licence.**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "geospatial analysis",
+    "time series analysis",
+    "insurance",
+    "canada"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

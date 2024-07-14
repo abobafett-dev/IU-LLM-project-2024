@@ -1,0 +1,43 @@
+{
+  "id": "chanoncharuchinda/korean-drama-2015-23-actor-and-reviewmydramalist",
+  "id_no": 3604050,
+  "datasetSlugNullable": "korean-drama-2015-23-actor-and-reviewmydramalist",
+  "ownerUserNullable": "chanoncharuchinda",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Korean Drama from 2015-2023 with Actors & Reviews ",
+  "subtitleNullable": "\ud83d\udd25Spinoff from \"Top 100 Korean Drama (MyDramaList)\" Dataset\ud83d\udcaf but MORE DATA!",
+  "descriptionNullable": "### \ud83d\ude0dNEW Korean Drama Dataset - spinoff of ***Top 100 Korean Drama (MyDramaList)*** \ud83e\udd73<br>\nGo checkout the dataset using this link: https://www.kaggle.com/datasets/chanoncharuchinda/top-100-korean-drama-mydramalist\n\n**IMPORTANT NOTE:** *I made these datasets for **educational purposes**. I want people who **share similar interest and obsession in Korean Drama** to have access to this data to begin their exploration. Have fun!* Also, working with these two datasets simultaneously might be helpful and worth exploring.\n\n#### Project and Data Information\nA while back, I worked on a Dataset called Top 100 Korean Drama (MyDramaList). I decided to work on similar project again. For this project, I have generated three files:\n1. **korean_drama.csv**: 1752 Korean drama to be explored\n2. **recommendations.csv**: table contains the recommendation given to different drama. The recommendation is a product of the MyDramaList community.\n3. **review.csv**: review given to the drama from users on the website\n4. **wiki_actor.csv**: information regarding the actors (mainly the drama they were part of and their role)\n\n**DISCLAIMER**: I have removed the username of the reviewers from the dataset. I used a generated `user_id` field instead for easier partition.\n\n#### What is MyDramaList.com\nAccording to mydramalist.com, \"MyDramaList.com is a community-based project which provides Asian drama & movie fans\". On the website, fans can \"create their very own drama watchlists, rate dramas and films, write reviews\" and many more engaging activities. This dataset is different from the previous one as there are more collection of data on Korean drama, reviews, and actors. \n\n#### Acknowledgements\nThis data is taken from the website https://mydramalist.com/shows/top_korean_dramas?page=1. This is my first time doing web scrapping. I wouldn't be able to do it without the help of StackOverflow and YouTube.\n\n#### Inspiration\nSimilar inspiration to the previous dataset: \"I have been a huge fan of Korean Drama and K pop since high-school. It is fun to integrate what I love with my interest toward data science\". \n\n#### Recommendation and Suggestion\nIf you would like to get more data on Korean drama, please let me know. I can get more information on drama that is prior to 2015 as well. Please leave any recommendation and suggestion (can't stop learning!). Thank you in advance!\n\nThe possibility is endless\u2026keep striving!",
+  "datasetId": 3604050,
+  "datasetSlug": "korean-drama-2015-23-actor-and-reviewmydramalist",
+  "hasDatasetSlug": true,
+  "ownerUser": "chanoncharuchinda",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7746,
+  "totalVotes": 40,
+  "totalDownloads": 1427,
+  "title": "Korean Drama from 2015-2023 with Actors & Reviews ",
+  "hasTitle": true,
+  "subtitle": "\ud83d\udd25Spinoff from \"Top 100 Korean Drama (MyDramaList)\" Dataset\ud83d\udcaf but MORE DATA!",
+  "hasSubtitle": true,
+  "description": "### \ud83d\ude0dNEW Korean Drama Dataset - spinoff of ***Top 100 Korean Drama (MyDramaList)*** \ud83e\udd73<br>\nGo checkout the dataset using this link: https://www.kaggle.com/datasets/chanoncharuchinda/top-100-korean-drama-mydramalist\n\n**IMPORTANT NOTE:** *I made these datasets for **educational purposes**. I want people who **share similar interest and obsession in Korean Drama** to have access to this data to begin their exploration. Have fun!* Also, working with these two datasets simultaneously might be helpful and worth exploring.\n\n#### Project and Data Information\nA while back, I worked on a Dataset called Top 100 Korean Drama (MyDramaList). I decided to work on similar project again. For this project, I have generated three files:\n1. **korean_drama.csv**: 1752 Korean drama to be explored\n2. **recommendations.csv**: table contains the recommendation given to different drama. The recommendation is a product of the MyDramaList community.\n3. **review.csv**: review given to the drama from users on the website\n4. **wiki_actor.csv**: information regarding the actors (mainly the drama they were part of and their role)\n\n**DISCLAIMER**: I have removed the username of the reviewers from the dataset. I used a generated `user_id` field instead for easier partition.\n\n#### What is MyDramaList.com\nAccording to mydramalist.com, \"MyDramaList.com is a community-based project which provides Asian drama & movie fans\". On the website, fans can \"create their very own drama watchlists, rate dramas and films, write reviews\" and many more engaging activities. This dataset is different from the previous one as there are more collection of data on Korean drama, reviews, and actors. \n\n#### Acknowledgements\nThis data is taken from the website https://mydramalist.com/shows/top_korean_dramas?page=1. This is my first time doing web scrapping. I wouldn't be able to do it without the help of StackOverflow and YouTube.\n\n#### Inspiration\nSimilar inspiration to the previous dataset: \"I have been a huge fan of Korean Drama and K pop since high-school. It is fun to integrate what I love with my interest toward data science\". \n\n#### Recommendation and Suggestion\nIf you would like to get more data on Korean drama, please let me know. I can get more information on drama that is prior to 2015 as well. Please leave any recommendation and suggestion (can't stop learning!). Thank you in advance!\n\nThe possibility is endless\u2026keep striving!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "movies and tv shows",
+    "nlp",
+    "recommender systems",
+    "korea"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

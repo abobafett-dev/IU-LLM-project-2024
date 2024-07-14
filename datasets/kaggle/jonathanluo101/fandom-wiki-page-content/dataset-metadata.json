@@ -1,0 +1,44 @@
+{
+  "id": "jonathanluo101/fandom-wiki-page-content",
+  "id_no": 5145466,
+  "datasetSlugNullable": "fandom-wiki-page-content",
+  "ownerUserNullable": "jonathanluo101",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fandom Wiki Page Content",
+  "subtitleNullable": "Scraped data of fandom wiki pages",
+  "descriptionNullable": "Fandom pages contain useful information about different series. While Fandom provides wiki data at [https://examplename.fandom.com/wiki/Special:Statistics](url), most fandoms are either out of date or completely missing wiki dumps. These .jsonl files contain scraped data from different fandom pages, such as the Breaking Bad and Harry Potter fandoms. The data is sorted into two columns, one containing the source URL and the other the text within the page.\n\nThis dataset contains Fandom wiki data for Star Wars, Breaking Bad, Genshin Impact, and many of the most popular anime of all time according to MyAnimeList.\n\nCheck out my GitHub for the script I used to make this dataset here: [https://github.com/Jonathan-Luo01/FandomScraper](https://github.com/Jonathan-Luo01/FandomScraper)",
+  "datasetId": 5145466,
+  "datasetSlug": "fandom-wiki-page-content",
+  "hasDatasetSlug": true,
+  "ownerUser": "jonathanluo101",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 330,
+  "totalVotes": 5,
+  "totalDownloads": 18,
+  "title": "Fandom Wiki Page Content",
+  "hasTitle": true,
+  "subtitle": "Scraped data of fandom wiki pages",
+  "hasSubtitle": true,
+  "description": "Fandom pages contain useful information about different series. While Fandom provides wiki data at [https://examplename.fandom.com/wiki/Special:Statistics](url), most fandoms are either out of date or completely missing wiki dumps. These .jsonl files contain scraped data from different fandom pages, such as the Breaking Bad and Harry Potter fandoms. The data is sorted into two columns, one containing the source URL and the other the text within the page.\n\nThis dataset contains Fandom wiki data for Star Wars, Breaking Bad, Genshin Impact, and many of the most popular anime of all time according to MyAnimeList.\n\nCheck out my GitHub for the script I used to make this dataset here: [https://github.com/Jonathan-Luo01/FandomScraper](https://github.com/Jonathan-Luo01/FandomScraper)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "video games",
+    "text",
+    "anime and manga",
+    "online communities",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

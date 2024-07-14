@@ -1,0 +1,39 @@
+{
+  "id": "gauravduttakiit/indentify-gender-based-on-shoes",
+  "id_no": 4061992,
+  "datasetSlugNullable": "indentify-gender-based-on-shoes",
+  "ownerUserNullable": "gauravduttakiit",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Identify Gender Based on Shoes",
+  "subtitleNullable": "Identify Gender Based on Shoes",
+  "descriptionNullable": "Imagine you work in a large footwear company named Footsy that has many offline stores across the globe.. Footsy sells footwear under 2 brand names - \u201cApex Grip\u201d and \u201cElegant Glide\u201d. Apex Grip is the brand name under which they sell shoes for men and Elegant Glide is the brand name under which they sell shoes for women.\n\nSince beginning, Footsy factories across the globe used to segregate the shoes for Men and Women manually before handing it to the distributors who take these shoes respectively to the stores selling Apex Grip and Elegant Glide shoes.\n\nThe past 2 years have been good for Footsy and the demand for their products have increased four fold. But, with this growth in the business, it has become inefficient and difficult to separate footwear based on gender manually leading to incorrect segregations. This has led to several complaints from the distributors of Footsy.\n\nTo tackle this problem, you decide to create your own image classification model that can easily identify and label the shoes for \u201cMen\u201d and \u201cWomen\u201d. For this, you first clicked and collected 811 images of the show in the \u201cMen\u201d category and 769 in the \u201cWomen\u201d category.\n\nPrepare an image classification model in Orange to detect whether the shoe is for Men or Women.",
+  "datasetId": 4061992,
+  "datasetSlug": "indentify-gender-based-on-shoes",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravduttakiit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 705,
+  "totalVotes": 5,
+  "totalDownloads": 53,
+  "title": "Identify Gender Based on Shoes",
+  "hasTitle": true,
+  "subtitle": "Identify Gender Based on Shoes",
+  "hasSubtitle": true,
+  "description": "Imagine you work in a large footwear company named Footsy that has many offline stores across the globe.. Footsy sells footwear under 2 brand names - \u201cApex Grip\u201d and \u201cElegant Glide\u201d. Apex Grip is the brand name under which they sell shoes for men and Elegant Glide is the brand name under which they sell shoes for women.\n\nSince beginning, Footsy factories across the globe used to segregate the shoes for Men and Women manually before handing it to the distributors who take these shoes respectively to the stores selling Apex Grip and Elegant Glide shoes.\n\nThe past 2 years have been good for Footsy and the demand for their products have increased four fold. But, with this growth in the business, it has become inefficient and difficult to separate footwear based on gender manually leading to incorrect segregations. This has led to several complaints from the distributors of Footsy.\n\nTo tackle this problem, you decide to create your own image classification model that can easily identify and label the shoes for \u201cMen\u201d and \u201cWomen\u201d. For this, you first clicked and collected 811 images of the show in the \u201cMen\u201d category and 769 in the \u201cWomen\u201d category.\n\nPrepare an image classification model in Orange to detect whether the shoe is for Men or Women.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

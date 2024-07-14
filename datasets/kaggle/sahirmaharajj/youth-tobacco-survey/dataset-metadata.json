@@ -1,0 +1,43 @@
+{
+  "id": "sahirmaharajj/youth-tobacco-survey",
+  "id_no": 4779170,
+  "datasetSlugNullable": "youth-tobacco-survey",
+  "ownerUserNullable": "sahirmaharajj",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Youth Tobacco Dataset (2 Decades)",
+  "subtitleNullable": "A comprehensive dataset of over two decades of data",
+  "descriptionNullable": "This dataset was developed to provide states with comprehensive data on both middle school and high school students regarding tobacco use, exposure to environmental tobacco smoke, smoking cessation, school curriculum, minors' ability to purchase or otherwise obtain tobacco products, knowledge and attitudes about tobacco, and familiarity with pro-tobacco and anti-tobacco media messages. The dataset uses a two-stage cluster sample design to produce representative samples of students in middle schools (grades 6\u20138) and high schools (grades 9\u201312)\n\nThis dataset is valuable for data science due to its coverage of youth tobacco use over nearly two decades. Its rich demographic details and broad geographical spread enable researchers and policymakers to identify trends, behaviors, and risk factors associated with tobacco use among the youth. \n\nFor instance, it can help in understanding how tobacco use prevalence varies across different age groups, genders, races, and educational backgrounds. The stratification of data by location and demographic characteristics allows for targeted analysis that can inform public health strategies and educational campaigns aimed at reducing tobacco use among young people.\n\nSome analysis of this dataset can include:\n\n- Statistical assessments of tobacco use trends, examining changes in attitudes towards tobacco, and identifying high-risk groups based on demographic characteristics. \n- Performing time-series analyses to understand how tobacco use has evolved over the years or spatial analyses to identify geographical variations in tobacco use trends. \n- Correlation studies can help uncover associations between tobacco use and factors like education levels, race, and gender. \n- Advanced machine learning models could predict future trends in youth tobacco use or evaluate the potential impact of new tobacco control measures.",
+  "datasetId": 4779170,
+  "datasetSlug": "youth-tobacco-survey",
+  "hasDatasetSlug": true,
+  "ownerUser": "sahirmaharajj",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13011,
+  "totalVotes": 61,
+  "totalDownloads": 3082,
+  "title": "Youth Tobacco Dataset (2 Decades)",
+  "hasTitle": true,
+  "subtitle": "A comprehensive dataset of over two decades of data",
+  "hasSubtitle": true,
+  "description": "This dataset was developed to provide states with comprehensive data on both middle school and high school students regarding tobacco use, exposure to environmental tobacco smoke, smoking cessation, school curriculum, minors' ability to purchase or otherwise obtain tobacco products, knowledge and attitudes about tobacco, and familiarity with pro-tobacco and anti-tobacco media messages. The dataset uses a two-stage cluster sample design to produce representative samples of students in middle schools (grades 6\u20138) and high schools (grades 9\u201312)\n\nThis dataset is valuable for data science due to its coverage of youth tobacco use over nearly two decades. Its rich demographic details and broad geographical spread enable researchers and policymakers to identify trends, behaviors, and risk factors associated with tobacco use among the youth. \n\nFor instance, it can help in understanding how tobacco use prevalence varies across different age groups, genders, races, and educational backgrounds. The stratification of data by location and demographic characteristics allows for targeted analysis that can inform public health strategies and educational campaigns aimed at reducing tobacco use among young people.\n\nSome analysis of this dataset can include:\n\n- Statistical assessments of tobacco use trends, examining changes in attitudes towards tobacco, and identifying high-risk groups based on demographic characteristics. \n- Performing time-series analyses to understand how tobacco use has evolved over the years or spatial analyses to identify geographical variations in tobacco use trends. \n- Correlation studies can help uncover associations between tobacco use and factors like education levels, race, and gender. \n- Advanced machine learning models could predict future trends in youth tobacco use or evaluate the potential impact of new tobacco control measures.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "pollution",
+    "people",
+    "people and society",
+    "education",
+    "health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

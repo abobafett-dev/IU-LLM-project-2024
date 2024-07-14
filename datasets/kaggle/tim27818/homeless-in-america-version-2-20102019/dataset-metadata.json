@@ -1,0 +1,43 @@
+{
+  "id": "tim27818/homeless-in-america-version-2-20102019",
+  "id_no": 1017765,
+  "datasetSlugNullable": "homeless-in-america-version-2-20102019",
+  "ownerUserNullable": "tim27818",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Homeless in America version 2 (2010-2019)",
+  "subtitleNullable": "Data on the no. of homeless vs. no. of beds available",
+  "descriptionNullable": "### Context\n\nThe data is from HUD and other sources, and gives the number of homeless people and the number of beds with data broken out by the state and the year. You can see the number of beds vs. the number of homeless -- if there's about 1 bed per person, that is maybe adequate, but sometimes it's much lower -- meaning that many people are sleeping on the street.\n\n\n### Content\n\n2010-2019 data. The HUD data for the number of beds is very detailed, but the first column shows the total number of beds, so I used that. The number of homeless (an estimate) is much less detailed. There's also population data for each state and some info about democratic vs. republican states. The readme.txt file has the links to the websites, accessed in Dec 2020.\n\n### Acknowledgements\n\nThanks to Wes McKinney for his book on python and data analysis.\n\n\n### Inspiration\n\nWhat can the data tell us? More analysis is needed. The no. of homeless could vary with region, especially if they gravitate towards warmer states. The policies of each state affect in great measaure the number of beds available. Any additional insights (based on the data, or additional data) would be welcome. I included my simple analysis as a jupyter notebook.",
+  "datasetId": 1017765,
+  "datasetSlug": "homeless-in-america-version-2-20102019",
+  "hasDatasetSlug": true,
+  "ownerUser": "tim27818",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 3230,
+  "totalVotes": 7,
+  "totalDownloads": 307,
+  "title": "Homeless in America version 2 (2010-2019)",
+  "hasTitle": true,
+  "subtitle": "Data on the no. of homeless vs. no. of beds available",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe data is from HUD and other sources, and gives the number of homeless people and the number of beds with data broken out by the state and the year. You can see the number of beds vs. the number of homeless -- if there's about 1 bed per person, that is maybe adequate, but sometimes it's much lower -- meaning that many people are sleeping on the street.\n\n\n### Content\n\n2010-2019 data. The HUD data for the number of beds is very detailed, but the first column shows the total number of beds, so I used that. The number of homeless (an estimate) is much less detailed. There's also population data for each state and some info about democratic vs. republican states. The readme.txt file has the links to the websites, accessed in Dec 2020.\n\n### Acknowledgements\n\nThanks to Wes McKinney for his book on python and data analysis.\n\n\n### Inspiration\n\nWhat can the data tell us? More analysis is needed. The no. of homeless could vary with region, especially if they gravitate towards warmer states. The policies of each state affect in great measaure the number of beds available. Any additional insights (based on the data, or additional data) would be welcome. I included my simple analysis as a jupyter notebook.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "housing",
+    "health",
+    "social science",
+    "social issues and advocacy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "polartech/1m-etsy-shops-sales-data",
+  "id_no": 2111545,
+  "datasetSlugNullable": "1m-etsy-shops-sales-data",
+  "ownerUserNullable": "polartech",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "1M+ Etsy Shops Sales Data",
+  "subtitleNullable": "Tracking millions of Etsy shops data including sales, ratings, reviews, products",
+  "descriptionNullable": "Track etsy shops data on weekly/monthly basis. Metrics include shop profiles, sales , products etc.\nThe charts attached in this dataset shows two use caes of the data:\n1) weekly top selling shops by sales volume (https://barkingdata.com/?etsy-top-shops/)\n2) new created shops displayed in a time series (https://barkingdata.com/?etsy-new-shops-trend/ )\n\nAvailable for download is  the top 10000 shops (ranked by sales volume as of Apr 3 2022).  [for illustration and educational purpose only]\nFields include: \nshop_id,shop_name,url,shop_create_date,shop_update_date,digital_listing_count,is_open,seller_name,sold_count,active_listing_count,status,\nlocation,city,region,name,headline,favorites_count,average_rating,total_rating_count,geoname_id,country_code,currency_code,accepts_direct_checkout,accepts_paypal,ships_to_country_ids etc..\nShops Download Link:\n[Click To Download](https://www.dropbox.com/sh/4cejknhyz1uljab/AABRf0XPWDqf1KPQOuYyRxBJa?dl=0)\n\nIf you are interested in building a dataset similar to this or for a different platform or even some granular categories , please contact  info@barkingdata.com\nWe specialize in web mining and web data harvesting from the world wide web (including mobile apps), we have built 5000+ datasets for researchers, analysts, scholars , retailers, ...\nLearn more from https://www.barkingdata.com\n",
+  "datasetId": 2111545,
+  "datasetSlug": "1m-etsy-shops-sales-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "polartech",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 7039,
+  "totalVotes": 30,
+  "totalDownloads": 826,
+  "title": "1M+ Etsy Shops Sales Data",
+  "hasTitle": true,
+  "subtitle": "Tracking millions of Etsy shops data including sales, ratings, reviews, products",
+  "hasSubtitle": true,
+  "description": "Track etsy shops data on weekly/monthly basis. Metrics include shop profiles, sales , products etc.\nThe charts attached in this dataset shows two use caes of the data:\n1) weekly top selling shops by sales volume (https://barkingdata.com/?etsy-top-shops/)\n2) new created shops displayed in a time series (https://barkingdata.com/?etsy-new-shops-trend/ )\n\nAvailable for download is  the top 10000 shops (ranked by sales volume as of Apr 3 2022).  [for illustration and educational purpose only]\nFields include: \nshop_id,shop_name,url,shop_create_date,shop_update_date,digital_listing_count,is_open,seller_name,sold_count,active_listing_count,status,\nlocation,city,region,name,headline,favorites_count,average_rating,total_rating_count,geoname_id,country_code,currency_code,accepts_direct_checkout,accepts_paypal,ships_to_country_ids etc..\nShops Download Link:\n[Click To Download](https://www.dropbox.com/sh/4cejknhyz1uljab/AABRf0XPWDqf1KPQOuYyRxBJa?dl=0)\n\nIf you are interested in building a dataset similar to this or for a different platform or even some granular categories , please contact  info@barkingdata.com\nWe specialize in web mining and web data harvesting from the world wide web (including mobile apps), we have built 5000+ datasets for researchers, analysts, scholars , retailers, ...\nLearn more from https://www.barkingdata.com\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

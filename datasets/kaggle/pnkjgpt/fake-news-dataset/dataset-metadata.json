@@ -1,0 +1,42 @@
+{
+  "id": "pnkjgpt/fake-news-dataset",
+  "id_no": 940445,
+  "datasetSlugNullable": "fake-news-dataset",
+  "ownerUserNullable": "pnkjgpt",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Fake News Dataset",
+  "subtitleNullable": "Dataset containing news labelled as fake and real",
+  "descriptionNullable": "I got this dataset from a competition hosted on dockship.io. It contains two files, train and test.\n\nThe **train** file is labelled and can be used for classification tasks and testing your models. The **test** file doesn't contain labels as I had to predict the class and submit (so it's pretty useless for others).\n\nYou can use the **train** file for doing some NLP tasks like classification. The dataset is clean and balanced, except for one row, which is shifted. There are duplicates too, but they don't affect the balance of the dataset. \n\nI have created a notebook exploring the **train** file and applied some models to it too. Check it out to see if it's useful.",
+  "datasetId": 940445,
+  "datasetSlug": "fake-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "pnkjgpt",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 6981,
+  "totalVotes": 9,
+  "totalDownloads": 608,
+  "title": "Fake News Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset containing news labelled as fake and real",
+  "hasSubtitle": true,
+  "description": "I got this dataset from a competition hosted on dockship.io. It contains two files, train and test.\n\nThe **train** file is labelled and can be used for classification tasks and testing your models. The **test** file doesn't contain labels as I had to predict the class and submit (so it's pretty useless for others).\n\nYou can use the **train** file for doing some NLP tasks like classification. The dataset is clean and balanced, except for one row, which is shifted. There are duplicates too, but they don't affect the balance of the dataset. \n\nI have created a notebook exploring the **train** file and applied some models to it too. Check it out to see if it's useful.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "classification",
+    "binary classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

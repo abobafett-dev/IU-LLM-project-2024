@@ -1,0 +1,48 @@
+{
+  "id": "lakshaytyagi01/fruit-detection",
+  "id_no": 2854386,
+  "datasetSlugNullable": "fruit-detection",
+  "ownerUserNullable": "lakshaytyagi01",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Fruit Detection Dataset",
+  "subtitleNullable": "Multilabel Fruits Detection",
+  "descriptionNullable": "The dataset includes 8479 images of 6 different fruits(Apple, Grapes, Pineapple, Orange, Banana, and Watermelon).\nFruits are annotated in YOLOv8 format.\n\nThe following pre-processing was applied to each image:\n* Auto-orientation of pixel data (with EXIF-orientation stripping)\n* Resize to 640x640 (Stretch)\n\nThe following augmentation was applied to create 3 versions of each source image:\n\nThe following transformations were applied to the bounding boxes of each image:\n* 50% probability of horizontal flip",
+  "datasetId": 2854386,
+  "datasetSlug": "fruit-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "lakshaytyagi01",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 11840,
+  "totalVotes": 17,
+  "totalDownloads": 1596,
+  "title": "Fruit Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Multilabel Fruits Detection",
+  "hasSubtitle": true,
+  "description": "The dataset includes 8479 images of 6 different fruits(Apple, Grapes, Pineapple, Orange, Banana, and Watermelon).\nFruits are annotated in YOLOv8 format.\n\nThe following pre-processing was applied to each image:\n* Auto-orientation of pixel data (with EXIF-orientation stripping)\n* Resize to 640x640 (Stretch)\n\nThe following augmentation was applied to create 3 versions of each source image:\n\nThe following transformations were applied to the bounding boxes of each image:\n* 50% probability of horizontal flip",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "multilabel classification",
+    "image classification",
+    "yolo",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "nishitagunjal",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

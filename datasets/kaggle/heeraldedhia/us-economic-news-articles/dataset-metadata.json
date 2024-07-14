@@ -1,0 +1,44 @@
+{
+  "id": "heeraldedhia/us-economic-news-articles",
+  "id_no": 942410,
+  "datasetSlugNullable": "us-economic-news-articles",
+  "ownerUserNullable": "heeraldedhia",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "US Economic News Articles (Useful for NLP)",
+  "subtitleNullable": "8000 news articles with annotated tone and relevance",
+  "descriptionNullable": "### US Economic news articles with tone and relevance\n\nThe dataset consists of approximately 8000 news articles, which were tagged as relevant or not relevant to the US Economy.",
+  "datasetId": 942410,
+  "datasetSlug": "us-economic-news-articles",
+  "hasDatasetSlug": true,
+  "ownerUser": "heeraldedhia",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12365,
+  "totalVotes": 27,
+  "totalDownloads": 1740,
+  "title": "US Economic News Articles (Useful for NLP)",
+  "hasTitle": true,
+  "subtitle": "8000 news articles with annotated tone and relevance",
+  "hasSubtitle": true,
+  "description": "### US Economic news articles with tone and relevance\n\nThe dataset consists of approximately 8000 news articles, which were tagged as relevant or not relevant to the US Economy.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "business",
+    "economics",
+    "nlp",
+    "text mining",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

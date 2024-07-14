@@ -1,0 +1,43 @@
+{
+  "id": "eduardo4jesus/stanford-cars-dataset",
+  "id_no": 124720,
+  "datasetSlugNullable": "stanford-cars-dataset",
+  "ownerUserNullable": "eduardo4jesus",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Stanford Cars Dataset",
+  "subtitleNullable": "https://ai.stanford.edu/~jkrause/cars/car_dataset.html",
+  "descriptionNullable": "### Overview\n\nThe Cars dataset contains 16,185 images of 196 classes of cars. The data is split into 8,144 training images and 8,041 testing images, where each class has been split roughly in a 50-50 split. Classes are typically at the level of Make, Model, Year, e.g. 2012 Tesla Model S or 2012 BMW M3 coupe.\n\n### Acknowledgements\n\nData source and banner image:\n[http://ai.stanford.edu/~jkrause/cars/car_dataset.html][1] contains all bounding boxes and labels for both training and tests.\n\nIf you use this dataset, please cite the following paper:\n\n**3D Object Representations for Fine-Grained Categorization**\n\n Jonathan Krause, Michael Stark, Jia Deng, Li Fei-Fei\n\n *4th IEEE Workshop on 3D Representation and Recognition, at ICCV 2013 (3dRR-13). Sydney, Australia. Dec. 8, 2013.*\n\n### Inspiration\n\n - Can you form a model that can tell the difference between cars by\n   type or colour?\n   \n - Which cars are manufactured by Tesla vs BMW?\n\n  [1]: http://%20http://ai.stanford.edu/~jkrause/cars/car_dataset.html",
+  "datasetId": 124720,
+  "datasetSlug": "stanford-cars-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "eduardo4jesus",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 18813,
+  "totalVotes": 31,
+  "totalDownloads": 2264,
+  "title": "Stanford Cars Dataset",
+  "hasTitle": true,
+  "subtitle": "https://ai.stanford.edu/~jkrause/cars/car_dataset.html",
+  "hasSubtitle": true,
+  "description": "### Overview\n\nThe Cars dataset contains 16,185 images of 196 classes of cars. The data is split into 8,144 training images and 8,041 testing images, where each class has been split roughly in a 50-50 split. Classes are typically at the level of Make, Model, Year, e.g. 2012 Tesla Model S or 2012 BMW M3 coupe.\n\n### Acknowledgements\n\nData source and banner image:\n[http://ai.stanford.edu/~jkrause/cars/car_dataset.html][1] contains all bounding boxes and labels for both training and tests.\n\nIf you use this dataset, please cite the following paper:\n\n**3D Object Representations for Fine-Grained Categorization**\n\n Jonathan Krause, Michael Stark, Jia Deng, Li Fei-Fei\n\n *4th IEEE Workshop on 3D Representation and Recognition, at ICCV 2013 (3dRR-13). Sydney, Australia. Dec. 8, 2013.*\n\n### Inspiration\n\n - Can you form a model that can tell the difference between cars by\n   type or colour?\n   \n - Which cars are manufactured by Tesla vs BMW?\n\n  [1]: http://%20http://ai.stanford.edu/~jkrause/cars/car_dataset.html",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature",
+    "automobiles and vehicles",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

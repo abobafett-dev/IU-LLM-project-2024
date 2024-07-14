@@ -1,0 +1,44 @@
+{
+  "id": "mbkinaci/image-localization-dataset",
+  "id_no": 50025,
+  "datasetSlugNullable": "image-localization-dataset",
+  "ownerUserNullable": "mbkinaci",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Image Localization Dataset",
+  "subtitleNullable": "This is a dataset created for image localization tasks (SINGLE object).",
+  "descriptionNullable": "### Context\n\nIncluding images and its corresponding .xml files. Before drawing bounding boxes, all images were resized to (227,227,3).\n\nThere is only one type of object in each picture.\n\n### Classes\n\n3 categories: Cucumber, Eggplant, Mushroom.\n\n### Acknowledgements\n\nThis dataset should be used with [this repository](https://github.com/MuhammedBuyukkinaci/Object-Classification-and-Localization-with-TensorFlow).\n\n\n### Inspiration\n\nI created this dataset for single image localization tasks. I couldn't find any basic dataset for this task.",
+  "datasetId": 50025,
+  "datasetSlug": "image-localization-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mbkinaci",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 18875,
+  "totalVotes": 22,
+  "totalDownloads": 1468,
+  "title": "Image Localization Dataset",
+  "hasTitle": true,
+  "subtitle": "This is a dataset created for image localization tasks (SINGLE object).",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIncluding images and its corresponding .xml files. Before drawing bounding boxes, all images were resized to (227,227,3).\n\nThere is only one type of object in each picture.\n\n### Classes\n\n3 categories: Cucumber, Eggplant, Mushroom.\n\n### Acknowledgements\n\nThis dataset should be used with [this repository](https://github.com/MuhammedBuyukkinaci/Object-Classification-and-Localization-with-TensorFlow).\n\n\n### Inspiration\n\nI created this dataset for single image localization tasks. I couldn't find any basic dataset for this task.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "earth and nature",
+    "computer vision",
+    "image",
+    "multiclass classification",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

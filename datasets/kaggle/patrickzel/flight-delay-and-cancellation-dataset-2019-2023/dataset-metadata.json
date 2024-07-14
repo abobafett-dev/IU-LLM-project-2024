@@ -1,0 +1,43 @@
+{
+  "id": "patrickzel/flight-delay-and-cancellation-dataset-2019-2023",
+  "id_no": 4038686,
+  "datasetSlugNullable": "flight-delay-and-cancellation-dataset-2019-2023",
+  "ownerUserNullable": "patrickzel",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Flight Delay and Cancellation Dataset (2019-2023)",
+  "subtitleNullable": "Data Analysis, Exploratory, Time-Series, Viz, ML (~29m total rows; 3m SRS)",
+  "descriptionNullable": "Airline Flight Delay and Cancellation Data, August 2019 - August 2023\n\nUS Department of Transportation, Bureau of Transportation Statistics \n[https://www.transtats.bts.gov](https://www.transtats.bts.gov)\n\n## **Purpose**\n\nThe purpose of collecting this dataset was to facilitate programmatic retrieval via an API into an AWS EC2 instance for structured data analysis using Spark SQL. The dataset includes several versions, ranging from the complete set of 29 million rows to a reduced set of 3 million rows. This iterative refinement process was aimed at optimizing the use of AWS's distributed computing capabilities to achieve efficient querying and effective data manipulation. Best performance was achieved using the i3, m5, and c5 instances with upgraded storage.\n\n## **Context**\n\nSource data related to flight delays and cancellations for January 2019 \u2013 August 2023 retireved from DOT *On-Time : Reporting Carrier On-Time Performance (1987-present)*\n\nVariables include flight routes (origin, destination), time ranges for events (minutes, local time), delay and cancellation reasons/attributions (limited).\n\n## **Acknowledgements**\n\nThe U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics tracks the on-time performance of domestic flights operated by large air carriers. Summary information on the number of on-time, delayed, canceled, and diverted flights is published in DOT's monthly Air Travel Consumer Report.\n\nRetrieved in November 2023 using the application at [On-Time : Reporting Carrier On-Time Performance (1987-present)](https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGJ&QO_fu146_anzr=b0-gvzr).\n\nThe source data was downloaded in subsets by month and joined by year. Most current available data for 2023 is from August. Data consolidation, transformation, wrangling, variable selection, and label updates were done in csvkit, Python and Excel.\n\n## **Attribution**\n\nThis dataset is similar to, adopts header names from, and can be merged with [Airline Delay and Cancellation Data, 2009 - 2018](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018/data).",
+  "datasetId": 4038686,
+  "datasetSlug": "flight-delay-and-cancellation-dataset-2019-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "patrickzel",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 23098,
+  "totalVotes": 49,
+  "totalDownloads": 4606,
+  "title": "Flight Delay and Cancellation Dataset (2019-2023)",
+  "hasTitle": true,
+  "subtitle": "Data Analysis, Exploratory, Time-Series, Viz, ML (~29m total rows; 3m SRS)",
+  "hasSubtitle": true,
+  "description": "Airline Flight Delay and Cancellation Data, August 2019 - August 2023\n\nUS Department of Transportation, Bureau of Transportation Statistics \n[https://www.transtats.bts.gov](https://www.transtats.bts.gov)\n\n## **Purpose**\n\nThe purpose of collecting this dataset was to facilitate programmatic retrieval via an API into an AWS EC2 instance for structured data analysis using Spark SQL. The dataset includes several versions, ranging from the complete set of 29 million rows to a reduced set of 3 million rows. This iterative refinement process was aimed at optimizing the use of AWS's distributed computing capabilities to achieve efficient querying and effective data manipulation. Best performance was achieved using the i3, m5, and c5 instances with upgraded storage.\n\n## **Context**\n\nSource data related to flight delays and cancellations for January 2019 \u2013 August 2023 retireved from DOT *On-Time : Reporting Carrier On-Time Performance (1987-present)*\n\nVariables include flight routes (origin, destination), time ranges for events (minutes, local time), delay and cancellation reasons/attributions (limited).\n\n## **Acknowledgements**\n\nThe U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics tracks the on-time performance of domestic flights operated by large air carriers. Summary information on the number of on-time, delayed, canceled, and diverted flights is published in DOT's monthly Air Travel Consumer Report.\n\nRetrieved in November 2023 using the application at [On-Time : Reporting Carrier On-Time Performance (1987-present)](https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGJ&QO_fu146_anzr=b0-gvzr).\n\nThe source data was downloaded in subsets by month and joined by year. Most current available data for 2023 is from August. Data consolidation, transformation, wrangling, variable selection, and label updates were done in csvkit, Python and Excel.\n\n## **Attribution**\n\nThis dataset is similar to, adopts header names from, and can be merged with [Airline Delay and Cancellation Data, 2009 - 2018](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018/data).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "transportation",
+    "aviation",
+    "exploratory data analysis",
+    "data visualization",
+    "travel"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

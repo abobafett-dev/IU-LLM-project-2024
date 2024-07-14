@@ -1,0 +1,41 @@
+{
+  "id": "mishraboi/anime-data",
+  "id_no": 854099,
+  "datasetSlugNullable": "anime-data",
+  "ownerUserNullable": "mishraboi",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "Anime Data",
+  "subtitleNullable": "Data from myanimelist.com",
+  "descriptionNullable": " # Data Collection & Pre-Processing\nThe data was collected from https://myanimelist.net/ and merged with their genre data in a one-hot manner. ",
+  "datasetId": 854099,
+  "datasetSlug": "anime-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "mishraboi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 2990,
+  "totalVotes": 8,
+  "totalDownloads": 137,
+  "title": "Anime Data",
+  "hasTitle": true,
+  "subtitle": "Data from myanimelist.com",
+  "hasSubtitle": true,
+  "description": " # Data Collection & Pre-Processing\nThe data was collected from https://myanimelist.net/ and merged with their genre data in a one-hot manner. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "exploratory data analysis",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

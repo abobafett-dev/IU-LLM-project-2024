@@ -1,0 +1,41 @@
+{
+  "id": "hotsonhonet/the-great-indian-hiring-challenge",
+  "id_no": 962670,
+  "datasetSlugNullable": "the-great-indian-hiring-challenge",
+  "ownerUserNullable": "hotsonhonet",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "The Great Indian Hiring Challenge",
+  "subtitleNullable": "MachineHack Challenge",
+  "descriptionNullable": "# Overview\nThe current pandemic has dwindled the data science job market likewise recruiters are also facing difficulties filtering the right talent. To bridge this gap we bring a chance for the MachineHack community to compete for jobs with some of the key analytics players for a rewarding career in Data Science. In this competition, we are challenging the MachineHack community to come up with an algorithm to predict the price of retail items belonging to different categories. Foretelling the Retail price can be a daunting task due to the huge datasets with a variety of attributes ranging from Text, Numbers(floats, integers), and DateTime. Also, outliers can be a big problem when dealing with unit prices.\n\nWith a key focus on the Data Scientist role in an esteemed organization, this hackathon can help freshers and experienced folks prove their mettle and land up in a rewarding career.\n\nBy participating in this hackathon, every participant will be eligible for the Data Scientist job role by making sure their MachineHack Information with Resume is up to date.\n\n \n\n# Dataset Description:\n* Train.csv - 284780 rows x 8 columns (Inlcudes UnitPrice Columns as Target)\n* Test.csv - 122049 rows x 7 columns\n* Sample Submission.csv - Please check the Evaluation section for more details on how to generate a valid submission\n \n\n# Attribute Description:\n* Invoice No - Invoice ID, encoded as Label\n* StockCode - Unique code per stock, encoded as Label\n* Description - The Description, encoded as Label\n* Quantity - Quantity purchased\n* InvoiceDate - Date of purchase\n* UnitPrice - The target value, price of every product\n* CustomerID - Unique Identifier for every Customer\n* Country - Country of sales, encoded as Label\n \n\n#Skills:\n* Multivariate Regression *\n* Big dataset, underfitting vs overfitting *\n* Optimizing RMSE to generalize well on unseen data *",
+  "datasetId": 962670,
+  "datasetSlug": "the-great-indian-hiring-challenge",
+  "hasDatasetSlug": true,
+  "ownerUser": "hotsonhonet",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 2803,
+  "totalVotes": 13,
+  "totalDownloads": 94,
+  "title": "The Great Indian Hiring Challenge",
+  "hasTitle": true,
+  "subtitle": "MachineHack Challenge",
+  "hasSubtitle": true,
+  "description": "# Overview\nThe current pandemic has dwindled the data science job market likewise recruiters are also facing difficulties filtering the right talent. To bridge this gap we bring a chance for the MachineHack community to compete for jobs with some of the key analytics players for a rewarding career in Data Science. In this competition, we are challenging the MachineHack community to come up with an algorithm to predict the price of retail items belonging to different categories. Foretelling the Retail price can be a daunting task due to the huge datasets with a variety of attributes ranging from Text, Numbers(floats, integers), and DateTime. Also, outliers can be a big problem when dealing with unit prices.\n\nWith a key focus on the Data Scientist role in an esteemed organization, this hackathon can help freshers and experienced folks prove their mettle and land up in a rewarding career.\n\nBy participating in this hackathon, every participant will be eligible for the Data Scientist job role by making sure their MachineHack Information with Resume is up to date.\n\n \n\n# Dataset Description:\n* Train.csv - 284780 rows x 8 columns (Inlcudes UnitPrice Columns as Target)\n* Test.csv - 122049 rows x 7 columns\n* Sample Submission.csv - Please check the Evaluation section for more details on how to generate a valid submission\n \n\n# Attribute Description:\n* Invoice No - Invoice ID, encoded as Label\n* StockCode - Unique code per stock, encoded as Label\n* Description - The Description, encoded as Label\n* Quantity - Quantity purchased\n* InvoiceDate - Date of purchase\n* UnitPrice - The target value, price of every product\n* CustomerID - Unique Identifier for every Customer\n* Country - Country of sales, encoded as Label\n \n\n#Skills:\n* Multivariate Regression *\n* Big dataset, underfitting vs overfitting *\n* Optimizing RMSE to generalize well on unseen data *",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "business",
+    "education"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

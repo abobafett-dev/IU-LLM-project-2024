@@ -1,0 +1,40 @@
+{
+  "id": "yoandinkov/mediascan-bg-articles",
+  "id_no": 284676,
+  "datasetSlugNullable": "mediascan-bg-articles",
+  "ownerUserNullable": "yoandinkov",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "mediascan_bg_articles",
+  "subtitleNullable": "Bulgarian news articles labelled for toxicity",
+  "descriptionNullable": "### Content\n\nContains information for 321 articles fetched from bulgarian news sources:\n\n- title, text\n- english translation of title, text\n- a posteriori probabilities from 18 different feature sets experiments\n- features generated from SOTA feature extraction techniques such as XLM, BERT, ELMO, NELA, USE and others.\n\n### Inspiration\n\nDataset generated for research at [RANLP'19](http://lml.bas.bg/ranlp2019/start.php)\n\nMore info @ [GitHub](https://github.com/yoandinkov/ranlp-2019)",
+  "datasetId": 284676,
+  "datasetSlug": "mediascan-bg-articles",
+  "hasDatasetSlug": true,
+  "ownerUser": "yoandinkov",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 2556,
+  "totalVotes": 2,
+  "totalDownloads": 43,
+  "title": "mediascan_bg_articles",
+  "hasTitle": true,
+  "subtitle": "Bulgarian news articles labelled for toxicity",
+  "hasSubtitle": true,
+  "description": "### Content\n\nContains information for 321 articles fetched from bulgarian news sources:\n\n- title, text\n- english translation of title, text\n- a posteriori probabilities from 18 different feature sets experiments\n- features generated from SOTA feature extraction techniques such as XLM, BERT, ELMO, NELA, USE and others.\n\n### Inspiration\n\nDataset generated for research at [RANLP'19](http://lml.bas.bg/ranlp2019/start.php)\n\nMore info @ [GitHub](https://github.com/yoandinkov/ranlp-2019)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GNU Lesser General Public License 3.0",
+      "name": "GNU Lesser General Public License 3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

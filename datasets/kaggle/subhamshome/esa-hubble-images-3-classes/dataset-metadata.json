@@ -1,0 +1,42 @@
+{
+  "id": "subhamshome/esa-hubble-images-3-classes",
+  "id_no": 3661919,
+  "datasetSlugNullable": "esa-hubble-images-3-classes",
+  "ownerUserNullable": "subhamshome",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "ESA Hubble Images - 3 classes",
+  "subtitleNullable": "Galaxies, Nebulae, and the Solar System - An ESA Hubble Image dataset",
+  "descriptionNullable": "This dataset contains a carefully curated selection of 240 galaxy images, 234 nebulae images, and 211 solar system images, showcasing the breathtaking range of cosmic phenomena found in our cosmos. From the distant galaxies with their spiral arms and vibrant cores, to the intricate nebulae where stars are born and planets take shape, and to the objects within our own solar system, each image tells a unique story of the mysteries that lie beyond our planet.\n\nThe images are downloaded from [ESA Hubble website](https://esahubble.org/), in \"large\" format which is the second best format after \"original\" from the website. The images are all .jpg files.\n\n**Dataset details:**\nTasks possible - Classification, Image Analysis (more? add in the comments)\nClasses - 3\nClass names - `['galaxies', 'nebulae', 'solarsystem']`\nClass counts - `[240, 234, 211]`\nThe images are named with the class names as the prefixes of the filenames separated by the original filename with an underscore(_). This should help in creating the class labels in case someone is working on classification tasks.",
+  "datasetId": 3661919,
+  "datasetSlug": "esa-hubble-images-3-classes",
+  "hasDatasetSlug": true,
+  "ownerUser": "subhamshome",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 694,
+  "totalVotes": 3,
+  "totalDownloads": 91,
+  "title": "ESA Hubble Images - 3 classes",
+  "hasTitle": true,
+  "subtitle": "Galaxies, Nebulae, and the Solar System - An ESA Hubble Image dataset",
+  "hasSubtitle": true,
+  "description": "This dataset contains a carefully curated selection of 240 galaxy images, 234 nebulae images, and 211 solar system images, showcasing the breathtaking range of cosmic phenomena found in our cosmos. From the distant galaxies with their spiral arms and vibrant cores, to the intricate nebulae where stars are born and planets take shape, and to the objects within our own solar system, each image tells a unique story of the mysteries that lie beyond our planet.\n\nThe images are downloaded from [ESA Hubble website](https://esahubble.org/), in \"large\" format which is the second best format after \"original\" from the website. The images are all .jpg files.\n\n**Dataset details:**\nTasks possible - Classification, Image Analysis (more? add in the comments)\nClasses - 3\nClass names - `['galaxies', 'nebulae', 'solarsystem']`\nClass counts - `[240, 234, 211]`\nThe images are named with the class names as the prefixes of the filenames separated by the original filename with an underscore(_). This should help in creating the class labels in case someone is working on classification tasks.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "astronomy",
+    "deep learning",
+    "multiclass classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

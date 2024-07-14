@@ -1,0 +1,37 @@
+{
+  "id": "wunderbarx/20-newsgroup",
+  "id_no": 148248,
+  "datasetSlugNullable": "20-newsgroup",
+  "ownerUserNullable": "wunderbarx",
+  "usabilityRatingNullable": 0.0625,
+  "titleNullable": "20_newsgroup",
+  "subtitleNullable": "",
+  "descriptionNullable": "TEXT_DATA_DIR = '../input/20_newsgroup/20_newsgroups'",
+  "datasetId": 148248,
+  "datasetSlug": "20-newsgroup",
+  "hasDatasetSlug": true,
+  "ownerUser": "wunderbarx",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.0625,
+  "hasUsabilityRating": true,
+  "totalViews": 1690,
+  "totalVotes": 4,
+  "totalDownloads": 69,
+  "title": "20_newsgroup",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "TEXT_DATA_DIR = '../input/20_newsgroup/20_newsgroups'",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "thedevastator/new-dataset-for-text-classification-ag-news",
+  "id_no": 2655962,
+  "datasetSlugNullable": "new-dataset-for-text-classification-ag-news",
+  "ownerUserNullable": "thedevastator",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "AG News (News articles)",
+  "subtitleNullable": "News Articles Text Classification ",
+  "descriptionNullable": "# AG News (News articles)\n### News Articles Text Classification\n_____\n\n### Source\n**Huggingface Hub:** [link](https://huggingface.co/datasets/ag_news)\n\n\n### About this dataset\n&gt; The ag_news dataset provides a new opportunity for text classification research. It is a large dataset consisting of a training set of 10,000 examples and a test set of 5,000 examples. The examples are split evenly into two classes: positive and negative. This makes the dataset well-suited for research into text classification methods\n\n### How to use the dataset\n&gt; If you're looking to do text classification research, the ag_news dataset is a great new dataset to use. It consists of a training set of 10,000 examples and a test set of 5,000 examples, split evenly between positive and negative class labels. The data is well-balanced and should be suitable for many different text classification tasks\n\n### Research Ideas\n&gt; - This dataset can be used to train a text classifier to automatically categorize news articles into positive and negative categories.\n&gt; - This dataset can be used to develop a system that can identify positive and negative sentiment in news articles. \n&gt; - This dataset can be used to study the difference in how positive and negative news is reported by different media outlets\n\n### Acknowledgements\n&gt; AG is a collection of more than 1 million news articles. News articles have been gathered from more than 2000 news sources by ComeToMyHead in more than 1 year of activity. ComeToMyHead is an academic news search engine that has been running since July, 2004. The dataset is provided by the academic comunity for research purposes in data mining (clustering, classification, etc), information retrieval (ranking, search, etc), XML, data compression, data streaming, and any other non-commercial activity. For more information, please refer to the link http://www.di.unipi.it/~gulli/AG_corpus_of_news_articles.html .\n&gt; \n&gt; \n&gt; ### License\n&gt; \n&gt; \n&gt; &gt; **License: [CC0 1.0 Universal (CC0 1.0) - Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)**\n&gt; &gt; No Copyright - You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. [See Other Information](https://creativecommons.org/publicdomain/zero/1.0/).\n\n### Columns\n\n**File: train.csv**\n| Column name   | Description                              |\n|:--------------|:-----------------------------------------|\n| **text**      | The text of the news article. (string)   |\n| **label**     | The label of the news article. (integer) |\n\n_____\n\n**File: test.csv**\n| Column name   | Description                              |\n|:--------------|:-----------------------------------------|\n| **text**      | The text of the news article. (string)   |\n| **label**     | The label of the news article. (integer) |\n\n",
+  "datasetId": 2655962,
+  "datasetSlug": "new-dataset-for-text-classification-ag-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "thedevastator",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3452,
+  "totalVotes": 15,
+  "totalDownloads": 546,
+  "title": "AG News (News articles)",
+  "hasTitle": true,
+  "subtitle": "News Articles Text Classification ",
+  "hasSubtitle": true,
+  "description": "# AG News (News articles)\n### News Articles Text Classification\n_____\n\n### Source\n**Huggingface Hub:** [link](https://huggingface.co/datasets/ag_news)\n\n\n### About this dataset\n&gt; The ag_news dataset provides a new opportunity for text classification research. It is a large dataset consisting of a training set of 10,000 examples and a test set of 5,000 examples. The examples are split evenly into two classes: positive and negative. This makes the dataset well-suited for research into text classification methods\n\n### How to use the dataset\n&gt; If you're looking to do text classification research, the ag_news dataset is a great new dataset to use. It consists of a training set of 10,000 examples and a test set of 5,000 examples, split evenly between positive and negative class labels. The data is well-balanced and should be suitable for many different text classification tasks\n\n### Research Ideas\n&gt; - This dataset can be used to train a text classifier to automatically categorize news articles into positive and negative categories.\n&gt; - This dataset can be used to develop a system that can identify positive and negative sentiment in news articles. \n&gt; - This dataset can be used to study the difference in how positive and negative news is reported by different media outlets\n\n### Acknowledgements\n&gt; AG is a collection of more than 1 million news articles. News articles have been gathered from more than 2000 news sources by ComeToMyHead in more than 1 year of activity. ComeToMyHead is an academic news search engine that has been running since July, 2004. The dataset is provided by the academic comunity for research purposes in data mining (clustering, classification, etc), information retrieval (ranking, search, etc), XML, data compression, data streaming, and any other non-commercial activity. For more information, please refer to the link http://www.di.unipi.it/~gulli/AG_corpus_of_news_articles.html .\n&gt; \n&gt; \n&gt; ### License\n&gt; \n&gt; \n&gt; &gt; **License: [CC0 1.0 Universal (CC0 1.0) - Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)**\n&gt; &gt; No Copyright - You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. [See Other Information](https://creativecommons.org/publicdomain/zero/1.0/).\n\n### Columns\n\n**File: train.csv**\n| Column name   | Description                              |\n|:--------------|:-----------------------------------------|\n| **text**      | The text of the news article. (string)   |\n| **label**     | The label of the news article. (integer) |\n\n_____\n\n**File: test.csv**\n| Column name   | Description                              |\n|:--------------|:-----------------------------------------|\n| **text**      | The text of the news article. (string)   |\n| **label**     | The label of the news article. (integer) |\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "nlp",
+    "classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

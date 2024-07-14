@@ -1,0 +1,43 @@
+{
+  "id": "rohitpawar1/british-airways-customer-reviews",
+  "id_no": 2730704,
+  "datasetSlugNullable": "british-airways-customer-reviews",
+  "ownerUserNullable": "rohitpawar1",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "British Airways Customer Reviews",
+  "subtitleNullable": "Customer Reviews DataSet For EDA & Modelling",
+  "descriptionNullable": "Data web scarpped from https://www.airlinequality.com/  . \nCan be used for modelling, predictive analysis, feature engineering, EDA, etc\nData needs to be cleaned first as it has null values, etc",
+  "datasetId": 2730704,
+  "datasetSlug": "british-airways-customer-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "rohitpawar1",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1939,
+  "totalVotes": 8,
+  "totalDownloads": 265,
+  "title": "British Airways Customer Reviews",
+  "hasTitle": true,
+  "subtitle": "Customer Reviews DataSet For EDA & Modelling",
+  "hasSubtitle": true,
+  "description": "Data web scarpped from https://www.airlinequality.com/  . \nCan be used for modelling, predictive analysis, feature engineering, EDA, etc\nData needs to be cleaned first as it has null values, etc",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "exploratory data analysis",
+    "nlp",
+    "feature engineering",
+    "nltk"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

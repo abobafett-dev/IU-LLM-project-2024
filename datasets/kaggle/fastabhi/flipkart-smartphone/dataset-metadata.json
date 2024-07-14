@@ -1,0 +1,43 @@
+{
+  "id": "fastabhi/flipkart-smartphone",
+  "id_no": 3497088,
+  "datasetSlugNullable": "flipkart-smartphone",
+  "ownerUserNullable": "fastabhi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "flipkart-smartphone",
+  "subtitleNullable": "Dataset of smartphones available on flipkart.com",
+  "descriptionNullable": "This dataset provides detailed information about various smartphones available on the e-commerce platform Flipkart as of July 2023. The dataset is in CSV format and contains the following columns:\n\n**img_link**: This column contains the URL link to the image of each smartphone. It can be used to retrieve and display the corresponding image for each smartphone.\n\n**phone_name**: This column contains the name or model of each smartphone. It provides a unique identifier for each device in the dataset.\n\n**avg_rating**: This column represents the average rating of each smartphone on Flipkart. It indicates the overall customer satisfaction level based on user ratings. The rating scale typically ranges from 1 to 5 stars, with 5 being the highest rating.\n\n**total_rating**: This column indicates the total number of people who have rated each smartphone on Flipkart. It provides an understanding of the popularity and feedback from customers who have shared their ratings.\n\n**total_reviews**: This column represents the total number of reviews available for each smartphone on Flipkart. It provides insights into the level of engagement and the amount of user-generated content related to each device.\n\n**discounted_price**: This column contains the discounted price of each smartphone in Indian Rupees (INR). It represents the current selling price of the device after applying any applicable discounts or promotional offers.\n\n**actual_price**: This column displays the actual or original price of each smartphone in Indian Rupees (INR) before any discounts. It provides a reference point for the discounted price and helps users understand the amount of savings or price reduction available.\n\nThe dataset is valuable for conducting various analyses related to smartphones available on Flipkart. Researchers, data scientists, and analysts can use this dataset to explore trends in customer ratings, reviews, pricing, and discounts. They can also perform market research, brand comparisons, sentiment analysis, and other studies related to the smartphone industry.\n\nPlease note that this dataset is specific to Flipkart and represents the smartphone market as of July 2023. It can be used to gain insights into customer preferences, pricing strategies, and overall market dynamics in the context of Flipkart's smartphone offerings.",
+  "datasetId": 3497088,
+  "datasetSlug": "flipkart-smartphone",
+  "hasDatasetSlug": true,
+  "ownerUser": "fastabhi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 315,
+  "totalVotes": 2,
+  "totalDownloads": 51,
+  "title": "flipkart-smartphone",
+  "hasTitle": true,
+  "subtitle": "Dataset of smartphones available on flipkart.com",
+  "hasSubtitle": true,
+  "description": "This dataset provides detailed information about various smartphones available on the e-commerce platform Flipkart as of July 2023. The dataset is in CSV format and contains the following columns:\n\n**img_link**: This column contains the URL link to the image of each smartphone. It can be used to retrieve and display the corresponding image for each smartphone.\n\n**phone_name**: This column contains the name or model of each smartphone. It provides a unique identifier for each device in the dataset.\n\n**avg_rating**: This column represents the average rating of each smartphone on Flipkart. It indicates the overall customer satisfaction level based on user ratings. The rating scale typically ranges from 1 to 5 stars, with 5 being the highest rating.\n\n**total_rating**: This column indicates the total number of people who have rated each smartphone on Flipkart. It provides an understanding of the popularity and feedback from customers who have shared their ratings.\n\n**total_reviews**: This column represents the total number of reviews available for each smartphone on Flipkart. It provides insights into the level of engagement and the amount of user-generated content related to each device.\n\n**discounted_price**: This column contains the discounted price of each smartphone in Indian Rupees (INR). It represents the current selling price of the device after applying any applicable discounts or promotional offers.\n\n**actual_price**: This column displays the actual or original price of each smartphone in Indian Rupees (INR) before any discounts. It provides a reference point for the discounted price and helps users understand the amount of savings or price reduction available.\n\nThe dataset is valuable for conducting various analyses related to smartphones available on Flipkart. Researchers, data scientists, and analysts can use this dataset to explore trends in customer ratings, reviews, pricing, and discounts. They can also perform market research, brand comparisons, sentiment analysis, and other studies related to the smartphone industry.\n\nPlease note that this dataset is specific to Flipkart and represents the smartphone market as of July 2023. It can be used to gain insights into customer preferences, pricing strategies, and overall market dynamics in the context of Flipkart's smartphone offerings.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "mobile and wireless",
+    "numpy",
+    "pandas",
+    "plotly"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "jerseyneo/reddit-adhd-dataset",
+  "id_no": 1337100,
+  "datasetSlugNullable": "reddit-adhd-dataset",
+  "ownerUserNullable": "jerseyneo",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Reddit ADHD dataset",
+  "subtitleNullable": "Reddit posts and comments from r/ADHD and r/adhdwomen",
+  "descriptionNullable": "### Context\n\nAttention deficit hyperactivity disorder (ADHD) is a mental health disorder that can cause above-normal levels of hyperactive and impulsive behaviors. People with ADHD may also have trouble focusing their attention on a single task or sitting still for long periods of time. Both adults and children can have ADHD.\n\n\n### Content\n\nAll the Reddit posts (up to February 2021) and comments from https://www.reddit.com/r/ADHD/ and https://www.reddit.com/r/adhdwomen/, 2 major subreddits about ADHD.\n\n\n\n### Acknowledgements\n\nTo get all the data from the creation date of those 2 subreddits, I followed this tutorial:https://www.osrsbox.com/blog/2019/03/18/watercooler-scraping-an-entire-subreddit-2007scape/ and used [PushShift API](https://github.com/pushshift/api).\nHowever, there are some mistakes in the selftext of submissions, so I fed the id list into [PRAW](https://praw.readthedocs.io/en/latest/#) to get better data.\n\n\n\n### Inspiration\n\nYou can use this data to:\n- Entity recognition;\n- Sentiment analysis;\n- Help the ADHD community",
+  "datasetId": 1337100,
+  "datasetSlug": "reddit-adhd-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "jerseyneo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 20327,
+  "totalVotes": 25,
+  "totalDownloads": 1750,
+  "title": "Reddit ADHD dataset",
+  "hasTitle": true,
+  "subtitle": "Reddit posts and comments from r/ADHD and r/adhdwomen",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAttention deficit hyperactivity disorder (ADHD) is a mental health disorder that can cause above-normal levels of hyperactive and impulsive behaviors. People with ADHD may also have trouble focusing their attention on a single task or sitting still for long periods of time. Both adults and children can have ADHD.\n\n\n### Content\n\nAll the Reddit posts (up to February 2021) and comments from https://www.reddit.com/r/ADHD/ and https://www.reddit.com/r/adhdwomen/, 2 major subreddits about ADHD.\n\n\n\n### Acknowledgements\n\nTo get all the data from the creation date of those 2 subreddits, I followed this tutorial:https://www.osrsbox.com/blog/2019/03/18/watercooler-scraping-an-entire-subreddit-2007scape/ and used [PushShift API](https://github.com/pushshift/api).\nHowever, there are some mistakes in the selftext of submissions, so I fed the id list into [PRAW](https://praw.readthedocs.io/en/latest/#) to get better data.\n\n\n\n### Inspiration\n\nYou can use this data to:\n- Entity recognition;\n- Sentiment analysis;\n- Help the ADHD community",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "medicine",
+    "nlp",
+    "text mining",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

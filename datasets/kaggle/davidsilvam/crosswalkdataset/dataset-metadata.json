@@ -1,0 +1,43 @@
+{
+  "id": "davidsilvam/crosswalkdataset",
+  "id_no": 447145,
+  "datasetSlugNullable": "crosswalkdataset",
+  "ownerUserNullable": "davidsilvam",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "crosswalk-dataset",
+  "subtitleNullable": "Dataset for crosswalk classification",
+  "descriptionNullable": "### Context\n\nThis dataset was collected to train an SVM neural network to be shipped to help visually impaired people.\nPaper available in https://doi.org/10.1016/j.micpro.2020.103086\n\n### Content\n\nThis dataset has been divided into 4 classes, each class corresponding to a similar perspective set. The first class are crosswalks viewed from the front, the second and third correspond to the half-lane viewed from left or right, the fourth class is from non-crosswalk images, ie asphalt images, from passing cars and sidewalks. This set of images was extracted from several videos recorded with a resolution of 1280x720 at 30 FPS, in the city of Fortaleza-CE, Brazil during the period with sunlight. The images have the same resolution as the videos, 1280x720.\n\nAbout file 10_FEATURES_M17_CM6b_TH199.csv\n\nExample of the data set used on the embedded platform with the following configuration:\n- Threshold images with T = 199\n- Images resized by decimation with factor M = 17\n- 10 GLCM features selected by complexity analysis.\n- Co-occurrence matrix considering only 6 bits of grayscale images\n\n### Acknowledgements\n\nThis dataset was created by the authors themselves with images obtained by them.\n\n\n### Inspiration\n\nWhat preprocessing techniques can be and what machine learning algorithm can be used to achieve good accuracy and sensitivity results with the lowest possible memory and computation time?",
+  "datasetId": 447145,
+  "datasetSlug": "crosswalkdataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "davidsilvam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 17572,
+  "totalVotes": 18,
+  "totalDownloads": 1379,
+  "title": "crosswalk-dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset for crosswalk classification",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset was collected to train an SVM neural network to be shipped to help visually impaired people.\nPaper available in https://doi.org/10.1016/j.micpro.2020.103086\n\n### Content\n\nThis dataset has been divided into 4 classes, each class corresponding to a similar perspective set. The first class are crosswalks viewed from the front, the second and third correspond to the half-lane viewed from left or right, the fourth class is from non-crosswalk images, ie asphalt images, from passing cars and sidewalks. This set of images was extracted from several videos recorded with a resolution of 1280x720 at 30 FPS, in the city of Fortaleza-CE, Brazil during the period with sunlight. The images have the same resolution as the videos, 1280x720.\n\nAbout file 10_FEATURES_M17_CM6b_TH199.csv\n\nExample of the data set used on the embedded platform with the following configuration:\n- Threshold images with T = 199\n- Images resized by decimation with factor M = 17\n- 10 GLCM features selected by complexity analysis.\n- Co-occurrence matrix considering only 6 bits of grayscale images\n\n### Acknowledgements\n\nThis dataset was created by the authors themselves with images obtained by them.\n\n\n### Inspiration\n\nWhat preprocessing techniques can be and what machine learning algorithm can be used to achieve good accuracy and sensitivity results with the lowest possible memory and computation time?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "law",
+    "computer science",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

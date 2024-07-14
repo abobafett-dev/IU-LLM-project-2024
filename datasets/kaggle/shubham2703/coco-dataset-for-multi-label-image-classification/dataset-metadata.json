@@ -1,0 +1,40 @@
+{
+  "id": "shubham2703/coco-dataset-for-multi-label-image-classification",
+  "id_no": 4833252,
+  "datasetSlugNullable": "coco-dataset-for-multi-label-image-classification",
+  "ownerUserNullable": "shubham2703",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Coco Dataset for Multi-label Image Classification",
+  "subtitleNullable": "Unlocking Diversity: The Coco Dataset for Multi-Label Image Classification",
+  "descriptionNullable": "### Dataset Overview\n\nThis page contains a modified Cocos dataset along with details about the dataset used.\n\n**File Descriptions**\n\n**imgs.zip**\n- **Train:** \ud83d\ude82 This folder contains the training set, which can be split into train/validation data for model training.\n- **Test:** \ud83e\uddea Your trained models should be used to produce predictions on the test set.\n\n**labels.zip**\n- **categories.csv:** \ud83d\udcdd This file lists all the object classes in the dataset, ordered according to the column ordering in the train labels file.\n- **train_labels.csv:** \ud83d\udcca This file contains data regarding which image contains which categories.\n",
+  "datasetId": 4833252,
+  "datasetSlug": "coco-dataset-for-multi-label-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "shubham2703",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 61,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "Coco Dataset for Multi-label Image Classification",
+  "hasTitle": true,
+  "subtitle": "Unlocking Diversity: The Coco Dataset for Multi-Label Image Classification",
+  "hasSubtitle": true,
+  "description": "### Dataset Overview\n\nThis page contains a modified Cocos dataset along with details about the dataset used.\n\n**File Descriptions**\n\n**imgs.zip**\n- **Train:** \ud83d\ude82 This folder contains the training set, which can be split into train/validation data for model training.\n- **Test:** \ud83e\uddea Your trained models should be used to produce predictions on the test set.\n\n**labels.zip**\n- **categories.csv:** \ud83d\udcdd This file lists all the object classes in the dataset, ordered according to the column ordering in the train labels file.\n- **train_labels.csv:** \ud83d\udcca This file contains data regarding which image contains which categories.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

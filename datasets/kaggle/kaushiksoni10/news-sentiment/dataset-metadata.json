@@ -1,0 +1,43 @@
+{
+  "id": "kaushiksoni10/news-sentiment",
+  "id_no": 1204414,
+  "datasetSlugNullable": "news-sentiment",
+  "ownerUserNullable": "kaushiksoni10",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "News sentiment",
+  "subtitleNullable": "News title and headline sentiment from different social media platforms",
+  "descriptionNullable": "### Content\n\nThis data contains news titles and headlines from different sources on different topics. The description of the columns is following;\n\n| Column | DataType | Description |\n| --- | --- |\n| IDLink | str | Unique identifier of the row |\n| Title | str | Title of the news |\n| Headline | str | Headline of the news |\n| Source | str | Newspaper/news-source |\n| Topic | str | News-topic (values : obama, economy, microsoft, palestine) |\n| PublishDate | Timestamp | publish date & time |\n| Facebook | int | facebook rating |\n| GooglePlus | int | google plus rating |\n| LinkedIn | int | linkedin rating |\n\n\n### Inspiration\n\nOne of the main task that can be performed with this dataset is to perform Setiment Analysis. Find the Sentiment scores for each title and headline of the test data applying Regression Analysis.",
+  "datasetId": 1204414,
+  "datasetSlug": "news-sentiment",
+  "hasDatasetSlug": true,
+  "ownerUser": "kaushiksoni10",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 1999,
+  "totalVotes": 1,
+  "totalDownloads": 126,
+  "title": "News sentiment",
+  "hasTitle": true,
+  "subtitle": "News title and headline sentiment from different social media platforms",
+  "hasSubtitle": true,
+  "description": "### Content\n\nThis data contains news titles and headlines from different sources on different topics. The description of the columns is following;\n\n| Column | DataType | Description |\n| --- | --- |\n| IDLink | str | Unique identifier of the row |\n| Title | str | Title of the news |\n| Headline | str | Headline of the news |\n| Source | str | Newspaper/news-source |\n| Topic | str | News-topic (values : obama, economy, microsoft, palestine) |\n| PublishDate | Timestamp | publish date & time |\n| Facebook | int | facebook rating |\n| GooglePlus | int | google plus rating |\n| LinkedIn | int | linkedin rating |\n\n\n### Inspiration\n\nOne of the main task that can be performed with this dataset is to perform Setiment Analysis. Find the Sentiment scores for each title and headline of the test data applying Regression Analysis.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "nlp",
+    "text",
+    "regression",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

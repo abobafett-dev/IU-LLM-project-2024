@@ -1,0 +1,42 @@
+{
+  "id": "francescopettini/meteorological-data-milan",
+  "id_no": 1760835,
+  "datasetSlugNullable": "meteorological-data-milan",
+  "ownerUserNullable": "francescopettini",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Meteorological Data Milan",
+  "subtitleNullable": "Meteorological Data from the city of Milan during the 2020 summer",
+  "descriptionNullable": "### Content\n\nMeteorological Data Milan from 2020/07/24 to 2020/09/21 (hourly average sampling) containing:\n-Temperature\n-Relative Humidity\n-Rain \n-Wind velocity \n\n\n### Acknowledgements\n\nAll data was made available and downloaded from the ARPA Lombardia website: https://www.arpalombardia.it/Pages/Meteorologia/Richiesta-dati-misurati.aspx\n\n\n\n",
+  "datasetId": 1760835,
+  "datasetSlug": "meteorological-data-milan",
+  "hasDatasetSlug": true,
+  "ownerUser": "francescopettini",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 1087,
+  "totalVotes": 8,
+  "totalDownloads": 68,
+  "title": "Meteorological Data Milan",
+  "hasTitle": true,
+  "subtitle": "Meteorological Data from the city of Milan during the 2020 summer",
+  "hasSubtitle": true,
+  "description": "### Content\n\nMeteorological Data Milan from 2020/07/24 to 2020/09/21 (hourly average sampling) containing:\n-Temperature\n-Relative Humidity\n-Rain \n-Wind velocity \n\n\n### Acknowledgements\n\nAll data was made available and downloaded from the ARPA Lombardia website: https://www.arpalombardia.it/Pages/Meteorologia/Richiesta-dati-misurati.aspx\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "europe",
+    "environment",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

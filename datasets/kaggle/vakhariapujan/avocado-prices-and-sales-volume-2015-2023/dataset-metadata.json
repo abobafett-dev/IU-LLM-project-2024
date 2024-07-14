@@ -1,0 +1,43 @@
+{
+  "id": "vakhariapujan/avocado-prices-and-sales-volume-2015-2023",
+  "id_no": 4291502,
+  "datasetSlugNullable": "avocado-prices-and-sales-volume-2015-2023",
+  "ownerUserNullable": "vakhariapujan",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Avocado Prices and Sales Volume 2015-2023",
+  "subtitleNullable": "Avocado data updated till December 3, 2023",
+  "descriptionNullable": "Data provided here was collected from Hass Avocado Board - Category Data. \n\nThis is an updated version of dataset already introduced to Kaggle. \n\nHere is the [link](https://www.kaggle.com/datasets/neuromusic/avocado-prices) to the very first dataset uploaded by [Justin Kiggins](https://www.kaggle.com/neuromusic). And [another one ](https://www.kaggle.com/datasets/valentinjoseph/avocado-sales-20152021-us-centric) by [Valentin Joseph](https://www.kaggle.com/valentinjoseph), an update aggregating data till 2021. \n\n*Note regarding the regions mentioned in dataset *\n\n\"region\" includes both regions and key locations which are cities or sub-regions. The values for locations do not add up to that of regions. The following are regions, as described [here](https://cran.r-project.org/web/packages/avocado/vignettes/a_intro.html) (another description of the dataset)\n\n- California,\n- West,\n- Plains,\n- South Central,\n- Southeast,\n- Midsouth,\n- Great Lakes,\n- Northeast.\n\n\n\n",
+  "datasetId": 4291502,
+  "datasetSlug": "avocado-prices-and-sales-volume-2015-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "vakhariapujan",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7567,
+  "totalVotes": 31,
+  "totalDownloads": 1674,
+  "title": "Avocado Prices and Sales Volume 2015-2023",
+  "hasTitle": true,
+  "subtitle": "Avocado data updated till December 3, 2023",
+  "hasSubtitle": true,
+  "description": "Data provided here was collected from Hass Avocado Board - Category Data. \n\nThis is an updated version of dataset already introduced to Kaggle. \n\nHere is the [link](https://www.kaggle.com/datasets/neuromusic/avocado-prices) to the very first dataset uploaded by [Justin Kiggins](https://www.kaggle.com/neuromusic). And [another one ](https://www.kaggle.com/datasets/valentinjoseph/avocado-sales-20152021-us-centric) by [Valentin Joseph](https://www.kaggle.com/valentinjoseph), an update aggregating data till 2021. \n\n*Note regarding the regions mentioned in dataset *\n\n\"region\" includes both regions and key locations which are cities or sub-regions. The values for locations do not add up to that of regions. The following are regions, as described [here](https://cran.r-project.org/web/packages/avocado/vignettes/a_intro.html) (another description of the dataset)\n\n- California,\n- West,\n- Plains,\n- South Central,\n- Southeast,\n- Midsouth,\n- Great Lakes,\n- Northeast.\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "data visualization",
+    "data analytics",
+    "food",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

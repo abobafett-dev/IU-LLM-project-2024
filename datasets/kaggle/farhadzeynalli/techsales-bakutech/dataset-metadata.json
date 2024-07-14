@@ -1,0 +1,41 @@
+{
+  "id": "farhadzeynalli/techsales-bakutech",
+  "id_no": 3105401,
+  "datasetSlugNullable": "techsales-bakutech",
+  "ownerUserNullable": "farhadzeynalli",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "TechSales_Bakutech",
+  "subtitleNullable": " A Comprehensive Dataset for Bakutech",
+  "descriptionNullable": "This dataset consists of .csv and .pbix files that contain Bakutech sales information. In pbix file, the relational database was built, and various DAX formulas were applied to visualize data, including gross profit margin, net profit margin, most popular product, previous month's order, return on assets, return on equity, total revenue, total quantity sold, and total orders.\n\n",
+  "datasetId": 3105401,
+  "datasetSlug": "techsales-bakutech",
+  "hasDatasetSlug": true,
+  "ownerUser": "farhadzeynalli",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 927,
+  "totalVotes": 2,
+  "totalDownloads": 221,
+  "title": "TechSales_Bakutech",
+  "hasTitle": true,
+  "subtitle": " A Comprehensive Dataset for Bakutech",
+  "hasSubtitle": true,
+  "description": "This dataset consists of .csv and .pbix files that contain Bakutech sales information. In pbix file, the relational database was built, and various DAX formulas were applied to visualize data, including gross profit margin, net profit margin, most popular product, previous month's order, return on assets, return on equity, total revenue, total quantity sold, and total orders.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "data visualization",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "emreokcular/turkish-movies",
+  "id_no": 2857588,
+  "datasetSlugNullable": "turkish-movies",
+  "ownerUserNullable": "emreokcular",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Turkish Movies",
+  "subtitleNullable": "Detailed dataset of 8000+ Turkish movies including rating, cast, genres, etc.",
+  "descriptionNullable": "Detailed dataset of 8000+ Turkish movies including reviews, rating, cast, genres, plot, etc.\n\nA great resource for many ML tasks, including rating prediction, recommendation systems, and NLP with reviews.\n\nCheck [this dataset](https://www.kaggle.com/datasets/emreokcular/turkish-movies-with-posters) for the same dataset with full-size movie posters.\n\n---\n\nT\u00fcrk filmleri veri seti. IMDb web sitesinde toplanm\u0131\u015ft\u0131r. Yorumlar, reyting, oyuncular, t\u00fcr, \u00f6zet, vb. gibi bilgiler i\u00e7erir.",
+  "datasetId": 2857588,
+  "datasetSlug": "turkish-movies",
+  "hasDatasetSlug": true,
+  "ownerUser": "emreokcular",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 678,
+  "totalVotes": 8,
+  "totalDownloads": 71,
+  "title": "Turkish Movies",
+  "hasTitle": true,
+  "subtitle": "Detailed dataset of 8000+ Turkish movies including rating, cast, genres, etc.",
+  "hasSubtitle": true,
+  "description": "Detailed dataset of 8000+ Turkish movies including reviews, rating, cast, genres, plot, etc.\n\nA great resource for many ML tasks, including rating prediction, recommendation systems, and NLP with reviews.\n\nCheck [this dataset](https://www.kaggle.com/datasets/emreokcular/turkish-movies-with-posters) for the same dataset with full-size movie posters.\n\n---\n\nT\u00fcrk filmleri veri seti. IMDb web sitesinde toplanm\u0131\u015ft\u0131r. Yorumlar, reyting, oyuncular, t\u00fcr, \u00f6zet, vb. gibi bilgiler i\u00e7erir.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "arts and entertainment",
+    "movies and tv shows",
+    "tabular",
+    "turkish"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

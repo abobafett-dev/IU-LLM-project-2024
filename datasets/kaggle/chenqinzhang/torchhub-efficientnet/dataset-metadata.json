@@ -1,0 +1,44 @@
+{
+  "id": "chenqinzhang/torchhub-efficientnet",
+  "id_no": 2135862,
+  "datasetSlugNullable": "torchhub-efficientnet",
+  "ownerUserNullable": "chenqinzhang",
+  "usabilityRatingNullable": 0.25,
+  "titleNullable": "torchhub_efficientnet",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 2135862,
+  "datasetSlug": "torchhub-efficientnet",
+  "hasDatasetSlug": true,
+  "ownerUser": "chenqinzhang",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.25,
+  "hasUsabilityRating": true,
+  "totalViews": 322,
+  "totalVotes": 1,
+  "totalDownloads": 12,
+  "title": "torchhub_efficientnet",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "pre-trained model"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "kevenr",
+      "role": "reader"
+    }
+  ],
+  "data": []
+}

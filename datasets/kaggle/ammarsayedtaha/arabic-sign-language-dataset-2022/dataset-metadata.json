@@ -1,0 +1,44 @@
+{
+  "id": "ammarsayedtaha/arabic-sign-language-dataset-2022",
+  "id_no": 2110872,
+  "datasetSlugNullable": "arabic-sign-language-dataset-2022",
+  "ownerUserNullable": "ammarsayedtaha",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Arabic Sign Language Dataset 2022",
+  "subtitleNullable": "Build Academic research or practice your computer vision skills with ArSL data",
+  "descriptionNullable": "**Arabic Sign Language Recognition Letters Dataset**\n\n![Source: ArSL Letters](https://i.pinimg.com/originals/e9/a9/93/e9a993a246e099cda75db9116447a281.png)\n\nThis dataset returns to Munkhjargal Gochoo the contributor and here is a quote about the dataset description\n\nWe present our collection and annotated Arabic Sign Language Letters Dataset (ArSL21L) consisting of 14202 images of 32 letter signs with various backgrounds collected from 50 people. We benchmarked our ArSL21L dataset on state-of-the-art object detection models, i.e., 4 versions of YOLOv5. Among the models, YOLOv5l achieved the best result with a COCOCOmAP of 0.83. Moreover, we provide comparison results of the classification task between the ArSLArSL2018 dataset, the only Arabic sign language letter dataset for the classification task, and our dataset by running the classification task in-house short video. The results revealed that the model trained on our dataset has a superior performance over the model trained on ArSL2018.\n\nFor more info about the dataset source visit: https://data.mendeley.com/datasets/f63xhm286w/1",
+  "datasetId": 2110872,
+  "datasetSlug": "arabic-sign-language-dataset-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "ammarsayedtaha",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 9032,
+  "totalVotes": 22,
+  "totalDownloads": 861,
+  "title": "Arabic Sign Language Dataset 2022",
+  "hasTitle": true,
+  "subtitle": "Build Academic research or practice your computer vision skills with ArSL data",
+  "hasSubtitle": true,
+  "description": "**Arabic Sign Language Recognition Letters Dataset**\n\n![Source: ArSL Letters](https://i.pinimg.com/originals/e9/a9/93/e9a993a246e099cda75db9116447a281.png)\n\nThis dataset returns to Munkhjargal Gochoo the contributor and here is a quote about the dataset description\n\nWe present our collection and annotated Arabic Sign Language Letters Dataset (ArSL21L) consisting of 14202 images of 32 letter signs with various backgrounds collected from 50 people. We benchmarked our ArSL21L dataset on state-of-the-art object detection models, i.e., 4 versions of YOLOv5. Among the models, YOLOv5l achieved the best result with a COCOCOmAP of 0.83. Moreover, we provide comparison results of the classification task between the ArSLArSL2018 dataset, the only Arabic sign language letter dataset for the classification task, and our dataset by running the classification task in-house short video. The results revealed that the model trained on our dataset has a superior performance over the model trained on ArSL2018.\n\nFor more info about the dataset source visit: https://data.mendeley.com/datasets/f63xhm286w/1",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "education",
+    "computer vision",
+    "classification",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

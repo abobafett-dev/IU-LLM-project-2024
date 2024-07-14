@@ -1,0 +1,43 @@
+{
+  "id": "ahsanaseer/top-rated-tmdb-movies-10k",
+  "id_no": 2367100,
+  "datasetSlugNullable": "top-rated-tmdb-movies-10k",
+  "ownerUserNullable": "ahsanaseer",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "TMDB Movies Dataset",
+  "subtitleNullable": "Dataset of 10k top rated TMDB movies for text preprocessing (NLP)",
+  "descriptionNullable": "# **Context**\nThis is a data set of 10k top-rated TMDB movies till 26-July-2022. \n\n# **Content**\nThe Dataset contains the following things:\n1. ID: Movie ID number on the website.\n2. title: Movie name\n3. genre: Movie genre (crime, adventure, etc.)\n4. original_language: Original language in which the movie is released\n5. overview: Summary of the movie\n6. popularity: Movie Popularity\n7. release_date: Movie release date\n8. vote_average: Movie vote average\n9. vote_count: Movie vote count\n\n# **Inspiration**\nThis was assembled to perform an extensive **Text Preprocessing/cleansing (NLP)** on Movie Data. But this can also be used in Building Content-Based and Collaborative Filtering Based **Recommendation Engines**.",
+  "datasetId": 2367100,
+  "datasetSlug": "top-rated-tmdb-movies-10k",
+  "hasDatasetSlug": true,
+  "ownerUser": "ahsanaseer",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 11564,
+  "totalVotes": 15,
+  "totalDownloads": 3219,
+  "title": "TMDB Movies Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset of 10k top rated TMDB movies for text preprocessing (NLP)",
+  "hasSubtitle": true,
+  "description": "# **Context**\nThis is a data set of 10k top-rated TMDB movies till 26-July-2022. \n\n# **Content**\nThe Dataset contains the following things:\n1. ID: Movie ID number on the website.\n2. title: Movie name\n3. genre: Movie genre (crime, adventure, etc.)\n4. original_language: Original language in which the movie is released\n5. overview: Summary of the movie\n6. popularity: Movie Popularity\n7. release_date: Movie release date\n8. vote_average: Movie vote average\n9. vote_count: Movie vote count\n\n# **Inspiration**\nThis was assembled to perform an extensive **Text Preprocessing/cleansing (NLP)** on Movie Data. But this can also be used in Building Content-Based and Collaborative Filtering Based **Recommendation Engines**.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "intermediate",
+    "nlp",
+    "text",
+    "nltk"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

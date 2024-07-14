@@ -1,0 +1,39 @@
+{
+  "id": "yash92328/ai4mars-terrainaware-autonomous-driving-on-mars",
+  "id_no": 2680112,
+  "datasetSlugNullable": "ai4mars-terrainaware-autonomous-driving-on-mars",
+  "ownerUserNullable": "yash92328",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "AI4MARS: Terrain-Aware Autonomous Driving on Mars",
+  "subtitleNullable": "Mars Terrain Image Data for Land Segmentation and Feature Detection",
+  "descriptionNullable": "This dataset was built for training and validating terrain classification models for Mars, which may be useful in future autonomous rover efforts. It consists of ~326K semantic segmentation full image labels on 35K images from Curiosity, Opportunity, and Spirit rovers, collected through crowdsourcing. Each image was labeled by 10 people to ensure greater quality and agreement of the crowdsourced labels. It also includes ~1.5K validation labels annotated by the rover planners and scientists from NASA\u2019s MSL (Mars Science Laboratory) mission, which operates the Curiosity rover, and MER (Mars Exploration Rovers) mission, which operated the Spirit and Opportunity rovers.\n\nSource: https://data.nasa.gov/Space-Science/AI4MARS-A-Dataset-for-Terrain-Aware-Autonomous-Dri/cykx-2qix\nPaper: https://ieeexplore.ieee.org/document/9523149",
+  "datasetId": 2680112,
+  "datasetSlug": "ai4mars-terrainaware-autonomous-driving-on-mars",
+  "hasDatasetSlug": true,
+  "ownerUser": "yash92328",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2700,
+  "totalVotes": 6,
+  "totalDownloads": 310,
+  "title": "AI4MARS: Terrain-Aware Autonomous Driving on Mars",
+  "hasTitle": true,
+  "subtitle": "Mars Terrain Image Data for Land Segmentation and Feature Detection",
+  "hasSubtitle": true,
+  "description": "This dataset was built for training and validating terrain classification models for Mars, which may be useful in future autonomous rover efforts. It consists of ~326K semantic segmentation full image labels on 35K images from Curiosity, Opportunity, and Spirit rovers, collected through crowdsourcing. Each image was labeled by 10 people to ensure greater quality and agreement of the crowdsourced labels. It also includes ~1.5K validation labels annotated by the rover planners and scientists from NASA\u2019s MSL (Mars Science Laboratory) mission, which operates the Curiosity rover, and MER (Mars Exploration Rovers) mission, which operated the Spirit and Opportunity rovers.\n\nSource: https://data.nasa.gov/Space-Science/AI4MARS-A-Dataset-for-Terrain-Aware-Autonomous-Dri/cykx-2qix\nPaper: https://ieeexplore.ieee.org/document/9523149",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "science and technology"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "mostafamahmoud2020/mercedes-benz-vehicle-performance",
+  "id_no": 3536207,
+  "datasetSlugNullable": "mercedes-benz-vehicle-performance",
+  "ownerUserNullable": "mostafamahmoud2020",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Mercedes-Benz Vehicle Performance",
+  "subtitleNullable": "Exploring the Performance, Pricing, and Customer Satisfaction of Mercedes-Benz ",
+  "descriptionNullable": "The Mercedes-Benz Vehicle Performance and Features Dataset is a comprehensive collection of data that provides a detailed overview of various Mercedes-Benz vehicles' performance, pricing, and customer satisfaction.\n\nThe dataset includes several important attributes such as the name of the vehicle, which provides information on the model and make of the car. The mileage column records the total distance that the car has travelled, which is a critical factor in determining its overall value. The dealer name column provides information on the name of the dealer selling the vehicle, which can provide insights into the quality of service provided by the dealer.\n\nThe dataset also includes two important columns related to customer satisfaction, namely the rating and rating count columns. The rating column provides the average rating of the vehicle based on customer reviews, while the rating count column records the total number of ratings received for the vehicle. These columns can be used to gauge the popularity and satisfaction levels of the vehicle among customers.\n",
+  "datasetId": 3536207,
+  "datasetSlug": "mercedes-benz-vehicle-performance",
+  "hasDatasetSlug": true,
+  "ownerUser": "mostafamahmoud2020",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 556,
+  "totalVotes": 3,
+  "totalDownloads": 104,
+  "title": "Mercedes-Benz Vehicle Performance",
+  "hasTitle": true,
+  "subtitle": "Exploring the Performance, Pricing, and Customer Satisfaction of Mercedes-Benz ",
+  "hasSubtitle": true,
+  "description": "The Mercedes-Benz Vehicle Performance and Features Dataset is a comprehensive collection of data that provides a detailed overview of various Mercedes-Benz vehicles' performance, pricing, and customer satisfaction.\n\nThe dataset includes several important attributes such as the name of the vehicle, which provides information on the model and make of the car. The mileage column records the total distance that the car has travelled, which is a critical factor in determining its overall value. The dealer name column provides information on the name of the dealer selling the vehicle, which can provide insights into the quality of service provided by the dealer.\n\nThe dataset also includes two important columns related to customer satisfaction, namely the rating and rating count columns. The rating column provides the average rating of the vehicle based on customer reviews, while the rating count column records the total number of ratings received for the vehicle. These columns can be used to gauge the popularity and satisfaction levels of the vehicle among customers.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "md98ashraf/fake-news",
+  "id_no": 3167510,
+  "datasetSlugNullable": "fake-news",
+  "ownerUserNullable": "md98ashraf",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Fake-News",
+  "subtitleNullable": "This dataset is a collection of different categories fake news.",
+  "descriptionNullable": "The Dataset contains fake news from different categories and from different sources. The data mostly contains the news from 2016 to 2019.\nThe dataset has columns.\n1.URLs: - These columns have the URL for the news article.\n2. Heading:- contains the news article heading.\n3.  Body:- contains the news article.\n4. Label:- contains the labels for Fake or Real news.(0-for fake news and 1-for real news)\n",
+  "datasetId": 3167510,
+  "datasetSlug": "fake-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "md98ashraf",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 263,
+  "totalVotes": 3,
+  "totalDownloads": 32,
+  "title": "Fake-News",
+  "hasTitle": true,
+  "subtitle": "This dataset is a collection of different categories fake news.",
+  "hasSubtitle": true,
+  "description": "The Dataset contains fake news from different categories and from different sources. The data mostly contains the news from 2016 to 2019.\nThe dataset has columns.\n1.URLs: - These columns have the URL for the news article.\n2. Heading:- contains the news article heading.\n3.  Body:- contains the news article.\n4. Label:- contains the labels for Fake or Real news.(0-for fake news and 1-for real news)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "md2ashraf",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

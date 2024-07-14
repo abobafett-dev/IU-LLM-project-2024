@@ -1,0 +1,39 @@
+{
+  "id": "prajitdatta/data-stories-of-us-airlines",
+  "id_no": 953,
+  "datasetSlugNullable": "data-stories-of-us-airlines",
+  "ownerUserNullable": "prajitdatta",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Data Stories of US Airlines, 1987-2008",
+  "subtitleNullable": "Fight arrival and departure details for all commercial flights",
+  "descriptionNullable": "**About the Data**\n------------------\n\nThe data used in this project is real and is based on the collection of over 20 years. The total\nnumber of record in this dataset is roughly around 120 million rows and the size of the data\nis approximately 12GB. The data consists of flight arrival and departure details for all\ncommercial flights within the USA, from October 1987 to April 2008. This is a large dataset.\nThere are around 29 attributes.\n\n**How to get the data?**\nThe data originally comes from [http://stat-computing.org/dataexpo/2009/the-data.html][1]\n\nYou can download the data for each year by clicking the appropriate link in the above\nwebsite (Remember the size is going to be more than 12GB).\n\n**(i) Problem Statement**\n(a)    Check the skewness of Distance travelled by airlines.\n(b)\tCalculate the mean, median and quantiles of the distance travelled by US Airlines (US). \n(c)\tCheck the standard deviation of distance travelled by American Airlines (AA).\n(d)\tDraw a boxplot of  UniqueCarrier with Distance.\n(e)\tDraw the direction of relationship between ArrDelay and DepDelay by drawing a scatterplot.\n\n\n**(ii) Problem Statement**\n\n\n(a)\tWhat is the probability that a flight which is landing/taking off is \u201cWN\u201d Airlines (marginal probability)\n(b)\tWhat is the probability that a flight which is landing/taking off is either \u201cWN\u201d or \u201cAA\u201d Airlines (disjoint events)\n(c)\tWhat is the joint probability that a flight is both \u201cWN\u201d and travels less than 600 miles (joint probability)\n(d)\tWhat is the conditional probability that the flight travels less than 2500 miles given that the flight is \u201cAA\u201d Airlines (conditional probability)\n(e)\tWhat is the joint probability of a flight getting cancelled and is supposed to travel less than 2500 miles given that the flight is \u201cAA\u201d Airlines\t\t\t                                     (joint + conditional probability)\n\n\n\n\n**(iii) Problem Statement**\n\n\n(a)\tSuppose arrival delays of flights belonging to \u201cAA\u201d are normally distributed with mean 15 minutes and standard deviation 3 minutes. If the \u201cAA\u201d plans to announce a scheme where it will give 50% cash back if their flights are delayed by 20 minutes, how much percentage of the trips \u201cAA\u201d is supposed to loose this money. (Hint: pnorm)\n(b)\tAssume that 65% of flights are diverted due to bad weather through the Weather System. What is the probability that in a random sample of 10 flights, 6 are diverted through the Weather System. (Hint: dbinorm)\n(c)\tDo linear regression between the Arrival Delay and Departure Delay of the flights.\n(d)\tFind out the confidence interval of the fitted linear regression line.\n(e)\tPerform a multiple linear regression between the Arrival Delay along with the Departure Delay and Distance travelled by flights.\n\n\n  [1]: http://stat-computing.org/dataexpo/2009/the-data.html",
+  "datasetId": 953,
+  "datasetSlug": "data-stories-of-us-airlines",
+  "hasDatasetSlug": true,
+  "ownerUser": "prajitdatta",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 25108,
+  "totalVotes": 34,
+  "totalDownloads": 1788,
+  "title": "Data Stories of US Airlines, 1987-2008",
+  "hasTitle": true,
+  "subtitle": "Fight arrival and departure details for all commercial flights",
+  "hasSubtitle": true,
+  "description": "**About the Data**\n------------------\n\nThe data used in this project is real and is based on the collection of over 20 years. The total\nnumber of record in this dataset is roughly around 120 million rows and the size of the data\nis approximately 12GB. The data consists of flight arrival and departure details for all\ncommercial flights within the USA, from October 1987 to April 2008. This is a large dataset.\nThere are around 29 attributes.\n\n**How to get the data?**\nThe data originally comes from [http://stat-computing.org/dataexpo/2009/the-data.html][1]\n\nYou can download the data for each year by clicking the appropriate link in the above\nwebsite (Remember the size is going to be more than 12GB).\n\n**(i) Problem Statement**\n(a)    Check the skewness of Distance travelled by airlines.\n(b)\tCalculate the mean, median and quantiles of the distance travelled by US Airlines (US). \n(c)\tCheck the standard deviation of distance travelled by American Airlines (AA).\n(d)\tDraw a boxplot of  UniqueCarrier with Distance.\n(e)\tDraw the direction of relationship between ArrDelay and DepDelay by drawing a scatterplot.\n\n\n**(ii) Problem Statement**\n\n\n(a)\tWhat is the probability that a flight which is landing/taking off is \u201cWN\u201d Airlines (marginal probability)\n(b)\tWhat is the probability that a flight which is landing/taking off is either \u201cWN\u201d or \u201cAA\u201d Airlines (disjoint events)\n(c)\tWhat is the joint probability that a flight is both \u201cWN\u201d and travels less than 600 miles (joint probability)\n(d)\tWhat is the conditional probability that the flight travels less than 2500 miles given that the flight is \u201cAA\u201d Airlines (conditional probability)\n(e)\tWhat is the joint probability of a flight getting cancelled and is supposed to travel less than 2500 miles given that the flight is \u201cAA\u201d Airlines\t\t\t                                     (joint + conditional probability)\n\n\n\n\n**(iii) Problem Statement**\n\n\n(a)\tSuppose arrival delays of flights belonging to \u201cAA\u201d are normally distributed with mean 15 minutes and standard deviation 3 minutes. If the \u201cAA\u201d plans to announce a scheme where it will give 50% cash back if their flights are delayed by 20 minutes, how much percentage of the trips \u201cAA\u201d is supposed to loose this money. (Hint: pnorm)\n(b)\tAssume that 65% of flights are diverted due to bad weather through the Weather System. What is the probability that in a random sample of 10 flights, 6 are diverted through the Weather System. (Hint: dbinorm)\n(c)\tDo linear regression between the Arrival Delay and Departure Delay of the flights.\n(d)\tFind out the confidence interval of the fitted linear regression line.\n(e)\tPerform a multiple linear regression between the Arrival Delay along with the Departure Delay and Distance travelled by flights.\n\n\n  [1]: http://stat-computing.org/dataexpo/2009/the-data.html",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "aviation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

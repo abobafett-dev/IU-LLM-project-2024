@@ -1,0 +1,43 @@
+{
+  "id": "daniboy370/competitions-shakeup",
+  "id_no": 895979,
+  "datasetSlugNullable": "competitions-shakeup",
+  "ownerUserNullable": "daniboy370",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Competitions Shake-up ",
+  "subtitleNullable": "Datasets of contestants re-ranking during Kaggle competitions",
+  "descriptionNullable": "### Shake-what ?!\n\n\nThe **Shake** phenomenon occurs when the competition is shifting between two different datasets :\n\n$$\n\\text{Public test set} \\ \\Rightarrow \\ \\text{Private test set} \\quad \\Leftrightarrow \\quad LB-\\text{public} \\ \\Rightarrow \\ LB-\\text{private}\n$$\n\nThe private test set that so far was unavailable becomes available, and thus the models scores are re-calculated. This re-evaluation elicits a respective **re-ranking** of the contestants in the competition. The shake allows participants to assess the severity of their overfitting to the public dataset, and act to improve their model until the deadline.\n\nUnable to find a uniform conventional term for this mechanism, I will use my common sense to define the following intuition :\n\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src=\"https://github.com/Daniboy370/Uploads/blob/master/Kaggle-shake-ups/images/latex.png?raw=true\" width=\"550\">\n\nFrom the [**starter kernel**](https://www.kaggle.com/daniboy370/shake-up-causes-mechanism-and-predictability) :\n\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <img src=\"https://github.com/Daniboy370/Uploads/blob/master/Kaggle-shake-ups/vids/shakeup_VID.gif?raw=true\" width=\"625\">\n\n### Content\nSeven datasets of competitions which were scraped from Kaggle :\n\nCompetition | Name of file\n--- | ---\n[**Elo Merchant Category Recommendation**](https://www.kaggle.com/c/elo-merchant-category-recommendation) | *df_{Elo}*\n[**Human Protein Atlas Image Classification**](https://www.kaggle.com/c/human-protein-atlas-image-classification) | *df_{Protein}*\n[**Humpback Whale Identification**](https://www.kaggle.com/c/humpback-whale-identification) | *df_{Humpback}*\n[**Microsoft Malware Prediction**](https://www.kaggle.com/c/microsoft-malware-prediction) | *df_{Microsoft}*\n[**Quora Insincere Questions Classification**](https://www.kaggle.com/c/quora-insincere-questions-classification) | *df_{Quora}*\n[**TGS Salt Identification Challenge**](https://www.kaggle.com/c/tgs-salt-identification-challenge) | *df_{TGS}*\n[**VSB Power Line Fault Detection**](https://www.kaggle.com/c/vsb-power-line-fault-detection) | *df_{VSB}*\n\nAs an example, consider the following dataframe from the [**Quora**](https://www.kaggle.com/c/quora-insincere-questions-classification) competition :\nTeam Name | Rank-private | Rank-public | Shake | Score-private | Score-public\n--- | ---\n`The Zoo` |1|7|6|`0.71323`|`0.71123`\n...| ...| ...| ...| ...| ...\n`D.J. Trump`|1401|65|-1336|`0.000`|`0.70573`\n\nI encourage everybody to investigate thoroughly the dataset in sought of interesting findings !\n\n$$ \\text{Enjoy !}$$",
+  "datasetId": 895979,
+  "datasetSlug": "competitions-shakeup",
+  "hasDatasetSlug": true,
+  "ownerUser": "daniboy370",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3935,
+  "totalVotes": 18,
+  "totalDownloads": 151,
+  "title": "Competitions Shake-up ",
+  "hasTitle": true,
+  "subtitle": "Datasets of contestants re-ranking during Kaggle competitions",
+  "hasSubtitle": true,
+  "description": "### Shake-what ?!\n\n\nThe **Shake** phenomenon occurs when the competition is shifting between two different datasets :\n\n$$\n\\text{Public test set} \\ \\Rightarrow \\ \\text{Private test set} \\quad \\Leftrightarrow \\quad LB-\\text{public} \\ \\Rightarrow \\ LB-\\text{private}\n$$\n\nThe private test set that so far was unavailable becomes available, and thus the models scores are re-calculated. This re-evaluation elicits a respective **re-ranking** of the contestants in the competition. The shake allows participants to assess the severity of their overfitting to the public dataset, and act to improve their model until the deadline.\n\nUnable to find a uniform conventional term for this mechanism, I will use my common sense to define the following intuition :\n\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src=\"https://github.com/Daniboy370/Uploads/blob/master/Kaggle-shake-ups/images/latex.png?raw=true\" width=\"550\">\n\nFrom the [**starter kernel**](https://www.kaggle.com/daniboy370/shake-up-causes-mechanism-and-predictability) :\n\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <img src=\"https://github.com/Daniboy370/Uploads/blob/master/Kaggle-shake-ups/vids/shakeup_VID.gif?raw=true\" width=\"625\">\n\n### Content\nSeven datasets of competitions which were scraped from Kaggle :\n\nCompetition | Name of file\n--- | ---\n[**Elo Merchant Category Recommendation**](https://www.kaggle.com/c/elo-merchant-category-recommendation) | *df_{Elo}*\n[**Human Protein Atlas Image Classification**](https://www.kaggle.com/c/human-protein-atlas-image-classification) | *df_{Protein}*\n[**Humpback Whale Identification**](https://www.kaggle.com/c/humpback-whale-identification) | *df_{Humpback}*\n[**Microsoft Malware Prediction**](https://www.kaggle.com/c/microsoft-malware-prediction) | *df_{Microsoft}*\n[**Quora Insincere Questions Classification**](https://www.kaggle.com/c/quora-insincere-questions-classification) | *df_{Quora}*\n[**TGS Salt Identification Challenge**](https://www.kaggle.com/c/tgs-salt-identification-challenge) | *df_{TGS}*\n[**VSB Power Line Fault Detection**](https://www.kaggle.com/c/vsb-power-line-fault-detection) | *df_{VSB}*\n\nAs an example, consider the following dataframe from the [**Quora**](https://www.kaggle.com/c/quora-insincere-questions-classification) competition :\nTeam Name | Rank-private | Rank-public | Shake | Score-private | Score-public\n--- | ---\n`The Zoo` |1|7|6|`0.71323`|`0.71123`\n...| ...| ...| ...| ...| ...\n`D.J. Trump`|1401|65|-1336|`0.000`|`0.70573`\n\nI encourage everybody to investigate thoroughly the dataset in sought of interesting findings !\n\n$$ \\text{Enjoy !}$$",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "computer science",
+    "internet",
+    "tabular",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

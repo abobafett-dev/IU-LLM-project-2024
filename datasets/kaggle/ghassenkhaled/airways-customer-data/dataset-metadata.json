@@ -1,0 +1,43 @@
+{
+  "id": "ghassenkhaled/airways-customer-data",
+  "id_no": 2914207,
+  "datasetSlugNullable": "airways-customer-data",
+  "ownerUserNullable": "ghassenkhaled",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Airways_customer_data",
+  "subtitleNullable": "Build a predictive model to understand factors that influence buying behaviour",
+  "descriptionNullable": "##### Predicting customer buying behaviour\n\nExplore and prepare the dataset\nFirst, spend some time exploring the dataset  to understand the different columns and some basic statistics of the dataset. Then, you should consider how to prepare the dataset for a predictive model. You should think about any new features you want to create in order to make your model even better. \n",
+  "datasetId": 2914207,
+  "datasetSlug": "airways-customer-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "ghassenkhaled",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7730,
+  "totalVotes": 17,
+  "totalDownloads": 864,
+  "title": "Airways_customer_data",
+  "hasTitle": true,
+  "subtitle": "Build a predictive model to understand factors that influence buying behaviour",
+  "hasSubtitle": true,
+  "description": "##### Predicting customer buying behaviour\n\nExplore and prepare the dataset\nFirst, spend some time exploring the dataset  to understand the different columns and some basic statistics of the dataset. Then, you should consider how to prepare the dataset for a predictive model. You should think about any new features you want to create in order to make your model even better. \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "data visualization",
+    "data analytics",
+    "classification",
+    "feature extraction"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

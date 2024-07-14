@@ -1,0 +1,43 @@
+{
+  "id": "vencerlanz09/pharmaceutical-drugs-and-vitamins-synthetic-images",
+  "id_no": 2414134,
+  "datasetSlugNullable": "pharmaceutical-drugs-and-vitamins-synthetic-images",
+  "ownerUserNullable": "vencerlanz09",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Pharmaceutical Drugs and Vitamins Synthetic Images",
+  "subtitleNullable": "Synthetic Images of Common Pharmaceutical Drugs found in the Philippines",
+  "descriptionNullable": "## Overview\nThe dataset includes images of popular pharmaceutical drugs and vitamins in the `Philippines`. This is dataset can be used for classifying drug images using CNN and transfer learning. Currently, there are ten available classes of pill images.\n\n## Note\n**Important Note:** This dataset is not a part of a research study or peer-reviewed article that has been heavily reviewed and lawfully accepted by several medical institutions. The dataset was not reviewed by any Pharmaceutical authority or any practitioner that is knowledgeable with the field. The use of the dataset is encouraged for educational purposes only as it may impose ethical problems or may cause harm for others if improperly utilized. It is advised to not use this dataset for your own machine learning applications or services without prior peer-review by an expert in the field of medicine or any law making authority that is responsible for the ethical use of medical datasets. Please take this into consideration.",
+  "datasetId": 2414134,
+  "datasetSlug": "pharmaceutical-drugs-and-vitamins-synthetic-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "vencerlanz09",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 24146,
+  "totalVotes": 137,
+  "totalDownloads": 3314,
+  "title": "Pharmaceutical Drugs and Vitamins Synthetic Images",
+  "hasTitle": true,
+  "subtitle": "Synthetic Images of Common Pharmaceutical Drugs found in the Philippines",
+  "hasSubtitle": true,
+  "description": "## Overview\nThe dataset includes images of popular pharmaceutical drugs and vitamins in the `Philippines`. This is dataset can be used for classifying drug images using CNN and transfer learning. Currently, there are ten available classes of pill images.\n\n## Note\n**Important Note:** This dataset is not a part of a research study or peer-reviewed article that has been heavily reviewed and lawfully accepted by several medical institutions. The dataset was not reviewed by any Pharmaceutical authority or any practitioner that is knowledgeable with the field. The use of the dataset is encouraged for educational purposes only as it may impose ethical problems or may cause harm for others if improperly utilized. It is advised to not use this dataset for your own machine learning applications or services without prior peer-review by an expert in the field of medicine or any law making authority that is responsible for the ethical use of medical datasets. Please take this into consideration.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "computer vision",
+    "classification",
+    "image",
+    "drugs and medications"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-3.0",
+      "name": "CC-BY-SA-3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

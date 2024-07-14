@@ -1,0 +1,43 @@
+{
+  "id": "mohamedziauddin/mh-uhack-sentiments",
+  "id_no": 1834377,
+  "datasetSlugNullable": "mh-uhack-sentiments",
+  "ownerUserNullable": "mohamedziauddin",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "MH : uHack Sentiments",
+  "subtitleNullable": "MH : uHack Sentiments 2.0: Decode Code Works",
+  "descriptionNullable": "The data set provided to you has a mix of customer reviews for products across categories and retailers. We would like you to model on the data \n\nto bucket the future reviews in their respective topics (Note: A review can talk about multiple topics)\n\nOverall polarity (positive/negative sentiment)\n\n \n\n# Train: 6136 rows x 14 columns\n# Test: 2631 rows x 14 columns \n \n\nTopics (Components, Delivery and Customer Support, Design and Aesthetics, Dimensions, Features, Functionality, Installation, Material, Price, Quality and Usability)\nPolarity (Positive/Negative)\nNote: The target variables are all encoded in the train dataset for convenience. Please submit the test results in the similar encoded fashion for us to evaluate your results.\n| Field Name\t\t\tData Type\tPurpose\t\t\t\t\t\t\tVariable type\nId\t\t\t\tInteger\t\tUnique identifier for each review\t\t\t  Input\nReview\t\t\t\tString\t\tReview written by customers \n                                                                          on a retail website\t\t          Input\nComponents\t\t\tString\t\t1: aspects related to components \n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\t Target\nDelivery and Customer \nSupport\t                        String\t\t1: some aspects related to delivery, return, \n\t\t\t\t\t\t\t            exchange and customer support \n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nDesign and \nAesthetics\t\t        String\t\t1: some aspects related to components\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nDimensions\t\t\tString\t\t1: related to product dimension and size\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nFeatures\t\t\t        String\t\t1: related to product features\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t        Target\nFunctionality\t\t\tString\t\t1: related to working of a product\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nInstallation\t\t\tString\t\t1: related to installation of the product\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nMaterial\t\t\t        String\t\t1: related to material of the product\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nPrice\t\t\t\tString\t\t1: related to pricing details of a product\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nQuality\t\t\t\tString\t\t1: related to quality aspects of a product\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nUsability\t\t\t        String\t\t1: related to usability of a product\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nPolarity\t\t\t        Integer\t\t1: Positive sentiment; \n\t\t\t\t\t\t                0: Negative Sentiment\t\t\t\tTarget|\n\nNote: This data is collected from then below machinehack site for the purpose to be used by fellow kagglers to code in kaggle kernels and submit to the competition. ( https://machinehack.com/hackathon/uhack_sentiments_20_decode_code_words/data )",
+  "datasetId": 1834377,
+  "datasetSlug": "mh-uhack-sentiments",
+  "hasDatasetSlug": true,
+  "ownerUser": "mohamedziauddin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 875,
+  "totalVotes": 4,
+  "totalDownloads": 35,
+  "title": "MH : uHack Sentiments",
+  "hasTitle": true,
+  "subtitle": "MH : uHack Sentiments 2.0: Decode Code Works",
+  "hasSubtitle": true,
+  "description": "The data set provided to you has a mix of customer reviews for products across categories and retailers. We would like you to model on the data \n\nto bucket the future reviews in their respective topics (Note: A review can talk about multiple topics)\n\nOverall polarity (positive/negative sentiment)\n\n \n\n# Train: 6136 rows x 14 columns\n# Test: 2631 rows x 14 columns \n \n\nTopics (Components, Delivery and Customer Support, Design and Aesthetics, Dimensions, Features, Functionality, Installation, Material, Price, Quality and Usability)\nPolarity (Positive/Negative)\nNote: The target variables are all encoded in the train dataset for convenience. Please submit the test results in the similar encoded fashion for us to evaluate your results.\n| Field Name\t\t\tData Type\tPurpose\t\t\t\t\t\t\tVariable type\nId\t\t\t\tInteger\t\tUnique identifier for each review\t\t\t  Input\nReview\t\t\t\tString\t\tReview written by customers \n                                                                          on a retail website\t\t          Input\nComponents\t\t\tString\t\t1: aspects related to components \n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\t Target\nDelivery and Customer \nSupport\t                        String\t\t1: some aspects related to delivery, return, \n\t\t\t\t\t\t\t            exchange and customer support \n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nDesign and \nAesthetics\t\t        String\t\t1: some aspects related to components\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nDimensions\t\t\tString\t\t1: related to product dimension and size\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nFeatures\t\t\t        String\t\t1: related to product features\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t        Target\nFunctionality\t\t\tString\t\t1: related to working of a product\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nInstallation\t\t\tString\t\t1: related to installation of the product\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nMaterial\t\t\t        String\t\t1: related to material of the product\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nPrice\t\t\t\tString\t\t1: related to pricing details of a product\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nQuality\t\t\t\tString\t\t1: related to quality aspects of a product\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nUsability\t\t\t        String\t\t1: related to usability of a product\n\t\t\t\t\t\t                0: None\t\t\t\t\t\t\tTarget\nPolarity\t\t\t        Integer\t\t1: Positive sentiment; \n\t\t\t\t\t\t                0: Negative Sentiment\t\t\t\tTarget|\n\nNote: This data is collected from then below machinehack site for the purpose to be used by fellow kagglers to code in kaggle kernels and submit to the competition. ( https://machinehack.com/hackathon/uhack_sentiments_20_decode_code_words/data )",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "nlp",
+    "tabular",
+    "multiclass classification",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

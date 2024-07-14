@@ -1,0 +1,43 @@
+{
+  "id": "sukhmandeepsinghbrar/moneycontrol-news",
+  "id_no": 4660229,
+  "datasetSlugNullable": "moneycontrol-news",
+  "ownerUserNullable": "sukhmandeepsinghbrar",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "MONEYCONTROL NEWS",
+  "subtitleNullable": "News for sentiment analysis",
+  "descriptionNullable": "The dataset comprises headlines scraped from Moneycontrol, a financial news website. Each entry represents a single news headline. The dataset typically includes features such as the headline text. It is commonly stored in CSV format and may contain additional information such as timestamps or URLs. Potential uses include text analysis, machine learning, and data visualization. Limitations include potential data quality issues and legal considerations related to web scraping.",
+  "datasetId": 4660229,
+  "datasetSlug": "moneycontrol-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "sukhmandeepsinghbrar",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 726,
+  "totalVotes": 31,
+  "totalDownloads": 100,
+  "title": "MONEYCONTROL NEWS",
+  "hasTitle": true,
+  "subtitle": "News for sentiment analysis",
+  "hasSubtitle": true,
+  "description": "The dataset comprises headlines scraped from Moneycontrol, a financial news website. Each entry represents a single news headline. The dataset typically includes features such as the headline text. It is commonly stored in CSV format and may contain additional information such as timestamps or URLs. Potential uses include text analysis, machine learning, and data visualization. Limitations include potential data quality issues and legal considerations related to web scraping.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "intermediate",
+    "data visualization",
+    "news",
+    "python",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

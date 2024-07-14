@@ -1,0 +1,39 @@
+{
+  "id": "warcoder/flamevision-dataset-for-wildfire-classification",
+  "id_no": 4005552,
+  "datasetSlugNullable": "flamevision-dataset-for-wildfire-classification",
+  "ownerUserNullable": "warcoder",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "FlameVision: dataset for wildfire classification",
+  "subtitleNullable": "FlameVision dataset is a comprehensive aerial image dataset",
+  "descriptionNullable": "The FlameVision dataset is a comprehensive aerial image dataset designed specifically for classifying wildfires. It consists of a total of 8600 high-resolution images, with 5000 images depicting fire and the remaining 3600 images depicting non-fire scenes. The images are provided in PNG format for classification tasks and JPG format for detection tasks.",
+  "datasetId": 4005552,
+  "datasetSlug": "flamevision-dataset-for-wildfire-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "warcoder",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 594,
+  "totalVotes": 7,
+  "totalDownloads": 99,
+  "title": "FlameVision: dataset for wildfire classification",
+  "hasTitle": true,
+  "subtitle": "FlameVision dataset is a comprehensive aerial image dataset",
+  "hasSubtitle": true,
+  "description": "The FlameVision dataset is a comprehensive aerial image dataset designed specifically for classifying wildfires. It consists of a total of 8600 high-resolution images, with 5000 images depicting fire and the remaining 3600 images depicting non-fire scenes. The images are provided in PNG format for classification tasks and JPG format for detection tasks.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

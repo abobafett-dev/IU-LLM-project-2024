@@ -1,0 +1,43 @@
+{
+  "id": "willianoliveiragibin/chemicals-in-cosmetics",
+  "id_no": 4043438,
+  "datasetSlugNullable": "chemicals-in-cosmetics",
+  "ownerUserNullable": "willianoliveiragibin",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Chemicals in Cosmetics",
+  "subtitleNullable": "All products containing carcinogens or developmental or reproductive toxicants ",
+  "descriptionNullable": "These data reflect information that has been reported to the California Safe Cosmetics Program (CSCP) in the California Department of Public Health (CDPH). The primary purpose of the CSCP is to collect information on hazardous and potentially hazardous ingredients in cosmetic products sold in California and to make this information available to the public.\n\nFor all cosmetic products sold in California, the California Safe Cosmetics Act (\u201cthe Act\u201d) requires the manufacturer, packer, and/or distributor named on the product label to provide to the CSCP a list of all cosmetic products that contain any ingredients known or suspected to cause cancer, birth defects, or other developmental or reproductive harm.\n\nTo assist companies with reporting, CDPH has compiled a list of reportable ingredients based on lists and reports available from the authoritative scientific bodies cited in the Act to cause cancer or reproductive harm; it is meant to serve as guidance and is not all-inclusive. Companies with reportable ingredients in their products must submit information to the California Safe Cosmetics Program if the company:\n\nHas annual aggregate sales of cosmetic products of one million dollars or more, and\nHas sold cosmetic products in California on or after January 1, 2007.\nThe data table consists of: label names of cosmetic/personal care products, company/manufacturer names, product brand names, product categories, Chemical Abstracts Service registry numbers (CAS#) of the reported chemical ingredients, names of reported chemical ingredients, the number of reported chemicals for each product, and dates of reporting, product discontinuation or reformulation if applicable.\n\nAll products containing carcinogens or developmental or reproductive toxicants may not be included due to companies failing to report.\n\nList of reportable ingredients: www.cdph.ca.gov/ReportableIngredientsList\n\nResource Type\tDataset\nMetadata Created Date\tAugust 12, 2023\nMetadata Updated Date\tOctober 13, 2023\nPublisher\tCalifornia Department of Public Health\nMaintainer\t\nCalifornia Safe Cosmetics Program\nIdentifier\td35e6b34-cfdc-48d7-8864-8345159cca92\nData First Published\t2017-06-16T22:22:26.151796\nData Last Modified\t2023-10-02T12:02:07.847419\nCategory\tHealth and Human Services\nPublic Access Level\tpublic\nMetadata Context\thttps://project-open-data.cio.gov/v1.1/schema/catalog.jsonld\nSchema Version\thttps://project-open-data.cio.gov/v1.1/schema\nCatalog Describedby\thttps://project-open-data.cio.gov/v1.1/schema/catalog.json\nHarvest Object Id\tf608131f-e688-4027-a033-8f287a67775b\nHarvest Source Id\t3ba8a0c1-5dc2-4897-940f-81922d3cf8bc\nHarvest Source Title\tState of California\nSource Datajson Identifier\tTrue\nSource Hash\t447c7ce514f93da5de0de53320f6f3ce57a8030c64ecd74b3fde4ac9989eb4d5\nSource Schema Version\t1.",
+  "datasetId": 4043438,
+  "datasetSlug": "chemicals-in-cosmetics",
+  "hasDatasetSlug": true,
+  "ownerUser": "willianoliveiragibin",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7230,
+  "totalVotes": 39,
+  "totalDownloads": 1293,
+  "title": "Chemicals in Cosmetics",
+  "hasTitle": true,
+  "subtitle": "All products containing carcinogens or developmental or reproductive toxicants ",
+  "hasSubtitle": true,
+  "description": "These data reflect information that has been reported to the California Safe Cosmetics Program (CSCP) in the California Department of Public Health (CDPH). The primary purpose of the CSCP is to collect information on hazardous and potentially hazardous ingredients in cosmetic products sold in California and to make this information available to the public.\n\nFor all cosmetic products sold in California, the California Safe Cosmetics Act (\u201cthe Act\u201d) requires the manufacturer, packer, and/or distributor named on the product label to provide to the CSCP a list of all cosmetic products that contain any ingredients known or suspected to cause cancer, birth defects, or other developmental or reproductive harm.\n\nTo assist companies with reporting, CDPH has compiled a list of reportable ingredients based on lists and reports available from the authoritative scientific bodies cited in the Act to cause cancer or reproductive harm; it is meant to serve as guidance and is not all-inclusive. Companies with reportable ingredients in their products must submit information to the California Safe Cosmetics Program if the company:\n\nHas annual aggregate sales of cosmetic products of one million dollars or more, and\nHas sold cosmetic products in California on or after January 1, 2007.\nThe data table consists of: label names of cosmetic/personal care products, company/manufacturer names, product brand names, product categories, Chemical Abstracts Service registry numbers (CAS#) of the reported chemical ingredients, names of reported chemical ingredients, the number of reported chemicals for each product, and dates of reporting, product discontinuation or reformulation if applicable.\n\nAll products containing carcinogens or developmental or reproductive toxicants may not be included due to companies failing to report.\n\nList of reportable ingredients: www.cdph.ca.gov/ReportableIngredientsList\n\nResource Type\tDataset\nMetadata Created Date\tAugust 12, 2023\nMetadata Updated Date\tOctober 13, 2023\nPublisher\tCalifornia Department of Public Health\nMaintainer\t\nCalifornia Safe Cosmetics Program\nIdentifier\td35e6b34-cfdc-48d7-8864-8345159cca92\nData First Published\t2017-06-16T22:22:26.151796\nData Last Modified\t2023-10-02T12:02:07.847419\nCategory\tHealth and Human Services\nPublic Access Level\tpublic\nMetadata Context\thttps://project-open-data.cio.gov/v1.1/schema/catalog.jsonld\nSchema Version\thttps://project-open-data.cio.gov/v1.1/schema\nCatalog Describedby\thttps://project-open-data.cio.gov/v1.1/schema/catalog.json\nHarvest Object Id\tf608131f-e688-4027-a033-8f287a67775b\nHarvest Source Id\t3ba8a0c1-5dc2-4897-940f-81922d3cf8bc\nHarvest Source Title\tState of California\nSource Datajson Identifier\tTrue\nSource Hash\t447c7ce514f93da5de0de53320f6f3ce57a8030c64ecd74b3fde4ac9989eb4d5\nSource Schema Version\t1.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data visualization",
+    "data analytics",
+    "bigquery",
+    "accelerators",
+    "audio synthesis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

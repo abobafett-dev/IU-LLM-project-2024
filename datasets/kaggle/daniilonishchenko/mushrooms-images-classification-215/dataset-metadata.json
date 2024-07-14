@@ -1,0 +1,43 @@
+{
+  "id": "daniilonishchenko/mushrooms-images-classification-215",
+  "id_no": 3292214,
+  "datasetSlugNullable": "mushrooms-images-classification-215",
+  "ownerUserNullable": "daniilonishchenko",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Mushrooms images classification 215",
+  "subtitleNullable": "Contains 215 classes of different mushrooms. Totally 3122 images are presented.",
+  "descriptionNullable": "# Context\n\nThis dataset contains <b>3122</b> images (512x512) of <b>215</b> different mushrooms (at least 4 images per class). `mushrooms.txt` contains names of all the mushrooms in the dataset.\n\n# Legal notice\n\nThe dataset was created with the images, that were obtained from <a href=\"https://www.wildfooduk.com/\">WildFoodUK</a>.  I'm not responsible for the use of the dataset\n\n# Inspiration \n\nThe original idea was to create an android application with mushrooms detection capabilities, but all that was done is this dataset.\n",
+  "datasetId": 3292214,
+  "datasetSlug": "mushrooms-images-classification-215",
+  "hasDatasetSlug": true,
+  "ownerUser": "daniilonishchenko",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 11021,
+  "totalVotes": 40,
+  "totalDownloads": 1493,
+  "title": "Mushrooms images classification 215",
+  "hasTitle": true,
+  "subtitle": "Contains 215 classes of different mushrooms. Totally 3122 images are presented.",
+  "hasSubtitle": true,
+  "description": "# Context\n\nThis dataset contains <b>3122</b> images (512x512) of <b>215</b> different mushrooms (at least 4 images per class). `mushrooms.txt` contains names of all the mushrooms in the dataset.\n\n# Legal notice\n\nThe dataset was created with the images, that were obtained from <a href=\"https://www.wildfooduk.com/\">WildFoodUK</a>.  I'm not responsible for the use of the dataset\n\n# Inspiration \n\nThe original idea was to create an android application with mushrooms detection capabilities, but all that was done is this dataset.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mobile and wireless",
+    "computer vision",
+    "image",
+    "food",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Public Domain Dedication and Licence (PDDL)",
+      "name": "ODC Public Domain Dedication and Licence (PDDL)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "mmichelli/cirrus-cumulus-stratus-nimbus-ccsn-database",
+  "id_no": 1411651,
+  "datasetSlugNullable": "cirrus-cumulus-stratus-nimbus-ccsn-database",
+  "ownerUserNullable": "mmichelli",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Cirrus Cumulus Stratus Nimbus (CCSN) Database",
+  "subtitleNullable": "The CCSN dataset contains 2543 cloud images.",
+  "descriptionNullable": "The CCSN dataset contains 2543 cloud images. According to the World Meteorological Organization\u2019s genera-based classification recommendation, we divide into 11 different categories\uff1a Ac, Sc, Ns, Cu, Ci, Cc, Cb, As, Ct, Cs, St. It is worth noting that contrails have consideration in our dataset. \n\nCi = cirrus; Cs = cirrostratus; Cc = cirrocumulus; Ac = altocumulus; As = altostratus; Cu = cumulus; Cb = cumulonimbus; Ns = nimbostratus; Sc = stratocumulus; St = stratus; Ct = contrail.\n\n\n[https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CADDPD]( https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CADDPD)",
+  "datasetId": 1411651,
+  "datasetSlug": "cirrus-cumulus-stratus-nimbus-ccsn-database",
+  "hasDatasetSlug": true,
+  "ownerUser": "mmichelli",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 6069,
+  "totalVotes": 16,
+  "totalDownloads": 375,
+  "title": "Cirrus Cumulus Stratus Nimbus (CCSN) Database",
+  "hasTitle": true,
+  "subtitle": "The CCSN dataset contains 2543 cloud images.",
+  "hasSubtitle": true,
+  "description": "The CCSN dataset contains 2543 cloud images. According to the World Meteorological Organization\u2019s genera-based classification recommendation, we divide into 11 different categories\uff1a Ac, Sc, Ns, Cu, Ci, Cc, Cb, As, Ct, Cs, St. It is worth noting that contrails have consideration in our dataset. \n\nCi = cirrus; Cs = cirrostratus; Cc = cirrocumulus; Ac = altocumulus; As = altostratus; Cu = cumulus; Cb = cumulonimbus; Ns = nimbostratus; Sc = stratocumulus; St = stratus; Ct = contrail.\n\n\n[https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CADDPD]( https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CADDPD)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "atmospheric science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

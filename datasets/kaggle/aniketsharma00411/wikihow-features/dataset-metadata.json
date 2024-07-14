@@ -1,0 +1,40 @@
+{
+  "id": "aniketsharma00411/wikihow-features",
+  "id_no": 3103659,
+  "datasetSlugNullable": "wikihow-features",
+  "ownerUserNullable": "aniketsharma00411",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "wikiHow Features",
+  "subtitleNullable": "Features extracted from wikiHow articles",
+  "descriptionNullable": "wikiHow Features dataset consists of features extracted from ~19.9k wikiHow articles. The task is to predict the `percent_helpful` column, which represents the number of readers who found the article helpful.\n\nThe articles are collected using the open-source tool [wikiHowUnofficialAPI](https://pypi.org/project/wikihowunofficialapi/).\n\nThe dataset is introduced in the (under review) paper Automated Quality Estimation of Collaboratively Created Content. If you find it helpful, please cite the paper.\n\n",
+  "datasetId": 3103659,
+  "datasetSlug": "wikihow-features",
+  "hasDatasetSlug": true,
+  "ownerUser": "aniketsharma00411",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 818,
+  "totalVotes": 11,
+  "totalDownloads": 137,
+  "title": "wikiHow Features",
+  "hasTitle": true,
+  "subtitle": "Features extracted from wikiHow articles",
+  "hasSubtitle": true,
+  "description": "wikiHow Features dataset consists of features extracted from ~19.9k wikiHow articles. The task is to predict the `percent_helpful` column, which represents the number of readers who found the article helpful.\n\nThe articles are collected using the open-source tool [wikiHowUnofficialAPI](https://pypi.org/project/wikihowunofficialapi/).\n\nThe dataset is introduced in the (under review) paper Automated Quality Estimation of Collaboratively Created Content. If you find it helpful, please cite the paper.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

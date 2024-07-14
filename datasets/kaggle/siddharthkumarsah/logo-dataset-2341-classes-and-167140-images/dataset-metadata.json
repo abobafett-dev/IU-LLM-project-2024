@@ -1,0 +1,42 @@
+{
+  "id": "siddharthkumarsah/logo-dataset-2341-classes-and-167140-images",
+  "id_no": 3036386,
+  "datasetSlugNullable": "logo-dataset-2341-classes-and-167140-images",
+  "ownerUserNullable": "siddharthkumarsah",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Logo Images Dataset",
+  "subtitleNullable": "Collection of 2,341 classes, 167,140 images, across 10 root-categories",
+  "descriptionNullable": "The \"Logo-2K+\" dataset, published in the paper \"Logo-2K+: Discriminative Region Navigation and Augmentation Network for Scalable Logo Classification\", is a collection of 167,140 images of logos belonging to 2,341 sub-classes across 10 root-categories. The images were crawled from the Google and Baidu search engines.\n\nBefore making the dataset available for public use, I have carefully cleaned the dataset to ensure that it can be loaded and used without any errors. I have removed all folders with special characters and spaces in their names, and only kept alphanumeric characters and underscores. This makes the dataset more accessible and easier to use for researchers and developers working on logo classification.\n\nThe cleaned dataset is provided in three parts:\n\n\"Logo-2K+.rar\" contains the original 167,140 logo images, grouped into 10 root-categories and 2,341 sub-classes.\n\na. \"Logo-2K+classes.txt\" provides labels for all sub-classes.\n\nb. \"train_images_root.txt\" lists the paths of training images starting with the root-category.\n\nc. \"test_images_root.txt\" lists the paths of testing images starting with the root-category.\n\nd. \"train_images.txt\" lists the relative paths of training images starting with the sub-class.\n\ne. \"test_images.txt\" lists the relative paths of testing images starting with the sub-class.\n\nThe \"Logo-2K+\" dataset is a valuable resource for researchers and developers working on logo classification, as it contains a large and diverse set of logo images with well-defined sub-class labels. The provided training and testing images, along with the label files, can be used to train and evaluate logo classification models.\n\nThe statistic comparison of 10 root categories from Logo-2K+ is shown as follows.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1885485%2F9473b590a6a770cf5b3cd42e9b66a13b%2FScreenshot%202023-03-23%20at%208.50.41%20PM.png?generation=1679575860470498&alt=media)",
+  "datasetId": 3036386,
+  "datasetSlug": "logo-dataset-2341-classes-and-167140-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "siddharthkumarsah",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 4438,
+  "totalVotes": 20,
+  "totalDownloads": 523,
+  "title": "Logo Images Dataset",
+  "hasTitle": true,
+  "subtitle": "Collection of 2,341 classes, 167,140 images, across 10 root-categories",
+  "hasSubtitle": true,
+  "description": "The \"Logo-2K+\" dataset, published in the paper \"Logo-2K+: Discriminative Region Navigation and Augmentation Network for Scalable Logo Classification\", is a collection of 167,140 images of logos belonging to 2,341 sub-classes across 10 root-categories. The images were crawled from the Google and Baidu search engines.\n\nBefore making the dataset available for public use, I have carefully cleaned the dataset to ensure that it can be loaded and used without any errors. I have removed all folders with special characters and spaces in their names, and only kept alphanumeric characters and underscores. This makes the dataset more accessible and easier to use for researchers and developers working on logo classification.\n\nThe cleaned dataset is provided in three parts:\n\n\"Logo-2K+.rar\" contains the original 167,140 logo images, grouped into 10 root-categories and 2,341 sub-classes.\n\na. \"Logo-2K+classes.txt\" provides labels for all sub-classes.\n\nb. \"train_images_root.txt\" lists the paths of training images starting with the root-category.\n\nc. \"test_images_root.txt\" lists the paths of testing images starting with the root-category.\n\nd. \"train_images.txt\" lists the relative paths of training images starting with the sub-class.\n\ne. \"test_images.txt\" lists the relative paths of testing images starting with the sub-class.\n\nThe \"Logo-2K+\" dataset is a valuable resource for researchers and developers working on logo classification, as it contains a large and diverse set of logo images with well-defined sub-class labels. The provided training and testing images, along with the label files, can be used to train and evaluate logo classification models.\n\nThe statistic comparison of 10 root categories from Logo-2K+ is shown as follows.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1885485%2F9473b590a6a770cf5b3cd42e9b66a13b%2FScreenshot%202023-03-23%20at%208.50.41%20PM.png?generation=1679575860470498&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "beginner",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

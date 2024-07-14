@@ -1,0 +1,43 @@
+{
+  "id": "datascientist97/community-events-report-dataset",
+  "id_no": 4520773,
+  "datasetSlugNullable": "community-events-report-dataset",
+  "ownerUserNullable": "datascientist97",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Community Events Report Dataset",
+  "subtitleNullable": "Record of Community Events, Alerts, and Initiatives in Urban Areas",
+  "descriptionNullable": "This dataset contains information about various community events organized across different neighborhoods, streets, and cities. It includes details such as the title of the event, a brief description, and the corresponding news channel where the event was reported. The dataset aims to provide insights into the diverse range of community activities happening worldwide, ranging from charity events and fundraisers to environmental campaigns and neighborhood gatherings.\n\nEach row in the dataset represents a unique community event, including its title, a description highlighting the nature or purpose of the event, and the news channel where the event was reported. The events cover a wide array of topics, including but not limited to charity auctions, environmental cleanups, neighborhood watch programs, youth sports initiatives, and cultural celebrations.\n\nThe dataset is suitable for researchers, analysts, and community organizers interested in exploring trends and patterns in community engagement, social activities, and local initiatives. It can be used for data analysis, trend analysis, and research purposes in fields such as sociology, community development, urban planning, and media studies.\n\n**Columns:**\n\nTitle of News: Title or headline of the community event reported by the news channel.\nDescription: A brief description of the community event, providing context and details about its nature, purpose, or significance.\nNews Channel Name: The name of the news channel that reported the community event.\nThe dataset is sourced from a variety of international news channels, ensuring representation from different regions and perspectives. It offers a comprehensive overview of community engagement efforts worldwide, highlighting the importance of grassroots initiatives in fostering social cohesion and addressing local needs.\n\n**Note: The dataset is fictional and created for demonstration purposes only. Any resemblance to real events or entities is purely coincidental.**",
+  "datasetId": 4520773,
+  "datasetSlug": "community-events-report-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "datascientist97",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 146,
+  "totalVotes": 5,
+  "totalDownloads": 28,
+  "title": "Community Events Report Dataset",
+  "hasTitle": true,
+  "subtitle": "Record of Community Events, Alerts, and Initiatives in Urban Areas",
+  "hasSubtitle": true,
+  "description": "This dataset contains information about various community events organized across different neighborhoods, streets, and cities. It includes details such as the title of the event, a brief description, and the corresponding news channel where the event was reported. The dataset aims to provide insights into the diverse range of community activities happening worldwide, ranging from charity events and fundraisers to environmental campaigns and neighborhood gatherings.\n\nEach row in the dataset represents a unique community event, including its title, a description highlighting the nature or purpose of the event, and the news channel where the event was reported. The events cover a wide array of topics, including but not limited to charity auctions, environmental cleanups, neighborhood watch programs, youth sports initiatives, and cultural celebrations.\n\nThe dataset is suitable for researchers, analysts, and community organizers interested in exploring trends and patterns in community engagement, social activities, and local initiatives. It can be used for data analysis, trend analysis, and research purposes in fields such as sociology, community development, urban planning, and media studies.\n\n**Columns:**\n\nTitle of News: Title or headline of the community event reported by the news channel.\nDescription: A brief description of the community event, providing context and details about its nature, purpose, or significance.\nNews Channel Name: The name of the news channel that reported the community event.\nThe dataset is sourced from a variety of international news channels, ensuring representation from different regions and perspectives. It offers a comprehensive overview of community engagement efforts worldwide, highlighting the importance of grassroots initiatives in fostering social cohesion and addressing local needs.\n\n**Note: The dataset is fictional and created for demonstration purposes only. Any resemblance to real events or entities is purely coincidental.**",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "text",
+    "news",
+    "text classification",
+    "text conversation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

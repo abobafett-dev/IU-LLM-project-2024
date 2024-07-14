@@ -1,0 +1,43 @@
+{
+  "id": "shanmukh05/anime-names-and-image-generation",
+  "id_no": 1081952,
+  "datasetSlugNullable": "anime-names-and-image-generation",
+  "ownerUserNullable": "shanmukh05",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Anime Names and Images Dataset",
+  "subtitleNullable": "Images and Names of Anime characters",
+  "descriptionNullable": "## Welcome to the world of anime data \ud83d\udc47 \ud83d\udc47 \ud83d\udc99 \ud83d\ude0d \ud83d\ude09 \ud83c\udfb6 \n### **Show some love \ud83d\ude4c \ud83d\udc9a \ud83d\udc99  if you found this dataset useful**\n![Anime World](https://animeallinblog.files.wordpress.com/2016/08/anime-characters-best-multi.jpg?w=705&h=435&crop=1)\n\n# Context\n Following dataset contains the names, images and links of anime characters.\n\n\n# Content\n\nData contains 3 parts.\n1: **anime_links.csv** file contains the links to all anime characters pages present in above mentioned site. There are around 73000 links. (That's a huge family xd\ud83d\ude05 ).\n2: **anime_names.csv** file contains the names of all anime characters excluding the one's with characters other than ascii in them (You can include them by editing anime-links.csv.). There are around 71000 names. (Those 2000 characters have a very complex names lol\ud83d\udc40 , sorry if you are a fan of one of them\ud83d\ude41)\n3: **final_names.csv** file contains the names of anime characters but  not with names having the characters other than ASCII (eg: Raoul_Mathias_Jean_Aim\u00c3\u00a9e )\n3: **dataset folder** contains all the images of anime characters(over 58000 images are present) with name of file as it's character name.\n\n\n# Usage\n\nWell the data can be used in many ways, Some of the ways are\n0: If you are an anime fan, you can use images in dataset folder as desktop wallpaper\ud83d\ude04.\n1: ***anime_links.csv*** can be used for web scraping to extract other features of anime characters (True anime lover will do this\ud83d\ude04)\n2: ***anime_names.csv*** can be used to generate new anime character names.\n3: ***dataset images*** can be used to generate new anime images.\n4: My target is to combine 2,3 and create a new anime character with a new name. (Very exciting right\ud83d\udca5)\n\n**If you find any other usage, kindly inform me , we can work on that together**\ud83d\ude4f\n\n# Acknowledgements\n\nAll the data is extracted from [Anime and Manga](https://myanimelist.net/character.php)",
+  "datasetId": 1081952,
+  "datasetSlug": "anime-names-and-image-generation",
+  "hasDatasetSlug": true,
+  "ownerUser": "shanmukh05",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 19780,
+  "totalVotes": 38,
+  "totalDownloads": 1364,
+  "title": "Anime Names and Images Dataset",
+  "hasTitle": true,
+  "subtitle": "Images and Names of Anime characters",
+  "hasSubtitle": true,
+  "description": "## Welcome to the world of anime data \ud83d\udc47 \ud83d\udc47 \ud83d\udc99 \ud83d\ude0d \ud83d\ude09 \ud83c\udfb6 \n### **Show some love \ud83d\ude4c \ud83d\udc9a \ud83d\udc99  if you found this dataset useful**\n![Anime World](https://animeallinblog.files.wordpress.com/2016/08/anime-characters-best-multi.jpg?w=705&h=435&crop=1)\n\n# Context\n Following dataset contains the names, images and links of anime characters.\n\n\n# Content\n\nData contains 3 parts.\n1: **anime_links.csv** file contains the links to all anime characters pages present in above mentioned site. There are around 73000 links. (That's a huge family xd\ud83d\ude05 ).\n2: **anime_names.csv** file contains the names of all anime characters excluding the one's with characters other than ascii in them (You can include them by editing anime-links.csv.). There are around 71000 names. (Those 2000 characters have a very complex names lol\ud83d\udc40 , sorry if you are a fan of one of them\ud83d\ude41)\n3: **final_names.csv** file contains the names of anime characters but  not with names having the characters other than ASCII (eg: Raoul_Mathias_Jean_Aim\u00c3\u00a9e )\n3: **dataset folder** contains all the images of anime characters(over 58000 images are present) with name of file as it's character name.\n\n\n# Usage\n\nWell the data can be used in many ways, Some of the ways are\n0: If you are an anime fan, you can use images in dataset folder as desktop wallpaper\ud83d\ude04.\n1: ***anime_links.csv*** can be used for web scraping to extract other features of anime characters (True anime lover will do this\ud83d\ude04)\n2: ***anime_names.csv*** can be used to generate new anime character names.\n3: ***dataset images*** can be used to generate new anime images.\n4: My target is to combine 2,3 and create a new anime character with a new name. (Very exciting right\ud83d\udca5)\n\n**If you find any other usage, kindly inform me , we can work on that together**\ud83d\ude4f\n\n# Acknowledgements\n\nAll the data is extracted from [Anime and Manga](https://myanimelist.net/character.php)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "deep learning",
+    "neural networks",
+    "gan",
+    "cnn",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

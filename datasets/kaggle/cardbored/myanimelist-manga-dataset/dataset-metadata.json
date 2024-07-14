@@ -1,0 +1,39 @@
+{
+  "id": "cardbored/myanimelist-manga-dataset",
+  "id_no": 665516,
+  "datasetSlugNullable": "myanimelist-manga-dataset",
+  "ownerUserNullable": "cardbored",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "MyAnimeList Manga Dataset",
+  "subtitleNullable": "Contains 48k manga from myanimelist.net",
+  "descriptionNullable": "### Context\n\nThis dataset contains information about mangas, novels and the like from [MyAnimeList](https://myanimelist.net). The data is scraped using [Scrapy](https://scrapy.org), a python web scraping framework. The code for the crawler can be found on my [github](https://gist.github.com/rmrt1n/ed129fdb9618ae9b3a9f553eece516a3#file-manga_spider-py).\n\n*Note: All information gathered here are publicly available, there was no need to be registered anywhere to access the data.*\n\n",
+  "datasetId": 665516,
+  "datasetSlug": "myanimelist-manga-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "cardbored",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 3734,
+  "totalVotes": 5,
+  "totalDownloads": 139,
+  "title": "MyAnimeList Manga Dataset",
+  "hasTitle": true,
+  "subtitle": "Contains 48k manga from myanimelist.net",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset contains information about mangas, novels and the like from [MyAnimeList](https://myanimelist.net). The data is scraped using [Scrapy](https://scrapy.org), a python web scraping framework. The code for the crawler can be found on my [github](https://gist.github.com/rmrt1n/ed129fdb9618ae9b3a9f553eece516a3#file-manga_spider-py).\n\n*Note: All information gathered here are publicly available, there was no need to be registered anywhere to access the data.*\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

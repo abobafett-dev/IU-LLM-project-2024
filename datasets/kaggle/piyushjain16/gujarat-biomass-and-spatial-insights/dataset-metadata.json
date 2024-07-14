@@ -1,0 +1,43 @@
+{
+  "id": "piyushjain16/gujarat-biomass-and-spatial-insights",
+  "id_no": 3893450,
+  "datasetSlugNullable": "gujarat-biomass-and-spatial-insights",
+  "ownerUserNullable": "piyushjain16",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Gujarat Biomass & Spatial Insights",
+  "subtitleNullable": "Gujarat's Biofuel Potential: Biomass Resources and Transportation Distances",
+  "descriptionNullable": "This dataset provides valuable insights into the availability of biomass resources and transportation distances in the state of Gujarat, India. It is a powerful resource for researchers, analysts, and data enthusiasts looking to explore and address the challenges associated with biofuel production and distribution. To maximize the dataset's potential, here's a breakdown of its key components and how you can use them:\n\n 1.  **Biomass Availability Data (Biomass_History.csv):**\n  - This dataset offers a comprehensive time-series view of biomass availability in Gujarat, spanning the years 2010 to 2017.\n  - Gujarat's geographical area is divided into 2,418 equisized grid blocks, referred to as \"harvesting sites.\" These grid blocks represent potential biomass sources.\n  - For each harvesting site, the dataset provides essential information, including location index, latitude, longitude, and year-wise biomass availability. This data helps you understand how biomass resources have evolved over time in different areas of Gujarat.\n\n 1.    **Transportation Distance Data (Distance_Matrix.csv):**\n  - The distance matrix is a crucial component of the dataset and offers insights into the distances required to transport biomass from one grid block to another within Gujarat.\n  - It's important to note that this matrix is not symmetric, which means that the distance for a journey from one grid block to another may not be the same as the return journey from the destination back to the source. This reflects the reality of road networks and potential obstacles, such as one-way streets and U-turns.\n\n**Potential Use Cases:**\n1.  **Biofuel Production Analysis:** Researchers and biofuel producers can use this dataset to assess the feasibility of biofuel production in different regions of Gujarat. By analyzing the biomass availability and transportation distances, you can make informed decisions about where to establish biofuel production facilities.\n1. **Transportation and Logistics Planning:** The transportation distance data can be valuable for logistics and transportation planning. It can help optimize transportation routes for the efficient movement of biomass from harvesting sites to processing facilities.\n\n1. **Environmental Impact Assessment:** This dataset can also be used to assess the environmental impact of biofuel production in Gujarat. Researchers can analyze the transportation distances to understand the energy and emissions implications of biomass transportation.\n\n1. **Government Policy and Subsidy Planning:** Government agencies can utilize this dataset to inform policies and subsidies aimed at promoting biofuel production. Understanding biomass availability and transportation challenges can be crucial in designing effective incentives.\n\n**Note:**\nWhile the dataset does not provide quantities/values with specific units, it accurately reflects the characteristics of a practical use case. Researchers and analysts should normalize and scale the data as needed for their specific applications.\n\nThis Gujarat Biomass & District Distance Dataset offers a comprehensive view of key factors affecting biofuel production and distribution in the region. By leveraging this data, you can make informed decisions and contribute to the advancement of sustainable energy solutions in Gujarat.",
+  "datasetId": 3893450,
+  "datasetSlug": "gujarat-biomass-and-spatial-insights",
+  "hasDatasetSlug": true,
+  "ownerUser": "piyushjain16",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 328,
+  "totalVotes": 6,
+  "totalDownloads": 38,
+  "title": "Gujarat Biomass & Spatial Insights",
+  "hasTitle": true,
+  "subtitle": "Gujarat's Biofuel Potential: Biomass Resources and Transportation Distances",
+  "hasSubtitle": true,
+  "description": "This dataset provides valuable insights into the availability of biomass resources and transportation distances in the state of Gujarat, India. It is a powerful resource for researchers, analysts, and data enthusiasts looking to explore and address the challenges associated with biofuel production and distribution. To maximize the dataset's potential, here's a breakdown of its key components and how you can use them:\n\n 1.  **Biomass Availability Data (Biomass_History.csv):**\n  - This dataset offers a comprehensive time-series view of biomass availability in Gujarat, spanning the years 2010 to 2017.\n  - Gujarat's geographical area is divided into 2,418 equisized grid blocks, referred to as \"harvesting sites.\" These grid blocks represent potential biomass sources.\n  - For each harvesting site, the dataset provides essential information, including location index, latitude, longitude, and year-wise biomass availability. This data helps you understand how biomass resources have evolved over time in different areas of Gujarat.\n\n 1.    **Transportation Distance Data (Distance_Matrix.csv):**\n  - The distance matrix is a crucial component of the dataset and offers insights into the distances required to transport biomass from one grid block to another within Gujarat.\n  - It's important to note that this matrix is not symmetric, which means that the distance for a journey from one grid block to another may not be the same as the return journey from the destination back to the source. This reflects the reality of road networks and potential obstacles, such as one-way streets and U-turns.\n\n**Potential Use Cases:**\n1.  **Biofuel Production Analysis:** Researchers and biofuel producers can use this dataset to assess the feasibility of biofuel production in different regions of Gujarat. By analyzing the biomass availability and transportation distances, you can make informed decisions about where to establish biofuel production facilities.\n1. **Transportation and Logistics Planning:** The transportation distance data can be valuable for logistics and transportation planning. It can help optimize transportation routes for the efficient movement of biomass from harvesting sites to processing facilities.\n\n1. **Environmental Impact Assessment:** This dataset can also be used to assess the environmental impact of biofuel production in Gujarat. Researchers can analyze the transportation distances to understand the energy and emissions implications of biomass transportation.\n\n1. **Government Policy and Subsidy Planning:** Government agencies can utilize this dataset to inform policies and subsidies aimed at promoting biofuel production. Understanding biomass availability and transportation challenges can be crucial in designing effective incentives.\n\n**Note:**\nWhile the dataset does not provide quantities/values with specific units, it accurately reflects the characteristics of a practical use case. Researchers and analysts should normalize and scale the data as needed for their specific applications.\n\nThis Gujarat Biomass & District Distance Dataset offers a comprehensive view of key factors affecting biofuel production and distribution in the region. By leveraging this data, you can make informed decisions and contribute to the advancement of sustainable energy solutions in Gujarat.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "renewable energy",
+    "intermediate",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

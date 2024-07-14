@@ -1,0 +1,45 @@
+{
+  "id": "alexbonella/sales-simulation-at-rappi",
+  "id_no": 932930,
+  "datasetSlugNullable": "sales-simulation-at-rappi",
+  "ownerUserNullable": "alexbonella",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Sales simulation at Rappi",
+  "subtitleNullable": "Data simulated about sales of 240 Bogota Restaurants",
+  "descriptionNullable": "# Content\n\nRappi is a disruptive startup that revolutionized the delivery market with a presence in a great part of the American continent. Given the large amount of data that is handled today, I wanted to imagine how it would be the number of orders by Bogota restaurants at Rappi during the covid outbreak.\n\nThis dataset tries to simulate sales at Rappi of several Bogota restaurants during 2 hours analysis.\n\n# Column Description\n\n- **Purchase_ID :** purchase number  \n- **Date at created:**  order creation date \n- **Category:** restaurant category\n- **Name :**restaurant name \n- **Purchase Price:** the amount of money that was paid for the purchase COP\n- **Delivery Price:** the amount of money that is paid for an order COP\n- **Total :**  Purchase Price + Delivery Price COP\n\n# Acknowledgements\n\nhttps://www.rappi.com.co/\n",
+  "datasetId": 932930,
+  "datasetSlug": "sales-simulation-at-rappi",
+  "hasDatasetSlug": true,
+  "ownerUser": "alexbonella",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 7127,
+  "totalVotes": 12,
+  "totalDownloads": 495,
+  "title": "Sales simulation at Rappi",
+  "hasTitle": true,
+  "subtitle": "Data simulated about sales of 240 Bogota Restaurants",
+  "hasSubtitle": true,
+  "description": "# Content\n\nRappi is a disruptive startup that revolutionized the delivery market with a presence in a great part of the American continent. Given the large amount of data that is handled today, I wanted to imagine how it would be the number of orders by Bogota restaurants at Rappi during the covid outbreak.\n\nThis dataset tries to simulate sales at Rappi of several Bogota restaurants during 2 hours analysis.\n\n# Column Description\n\n- **Purchase_ID :** purchase number  \n- **Date at created:**  order creation date \n- **Category:** restaurant category\n- **Name :**restaurant name \n- **Purchase Price:** the amount of money that was paid for the purchase COP\n- **Delivery Price:** the amount of money that is paid for an order COP\n- **Total :**  Purchase Price + Delivery Price COP\n\n# Acknowledgements\n\nhttps://www.rappi.com.co/\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "internet",
+    "exploratory data analysis",
+    "data visualization",
+    "data analytics",
+    "food",
+    "restaurants"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

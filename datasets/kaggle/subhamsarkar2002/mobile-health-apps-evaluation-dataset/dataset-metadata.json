@@ -1,0 +1,43 @@
+{
+  "id": "subhamsarkar2002/mobile-health-apps-evaluation-dataset",
+  "id_no": 4746112,
+  "datasetSlugNullable": "mobile-health-apps-evaluation-dataset",
+  "ownerUserNullable": "subhamsarkar2002",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Health Apps Evaluation Dataset",
+  "subtitleNullable": "Dataset serves as information aimed at evaluation of Mobile Health Apps",
+  "descriptionNullable": "## Few Parameters:\n\n**App ID**: This is a unique identifier we assigned to each app. AppIDs ending in b were originally discovered as being present on both the Android and iOS app stores. Some of these may have been ultimately reviewed on only one of the 2 operating systems (OSes) if the app was pulled from one of the two app stores or if the app was non-functional on one of the 2 OSes.\n\n**Permission To Name**: We asked app developers for permission to name their apps in our study. For more details, see the methods in the original manuscript.\n\n**y **- the developer gave us permission to name their app\n\n**n** - the developer did not give us permission to name their app\n\n**App Name**: This is the name of the app as entered by the reviewer. Though we did not report the developer in the dataset, the names of the developers for each of the named apps are available in the appendix accompanying the manuscript.\n\n**Reviewer:** Is the reviewer a clinician or non-clinician?\n\n**Options are**: clinician_reviewer or nonclinician_reviewer.\n\n**Platform:** This is the type of device on which the app was reviewed. Options are: iPhone, iPad or iPad Mini, Android phone, and Android tablet.\n\n**OS**: This is the operating system on which the app was reviewed. This was derived automatically from the platform. Options are: iOS, Android, and Both.\n\n***Reference: ***https://kdpsingh.lab.medicine.umich.edu/datasets/mobile-health-apps-evaluation-dataset",
+  "datasetId": 4746112,
+  "datasetSlug": "mobile-health-apps-evaluation-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "subhamsarkar2002",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 963,
+  "totalVotes": 9,
+  "totalDownloads": 128,
+  "title": "Health Apps Evaluation Dataset",
+  "hasTitle": true,
+  "subtitle": "Dataset serves as information aimed at evaluation of Mobile Health Apps",
+  "hasSubtitle": true,
+  "description": "## Few Parameters:\n\n**App ID**: This is a unique identifier we assigned to each app. AppIDs ending in b were originally discovered as being present on both the Android and iOS app stores. Some of these may have been ultimately reviewed on only one of the 2 operating systems (OSes) if the app was pulled from one of the two app stores or if the app was non-functional on one of the 2 OSes.\n\n**Permission To Name**: We asked app developers for permission to name their apps in our study. For more details, see the methods in the original manuscript.\n\n**y **- the developer gave us permission to name their app\n\n**n** - the developer did not give us permission to name their app\n\n**App Name**: This is the name of the app as entered by the reviewer. Though we did not report the developer in the dataset, the names of the developers for each of the named apps are available in the appendix accompanying the manuscript.\n\n**Reviewer:** Is the reviewer a clinician or non-clinician?\n\n**Options are**: clinician_reviewer or nonclinician_reviewer.\n\n**Platform:** This is the type of device on which the app was reviewed. Options are: iPhone, iPad or iPad Mini, Android phone, and Android tablet.\n\n**OS**: This is the operating system on which the app was reviewed. This was derived automatically from the platform. Options are: iOS, Android, and Both.\n\n***Reference: ***https://kdpsingh.lab.medicine.umich.edu/datasets/mobile-health-apps-evaluation-dataset",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "healthcare",
+    "public health",
+    "health",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

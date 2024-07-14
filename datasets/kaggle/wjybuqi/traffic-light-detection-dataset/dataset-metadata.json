@@ -1,0 +1,43 @@
+{
+  "id": "wjybuqi/traffic-light-detection-dataset",
+  "id_no": 1805330,
+  "datasetSlugNullable": "traffic-light-detection-dataset",
+  "ownerUserNullable": "wjybuqi",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "Traffic Light Detection Dataset",
+  "subtitleNullable": "Traffic light forecast",
+  "descriptionNullable": "This data set is based on CCF BDCI and is used for traffic light prediction\nThis data set contains 2600 artificially labeled traffic light categories and color labels. The traffic light category includes the following 9 categories:\n1. Motor vehicle signal light\n2. Non-motor vehicle signal lights\n3. Left turn non-motor vehicle signal light\n4. Crosswalk signal light\n5. Lane lights\n6. Direction indicator light\n7. Flashing warning light\n8. Crossing signal light\n9. U-turn signal light\nThe visualization of data and annotations is as follows, the lights of the same color are visualized with the same color:\n![](https://s3.cn-north-1.amazonaws.com.cn/files.datafountain.cn/uploads/admin/editor/2021-11-18/image-416981.png)\nPartial\uff1a\n![](https://s3.cn-north-1.amazonaws.com.cn/files.datafountain.cn/uploads/admin/editor/2021-11-18/image-854733.png)\nThe data set contains two folders anno and image. The anno folder contains 2600 label json files, and the image folder contains 3000 JPEG-encoded photos taken by the dash cam. The image tag serializes the dictionary in json format to save.",
+  "datasetId": 1805330,
+  "datasetSlug": "traffic-light-detection-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "wjybuqi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 36057,
+  "totalVotes": 79,
+  "totalDownloads": 3968,
+  "title": "Traffic Light Detection Dataset",
+  "hasTitle": true,
+  "subtitle": "Traffic light forecast",
+  "hasSubtitle": true,
+  "description": "This data set is based on CCF BDCI and is used for traffic light prediction\nThis data set contains 2600 artificially labeled traffic light categories and color labels. The traffic light category includes the following 9 categories:\n1. Motor vehicle signal light\n2. Non-motor vehicle signal lights\n3. Left turn non-motor vehicle signal light\n4. Crosswalk signal light\n5. Lane lights\n6. Direction indicator light\n7. Flashing warning light\n8. Crossing signal light\n9. U-turn signal light\nThe visualization of data and annotations is as follows, the lights of the same color are visualized with the same color:\n![](https://s3.cn-north-1.amazonaws.com.cn/files.datafountain.cn/uploads/admin/editor/2021-11-18/image-416981.png)\nPartial\uff1a\n![](https://s3.cn-north-1.amazonaws.com.cn/files.datafountain.cn/uploads/admin/editor/2021-11-18/image-854733.png)\nThe data set contains two folders anno and image. The anno folder contains 2600 label json files, and the image folder contains 3000 JPEG-encoded photos taken by the dash cam. The image tag serializes the dictionary in json format to save.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "classification",
+    "deep learning",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

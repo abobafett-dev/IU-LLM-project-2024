@@ -1,0 +1,39 @@
+{
+  "id": "mgocen/20-newsgroups",
+  "id_no": 71028,
+  "datasetSlugNullable": "20-newsgroups",
+  "ownerUserNullable": "mgocen",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "20Newsgroups",
+  "subtitleNullable": "Famous Text Database",
+  "descriptionNullable": "The original form of this dataset is at this page\n[http://qwone.com/~jason/20Newsgroups/][1]\n\nThe 20 Newsgroups data set is a collection of approximately 19K newsgroup documents\n\nThis version is third version that has 18828 documents\n\nAll files is converted to txt format\n\n\n  [1]: http://qwone.com/~jason/20Newsgroups/",
+  "datasetId": 71028,
+  "datasetSlug": "20-newsgroups",
+  "hasDatasetSlug": true,
+  "ownerUser": "mgocen",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 4158,
+  "totalVotes": 3,
+  "totalDownloads": 240,
+  "title": "20Newsgroups",
+  "hasTitle": true,
+  "subtitle": "Famous Text Database",
+  "hasSubtitle": true,
+  "description": "The original form of this dataset is at this page\n[http://qwone.com/~jason/20Newsgroups/][1]\n\nThe 20 Newsgroups data set is a collection of approximately 19K newsgroup documents\n\nThis version is third version that has 18828 documents\n\nAll files is converted to txt format\n\n\n  [1]: http://qwone.com/~jason/20Newsgroups/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "emmanueldjegou/sales-dataset",
+  "id_no": 2296978,
+  "datasetSlugNullable": "sales-dataset",
+  "ownerUserNullable": "emmanueldjegou",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Sales Dataset v1 for Marketing Analytics",
+  "subtitleNullable": "Importing, Viewing and Inspecting Data with Pandas DataFrames",
+  "descriptionNullable": "Tools such as Spark, STATA and SAS can be used to convert data from a semi-structured/unstructured format to a fully structured format. However, the most widely used in data science, because easily integrable, has rich functionalities and minimal cost, is the library pandas.\n\nThis Dataset can be used for introducing briefly the two primary objects of the library Pandas: DataFrame and Series.",
+  "datasetId": 2296978,
+  "datasetSlug": "sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "emmanueldjegou",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 5494,
+  "totalVotes": 26,
+  "totalDownloads": 579,
+  "title": "Sales Dataset v1 for Marketing Analytics",
+  "hasTitle": true,
+  "subtitle": "Importing, Viewing and Inspecting Data with Pandas DataFrames",
+  "hasSubtitle": true,
+  "description": "Tools such as Spark, STATA and SAS can be used to convert data from a semi-structured/unstructured format to a fully structured format. However, the most widely used in data science, because easily integrable, has rich functionalities and minimal cost, is the library pandas.\n\nThis Dataset can be used for introducing briefly the two primary objects of the library Pandas: DataFrame and Series.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "beginner",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

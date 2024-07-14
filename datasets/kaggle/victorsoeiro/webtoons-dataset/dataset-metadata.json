@@ -1,0 +1,43 @@
+{
+  "id": "victorsoeiro/webtoons-dataset",
+  "id_no": 2149461,
+  "datasetSlugNullable": "webtoons-dataset",
+  "ownerUserNullable": "victorsoeiro",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Webtoons Dataset",
+  "subtitleNullable": "A Dataset of a Collection of Original Comics from Webtoons",
+  "descriptionNullable": "<img src=\"https://media-exp1.licdn.com/dms/image/C561BAQF7mhzUFFpGQg/company-background_10000/0/1588199218989?e=2147483647&v=beta&t=jmdPaw4ITMyXHwfx5vv7QJ6TnzTNhYhpuX3wUfLrCgg\">\n\n### **Context**\n\nThe dataset contains +700 unique webtoons with 19 columns containing general information. The information contained in this dataset includes genres, authors, views, likes and etc. The information was scraped from the [Webtoons](https://www.webtoons.com/en/).\n\n### **Content**\n\nThis dataset contains only the premium content on Webtoons website. Each row of the dataset is a distinct webtoon, such as \"Get Schooled\" and \"Your Throne\". The columns contain information about the webtoons, scraped from their info page.\n\n- webtoon_id: Comic ID on Webtoons\n- title: Name of the comic\n- genre: Genre of the comic\n- thumbnail: Link to comic thumbnail\n- summary: Brief summary of the comic\n- episodes: Number of episodes\n- created_by: Who created the comic\n- views: Number of views\n- subscribers: Number of subscribers\n- grade: Average Rating on Webtoons\n- released_date: First episode release date\n- url: Comic URL\n- cover: Link to comic URL\n- likes: Number of likes\n- written_by: Who wrote the comic\n- art_by: Who made the art\n- adapted_by: Who adapted the comic\n- original_work_by: Original work \n- assisted_by: Who assisted the comic\n\n### **Acknowledgement**\n\nAll data were collected from [Webtoons](https://www.webtoons.com/en/).",
+  "datasetId": 2149461,
+  "datasetSlug": "webtoons-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "victorsoeiro",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 3475,
+  "totalVotes": 29,
+  "totalDownloads": 429,
+  "title": "Webtoons Dataset",
+  "hasTitle": true,
+  "subtitle": "A Dataset of a Collection of Original Comics from Webtoons",
+  "hasSubtitle": true,
+  "description": "<img src=\"https://media-exp1.licdn.com/dms/image/C561BAQF7mhzUFFpGQg/company-background_10000/0/1588199218989?e=2147483647&v=beta&t=jmdPaw4ITMyXHwfx5vv7QJ6TnzTNhYhpuX3wUfLrCgg\">\n\n### **Context**\n\nThe dataset contains +700 unique webtoons with 19 columns containing general information. The information contained in this dataset includes genres, authors, views, likes and etc. The information was scraped from the [Webtoons](https://www.webtoons.com/en/).\n\n### **Content**\n\nThis dataset contains only the premium content on Webtoons website. Each row of the dataset is a distinct webtoon, such as \"Get Schooled\" and \"Your Throne\". The columns contain information about the webtoons, scraped from their info page.\n\n- webtoon_id: Comic ID on Webtoons\n- title: Name of the comic\n- genre: Genre of the comic\n- thumbnail: Link to comic thumbnail\n- summary: Brief summary of the comic\n- episodes: Number of episodes\n- created_by: Who created the comic\n- views: Number of views\n- subscribers: Number of subscribers\n- grade: Average Rating on Webtoons\n- released_date: First episode release date\n- url: Comic URL\n- cover: Link to comic URL\n- likes: Number of likes\n- written_by: Who wrote the comic\n- art_by: Who made the art\n- adapted_by: Who adapted the comic\n- original_work_by: Original work \n- assisted_by: Who assisted the comic\n\n### **Acknowledgement**\n\nAll data were collected from [Webtoons](https://www.webtoons.com/en/).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "exploratory data analysis",
+    "recommender systems",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

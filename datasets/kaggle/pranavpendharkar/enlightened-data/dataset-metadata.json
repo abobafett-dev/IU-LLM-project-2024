@@ -1,0 +1,48 @@
+{
+  "id": "pranavpendharkar/enlightened-data",
+  "id_no": 3814542,
+  "datasetSlugNullable": "enlightened-data",
+  "ownerUserNullable": "pranavpendharkar",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Enhanced ATRW dataset",
+  "subtitleNullable": "Illumination Enhancement for Amur Tiger Dataset using EnlightenGAN",
+  "descriptionNullable": "Low Illumination Images(LIIs) are images with low quality illumination during sampling and quantization in low light environment. Similarly, in the ATRW dataset, there are significant number of images with degraded illumination. Moreover, traditional approaches fail to adapt to the pixel distribution of each image and result in extreme alterations. Therefore, we provide applied the EnlightenGAN to the ATRW dataset to experiment any potential improvement in the detection precision. Here, is a sample of images before and after the illumination enhancement.\n\n***Before Illumination:***\n\n<img src=\"https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8194499%2F5fa33f95a6b6366ee835e2f43dbc8ca0%2F0003.jpg?generation=1696439109856759&alt=media\">\n\n***After Illumination:***\n\n<img src=\"https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8194499%2F513f1e65582a7e97db9b677255d221ba%2F0003.jpg?generation=1696439204310412&alt=media\">",
+  "datasetId": 3814542,
+  "datasetSlug": "enlightened-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "pranavpendharkar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 271,
+  "totalVotes": 3,
+  "totalDownloads": 30,
+  "title": "Enhanced ATRW dataset",
+  "hasTitle": true,
+  "subtitle": "Illumination Enhancement for Amur Tiger Dataset using EnlightenGAN",
+  "hasSubtitle": true,
+  "description": "Low Illumination Images(LIIs) are images with low quality illumination during sampling and quantization in low light environment. Similarly, in the ATRW dataset, there are significant number of images with degraded illumination. Moreover, traditional approaches fail to adapt to the pixel distribution of each image and result in extreme alterations. Therefore, we provide applied the EnlightenGAN to the ATRW dataset to experiment any potential improvement in the detection precision. Here, is a sample of images before and after the illumination enhancement.\n\n***Before Illumination:***\n\n<img src=\"https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8194499%2F5fa33f95a6b6366ee835e2f43dbc8ca0%2F0003.jpg?generation=1696439109856759&alt=media\">\n\n***After Illumination:***\n\n<img src=\"https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8194499%2F513f1e65582a7e97db9b677255d221ba%2F0003.jpg?generation=1696439204310412&alt=media\">",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "gan",
+    "image",
+    "yolo",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "gauravpendharkar",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

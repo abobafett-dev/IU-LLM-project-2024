@@ -1,0 +1,39 @@
+{
+  "id": "gauravduttakiit/the-great-real-estate-data-challenge",
+  "id_no": 3177841,
+  "datasetSlugNullable": "the-great-real-estate-data-challenge",
+  "ownerUserNullable": "gauravduttakiit",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "The Great Real Estate Data Challenge",
+  "subtitleNullable": "",
+  "descriptionNullable": "Suppose there is an investment fund planning to invest in properties at hundreds of locations. \ud83c\udfe0 Based on the previous millions of property sales over the past few years, the fund house wants to identify the property which can result in a higher gain on investment. \ud83d\udcb0 They can not go by analyzing all the properties one by one. \ud83e\udd14 So they want the segmentation of properties so that they can look into their target segments. \ud83c\udfaf So this challenge is going to help them by easily identifying their target properties using advanced AI and Analytics. \ud83d\udd0d\n\nIn the first week, you will receive a dataset of real estate properties with locality, estimated price, and selling price for the last 23 years. \ud83d\udcca The task is to identify the input features in the dataset and use them to predict the sale price of a property. \ud83d\udd2e After this modelling of input and output features, predict the sale price of all the properties in the test dataset. \ud83d\udcb5 Once the sale prices for the test data are predicted, put these properties into 4 segments. \ud83d\udd22 These segments can be formed according to the gain. \ud83d\udcb9 The gain is calculated based on the estimated price and predicted sale price (Gain = (Sale price - Estimated price)/100).\n\nFinally, you need to submit your results as the segment level for each of the properties given in the test data. \ud83d\udcdd For reference, the properties need to be segmented into the following 4 segments according to the gain calculated based on the predicted sale:-\n\n0: Premium Properties \ud83d\udcb0\ud83c\udff0\n1: Valuable Properties \ud83d\udc8e\ud83c\udfe1\n2: Standard Properties \ud83c\udfd8\ufe0f\ud83d\udcb8\n3: Budget Properties  \ud83c\udfe0\ud83d\udcb5",
+  "datasetId": 3177841,
+  "datasetSlug": "the-great-real-estate-data-challenge",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravduttakiit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 3148,
+  "totalVotes": 13,
+  "totalDownloads": 352,
+  "title": "The Great Real Estate Data Challenge",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Suppose there is an investment fund planning to invest in properties at hundreds of locations. \ud83c\udfe0 Based on the previous millions of property sales over the past few years, the fund house wants to identify the property which can result in a higher gain on investment. \ud83d\udcb0 They can not go by analyzing all the properties one by one. \ud83e\udd14 So they want the segmentation of properties so that they can look into their target segments. \ud83c\udfaf So this challenge is going to help them by easily identifying their target properties using advanced AI and Analytics. \ud83d\udd0d\n\nIn the first week, you will receive a dataset of real estate properties with locality, estimated price, and selling price for the last 23 years. \ud83d\udcca The task is to identify the input features in the dataset and use them to predict the sale price of a property. \ud83d\udd2e After this modelling of input and output features, predict the sale price of all the properties in the test dataset. \ud83d\udcb5 Once the sale prices for the test data are predicted, put these properties into 4 segments. \ud83d\udd22 These segments can be formed according to the gain. \ud83d\udcb9 The gain is calculated based on the estimated price and predicted sale price (Gain = (Sale price - Estimated price)/100).\n\nFinally, you need to submit your results as the segment level for each of the properties given in the test data. \ud83d\udcdd For reference, the properties need to be segmented into the following 4 segments according to the gain calculated based on the predicted sale:-\n\n0: Premium Properties \ud83d\udcb0\ud83c\udff0\n1: Valuable Properties \ud83d\udc8e\ud83c\udfe1\n2: Standard Properties \ud83c\udfd8\ufe0f\ud83d\udcb8\n3: Budget Properties  \ud83c\udfe0\ud83d\udcb5",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

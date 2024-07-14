@@ -1,0 +1,43 @@
+{
+  "id": "muhammeddalkran/catvnoncat",
+  "id_no": 728790,
+  "datasetSlugNullable": "catvnoncat",
+  "ownerUserNullable": "muhammeddalkran",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "catvnoncat",
+  "subtitleNullable": "Dataset includes cat images and non-cat images. ",
+  "descriptionNullable": "### Context\nClassification is one of the most popular topics in computer vision, deep learning, and machine learning. Catvnoncat datasets may be used in this area.  \nIt is given by CS - 484 (Introduction to Computer Vision) instructor at Bilkent University for a homework assignment. \n\n### Content\n\nThe Dataset includes two classes which are cat and non-cat. \n\n### Details of datasets:\n\n* Image size: 64x64\n* Color space: RGB\n* File format: h5\n* Number of classes: 2 (cat, non-cat)\n* Number of train images: 209\n* Number of test images: 50\n\n  \n\n\n\n\n",
+  "datasetId": 728790,
+  "datasetSlug": "catvnoncat",
+  "hasDatasetSlug": true,
+  "ownerUser": "muhammeddalkran",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 10376,
+  "totalVotes": 14,
+  "totalDownloads": 2072,
+  "title": "catvnoncat",
+  "hasTitle": true,
+  "subtitle": "Dataset includes cat images and non-cat images. ",
+  "hasSubtitle": true,
+  "description": "### Context\nClassification is one of the most popular topics in computer vision, deep learning, and machine learning. Catvnoncat datasets may be used in this area.  \nIt is given by CS - 484 (Introduction to Computer Vision) instructor at Bilkent University for a homework assignment. \n\n### Content\n\nThe Dataset includes two classes which are cat and non-cat. \n\n### Details of datasets:\n\n* Image size: 64x64\n* Color space: RGB\n* File format: h5\n* Number of classes: 2 (cat, non-cat)\n* Number of train images: 209\n* Number of test images: 50\n\n  \n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "animals",
+    "education",
+    "computer science",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

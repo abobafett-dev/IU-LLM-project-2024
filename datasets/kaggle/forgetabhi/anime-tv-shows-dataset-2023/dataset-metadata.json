@@ -1,0 +1,39 @@
+{
+  "id": "forgetabhi/anime-tv-shows-dataset-2023",
+  "id_no": 4362439,
+  "datasetSlugNullable": "anime-tv-shows-dataset-2023",
+  "ownerUserNullable": "forgetabhi",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Anime TV-Shows Dataset 2023",
+  "subtitleNullable": "Top 4000 Anime TV Shows with Scores",
+  "descriptionNullable": "# Anime Dataset\n\n## Overview\n\nThis dataset contains information about various anime series, including details such as the name, number of episodes, release date, number of members, and user scores. It is a curated list of popular anime series as of the date of creation, with a total of 4700 rows.\n\n## Columns\n\n- **Name**: The title of the anime series.\n- **Episodes**: The total number of episodes in the series.\n- **Release**: The release date range of the anime.\n- **Members**: The number of MyAnimeList users who have added the anime to their lists.\n- **Score**: The user score for the anime.\n\n## Usage\n\nThis dataset can be used for various purposes, including:\n\n- Exploratory Data Analysis (EDA) of anime trends.\n- Building recommendation systems based on user scores and other features.\n- Understanding the popularity and user engagement of different anime series.\n\n## Example Questions\n\n1. What are the top-rated anime series based on user scores?\n2. How does the number of episodes correlate with user scores?\n3. Are there any trends in the popularity of anime over the years?\n\n## Acknowledgements\n\nThe data was scraped from MyAnimeList, a popular anime and manga database. Special thanks to MyAnimeList for providing a platform for anime enthusiasts to track and discover new series.\n",
+  "datasetId": 4362439,
+  "datasetSlug": "anime-tv-shows-dataset-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "forgetabhi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 2756,
+  "totalVotes": 34,
+  "totalDownloads": 434,
+  "title": "Anime TV-Shows Dataset 2023",
+  "hasTitle": true,
+  "subtitle": "Top 4000 Anime TV Shows with Scores",
+  "hasSubtitle": true,
+  "description": "# Anime Dataset\n\n## Overview\n\nThis dataset contains information about various anime series, including details such as the name, number of episodes, release date, number of members, and user scores. It is a curated list of popular anime series as of the date of creation, with a total of 4700 rows.\n\n## Columns\n\n- **Name**: The title of the anime series.\n- **Episodes**: The total number of episodes in the series.\n- **Release**: The release date range of the anime.\n- **Members**: The number of MyAnimeList users who have added the anime to their lists.\n- **Score**: The user score for the anime.\n\n## Usage\n\nThis dataset can be used for various purposes, including:\n\n- Exploratory Data Analysis (EDA) of anime trends.\n- Building recommendation systems based on user scores and other features.\n- Understanding the popularity and user engagement of different anime series.\n\n## Example Questions\n\n1. What are the top-rated anime series based on user scores?\n2. How does the number of episodes correlate with user scores?\n3. Are there any trends in the popularity of anime over the years?\n\n## Acknowledgements\n\nThe data was scraped from MyAnimeList, a popular anime and manga database. Special thanks to MyAnimeList for providing a platform for anime enthusiasts to track and discover new series.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

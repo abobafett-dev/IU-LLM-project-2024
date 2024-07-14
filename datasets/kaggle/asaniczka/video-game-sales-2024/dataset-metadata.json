@@ -1,0 +1,43 @@
+{
+  "id": "asaniczka/video-game-sales-2024",
+  "id_no": 4371999,
+  "datasetSlugNullable": "video-game-sales-2024",
+  "ownerUserNullable": "asaniczka",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Video Game Sales 2024",
+  "subtitleNullable": "Video Game Sale Data for Over 64,000 Games",
+  "descriptionNullable": "This dataset is a continuation of @[baynebrannen](https://www.kaggle.com/baynebrannen)'s [2020 Video Game Sales](https://www.kaggle.com/datasets/baynebrannen/video-game-sales-2020) dataset and @ashaheedq's  [2019 Video Games Sales](https://www.kaggle.com/datasets/ashaheedq/video-games-sales-2019)  dataset.\n\nCreation of this dataset was inspired by @[VinceTheCat02](https://www.reddit.com/user/VinceTheCat02/).\n\nData was collected by running the spider written by @baynebrannen to create his version of the dataset. \n\n- I haven't made any major modification to the collection methodology or the dataset structure. \n- I have removed a few unhelpful columns such as `'vg_score', 'user_score', and 'total_shipped'` as these columns mostly contained null values. \n- All the other columns remain the same.\n\n\n---\n\nPhoto by <a href=\"https://unsplash.com/@jeshoots?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">JESHOOTS.COM</a> on <a href=\"https://unsplash.com/photos/two-people-playing-sony-ps4-game-console-eCktzGjC-iU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>\n  ",
+  "datasetId": 4371999,
+  "datasetSlug": "video-game-sales-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "asaniczka",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 23349,
+  "totalVotes": 103,
+  "totalDownloads": 5093,
+  "title": "Video Game Sales 2024",
+  "hasTitle": true,
+  "subtitle": "Video Game Sale Data for Over 64,000 Games",
+  "hasSubtitle": true,
+  "description": "This dataset is a continuation of @[baynebrannen](https://www.kaggle.com/baynebrannen)'s [2020 Video Game Sales](https://www.kaggle.com/datasets/baynebrannen/video-game-sales-2020) dataset and @ashaheedq's  [2019 Video Games Sales](https://www.kaggle.com/datasets/ashaheedq/video-games-sales-2019)  dataset.\n\nCreation of this dataset was inspired by @[VinceTheCat02](https://www.reddit.com/user/VinceTheCat02/).\n\nData was collected by running the spider written by @baynebrannen to create his version of the dataset. \n\n- I haven't made any major modification to the collection methodology or the dataset structure. \n- I have removed a few unhelpful columns such as `'vg_score', 'user_score', and 'total_shipped'` as these columns mostly contained null values. \n- All the other columns remain the same.\n\n\n---\n\nPhoto by <a href=\"https://unsplash.com/@jeshoots?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">JESHOOTS.COM</a> on <a href=\"https://unsplash.com/photos/two-people-playing-sony-ps4-game-console-eCktzGjC-iU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>\n  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "video games",
+    "economics",
+    "electronics",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

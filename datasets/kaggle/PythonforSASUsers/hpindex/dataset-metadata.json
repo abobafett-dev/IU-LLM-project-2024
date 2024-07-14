@@ -1,0 +1,39 @@
+{
+  "id": "/hpindex",
+  "id_no": 500,
+  "datasetSlugNullable": "hpindex",
+  "ownerUserNullable": null,
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Home Price Index",
+  "subtitleNullable": "Housing indexed prices from January 1991 to August 2016",
+  "descriptionNullable": "# Context \n\nThe Federal Housing Finance Agency House Price Index (HPI) is a broad measure of the movement of single-family house prices. The HPI is a weighted, repeat-sales index, meaning that it measures average price changes in repeat sales or refinancings on the same properties.  The technical methodology for devising the index, collection, and publishing the data is at:\nhttp://www.fhfa.gov/PolicyProgramsResearch/Research/PaperDocuments/1996-03_HPI_TechDescription_N508.pdf\n\n# Content\n\nContains monthly and quarterly time series from January 1991 to August 2016 for the U.S., state, and MSA categories.  Analysis variables are the aggregate non-seasonally adjusted value and seasonally adjusted index values.  The index value is 100 beginning January 1991.  \n\n\n# Acknowledgements\n\nThis data is found on Data.gov\n\n\n# Inspiration\n\nCan this data be combined with the corresponding census growth projections either at the state or MSA level to forecast 24 months out the highest and lowest home index values?",
+  "datasetId": 500,
+  "datasetSlug": "hpindex",
+  "hasDatasetSlug": true,
+  "ownerUser": "",
+  "hasOwnerUser": false,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 46592,
+  "totalVotes": 77,
+  "totalDownloads": 4572,
+  "title": "Home Price Index",
+  "hasTitle": true,
+  "subtitle": "Housing indexed prices from January 1991 to August 2016",
+  "hasSubtitle": true,
+  "description": "# Context \n\nThe Federal Housing Finance Agency House Price Index (HPI) is a broad measure of the movement of single-family house prices. The HPI is a weighted, repeat-sales index, meaning that it measures average price changes in repeat sales or refinancings on the same properties.  The technical methodology for devising the index, collection, and publishing the data is at:\nhttp://www.fhfa.gov/PolicyProgramsResearch/Research/PaperDocuments/1996-03_HPI_TechDescription_N508.pdf\n\n# Content\n\nContains monthly and quarterly time series from January 1991 to August 2016 for the U.S., state, and MSA categories.  Analysis variables are the aggregate non-seasonally adjusted value and seasonally adjusted index values.  The index value is 100 beginning January 1991.  \n\n\n# Acknowledgements\n\nThis data is found on Data.gov\n\n\n# Inspiration\n\nCan this data be combined with the corresponding census growth projections either at the state or MSA level to forecast 24 months out the highest and lowest home index values?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

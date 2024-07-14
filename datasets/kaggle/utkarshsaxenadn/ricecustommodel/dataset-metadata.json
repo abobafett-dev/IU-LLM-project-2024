@@ -1,0 +1,39 @@
+{
+  "id": "utkarshsaxenadn/ricecustommodel",
+  "id_no": 2424603,
+  "datasetSlugNullable": "ricecustommodel",
+  "ownerUserNullable": "utkarshsaxenadn",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Rice Classfication Custom CNN Model",
+  "subtitleNullable": "Custom CNN Model Ttrained on Rice Dataset with 99% Accuracy.",
+  "descriptionNullable": "The file contains the weights of the **Custom CNN Model** trained on the **Rice Dataset** for **Image Classification Task**. As the name suggest this is a model trained from scratch using **CNN and other layers**. The model achieved an astounding **Accuracy of 99%**.",
+  "datasetId": 2424603,
+  "datasetSlug": "ricecustommodel",
+  "hasDatasetSlug": true,
+  "ownerUser": "utkarshsaxenadn",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2119,
+  "totalVotes": 10,
+  "totalDownloads": 198,
+  "title": "Rice Classfication Custom CNN Model",
+  "hasTitle": true,
+  "subtitle": "Custom CNN Model Ttrained on Rice Dataset with 99% Accuracy.",
+  "hasSubtitle": true,
+  "description": "The file contains the weights of the **Custom CNN Model** trained on the **Rice Dataset** for **Image Classification Task**. As the name suggest this is a model trained from scratch using **CNN and other layers**. The model achieved an astounding **Accuracy of 99%**.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "pre-trained model"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "rabieelkharoua/eeg-auditory-disorders-classification-dataset",
+  "id_no": 4876274,
+  "datasetSlugNullable": "eeg-auditory-disorders-classification-dataset",
+  "ownerUserNullable": "rabieelkharoua",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "EEG Auditory Disorders Classification Dataset",
+  "subtitleNullable": "Multi-view Brain Networks",
+  "descriptionNullable": "Multi-layer brain network datasets derived from the resting-state electroencephalography (EEG) data.\n\n**Dataset Characteristics:** Multivariate\n\n**Subject Area:** Health and Medicine\n\n**Associated Tasks:** Classification, Clustering\n\n**Feature Type:** Integer\n\n**Instances:** 70\n\n**Features:** 70\n\n#Introduction and Data Collection\n\nFor constructing the multi-layer brain network datasets, we collect the resting-state electroencephalography (EEG) data from the Department of Otolaryngology of Sun Yat-sen Memorial Hospital, Sun Yat-sen University. Three types of subjects participate in the experiments, namely 51 deafness patients, 54 tinnitus patients, and 42 normal controls.\n\n#EEG Data Acquisition and Preprocessing\n\nThe EEG data are collected using an EEG analyzer with 128 scalp electrodes from Electrical Geodesics, Inc. Standard data acquisition and preprocessing procedures are applied, resulting in 128 electrode EEG data. Among these, only 70 electrodes belonging to the ten regions of interest (ROI) are used for analysis.\n\n#Electrode Classification and Ground-Truth Community Labels\n\nThe 70 electrodes are divided into two classes based on their locations in upper and lower regions of interest (ROIs). Ground-truth community labels are assigned accordingly. Additionally, two reference electrodes are identified and excluded from the study.\n\n#Feature Extraction with EEGLAB2\n\nThe STUDY module of EEGLAB2 is utilized to extract features from the preprocessed EEG data. Specifically, power values of different frequency bands are extracted. Nine frequency bands are considered, ranging from Delta to Gamma2.\n\n#Interconnection Construction and Network Formation\n\nPearson correlation coefficients are calculated between each pair of electrodes for each subject within each frequency band. The average correlation coefficient over the respective group (deafness patients, tinnitus patients, normal controls) is calculated. Electrodes with an average correlation coefficient of at least 0.3 are interconnected, forming a 9-layer network for each group, named DBrain, TBrain, and NBrain for deafness patients, tinnitus patients, and normal controls, respectively.\n\n\n\n\n\n",
+  "datasetId": 4876274,
+  "datasetSlug": "eeg-auditory-disorders-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rabieelkharoua",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 643,
+  "totalVotes": 15,
+  "totalDownloads": 53,
+  "title": "EEG Auditory Disorders Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Multi-view Brain Networks",
+  "hasSubtitle": true,
+  "description": "Multi-layer brain network datasets derived from the resting-state electroencephalography (EEG) data.\n\n**Dataset Characteristics:** Multivariate\n\n**Subject Area:** Health and Medicine\n\n**Associated Tasks:** Classification, Clustering\n\n**Feature Type:** Integer\n\n**Instances:** 70\n\n**Features:** 70\n\n#Introduction and Data Collection\n\nFor constructing the multi-layer brain network datasets, we collect the resting-state electroencephalography (EEG) data from the Department of Otolaryngology of Sun Yat-sen Memorial Hospital, Sun Yat-sen University. Three types of subjects participate in the experiments, namely 51 deafness patients, 54 tinnitus patients, and 42 normal controls.\n\n#EEG Data Acquisition and Preprocessing\n\nThe EEG data are collected using an EEG analyzer with 128 scalp electrodes from Electrical Geodesics, Inc. Standard data acquisition and preprocessing procedures are applied, resulting in 128 electrode EEG data. Among these, only 70 electrodes belonging to the ten regions of interest (ROI) are used for analysis.\n\n#Electrode Classification and Ground-Truth Community Labels\n\nThe 70 electrodes are divided into two classes based on their locations in upper and lower regions of interest (ROIs). Ground-truth community labels are assigned accordingly. Additionally, two reference electrodes are identified and excluded from the study.\n\n#Feature Extraction with EEGLAB2\n\nThe STUDY module of EEGLAB2 is utilized to extract features from the preprocessed EEG data. Specifically, power values of different frequency bands are extracted. Nine frequency bands are considered, ranging from Delta to Gamma2.\n\n#Interconnection Construction and Network Formation\n\nPearson correlation coefficients are calculated between each pair of electrodes for each subject within each frequency band. The average correlation coefficient over the respective group (deafness patients, tinnitus patients, normal controls) is calculated. Electrodes with an average correlation coefficient of at least 0.3 are interconnected, forming a 9-layer network for each group, named DBrain, TBrain, and NBrain for deafness patients, tinnitus patients, and normal controls, respectively.\n\n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "neuroscience",
+    "health",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

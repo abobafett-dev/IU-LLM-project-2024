@@ -1,0 +1,41 @@
+{
+  "id": "whenamancodes/sustainable-development-report-2022",
+  "id_no": 2579712,
+  "datasetSlugNullable": "sustainable-development-report-2022",
+  "ownerUserNullable": "whenamancodes",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Sustainable Development Report 2022",
+  "subtitleNullable": "Sustainable Development Report 2022",
+  "descriptionNullable": "The Sustainable Development Report (SDR) reviews progress made each year on the Sustainable Development Goals since their adoption by the 193 UN Member States in 2015. Fifty years after the release of Limits to Growth and the first UN Conference on the Environment, held in Stockholm in 1972, this 7th edition of the SDR is published amid multiple health, security and climate crises. The fundamental SDG principles of social inclusion, international cooperation, responsible production and consumption, and universal access to clean energy are needed more than ever to fight these major\nchallenges of our times. Ahead of the SDG Summit in September 2023, which will convene at the level of heads of state under the auspices of the UN General Assembly, the SDR 2022 identifies major priorities to restore and accelerate SDG progress towards 2030 and beyond.\n\nThe SDR 2022 combines data and analyses produced by international organizations, civil society organizations, and research centers. We thank all of these for their contributions and collaboration in producing the report, including during the annual public consultation process that took place in March and April 2022.\n\n### This database contains the following information :\n| Datasets | Description |\n| --- | --- |\n| Overview | Overall results for all countries, including index score, goal dashboard, and trend dashboard for all indicators and goals |\n| Codebook | List of indicators, bounds and thresholds |\n| SDR2022 Data | The SDR2022 data for all countries; includes spillover score, raw values, normalized scores, dashboard ratings, trends & goal scores. |\n| Raw Data | Raw data for all countries by indicator |\n| Raw Data - Trend inds | Panel data used for generating trend analysis |\n| Backdated SDG Index | The SDG Index Score, and all goal and indicator scores, retroactively calculated across time using time series data that was carried forward in years with missing data. |\n\n- Read More [Here](https://dashboards.sdgindex.org/chapters)\n- Find more details [Here](https://s3.amazonaws.com/sustainabledevelopment.report/2022/2022-sustainable-development-report.pdf)\n\n### Reference and Citation :\nSachs, J., Lafortune, G., Kroll, C., Fuller, G., Woelm, F., (2022). From Crisis to Sustainable Development: the SDGs as Roadmap to 2030 and Beyond. Sustainable Development Report 2022. Cambridge: Cambridge University Press.",
+  "datasetId": 2579712,
+  "datasetSlug": "sustainable-development-report-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "whenamancodes",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 1953,
+  "totalVotes": 6,
+  "totalDownloads": 297,
+  "title": "Sustainable Development Report 2022",
+  "hasTitle": true,
+  "subtitle": "Sustainable Development Report 2022",
+  "hasSubtitle": true,
+  "description": "The Sustainable Development Report (SDR) reviews progress made each year on the Sustainable Development Goals since their adoption by the 193 UN Member States in 2015. Fifty years after the release of Limits to Growth and the first UN Conference on the Environment, held in Stockholm in 1972, this 7th edition of the SDR is published amid multiple health, security and climate crises. The fundamental SDG principles of social inclusion, international cooperation, responsible production and consumption, and universal access to clean energy are needed more than ever to fight these major\nchallenges of our times. Ahead of the SDG Summit in September 2023, which will convene at the level of heads of state under the auspices of the UN General Assembly, the SDR 2022 identifies major priorities to restore and accelerate SDG progress towards 2030 and beyond.\n\nThe SDR 2022 combines data and analyses produced by international organizations, civil society organizations, and research centers. We thank all of these for their contributions and collaboration in producing the report, including during the annual public consultation process that took place in March and April 2022.\n\n### This database contains the following information :\n| Datasets | Description |\n| --- | --- |\n| Overview | Overall results for all countries, including index score, goal dashboard, and trend dashboard for all indicators and goals |\n| Codebook | List of indicators, bounds and thresholds |\n| SDR2022 Data | The SDR2022 data for all countries; includes spillover score, raw values, normalized scores, dashboard ratings, trends & goal scores. |\n| Raw Data | Raw data for all countries by indicator |\n| Raw Data - Trend inds | Panel data used for generating trend analysis |\n| Backdated SDG Index | The SDG Index Score, and all goal and indicator scores, retroactively calculated across time using time series data that was carried forward in years with missing data. |\n\n- Read More [Here](https://dashboards.sdgindex.org/chapters)\n- Find more details [Here](https://s3.amazonaws.com/sustainabledevelopment.report/2022/2022-sustainable-development-report.pdf)\n\n### Reference and Citation :\nSachs, J., Lafortune, G., Kroll, C., Fuller, G., Woelm, F., (2022). From Crisis to Sustainable Development: the SDGs as Roadmap to 2030 and Beyond. Sustainable Development Report 2022. Cambridge: Cambridge University Press.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "exploratory data analysis",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

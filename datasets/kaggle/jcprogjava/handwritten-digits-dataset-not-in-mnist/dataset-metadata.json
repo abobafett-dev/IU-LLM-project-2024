@@ -1,0 +1,43 @@
+{
+  "id": "jcprogjava/handwritten-digits-dataset-not-in-mnist",
+  "id_no": 1090726,
+  "datasetSlugNullable": "handwritten-digits-dataset-not-in-mnist",
+  "ownerUserNullable": "jcprogjava",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Handwritten Digits Dataset (not in MNIST)",
+  "subtitleNullable": "A collection of 107730 digits in PNG format that is not from the MNIST dataset.",
+  "descriptionNullable": "### Content\n\nA collection of 107,730 digits in 28x28 PNG format. Note that these images weren't created from the MNIST dataset. Pictures are named from 0-10772 for each digit and placed into folders named after the digit they store. The correct classification of the digit is shown before the filename, separated by '\\'.\n\n#### Example\n&gt; 0\\0.png (start of zeroes in dataset)\n&gt; ...\n&gt; 0\\10772.png (end of zeroes in dataset)\n\n&gt; 1\\0.png (start of the ones in the dataset)\n&gt; ...\n&gt; 1\\10772.png (end of the ones in the dataset)\n\n\n### Notes & Remarks\nKaggle automatically unzipped this dataset and created an extra folder inside each digit folder (probably because of the '\\' in filenames). You can download the same dataset [here](https://github.com/JC-ProgJava/Handwritten-Digit-Dataset) formatted as specified above.\n\n### See also\nPlease also take a look at the [repository](https://github.com/JC-ProgJava/Handwritten-Digit-Dataset), where you can also find instructions on creating your own dataset.\n\n### Acknowledgements\n\n[Cover image source](https://stackoverflow.com/questions/44914035/how-to-centralize-and-resize-digits-using-opencv)\n",
+  "datasetId": 1090726,
+  "datasetSlug": "handwritten-digits-dataset-not-in-mnist",
+  "hasDatasetSlug": true,
+  "ownerUser": "jcprogjava",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 12276,
+  "totalVotes": 21,
+  "totalDownloads": 1944,
+  "title": "Handwritten Digits Dataset (not in MNIST)",
+  "hasTitle": true,
+  "subtitle": "A collection of 107730 digits in PNG format that is not from the MNIST dataset.",
+  "hasSubtitle": true,
+  "description": "### Content\n\nA collection of 107,730 digits in 28x28 PNG format. Note that these images weren't created from the MNIST dataset. Pictures are named from 0-10772 for each digit and placed into folders named after the digit they store. The correct classification of the digit is shown before the filename, separated by '\\'.\n\n#### Example\n&gt; 0\\0.png (start of zeroes in dataset)\n&gt; ...\n&gt; 0\\10772.png (end of zeroes in dataset)\n\n&gt; 1\\0.png (start of the ones in the dataset)\n&gt; ...\n&gt; 1\\10772.png (end of the ones in the dataset)\n\n\n### Notes & Remarks\nKaggle automatically unzipped this dataset and created an extra folder inside each digit folder (probably because of the '\\' in filenames). You can download the same dataset [here](https://github.com/JC-ProgJava/Handwritten-Digit-Dataset) formatted as specified above.\n\n### See also\nPlease also take a look at the [repository](https://github.com/JC-ProgJava/Handwritten-Digit-Dataset), where you can also find instructions on creating your own dataset.\n\n### Acknowledgements\n\n[Cover image source](https://stackoverflow.com/questions/44914035/how-to-centralize-and-resize-digits-using-opencv)\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "classification",
+    "deep learning",
+    "neural networks",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "studymart/nlp-fake-news",
+  "id_no": 3839320,
+  "datasetSlugNullable": "nlp-fake-news",
+  "ownerUserNullable": "studymart",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "NLP - Fake News",
+  "subtitleNullable": "Class/Label (0 = fake and 1 = real)",
+  "descriptionNullable": "The dataset contains four columns: Serial number (starting from 0); Title (about the text news heading); Text (about the news content); and Class/Label (0 = fake and 1 = real).",
+  "datasetId": 3839320,
+  "datasetSlug": "nlp-fake-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "studymart",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 388,
+  "totalVotes": 0,
+  "totalDownloads": 89,
+  "title": "NLP - Fake News",
+  "hasTitle": true,
+  "subtitle": "Class/Label (0 = fake and 1 = real)",
+  "hasSubtitle": true,
+  "description": "The dataset contains four columns: Serial number (starting from 0); Title (about the text news heading); Text (about the news content); and Class/Label (0 = fake and 1 = real).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

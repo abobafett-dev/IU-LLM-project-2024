@@ -1,0 +1,48 @@
+{
+  "id": "parsabg/stocknewseventssentiment-snes-10",
+  "id_no": 2367558,
+  "datasetSlugNullable": "stocknewseventssentiment-snes-10",
+  "ownerUserNullable": "parsabg",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Stock-NewsEventsSentiment (SNES) 1.0",
+  "subtitleNullable": "A time-series dataset for joint news and market data analysis of stocks",
+  "descriptionNullable": "Stock-NewsEventsSentiment (SNES) 1.0\u200a is a dataset consisting of market and news time series data for S&P 500 companies over a period of 21 months (October 2020 to July 2022). The dataset contains the following parameters for each company (daily ticks):\n\n- Market data: Stock price and trade volumes\n- News data (volume of articles):\n-- Sentiment (positive/negative)\n-- New Products\n-- Layoffs\n-- Analyst Comments\n-- Stocks\n-- Dividends\n-- Corporate Earnings\n-- Mergers & Acquisitions\n-- Store Openings\n-- Product Recalls\n-- Adverse Events\n-- Personnel Changes\n-- Stock Rumours\n\nResources:\n\n- Read more about SNES 1.0 [here](https://medium.com/@parsaghaffari/stock-newseventssentiment-snes-1-0-a92c8748b2c3)\n- Check out [Aylien's News API](https://aylien.com/product/news-api) - the main API behind this dataset.\n- See the code used for compiling the dataset [here](https://colab.research.google.com/drive/1Nd5aDPNxL44pVesv4muIqBN8xwQI9hfV?authuser=1#scrollTo=nTCT0ZgZWWyu).\n\n![](https://www.kaggleusercontent.com/kf/101833090/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..iQWprmEBO9-W3tJnXlV6Dw.1kJHDt8ySvXNhLL9XhChsuR_tQIGCVkZxipSSHxTdQ0be4Kz5XY-RzXYZO01fGb3WuCpHY3_SF3oDYnruXu2iseopmjjIu4Fyeh_nuHz2Ckr7UBQHkQGmoTNp8NjnXYJ-WrOkZG35CMBzdwJBKHXTQwyUqLfqFVaqSp4deBmcXTW3U_U1lpYs30ULxx7VPSzOdDZKbiXvSPYpJIm5YN8occ1HlrGzXC3QklLrBADnHvsEEte8uNKwFCdNZ3FJX8jyxEuE6jRf0HheGqHCQ_ZgfvNenXpwhoH6Les7gAiYOx4G7gBpE2cnhvloqusJe7gvW4f7T7zv_NCrhTe40SfzO6YxlT49UAok0j4TyNpj9LBn25D4eyC1w4wfqE4w9pUE0IM0HmuBsLrsmdZBgnNzCpRk-whaccNi7gccy32Utv40w1AEYkowNjI-iwlfetSwXBFfltA5ETDWBRCrhCHmWITF3OGsDTuKT0tAizbwfNdjBFiDMHtJPAZ4jTutWX0jioWQVwgdIk8j6rQvHJk3ecG16Kn8kiQgAb_D_ts7oV7aQo1yrmlKxnaSRX6xrS4oC1MHuGoW1ZP4OnnUhkQBBryNKNdMnUk49ifd0PbYbOD2jDy-kiGVanf1nQSDwaXNiDVijHkDOxL1-d3R2hpupVZNSgMnuGUSnA0aF67gig.TKd-E32Ni9ig_a8ZQbuadw/__results___files/__results___4_0.png)",
+  "datasetId": 2367558,
+  "datasetSlug": "stocknewseventssentiment-snes-10",
+  "hasDatasetSlug": true,
+  "ownerUser": "parsabg",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 4671,
+  "totalVotes": 20,
+  "totalDownloads": 727,
+  "title": "Stock-NewsEventsSentiment (SNES) 1.0",
+  "hasTitle": true,
+  "subtitle": "A time-series dataset for joint news and market data analysis of stocks",
+  "hasSubtitle": true,
+  "description": "Stock-NewsEventsSentiment (SNES) 1.0\u200a is a dataset consisting of market and news time series data for S&P 500 companies over a period of 21 months (October 2020 to July 2022). The dataset contains the following parameters for each company (daily ticks):\n\n- Market data: Stock price and trade volumes\n- News data (volume of articles):\n-- Sentiment (positive/negative)\n-- New Products\n-- Layoffs\n-- Analyst Comments\n-- Stocks\n-- Dividends\n-- Corporate Earnings\n-- Mergers & Acquisitions\n-- Store Openings\n-- Product Recalls\n-- Adverse Events\n-- Personnel Changes\n-- Stock Rumours\n\nResources:\n\n- Read more about SNES 1.0 [here](https://medium.com/@parsaghaffari/stock-newseventssentiment-snes-1-0-a92c8748b2c3)\n- Check out [Aylien's News API](https://aylien.com/product/news-api) - the main API behind this dataset.\n- See the code used for compiling the dataset [here](https://colab.research.google.com/drive/1Nd5aDPNxL44pVesv4muIqBN8xwQI9hfV?authuser=1#scrollTo=nTCT0ZgZWWyu).\n\n![](https://www.kaggleusercontent.com/kf/101833090/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..iQWprmEBO9-W3tJnXlV6Dw.1kJHDt8ySvXNhLL9XhChsuR_tQIGCVkZxipSSHxTdQ0be4Kz5XY-RzXYZO01fGb3WuCpHY3_SF3oDYnruXu2iseopmjjIu4Fyeh_nuHz2Ckr7UBQHkQGmoTNp8NjnXYJ-WrOkZG35CMBzdwJBKHXTQwyUqLfqFVaqSp4deBmcXTW3U_U1lpYs30ULxx7VPSzOdDZKbiXvSPYpJIm5YN8occ1HlrGzXC3QklLrBADnHvsEEte8uNKwFCdNZ3FJX8jyxEuE6jRf0HheGqHCQ_ZgfvNenXpwhoH6Les7gAiYOx4G7gBpE2cnhvloqusJe7gvW4f7T7zv_NCrhTe40SfzO6YxlT49UAok0j4TyNpj9LBn25D4eyC1w4wfqE4w9pUE0IM0HmuBsLrsmdZBgnNzCpRk-whaccNi7gccy32Utv40w1AEYkowNjI-iwlfetSwXBFfltA5ETDWBRCrhCHmWITF3OGsDTuKT0tAizbwfNdjBFiDMHtJPAZ4jTutWX0jioWQVwgdIk8j6rQvHJk3ecG16Kn8kiQgAb_D_ts7oV7aQo1yrmlKxnaSRX6xrS4oC1MHuGoW1ZP4OnnUhkQBBryNKNdMnUk49ifd0PbYbOD2jDy-kiGVanf1nQSDwaXNiDVijHkDOxL1-d3R2hpupVZNSgMnuGUSnA0aF67gig.TKd-E32Ni9ig_a8ZQbuadw/__results___files/__results___4_0.png)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games",
+    "finance",
+    "time series analysis",
+    "investing",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "chrishokamp",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

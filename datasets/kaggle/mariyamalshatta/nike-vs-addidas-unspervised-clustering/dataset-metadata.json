@@ -1,0 +1,41 @@
+{
+  "id": "mariyamalshatta/nike-vs-addidas-unspervised-clustering",
+  "id_no": 3815130,
+  "datasetSlugNullable": "nike-vs-addidas-unspervised-clustering",
+  "ownerUserNullable": "mariyamalshatta",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "nike_vs_addidas",
+  "subtitleNullable": "Perform an EDA and cluster the products based on various factors",
+  "descriptionNullable": "**Context**\n\nWhen you think of sneakers for a trip, the importance of good footwear cannot be discarded, and the obvious brands that come to mind are Adidas and Nike. Adidas vs Nike is a constant debate as the two giants in the apparel market, with a large market cap and market share, battle it out to come on top. As a newly hired Data Scientist in a market research company, you have been given the task of extracting insights from the data of men's and women's shoes, and grouping products together to identify similarities and differences between the product range of these renowned brands.\n\n**Objective**\nTo perform an exploratory data analysis and cluster the products based on various factors.\n\n**Key Questions**\nWhich variables are most important for clustering?\nHow each cluster is different from the others?\nWhat are the business recommendations?\n \n**Data Description**\nThe dataset consists of 3268 products from Nike and Adidas with features of information including their ratings, discount, sales price, listed price, product name, and the number of reviews.\n\nProduct Name: Name of the product\nProduct ID: ID of the product\nListing Price: Listed price of the product\nSale Price: Sale price of the product\nDiscount: Percentage of discount on the product\nBrand: Brand of the product\nRating: Rating of the product\nReviews: Number of reviews for the product",
+  "datasetId": 3815130,
+  "datasetSlug": "nike-vs-addidas-unspervised-clustering",
+  "hasDatasetSlug": true,
+  "ownerUser": "mariyamalshatta",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 6196,
+  "totalVotes": 24,
+  "totalDownloads": 1305,
+  "title": "nike_vs_addidas",
+  "hasTitle": true,
+  "subtitle": "Perform an EDA and cluster the products based on various factors",
+  "hasSubtitle": true,
+  "description": "**Context**\n\nWhen you think of sneakers for a trip, the importance of good footwear cannot be discarded, and the obvious brands that come to mind are Adidas and Nike. Adidas vs Nike is a constant debate as the two giants in the apparel market, with a large market cap and market share, battle it out to come on top. As a newly hired Data Scientist in a market research company, you have been given the task of extracting insights from the data of men's and women's shoes, and grouping products together to identify similarities and differences between the product range of these renowned brands.\n\n**Objective**\nTo perform an exploratory data analysis and cluster the products based on various factors.\n\n**Key Questions**\nWhich variables are most important for clustering?\nHow each cluster is different from the others?\nWhat are the business recommendations?\n \n**Data Description**\nThe dataset consists of 3268 products from Nike and Adidas with features of information including their ratings, discount, sales price, listed price, product name, and the number of reviews.\n\nProduct Name: Name of the product\nProduct ID: ID of the product\nListing Price: Listed price of the product\nSale Price: Sale price of the product\nDiscount: Percentage of discount on the product\nBrand: Brand of the product\nRating: Rating of the product\nReviews: Number of reviews for the product",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "clustering",
+    "k-means"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

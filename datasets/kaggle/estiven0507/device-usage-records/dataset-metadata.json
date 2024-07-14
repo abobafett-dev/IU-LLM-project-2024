@@ -1,0 +1,43 @@
+{
+  "id": "estiven0507/device-usage-records",
+  "id_no": 4336643,
+  "datasetSlugNullable": "device-usage-records",
+  "ownerUserNullable": "estiven0507",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Device usage records",
+  "subtitleNullable": "Usage records dataset: analyzing device activity with StayFree ",
+  "descriptionNullable": "The primary source of data stems from the StayFree application, capturing insights into user behaviors and interactions. The dataset is initially structured in Excel format and is subsequently processed and transformed into CSV files for streamlined analysis, this process has all been done in python and the GitHub link project is: https://github.com/estivengrx/statistics-of-use-project\n\nThe data is from 10/19/2022 to 01/08/2024.\n\nThe inspiration for this project arises from the increasing need to comprehend and derive meaningful patterns from the vast array of my own device usage data. By delving into the statistics provided by StayFree, we aim to uncover valuable insights that can inform user habits, preferences, and the broader landscape of digital engagement.",
+  "datasetId": 4336643,
+  "datasetSlug": "device-usage-records",
+  "hasDatasetSlug": true,
+  "ownerUser": "estiven0507",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 855,
+  "totalVotes": 6,
+  "totalDownloads": 84,
+  "title": "Device usage records",
+  "hasTitle": true,
+  "subtitle": "Usage records dataset: analyzing device activity with StayFree ",
+  "hasSubtitle": true,
+  "description": "The primary source of data stems from the StayFree application, capturing insights into user behaviors and interactions. The dataset is initially structured in Excel format and is subsequently processed and transformed into CSV files for streamlined analysis, this process has all been done in python and the GitHub link project is: https://github.com/estivengrx/statistics-of-use-project\n\nThe data is from 10/19/2022 to 01/08/2024.\n\nThe inspiration for this project arises from the increasing need to comprehend and derive meaningful patterns from the vast array of my own device usage data. By delving into the statistics provided by StayFree, we aim to uncover valuable insights that can inform user habits, preferences, and the broader landscape of digital engagement.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data cleaning",
+    "data visualization",
+    "time series analysis",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "davidgauthier/glassdoor-job-reviews-2",
+  "id_no": 4677933,
+  "datasetSlugNullable": "glassdoor-job-reviews-2",
+  "ownerUserNullable": "davidgauthier",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Glassdoor Job Reviews 2",
+  "subtitleNullable": "A large dataset of job reviews with textual features and numerical targets",
+  "descriptionNullable": "This large dataset (+8 million obs) contains job descriptions and rankings among various criteria such as work-life balance, income, culture, etc. \n\nThis data set complements the Glassdoor dataset located [here].(https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews)\n\nGlassdoor Reviews\nGlassdoor produces reports based upon the data collected from its users, on topics including work\u2013life balance, CEO pay ratios, lists of the best office places and cultures, and the accuracy of corporate job searching maxims. Data from Glassdoor has also been used by outside sources to produce estimates on the effects of salary trends and changes on corporate revenues. Glassdoor also puts the conclusions of its research of other companies towards its company policies. In 2015, Tom Lakin produced the first study of Glassdoor in the United Kingdom, concluding that Glassdoor is regarded by users as a more trustworthy source of information than career guides or official company documents.\n\nFeatures\nThe columns correspond to the date of the review, the job name, the job location, the status of the reviewers, and the reviews. Reviews are divided into sub-categories Career Opportunities, Comp & Benefits, Culture & Values, Senior Management, and Work/Life Balance. In addition, employees can add recommendations on the firm, the CEO, and the outlook.\n\nOther information\nRanking for the recommendation of the firm, CEO approval, and outlook are allocated categories v, r, x, and o, with the following meanings: v - Positive, r - Mild, x - Negative, o - No opinion\n\nSome examples of the textual data entries\nMCDONALD-S I don't like working here,don't work here Headline: I don't like working here,don't work here Pros: Some people are nice,some free food,some of the managers are nice about 95% of the time Cons: 95% of people are mean to employees/customers,its not a clean place,people barely clean their hands of what i see,managers are mean,i got a stress rash because of this i can't get rid of it,they don't give me a little raise even though i do alot of crap there for them Rating: 1.0\n\nKPMG Quit working people to death Headline: Quit working people to death Pros: Lots of PTO, Good company training Cons: long hours, clear disconnect between management and staff, as corporate as it gets Rating: 2.0\n\nPRIMARK Sales assistant Headline: Sales assistant Pros: Lovely staff, managers are also very nice Cons: Hardwork, often rude customers, underpaid for u18 Rating: 3.0\n\nJ-P-MORGAN Life in JPM, Bangalore Headline: Life in JPM, Bangalore Pros: Good place to start, lots of opportunity. Cons: Be ready to put in a lot of effort not a place to chill out. Rating: 4.0\n\nVODAFONE Good to be here Headline: Good to be here Pros: Fast moving with technology. Leading Cons: There are areas you may want to avoid Rating: 5.0",
+  "datasetId": 4677933,
+  "datasetSlug": "glassdoor-job-reviews-2",
+  "hasDatasetSlug": true,
+  "ownerUser": "davidgauthier",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3571,
+  "totalVotes": 19,
+  "totalDownloads": 586,
+  "title": "Glassdoor Job Reviews 2",
+  "hasTitle": true,
+  "subtitle": "A large dataset of job reviews with textual features and numerical targets",
+  "hasSubtitle": true,
+  "description": "This large dataset (+8 million obs) contains job descriptions and rankings among various criteria such as work-life balance, income, culture, etc. \n\nThis data set complements the Glassdoor dataset located [here].(https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews)\n\nGlassdoor Reviews\nGlassdoor produces reports based upon the data collected from its users, on topics including work\u2013life balance, CEO pay ratios, lists of the best office places and cultures, and the accuracy of corporate job searching maxims. Data from Glassdoor has also been used by outside sources to produce estimates on the effects of salary trends and changes on corporate revenues. Glassdoor also puts the conclusions of its research of other companies towards its company policies. In 2015, Tom Lakin produced the first study of Glassdoor in the United Kingdom, concluding that Glassdoor is regarded by users as a more trustworthy source of information than career guides or official company documents.\n\nFeatures\nThe columns correspond to the date of the review, the job name, the job location, the status of the reviewers, and the reviews. Reviews are divided into sub-categories Career Opportunities, Comp & Benefits, Culture & Values, Senior Management, and Work/Life Balance. In addition, employees can add recommendations on the firm, the CEO, and the outlook.\n\nOther information\nRanking for the recommendation of the firm, CEO approval, and outlook are allocated categories v, r, x, and o, with the following meanings: v - Positive, r - Mild, x - Negative, o - No opinion\n\nSome examples of the textual data entries\nMCDONALD-S I don't like working here,don't work here Headline: I don't like working here,don't work here Pros: Some people are nice,some free food,some of the managers are nice about 95% of the time Cons: 95% of people are mean to employees/customers,its not a clean place,people barely clean their hands of what i see,managers are mean,i got a stress rash because of this i can't get rid of it,they don't give me a little raise even though i do alot of crap there for them Rating: 1.0\n\nKPMG Quit working people to death Headline: Quit working people to death Pros: Lots of PTO, Good company training Cons: long hours, clear disconnect between management and staff, as corporate as it gets Rating: 2.0\n\nPRIMARK Sales assistant Headline: Sales assistant Pros: Lovely staff, managers are also very nice Cons: Hardwork, often rude customers, underpaid for u18 Rating: 3.0\n\nJ-P-MORGAN Life in JPM, Bangalore Headline: Life in JPM, Bangalore Pros: Good place to start, lots of opportunity. Cons: Be ready to put in a lot of effort not a place to chill out. Rating: 4.0\n\nVODAFONE Good to be here Headline: Good to be here Pros: Fast moving with technology. Leading Cons: There are areas you may want to avoid Rating: 5.0",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "finance",
+    "economics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

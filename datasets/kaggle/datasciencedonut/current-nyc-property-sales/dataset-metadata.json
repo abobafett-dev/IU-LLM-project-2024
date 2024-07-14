@@ -1,0 +1,43 @@
+{
+  "id": "datasciencedonut/current-nyc-property-sales",
+  "id_no": 3594938,
+  "datasetSlugNullable": "current-nyc-property-sales",
+  "ownerUserNullable": "datasciencedonut",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Current NYC Property Sales",
+  "subtitleNullable": "15+ year's worth of sold NYC real estate properties. Updated monthly.",
+  "descriptionNullable": "**Context and Acknowledgements**\nThis dataset is inspired by and improves upon the [City of New York's NYC Property Sales dataset](https://www.kaggle.com/datasets/new-york-city/nyc-property-sales). The dataset contains a record of every property sold in the New York City property market since 2003 (the first year sales data was first listed on the public record) and **updates monthly** to include [rolling sales](https://www.nyc.gov/site/finance/taxes/property-rolling-sales-data.page).\n\nPlease upvote if you found the dataset or additional resources helpful. \ud83d\udc4d\n\n**Content**\nThis dataset contains the location, address, type, sale price, tax category, and sale date of properties sold.\n\n- BOROUGH: Manhattan (1), Bronx (2), Brooklyn (3), Queens (4), \n   and Staten Island (5).\n- TAX CLASSES: \n       - 1: Most Residential Properties up to Three Units, Vacant \n              Lots Zoned for Residential, Condominiums Less Than \n              Three Stories.\n       - 2: All Other Residential Properties.\n       - 3: Property with equipment owned by a gas, telephone, or \n              electric company.\n       - 4: All other Properties (Garages, Factories, Warehouses...)\n- EASEMENT: A right that allows an entity to make limited use of another's real property.\n- $0 Sales Prices: Indicates a transfer of ownership without a cash consideration. \n\nFor further reference on the fields in this dataset see the City of New York Department of Finance's [Glossary of Terms](https://www.nyc.gov/site/finance/taxes/glossary-property-sales.page) and [Building Codes](https://www.nyc.gov/assets/finance/jump/hlpbldgcode.html).\n\n`<div></div>                `\n",
+  "datasetId": 3594938,
+  "datasetSlug": "current-nyc-property-sales",
+  "hasDatasetSlug": true,
+  "ownerUser": "datasciencedonut",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2288,
+  "totalVotes": 14,
+  "totalDownloads": 632,
+  "title": "Current NYC Property Sales",
+  "hasTitle": true,
+  "subtitle": "15+ year's worth of sold NYC real estate properties. Updated monthly.",
+  "hasSubtitle": true,
+  "description": "**Context and Acknowledgements**\nThis dataset is inspired by and improves upon the [City of New York's NYC Property Sales dataset](https://www.kaggle.com/datasets/new-york-city/nyc-property-sales). The dataset contains a record of every property sold in the New York City property market since 2003 (the first year sales data was first listed on the public record) and **updates monthly** to include [rolling sales](https://www.nyc.gov/site/finance/taxes/property-rolling-sales-data.page).\n\nPlease upvote if you found the dataset or additional resources helpful. \ud83d\udc4d\n\n**Content**\nThis dataset contains the location, address, type, sale price, tax category, and sale date of properties sold.\n\n- BOROUGH: Manhattan (1), Bronx (2), Brooklyn (3), Queens (4), \n   and Staten Island (5).\n- TAX CLASSES: \n       - 1: Most Residential Properties up to Three Units, Vacant \n              Lots Zoned for Residential, Condominiums Less Than \n              Three Stories.\n       - 2: All Other Residential Properties.\n       - 3: Property with equipment owned by a gas, telephone, or \n              electric company.\n       - 4: All other Properties (Garages, Factories, Warehouses...)\n- EASEMENT: A right that allows an entity to make limited use of another's real property.\n- $0 Sales Prices: Indicates a transfer of ownership without a cash consideration. \n\nFor further reference on the fields in this dataset see the City of New York Department of Finance's [Glossary of Terms](https://www.nyc.gov/site/finance/taxes/glossary-property-sales.page) and [Building Codes](https://www.nyc.gov/assets/finance/jump/hlpbldgcode.html).\n\n`<div></div>                `\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "north america",
+    "housing",
+    "real estate",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

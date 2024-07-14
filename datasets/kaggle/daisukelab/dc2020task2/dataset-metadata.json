@@ -1,0 +1,41 @@
+{
+  "id": "daisukelab/dc2020task2",
+  "id_no": 564009,
+  "datasetSlugNullable": "dc2020task2",
+  "ownerUserNullable": "daisukelab",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "DCASE 2020 Task 2 Unofficial Copy",
+  "subtitleNullable": "For use in Kaggle notebook",
+  "descriptionNullable": "# DCASE 2020 Task 2 Dataset - An Unofficial Copy\n\nThis is unofficial copy of [DCASE 2020 Task 2 dataset](https://zenodo.org/record/3678171#.XnRgCi3AOL4) for [DCASE 2020 Challenge](http://dcase.community/challenge2020/task-unsupervised-detection-of-anomalous-sounds).\n\nThanks to Kaggle, you can use this dataset and Kaggle computing resource to develop your solutions for the [DCASE 2020 Task 2 Challenge](http://dcase.community/challenge2020/task-unsupervised-detection-of-anomalous-sounds).\n\n## About DCASE 2020 Task 2\n\nThe tas is titled as \"Unsupervised Detection of Anomalous Sounds for Machine Condition Monitoring\".\n\nURL: http://dcase.community/challenge2020/task-unsupervised-detection-of-anomalous-sounds\n\nQuoting from challenge website:\n\n&gt; _**Anomalous sound detection (ASD) is the task to identify whether the sound emitted from a target machine is normal or anomalous..** Automatically detecting mechanical failure is an essential technology in the fourth industrial revolution, including artificial intelligence (AI)-based factory automation. Prompt detection of machine anomaly by observing its sounds may be useful for machine condition monitoring._\n&gt;\n&gt; _**The main challenge of this task is to detect unknown anomalous sounds under the condition that only normal sound samples have been provided as training data.** In real-world factories, actual anomalous sounds rarely occur and are highly diverse. Therefore, exhaustive patterns of anomalous sounds are impossible to deliberately make and/or collect. This means we have to detect unknown anomalous sounds that were not observed in the given training data. This point is one of the major differences in premise between ASD for industrial equipment and the past supervised DCASE tasks for detecting defined anomalous sounds such as gunshots or a baby crying._\n&gt; ![image](http://d33wubrfki0l68.cloudfront.net/268bbc4666654d6e5ef28c449067626fbfee7488/2ad7c/images/tasks/challenge2020/task2_unsupervised_detection_of_anomalous_sounds_for_machine_condition_monitoring_01.png)\n\n## About Dataset\n\nURL: https://zenodo.org/record/3678171#.XnRgCi3AOL4\n\nQuoting description from the dataset website:\n\n&gt; _The data used for this task comprises parts of [ToyADMOS](https://zenodo.org/record/3351307#.XnRgPC3AOL4) and the [MIMII](https://zenodo.org/record/3384388#.XnRgWi3AOL4) Dataset consisting of the normal/anomalous operating sounds of six types of toy/real machines. Each recording is a single-channel (proximately) 10-sec length audio that includes both a target machine's operating sound and environmental noise. The following six types of toy/real machines are used in this task:_\n&gt; - _Toy-car (ToyADMOS)_\n&gt; - _Toy-conveyor (ToyADMOS)_\n&gt; - _Valve (MIMII Dataset)_\n&gt; - _Pump (MIMII Dataset)_\n&gt; - _Fan (MIMII Dataset)_\n&gt; - _Slide rail (MIMII Dataset)_\n\n## Citation\n\nYuma Koizumi, Shoichiro Saito, Noboru Harada, Hisashi Uematsu and Keisuke Imoto, \"ToyADMOS: A Dataset of Miniature-Machine Operating Sounds for Anomalous Sound Detection,\" in Proc of Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), 2019. [[pdf](https://ieeexplore.ieee.org/document/8937164)]\n\nHarsh Purohit, Ryo Tanabe, Kenji Ichige, Takashi Endo, Yuki Nikaido, Kaori Suefusa, and Yohei Kawaguchi, \u201cMIMII Dataset: Sound Dataset for Malfunctioning Industrial Machine Investigation and Inspection,\u201d in Proc. 4th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE), 2019. [[pdf](http://dcase.community/documents/workshop2019/proceedings/DCASE2019Workshop_Purohit_21.pdf)]",
+  "datasetId": 564009,
+  "datasetSlug": "dc2020task2",
+  "hasDatasetSlug": true,
+  "ownerUser": "daisukelab",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 10839,
+  "totalVotes": 15,
+  "totalDownloads": 836,
+  "title": "DCASE 2020 Task 2 Unofficial Copy",
+  "hasTitle": true,
+  "subtitle": "For use in Kaggle notebook",
+  "hasSubtitle": true,
+  "description": "# DCASE 2020 Task 2 Dataset - An Unofficial Copy\n\nThis is unofficial copy of [DCASE 2020 Task 2 dataset](https://zenodo.org/record/3678171#.XnRgCi3AOL4) for [DCASE 2020 Challenge](http://dcase.community/challenge2020/task-unsupervised-detection-of-anomalous-sounds).\n\nThanks to Kaggle, you can use this dataset and Kaggle computing resource to develop your solutions for the [DCASE 2020 Task 2 Challenge](http://dcase.community/challenge2020/task-unsupervised-detection-of-anomalous-sounds).\n\n## About DCASE 2020 Task 2\n\nThe tas is titled as \"Unsupervised Detection of Anomalous Sounds for Machine Condition Monitoring\".\n\nURL: http://dcase.community/challenge2020/task-unsupervised-detection-of-anomalous-sounds\n\nQuoting from challenge website:\n\n&gt; _**Anomalous sound detection (ASD) is the task to identify whether the sound emitted from a target machine is normal or anomalous..** Automatically detecting mechanical failure is an essential technology in the fourth industrial revolution, including artificial intelligence (AI)-based factory automation. Prompt detection of machine anomaly by observing its sounds may be useful for machine condition monitoring._\n&gt;\n&gt; _**The main challenge of this task is to detect unknown anomalous sounds under the condition that only normal sound samples have been provided as training data.** In real-world factories, actual anomalous sounds rarely occur and are highly diverse. Therefore, exhaustive patterns of anomalous sounds are impossible to deliberately make and/or collect. This means we have to detect unknown anomalous sounds that were not observed in the given training data. This point is one of the major differences in premise between ASD for industrial equipment and the past supervised DCASE tasks for detecting defined anomalous sounds such as gunshots or a baby crying._\n&gt; ![image](http://d33wubrfki0l68.cloudfront.net/268bbc4666654d6e5ef28c449067626fbfee7488/2ad7c/images/tasks/challenge2020/task2_unsupervised_detection_of_anomalous_sounds_for_machine_condition_monitoring_01.png)\n\n## About Dataset\n\nURL: https://zenodo.org/record/3678171#.XnRgCi3AOL4\n\nQuoting description from the dataset website:\n\n&gt; _The data used for this task comprises parts of [ToyADMOS](https://zenodo.org/record/3351307#.XnRgPC3AOL4) and the [MIMII](https://zenodo.org/record/3384388#.XnRgWi3AOL4) Dataset consisting of the normal/anomalous operating sounds of six types of toy/real machines. Each recording is a single-channel (proximately) 10-sec length audio that includes both a target machine's operating sound and environmental noise. The following six types of toy/real machines are used in this task:_\n&gt; - _Toy-car (ToyADMOS)_\n&gt; - _Toy-conveyor (ToyADMOS)_\n&gt; - _Valve (MIMII Dataset)_\n&gt; - _Pump (MIMII Dataset)_\n&gt; - _Fan (MIMII Dataset)_\n&gt; - _Slide rail (MIMII Dataset)_\n\n## Citation\n\nYuma Koizumi, Shoichiro Saito, Noboru Harada, Hisashi Uematsu and Keisuke Imoto, \"ToyADMOS: A Dataset of Miniature-Machine Operating Sounds for Anomalous Sound Detection,\" in Proc of Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), 2019. [[pdf](https://ieeexplore.ieee.org/document/8937164)]\n\nHarsh Purohit, Ryo Tanabe, Kenji Ichige, Takashi Endo, Yuki Nikaido, Kaori Suefusa, and Yohei Kawaguchi, \u201cMIMII Dataset: Sound Dataset for Malfunctioning Industrial Machine Investigation and Inspection,\u201d in Proc. 4th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE), 2019. [[pdf](http://dcase.community/documents/workshop2019/proceedings/DCASE2019Workshop_Purohit_21.pdf)]",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "research",
+    "computer science",
+    "audio"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

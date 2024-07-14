@@ -1,0 +1,44 @@
+{
+  "id": "rayankazi/hackerearth-holiday-season-deep-learning-challenge",
+  "id_no": 1120219,
+  "datasetSlugNullable": "hackerearth-holiday-season-deep-learning-challenge",
+  "ownerUserNullable": "rayankazi",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "HackerEarth Holiday Season Deep Learning Challenge",
+  "subtitleNullable": "Is it still a Holiday Season- Image Classification",
+  "descriptionNullable": "## Content\nThis dataset consists of over 6000 images and was provided by HackerEarth during the contest: [HackerEarth Deep Learning Challenge: 'Tis STILL the season to be jolly](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/). It was uploaded to Kaggle for easy use and archiving different models.\n**Note:** The author has neither collected nor created the dataset. It has just been uploaded.\n\n## Problem statement\nAn e-commerce platform is getting all geared up for a season clearance sale and plans to leverage social media as the primary channel to reach their audiences. The campaign\u2019s target group are individuals/families that have recently posted a picture of their indoor Christmas decor or are traveling during the holidays. \n\nYou work at a leading social media platform and your team has been tasked to build a product recommendation engine for consumers. As part of the development team, your role is to use Deep Learning to develop a model that classifies images based on elements within the picture. These elements should be related to decor or holiday season vacations, such as a **snowman**, a **Christmas tree**, **flights**, and the like. \n<p><strong>Task</strong></p>\n\n<p>You are given the following six categories. You are required to classify the images in the dataset based on these categories.</p>\n\n<ul>\n\t<li>Miscellaneous</li>\n\t<li>Christmas_Tree</li>\n\t<li>Jacket</li>\n\t<li>Candle</li>\n\t<li>Airplane</li>\n\t<li>Snowman</li>\n</ul>\n\n<h2>Data description</h2>\n\n<p>This data set consists of the following two columns:</p>\n\n<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center\"><strong>Column Name</strong></td>\n\t\t\t<td style=\"text-align: center\"><strong>Description</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center\">Image</td>\n\t\t\t<td>Name of image</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center\">Class</td>\n\t\t\t<td>Category of image</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br>\nThe data folder consists of two folders and one .csv file. The details are as follows:</p>\n\n<ul>\n\t<li><strong>train</strong>: Contains 6469 images for 6&nbsp;classes</li>\n\t<li><strong>test</strong>: Contains 3489 images</li>\n\t<li><strong>train.csv</strong>: 6469 x 2</li>\n</ul>\n\n### Acknowledgements\n\n**Link to Contest:** https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/\n",
+  "datasetId": 1120219,
+  "datasetSlug": "hackerearth-holiday-season-deep-learning-challenge",
+  "hasDatasetSlug": true,
+  "ownerUser": "rayankazi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 1039,
+  "totalVotes": 1,
+  "totalDownloads": 63,
+  "title": "HackerEarth Holiday Season Deep Learning Challenge",
+  "hasTitle": true,
+  "subtitle": "Is it still a Holiday Season- Image Classification",
+  "hasSubtitle": true,
+  "description": "## Content\nThis dataset consists of over 6000 images and was provided by HackerEarth during the contest: [HackerEarth Deep Learning Challenge: 'Tis STILL the season to be jolly](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/). It was uploaded to Kaggle for easy use and archiving different models.\n**Note:** The author has neither collected nor created the dataset. It has just been uploaded.\n\n## Problem statement\nAn e-commerce platform is getting all geared up for a season clearance sale and plans to leverage social media as the primary channel to reach their audiences. The campaign\u2019s target group are individuals/families that have recently posted a picture of their indoor Christmas decor or are traveling during the holidays. \n\nYou work at a leading social media platform and your team has been tasked to build a product recommendation engine for consumers. As part of the development team, your role is to use Deep Learning to develop a model that classifies images based on elements within the picture. These elements should be related to decor or holiday season vacations, such as a **snowman**, a **Christmas tree**, **flights**, and the like. \n<p><strong>Task</strong></p>\n\n<p>You are given the following six categories. You are required to classify the images in the dataset based on these categories.</p>\n\n<ul>\n\t<li>Miscellaneous</li>\n\t<li>Christmas_Tree</li>\n\t<li>Jacket</li>\n\t<li>Candle</li>\n\t<li>Airplane</li>\n\t<li>Snowman</li>\n</ul>\n\n<h2>Data description</h2>\n\n<p>This data set consists of the following two columns:</p>\n\n<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center\"><strong>Column Name</strong></td>\n\t\t\t<td style=\"text-align: center\"><strong>Description</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center\">Image</td>\n\t\t\t<td>Name of image</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center\">Class</td>\n\t\t\t<td>Category of image</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br>\nThe data folder consists of two folders and one .csv file. The details are as follows:</p>\n\n<ul>\n\t<li><strong>train</strong>: Contains 6469 images for 6&nbsp;classes</li>\n\t<li><strong>test</strong>: Contains 3489 images</li>\n\t<li><strong>train.csv</strong>: 6469 x 2</li>\n</ul>\n\n### Acknowledgements\n\n**Link to Contest:** https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "intermediate",
+    "classification",
+    "deep learning",
+    "image",
+    "holidays and cultural events"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

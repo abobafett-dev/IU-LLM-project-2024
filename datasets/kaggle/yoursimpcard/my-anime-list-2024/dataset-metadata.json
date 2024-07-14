@@ -1,0 +1,39 @@
+{
+  "id": "yoursimpcard/my-anime-list-2024",
+  "id_no": 4303668,
+  "datasetSlugNullable": "my-anime-list-2024",
+  "ownerUserNullable": "yoursimpcard",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "My Anime List January 2024",
+  "subtitleNullable": "A (mostly) complete dataset of all MAL pages as of January 2024.",
+  "descriptionNullable": "Everything was scraped using Python. There are some empty values in areas that MAL did not provide, as well as some values MAL provided as N/A. Additionally, in both the studios and producers columns, MAL did provide data but it was scraped as \"None found, add some.\" Furthermore, ranks on MAL are constantly changing, which means some anime might have the same scores.",
+  "datasetId": 4303668,
+  "datasetSlug": "my-anime-list-2024",
+  "hasDatasetSlug": true,
+  "ownerUser": "yoursimpcard",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 394,
+  "totalVotes": 3,
+  "totalDownloads": 57,
+  "title": "My Anime List January 2024",
+  "hasTitle": true,
+  "subtitle": "A (mostly) complete dataset of all MAL pages as of January 2024.",
+  "hasSubtitle": true,
+  "description": "Everything was scraped using Python. There are some empty values in areas that MAL did not provide, as well as some values MAL provided as N/A. Additionally, in both the studios and producers columns, MAL did provide data but it was scraped as \"None found, add some.\" Furthermore, ranks on MAL are constantly changing, which means some anime might have the same scores.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

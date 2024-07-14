@@ -1,0 +1,60 @@
+{
+  "id": "hdumasde/pythagoremodreco",
+  "id_no": 1402956,
+  "datasetSlugNullable": "pythagoremodreco",
+  "ownerUserNullable": "hdumasde",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "AugMod: pythagore-mod-reco",
+  "subtitleNullable": "A dataset for radio signal modulation recognition",
+  "descriptionNullable": "### Context\n\nA radio signal consists in two channels, channel I (for 'In phase') and channel Q (for 'Quadrature') and can be assimilated as a stream of complex numbers.\nIt may convey information by coding it as a sequence of symbols sampled from a finite set of complex numbers called a \"modulation\". \nThere exist several standard modulations such as (non exhaustive list): BPSK, QAM, QPSK of order N, PSK of order N... \n\nIn general modulation is not directly observable from a signal.\nThe goal of this dataset is to detect the underlying modulation of a radio signal which may have suffer various alterations during its transmission.\nThis task is of interest for instance for sensing the electromagnetic environment in the cognitive radio paradigm. \n\nThis dataset is made available in the context of the paper:\nT. Courtat and H. du Mas des Bourboux, \"A light neural network for modulation detection under impairments,\" 2021 International Symposium on Networks, Computers and Communications (ISNCC), 2021, pp. 1-7, doi: 10.1109/ISNCC52172.2021.9615851.\nPlease visit https://github.com/ThalesGroup/pythagore-mod-reco for the libraries to read the data and train neural networks on this dataset.\n\n### Content\n\nThe given dataset:\n - is given in a hdf5 file\n - is composed of 7 classes: BPSK, PSK8, QAM16, QAM32, QAM64, QAM8, QPSK\n - spans 5 bins in signal-to-noise ration: 0, 10, 20, 30, 40\n - consists of 174 720 examples, each 1024 samples long with both I and Q.\n\nTwo notebooks allow to:\n - visualize the data: plot-one-sample\n - train a classifiers: training-example",
+  "datasetId": 1402956,
+  "datasetSlug": "pythagoremodreco",
+  "hasDatasetSlug": true,
+  "ownerUser": "hdumasde",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4003,
+  "totalVotes": 5,
+  "totalDownloads": 234,
+  "title": "AugMod: pythagore-mod-reco",
+  "hasTitle": true,
+  "subtitle": "A dataset for radio signal modulation recognition",
+  "hasSubtitle": true,
+  "description": "### Context\n\nA radio signal consists in two channels, channel I (for 'In phase') and channel Q (for 'Quadrature') and can be assimilated as a stream of complex numbers.\nIt may convey information by coding it as a sequence of symbols sampled from a finite set of complex numbers called a \"modulation\". \nThere exist several standard modulations such as (non exhaustive list): BPSK, QAM, QPSK of order N, PSK of order N... \n\nIn general modulation is not directly observable from a signal.\nThe goal of this dataset is to detect the underlying modulation of a radio signal which may have suffer various alterations during its transmission.\nThis task is of interest for instance for sensing the electromagnetic environment in the cognitive radio paradigm. \n\nThis dataset is made available in the context of the paper:\nT. Courtat and H. du Mas des Bourboux, \"A light neural network for modulation detection under impairments,\" 2021 International Symposium on Networks, Computers and Communications (ISNCC), 2021, pp. 1-7, doi: 10.1109/ISNCC52172.2021.9615851.\nPlease visit https://github.com/ThalesGroup/pythagore-mod-reco for the libraries to read the data and train neural networks on this dataset.\n\n### Content\n\nThe given dataset:\n - is given in a hdf5 file\n - is composed of 7 classes: BPSK, PSK8, QAM16, QAM32, QAM64, QAM8, QPSK\n - spans 5 bins in signal-to-noise ration: 0, 10, 20, 30, 40\n - consists of 174 720 examples, each 1024 samples long with both I and Q.\n\nTwo notebooks allow to:\n - visualize the data: plot-one-sample\n - train a classifiers: training-example",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mobile and wireless",
+    "signal processing",
+    "time series analysis",
+    "classification",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "hdumasde",
+      "role": "writer"
+    },
+    {
+      "username": "thalesgroup",
+      "role": "writer"
+    },
+    {
+      "username": "francoissausset",
+      "role": "writer"
+    },
+    {
+      "username": "thomascourtatthales",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

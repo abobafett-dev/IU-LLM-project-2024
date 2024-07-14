@@ -1,0 +1,44 @@
+{
+  "id": "shreyashgupta88/american-sign-language-thresholded",
+  "id_no": 1506771,
+  "datasetSlugNullable": "american-sign-language-thresholded",
+  "ownerUserNullable": "shreyashgupta88",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "American Sign Language - Thresholded",
+  "subtitleNullable": "Sign Language Dataset for Real Time Classification",
+  "descriptionNullable": "### Inspiration\nI wanted to create a real time sign language classifier using openCV. I tried all available datasets, but to my despair none of them gave satisfactory results. So I decided to create my own dataset.\n\n\n### Content\n\nThis dataset contains 26 directories. Each directory represents a unique English alphabet and contains 1000 images of sign corresponding to that alphabet. Each image is thresholded and dimension of each image is 256x256.  \n\nFeel free to use this dataset to train a CNN and further use that for real time sign language classification :) ",
+  "datasetId": 1506771,
+  "datasetSlug": "american-sign-language-thresholded",
+  "hasDatasetSlug": true,
+  "ownerUser": "shreyashgupta88",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 5234,
+  "totalVotes": 12,
+  "totalDownloads": 205,
+  "title": "American Sign Language - Thresholded",
+  "hasTitle": true,
+  "subtitle": "Sign Language Dataset for Real Time Classification",
+  "hasSubtitle": true,
+  "description": "### Inspiration\nI wanted to create a real time sign language classifier using openCV. I tried all available datasets, but to my despair none of them gave satisfactory results. So I decided to create my own dataset.\n\n\n### Content\n\nThis dataset contains 26 directories. Each directory represents a unique English alphabet and contains 1000 images of sign corresponding to that alphabet. Each image is thresholded and dimension of each image is 256x256.  \n\nFeel free to use this dataset to train a CNN and further use that for real time sign language classification :) ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "beginner",
+    "computer vision",
+    "deep learning",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

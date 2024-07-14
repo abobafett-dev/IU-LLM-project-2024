@@ -1,0 +1,41 @@
+{
+  "id": "littlesaplings/grocery-sales-forecasting-parquet",
+  "id_no": 2463250,
+  "datasetSlugNullable": "grocery-sales-forecasting-parquet",
+  "ownerUserNullable": "littlesaplings",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "Grocery sales forecasting parquet",
+  "subtitleNullable": "Use parquet instead of csv for fast data loading and low memory use!",
+  "descriptionNullable": "Parquet format of the Corporaci\u00f3n Favorita Grocery Sales Forecasting dataset \ud83e\udd55\ud83c\udf45 (https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting)\n\nUsed pyarrow(https://arrow.apache.org/docs/python/index.html) as engine to encode. Please use `engine='pyarrow'` while decoding using `read_parquet` with pandas.",
+  "datasetId": 2463250,
+  "datasetSlug": "grocery-sales-forecasting-parquet",
+  "hasDatasetSlug": true,
+  "ownerUser": "littlesaplings",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 1189,
+  "totalVotes": 4,
+  "totalDownloads": 163,
+  "title": "Grocery sales forecasting parquet",
+  "hasTitle": true,
+  "subtitle": "Use parquet instead of csv for fast data loading and low memory use!",
+  "hasSubtitle": true,
+  "description": "Parquet format of the Corporaci\u00f3n Favorita Grocery Sales Forecasting dataset \ud83e\udd55\ud83c\udf45 (https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting)\n\nUsed pyarrow(https://arrow.apache.org/docs/python/index.html) as engine to encode. Please use `engine='pyarrow'` while decoding using `read_parquet` with pandas.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "time series analysis",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

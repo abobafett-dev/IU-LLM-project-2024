@@ -1,0 +1,43 @@
+{
+  "id": "iamsouravbanerjee/production-based-co2-emissions",
+  "id_no": 3816357,
+  "datasetSlugNullable": "production-based-co2-emissions",
+  "ownerUserNullable": "iamsouravbanerjee",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Countrywise Production-Based CO2 Emissions",
+  "subtitleNullable": "CO2 Atlas: Navigating Global Emissions, Country by Country",
+  "descriptionNullable": "### Context\n\nThe Production Based CO2 Emissions Dataset provides valuable insights into the carbon emissions associated with production processes in various industries. Understanding and analyzing these emissions is crucial for businesses and policymakers to develop strategies aimed at reducing environmental impact and fostering sustainable production practices. This dataset captures emissions data related to different production activities, helping stakeholders make informed decisions to mitigate their carbon footprint and contribute to a greener future. It's essential to recognize that this dataset serves as a valuable resource, particularly for those focused on environmental sustainability and climate action. This Synthetic Dataset has been created for educational purposes to aid beginners in understanding and analyzing production-based CO2 emissions.\n\n### Content\n\nThis dataset encompasses a range of features related to production-based CO2 emissions, providing essential information for businesses and researchers striving to comprehend the environmental impact of various industrial processes. The features include emission levels from different production activities, industry types, geographic locations, energy sources used, and carbon capture technologies employed. Additionally, data on emission trends, regulatory compliance, and efforts toward emission reduction is included. With a collection of 5000 records, this dataset serves as a foundation for educational purposes, helping beginners gain insights into data analysis and machine learning in the context of production-based CO2 emissions.\n\n### Dataset Glossary (Column-wise)\n\n* <b>ISO3</b> - ISO 3166-1 alpha-3 code representing the country\n* <b>Country</b> - Name of the country\n* <b>Continent</b> - Continent where the country is located\n* <b>Hemisphere</b> - Hemisphere (Northern or Southern) to which the country belongs\n* <b>Metric tons of CO2e per capita (1990)</b> - CO2 emissions in metric tons per capita for 1990\n* <b>Metric tons of CO2e per capita (1995)</b> - CO2 emissions in metric tons per capita for 1995\n* <b>Metric tons of CO2e per capita (2000)</b> - CO2 emissions in metric tons per capita for 2000\n* <b>Metric tons of CO2e per capita (2005)</b> - CO2 emissions in metric tons per capita for 2005\n* <b>Metric tons of CO2e per capita (2010)</b> - CO2 emissions in metric tons per capita for 2010\n* <b>Metric tons of CO2e per capita (2013)</b> - CO2 emissions in metric tons per capita for 2013\n* <b>Metric tons of CO2e per capita (2018)</b> - CO2 emissions in metric tons per capita for 2018\n\n### Structure of the Dataset\n\n![](https://i.imgur.com/uqYb5L7.png)\n\n### Acknowledgement\n\nThis dataset has been sourced from <b>[https://www.wikipedia.org/](https://www.wikipedia.org/)</b>. For further information, please refer to the original website.\n\nCover Photo by: <b><a href=\"https://www.freepik.com/free-vector/net-zero-concept-illustration_28903492.htm#query=carbon%20emissions&position=5&from_view=keyword&track=ais\">Image by storyset</a> on Freepik</b>\n\nThumbnail by: <b><a href=\"https://www.flaticon.com/free-icons/co2\">Co2 icons created by Eucalyp - Flaticon</a></b>",
+  "datasetId": 3816357,
+  "datasetSlug": "production-based-co2-emissions",
+  "hasDatasetSlug": true,
+  "ownerUser": "iamsouravbanerjee",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4891,
+  "totalVotes": 51,
+  "totalDownloads": 868,
+  "title": "Countrywise Production-Based CO2 Emissions",
+  "hasTitle": true,
+  "subtitle": "CO2 Atlas: Navigating Global Emissions, Country by Country",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe Production Based CO2 Emissions Dataset provides valuable insights into the carbon emissions associated with production processes in various industries. Understanding and analyzing these emissions is crucial for businesses and policymakers to develop strategies aimed at reducing environmental impact and fostering sustainable production practices. This dataset captures emissions data related to different production activities, helping stakeholders make informed decisions to mitigate their carbon footprint and contribute to a greener future. It's essential to recognize that this dataset serves as a valuable resource, particularly for those focused on environmental sustainability and climate action. This Synthetic Dataset has been created for educational purposes to aid beginners in understanding and analyzing production-based CO2 emissions.\n\n### Content\n\nThis dataset encompasses a range of features related to production-based CO2 emissions, providing essential information for businesses and researchers striving to comprehend the environmental impact of various industrial processes. The features include emission levels from different production activities, industry types, geographic locations, energy sources used, and carbon capture technologies employed. Additionally, data on emission trends, regulatory compliance, and efforts toward emission reduction is included. With a collection of 5000 records, this dataset serves as a foundation for educational purposes, helping beginners gain insights into data analysis and machine learning in the context of production-based CO2 emissions.\n\n### Dataset Glossary (Column-wise)\n\n* <b>ISO3</b> - ISO 3166-1 alpha-3 code representing the country\n* <b>Country</b> - Name of the country\n* <b>Continent</b> - Continent where the country is located\n* <b>Hemisphere</b> - Hemisphere (Northern or Southern) to which the country belongs\n* <b>Metric tons of CO2e per capita (1990)</b> - CO2 emissions in metric tons per capita for 1990\n* <b>Metric tons of CO2e per capita (1995)</b> - CO2 emissions in metric tons per capita for 1995\n* <b>Metric tons of CO2e per capita (2000)</b> - CO2 emissions in metric tons per capita for 2000\n* <b>Metric tons of CO2e per capita (2005)</b> - CO2 emissions in metric tons per capita for 2005\n* <b>Metric tons of CO2e per capita (2010)</b> - CO2 emissions in metric tons per capita for 2010\n* <b>Metric tons of CO2e per capita (2013)</b> - CO2 emissions in metric tons per capita for 2013\n* <b>Metric tons of CO2e per capita (2018)</b> - CO2 emissions in metric tons per capita for 2018\n\n### Structure of the Dataset\n\n![](https://i.imgur.com/uqYb5L7.png)\n\n### Acknowledgement\n\nThis dataset has been sourced from <b>[https://www.wikipedia.org/](https://www.wikipedia.org/)</b>. For further information, please refer to the original website.\n\nCover Photo by: <b><a href=\"https://www.freepik.com/free-vector/net-zero-concept-illustration_28903492.htm#query=carbon%20emissions&position=5&from_view=keyword&track=ais\">Image by storyset</a> on Freepik</b>\n\nThumbnail by: <b><a href=\"https://www.flaticon.com/free-icons/co2\">Co2 icons created by Eucalyp - Flaticon</a></b>",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data visualization",
+    "time series analysis",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

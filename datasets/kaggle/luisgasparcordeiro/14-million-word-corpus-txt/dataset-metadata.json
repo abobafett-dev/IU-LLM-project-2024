@@ -1,0 +1,44 @@
+{
+  "id": "luisgasparcordeiro/14-million-word-corpus-txt",
+  "id_no": 2815070,
+  "datasetSlugNullable": "14-million-word-corpus-txt",
+  "ownerUserNullable": "luisgasparcordeiro",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "14 million word corpus (.txt)",
+  "subtitleNullable": "Collection of news, reports and books in text format",
+  "descriptionNullable": "I used this corpus to train a word2vec model for my master thesis - feel free to use it too!\n\nCorpus contains about 14 million words. It is a collection of public available news, reports and book (including the brown corpus).\n\n",
+  "datasetId": 2815070,
+  "datasetSlug": "14-million-word-corpus-txt",
+  "hasDatasetSlug": true,
+  "ownerUser": "luisgasparcordeiro",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1020,
+  "totalVotes": 5,
+  "totalDownloads": 201,
+  "title": "14 million word corpus (.txt)",
+  "hasTitle": true,
+  "subtitle": "Collection of news, reports and books in text format",
+  "hasSubtitle": true,
+  "description": "I used this corpus to train a word2vec model for my master thesis - feel free to use it too!\n\nCorpus contains about 14 million words. It is a collection of public available news, reports and book (including the brown corpus).\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "literature",
+    "linguistics",
+    "nlp",
+    "text",
+    "nltk"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

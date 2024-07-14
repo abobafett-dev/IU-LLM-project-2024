@@ -1,0 +1,40 @@
+{
+  "id": "ashishvaya/recommendation-engine",
+  "id_no": 16512,
+  "datasetSlugNullable": "recommendation-engine",
+  "ownerUserNullable": "ashishvaya",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Recommendation Engine",
+  "subtitleNullable": "Recommending the questions that a programmer should solve",
+  "descriptionNullable": "### Context\n\nRecommending the questions that a programmer should solve given his/her current expertise is a big challenge for Online Judge Platforms but is an essential task to keep a programmer engaged on their platform.\n\nIn this practice problem, you are given the data of programmers and questions that they have previously solved along with the time that they took to solve that particular question.\n\nAs a data scientist, your task is to build a model that can predict the time taken to solve a problem given the user current status.\n\nThis model will help online judges to decide the next level of questions to recommend to a user.\n\n\n### Content\n\nData Files\n\n \n\nThere are 3 training data files.\n\n \n\ntrain_submissions.csv - This contains 1,55,295 submissions which are selected randomly from 2,21,850 submissions. Contains 3 columns (\u2018user_id\u2019, \u2018problem_id\u2019, \u2018attempts_range\u2019). The variable \u2018attempts_range\u2019 denoted the range no. in which attempts the user made to get the solution accepted lies.\n \n\n            We have used following criteria to define the attempts_range :-\n\n            attempts_range            No. of attempts lies inside\n\n            1                                         1-1\n\n            2                                         2-3\n\n            3                                         4-5\n\n            4                                         6-7\n\n            5                                         8-9\n\n            6                                         &gt;=10\n\n           \n\nuser_data.csv - This is the file containing data of users. It contains the following features :-\n\nuser_id - unique ID assigned to each user\nsubmission_count - total number of user submissions\nproblem_solved - total number of accepted user submissions\ncontribution - user contribution to the judge\ncountry - location of user\nfollower_count - amount of users who have this user in followers\nlast_online_time_seconds - time when user was last seen online\nmax_rating - maximum rating of user\nrating - rating of user\nrank - can be one of \u2018beginner\u2019 ,\u2019intermediate\u2019 , \u2018advanced\u2019, \u2018expert\u2019\nregistration_time_seconds - time when user was registered\n \n\nproblem_data.csv - This is the file containing data of the problems. It contains the following features :-\nproblem_id - unique ID assigned to each problem\nlevel_id - the difficulty level of the problem between \u2018A\u2019 to \u2018N\u2019\npoints - amount of points for the problem\ntags - problem tag(s) like greedy, graphs, DFS etc.\n \n\ntest_submissions.csv - This contains the remaining 66,555 submissions from total 2,21,850 submissions. Contains 1 column (ID). The \u2018attempts_range\u2019 column is to be predicted.",
+  "datasetId": 16512,
+  "datasetSlug": "recommendation-engine",
+  "hasDatasetSlug": true,
+  "ownerUser": "ashishvaya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 6648,
+  "totalVotes": 12,
+  "totalDownloads": 493,
+  "title": "Recommendation Engine",
+  "hasTitle": true,
+  "subtitle": "Recommending the questions that a programmer should solve",
+  "hasSubtitle": true,
+  "description": "### Context\n\nRecommending the questions that a programmer should solve given his/her current expertise is a big challenge for Online Judge Platforms but is an essential task to keep a programmer engaged on their platform.\n\nIn this practice problem, you are given the data of programmers and questions that they have previously solved along with the time that they took to solve that particular question.\n\nAs a data scientist, your task is to build a model that can predict the time taken to solve a problem given the user current status.\n\nThis model will help online judges to decide the next level of questions to recommend to a user.\n\n\n### Content\n\nData Files\n\n \n\nThere are 3 training data files.\n\n \n\ntrain_submissions.csv - This contains 1,55,295 submissions which are selected randomly from 2,21,850 submissions. Contains 3 columns (\u2018user_id\u2019, \u2018problem_id\u2019, \u2018attempts_range\u2019). The variable \u2018attempts_range\u2019 denoted the range no. in which attempts the user made to get the solution accepted lies.\n \n\n            We have used following criteria to define the attempts_range :-\n\n            attempts_range            No. of attempts lies inside\n\n            1                                         1-1\n\n            2                                         2-3\n\n            3                                         4-5\n\n            4                                         6-7\n\n            5                                         8-9\n\n            6                                         &gt;=10\n\n           \n\nuser_data.csv - This is the file containing data of users. It contains the following features :-\n\nuser_id - unique ID assigned to each user\nsubmission_count - total number of user submissions\nproblem_solved - total number of accepted user submissions\ncontribution - user contribution to the judge\ncountry - location of user\nfollower_count - amount of users who have this user in followers\nlast_online_time_seconds - time when user was last seen online\nmax_rating - maximum rating of user\nrating - rating of user\nrank - can be one of \u2018beginner\u2019 ,\u2019intermediate\u2019 , \u2018advanced\u2019, \u2018expert\u2019\nregistration_time_seconds - time when user was registered\n \n\nproblem_data.csv - This is the file containing data of the problems. It contains the following features :-\nproblem_id - unique ID assigned to each problem\nlevel_id - the difficulty level of the problem between \u2018A\u2019 to \u2018N\u2019\npoints - amount of points for the problem\ntags - problem tag(s) like greedy, graphs, DFS etc.\n \n\ntest_submissions.csv - This contains the remaining 66,555 submissions from total 2,21,850 submissions. Contains 1 column (ID). The \u2018attempts_range\u2019 column is to be predicted.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "programming"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

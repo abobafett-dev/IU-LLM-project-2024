@@ -1,0 +1,43 @@
+{
+  "id": "aletbm/urban-segmentation-isprs",
+  "id_no": 4638607,
+  "datasetSlugNullable": "urban-segmentation-isprs",
+  "ownerUserNullable": "aletbm",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Urban Segmentation - ISPRS",
+  "subtitleNullable": "2D semantic segmentation of urban areas like Vaihinge, Potsdam and Toronto.",
+  "descriptionNullable": "### Context\nOne of the major topics in photogrammetry is the automated extraction of urban objects from data acquired by airborne sensors. What makes this task challenging is the very heterogeneous appearance of objects like buildings, streets, trees and cars in very high-resolution data, which leads to high intra-class variance while the inter-class variance is low. Focus is on detailed 2D semantic segmentation that assigns labels to multiple object categories. Further research drivers are very high-resolution data from new sensors and advanced processing techniques that rely on increasingly mature machine learning techniques. Despite the enormous efforts spent, these tasks cannot be considered solved, yet. To our knowledge, no fully automated method for 2D object recognition is applied in practice today although at least two decades of research have tried solving this task. One major problem that is hampering scientific progress is a lack of standard data sets for evaluating object extraction, so that the outcomes of different approaches can hardly be compared experimentally. This \"semantic labeling contest\" of ISPRS WG III/4 is meant to resolve this issue.\n\nTo this end we provide two state-of-the-art airborne image datasets, consisting of very high resolution treue ortho photo (TOP) tiles. Both areas cover urban scenes. While **Vaihingen** is a relatively small village with many detached buildings and small multi story buildings, **Potsdam** shows a typical historic city with large building blocks, narrow streets and dense settlement structure.\n\n### How I used this dataset?\n\nEach dataset has been classified manually into six most common land cover classes. Six categories/classes have been defined:\n\n&gt;+ Impervious surfaces (BGR: 255, 255, 255)\n+ Building (BGR: 0, 0, 255)\n+ Low vegetation (BGR: 0, 255, 255)\n+ Tree (BGR: 0, 255, 0)\n+ Car (BGR: 255, 255, 0)\n+ Clutter/background (BGR: 255, 0, 0)\n\nThe clutter/background class includes water bodies (present in two images with part of a river) and other objects that look very different from everything else (e.g., containers, tennis courts, swimming pools) and that are usually not of interest in semantic object classification in urban scenes, however note that participants must submit labels for all classes (including the clutter/background class).\n\n### Acknowledgement\n\nFor Vaihingen dataset:\n&gt;The Vaihingen data set was provided by the German Society for Photogrammetry, Remote Sensing\nand Geoinformation (DGPF) [Cramer, 2010]: http://www.ifp.uni-stuttgart.de/dgpf/DKEP-Allg.html.\n\nFor Potsdam dataset:\n&gt;We thank BSF Swissphoto for providing us the data free of charge.\n\nFor Toronto dataset:\n&gt;The authors would like to acknowledge the provision of the Downtown Toronto data set by Optech\nInc., First Base Solutions Inc., GeoICT Lab at York University, and ISPRS WG III/4.\n\n### Contact\nFor further information, contact any of the officials of ISPRS WG III/4\n\n+ Franz Rottensteiner: rottensteiner@ipi.uni-hannover.de\n+ Gunho Sohn: gsohn@yorku.ca\n+ Markus Gerke: gerke@itc.nl\n+ Jan Dirk Wegner: jan.wegner@geod.baug.ethz.ch\n\nYou can also visit the WG web site: http://www.commission3.isprs.org/wg4/\n\n",
+  "datasetId": 4638607,
+  "datasetSlug": "urban-segmentation-isprs",
+  "hasDatasetSlug": true,
+  "ownerUser": "aletbm",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1106,
+  "totalVotes": 11,
+  "totalDownloads": 149,
+  "title": "Urban Segmentation - ISPRS",
+  "hasTitle": true,
+  "subtitle": "2D semantic segmentation of urban areas like Vaihinge, Potsdam and Toronto.",
+  "hasSubtitle": true,
+  "description": "### Context\nOne of the major topics in photogrammetry is the automated extraction of urban objects from data acquired by airborne sensors. What makes this task challenging is the very heterogeneous appearance of objects like buildings, streets, trees and cars in very high-resolution data, which leads to high intra-class variance while the inter-class variance is low. Focus is on detailed 2D semantic segmentation that assigns labels to multiple object categories. Further research drivers are very high-resolution data from new sensors and advanced processing techniques that rely on increasingly mature machine learning techniques. Despite the enormous efforts spent, these tasks cannot be considered solved, yet. To our knowledge, no fully automated method for 2D object recognition is applied in practice today although at least two decades of research have tried solving this task. One major problem that is hampering scientific progress is a lack of standard data sets for evaluating object extraction, so that the outcomes of different approaches can hardly be compared experimentally. This \"semantic labeling contest\" of ISPRS WG III/4 is meant to resolve this issue.\n\nTo this end we provide two state-of-the-art airborne image datasets, consisting of very high resolution treue ortho photo (TOP) tiles. Both areas cover urban scenes. While **Vaihingen** is a relatively small village with many detached buildings and small multi story buildings, **Potsdam** shows a typical historic city with large building blocks, narrow streets and dense settlement structure.\n\n### How I used this dataset?\n\nEach dataset has been classified manually into six most common land cover classes. Six categories/classes have been defined:\n\n&gt;+ Impervious surfaces (BGR: 255, 255, 255)\n+ Building (BGR: 0, 0, 255)\n+ Low vegetation (BGR: 0, 255, 255)\n+ Tree (BGR: 0, 255, 0)\n+ Car (BGR: 255, 255, 0)\n+ Clutter/background (BGR: 255, 0, 0)\n\nThe clutter/background class includes water bodies (present in two images with part of a river) and other objects that look very different from everything else (e.g., containers, tennis courts, swimming pools) and that are usually not of interest in semantic object classification in urban scenes, however note that participants must submit labels for all classes (including the clutter/background class).\n\n### Acknowledgement\n\nFor Vaihingen dataset:\n&gt;The Vaihingen data set was provided by the German Society for Photogrammetry, Remote Sensing\nand Geoinformation (DGPF) [Cramer, 2010]: http://www.ifp.uni-stuttgart.de/dgpf/DKEP-Allg.html.\n\nFor Potsdam dataset:\n&gt;We thank BSF Swissphoto for providing us the data free of charge.\n\nFor Toronto dataset:\n&gt;The authors would like to acknowledge the provision of the Downtown Toronto data set by Optech\nInc., First Base Solutions Inc., GeoICT Lab at York University, and ISPRS WG III/4.\n\n### Contact\nFor further information, contact any of the officials of ISPRS WG III/4\n\n+ Franz Rottensteiner: rottensteiner@ipi.uni-hannover.de\n+ Gunho Sohn: gsohn@yorku.ca\n+ Markus Gerke: gerke@itc.nl\n+ Jan Dirk Wegner: jan.wegner@geod.baug.ethz.ch\n\nYou can also visit the WG web site: http://www.commission3.isprs.org/wg4/\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "data visualization",
+    "classification",
+    "image classification",
+    "image segmentation"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

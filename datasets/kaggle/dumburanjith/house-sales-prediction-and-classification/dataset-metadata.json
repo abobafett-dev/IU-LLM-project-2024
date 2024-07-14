@@ -1,0 +1,39 @@
+{
+  "id": "dumburanjith/house-sales-prediction-and-classification",
+  "id_no": 438243,
+  "datasetSlugNullable": "house-sales-prediction-and-classification",
+  "ownerUserNullable": "dumburanjith",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "House Sales Prediction and Classification",
+  "subtitleNullable": "",
+  "descriptionNullable": "### Context\nThe purpose of this kernel is to predict the price of a house that a realtor can charge, or a customer can invest to buy a house by considering multiple input factors. Also, to classify the houses into Good and Excellent category based on the input variables by using best machine learning classification and regression algorithms with more efficiency. \n\n### Content\n\nThis dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015. The dataset is pretty unbalanced with wide range of houses information that are built and renovated from the year 1990 to 2015. The dataset has total 21 variables including price,price, condition, number of bedrooms, bathrooms and other features of house.\n\n### Inspiration\nI was inspired by the House sales dataset in King County, USA (https://www.kaggle.com/harlfoxem/housesalesprediction) and House Sales in Ontario (https://www.kaggle.com/mnabaee/ontarioproperties) datasets and the predictions and classifiers used.\n\nSale of Houses can go high and low depending on the market and multiple factors like location, number of bedrooms, year built etc. All these factors help in deriving the sale price of the house and grading of the house. Millions of houses information can be stored with all the details and factors in the historical timelines. Using machine learning techniques, we can analyze the data and predict the price of new houses and also classify the houses and fix a price value by calculating all the factors that directly or indirectly impact on the overall sale of house. \n",
+  "datasetId": 438243,
+  "datasetSlug": "house-sales-prediction-and-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "dumburanjith",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 10095,
+  "totalVotes": 15,
+  "totalDownloads": 1287,
+  "title": "House Sales Prediction and Classification",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "### Context\nThe purpose of this kernel is to predict the price of a house that a realtor can charge, or a customer can invest to buy a house by considering multiple input factors. Also, to classify the houses into Good and Excellent category based on the input variables by using best machine learning classification and regression algorithms with more efficiency. \n\n### Content\n\nThis dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015. The dataset is pretty unbalanced with wide range of houses information that are built and renovated from the year 1990 to 2015. The dataset has total 21 variables including price,price, condition, number of bedrooms, bathrooms and other features of house.\n\n### Inspiration\nI was inspired by the House sales dataset in King County, USA (https://www.kaggle.com/harlfoxem/housesalesprediction) and House Sales in Ontario (https://www.kaggle.com/mnabaee/ontarioproperties) datasets and the predictions and classifiers used.\n\nSale of Houses can go high and low depending on the market and multiple factors like location, number of bedrooms, year built etc. All these factors help in deriving the sale price of the house and grading of the house. Millions of houses information can be stored with all the details and factors in the historical timelines. Using machine learning techniques, we can analyze the data and predict the price of new houses and also classify the houses and fix a price value by calculating all the factors that directly or indirectly impact on the overall sale of house. \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "real estate"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

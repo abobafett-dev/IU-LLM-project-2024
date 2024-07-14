@@ -1,0 +1,44 @@
+{
+  "id": "willianoliveiragibin/stock-tesla",
+  "id_no": 4161051,
+  "datasetSlugNullable": "stock-tesla",
+  "ownerUserNullable": "willianoliveiragibin",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "stock_TESLA",
+  "subtitleNullable": "The \u201cTesla Stock Price Data (Last One Year)\u201d dataset is a comprehensive",
+  "descriptionNullable": "The \u201cTesla Stock Price Data (Last One Year)\u201d dataset is a comprehensive collection of historical stock market information, focusing on Tesla Inc. (TSLA) for the past year. This dataset serves as a valuable resource for financial analysts, investors, researchers, and data enthusiasts who are interested in studying the trends, patterns, and performance of Tesla\u2019s stock in the financial markets.It consists of 9 columns referring to date, high and low prices, open and closing value, volume, cumulative open and of course changing of price.At a first glance in order to better understand the data we should plot the time series of each attribute.The cumulative Open Interest(OI) is the total open contracts that are being held in a particular Future or Call or Put contracts on the Exchange.\nWe can see that the biggest drop of the stock happened in January of 2023 and after 5 to 6 months it regained its stock value round the summer of the same year with opening and closing price around 300.As a next step we are going to plot some more plots in order ro better understand the relation between our target column(change price) with every other attribute.\nIn order to interpret the results:\n\nLinear Regression:\n\nMean Absolute Error (MAE): 6.28\nThis model, on average, predicts the \u201cPrice Change\u201d within approximately 6.28 units of the true value.\nMean Squared Error (MSE): 52.97\nMSE measures the average of squared differences, and this value suggests some variability in prediction errors.\nRoot Mean Squared Error (RMSE): 7.28\nRMSE is the square root of MSE and is in the same units as the target variable. An RMSE of 7.28 indicates the typical prediction error.\nR-squared (R2): 0.0868\nR-squared represents the proportion of the variance in the target variable explained by the model. An R2 of 0.0868 suggests that the model explains only a small portion of the variance, indicating limited predictive power.\nDecision Tree Regression:\n\nMean Absolute Error (MAE): 9.21\nThis model, on average, predicts the \u201cPrice Change\u201d within approximately 9.21 units of the true value, which is higher than the Linear Regression model.\nMean Squared Error (MSE): 150.69\nThe MSE is relatively high, indicating larger prediction errors and more variability.\nRoot Mean Squared Error (RMSE): 12.28\nRMSE of 12.28 is notably higher, suggesting that this model has larger prediction errors.\nR-squared (R2): -1.598\nThe negative R-squared value indicates that the model performs worse than a horizontal line as a predictor, indicating a poor fit.\nRandom Forest Regression:\n\nMean Absolute Error (MAE): 6.99\nThis model, on average, predicts the \u201cPrice Change\u201d within approximately 6.99 units of the true value, similar to Linear Regression.\nMean Squared Error (MSE): 62.79\nMSE is lower than the Decision Tree model but higher than Linear Regression, suggesting intermediate prediction accuracy\nRoot Mean Squared Error (RMSE): 7.92\nRMSE is also intermediate, indicating moderate prediction errors.\nR-squared (R2): -0.0824\nThe negative R-squared suggests that the Random Forest model does not perform well and has limited predictive power.",
+  "datasetId": 4161051,
+  "datasetSlug": "stock-tesla",
+  "hasDatasetSlug": true,
+  "ownerUser": "willianoliveiragibin",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1000,
+  "totalVotes": 4,
+  "totalDownloads": 160,
+  "title": "stock_TESLA",
+  "hasTitle": true,
+  "subtitle": "The \u201cTesla Stock Price Data (Last One Year)\u201d dataset is a comprehensive",
+  "hasSubtitle": true,
+  "description": "The \u201cTesla Stock Price Data (Last One Year)\u201d dataset is a comprehensive collection of historical stock market information, focusing on Tesla Inc. (TSLA) for the past year. This dataset serves as a valuable resource for financial analysts, investors, researchers, and data enthusiasts who are interested in studying the trends, patterns, and performance of Tesla\u2019s stock in the financial markets.It consists of 9 columns referring to date, high and low prices, open and closing value, volume, cumulative open and of course changing of price.At a first glance in order to better understand the data we should plot the time series of each attribute.The cumulative Open Interest(OI) is the total open contracts that are being held in a particular Future or Call or Put contracts on the Exchange.\nWe can see that the biggest drop of the stock happened in January of 2023 and after 5 to 6 months it regained its stock value round the summer of the same year with opening and closing price around 300.As a next step we are going to plot some more plots in order ro better understand the relation between our target column(change price) with every other attribute.\nIn order to interpret the results:\n\nLinear Regression:\n\nMean Absolute Error (MAE): 6.28\nThis model, on average, predicts the \u201cPrice Change\u201d within approximately 6.28 units of the true value.\nMean Squared Error (MSE): 52.97\nMSE measures the average of squared differences, and this value suggests some variability in prediction errors.\nRoot Mean Squared Error (RMSE): 7.28\nRMSE is the square root of MSE and is in the same units as the target variable. An RMSE of 7.28 indicates the typical prediction error.\nR-squared (R2): 0.0868\nR-squared represents the proportion of the variance in the target variable explained by the model. An R2 of 0.0868 suggests that the model explains only a small portion of the variance, indicating limited predictive power.\nDecision Tree Regression:\n\nMean Absolute Error (MAE): 9.21\nThis model, on average, predicts the \u201cPrice Change\u201d within approximately 9.21 units of the true value, which is higher than the Linear Regression model.\nMean Squared Error (MSE): 150.69\nThe MSE is relatively high, indicating larger prediction errors and more variability.\nRoot Mean Squared Error (RMSE): 12.28\nRMSE of 12.28 is notably higher, suggesting that this model has larger prediction errors.\nR-squared (R2): -1.598\nThe negative R-squared value indicates that the model performs worse than a horizontal line as a predictor, indicating a poor fit.\nRandom Forest Regression:\n\nMean Absolute Error (MAE): 6.99\nThis model, on average, predicts the \u201cPrice Change\u201d within approximately 6.99 units of the true value, similar to Linear Regression.\nMean Squared Error (MSE): 62.79\nMSE is lower than the Decision Tree model but higher than Linear Regression, suggesting intermediate prediction accuracy\nRoot Mean Squared Error (RMSE): 7.92\nRMSE is also intermediate, indicating moderate prediction errors.\nR-squared (R2): -0.0824\nThe negative R-squared suggests that the Random Forest model does not perform well and has limited predictive power.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "data cleaning",
+    "data visualization",
+    "data analytics",
+    "investing",
+    "accelerators"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

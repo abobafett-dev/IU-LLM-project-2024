@@ -1,0 +1,52 @@
+{
+  "id": "correctoryui/fasttext-wikinews",
+  "id_no": 109455,
+  "datasetSlugNullable": "fasttext-wikinews",
+  "ownerUserNullable": "correctoryui",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "fasttext-wikinews",
+  "subtitleNullable": "pickle format fasttext pretrained model",
+  "descriptionNullable": "pickle format fasttext pretrained model\nfrom https://www.kaggle.com/facebook/fasttext-wikinews\n\nLoaded .vec model above as gensim.KeyedVectors then pickled.",
+  "datasetId": 109455,
+  "datasetSlug": "fasttext-wikinews",
+  "hasDatasetSlug": true,
+  "ownerUser": "correctoryui",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 2189,
+  "totalVotes": 1,
+  "totalDownloads": 18,
+  "title": "fasttext-wikinews",
+  "hasTitle": true,
+  "subtitle": "pickle format fasttext pretrained model",
+  "hasSubtitle": true,
+  "description": "pickle format fasttext pretrained model\nfrom https://www.kaggle.com/facebook/fasttext-wikinews\n\nLoaded .vec model above as gensim.KeyedVectors then pickled.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-3.0",
+      "name": "CC-BY-SA-3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "masabe1380",
+      "role": "writer"
+    },
+    {
+      "username": "ysdtsy",
+      "role": "writer"
+    },
+    {
+      "username": "tyoshii",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

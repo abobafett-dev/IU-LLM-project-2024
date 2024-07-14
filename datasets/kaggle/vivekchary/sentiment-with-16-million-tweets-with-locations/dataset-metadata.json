@@ -1,0 +1,44 @@
+{
+  "id": "vivekchary/sentiment-with-16-million-tweets-with-locations",
+  "id_no": 2993153,
+  "datasetSlugNullable": "sentiment-with-16-million-tweets-with-locations",
+  "ownerUserNullable": "vivekchary",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Sentiment with 1.6 million tweets with locations",
+  "subtitleNullable": "    Overview of the \"Sentiment with 16 million tweets with locations\" Dataset   ",
+  "descriptionNullable": "The \"Sentiment with 16 million tweets with locations\" dataset is a collection of tweets with their respective geographical location information and sentiment labels. The dataset includes 16 million tweets from various locations around the world, spanning a period of several years. The sentiment labels for each tweet are binary, indicating whether the sentiment expressed in the tweet is positive or negative.\n\nThis dataset can be used for sentiment analysis and natural language processing tasks, such as training machine learning models to classify the sentiment of text data. Researchers and developers can use this dataset to analyze trends in sentiment across different locations and time periods, as well as to develop new algorithms and models for sentiment analysis.\n\nPlease note that this dataset is intended for research purposes only and should not be used for any commercial or legal applications. The dataset may also contain offensive or inappropriate language, and users should exercise caution when working with this data\n\n**Context**\nIn addition to the technical details of the \"Sentiment with 16 million tweets with locations\" dataset, some context that may be relevant to include in the About Dataset section could be:\n\n- The dataset was compiled and made publicly available by Vivek Chary, a data scientist and machine learning engineer.\n-   The tweets were collected using the Twitter API, and the dataset was last updated in 2017.\n-   The dataset includes tweets in various languages, although the majority are in English.\n-   Sentiment analysis is a common application of natural language processing, and has a wide range of potential use cases, such as in market research, social media monitoring, and customer service.\n-  Sentiment analysis can be challenging due to the complexity and ambiguity of language, as well as the variability of individual expression and context.\n\n-  Large datasets like this one are important for developing accurate and robust sentiment analysis models, as they provide a diverse and representative sample of real-world text data.\n\n**Content**\nIt contains the following 7 fields:\n\n1.    Sentiment Target: The polarity of the tweet, indicated by a numeric value of 0 (negative), 2 (neutral), or 4 (positive).\n\n2.    Tweet ID: The unique identifier of the tweet.\n\n3.    Date: The date and time the tweet was posted in Coordinated Universal Time (UTC) format.\n\n4.    Query Flag: The keyword or phrase used to filter the tweets. If no query was used, the value is NO_QUERY.\n\n5.    User: The username of the Twitter account that posted the tweet.\n\n6.    Text: The actual text content of the tweet.\n\n7.     Location: The location of the tweet",
+  "datasetId": 2993153,
+  "datasetSlug": "sentiment-with-16-million-tweets-with-locations",
+  "hasDatasetSlug": true,
+  "ownerUser": "vivekchary",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 936,
+  "totalVotes": 2,
+  "totalDownloads": 163,
+  "title": "Sentiment with 1.6 million tweets with locations",
+  "hasTitle": true,
+  "subtitle": "    Overview of the \"Sentiment with 16 million tweets with locations\" Dataset   ",
+  "hasSubtitle": true,
+  "description": "The \"Sentiment with 16 million tweets with locations\" dataset is a collection of tweets with their respective geographical location information and sentiment labels. The dataset includes 16 million tweets from various locations around the world, spanning a period of several years. The sentiment labels for each tweet are binary, indicating whether the sentiment expressed in the tweet is positive or negative.\n\nThis dataset can be used for sentiment analysis and natural language processing tasks, such as training machine learning models to classify the sentiment of text data. Researchers and developers can use this dataset to analyze trends in sentiment across different locations and time periods, as well as to develop new algorithms and models for sentiment analysis.\n\nPlease note that this dataset is intended for research purposes only and should not be used for any commercial or legal applications. The dataset may also contain offensive or inappropriate language, and users should exercise caution when working with this data\n\n**Context**\nIn addition to the technical details of the \"Sentiment with 16 million tweets with locations\" dataset, some context that may be relevant to include in the About Dataset section could be:\n\n- The dataset was compiled and made publicly available by Vivek Chary, a data scientist and machine learning engineer.\n-   The tweets were collected using the Twitter API, and the dataset was last updated in 2017.\n-   The dataset includes tweets in various languages, although the majority are in English.\n-   Sentiment analysis is a common application of natural language processing, and has a wide range of potential use cases, such as in market research, social media monitoring, and customer service.\n-  Sentiment analysis can be challenging due to the complexity and ambiguity of language, as well as the variability of individual expression and context.\n\n-  Large datasets like this one are important for developing accurate and robust sentiment analysis models, as they provide a diverse and representative sample of real-world text data.\n\n**Content**\nIt contains the following 7 fields:\n\n1.    Sentiment Target: The polarity of the tweet, indicated by a numeric value of 0 (negative), 2 (neutral), or 4 (positive).\n\n2.    Tweet ID: The unique identifier of the tweet.\n\n3.    Date: The date and time the tweet was posted in Coordinated Universal Time (UTC) format.\n\n4.    Query Flag: The keyword or phrase used to filter the tweets. If no query was used, the value is NO_QUERY.\n\n5.    User: The username of the Twitter account that posted the tweet.\n\n6.    Text: The actual text content of the tweet.\n\n7.     Location: The location of the tweet",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "artificial intelligence",
+    "classification",
+    "text",
+    "bert",
+    "bigan"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

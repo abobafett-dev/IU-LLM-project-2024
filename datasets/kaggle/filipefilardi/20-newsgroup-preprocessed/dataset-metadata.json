@@ -1,0 +1,44 @@
+{
+  "id": "filipefilardi/20-newsgroup-preprocessed",
+  "id_no": 997253,
+  "datasetSlugNullable": "20-newsgroup-preprocessed",
+  "ownerUserNullable": "filipefilardi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "20 newsgroup preprocessed",
+  "subtitleNullable": "Collection of 18.828 documents divided into 20 different newsgroups",
+  "descriptionNullable": "# Context\n\nOur goal in this dataset is to provide easy-to-go data to researchers that want to try different machine learning techniques, such as text classification and text clustering, without having to worry about how the corpus is structured and initial preprocessing.\n\nWe know this is just the beginning to normalize your text documents, but we didn't want to apply more cleaning to the point you can't try different approaches.\n\n# Content\n\nThe original dataset was collected by Ken Lang and is available [here](http://qwone.com/~jason/20Newsgroups/). In this version, we present the same data, changing the structure to a dataframe, and adding the text after cleaning.\n\nThe script that converts every document in a row of the dataframe can be found [here](https://github.com/filipefilardi/text-classification/blob/main/corpus_to_dataframe.py).\n\nThe notebook that does the pre-processing can be found [here](https://www.kaggle.com/filipefilardi/nlp-text-preprocessing-starter-code).\n\n### Dataset properties\n\n- 18.828 documents\n- 20 classes\n- 3 features\n\t- **target:** 20 newsgroups corresponding to a different topic.\n\t- **text:** the original text extracted from the original document, has the same format.\n\t- **text_cleaned:** the result text after pre-processing.\n\n### 20 newsgroups topics\n\nBelow you can see each newsgroup. Some of them are related (e.g. rec.sport.baseball and rec.sport.hockey), while others are unrelated (e.g alt.atheism and misc.forsale).\n\n- alt.atheism\n- comp.graphics\n- comp.os.ms-windows.misc\n- comp.sys.ibm.pc.hardware\n- comp.sys.mac.hardware\n- comp.windows.x\n- misc.forsale\n- rec.autos\n- rec.motorcycles\n- rec.sport.baseball\n- rec.sport.hockey\n- sci.crypt\n- sci.electronics\n- sci.med\n- sci.space\n- soc.religion.christian\n- talk.politics.guns\n- talk.politics.mideast\n- talk.politics.misc\n- talk.religion.misc\n\n# Citation\n\nFilipe Filardi de Jesus, Glauber da Rocha Balthazar, and Kevin Danglau Mejia Maldonado, \u201c20 newsgroup preprocessed.\u201d Kaggle, 2020, doi: 10.34740/KAGGLE/DS/997253.\n\n# Inspiration\n\n- Can you propose a different pre-processing that can enhance the model prediction?\n- Can you find any text structure (e.g. header) that wasn't removed in the proposed pre-processing that might cause an unfair increase in our prediction capability?\n- What different NLP techniques can be applied in this dataset to do text-classification and clustering?",
+  "datasetId": 997253,
+  "datasetSlug": "20-newsgroup-preprocessed",
+  "hasDatasetSlug": true,
+  "ownerUser": "filipefilardi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9883,
+  "totalVotes": 13,
+  "totalDownloads": 705,
+  "title": "20 newsgroup preprocessed",
+  "hasTitle": true,
+  "subtitle": "Collection of 18.828 documents divided into 20 different newsgroups",
+  "hasSubtitle": true,
+  "description": "# Context\n\nOur goal in this dataset is to provide easy-to-go data to researchers that want to try different machine learning techniques, such as text classification and text clustering, without having to worry about how the corpus is structured and initial preprocessing.\n\nWe know this is just the beginning to normalize your text documents, but we didn't want to apply more cleaning to the point you can't try different approaches.\n\n# Content\n\nThe original dataset was collected by Ken Lang and is available [here](http://qwone.com/~jason/20Newsgroups/). In this version, we present the same data, changing the structure to a dataframe, and adding the text after cleaning.\n\nThe script that converts every document in a row of the dataframe can be found [here](https://github.com/filipefilardi/text-classification/blob/main/corpus_to_dataframe.py).\n\nThe notebook that does the pre-processing can be found [here](https://www.kaggle.com/filipefilardi/nlp-text-preprocessing-starter-code).\n\n### Dataset properties\n\n- 18.828 documents\n- 20 classes\n- 3 features\n\t- **target:** 20 newsgroups corresponding to a different topic.\n\t- **text:** the original text extracted from the original document, has the same format.\n\t- **text_cleaned:** the result text after pre-processing.\n\n### 20 newsgroups topics\n\nBelow you can see each newsgroup. Some of them are related (e.g. rec.sport.baseball and rec.sport.hockey), while others are unrelated (e.g alt.atheism and misc.forsale).\n\n- alt.atheism\n- comp.graphics\n- comp.os.ms-windows.misc\n- comp.sys.ibm.pc.hardware\n- comp.sys.mac.hardware\n- comp.windows.x\n- misc.forsale\n- rec.autos\n- rec.motorcycles\n- rec.sport.baseball\n- rec.sport.hockey\n- sci.crypt\n- sci.electronics\n- sci.med\n- sci.space\n- soc.religion.christian\n- talk.politics.guns\n- talk.politics.mideast\n- talk.politics.misc\n- talk.religion.misc\n\n# Citation\n\nFilipe Filardi de Jesus, Glauber da Rocha Balthazar, and Kevin Danglau Mejia Maldonado, \u201c20 newsgroup preprocessed.\u201d Kaggle, 2020, doi: 10.34740/KAGGLE/DS/997253.\n\n# Inspiration\n\n- Can you propose a different pre-processing that can enhance the model prediction?\n- Can you find any text structure (e.g. header) that wasn't removed in the proposed pre-processing that might cause an unfair increase in our prediction capability?\n- What different NLP techniques can be applied in this dataset to do text-classification and clustering?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "nlp",
+    "clustering",
+    "text",
+    "multiclass classification",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

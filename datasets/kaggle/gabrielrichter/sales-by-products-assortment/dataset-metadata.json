@@ -1,0 +1,43 @@
+{
+  "id": "gabrielrichter/sales-by-products-assortment",
+  "id_no": 3504182,
+  "datasetSlugNullable": "sales-by-products-assortment",
+  "ownerUserNullable": "gabrielrichter",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Seasonal Product Assortment Sales",
+  "subtitleNullable": "Intermittent and Seasonal Product Assortment Sales ",
+  "descriptionNullable": "**Dataset Information**\n\nThe idea of the dataset is precisely to have categories of products that based on the business are only sold in certain periods of time, for example apple picking, is only carried out in certain periods of the year, and i have generated random dataset with numpy and random library for python for simulate / generate this scenario for study. \ud83d\ude01\n\nFor example: \nThe Candy assortment is selled only in four months in two last year months and the two start months of next year. (Nov, Dec, Jan, Feb).\nAnd another sales of another assortments is selled in other months!\n\nThis dataset contains sales of three different product categories (assortment column), each of these categories are sold in different periods of the year (different months), so the challenge is to make a forecast for the next year based on the sales of past years.\n\nIn the image below, is possible to see first 10 sales of drink assortment.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F7315050%2F5fcdc2a0474d1b66d726427e2bfcc73e%2FCaptura%20de%20tela%20de%202023-07-10%2020-43-33.png?generation=1689032624645298&alt=media)\n\n**Columns Information**\n\n1. **Index**: Row indicator of dataset.\n2. **Date**: Year, Month, day of dataset.\n3. **Sales**: Total Sales (or product quantity) given a date and assortment.\n4. **Assortment**: Product Sales Category.",
+  "datasetId": 3504182,
+  "datasetSlug": "sales-by-products-assortment",
+  "hasDatasetSlug": true,
+  "ownerUser": "gabrielrichter",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 778,
+  "totalVotes": 3,
+  "totalDownloads": 100,
+  "title": "Seasonal Product Assortment Sales",
+  "hasTitle": true,
+  "subtitle": "Intermittent and Seasonal Product Assortment Sales ",
+  "hasSubtitle": true,
+  "description": "**Dataset Information**\n\nThe idea of the dataset is precisely to have categories of products that based on the business are only sold in certain periods of time, for example apple picking, is only carried out in certain periods of the year, and i have generated random dataset with numpy and random library for python for simulate / generate this scenario for study. \ud83d\ude01\n\nFor example: \nThe Candy assortment is selled only in four months in two last year months and the two start months of next year. (Nov, Dec, Jan, Feb).\nAnd another sales of another assortments is selled in other months!\n\nThis dataset contains sales of three different product categories (assortment column), each of these categories are sold in different periods of the year (different months), so the challenge is to make a forecast for the next year based on the sales of past years.\n\nIn the image below, is possible to see first 10 sales of drink assortment.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F7315050%2F5fcdc2a0474d1b66d726427e2bfcc73e%2FCaptura%20de%20tela%20de%202023-07-10%2020-43-33.png?generation=1689032624645298&alt=media)\n\n**Columns Information**\n\n1. **Index**: Row indicator of dataset.\n2. **Date**: Year, Month, day of dataset.\n3. **Sales**: Total Sales (or product quantity) given a date and assortment.\n4. **Assortment**: Product Sales Category.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "time series analysis",
+    "tabular",
+    "regression",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "simranjain17/yes-bank-stock-prices",
+  "id_no": 995685,
+  "datasetSlugNullable": "yes-bank-stock-prices",
+  "ownerUserNullable": "simranjain17",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Yes Bank Stock Prices",
+  "subtitleNullable": "Monthly Opening, Highest, Lowest and Closing Prices ",
+  "descriptionNullable": "Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest and lowest stock prices of every month.  The data is taken from www.moneycontrol.com where historical prices are publically available to access.",
+  "datasetId": 995685,
+  "datasetSlug": "yes-bank-stock-prices",
+  "hasDatasetSlug": true,
+  "ownerUser": "simranjain17",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 8777,
+  "totalVotes": 14,
+  "totalDownloads": 502,
+  "title": "Yes Bank Stock Prices",
+  "hasTitle": true,
+  "subtitle": "Monthly Opening, Highest, Lowest and Closing Prices ",
+  "hasSubtitle": true,
+  "description": "Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest and lowest stock prices of every month.  The data is taken from www.moneycontrol.com where historical prices are publically available to access.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "banking",
+    "time series analysis",
+    "investing",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

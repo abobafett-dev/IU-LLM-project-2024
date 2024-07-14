@@ -1,0 +1,42 @@
+{
+  "id": "crxxom/top-youtube-news-media-statistics",
+  "id_no": 3517762,
+  "datasetSlugNullable": "top-youtube-news-media-statistics",
+  "ownerUserNullable": "crxxom",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Top Youtube News Media Statistics",
+  "subtitleNullable": "Contains detailed statistics of the top 43 english media channels in youtube",
+  "descriptionNullable": "The dataset contains detailed information on some of the most popular English media channels on Youtube. From channel overview to statistics of the top 50 videos of each channel, here is a description of all the columns of the two datasets.\n\n**Mainstream Media Statistics**\n\n1. channelName: name of the channel on Youtube\n2. id: The channel ID in Youtube\n3. subscribers: subscriber count (up till 14/7/2023)\n4. total views: total views of all the videos of the channel (up till 14/7/2023)\n5. total videos: total number of videos of the channel (up till 14/7/2023)\n6. created date: The date where the channel is created\n7. description: description of the channel in their description page\n8. playlistId: The id of the channel's video list\n\n**Top50_viewed_video_from_each_channels**\n\n1. Video Id: The ID of the video on Youtube\n2. Channel Title: The channel name of the video\n3. Title: Title of the video\n4. publishedAt: When the video is published\n5. categoryId: The category ID of Youtube (You may reference at https://mixedanalytics.com/blog/list-of-youtube-video-category-ids/)\n6. description: The description of the video\n7. viewCount: The total number of views of that video (up till 14/7/2023)\n8. likeCount: The total number of likes of that video (up till 14/7/2023)\n9. commentCount: The total number of comments of that video (up till 14/7/2023)\n10. duration: The duration of that video\n\n\n**Inspirations**\n\nData is scraped using Youtube API, feel free to use the data as long as it copes with the term of uses of Youtube. Something you can do with the dataset may be to analysis what news are of people's interest or to watch some of the most viewed news in the world to stay close with the society.",
+  "datasetId": 3517762,
+  "datasetSlug": "top-youtube-news-media-statistics",
+  "hasDatasetSlug": true,
+  "ownerUser": "crxxom",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3200,
+  "totalVotes": 28,
+  "totalDownloads": 598,
+  "title": "Top Youtube News Media Statistics",
+  "hasTitle": true,
+  "subtitle": "Contains detailed statistics of the top 43 english media channels in youtube",
+  "hasSubtitle": true,
+  "description": "The dataset contains detailed information on some of the most popular English media channels on Youtube. From channel overview to statistics of the top 50 videos of each channel, here is a description of all the columns of the two datasets.\n\n**Mainstream Media Statistics**\n\n1. channelName: name of the channel on Youtube\n2. id: The channel ID in Youtube\n3. subscribers: subscriber count (up till 14/7/2023)\n4. total views: total views of all the videos of the channel (up till 14/7/2023)\n5. total videos: total number of videos of the channel (up till 14/7/2023)\n6. created date: The date where the channel is created\n7. description: description of the channel in their description page\n8. playlistId: The id of the channel's video list\n\n**Top50_viewed_video_from_each_channels**\n\n1. Video Id: The ID of the video on Youtube\n2. Channel Title: The channel name of the video\n3. Title: Title of the video\n4. publishedAt: When the video is published\n5. categoryId: The category ID of Youtube (You may reference at https://mixedanalytics.com/blog/list-of-youtube-video-category-ids/)\n6. description: The description of the video\n7. viewCount: The total number of views of that video (up till 14/7/2023)\n8. likeCount: The total number of likes of that video (up till 14/7/2023)\n9. commentCount: The total number of comments of that video (up till 14/7/2023)\n10. duration: The duration of that video\n\n\n**Inspirations**\n\nData is scraped using Youtube API, feel free to use the data as long as it copes with the term of uses of Youtube. Something you can do with the dataset may be to analysis what news are of people's interest or to watch some of the most viewed news in the world to stay close with the society.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "politics",
+    "economics",
+    "news",
+    "social issues and advocacy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kmldas/nse-top-100-stocks",
+  "id_no": 904380,
+  "datasetSlugNullable": "nse-top-100-stocks",
+  "ownerUserNullable": "kmldas",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "NSE_top_100_stocks",
+  "subtitleNullable": "Data of top 100 stocks in NSE, India; and the main indices",
+  "descriptionNullable": "We have daily stock prices of top 100 stocks in National Stock Exchange of India (NSE). \nWe also have data for the top 3 indices Nifty 50, Nifty Next 50 and Nifty 100\n\n![Nifty100](https://indiancompanies.in/wp-content/uploads/2019/11/IMG_20191105_172401_compress92-1.jpg)\n\n### Acknowledgements\n\nData scraped from NSE",
+  "datasetId": 904380,
+  "datasetSlug": "nse-top-100-stocks",
+  "hasDatasetSlug": true,
+  "ownerUser": "kmldas",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 3105,
+  "totalVotes": 19,
+  "totalDownloads": 377,
+  "title": "NSE_top_100_stocks",
+  "hasTitle": true,
+  "subtitle": "Data of top 100 stocks in NSE, India; and the main indices",
+  "hasSubtitle": true,
+  "description": "We have daily stock prices of top 100 stocks in National Stock Exchange of India (NSE). \nWe also have data for the top 3 indices Nifty 50, Nifty Next 50 and Nifty 100\n\n![Nifty100](https://indiancompanies.in/wp-content/uploads/2019/11/IMG_20191105_172401_compress92-1.jpg)\n\n### Acknowledgements\n\nData scraped from NSE",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "exploratory data analysis",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

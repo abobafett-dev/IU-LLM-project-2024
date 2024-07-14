@@ -1,0 +1,39 @@
+{
+  "id": "shineucc/bbc-news-dataset",
+  "id_no": 81878,
+  "datasetSlugNullable": "bbc-news-dataset",
+  "ownerUserNullable": "shineucc",
+  "usabilityRatingNullable": 0.4117647058823529,
+  "titleNullable": "BBC news dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 81878,
+  "datasetSlug": "bbc-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "shineucc",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 17182,
+  "totalVotes": 9,
+  "totalDownloads": 1838,
+  "title": "BBC news dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "mdforiduzzamanzihad/preprocessed-depression-dataset",
+  "id_no": 3936007,
+  "datasetSlugNullable": "preprocessed-depression-dataset",
+  "ownerUserNullable": "mdforiduzzamanzihad",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Preprocessed Depression Dataset",
+  "subtitleNullable": "Exploring Sentiments and Experiences in Depression-Related Tweets",
+  "descriptionNullable": "**Description:**\nText data from tweets and brief text messages make up the majority of this dataset. The book seems to deal with people sharing their ideas, feelings, and experiences around depression or mental health. The collection consists of a range of brief literary excerpts that might represent the difficulties, emotions, and experiences related to depression.\n\n**Key Characteristics:**\n- Contains 6,982 rows of text data.\n- Each row represents a separate text snippet or tweet.\n- The text appears to cover a range of topics related to mental health, depression, and emotional well-being.\n- Some text may express feelings of sadness, confusion, restlessness, or worry, while others may reference coping - \n   mechanisms or personal experiences.\n\n**Use Cases:**\n\n- This dataset may be useful for sentiment analysis, natural language processing, or text classification tasks related to mental health and depression.\n- Researchers and data scientists may analyze this data to gain insights into the emotional and psychological states of individuals discussing depression on social media.",
+  "datasetId": 3936007,
+  "datasetSlug": "preprocessed-depression-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mdforiduzzamanzihad",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 495,
+  "totalVotes": 2,
+  "totalDownloads": 81,
+  "title": "Preprocessed Depression Dataset",
+  "hasTitle": true,
+  "subtitle": "Exploring Sentiments and Experiences in Depression-Related Tweets",
+  "hasSubtitle": true,
+  "description": "**Description:**\nText data from tweets and brief text messages make up the majority of this dataset. The book seems to deal with people sharing their ideas, feelings, and experiences around depression or mental health. The collection consists of a range of brief literary excerpts that might represent the difficulties, emotions, and experiences related to depression.\n\n**Key Characteristics:**\n- Contains 6,982 rows of text data.\n- Each row represents a separate text snippet or tweet.\n- The text appears to cover a range of topics related to mental health, depression, and emotional well-being.\n- Some text may express feelings of sadness, confusion, restlessness, or worry, while others may reference coping - \n   mechanisms or personal experiences.\n\n**Use Cases:**\n\n- This dataset may be useful for sentiment analysis, natural language processing, or text classification tasks related to mental health and depression.\n- Researchers and data scientists may analyze this data to gain insights into the emotional and psychological states of individuals discussing depression on social media.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "exploratory data analysis",
+    "statistical analysis",
+    "feature engineering",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "mdrezuwanhassan",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

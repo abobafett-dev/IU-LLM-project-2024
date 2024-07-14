@@ -1,0 +1,44 @@
+{
+  "id": "rayeed045/american-sign-language-digit-dataset",
+  "id_no": 1521088,
+  "datasetSlugNullable": "american-sign-language-digit-dataset",
+  "ownerUserNullable": "rayeed045",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "American Sign Language Digit Dataset",
+  "subtitleNullable": "From Digits : 0 to 9",
+  "descriptionNullable": "### Context\n\nThis is a **American Sign Language Digits Dataset**, from sign 0 to sign 9. This dataset uses depth information for generating hand key-points (using MediaPipe), which enriches the dataset and enhances the accuracy during classification.\n\n\n### Content\n\nThis is a American Sign Language Digits Dataset, using MediaPipe framework, which accurately detects the hand & 21 hand key-points from a raw RGB image, and stores the co-ordinate values of these key-points. The dataset contains 5000 such raw image files from sign 0 to sign 9  (500 files of each sign) and 5000 corresponding output image files (applying MediaPipe). After generating the dataset, we have also done the classification, using different classifiers, such as KNN, SVM, RFC, DTC, Neural Networks etc. Accuracies for different classifiers are yielded in the classification code (in code section).\n\n\n### Acknowledgements\n\nA New 2D Static Hand Gesture Colour Image Dataset for ASL Gestures - A.L.C. Barczak, N.H. Reyes, M. Abastillas, A. Piccio and T. Susnjak\n",
+  "datasetId": 1521088,
+  "datasetSlug": "american-sign-language-digit-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "rayeed045",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9299,
+  "totalVotes": 11,
+  "totalDownloads": 816,
+  "title": "American Sign Language Digit Dataset",
+  "hasTitle": true,
+  "subtitle": "From Digits : 0 to 9",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is a **American Sign Language Digits Dataset**, from sign 0 to sign 9. This dataset uses depth information for generating hand key-points (using MediaPipe), which enriches the dataset and enhances the accuracy during classification.\n\n\n### Content\n\nThis is a American Sign Language Digits Dataset, using MediaPipe framework, which accurately detects the hand & 21 hand key-points from a raw RGB image, and stores the co-ordinate values of these key-points. The dataset contains 5000 such raw image files from sign 0 to sign 9  (500 files of each sign) and 5000 corresponding output image files (applying MediaPipe). After generating the dataset, we have also done the classification, using different classifiers, such as KNN, SVM, RFC, DTC, Neural Networks etc. Accuracies for different classifiers are yielded in the classification code (in code section).\n\n\n### Acknowledgements\n\nA New 2D Static Hand Gesture Colour Image Dataset for ASL Gestures - A.L.C. Barczak, N.H. Reyes, M. Abastillas, A. Piccio and T. Susnjak\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "neural networks",
+    "svm",
+    "tabular",
+    "image",
+    "multilabel classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "usharengaraju/entam-dataset",
+  "id_no": 1072502,
+  "datasetSlugNullable": "entam-dataset",
+  "ownerUserNullable": "usharengaraju",
+  "usabilityRatingNullable": 0.9375,
+  "titleNullable": "EnTam Dataset",
+  "subtitleNullable": "An English-Tamil Parallel Corpus",
+  "descriptionNullable": "### Context\n\nEnTam is a sentence aligned English-Tamil bilingual corpus from some of the publicly available websites that we have collected for NLP research involving Tamil. The standard set of processing has been applied on the the raw web data before the data became available in sentence aligned English-Tamil parallel corpus suitable for various NLP tasks. The parallel corpus includes texts from bible, cinema and news domains.\n\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nCreator\t               \u017dabokrtsk\u00fd, Zden\u011bk;Bojar, Ond\u0159ej;Ramasamy, Loganathan\nPublisher\t       Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics (UFAL)\nPublication Year\t2014\nContact\t                Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics (UFAL)",
+  "datasetId": 1072502,
+  "datasetSlug": "entam-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "usharengaraju",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9375,
+  "hasUsabilityRating": true,
+  "totalViews": 3206,
+  "totalVotes": 48,
+  "totalDownloads": 113,
+  "title": "EnTam Dataset",
+  "hasTitle": true,
+  "subtitle": "An English-Tamil Parallel Corpus",
+  "hasSubtitle": true,
+  "description": "### Context\n\nEnTam is a sentence aligned English-Tamil bilingual corpus from some of the publicly available websites that we have collected for NLP research involving Tamil. The standard set of processing has been applied on the the raw web data before the data became available in sentence aligned English-Tamil parallel corpus suitable for various NLP tasks. The parallel corpus includes texts from bible, cinema and news domains.\n\n\n### Content\n\nWhat's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.\n\n\n### Acknowledgements\n\nCreator\t               \u017dabokrtsk\u00fd, Zden\u011bk;Bojar, Ond\u0159ej;Ramasamy, Loganathan\nPublisher\t       Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics (UFAL)\nPublication Year\t2014\nContact\t                Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics (UFAL)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "nlp",
+    "deep learning",
+    "neural networks",
+    "transformers"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-3.0",
+      "name": "CC-BY-SA-3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "andrewmvd/retinal-disease-classification",
+  "id_no": 1533360,
+  "datasetSlugNullable": "retinal-disease-classification",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Retinal Disease Classification",
+  "subtitleNullable": "3200 fundus images for 46 different diseases",
+  "descriptionNullable": "# About this dataset\n&gt; According to the WHO,  World report on vision 2019, the number of visually impaired people worldwide is estimated to be 2.2 billion, of whom at least 1 billion have a vision impairment that could have been prevented or is yet to be addressed. The world faces considerable challenges in terms of eye care, including inequalities in the coverage and quality of prevention, treatment, and rehabilitation services. Early detection and diagnosis of ocular pathologies would enable forestall of visual impairment.\n\n&gt; For this purpose, we have created a new Retinal Fundus Multi-disease Image Dataset (RFMiD) consisting of a total of 3200 fundus images captured using three different fundus cameras with 46 conditions annotated through adjudicated consensus of two senior retinal experts.\n\n\n\n# How to use this dataset\n&gt; - Create model to Multi Disease Classification model\n- Create a model to classify between Healthy and Unhealthy retinas\n\n\n\n# Highlighted Notebooks\n&gt; - Your kernel can be featured here!\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n\n\n# Acknowledgements\nIf you use this dataset in your research, please credit the authors\n&gt; ### Citation\n\n&gt; Samiksha Pachade, Prasanna Porwal, Dhanshree Thulkar, Manesh Kokare, Girish Deshmukh, Vivek Sahasrabuddhe, Luca Giancardo, Gwenol\u00e9 Quellec, and Fabrice M\u00e9riaudeau, 2021. Retinal Fundus Multi-Disease Image Dataset (RFMiD): A Dataset for Multi-Disease Detection Research. Data, 6(2), p.14. Available (Open Access): https://www.mdpi.com/2306-5729/6/2/14\n\n\n\n&gt; ### License\nLicense was not specified, yet a citation was requested whenever the data is used.\n\n\n&gt; ### Splash banner\nIcon by [Eucalyp](https://www.flaticon.com/authors/eucalyp) on [FlatIcon](https://www.flaticon.com/premium-icon/eye-recognition_3494104).",
+  "datasetId": 1533360,
+  "datasetSlug": "retinal-disease-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 84573,
+  "totalVotes": 173,
+  "totalDownloads": 7796,
+  "title": "Retinal Disease Classification",
+  "hasTitle": true,
+  "subtitle": "3200 fundus images for 46 different diseases",
+  "hasSubtitle": true,
+  "description": "# About this dataset\n&gt; According to the WHO,  World report on vision 2019, the number of visually impaired people worldwide is estimated to be 2.2 billion, of whom at least 1 billion have a vision impairment that could have been prevented or is yet to be addressed. The world faces considerable challenges in terms of eye care, including inequalities in the coverage and quality of prevention, treatment, and rehabilitation services. Early detection and diagnosis of ocular pathologies would enable forestall of visual impairment.\n\n&gt; For this purpose, we have created a new Retinal Fundus Multi-disease Image Dataset (RFMiD) consisting of a total of 3200 fundus images captured using three different fundus cameras with 46 conditions annotated through adjudicated consensus of two senior retinal experts.\n\n\n\n# How to use this dataset\n&gt; - Create model to Multi Disease Classification model\n- Create a model to classify between Healthy and Unhealthy retinas\n\n\n\n# Highlighted Notebooks\n&gt; - Your kernel can be featured here!\n- [More datasets](https://www.kaggle.com/andrewmvd/datasets)\n\n\n\n# Acknowledgements\nIf you use this dataset in your research, please credit the authors\n&gt; ### Citation\n\n&gt; Samiksha Pachade, Prasanna Porwal, Dhanshree Thulkar, Manesh Kokare, Girish Deshmukh, Vivek Sahasrabuddhe, Luca Giancardo, Gwenol\u00e9 Quellec, and Fabrice M\u00e9riaudeau, 2021. Retinal Fundus Multi-Disease Image Dataset (RFMiD): A Dataset for Multi-Disease Detection Research. Data, 6(2), p.14. Available (Open Access): https://www.mdpi.com/2306-5729/6/2/14\n\n\n\n&gt; ### License\nLicense was not specified, yet a citation was requested whenever the data is used.\n\n\n&gt; ### Splash banner\nIcon by [Eucalyp](https://www.flaticon.com/authors/eucalyp) on [FlatIcon](https://www.flaticon.com/premium-icon/eye-recognition_3494104).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "diseases",
+    "public health",
+    "computer vision",
+    "image",
+    "eyes and vision"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

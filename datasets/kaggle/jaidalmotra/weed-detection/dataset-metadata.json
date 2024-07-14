@@ -1,0 +1,43 @@
+{
+  "id": "jaidalmotra/weed-detection",
+  "id_no": 3851613,
+  "datasetSlugNullable": "weed-detection",
+  "ownerUserNullable": "jaidalmotra",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Weed Detection",
+  "subtitleNullable": "Annotated Images for Automated Weed Identification and Management",
+  "descriptionNullable": "The Weed Image Detection Dataset is a curated collection of images aimed at facilitating research and development in the field of automated weed detection and management. It comprises a diverse range of images featuring different types of weeds commonly found in agricultural and natural environments. These images are annotated to provide valuable information for training and evaluating computer vision models and algorithms.\n\nKey Features:\n\nWeed Varieties: The dataset encompasses a variety of weed species, including both common and invasive types, to ensure comprehensive coverage.\n\nImage Diversity: Images are sourced from a wide range of locations, climates, and conditions to represent the real-world challenges of weed detection.\n\nAnnotations: Each image is meticulously annotated to indicate the presence and location of weeds, enabling the development and evaluation of object detection and segmentation models.\n\nImage Quality: High-resolution images with varying lighting conditions and perspectives are included to simulate real-world scenarios.\n\nMetadata: Additional metadata, such as location, date, and any available information about the plants, may be included in the dataset.",
+  "datasetId": 3851613,
+  "datasetSlug": "weed-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "jaidalmotra",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5268,
+  "totalVotes": 71,
+  "totalDownloads": 649,
+  "title": "Weed Detection",
+  "hasTitle": true,
+  "subtitle": "Annotated Images for Automated Weed Identification and Management",
+  "hasSubtitle": true,
+  "description": "The Weed Image Detection Dataset is a curated collection of images aimed at facilitating research and development in the field of automated weed detection and management. It comprises a diverse range of images featuring different types of weeds commonly found in agricultural and natural environments. These images are annotated to provide valuable information for training and evaluating computer vision models and algorithms.\n\nKey Features:\n\nWeed Varieties: The dataset encompasses a variety of weed species, including both common and invasive types, to ensure comprehensive coverage.\n\nImage Diversity: Images are sourced from a wide range of locations, climates, and conditions to represent the real-world challenges of weed detection.\n\nAnnotations: Each image is meticulously annotated to indicate the presence and location of weeds, enabling the development and evaluation of object detection and segmentation models.\n\nImage Quality: High-resolution images with varying lighting conditions and perspectives are included to simulate real-world scenarios.\n\nMetadata: Additional metadata, such as location, date, and any available information about the plants, may be included in the dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "agriculture",
+    "cnn",
+    "image",
+    "image classification",
+    "graph neural network"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

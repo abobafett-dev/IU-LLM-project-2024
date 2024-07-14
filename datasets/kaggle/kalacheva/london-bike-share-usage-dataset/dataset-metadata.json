@@ -1,0 +1,43 @@
+{
+  "id": "kalacheva/london-bike-share-usage-dataset",
+  "id_no": 4899907,
+  "datasetSlugNullable": "london-bike-share-usage-dataset",
+  "ownerUserNullable": "kalacheva",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "London Bike-Share Usage Dataset",
+  "subtitleNullable": "Bicycle journeys from Transport for London (TfL) for August 2023",
+  "descriptionNullable": "## Context ##\n\nThis dataset contains detailed records of 776,527 bicycle journeys from the Transport for London (TfL) Cycle Hire system spanning from August 1 to August 31, 2023. The TfL Cycle Hire initiative provides publicly accessible bicycles for rent across London, promoting sustainable transportation and physical fitness. This comprehensive dataset captures individual trip data, which can be utilized to analyze urban mobility patterns, station performance, and cycling preferences among London's diverse population. This dataset provides a snapshot of cycling activity during the month, including start and end details for each journey, the bicycle used, and the duration of hire.\n\n## Dataset Usage ##\nThe dataset can be used for:\n- **Time Series Forecasting:** Predict future bike rental demands based on historical usage patterns.\n- **Geospatial Analysis:** Map the start and end locations of trips to identify popular routes and areas with high cycling traffic.\n- **Customer Behavior Analysis:** Analyze the duration and frequency of rentals to understand user preferences and habits.\n- **Predictive Maintenance:** Use trip duration and frequency data to predict when bikes are likely to require maintenance or replacement.\n- **Multivariate Analysis:** Explore relationships between different variables, such as trip durations, station popularity, and time of day, to uncover underlying patterns in bike usage.\n\n## Attribute Information ##\nThe dataset includes the following variables for each ride:\n- **Number**: A unique identifier for each trip (Trip ID).\n- **Start Date**: The date and time when the trip began.\n- **Start Station Number**: The identifier for the starting station.\n- **Start Station**: The name of the starting station.\n- **End Date**: The date and time when the trip ended.\n- **End Station Number**: The identifier for the ending station.\n- **End Station**: The name of the ending station.\n- **Bike Number**: A unique identifier for the bicycle used.\n- **Bike Model**: The model of the bicycle used.\n- **Total Duration**: The total time duration of the trip (in a human-readable format).\n- **Total Duration (ms)**: The total time duration of the trip in milliseconds.\n\n**Source**\nThis dataset was sourced directly from the Transport for London's official website, which provides open data to encourage public use and analysis. More details and related datasets can be found at Transport for London (TfL).\n\n**Reference:**\nTransport for London. (August 2023). TfL Cycle Hire Trip Data. Retrieved [Date Retrieved], from https://tfl.gov.uk/info-for/open-data-users/our-open-data.",
+  "datasetId": 4899907,
+  "datasetSlug": "london-bike-share-usage-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kalacheva",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6701,
+  "totalVotes": 46,
+  "totalDownloads": 1261,
+  "title": "London Bike-Share Usage Dataset",
+  "hasTitle": true,
+  "subtitle": "Bicycle journeys from Transport for London (TfL) for August 2023",
+  "hasSubtitle": true,
+  "description": "## Context ##\n\nThis dataset contains detailed records of 776,527 bicycle journeys from the Transport for London (TfL) Cycle Hire system spanning from August 1 to August 31, 2023. The TfL Cycle Hire initiative provides publicly accessible bicycles for rent across London, promoting sustainable transportation and physical fitness. This comprehensive dataset captures individual trip data, which can be utilized to analyze urban mobility patterns, station performance, and cycling preferences among London's diverse population. This dataset provides a snapshot of cycling activity during the month, including start and end details for each journey, the bicycle used, and the duration of hire.\n\n## Dataset Usage ##\nThe dataset can be used for:\n- **Time Series Forecasting:** Predict future bike rental demands based on historical usage patterns.\n- **Geospatial Analysis:** Map the start and end locations of trips to identify popular routes and areas with high cycling traffic.\n- **Customer Behavior Analysis:** Analyze the duration and frequency of rentals to understand user preferences and habits.\n- **Predictive Maintenance:** Use trip duration and frequency data to predict when bikes are likely to require maintenance or replacement.\n- **Multivariate Analysis:** Explore relationships between different variables, such as trip durations, station popularity, and time of day, to uncover underlying patterns in bike usage.\n\n## Attribute Information ##\nThe dataset includes the following variables for each ride:\n- **Number**: A unique identifier for each trip (Trip ID).\n- **Start Date**: The date and time when the trip began.\n- **Start Station Number**: The identifier for the starting station.\n- **Start Station**: The name of the starting station.\n- **End Date**: The date and time when the trip ended.\n- **End Station Number**: The identifier for the ending station.\n- **End Station**: The name of the ending station.\n- **Bike Number**: A unique identifier for the bicycle used.\n- **Bike Model**: The model of the bicycle used.\n- **Total Duration**: The total time duration of the trip (in a human-readable format).\n- **Total Duration (ms)**: The total time duration of the trip in milliseconds.\n\n**Source**\nThis dataset was sourced directly from the Transport for London's official website, which provides open data to encourage public use and analysis. More details and related datasets can be found at Transport for London (TfL).\n\n**Reference:**\nTransport for London. (August 2023). TfL Cycle Hire Trip Data. Retrieved [Date Retrieved], from https://tfl.gov.uk/info-for/open-data-users/our-open-data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "transportation",
+    "cycling",
+    "data visualization",
+    "time series analysis",
+    "optimization"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

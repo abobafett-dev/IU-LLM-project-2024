@@ -1,0 +1,44 @@
+{
+  "id": "sandhyakrishnan02/china-covid-cases-and-deaths",
+  "id_no": 2786909,
+  "datasetSlugNullable": "china-covid-cases-and-deaths",
+  "ownerUserNullable": "sandhyakrishnan02",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "China Covid Cases and Deaths",
+  "subtitleNullable": "China Covid Cases and Deaths till 5th Jan 2023",
+  "descriptionNullable": "The dataset contains three columns:\n1.  Date: Contains the date\n2. Total Cases: It provides details of the total number of covid cases.\n3. Total Death: It provides details of the total number of deaths.\n\nData is extracted from : https://covidlive.com.au/country/china",
+  "datasetId": 2786909,
+  "datasetSlug": "china-covid-cases-and-deaths",
+  "hasDatasetSlug": true,
+  "ownerUser": "sandhyakrishnan02",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4720,
+  "totalVotes": 29,
+  "totalDownloads": 847,
+  "title": "China Covid Cases and Deaths",
+  "hasTitle": true,
+  "subtitle": "China Covid Cases and Deaths till 5th Jan 2023",
+  "hasSubtitle": true,
+  "description": "The dataset contains three columns:\n1.  Date: Contains the date\n2. Total Cases: It provides details of the total number of covid cases.\n3. Total Death: It provides details of the total number of deaths.\n\nData is extracted from : https://covidlive.com.au/country/china",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "china ",
+    "law",
+    "medicine",
+    "time series analysis",
+    "covid19",
+    "datetime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

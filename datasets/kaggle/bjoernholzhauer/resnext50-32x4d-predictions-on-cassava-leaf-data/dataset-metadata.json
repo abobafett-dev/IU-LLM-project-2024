@@ -1,0 +1,40 @@
+{
+  "id": "bjoernholzhauer/resnext50-32x4d-predictions-on-cassava-leaf-data",
+  "id_no": 1019605,
+  "datasetSlugNullable": "resnext50-32x4d-predictions-on-cassava-leaf-data",
+  "ownerUserNullable": "bjoernholzhauer",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "ResNext50_32x4d predictions on Cassava Leaf data",
+  "subtitleNullable": "Predicted probabilities for the 1000 ImageNet categories for 2020 competition",
+  "descriptionNullable": "### Context\n\nThis is ResNext50_32x4d predictions on the training data of the 2020 Cassava Leaf Disease Classification challenge (as produced by this notebook: https://www.kaggle.com/bjoernholzhauer/cassava-leaf-disease-classif-eda-cv-strategy). \n\n\n### Content\n\nThe predictions.npy file contains one row per image in the training data and one column per 1000 ImageNet categories.",
+  "datasetId": 1019605,
+  "datasetSlug": "resnext50-32x4d-predictions-on-cassava-leaf-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "bjoernholzhauer",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 1448,
+  "totalVotes": 4,
+  "totalDownloads": 22,
+  "title": "ResNext50_32x4d predictions on Cassava Leaf data",
+  "hasTitle": true,
+  "subtitle": "Predicted probabilities for the 1000 ImageNet categories for 2020 competition",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is ResNext50_32x4d predictions on the training data of the 2020 Cassava Leaf Disease Classification challenge (as produced by this notebook: https://www.kaggle.com/bjoernholzhauer/cassava-leaf-disease-classif-eda-cv-strategy). \n\n\n### Content\n\nThe predictions.npy file contains one row per image in the training data and one column per 1000 ImageNet categories.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

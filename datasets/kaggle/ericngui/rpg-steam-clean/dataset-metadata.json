@@ -1,0 +1,42 @@
+{
+  "id": "ericngui/rpg-steam-clean",
+  "id_no": 2513904,
+  "datasetSlugNullable": "rpg-steam-clean",
+  "ownerUserNullable": "ericngui",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Complete Dataset of RPGs in Steam (1987-2023)",
+  "subtitleNullable": "A dataset about Role-Playing Games in Steam from 1987 to 2023",
+  "descriptionNullable": "This datasets involving the role-playing games (RPGs) that currently or once available on the Steam Stores. The period of game produced in this datasets is from 1983 to 2023. \n\nLimitation of the dataset:\n1. The amount of players for each game cannot be measured accurately due to limitation of public Steam API. Thus those numbers are pure estimated following the total number of sales for each game.",
+  "datasetId": 2513904,
+  "datasetSlug": "rpg-steam-clean",
+  "hasDatasetSlug": true,
+  "ownerUser": "ericngui",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2293,
+  "totalVotes": 6,
+  "totalDownloads": 292,
+  "title": "Complete Dataset of RPGs in Steam (1987-2023)",
+  "hasTitle": true,
+  "subtitle": "A dataset about Role-Playing Games in Steam from 1987 to 2023",
+  "hasSubtitle": true,
+  "description": "This datasets involving the role-playing games (RPGs) that currently or once available on the Steam Stores. The period of game produced in this datasets is from 1983 to 2023. \n\nLimitation of the dataset:\n1. The amount of players for each game cannot be measured accurately due to limitation of public Steam API. Thus those numbers are pure estimated following the total number of sales for each game.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "beginner",
+    "data analytics",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "lotusacharya/nepalinewsdataset",
+  "id_no": 611417,
+  "datasetSlugNullable": "nepalinewsdataset",
+  "ownerUserNullable": "lotusacharya",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Nepali News Dataset",
+  "subtitleNullable": "Collection of news in 10 different categories with 1000 news in each",
+  "descriptionNullable": "This dataset was created as a part of my thesis work in graduate level. It contains the collection of Nepali news in 10 different categories(ArthaBanijya, Bichar, Desh, Khelkud, Manoranjan, Prabas, Sahitya, SuchanaPrabidhi, Swasthya and Viswa). Each category contains 1000 news. So in total there is collection of 10,000.\n",
+  "datasetId": 611417,
+  "datasetSlug": "nepalinewsdataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "lotusacharya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 3227,
+  "totalVotes": 9,
+  "totalDownloads": 200,
+  "title": "Nepali News Dataset",
+  "hasTitle": true,
+  "subtitle": "Collection of news in 10 different categories with 1000 news in each",
+  "hasSubtitle": true,
+  "description": "This dataset was created as a part of my thesis work in graduate level. It contains the collection of Nepali news in 10 different categories(ArthaBanijya, Bichar, Desh, Khelkud, Manoranjan, Prabas, Sahitya, SuchanaPrabidhi, Swasthya and Viswa). Each category contains 1000 news. So in total there is collection of 10,000.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

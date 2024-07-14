@@ -1,0 +1,39 @@
+{
+  "id": "alincijov/montreal-parking-hours-per-streetsign",
+  "id_no": 632303,
+  "datasetSlugNullable": "montreal-parking-hours-per-streetsign",
+  "ownerUserNullable": "alincijov",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Montreal Parking Hours per Street/Sign",
+  "subtitleNullable": "Montreal public information about the parking street signs and the hours.",
+  "descriptionNullable": "### Montreal public data for parking hours\n\nhttp://donnees.ville.montreal.qc.ca/dataset/stationnement-sur-rue-signalisation-courant\n\nData contains the images in zip and the data information in csv.\n\nWe can use this data for classification and image recognition, we could also predict future street signs for new development roads.",
+  "datasetId": 632303,
+  "datasetSlug": "montreal-parking-hours-per-streetsign",
+  "hasDatasetSlug": true,
+  "ownerUser": "alincijov",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 3333,
+  "totalVotes": 23,
+  "totalDownloads": 94,
+  "title": "Montreal Parking Hours per Street/Sign",
+  "hasTitle": true,
+  "subtitle": "Montreal public information about the parking street signs and the hours.",
+  "hasSubtitle": true,
+  "description": "### Montreal public data for parking hours\n\nhttp://donnees.ville.montreal.qc.ca/dataset/stationnement-sur-rue-signalisation-courant\n\nData contains the images in zip and the data information in csv.\n\nWe can use this data for classification and image recognition, we could also predict future street signs for new development roads.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

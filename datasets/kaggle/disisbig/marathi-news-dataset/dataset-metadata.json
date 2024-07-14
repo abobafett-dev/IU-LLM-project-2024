@@ -1,0 +1,42 @@
+{
+  "id": "disisbig/marathi-news-dataset",
+  "id_no": 455782,
+  "datasetSlugNullable": "marathi-news-dataset",
+  "ownerUserNullable": "disisbig",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Marathi News Dataset",
+  "subtitleNullable": "Perform Text Classification in Marathi using this Dataset",
+  "descriptionNullable": "This data set contains ~12000 news article headlines which I had collected from Marathi news websites.\n\nThe data set has been cleaned and contains train and test set using which you can benchmark your classification models in Marathi\n\nThe scripts which were used to create the data set can be found [here](https://github.com/goru001/nlp-for-marathi/tree/master/datasets-preparation)",
+  "datasetId": 455782,
+  "datasetSlug": "marathi-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "disisbig",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 8974,
+  "totalVotes": 13,
+  "totalDownloads": 682,
+  "title": "Marathi News Dataset",
+  "hasTitle": true,
+  "subtitle": "Perform Text Classification in Marathi using this Dataset",
+  "hasSubtitle": true,
+  "description": "This data set contains ~12000 news article headlines which I had collected from Marathi news websites.\n\nThe data set has been cleaned and contains train and test set using which you can benchmark your classification models in Marathi\n\nThe scripts which were used to create the data set can be found [here](https://github.com/goru001/nlp-for-marathi/tree/master/datasets-preparation)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "internet",
+    "classification",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

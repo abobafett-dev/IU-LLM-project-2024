@@ -1,0 +1,40 @@
+{
+  "id": "annecool37/museum-data",
+  "id_no": 182,
+  "datasetSlugNullable": "museum-data",
+  "ownerUserNullable": "annecool37",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Museum Reviews Collected from TripAdvisor",
+  "subtitleNullable": "Museum name, type, location, review, rating, rank, etc.",
+  "descriptionNullable": "Visit my [GitHub][1] for detailed description and code.  \n\nAlso, here's an App, a Recommendation System for Museum Selection, I created with this data set:\nhttp://216.230.228.88:3838/bootcamp006_project/Project5-Capstone/Museo/app/\n\n### Inspiration for Further Analysis\n- Predict if a museum will be featured or not\n- Discover the important factors that results in a higher rating \n- Apply natural language processing to discover insights from review/quote/tag data\n- Cluster museums based on review/quote polarity or subjectivity (sentiment analysis)\n- Apply association rules to uncover relationship of different combinations of review tags\n\n### Processed and Merged Data\ntripadvisor_merged.csv: A file containing museum data collected from TripAdvisor including tag/ type/ review/ quote features\n\n![Data Scraped][2]\n![Features Added][3]\n\n### Raw Data Scraped from TripAdvisor (US/World)\n- tripadvisor_museum: general museum data scraped from TripAdvisor\n- traveler_type: {'museum': ['Families','Couples','Solo','Business','Friends']}\n- traveler_rating: {'museum': ['Excellent','Very good','Average','Poor','Terrible']}\n- tag_clouds: {'museum': ['tag 1', 'tag 2', 'tag 3' ...]}\n- review_quote: {'museum': ['quote 1', 'quote 2', ... ,'quote 10']}\n- review_content: {'museum': ['review 1', 'review 2', ... ,'review 10']}\n- museum_categories: {'museum': ['museum type 1','museum type 2', ...]} \n\n\n  [1]: https://github.com/annecool37/MuseumRecommendation\n  [2]: http://blog.nycdatascience.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-19-at-11.30.36-PM.png\n  [3]: http://blog.nycdatascience.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-19-at-11.30.47-PM.png",
+  "datasetId": 182,
+  "datasetSlug": "museum-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "annecool37",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 25605,
+  "totalVotes": 43,
+  "totalDownloads": 2424,
+  "title": "Museum Reviews Collected from TripAdvisor",
+  "hasTitle": true,
+  "subtitle": "Museum name, type, location, review, rating, rank, etc.",
+  "hasSubtitle": true,
+  "description": "Visit my [GitHub][1] for detailed description and code.  \n\nAlso, here's an App, a Recommendation System for Museum Selection, I created with this data set:\nhttp://216.230.228.88:3838/bootcamp006_project/Project5-Capstone/Museo/app/\n\n### Inspiration for Further Analysis\n- Predict if a museum will be featured or not\n- Discover the important factors that results in a higher rating \n- Apply natural language processing to discover insights from review/quote/tag data\n- Cluster museums based on review/quote polarity or subjectivity (sentiment analysis)\n- Apply association rules to uncover relationship of different combinations of review tags\n\n### Processed and Merged Data\ntripadvisor_merged.csv: A file containing museum data collected from TripAdvisor including tag/ type/ review/ quote features\n\n![Data Scraped][2]\n![Features Added][3]\n\n### Raw Data Scraped from TripAdvisor (US/World)\n- tripadvisor_museum: general museum data scraped from TripAdvisor\n- traveler_type: {'museum': ['Families','Couples','Solo','Business','Friends']}\n- traveler_rating: {'museum': ['Excellent','Very good','Average','Poor','Terrible']}\n- tag_clouds: {'museum': ['tag 1', 'tag 2', 'tag 3' ...]}\n- review_quote: {'museum': ['quote 1', 'quote 2', ... ,'quote 10']}\n- review_content: {'museum': ['review 1', 'review 2', ... ,'review 10']}\n- museum_categories: {'museum': ['museum type 1','museum type 2', ...]} \n\n\n  [1]: https://github.com/annecool37/MuseumRecommendation\n  [2]: http://blog.nycdatascience.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-19-at-11.30.36-PM.png\n  [3]: http://blog.nycdatascience.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-19-at-11.30.47-PM.png",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "museums"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

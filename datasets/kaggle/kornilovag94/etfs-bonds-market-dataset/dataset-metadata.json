@@ -1,0 +1,43 @@
+{
+  "id": "kornilovag94/etfs-bonds-market-dataset",
+  "id_no": 3163782,
+  "datasetSlugNullable": "etfs-bonds-market-dataset",
+  "ownerUserNullable": "kornilovag94",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "ETFs (bonds) Market Dataset",
+  "subtitleNullable": "Historical daily prices, volumes, connected options' data of US bond ETFs.",
+  "descriptionNullable": "## **Inspiration**\nIf you find this dataset useful, pls drop a like.\n\n\n## **Description**\nHere you can find daily in-depth data about the most liquid US bonds ETFs. I provide prices, volumes, and connected options' data. In my opinion, it's the best ETFs datasets on Kaggle you can find. \n\nThe data is presented in CSV format as follows: \n1. Date.\n2. Close Price.\n3. Open Price.\n4. Low Price.\n5. High Price. \n6. Volume - Total number of shares traded on security on the date.\n7. Average Bid Ask Spread % - Average of all bid/ask spreads taken as a percentage of the mid price.\n8. Total Put Volume - The total amount of put option contracts (all strike prices and all expiration dates) traded during the previous trading day. If there were no trades the previous day,  this field will return the latest volume available, if any, from the most recent 10 trading days.\n9. Total Call Volume - The total amount of call option contracts (all strike prices and all expiration dates) traded during the previous trading day. If there were no trades the previous day,  this field will return the latest volume available, if any, from the most recent 10 trading days.\n10. Put Call Open Interest Total - Total number of call and put option contracts (all strike prices and expiration dates) that have not been closed, liquidated, or delivered for the security during the previous trading day.\n11. Call Open Interest Total - The total number of call option contracts (all available strikes and expirations) outstanding for a given underlying as of the close of the previous trading day, as reported by the exchange.\n12. Short Interest - Total number of shares investors have sold short but have not yet bought back.\n13. Short Interest Ratio - Short Interest divided by the average daily trading volume.\n\nP.S. For historical values, the dates represent the end date of the period the data is for, not the date when the data was made publicly available. For example, if the data is for the two-week period ending on October 15 and that data is made publicly available on October 25, the date shown is October 15.\nFor options' columns and bid-ask spread the data available from 2012 year.\n\n",
+  "datasetId": 3163782,
+  "datasetSlug": "etfs-bonds-market-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kornilovag94",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1455,
+  "totalVotes": 8,
+  "totalDownloads": 198,
+  "title": "ETFs (bonds) Market Dataset",
+  "hasTitle": true,
+  "subtitle": "Historical daily prices, volumes, connected options' data of US bond ETFs.",
+  "hasSubtitle": true,
+  "description": "## **Inspiration**\nIf you find this dataset useful, pls drop a like.\n\n\n## **Description**\nHere you can find daily in-depth data about the most liquid US bonds ETFs. I provide prices, volumes, and connected options' data. In my opinion, it's the best ETFs datasets on Kaggle you can find. \n\nThe data is presented in CSV format as follows: \n1. Date.\n2. Close Price.\n3. Open Price.\n4. Low Price.\n5. High Price. \n6. Volume - Total number of shares traded on security on the date.\n7. Average Bid Ask Spread % - Average of all bid/ask spreads taken as a percentage of the mid price.\n8. Total Put Volume - The total amount of put option contracts (all strike prices and all expiration dates) traded during the previous trading day. If there were no trades the previous day,  this field will return the latest volume available, if any, from the most recent 10 trading days.\n9. Total Call Volume - The total amount of call option contracts (all strike prices and all expiration dates) traded during the previous trading day. If there were no trades the previous day,  this field will return the latest volume available, if any, from the most recent 10 trading days.\n10. Put Call Open Interest Total - Total number of call and put option contracts (all strike prices and expiration dates) that have not been closed, liquidated, or delivered for the security during the previous trading day.\n11. Call Open Interest Total - The total number of call option contracts (all available strikes and expirations) outstanding for a given underlying as of the close of the previous trading day, as reported by the exchange.\n12. Short Interest - Total number of shares investors have sold short but have not yet bought back.\n13. Short Interest Ratio - Short Interest divided by the average daily trading volume.\n\nP.S. For historical values, the dates represent the end date of the period the data is for, not the date when the data was made publicly available. For example, if the data is for the two-week period ending on October 15 and that data is made publicly available on October 25, the date shown is October 15.\nFor options' columns and bid-ask spread the data available from 2012 year.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "banking",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

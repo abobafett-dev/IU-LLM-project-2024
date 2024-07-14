@@ -1,0 +1,43 @@
+{
+  "id": "deepakvedantam/bitcoin-stock-data",
+  "id_no": 964777,
+  "datasetSlugNullable": "bitcoin-stock-data",
+  "ownerUserNullable": "deepakvedantam",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Bitcoin Stock Data ",
+  "subtitleNullable": "Historical Bitcoin pricing till date",
+  "descriptionNullable": "Context\nThis Dataset contains the value of the Bitcoin stock from 14th September 2014 till Date \n\nContent\nIt is a very simple dataset to both explore and understand the columns are themselves descriptive in nature\nAcknowledgements\nSOURCE:\n\nhttps://yahoofinance.com/ \n\nInspiration\nJust Explore the dataset, practice your skills using this really simple real world dataset\n\nLicense\nCC0: Public domain",
+  "datasetId": 964777,
+  "datasetSlug": "bitcoin-stock-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "deepakvedantam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 2604,
+  "totalVotes": 12,
+  "totalDownloads": 277,
+  "title": "Bitcoin Stock Data ",
+  "hasTitle": true,
+  "subtitle": "Historical Bitcoin pricing till date",
+  "hasSubtitle": true,
+  "description": "Context\nThis Dataset contains the value of the Bitcoin stock from 14th September 2014 till Date \n\nContent\nIt is a very simple dataset to both explore and understand the columns are themselves descriptive in nature\nAcknowledgements\nSOURCE:\n\nhttps://yahoofinance.com/ \n\nInspiration\nJust Explore the dataset, practice your skills using this really simple real world dataset\n\nLicense\nCC0: Public domain",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "time series analysis",
+    "lstm",
+    "rnn",
+    "currencies and foreign exchange"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

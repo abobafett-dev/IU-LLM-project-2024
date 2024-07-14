@@ -1,0 +1,43 @@
+{
+  "id": "guillemservera/us-treasury-yields-daily",
+  "id_no": 3594621,
+  "datasetSlugNullable": "us-treasury-yields-daily",
+  "ownerUserNullable": "guillemservera",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "U.S. Treasury Yields",
+  "subtitleNullable": "Daily Yields from 1-Month to 30-Year Treasury Bonds from FRED",
+  "descriptionNullable": "This dataset provides the daily historical yields of U.S. Treasury bonds across various maturities, ranging from 1 month to 30 years. These yields serve as a key reference point for interest rates worldwide and provide insights into the cost of borrowing for the U.S. government.\n\nStart dates for each bond series:\n- **US1M**: Data begins from July 31, 2001.\n- **US3M**: Data begins from September 1, 1981.\n- **US6M**: Data begins from September 1, 1981.\n- **US1Y**: Data begins from January 2, 1962.\n- **US2Y**: Data begins from June 1, 1976.\n- **US3Y**: Data begins from January 2, 1962.\n- **US5Y**: Data begins from January 2, 1962.\n- **US7Y**: Data begins from July 1, 1969.\n- **US10Y**: Data begins from January 2, 1962.\n- **US20Y**: Data begins from January 2, 1962.\n- **US30Y**: Data begins from February 15, 1977.",
+  "datasetId": 3594621,
+  "datasetSlug": "us-treasury-yields-daily",
+  "hasDatasetSlug": true,
+  "ownerUser": "guillemservera",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2644,
+  "totalVotes": 9,
+  "totalDownloads": 389,
+  "title": "U.S. Treasury Yields",
+  "hasTitle": true,
+  "subtitle": "Daily Yields from 1-Month to 30-Year Treasury Bonds from FRED",
+  "hasSubtitle": true,
+  "description": "This dataset provides the daily historical yields of U.S. Treasury bonds across various maturities, ranging from 1 month to 30 years. These yields serve as a key reference point for interest rates worldwide and provide insights into the cost of borrowing for the U.S. government.\n\nStart dates for each bond series:\n- **US1M**: Data begins from July 31, 2001.\n- **US3M**: Data begins from September 1, 1981.\n- **US6M**: Data begins from September 1, 1981.\n- **US1Y**: Data begins from January 2, 1962.\n- **US2Y**: Data begins from June 1, 1976.\n- **US3Y**: Data begins from January 2, 1962.\n- **US5Y**: Data begins from January 2, 1962.\n- **US7Y**: Data begins from July 1, 1969.\n- **US10Y**: Data begins from January 2, 1962.\n- **US20Y**: Data begins from January 2, 1962.\n- **US30Y**: Data begins from February 15, 1977.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "finance",
+    "government",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

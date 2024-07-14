@@ -1,0 +1,43 @@
+{
+  "id": "whigmalwhim/steam-releases",
+  "id_no": 3150418,
+  "datasetSlugNullable": "steam-releases",
+  "ownerUserNullable": "whigmalwhim",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Steam Releases",
+  "subtitleNullable": "All Steam listing, peak players, and scores from (2006-2023)",
+  "descriptionNullable": "A dataset containing information about Steam games ranging from 2006-2023. Information includes publisher, technologies used, tags, developers, players, and rating metrics. A public open-source alternative to Steamdb data that is viable for use in regression tasks and applications. \n\"games-release-all\" contains all of the information about the 65958 games on Steam, including the last time the game was updated on the Steam store. ",
+  "datasetId": 3150418,
+  "datasetSlug": "steam-releases",
+  "hasDatasetSlug": true,
+  "ownerUser": "whigmalwhim",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 11411,
+  "totalVotes": 43,
+  "totalDownloads": 1604,
+  "title": "Steam Releases",
+  "hasTitle": true,
+  "subtitle": "All Steam listing, peak players, and scores from (2006-2023)",
+  "hasSubtitle": true,
+  "description": "A dataset containing information about Steam games ranging from 2006-2023. Information includes publisher, technologies used, tags, developers, players, and rating metrics. A public open-source alternative to Steamdb data that is viable for use in regression tasks and applications. \n\"games-release-all\" contains all of the information about the 65958 games on Steam, including the last time the game was updated on the Steam store. ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "games",
+    "video games",
+    "artificial intelligence",
+    "beginner",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "chrisfilo/onion-or-not",
+  "id_no": 529514,
+  "datasetSlugNullable": "onion-or-not",
+  "ownerUserNullable": "chrisfilo",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Onion Or Not",
+  "subtitleNullable": "24k headlines - which ones are real?",
+  "descriptionNullable": "Dataset of The Onion articles and real \"Onion-like\" news articles from the subreddit r/NotTheOnion. The Onion articles are labeled 1 and the r/NotTheOnion articles are labeled 0.\n\n[Notebook creating the dataset + benchmark classifiers](https://github.com/lukefeilberg/onion/blob/f5643ffb7619ec80e51dac6b32ea17bbdc0fc8de/Onion.ipynb)\n\nDataset imported from https://github.com/lukefeilberg/onion",
+  "datasetId": 529514,
+  "datasetSlug": "onion-or-not",
+  "hasDatasetSlug": true,
+  "ownerUser": "chrisfilo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 17702,
+  "totalVotes": 56,
+  "totalDownloads": 803,
+  "title": "Onion Or Not",
+  "hasTitle": true,
+  "subtitle": "24k headlines - which ones are real?",
+  "hasSubtitle": true,
+  "description": "Dataset of The Onion articles and real \"Onion-like\" news articles from the subreddit r/NotTheOnion. The Onion articles are labeled 1 and the r/NotTheOnion articles are labeled 0.\n\n[Notebook creating the dataset + benchmark classifiers](https://github.com/lukefeilberg/onion/blob/f5643ffb7619ec80e51dac6b32ea17bbdc0fc8de/Onion.ipynb)\n\nDataset imported from https://github.com/lukefeilberg/onion",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "food",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

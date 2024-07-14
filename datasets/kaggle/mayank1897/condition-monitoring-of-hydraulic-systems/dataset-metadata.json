@@ -1,0 +1,43 @@
+{
+  "id": "mayank1897/condition-monitoring-of-hydraulic-systems",
+  "id_no": 1016769,
+  "datasetSlugNullable": "condition-monitoring-of-hydraulic-systems",
+  "ownerUserNullable": "mayank1897",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Predictive Maintenance Of Hydraulics System",
+  "subtitleNullable": "Condition monitoring of hydraulic systems",
+  "descriptionNullable": "\n# Condition monitoring of hydraulic systems\n\n##Abstract: The data set addresses the condition assessment of a hydraulic test rig based on multi sensor data. Four fault types are superimposed with several severity grades impeding selective quantification.\n\n##Source:\nCreator: ZeMA gGmbH, Eschberger Weg 46, 66121 Saarbr\u00fccken\nContact: t.schneider@zema.de, s.klein@zema.de, m.bastuck@lmt.uni-saarland.de, info@lmt.uni-saarland.de\n\nData Type: Multivariate, Time-Series\nTask: Classification, Regression\nAttribute Type: Categorical, Real\nArea: CS/Engineering\nFormat Type: Matrix\nDoes your data set contain missing values? No\n\nNumber of Instances: 2205\n\nNumber of Attributes: 43680 (8x60 (1 Hz) + 2x600 (10 Hz) + 7x6000 (100 Hz))\n\n##Relevant Information:\nThe data set was experimentally obtained with a hydraulic test rig. This test rig consists of a primary working and a secondary cooling-filtration circuit which are connected via the oil tank [1], [2]. The system cyclically repeats constant load cycles (duration 60 seconds) and measures process values such as pressures, volume flows and temperatures while the condition of four hydraulic components (cooler, valve, pump and accumulator) is quantitatively varied. \n\n##Attribute Information:\nThe data set contains raw process sensor data (i.e. without feature extraction) which are structured as matrices (tab-delimited) with the rows representing the cycles and the columns the data points within a cycle.\n\nThe target condition values are cycle-wise annotated in \u2018profile.txt\u2018 (tab-delimited). As before, the row number represents the cycle number. The columns are\n\n###1: Cooler condition / %:\n\t3: close to total failure\n\t20: reduced efficiency\n\t100: full efficiency\n\n###2: Valve condition / %:\n\t100: optimal switching behavior\n\t90: small lag\n\t80: severe lag\n\t73: close to total failure\n\n###3: Internal pump leakage:\n\t0: no leakage\n\t1: weak leakage\n\t2: severe leakage\n\n###4: Hydraulic accumulator / bar:\n\t130: optimal pressure\n\t115: slightly reduced pressure\n\t100: severely reduced pressure\n\t90: close to total failure\n\n###5: stable flag:\n\t0: conditions were stable\n\t1: static conditions might not have been reached yet\n\n##Relevant Papers:\n[1] Nikolai Helwig, Eliseo Pignanelli, Andreas Sch\u00fctze, \u2018Condition Monitoring of a Complex Hydraulic System Using Multivariate Statistics\u2019, in Proc. I2MTC-2015 - 2015 IEEE International Instrumentation and Measurement Technology Conference, paper PPS1-39, Pisa, Italy, May 11-14, 2015, doi: 10.1109/I2MTC.2015.7151267.\n[2] N. Helwig, A. Sch\u00fctze, \u2018Detecting and compensating sensor faults in a hydraulic condition monitoring system\u2019, in Proc. SENSOR 2015 - 17th International Conference on Sensors and Measurement Technology, oral presentation D8.1, Nuremberg, Germany, May 19-21, 2015, doi: 10.5162/sensor2015/D8.1.\n[3] Tizian Schneider, Nikolai Helwig, Andreas Sch\u00fctze, \u2018Automatic feature extraction and selection for classification of cyclical time series data\u2019, tm - Technisches Messen (2017), 84(3), 198\u2013206, doi: 10.1515/teme-2016-0072.\n\n##Citation Requests:\nNikolai Helwig, Eliseo Pignanelli, Andreas Sch\u00fctze, \u2018Condition Monitoring of a Complex Hydraulic System Using Multivariate Statistics\u2019, in Proc. I2MTC-2015 - 2015 IEEE International Instrumentation and Measurement Technology Conference, paper PPS1-39, Pisa, Italy, May 11-14, 2015, doi: 10.1109/I2MTC.2015.7151267.\n",
+  "datasetId": 1016769,
+  "datasetSlug": "condition-monitoring-of-hydraulic-systems",
+  "hasDatasetSlug": true,
+  "ownerUser": "mayank1897",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 19323,
+  "totalVotes": 41,
+  "totalDownloads": 1486,
+  "title": "Predictive Maintenance Of Hydraulics System",
+  "hasTitle": true,
+  "subtitle": "Condition monitoring of hydraulic systems",
+  "hasSubtitle": true,
+  "description": "\n# Condition monitoring of hydraulic systems\n\n##Abstract: The data set addresses the condition assessment of a hydraulic test rig based on multi sensor data. Four fault types are superimposed with several severity grades impeding selective quantification.\n\n##Source:\nCreator: ZeMA gGmbH, Eschberger Weg 46, 66121 Saarbr\u00fccken\nContact: t.schneider@zema.de, s.klein@zema.de, m.bastuck@lmt.uni-saarland.de, info@lmt.uni-saarland.de\n\nData Type: Multivariate, Time-Series\nTask: Classification, Regression\nAttribute Type: Categorical, Real\nArea: CS/Engineering\nFormat Type: Matrix\nDoes your data set contain missing values? No\n\nNumber of Instances: 2205\n\nNumber of Attributes: 43680 (8x60 (1 Hz) + 2x600 (10 Hz) + 7x6000 (100 Hz))\n\n##Relevant Information:\nThe data set was experimentally obtained with a hydraulic test rig. This test rig consists of a primary working and a secondary cooling-filtration circuit which are connected via the oil tank [1], [2]. The system cyclically repeats constant load cycles (duration 60 seconds) and measures process values such as pressures, volume flows and temperatures while the condition of four hydraulic components (cooler, valve, pump and accumulator) is quantitatively varied. \n\n##Attribute Information:\nThe data set contains raw process sensor data (i.e. without feature extraction) which are structured as matrices (tab-delimited) with the rows representing the cycles and the columns the data points within a cycle.\n\nThe target condition values are cycle-wise annotated in \u2018profile.txt\u2018 (tab-delimited). As before, the row number represents the cycle number. The columns are\n\n###1: Cooler condition / %:\n\t3: close to total failure\n\t20: reduced efficiency\n\t100: full efficiency\n\n###2: Valve condition / %:\n\t100: optimal switching behavior\n\t90: small lag\n\t80: severe lag\n\t73: close to total failure\n\n###3: Internal pump leakage:\n\t0: no leakage\n\t1: weak leakage\n\t2: severe leakage\n\n###4: Hydraulic accumulator / bar:\n\t130: optimal pressure\n\t115: slightly reduced pressure\n\t100: severely reduced pressure\n\t90: close to total failure\n\n###5: stable flag:\n\t0: conditions were stable\n\t1: static conditions might not have been reached yet\n\n##Relevant Papers:\n[1] Nikolai Helwig, Eliseo Pignanelli, Andreas Sch\u00fctze, \u2018Condition Monitoring of a Complex Hydraulic System Using Multivariate Statistics\u2019, in Proc. I2MTC-2015 - 2015 IEEE International Instrumentation and Measurement Technology Conference, paper PPS1-39, Pisa, Italy, May 11-14, 2015, doi: 10.1109/I2MTC.2015.7151267.\n[2] N. Helwig, A. Sch\u00fctze, \u2018Detecting and compensating sensor faults in a hydraulic condition monitoring system\u2019, in Proc. SENSOR 2015 - 17th International Conference on Sensors and Measurement Technology, oral presentation D8.1, Nuremberg, Germany, May 19-21, 2015, doi: 10.5162/sensor2015/D8.1.\n[3] Tizian Schneider, Nikolai Helwig, Andreas Sch\u00fctze, \u2018Automatic feature extraction and selection for classification of cyclical time series data\u2019, tm - Technisches Messen (2017), 84(3), 198\u2013206, doi: 10.1515/teme-2016-0072.\n\n##Citation Requests:\nNikolai Helwig, Eliseo Pignanelli, Andreas Sch\u00fctze, \u2018Condition Monitoring of a Complex Hydraulic System Using Multivariate Statistics\u2019, in Proc. I2MTC-2015 - 2015 IEEE International Instrumentation and Measurement Technology Conference, paper PPS1-39, Pisa, Italy, May 11-14, 2015, doi: 10.1109/I2MTC.2015.7151267.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "business",
+    "science and technology",
+    "engineering",
+    "oil and gas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

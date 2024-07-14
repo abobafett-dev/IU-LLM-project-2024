@@ -1,0 +1,43 @@
+{
+  "id": "iambee/solar-currentsensor-ldr-data",
+  "id_no": 4257661,
+  "datasetSlugNullable": "solar-currentsensor-ldr-data",
+  "ownerUserNullable": "iambee",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Solar_CurrentSensor_LDR_Data",
+  "subtitleNullable": "Solar Power and Position Dataset",
+  "descriptionNullable": "# Solar Power and Position Dataset \nThis dataset is comprised of solar panel's data using current sensor for power deliverance and LDRs for position detection. Using Timestamps starting from 7:am forward with frequency of 15 seconds, I have compiled this data using sensors myself. The microcontroller to get this data was Arduino so ADC issues should be ignored. The data is noisy being sensory concern and due to random factors. The sensors were placed on a 20W 18V panel and 120W 12V panels respectively. \n\n",
+  "datasetId": 4257661,
+  "datasetSlug": "solar-currentsensor-ldr-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "iambee",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 388,
+  "totalVotes": 4,
+  "totalDownloads": 52,
+  "title": "Solar_CurrentSensor_LDR_Data",
+  "hasTitle": true,
+  "subtitle": "Solar Power and Position Dataset",
+  "hasSubtitle": true,
+  "description": "# Solar Power and Position Dataset \nThis dataset is comprised of solar panel's data using current sensor for power deliverance and LDRs for position detection. Using Timestamps starting from 7:am forward with frequency of 15 seconds, I have compiled this data using sensors myself. The microcontroller to get this data was Arduino so ADC issues should be ignored. The data is noisy being sensory concern and due to random factors. The sensors were placed on a 20W 18V panel and 120W 12V panels respectively. \n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "renewable energy",
+    "engineering",
+    "time series analysis",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

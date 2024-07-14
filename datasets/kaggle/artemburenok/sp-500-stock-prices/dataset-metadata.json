@@ -1,0 +1,43 @@
+{
+  "id": "artemburenok/sp-500-stock-prices",
+  "id_no": 2741105,
+  "datasetSlugNullable": "sp-500-stock-prices",
+  "ownerUserNullable": "artemburenok",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "S&P 500 stock prices",
+  "subtitleNullable": "All companies which included in S&P 500 index  ",
+  "descriptionNullable": "### **Context**\nStock market data can be interesting to analyze, strong predictive models can have large financial payoff. The amount of financial data on the web is seemingly endless. A large and well structured dataset on a wide array of companies can be hard to come by. Here I view a dataset with historical stock prices for all companies on the S&P 500 index.\n\n### **Content**\nAll the files have the following columns:\n\nDate - in format: yy-mm-dd\n\nOpen - price of the stock at market open (this is NYSE data so all in USD)\n\nHigh - highest price reached in the day\n\nLow  - lowest price reached in the day\n\nClose - close price\n\nVolume - number of shares traded\n\n###**Acknowledgements**\nThanks to Kaggle, Github, yahoo finance.\n\n### **Purpose of creating the dataset**\nThis dataset lends itself to a some very interesting visualizations. One can look at simple things like how prices change over time, graph an compare multiple stocks at once, or generate and graph new metrics from the data provided.\nFrom these data informative stock stats such as volatility and moving averages can be easily calculated.\nAnd people can build quantitative models such as: build portfoio, predict volatility, arbitrage, trading strategies.",
+  "datasetId": 2741105,
+  "datasetSlug": "sp-500-stock-prices",
+  "hasDatasetSlug": true,
+  "ownerUser": "artemburenok",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 4009,
+  "totalVotes": 28,
+  "totalDownloads": 572,
+  "title": "S&P 500 stock prices",
+  "hasTitle": true,
+  "subtitle": "All companies which included in S&P 500 index  ",
+  "hasSubtitle": true,
+  "description": "### **Context**\nStock market data can be interesting to analyze, strong predictive models can have large financial payoff. The amount of financial data on the web is seemingly endless. A large and well structured dataset on a wide array of companies can be hard to come by. Here I view a dataset with historical stock prices for all companies on the S&P 500 index.\n\n### **Content**\nAll the files have the following columns:\n\nDate - in format: yy-mm-dd\n\nOpen - price of the stock at market open (this is NYSE data so all in USD)\n\nHigh - highest price reached in the day\n\nLow  - lowest price reached in the day\n\nClose - close price\n\nVolume - number of shares traded\n\n###**Acknowledgements**\nThanks to Kaggle, Github, yahoo finance.\n\n### **Purpose of creating the dataset**\nThis dataset lends itself to a some very interesting visualizations. One can look at simple things like how prices change over time, graph an compare multiple stocks at once, or generate and graph new metrics from the data provided.\nFrom these data informative stock stats such as volatility and moving averages can be easily calculated.\nAnd people can build quantitative models such as: build portfoio, predict volatility, arbitrage, trading strategies.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "time series analysis",
+    "data analytics",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "harriken/bias-media-cat",
+  "id_no": 3053,
+  "datasetSlugNullable": "bias-media-cat",
+  "ownerUserNullable": "harriken",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Bias Media CAT",
+  "subtitleNullable": "Sentiment Bias of News on Catalonia Independence Crisis",
+  "descriptionNullable": "# What I talk about when I talk about Catalonia\nThis is my grain of sand to help in the Catalonia [Independence][1] crisis. The Iberian media has been a key driver to incubate disaffection between Catalonia and Spain. For example, a leading newspaper tweeted boycott and Catalonia [9 times][6] in the last month. In this dataset we analyze:\n\n- [tweets][6] \n- topics of [tweets][8] and \n- sentiment differentials in [news][7] \n\n![fig1][4]\n### Context\nThe [dramatic][5] Catalonia independence crisis offers a unique opportunity to analyze bias in news reporting as opinions on the issue are quite polarized (See #catalanReferendum on twitter). In this dataset, we compare how different newspapers (NYT, Washington-Post, Bloomberg...) have reported one singular specific event in the saga: The reply of the Spanish Government to M.H. Puigdemont speech of October 11th of 2017. \nFor each of the 30 newspapers considered, the most popular news article that reported this news is represented as a row in the dataset.  Why this news? The Spanish government, published a pdf called (\"requerimiento\") which was faxed to Puigdemont. The document requires that  Puigdemont reply in five days a clarification of the meaning of his speech. \nThis \"clean\" news offers a rare example where the news is about a written document rather than a speech or an action (usually subjected to more interpretations and biases)\n\n### Content\n- news_...csv each row contains the news article and its translation to English.\n- all3.csv contains 100k tweets.\n\n### Acknowledgements\nAll the journalists who made this dataset possible. Thanks to @DataCanary for helping make the visualizations better!\n\n### Inspiration\nI always thought that sentiment analysis was a useless topic, but here there is a chance to use an objective measure to show how polarized reporting has become, (even if sentiment does not account for fakenews, nuances or sarcasm). The linear regressions shows that news written in Spanish language are less positive about the event than the global mean. In other words, sentiment seems strongly biased by language. Bias by location of the newspapers is also analyzed. \n### Disclaimer\nNote that the 'bing' scale is used. Other scales such AFINN might yield different results.\n\n  [1]: https://en.wikipedia.org/wiki/Catalan_independence#2017_referendum\n  [2]: https://www.kaggle.io/svf/1670183/ed71332d0833236e33cb23ae4f952a1c/__results___files/figure-html/unnamed-chunk-5-1.png\n  [3]: https://www.kaggle.com/harriken/bias-news/output\n  [4]: https://1.bp.blogspot.com/-uADXuUKpRJg/WeT67Sq-PVI/AAAAAAAACow/MN7UNgZsy20MMSod-ZzmR0uUwtJYQpAvwCLcBGAs/s1600/Screen%2BShot%2B2017-10-16%2Bat%2B10.22.20%2BPM.png\n  [5]: http://bit.ly/2xJUOVV\n  [6]: https://www.kaggle.com/harriken/what-i-talk-about-when-i-talk-about-catalonia\n  [7]: https://www.kaggle.com/diamazov/location-bias\n  [8]: https://www.kaggle.com/harriken/the-great-catalan-cyberwar-gensim\n",
+  "datasetId": 3053,
+  "datasetSlug": "bias-media-cat",
+  "hasDatasetSlug": true,
+  "ownerUser": "harriken",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 15401,
+  "totalVotes": 34,
+  "totalDownloads": 489,
+  "title": "Bias Media CAT",
+  "hasTitle": true,
+  "subtitle": "Sentiment Bias of News on Catalonia Independence Crisis",
+  "hasSubtitle": true,
+  "description": "# What I talk about when I talk about Catalonia\nThis is my grain of sand to help in the Catalonia [Independence][1] crisis. The Iberian media has been a key driver to incubate disaffection between Catalonia and Spain. For example, a leading newspaper tweeted boycott and Catalonia [9 times][6] in the last month. In this dataset we analyze:\n\n- [tweets][6] \n- topics of [tweets][8] and \n- sentiment differentials in [news][7] \n\n![fig1][4]\n### Context\nThe [dramatic][5] Catalonia independence crisis offers a unique opportunity to analyze bias in news reporting as opinions on the issue are quite polarized (See #catalanReferendum on twitter). In this dataset, we compare how different newspapers (NYT, Washington-Post, Bloomberg...) have reported one singular specific event in the saga: The reply of the Spanish Government to M.H. Puigdemont speech of October 11th of 2017. \nFor each of the 30 newspapers considered, the most popular news article that reported this news is represented as a row in the dataset.  Why this news? The Spanish government, published a pdf called (\"requerimiento\") which was faxed to Puigdemont. The document requires that  Puigdemont reply in five days a clarification of the meaning of his speech. \nThis \"clean\" news offers a rare example where the news is about a written document rather than a speech or an action (usually subjected to more interpretations and biases)\n\n### Content\n- news_...csv each row contains the news article and its translation to English.\n- all3.csv contains 100k tweets.\n\n### Acknowledgements\nAll the journalists who made this dataset possible. Thanks to @DataCanary for helping make the visualizations better!\n\n### Inspiration\nI always thought that sentiment analysis was a useless topic, but here there is a chance to use an objective measure to show how polarized reporting has become, (even if sentiment does not account for fakenews, nuances or sarcasm). The linear regressions shows that news written in Spanish language are less positive about the event than the global mean. In other words, sentiment seems strongly biased by language. Bias by location of the newspapers is also analyzed. \n### Disclaimer\nNote that the 'bing' scale is used. Other scales such AFINN might yield different results.\n\n  [1]: https://en.wikipedia.org/wiki/Catalan_independence#2017_referendum\n  [2]: https://www.kaggle.io/svf/1670183/ed71332d0833236e33cb23ae4f952a1c/__results___files/figure-html/unnamed-chunk-5-1.png\n  [3]: https://www.kaggle.com/harriken/bias-news/output\n  [4]: https://1.bp.blogspot.com/-uADXuUKpRJg/WeT67Sq-PVI/AAAAAAAACow/MN7UNgZsy20MMSod-ZzmR0uUwtJYQpAvwCLcBGAs/s1600/Screen%2BShot%2B2017-10-16%2Bat%2B10.22.20%2BPM.png\n  [5]: http://bit.ly/2xJUOVV\n  [6]: https://www.kaggle.com/harriken/what-i-talk-about-when-i-talk-about-catalonia\n  [7]: https://www.kaggle.com/diamazov/location-bias\n  [8]: https://www.kaggle.com/harriken/the-great-catalan-cyberwar-gensim\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "politics",
+    "linguistics",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

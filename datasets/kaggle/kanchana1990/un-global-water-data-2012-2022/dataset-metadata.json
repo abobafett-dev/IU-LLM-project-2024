@@ -1,0 +1,43 @@
+{
+  "id": "kanchana1990/un-global-water-data-2012-2022",
+  "id_no": 4702255,
+  "datasetSlugNullable": "un-global-water-data-2012-2022",
+  "ownerUserNullable": "kanchana1990",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "UN Global Water Data 2012-2022",
+  "subtitleNullable": "A Decade of Water and Well-being",
+  "descriptionNullable": "**Dataset Overview:**\nThe \"UN Global Water Data 2012-2022\" dataset compiles global water access and sanitation metrics, highlighting changes over a decade.\n\n**Data Science Applications:**\nUseful for predictive modeling, geographic analysis, and trend visualization in water access and public health sectors. Further data will require cleaning to remove null columns etc .\n\n**Column Descriptors:**\n- DATAFLOW: Data collection framework\n- REF_AREA: Geographic area covered\n- INDICATOR: Specific metric measured\n- SEX: Gender breakdown, if applicable\n- TIME_PERIOD: Year of data collection\n- OBS_VALUE: The observed value or measurement\n- UNIT_MEASURE: Units of measurement used\n- Additional columns include details on data sources, observation status, and methodological notes.\n\n**Ethically Collected Data:**\nEnsures adherence to ethical standards in data collection, respecting privacy and consent.\n\n**Acknowledgments:**\nThanks to UNICEF Data Warehouse for providing this dataset. Explore more at [UNICEF Data Explorer](https://data.unicef.org/resources/data_explorer/unicef_f/?ag=UNICEF&df=GLOBAL_DATAFLOW&ver=1.0&dq=.WS_HCF_WM-N+WS_HCF_W-B+WS_HCF_W-L+WS_HCF_W-N+WS_PPL_W-SM+WS_PPL_S-SEW+WS_PPL_W-UI+WS_PPL_S-WWT+WS_PPL_W-B+WS_PPL_W-QUA+WS_PPL_W-I+WS_PPL_W-ALB+WS_PPL_S-DIS+WS_PPL_H-N+WS_PPL_S-LAT+WS_PPL_W-PRE+WS_PPL_W-L+WS_PPL_S-SEP+WS_PPL_W-P+WS_PPL_S-B+WS_PPL_S-SM+WS_PPL_S-L+WS_PPL_S-FST+WS_PPL_W-AVA+WS_PPL_W-NP+WS_PPL_W-SW+WS_PPL_H-B+WS_PPL_S-I+WS_SCH_H-L+WS_SCH_S-B+WS_SCH_H-N+WS_SCH_S-L+WS_SCH_W-B+WS_SCH_S-N+WS_SCH_W-L+WS_SCH_W-N+WS_SCH_H-B..&startPeriod=2012&endPeriod=2023).\n\nAlso thank you to the Daily News archives for the dataset image used here [article](https://archives1.dailynews.lk/2019/04/12/local/183064/salty-tap-water-50000-families-kalutara).",
+  "datasetId": 4702255,
+  "datasetSlug": "un-global-water-data-2012-2022",
+  "hasDatasetSlug": true,
+  "ownerUser": "kanchana1990",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4760,
+  "totalVotes": 46,
+  "totalDownloads": 883,
+  "title": "UN Global Water Data 2012-2022",
+  "hasTitle": true,
+  "subtitle": "A Decade of Water and Well-being",
+  "hasSubtitle": true,
+  "description": "**Dataset Overview:**\nThe \"UN Global Water Data 2012-2022\" dataset compiles global water access and sanitation metrics, highlighting changes over a decade.\n\n**Data Science Applications:**\nUseful for predictive modeling, geographic analysis, and trend visualization in water access and public health sectors. Further data will require cleaning to remove null columns etc .\n\n**Column Descriptors:**\n- DATAFLOW: Data collection framework\n- REF_AREA: Geographic area covered\n- INDICATOR: Specific metric measured\n- SEX: Gender breakdown, if applicable\n- TIME_PERIOD: Year of data collection\n- OBS_VALUE: The observed value or measurement\n- UNIT_MEASURE: Units of measurement used\n- Additional columns include details on data sources, observation status, and methodological notes.\n\n**Ethically Collected Data:**\nEnsures adherence to ethical standards in data collection, respecting privacy and consent.\n\n**Acknowledgments:**\nThanks to UNICEF Data Warehouse for providing this dataset. Explore more at [UNICEF Data Explorer](https://data.unicef.org/resources/data_explorer/unicef_f/?ag=UNICEF&df=GLOBAL_DATAFLOW&ver=1.0&dq=.WS_HCF_WM-N+WS_HCF_W-B+WS_HCF_W-L+WS_HCF_W-N+WS_PPL_W-SM+WS_PPL_S-SEW+WS_PPL_W-UI+WS_PPL_S-WWT+WS_PPL_W-B+WS_PPL_W-QUA+WS_PPL_W-I+WS_PPL_W-ALB+WS_PPL_S-DIS+WS_PPL_H-N+WS_PPL_S-LAT+WS_PPL_W-PRE+WS_PPL_W-L+WS_PPL_S-SEP+WS_PPL_W-P+WS_PPL_S-B+WS_PPL_S-SM+WS_PPL_S-L+WS_PPL_S-FST+WS_PPL_W-AVA+WS_PPL_W-NP+WS_PPL_W-SW+WS_PPL_H-B+WS_PPL_S-I+WS_SCH_H-L+WS_SCH_S-B+WS_SCH_H-N+WS_SCH_S-L+WS_SCH_W-B+WS_SCH_S-N+WS_SCH_W-L+WS_SCH_W-N+WS_SCH_H-B..&startPeriod=2012&endPeriod=2023).\n\nAlso thank you to the Daily News archives for the dataset image used here [article](https://archives1.dailynews.lk/2019/04/12/local/183064/salty-tap-water-50000-families-kalutara).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "business",
+    "demographics",
+    "water transport",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 3.0 IGO (CC BY 3.0 IGO)",
+      "name": "Attribution 3.0 IGO (CC BY 3.0 IGO)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

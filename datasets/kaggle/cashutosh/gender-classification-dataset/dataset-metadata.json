@@ -1,0 +1,40 @@
+{
+  "id": "cashutosh/gender-classification-dataset",
+  "id_no": 446365,
+  "datasetSlugNullable": "gender-classification-dataset",
+  "ownerUserNullable": "cashutosh",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Gender Classification Dataset",
+  "subtitleNullable": "Male Female image dataset",
+  "descriptionNullable": "### Context\n\n\n\n\n### Content\n\nThe data set is of cropped images of male and female . It is split into training and validation directory.  Training contains ~23,000 images of each class and validation directory contains ~5,500  images of each class. \n\n\n### Acknowledgements\n\n\n\n\n### Inspiration\n\n",
+  "datasetId": 446365,
+  "datasetSlug": "gender-classification-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "cashutosh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 122949,
+  "totalVotes": 176,
+  "totalDownloads": 17874,
+  "title": "Gender Classification Dataset",
+  "hasTitle": true,
+  "subtitle": "Male Female image dataset",
+  "hasSubtitle": true,
+  "description": "### Context\n\n\n\n\n### Content\n\nThe data set is of cropped images of male and female . It is split into training and validation directory.  Training contains ~23,000 images of each class and validation directory contains ~5,500  images of each class. \n\n\n### Acknowledgements\n\n\n\n\n### Inspiration\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "gender",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

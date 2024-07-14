@@ -1,0 +1,44 @@
+{
+  "id": "rishi2628/nifty50daily",
+  "id_no": 2508700,
+  "datasetSlugNullable": "nifty50daily",
+  "ownerUserNullable": "rishi2628",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Nifty 50 Daily Data",
+  "subtitleNullable": "Nifty 50 OHLC + Volume + Turnover Data at daily interval",
+  "descriptionNullable": "Nifty 50 OHLC + Volume + Turnover Data at daily interval scaped from NSE India website\n\nContains the following 7 features on a daily time frame :- \n\n1) Date of Trading\n2) Open Price\n3) High Price\n4) Low Price\n5) Close Price\n6) Number of Trades\n7) Turnover in Crores",
+  "datasetId": 2508700,
+  "datasetSlug": "nifty50daily",
+  "hasDatasetSlug": true,
+  "ownerUser": "rishi2628",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 443,
+  "totalVotes": 5,
+  "totalDownloads": 32,
+  "title": "Nifty 50 Daily Data",
+  "hasTitle": true,
+  "subtitle": "Nifty 50 OHLC + Volume + Turnover Data at daily interval",
+  "hasSubtitle": true,
+  "description": "Nifty 50 OHLC + Volume + Turnover Data at daily interval scaped from NSE India website\n\nContains the following 7 features on a daily time frame :- \n\n1) Date of Trading\n2) Open Price\n3) High Price\n4) Low Price\n5) Close Price\n6) Number of Trades\n7) Turnover in Crores",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "business",
+    "economics",
+    "beginner",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

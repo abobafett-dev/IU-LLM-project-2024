@@ -1,0 +1,39 @@
+{
+  "id": "arashnic/car-racing-dataset",
+  "id_no": 2309783,
+  "datasetSlugNullable": "car-racing-dataset",
+  "ownerUserNullable": "arashnic",
+  "usabilityRatingNullable": 0.8529411764705882,
+  "titleNullable": "Indy500 Car Racing Dataset",
+  "subtitleNullable": "Rank Position Forecasting in Car Racing",
+  "descriptionNullable": "Rank position forecasting in car racing is a challenging problem, which is featured with highly complex global\ndependency among the cars, with uncertainty resulted from existing exogenous factors, and as a sparse data problem.\nExisting methods, including statistical models, machine learning regression models, and several state-of-the-art deep forecasting\nmodels all perform not well on this problem. By elaborative analysis of pit stops events, we find it is critical to decompose\nthe cause effects and model them, the rank position and pitstop events, separately. In the choice of sub-model from different\ndeep models, we find the model with weak assumptions on the global dependency structure performs the best. Based on these\nobservations, we propose RankNet, a combination of encoderdecoder network and separate MLP network that capable of\ndelivering probabilistic forecasting to model the pit stop events and rank position in car racing. Further with the help of feature\noptimizations, RankNet demonstrates a significant performance improvement over the baselines, e.g., MAE improves more than\n10% consistently, and is also more stable when adapting to unseen new data. Details of model optimization, performance profiling\nare presented. It is promising to provide useful forecasting tools for the car racing analysis and shine a light on solutions to similar\nchallenging issues in general forecasting problems. \n\n\n\n### Data and Problem\nIndy500 is the premier event of the IndyCar series. Each year, 33 cars compete on a 2.5-mile oval track for 200 laps.\nThe track is split into several sections or timeline. E.g., SF/SFP indicate the start and finish line on the track or on the pit lane,\nrespectively. A local communication network broadcasts race information to all the teams, following a general data exchange\nprotocol .\nMore:\nIndyCar Understanding-The-Sport. https://ftw.usatoday.com/lists/indy-500-2022-time-lineup-stats-traditions-history-beginners-guide\nINDYCAR-101/Understanding-The-Sport/Timing-and-Scoring. visited\non 04/15/2020.\n\nRank position is the order of the cars crossing SF/SFP. In motorsports, a pit stop is a pause for refueling, new tires,\nrepairs, mechanical adjustments, a driver change, a penalty, or any combination of them . Unexpected events happen in\na race, including mechanical failures or a crash. Depending on the severity level of the event, sometimes it leads to a\ndangerous situation for other cars to continue the racing with high speed on the track. In these cases, a full course yellow\nflag rises to indicate the race entering a caution laps mode, in which all the cars slow down and follow a safety car and\ncan not overtake until another green flag raised.\n\nFull data generation and source code:\nhttps://github.com/DSC-SPIDAL/rankpredictor \n\n### Citiation\n\n@article{peng_rank_2020,\ntitle = {Rank {Position} {Forecasting} in {Car} {Racing}},\nurl = {http://arxiv.org/abs/2010.01707},\nurldate = {2020-12-14},\njournal = {arXiv:2010.01707 [cs, stat]},\nauthor = {Peng, Bo and Li, Jiayu and Akkas, Selahattin and Wang, Fugang and Araki, Takuya and Yoshiyuki, Ohno and Qiu, Judy},\nmonth = oct,\nyear = {2020},\nnote = {arXiv: 2010.01707},\n}\n\n### Inspiration\n- Pitstop analysis (resource constraints, anomaly events, and Race strategies)\n- Predict the future rank position of a car given the race\u2019s observed history\n    ",
+  "datasetId": 2309783,
+  "datasetSlug": "car-racing-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "arashnic",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8529411764705882,
+  "hasUsabilityRating": true,
+  "totalViews": 3184,
+  "totalVotes": 17,
+  "totalDownloads": 243,
+  "title": "Indy500 Car Racing Dataset",
+  "hasTitle": true,
+  "subtitle": "Rank Position Forecasting in Car Racing",
+  "hasSubtitle": true,
+  "description": "Rank position forecasting in car racing is a challenging problem, which is featured with highly complex global\ndependency among the cars, with uncertainty resulted from existing exogenous factors, and as a sparse data problem.\nExisting methods, including statistical models, machine learning regression models, and several state-of-the-art deep forecasting\nmodels all perform not well on this problem. By elaborative analysis of pit stops events, we find it is critical to decompose\nthe cause effects and model them, the rank position and pitstop events, separately. In the choice of sub-model from different\ndeep models, we find the model with weak assumptions on the global dependency structure performs the best. Based on these\nobservations, we propose RankNet, a combination of encoderdecoder network and separate MLP network that capable of\ndelivering probabilistic forecasting to model the pit stop events and rank position in car racing. Further with the help of feature\noptimizations, RankNet demonstrates a significant performance improvement over the baselines, e.g., MAE improves more than\n10% consistently, and is also more stable when adapting to unseen new data. Details of model optimization, performance profiling\nare presented. It is promising to provide useful forecasting tools for the car racing analysis and shine a light on solutions to similar\nchallenging issues in general forecasting problems. \n\n\n\n### Data and Problem\nIndy500 is the premier event of the IndyCar series. Each year, 33 cars compete on a 2.5-mile oval track for 200 laps.\nThe track is split into several sections or timeline. E.g., SF/SFP indicate the start and finish line on the track or on the pit lane,\nrespectively. A local communication network broadcasts race information to all the teams, following a general data exchange\nprotocol .\nMore:\nIndyCar Understanding-The-Sport. https://ftw.usatoday.com/lists/indy-500-2022-time-lineup-stats-traditions-history-beginners-guide\nINDYCAR-101/Understanding-The-Sport/Timing-and-Scoring. visited\non 04/15/2020.\n\nRank position is the order of the cars crossing SF/SFP. In motorsports, a pit stop is a pause for refueling, new tires,\nrepairs, mechanical adjustments, a driver change, a penalty, or any combination of them . Unexpected events happen in\na race, including mechanical failures or a crash. Depending on the severity level of the event, sometimes it leads to a\ndangerous situation for other cars to continue the racing with high speed on the track. In these cases, a full course yellow\nflag rises to indicate the race entering a caution laps mode, in which all the cars slow down and follow a safety car and\ncan not overtake until another green flag raised.\n\nFull data generation and source code:\nhttps://github.com/DSC-SPIDAL/rankpredictor \n\n### Citiation\n\n@article{peng_rank_2020,\ntitle = {Rank {Position} {Forecasting} in {Car} {Racing}},\nurl = {http://arxiv.org/abs/2010.01707},\nurldate = {2020-12-14},\njournal = {arXiv:2010.01707 [cs, stat]},\nauthor = {Peng, Bo and Li, Jiayu and Akkas, Selahattin and Wang, Fugang and Araki, Takuya and Yoshiyuki, Ohno and Qiu, Judy},\nmonth = oct,\nyear = {2020},\nnote = {arXiv: 2010.01707},\n}\n\n### Inspiration\n- Pitstop analysis (resource constraints, anomaly events, and Race strategies)\n- Predict the future rank position of a car given the race\u2019s observed history\n    ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "auto racing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

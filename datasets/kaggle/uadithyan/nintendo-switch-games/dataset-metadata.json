@@ -1,0 +1,39 @@
+{
+  "id": "uadithyan/nintendo-switch-games",
+  "id_no": 2350077,
+  "datasetSlugNullable": "nintendo-switch-games",
+  "ownerUserNullable": "uadithyan",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Nintendo Switch Games",
+  "subtitleNullable": "Dataset regarding the games available on the Nintendo Switch Platform",
+  "descriptionNullable": "This is a Dataset Regarding the games available on the Nintendo Switch Console.\nThe data is sorted on the Total Sales of the games\nThe data was scrapped using Microsoft Excel from www.vgchartz.com .\n\n**Column Description:**\n- Position: This represents the position of the game based on total sales.\n- Game: Name of the Game.\n- Publisher, Developer:  The names of the Developer and Publisher.\n- VGChartz Score, Critic Score, User Score: Ratings for the games based on various parameters.\n- Total Shipped: Shows the total no.of units of the game shipped across the Globe.\n- Release Date: Gives the release Date for the game.\n- Last Update: Shows when the game was last updated.",
+  "datasetId": 2350077,
+  "datasetSlug": "nintendo-switch-games",
+  "hasDatasetSlug": true,
+  "ownerUser": "uadithyan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1962,
+  "totalVotes": 14,
+  "totalDownloads": 271,
+  "title": "Nintendo Switch Games",
+  "hasTitle": true,
+  "subtitle": "Dataset regarding the games available on the Nintendo Switch Platform",
+  "hasSubtitle": true,
+  "description": "This is a Dataset Regarding the games available on the Nintendo Switch Console.\nThe data is sorted on the Total Sales of the games\nThe data was scrapped using Microsoft Excel from www.vgchartz.com .\n\n**Column Description:**\n- Position: This represents the position of the game based on total sales.\n- Game: Name of the Game.\n- Publisher, Developer:  The names of the Developer and Publisher.\n- VGChartz Score, Critic Score, User Score: Ratings for the games based on various parameters.\n- Total Shipped: Shows the total no.of units of the game shipped across the Globe.\n- Release Date: Gives the release Date for the game.\n- Last Update: Shows when the game was last updated.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "video games"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Sharing - Version 1.0",
+      "name": "Community Data License Agreement - Sharing - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

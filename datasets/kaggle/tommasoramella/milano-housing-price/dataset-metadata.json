@@ -1,0 +1,42 @@
+{
+  "id": "tommasoramella/milano-housing-price",
+  "id_no": 2944281,
+  "datasetSlugNullable": "milano-housing-price",
+  "ownerUserNullable": "tommasoramella",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "milano-housing-price",
+  "subtitleNullable": "Milano House Announcement - dataset creation with web scraping ",
+  "descriptionNullable": "**Context**\nThis dataset was created by web-scraping the house-announcements website [Immobiliare](https://www.immobiliare.it/) Beautiful Soup.\nIt serves as a good exercise in data cleaning and prediction. The goal is to predict house prices using the variables available. It contains both cleaned and raw data (for data cleaning training). \nMy GitHub repository also contains the scripts to rerun automatically scraping and adding the newly available announcements.\nThe dataset will be updated over time so that time-series analysis will be possible in the future. \n\n**Context**\n1 rooms\n2 m2\n3 bathrooms\n4 floor\n5 condominium_expenses (in euros)\n6 date --&gt; date the announcement is uploaded online\n7 contract --&gt; type of contract\n8 typology --&gt; type of property\n9 total_floors --&gt; floor level\n10 availability \n11 other_features --&gt; other features written in the announcement in Italian (to be processed)\n12 price --&gt; target variable\n13 year_of_build \n14 condition\n15 air_conditioning\n16 energy_efficiency --&gt; check [here](https://en.wikipedia.org/wiki/European_Union_energy_label)\n17 city\n18 neighborhood\n19 car_parking\n20 energy_performance_building \n21 housing units\n22 start_end_works\n23 current_building_use\n24 energy_certification\n25 co2_emissions\n26 elevator\n27 floor_level\n28 heating_centralized\n29 heating_radiator\n30 heating_gas\n31 air_conditiong_centralized\n32 air_conditioning_heat\n33 renewable_energy_performance_index_KWh/m2",
+  "datasetId": 2944281,
+  "datasetSlug": "milano-housing-price",
+  "hasDatasetSlug": true,
+  "ownerUser": "tommasoramella",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2231,
+  "totalVotes": 7,
+  "totalDownloads": 380,
+  "title": "milano-housing-price",
+  "hasTitle": true,
+  "subtitle": "Milano House Announcement - dataset creation with web scraping ",
+  "hasSubtitle": true,
+  "description": "**Context**\nThis dataset was created by web-scraping the house-announcements website [Immobiliare](https://www.immobiliare.it/) Beautiful Soup.\nIt serves as a good exercise in data cleaning and prediction. The goal is to predict house prices using the variables available. It contains both cleaned and raw data (for data cleaning training). \nMy GitHub repository also contains the scripts to rerun automatically scraping and adding the newly available announcements.\nThe dataset will be updated over time so that time-series analysis will be possible in the future. \n\n**Context**\n1 rooms\n2 m2\n3 bathrooms\n4 floor\n5 condominium_expenses (in euros)\n6 date --&gt; date the announcement is uploaded online\n7 contract --&gt; type of contract\n8 typology --&gt; type of property\n9 total_floors --&gt; floor level\n10 availability \n11 other_features --&gt; other features written in the announcement in Italian (to be processed)\n12 price --&gt; target variable\n13 year_of_build \n14 condition\n15 air_conditioning\n16 energy_efficiency --&gt; check [here](https://en.wikipedia.org/wiki/European_Union_energy_label)\n17 city\n18 neighborhood\n19 car_parking\n20 energy_performance_building \n21 housing units\n22 start_end_works\n23 current_building_use\n24 energy_certification\n25 co2_emissions\n26 elevator\n27 floor_level\n28 heating_centralized\n29 heating_radiator\n30 heating_gas\n31 air_conditiong_centralized\n32 air_conditioning_heat\n33 renewable_energy_performance_index_KWh/m2",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "beginner",
+    "exploratory data analysis",
+    "data cleaning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

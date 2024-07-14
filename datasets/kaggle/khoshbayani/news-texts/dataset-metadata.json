@@ -1,0 +1,43 @@
+{
+  "id": "khoshbayani/news-texts",
+  "id_no": 4702692,
+  "datasetSlugNullable": "news-texts",
+  "ownerUserNullable": "khoshbayani",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "World News Category",
+  "subtitleNullable": "There are three categories of worldwide news in this dataset",
+  "descriptionNullable": "# Context\nThis dataset contains some news from 2018-01-04 to 2024-03-31 in three categories.\nthe categories are \"politic\", \"technology\" and \"science\".\n\n\n# How are they labeled?\nWe gathered the news from three seemingly affiliated Telegram channels: science, technology, and world news (including politics). Each channel's messages are labeled accordingly.\n\n\n# Reference\nThis dataset was collected from these resources:\n- https://t.me/WorldNews\n- https://t.me/Technology_AI_Gadget_Daily_News\n- https://t.me/Science_News_Facts_Updates_daily",
+  "datasetId": 4702692,
+  "datasetSlug": "news-texts",
+  "hasDatasetSlug": true,
+  "ownerUser": "khoshbayani",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2587,
+  "totalVotes": 18,
+  "totalDownloads": 399,
+  "title": "World News Category",
+  "hasTitle": true,
+  "subtitle": "There are three categories of worldwide news in this dataset",
+  "hasSubtitle": true,
+  "description": "# Context\nThis dataset contains some news from 2018-01-04 to 2024-03-31 in three categories.\nthe categories are \"politic\", \"technology\" and \"science\".\n\n\n# How are they labeled?\nWe gathered the news from three seemingly affiliated Telegram channels: science, technology, and world news (including politics). Each channel's messages are labeled accordingly.\n\n\n# Reference\nThis dataset was collected from these resources:\n- https://t.me/WorldNews\n- https://t.me/Technology_AI_Gadget_Daily_News\n- https://t.me/Science_News_Facts_Updates_daily",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "politics",
+    "science and technology",
+    "classification",
+    "text",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

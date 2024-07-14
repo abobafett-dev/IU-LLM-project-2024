@@ -1,0 +1,43 @@
+{
+  "id": "rosicky1234/cpi-and-sp500",
+  "id_no": 2927049,
+  "datasetSlugNullable": "cpi-and-sp500",
+  "ownerUserNullable": "rosicky1234",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "CPI and S&P 500 Historical Data",
+  "subtitleNullable": "CPI from 9/2008 to 2/2023 and SP 500 from 3/2000 to 2/2023",
+  "descriptionNullable": "There are two datasets here:\n1. Consumer Price Index Results(CPI) from 9/2008 to 2/2023\n2. S&P 500 Index from 3/2000 - 2/2023\n\n**What Is the Consumer Price Index (CPI)?**\nThe Consumer Price Index (CPI) measures the monthly change in prices paid by U.S. consumers. \n\n**S&P 500**\nS&P 500 is the abbreviation of Standard and Poor's 500 in USA. This is a stock market index that tracks 500 publicly traded companies.\n\n\nYou are welcome to use this data source for analysis such as \n- Time Series Analysis\n- Finding Relation between CPI & SP 500\n- Comparing the pattern of CPI, SP 500 with other stocks.",
+  "datasetId": 2927049,
+  "datasetSlug": "cpi-and-sp500",
+  "hasDatasetSlug": true,
+  "ownerUser": "rosicky1234",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1246,
+  "totalVotes": 5,
+  "totalDownloads": 165,
+  "title": "CPI and S&P 500 Historical Data",
+  "hasTitle": true,
+  "subtitle": "CPI from 9/2008 to 2/2023 and SP 500 from 3/2000 to 2/2023",
+  "hasSubtitle": true,
+  "description": "There are two datasets here:\n1. Consumer Price Index Results(CPI) from 9/2008 to 2/2023\n2. S&P 500 Index from 3/2000 - 2/2023\n\n**What Is the Consumer Price Index (CPI)?**\nThe Consumer Price Index (CPI) measures the monthly change in prices paid by U.S. consumers. \n\n**S&P 500**\nS&P 500 is the abbreviation of Standard and Poor's 500 in USA. This is a stock market index that tracks 500 publicly traded companies.\n\n\nYou are welcome to use this data source for analysis such as \n- Time Series Analysis\n- Finding Relation between CPI & SP 500\n- Comparing the pattern of CPI, SP 500 with other stocks.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "economics",
+    "data analytics",
+    "tabular",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

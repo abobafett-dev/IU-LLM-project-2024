@@ -1,0 +1,43 @@
+{
+  "id": "gspmoreira/articles-sharing-reading-from-cit-deskdrop",
+  "id_no": 2234,
+  "datasetSlugNullable": "articles-sharing-reading-from-cit-deskdrop",
+  "ownerUserNullable": "gspmoreira",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Articles sharing and reading from CI&T DeskDrop",
+  "subtitleNullable": "Logs of users interactions on shared articles for content Recommender Systems",
+  "descriptionNullable": "### Context\n\n[**Deskdrop**](https://deskdrop.co/) is an internal communications platform developed by [CI&T](http://www.ciandt.com/), focused in companies using Google G Suite. Among other features, this platform allows companies employees to share relevant articles with their peers, and collaborate around them.  \n\n### Content\n\nThis rich and rare dataset contains a real sample of **12 months logs** (Mar. 2016 - Feb. 2017) from CI&T's Internal Communication platform (DeskDrop).    \nI contains about **73k logged users interactions** on more than **3k public articles shared** in the platform.   \n\nThis dataset features some distinctive characteristics:\n\n - **Item attributes**: Articles' original URL, title, and content plain text are available in two languages (English and Portuguese).   \n - **Contextual information**: Context of the users visits, like date/time, client (mobile native app / browser) and geolocation.  \n - **Logged users**: All users are required to login in the platform, providing a long-term tracking of users preferences (not depending on cookies in devices).  \n - **Rich implicit feedback**: Different interaction types were logged, making it possible to infer the user's level of interest in the articles (eg. comments > likes > views).\n - **Multi-platform**: Users interactions were tracked in different platforms (web browsers and mobile native apps)\n\n**If you like it, please upvote!**\n\nTake a look in these featured Python kernels:  \n - [**Deskdrop datasets EDA**](https://www.kaggle.com/gspmoreira/deskdrop-datasets-eda): Exploratory analysis of the articles and interactions in the dataset   \n - [**DeskDrop Articles Topic Modeling**](https://www.kaggle.com/gspmoreira/deskdrop-articles-topic-modeling): A statistical analysis of the main articles topics using [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)   \n - [**Recommender Systems in Python 101**](https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101): A practical introduction of the main Recommender Systems approaches: Popularity model, Collaborative Filtering, Content-Based Filtering and Hybrid Filtering.   \n\n### Acknowledgements\n\nWe thank [CI&T](http://www.ciandt.com/) for the support and permission to share a sample of real usage data from its internal communication platform: [**Deskdrop**](https://deskdrop.co/).\n\n### Inspiration\nThe two main approaches for [Recommender Systems](https://en.wikipedia.org/wiki/Recommender_system) are Collaborative Filtering and Content-Based Filtering.  \n\nIn the RecSys community, there are some popular datasets available with users ratings on items (explicit feedback), like [MovieLens](http://www.recsyswiki.com/wiki/MovieLens) and [Netflix Prize](http://www.recsyswiki.com/wiki/Netflix_Prize), which are useful for Collaborative Filtering techniques.   \n\nTherefore, it is very difficult to find [open datasets](http://www.recsyswiki.com/wiki/Category:Dataset) with additional item attributes, which would allow the application of Content-Based filtering techniques or Hybrid approaches, specially in the domain of ephemeral textual items (eg. articles and news).  \n\nNews datasets are also reported in academic literature as very sparse, in the sense that, as users are usually not required to log in in news portals, IDs are based on device cookies, making it hard to track the users page visits in different portals, browsing sessions and devices.  \n\nThis difficult scenario for research and experiments on Content Recommender Systems was the main motivation for the sharing of this dataset.",
+  "datasetId": 2234,
+  "datasetSlug": "articles-sharing-reading-from-cit-deskdrop",
+  "hasDatasetSlug": true,
+  "ownerUser": "gspmoreira",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 74372,
+  "totalVotes": 186,
+  "totalDownloads": 23852,
+  "title": "Articles sharing and reading from CI&T DeskDrop",
+  "hasTitle": true,
+  "subtitle": "Logs of users interactions on shared articles for content Recommender Systems",
+  "hasSubtitle": true,
+  "description": "### Context\n\n[**Deskdrop**](https://deskdrop.co/) is an internal communications platform developed by [CI&T](http://www.ciandt.com/), focused in companies using Google G Suite. Among other features, this platform allows companies employees to share relevant articles with their peers, and collaborate around them.  \n\n### Content\n\nThis rich and rare dataset contains a real sample of **12 months logs** (Mar. 2016 - Feb. 2017) from CI&T's Internal Communication platform (DeskDrop).    \nI contains about **73k logged users interactions** on more than **3k public articles shared** in the platform.   \n\nThis dataset features some distinctive characteristics:\n\n - **Item attributes**: Articles' original URL, title, and content plain text are available in two languages (English and Portuguese).   \n - **Contextual information**: Context of the users visits, like date/time, client (mobile native app / browser) and geolocation.  \n - **Logged users**: All users are required to login in the platform, providing a long-term tracking of users preferences (not depending on cookies in devices).  \n - **Rich implicit feedback**: Different interaction types were logged, making it possible to infer the user's level of interest in the articles (eg. comments > likes > views).\n - **Multi-platform**: Users interactions were tracked in different platforms (web browsers and mobile native apps)\n\n**If you like it, please upvote!**\n\nTake a look in these featured Python kernels:  \n - [**Deskdrop datasets EDA**](https://www.kaggle.com/gspmoreira/deskdrop-datasets-eda): Exploratory analysis of the articles and interactions in the dataset   \n - [**DeskDrop Articles Topic Modeling**](https://www.kaggle.com/gspmoreira/deskdrop-articles-topic-modeling): A statistical analysis of the main articles topics using [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)   \n - [**Recommender Systems in Python 101**](https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101): A practical introduction of the main Recommender Systems approaches: Popularity model, Collaborative Filtering, Content-Based Filtering and Hybrid Filtering.   \n\n### Acknowledgements\n\nWe thank [CI&T](http://www.ciandt.com/) for the support and permission to share a sample of real usage data from its internal communication platform: [**Deskdrop**](https://deskdrop.co/).\n\n### Inspiration\nThe two main approaches for [Recommender Systems](https://en.wikipedia.org/wiki/Recommender_system) are Collaborative Filtering and Content-Based Filtering.  \n\nIn the RecSys community, there are some popular datasets available with users ratings on items (explicit feedback), like [MovieLens](http://www.recsyswiki.com/wiki/MovieLens) and [Netflix Prize](http://www.recsyswiki.com/wiki/Netflix_Prize), which are useful for Collaborative Filtering techniques.   \n\nTherefore, it is very difficult to find [open datasets](http://www.recsyswiki.com/wiki/Category:Dataset) with additional item attributes, which would allow the application of Content-Based filtering techniques or Hybrid approaches, specially in the domain of ephemeral textual items (eg. articles and news).  \n\nNews datasets are also reported in academic literature as very sparse, in the sense that, as users are usually not required to log in in news portals, IDs are based on device cookies, making it hard to track the users page visits in different portals, browsing sessions and devices.  \n\nThis difficult scenario for research and experiments on Content Recommender Systems was the main motivation for the sharing of this dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "computer science",
+    "internet",
+    "programming",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "datasciencedonut/lego-minifigures",
+  "id_no": 3521712,
+  "datasetSlugNullable": "lego-minifigures",
+  "ownerUserNullable": "datasciencedonut",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "LEGO Minifigures",
+  "subtitleNullable": "Dataset of LEGO minifigures of varying types.",
+  "descriptionNullable": "**Content**\nDataset contains pictures of varying LEGO minifigures against a black background.\n\nSeveral of the minifigures are pictured multiple times with different outfits, hairstyles, and helmets - making it easy to practice image classification and GAN generation with these images.\n\n| **Field** | **Description** |\n| --- | --- |\n| Image_Id | Filename. |\n| Human? | 1 - If the minifigure is humanoid, 0 - if not  |\n| Hair? | 1 - If the minifigure has hair, 0 - if not |\n| Hat? | 1 - If the minifigure has a hat on or is wearing a helmet that shows the face, 0 - if not |\n| Helmet? | 1 - If the minifigure has a full helmet that masks the face, 0 - if not |\n\n**Acknowledgements**\n\nInspired by [ihelon](https://www.kaggle.com/ihelon). Thank you to [LEGO](https://www.lego.com/en-us?gclid=CjwKCAjwh8mlBhB_EiwAsztdBApkYY2PXKt1Vpxivu3wlPMRVwaS-cQKdexk8SaTe65GSpV6IBuyTBoC3PUQAvD_BwE&ef_id=CjwKCAjwh8mlBhB_EiwAsztdBApkYY2PXKt1Vpxivu3wlPMRVwaS-cQKdexk8SaTe65GSpV6IBuyTBoC3PUQAvD_BwE:G:s&s_kwcid=AL!790!3!514294265894!e!!g!!lego!12741922966!127689513984&cmp=KAC-INI-GOOGUS-GO-US-EN-RE-PS-BUY-CREATE-MASTERBRAND-SHOP-BC-EX-RN-LEGO_CORE). \n\nBackground Images can be found on [Pexels.com](https://www.pexels.com/search/free%20no%20copyright/).",
+  "datasetId": 3521712,
+  "datasetSlug": "lego-minifigures",
+  "hasDatasetSlug": true,
+  "ownerUser": "datasciencedonut",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 789,
+  "totalVotes": 5,
+  "totalDownloads": 71,
+  "title": "LEGO Minifigures",
+  "hasTitle": true,
+  "subtitle": "Dataset of LEGO minifigures of varying types.",
+  "hasSubtitle": true,
+  "description": "**Content**\nDataset contains pictures of varying LEGO minifigures against a black background.\n\nSeveral of the minifigures are pictured multiple times with different outfits, hairstyles, and helmets - making it easy to practice image classification and GAN generation with these images.\n\n| **Field** | **Description** |\n| --- | --- |\n| Image_Id | Filename. |\n| Human? | 1 - If the minifigure is humanoid, 0 - if not  |\n| Hair? | 1 - If the minifigure has hair, 0 - if not |\n| Hat? | 1 - If the minifigure has a hat on or is wearing a helmet that shows the face, 0 - if not |\n| Helmet? | 1 - If the minifigure has a full helmet that masks the face, 0 - if not |\n\n**Acknowledgements**\n\nInspired by [ihelon](https://www.kaggle.com/ihelon). Thank you to [LEGO](https://www.lego.com/en-us?gclid=CjwKCAjwh8mlBhB_EiwAsztdBApkYY2PXKt1Vpxivu3wlPMRVwaS-cQKdexk8SaTe65GSpV6IBuyTBoC3PUQAvD_BwE&ef_id=CjwKCAjwh8mlBhB_EiwAsztdBApkYY2PXKt1Vpxivu3wlPMRVwaS-cQKdexk8SaTe65GSpV6IBuyTBoC3PUQAvD_BwE:G:s&s_kwcid=AL!790!3!514294265894!e!!g!!lego!12741922966!127689513984&cmp=KAC-INI-GOOGUS-GO-US-EN-RE-PS-BUY-CREATE-MASTERBRAND-SHOP-BC-EX-RN-LEGO_CORE). \n\nBackground Images can be found on [Pexels.com](https://www.pexels.com/search/free%20no%20copyright/).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "beginner",
+    "computer vision",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

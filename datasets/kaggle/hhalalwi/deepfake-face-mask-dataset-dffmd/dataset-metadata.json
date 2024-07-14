@@ -1,0 +1,43 @@
+{
+  "id": "hhalalwi/deepfake-face-mask-dataset-dffmd",
+  "id_no": 2666698,
+  "datasetSlugNullable": "deepfake-face-mask-dataset-dffmd",
+  "ownerUserNullable": "hhalalwi",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "DeepFake Face Mask Dataset (DFFMD)",
+  "subtitleNullable": "Detect REAL or FAKE face with a face mask",
+  "descriptionNullable": "Deepfake is a technology that creates fake images and videos that cannot easily be distinguished from fact. This helps in cinematography and hiding the identity of the witness. It can be used negatively to spread false and fake news in political campaigns, leading to major social problems. A face mask has become a necessity in daily life since the outbreak of the COVID-19 virus in 2020. Because people wear these masks that hide their faces, fake video clips can spread widely. This increases the need for deepfake detection under these circumstances. This dataset is the first dataset with a face mask in the field of DeepFake. You can use the dataset to predict whether the video of a person wearing a face mask is a deepfake or not.",
+  "datasetId": 2666698,
+  "datasetSlug": "deepfake-face-mask-dataset-dffmd",
+  "hasDatasetSlug": true,
+  "ownerUser": "hhalalwi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 1853,
+  "totalVotes": 3,
+  "totalDownloads": 188,
+  "title": "DeepFake Face Mask Dataset (DFFMD)",
+  "hasTitle": true,
+  "subtitle": "Detect REAL or FAKE face with a face mask",
+  "hasSubtitle": true,
+  "description": "Deepfake is a technology that creates fake images and videos that cannot easily be distinguished from fact. This helps in cinematography and hiding the identity of the witness. It can be used negatively to spread false and fake news in political campaigns, leading to major social problems. A face mask has become a necessity in daily life since the outbreak of the COVID-19 virus in 2020. Because people wear these masks that hide their faces, fake video clips can spread widely. This increases the need for deepfake detection under these circumstances. This dataset is the first dataset with a face mask in the field of DeepFake. You can use the dataset to predict whether the video of a person wearing a face mask is a deepfake or not.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "beginner",
+    "intermediate",
+    "advanced",
+    "deep learning"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

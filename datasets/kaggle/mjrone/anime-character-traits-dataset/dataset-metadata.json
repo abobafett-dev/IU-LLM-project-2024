@@ -1,0 +1,39 @@
+{
+  "id": "mjrone/anime-character-traits-dataset",
+  "id_no": 2901937,
+  "datasetSlugNullable": "anime-character-traits-dataset",
+  "ownerUserNullable": "mjrone",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Anime Character Traits Dataset",
+  "subtitleNullable": "Character Data of 120,000 characters from AnimeCharactersDatabase",
+  "descriptionNullable": "This is a dataset I scraped from the 'AnimeCharacterDatabase' website, a place where anime fans contribute data about characters in a large variety of shows. It contains data about the physical and temperamental qualities of many popular anime characters. The traits are stored in the 'tags' column, and can either be read in as a python list, or parsed using regular expressions to get individual traits. I should also mention the index, which is the popularity ranking of each character in the database, and can be used to rank popular traits or for other such uses.",
+  "datasetId": 2901937,
+  "datasetSlug": "anime-character-traits-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mjrone",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 3232,
+  "totalVotes": 16,
+  "totalDownloads": 290,
+  "title": "Anime Character Traits Dataset",
+  "hasTitle": true,
+  "subtitle": "Character Data of 120,000 characters from AnimeCharactersDatabase",
+  "hasSubtitle": true,
+  "description": "This is a dataset I scraped from the 'AnimeCharacterDatabase' website, a place where anime fans contribute data about characters in a large variety of shows. It contains data about the physical and temperamental qualities of many popular anime characters. The traits are stored in the 'tags' column, and can either be read in as a python list, or parsed using regular expressions to get individual traits. I should also mention the index, which is the popularity ranking of each character in the database, and can be used to rank popular traits or for other such uses.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

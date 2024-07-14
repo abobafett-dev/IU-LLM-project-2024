@@ -1,0 +1,40 @@
+{
+  "id": "fredkellner/onthesnow-ski-area-reviews",
+  "id_no": 1068450,
+  "datasetSlugNullable": "onthesnow-ski-area-reviews",
+  "ownerUserNullable": "fredkellner",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "OnTheSnow Ski Area Reviews",
+  "subtitleNullable": "Customer Reviews of US Ski Areas for NLP and other uses",
+  "descriptionNullable": "### Context\n\nI wanted to do explore some NLP using review/ratings information. Subsequently, I scrapped these data from the onthesnow.com website for ski area ratings and reviews for over 300 ski areas in the US. \n\n\n### Content\n\nThese file contains 6 attributes for each row and contains over 16k reviews.\nThe **State** column represents the State in which the ski area for which the review was provided is located. \nThe **Ski Area** column represents the name of the ski area for which a review was provided.\nThe **Reviewer Name** column represents the reviewer's name for the review provided in the event that they opted to provide a name\nThe **Review Date** column represents the date which the review was entered into the On The Snow website. \nThe **Review Star Rating (out of 5)** column represents the star rating out a possible 5 stars the reviewer left for their ski area review. \nThe **Review Text ** column represents the text of the review\n",
+  "datasetId": 1068450,
+  "datasetSlug": "onthesnow-ski-area-reviews",
+  "hasDatasetSlug": true,
+  "ownerUser": "fredkellner",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2115,
+  "totalVotes": 3,
+  "totalDownloads": 84,
+  "title": "OnTheSnow Ski Area Reviews",
+  "hasTitle": true,
+  "subtitle": "Customer Reviews of US Ski Areas for NLP and other uses",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI wanted to do explore some NLP using review/ratings information. Subsequently, I scrapped these data from the onthesnow.com website for ski area ratings and reviews for over 300 ski areas in the US. \n\n\n### Content\n\nThese file contains 6 attributes for each row and contains over 16k reviews.\nThe **State** column represents the State in which the ski area for which the review was provided is located. \nThe **Ski Area** column represents the name of the ski area for which a review was provided.\nThe **Reviewer Name** column represents the reviewer's name for the review provided in the event that they opted to provide a name\nThe **Review Date** column represents the date which the review was entered into the On The Snow website. \nThe **Review Star Rating (out of 5)** column represents the star rating out a possible 5 stars the reviewer left for their ski area review. \nThe **Review Text ** column represents the text of the review\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "ratings and reviews"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

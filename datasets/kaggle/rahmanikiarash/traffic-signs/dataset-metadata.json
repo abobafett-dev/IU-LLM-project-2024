@@ -1,0 +1,41 @@
+{
+  "id": "rahmanikiarash/traffic-signs",
+  "id_no": 3633904,
+  "datasetSlugNullable": "traffic-signs",
+  "ownerUserNullable": "rahmanikiarash",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "traffic signs",
+  "subtitleNullable": "1246 annotated images of traffic signs in 10 categories",
+  "descriptionNullable": "The dataset comprises a collection of 1246 images of traffic signs, carefully annotated to provide comprehensive information about each sign. These images serve as valuable visual representations of various traffic signs encountered in real-world scenarios, such as pedestrian crossings, speed limit, stop sign, and many others. Each image in the dataset is meticulously labeled with annotations, allowing easy identification and classification of the signs present within the image. This dataset serves as an invaluable resource for training and evaluating machine learning models and algorithms designed to detect and understand traffic signs accurately.\n\nlist of the signs:\n1.Stop\n2.No pedestrian crossing\n3.No parking\n4.Parking\n5.Give way\n6.One way\n7.No left turn\n8.Speed limit\n9.Bus lane\n10.Pedestrian crossing",
+  "datasetId": 3633904,
+  "datasetSlug": "traffic-signs",
+  "hasDatasetSlug": true,
+  "ownerUser": "rahmanikiarash",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 148,
+  "totalVotes": 0,
+  "totalDownloads": 25,
+  "title": "traffic signs",
+  "hasTitle": true,
+  "subtitle": "1246 annotated images of traffic signs in 10 categories",
+  "hasSubtitle": true,
+  "description": "The dataset comprises a collection of 1246 images of traffic signs, carefully annotated to provide comprehensive information about each sign. These images serve as valuable visual representations of various traffic signs encountered in real-world scenarios, such as pedestrian crossings, speed limit, stop sign, and many others. Each image in the dataset is meticulously labeled with annotations, allowing easy identification and classification of the signs present within the image. This dataset serves as an invaluable resource for training and evaluating machine learning models and algorithms designed to detect and understand traffic signs accurately.\n\nlist of the signs:\n1.Stop\n2.No pedestrian crossing\n3.No parking\n4.Parking\n5.Give way\n6.One way\n7.No left turn\n8.Speed limit\n9.Bus lane\n10.Pedestrian crossing",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "programming",
+    "yolov5",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "melikebektas/turkish-news-genre-datasets",
+  "id_no": 2230484,
+  "datasetSlugNullable": "turkish-news-genre-datasets",
+  "ownerUserNullable": "melikebektas",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "Turkish News Genre Datasets",
+  "subtitleNullable": "",
+  "descriptionNullable": "Turkish News Datasets for genre identification\n\nFor citation: \nT\u00dcFEKC\u0130, P., BEKTA\u015e, M. Author and genre identification of Turkish news texts using deep learning algorithms. S\u0101dhan\u0101 47, 194 (2022). https://doi.org/10.1007/s12046-022-01975-3",
+  "datasetId": 2230484,
+  "datasetSlug": "turkish-news-genre-datasets",
+  "hasDatasetSlug": true,
+  "ownerUser": "melikebektas",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 446,
+  "totalVotes": 2,
+  "totalDownloads": 28,
+  "title": "Turkish News Genre Datasets",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Turkish News Datasets for genre identification\n\nFor citation: \nT\u00dcFEKC\u0130, P., BEKTA\u015e, M. Author and genre identification of Turkish news texts using deep learning algorithms. S\u0101dhan\u0101 47, 194 (2022). https://doi.org/10.1007/s12046-022-01975-3",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "text",
+    "news",
+    "nltk"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

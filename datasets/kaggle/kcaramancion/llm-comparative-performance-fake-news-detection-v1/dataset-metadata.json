@@ -1,0 +1,37 @@
+{
+  "id": "kcaramancion/llm-comparative-performance-fake-news-detection-v1",
+  "id_no": 3417909,
+  "datasetSlugNullable": "llm-comparative-performance-fake-news-detection-v1",
+  "ownerUserNullable": "kcaramancion",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "LLM Comparative Performance Fake News Detection_v1",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset is the performance data of the paper \"News Verifiers Showdown: A Comparative Performance Evaluation of ChatGPT 3.5, ChatGPT 4.0, Bing AI, and Bard in News Fact-Checking\".\n\nIt includes:\nA. The questions injected to the LLMs for testing\nB. The answer-key (legitimacy) associated with each test item\nC. The individual response of each LLM per item ",
+  "datasetId": 3417909,
+  "datasetSlug": "llm-comparative-performance-fake-news-detection-v1",
+  "hasDatasetSlug": true,
+  "ownerUser": "kcaramancion",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 357,
+  "totalVotes": 1,
+  "totalDownloads": 44,
+  "title": "LLM Comparative Performance Fake News Detection_v1",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset is the performance data of the paper \"News Verifiers Showdown: A Comparative Performance Evaluation of ChatGPT 3.5, ChatGPT 4.0, Bing AI, and Bard in News Fact-Checking\".\n\nIt includes:\nA. The questions injected to the LLMs for testing\nB. The answer-key (legitimacy) associated with each test item\nC. The individual response of each LLM per item ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

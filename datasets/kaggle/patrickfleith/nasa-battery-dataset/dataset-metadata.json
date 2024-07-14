@@ -1,0 +1,41 @@
+{
+  "id": "patrickfleith/nasa-battery-dataset",
+  "id_no": 2553751,
+  "datasetSlugNullable": "nasa-battery-dataset",
+  "ownerUserNullable": "patrickfleith",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "NASA Battery Dataset ",
+  "subtitleNullable": "Can you predict the remaining useful life (RUL) of NASA batteries?",
+  "descriptionNullable": "A set of Li-ion batteries were run through different operational profiles (charge, discharge and impedance) at various temperatures. Impedance measurement was carried out through an electrochemical impedance spectroscopy (EIS) frequency. \n\nRepeated charge and discharge cycles result in accelerated aging of the batteries while impedance measurements provide insight into the internal battery parameters that change as aging progresses. The experiments were stopped when the batteries reached end-of-life (EOL) criteria. These datasets can be used for the prediction of both remaining charge (for a given discharge cycle) and remaining useful life (RUL). Data are in Batch of 6 experiments, data provided in .mat files with experiment details in associated READEME.txt - ",
+  "datasetId": 2553751,
+  "datasetSlug": "nasa-battery-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "patrickfleith",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 30953,
+  "totalVotes": 33,
+  "totalDownloads": 5086,
+  "title": "NASA Battery Dataset ",
+  "hasTitle": true,
+  "subtitle": "Can you predict the remaining useful life (RUL) of NASA batteries?",
+  "hasSubtitle": true,
+  "description": "A set of Li-ion batteries were run through different operational profiles (charge, discharge and impedance) at various temperatures. Impedance measurement was carried out through an electrochemical impedance spectroscopy (EIS) frequency. \n\nRepeated charge and discharge cycles result in accelerated aging of the batteries while impedance measurements provide insight into the internal battery parameters that change as aging progresses. The experiments were stopped when the batteries reached end-of-life (EOL) criteria. These datasets can be used for the prediction of both remaining charge (for a given discharge cycle) and remaining useful life (RUL). Data are in Batch of 6 experiments, data provided in .mat files with experiment details in associated READEME.txt - ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "electronics",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

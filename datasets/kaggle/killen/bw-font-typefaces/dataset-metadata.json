@@ -1,0 +1,40 @@
+{
+  "id": "killen/bw-font-typefaces",
+  "id_no": 480100,
+  "datasetSlugNullable": "bw-font-typefaces",
+  "ownerUserNullable": "killen",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Letters organized by typefaces",
+  "subtitleNullable": "Standard Windows fonts with each letters organized in classes by typeface ",
+  "descriptionNullable": "### Context\n\nI made this dataset for my project in the Multimedia systems course, for recognition of the font type.\n\n\n### Content\n\nIn the box:\nout folder: contains classes folders\nClasses folders: named after the font, contain both regular and italic/bold versions, note that condensed versions are separated.\nPictures: 224*224px, RGB, with the letter centered and about 100px high, picture names are the letters they represent.\n\n### Inspiration\n\nIs it possible to reliably identify fonts from screenshots? Would the straightfoward approach scale? Could there be a similarity measurement extracted from all this, to identify new fonts with just the similarity scores, without retraining?",
+  "datasetId": 480100,
+  "datasetSlug": "bw-font-typefaces",
+  "hasDatasetSlug": true,
+  "ownerUser": "killen",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 3483,
+  "totalVotes": 8,
+  "totalDownloads": 111,
+  "title": "Letters organized by typefaces",
+  "hasTitle": true,
+  "subtitle": "Standard Windows fonts with each letters organized in classes by typeface ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI made this dataset for my project in the Multimedia systems course, for recognition of the font type.\n\n\n### Content\n\nIn the box:\nout folder: contains classes folders\nClasses folders: named after the font, contain both regular and italic/bold versions, note that condensed versions are separated.\nPictures: 224*224px, RGB, with the letter centered and about 100px high, picture names are the letters they represent.\n\n### Inspiration\n\nIs it possible to reliably identify fonts from screenshots? Would the straightfoward approach scale? Could there be a similarity measurement extracted from all this, to identify new fonts with just the similarity scores, without retraining?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

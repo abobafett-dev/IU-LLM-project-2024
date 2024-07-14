@@ -1,0 +1,43 @@
+{
+  "id": "laavanya/stress-level-detection",
+  "id_no": 1934090,
+  "datasetSlugNullable": "stress-level-detection",
+  "ownerUserNullable": "laavanya",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Human Stress Detection",
+  "subtitleNullable": "Human stress level detection using physiological data",
+  "descriptionNullable": "\u201cHumidity \u2013 Temperature \u2013 Step count \u2013 Stress levels\u201d represents the titles for Stress-Lysis.csv file. \n\nBased on the human\u2019s physical activity, the stress levels of the human being are detected and analyzed here. A dataset of 2001 samples is provided for human body humidity, body temperature and the number of steps taken by the user. Three different classifications of stress are performed, low stress, normal stress, and high stress. More information on how this data is analyzed can be found at \u201cL. Rachakonda, S. P. Mohanty, E. Kougianos, and P. Sundaravadivel, \u201cStress-Lysis: A DNN-Integrated Edge Device for Stress Level Detection in the IoMT,\u201d IEEE Trans. Conum. Electron., vol. 65, no. 4, pp. 474\u2013483, 2019.\u201d \n\nIf you are using this dataset in your research, please cite the following: \n1.\tL. Rachakonda, S. P. Mohanty, E. Kougianos, and P. Sundaravadivel, \u201cStress-Lysis: A DNN-Integrated Edge Device for Stress Level Detection in the IoMT,\u201d IEEE Trans. Conum. Electron., vol. 65, no. 4, pp. 474\u2013483, 2019.\n2.\tL. Rachakonda, P. Sundaravadivel, S. P. Mohanty, E. Kougianos, and M. Ganapathiraju, \u201cA Smart Sensor in the IoMT for Stress Level Detection\u201d, in Proceedings of the 4th IEEE International Symposium on Smart Electronic Systems (iSES), 2018, pp. 141--145.\n\n",
+  "datasetId": 1934090,
+  "datasetSlug": "stress-level-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "laavanya",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 63389,
+  "totalVotes": 75,
+  "totalDownloads": 7620,
+  "title": "Human Stress Detection",
+  "hasTitle": true,
+  "subtitle": "Human stress level detection using physiological data",
+  "hasSubtitle": true,
+  "description": "\u201cHumidity \u2013 Temperature \u2013 Step count \u2013 Stress levels\u201d represents the titles for Stress-Lysis.csv file. \n\nBased on the human\u2019s physical activity, the stress levels of the human being are detected and analyzed here. A dataset of 2001 samples is provided for human body humidity, body temperature and the number of steps taken by the user. Three different classifications of stress are performed, low stress, normal stress, and high stress. More information on how this data is analyzed can be found at \u201cL. Rachakonda, S. P. Mohanty, E. Kougianos, and P. Sundaravadivel, \u201cStress-Lysis: A DNN-Integrated Edge Device for Stress Level Detection in the IoMT,\u201d IEEE Trans. Conum. Electron., vol. 65, no. 4, pp. 474\u2013483, 2019.\u201d \n\nIf you are using this dataset in your research, please cite the following: \n1.\tL. Rachakonda, S. P. Mohanty, E. Kougianos, and P. Sundaravadivel, \u201cStress-Lysis: A DNN-Integrated Edge Device for Stress Level Detection in the IoMT,\u201d IEEE Trans. Conum. Electron., vol. 65, no. 4, pp. 474\u2013483, 2019.\n2.\tL. Rachakonda, P. Sundaravadivel, S. P. Mohanty, E. Kougianos, and M. Ganapathiraju, \u201cA Smart Sensor in the IoMT for Stress Level Detection\u201d, in Proceedings of the 4th IEEE International Symposium on Smart Electronic Systems (iSES), 2018, pp. 141--145.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "classification",
+    "pca",
+    "dnn",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "andersward/10k-statement-data-for-us-biotech-companies",
+  "id_no": 1078156,
+  "datasetSlugNullable": "10k-statement-data-for-us-biotech-companies",
+  "ownerUserNullable": "andersward",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "10K Statement Data for US Biotech Companies",
+  "subtitleNullable": "Scraped from Finnhub's Financials as Reported endpoint",
+  "descriptionNullable": "### Context\n\n10K financial statements have information on them that can be distilled down to key-value pairs (Net Income: $10 (millions)). Finnhub API has a \"Financials as Reported\" endpoint that has parsed 10Ks for various companies and done just that. This dataset covers the years 2015 to 2019 (though 2020 is included it is rare) for Biotech companies that are publicly traded in the United States.\n\nThe columns are the key fields from the Finnhub API JSON response, and do not directly represent what was written on the 10K statement, but rather what the concept behind what was written.\n\n### Content\n\nEach row represents a 10K statement, or equivalently a unique company-year pair.\n\nThere are many null values to work through. Due to the random placement of the null values one could easily estimate many of the missing values based on the years before and after for the same company.\n\nColumn names are copied from what are referred to as 'concepts' in the JSON response. What it appears to be is that when parsing the 10K statements there were many slightly different phrasings of the same thing, and they have been umbrella'd under these 'concepts'\n\n#### [GitHub link to how I gathered the data](https://github.com/award96/10KFinancial_data_scraper)",
+  "datasetId": 1078156,
+  "datasetSlug": "10k-statement-data-for-us-biotech-companies",
+  "hasDatasetSlug": true,
+  "ownerUser": "andersward",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 2106,
+  "totalVotes": 5,
+  "totalDownloads": 141,
+  "title": "10K Statement Data for US Biotech Companies",
+  "hasTitle": true,
+  "subtitle": "Scraped from Finnhub's Financials as Reported endpoint",
+  "hasSubtitle": true,
+  "description": "### Context\n\n10K financial statements have information on them that can be distilled down to key-value pairs (Net Income: $10 (millions)). Finnhub API has a \"Financials as Reported\" endpoint that has parsed 10Ks for various companies and done just that. This dataset covers the years 2015 to 2019 (though 2020 is included it is rare) for Biotech companies that are publicly traded in the United States.\n\nThe columns are the key fields from the Finnhub API JSON response, and do not directly represent what was written on the 10K statement, but rather what the concept behind what was written.\n\n### Content\n\nEach row represents a 10K statement, or equivalently a unique company-year pair.\n\nThere are many null values to work through. Due to the random placement of the null values one could easily estimate many of the missing values based on the years before and after for the same company.\n\nColumn names are copied from what are referred to as 'concepts' in the JSON response. What it appears to be is that when parsing the 10K statements there were many slightly different phrasings of the same thing, and they have been umbrella'd under these 'concepts'\n\n#### [GitHub link to how I gathered the data](https://github.com/award96/10KFinancial_data_scraper)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "biotechnology",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

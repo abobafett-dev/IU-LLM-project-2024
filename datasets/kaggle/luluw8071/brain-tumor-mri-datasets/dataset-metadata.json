@@ -1,0 +1,44 @@
+{
+  "id": "luluw8071/brain-tumor-mri-datasets",
+  "id_no": 4549716,
+  "datasetSlugNullable": "brain-tumor-mri-datasets",
+  "ownerUserNullable": "luluw8071",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "Brain_Tumor_MRI_Datasets",
+  "subtitleNullable": "Curated Brain MRI Dataset for Tumor Detection",
+  "descriptionNullable": "## Abstract:\n\nThis dataset comprises a curated collection of **brain MRI** scans, specifically selected to facilitate research in automated brain tumor detection and classification. With a focus on improving diagnostic accuracy, the dataset includes a randomized subset of 20% of the original data, categorized into 'yes' and 'no' tumor classes for both **training (80%)** and **testing (20%)** purposes.\n\nBrain tumors represent a significant health concern globally, necessitating precise diagnostic tools for timely intervention. **Magnetic Resonance Imaging (MRI)** serves as a cornerstone in brain tumor detection, generating vast amounts of image data crucial for accurate diagnosis. However, manual interpretation by radiologists is prone to errors due to the intricate nature of tumor characteristics.\n\nTo address this challenge, the dataset offers a foundation for the development and evaluation of automated classification techniques using **Machine Learning (ML)** and **Artificial Intelligence (AI)**. Leveraging state-of-the-art algorithms such as **Convolutional Neural Networks (CNNs)** and **Transfer Learning (TL)**, researchers can explore innovative approaches to streamline the diagnostic process and improve patient outcomes.\n\nBy providing access to this curated dataset, the aim is to foster collaboration and innovation in the field of medical imaging, ultimately advancing the development of more efficient and accurate brain tumor detection systems.",
+  "datasetId": 4549716,
+  "datasetSlug": "brain-tumor-mri-datasets",
+  "hasDatasetSlug": true,
+  "ownerUser": "luluw8071",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 2655,
+  "totalVotes": 9,
+  "totalDownloads": 281,
+  "title": "Brain_Tumor_MRI_Datasets",
+  "hasTitle": true,
+  "subtitle": "Curated Brain MRI Dataset for Tumor Detection",
+  "hasSubtitle": true,
+  "description": "## Abstract:\n\nThis dataset comprises a curated collection of **brain MRI** scans, specifically selected to facilitate research in automated brain tumor detection and classification. With a focus on improving diagnostic accuracy, the dataset includes a randomized subset of 20% of the original data, categorized into 'yes' and 'no' tumor classes for both **training (80%)** and **testing (20%)** purposes.\n\nBrain tumors represent a significant health concern globally, necessitating precise diagnostic tools for timely intervention. **Magnetic Resonance Imaging (MRI)** serves as a cornerstone in brain tumor detection, generating vast amounts of image data crucial for accurate diagnosis. However, manual interpretation by radiologists is prone to errors due to the intricate nature of tumor characteristics.\n\nTo address this challenge, the dataset offers a foundation for the development and evaluation of automated classification techniques using **Machine Learning (ML)** and **Artificial Intelligence (AI)**. Leveraging state-of-the-art algorithms such as **Convolutional Neural Networks (CNNs)** and **Transfer Learning (TL)**, researchers can explore innovative approaches to streamline the diagnostic process and improve patient outcomes.\n\nBy providing access to this curated dataset, the aim is to foster collaboration and innovation in the field of medical imaging, ultimately advancing the development of more efficient and accurate brain tumor detection systems.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "intermediate",
+    "computer vision",
+    "deep learning",
+    "binary classification",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

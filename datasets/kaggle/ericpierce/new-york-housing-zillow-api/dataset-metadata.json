@@ -1,0 +1,42 @@
+{
+  "id": "ericpierce/new-york-housing-zillow-api",
+  "id_no": 1111605,
+  "datasetSlugNullable": "new-york-housing-zillow-api",
+  "ownerUserNullable": "ericpierce",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "New York Housing - Zillow API",
+  "subtitleNullable": "75,629 Housing Records collected on 1/20/2021",
+  "descriptionNullable": "### Context\n\nHousing in New York during COVID! What an interesting dataset to tackle! \n\nWARNING: This data is \"raw\" but contains some highly interesting and predictive information, so long as you're able to extract it.\n\n### Content\n\nThis data was collected on 1/20/21 and consists of 75,629 housing listings on Zillow.com using Zillow's API. \n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nThis dataset includes a variety of datapoints for use in regression, predictive modeling, NLP (home description), Computer Vision (housing image links)",
+  "datasetId": 1111605,
+  "datasetSlug": "new-york-housing-zillow-api",
+  "hasDatasetSlug": true,
+  "ownerUser": "ericpierce",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 5141,
+  "totalVotes": 18,
+  "totalDownloads": 473,
+  "title": "New York Housing - Zillow API",
+  "hasTitle": true,
+  "subtitle": "75,629 Housing Records collected on 1/20/2021",
+  "hasSubtitle": true,
+  "description": "### Context\n\nHousing in New York during COVID! What an interesting dataset to tackle! \n\nWARNING: This data is \"raw\" but contains some highly interesting and predictive information, so long as you're able to extract it.\n\n### Content\n\nThis data was collected on 1/20/21 and consists of 75,629 housing listings on Zillow.com using Zillow's API. \n\n\n### Acknowledgements\n\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n\n### Inspiration\n\nThis dataset includes a variety of datapoints for use in regression, predictive modeling, NLP (home description), Computer Vision (housing image links)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "housing",
+    "real estate",
+    "data cleaning",
+    "random forest"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

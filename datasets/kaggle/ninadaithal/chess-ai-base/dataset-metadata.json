@@ -1,0 +1,41 @@
+{
+  "id": "ninadaithal/chess-ai-base",
+  "id_no": 3561103,
+  "datasetSlugNullable": "chess-ai-base",
+  "ownerUserNullable": "ninadaithal",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Chess pieces detection",
+  "subtitleNullable": "Predict the chess piece at the centre of the board",
+  "descriptionNullable": "# Chess Piece Classification Dataset\n\nIn this dataset, the goal is to create a model capable of classifying chess pieces located at the center of the chessboard from images. The dataset is organized as follows:\n\n## Directory Structure\n\nThe main directory, named \"ChessAI,\" contains 12 subdirectories. Each subdirectory corresponds to a specific type of chess piece, represented by its Unicode chess piece symbol (\u265f\ufe0f). Inside each subdirectory, there are 6 to 9 images of chessboards, each capturing a different configuration of the chess piece in question.\n\nThe subdirectories are as follows:\n\n- `b_bishop`: Black Bishop\n- `b_king`: Black King\n- `b_knight`: Black Knight\n- `b_pawn`: Black Pawn\n- `b_queen`: Black Queen\n- `b_rook`: Black Rook\n- `w_bishop`: White Bishop\n- `w_king`: White King\n- `w_knight`: White Knight\n- `w_pawn`: White Pawn\n- `w_queen`: White Queen\n- `w_rook`: White Rook\n\n## Dataset Overview\n\nThe dataset contains images taken from a consistent position, height, and angle, ensuring uniformity in terms of viewing perspective. The focus of the images is on the central 4 chess squares, where a chess piece is positioned. The images are captured in such a way that the central 4 squares are clearly visible.\n\n## Data Labeling\n\nThe labeling of the data is determined by the name of the subdirectories. Each subdirectory name corresponds to a specific chess piece category, and this name serves as the label for the images contained within that subdirectory. The labels are based on the Unicode symbols of the chess pieces.\n\n## Task\n\nThe objective of this dataset is to develop a machine learning model that can accurately classify the chess piece located at the center of the chessboard in the given images. This is a multiclass classification task, where the model should predict one of the 12 possible chess piece classes based on the input image.\n\nThe dataset's uniformity in image capture and labeling, along with the consistent focus on the central chess squares, aims to enable the creation of a reliable classification model for identifying chess pieces in standard configurations.",
+  "datasetId": 3561103,
+  "datasetSlug": "chess-ai-base",
+  "hasDatasetSlug": true,
+  "ownerUser": "ninadaithal",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 424,
+  "totalVotes": 4,
+  "totalDownloads": 40,
+  "title": "Chess pieces detection",
+  "hasTitle": true,
+  "subtitle": "Predict the chess piece at the centre of the board",
+  "hasSubtitle": true,
+  "description": "# Chess Piece Classification Dataset\n\nIn this dataset, the goal is to create a model capable of classifying chess pieces located at the center of the chessboard from images. The dataset is organized as follows:\n\n## Directory Structure\n\nThe main directory, named \"ChessAI,\" contains 12 subdirectories. Each subdirectory corresponds to a specific type of chess piece, represented by its Unicode chess piece symbol (\u265f\ufe0f). Inside each subdirectory, there are 6 to 9 images of chessboards, each capturing a different configuration of the chess piece in question.\n\nThe subdirectories are as follows:\n\n- `b_bishop`: Black Bishop\n- `b_king`: Black King\n- `b_knight`: Black Knight\n- `b_pawn`: Black Pawn\n- `b_queen`: Black Queen\n- `b_rook`: Black Rook\n- `w_bishop`: White Bishop\n- `w_king`: White King\n- `w_knight`: White Knight\n- `w_pawn`: White Pawn\n- `w_queen`: White Queen\n- `w_rook`: White Rook\n\n## Dataset Overview\n\nThe dataset contains images taken from a consistent position, height, and angle, ensuring uniformity in terms of viewing perspective. The focus of the images is on the central 4 chess squares, where a chess piece is positioned. The images are captured in such a way that the central 4 squares are clearly visible.\n\n## Data Labeling\n\nThe labeling of the data is determined by the name of the subdirectories. Each subdirectory name corresponds to a specific chess piece category, and this name serves as the label for the images contained within that subdirectory. The labels are based on the Unicode symbols of the chess pieces.\n\n## Task\n\nThe objective of this dataset is to develop a machine learning model that can accurately classify the chess piece located at the center of the chessboard in the given images. This is a multiclass classification task, where the model should predict one of the 12 possible chess piece classes based on the input image.\n\nThe dataset's uniformity in image capture and labeling, along with the consistent focus on the central chess squares, aims to enable the creation of a reliable classification model for identifying chess pieces in standard configurations.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

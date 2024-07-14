@@ -1,0 +1,44 @@
+{
+  "id": "cankatsrc/invoices",
+  "id_no": 1871450,
+  "datasetSlugNullable": "invoices",
+  "ownerUserNullable": "cankatsrc",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Invoices Dataset",
+  "subtitleNullable": "Invoices datasets contains randomly generate data using Faker package in Python",
+  "descriptionNullable": "The invoice dataset provided is a mock dataset generated using the Python Faker library. It has been designed to mimic the format of data collected from an online store. The dataset contains various fields, including first name, last name, email, product ID, quantity, amount, invoice date, address, city, and stock code. All of the data in the dataset is randomly generated and does not represent actual individuals or products. The dataset can be used for various purposes, including testing algorithms or models related to invoice management, e-commerce, or customer behavior analysis. The data in this dataset can be used to identify trends, patterns, or anomalies in online shopping behavior, which can help businesses to optimize their online sales strategies.\n\n\n\n",
+  "datasetId": 1871450,
+  "datasetSlug": "invoices",
+  "hasDatasetSlug": true,
+  "ownerUser": "cankatsrc",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 12268,
+  "totalVotes": 21,
+  "totalDownloads": 1447,
+  "title": "Invoices Dataset",
+  "hasTitle": true,
+  "subtitle": "Invoices datasets contains randomly generate data using Faker package in Python",
+  "hasSubtitle": true,
+  "description": "The invoice dataset provided is a mock dataset generated using the Python Faker library. It has been designed to mimic the format of data collected from an online store. The dataset contains various fields, including first name, last name, email, product ID, quantity, amount, invoice date, address, city, and stock code. All of the data in the dataset is randomly generated and does not represent actual individuals or products. The dataset can be used for various purposes, including testing algorithms or models related to invoice management, e-commerce, or customer behavior analysis. The data in this dataset can be used to identify trends, patterns, or anomalies in online shopping behavior, which can help businesses to optimize their online sales strategies.\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "exploratory data analysis",
+    "data cleaning",
+    "data visualization",
+    "data analytics",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

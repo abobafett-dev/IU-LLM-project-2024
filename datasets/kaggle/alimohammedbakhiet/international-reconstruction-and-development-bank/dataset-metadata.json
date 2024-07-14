@@ -1,0 +1,42 @@
+{
+  "id": "alimohammedbakhiet/international-reconstruction-and-development-bank",
+  "id_no": 1563448,
+  "datasetSlugNullable": "international-reconstruction-and-development-bank",
+  "ownerUserNullable": "alimohammedbakhiet",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "International Reconstruction and Development Bank ",
+  "subtitleNullable": "International Bank for Reconstruction and Development loans",
+  "descriptionNullable": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains historical snapshots of the Statement of Loans including the latest available snapshots. The World Bank complies with all sanctions applicable to World Bank transactions.\n\n**Description of columns**\n\n| End of Period | End of Period Date represents the date as of which balances are shown in the report. |\n| --- | --- |\n|  Loan Number  | For IBRD loans and IDA credits or grants a loan number consists of the organization prefix (IBRD/IDA) and a five-character label that uniquely identifies the loan within the organization. In IDA, all grant labels start with the letter \u2018H\u2019. |\n| --- | --- |\n| Region |Country lending is grouped into regions based on the current World Bank administrative (rather than geographic) region where project implementation takes place. The Other Region is used for loans to the IFC. |\n| --- | --- |\n|  Country Code  | Country Code according to the World Bank country list. Might be different from the ISO country code.  |\n| --- | --- |\n|  Country| Country to which loan has been issued. Loans to the IFC are included under the country \u201cWorld\u201d. |\n| --- | --- |\n| Borrower | The representative of the borrower to which the Bank loan is made. |\n| --- | --- |\n| Guarantor Country Code | Country Code of the Guarantor according to the World Bank country list. Might be different from the ISO country code. |\n| --- | --- |\n| Guarantor | The Guarantor guarantees repayment to the Bank if the borrower does not repay. |\n| --- | --- |\n| Loan Type | A type of loan/loan instrument for which distinctive accounting and/or other actions need to be performed. See Data Dictionary attached in the About section or Data Dictionary dataset available from the list of all datasets for details. |\n| --- | --- |\n| Loan Status | Status of the loan. See Data Dictionary attached in the About section or Data Dictionary dataset available from the list of all datasets for status descriptions. |\n| --- | --- |\n\n**The rest of the description can be found in this link**\n\n[her](https://finances.worldbank.org/Loans-and-Credits/IBRD-Statement-Of-Loans-Historical-Data/zucq-nrc3)",
+  "datasetId": 1563448,
+  "datasetSlug": "international-reconstruction-and-development-bank",
+  "hasDatasetSlug": true,
+  "ownerUser": "alimohammedbakhiet",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 3181,
+  "totalVotes": 11,
+  "totalDownloads": 116,
+  "title": "International Reconstruction and Development Bank ",
+  "hasTitle": true,
+  "subtitle": "International Bank for Reconstruction and Development loans",
+  "hasSubtitle": true,
+  "description": "The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains historical snapshots of the Statement of Loans including the latest available snapshots. The World Bank complies with all sanctions applicable to World Bank transactions.\n\n**Description of columns**\n\n| End of Period | End of Period Date represents the date as of which balances are shown in the report. |\n| --- | --- |\n|  Loan Number  | For IBRD loans and IDA credits or grants a loan number consists of the organization prefix (IBRD/IDA) and a five-character label that uniquely identifies the loan within the organization. In IDA, all grant labels start with the letter \u2018H\u2019. |\n| --- | --- |\n| Region |Country lending is grouped into regions based on the current World Bank administrative (rather than geographic) region where project implementation takes place. The Other Region is used for loans to the IFC. |\n| --- | --- |\n|  Country Code  | Country Code according to the World Bank country list. Might be different from the ISO country code.  |\n| --- | --- |\n|  Country| Country to which loan has been issued. Loans to the IFC are included under the country \u201cWorld\u201d. |\n| --- | --- |\n| Borrower | The representative of the borrower to which the Bank loan is made. |\n| --- | --- |\n| Guarantor Country Code | Country Code of the Guarantor according to the World Bank country list. Might be different from the ISO country code. |\n| --- | --- |\n| Guarantor | The Guarantor guarantees repayment to the Bank if the borrower does not repay. |\n| --- | --- |\n| Loan Type | A type of loan/loan instrument for which distinctive accounting and/or other actions need to be performed. See Data Dictionary attached in the About section or Data Dictionary dataset available from the list of all datasets for details. |\n| --- | --- |\n| Loan Status | Status of the loan. See Data Dictionary attached in the About section or Data Dictionary dataset available from the list of all datasets for status descriptions. |\n| --- | --- |\n\n**The rest of the description can be found in this link**\n\n[her](https://finances.worldbank.org/Loans-and-Credits/IBRD-Statement-Of-Loans-Historical-Data/zucq-nrc3)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "banking",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

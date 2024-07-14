@@ -1,0 +1,43 @@
+{
+  "id": "avdhesh15/advertising-dataset",
+  "id_no": 3968235,
+  "datasetSlugNullable": "advertising-dataset",
+  "ownerUserNullable": "avdhesh15",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Advertising Dataset",
+  "subtitleNullable": "The dataset given here contains the data about the sales of different products.",
+  "descriptionNullable": "The dataset given here contains the data about the sales of the product. The dataset is about the advertising cost incurred by the business on various advertising platforms. Below is the description of all the columns in the dataset:\n\n1. **TV**: Advertising cost spent in dollars for advertising on TV\n2. **Radio**: Advertising cost spent in dollars for advertising on Radio\n3. **Newspaper**: Advertising cost spent in dollars for advertising on Newspaper\n4. **Sales**: Number of units sold\n\nSo, in the above dataset, the sales of the product depend on the advertisement cost of the product. I hope you now have understood everything about this dataset.",
+  "datasetId": 3968235,
+  "datasetSlug": "advertising-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "avdhesh15",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 213,
+  "totalVotes": 1,
+  "totalDownloads": 25,
+  "title": "Advertising Dataset",
+  "hasTitle": true,
+  "subtitle": "The dataset given here contains the data about the sales of different products.",
+  "hasSubtitle": true,
+  "description": "The dataset given here contains the data about the sales of the product. The dataset is about the advertising cost incurred by the business on various advertising platforms. Below is the description of all the columns in the dataset:\n\n1. **TV**: Advertising cost spent in dollars for advertising on TV\n2. **Radio**: Advertising cost spent in dollars for advertising on Radio\n3. **Newspaper**: Advertising cost spent in dollars for advertising on Newspaper\n4. **Sales**: Number of units sold\n\nSo, in the above dataset, the sales of the product depend on the advertisement cost of the product. I hope you now have understood everything about this dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "data visualization",
+    "regression",
+    "matplotlib",
+    "plotly",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

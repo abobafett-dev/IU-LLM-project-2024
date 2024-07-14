@@ -1,0 +1,43 @@
+{
+  "id": "sumandey/national-stock-exchange-banking-sectors",
+  "id_no": 1374851,
+  "datasetSlugNullable": "national-stock-exchange-banking-sectors",
+  "ownerUserNullable": "sumandey",
+  "usabilityRatingNullable": 0.9705882352941176,
+  "titleNullable": "National Stock Exchange Dataset - Banking Sectors",
+  "subtitleNullable": "5 years of National Stock Price data (January 2016 to May 2021) of several banks ",
+  "descriptionNullable": "### Context\n\nThe dataset is for educational purposes only. It is fetched to measure how the stock market is doing in India.\n\n### Content\n\nIt has 5 years of stock data fetched from the National Stock Exchange.\n\n\n### Inspiration\n\nTraders or Stock market analysts are welcomed to present some cool analysis on this time series data.",
+  "datasetId": 1374851,
+  "datasetSlug": "national-stock-exchange-banking-sectors",
+  "hasDatasetSlug": true,
+  "ownerUser": "sumandey",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9705882352941176,
+  "hasUsabilityRating": true,
+  "totalViews": 10723,
+  "totalVotes": 38,
+  "totalDownloads": 1873,
+  "title": "National Stock Exchange Dataset - Banking Sectors",
+  "hasTitle": true,
+  "subtitle": "5 years of National Stock Price data (January 2016 to May 2021) of several banks ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe dataset is for educational purposes only. It is fetched to measure how the stock market is doing in India.\n\n### Content\n\nIt has 5 years of stock data fetched from the National Stock Exchange.\n\n\n### Inspiration\n\nTraders or Stock market analysts are welcomed to present some cool analysis on this time series data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "time series analysis",
+    "investing",
+    "pandas",
+    "python"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

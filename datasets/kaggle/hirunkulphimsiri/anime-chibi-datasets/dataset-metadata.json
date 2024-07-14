@@ -1,0 +1,41 @@
+{
+  "id": "hirunkulphimsiri/anime-chibi-datasets",
+  "id_no": 2432900,
+  "datasetSlugNullable": "anime-chibi-datasets",
+  "ownerUserNullable": "hirunkulphimsiri",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Anime Chibi Datasets",
+  "subtitleNullable": "Anime Chibi Characters Datasets : Scraped From https://safebooru.org/",
+  "descriptionNullable": "Anime Chibi Characters Datasets : Scraped From https://safebooru.org/\nScraped with tags \"chibi standing white_background solo -translation_request -text\"\naims to be used in gans to generate Chibi characters",
+  "datasetId": 2432900,
+  "datasetSlug": "anime-chibi-datasets",
+  "hasDatasetSlug": true,
+  "ownerUser": "hirunkulphimsiri",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 1027,
+  "totalVotes": 11,
+  "totalDownloads": 75,
+  "title": "Anime Chibi Datasets",
+  "hasTitle": true,
+  "subtitle": "Anime Chibi Characters Datasets : Scraped From https://safebooru.org/",
+  "hasSubtitle": true,
+  "description": "Anime Chibi Characters Datasets : Scraped From https://safebooru.org/\nScraped with tags \"chibi standing white_background solo -translation_request -text\"\naims to be used in gans to generate Chibi characters",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "gan",
+    "image",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "trainingdatapro/medical-staff-people-tracking",
+  "id_no": 3768105,
+  "datasetSlugNullable": "medical-staff-people-tracking",
+  "ownerUserNullable": "trainingdatapro",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Medical Staff People Tracking",
+  "subtitleNullable": "Overhead Video Frames with Medical Staff Tracking - Object Detection dataset",
+  "descriptionNullable": "# Medical Staff People Tracking - Object Detection dataset\n\nThe dataset contains a collection of frames extracted from videos captured within a **hospital environment**. The **bounding boxes** are drawn around the **doctors, nurses, and other people** who appear in the video footage. \n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/object-tracking?utm_source=kaggle&utm_medium=cpc&utm_campaign=medical-staff-people-tracking)** to buy the dataset\n\nThe dataset can be used for **computer vision in healthcare settings** and *the development of systems that monitor medical staff activities, patient flow, analyze wait times, and assess the efficiency of hospital processes*.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F923816c1040f503bbe0cb20c8d1f2446%2Fezgif.com-optimize.gif?generation=1695376624951041&alt=media)\n\n# Dataset structure\nThe dataset consists of 2 folders with frames from the video from a hospital. \nEach folder includes:\n- **images**: folder with original frames from the video,\n- **boxes**: visualized data labeling for the images in the previous folder,\n- **.csv file**: file with id and path of each frame in the \"images\" folder,\n- **annotations.xml**: contains coordinates of the bounding boxes, created for the original frames\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/object-tracking?utm_source=kaggle&utm_medium=cpc&utm_campaign=medical-staff-people-tracking)** to discuss your requirements, learn about the price and buy the dataset\n\n# Data Format\n\nEach frame from `images` folder is accompanied by an XML-annotation in the `annotations.xml` file indicating the coordinates of the bounding boxes for people tracking. For each point, the x and y coordinates are provided.\n\n### Classes:\n- **doctor** - doctor in the frame\n- **nurse** - nurse in the frame\n- **others** - other people (not medical staff)\n\n# Example of the XML-file \n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F778b3f19625b76cdc5454d58258fa0aa%2Fcarbon%20(1).png?generation=1695995011699193&alt=media)\n\n# Object tracking might be made in accordance with your requirements.\n\n# **[TrainingData](https://trainingdata.pro/datasets/object-tracking?utm_source=kaggle&utm_medium=cpc&utm_campaign=medical-staff-people-tracking)** provides high-quality data annotation tailored to your needs\n\n*keywords: human detection dataset, object detection dataset, people tracking dataset, tracking human object interactions, human Identification tracking dataset, people detection annotations, human trafficking dataset, deep learning object tracking, multi-object tracking dataset, labeled web tracking dataset, large-scale object tracking dataset, image dataset, classification, object detection, medical data, doctors, nurses*",
+  "datasetId": 3768105,
+  "datasetSlug": "medical-staff-people-tracking",
+  "hasDatasetSlug": true,
+  "ownerUser": "trainingdatapro",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 4297,
+  "totalVotes": 34,
+  "totalDownloads": 345,
+  "title": "Medical Staff People Tracking",
+  "hasTitle": true,
+  "subtitle": "Overhead Video Frames with Medical Staff Tracking - Object Detection dataset",
+  "hasSubtitle": true,
+  "description": "# Medical Staff People Tracking - Object Detection dataset\n\nThe dataset contains a collection of frames extracted from videos captured within a **hospital environment**. The **bounding boxes** are drawn around the **doctors, nurses, and other people** who appear in the video footage. \n\n# \ud83d\udcb4 For Commercial Usage: To discuss your requirements, learn about the price and buy the dataset, leave a request on **[TrainingData](https://trainingdata.pro/datasets/object-tracking?utm_source=kaggle&utm_medium=cpc&utm_campaign=medical-staff-people-tracking)** to buy the dataset\n\nThe dataset can be used for **computer vision in healthcare settings** and *the development of systems that monitor medical staff activities, patient flow, analyze wait times, and assess the efficiency of hospital processes*.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F923816c1040f503bbe0cb20c8d1f2446%2Fezgif.com-optimize.gif?generation=1695376624951041&alt=media)\n\n# Dataset structure\nThe dataset consists of 2 folders with frames from the video from a hospital. \nEach folder includes:\n- **images**: folder with original frames from the video,\n- **boxes**: visualized data labeling for the images in the previous folder,\n- **.csv file**: file with id and path of each frame in the \"images\" folder,\n- **annotations.xml**: contains coordinates of the bounding boxes, created for the original frames\n\n# \ud83d\udcb4 Buy the Dataset: This is just an example of the data. Leave a request on **[https://trainingdata.pro/datasets](https://trainingdata.pro/datasets/object-tracking?utm_source=kaggle&utm_medium=cpc&utm_campaign=medical-staff-people-tracking)** to discuss your requirements, learn about the price and buy the dataset\n\n# Data Format\n\nEach frame from `images` folder is accompanied by an XML-annotation in the `annotations.xml` file indicating the coordinates of the bounding boxes for people tracking. For each point, the x and y coordinates are provided.\n\n### Classes:\n- **doctor** - doctor in the frame\n- **nurse** - nurse in the frame\n- **others** - other people (not medical staff)\n\n# Example of the XML-file \n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F778b3f19625b76cdc5454d58258fa0aa%2Fcarbon%20(1).png?generation=1695995011699193&alt=media)\n\n# Object tracking might be made in accordance with your requirements.\n\n# **[TrainingData](https://trainingdata.pro/datasets/object-tracking?utm_source=kaggle&utm_medium=cpc&utm_campaign=medical-staff-people-tracking)** provides high-quality data annotation tailored to your needs\n\n*keywords: human detection dataset, object detection dataset, people tracking dataset, tracking human object interactions, human Identification tracking dataset, people detection annotations, human trafficking dataset, deep learning object tracking, multi-object tracking dataset, labeled web tracking dataset, large-scale object tracking dataset, image dataset, classification, object detection, medical data, doctors, nurses*",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "health",
+    "software",
+    "computer vision",
+    "image",
+    "object detection"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

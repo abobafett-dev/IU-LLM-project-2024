@@ -1,0 +1,40 @@
+{
+  "id": "tajuddinkh/drugs-prescriptions-with-providers",
+  "id_no": 340221,
+  "datasetSlugNullable": "drugs-prescriptions-with-providers",
+  "ownerUserNullable": "tajuddinkh",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "drugs prescriptions with providers profile",
+  "subtitleNullable": "Drugs recommendation along with others",
+  "descriptionNullable": "### Context\n\nI want to help medical practitioners to prescribe recommended drugs based on their practicing specialty, years of practicing and previous suggested drugs in prescriptions by other providers or practitioners.\n\nThe data is created pre-processed data used by [This Kernel](https://www.kaggle.com/llefebure/predicting-specialty-with-prescribing-behavior) where the source was in json format\n\n\n### Content\n\nYou will find specialty is a doctor's or medical practitioners expertise and \"years of practice\" is the practice duration. each row is a provider's prescription where the drugs are suggested along with others relatively \n\n\n### Acknowledgements\n\nIf you find any wrong with data please keep your comments here\n\n\n### Inspiration\n\nI want to make a remarkable brain that will suggest drugs",
+  "datasetId": 340221,
+  "datasetSlug": "drugs-prescriptions-with-providers",
+  "hasDatasetSlug": true,
+  "ownerUser": "tajuddinkh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 10703,
+  "totalVotes": 24,
+  "totalDownloads": 954,
+  "title": "drugs prescriptions with providers profile",
+  "hasTitle": true,
+  "subtitle": "Drugs recommendation along with others",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI want to help medical practitioners to prescribe recommended drugs based on their practicing specialty, years of practicing and previous suggested drugs in prescriptions by other providers or practitioners.\n\nThe data is created pre-processed data used by [This Kernel](https://www.kaggle.com/llefebure/predicting-specialty-with-prescribing-behavior) where the source was in json format\n\n\n### Content\n\nYou will find specialty is a doctor's or medical practitioners expertise and \"years of practice\" is the practice duration. each row is a provider's prescription where the drugs are suggested along with others relatively \n\n\n### Acknowledgements\n\nIf you find any wrong with data please keep your comments here\n\n\n### Inspiration\n\nI want to make a remarkable brain that will suggest drugs",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "medicine",
+    "drugs and medications"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

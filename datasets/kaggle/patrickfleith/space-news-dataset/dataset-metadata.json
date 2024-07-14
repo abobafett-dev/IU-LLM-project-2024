@@ -1,0 +1,43 @@
+{
+  "id": "patrickfleith/space-news-dataset",
+  "id_no": 2236729,
+  "datasetSlugNullable": "space-news-dataset",
+  "ownerUserNullable": "patrickfleith",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Space News Dataset",
+  "subtitleNullable": "More than 20,700 english news articles related to the space industry",
+  "descriptionNullable": "*Latest Dataset Update: May 2024*\n\nThis dataset contains the title, url, text content, author, publish data, and of more than 20,000 english news articles related to the space industry, a total of more than 14 million tokens (words) which makes it perfect to train language models specific to the space industry ecosystem. It covers agency news, commercial, civil, launches, military, and also opinion articles.\n\nCredits goes to the original authors of each articles. For any citation, use https://spacenews.com/",
+  "datasetId": 2236729,
+  "datasetSlug": "space-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "patrickfleith",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6636,
+  "totalVotes": 38,
+  "totalDownloads": 805,
+  "title": "Space News Dataset",
+  "hasTitle": true,
+  "subtitle": "More than 20,700 english news articles related to the space industry",
+  "hasSubtitle": true,
+  "description": "*Latest Dataset Update: May 2024*\n\nThis dataset contains the title, url, text content, author, publish data, and of more than 20,000 english news articles related to the space industry, a total of more than 14 million tokens (words) which makes it perfect to train language models specific to the space industry ecosystem. It covers agency news, commercial, civil, launches, military, and also opinion articles.\n\nCredits goes to the original authors of each articles. For any citation, use https://spacenews.com/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "science and technology",
+    "intermediate",
+    "nlp",
+    "text mining",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

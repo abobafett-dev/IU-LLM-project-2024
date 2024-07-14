@@ -1,0 +1,43 @@
+{
+  "id": "setseries/airbnb-listings-in-california",
+  "id_no": 4918026,
+  "datasetSlugNullable": "airbnb-listings-in-california",
+  "ownerUserNullable": "setseries",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "AirBnB Listings in California",
+  "subtitleNullable": "Exploring Trends, Insights, and Hospitality Dynamics in the Golden State",
+  "descriptionNullable": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F5263061%2F7d452bc371da455b666f6f0ec52bad3f%2Fmaxresdefault.jpg?generation=1714570253341084&alt=media)\n\n# Data Description:\n\nThis dataset provides a comprehensive collection of **AirBnB listings** across various cities and regions in California, offering valuable insights into the state's Airbnb hospitality landscape. Spanning diverse accommodations from cozy studios to luxurious villas, the dataset encapsulates crucial information including listing details, host attributes, pricing dynamics, reviews and geographical coordinates. With a wide array of attributes such as property type, neighborhood, availability, and review scores, analysts and researchers can delve deep into understanding the patterns, trends, and preferences within California's dynamic short-term rental market. Whether investigating the impact of tourism on local economies, exploring the factors influencing rental prices, or identifying emerging hospitality trends, this dataset serves as a rich resource for data-driven exploration and decision-making in the realm of hospitality, tourism, and urban studies.\n\n# Data Dictionary\nhttps://docs.google.com/document/d/1STQS6C0Z7p4enVQEInsTUREs9a2DI86d-L1tAzv04qE/edit?usp=sharing\n\n\n# 7 Data Usage ideas for this dataset: \n\n\n1. Geospatial Analysis: Utilize the geographical coordinates to visualize the distribution of AirBnB listings across California. You can create heatmaps, cluster analysis, or spatial interpolation to identify hotspots and trends in different regions.\n\n2. Price Prediction: Build machine learning models to predict the price of AirBnB listings based on various features such as property type, location, amenities, and host attributes. Regression techniques like linear regression, decision trees, or ensemble methods can be employed for this purpose.\n\n3. Sentiment Analysis: Analyze reviews to extract sentiments and understand the satisfaction level of guests. Natural Language Processing (NLP) techniques such as sentiment analysis, topic modeling, and keyword extraction can be applied to gain insights into guest experiences.\n\n4. Time Series Analysis: Explore temporal patterns and seasonality in booking trends and prices. This can help in understanding peak seasons, demand fluctuations, and pricing strategies over time.\n\n5. Segmentation & Cluster Analysis: Group similar listings based on their attributes such as location, amenities, and pricing using clustering algorithms like k-means or hierarchical clustering. This can help in identifying market segments and targeting specific customer groups.\n\n6. Anomaly Detection: Identify unusual patterns or outliers in the data that may indicate fraudulent activities, unusual pricing behavior, or exceptional guest experiences.\n\n7. Recommendation Systems: Develop recommendation systems to suggest personalized listings to users based on their preferences, past bookings, and browsing history. Collaborative filtering, content-based filtering, or hybrid approaches can be employed for this purpose.",
+  "datasetId": 4918026,
+  "datasetSlug": "airbnb-listings-in-california",
+  "hasDatasetSlug": true,
+  "ownerUser": "setseries",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 709,
+  "totalVotes": 2,
+  "totalDownloads": 113,
+  "title": "AirBnB Listings in California",
+  "hasTitle": true,
+  "subtitle": "Exploring Trends, Insights, and Hospitality Dynamics in the Golden State",
+  "hasSubtitle": true,
+  "description": "![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F5263061%2F7d452bc371da455b666f6f0ec52bad3f%2Fmaxresdefault.jpg?generation=1714570253341084&alt=media)\n\n# Data Description:\n\nThis dataset provides a comprehensive collection of **AirBnB listings** across various cities and regions in California, offering valuable insights into the state's Airbnb hospitality landscape. Spanning diverse accommodations from cozy studios to luxurious villas, the dataset encapsulates crucial information including listing details, host attributes, pricing dynamics, reviews and geographical coordinates. With a wide array of attributes such as property type, neighborhood, availability, and review scores, analysts and researchers can delve deep into understanding the patterns, trends, and preferences within California's dynamic short-term rental market. Whether investigating the impact of tourism on local economies, exploring the factors influencing rental prices, or identifying emerging hospitality trends, this dataset serves as a rich resource for data-driven exploration and decision-making in the realm of hospitality, tourism, and urban studies.\n\n# Data Dictionary\nhttps://docs.google.com/document/d/1STQS6C0Z7p4enVQEInsTUREs9a2DI86d-L1tAzv04qE/edit?usp=sharing\n\n\n# 7 Data Usage ideas for this dataset: \n\n\n1. Geospatial Analysis: Utilize the geographical coordinates to visualize the distribution of AirBnB listings across California. You can create heatmaps, cluster analysis, or spatial interpolation to identify hotspots and trends in different regions.\n\n2. Price Prediction: Build machine learning models to predict the price of AirBnB listings based on various features such as property type, location, amenities, and host attributes. Regression techniques like linear regression, decision trees, or ensemble methods can be employed for this purpose.\n\n3. Sentiment Analysis: Analyze reviews to extract sentiments and understand the satisfaction level of guests. Natural Language Processing (NLP) techniques such as sentiment analysis, topic modeling, and keyword extraction can be applied to gain insights into guest experiences.\n\n4. Time Series Analysis: Explore temporal patterns and seasonality in booking trends and prices. This can help in understanding peak seasons, demand fluctuations, and pricing strategies over time.\n\n5. Segmentation & Cluster Analysis: Group similar listings based on their attributes such as location, amenities, and pricing using clustering algorithms like k-means or hierarchical clustering. This can help in identifying market segments and targeting specific customer groups.\n\n6. Anomaly Detection: Identify unusual patterns or outliers in the data that may indicate fraudulent activities, unusual pricing behavior, or exceptional guest experiences.\n\n7. Recommendation Systems: Develop recommendation systems to suggest personalized listings to users based on their preferences, past bookings, and browsing history. Collaborative filtering, content-based filtering, or hybrid approaches can be employed for this purpose.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "exploratory data analysis",
+    "data visualization",
+    "tabular",
+    "hotels and accommodations"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

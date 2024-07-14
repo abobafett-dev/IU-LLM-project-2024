@@ -1,0 +1,43 @@
+{
+  "id": "asaniczka/amazon-brazil-products-2023-1-3m-products",
+  "id_no": 3941280,
+  "datasetSlugNullable": "amazon-brazil-products-2023-1-3m-products",
+  "ownerUserNullable": "asaniczka",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Amazon Brazil Products 2023 (1.3M Products)",
+  "subtitleNullable": "Extensive dataset scraped from amazon.com.br in 2023",
+  "descriptionNullable": "With over 1.3 million unique products, this dataset offers a comprehensive view of the products available on Amazon.com.br, one of Brazil's leading online retailers. Collected through a web scraping process in 2023, this dataset provides valuable insights into product titles, pricing, ratings, and more.\n\n&gt;If you find this dataset helpful for your project or analysis, don't forget to upvote! \u2764\ufe0f\n\n### Similar datasets:\n\n[Amazon UK Products](https://www.kaggle.com/datasets/asaniczka/amazon-uk-products-dataset-2023)\n\n[Amazon India Products](https://www.kaggle.com/datasets/asaniczka/amazon-india-products-2023-1-5m-products/data)\n\n[Amazon USA Products](https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products)\n\n[Amazon Canada Products](https://www.kaggle.com/datasets/asaniczka/amazon-canada-products-2023-2-1m-products)\n\n## Interesting Task Ideas:\n\n1. Analyze pricing trends across different product categories.\n2. Explore the correlation between customer ratings and the number of reviews.\n3. Identify the best-selling products on Amazon.com.br.\n4. Study the relationship between pricing and customer reviews.\n5. Create a recommendation system based on customer ratings and product categories.\n6. Analyze the availability of products in different price ranges.\n\n",
+  "datasetId": 3941280,
+  "datasetSlug": "amazon-brazil-products-2023-1-3m-products",
+  "hasDatasetSlug": true,
+  "ownerUser": "asaniczka",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6263,
+  "totalVotes": 80,
+  "totalDownloads": 1128,
+  "title": "Amazon Brazil Products 2023 (1.3M Products)",
+  "hasTitle": true,
+  "subtitle": "Extensive dataset scraped from amazon.com.br in 2023",
+  "hasSubtitle": true,
+  "description": "With over 1.3 million unique products, this dataset offers a comprehensive view of the products available on Amazon.com.br, one of Brazil's leading online retailers. Collected through a web scraping process in 2023, this dataset provides valuable insights into product titles, pricing, ratings, and more.\n\n&gt;If you find this dataset helpful for your project or analysis, don't forget to upvote! \u2764\ufe0f\n\n### Similar datasets:\n\n[Amazon UK Products](https://www.kaggle.com/datasets/asaniczka/amazon-uk-products-dataset-2023)\n\n[Amazon India Products](https://www.kaggle.com/datasets/asaniczka/amazon-india-products-2023-1-5m-products/data)\n\n[Amazon USA Products](https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products)\n\n[Amazon Canada Products](https://www.kaggle.com/datasets/asaniczka/amazon-canada-products-2023-2-1m-products)\n\n## Interesting Task Ideas:\n\n1. Analyze pricing trends across different product categories.\n2. Explore the correlation between customer ratings and the number of reviews.\n3. Identify the best-selling products on Amazon.com.br.\n4. Study the relationship between pricing and customer reviews.\n5. Create a recommendation system based on customer ratings and product categories.\n6. Analyze the availability of products in different price ranges.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "brazil",
+    "business",
+    "economics",
+    "retail and shopping",
+    "e-commerce services"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "bratter/fake-news",
+  "id_no": 3174163,
+  "datasetSlugNullable": "fake-news",
+  "ownerUserNullable": "bratter",
+  "usabilityRatingNullable": 0.29411764705882354,
+  "titleNullable": "Fake News",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 3174163,
+  "datasetSlug": "fake-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "bratter",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.29411764705882354,
+  "hasUsabilityRating": true,
+  "totalViews": 137,
+  "totalVotes": 0,
+  "totalDownloads": 6,
+  "title": "Fake News",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

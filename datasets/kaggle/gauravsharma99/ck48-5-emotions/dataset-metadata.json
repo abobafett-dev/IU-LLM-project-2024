@@ -1,0 +1,41 @@
+{
+  "id": "gauravsharma99/ck48-5-emotions",
+  "id_no": 601762,
+  "datasetSlugNullable": "ck48-5-emotions",
+  "ownerUserNullable": "gauravsharma99",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "CK+48 5 emotions",
+  "subtitleNullable": "ck+ 48 dataset with top 5 emotions.",
+  "descriptionNullable": "This is a cropped version of ck+ 48 dataset with only 5 emotions, anger, fear, happy, sadness and surprise. The dataset is taken from https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch/tree/master/CK%2B48 .",
+  "datasetId": 601762,
+  "datasetSlug": "ck48-5-emotions",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravsharma99",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 17872,
+  "totalVotes": 19,
+  "totalDownloads": 1534,
+  "title": "CK+48 5 emotions",
+  "hasTitle": true,
+  "subtitle": "ck+ 48 dataset with top 5 emotions.",
+  "hasSubtitle": true,
+  "description": "This is a cropped version of ck+ 48 dataset with only 5 emotions, anger, fear, happy, sadness and surprise. The dataset is taken from https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch/tree/master/CK%2B48 .",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

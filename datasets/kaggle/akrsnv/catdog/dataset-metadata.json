@@ -1,0 +1,49 @@
+{
+  "id": "akrsnv/catdog",
+  "id_no": 975414,
+  "datasetSlugNullable": "catdog",
+  "ownerUserNullable": "akrsnv",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "CATDOG",
+  "subtitleNullable": "BINARY CLASSIFICATION OF CATS AND DOGS (550 IMAGES 512x512)",
+  "descriptionNullable": "### Context\n\nI want to upload my first simple dataset on kaggle.com\n\n### Content\n\nThe images were downloaded from free photo stocks and were prepared for image classification (the backgrounds were removed).\n\n### Acknowledgements\n\nIt's my first dataset, so I will be glad to any of your activity.\n\n### Inspiration\n\nBinary classification on this dataset is not an easy problem, so it will be interesting for you.",
+  "datasetId": 975414,
+  "datasetSlug": "catdog",
+  "hasDatasetSlug": true,
+  "ownerUser": "akrsnv",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 2955,
+  "totalVotes": 6,
+  "totalDownloads": 265,
+  "title": "CATDOG",
+  "hasTitle": true,
+  "subtitle": "BINARY CLASSIFICATION OF CATS AND DOGS (550 IMAGES 512x512)",
+  "hasSubtitle": true,
+  "description": "### Context\n\nI want to upload my first simple dataset on kaggle.com\n\n### Content\n\nThe images were downloaded from free photo stocks and were prepared for image classification (the backgrounds were removed).\n\n### Acknowledgements\n\nIt's my first dataset, so I will be glad to any of your activity.\n\n### Inspiration\n\nBinary classification on this dataset is not an easy problem, so it will be interesting for you.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "education",
+    "computer science",
+    "image",
+    "binary classification",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "razinw",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

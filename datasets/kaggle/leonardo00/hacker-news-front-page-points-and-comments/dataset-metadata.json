@@ -1,0 +1,43 @@
+{
+  "id": "leonardo00/hacker-news-front-page-points-and-comments",
+  "id_no": 3234066,
+  "datasetSlugNullable": "hacker-news-front-page-points-and-comments",
+  "ownerUserNullable": "leonardo00",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Hacker News - Front page points and comments",
+  "subtitleNullable": "Time-series data of the total points and comments on the Hacker News front-page",
+  "descriptionNullable": "This dataset contains time series data from the Hacker News front page. Every minute, there is a new data sample that contains the total number of comments, and the sum of \"points\" on the front page.",
+  "datasetId": 3234066,
+  "datasetSlug": "hacker-news-front-page-points-and-comments",
+  "hasDatasetSlug": true,
+  "ownerUser": "leonardo00",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 171,
+  "totalVotes": 1,
+  "totalDownloads": 7,
+  "title": "Hacker News - Front page points and comments",
+  "hasTitle": true,
+  "subtitle": "Time-series data of the total points and comments on the Hacker News front-page",
+  "hasSubtitle": true,
+  "description": "This dataset contains time series data from the Hacker News front page. Every minute, there is a new data sample that contains the total number of comments, and the sum of \"points\" on the front page.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "websites",
+    "signal processing",
+    "time series analysis",
+    "tabular",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

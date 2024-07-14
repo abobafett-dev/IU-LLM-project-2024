@@ -1,0 +1,43 @@
+{
+  "id": "kanchana1990/new-york-surgeon-database-2024-2000-entries",
+  "id_no": 4793018,
+  "datasetSlugNullable": "new-york-surgeon-database-2024-2000-entries",
+  "ownerUserNullable": "kanchana1990",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "New York Surgeon Database 2024: 2000 Entries",
+  "subtitleNullable": "An In-depth Look at New York's Medical Elite",
+  "descriptionNullable": "\n\n#### Dataset Overview\nThis dataset, titled \"New York Surgeon Database 2024,\" encompasses detailed profiles of 2,000 surgeons operating in New York City. It was carefully compiled to serve as a resource for understanding healthcare provider distribution, specialties, and accessibility in one of the world's most dynamic urban environments. The dataset is intended for researchers, data scientists, and healthcare professionals interested in analyzing medical practice trends and specialties within New York.\n\n#### Data Science Applications\nThis dataset is a valuable asset for various data science projects including:\n- **Geospatial Analysis**: Mapping the locations of surgeons to study the accessibility and distribution across different neighborhoods.\n- **Specialization Analysis**: Understanding prevalent medical specialties and identifying potential gaps in healthcare services.\n- **Temporal Business Hours Analysis**: Investigating the operational hours of medical practices to gauge healthcare availability.\n- **Sentiment Analysis**: Using review snippets to analyze patient satisfaction and service quality.\n\n**Note**: This data is provided for educational and learning purposes only. Users are advised to respect privacy and use the data ethically without infringing on individual rights or data protection regulations.\n\n#### Column Descriptors\n- **address**: The physical address of the surgeon's practice.\n- **categories/0, categories/1, categories/2**: Medical specialties and services offered.\n- **extraPhones**: Additional contact numbers including fax and toll-free.\n- **generalInfo**: Detailed description of the practice's services.\n- **infoSnippet**: Short summary information about the practice.\n- **name**: Name of the practice or individual surgeon.\n- **openHours**: Hours during which the practice is open.\n- **phone**: Primary phone number.\n- **rating**: Customer rating of the practice.\n- **reviewSnippet**: Extract of customer reviews.\n- **website**: Official website URL of the practice.\n\n#### Ethically Mined Data\nThe data for this dataset was ethically mined and aggregated from publicly available sources, namely the Yellow Pages. Strict adherence to ethical scraping guidelines ensures the data's integrity and respects individual privacy.\n\n#### Acknowledgments\nWe thank Yellow Pages for providing the data and Photo by <a href=\"https://unsplash.com/@gpiron?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Piron Guillaume</a> on <a href=\"https://unsplash.com/photos/doctors-treating-patient-vNFHg0J0wRs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>\n   used in visualizations and presentations related to this dataset. Their contributions have been invaluable in enhancing the comprehensiveness and visual appeal of this resource.\n\n",
+  "datasetId": 4793018,
+  "datasetSlug": "new-york-surgeon-database-2024-2000-entries",
+  "hasDatasetSlug": true,
+  "ownerUser": "kanchana1990",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 666,
+  "totalVotes": 28,
+  "totalDownloads": 80,
+  "title": "New York Surgeon Database 2024: 2000 Entries",
+  "hasTitle": true,
+  "subtitle": "An In-depth Look at New York's Medical Elite",
+  "hasSubtitle": true,
+  "description": "\n\n#### Dataset Overview\nThis dataset, titled \"New York Surgeon Database 2024,\" encompasses detailed profiles of 2,000 surgeons operating in New York City. It was carefully compiled to serve as a resource for understanding healthcare provider distribution, specialties, and accessibility in one of the world's most dynamic urban environments. The dataset is intended for researchers, data scientists, and healthcare professionals interested in analyzing medical practice trends and specialties within New York.\n\n#### Data Science Applications\nThis dataset is a valuable asset for various data science projects including:\n- **Geospatial Analysis**: Mapping the locations of surgeons to study the accessibility and distribution across different neighborhoods.\n- **Specialization Analysis**: Understanding prevalent medical specialties and identifying potential gaps in healthcare services.\n- **Temporal Business Hours Analysis**: Investigating the operational hours of medical practices to gauge healthcare availability.\n- **Sentiment Analysis**: Using review snippets to analyze patient satisfaction and service quality.\n\n**Note**: This data is provided for educational and learning purposes only. Users are advised to respect privacy and use the data ethically without infringing on individual rights or data protection regulations.\n\n#### Column Descriptors\n- **address**: The physical address of the surgeon's practice.\n- **categories/0, categories/1, categories/2**: Medical specialties and services offered.\n- **extraPhones**: Additional contact numbers including fax and toll-free.\n- **generalInfo**: Detailed description of the practice's services.\n- **infoSnippet**: Short summary information about the practice.\n- **name**: Name of the practice or individual surgeon.\n- **openHours**: Hours during which the practice is open.\n- **phone**: Primary phone number.\n- **rating**: Customer rating of the practice.\n- **reviewSnippet**: Extract of customer reviews.\n- **website**: Official website URL of the practice.\n\n#### Ethically Mined Data\nThe data for this dataset was ethically mined and aggregated from publicly available sources, namely the Yellow Pages. Strict adherence to ethical scraping guidelines ensures the data's integrity and respects individual privacy.\n\n#### Acknowledgments\nWe thank Yellow Pages for providing the data and Photo by <a href=\"https://unsplash.com/@gpiron?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Piron Guillaume</a> on <a href=\"https://unsplash.com/photos/doctors-treating-patient-vNFHg0J0wRs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>\n   used in visualizations and presentations related to this dataset. Their contributions have been invaluable in enhancing the comprehensiveness and visual appeal of this resource.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "health",
+    "medicine",
+    "health conditions",
+    "data storytelling"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODC Attribution License (ODC-By)",
+      "name": "ODC Attribution License (ODC-By)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

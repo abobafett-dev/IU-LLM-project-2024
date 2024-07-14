@@ -1,0 +1,43 @@
+{
+  "id": "utkarshx27/suicide-attempts-in-shandong-china",
+  "id_no": 3230370,
+  "datasetSlugNullable": "suicide-attempts-in-shandong-china",
+  "ownerUserNullable": "utkarshx27",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Suicide Attempts in Shandong, China",
+  "subtitleNullable": "Serious Suicide Attempts in Shandong, China: Three-Year Study",
+  "descriptionNullable": "```\nData on serious suicide attempts in Shandong, China\nA data frame with 2571 observations on the following 11 variables.\n```\n\n| Column | Description |\n| --- | --- |\n| Person_ID | ID number of victims |\n| Hospitalised | Hospitalized? (no or yes) |\n| Died | Died? (no or yes) |\n| Urban | Urban area? (no, unknown, or yes) |\n| Year | Year (2009, 2010, or 2011) |\n| Month | Month (1=Jan through 12=December) |\n| Sex | Sex (female or male) |\n| Age | Age (years) |\n| Education | Education level (illiterate, primary, Secondary, Tertiary, or unknown) |\n| Occupation | One of ten occupation categories |\n| method | One of nine possible methods |\n\n### Details \nData from a study of serious suicide attempts over three years in a predominantly rural population in Shandong, China.\n\n## Source\nSun J, Guo X, Zhang J, Wang M, Jia C, Xu A (2015) \"Incidence and fatality of serious suicide attempts in a predominantly rural population in Shandong, China: a public health surveillance study,\" BMJ Open 5(2): e006762. https://doi.org/10.1136/bmjopen-2014-006762\n",
+  "datasetId": 3230370,
+  "datasetSlug": "suicide-attempts-in-shandong-china",
+  "hasDatasetSlug": true,
+  "ownerUser": "utkarshx27",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 11630,
+  "totalVotes": 47,
+  "totalDownloads": 1772,
+  "title": "Suicide Attempts in Shandong, China",
+  "hasTitle": true,
+  "subtitle": "Serious Suicide Attempts in Shandong, China: Three-Year Study",
+  "hasSubtitle": true,
+  "description": "```\nData on serious suicide attempts in Shandong, China\nA data frame with 2571 observations on the following 11 variables.\n```\n\n| Column | Description |\n| --- | --- |\n| Person_ID | ID number of victims |\n| Hospitalised | Hospitalized? (no or yes) |\n| Died | Died? (no or yes) |\n| Urban | Urban area? (no, unknown, or yes) |\n| Year | Year (2009, 2010, or 2011) |\n| Month | Month (1=Jan through 12=December) |\n| Sex | Sex (female or male) |\n| Age | Age (years) |\n| Education | Education level (illiterate, primary, Secondary, Tertiary, or unknown) |\n| Occupation | One of ten occupation categories |\n| method | One of nine possible methods |\n\n### Details \nData from a study of serious suicide attempts over three years in a predominantly rural population in Shandong, China.\n\n## Source\nSun J, Guo X, Zhang J, Wang M, Jia C, Xu A (2015) \"Incidence and fatality of serious suicide attempts in a predominantly rural population in Shandong, China: a public health surveillance study,\" BMJ Open 5(2): e006762. https://doi.org/10.1136/bmjopen-2014-006762\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "health",
+    "mortality",
+    "health conditions",
+    "social issues and advocacy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

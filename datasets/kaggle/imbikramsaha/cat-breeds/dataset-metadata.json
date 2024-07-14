@@ -1,0 +1,42 @@
+{
+  "id": "imbikramsaha/cat-breeds",
+  "id_no": 2368969,
+  "datasetSlugNullable": "cat-breeds",
+  "ownerUserNullable": "imbikramsaha",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Oxford IIIT Cats",
+  "subtitleNullable": "12 different categories of cat breed",
+  "descriptionNullable": "#Folder Names : \n`\nAbyssinian, Bengal, Birman, Bombay, British, Shorthair, Egyptian Mau, Maine Coon, Persian, Ragdoll, Russian Blue, Siamese, Sphynx`\n\n###Each folder contains +-200 images\n\n##I recommend using 80% of the images as the training set, and the rest as the test set.",
+  "datasetId": 2368969,
+  "datasetSlug": "cat-breeds",
+  "hasDatasetSlug": true,
+  "ownerUser": "imbikramsaha",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 3365,
+  "totalVotes": 19,
+  "totalDownloads": 641,
+  "title": "Oxford IIIT Cats",
+  "hasTitle": true,
+  "subtitle": "12 different categories of cat breed",
+  "hasSubtitle": true,
+  "description": "#Folder Names : \n`\nAbyssinian, Bengal, Birman, Bombay, British, Shorthair, Egyptian Mau, Maine Coon, Persian, Ragdoll, Russian Blue, Siamese, Sphynx`\n\n###Each folder contains +-200 images\n\n##I recommend using 80% of the images as the training set, and the rest as the test set.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "animals",
+    "beginner",
+    "classification",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

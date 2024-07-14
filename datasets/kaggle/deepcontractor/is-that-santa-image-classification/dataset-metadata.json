@@ -1,0 +1,44 @@
+{
+  "id": "deepcontractor/is-that-santa-image-classification",
+  "id_no": 1817908,
+  "datasetSlugNullable": "is-that-santa-image-classification",
+  "ownerUserNullable": "deepcontractor",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "IS THAT SANTA? (Image Classification)",
+  "subtitleNullable": "Santa Claus Classification",
+  "descriptionNullable": "### Context\n\nHo, Ho, Ho It's Christmas time so why not have a Christmas themed dataset to practice image classification.\n \n### Content\n\nThis is a binary classification image dataset where you can have to train a deep learning model which can predict if an image contains Santa Claus or not.\n\n### Inspiration\n\nThis was completely my idea, but upon googling it was found that pyimagesearch has a similar private dataset. However this data set is completely built and compiled by me :)  ",
+  "datasetId": 1817908,
+  "datasetSlug": "is-that-santa-image-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "deepcontractor",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 12804,
+  "totalVotes": 45,
+  "totalDownloads": 1641,
+  "title": "IS THAT SANTA? (Image Classification)",
+  "hasTitle": true,
+  "subtitle": "Santa Claus Classification",
+  "hasSubtitle": true,
+  "description": "### Context\n\nHo, Ho, Ho It's Christmas time so why not have a Christmas themed dataset to practice image classification.\n \n### Content\n\nThis is a binary classification image dataset where you can have to train a deep learning model which can predict if an image contains Santa Claus or not.\n\n### Inspiration\n\nThis was completely my idea, but upon googling it was found that pyimagesearch has a similar private dataset. However this data set is completely built and compiled by me :)  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "religion and belief systems",
+    "classification",
+    "deep learning",
+    "image",
+    "binary classification",
+    "holidays and cultural events"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "bitswazsky/cybernoncyber-news-classification",
+  "id_no": 791089,
+  "datasetSlugNullable": "cybernoncyber-news-classification",
+  "ownerUserNullable": "bitswazsky",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Cyber/Non-Cyber Fraud News Classification",
+  "subtitleNullable": "Dataset to classify financial fraud articles into cyber/non-cyber categories",
+  "descriptionNullable": "### Context\n\nWe wanted to create a data-set to help us classify financial-fraud related news articles into cyber and non-cyber categories, and so this data-set came into being. Hope this becomes useful for others who are also trying to achieve something similar.\n\n\n### Content\n\nWe have two csv files in this data-set. The *cyber.csv* file contains snippets of news articles that talks about cyber-frauds in the finance domain. The *noncyber.csv* file contains snippets of news articles that talks about complementary subjects. Each file has 250 distinct entries complied from **New York Times** and **Times of India**. These two files are meant for classification of financial fraud related articles, i.e. when we are  concerned only with finance related news being fed into the binary classifier. If one wants the non-cyberfraud related data to contain articles from a broader and more generic domain, she can borrow documents from the *nonfraud.csv* in [this](https://www.kaggle.com/bitswazsky/financial-fraud-and-nonfraud-related-datasets) dataset.\n\n\n### Author\n\nCreated by: **Sayan Biswas** (*sayanb@sahaj.ai*).",
+  "datasetId": 791089,
+  "datasetSlug": "cybernoncyber-news-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "bitswazsky",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 3753,
+  "totalVotes": 4,
+  "totalDownloads": 244,
+  "title": "Cyber/Non-Cyber Fraud News Classification",
+  "hasTitle": true,
+  "subtitle": "Dataset to classify financial fraud articles into cyber/non-cyber categories",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWe wanted to create a data-set to help us classify financial-fraud related news articles into cyber and non-cyber categories, and so this data-set came into being. Hope this becomes useful for others who are also trying to achieve something similar.\n\n\n### Content\n\nWe have two csv files in this data-set. The *cyber.csv* file contains snippets of news articles that talks about cyber-frauds in the finance domain. The *noncyber.csv* file contains snippets of news articles that talks about complementary subjects. Each file has 250 distinct entries complied from **New York Times** and **Times of India**. These two files are meant for classification of financial fraud related articles, i.e. when we are  concerned only with finance related news being fed into the binary classifier. If one wants the non-cyberfraud related data to contain articles from a broader and more generic domain, she can borrow documents from the *nonfraud.csv* in [this](https://www.kaggle.com/bitswazsky/financial-fraud-and-nonfraud-related-datasets) dataset.\n\n\n### Author\n\nCreated by: **Sayan Biswas** (*sayanb@sahaj.ai*).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

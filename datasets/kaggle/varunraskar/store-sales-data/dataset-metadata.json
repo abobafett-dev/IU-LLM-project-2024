@@ -1,0 +1,42 @@
+{
+  "id": "varunraskar/store-sales-data",
+  "id_no": 4736787,
+  "datasetSlugNullable": "store-sales-data",
+  "ownerUserNullable": "varunraskar",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Store Sales Data",
+  "subtitleNullable": "The dataset contains the sales data of numerous products in various categories.",
+  "descriptionNullable": "This dataset contains sales data of various SKUs across the state of Maharashtra.\nIt has overall inventory data with SKU codes of products, Sales of products and sales in various cities across the state of Maharashtra.\n\nThe data is distributed into 4 different .csv files",
+  "datasetId": 4736787,
+  "datasetSlug": "store-sales-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "varunraskar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 7910,
+  "totalVotes": 22,
+  "totalDownloads": 1583,
+  "title": "Store Sales Data",
+  "hasTitle": true,
+  "subtitle": "The dataset contains the sales data of numerous products in various categories.",
+  "hasSubtitle": true,
+  "description": "This dataset contains sales data of various SKUs across the state of Maharashtra.\nIt has overall inventory data with SKU codes of products, Sales of products and sales in various cities across the state of Maharashtra.\n\nThe data is distributed into 4 different .csv files",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "business",
+    "beginner",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

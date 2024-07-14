@@ -1,0 +1,42 @@
+{
+  "id": "emirslspr/carrefour-sa-crrfy-stock-price-20172022",
+  "id_no": 2735123,
+  "datasetSlugNullable": "carrefour-sa-crrfy-stock-price-20172022",
+  "ownerUserNullable": "emirslspr",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Carrefour SA Stock Price (2017-2022)",
+  "subtitleNullable": "Carrefour SA Stock Price Historical Data",
+  "descriptionNullable": "- **Open:** The price of a stock at the beginning of a trading day.\n- **High:** The highest price a stock reaches during the trading day.\n- **Low:** The lowest price a stock reaches during the trading day.\n- **Close:** The price of a stock at the end of a trading day.\n- **Adj Close:** The adjusted closing price of a stock, which accounts for any corporate actions such as dividends or stock splits.\n- **Volume:** The number of shares of a stock that were traded during the trading day.",
+  "datasetId": 2735123,
+  "datasetSlug": "carrefour-sa-crrfy-stock-price-20172022",
+  "hasDatasetSlug": true,
+  "ownerUser": "emirslspr",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 504,
+  "totalVotes": 6,
+  "totalDownloads": 71,
+  "title": "Carrefour SA Stock Price (2017-2022)",
+  "hasTitle": true,
+  "subtitle": "Carrefour SA Stock Price Historical Data",
+  "hasSubtitle": true,
+  "description": "- **Open:** The price of a stock at the beginning of a trading day.\n- **High:** The highest price a stock reaches during the trading day.\n- **Low:** The lowest price a stock reaches during the trading day.\n- **Close:** The price of a stock at the end of a trading day.\n- **Adj Close:** The adjusted closing price of a stock, which accounts for any corporate actions such as dividends or stock splits.\n- **Volume:** The number of shares of a stock that were traded during the trading day.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "finance",
+    "time series analysis",
+    "deep learning",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

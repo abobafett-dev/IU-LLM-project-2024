@@ -1,0 +1,42 @@
+{
+  "id": "samanemami/renewable-energy-and-weather-conditions",
+  "id_no": 3029199,
+  "datasetSlugNullable": "renewable-energy-and-weather-conditions",
+  "ownerUserNullable": "samanemami",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Renewable Energy and Weather Conditions",
+  "subtitleNullable": "Exploring the Impact of Weather on Renewable Energy Generation: A Hourly Analysi",
+  "descriptionNullable": "This dataset contains information on energy consumption and various weather parameters such as solar radiation, temperature, pressure, humidity, wind speed, and precipitation. The \"Energy delta[Wh]\" column represents the change in energy consumption over a certain time period, while the \"GHI\" column measures the Global Horizontal Irradiance, which is the amount of solar radiation received by a horizontal surface. The dataset also includes information on the presence of sunlight (\"isSun\"), the length of daylight (\"dayLength\"), and the amount of time during which sunlight is available (\"sunlightTime\"). The \"weather_type\" column provides information on the overall weather conditions such as clear, cloudy, or rainy. The dataset is organized by hour and month, making it ideal for studying the relationship between renewable energy generation and weather patterns over time.",
+  "datasetId": 3029199,
+  "datasetSlug": "renewable-energy-and-weather-conditions",
+  "hasDatasetSlug": true,
+  "ownerUser": "samanemami",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 16912,
+  "totalVotes": 44,
+  "totalDownloads": 2371,
+  "title": "Renewable Energy and Weather Conditions",
+  "hasTitle": true,
+  "subtitle": "Exploring the Impact of Weather on Renewable Energy Generation: A Hourly Analysi",
+  "hasSubtitle": true,
+  "description": "This dataset contains information on energy consumption and various weather parameters such as solar radiation, temperature, pressure, humidity, wind speed, and precipitation. The \"Energy delta[Wh]\" column represents the change in energy consumption over a certain time period, while the \"GHI\" column measures the Global Horizontal Irradiance, which is the amount of solar radiation received by a horizontal surface. The dataset also includes information on the presence of sunlight (\"isSun\"), the length of daylight (\"dayLength\"), and the amount of time during which sunlight is available (\"sunlightTime\"). The \"weather_type\" column provides information on the overall weather conditions such as clear, cloudy, or rainy. The dataset is organized by hour and month, making it ideal for studying the relationship between renewable energy generation and weather patterns over time.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "energy",
+    "renewable energy",
+    "tabular",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "datancoffee/predicting-reddit-community-engagement-dataset",
+  "id_no": 25418,
+  "datasetSlugNullable": "predicting-reddit-community-engagement-dataset",
+  "ownerUserNullable": "datancoffee",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Predicting Reddit Community Engagement Dataset",
+  "subtitleNullable": "What drives subreddit selection and user engagement in news discussions?",
+  "descriptionNullable": "### Context\n\nThis is the companion dataset to the 3-part blog series on the Google Big Data & Machine Learning blog \"Predicting community engagement on Reddit using TensorFlow, GDELT, and Cloud Dataflow\" by [datancoffee][1]\n\n - [Part 1][2]\n - [Part 2][3]\n - [Part 3][4]\n\n### Content\n\nThis dataset contains 3 months worth (June - August 2017) of Reddit news posts joined with the GDELT classification of posts as well as the results of [Sirocco text analysis][5] (opinion and entity extraction). It was used for analyzing the impact of news content, author, and publication domain on Subreddit selection by Reddit posters as well as for predicting engagement stats such as the popularity score and number of commenters.\n\nThe dataset aggregates data from the following 2 BigQuery datasets:\n\n - [GDELT BigQuery][6] dataset \n - [Reddit BigQuery][7] dataset\n\nIt is also available as a [BigQuery dataset][8]. \n\n### Acknowledgements\n\nWe would like to thank: \n\n - Kalev Leetaru from GDELT, a global news data repository. \n - [Nick Caldwell][9] from Reddit\n - [Jason Baumgartner][10] from pushshift.io, the source for Reddit data \n - [Felipe Hoffa][11], a developer advocate at Google\n\n### Inspiration\n\nThis dataset, and the related Kaggle [kernel][12], attempts to answer the question: \"What drives community engagement with current events on the world's largest online discussion site - Reddit?\"\n\nOur most accurate model for classifying news articles according to interests of the Reddit user community was a multi-label model that used publishing domains and GDELT entities as predictors. We also developed an anomaly detection model (with a 92% top 5 accuracy) that can be used for validating whether a posting to a subreddit fits already seen behavior or constitutes a new trend or potentially an anomaly. We were also surprised to learn that once an article is posted to Reddit, its popularity and community engagement will depend on who posted the article to Reddit, and which subreddit it landed at, but not its content.\n\n\n  [1]: https://medium.com/@datancoffee\n  [2]: https://cloud.google.com/blog/big-data/2018/03/predicting-community-engagement-on-reddit-using-tensorflow-gdelt-and-cloud-dataflow-part-1\n  [3]: https://cloud.google.com/blog/big-data/2018/03/predicting-community-engagement-on-reddit-using-tensorflow-gdelt-and-cloud-dataflow-part-2\n  [4]: https://cloud.google.com/blog/big-data/2018/03/predicting-community-engagement-on-reddit-using-tensorflow-gdelt-and-cloud-dataflow-part-3\n  [5]: https://github.com/datancoffee/sirocco\n  [6]: https://bigquery.cloud.google.com/dataset/gdelt-bq:gdeltv2\n  [7]: https://pushshift.io/using-bigquery-with-reddit-data/\n  [8]: https://bigquery.cloud.google.com/dataset/datancoffee:discussion_opinions\n  [9]: https://twitter.com/nickcald\n  [10]: https://twitter.com/jasonbaumgartne\n  [11]: https://twitter.com/felipehoffa\n  [12]: https://www.kaggle.com/datancoffee/predicting-community-engagement-on-reddit/",
+  "datasetId": 25418,
+  "datasetSlug": "predicting-reddit-community-engagement-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "datancoffee",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 7129,
+  "totalVotes": 7,
+  "totalDownloads": 232,
+  "title": "Predicting Reddit Community Engagement Dataset",
+  "hasTitle": true,
+  "subtitle": "What drives subreddit selection and user engagement in news discussions?",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis is the companion dataset to the 3-part blog series on the Google Big Data & Machine Learning blog \"Predicting community engagement on Reddit using TensorFlow, GDELT, and Cloud Dataflow\" by [datancoffee][1]\n\n - [Part 1][2]\n - [Part 2][3]\n - [Part 3][4]\n\n### Content\n\nThis dataset contains 3 months worth (June - August 2017) of Reddit news posts joined with the GDELT classification of posts as well as the results of [Sirocco text analysis][5] (opinion and entity extraction). It was used for analyzing the impact of news content, author, and publication domain on Subreddit selection by Reddit posters as well as for predicting engagement stats such as the popularity score and number of commenters.\n\nThe dataset aggregates data from the following 2 BigQuery datasets:\n\n - [GDELT BigQuery][6] dataset \n - [Reddit BigQuery][7] dataset\n\nIt is also available as a [BigQuery dataset][8]. \n\n### Acknowledgements\n\nWe would like to thank: \n\n - Kalev Leetaru from GDELT, a global news data repository. \n - [Nick Caldwell][9] from Reddit\n - [Jason Baumgartner][10] from pushshift.io, the source for Reddit data \n - [Felipe Hoffa][11], a developer advocate at Google\n\n### Inspiration\n\nThis dataset, and the related Kaggle [kernel][12], attempts to answer the question: \"What drives community engagement with current events on the world's largest online discussion site - Reddit?\"\n\nOur most accurate model for classifying news articles according to interests of the Reddit user community was a multi-label model that used publishing domains and GDELT entities as predictors. We also developed an anomaly detection model (with a 92% top 5 accuracy) that can be used for validating whether a posting to a subreddit fits already seen behavior or constitutes a new trend or potentially an anomaly. We were also surprised to learn that once an article is posted to Reddit, its popularity and community engagement will depend on who posted the article to Reddit, and which subreddit it landed at, but not its content.\n\n\n  [1]: https://medium.com/@datancoffee\n  [2]: https://cloud.google.com/blog/big-data/2018/03/predicting-community-engagement-on-reddit-using-tensorflow-gdelt-and-cloud-dataflow-part-1\n  [3]: https://cloud.google.com/blog/big-data/2018/03/predicting-community-engagement-on-reddit-using-tensorflow-gdelt-and-cloud-dataflow-part-2\n  [4]: https://cloud.google.com/blog/big-data/2018/03/predicting-community-engagement-on-reddit-using-tensorflow-gdelt-and-cloud-dataflow-part-3\n  [5]: https://github.com/datancoffee/sirocco\n  [6]: https://bigquery.cloud.google.com/dataset/gdelt-bq:gdeltv2\n  [7]: https://pushshift.io/using-bigquery-with-reddit-data/\n  [8]: https://bigquery.cloud.google.com/dataset/datancoffee:discussion_opinions\n  [9]: https://twitter.com/nickcald\n  [10]: https://twitter.com/jasonbaumgartne\n  [11]: https://twitter.com/felipehoffa\n  [12]: https://www.kaggle.com/datancoffee/predicting-community-engagement-on-reddit/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "linguistics",
+    "computer science",
+    "nlp",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

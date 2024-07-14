@@ -1,0 +1,40 @@
+{
+  "id": "shubh0799/fake-news",
+  "id_no": 720480,
+  "datasetSlugNullable": "fake-news",
+  "ownerUserNullable": "shubh0799",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fake_news",
+  "subtitleNullable": "Using Tfidf Vectorizer to detect whether a news is Fake or Real",
+  "descriptionNullable": "### Context\n\nThe beginners model to take a hands on experience with Artificial Neural Network.\n\n\n### Content\n\nThere are the id for each news. Followed with their title and the text of the news. And in the final column there is this labels regarding fake or real news.\n",
+  "datasetId": 720480,
+  "datasetSlug": "fake-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "shubh0799",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3393,
+  "totalVotes": 2,
+  "totalDownloads": 342,
+  "title": "Fake_news",
+  "hasTitle": true,
+  "subtitle": "Using Tfidf Vectorizer to detect whether a news is Fake or Real",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe beginners model to take a hands on experience with Artificial Neural Network.\n\n\n### Content\n\nThere are the id for each news. Followed with their title and the text of the news. And in the final column there is this labels regarding fake or real news.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "nlp"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": "neelpratiksha/indian-traffic-sign-dataset",
+  "id_no": 2067333,
+  "datasetSlugNullable": "indian-traffic-sign-dataset",
+  "ownerUserNullable": "neelpratiksha",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Indian Traffic Sign Dataset",
+  "subtitleNullable": "The Dataset Comprises Image of 59 classes of Indian Traffic Sign and a CSV File.",
+  "descriptionNullable": "- Indian traffic sign dataset was used to work on a Traffic sign detection and recognition system.\n- The dataset can be used for any Traffic Sign project based on Image Classification.\n- The images in the dataset are of dimension 32 32 3.\n- The dataset was created by an image of each class taken from government website and further image scaling was performed.\n- The Images are Preprocessed, Grayscaled and Standardized Lighting.",
+  "datasetId": 2067333,
+  "datasetSlug": "indian-traffic-sign-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "neelpratiksha",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 5384,
+  "totalVotes": 9,
+  "totalDownloads": 739,
+  "title": "Indian Traffic Sign Dataset",
+  "hasTitle": true,
+  "subtitle": "The Dataset Comprises Image of 59 classes of Indian Traffic Sign and a CSV File.",
+  "hasSubtitle": true,
+  "description": "- Indian traffic sign dataset was used to work on a Traffic sign detection and recognition system.\n- The dataset can be used for any Traffic Sign project based on Image Classification.\n- The images in the dataset are of dimension 32 32 3.\n- The dataset was created by an image of each class taken from government website and further image scaling was performed.\n- The Images are Preprocessed, Grayscaled and Standardized Lighting.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "automobiles and vehicles",
+    "computer vision",
+    "data visualization",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "neelbhatt59",
+      "role": "writer"
+    },
+    {
+      "username": "pratikshalaldas",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

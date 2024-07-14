@@ -1,0 +1,43 @@
+{
+  "id": "cid007/inflation-consumer-prices",
+  "id_no": 2234073,
+  "datasetSlugNullable": "inflation-consumer-prices",
+  "ownerUserNullable": "cid007",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Inflation, consumer prices",
+  "subtitleNullable": "World inflation , consumer price data from 1960-2021",
+  "descriptionNullable": "Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. The Laspeyres formula is generally used.\n\nThis dataset can be used to forcast future value or doing EDA for different countries.\n",
+  "datasetId": 2234073,
+  "datasetSlug": "inflation-consumer-prices",
+  "hasDatasetSlug": true,
+  "ownerUser": "cid007",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2895,
+  "totalVotes": 17,
+  "totalDownloads": 373,
+  "title": "Inflation, consumer prices",
+  "hasTitle": true,
+  "subtitle": "World inflation , consumer price data from 1960-2021",
+  "hasSubtitle": true,
+  "description": "Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. The Laspeyres formula is generally used.\n\nThis dataset can be used to forcast future value or doing EDA for different countries.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "economics",
+    "intermediate",
+    "time series analysis",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rtatman/emojinet",
+  "id_no": 3868,
+  "datasetSlugNullable": "emojinet",
+  "ownerUserNullable": "rtatman",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "EmojiNet",
+  "subtitleNullable": "A machine-readable dictionary of emoji meanings",
+  "descriptionNullable": "### Content\n\nEmojiNet is the largest machine-readable emoji sense inventory that links Unicode emoji representations to their English meanings extracted from the Web. EmojiNet is a dataset consisting of: \n\n* 12,904 sense labels over 2,389 emoji, which were extracted from the web and linked to machine-readable sense definitions seen in [BabelNet](http://babelnet.org/)\n* context words associated with each emoji sense, which are inferred through word embedding models trained over Google News corpus and a Twitter message corpus for each emoji sense definition\n* specification of the most likely platform-based emoji sense for a selected set of emoji (since emoji presentation is different on different platforms)\n\n### Acknowledgements: \n\nEmojiNet was developed by Sanjaya Wijeratne, Lakshika Balasuriya, Amit Sheth and Derek Doran. EmojiNet is licensed under a[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) license.](https://creativecommons.org/licenses/by-nc-sa/3.0/). Please cite the following paper when using EmojiNet dataset(s):\n\n  Sanjaya Wijeratne, Lakshika Balasuriya, Amit Sheth, Derek Doran. EmojiNet: An Open Service and API for Emoji Sense Discovery. In 11th International AAAI Conference on Web and Social Media (ICWSM 2017). Montreal, Canada; 2017.\n\nYou can also find more information about the dataset on the [project website](http://emojinet.knoesis.org/home.php).\n\nThe banner photo is by [Frank Behrens](https://www.flickr.com/photos/frank_behrens/) and is licensed under a [CC BY-SA 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/).\n\n### Inspiration: \n\n* Can you use these senses to create a sentiment lexicon for emoji?\n* Can you cluster emoji based on their sense?\n* Which emoji are the most different across platforms?\n",
+  "datasetId": 3868,
+  "datasetSlug": "emojinet",
+  "hasDatasetSlug": true,
+  "ownerUser": "rtatman",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 30553,
+  "totalVotes": 54,
+  "totalDownloads": 1588,
+  "title": "EmojiNet",
+  "hasTitle": true,
+  "subtitle": "A machine-readable dictionary of emoji meanings",
+  "hasSubtitle": true,
+  "description": "### Content\n\nEmojiNet is the largest machine-readable emoji sense inventory that links Unicode emoji representations to their English meanings extracted from the Web. EmojiNet is a dataset consisting of: \n\n* 12,904 sense labels over 2,389 emoji, which were extracted from the web and linked to machine-readable sense definitions seen in [BabelNet](http://babelnet.org/)\n* context words associated with each emoji sense, which are inferred through word embedding models trained over Google News corpus and a Twitter message corpus for each emoji sense definition\n* specification of the most likely platform-based emoji sense for a selected set of emoji (since emoji presentation is different on different platforms)\n\n### Acknowledgements: \n\nEmojiNet was developed by Sanjaya Wijeratne, Lakshika Balasuriya, Amit Sheth and Derek Doran. EmojiNet is licensed under a[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) license.](https://creativecommons.org/licenses/by-nc-sa/3.0/). Please cite the following paper when using EmojiNet dataset(s):\n\n  Sanjaya Wijeratne, Lakshika Balasuriya, Amit Sheth, Derek Doran. EmojiNet: An Open Service and API for Emoji Sense Discovery. In 11th International AAAI Conference on Web and Social Media (ICWSM 2017). Montreal, Canada; 2017.\n\nYou can also find more information about the dataset on the [project website](http://emojinet.knoesis.org/home.php).\n\nThe banner photo is by [Frank Behrens](https://www.flickr.com/photos/frank_behrens/) and is licensed under a [CC BY-SA 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/).\n\n### Inspiration: \n\n* Can you use these senses to create a sentiment lexicon for emoji?\n* Can you cluster emoji based on their sense?\n* Which emoji are the most different across platforms?\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "linguistics",
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "thesumitbanik/covid-fake-news-dataset",
+  "id_no": 970658,
+  "datasetSlugNullable": "covid-fake-news-dataset",
+  "ownerUserNullable": "thesumitbanik",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "COVID Fake News Dataset",
+  "subtitleNullable": "Collection of Facts/Rumors shared all over the Internet.",
+  "descriptionNullable": "### Context\n\nThe dataset contains the list of COVID Fake News/Claims which is shared all over the internet.\n\n\n### Content\n\n1. Headlines: String attribute consisting of the headlines/fact shared.\n2. Outcome: It is a binary data where 0 means the headline is fake and 1 means that it is true.\n\n### Inspiration\n\nIn many research portals, there was this common question in which the combined fake news dataset is available or not. This led to the publication of this dataset.",
+  "datasetId": 970658,
+  "datasetSlug": "covid-fake-news-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "thesumitbanik",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5640,
+  "totalVotes": 8,
+  "totalDownloads": 696,
+  "title": "COVID Fake News Dataset",
+  "hasTitle": true,
+  "subtitle": "Collection of Facts/Rumors shared all over the Internet.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe dataset contains the list of COVID Fake News/Claims which is shared all over the internet.\n\n\n### Content\n\n1. Headlines: String attribute consisting of the headlines/fact shared.\n2. Outcome: It is a binary data where 0 means the headline is fake and 1 means that it is true.\n\n### Inspiration\n\nIn many research portals, there was this common question in which the combined fake news dataset is available or not. This led to the publication of this dataset.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "nlp",
+    "news",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

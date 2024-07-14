@@ -1,0 +1,41 @@
+{
+  "id": "peyash/bdnews24-corpus",
+  "id_no": 963224,
+  "datasetSlugNullable": "bdnews24-corpus",
+  "ownerUserNullable": "peyash",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "bdnews24 bangla news corpus",
+  "subtitleNullable": "417,808 bengali news scraped from bdnews24.com",
+  "descriptionNullable": "### Context\n\nThis dataset was collected to develop a language model for my final year project.\n\n\n### Content\n\nIt contains 417,808 news samples including the date, title, and category.\n\n\n### Source\n\nwww.bdnews24.com [Copyright owned by the actual source]\n\n\n### Inspiration\n\nThis corpus can be used for news classification, language modeling, text generation etc. Also, you can use this if you want to annotate datasets for tasks like Relation Extraction, NER, POS tagging etc.",
+  "datasetId": 963224,
+  "datasetSlug": "bdnews24-corpus",
+  "hasDatasetSlug": true,
+  "ownerUser": "peyash",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3342,
+  "totalVotes": 2,
+  "totalDownloads": 102,
+  "title": "bdnews24 bangla news corpus",
+  "hasTitle": true,
+  "subtitle": "417,808 bengali news scraped from bdnews24.com",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset was collected to develop a language model for my final year project.\n\n\n### Content\n\nIt contains 417,808 news samples including the date, title, and category.\n\n\n### Source\n\nwww.bdnews24.com [Copyright owned by the actual source]\n\n\n### Inspiration\n\nThis corpus can be used for news classification, language modeling, text generation etc. Also, you can use this if you want to annotate datasets for tasks like Relation Extraction, NER, POS tagging etc.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "nlp",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

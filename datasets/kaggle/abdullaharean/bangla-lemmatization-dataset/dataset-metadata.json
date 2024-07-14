@@ -1,0 +1,42 @@
+{
+  "id": "abdullaharean/bangla-lemmatization-dataset",
+  "id_no": 3970995,
+  "datasetSlugNullable": "bangla-lemmatization-dataset",
+  "ownerUserNullable": "abdullaharean",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Bangla Lemmatization Dataset",
+  "subtitleNullable": "Bangla Word To Lemma",
+  "descriptionNullable": "\ud83d\udcda Title: Bangla Lemmatization Dataset\n\n\ud83d\udcdd Description:\nThe \"Lemmatization Dataset\" is a treasure trove of lemmatized words \ud83d\udcd6 sourced from a diverse range of texts, with a prominent focus on Rabindranath Tagore's short stories and news articles spanning various domains. This dataset serves as a crucial asset for natural language processing tasks, particularly those targeting the Bengali language. \ud83c\udde7\ud83c\udde9\n\n\ud83d\udce6 Content:\nThis dataset is distributed as a single CSV file, \"lemmatization.csv,\" featuring two essential columns:\n\n- \"WORD\": Represents individual words from the source texts.\n- \"LEMMA\": Corresponds to the respective lemma forms of the words, aiding in linguistic analysis and understanding. \ud83e\udde0\n\ud83d\udcdc Licensing:\nThe original dataset does not explicitly specify a particular license. Users are encouraged to exercise due diligence and observe copyright and usage guidelines when incorporating this dataset into their research, projects, or applications. \ud83d\udea7\n\n\ud83d\udcda Citation:\n\n- Firoj Alam, Md Arid Hasan, Tanvir Alam, Akib Khan, Janntatul Tajrin, Naira Khan, Shammur Absar Chowdhury. (2021). \"A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models.\" \ud83d\udcd1 arXiv preprint arXiv:2107.03844 (2021).\n- Abhisek Chakrabarty, Onkar Arun Pandit, Utpal Garain. (2017). \"Context Sensitive Lemmatization Using Two Successive Bidirectional Gated Recurrent Networks.\" \ud83d\udcdc Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics, Vancouver, Canada (2017). \ud83d\udcc4 DOI: 10.18653/v1/P17-1136",
+  "datasetId": 3970995,
+  "datasetSlug": "bangla-lemmatization-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "abdullaharean",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 194,
+  "totalVotes": 9,
+  "totalDownloads": 8,
+  "title": "Bangla Lemmatization Dataset",
+  "hasTitle": true,
+  "subtitle": "Bangla Word To Lemma",
+  "hasSubtitle": true,
+  "description": "\ud83d\udcda Title: Bangla Lemmatization Dataset\n\n\ud83d\udcdd Description:\nThe \"Lemmatization Dataset\" is a treasure trove of lemmatized words \ud83d\udcd6 sourced from a diverse range of texts, with a prominent focus on Rabindranath Tagore's short stories and news articles spanning various domains. This dataset serves as a crucial asset for natural language processing tasks, particularly those targeting the Bengali language. \ud83c\udde7\ud83c\udde9\n\n\ud83d\udce6 Content:\nThis dataset is distributed as a single CSV file, \"lemmatization.csv,\" featuring two essential columns:\n\n- \"WORD\": Represents individual words from the source texts.\n- \"LEMMA\": Corresponds to the respective lemma forms of the words, aiding in linguistic analysis and understanding. \ud83e\udde0\n\ud83d\udcdc Licensing:\nThe original dataset does not explicitly specify a particular license. Users are encouraged to exercise due diligence and observe copyright and usage guidelines when incorporating this dataset into their research, projects, or applications. \ud83d\udea7\n\n\ud83d\udcda Citation:\n\n- Firoj Alam, Md Arid Hasan, Tanvir Alam, Akib Khan, Janntatul Tajrin, Naira Khan, Shammur Absar Chowdhury. (2021). \"A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models.\" \ud83d\udcd1 arXiv preprint arXiv:2107.03844 (2021).\n- Abhisek Chakrabarty, Onkar Arun Pandit, Utpal Garain. (2017). \"Context Sensitive Lemmatization Using Two Successive Bidirectional Gated Recurrent Networks.\" \ud83d\udcdc Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics, Vancouver, Canada (2017). \ud83d\udcc4 DOI: 10.18653/v1/P17-1136",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "text generation",
+    "text sequence alignment",
+    "bengali"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

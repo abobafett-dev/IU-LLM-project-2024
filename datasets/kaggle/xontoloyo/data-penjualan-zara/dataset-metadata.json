@@ -1,0 +1,43 @@
+{
+  "id": "xontoloyo/data-penjualan-zara",
+  "id_no": 4501757,
+  "datasetSlugNullable": "data-penjualan-zara",
+  "ownerUserNullable": "xontoloyo",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "ZARA Sales",
+  "subtitleNullable": "Exploring Customer Purchase Patterns and Product Performance",
+  "descriptionNullable": "This Zara sales dataset contains information about product sales from Zara stores over a specific period of time. The dataset includes various attributes relevant to sales, such as product ID, product name, product category, price, sales volume, sales date, and store location. This data can be used to analyze product sales trends, sales performance across different product categories, the effectiveness of promotions, customer purchasing patterns, and other factors that influence Zara's sales performance. Analyzing this dataset can provide valuable insights for Zara management in optimizing marketing strategies, inventory management, and other decision-making processes to enhance revenue and profitability.",
+  "datasetId": 4501757,
+  "datasetSlug": "data-penjualan-zara",
+  "hasDatasetSlug": true,
+  "ownerUser": "xontoloyo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 19947,
+  "totalVotes": 63,
+  "totalDownloads": 5328,
+  "title": "ZARA Sales",
+  "hasTitle": true,
+  "subtitle": "Exploring Customer Purchase Patterns and Product Performance",
+  "hasSubtitle": true,
+  "description": "This Zara sales dataset contains information about product sales from Zara stores over a specific period of time. The dataset includes various attributes relevant to sales, such as product ID, product name, product category, price, sales volume, sales date, and store location. This data can be used to analyze product sales trends, sales performance across different product categories, the effectiveness of promotions, customer purchasing patterns, and other factors that influence Zara's sales performance. Analyzing this dataset can provide valuable insights for Zara management in optimizing marketing strategies, inventory management, and other decision-making processes to enhance revenue and profitability.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "business",
+    "beginner",
+    "data cleaning",
+    "data analytics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

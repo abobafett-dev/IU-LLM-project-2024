@@ -1,0 +1,40 @@
+{
+  "id": "nexdatafrank/infrared-face-recognition-data",
+  "id_no": 3884909,
+  "datasetSlugNullable": "infrared-face-recognition-data",
+  "ownerUserNullable": "nexdatafrank",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Infrared Face Recognition Data",
+  "subtitleNullable": "",
+  "descriptionNullable": "**Description**\nThe collecting scenes of this dataset include indoor scenes and outdoor scenes. The data includes male and female. The age distribution ranges from child to the elderly, the young people and the middle aged are the majorities. The collecting device is realsense D453i. The data diversity includes multiple age periods, multiple facial postures, multiple scenes. The data can be used for tasks such as infrared face recognition.\nFor more details, please visit: https://www.nexdata.ai/datasets/1134?source=Kaggle\n\n**Specifications**\nData size\n5,993 people, 28 images for each person (RGB + IR)\nPopulation distribution\nrace distribution: Asian; gender distribution: 3,074 male, 2,919 female; age distribution:ranging from teenager to the elderly, the middle-aged and young people are the majorities\nCollecting environment\nindoor scenes, outdoor scenes\nData diversity\nmultiple age periods, multiple facial postures, multiple scenes\nDevice\nRealsense D453i, the resolution is 1,280*720\nData format\nthe image data format is .jpg, the camera parameter information file format is .txt\nAnnotation content\nlabel the person \u2013 ID, race, gender, age, facial action, collecting scene\nAccuracy rate\nbased on the accuracy of the actions, the accuracy exceeds 97%; the accuracy of label annotation is not less than 97%\n\n**Get the Dataset**\nThis is just an example of the data. To access more sample data or request the price, contact us  at info@nexdata.ai",
+  "datasetId": 3884909,
+  "datasetSlug": "infrared-face-recognition-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "nexdatafrank",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 395,
+  "totalVotes": 1,
+  "totalDownloads": 38,
+  "title": "Infrared Face Recognition Data",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "**Description**\nThe collecting scenes of this dataset include indoor scenes and outdoor scenes. The data includes male and female. The age distribution ranges from child to the elderly, the young people and the middle aged are the majorities. The collecting device is realsense D453i. The data diversity includes multiple age periods, multiple facial postures, multiple scenes. The data can be used for tasks such as infrared face recognition.\nFor more details, please visit: https://www.nexdata.ai/datasets/1134?source=Kaggle\n\n**Specifications**\nData size\n5,993 people, 28 images for each person (RGB + IR)\nPopulation distribution\nrace distribution: Asian; gender distribution: 3,074 male, 2,919 female; age distribution:ranging from teenager to the elderly, the middle-aged and young people are the majorities\nCollecting environment\nindoor scenes, outdoor scenes\nData diversity\nmultiple age periods, multiple facial postures, multiple scenes\nDevice\nRealsense D453i, the resolution is 1,280*720\nData format\nthe image data format is .jpg, the camera parameter information file format is .txt\nAnnotation content\nlabel the person \u2013 ID, race, gender, age, facial action, collecting scene\nAccuracy rate\nbased on the accuracy of the actions, the accuracy exceeds 97%; the accuracy of label annotation is not less than 97%\n\n**Get the Dataset**\nThis is just an example of the data. To access more sample data or request the price, contact us  at info@nexdata.ai",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

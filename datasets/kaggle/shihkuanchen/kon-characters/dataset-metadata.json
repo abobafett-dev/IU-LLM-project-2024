@@ -1,0 +1,39 @@
+{
+  "id": "shihkuanchen/kon-characters",
+  "id_no": 838884,
+  "datasetSlugNullable": "kon-characters",
+  "ownerUserNullable": "shihkuanchen",
+  "usabilityRatingNullable": 0.4375,
+  "titleNullable": "k-on_characters",
+  "subtitleNullable": "",
+  "descriptionNullable": "Labeled images of characters from the anime, K-On!!. Each image (.jpg, .png) matches to a label (.txt) file of the same name that designates the position of ground truth bounding boxes in that image. Currently available characters and their class label include the following:\n0 - Hirasawa Yui\n1 - Tainaka Ritsu\n2 - Kotobuki Tsumugi\n3 - Akiyama Mio\n4 - Nakano Azusa\nThis is detailed in the classes.txt file.",
+  "datasetId": 838884,
+  "datasetSlug": "kon-characters",
+  "hasDatasetSlug": true,
+  "ownerUser": "shihkuanchen",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.4375,
+  "hasUsabilityRating": true,
+  "totalViews": 944,
+  "totalVotes": 4,
+  "totalDownloads": 16,
+  "title": "k-on_characters",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Labeled images of characters from the anime, K-On!!. Each image (.jpg, .png) matches to a label (.txt) file of the same name that designates the position of ground truth bounding boxes in that image. Currently available characters and their class label include the following:\n0 - Hirasawa Yui\n1 - Tainaka Ritsu\n2 - Kotobuki Tsumugi\n3 - Akiyama Mio\n4 - Nakano Azusa\nThis is detailed in the classes.txt file.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

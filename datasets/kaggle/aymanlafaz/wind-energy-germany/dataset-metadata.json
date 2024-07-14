@@ -1,0 +1,46 @@
+{
+  "id": "aymanlafaz/wind-energy-germany",
+  "id_no": 1820114,
+  "datasetSlugNullable": "wind-energy-germany",
+  "ownerUserNullable": "aymanlafaz",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Wind Energy in Germany",
+  "subtitleNullable": "Temperature and wind energy production 2017-2019",
+  "descriptionNullable": "### Context\n\nThe goal of this dataset is to forecast wind power generation at a daily rate using different time series and traditional machine learning models.\n\n\n### Content\nThis dataset is pretty simple, It's a time series dataset containing measurements of daily temperature, wind production and capacity from 2017 to 2019.\n\nThe columns in the dataset are : \n* utc_timestamp : Time in UTC \n* wind_generation : Daily wind production in MW\n* wind_capacity : Electrical capacity of wind in MW\n* temperature : Daily Temperature in degrees C\n\n### Acknowledgements\n\nI would like to thank OPSD for making this dataset available publicly.\nhttps://open-power-system-data.org/",
+  "datasetId": 1820114,
+  "datasetSlug": "wind-energy-germany",
+  "hasDatasetSlug": true,
+  "ownerUser": "aymanlafaz",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5244,
+  "totalVotes": 10,
+  "totalDownloads": 614,
+  "title": "Wind Energy in Germany",
+  "hasTitle": true,
+  "subtitle": "Temperature and wind energy production 2017-2019",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe goal of this dataset is to forecast wind power generation at a daily rate using different time series and traditional machine learning models.\n\n\n### Content\nThis dataset is pretty simple, It's a time series dataset containing measurements of daily temperature, wind production and capacity from 2017 to 2019.\n\nThe columns in the dataset are : \n* utc_timestamp : Time in UTC \n* wind_generation : Daily wind production in MW\n* wind_capacity : Electrical capacity of wind in MW\n* temperature : Daily Temperature in degrees C\n\n### Acknowledgements\n\nI would like to thank OPSD for making this dataset available publicly.\nhttps://open-power-system-data.org/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "energy",
+    "renewable energy",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "elmustaphachennouf",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

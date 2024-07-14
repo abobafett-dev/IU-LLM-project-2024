@@ -1,0 +1,48 @@
+{
+  "id": "yashdharme36/airfare-ml-predicting-flight-fares",
+  "id_no": 3010892,
+  "datasetSlugNullable": "airfare-ml-predicting-flight-fares",
+  "ownerUserNullable": "yashdharme36",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Airfare ML : Predicting Flight Fares",
+  "subtitleNullable": "Flight data for informed ticket purchases : scraped from EaseMyTrip with Python",
+  "descriptionNullable": "**Context:**\nThis dataset contains flight fare data that was collected from the EaseMyTrip website using web scraping techniques. The data was collected with the goal of providing users with information that could help them make informed decisions about when and where to purchase flight tickets. By analyzing patterns in flight fares over time, users can identify the best times to book tickets and potentially save money.\n\n\n**Sources:**\n1. Data collected using Python script with Beautiful Soup and Selenium libraries.\n2. Script collected data on various flight details such as Date of booking, Date of travel, Airline and class, Departure time and source, Arrival time and destination, Duration, Total stops, Price.\n3. The scraping process was designed to collect data for flights departing from a specific set of airports (Top 7 busiest airports in India).\nNote that the Departure Time feature also includes the Source airport, and the Arrival Time feature also includes the Destination airport. Which is later extracted in Cleaned_dataset. Also both cleaned and scraped datasets have provided so that one can use dataset as per their requirement and convenience.\n\n\n**Inspiration:**\n1. Dataset created to provide users with valuable resource for analyzing flight fares in India.\n2. Detailed information on flight fares over time can be used to develop more accurate pricing models and inform users about best times to book tickets.\n3. Data can also be used to study trends and patterns in the travel industry through air can act as a valuable resource for researchers and analysts.\n\n\n**Limitations:**\n1. This dataset only covers flights departing from specific airports and limited to a certain time period.\n2. To perform time series analysis one have gather data for at least top 10 busiest airports for 365 days.\n3. This does not cover variations in aviation fuel prices as this is the one of influencing factor for deciding fare, hence the same dataset might not be useful for next year, but I will try to update it twice in an year.\n4. Also demand and supply for the particular flight seat is not available in the dataset as this data is not publicly available on any flight booking web site.\n\n\n**Scope of Improvement:**\n1. The dataset could be enhanced by including additional features such as current aviation fuel prices and the distance between the source and destination in terms of longitude and latitude.\n2. The data could also be expanded to include more airlines and more airports, providing a more comprehensive view of the flight market.\n3. Additionally, it may be helpful to include data on flight cancellations, delays, and other factors that can impact the price and availability of flights.\n4. Finally, while the current dataset provides information on flight prices, it does not include information on the quality of the flight experience, such as legroom, in-flight amenities, and customer reviews. Including this type of data could provide a more complete picture of the flight market and help travelers make more informed decisions.",
+  "datasetId": 3010892,
+  "datasetSlug": "airfare-ml-predicting-flight-fares",
+  "hasDatasetSlug": true,
+  "ownerUser": "yashdharme36",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 19567,
+  "totalVotes": 46,
+  "totalDownloads": 3120,
+  "title": "Airfare ML : Predicting Flight Fares",
+  "hasTitle": true,
+  "subtitle": "Flight data for informed ticket purchases : scraped from EaseMyTrip with Python",
+  "hasSubtitle": true,
+  "description": "**Context:**\nThis dataset contains flight fare data that was collected from the EaseMyTrip website using web scraping techniques. The data was collected with the goal of providing users with information that could help them make informed decisions about when and where to purchase flight tickets. By analyzing patterns in flight fares over time, users can identify the best times to book tickets and potentially save money.\n\n\n**Sources:**\n1. Data collected using Python script with Beautiful Soup and Selenium libraries.\n2. Script collected data on various flight details such as Date of booking, Date of travel, Airline and class, Departure time and source, Arrival time and destination, Duration, Total stops, Price.\n3. The scraping process was designed to collect data for flights departing from a specific set of airports (Top 7 busiest airports in India).\nNote that the Departure Time feature also includes the Source airport, and the Arrival Time feature also includes the Destination airport. Which is later extracted in Cleaned_dataset. Also both cleaned and scraped datasets have provided so that one can use dataset as per their requirement and convenience.\n\n\n**Inspiration:**\n1. Dataset created to provide users with valuable resource for analyzing flight fares in India.\n2. Detailed information on flight fares over time can be used to develop more accurate pricing models and inform users about best times to book tickets.\n3. Data can also be used to study trends and patterns in the travel industry through air can act as a valuable resource for researchers and analysts.\n\n\n**Limitations:**\n1. This dataset only covers flights departing from specific airports and limited to a certain time period.\n2. To perform time series analysis one have gather data for at least top 10 busiest airports for 365 days.\n3. This does not cover variations in aviation fuel prices as this is the one of influencing factor for deciding fare, hence the same dataset might not be useful for next year, but I will try to update it twice in an year.\n4. Also demand and supply for the particular flight seat is not available in the dataset as this data is not publicly available on any flight booking web site.\n\n\n**Scope of Improvement:**\n1. The dataset could be enhanced by including additional features such as current aviation fuel prices and the distance between the source and destination in terms of longitude and latitude.\n2. The data could also be expanded to include more airlines and more airports, providing a more comprehensive view of the flight market.\n3. Additionally, it may be helpful to include data on flight cancellations, delays, and other factors that can impact the price and availability of flights.\n4. Finally, while the current dataset provides information on flight prices, it does not include information on the quality of the flight experience, such as legroom, in-flight amenities, and customer reviews. Including this type of data could provide a more complete picture of the flight market and help travelers make more informed decisions.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "aviation",
+    "exploratory data analysis",
+    "data cleaning",
+    "time series analysis",
+    "regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [
+    {
+      "username": "yogeshsahu240896",
+      "role": "writer"
+    }
+  ],
+  "data": []
+}

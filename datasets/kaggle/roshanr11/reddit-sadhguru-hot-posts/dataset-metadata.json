@@ -1,0 +1,43 @@
+{
+  "id": "roshanr11/reddit-sadhguru-hot-posts",
+  "id_no": 1941462,
+  "datasetSlugNullable": "reddit-sadhguru-hot-posts",
+  "ownerUserNullable": "roshanr11",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Reddit: r/Sadhguru Hot Posts",
+  "subtitleNullable": "r/Sadhguru subreddit hot posts",
+  "descriptionNullable": "### Context\n\nr/Sadhguru, is a subreddit where people discuss about Sadhguru. \n\nSadhguru is a yogi and visionary. Named one of India\u2019s 50 most influential people, Sadhguru\u2019s work has touched the lives of millions worldwide through his transformational programs. Sadhguru has a unique ability to make the ancient yogic and meditation sciences relevant to contemporary minds. His approach does not ascribe to any belief system, but offers methods for self-transformation that are both proven and powerful.\n\n\n\n### Content\n\nHot Reddit posts from subreddit Sadhguru, downloaded from https://www.reddit.com/r/Sadhguru/ using praw (The Python Reddit API Wrapper).\n\nData contains the most recent hot posts.\nPosts contain the following fields:\n\ntitle - relevant for posts\nscore - relevant for posts - based on impact, number of comments\nid - unique id for posts/comments\nurl - relevant for posts - url of post thread\nnum_comments - relevant for post - number of comments to this post\nbody - relevant for posts/comments - text of the post or comment\ncreated - date of creation\n\n### Inspiration\n\nPossible uses of this data include:\n- Performing sentiment analysis\n- Identifying discussion topics\n\nEnjoy!",
+  "datasetId": 1941462,
+  "datasetSlug": "reddit-sadhguru-hot-posts",
+  "hasDatasetSlug": true,
+  "ownerUser": "roshanr11",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 1660,
+  "totalVotes": 14,
+  "totalDownloads": 74,
+  "title": "Reddit: r/Sadhguru Hot Posts",
+  "hasTitle": true,
+  "subtitle": "r/Sadhguru subreddit hot posts",
+  "hasSubtitle": true,
+  "description": "### Context\n\nr/Sadhguru, is a subreddit where people discuss about Sadhguru. \n\nSadhguru is a yogi and visionary. Named one of India\u2019s 50 most influential people, Sadhguru\u2019s work has touched the lives of millions worldwide through his transformational programs. Sadhguru has a unique ability to make the ancient yogic and meditation sciences relevant to contemporary minds. His approach does not ascribe to any belief system, but offers methods for self-transformation that are both proven and powerful.\n\n\n\n### Content\n\nHot Reddit posts from subreddit Sadhguru, downloaded from https://www.reddit.com/r/Sadhguru/ using praw (The Python Reddit API Wrapper).\n\nData contains the most recent hot posts.\nPosts contain the following fields:\n\ntitle - relevant for posts\nscore - relevant for posts - based on impact, number of comments\nid - unique id for posts/comments\nurl - relevant for posts - url of post thread\nnum_comments - relevant for post - number of comments to this post\nbody - relevant for posts/comments - text of the post or comment\ncreated - date of creation\n\n### Inspiration\n\nPossible uses of this data include:\n- Performing sentiment analysis\n- Identifying discussion topics\n\nEnjoy!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "north america",
+    "asia",
+    "mental health",
+    "religion and belief systems",
+    "beginner"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

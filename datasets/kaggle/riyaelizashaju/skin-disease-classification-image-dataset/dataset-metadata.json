@@ -1,0 +1,42 @@
+{
+  "id": "riyaelizashaju/skin-disease-classification-image-dataset",
+  "id_no": 2999773,
+  "datasetSlugNullable": "skin-disease-classification-image-dataset",
+  "ownerUserNullable": "riyaelizashaju",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Skin Disease Classification [Image Dataset]",
+  "subtitleNullable": "900 images to classify 9 diseases (80:20 split)",
+  "descriptionNullable": "This dataset can be used to classify the following diseases:\n1. Actinic keratosis\n2. Atopic Dermatitis\n3. Benign keratosis\n4. Dermatofibroma\n5. Melanocytic nevus\n6. Melanoma\n7. Squamous cell carcinoma\n8. Tinea Ringworm Candidiasis\n9. Vascular lesion",
+  "datasetId": 2999773,
+  "datasetSlug": "skin-disease-classification-image-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "riyaelizashaju",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 11143,
+  "totalVotes": 12,
+  "totalDownloads": 1694,
+  "title": "Skin Disease Classification [Image Dataset]",
+  "hasTitle": true,
+  "subtitle": "900 images to classify 9 diseases (80:20 split)",
+  "hasSubtitle": true,
+  "description": "This dataset can be used to classify the following diseases:\n1. Actinic keratosis\n2. Atopic Dermatitis\n3. Benign keratosis\n4. Dermatofibroma\n5. Melanocytic nevus\n6. Melanoma\n7. Squamous cell carcinoma\n8. Tinea Ringworm Candidiasis\n9. Vascular lesion",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "image",
+    "cancer",
+    "multilabel classification",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

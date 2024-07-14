@@ -1,0 +1,42 @@
+{
+  "id": "oliviervha/crypto-news",
+  "id_no": 1712408,
+  "datasetSlugNullable": "crypto-news",
+  "ownerUserNullable": "oliviervha",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Crypto News +",
+  "subtitleNullable": "Crypto news articles containing title, text, and the sentiment analysis. ",
+  "descriptionNullable": "### Context\n\nCrypto news data from over a year (2021-10-12 / 2023-12-19) in a structured format including title, text, source, subject, and sentiment analysis. \n\n### Content\n\nCrypto news is scraped from the web. The sentiment analysis is performed using textblob. \n\n### Updates\nWe are trying to provide monthly updates on the dataset. \n\n### Acknowledgements\n\nSources used:\n- cryptonews.com\n- cryptopotato.com\n- cointelegraph.com\n\n### Inspiration\n\nThis dataset can be an addition to all kind of crypto models one can think of (e.g. BTC price prediction). \n",
+  "datasetId": 1712408,
+  "datasetSlug": "crypto-news",
+  "hasDatasetSlug": true,
+  "ownerUser": "oliviervha",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 8509,
+  "totalVotes": 28,
+  "totalDownloads": 1151,
+  "title": "Crypto News +",
+  "hasTitle": true,
+  "subtitle": "Crypto news articles containing title, text, and the sentiment analysis. ",
+  "hasSubtitle": true,
+  "description": "### Context\n\nCrypto news data from over a year (2021-10-12 / 2023-12-19) in a structured format including title, text, source, subject, and sentiment analysis. \n\n### Content\n\nCrypto news is scraped from the web. The sentiment analysis is performed using textblob. \n\n### Updates\nWe are trying to provide monthly updates on the dataset. \n\n### Acknowledgements\n\nSources used:\n- cryptonews.com\n- cryptopotato.com\n- cointelegraph.com\n\n### Inspiration\n\nThis dataset can be an addition to all kind of crypto models one can think of (e.g. BTC price prediction). \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "nlp",
+    "text",
+    "investing",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

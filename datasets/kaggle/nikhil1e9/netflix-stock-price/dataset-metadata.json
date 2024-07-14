@@ -1,0 +1,43 @@
+{
+  "id": "nikhil1e9/netflix-stock-price",
+  "id_no": 3535806,
+  "datasetSlugNullable": "netflix-stock-price",
+  "ownerUserNullable": "nikhil1e9",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "MAANG companies Stock prices (updated daily)",
+  "subtitleNullable": "Full historical data of stock prices of MAANG companies since their IPO",
+  "descriptionNullable": "## Description\n&gt; This dataset contains the full historical data of the stock prices for **MAANG** companies since their Initial Public Offering (IPO). **MAANG** is an acronym that stands for ***Meta, Amazon, Apple, Netflix, and Google***. The dataset contains daily, weekly, and monthly stock prices for each company and is automatically updated daily with the latest data obtained from [Yahoo Finance](https://finance.yahoo.com/).\n\n## Features\n&gt; - **Date**: The specific date on which the stock price was recorded.\n&gt; - **Open**: The opening price of the company's stock on that particular day.\n&gt; - **High**: The highest trading price of the company's stock on that day.\n&gt; - **Low**: The lowest trading price of the company's stock on that day.\n&gt; - **Close**: The closing price of the company's stock on that day.\n&gt; - **Adj Close**: The adjusted closing price of the company's stock on that day.\n&gt; - **Volume**: The total number of shares traded on that day.\n\n## Use cases\n&gt; This dataset can be utilized for a wide range of applications, including but not limited to:\n- **Market Analysis**: Conduct comprehensive market studies, analyze trends, and spot seasonal patterns.\n- **Investment Strategies**: Develop and backtest investment strategies based on historical price movements.\n- **Forecasting**: Build predictive models to forecast future stock prices and make informed decisions.\n- **Trading Algorithms**: Design and test trading algorithms to capitalize on market opportunities.\n\nPlease, provide an upvote\ud83d\udc4dif the dataset was useful for your task. It would be much appreciated\ud83d\ude04",
+  "datasetId": 3535806,
+  "datasetSlug": "netflix-stock-price",
+  "hasDatasetSlug": true,
+  "ownerUser": "nikhil1e9",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3159,
+  "totalVotes": 30,
+  "totalDownloads": 912,
+  "title": "MAANG companies Stock prices (updated daily)",
+  "hasTitle": true,
+  "subtitle": "Full historical data of stock prices of MAANG companies since their IPO",
+  "hasSubtitle": true,
+  "description": "## Description\n&gt; This dataset contains the full historical data of the stock prices for **MAANG** companies since their Initial Public Offering (IPO). **MAANG** is an acronym that stands for ***Meta, Amazon, Apple, Netflix, and Google***. The dataset contains daily, weekly, and monthly stock prices for each company and is automatically updated daily with the latest data obtained from [Yahoo Finance](https://finance.yahoo.com/).\n\n## Features\n&gt; - **Date**: The specific date on which the stock price was recorded.\n&gt; - **Open**: The opening price of the company's stock on that particular day.\n&gt; - **High**: The highest trading price of the company's stock on that day.\n&gt; - **Low**: The lowest trading price of the company's stock on that day.\n&gt; - **Close**: The closing price of the company's stock on that day.\n&gt; - **Adj Close**: The adjusted closing price of the company's stock on that day.\n&gt; - **Volume**: The total number of shares traded on that day.\n\n## Use cases\n&gt; This dataset can be utilized for a wide range of applications, including but not limited to:\n- **Market Analysis**: Conduct comprehensive market studies, analyze trends, and spot seasonal patterns.\n- **Investment Strategies**: Develop and backtest investment strategies based on historical price movements.\n- **Forecasting**: Build predictive models to forecast future stock prices and make informed decisions.\n- **Trading Algorithms**: Design and test trading algorithms to capitalize on market opportunities.\n\nPlease, provide an upvote\ud83d\udc4dif the dataset was useful for your task. It would be much appreciated\ud83d\ude04",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "time series analysis",
+    "tabular",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "akashdeepkuila/big-mart-sales",
+  "id_no": 1593544,
+  "datasetSlugNullable": "big-mart-sales",
+  "ownerUserNullable": "akashdeepkuila",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Big Mart Sales",
+  "subtitleNullable": "Big Mart Sales Prediction",
+  "descriptionNullable": "## Context\nThe data scientists at Big Mart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales of each product at a particular outlet.\n\nUsing this model, Big Mart will try to understand the properties of products and outlets which play a key role in increasing sales.\n\nPlease note that the data may have missing values as some stores might not report all the data due to technical glitches. Hence, it will be required to treat them accordingly.\n\n## Content\nThe dataset provides the product details and the outlet information of the products purchased with their sales value split into a train set (8523) and a test (5681) set.\nTrain file: CSV containing the item outlet information with sales value\nTest file: CSV containing item outlet combinations for which sales need to be forecasted\n\n## Variable Description\n- `ProductID`\t: unique product ID\n- `Weight` : weight of products\n- `FatContent` : specifies whether the product is low on fat or not\n- `Visibility` : percentage of total display area of all products in a store allocated to the particular product\n- `ProductType` : the category to which the product belongs\n- `MRP` : Maximum Retail Price (listed price) of the products\n- `OutletID` : unique store ID\n- `EstablishmentYear` : year of establishment of the outlets\n- `OutletSize` : the size of the store in terms of ground area covered\n- `LocationType` : the type of city in which the store is located\n- `OutletType` : specifies whether the outlet is just a grocery store or some sort of supermarket\n- `OutletSales` : (target variable) sales of the product in the particular store\n\n## Inspiration\nSales of a given product at a retail store can depend both on store attributes as well as product attributes. The dataset is ideal to explore and build a data science model to predict the future sales.",
+  "datasetId": 1593544,
+  "datasetSlug": "big-mart-sales",
+  "hasDatasetSlug": true,
+  "ownerUser": "akashdeepkuila",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 44521,
+  "totalVotes": 67,
+  "totalDownloads": 7105,
+  "title": "Big Mart Sales",
+  "hasTitle": true,
+  "subtitle": "Big Mart Sales Prediction",
+  "hasSubtitle": true,
+  "description": "## Context\nThe data scientists at Big Mart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales of each product at a particular outlet.\n\nUsing this model, Big Mart will try to understand the properties of products and outlets which play a key role in increasing sales.\n\nPlease note that the data may have missing values as some stores might not report all the data due to technical glitches. Hence, it will be required to treat them accordingly.\n\n## Content\nThe dataset provides the product details and the outlet information of the products purchased with their sales value split into a train set (8523) and a test (5681) set.\nTrain file: CSV containing the item outlet information with sales value\nTest file: CSV containing item outlet combinations for which sales need to be forecasted\n\n## Variable Description\n- `ProductID`\t: unique product ID\n- `Weight` : weight of products\n- `FatContent` : specifies whether the product is low on fat or not\n- `Visibility` : percentage of total display area of all products in a store allocated to the particular product\n- `ProductType` : the category to which the product belongs\n- `MRP` : Maximum Retail Price (listed price) of the products\n- `OutletID` : unique store ID\n- `EstablishmentYear` : year of establishment of the outlets\n- `OutletSize` : the size of the store in terms of ground area covered\n- `LocationType` : the type of city in which the store is located\n- `OutletType` : specifies whether the outlet is just a grocery store or some sort of supermarket\n- `OutletSales` : (target variable) sales of the product in the particular store\n\n## Inspiration\nSales of a given product at a retail store can depend both on store attributes as well as product attributes. The dataset is ideal to explore and build a data science model to predict the future sales.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "exploratory data analysis",
+    "data analytics",
+    "classification",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

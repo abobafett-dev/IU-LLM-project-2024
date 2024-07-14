@@ -1,0 +1,42 @@
+{
+  "id": "brendanartley/cartoon-faces-googles-cartoon-set",
+  "id_no": 1852588,
+  "datasetSlugNullable": "cartoon-faces-googles-cartoon-set",
+  "ownerUserNullable": "brendanartley",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Cartoon Faces (Google's Cartoon Set)",
+  "subtitleNullable": "Cartoon Set is a collection of random, 2D cartoon avatar images.",
+  "descriptionNullable": "### Context\n\nAll credit for this dataset goes to the Google Team who built this dataset.\n\nSee the official page for the dataset here --&gt; [Cartoon Set](https://google.github.io/cartoonset/index.html)\n\n''\nCartoon Set is a collection of random, 2D cartoon avatar images. The cartoons vary in 10 artwork categories, 4 color categories, and 4 proportion categories, with a total of ~1013 possible combinations. We provide sets of 10k and 100k randomly chosen cartoons and labeled attributes.\n''\n\n### Content\n\nThe original images are in a PNG format, but I converted them to a JPG format to limit the amount of memory used to store the images. There are 10 subfolders that each contain 10k of the 100k images. Each image is 500x500 pixels. \n\n### Supporting Datasets\n\n10/21/2023: [@kirkdco](https://www.kaggle.com/kirkdco) provides a great supporting dataset with attribute information for each image. dataset [here](https://www.kaggle.com/datasets/kirkdco/google-cartoon-faces-attributes).\n\n### Inspiration\n\nI would love to see some GAN models built with this dataset. That being said, I would love to see anything creative that comes from this dataset. Experiment away!",
+  "datasetId": 1852588,
+  "datasetSlug": "cartoon-faces-googles-cartoon-set",
+  "hasDatasetSlug": true,
+  "ownerUser": "brendanartley",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 6132,
+  "totalVotes": 23,
+  "totalDownloads": 974,
+  "title": "Cartoon Faces (Google's Cartoon Set)",
+  "hasTitle": true,
+  "subtitle": "Cartoon Set is a collection of random, 2D cartoon avatar images.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nAll credit for this dataset goes to the Google Team who built this dataset.\n\nSee the official page for the dataset here --&gt; [Cartoon Set](https://google.github.io/cartoonset/index.html)\n\n''\nCartoon Set is a collection of random, 2D cartoon avatar images. The cartoons vary in 10 artwork categories, 4 color categories, and 4 proportion categories, with a total of ~1013 possible combinations. We provide sets of 10k and 100k randomly chosen cartoons and labeled attributes.\n''\n\n### Content\n\nThe original images are in a PNG format, but I converted them to a JPG format to limit the amount of memory used to store the images. There are 10 subfolders that each contain 10k of the 100k images. Each image is 500x500 pixels. \n\n### Supporting Datasets\n\n10/21/2023: [@kirkdco](https://www.kaggle.com/kirkdco) provides a great supporting dataset with attribute information for each image. dataset [here](https://www.kaggle.com/datasets/kirkdco/google-cartoon-faces-attributes).\n\n### Inspiration\n\nI would love to see some GAN models built with this dataset. That being said, I would love to see anything creative that comes from this dataset. Experiment away!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "people",
+    "education",
+    "image",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

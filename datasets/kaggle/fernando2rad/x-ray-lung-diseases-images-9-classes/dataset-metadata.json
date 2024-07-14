@@ -1,0 +1,41 @@
+{
+  "id": "fernando2rad/x-ray-lung-diseases-images-9-classes",
+  "id_no": 2907639,
+  "datasetSlugNullable": "x-ray-lung-diseases-images-9-classes",
+  "ownerUserNullable": "fernando2rad",
+  "usabilityRatingNullable": 0.625,
+  "titleNullable": "X-ray Lung Diseases Images (9 classes)",
+  "subtitleNullable": "450p images synthetically augmented database",
+  "descriptionNullable": "A collection of chest X-rays classified into 9 different categories according to their most relevant characteristics, namely:\nNormal, Inflammatory processes (pneumonia), Higher density (pleural effusion, atelectatic consolidation, hydrothorax, empyema), Lower density (pneumotorax, pneumomediastinum, pneumoperitoneum), Obstructive pulmonary diseases (emphysema, bronchopneumonia, bronchiectasis, embolism), Degenerative infectious diseases (tuberculosis , sarcoidosis, proteinosis, fibrosis), Encapsulated lesions (abscesses, nodules, cysts, tumor masses, metastases), Mediastinal changes (pericarditis, arteriovenous malformations, lymph node enlargement) and Chest changes (atelectasis, malformations, agenesis, hypoplasia).\nSynthetically augmented database.\nImages without any type of patient information, reported by radiologists and provided for study purposes.",
+  "datasetId": 2907639,
+  "datasetSlug": "x-ray-lung-diseases-images-9-classes",
+  "hasDatasetSlug": true,
+  "ownerUser": "fernando2rad",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.625,
+  "hasUsabilityRating": true,
+  "totalViews": 2490,
+  "totalVotes": 6,
+  "totalDownloads": 414,
+  "title": "X-ray Lung Diseases Images (9 classes)",
+  "hasTitle": true,
+  "subtitle": "450p images synthetically augmented database",
+  "hasSubtitle": true,
+  "description": "A collection of chest X-rays classified into 9 different categories according to their most relevant characteristics, namely:\nNormal, Inflammatory processes (pneumonia), Higher density (pleural effusion, atelectatic consolidation, hydrothorax, empyema), Lower density (pneumotorax, pneumomediastinum, pneumoperitoneum), Obstructive pulmonary diseases (emphysema, bronchopneumonia, bronchiectasis, embolism), Degenerative infectious diseases (tuberculosis , sarcoidosis, proteinosis, fibrosis), Encapsulated lesions (abscesses, nodules, cysts, tumor masses, metastases), Mediastinal changes (pericarditis, arteriovenous malformations, lymph node enlargement) and Chest changes (atelectasis, malformations, agenesis, hypoplasia).\nSynthetically augmented database.\nImages without any type of patient information, reported by radiologists and provided for study purposes.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

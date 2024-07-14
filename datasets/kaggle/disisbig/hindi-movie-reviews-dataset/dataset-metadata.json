@@ -1,0 +1,41 @@
+{
+  "id": "disisbig/hindi-movie-reviews-dataset",
+  "id_no": 454670,
+  "datasetSlugNullable": "hindi-movie-reviews-dataset",
+  "ownerUserNullable": "disisbig",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Hindi Movie Reviews Dataset",
+  "subtitleNullable": "Perform Sentiment Analysis and Text Classification in Hindi using this Dataset",
+  "descriptionNullable": "This data set contains ~900 Movie Reviews of 3 classes (Positive, Neutral, Negative) which I had collected from Hindi News Websites. The data set has been cleaned and contains fairly balanced train and test set using which you can train your sentiment analysis and classification models in Hindi.\n\nSince the data set is fairly small, you might want to do a 5-fold CV over the complete data set to gauge the performance of your model. \n\nYou can find the scripts I had used to prepare this data set [here](https://github.com/goru001/nlp-for-hindi/tree/master/datasets-preparation) ",
+  "datasetId": 454670,
+  "datasetSlug": "hindi-movie-reviews-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "disisbig",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 15853,
+  "totalVotes": 11,
+  "totalDownloads": 1473,
+  "title": "Hindi Movie Reviews Dataset",
+  "hasTitle": true,
+  "subtitle": "Perform Sentiment Analysis and Text Classification in Hindi using this Dataset",
+  "hasSubtitle": true,
+  "description": "This data set contains ~900 Movie Reviews of 3 classes (Positive, Neutral, Negative) which I had collected from Hindi News Websites. The data set has been cleaned and contains fairly balanced train and test set using which you can train your sentiment analysis and classification models in Hindi.\n\nSince the data set is fairly small, you might want to do a 5-fold CV over the complete data set to gauge the performance of your model. \n\nYou can find the scripts I had used to prepare this data set [here](https://github.com/goru001/nlp-for-hindi/tree/master/datasets-preparation) ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows",
+    "india",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

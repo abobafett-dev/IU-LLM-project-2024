@@ -1,0 +1,43 @@
+{
+  "id": "sarabhian/coswara-dataset-heavy-cough",
+  "id_no": 2079298,
+  "datasetSlugNullable": "coswara-dataset-heavy-cough",
+  "ownerUserNullable": "sarabhian",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Coswara Dataset ( heavy cough)",
+  "subtitleNullable": "covid classification using cough dataset of 5 continents ",
+  "descriptionNullable": "The Cosware Dataset ( heavy cough) is sub-dataset of [Coswara-Dataset](https://github.com/iiscleap/Coswara-Data) created by [IIScLeap](http://leap.ee.iisc.ac.in/) . This dataset consists of audio sound clips of heavy coughing from covid positive and covid negative patients from various locations in the world (five continents : Asia (90%), North America (5%), South America(0.14%) , Europe(2.5%) and Australia)  from last two years (i.e. year 2020 to 2022).\n\nThe data is public to use under license Attribution-NonCommercial-NoDerivatives 4.0 International , and all rights ,liabilities and responsibilities related to the usage of  dataset for research purpose depends on the IISc. those who wish to use the data for research can  go through the usage guidelines provided by IISc at the [github repo](https://github.com/iiscleap/Coswara-Data/blob/master/README.md)\n\nThis dataset ( subset ) is created in an intention to create  a guide for extracting,  preprocessing and executing various audio data features to classifiy Covid-19 patients.\n\nfor research ,people can refer the research papaer [https://arxiv.org/pdf/2012.01926.pdf](https://arxiv.org/pdf/2012.01926.pdf)\n\n\n`Info about dataset content` \n-  coswara_data : contains audio files with folder depicting id of the sample element\n-  csvs : information of all the participants for particular date\n- train : data with few preprocessed features like mfcc , delta1 mfcc , chroma stft and many more ( dataset don't contain labels)\n- train2 : contains date , id , path , audio features and status being positive or negative \n- train_original : it is combined form of all the csvs of all days with information about sample \n\nTask to be achieved on the dataset : implementing covid classification using audio or image (mfcc, spectrogram , mel-spectrogram) or preprocessed features ( train2.csv and train_original.csv).",
+  "datasetId": 2079298,
+  "datasetSlug": "coswara-dataset-heavy-cough",
+  "hasDatasetSlug": true,
+  "ownerUser": "sarabhian",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 5786,
+  "totalVotes": 19,
+  "totalDownloads": 594,
+  "title": "Coswara Dataset ( heavy cough)",
+  "hasTitle": true,
+  "subtitle": "covid classification using cough dataset of 5 continents ",
+  "hasSubtitle": true,
+  "description": "The Cosware Dataset ( heavy cough) is sub-dataset of [Coswara-Dataset](https://github.com/iiscleap/Coswara-Data) created by [IIScLeap](http://leap.ee.iisc.ac.in/) . This dataset consists of audio sound clips of heavy coughing from covid positive and covid negative patients from various locations in the world (five continents : Asia (90%), North America (5%), South America(0.14%) , Europe(2.5%) and Australia)  from last two years (i.e. year 2020 to 2022).\n\nThe data is public to use under license Attribution-NonCommercial-NoDerivatives 4.0 International , and all rights ,liabilities and responsibilities related to the usage of  dataset for research purpose depends on the IISc. those who wish to use the data for research can  go through the usage guidelines provided by IISc at the [github repo](https://github.com/iiscleap/Coswara-Data/blob/master/README.md)\n\nThis dataset ( subset ) is created in an intention to create  a guide for extracting,  preprocessing and executing various audio data features to classifiy Covid-19 patients.\n\nfor research ,people can refer the research papaer [https://arxiv.org/pdf/2012.01926.pdf](https://arxiv.org/pdf/2012.01926.pdf)\n\n\n`Info about dataset content` \n-  coswara_data : contains audio files with folder depicting id of the sample element\n-  csvs : information of all the participants for particular date\n- train : data with few preprocessed features like mfcc , delta1 mfcc , chroma stft and many more ( dataset don't contain labels)\n- train2 : contains date , id , path , audio features and status being positive or negative \n- train_original : it is combined form of all the csvs of all days with information about sample \n\nTask to be achieved on the dataset : implementing covid classification using audio or image (mfcc, spectrogram , mel-spectrogram) or preprocessed features ( train2.csv and train_original.csv).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "asia",
+    "classification",
+    "cnn",
+    "audio",
+    "covid19"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "name": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

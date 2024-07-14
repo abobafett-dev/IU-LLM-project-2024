@@ -1,0 +1,39 @@
+{
+  "id": "tanishqdublish/stock-market-predictions",
+  "id_no": 4458573,
+  "datasetSlugNullable": "stock-market-predictions",
+  "ownerUserNullable": "tanishqdublish",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Stock market predictions",
+  "subtitleNullable": "Contains daily news for stock market predictions",
+  "descriptionNullable": "Actually, I prepare this dataset for students on my Deep Learning and NLP course.\n\nBut I am also very happy to see kagglers play around with it.\n\nHave fun!\n\nDescription:\n\nThere are two channels of data provided in this dataset:\n\nNews data: I crawled historical news headlines from Reddit WorldNews Channel (/r/worldnews). They are ranked by reddit users' votes, and only the top 25 headlines are considered for a single date.\n(Range: 2008-06-08 to 2016-07-01)\n\nStock data: Dow Jones Industrial Average (DJIA) is used to \"prove the concept\".\n(Range: 2008-08-08 to 2016-07-01)\n\nI provided three data files in .csv format:\n\nRedditNews.csv: two columns\nThe first column is the \"date\", and second column is the \"news headlines\".\nAll news are ranked from top to bottom based on how hot they are.\nHence, there are 25 lines for each date.\n\nDJIA_table.csv:\nDownloaded directly from Yahoo Finance: check out the web page for more info.\n\nCombined_News_DJIA.csv:\nTo make things easier for my students, I provide this combined dataset with 27 columns.\nThe first column is \"Date\", the second is \"Label\", and the following ones are news headlines ranging from \"Top1\" to \"Top25\".",
+  "datasetId": 4458573,
+  "datasetSlug": "stock-market-predictions",
+  "hasDatasetSlug": true,
+  "ownerUser": "tanishqdublish",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3613,
+  "totalVotes": 30,
+  "totalDownloads": 485,
+  "title": "Stock market predictions",
+  "hasTitle": true,
+  "subtitle": "Contains daily news for stock market predictions",
+  "hasSubtitle": true,
+  "description": "Actually, I prepare this dataset for students on my Deep Learning and NLP course.\n\nBut I am also very happy to see kagglers play around with it.\n\nHave fun!\n\nDescription:\n\nThere are two channels of data provided in this dataset:\n\nNews data: I crawled historical news headlines from Reddit WorldNews Channel (/r/worldnews). They are ranked by reddit users' votes, and only the top 25 headlines are considered for a single date.\n(Range: 2008-06-08 to 2016-07-01)\n\nStock data: Dow Jones Industrial Average (DJIA) is used to \"prove the concept\".\n(Range: 2008-08-08 to 2016-07-01)\n\nI provided three data files in .csv format:\n\nRedditNews.csv: two columns\nThe first column is the \"date\", and second column is the \"news headlines\".\nAll news are ranked from top to bottom based on how hot they are.\nHence, there are 25 lines for each date.\n\nDJIA_table.csv:\nDownloaded directly from Yahoo Finance: check out the web page for more info.\n\nCombined_News_DJIA.csv:\nTo make things easier for my students, I provide this combined dataset with 27 columns.\nThe first column is \"Date\", the second is \"Label\", and the following ones are news headlines ranging from \"Top1\" to \"Top25\".",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "vysakhvms/rewards",
+  "id_no": 2314410,
+  "datasetSlugNullable": "rewards",
+  "ownerUserNullable": "vysakhvms",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Rewards",
+  "subtitleNullable": "Reward Type Prediction Dataset",
+  "descriptionNullable": "This dataset contains information related to Retail/E-commerce sales and the type of rewards that is achieved by the customers. The dataset consist of only 150 records.\n\nThe dataset contains the following columns:\nGender, Age, Membership, Loyalty Points, Discount, Gift, Earlybird, Reward\n\nGender- Categorical variable. It denotes the customer's gender.\nAge - Numerical variable. It denotes the age of the customer.\nMembership - Categorical variable. It denotes type of membership selected by the customer.\nLoyalty Points - Categorical variable. It denotes loyalty points achieved by the customer.\nDiscount- Categorical variable. It denotes whether customer is eligible for discount or not.\nGift- Categorical variable. It denotes whether customer is eligible for gift or not.\nEarlybird - Categorical variable. It denotes whether the customer gets information about offers on priority basis.\nReward - Categorical variable. It denotes the type of reward achieved by the customer.\n\nReward is our target variable.",
+  "datasetId": 2314410,
+  "datasetSlug": "rewards",
+  "hasDatasetSlug": true,
+  "ownerUser": "vysakhvms",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 1438,
+  "totalVotes": 10,
+  "totalDownloads": 222,
+  "title": "Rewards",
+  "hasTitle": true,
+  "subtitle": "Reward Type Prediction Dataset",
+  "hasSubtitle": true,
+  "description": "This dataset contains information related to Retail/E-commerce sales and the type of rewards that is achieved by the customers. The dataset consist of only 150 records.\n\nThe dataset contains the following columns:\nGender, Age, Membership, Loyalty Points, Discount, Gift, Earlybird, Reward\n\nGender- Categorical variable. It denotes the customer's gender.\nAge - Numerical variable. It denotes the age of the customer.\nMembership - Categorical variable. It denotes type of membership selected by the customer.\nLoyalty Points - Categorical variable. It denotes loyalty points achieved by the customer.\nDiscount- Categorical variable. It denotes whether customer is eligible for discount or not.\nGift- Categorical variable. It denotes whether customer is eligible for gift or not.\nEarlybird - Categorical variable. It denotes whether the customer gets information about offers on priority basis.\nReward - Categorical variable. It denotes the type of reward achieved by the customer.\n\nReward is our target variable.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "exploratory data analysis",
+    "classification",
+    "logistic regression",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "michau96/ratings-of-the-most-popular-anime",
+  "id_no": 1751002,
+  "datasetSlugNullable": "ratings-of-the-most-popular-anime",
+  "ownerUserNullable": "michau96",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Ratings of the most popular anime",
+  "subtitleNullable": "Ratings of 100 most popular anime on myanimest.net",
+  "descriptionNullable": "## Context\n\nmyanimelist.net is the most popular site where fans of Japanese animated films and series share their opinions on various productions. The portal works in a similar way to IMDb and allows users to rate various positions and then create various types of rankings based on them. In this database you will find a distribution of votes on a scale from 1 to 10 for the 100 most popular (most often cast) anime votes from a specific point in time.\n\n\n## Content\n\nThe data was obtained using webscraping. The Python language with the \"BeautifulSoup\", \"requests\", \"re\", \"pandas\" and \"numpy\" packages was used for this process and \"SelectorGadet\" add-on, which made the work with the site easier. For each movie or series, we have 10 lines in turn with each rating and number of votes assigned to it, and some other information related to the series / movie.\n\n## Inspiration\n\nThe data can be used to check the distribution of ratings between individual series / movies. We can check whether the final average results from a large, relatively high score or maybe from the bi-larity of the distribution. Dana can be an addition to other, often already old, datasets for subordinate topics (e.g. [Anime recommendations database](https://www.kaggle.com/CooperUnion/anime-recommendations-database) and [Anime dataset](https://www.kaggle.com/alancmathew/anime-dataset)).\n\n## Features\n\n- Votes (Number of votes)\n- Score (Score: 10 - the best, 1 - the worst)\n- English_name (Title in english)\n- Favourites_count (Number of users who add series to favourites)\n- Popularity_ranking (Position in popularity ranking - the lowest the more users votes)\n\nPhoto by <a href=\"https://unsplash.com/@dexezekiel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Dex Ezekiel</a> on <a href=\"https://unsplash.com/s/photos/anime?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n",
+  "datasetId": 1751002,
+  "datasetSlug": "ratings-of-the-most-popular-anime",
+  "hasDatasetSlug": true,
+  "ownerUser": "michau96",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 7988,
+  "totalVotes": 30,
+  "totalDownloads": 555,
+  "title": "Ratings of the most popular anime",
+  "hasTitle": true,
+  "subtitle": "Ratings of 100 most popular anime on myanimest.net",
+  "hasSubtitle": true,
+  "description": "## Context\n\nmyanimelist.net is the most popular site where fans of Japanese animated films and series share their opinions on various productions. The portal works in a similar way to IMDb and allows users to rate various positions and then create various types of rankings based on them. In this database you will find a distribution of votes on a scale from 1 to 10 for the 100 most popular (most often cast) anime votes from a specific point in time.\n\n\n## Content\n\nThe data was obtained using webscraping. The Python language with the \"BeautifulSoup\", \"requests\", \"re\", \"pandas\" and \"numpy\" packages was used for this process and \"SelectorGadet\" add-on, which made the work with the site easier. For each movie or series, we have 10 lines in turn with each rating and number of votes assigned to it, and some other information related to the series / movie.\n\n## Inspiration\n\nThe data can be used to check the distribution of ratings between individual series / movies. We can check whether the final average results from a large, relatively high score or maybe from the bi-larity of the distribution. Dana can be an addition to other, often already old, datasets for subordinate topics (e.g. [Anime recommendations database](https://www.kaggle.com/CooperUnion/anime-recommendations-database) and [Anime dataset](https://www.kaggle.com/alancmathew/anime-dataset)).\n\n## Features\n\n- Votes (Number of votes)\n- Score (Score: 10 - the best, 1 - the worst)\n- English_name (Title in english)\n- Favourites_count (Number of users who add series to favourites)\n- Popularity_ranking (Position in popularity ranking - the lowest the more users votes)\n\nPhoto by <a href=\"https://unsplash.com/@dexezekiel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Dex Ezekiel</a> on <a href=\"https://unsplash.com/s/photos/anime?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

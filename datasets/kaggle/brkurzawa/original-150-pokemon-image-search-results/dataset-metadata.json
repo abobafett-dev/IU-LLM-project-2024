@@ -1,0 +1,42 @@
+{
+  "id": "brkurzawa/original-150-pokemon-image-search-results",
+  "id_no": 80719,
+  "datasetSlugNullable": "original-150-pokemon-image-search-results",
+  "ownerUserNullable": "brkurzawa",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Original 151 Pokemon Image Search Results",
+  "subtitleNullable": "A collection of images of the original 151 Pokemon obtained through Bing search",
+  "descriptionNullable": "### Context\n\nWith the recent release of *Pokemon Let's Go!*, I wanted to do some kind of learning project related to pictures of Pokemon. A quick search for Pokemon image data didn't yield any data sets with quite enough images to satisfy me, so I decided to gather my own.\n\n\n### Content\n\nI used Python to search for images of each of the 151 Pokemon on Bing and download the top 250 results. Each Pokemon has its own folder in which all of the query results for that Pokemon are contained. Most folders do not contain exactly 250 results since not all pictures could be downloaded. The images are named in ascending order following the order in which they appeared in the search results. Many images are unrelated to the search term; especially images with higher numbered labels (Image 00000230.png will be less relevant to the search terms than image 00000001.png.) In extreme examples (For example, Abra and Kabuto), most or a high volume of the images are unrelated to the pokemon \n\n### Acknowledgements\n\nhttps://www.pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/\n\nI followed the tutorial at the above link when writing my program to find and save images.\n",
+  "datasetId": 80719,
+  "datasetSlug": "original-150-pokemon-image-search-results",
+  "hasDatasetSlug": true,
+  "ownerUser": "brkurzawa",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 15208,
+  "totalVotes": 39,
+  "totalDownloads": 1191,
+  "title": "Original 151 Pokemon Image Search Results",
+  "hasTitle": true,
+  "subtitle": "A collection of images of the original 151 Pokemon obtained through Bing search",
+  "hasSubtitle": true,
+  "description": "### Context\n\nWith the recent release of *Pokemon Let's Go!*, I wanted to do some kind of learning project related to pictures of Pokemon. A quick search for Pokemon image data didn't yield any data sets with quite enough images to satisfy me, so I decided to gather my own.\n\n\n### Content\n\nI used Python to search for images of each of the 151 Pokemon on Bing and download the top 250 results. Each Pokemon has its own folder in which all of the query results for that Pokemon are contained. Most folders do not contain exactly 250 results since not all pictures could be downloaded. The images are named in ascending order following the order in which they appeared in the search results. Many images are unrelated to the search term; especially images with higher numbered labels (Image 00000230.png will be less relevant to the search terms than image 00000001.png.) In extreme examples (For example, Abra and Kabuto), most or a high volume of the images are unrelated to the pokemon \n\n### Acknowledgements\n\nhttps://www.pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/\n\nI followed the tutorial at the above link when writing my program to find and save images.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "video games",
+    "image",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

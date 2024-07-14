@@ -1,0 +1,42 @@
+{
+  "id": "michau96/social-media-popularity-2009-2023",
+  "id_no": 4313568,
+  "datasetSlugNullable": "social-media-popularity-2009-2023",
+  "ownerUserNullable": "michau96",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Social media popularity (2009 - 2023)",
+  "subtitleNullable": "Worldwide in last 15 years",
+  "descriptionNullable": "## Context\nSocial media are today a very popular way of exchanging information with other people via the Internet. It's hard not to notice that over the years new ones are created and old ones \"die\". The database below presents the popularity of various social networking sites since 2009, showing the percentage of their share in the social media market.\n\n## Content\nThe database saved in .csv form contains several columns. The first column contains the date (YYYY-MM) of the measurement period. Each subsequent column contains the percentage of share in the social media market, given as a percentage, rounded to 2 decimal places (if the share is less than 0.5%, the value 0 remains, even though it may constitute a very small percentage of the share). We have almost 180 rows, 15 years of data for monthly periods.\n\n## Source\nThe database comes from the [Statcounter](https://gs.statcounter.com/) and is made available in the operation with CC BY-SA 3.0 license which allows to copy, use and disseminate data also for commercial purposes after providing the source.",
+  "datasetId": 4313568,
+  "datasetSlug": "social-media-popularity-2009-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "michau96",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 11246,
+  "totalVotes": 39,
+  "totalDownloads": 2580,
+  "title": "Social media popularity (2009 - 2023)",
+  "hasTitle": true,
+  "subtitle": "Worldwide in last 15 years",
+  "hasSubtitle": true,
+  "description": "## Context\nSocial media are today a very popular way of exchanging information with other people via the Internet. It's hard not to notice that over the years new ones are created and old ones \"die\". The database below presents the popularity of various social networking sites since 2009, showing the percentage of their share in the social media market.\n\n## Content\nThe database saved in .csv form contains several columns. The first column contains the date (YYYY-MM) of the measurement period. Each subsequent column contains the percentage of share in the social media market, given as a percentage, rounded to 2 decimal places (if the share is less than 0.5%, the value 0 remains, even though it may constitute a very small percentage of the share). We have almost 180 rows, 15 years of data for monthly periods.\n\n## Source\nThe database comes from the [Statcounter](https://gs.statcounter.com/) and is made available in the operation with CC BY-SA 3.0 license which allows to copy, use and disseminate data also for commercial purposes after providing the source.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet",
+    "time series analysis",
+    "tabular",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-3.0",
+      "name": "CC-BY-SA-3.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

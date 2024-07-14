@@ -1,0 +1,39 @@
+{
+  "id": "gauravduttakiit/nlp-with-disaster-tweets",
+  "id_no": 3294797,
+  "datasetSlugNullable": "nlp-with-disaster-tweets",
+  "ownerUserNullable": "gauravduttakiit",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "NLP with Disaster Tweets",
+  "subtitleNullable": "Predict which Tweets are about real disasters and which ones are not",
+  "descriptionNullable": "Competition Description\nTwitter has become an important communication channel in times of emergency.\nThe ubiquitousness of smartphones enables people to announce an emergency they\u2019re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).\n\nBut, it\u2019s not always clear whether a person\u2019s words are actually announcing a disaster. Take this example:\n\n\nThe author explicitly uses the word \u201cABLAZE\u201d but means it metaphorically. This is clear to a human right away, especially with the visual aid. But it\u2019s less clear to a machine.\n\nIn this competition, you\u2019re challenged to build a machine learning model that predicts which Tweets are about real disasters and which one\u2019s aren\u2019t. You\u2019ll have access to a dataset of 10,000 tweets that were hand classified. If this is your first time working on an NLP problem, we've created a quick tutorial to get you up and running.\n\nDisclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive.",
+  "datasetId": 3294797,
+  "datasetSlug": "nlp-with-disaster-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "gauravduttakiit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 597,
+  "totalVotes": 5,
+  "totalDownloads": 51,
+  "title": "NLP with Disaster Tweets",
+  "hasTitle": true,
+  "subtitle": "Predict which Tweets are about real disasters and which ones are not",
+  "hasSubtitle": true,
+  "description": "Competition Description\nTwitter has become an important communication channel in times of emergency.\nThe ubiquitousness of smartphones enables people to announce an emergency they\u2019re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).\n\nBut, it\u2019s not always clear whether a person\u2019s words are actually announcing a disaster. Take this example:\n\n\nThe author explicitly uses the word \u201cABLAZE\u201d but means it metaphorically. This is clear to a human right away, especially with the visual aid. But it\u2019s less clear to a machine.\n\nIn this competition, you\u2019re challenged to build a machine learning model that predicts which Tweets are about real disasters and which one\u2019s aren\u2019t. You\u2019ll have access to a dataset of 10,000 tweets that were hand classified. If this is your first time working on an NLP problem, we've created a quick tutorial to get you up and running.\n\nDisclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

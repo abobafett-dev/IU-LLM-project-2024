@@ -1,0 +1,39 @@
+{
+  "id": "apurvjain9999/word2vec-cbow-300model",
+  "id_no": 1301830,
+  "datasetSlugNullable": "word2vec-cbow-300model",
+  "ownerUserNullable": "apurvjain9999",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "word2vec_cbow_300",
+  "subtitleNullable": "Word2Vec CBOW for Fake News Dataset (300D)",
+  "descriptionNullable": "### Dataset Description\nWord2Vec CBOW embeddings generated using Gensim for the Fake News Dataset: https://www.kaggle.com/c/fake-news/data?select=train.csv\nContext Window Size = 6, Dimensions = 300.\n",
+  "datasetId": 1301830,
+  "datasetSlug": "word2vec-cbow-300model",
+  "hasDatasetSlug": true,
+  "ownerUser": "apurvjain9999",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 856,
+  "totalVotes": 1,
+  "totalDownloads": 27,
+  "title": "word2vec_cbow_300",
+  "hasTitle": true,
+  "subtitle": "Word2Vec CBOW for Fake News Dataset (300D)",
+  "hasSubtitle": true,
+  "description": "### Dataset Description\nWord2Vec CBOW embeddings generated using Gensim for the Fake News Dataset: https://www.kaggle.com/c/fake-news/data?select=train.csv\nContext Window Size = 6, Dimensions = 300.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

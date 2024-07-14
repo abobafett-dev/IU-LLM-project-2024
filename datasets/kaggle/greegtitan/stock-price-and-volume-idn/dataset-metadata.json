@@ -1,0 +1,43 @@
+{
+  "id": "greegtitan/stock-price-and-volume-idn",
+  "id_no": 2519945,
+  "datasetSlugNullable": "stock-price-and-volume-idn",
+  "ownerUserNullable": "greegtitan",
+  "usabilityRatingNullable": 0.9117647058823529,
+  "titleNullable": "Stock Price and Volume IDN",
+  "subtitleNullable": "Movement of Indonesia Public Company Stock Price. Cover: Maxim Hopman",
+  "descriptionNullable": "## About this dataset\n\n&gt; Stock market has become of the wonderful place to make money. Many loss and many gains. Many have tried to predict the price of a stock but fails miserably. Those who say they're able to do so, are the one who hide their biggest losses. If stock price cannot be determined by price alone, then there might be other way to predict it, or say to invest it in the \"better\" way. Otherwise Warren Buffet wouldn't as rich as he is now by luck alone. But who says we cannot play around with it and create our standard of investing in stock? \n\n## How to use this dataset\n&gt; EDA\n&gt; RNN to predict future price\n&gt; Trend identifier\n&gt; Classifier\n&gt; Stock Recommendation\n\n## Features\n|Feature|Description|\n|---|---|\n|  **Date** | date of the price movement |\n|  **Open** | the first price of security traded  in a day | \n|  **High** |  highest price in a day |\n|  **Low** | lowest price in a day | \n|  **Close** | the last price of security traded  in a day | \n|**Adj Close**| stands for `adjusting price` or [stock's closing price to reflect that stock's value after accounting for any corporate action](https://www.investopedia.com/terms/a/adjusted_closing_price.asp#:~:text=What%20Is%20the%20Adjusted%20Closing,detailed%20analysis%20of%20past%20performance.) |\n|**Volume**| total stock traded in a day |\n\n## Other Information\n\n&gt; You also could use dataset outside this one. [This dataset](https://www.kaggle.com/datasets/greegtitan/public-company-idn) present all public company data in Indonesia. Might be helpful to do certain task, e.g. classification for the industry, etc.\n\n## Acknowledgement\n\n&gt; Yahoo Finance",
+  "datasetId": 2519945,
+  "datasetSlug": "stock-price-and-volume-idn",
+  "hasDatasetSlug": true,
+  "ownerUser": "greegtitan",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9117647058823529,
+  "hasUsabilityRating": true,
+  "totalViews": 1266,
+  "totalVotes": 9,
+  "totalDownloads": 134,
+  "title": "Stock Price and Volume IDN",
+  "hasTitle": true,
+  "subtitle": "Movement of Indonesia Public Company Stock Price. Cover: Maxim Hopman",
+  "hasSubtitle": true,
+  "description": "## About this dataset\n\n&gt; Stock market has become of the wonderful place to make money. Many loss and many gains. Many have tried to predict the price of a stock but fails miserably. Those who say they're able to do so, are the one who hide their biggest losses. If stock price cannot be determined by price alone, then there might be other way to predict it, or say to invest it in the \"better\" way. Otherwise Warren Buffet wouldn't as rich as he is now by luck alone. But who says we cannot play around with it and create our standard of investing in stock? \n\n## How to use this dataset\n&gt; EDA\n&gt; RNN to predict future price\n&gt; Trend identifier\n&gt; Classifier\n&gt; Stock Recommendation\n\n## Features\n|Feature|Description|\n|---|---|\n|  **Date** | date of the price movement |\n|  **Open** | the first price of security traded  in a day | \n|  **High** |  highest price in a day |\n|  **Low** | lowest price in a day | \n|  **Close** | the last price of security traded  in a day | \n|**Adj Close**| stands for `adjusting price` or [stock's closing price to reflect that stock's value after accounting for any corporate action](https://www.investopedia.com/terms/a/adjusted_closing_price.asp#:~:text=What%20Is%20the%20Adjusted%20Closing,detailed%20analysis%20of%20past%20performance.) |\n|**Volume**| total stock traded in a day |\n\n## Other Information\n\n&gt; You also could use dataset outside this one. [This dataset](https://www.kaggle.com/datasets/greegtitan/public-company-idn) present all public company data in Indonesia. Might be helpful to do certain task, e.g. classification for the industry, etc.\n\n## Acknowledgement\n\n&gt; Yahoo Finance",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "finance",
+    "recommender systems",
+    "reinforcement learning",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

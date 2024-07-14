@@ -1,0 +1,43 @@
+{
+  "id": "salmansajid05/oral-diseases",
+  "id_no": 2729190,
+  "datasetSlugNullable": "oral-diseases",
+  "ownerUserNullable": "salmansajid05",
+  "usabilityRatingNullable": 0.5,
+  "titleNullable": "Oral Diseases ",
+  "subtitleNullable": "",
+  "descriptionNullable": "\nDental Condition Dataset\nThe Dental Condition Dataset is a comprehensive collection of images specifically curated for dental research and analysis. This dataset encompasses a wide range of dental conditions, including caries, calculus, gingivitis, tooth discolouration, ulcers, and hypodontia. It serves as a valuable resource for dental professionals, researchers, and machine learning enthusiasts interested in developing and training models for dental condition detection and classification.\n\nDataset Details\nImage Categories: The dataset consists of carefully annotated images classified into various dental conditions:\n\nCaries: Images showing tooth decay, cavities, or carious lesions.\nCalculus: Images depicting dental calculus or tartar buildup on teeth.\nGingivitis: Images displaying inflamed or infected gums.\nTooth Discoloration: Images showcasing tooth discolouration or staining.\nUlcers: Images exhibiting oral ulcers or canker sores.\nHypodontia: Images representing the condition of missing one or more teeth.\nImage Sources: The dataset is a compilation of images sourced from multiple hospitals and reputable dental websites. These sources ensure the diversity and authenticity of the dental conditions depicted in the dataset.\n\nAnnotation and Augmentation: Each image in the dataset is meticulously annotated with bounding boxes, accurately delineating the specific dental condition present. Furthermore, data augmentation techniques have been applied to enhance the dataset's diversity and generalization capabilities, including rotation, flipping, scaling, and noise addition.",
+  "datasetId": 2729190,
+  "datasetSlug": "oral-diseases",
+  "hasDatasetSlug": true,
+  "ownerUser": "salmansajid05",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5,
+  "hasUsabilityRating": true,
+  "totalViews": 14039,
+  "totalVotes": 32,
+  "totalDownloads": 2460,
+  "title": "Oral Diseases ",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "\nDental Condition Dataset\nThe Dental Condition Dataset is a comprehensive collection of images specifically curated for dental research and analysis. This dataset encompasses a wide range of dental conditions, including caries, calculus, gingivitis, tooth discolouration, ulcers, and hypodontia. It serves as a valuable resource for dental professionals, researchers, and machine learning enthusiasts interested in developing and training models for dental condition detection and classification.\n\nDataset Details\nImage Categories: The dataset consists of carefully annotated images classified into various dental conditions:\n\nCaries: Images showing tooth decay, cavities, or carious lesions.\nCalculus: Images depicting dental calculus or tartar buildup on teeth.\nGingivitis: Images displaying inflamed or infected gums.\nTooth Discoloration: Images showcasing tooth discolouration or staining.\nUlcers: Images exhibiting oral ulcers or canker sores.\nHypodontia: Images representing the condition of missing one or more teeth.\nImage Sources: The dataset is a compilation of images sourced from multiple hospitals and reputable dental websites. These sources ensure the diversity and authenticity of the dental conditions depicted in the dataset.\n\nAnnotation and Augmentation: Each image in the dataset is meticulously annotated with bounding boxes, accurately delineating the specific dental condition present. Furthermore, data augmentation techniques have been applied to enhance the dataset's diversity and generalization capabilities, including rotation, flipping, scaling, and noise addition.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "diseases",
+    "dentistry",
+    "health",
+    "image",
+    "image classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

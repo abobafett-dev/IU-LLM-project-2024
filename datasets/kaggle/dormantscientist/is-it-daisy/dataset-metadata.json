@@ -1,0 +1,43 @@
+{
+  "id": "dormantscientist/is-it-daisy",
+  "id_no": 1940716,
+  "datasetSlugNullable": "is-it-daisy",
+  "ownerUserNullable": "dormantscientist",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Is it Daisy?",
+  "subtitleNullable": "Binary image classification on Flower images",
+  "descriptionNullable": "### Context\n\nThe dataset consists of flower images and will help you in creating a binary image classification model.\n\n\n### Content\n\nThe images are divided into two classes: Daisy & Non-Daisy\nFor each class, there are ~400 images. All the images are not of high resolution but are about 320x240 pixels.\n\n\n### Acknowledgements\n\nAll the images are scraped from Flickr, Google images, and Yandex images.\n\n",
+  "datasetId": 1940716,
+  "datasetSlug": "is-it-daisy",
+  "hasDatasetSlug": true,
+  "ownerUser": "dormantscientist",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 1926,
+  "totalVotes": 1,
+  "totalDownloads": 128,
+  "title": "Is it Daisy?",
+  "hasTitle": true,
+  "subtitle": "Binary image classification on Flower images",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThe dataset consists of flower images and will help you in creating a binary image classification model.\n\n\n### Content\n\nThe images are divided into two classes: Daisy & Non-Daisy\nFor each class, there are ~400 images. All the images are not of high resolution but are about 320x240 pixels.\n\n\n### Acknowledgements\n\nAll the images are scraped from Flickr, Google images, and Yandex images.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "plants",
+    "image",
+    "binary classification",
+    "keras"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "paulnh/3d-synthetic-asl-digits",
+  "id_no": 3428175,
+  "datasetSlugNullable": "3d-synthetic-asl-digits",
+  "ownerUserNullable": "paulnh",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "3D Synthetic ASL Digits",
+  "subtitleNullable": "A 3D dataset for American Sign Language Digits",
+  "descriptionNullable": "Three distinct objects demonstrate American Sign Language (ASL) digits from 0 to 9 against diverse backgrounds.\n\nCitation:\n @misc{huu phong nguyen_2023,\n\ttitle={3D Synthetic ASL Digits},\n\turl={https://www.kaggle.com/dsv/5992197},\n\tDOI={10.34740/KAGGLE/DSV/5992197},\n\tpublisher={Kaggle},\n\tauthor={Huu Phong Nguyen},\n\tyear={2023}\n}\n\nReferences:\n1. N. H. Phong, A. Santos and B. Ribeiro, \"PSO-Convolutional Neural Networks With Heterogeneous Learning Rate,\" in IEEE Access, vol. 10, pp. 89970-89988, 2022, doi: 10.1109/ACCESS.2022.3201142.\n2. H.P. Nguyen, B. Ribeiro (2019). Advanced Capsule Networks via Context Awareness. Artificial Neural Networks and Machine Learning \u2013 ICANN 2019: Theoretical Neural Computation. ICANN 2019. Lecture Notes in Computer Science(), vol 11727. Springer, Cham. https://doi.org/10.1007/978-3-030-30487-4_14\n3. H.P. Nguyen, B. Ribeiro (2019). An Improvement for Capsule Networks Using Depthwise Separable Convolution. In: Morales, A., Fierrez, J., S\u00e1nchez, J., Ribeiro, B. (eds) Pattern Recognition and Image Analysis. IbPRIA 2019. Lecture Notes in Computer Science(), vol 11867. Springer, Cham. https://doi.org/10.1007/978-3-030-31332-6_45\n4. H.P. Nguyen and B. Ribeiro. Action recognition for american sign language. In 24th Portuguese Conference on Pattern Recognition (RECPAD). RECPAD, 2018.\n5. N. H. Phong, B. Ribeiro. Rethinking recurrent neural networks and other improvements for image classification. arXiv preprint arXiv:2007.15161, 2020.",
+  "datasetId": 3428175,
+  "datasetSlug": "3d-synthetic-asl-digits",
+  "hasDatasetSlug": true,
+  "ownerUser": "paulnh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 643,
+  "totalVotes": 3,
+  "totalDownloads": 23,
+  "title": "3D Synthetic ASL Digits",
+  "hasTitle": true,
+  "subtitle": "A 3D dataset for American Sign Language Digits",
+  "hasSubtitle": true,
+  "description": "Three distinct objects demonstrate American Sign Language (ASL) digits from 0 to 9 against diverse backgrounds.\n\nCitation:\n @misc{huu phong nguyen_2023,\n\ttitle={3D Synthetic ASL Digits},\n\turl={https://www.kaggle.com/dsv/5992197},\n\tDOI={10.34740/KAGGLE/DSV/5992197},\n\tpublisher={Kaggle},\n\tauthor={Huu Phong Nguyen},\n\tyear={2023}\n}\n\nReferences:\n1. N. H. Phong, A. Santos and B. Ribeiro, \"PSO-Convolutional Neural Networks With Heterogeneous Learning Rate,\" in IEEE Access, vol. 10, pp. 89970-89988, 2022, doi: 10.1109/ACCESS.2022.3201142.\n2. H.P. Nguyen, B. Ribeiro (2019). Advanced Capsule Networks via Context Awareness. Artificial Neural Networks and Machine Learning \u2013 ICANN 2019: Theoretical Neural Computation. ICANN 2019. Lecture Notes in Computer Science(), vol 11727. Springer, Cham. https://doi.org/10.1007/978-3-030-30487-4_14\n3. H.P. Nguyen, B. Ribeiro (2019). An Improvement for Capsule Networks Using Depthwise Separable Convolution. In: Morales, A., Fierrez, J., S\u00e1nchez, J., Ribeiro, B. (eds) Pattern Recognition and Image Analysis. IbPRIA 2019. Lecture Notes in Computer Science(), vol 11867. Springer, Cham. https://doi.org/10.1007/978-3-030-31332-6_45\n4. H.P. Nguyen and B. Ribeiro. Action recognition for american sign language. In 24th Portuguese Conference on Pattern Recognition (RECPAD). RECPAD, 2018.\n5. N. H. Phong, B. Ribeiro. Rethinking recurrent neural networks and other improvements for image classification. arXiv preprint arXiv:2007.15161, 2020.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "health",
+    "computer vision",
+    "deep learning",
+    "image",
+    "video"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

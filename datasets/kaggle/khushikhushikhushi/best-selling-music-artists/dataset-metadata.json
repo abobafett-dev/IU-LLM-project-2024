@@ -1,0 +1,41 @@
+{
+  "id": "khushikhushikhushi/best-selling-music-artists",
+  "id_no": 5215305,
+  "datasetSlugNullable": "best-selling-music-artists",
+  "ownerUserNullable": "khushikhushikhushi",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Best-Selling Music Artists",
+  "subtitleNullable": "Comprehensive Dataset of Best-Selling Music Artists",
+  "descriptionNullable": "This dataset consolidates information from various tables sourced from Wikipedia's list of best-selling music artists. It includes the following columns:\n\n- **Artist name**: The name of the music artist or group.\n- **Country**: The country of origin of the artist.\n- **Active years**: The period during which the artist was active in their career.\n- **Release year of first charted record**: The year when the artist's first charted record was released.\n- **Genre**: The musical genre associated with the artist's work.\n- **Total certified units**: The total number of units (e.g., albums, singles) certified as sold by official certification bodies.\n- **Claimed sales**: The estimated total sales claimed by the artist or their representatives.\n\n",
+  "datasetId": 5215305,
+  "datasetSlug": "best-selling-music-artists",
+  "hasDatasetSlug": true,
+  "ownerUser": "khushikhushikhushi",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 3167,
+  "totalVotes": 28,
+  "totalDownloads": 761,
+  "title": "Best-Selling Music Artists",
+  "hasTitle": true,
+  "subtitle": "Comprehensive Dataset of Best-Selling Music Artists",
+  "hasSubtitle": true,
+  "description": "This dataset consolidates information from various tables sourced from Wikipedia's list of best-selling music artists. It includes the following columns:\n\n- **Artist name**: The name of the music artist or group.\n- **Country**: The country of origin of the artist.\n- **Active years**: The period during which the artist was active in their career.\n- **Release year of first charted record**: The year when the artist's first charted record was released.\n- **Genre**: The musical genre associated with the artist's work.\n- **Total certified units**: The total number of units (e.g., albums, singles) certified as sold by official certification bodies.\n- **Claimed sales**: The estimated total sales claimed by the artist or their representatives.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "beginner",
+    "text"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

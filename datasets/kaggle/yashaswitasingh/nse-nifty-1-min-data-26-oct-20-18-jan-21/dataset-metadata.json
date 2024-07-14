@@ -1,0 +1,40 @@
+{
+  "id": "yashaswitasingh/nse-nifty-1-min-data-26-oct-20-18-jan-21",
+  "id_no": 1427178,
+  "datasetSlugNullable": "nse-nifty-1-min-data-26-oct-20-18-jan-21",
+  "ownerUserNullable": "yashaswitasingh",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "NSE NIFTY  (26 OCT 20 -18 JAN 21)",
+  "subtitleNullable": " Time Series 1 min Data between  (26 OCT 20 -18 JAN 21) ",
+  "descriptionNullable": "### Context\nStock market data is widely analyzed for educational, business interests.\n\n### Content\nThe data is the price history and trading volumes of the fifty stocks in the index NIFTY 50 from NSE (National Stock Exchange) India. All data represent 1min change with pricing and trading values split across .cvs files for each stock along with a metadata file with some macro-information about the stocks themselves. The data spans from 26 OCT 20 -18 JAN 21        \n\n### Usability\nAlgorithmic Trading, Anomaly Detection, and Visualizing Trends.",
+  "datasetId": 1427178,
+  "datasetSlug": "nse-nifty-1-min-data-26-oct-20-18-jan-21",
+  "hasDatasetSlug": true,
+  "ownerUser": "yashaswitasingh",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 1497,
+  "totalVotes": 2,
+  "totalDownloads": 53,
+  "title": "NSE NIFTY  (26 OCT 20 -18 JAN 21)",
+  "hasTitle": true,
+  "subtitle": " Time Series 1 min Data between  (26 OCT 20 -18 JAN 21) ",
+  "hasSubtitle": true,
+  "description": "### Context\nStock market data is widely analyzed for educational, business interests.\n\n### Content\nThe data is the price history and trading volumes of the fifty stocks in the index NIFTY 50 from NSE (National Stock Exchange) India. All data represent 1min change with pricing and trading values split across .cvs files for each stock along with a metadata file with some macro-information about the stocks themselves. The data spans from 26 OCT 20 -18 JAN 21        \n\n### Usability\nAlgorithmic Trading, Anomaly Detection, and Visualizing Trends.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

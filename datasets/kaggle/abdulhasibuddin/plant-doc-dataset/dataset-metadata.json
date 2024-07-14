@@ -1,0 +1,40 @@
+{
+  "id": "abdulhasibuddin/plant-doc-dataset",
+  "id_no": 1440765,
+  "datasetSlugNullable": "plant-doc-dataset",
+  "ownerUserNullable": "abdulhasibuddin",
+  "usabilityRatingNullable": 0.375,
+  "titleNullable": "Plant Doc Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "**Original dataset link:** https://github.com/pratikkayal/PlantDoc-Dataset\n\n**Note:** Images are renamed to avoid problems.\n\n**Paper**\nFor full paper, refer[ Arxiv](https://arxiv.org/abs/1911.10317) and [ACM](https://dl.acm.org/doi/10.1145/3371158.3371196)\n\n**Authors**\nDavinder Singh*, Naman Jain*, Pranjali Jain*, Pratik Kayal*, Sudhakar Kumawat and Nipun Batra\n\n**Bibtex**\n@inproceedings{10.1145/3371158.3371196,\nauthor = {Singh, Davinder and Jain, Naman and Jain, Pranjali and Kayal, Pratik and Kumawat, Sudhakar and Batra, Nipun},\ntitle = {PlantDoc: A Dataset for Visual Plant Disease Detection},\nyear = {2020},\nisbn = {9781450377386},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3371158.3371196},\ndoi = {10.1145/3371158.3371196},\nbooktitle = {Proceedings of the 7th ACM IKDD CoDS and 25th COMAD},\npages = {249\u2013253},\nnumpages = {5},\nkeywords = {Deep Learning, Object Detection, Image Classification},\nlocation = {Hyderabad, India},\nseries = {CoDS COMAD 2020}\n}\n\n**License**\nCreative Commons Attribution 4.0 International [Link](https://github.com/pratikkayal/PlantDoc-Dataset/blob/master/LICENSE.txt)",
+  "datasetId": 1440765,
+  "datasetSlug": "plant-doc-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "abdulhasibuddin",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.375,
+  "hasUsabilityRating": true,
+  "totalViews": 10174,
+  "totalVotes": 11,
+  "totalDownloads": 1172,
+  "title": "Plant Doc Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "**Original dataset link:** https://github.com/pratikkayal/PlantDoc-Dataset\n\n**Note:** Images are renamed to avoid problems.\n\n**Paper**\nFor full paper, refer[ Arxiv](https://arxiv.org/abs/1911.10317) and [ACM](https://dl.acm.org/doi/10.1145/3371158.3371196)\n\n**Authors**\nDavinder Singh*, Naman Jain*, Pranjali Jain*, Pratik Kayal*, Sudhakar Kumawat and Nipun Batra\n\n**Bibtex**\n@inproceedings{10.1145/3371158.3371196,\nauthor = {Singh, Davinder and Jain, Naman and Jain, Pranjali and Kayal, Pratik and Kumawat, Sudhakar and Batra, Nipun},\ntitle = {PlantDoc: A Dataset for Visual Plant Disease Detection},\nyear = {2020},\nisbn = {9781450377386},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3371158.3371196},\ndoi = {10.1145/3371158.3371196},\nbooktitle = {Proceedings of the 7th ACM IKDD CoDS and 25th COMAD},\npages = {249\u2013253},\nnumpages = {5},\nkeywords = {Deep Learning, Object Detection, Image Classification},\nlocation = {Hyderabad, India},\nseries = {CoDS COMAD 2020}\n}\n\n**License**\nCreative Commons Attribution 4.0 International [Link](https://github.com/pratikkayal/PlantDoc-Dataset/blob/master/LICENSE.txt)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "education"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

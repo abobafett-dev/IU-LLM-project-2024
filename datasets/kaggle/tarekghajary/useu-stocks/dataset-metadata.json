@@ -1,0 +1,41 @@
+{
+  "id": "tarekghajary/useu-stocks",
+  "id_no": 488996,
+  "datasetSlugNullable": "useu-stocks",
+  "ownerUserNullable": "tarekghajary",
+  "usabilityRatingNullable": 0.7941176470588235,
+  "titleNullable": "US-EU Stocks",
+  "subtitleNullable": "Stock Price(IBM, GOOG, AAPL, TWTR, SBER, RDSB, GSPC) in LSE & NYSE",
+  "descriptionNullable": "### This Data from Yahoo Finance\n#### each file include columns [open, high, low, close]\nopen = open price <br>\nclose = close price <br>\nhigh/low = the highest/lowest price during day <br>\nAdj Close = Adjusted Close = Adjusted closing price amends a stock's closing price to accurately reflect that stock's value after accounting for any corporate actions. <br>\nvolume = Trading Volume.",
+  "datasetId": 488996,
+  "datasetSlug": "useu-stocks",
+  "hasDatasetSlug": true,
+  "ownerUser": "tarekghajary",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7941176470588235,
+  "hasUsabilityRating": true,
+  "totalViews": 1973,
+  "totalVotes": 2,
+  "totalDownloads": 68,
+  "title": "US-EU Stocks",
+  "hasTitle": true,
+  "subtitle": "Stock Price(IBM, GOOG, AAPL, TWTR, SBER, RDSB, GSPC) in LSE & NYSE",
+  "hasSubtitle": true,
+  "description": "### This Data from Yahoo Finance\n#### each file include columns [open, high, low, close]\nopen = open price <br>\nclose = close price <br>\nhigh/low = the highest/lowest price during day <br>\nAdj Close = Adjusted Close = Adjusted closing price amends a stock's closing price to accurately reflect that stock's value after accounting for any corporate actions. <br>\nvolume = Trading Volume.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "time series analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

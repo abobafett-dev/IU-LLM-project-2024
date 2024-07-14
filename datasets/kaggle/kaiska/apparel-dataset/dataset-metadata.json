@@ -1,0 +1,41 @@
+{
+  "id": "kaiska/apparel-dataset",
+  "id_no": 622290,
+  "datasetSlugNullable": "apparel-dataset",
+  "ownerUserNullable": "kaiska",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Apparel Dataset",
+  "subtitleNullable": "8 apparel categories with different colours to apply multi-label classification ",
+  "descriptionNullable": "### Context\nThis dataset was created in order for me to practice multi-label classification based on [Jeremy Howard's FastAi lecture 3](https://course.fast.ai/videos/?lesson=3).\nThe dataset contains 8 different clothing categories in 9 different colours. The main objective of multi-label classification is to be able to label items found in photos based on these categories.\n\n### Content\nThe dataset consist of 16,170 images that where scraped from Google, Bing and DuckDuckGo, includes the following categories:\n\nBlack Dress: 450\nBlack Pants: 870\nBlack Shirt: 715\nBlack Shoes: 766\nBlack Shorts: 328\nBlack Suit: 320\nBlue Dress: 502\nBlue Pants: 798\nBlue Shirt: 741\nBlue Shoes: 523\nBlue Shorts: 299\nBrown Hoodie: 188\nBrown Pants: 311\nBrown Shoes: 464\nGreen Pants: 227\nGreen Shirt: 230\nGreen Shoes: 455\nGreen Shorts: 135\nGreen Suit: 243\nPink Hoodie: 347\nPink Pants: 246\nPink Skirt: 513\nRed Dress: 800\nRed Hoodie: 349\nRed Pants: 308\nRed Shirt: 332\nRed Shoes: 610\nSilver Shoes: 403\nSilver Skirt: 361\nWhite Dress: 818\nWhite Pants: 274\nWhite Shoes: 600\nWhite Shorts: 120\nWhite Suit: 354\nYellow Dress: 566\nYellow Shorts: 195\nYellow Skirt: 409\n\n### Acknowledgements\n\nWhile searching the internet for a good dataset to apply multilabel classification on, I stumbled upon pyimagesearch's  [multi-label classification with keras's](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/) article, and Adrian used a very simple and small dataset containing 3 clothing categories. But to expand on the dataset, I combined it with [trolukovich's dataset](https://www.kaggle.com/trolukovich/apparel-images-dataset) and my own by scraping Google and Bing using [cwerner's fastclass](https://github.com/cwerner/fastclass) package.\n",
+  "datasetId": 622290,
+  "datasetSlug": "apparel-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kaiska",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 16041,
+  "totalVotes": 34,
+  "totalDownloads": 1532,
+  "title": "Apparel Dataset",
+  "hasTitle": true,
+  "subtitle": "8 apparel categories with different colours to apply multi-label classification ",
+  "hasSubtitle": true,
+  "description": "### Context\nThis dataset was created in order for me to practice multi-label classification based on [Jeremy Howard's FastAi lecture 3](https://course.fast.ai/videos/?lesson=3).\nThe dataset contains 8 different clothing categories in 9 different colours. The main objective of multi-label classification is to be able to label items found in photos based on these categories.\n\n### Content\nThe dataset consist of 16,170 images that where scraped from Google, Bing and DuckDuckGo, includes the following categories:\n\nBlack Dress: 450\nBlack Pants: 870\nBlack Shirt: 715\nBlack Shoes: 766\nBlack Shorts: 328\nBlack Suit: 320\nBlue Dress: 502\nBlue Pants: 798\nBlue Shirt: 741\nBlue Shoes: 523\nBlue Shorts: 299\nBrown Hoodie: 188\nBrown Pants: 311\nBrown Shoes: 464\nGreen Pants: 227\nGreen Shirt: 230\nGreen Shoes: 455\nGreen Shorts: 135\nGreen Suit: 243\nPink Hoodie: 347\nPink Pants: 246\nPink Skirt: 513\nRed Dress: 800\nRed Hoodie: 349\nRed Pants: 308\nRed Shirt: 332\nRed Shoes: 610\nSilver Shoes: 403\nSilver Skirt: 361\nWhite Dress: 818\nWhite Pants: 274\nWhite Shoes: 600\nWhite Shorts: 120\nWhite Suit: 354\nYellow Dress: 566\nYellow Shorts: 195\nYellow Skirt: 409\n\n### Acknowledgements\n\nWhile searching the internet for a good dataset to apply multilabel classification on, I stumbled upon pyimagesearch's  [multi-label classification with keras's](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/) article, and Adrian used a very simple and small dataset containing 3 clothing categories. But to expand on the dataset, I combined it with [trolukovich's dataset](https://www.kaggle.com/trolukovich/apparel-images-dataset) and my own by scraping Google and Bing using [cwerner's fastclass](https://github.com/cwerner/fastclass) package.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "clothing and accessories",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

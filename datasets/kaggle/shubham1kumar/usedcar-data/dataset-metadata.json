@@ -1,0 +1,43 @@
+{
+  "id": "shubham1kumar/usedcar-data",
+  "id_no": 2264727,
+  "datasetSlugNullable": "usedcar-data",
+  "ownerUserNullable": "shubham1kumar",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Used-Car Data",
+  "subtitleNullable": "Automoble Industry, Indian Used-Car Market",
+  "descriptionNullable": "Based on various market surveys, the consulting firm has gathered a large dataset of different types of used cars across the market.\n\nData Dictionary:\n1. Sales_ID  (Sales ID)\n2. name   (Name of the used car)\n3. year   (Year of the car purchase)\n4. selling_price   (Current selling price for used car)\n5. km_driven   (Total km driven)\n6. Region     (Region where it is used)\n7. State or Province     (State or Province where it is used)\n8. City      (City where it is used)\n9. fuel    (Fuel type)\n10. seller_type   (Who is selling the car)\n11. transmission  (Transmission type of the car)\n12. owner   (Owner type)\n13. mileage   (Mileage of the car)\n14. engine    (engine power)\n15. max_power  (max power)\n16. seats    (Number of seats)\n17. sold     (used car sold or not)\n\n",
+  "datasetId": 2264727,
+  "datasetSlug": "usedcar-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "shubham1kumar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 18939,
+  "totalVotes": 42,
+  "totalDownloads": 3950,
+  "title": "Used-Car Data",
+  "hasTitle": true,
+  "subtitle": "Automoble Industry, Indian Used-Car Market",
+  "hasSubtitle": true,
+  "description": "Based on various market surveys, the consulting firm has gathered a large dataset of different types of used cars across the market.\n\nData Dictionary:\n1. Sales_ID  (Sales ID)\n2. name   (Name of the used car)\n3. year   (Year of the car purchase)\n4. selling_price   (Current selling price for used car)\n5. km_driven   (Total km driven)\n6. Region     (Region where it is used)\n7. State or Province     (State or Province where it is used)\n8. City      (City where it is used)\n9. fuel    (Fuel type)\n10. seller_type   (Who is selling the car)\n11. transmission  (Transmission type of the car)\n12. owner   (Owner type)\n13. mileage   (Mileage of the car)\n14. engine    (engine power)\n15. max_power  (max power)\n16. seats    (Number of seats)\n17. sold     (used car sold or not)\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "automobiles and vehicles",
+    "data visualization",
+    "data analytics",
+    "random forest",
+    "linear regression"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

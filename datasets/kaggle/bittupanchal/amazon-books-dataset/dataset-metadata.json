@@ -1,0 +1,42 @@
+{
+  "id": "bittupanchal/amazon-books-dataset",
+  "id_no": 2645781,
+  "datasetSlugNullable": "amazon-books-dataset",
+  "ownerUserNullable": "bittupanchal",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "Amazon Books Dataset",
+  "subtitleNullable": "The books recommendation system is used by online websites which provide ebooks",
+  "descriptionNullable": "A book recommendation system is a type of recommendation system where we have to recommend similar books to the reader based on his interest. The books recommendation system is used by online websites which provide ebooks like google play books, open library, good Read\u2019s, etc.\n\nDuring the last few decades, with the rise of Youtube, Amazon, Netflix and many other such web services, recommender systems have taken more and more place in our lives. From e-commerce (suggest to buyers articles that could interest them) to online advertisement (suggest to users the right contents, matching their preferences), recommender systems are today unavoidable in our daily online journeys.\nIn a very general way, recommender systems are algorithms aimed at suggesting relevant items to users (items being movies to watch, text to read, products to buy or anything else depending on industries).\nRecommender systems are really critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitors. As a proof of the importance of recommender systems, we can mention that, a few years ago, Netflix organised a challenges (the \u201cNetflix prize\u201d) where the goal was to produce a recommender system that performs better than its own algorithm with a prize of 1 million dollars to win.\nBy applying this simple dataset and related tasks and notebooks , we will evolutionary go through different paradigms of recommender algorithms . For each of them, we will present how they work, describe their theoretical basis and discuss their strengths and weaknesses.",
+  "datasetId": 2645781,
+  "datasetSlug": "amazon-books-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "bittupanchal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 1191,
+  "totalVotes": 3,
+  "totalDownloads": 127,
+  "title": "Amazon Books Dataset",
+  "hasTitle": true,
+  "subtitle": "The books recommendation system is used by online websites which provide ebooks",
+  "hasSubtitle": true,
+  "description": "A book recommendation system is a type of recommendation system where we have to recommend similar books to the reader based on his interest. The books recommendation system is used by online websites which provide ebooks like google play books, open library, good Read\u2019s, etc.\n\nDuring the last few decades, with the rise of Youtube, Amazon, Netflix and many other such web services, recommender systems have taken more and more place in our lives. From e-commerce (suggest to buyers articles that could interest them) to online advertisement (suggest to users the right contents, matching their preferences), recommender systems are today unavoidable in our daily online journeys.\nIn a very general way, recommender systems are algorithms aimed at suggesting relevant items to users (items being movies to watch, text to read, products to buy or anything else depending on industries).\nRecommender systems are really critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitors. As a proof of the importance of recommender systems, we can mention that, a few years ago, Netflix organised a challenges (the \u201cNetflix prize\u201d) where the goal was to produce a recommender system that performs better than its own algorithm with a prize of 1 million dollars to win.\nBy applying this simple dataset and related tasks and notebooks , we will evolutionary go through different paradigms of recommender algorithms . For each of them, we will present how they work, describe their theoretical basis and discuss their strengths and weaknesses.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "artificial intelligence",
+    "recommender systems",
+    "python",
+    "ml ethics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

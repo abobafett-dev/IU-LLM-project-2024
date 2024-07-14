@@ -1,0 +1,39 @@
+{
+  "id": "biminhc/tiki-books-dataset",
+  "id_no": 2722567,
+  "datasetSlugNullable": "tiki-books-dataset",
+  "ownerUserNullable": "biminhc",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Tiki Books Dataset",
+  "subtitleNullable": "Data Books of Tiki E-commerce in Vietnam",
+  "descriptionNullable": "# Data Books\n### Data Books of Tiki E-commerce in Vietnam\n## About this dataset&nbsp;This dataset contains information on 2,024 bestselling books:\n* Information about book;\n* Link for book covers;\n* About 50 comments for each book \n## Research Ideas\n* Identify who the author is the most interested\n* Check out which books are likely to be purchased\n* Analize sentiment of comments\n## Acknowledgements\nThis dataset was scraped from Tiki.vn by Bui Minh Duc.\n### License: [CC0 1.0 Universal (CC0 1.0)Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)\nThe person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.\n\nYou can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information below.\n\n## Columns\n### book_data.csv\n| Column | Description  \n| --- | --- \n| product_id | id of the product in the Tiki database (unique)\n| title | name of the book, maybe contain republish time\n| authors | same with it's name\n| original_price | price at the first time\n| current_price | price at present if having a discount\n| quantity | total number of books sold of all time\n| category | kind of book\n| n_review | number of reviews \n| avg_rating | average rating (max 5.0)\n| pages | total pages of each book\n\n### book_id.csv\n| Column | Description  \n| --- | --- \n| id | id of all products when I crawl. You can ignore\n\n### comments.csv\n| Column | Description  \n| --- | --- \n| product_id | same with book_data file\n| comment_id | each comment has individual id\n| title | keywork of comment\n| thank_count | number of like of other people\n| customer_id | each customer has individual id\n| rating | average rating of the comment\n| content | same with it's name",
+  "datasetId": 2722567,
+  "datasetSlug": "tiki-books-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "biminhc",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 5633,
+  "totalVotes": 19,
+  "totalDownloads": 905,
+  "title": "Tiki Books Dataset",
+  "hasTitle": true,
+  "subtitle": "Data Books of Tiki E-commerce in Vietnam",
+  "hasSubtitle": true,
+  "description": "# Data Books\n### Data Books of Tiki E-commerce in Vietnam\n## About this dataset&nbsp;This dataset contains information on 2,024 bestselling books:\n* Information about book;\n* Link for book covers;\n* About 50 comments for each book \n## Research Ideas\n* Identify who the author is the most interested\n* Check out which books are likely to be purchased\n* Analize sentiment of comments\n## Acknowledgements\nThis dataset was scraped from Tiki.vn by Bui Minh Duc.\n### License: [CC0 1.0 Universal (CC0 1.0)Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)\nThe person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.\n\nYou can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information below.\n\n## Columns\n### book_data.csv\n| Column | Description  \n| --- | --- \n| product_id | id of the product in the Tiki database (unique)\n| title | name of the book, maybe contain republish time\n| authors | same with it's name\n| original_price | price at the first time\n| current_price | price at present if having a discount\n| quantity | total number of books sold of all time\n| category | kind of book\n| n_review | number of reviews \n| avg_rating | average rating (max 5.0)\n| pages | total pages of each book\n\n### book_id.csv\n| Column | Description  \n| --- | --- \n| id | id of all products when I crawl. You can ignore\n\n### comments.csv\n| Column | Description  \n| --- | --- \n| product_id | same with book_data file\n| comment_id | each comment has individual id\n| title | keywork of comment\n| thank_count | number of like of other people\n| customer_id | each customer has individual id\n| rating | average rating of the comment\n| content | same with it's name",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

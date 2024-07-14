@@ -1,0 +1,42 @@
+{
+  "id": "mrsantos/hcc-dataset",
+  "id_no": 2394,
+  "datasetSlugNullable": "hcc-dataset",
+  "ownerUserNullable": "mrsantos",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "HCC dataset",
+  "subtitleNullable": "Hepatocellular Carcinoma Dataset",
+  "descriptionNullable": "**Data Set Name:** Hepatocellular Carcinoma Dataset (HCC dataset)\n\n**Abstract:** Hepatocellular Carcinoma dataset (HCC dataset) was collected at a University Hospital in Portugal. It contains real clinical data of 165 patients diagnosed with HCC.\n\n**Donors:** \nMiriam Seoane Santos (miriams@student.dei.uc.pt) and Pedro Henriques Abreu (pha@dei.uc.pt), Department of Informatics Engineering, Faculty of Sciences and Technology, University of Coimbra \nArmando Carvalho (aspcarvalho@gmail.com) and Ad\u00e9lia Sim\u00e3o (adeliasimao@gmail.com), Internal Medicine Service, Hospital and University Centre of Coimbra \n\n**Data Type:**  Multivariate\n**Task:** Classification, Regression, Clustering, Casual Discovery\n**Attribute Type**: Categorical, Integer and Real\n\n**Area:** Life Sciences \n**Format Type:** Matrix\n**Missing values:** Yes\n\n**Instances and Attributes:**\nNumber of Instances (records in your data set): 165\nNumber of attributes (fields within each record): 49\n\n\n**Relevant Information:**\nHCC dataset was obtained at a University Hospital in Portugal and contais several demographic, risk factors, laboratory and overall survival features of 165 real patients diagnosed with HCC. The dataset contains 49 features selected according to the EASL-EORTC (European Association for the Study of the Liver - European Organisation for Research and Treatment of Cancer) Clinical Practice Guidelines, which are the current state-of-the-art on the management of HCC.\n\nThis is an heterogeneous dataset, with 23 quantitative variables, and 26 qualitative variables. Overall, missing data represents 10.22% of the whole dataset and only eight patients have complete information in all fields (4.85%). The target variables is the survival at 1 year, and was encoded as a binary variable: 0 (dies) and 1 (lives). A certain degree of class-imbalance is also present (63 cases labeled as \u201cdies\u201d and 102 as \u201clives\u201d).\n\nA detailed description of the HCC dataset (feature\u2019s type/scale, range, mean/mode and missing data percentages) is provided in Santos et al. \u201cA new cluster-based oversampling method for improving survival prediction of hepatocellular carcinoma patients\u201d, Journal of biomedical informatics, 58, 49-59, 2015.",
+  "datasetId": 2394,
+  "datasetSlug": "hcc-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "mrsantos",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 43357,
+  "totalVotes": 70,
+  "totalDownloads": 4605,
+  "title": "HCC dataset",
+  "hasTitle": true,
+  "subtitle": "Hepatocellular Carcinoma Dataset",
+  "hasSubtitle": true,
+  "description": "**Data Set Name:** Hepatocellular Carcinoma Dataset (HCC dataset)\n\n**Abstract:** Hepatocellular Carcinoma dataset (HCC dataset) was collected at a University Hospital in Portugal. It contains real clinical data of 165 patients diagnosed with HCC.\n\n**Donors:** \nMiriam Seoane Santos (miriams@student.dei.uc.pt) and Pedro Henriques Abreu (pha@dei.uc.pt), Department of Informatics Engineering, Faculty of Sciences and Technology, University of Coimbra \nArmando Carvalho (aspcarvalho@gmail.com) and Ad\u00e9lia Sim\u00e3o (adeliasimao@gmail.com), Internal Medicine Service, Hospital and University Centre of Coimbra \n\n**Data Type:**  Multivariate\n**Task:** Classification, Regression, Clustering, Casual Discovery\n**Attribute Type**: Categorical, Integer and Real\n\n**Area:** Life Sciences \n**Format Type:** Matrix\n**Missing values:** Yes\n\n**Instances and Attributes:**\nNumber of Instances (records in your data set): 165\nNumber of attributes (fields within each record): 49\n\n\n**Relevant Information:**\nHCC dataset was obtained at a University Hospital in Portugal and contais several demographic, risk factors, laboratory and overall survival features of 165 real patients diagnosed with HCC. The dataset contains 49 features selected according to the EASL-EORTC (European Association for the Study of the Liver - European Organisation for Research and Treatment of Cancer) Clinical Practice Guidelines, which are the current state-of-the-art on the management of HCC.\n\nThis is an heterogeneous dataset, with 23 quantitative variables, and 26 qualitative variables. Overall, missing data represents 10.22% of the whole dataset and only eight patients have complete information in all fields (4.85%). The target variables is the survival at 1 year, and was encoded as a binary variable: 0 (dies) and 1 (lives). A certain degree of class-imbalance is also present (63 cases labeled as \u201cdies\u201d and 102 as \u201clives\u201d).\n\nA detailed description of the HCC dataset (feature\u2019s type/scale, range, mean/mode and missing data percentages) is provided in Santos et al. \u201cA new cluster-based oversampling method for improving survival prediction of hepatocellular carcinoma patients\u201d, Journal of biomedical informatics, 58, 49-59, 2015.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "universities and colleges",
+    "healthcare",
+    "medicine",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

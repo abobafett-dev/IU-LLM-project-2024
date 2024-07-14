@@ -1,0 +1,43 @@
+{
+  "id": "axeltorbenson/unemployment-data-19482021",
+  "id_no": 1826896,
+  "datasetSlugNullable": "unemployment-data-19482021",
+  "ownerUserNullable": "axeltorbenson",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "US Unemployment Data (1948-2021)",
+  "subtitleNullable": "US unemployment rate based on age ranges and gender",
+  "descriptionNullable": "Contains the monthly unemployment rate from 1948-2021. None of the data is seasonally adjusted. This file also contains information on subsets of the population, including based on age ranges from 16-55 and over, and unemployment rates for men and women. This data is collected by the US Bureau of Labor Statistics.",
+  "datasetId": 1826896,
+  "datasetSlug": "unemployment-data-19482021",
+  "hasDatasetSlug": true,
+  "ownerUser": "axeltorbenson",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 9523,
+  "totalVotes": 17,
+  "totalDownloads": 1543,
+  "title": "US Unemployment Data (1948-2021)",
+  "hasTitle": true,
+  "subtitle": "US unemployment rate based on age ranges and gender",
+  "hasSubtitle": true,
+  "description": "Contains the monthly unemployment rate from 1948-2021. None of the data is seasonally adjusted. This file also contains information on subsets of the population, including based on age ranges from 16-55 and over, and unemployment rates for men and women. This data is collected by the US Bureau of Labor Statistics.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "government",
+    "economics",
+    "beginner",
+    "intermediate",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "U.S. Government Works",
+      "name": "U.S. Government Works",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

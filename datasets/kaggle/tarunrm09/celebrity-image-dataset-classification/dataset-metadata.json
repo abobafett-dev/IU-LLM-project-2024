@@ -1,0 +1,40 @@
+{
+  "id": "tarunrm09/celebrity-image-dataset-classification",
+  "id_no": 4484186,
+  "datasetSlugNullable": "celebrity-image-dataset-classification",
+  "ownerUserNullable": "tarunrm09",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Celebrity Image Dataset Classification",
+  "subtitleNullable": "Celebrity images dataset that can be used for classification",
+  "descriptionNullable": "This dataset has test , train and validation folders and each folder has sub folders  of 5 different celebrities and each of these celebrity folders contains their respective images.",
+  "datasetId": 4484186,
+  "datasetSlug": "celebrity-image-dataset-classification",
+  "hasDatasetSlug": true,
+  "ownerUser": "tarunrm09",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 618,
+  "totalVotes": 16,
+  "totalDownloads": 53,
+  "title": "Celebrity Image Dataset Classification",
+  "hasTitle": true,
+  "subtitle": "Celebrity images dataset that can be used for classification",
+  "hasSubtitle": true,
+  "description": "This dataset has test , train and validation folders and each folder has sub folders  of 5 different celebrities and each of these celebrity folders contains their respective images.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "celebrities",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

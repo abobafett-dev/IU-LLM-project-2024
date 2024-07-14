@@ -1,0 +1,41 @@
+{
+  "id": "sachinprabhu007/amazon-ml-engineer-hiring-challenge",
+  "id_no": 1003027,
+  "datasetSlugNullable": "amazon-ml-engineer-hiring-challenge",
+  "ownerUserNullable": "sachinprabhu007",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Amazon ML Engineer Hiring Challenge",
+  "subtitleNullable": "",
+  "descriptionNullable": "#Predict the Category of the Customer\n\n#Problem Statement\nWe all know that when we visit an e-commerce or TV series website or even YouTube we see a separate suggestion box, where in they show some content which you might like. These are mainly based on the content that you have consumed on their website previously. These are called as Recommendation engine. \n\nNow consider you have been running a start up since last one year and now you have been able to gather some customer data and you want to build a recommendation engine. Based on certain features you have to cluster the customers into two different groups so that you can recommend the correct products based on the customer\u2019s cluster.\n\n#Challenge\n1. Your work is to build a predictive model to predict the category of the customer. You have to predict the column : \u201ccustomer_category\u201d\n2. You need to upload a presentation proposal addressing the following questions:\n     - What are the pros & cons of recommendation by this approach?\n     - Propose an architecture that will work more efficiently when building a recommendation engine for an e-commerce platform\n\n\n\nData Description\nData Files:\n\nTrain.csv : 10378 x 10\n\nTest.csv : 7161 x 9\n\nResults.csv : 7161 x 2\n\nData Description:\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1623540%2F35f3efb9d1b54e9bc2f8a90cee016898%2F2.PNG?generation=1606564415878423&alt=media)\n\n\n\nSubmission Format \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1623540%2F10907448e8f46490709f3204b48cf829%2F3.PNG?generation=1606564446898722&alt=media)\n\n\n\nInstructions\nUpload your predictions in  a .csv format under \u2018Upload your Prediction File\u2019\n\nUpload your source code along with the presentation in a .zip format under \u2018Upload your Source File\u2019\n\n#Evaluation Criteria\nPlease note the evaluation metric for score generation will be macro precision-score\n\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1623540%2F54b5468950a9873331161518686bce32%2F1.PNG?generation=1606564475111802&alt=media)\n\n\nEvaluation metric for the source code & presentation submitted is as follows:\n\n\nApproach: How well is the problem statement understood and attended to?\n\nCreativity: Depth of Analysis\n\nVisualisations: What features are being presented and how?\n\n\nTotal Score (10+10+10 = 30)",
+  "datasetId": 1003027,
+  "datasetSlug": "amazon-ml-engineer-hiring-challenge",
+  "hasDatasetSlug": true,
+  "ownerUser": "sachinprabhu007",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 4491,
+  "totalVotes": 3,
+  "totalDownloads": 136,
+  "title": "Amazon ML Engineer Hiring Challenge",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "#Predict the Category of the Customer\n\n#Problem Statement\nWe all know that when we visit an e-commerce or TV series website or even YouTube we see a separate suggestion box, where in they show some content which you might like. These are mainly based on the content that you have consumed on their website previously. These are called as Recommendation engine. \n\nNow consider you have been running a start up since last one year and now you have been able to gather some customer data and you want to build a recommendation engine. Based on certain features you have to cluster the customers into two different groups so that you can recommend the correct products based on the customer\u2019s cluster.\n\n#Challenge\n1. Your work is to build a predictive model to predict the category of the customer. You have to predict the column : \u201ccustomer_category\u201d\n2. You need to upload a presentation proposal addressing the following questions:\n     - What are the pros & cons of recommendation by this approach?\n     - Propose an architecture that will work more efficiently when building a recommendation engine for an e-commerce platform\n\n\n\nData Description\nData Files:\n\nTrain.csv : 10378 x 10\n\nTest.csv : 7161 x 9\n\nResults.csv : 7161 x 2\n\nData Description:\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1623540%2F35f3efb9d1b54e9bc2f8a90cee016898%2F2.PNG?generation=1606564415878423&alt=media)\n\n\n\nSubmission Format \n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1623540%2F10907448e8f46490709f3204b48cf829%2F3.PNG?generation=1606564446898722&alt=media)\n\n\n\nInstructions\nUpload your predictions in  a .csv format under \u2018Upload your Prediction File\u2019\n\nUpload your source code along with the presentation in a .zip format under \u2018Upload your Source File\u2019\n\n#Evaluation Criteria\nPlease note the evaluation metric for score generation will be macro precision-score\n\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1623540%2F54b5468950a9873331161518686bce32%2F1.PNG?generation=1606564475111802&alt=media)\n\n\nEvaluation metric for the source code & presentation submitted is as follows:\n\n\nApproach: How well is the problem statement understood and attended to?\n\nCreativity: Depth of Analysis\n\nVisualisations: What features are being presented and how?\n\n\nTotal Score (10+10+10 = 30)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "science and technology",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

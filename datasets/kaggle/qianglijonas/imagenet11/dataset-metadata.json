@@ -1,0 +1,43 @@
+{
+  "id": "qianglijonas/imagenet11",
+  "id_no": 1986468,
+  "datasetSlugNullable": "imagenet11",
+  "ownerUserNullable": "qianglijonas",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "ImageNet-11",
+  "subtitleNullable": "ICLR2022 Explainable AI: Object Recognition With Help From Background",
+  "descriptionNullable": "**NEWS:**\ud83d\udc47 \n**We also designed Polygon Labeling software, please feel free to use it!**\n\n\n**This paper explores how backgrounds might help in object recognition tasks.**\n\u2022 Our work extends on the work done by NOISE OR SIGNAL: THE ROLE OF IMAGE BACKGROUNDS IN OBJECT\nRECOGNITION by Xiao et al.\n\u2022 Xiao et al. strengthened the previously established claim that models trained on backgrounds only can help achieve\nnon-trivial accuracy.\n\u2022 Another important finding, they present in their paper is that more accurate models tend to rely on backgrounds\nless.\n\n**We categorize the elements present in the background into two main domains:**\n\u2022 Class independent factors:\nElements that are not unique to certain classes and contain properties that are generally present in the\nentire image dataset, such as colors, edges in the background, etc.\n\u2022 Class-dependent factors:\nElements that are unique aspects of the class present in the background, e.g., shadows/ reflections,\nland/sea background, classes often found with other non-target classes, and the class object\u2019s size relative\nto the background. \n\n\n\n\n",
+  "datasetId": 1986468,
+  "datasetSlug": "imagenet11",
+  "hasDatasetSlug": true,
+  "ownerUser": "qianglijonas",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 3684,
+  "totalVotes": 8,
+  "totalDownloads": 168,
+  "title": "ImageNet-11",
+  "hasTitle": true,
+  "subtitle": "ICLR2022 Explainable AI: Object Recognition With Help From Background",
+  "hasSubtitle": true,
+  "description": "**NEWS:**\ud83d\udc47 \n**We also designed Polygon Labeling software, please feel free to use it!**\n\n\n**This paper explores how backgrounds might help in object recognition tasks.**\n\u2022 Our work extends on the work done by NOISE OR SIGNAL: THE ROLE OF IMAGE BACKGROUNDS IN OBJECT\nRECOGNITION by Xiao et al.\n\u2022 Xiao et al. strengthened the previously established claim that models trained on backgrounds only can help achieve\nnon-trivial accuracy.\n\u2022 Another important finding, they present in their paper is that more accurate models tend to rely on backgrounds\nless.\n\n**We categorize the elements present in the background into two main domains:**\n\u2022 Class independent factors:\nElements that are not unique to certain classes and contain properties that are generally present in the\nentire image dataset, such as colors, edges in the background, etc.\n\u2022 Class-dependent factors:\nElements that are unique aspects of the class present in the background, e.g., shadows/ reflections,\nland/sea background, classes often found with other non-target classes, and the class object\u2019s size relative\nto the background. \n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "image",
+    "model explainability",
+    "pre-trained model"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Permissive - Version 1.0",
+      "name": "Community Data License Agreement - Permissive - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

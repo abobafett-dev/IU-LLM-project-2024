@@ -1,0 +1,42 @@
+{
+  "id": "chitholian/annotated-potholes-dataset",
+  "id_no": 531821,
+  "datasetSlugNullable": "annotated-potholes-dataset",
+  "ownerUserNullable": "chitholian",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Annotated Potholes Image Dataset",
+  "subtitleNullable": "Fully bounding-box annotated image dataset of potholes and damaged roads.",
+  "descriptionNullable": "# A Fully Annotated Image Dataset for Pothole Detection\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4217328%2F93f30861c0d29b73ad3d7145571b6bcb%2Fchart.svg?generation=1584011275397299&alt=media)\n                                Fig: Distribution of Different Categories of Potholes\n\n### Pothole Size-Categories\n- Small: `BoundingBox Area &lt;= 1024px`\n- Medium: `1024px &lt; BoundingBox Area &lt;= 9216px`\n- Large: `BoundingBox Area &gt; 9216px`\n\nNote: These size-categories were calculated after resizing the images to 300x300 pixels keeping the aspect ratio. This is similar to Microsoft COCO Size Metrics.\n\n## Splits\n- The directory `annotated-images` contains the images having pothole and their respective annotations (as XML file).\n- The file `splits.json` contains the annotation filenames (.xml) of the **training** (80%) and **test** (20%) dataset in following format---\n\n```javascript\n{\n  \"train\": [\"img-110.xml\", \"img-578.xml\", \"img-455.xml\", ...],\n  \"test\": [\"img-565.xml\", \"img-498.xml\", \"img-143.xml\", ...]\n}\n```\n",
+  "datasetId": 531821,
+  "datasetSlug": "annotated-potholes-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "chitholian",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 32573,
+  "totalVotes": 41,
+  "totalDownloads": 3410,
+  "title": "Annotated Potholes Image Dataset",
+  "hasTitle": true,
+  "subtitle": "Fully bounding-box annotated image dataset of potholes and damaged roads.",
+  "hasSubtitle": true,
+  "description": "# A Fully Annotated Image Dataset for Pothole Detection\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4217328%2F93f30861c0d29b73ad3d7145571b6bcb%2Fchart.svg?generation=1584011275397299&alt=media)\n                                Fig: Distribution of Different Categories of Potholes\n\n### Pothole Size-Categories\n- Small: `BoundingBox Area &lt;= 1024px`\n- Medium: `1024px &lt; BoundingBox Area &lt;= 9216px`\n- Large: `BoundingBox Area &gt; 9216px`\n\nNote: These size-categories were calculated after resizing the images to 300x300 pixels keeping the aspect ratio. This is similar to Microsoft COCO Size Metrics.\n\n## Splits\n- The directory `annotated-images` contains the images having pothole and their respective annotations (as XML file).\n- The file `splits.json` contains the annotation filenames (.xml) of the **training** (80%) and **test** (20%) dataset in following format---\n\n```javascript\n{\n  \"train\": [\"img-110.xml\", \"img-578.xml\", \"img-455.xml\", ...],\n  \"test\": [\"img-565.xml\", \"img-498.xml\", \"img-143.xml\", ...]\n}\n```\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "software",
+    "image",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

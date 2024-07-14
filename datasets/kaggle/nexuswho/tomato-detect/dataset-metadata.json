@@ -1,0 +1,42 @@
+{
+  "id": "nexuswho/tomato-detect",
+  "id_no": 4021695,
+  "datasetSlugNullable": "tomato-detect",
+  "ownerUserNullable": "nexuswho",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Tomato Detection",
+  "subtitleNullable": "Fresh or Rotten using YOLOv8 Computer Vision Project",
+  "descriptionNullable": "**Count**\n- Train Set: 13809\n- Valid Set: 1969\n- Test Set: 987\n\n**Preprocessing**\n- Auto-Orient\n- Resize: Stretch to 640x640\n\n&gt;Penelitian, \u2018Tomato Detection Fresh or Rotten using YOLOv8 Dataset\u2019, Roboflow Universe. Roboflow, Aug-2023.",
+  "datasetId": 4021695,
+  "datasetSlug": "tomato-detect",
+  "hasDatasetSlug": true,
+  "ownerUser": "nexuswho",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 5758,
+  "totalVotes": 20,
+  "totalDownloads": 588,
+  "title": "Tomato Detection",
+  "hasTitle": true,
+  "subtitle": "Fresh or Rotten using YOLOv8 Computer Vision Project",
+  "hasSubtitle": true,
+  "description": "**Count**\n- Train Set: 13809\n- Valid Set: 1969\n- Test Set: 987\n\n**Preprocessing**\n- Auto-Orient\n- Resize: Stretch to 640x640\n\n&gt;Penelitian, \u2018Tomato Detection Fresh or Rotten using YOLOv8 Dataset\u2019, Roboflow Universe. Roboflow, Aug-2023.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "image",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

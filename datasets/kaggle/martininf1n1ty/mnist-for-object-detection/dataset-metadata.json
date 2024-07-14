@@ -1,0 +1,39 @@
+{
+  "id": "martininf1n1ty/mnist-for-object-detection",
+  "id_no": 3619394,
+  "datasetSlugNullable": "mnist-for-object-detection",
+  "ownerUserNullable": "martininf1n1ty",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "MNIST for Object detection",
+  "subtitleNullable": "Modified for MNIST and tailored to a straightforward model for object detection.",
+  "descriptionNullable": "This is a modification of the classic MNIST dataset, transforming it into a dataset tailored for object detection tasks.\nThis modified dataset includes images of hand-written digits, similar to the original MNIST dataset. \n\nHowever, unlike traditional digit classification, each image is now equipped with bounding boxes, precisely defining the area where a given digit is located. This has allowed me to create a dataset that is well-suited for solving object detection problems.\n\nKey information about the dataset:\n\nNumber of examples: 60000 trains images, 10000 test images\nImage size: 28x28 pixels\nnumber of bounding boxes per image: 1, \nand label from 0-9 digit \n\nThis dataset has immense potential for applications in the field of machine learning, particularly in tasks related to object detection. You can use it for training and evaluating models that combine classification and regression tasks. Solutions based on this dataset can find applications in areas such as automatic identification of digits in images or more advanced detection tasks.\n\n",
+  "datasetId": 3619394,
+  "datasetSlug": "mnist-for-object-detection",
+  "hasDatasetSlug": true,
+  "ownerUser": "martininf1n1ty",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 288,
+  "totalVotes": 1,
+  "totalDownloads": 42,
+  "title": "MNIST for Object detection",
+  "hasTitle": true,
+  "subtitle": "Modified for MNIST and tailored to a straightforward model for object detection.",
+  "hasSubtitle": true,
+  "description": "This is a modification of the classic MNIST dataset, transforming it into a dataset tailored for object detection tasks.\nThis modified dataset includes images of hand-written digits, similar to the original MNIST dataset. \n\nHowever, unlike traditional digit classification, each image is now equipped with bounding boxes, precisely defining the area where a given digit is located. This has allowed me to create a dataset that is well-suited for solving object detection problems.\n\nKey information about the dataset:\n\nNumber of examples: 60000 trains images, 10000 test images\nImage size: 28x28 pixels\nnumber of bounding boxes per image: 1, \nand label from 0-9 digit \n\nThis dataset has immense potential for applications in the field of machine learning, particularly in tasks related to object detection. You can use it for training and evaluating models that combine classification and regression tasks. Solutions based on this dataset can find applications in areas such as automatic identification of digits in images or more advanced detection tasks.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

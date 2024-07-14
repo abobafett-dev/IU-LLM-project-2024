@@ -1,0 +1,44 @@
+{
+  "id": "rodrigoazs/english-spanish-and-portuguese-language-varieties",
+  "id_no": 4102628,
+  "datasetSlugNullable": "english-spanish-and-portuguese-language-varieties",
+  "ownerUserNullable": "rodrigoazs",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "English, Spanish and Portuguese language varieties",
+  "subtitleNullable": "Dataset with texts collected from news websites from different countries.",
+  "descriptionNullable": "### Context\nIn sociolinguistics, a variety, also known as a lect or an isolect, is a specific form of a language or language cluster. Each language might have multiple varieties geographically distributed. Some famous examples are differences between Brazilian and European Portuguese or American and British English. In order to understand those differences, this dataset comprehends texts collected from news websites from Brazil, Portugal, USA, UK, Spain, Mexico and Argentina containing linguistics differences for Portuguese, Spanish and English.\n\n### Sources\nThe sources are at least 10 news websites for each country in the dataset.\n\n### Additional Information\nWebsite names, URLs, emails, companies names and identifications were not removed from the text files. No post-processing was done.\n\n### What You Can Do With This Data\nYou can use this data to:\n- Classify texts from Brazilian/European Portuguese\n- Classify texts from Mexican/Argentinian/European Spanish\n- Classify texts from American/British English\n- Hierarchically classify texts from all varieties\n- Understand syntax and semantics differences",
+  "datasetId": 4102628,
+  "datasetSlug": "english-spanish-and-portuguese-language-varieties",
+  "hasDatasetSlug": true,
+  "ownerUser": "rodrigoazs",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 325,
+  "totalVotes": 1,
+  "totalDownloads": 31,
+  "title": "English, Spanish and Portuguese language varieties",
+  "hasTitle": true,
+  "subtitle": "Dataset with texts collected from news websites from different countries.",
+  "hasSubtitle": true,
+  "description": "### Context\nIn sociolinguistics, a variety, also known as a lect or an isolect, is a specific form of a language or language cluster. Each language might have multiple varieties geographically distributed. Some famous examples are differences between Brazilian and European Portuguese or American and British English. In order to understand those differences, this dataset comprehends texts collected from news websites from Brazil, Portugal, USA, UK, Spain, Mexico and Argentina containing linguistics differences for Portuguese, Spanish and English.\n\n### Sources\nThe sources are at least 10 news websites for each country in the dataset.\n\n### Additional Information\nWebsite names, URLs, emails, companies names and identifications were not removed from the text files. No post-processing was done.\n\n### What You Can Do With This Data\nYou can use this data to:\n- Classify texts from Brazilian/European Portuguese\n- Classify texts from Mexican/Argentinian/European Spanish\n- Classify texts from American/British English\n- Hierarchically classify texts from all varieties\n- Understand syntax and semantics differences",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social science",
+    "text",
+    "news",
+    "english",
+    "portuguese",
+    "spanish"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

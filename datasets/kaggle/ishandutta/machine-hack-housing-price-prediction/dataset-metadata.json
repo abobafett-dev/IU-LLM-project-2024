@@ -1,0 +1,46 @@
+{
+  "id": "ishandutta/machine-hack-housing-price-prediction",
+  "id_no": 894299,
+  "datasetSlugNullable": "machine-hack-housing-price-prediction",
+  "ownerUserNullable": "ishandutta",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Machine Hack Housing Price Prediction",
+  "subtitleNullable": "Housing Price Regression Problem",
+  "descriptionNullable": "###Overview\nThe House Price Prediction Challenge, will test your regression skills by designing an algorithm to accurately predict the house prices in India. Accurately predicting house prices can be a daunting task. The buyers are just not concerned about the size(square feet) of the house and there are various other factors that play a key role to decide the price of a house/property. It can be extremely difficult to figure out the right set of attributes that are contributing to understanding the buyer's behavior as such. This dataset has been collected across various property aggregators across India. The dataset provides the 12 influencing factors your role as a data scientist is to predict the prices as accurately as possible.\n\nYou will get a lot of room for feature engineering and mastering advanced regression techniques such as Random Forest, Deep Neural Nets, and various other ensembling techniques.  \n\n###Data Description:\n**Train.csv** - 29451 rows x 12 columns\n**Test.csv** - 68720 rows x 11 columns\n**Sample Submission** - Acceptable submission format. (.csv/.xlsx file with 68720 rows)",
+  "datasetId": 894299,
+  "datasetSlug": "machine-hack-housing-price-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "ishandutta",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6795,
+  "totalVotes": 11,
+  "totalDownloads": 442,
+  "title": "Machine Hack Housing Price Prediction",
+  "hasTitle": true,
+  "subtitle": "Housing Price Regression Problem",
+  "hasSubtitle": true,
+  "description": "###Overview\nThe House Price Prediction Challenge, will test your regression skills by designing an algorithm to accurately predict the house prices in India. Accurately predicting house prices can be a daunting task. The buyers are just not concerned about the size(square feet) of the house and there are various other factors that play a key role to decide the price of a house/property. It can be extremely difficult to figure out the right set of attributes that are contributing to understanding the buyer's behavior as such. This dataset has been collected across various property aggregators across India. The dataset provides the 12 influencing factors your role as a data scientist is to predict the prices as accurately as possible.\n\nYou will get a lot of room for feature engineering and mastering advanced regression techniques such as Random Forest, Deep Neural Nets, and various other ensembling techniques.  \n\n###Data Description:\n**Train.csv** - 29451 rows x 12 columns\n**Test.csv** - 68720 rows x 11 columns\n**Sample Submission** - Acceptable submission format. (.csv/.xlsx file with 68720 rows)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature",
+    "housing",
+    "real estate",
+    "deep learning",
+    "linear regression",
+    "neural networks",
+    "regression",
+    "social issues and advocacy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

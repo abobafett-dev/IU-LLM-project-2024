@@ -1,0 +1,39 @@
+{
+  "id": "imgowthamg/walmart-sales-dataset",
+  "id_no": 3920493,
+  "datasetSlugNullable": "walmart-sales-dataset",
+  "ownerUserNullable": "imgowthamg",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Walmart Sales Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "This dataset contains information about sales orders, including the order ID, order date, shipping date, customer names, location (country, city, state), product categories, product names, and sales amount. The dataset covers a range of orders over several years, with information on different product categories and their associated sales. It also provides insights into the distribution of orders across cities and states. If you have specific questions or need more details, please ask.",
+  "datasetId": 3920493,
+  "datasetSlug": "walmart-sales-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "imgowthamg",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 2130,
+  "totalVotes": 19,
+  "totalDownloads": 612,
+  "title": "Walmart Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "This dataset contains information about sales orders, including the order ID, order date, shipping date, customer names, location (country, city, state), product categories, product names, and sales amount. The dataset covers a range of orders over several years, with information on different product categories and their associated sales. It also provides insights into the distribution of orders across cities and states. If you have specific questions or need more details, please ask.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

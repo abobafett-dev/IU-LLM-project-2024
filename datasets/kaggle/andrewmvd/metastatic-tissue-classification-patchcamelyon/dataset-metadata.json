@@ -1,0 +1,44 @@
+{
+  "id": "andrewmvd/metastatic-tissue-classification-patchcamelyon",
+  "id_no": 612374,
+  "datasetSlugNullable": "metastatic-tissue-classification-patchcamelyon",
+  "ownerUserNullable": "andrewmvd",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Metastatic Tissue Classification - PatchCamelyon",
+  "subtitleNullable": "327.680 color images with binary labels for normal or tumor tissue present",
+  "descriptionNullable": "# Preview Images\n![Image Sample of PCAM](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F793761%2F5d374f25880b39aa2ebfa5fe757a4179%2Fpcam.jpg?generation=1587369639125272&alt=media)\nExample images from PCam. Green boxes indicate tumor tissue in center region, which dictates a positive label.\n\n# About This Data\n&gt; The PatchCamelyon benchmark (PCAM) consists of 327.680 color images (96 x 96px) extracted from histopathologic scans of lymph node sections. Each image is annoted with a binary label indicating presence of metastatic tissue.\n\n&gt; Fundamental machine learning advancements are predominantly evaluated on straight-forward natural-image classification datasets and medical imaging is becoming one of the major applications of ML and thus deserves a spot on the list of go-to ML datasets. Both to challenge future work, and to steer developments into directions that are beneficial for this domain.\n\n\n# How To Cite this Dataset\nIf you use this dataset in your research, please credit the authors.\n\n&gt; ## Original Articles\n[1] B. S. Veeling, J. Linmans, J. Winkens, T. Cohen, M. Welling. \"Rotation Equivariant CNNs for Digital Pathology\". [arXiv:1806.03962](https://arxiv.org/abs/1806.03962)\n\n&gt; [2] Ehteshami Bejnordi et al. Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer. JAMA: The Journal of the American Medical Association, 318(22), 2199\u20132210. doi:jama.2017.14585\n\n## Splash Image\n&gt; Photo by Nephron on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Colorectal_adenocarcinoma_cytology_intermed_mag.jpg)",
+  "datasetId": 612374,
+  "datasetSlug": "metastatic-tissue-classification-patchcamelyon",
+  "hasDatasetSlug": true,
+  "ownerUser": "andrewmvd",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 15110,
+  "totalVotes": 50,
+  "totalDownloads": 852,
+  "title": "Metastatic Tissue Classification - PatchCamelyon",
+  "hasTitle": true,
+  "subtitle": "327.680 color images with binary labels for normal or tumor tissue present",
+  "hasSubtitle": true,
+  "description": "# Preview Images\n![Image Sample of PCAM](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F793761%2F5d374f25880b39aa2ebfa5fe757a4179%2Fpcam.jpg?generation=1587369639125272&alt=media)\nExample images from PCam. Green boxes indicate tumor tissue in center region, which dictates a positive label.\n\n# About This Data\n&gt; The PatchCamelyon benchmark (PCAM) consists of 327.680 color images (96 x 96px) extracted from histopathologic scans of lymph node sections. Each image is annoted with a binary label indicating presence of metastatic tissue.\n\n&gt; Fundamental machine learning advancements are predominantly evaluated on straight-forward natural-image classification datasets and medical imaging is becoming one of the major applications of ML and thus deserves a spot on the list of go-to ML datasets. Both to challenge future work, and to steer developments into directions that are beneficial for this domain.\n\n\n# How To Cite this Dataset\nIf you use this dataset in your research, please credit the authors.\n\n&gt; ## Original Articles\n[1] B. S. Veeling, J. Linmans, J. Winkens, T. Cohen, M. Welling. \"Rotation Equivariant CNNs for Digital Pathology\". [arXiv:1806.03962](https://arxiv.org/abs/1806.03962)\n\n&gt; [2] Ehteshami Bejnordi et al. Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer. JAMA: The Journal of the American Medical Association, 318(22), 2199\u20132210. doi:jama.2017.14585\n\n## Splash Image\n&gt; Photo by Nephron on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Colorectal_adenocarcinoma_cytology_intermed_mag.jpg)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "diseases",
+    "business",
+    "health",
+    "medicine",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

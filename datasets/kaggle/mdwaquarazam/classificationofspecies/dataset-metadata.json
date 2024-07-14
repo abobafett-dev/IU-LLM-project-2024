@@ -1,0 +1,43 @@
+{
+  "id": "mdwaquarazam/classificationofspecies",
+  "id_no": 2392865,
+  "datasetSlugNullable": "classificationofspecies",
+  "ownerUserNullable": "mdwaquarazam",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Classification-OF-SPECIES(9)",
+  "subtitleNullable": "Classify these species in given dataset",
+  "descriptionNullable": "Classify the Species in given dataset.\n\nThere are 9 different types of folder given for Micro Organism they are following\nAnt---\nButterfly--\nCockroach--\nFrog--\nGrasshopper--\nHoney bee--\nSpider--\ndragonfly--\nlizard--\n\nAcknowledgements\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n**Name of some contributer who they published there image on bing and chrome **\n{ Doe_stack ,alamy, Go Graph visual ,dream strive ,science photolibrary ,fotosearch.com, cobris ,\nv begman ,Marc Perk ,bdfishing, and many more }\n\nInspiration\nWant to build powerful Neural network that can classify these images with more accuracy.\n\n--All image may have different size so make them into similar size\n\n--you can use Augmentation property after splitting dataset",
+  "datasetId": 2392865,
+  "datasetSlug": "classificationofspecies",
+  "hasDatasetSlug": true,
+  "ownerUser": "mdwaquarazam",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 6507,
+  "totalVotes": 29,
+  "totalDownloads": 1627,
+  "title": "Classification-OF-SPECIES(9)",
+  "hasTitle": true,
+  "subtitle": "Classify these species in given dataset",
+  "hasSubtitle": true,
+  "description": "Classify the Species in given dataset.\n\nThere are 9 different types of folder given for Micro Organism they are following\nAnt---\nButterfly--\nCockroach--\nFrog--\nGrasshopper--\nHoney bee--\nSpider--\ndragonfly--\nlizard--\n\nAcknowledgements\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n**Name of some contributer who they published there image on bing and chrome **\n{ Doe_stack ,alamy, Go Graph visual ,dream strive ,science photolibrary ,fotosearch.com, cobris ,\nv begman ,Marc Perk ,bdfishing, and many more }\n\nInspiration\nWant to build powerful Neural network that can classify these images with more accuracy.\n\n--All image may have different size so make them into similar size\n\n--you can use Augmentation property after splitting dataset",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "biology",
+    "classification",
+    "deep learning",
+    "cnn",
+    "keras"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

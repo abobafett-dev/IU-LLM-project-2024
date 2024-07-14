@@ -1,0 +1,41 @@
+{
+  "id": "waltervanhuissteden/urban-social-disorder",
+  "id_no": 855044,
+  "datasetSlugNullable": "urban-social-disorder",
+  "ownerUserNullable": "waltervanhuissteden",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Urban Social Disorder",
+  "subtitleNullable": "Urban \u2018social disorder\u2019 in major cities of the developing world (1960-2014)",
+  "descriptionNullable": "The Urban Social Disorder (USD) dataset v2.0 contains information on urban \u2018social disorder\u2019 events occurring in capitals and other major cities of the developing world for the 1960-2014 period. Version 2 of the dataset covers 103 major cities in 89 different countries, with near complete coverage of the largest cities in Sub-Saharan Africa, Central- and East Asia, the Middle East and North-Africa, and Latin America. \n\nThe dataset contains detailed information on the individual event, coded in csv format and supplied with extracts from the Keesing\u2019s text files. The data are further organized into aggregated annual and monthly counts of violent and non-violent events per city, facilitating cross-sectional time-series analyses. An overview table for all the cities provides useful meta-data such as geographic coordinates and ID keys for conveniently linking with other city-specific datasets.\n\nA total of 9,018 events have been recorded for these cities, of which 3,797 involved lethal casualties. The data are compiled from electronic news reports in the Keesing\u2019s Record of World Events and cover different forms of both violent and non-violent politically motivated disorder, including:\n- strikes\n- demonstrations\n- rioting\n- terrorism\n- assassinations\n- coup d\u2019\u00e9tats\n- warfare/battles",
+  "datasetId": 855044,
+  "datasetSlug": "urban-social-disorder",
+  "hasDatasetSlug": true,
+  "ownerUser": "waltervanhuissteden",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 3672,
+  "totalVotes": 8,
+  "totalDownloads": 261,
+  "title": "Urban Social Disorder",
+  "hasTitle": true,
+  "subtitle": "Urban \u2018social disorder\u2019 in major cities of the developing world (1960-2014)",
+  "hasSubtitle": true,
+  "description": "The Urban Social Disorder (USD) dataset v2.0 contains information on urban \u2018social disorder\u2019 events occurring in capitals and other major cities of the developing world for the 1960-2014 period. Version 2 of the dataset covers 103 major cities in 89 different countries, with near complete coverage of the largest cities in Sub-Saharan Africa, Central- and East Asia, the Middle East and North-Africa, and Latin America. \n\nThe dataset contains detailed information on the individual event, coded in csv format and supplied with extracts from the Keesing\u2019s text files. The data are further organized into aggregated annual and monthly counts of violent and non-violent events per city, facilitating cross-sectional time-series analyses. An overview table for all the cities provides useful meta-data such as geographic coordinates and ID keys for conveniently linking with other city-specific datasets.\n\nA total of 9,018 events have been recorded for these cities, of which 3,797 involved lethal casualties. The data are compiled from electronic news reports in the Keesing\u2019s Record of World Events and cover different forms of both violent and non-violent politically motivated disorder, including:\n- strikes\n- demonstrations\n- rioting\n- terrorism\n- assassinations\n- coup d\u2019\u00e9tats\n- warfare/battles",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cities and urban areas",
+    "social science",
+    "social issues and advocacy"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

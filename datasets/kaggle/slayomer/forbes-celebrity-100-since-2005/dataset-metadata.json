@@ -1,0 +1,43 @@
+{
+  "id": "slayomer/forbes-celebrity-100-since-2005",
+  "id_no": 622168,
+  "datasetSlugNullable": "forbes-celebrity-100-since-2005",
+  "ownerUserNullable": "slayomer",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Forbes Celebrity 100 since 2005 (for Racing Bar)",
+  "subtitleNullable": "Database of highest paid celebrities including actors, athletes, personalities",
+  "descriptionNullable": "### Context\n\nMedium article made with this dataset:\n\n**Making Beautiful Racing Bar Animations for YouTube**:\nhttps://medium.com/analytics-vidhya/making-beautiful-racing-bar-animations-for-youtube-869e55073547\n\nYouTube videos made with this dataset:\n\n**Highest earning personalities**: https://youtu.be/Lf8V85mOkdM\n**Highest earning musicians**: https://youtu.be/omTlzSCHDOc\n**Highest earning comedians**: https://youtu.be/otnMVXe_jJ4\n**Who earns more, Actors or Directors?**: https://youtu.be/l0YLzclnKwE\n**Forbes celebrity 100 since 2005**: https://youtu.be/UAwGSOdr5Ko\n**Highest earning actors**: https://youtu.be/ea5cCx5SqCE\n\nThis dataset contains salary/earning information of celebrities including actors, athletes, tv personalities since 2005. Data was gathered from the historical \"Celebrity 100\" lists of Forbes magazine.\n\nIt contains 4 columns and 1647 rows (number of rows will be increased each year). As of 2021, the dataset covers a span of 16 years of celebrity earnings since 2005. Unfortunately, no information was found before 2005.\n\nData was collected from various sources and organised in Python/Jupyter Notebook stack. Mainly the archives of Forbes is used, also some auxiliary sources like The Daily Telegraph newspaper archives are used.",
+  "datasetId": 622168,
+  "datasetSlug": "forbes-celebrity-100-since-2005",
+  "hasDatasetSlug": true,
+  "ownerUser": "slayomer",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12073,
+  "totalVotes": 36,
+  "totalDownloads": 1286,
+  "title": "Forbes Celebrity 100 since 2005 (for Racing Bar)",
+  "hasTitle": true,
+  "subtitle": "Database of highest paid celebrities including actors, athletes, personalities",
+  "hasSubtitle": true,
+  "description": "### Context\n\nMedium article made with this dataset:\n\n**Making Beautiful Racing Bar Animations for YouTube**:\nhttps://medium.com/analytics-vidhya/making-beautiful-racing-bar-animations-for-youtube-869e55073547\n\nYouTube videos made with this dataset:\n\n**Highest earning personalities**: https://youtu.be/Lf8V85mOkdM\n**Highest earning musicians**: https://youtu.be/omTlzSCHDOc\n**Highest earning comedians**: https://youtu.be/otnMVXe_jJ4\n**Who earns more, Actors or Directors?**: https://youtu.be/l0YLzclnKwE\n**Forbes celebrity 100 since 2005**: https://youtu.be/UAwGSOdr5Ko\n**Highest earning actors**: https://youtu.be/ea5cCx5SqCE\n\nThis dataset contains salary/earning information of celebrities including actors, athletes, tv personalities since 2005. Data was gathered from the historical \"Celebrity 100\" lists of Forbes magazine.\n\nIt contains 4 columns and 1647 rows (number of rows will be increased each year). As of 2021, the dataset covers a span of 16 years of celebrity earnings since 2005. Unfortunately, no information was found before 2005.\n\nData was collected from various sources and organised in Python/Jupyter Notebook stack. Mainly the archives of Forbes is used, also some auxiliary sources like The Daily Telegraph newspaper archives are used.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "celebrities",
+    "sports",
+    "business",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

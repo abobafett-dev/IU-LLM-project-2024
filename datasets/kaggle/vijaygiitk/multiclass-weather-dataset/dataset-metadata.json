@@ -1,0 +1,43 @@
+{
+  "id": "vijaygiitk/multiclass-weather-dataset",
+  "id_no": 482792,
+  "datasetSlugNullable": "multiclass-weather-dataset",
+  "ownerUserNullable": "vijaygiitk",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Weather Classification",
+  "subtitleNullable": "1530 images of 5-different weather conditions.",
+  "descriptionNullable": "The dataset contains 6-folders: 5-folders having each category of images and one with the alien-test having the images of all categories. It also consist a csv file having the labels for the images in alien-test folder.\n\n",
+  "datasetId": 482792,
+  "datasetSlug": "multiclass-weather-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "vijaygiitk",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 55086,
+  "totalVotes": 75,
+  "totalDownloads": 6817,
+  "title": "Weather Classification",
+  "hasTitle": true,
+  "subtitle": "1530 images of 5-different weather conditions.",
+  "hasSubtitle": true,
+  "description": "The dataset contains 6-folders: 5-folders having each category of images and one with the alien-test having the images of all categories. It also consist a csv file having the labels for the images in alien-test folder.\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "computer vision",
+    "deep learning",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

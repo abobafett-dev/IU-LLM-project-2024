@@ -1,0 +1,42 @@
+{
+  "id": "harishcscode/all-news-articles-from-home-page-media-house",
+  "id_no": 25407,
+  "datasetSlugNullable": "all-news-articles-from-home-page-media-house",
+  "ownerUserNullable": "harishcscode",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "News Articles ",
+  "subtitleNullable": "News Articles Extracted from 5 USA News media houses",
+  "descriptionNullable": "## Context\n\nThe Data is collected from various media houses home page to see which News media shares/writes articles with less gory words.\n\n\n## Content\n\nDatasource is obtained from these websites which are downloaded from a time period of Oct 2017 to Nov 2017:\n\n    1. \"http://www.nytimes.com/\"\n    2. \"http://www.foxnews.com/\"\n    3. \"http://www.reuters.com/\"\n    4. \"http://www.cnn.com/\"\n    5. \"http://www.huffingtonpost.com/\"\n\nEach folder is named in the *mmddyyyy* convention. And Each CSV file has the media house name as the file name(eg: reuters.csv). The CSV has the following columns:\n\n* `TITLE`: the Title of the article.\n* `SUMMARY`: first few lines of the article's text.\n* `TEXT`: Full text inside the article\n* `URL`: web link to the article.\n* `KEYWORDS`: important words in the article.\n\n\n## Acknowledgements\n\nThis dataset is under CC0: public domain license.\n\n\n## Inspiration\n\nAll around the world both good and bad happens, and we get to know only those that are exposed to us. And, that\u2019s the primary responsibility of the media. But the bigger responsibility of these media houses is the way in which they express the content to the people.\n\nA responsible media house\u2019s content should be original, unbiased, free of exaggeration and should be very sensitive in handling the emotions of it\u2019s readers and viewers. A same story could be told in different ways and these different ways could definitely trigger different emotions among it\u2019s readers.\n\nIt is known that we become who we are by what we say and what we read. Reading a story that\u2019s filled with positive words would make us feel more positive and vice versa. So the wordings of a content definitely plays an equal role as that of the content itself.\n\nThis dataset stands as sample to find out which media house conveys the NEWS in more optimistic way!!!",
+  "datasetId": 25407,
+  "datasetSlug": "all-news-articles-from-home-page-media-house",
+  "hasDatasetSlug": true,
+  "ownerUser": "harishcscode",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 9225,
+  "totalVotes": 27,
+  "totalDownloads": 1259,
+  "title": "News Articles ",
+  "hasTitle": true,
+  "subtitle": "News Articles Extracted from 5 USA News media houses",
+  "hasSubtitle": true,
+  "description": "## Context\n\nThe Data is collected from various media houses home page to see which News media shares/writes articles with less gory words.\n\n\n## Content\n\nDatasource is obtained from these websites which are downloaded from a time period of Oct 2017 to Nov 2017:\n\n    1. \"http://www.nytimes.com/\"\n    2. \"http://www.foxnews.com/\"\n    3. \"http://www.reuters.com/\"\n    4. \"http://www.cnn.com/\"\n    5. \"http://www.huffingtonpost.com/\"\n\nEach folder is named in the *mmddyyyy* convention. And Each CSV file has the media house name as the file name(eg: reuters.csv). The CSV has the following columns:\n\n* `TITLE`: the Title of the article.\n* `SUMMARY`: first few lines of the article's text.\n* `TEXT`: Full text inside the article\n* `URL`: web link to the article.\n* `KEYWORDS`: important words in the article.\n\n\n## Acknowledgements\n\nThis dataset is under CC0: public domain license.\n\n\n## Inspiration\n\nAll around the world both good and bad happens, and we get to know only those that are exposed to us. And, that\u2019s the primary responsibility of the media. But the bigger responsibility of these media houses is the way in which they express the content to the people.\n\nA responsible media house\u2019s content should be original, unbiased, free of exaggeration and should be very sensitive in handling the emotions of it\u2019s readers and viewers. A same story could be told in different ways and these different ways could definitely trigger different emotions among it\u2019s readers.\n\nIt is known that we become who we are by what we say and what we read. Reading a story that\u2019s filled with positive words would make us feel more positive and vice versa. So the wordings of a content definitely plays an equal role as that of the content itself.\n\nThis dataset stands as sample to find out which media house conveys the NEWS in more optimistic way!!!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "languages",
+    "linguistics",
+    "nlp",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

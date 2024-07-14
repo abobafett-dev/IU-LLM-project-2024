@@ -1,0 +1,39 @@
+{
+  "id": "elyordev/kun-uz-dataset",
+  "id_no": 4489066,
+  "datasetSlugNullable": "kun-uz-dataset",
+  "ownerUserNullable": "elyordev",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Kun.uz Dataset",
+  "subtitleNullable": "The dataset has been collected through web scraping from the Kun.uz news website",
+  "descriptionNullable": "The dataset has been collected through web scraping from the Kun.uz news website. It contains 172,349 news articles.\n\nUzbekistan\nWorld\nSociety\nSports\nBusiness\nScience and Technology\nEconomy\nThe dataset includes news headlines (title), news text (content), and news category (target).",
+  "datasetId": 4489066,
+  "datasetSlug": "kun-uz-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "elyordev",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 34,
+  "totalVotes": 1,
+  "totalDownloads": 3,
+  "title": "Kun.uz Dataset",
+  "hasTitle": true,
+  "subtitle": "The dataset has been collected through web scraping from the Kun.uz news website",
+  "hasSubtitle": true,
+  "description": "The dataset has been collected through web scraping from the Kun.uz news website. It contains 172,349 news articles.\n\nUzbekistan\nWorld\nSociety\nSports\nBusiness\nScience and Technology\nEconomy\nThe dataset includes news headlines (title), news text (content), and news category (target).",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "earth and nature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

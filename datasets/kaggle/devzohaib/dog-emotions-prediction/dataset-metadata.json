@@ -1,0 +1,44 @@
+{
+  "id": "devzohaib/dog-emotions-prediction",
+  "id_no": 2521291,
+  "datasetSlugNullable": "dog-emotions-prediction",
+  "ownerUserNullable": "devzohaib",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": "Dog Emotions Prediction",
+  "subtitleNullable": "figure out what emotion a dog is feeling based on a picture",
+  "descriptionNullable": "This dataset is part of dataquest project-walkthrough. Images are downloaded from Flickr using API. where Idog images are classified into 4 category based on their emotions. these 4 category are \n1- happy\n2- sad\n3- angry\n4- relaxed ",
+  "datasetId": 2521291,
+  "datasetSlug": "dog-emotions-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "devzohaib",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 25976,
+  "totalVotes": 55,
+  "totalDownloads": 2642,
+  "title": "Dog Emotions Prediction",
+  "hasTitle": true,
+  "subtitle": "figure out what emotion a dog is feeling based on a picture",
+  "hasSubtitle": true,
+  "description": "This dataset is part of dataquest project-walkthrough. Images are downloaded from Flickr using API. where Idog images are classified into 4 category based on their emotions. these 4 category are \n1- happy\n2- sad\n3- angry\n4- relaxed ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "beginner",
+    "classification",
+    "deep learning",
+    "cnn",
+    "image"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

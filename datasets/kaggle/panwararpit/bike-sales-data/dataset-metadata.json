@@ -1,0 +1,40 @@
+{
+  "id": "panwararpit/bike-sales-data",
+  "id_no": 2375924,
+  "datasetSlugNullable": "bike-sales-data",
+  "ownerUserNullable": "panwararpit",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "Bike Sales Data",
+  "subtitleNullable": "Sales of bike with different variable affecting the decision of sales data.",
+  "descriptionNullable": "This dataset contains variables like age, sex, marital status, homeowner, children and their bike sale decision.",
+  "datasetId": 2375924,
+  "datasetSlug": "bike-sales-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "panwararpit",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 1519,
+  "totalVotes": 7,
+  "totalDownloads": 229,
+  "title": "Bike Sales Data",
+  "hasTitle": true,
+  "subtitle": "Sales of bike with different variable affecting the decision of sales data.",
+  "hasSubtitle": true,
+  "description": "This dataset contains variables like age, sex, marital status, homeowner, children and their bike sale decision.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cycling",
+    "retail and shopping"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

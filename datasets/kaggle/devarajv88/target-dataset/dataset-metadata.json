@@ -1,0 +1,43 @@
+{
+  "id": "devarajv88/target-dataset",
+  "id_no": 5064314,
+  "datasetSlugNullable": "target-dataset",
+  "ownerUserNullable": "devarajv88",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "e-Commerce (Target) Sales Dataset",
+  "subtitleNullable": "Detailed Overview of Target's Brazilian Operations and Customer Data",
+  "descriptionNullable": "Target is a globally recognized brand and a leading retailer in the United States, known for offering exceptional value, inspiration, innovation, and a unique shopping experience.\n\nThis dataset focuses on Target's operations in Brazil, covering 100,000 orders placed between 2016 and 2018. It includes detailed information on order status, pricing, payment and shipping performance, customer locations, product attributes, and customer reviews.\n\n**Features**\nThe data is available in 8 csv files:\n- customers.csv\n- sellers.csv\n- order_items.csv\n- geolocation.csv\n- payments.csv\n- orders.csv\n- products.csv\n\n**Potential Use Cases**\nAnalyzing this dataset offers valuable insights into Target's Brazilian operations, revealing details about order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction. This comprehensive dataset is a valuable resource for understanding various business aspects and enhancing strategic decision-making.\n\n\n**Dataset Schema**\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F15074417%2Fb15a300fe807965428250762308c248b%2FUntitled.png?generation=1716400390272599&alt=media)",
+  "datasetId": 5064314,
+  "datasetSlug": "target-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "devarajv88",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 3928,
+  "totalVotes": 21,
+  "totalDownloads": 781,
+  "title": "e-Commerce (Target) Sales Dataset",
+  "hasTitle": true,
+  "subtitle": "Detailed Overview of Target's Brazilian Operations and Customer Data",
+  "hasSubtitle": true,
+  "description": "Target is a globally recognized brand and a leading retailer in the United States, known for offering exceptional value, inspiration, innovation, and a unique shopping experience.\n\nThis dataset focuses on Target's operations in Brazil, covering 100,000 orders placed between 2016 and 2018. It includes detailed information on order status, pricing, payment and shipping performance, customer locations, product attributes, and customer reviews.\n\n**Features**\nThe data is available in 8 csv files:\n- customers.csv\n- sellers.csv\n- order_items.csv\n- geolocation.csv\n- payments.csv\n- orders.csv\n- products.csv\n\n**Potential Use Cases**\nAnalyzing this dataset offers valuable insights into Target's Brazilian operations, revealing details about order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction. This comprehensive dataset is a valuable resource for understanding various business aspects and enhancing strategic decision-making.\n\n\n**Dataset Schema**\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F15074417%2Fb15a300fe807965428250762308c248b%2FUntitled.png?generation=1716400390272599&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "brazil",
+    "exploratory data analysis",
+    "tabular",
+    "e-commerce services",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

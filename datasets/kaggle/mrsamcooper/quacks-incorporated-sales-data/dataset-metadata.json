@@ -1,0 +1,41 @@
+{
+  "id": "mrsamcooper/quacks-incorporated-sales-data",
+  "id_no": 4612871,
+  "datasetSlugNullable": "quacks-incorporated-sales-data",
+  "ownerUserNullable": "mrsamcooper",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Quacks Incorporated Sales Data",
+  "subtitleNullable": "Synthetic sales data. Time to get quacking on BI skills!",
+  "descriptionNullable": "Overview:\nThe Synthetic Sales Data set is a meticulously crafted collection of simulated sales transactions designed to facilitate the learning and training of beginners in Business Intelligence (BI) and Data Analytics (DA) strategies. Comprising various sales-related attributes, this data card offers a structured and comprehensive dataset for honing analytical skills and exploring real-world business scenarios in a risk-free environment.\n\nPotential Uses:\n\n- Exploratory Data Analysis (EDA): Beginners can perform EDA techniques to understand the distribution, relationships, and trends within the sales data. This includes summary statistics, data visualization, and identifying outliers.\n\n- Forecasting and Predictive Analytics: Utilize historical sales data to build forecasting models for future sales projections. Beginners can experiment with various forecasting techniques such \nas time series analysis and regression.\n\n- Customer Segmentation: Apply clustering algorithms to segment customers based on their purchasing behavior or demographics. Analyze each segment's characteristics to tailor marketing strategies and enhance customer satisfaction.\n\n- Price Optimization: Explore pricing strategies by analyzing the relationship between unit price, quantity sold, and total sales. Experiment with pricing adjustments to maximize revenue and profitability.\n\nNote: This synthetic sales data set is ideal for educational purposes and does not represent real-world sales data. It provides a safe environment for beginners to practice BI and DA techniques without concerns about data privacy or confidentiality.\n\n\n\n\n\n\n\n",
+  "datasetId": 4612871,
+  "datasetSlug": "quacks-incorporated-sales-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "mrsamcooper",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 108,
+  "totalVotes": 4,
+  "totalDownloads": 33,
+  "title": "Quacks Incorporated Sales Data",
+  "hasTitle": true,
+  "subtitle": "Synthetic sales data. Time to get quacking on BI skills!",
+  "hasSubtitle": true,
+  "description": "Overview:\nThe Synthetic Sales Data set is a meticulously crafted collection of simulated sales transactions designed to facilitate the learning and training of beginners in Business Intelligence (BI) and Data Analytics (DA) strategies. Comprising various sales-related attributes, this data card offers a structured and comprehensive dataset for honing analytical skills and exploring real-world business scenarios in a risk-free environment.\n\nPotential Uses:\n\n- Exploratory Data Analysis (EDA): Beginners can perform EDA techniques to understand the distribution, relationships, and trends within the sales data. This includes summary statistics, data visualization, and identifying outliers.\n\n- Forecasting and Predictive Analytics: Utilize historical sales data to build forecasting models for future sales projections. Beginners can experiment with various forecasting techniques such \nas time series analysis and regression.\n\n- Customer Segmentation: Apply clustering algorithms to segment customers based on their purchasing behavior or demographics. Analyze each segment's characteristics to tailor marketing strategies and enhance customer satisfaction.\n\n- Price Optimization: Explore pricing strategies by analyzing the relationship between unit price, quantity sold, and total sales. Experiment with pricing adjustments to maximize revenue and profitability.\n\nNote: This synthetic sales data set is ideal for educational purposes and does not represent real-world sales data. It provides a safe environment for beginners to practice BI and DA techniques without concerns about data privacy or confidentiality.\n\n\n\n\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "beginner",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

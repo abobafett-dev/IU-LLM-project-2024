@@ -1,0 +1,43 @@
+{
+  "id": "chenyanglim/imdb-v2",
+  "id_no": 1296422,
+  "datasetSlugNullable": "imdb-v2",
+  "ownerUserNullable": "chenyanglim",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "IMDb Movies dataset from 2000 - 2020",
+  "subtitleNullable": "Cleaned 5,487 Movies with casts, year, plot, votes etc.",
+  "descriptionNullable": "### Context\n\nIMDb is an online database of information related to films, television programs, home videos, video games, and streaming content online \u2013 including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews.\n\nIMDb stores information related to more than 6 million titles (of which almost 500,000 are featured films) and it is owned by Amazon since 1998.\n\n### Content\n\nThis is a cleaned and feature transformed dataset used for a content-based recommendation engine I did for a data science exercise.\n\nThe dataset contains most movies listed in IMDB from 2000 - 2020 (until 31/07/2020) with a total of 5,487 with attributes such as year published, genre, duration, language, actors, directors, ratings and votes etc\n\nThere are also additional features created such as \"actors_f2\" and \"desc35\" which are the first two actors and first 35 characters from the description respectively; Through multiple rounds of tests, I have discovered hundreds of rows of missing data (mainly in descriptions) and listing errors (missing key casts, wrong genres) have been fixed/added manually from IMDb (May 2021)\n\nFor the purpose of relevance for my recommendation engine, all movies with less than 10,000 votes have been considered noise (aka less popular) and thus excluded from the dataset.\n\n### Acknowledgements\n\nThe dataset is originally derived from Stefano Leone's IMDb.com scrape, which is also available on Kaggle:\nhttps://www.kaggle.com/stefanoleone992/imdb-extensive-dataset\n\nI highly recommend having a look at Stefano's dataset as well.\n\n### Inspiration\n\nThis has been a very enjoyable dataset to work with in creating a content-based recommendation engine. I hope you will find this educational and that it will be an inspiration to how you can create your recommendation engine too.",
+  "datasetId": 1296422,
+  "datasetSlug": "imdb-v2",
+  "hasDatasetSlug": true,
+  "ownerUser": "chenyanglim",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4623,
+  "totalVotes": 4,
+  "totalDownloads": 458,
+  "title": "IMDb Movies dataset from 2000 - 2020",
+  "hasTitle": true,
+  "subtitle": "Cleaned 5,487 Movies with casts, year, plot, votes etc.",
+  "hasSubtitle": true,
+  "description": "### Context\n\nIMDb is an online database of information related to films, television programs, home videos, video games, and streaming content online \u2013 including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews.\n\nIMDb stores information related to more than 6 million titles (of which almost 500,000 are featured films) and it is owned by Amazon since 1998.\n\n### Content\n\nThis is a cleaned and feature transformed dataset used for a content-based recommendation engine I did for a data science exercise.\n\nThe dataset contains most movies listed in IMDB from 2000 - 2020 (until 31/07/2020) with a total of 5,487 with attributes such as year published, genre, duration, language, actors, directors, ratings and votes etc\n\nThere are also additional features created such as \"actors_f2\" and \"desc35\" which are the first two actors and first 35 characters from the description respectively; Through multiple rounds of tests, I have discovered hundreds of rows of missing data (mainly in descriptions) and listing errors (missing key casts, wrong genres) have been fixed/added manually from IMDb (May 2021)\n\nFor the purpose of relevance for my recommendation engine, all movies with less than 10,000 votes have been considered noise (aka less popular) and thus excluded from the dataset.\n\n### Acknowledgements\n\nThe dataset is originally derived from Stefano Leone's IMDb.com scrape, which is also available on Kaggle:\nhttps://www.kaggle.com/stefanoleone992/imdb-extensive-dataset\n\nI highly recommend having a look at Stefano's dataset as well.\n\n### Inspiration\n\nThis has been a very enjoyable dataset to work with in creating a content-based recommendation engine. I hope you will find this educational and that it will be an inspiration to how you can create your recommendation engine too.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "popular culture",
+    "movies and tv shows",
+    "data cleaning",
+    "recommender systems",
+    "sklearn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kavehshahhosseini/rsna-brain-tumor-classification-tfrecords",
+  "id_no": 1552540,
+  "datasetSlugNullable": "rsna-brain-tumor-classification-tfrecords",
+  "ownerUserNullable": "kavehshahhosseini",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "RSNA Brain Tumor Classification TFRecords",
+  "subtitleNullable": "Converted data of DICOM images for Brain Tumor Radiogenomic Classifi",
+  "descriptionNullable": "This dataset is a TFRecords files, that converted from DICOM files from dataset for [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/data).\n\n\n### Content\n\nEach sample is serialized in this way:\n```\ndef serialize_example(image, label):\n    feature = {\n        'image': _bytes_feature(image.tobytes()),\n        'MGMT_value': _float_feature(label)\n    }\n    example_proto = tf.train.Example(features=tf.train.Features(feature=feature))\n    return example_proto.SerializeToString()\n```\nThere are `465` samples in `train` folder and `117` sample in `valid` folder. Each of which has shape `(128,128,32,4)`.So, there are 32 slices for 4 modalities. \n",
+  "datasetId": 1552540,
+  "datasetSlug": "rsna-brain-tumor-classification-tfrecords",
+  "hasDatasetSlug": true,
+  "ownerUser": "kavehshahhosseini",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5096,
+  "totalVotes": 28,
+  "totalDownloads": 181,
+  "title": "RSNA Brain Tumor Classification TFRecords",
+  "hasTitle": true,
+  "subtitle": "Converted data of DICOM images for Brain Tumor Radiogenomic Classifi",
+  "hasSubtitle": true,
+  "description": "This dataset is a TFRecords files, that converted from DICOM files from dataset for [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/data).\n\n\n### Content\n\nEach sample is serialized in this way:\n```\ndef serialize_example(image, label):\n    feature = {\n        'image': _bytes_feature(image.tobytes()),\n        'MGMT_value': _float_feature(label)\n    }\n    example_proto = tf.train.Example(features=tf.train.Features(feature=feature))\n    return example_proto.SerializeToString()\n```\nThere are `465` samples in `train` folder and `117` sample in `valid` folder. Each of which has shape `(128,128,32,4)`.So, there are 32 slices for 4 modalities. \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "medicine",
+    "advanced",
+    "binary classification",
+    "cancer",
+    "tensorflow"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

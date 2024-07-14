@@ -1,0 +1,44 @@
+{
+  "id": "indubarnwal/depression-dataset",
+  "id_no": 4285807,
+  "datasetSlugNullable": "depression-dataset",
+  "ownerUserNullable": "indubarnwal",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Depression_Dataset",
+  "subtitleNullable": "",
+  "descriptionNullable": "We all know now a days mental health is one of the major problem among the students in the current days, So the dataset of some students is provided such that anyone can make health detection system that the student has any such type of depression or not. Depression.csv is basically the training file and the test.csv is for the testing the model with true labels.",
+  "datasetId": 4285807,
+  "datasetSlug": "depression-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "indubarnwal",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 426,
+  "totalVotes": 0,
+  "totalDownloads": 89,
+  "title": "Depression_Dataset",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "We all know now a days mental health is one of the major problem among the students in the current days, So the dataset of some students is provided such that anyone can make health detection system that the student has any such type of depression or not. Depression.csv is basically the training file and the test.csv is for the testing the model with true labels.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "sampling",
+    "survey analysis",
+    "data analytics",
+    "automl",
+    "english"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "teluskiman/fictional-sales-data",
+  "id_no": 5059022,
+  "datasetSlugNullable": "fictional-sales-data",
+  "ownerUserNullable": "teluskiman",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Fictional Sales Data",
+  "subtitleNullable": "This is a fictional sales data set for data anslysis",
+  "descriptionNullable": "The purpose of this fictional sales dataset is to provide data for Data Analysis practice. The 3 tables must be joined before one can analyze the data.\n\nThis fictional data set consists of 3 tables:\n1. Customer dimension (history preserving)\n2. Product dimension (history preserving)\n3. Sales Transactions\n\nThe **Customer Dimension** dataset includes unique customer IDs, addresses, ages, and indicators of current records, with effective start and end dates for each customer. \n\nThe **Product Dimension** dataset details unique product IDs, names, prices, and their validity periods, along with indicators of current price records. \n\nThe **Sales Transactions** dataset captures sales activities with unique order IDs, product IDs, customer IDs, quantities sold, and order dates. Together, these datasets offer a comprehensive view of customer demographics, product pricing history, and sales transactions.",
+  "datasetId": 5059022,
+  "datasetSlug": "fictional-sales-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "teluskiman",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1639,
+  "totalVotes": 5,
+  "totalDownloads": 336,
+  "title": "Fictional Sales Data",
+  "hasTitle": true,
+  "subtitle": "This is a fictional sales data set for data anslysis",
+  "hasSubtitle": true,
+  "description": "The purpose of this fictional sales dataset is to provide data for Data Analysis practice. The 3 tables must be joined before one can analyze the data.\n\nThis fictional data set consists of 3 tables:\n1. Customer dimension (history preserving)\n2. Product dimension (history preserving)\n3. Sales Transactions\n\nThe **Customer Dimension** dataset includes unique customer IDs, addresses, ages, and indicators of current records, with effective start and end dates for each customer. \n\nThe **Product Dimension** dataset details unique product IDs, names, prices, and their validity periods, along with indicators of current price records. \n\nThe **Sales Transactions** dataset captures sales activities with unique order IDs, product IDs, customer IDs, quantities sold, and order dates. Together, these datasets offer a comprehensive view of customer demographics, product pricing history, and sales transactions.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "sql"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "ODbL-1.0",
+      "name": "ODbL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

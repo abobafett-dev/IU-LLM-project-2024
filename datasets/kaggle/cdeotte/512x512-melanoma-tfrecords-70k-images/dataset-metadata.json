@@ -1,0 +1,39 @@
+{
+  "id": "cdeotte/512x512-melanoma-tfrecords-70k-images",
+  "id_no": 694333,
+  "datasetSlugNullable": "512x512-melanoma-tfrecords-70k-images",
+  "ownerUserNullable": "cdeotte",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "512x512 Melanoma TFRecords 70k Images",
+  "subtitleNullable": "",
+  "descriptionNullable": "Discussion about this dataset is [here][1]\n\nThese TFRecords contain Kaggle's Melanoma Classification competition's 30k Train and 10k Test images plus 30k External images with Meta Data. They have the following features:\n\n    feature = {\n      'image': _bytes_feature,\n      'image_name': _bytes_feature,\n      'patient_id': _int64_feature,\n      'sex': _int64_feature,\n      'age_approx': _int64_feature,\n      'anatom_site_general_challenge': _int64_feature,\n      'source': _int64_feature,\n      'target': _int64_feature\n    }\n\nThe test TFRecords do not have `target` nor `source`\n\n[1]: https://www.kaggle.com/c/siim-isic-melanoma-classification/discussion/156245",
+  "datasetId": 694333,
+  "datasetSlug": "512x512-melanoma-tfrecords-70k-images",
+  "hasDatasetSlug": true,
+  "ownerUser": "cdeotte",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 7532,
+  "totalVotes": 95,
+  "totalDownloads": 420,
+  "title": "512x512 Melanoma TFRecords 70k Images",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "Discussion about this dataset is [here][1]\n\nThese TFRecords contain Kaggle's Melanoma Classification competition's 30k Train and 10k Test images plus 30k External images with Meta Data. They have the following features:\n\n    feature = {\n      'image': _bytes_feature,\n      'image_name': _bytes_feature,\n      'patient_id': _int64_feature,\n      'sex': _int64_feature,\n      'age_approx': _int64_feature,\n      'anatom_site_general_challenge': _int64_feature,\n      'source': _int64_feature,\n      'target': _int64_feature\n    }\n\nThe test TFRecords do not have `target` nor `source`\n\n[1]: https://www.kaggle.com/c/siim-isic-melanoma-classification/discussion/156245",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

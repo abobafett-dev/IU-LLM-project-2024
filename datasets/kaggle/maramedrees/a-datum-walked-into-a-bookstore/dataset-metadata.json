@@ -1,0 +1,41 @@
+{
+  "id": "maramedrees/a-datum-walked-into-a-bookstore",
+  "id_no": 562582,
+  "datasetSlugNullable": "a-datum-walked-into-a-bookstore",
+  "ownerUserNullable": "maramedrees",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "A Datum Walked into a Bookstore",
+  "subtitleNullable": "A List of Fiction and Non-fiction Books ",
+  "descriptionNullable": "## Problem Statement\n\n### Bestseller or not bestseller \u2014 that is the question.\n\nEvery day, vast amounts of data are generated and used, which many industries rely and capitalize on, such as the entertainment, sports, and IT industries. The publishing industry uses data to predict bestsellers, which is not a simple process. Conventionally, predicting bestsellers is done mostly by sharp critics and publishing houses after an extremely long process that is a mix of intuition and informed guesses. Although this process once served the industry well, it is both lengthy and costly, and the predictions are not always accurate. The objective of collecting this data is to predict bestselling books with maximum accuracy based on the provided datasets.\n\n### Datasets Description\n\nThe train and test datasets contain information about the listed books.\n\n### Variable Description\n\n- book_name: refers to the name of the book \n- author: refers to the name of the author\n- availability_status: refers to the status of the book: in stock, in stock online, available in 1 week, pre-order, cancelled, or \nclick and collect only\n- original_price: refers to the price of the book\n- current_price: refers to the current price of the book\n- star_rating: refers to customer submitted reviews\n- book_status: refers to the book\u2019s selling status: either a bestseller or not\n\n### Date\n\nOn, March 18th, 2020, the dataset was collected.\n",
+  "datasetId": 562582,
+  "datasetSlug": "a-datum-walked-into-a-bookstore",
+  "hasDatasetSlug": true,
+  "ownerUser": "maramedrees",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 2796,
+  "totalVotes": 3,
+  "totalDownloads": 166,
+  "title": "A Datum Walked into a Bookstore",
+  "hasTitle": true,
+  "subtitle": "A List of Fiction and Non-fiction Books ",
+  "hasSubtitle": true,
+  "description": "## Problem Statement\n\n### Bestseller or not bestseller \u2014 that is the question.\n\nEvery day, vast amounts of data are generated and used, which many industries rely and capitalize on, such as the entertainment, sports, and IT industries. The publishing industry uses data to predict bestsellers, which is not a simple process. Conventionally, predicting bestsellers is done mostly by sharp critics and publishing houses after an extremely long process that is a mix of intuition and informed guesses. Although this process once served the industry well, it is both lengthy and costly, and the predictions are not always accurate. The objective of collecting this data is to predict bestselling books with maximum accuracy based on the provided datasets.\n\n### Datasets Description\n\nThe train and test datasets contain information about the listed books.\n\n### Variable Description\n\n- book_name: refers to the name of the book \n- author: refers to the name of the author\n- availability_status: refers to the status of the book: in stock, in stock online, available in 1 week, pre-order, cancelled, or \nclick and collect only\n- original_price: refers to the price of the book\n- current_price: refers to the current price of the book\n- star_rating: refers to customer submitted reviews\n- book_status: refers to the book\u2019s selling status: either a bestseller or not\n\n### Date\n\nOn, March 18th, 2020, the dataset was collected.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature",
+    "business",
+    "classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

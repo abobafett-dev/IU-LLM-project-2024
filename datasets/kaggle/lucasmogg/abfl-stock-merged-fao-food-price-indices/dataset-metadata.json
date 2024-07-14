@@ -1,0 +1,42 @@
+{
+  "id": "lucasmogg/abfl-stock-merged-fao-food-price-indices",
+  "id_no": 4208339,
+  "datasetSlugNullable": "abfl-stock-merged-fao-food-price-indices",
+  "ownerUserNullable": "lucasmogg",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "ABF.L Stock Merged FAO Food Price Indices",
+  "subtitleNullable": "Visualizing Market Trends: The Intersection of Food Commodities and Stock Prices",
+  "descriptionNullable": "Data Sources:\nhttps://www.fao.org/worldfoodsituation/foodpricesindex/en\nhttps://uk.finance.yahoo.com/quote/ABF.L/history?p=ABF.L\n\nData Headings:\nDate: The date of the record, in the format DD/MM/YYYY.\nFood Price Index: A measure of the monthly change in international prices of a basket of food commodities.\nMeat: The index value for meat prices.\nDairy: The index value for dairy product prices.\nCereals: The index value for cereal prices.\nOils: The index value for oil prices.\nSugar: The index value for sugar prices.\nMonthly High ABF.L Stock Price: The highest stock price of ABF.L (Associated British Foods plc) for each month.",
+  "datasetId": 4208339,
+  "datasetSlug": "abfl-stock-merged-fao-food-price-indices",
+  "hasDatasetSlug": true,
+  "ownerUser": "lucasmogg",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 49,
+  "totalVotes": 3,
+  "totalDownloads": 14,
+  "title": "ABF.L Stock Merged FAO Food Price Indices",
+  "hasTitle": true,
+  "subtitle": "Visualizing Market Trends: The Intersection of Food Commodities and Stock Prices",
+  "hasSubtitle": true,
+  "description": "Data Sources:\nhttps://www.fao.org/worldfoodsituation/foodpricesindex/en\nhttps://uk.finance.yahoo.com/quote/ABF.L/history?p=ABF.L\n\nData Headings:\nDate: The date of the record, in the format DD/MM/YYYY.\nFood Price Index: A measure of the monthly change in international prices of a basket of food commodities.\nMeat: The index value for meat prices.\nDairy: The index value for dairy product prices.\nCereals: The index value for cereal prices.\nOils: The index value for oil prices.\nSugar: The index value for sugar prices.\nMonthly High ABF.L Stock Price: The highest stock price of ABF.L (Associated British Foods plc) for each month.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "economics",
+    "time series analysis",
+    "food"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

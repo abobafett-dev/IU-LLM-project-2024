@@ -1,0 +1,44 @@
+{
+  "id": "elmadafri/the-wildfire-dataset",
+  "id_no": 3655844,
+  "datasetSlugNullable": "the-wildfire-dataset",
+  "ownerUserNullable": "elmadafri",
+  "usabilityRatingNullable": 0.75,
+  "titleNullable": "The wildfire dataset",
+  "subtitleNullable": "Enhancing Deep Learning-Based Forest Fire Detection with the Wildfire Dataset",
+  "descriptionNullable": "The wildfire dataset symbolizes a concerted effort to explore the capabilities of RGB imagery in the realm of forest fire detection through machine learning methodologies. Spanning 2,700 aerial and ground-based images, it has been curated from a diverse array of online platforms such as government databases, Flickr, and Unsplash. By capturing a wide spectrum of environmental scenarios, forest variants, geographical locations, and the intricate dynamics of forest ecosystems and fire events, the dataset stands as a thoughtful benchmark for research in forest fire detection.\n\nEvery image within this dataset is sourced from the Public Domain, emphasizing the dataset's commitment to transparency. Users can delve into the specifics, accessing detailed information about the URL origins and resolutions for each image. A defining feature of our research is the innovative Multi-Task Learning framework that integrates multi-class confounding elements, crafted specifically to refine forest fire detection. This methodology aims to bolster the model's accuracy and reduce false alarms. Its merits become particularly evident when benchmarked against traditional classification techniques.\n\n**Dataset Highlights:**\n\n**Resolution Insights:**\n\n- **Average:** 4057\u00d73155 pixels\n- **Minimum:** 153\u00d7206 pixels\n- **Maximum:** 19699\u00d78974 pixels\n- **Standard Deviation (Width):** 1867.47 pixels\n- **Standard Deviation (Height):** 1388.60 pixels\n\nThese specifications underline the dataset's commitment to providing detailed and quality-oriented imagery apt for in-depth machine learning analysis.\n\n- **Scale Variability:** The collection mirrors the heterogeneity of its sources, showcasing images of diverse real-world scales.\n- **Dataset Evolvement:** Recognizing the need for adaptability, this dataset is dynamic. Continuous enrichment with images, videos, and diverse data types is anticipated, depending on user feedback and requirements.\n\nAs a gesture of fostering open research while acknowledging intellectual contributions, this dataset is licensed under the CC BY 4.0 License. We kindly request that users, when leveraging this dataset in their work or publications, extend the courtesy of citing the associated research paper. \n\n**Citation:** El-Madafri I, Pe\u00f1a M, Olmedo-Torre N. The Wildfire Dataset: Enhancing Deep Learning-Based Forest Fire Detection with a Diverse Evolving Open-Source Dataset Focused on Data Representativeness and a Novel Multi-Task Learning Approach. Forests. 2023; 14(9):1697. \nhttps://doi.org/10.3390/f14091697 \n",
+  "datasetId": 3655844,
+  "datasetSlug": "the-wildfire-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "elmadafri",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.75,
+  "hasUsabilityRating": true,
+  "totalViews": 15997,
+  "totalVotes": 48,
+  "totalDownloads": 1700,
+  "title": "The wildfire dataset",
+  "hasTitle": true,
+  "subtitle": "Enhancing Deep Learning-Based Forest Fire Detection with the Wildfire Dataset",
+  "hasSubtitle": true,
+  "description": "The wildfire dataset symbolizes a concerted effort to explore the capabilities of RGB imagery in the realm of forest fire detection through machine learning methodologies. Spanning 2,700 aerial and ground-based images, it has been curated from a diverse array of online platforms such as government databases, Flickr, and Unsplash. By capturing a wide spectrum of environmental scenarios, forest variants, geographical locations, and the intricate dynamics of forest ecosystems and fire events, the dataset stands as a thoughtful benchmark for research in forest fire detection.\n\nEvery image within this dataset is sourced from the Public Domain, emphasizing the dataset's commitment to transparency. Users can delve into the specifics, accessing detailed information about the URL origins and resolutions for each image. A defining feature of our research is the innovative Multi-Task Learning framework that integrates multi-class confounding elements, crafted specifically to refine forest fire detection. This methodology aims to bolster the model's accuracy and reduce false alarms. Its merits become particularly evident when benchmarked against traditional classification techniques.\n\n**Dataset Highlights:**\n\n**Resolution Insights:**\n\n- **Average:** 4057\u00d73155 pixels\n- **Minimum:** 153\u00d7206 pixels\n- **Maximum:** 19699\u00d78974 pixels\n- **Standard Deviation (Width):** 1867.47 pixels\n- **Standard Deviation (Height):** 1388.60 pixels\n\nThese specifications underline the dataset's commitment to providing detailed and quality-oriented imagery apt for in-depth machine learning analysis.\n\n- **Scale Variability:** The collection mirrors the heterogeneity of its sources, showcasing images of diverse real-world scales.\n- **Dataset Evolvement:** Recognizing the need for adaptability, this dataset is dynamic. Continuous enrichment with images, videos, and diverse data types is anticipated, depending on user feedback and requirements.\n\nAs a gesture of fostering open research while acknowledging intellectual contributions, this dataset is licensed under the CC BY 4.0 License. We kindly request that users, when leveraging this dataset in their work or publications, extend the courtesy of citing the associated research paper. \n\n**Citation:** El-Madafri I, Pe\u00f1a M, Olmedo-Torre N. The Wildfire Dataset: Enhancing Deep Learning-Based Forest Fire Detection with a Diverse Evolving Open-Source Dataset Focused on Data Representativeness and a Novel Multi-Task Learning Approach. Forests. 2023; 14(9):1697. \nhttps://doi.org/10.3390/f14091697 \n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "forestry",
+    "artificial intelligence",
+    "computer vision",
+    "image",
+    "multimodal"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

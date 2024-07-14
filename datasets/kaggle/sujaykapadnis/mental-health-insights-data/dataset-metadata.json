@@ -1,0 +1,39 @@
+{
+  "id": "sujaykapadnis/mental-health-insights-data",
+  "id_no": 4091589,
+  "datasetSlugNullable": "mental-health-insights-data",
+  "ownerUserNullable": "sujaykapadnis",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Mental Health [Sentiment Analysis] Data",
+  "subtitleNullable": "Mental Health Insights: Vulnerable Cancer Survivors & Caregivers Data",
+  "descriptionNullable": "We collected over 10,087 posts from cancer patients and their caregivers on platforms like Reddit, Daily Strength, and the Health Board. The posts were related to five types of cancer: brain, colon, liver, leukemia, and lung cancer. Two team members scored each post based on the emotions expressed, using a scale from -2 to 1. Negative scores (-1 or -2) were given for posts showing grief or suffering, positive scores (1) for happy emotions like relief or accomplishment, and posts with no emotion received a score of 0 and were considered neutral. This analysis aims to understand the emotional aspects of cancer patients  posts for a mental health study.\n\nOrchi, Irin Hoque; Tabassum, Nafisa; Hossain, Jaeemul ; Tajrin, Sabrina ; Alam , Iftekhar (2023), \u201cMental Health Insights: Vulnerable Cancer Survivors & Caregivers Data\u201d, Mendeley Data, V1, doi: 10.17632/69dcnv2gzd.1",
+  "datasetId": 4091589,
+  "datasetSlug": "mental-health-insights-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "sujaykapadnis",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 2897,
+  "totalVotes": 11,
+  "totalDownloads": 339,
+  "title": "Mental Health [Sentiment Analysis] Data",
+  "hasTitle": true,
+  "subtitle": "Mental Health Insights: Vulnerable Cancer Survivors & Caregivers Data",
+  "hasSubtitle": true,
+  "description": "We collected over 10,087 posts from cancer patients and their caregivers on platforms like Reddit, Daily Strength, and the Health Board. The posts were related to five types of cancer: brain, colon, liver, leukemia, and lung cancer. Two team members scored each post based on the emotions expressed, using a scale from -2 to 1. Negative scores (-1 or -2) were given for posts showing grief or suffering, positive scores (1) for happy emotions like relief or accomplishment, and posts with no emotion received a score of 0 and were considered neutral. This analysis aims to understand the emotional aspects of cancer patients  posts for a mental health study.\n\nOrchi, Irin Hoque; Tabassum, Nafisa; Hossain, Jaeemul ; Tajrin, Sabrina ; Alam , Iftekhar (2023), \u201cMental Health Insights: Vulnerable Cancer Survivors & Caregivers Data\u201d, Mendeley Data, V1, doi: 10.17632/69dcnv2gzd.1",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

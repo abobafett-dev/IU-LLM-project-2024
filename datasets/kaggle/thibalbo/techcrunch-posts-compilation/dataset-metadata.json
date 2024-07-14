@@ -1,0 +1,40 @@
+{
+  "id": "thibalbo/techcrunch-posts-compilation",
+  "id_no": 250,
+  "datasetSlugNullable": "techcrunch-posts-compilation",
+  "ownerUserNullable": "thibalbo",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "TechCrunch Posts Compilation",
+  "subtitleNullable": "40k compiled posts with a rich set of features will boost your visualizations",
+  "descriptionNullable": "# Inspiration \nI'm a big fan of [TechCrunch](https://techcrunch.com/) for a while now. Kind of because I get to know about new startups that's coming up or maybe just because I find Tito Hamze videos fun. But TechCrunch got plenty of good content. And where we find good content we produce great exploratory analysis.\n\nThis dataset is a great opportunity for you to boost your skills as an EDA expert! It provides several features that make you able to create different analyses such as time series, clustering, predictive, segmenting, classification and tons of others. Let's not forget about word2vec for that. It would be awesome to see that in action here!\n\nI've made the scraper available on github, if you want to check it out, here is the link: [techcrunch scraper repo](https://github.com/thibalbo/techcrunch-posts-scraper)\n\n\n# Content\nThis dataset comes with a rich set of features. You will have:\n\n1. **authors**: `authors of the post - can be one or multiple authors`\n2. **category**: `post category`\n3. **content**: `post content - each paragraph can be extracted by splitting on the \\n`\n4. **date**: `post date`\n5. **id**: `post id - the same id used on techcrunch website`\n6. **img_src**: `post main image url`\n7. **section**: `post section - each section is one of the options on the main page dropdown menu`\n8. **tags**: `post tags - can be zero or multiple tags`\n9. **title**: `post title`\n10. **topics**: `post topics`\n11. **url**: `post url`\n\n#Acknowledgements\nAll posts were scraped from the [TechCrunch](https://techcrunch.com/) website on mid oct-16. Each line contains information about one post and each post appear in no more than one line.",
+  "datasetId": 250,
+  "datasetSlug": "techcrunch-posts-compilation",
+  "hasDatasetSlug": true,
+  "ownerUser": "thibalbo",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 18403,
+  "totalVotes": 47,
+  "totalDownloads": 1392,
+  "title": "TechCrunch Posts Compilation",
+  "hasTitle": true,
+  "subtitle": "40k compiled posts with a rich set of features will boost your visualizations",
+  "hasSubtitle": true,
+  "description": "# Inspiration \nI'm a big fan of [TechCrunch](https://techcrunch.com/) for a while now. Kind of because I get to know about new startups that's coming up or maybe just because I find Tito Hamze videos fun. But TechCrunch got plenty of good content. And where we find good content we produce great exploratory analysis.\n\nThis dataset is a great opportunity for you to boost your skills as an EDA expert! It provides several features that make you able to create different analyses such as time series, clustering, predictive, segmenting, classification and tons of others. Let's not forget about word2vec for that. It would be awesome to see that in action here!\n\nI've made the scraper available on github, if you want to check it out, here is the link: [techcrunch scraper repo](https://github.com/thibalbo/techcrunch-posts-scraper)\n\n\n# Content\nThis dataset comes with a rich set of features. You will have:\n\n1. **authors**: `authors of the post - can be one or multiple authors`\n2. **category**: `post category`\n3. **content**: `post content - each paragraph can be extracted by splitting on the \\n`\n4. **date**: `post date`\n5. **id**: `post id - the same id used on techcrunch website`\n6. **img_src**: `post main image url`\n7. **section**: `post section - each section is one of the options on the main page dropdown menu`\n8. **tags**: `post tags - can be zero or multiple tags`\n9. **title**: `post title`\n10. **topics**: `post topics`\n11. **url**: `post url`\n\n#Acknowledgements\nAll posts were scraped from the [TechCrunch](https://techcrunch.com/) website on mid oct-16. Each line contains information about one post and each post appear in no more than one line.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "linguistics",
+    "internet"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

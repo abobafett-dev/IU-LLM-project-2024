@@ -1,0 +1,43 @@
+{
+  "id": "godparticle12/comprehensive-smartphone-specifications-dataset",
+  "id_no": 5025867,
+  "datasetSlugNullable": "comprehensive-smartphone-specifications-dataset",
+  "ownerUserNullable": "godparticle12",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Comprehensive Smartphone Specifications Dataset",
+  "subtitleNullable": "Smartphone Spectrum: A Deep Dive into Specifications and Features",
+  "descriptionNullable": "### Smartphone Features and Performance Metrics\n\nThis dataset provides an extensive overview of smartphone models, detailing their specifications and features. It includes information on brand names, model numbers, prices, ratings, and key technological attributes such as 5G and NFC capabilities, processor details, RAM and storage capacities, battery specifications, camera details, screen features, and operating system information. This comprehensive dataset is ideal for analysis and comparison of smartphone features and performance metrics.\n\n\nColumns :\n\n* `brand_name` : The manufacturer or brand of the smartphone.\n* `model` : The specific model name or number of the smartphone.\n* `price` : The retail price of the smartphone.\n* `rating` : The user rating of the smartphone, typically on a scale of 0 to 100.\n* `has_5g` : Indicates whether the smartphone supports 5G connectivity (Yes/No).\n* `has_nfc` : Indicates whether the smartphone has NFC (Near Field Communication) capabilities (Yes/No).\n* `has_ir_blaster` : Indicates whether the smartphone has an IR blaster (Yes/No).\n* `processor_name` : The name of the smartphone's processor.\n* `processor_brand` : The brand of the smartphone's processor.\n* `nums_core` : The number of cores in the smartphone's processor.\n* `processor_speed` : The clock speed of the smartphone's processor, usually in GHz.\n* `ram_capacity` : The amount of RAM in the smartphone, typically in GB.\n* `internal_memory` : The internal storage capacity of the smartphone, typically in GB.\n* `battery_capacity` : The battery capacity of the smartphone, typically in mAh.\n* `fast_charging_available` : Indicates whether the smartphone supports fast charging (Yes/No).\n* `fast_charging` : The fast charging power rating, usually in watts (W).\n* `screen_size` : The size of the smartphone's screen, typically in inches.\n* `resolution` : The resolution of the smartphone's screen, usually in pixels (e.g., 1080x2400).\n* `refresh_rate` : The screen refresh rate, usually in Hz.\n* `num_rear_cameras` : The number of cameras on the rear of the smartphone.\n* `num_front_cameras` : The number of cameras on the front of the smartphone.\n* `primary_camera_front` : The resolution of the primary front camera, usually in megapixels (MP).\n* `primary_camera_rear` : The resolution of the primary rear camera, usually in megapixels (MP).\n* `os` : The operating system running on the smartphone.\n* `extended_memory_available` : Indicates whether the smartphone supports extended memory (Yes/No).\n* `extended_upto` : The maximum capacity for memory extension, typically in GB.\n\n\n\n\n\n\nPotential Use Cases :\n\nMarket Analysis : Analyze trends in mobile device features such as 5G, NFC, and processor specifications to understand market demand and competition dynamics.\n\nProduct Development : Use consumer preferences for specifications like processor speed, RAM capacity, and camera features to inform the development of new mobile devices that meet market demand.\n\nConsumer Insights : Gain insights into consumer preferences and behavior regarding smartphone features, enabling targeted marketing strategies and product offerings.\n\nComparative Studies : Conduct comparative analyses of different smartphone models to highlight their unique strengths and weaknesses based on specifications and features.\n\nRecommendation Systems : Improve recommendation algorithms to suggest smartphones tailored to individual preferences, enhancing the user experience on e-commerce platforms and mobile carrier websites.\n",
+  "datasetId": 5025867,
+  "datasetSlug": "comprehensive-smartphone-specifications-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "godparticle12",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 428,
+  "totalVotes": 2,
+  "totalDownloads": 81,
+  "title": "Comprehensive Smartphone Specifications Dataset",
+  "hasTitle": true,
+  "subtitle": "Smartphone Spectrum: A Deep Dive into Specifications and Features",
+  "hasSubtitle": true,
+  "description": "### Smartphone Features and Performance Metrics\n\nThis dataset provides an extensive overview of smartphone models, detailing their specifications and features. It includes information on brand names, model numbers, prices, ratings, and key technological attributes such as 5G and NFC capabilities, processor details, RAM and storage capacities, battery specifications, camera details, screen features, and operating system information. This comprehensive dataset is ideal for analysis and comparison of smartphone features and performance metrics.\n\n\nColumns :\n\n* `brand_name` : The manufacturer or brand of the smartphone.\n* `model` : The specific model name or number of the smartphone.\n* `price` : The retail price of the smartphone.\n* `rating` : The user rating of the smartphone, typically on a scale of 0 to 100.\n* `has_5g` : Indicates whether the smartphone supports 5G connectivity (Yes/No).\n* `has_nfc` : Indicates whether the smartphone has NFC (Near Field Communication) capabilities (Yes/No).\n* `has_ir_blaster` : Indicates whether the smartphone has an IR blaster (Yes/No).\n* `processor_name` : The name of the smartphone's processor.\n* `processor_brand` : The brand of the smartphone's processor.\n* `nums_core` : The number of cores in the smartphone's processor.\n* `processor_speed` : The clock speed of the smartphone's processor, usually in GHz.\n* `ram_capacity` : The amount of RAM in the smartphone, typically in GB.\n* `internal_memory` : The internal storage capacity of the smartphone, typically in GB.\n* `battery_capacity` : The battery capacity of the smartphone, typically in mAh.\n* `fast_charging_available` : Indicates whether the smartphone supports fast charging (Yes/No).\n* `fast_charging` : The fast charging power rating, usually in watts (W).\n* `screen_size` : The size of the smartphone's screen, typically in inches.\n* `resolution` : The resolution of the smartphone's screen, usually in pixels (e.g., 1080x2400).\n* `refresh_rate` : The screen refresh rate, usually in Hz.\n* `num_rear_cameras` : The number of cameras on the rear of the smartphone.\n* `num_front_cameras` : The number of cameras on the front of the smartphone.\n* `primary_camera_front` : The resolution of the primary front camera, usually in megapixels (MP).\n* `primary_camera_rear` : The resolution of the primary rear camera, usually in megapixels (MP).\n* `os` : The operating system running on the smartphone.\n* `extended_memory_available` : Indicates whether the smartphone supports extended memory (Yes/No).\n* `extended_upto` : The maximum capacity for memory extension, typically in GB.\n\n\n\n\n\n\nPotential Use Cases :\n\nMarket Analysis : Analyze trends in mobile device features such as 5G, NFC, and processor specifications to understand market demand and competition dynamics.\n\nProduct Development : Use consumer preferences for specifications like processor speed, RAM capacity, and camera features to inform the development of new mobile devices that meet market demand.\n\nConsumer Insights : Gain insights into consumer preferences and behavior regarding smartphone features, enabling targeted marketing strategies and product offerings.\n\nComparative Studies : Conduct comparative analyses of different smartphone models to highlight their unique strengths and weaknesses based on specifications and features.\n\nRecommendation Systems : Improve recommendation algorithms to suggest smartphones tailored to individual preferences, enhancing the user experience on e-commerce platforms and mobile carrier websites.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "education",
+    "mobile and wireless",
+    "beginner",
+    "exploratory data analysis",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

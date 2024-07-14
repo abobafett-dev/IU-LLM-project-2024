@@ -1,0 +1,40 @@
+{
+  "id": "souvenger/celebrity-faces-dataset",
+  "id_no": 3586674,
+  "datasetSlugNullable": "celebrity-faces-dataset",
+  "ownerUserNullable": "souvenger",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Celebrity faces Dataset",
+  "subtitleNullable": "Celebrity Face Dataset for Face Analysis and Look-alike Detection",
+  "descriptionNullable": "This dataset contains images of various celebrities, sourced from public domains and social media. It is intended for facial recognition, celebrity look-alike detection, and computer vision tasks related to celebrity face analysis.\n\nThe zip contains all the unique images of celebrities and separate label file is also given which contains the name of them.",
+  "datasetId": 3586674,
+  "datasetSlug": "celebrity-faces-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "souvenger",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 423,
+  "totalVotes": 4,
+  "totalDownloads": 84,
+  "title": "Celebrity faces Dataset",
+  "hasTitle": true,
+  "subtitle": "Celebrity Face Dataset for Face Analysis and Look-alike Detection",
+  "hasSubtitle": true,
+  "description": "This dataset contains images of various celebrities, sourced from public domains and social media. It is intended for facial recognition, celebrity look-alike detection, and computer vision tasks related to celebrity face analysis.\n\nThe zip contains all the unique images of celebrities and separate label file is also given which contains the name of them.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "celebrities",
+    "news"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Community Data License Agreement - Permissive - Version 1.0",
+      "name": "Community Data License Agreement - Permissive - Version 1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

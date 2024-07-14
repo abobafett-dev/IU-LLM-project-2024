@@ -1,0 +1,45 @@
+{
+  "id": "eicc27/pixcrawl-full",
+  "id_no": 1321731,
+  "datasetSlugNullable": "pixcrawl-full",
+  "ownerUserNullable": "eicc27",
+  "usabilityRatingNullable": 0.6875,
+  "titleNullable": "pixcrawl_full",
+  "subtitleNullable": "A raw-pic dts catagorized by illusts and r-tags.",
+  "descriptionNullable": "### Usage\n  Which includes, but is not restriced to: VGG16-feature extraction, classification(Making predictions on given pics) & regression(Generating given style pics) ...\n### Mechanics\n  Pics: Auto-gened by a crawler. It accepts a series of illust ids and returns a database containing CSV files and these pics. All related files are listed below. The program has been working on since Oct 2020, and is relatively mature.\n  H5f: Gened by a VGG16 pre-training network. It contains feature matrix instead of pics. The illusts, pic names and r-tags are also contained for searching into the pics paths. \n### Related Programs\n  I have uploaded the crawler program prototype to my GitHub. Even with half-year's improvement, it's still WIP. But if you can get your environment robust and steady, you are ready for a up-to-16-thread storm crawling.\n  On the other hand, ML-related pic-to-pic query system(that VGG16-included part) is still in development. It now faces many problems: the model is too simple, and query process is too slow, and so on... Yet I'm busy dealing with nasty college things so there's not much spare time to have this program taken good care of.\n### Update Freq\n  About every 100 every new illusts per version. The first version contains 102 illusts.\n  Mind out that I have no ambition covering every single illust on https://www.pixiv.net . So there might be some personal preference in this dts. Apology.\n### Misc\n  With the whole thing getting around multiprocessed, it seems that every single trial of starting multiprocessing in jupyter notebook has no hope of success. I'll try to find a way to get it right.\n  The dts is not frequently maintained, so note that some newest pics of given illusts might not be covered timely in this dts. I'll write a program to cover the updating things, some day...\n### Anyway, enjoy the dtb(and beautiful pics in it) and have a good day!",
+  "datasetId": 1321731,
+  "datasetSlug": "pixcrawl-full",
+  "hasDatasetSlug": true,
+  "ownerUser": "eicc27",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6875,
+  "hasUsabilityRating": true,
+  "totalViews": 2917,
+  "totalVotes": 1,
+  "totalDownloads": 26,
+  "title": "pixcrawl_full",
+  "hasTitle": true,
+  "subtitle": "A raw-pic dts catagorized by illusts and r-tags.",
+  "hasSubtitle": true,
+  "description": "### Usage\n  Which includes, but is not restriced to: VGG16-feature extraction, classification(Making predictions on given pics) & regression(Generating given style pics) ...\n### Mechanics\n  Pics: Auto-gened by a crawler. It accepts a series of illust ids and returns a database containing CSV files and these pics. All related files are listed below. The program has been working on since Oct 2020, and is relatively mature.\n  H5f: Gened by a VGG16 pre-training network. It contains feature matrix instead of pics. The illusts, pic names and r-tags are also contained for searching into the pics paths. \n### Related Programs\n  I have uploaded the crawler program prototype to my GitHub. Even with half-year's improvement, it's still WIP. But if you can get your environment robust and steady, you are ready for a up-to-16-thread storm crawling.\n  On the other hand, ML-related pic-to-pic query system(that VGG16-included part) is still in development. It now faces many problems: the model is too simple, and query process is too slow, and so on... Yet I'm busy dealing with nasty college things so there's not much spare time to have this program taken good care of.\n### Update Freq\n  About every 100 every new illusts per version. The first version contains 102 illusts.\n  Mind out that I have no ambition covering every single illust on https://www.pixiv.net . So there might be some personal preference in this dts. Apology.\n### Misc\n  With the whole thing getting around multiprocessed, it seems that every single trial of starting multiprocessing in jupyter notebook has no hope of success. I'll try to find a way to get it right.\n  The dts is not frequently maintained, so note that some newest pics of given illusts might not be covered timely in this dts. I'll write a program to cover the updating things, some day...\n### Anyway, enjoy the dtb(and beautiful pics in it) and have a good day!",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer vision",
+    "classification",
+    "cnn",
+    "image",
+    "anime and manga",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-NC-SA-4.0",
+      "name": "CC-BY-NC-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

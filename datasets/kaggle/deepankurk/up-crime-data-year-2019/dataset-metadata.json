@@ -1,0 +1,39 @@
+{
+  "id": "deepankurk/up-crime-data-year-2019",
+  "id_no": 1370579,
+  "datasetSlugNullable": "up-crime-data-year-2019",
+  "ownerUserNullable": "deepankurk",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "U.P. Crime Data - Year 2019 ",
+  "subtitleNullable": "Categorized Crime News Data from Times of India site.",
+  "descriptionNullable": "This dataset was created for a project at IIT Kanpur and requires preprocessing to visualize the dataset.\n\nThe content is crime news articles under the header with \"Murder\" ,\"Kidnapping\", and \"Crime Against Women\" reported by the Times of India site for the year 2019 in Uttar Pradesh. The data is annotated and categorized manually so as to define the reasons and the number of persons invovled.\n\nThis data can be used to improve your preprocessing and visuallization skills which corresponds directly to the business research usually done by the big companies to answer many problems. I would like you to see if there exists any relation between the reasons or the crimes committed based on the data.",
+  "datasetId": 1370579,
+  "datasetSlug": "up-crime-data-year-2019",
+  "hasDatasetSlug": true,
+  "ownerUser": "deepankurk",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 17059,
+  "totalVotes": 58,
+  "totalDownloads": 1844,
+  "title": "U.P. Crime Data - Year 2019 ",
+  "hasTitle": true,
+  "subtitle": "Categorized Crime News Data from Times of India site.",
+  "hasSubtitle": true,
+  "description": "This dataset was created for a project at IIT Kanpur and requires preprocessing to visualize the dataset.\n\nThe content is crime news articles under the header with \"Murder\" ,\"Kidnapping\", and \"Crime Against Women\" reported by the Times of India site for the year 2019 in Uttar Pradesh. The data is annotated and categorized manually so as to define the reasons and the number of persons invovled.\n\nThis data can be used to improve your preprocessing and visuallization skills which corresponds directly to the business research usually done by the big companies to answer many problems. I would like you to see if there exists any relation between the reasons or the crimes committed based on the data.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "crime"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "jdaustralia/2024-us-presidential-election-odds",
+  "id_no": 4305048,
+  "datasetSlugNullable": "2024-us-presidential-election-odds",
+  "ownerUserNullable": "jdaustralia",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "2024 US Presidential Election Odds",
+  "subtitleNullable": "Betting odds to back individual candidates for US President",
+  "descriptionNullable": "Polls are a flawed mechanism for estimating the probabilities of an election outcome.  Sample sizes are small and data scientists need to work hard to overcome these.  But these flaws do not exist in betting markets, where punters are financially incentivised to get the call right.  Perhaps we should say betting markets are 'less flawed' than polls.\n\nThe inverse of betting odds should provide the least biased estimate of the probability that each candidate has of winning the election (you may also need to adjust for the bookmakers profit).  \n\nThis data is collected from a British bookmaker.  Why British and not American?  Well according to presidentialelectionodds.net in the US 'local brick-and-mortar sportsbooks and domestic online betting sites don't offer political betting lines. In most cases, there are no state laws against the practice, but it\u2019s effectively a tradition that US sportsbooks refrain from offering odds on candidates and other election and political fare. This could change in the future, but for now, if you want to wager on politics, you can only do so at reputable offshore betting sites.'\n\nAs at January 2024, the Matchbook exchange indicates that they have received matched volume in total of c.GBP900,000 on this event.  ",
+  "datasetId": 4305048,
+  "datasetSlug": "2024-us-presidential-election-odds",
+  "hasDatasetSlug": true,
+  "ownerUser": "jdaustralia",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 677,
+  "totalVotes": 4,
+  "totalDownloads": 68,
+  "title": "2024 US Presidential Election Odds",
+  "hasTitle": true,
+  "subtitle": "Betting odds to back individual candidates for US President",
+  "hasSubtitle": true,
+  "description": "Polls are a flawed mechanism for estimating the probabilities of an election outcome.  Sample sizes are small and data scientists need to work hard to overcome these.  But these flaws do not exist in betting markets, where punters are financially incentivised to get the call right.  Perhaps we should say betting markets are 'less flawed' than polls.\n\nThe inverse of betting odds should provide the least biased estimate of the probability that each candidate has of winning the election (you may also need to adjust for the bookmakers profit).  \n\nThis data is collected from a British bookmaker.  Why British and not American?  Well according to presidentialelectionodds.net in the US 'local brick-and-mortar sportsbooks and domestic online betting sites don't offer political betting lines. In most cases, there are no state laws against the practice, but it\u2019s effectively a tradition that US sportsbooks refrain from offering odds on candidates and other election and political fare. This could change in the future, but for now, if you want to wager on politics, you can only do so at reputable offshore betting sites.'\n\nAs at January 2024, the Matchbook exchange indicates that they have received matched volume in total of c.GBP900,000 on this event.  ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "united states",
+    "politics",
+    "data visualization",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

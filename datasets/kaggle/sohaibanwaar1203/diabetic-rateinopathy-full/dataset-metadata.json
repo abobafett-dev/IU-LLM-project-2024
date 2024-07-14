@@ -1,0 +1,47 @@
+{
+  "id": "sohaibanwaar1203/diabetic-rateinopathy-full",
+  "id_no": 177723,
+  "datasetSlugNullable": "diabetic-rateinopathy-full",
+  "ownerUserNullable": "sohaibanwaar1203",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Diabetic Rateinopathy Resized ",
+  "subtitleNullable": "Google Diabetic Rateinopathy  ",
+  "descriptionNullable": "### Data-set Information\nThis Data-set is launched by google in 2014\nHere is the link\n[Google Dataset Link](https://www.kaggle.com/c/diabetic-retinopathy-detection)\n\n\n### Files Information In Dataset\n\nin google data-set we are only able to get first 1000 images which is not enough for the classification so I just resize the all the 3500 images and uploaded it in zip file so that you guys are able to work on this data-set on kaggle kernel. Thank google for this awesome data-set \n\n**DataFrame:**\n\nData Frame File Include all the information of images e.g patient number level of diabetic Ratinopathy and images names.\nThere are separate Data frames for every level of Diabetic Rateinpahthy (0,1,2,3,4) \n\n**Zip Files:**\n\nIn Zip files there are compressed images.\nImages Dimension are 224,224,3\n\n**Outlier Zip File:**\n\nOutliers Data set is added to make your classification more accurate by removing outliers you can clean your data set by using these outlier data set\n\n",
+  "datasetId": 177723,
+  "datasetSlug": "diabetic-rateinopathy-full",
+  "hasDatasetSlug": true,
+  "ownerUser": "sohaibanwaar1203",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 10098,
+  "totalVotes": 25,
+  "totalDownloads": 932,
+  "title": "Diabetic Rateinopathy Resized ",
+  "hasTitle": true,
+  "subtitle": "Google Diabetic Rateinopathy  ",
+  "hasSubtitle": true,
+  "description": "### Data-set Information\nThis Data-set is launched by google in 2014\nHere is the link\n[Google Dataset Link](https://www.kaggle.com/c/diabetic-retinopathy-detection)\n\n\n### Files Information In Dataset\n\nin google data-set we are only able to get first 1000 images which is not enough for the classification so I just resize the all the 3500 images and uploaded it in zip file so that you guys are able to work on this data-set on kaggle kernel. Thank google for this awesome data-set \n\n**DataFrame:**\n\nData Frame File Include all the information of images e.g patient number level of diabetic Ratinopathy and images names.\nThere are separate Data frames for every level of Diabetic Rateinpahthy (0,1,2,3,4) \n\n**Zip Files:**\n\nIn Zip files there are compressed images.\nImages Dimension are 224,224,3\n\n**Outlier Zip File:**\n\nOutliers Data set is added to make your classification more accurate by removing outliers you can clean your data set by using these outlier data set\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "biology",
+    "health",
+    "internet",
+    "software",
+    "deep learning",
+    "image",
+    "multiclass classification",
+    "diabetes"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

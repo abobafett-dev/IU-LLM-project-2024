@@ -1,0 +1,40 @@
+{
+  "id": "kandij/job-recommendation-datasets",
+  "id_no": 174180,
+  "datasetSlugNullable": "job-recommendation-datasets",
+  "ownerUserNullable": "kandij",
+  "usabilityRatingNullable": 0.5294117647058824,
+  "titleNullable": "Job_Recommendation analysis",
+  "subtitleNullable": "This kernel gives an idea of how NLTK is used to recommend jobs for applicants",
+  "descriptionNullable": "A recommendation engine which is build using NLTK helping the applicants to choose thier preferred job based on their application. You will learn how lemmetizer, stemming and vectoriztion are used to process the data and have a better output.",
+  "datasetId": 174180,
+  "datasetSlug": "job-recommendation-datasets",
+  "hasDatasetSlug": true,
+  "ownerUser": "kandij",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5294117647058824,
+  "hasUsabilityRating": true,
+  "totalViews": 26323,
+  "totalVotes": 38,
+  "totalDownloads": 4016,
+  "title": "Job_Recommendation analysis",
+  "hasTitle": true,
+  "subtitle": "This kernel gives an idea of how NLTK is used to recommend jobs for applicants",
+  "hasSubtitle": true,
+  "description": "A recommendation engine which is build using NLTK helping the applicants to choose thier preferred job based on their application. You will learn how lemmetizer, stemming and vectoriztion are used to process the data and have a better output.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer science",
+    "programming"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

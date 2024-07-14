@@ -1,0 +1,43 @@
+{
+  "id": "ferhatkatar/turkey-official-and-religious-days-dataset",
+  "id_no": 4018243,
+  "datasetSlugNullable": "turkey-official-and-religious-days-dataset",
+  "ownerUserNullable": "ferhatkatar",
+  "usabilityRatingNullable": 0.7647058823529411,
+  "titleNullable": "Turkey Holidays and Religious Days Dataset",
+  "subtitleNullable": "Turkey Holidays and Religious Days Dataset (2022-2031) ",
+  "descriptionNullable": "This comprehensive dataset meticulously documents events in Turkey from January 1, 2022, to December 31, 2031, featuring a diverse array of occasions, including:\n\n- New Year's Day\n- National Sovereignty and Children's Day\n- Labour Day, \n- Youth and Sports Day\n- Democracy and National Unity Day\n- Victory Day, \n- Republic Day\n- Ramadan Feast\n- Sacrifice Feast\n- Feasts. \n\nEach row represents a specific date, providing a binary indicator (1 for observed, 0 for not observed) for each corresponding event. \n\nIdeal for time-series analysis, researchers can leverage this dataset to examine the temporal patterns of Turkey's cultural and national celebrations.\n",
+  "datasetId": 4018243,
+  "datasetSlug": "turkey-official-and-religious-days-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "ferhatkatar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7647058823529411,
+  "hasUsabilityRating": true,
+  "totalViews": 374,
+  "totalVotes": 15,
+  "totalDownloads": 21,
+  "title": "Turkey Holidays and Religious Days Dataset",
+  "hasTitle": true,
+  "subtitle": "Turkey Holidays and Religious Days Dataset (2022-2031) ",
+  "hasSubtitle": true,
+  "description": "This comprehensive dataset meticulously documents events in Turkey from January 1, 2022, to December 31, 2031, featuring a diverse array of occasions, including:\n\n- New Year's Day\n- National Sovereignty and Children's Day\n- Labour Day, \n- Youth and Sports Day\n- Democracy and National Unity Day\n- Victory Day, \n- Republic Day\n- Ramadan Feast\n- Sacrifice Feast\n- Feasts. \n\nEach row represents a specific date, providing a binary indicator (1 for observed, 0 for not observed) for each corresponding event. \n\nIdeal for time-series analysis, researchers can leverage this dataset to examine the temporal patterns of Turkey's cultural and national celebrations.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "time series analysis",
+    "tabular",
+    "holidays and cultural events",
+    "english",
+    "turkish"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

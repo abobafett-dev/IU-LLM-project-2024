@@ -1,0 +1,42 @@
+{
+  "id": "jonathanflorez/extended-flowers-recognition",
+  "id_no": 1905741,
+  "datasetSlugNullable": "extended-flowers-recognition",
+  "ownerUserNullable": "jonathanflorez",
+  "usabilityRatingNullable": 0.5625,
+  "titleNullable": "Extended Flowers Recognition",
+  "subtitleNullable": "Try out flower classification with this data set of numerous flower species!",
+  "descriptionNullable": "### Context\n\nThis data set is an extension of the [Flowers Recognition](https://www.kaggle.com/alxmamaev/flowers-recognition) data set. The original Flowers Recognition data set inspired me to try out some flower classification with ML and to scrape images of more species of flowers online. So far I have added 5 species of flowers to the original data set and intend to add more. There are currently ~8,100 labeled images of 10 different flower species.\n\n### Content\n\nThe image data are all .jpg files that were scraped from the internet and are stored in folders with the corresponding class name. There are currently 10 flower classes with somewhere around ~600-900 images each: aster, daffodil, dahlia, daisy, dandelion, iris, orchid, rose, sunflower, tulip. All images have different file sizes and resolutions.\n\n### Acknowledgements\n\nCredit goes to Alexander Mamaev (alxmamaev) for uploading the original [Flowers Recognition](https://www.kaggle.com/alxmamaev/flowers-recognition) data set to Kaggle. I used Flickr, Yandex, and Google images to scrape together more images and add more classes of flowers.\n\n\n### Inspiration\n\nCan we build a model that can classify flowers?",
+  "datasetId": 1905741,
+  "datasetSlug": "extended-flowers-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "jonathanflorez",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5625,
+  "hasUsabilityRating": true,
+  "totalViews": 2633,
+  "totalVotes": 10,
+  "totalDownloads": 164,
+  "title": "Extended Flowers Recognition",
+  "hasTitle": true,
+  "subtitle": "Try out flower classification with this data set of numerous flower species!",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis data set is an extension of the [Flowers Recognition](https://www.kaggle.com/alxmamaev/flowers-recognition) data set. The original Flowers Recognition data set inspired me to try out some flower classification with ML and to scrape images of more species of flowers online. So far I have added 5 species of flowers to the original data set and intend to add more. There are currently ~8,100 labeled images of 10 different flower species.\n\n### Content\n\nThe image data are all .jpg files that were scraped from the internet and are stored in folders with the corresponding class name. There are currently 10 flower classes with somewhere around ~600-900 images each: aster, daffodil, dahlia, daisy, dandelion, iris, orchid, rose, sunflower, tulip. All images have different file sizes and resolutions.\n\n### Acknowledgements\n\nCredit goes to Alexander Mamaev (alxmamaev) for uploading the original [Flowers Recognition](https://www.kaggle.com/alxmamaev/flowers-recognition) data set to Kaggle. I used Flickr, Yandex, and Google images to scrape together more images and add more classes of flowers.\n\n\n### Inspiration\n\nCan we build a model that can classify flowers?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "plants",
+    "computer vision",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "stevenevan99/face-of-pixiv-top-daily-illustration-2020",
+  "id_no": 1098382,
+  "datasetSlugNullable": "face-of-pixiv-top-daily-illustration-2020",
+  "ownerUserNullable": "stevenevan99",
+  "usabilityRatingNullable": 0.8125,
+  "titleNullable": "Face of Pixiv Top Daily Illustration 2020",
+  "subtitleNullable": "Face of Top Daily colored original illustrations from Pixiv in 2020",
+  "descriptionNullable": "### Dataset Description\nThe dataset contains face from [this dataset](https://www.kaggle.com/stevenevan99/pixiv-top-daily-illustration-2020). The top qualifying 96.7k images were collected, unordered on January 15, 2021.\n\nThe data was collected using the \"Anime Face Detector\" based on Faster-RCNN. The Documentation of the library can be found at [here](https://github.com/qhgz2013/anime-face-detector).\n\n### License\nAll images in the dataset are copyright to their respective owners.\n\n### Another Dataset\n1. Pixiv 2020\n   - Original: [Pixiv Top Daily Illustration 2020](https://www.kaggle.com/stevenevan99/pixiv-top-daily-illustration-2020) \n   - Face Only: [Face of Pixiv Top Daily Illustration 2020](https://www.kaggle.com/stevenevan99/face-of-pixiv-top-daily-illustration-2020) (You're Here)\n2. Pixiv 2019   \n   - Original: [Pixiv Top Daily Illustration 2019](https://www.kaggle.com/stevenevan99/pixiv-top-daily-illustration-2019) \n   - Face Only: [Face of Pixiv Top Daily Illustration 2019](https://www.kaggle.com/stevenevan99/face-of-pixiv-top-daily-illustration-2019) \n3. Pixiv 2018\n   - Original: [Pixiv Top Daily Illustration 2018](https://www.kaggle.com/stevenevan99/pixiv-top-daily-illustration-2018)\n   - Face Only: [Face of Pixiv Top Daily Illustration 2018](https://www.kaggle.com/stevenevan99/face-of-pixiv-top-daily-illustration-2018)\n\n\n\n",
+  "datasetId": 1098382,
+  "datasetSlug": "face-of-pixiv-top-daily-illustration-2020",
+  "hasDatasetSlug": true,
+  "ownerUser": "stevenevan99",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8125,
+  "hasUsabilityRating": true,
+  "totalViews": 3227,
+  "totalVotes": 6,
+  "totalDownloads": 163,
+  "title": "Face of Pixiv Top Daily Illustration 2020",
+  "hasTitle": true,
+  "subtitle": "Face of Top Daily colored original illustrations from Pixiv in 2020",
+  "hasSubtitle": true,
+  "description": "### Dataset Description\nThe dataset contains face from [this dataset](https://www.kaggle.com/stevenevan99/pixiv-top-daily-illustration-2020). The top qualifying 96.7k images were collected, unordered on January 15, 2021.\n\nThe data was collected using the \"Anime Face Detector\" based on Faster-RCNN. The Documentation of the library can be found at [here](https://github.com/qhgz2013/anime-face-detector).\n\n### License\nAll images in the dataset are copyright to their respective owners.\n\n### Another Dataset\n1. Pixiv 2020\n   - Original: [Pixiv Top Daily Illustration 2020](https://www.kaggle.com/stevenevan99/pixiv-top-daily-illustration-2020) \n   - Face Only: [Face of Pixiv Top Daily Illustration 2020](https://www.kaggle.com/stevenevan99/face-of-pixiv-top-daily-illustration-2020) (You're Here)\n2. Pixiv 2019   \n   - Original: [Pixiv Top Daily Illustration 2019](https://www.kaggle.com/stevenevan99/pixiv-top-daily-illustration-2019) \n   - Face Only: [Face of Pixiv Top Daily Illustration 2019](https://www.kaggle.com/stevenevan99/face-of-pixiv-top-daily-illustration-2019) \n3. Pixiv 2018\n   - Original: [Pixiv Top Daily Illustration 2018](https://www.kaggle.com/stevenevan99/pixiv-top-daily-illustration-2018)\n   - Face Only: [Face of Pixiv Top Daily Illustration 2018](https://www.kaggle.com/stevenevan99/face-of-pixiv-top-daily-illustration-2018)\n\n\n\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "comics and animation",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

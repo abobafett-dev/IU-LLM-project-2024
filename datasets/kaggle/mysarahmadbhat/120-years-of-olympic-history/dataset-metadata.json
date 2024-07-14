@@ -1,0 +1,40 @@
+{
+  "id": "mysarahmadbhat/120-years-of-olympic-history",
+  "id_no": 1520324,
+  "datasetSlugNullable": "120-years-of-olympic-history",
+  "ownerUserNullable": "mysarahmadbhat",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "120 Years of Olympic History",
+  "subtitleNullable": "Historical data on the modern Olympic Games, from Athens 1896 to Rio 2016.",
+  "descriptionNullable": "Historical data on the modern Olympic Games, from Athens 1896 to Rio 2016. Each row corresponds to an individual athlete competing in an individual event, including the athlete's name, sex, age, height, weight, country, and medal, and the event's name, sport, games, year, and city.\nID    Unique number for each athlete\nName    Athlete's name\nSex    Male (M) or Female (F)\nAge    Integer\nHeight     In centimeters\nWeight     In kilograms\nTeam     Team name\nNOC      National Olympic Committee 3-letter code\nGames     Year and season\nYear     Integer\nSeason    summer or Winter\nCity     Host city\nSport    Sport\nEvent   Event\nMedal    Gold, Silver, Bronze, or NA",
+  "datasetId": 1520324,
+  "datasetSlug": "120-years-of-olympic-history",
+  "hasDatasetSlug": true,
+  "ownerUser": "mysarahmadbhat",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 29377,
+  "totalVotes": 80,
+  "totalDownloads": 5231,
+  "title": "120 Years of Olympic History",
+  "hasTitle": true,
+  "subtitle": "Historical data on the modern Olympic Games, from Athens 1896 to Rio 2016.",
+  "hasSubtitle": true,
+  "description": "Historical data on the modern Olympic Games, from Athens 1896 to Rio 2016. Each row corresponds to an individual athlete competing in an individual event, including the athlete's name, sex, age, height, weight, country, and medal, and the event's name, sport, games, year, and city.\nID    Unique number for each athlete\nName    Athlete's name\nSex    Male (M) or Female (F)\nAge    Integer\nHeight     In centimeters\nWeight     In kilograms\nTeam     Team name\nNOC      National Olympic Committee 3-letter code\nGames     Year and season\nYear     Integer\nSeason    summer or Winter\nCity     Host city\nSport    Sport\nEvent   Event\nMedal    Gold, Silver, Bronze, or NA",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "sports",
+    "time series analysis"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

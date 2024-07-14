@@ -1,0 +1,44 @@
+{
+  "id": "rutuspatel/walmart-dataset-retail",
+  "id_no": 1674428,
+  "datasetSlugNullable": "walmart-dataset-retail",
+  "ownerUserNullable": "rutuspatel",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "Walmart Dataset (Retail)",
+  "subtitleNullable": "Historical sales data of the walmart store",
+  "descriptionNullable": "**Dataset Description :**\n\nThis is the historical data that covers sales from 2010-02-05 to 2012-11-01, in the file Walmart_Store_sales. Within this file you will find the following fields:\n\nStore - the store number\n\nDate - the week of sales\n\nWeekly_Sales -  sales for the given store\n\nHoliday_Flag - whether the week is a special holiday week 1 \u2013 Holiday week 0 \u2013 Non-holiday week\n\nTemperature - Temperature on the day of sale\n\nFuel_Price - Cost of fuel in the region\n\nCPI \u2013 Prevailing consumer price index\n\nUnemployment - Prevailing unemployment rate\n\n**Holiday Events**\nSuper Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13\nLabour Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13\nThanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13\nChristmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13\n\n**Analysis Tasks**\n\n**Basic Statistics tasks**\n\n1) Which store has maximum sales\n\n2) Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean to standard deviation\n\n3) Which store/s has good quarterly growth rate in Q3\u20192012\n\n4) Some holidays have a negative impact on sales. Find out holidays which have higher sales than the mean sales in non-holiday season for all stores together\n\n5) Provide a monthly and semester view of sales in units and give insights\n\n**Statistical Model**\n\nFor Store 1 \u2013 Build  prediction models to forecast demand\n\nLinear Regression \u2013 Utilize variables like date and restructure dates as 1 for 5 Feb 2010 (starting from the earliest date in order). Hypothesize if CPI, unemployment, and fuel price have any impact on sales.\n\nChange dates into days by creating new variable.\n\nSelect the model which gives best accuracy.",
+  "datasetId": 1674428,
+  "datasetSlug": "walmart-dataset-retail",
+  "hasDatasetSlug": true,
+  "ownerUser": "rutuspatel",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 75545,
+  "totalVotes": 87,
+  "totalDownloads": 10146,
+  "title": "Walmart Dataset (Retail)",
+  "hasTitle": true,
+  "subtitle": "Historical sales data of the walmart store",
+  "hasSubtitle": true,
+  "description": "**Dataset Description :**\n\nThis is the historical data that covers sales from 2010-02-05 to 2012-11-01, in the file Walmart_Store_sales. Within this file you will find the following fields:\n\nStore - the store number\n\nDate - the week of sales\n\nWeekly_Sales -  sales for the given store\n\nHoliday_Flag - whether the week is a special holiday week 1 \u2013 Holiday week 0 \u2013 Non-holiday week\n\nTemperature - Temperature on the day of sale\n\nFuel_Price - Cost of fuel in the region\n\nCPI \u2013 Prevailing consumer price index\n\nUnemployment - Prevailing unemployment rate\n\n**Holiday Events**\nSuper Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13\nLabour Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13\nThanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13\nChristmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13\n\n**Analysis Tasks**\n\n**Basic Statistics tasks**\n\n1) Which store has maximum sales\n\n2) Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean to standard deviation\n\n3) Which store/s has good quarterly growth rate in Q3\u20192012\n\n4) Some holidays have a negative impact on sales. Find out holidays which have higher sales than the mean sales in non-holiday season for all stores together\n\n5) Provide a monthly and semester view of sales in units and give insights\n\n**Statistical Model**\n\nFor Store 1 \u2013 Build  prediction models to forecast demand\n\nLinear Regression \u2013 Utilize variables like date and restructure dates as 1 for 5 Feb 2010 (starting from the earliest date in order). Hypothesize if CPI, unemployment, and fuel price have any impact on sales.\n\nChange dates into days by creating new variable.\n\nSelect the model which gives best accuracy.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "exploratory data analysis",
+    "random forest",
+    "linear regression",
+    "retail and shopping",
+    "investing",
+    "sklearn"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

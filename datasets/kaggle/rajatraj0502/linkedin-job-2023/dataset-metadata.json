@@ -1,0 +1,42 @@
+{
+  "id": "rajatraj0502/linkedin-job-2023",
+  "id_no": 3696735,
+  "datasetSlugNullable": "linkedin-job-2023",
+  "ownerUserNullable": "rajatraj0502",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "LinkedIn Job Postings Dataset",
+  "subtitleNullable": "A Comprehensive Dataset of Job Postings and Companies on LinkedIn",
+  "descriptionNullable": "# LinkedIn Job Postings Dataset\n\n## Description\nThis dataset contains information about job postings on LinkedIn. The data is divided into several files, each containing different aspects of the job postings:\n\n1. `job_postings.csv`: This file contains detailed information about each job posting, including the job title, description, salary, work type, location, and more.\n2. `companies.csv`: This file contains detailed information about each company that posted a job, including the company name, website, description, size, location, and more.\n3. `company_industries.csv`: This file contains the industries associated with each company.\n4. `company_specialities.csv`: This file contains the specialties associated with each company.\n5. `employee_counts.csv`: This file contains the employee and follower counts for each company.\n6. `benefits.csv`: This file contains the benefits associated with each job.\n7. `job_industries.csv`: This file contains the industries associated with each job.\n8. `job_skills.csv`: This file contains the skills associated with each job.\n\n## Usage\nThis dataset can be used for various purposes such as:\n- Analyzing the job market\n- Analyzing company trends\n- Analyzing salary trends\n- Building a job recommendation system\n- Natural Language Processing (NLP) tasks such as keyword extraction, topic modeling, etc.\n\n## Acknowledgements\nThis dataset was collected from LinkedIn. Please note that the data may be subject to LinkedIn's terms of use.\n\n## License\nThis dataset is released under the [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1.0/).\n",
+  "datasetId": 3696735,
+  "datasetSlug": "linkedin-job-2023",
+  "hasDatasetSlug": true,
+  "ownerUser": "rajatraj0502",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 9331,
+  "totalVotes": 36,
+  "totalDownloads": 1728,
+  "title": "LinkedIn Job Postings Dataset",
+  "hasTitle": true,
+  "subtitle": "A Comprehensive Dataset of Job Postings and Companies on LinkedIn",
+  "hasSubtitle": true,
+  "description": "# LinkedIn Job Postings Dataset\n\n## Description\nThis dataset contains information about job postings on LinkedIn. The data is divided into several files, each containing different aspects of the job postings:\n\n1. `job_postings.csv`: This file contains detailed information about each job posting, including the job title, description, salary, work type, location, and more.\n2. `companies.csv`: This file contains detailed information about each company that posted a job, including the company name, website, description, size, location, and more.\n3. `company_industries.csv`: This file contains the industries associated with each company.\n4. `company_specialities.csv`: This file contains the specialties associated with each company.\n5. `employee_counts.csv`: This file contains the employee and follower counts for each company.\n6. `benefits.csv`: This file contains the benefits associated with each job.\n7. `job_industries.csv`: This file contains the industries associated with each job.\n8. `job_skills.csv`: This file contains the skills associated with each job.\n\n## Usage\nThis dataset can be used for various purposes such as:\n- Analyzing the job market\n- Analyzing company trends\n- Analyzing salary trends\n- Building a job recommendation system\n- Natural Language Processing (NLP) tasks such as keyword extraction, topic modeling, etc.\n\n## Acknowledgements\nThis dataset was collected from LinkedIn. Please note that the data may be subject to LinkedIn's terms of use.\n\n## License\nThis dataset is released under the [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1.0/).\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "employment",
+    "income",
+    "business",
+    "economics"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

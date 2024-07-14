@@ -1,0 +1,39 @@
+{
+  "id": "nohaalnazzawi/the-fakeads-corpus",
+  "id_no": 2106043,
+  "datasetSlugNullable": "the-fakeads-corpus",
+  "ownerUserNullable": "nohaalnazzawi",
+  "usabilityRatingNullable": 0.47058823529411764,
+  "titleNullable": "The FakeAds_Corpus",
+  "subtitleNullable": "The FakeAds corpus is annotated at two levels: Tweet level and mention level",
+  "descriptionNullable": "This dataset could serve the study of fake news detection on Twitter that targets information that\nmisleads the consumer by falsely promoting products. The corpus consists of tweets,\nannotated at two levels: (1) each tweet is annotated as fake or real, (2) each tweet is\nannotated at word level. This is to classify the product into one of the following classes:\ncosmetics, health, fashion, or electronics.",
+  "datasetId": 2106043,
+  "datasetSlug": "the-fakeads-corpus",
+  "hasDatasetSlug": true,
+  "ownerUser": "nohaalnazzawi",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.47058823529411764,
+  "hasUsabilityRating": true,
+  "totalViews": 448,
+  "totalVotes": 2,
+  "totalDownloads": 64,
+  "title": "The FakeAds_Corpus",
+  "hasTitle": true,
+  "subtitle": "The FakeAds corpus is annotated at two levels: Tweet level and mention level",
+  "hasSubtitle": true,
+  "description": "This dataset could serve the study of fake news detection on Twitter that targets information that\nmisleads the consumer by falsely promoting products. The corpus consists of tweets,\nannotated at two levels: (1) each tweet is annotated as fake or real, (2) each tweet is\nannotated at word level. This is to classify the product into one of the following classes:\ncosmetics, health, fashion, or electronics.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "literature"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

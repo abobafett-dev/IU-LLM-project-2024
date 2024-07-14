@@ -1,0 +1,43 @@
+{
+  "id": "allandclive/chicken-disease-1",
+  "id_no": 2051125,
+  "datasetSlugNullable": "chicken-disease-1",
+  "ownerUserNullable": "allandclive",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "Chicken Disease Image Classification",
+  "subtitleNullable": "Machine Learning Dataset for Poultry Diseases Diagnostics",
+  "descriptionNullable": "The annotated dataset of poultry disease diagnostics for small to medium-scale poultry farmers consists of poultry fecal images. The poultry fecal images were taken in Arusha and Kilimanjaro regions in Tanzania between September 2020 and February 2021 using Open Data Kit (ODK) app on mobile phones. The classes are \"Coccidiosis\" ,\"Healthy\", \"New Castle Disease\" ,\"Salmonella\". The images are resized to 224px by 224px.",
+  "datasetId": 2051125,
+  "datasetSlug": "chicken-disease-1",
+  "hasDatasetSlug": true,
+  "ownerUser": "allandclive",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 17379,
+  "totalVotes": 43,
+  "totalDownloads": 2706,
+  "title": "Chicken Disease Image Classification",
+  "hasTitle": true,
+  "subtitle": "Machine Learning Dataset for Poultry Diseases Diagnostics",
+  "hasSubtitle": true,
+  "description": "The annotated dataset of poultry disease diagnostics for small to medium-scale poultry farmers consists of poultry fecal images. The poultry fecal images were taken in Arusha and Kilimanjaro regions in Tanzania between September 2020 and February 2021 using Open Data Kit (ODK) app on mobile phones. The classes are \"Coccidiosis\" ,\"Healthy\", \"New Castle Disease\" ,\"Salmonella\". The images are resized to 224px by 224px.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "computer vision",
+    "classification",
+    "deep learning",
+    "image",
+    "multiclass classification"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

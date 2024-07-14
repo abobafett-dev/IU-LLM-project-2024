@@ -1,0 +1,41 @@
+{
+  "id": "samikshamobarkar/data-extraction-and-text-analysis",
+  "id_no": 4430747,
+  "datasetSlugNullable": "data-extraction-and-text-analysis",
+  "ownerUserNullable": "samikshamobarkar",
+  "usabilityRatingNullable": 0.8823529411764706,
+  "titleNullable": "Data Extraction & Text Analysis",
+  "subtitleNullable": "Data Extraction & Text Analysis On Indian TV Tech News Urls Dataset.",
+  "descriptionNullable": "In this project, I utilized BeautifulSoup for data extraction on a dataset containing URLs of Indian TV tech news. The extraction process involved retrieving both the title and text content from the provided URLs. Subsequently, the extracted text data was saved in text files, each corresponding to a URL, within the \"Extracted Text\" folder in TXT document format.\nAfter obtaining the text data, I conducted text analysis on each URL's extracted text. The text analysis included the calculation of various parameters such as positive and negative scores, polarity, subjectivity, average sentence length, percentage of complex words, fog index, average number of words per sentence, complex word count, total word count, personal pronouns count, and average word length.\nThe results of the text analysis, along with the corresponding URL numbers and links, were then stored in a new Excel file. This Excel file serves as the output, containing comprehensive information about the text analysis parameters for each URL.",
+  "datasetId": 4430747,
+  "datasetSlug": "data-extraction-and-text-analysis",
+  "hasDatasetSlug": true,
+  "ownerUser": "samikshamobarkar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8823529411764706,
+  "hasUsabilityRating": true,
+  "totalViews": 97,
+  "totalVotes": 1,
+  "totalDownloads": 6,
+  "title": "Data Extraction & Text Analysis",
+  "hasTitle": true,
+  "subtitle": "Data Extraction & Text Analysis On Indian TV Tech News Urls Dataset.",
+  "hasSubtitle": true,
+  "description": "In this project, I utilized BeautifulSoup for data extraction on a dataset containing URLs of Indian TV tech news. The extraction process involved retrieving both the title and text content from the provided URLs. Subsequently, the extracted text data was saved in text files, each corresponding to a URL, within the \"Extracted Text\" folder in TXT document format.\nAfter obtaining the text data, I conducted text analysis on each URL's extracted text. The text analysis included the calculation of various parameters such as positive and negative scores, polarity, subjectivity, average sentence length, percentage of complex words, fog index, average number of words per sentence, complex word count, total word count, personal pronouns count, and average word length.\nThe results of the text analysis, along with the corresponding URL numbers and links, were then stored in a new Excel file. This Excel file serves as the output, containing comprehensive information about the text analysis parameters for each URL.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "nltk",
+    "pandas"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

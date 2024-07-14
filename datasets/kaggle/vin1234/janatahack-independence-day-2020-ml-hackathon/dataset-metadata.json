@@ -1,0 +1,42 @@
+{
+  "id": "vin1234/janatahack-independence-day-2020-ml-hackathon",
+  "id_no": 831288,
+  "datasetSlugNullable": "janatahack-independence-day-2020-ml-hackathon",
+  "ownerUserNullable": "vin1234",
+  "usabilityRatingNullable": 0.5882352941176471,
+  "titleNullable": "#Janatahack: Independence Day 2020 ML Hackathon",
+  "subtitleNullable": "Topic Modeling for Research Articles",
+  "descriptionNullable": "## Problem Statement\nTopic Modeling for Research Articles\nResearchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more difficult. Tagging or topic modelling provides a way to give token of identification to research articles which facilitates recommendation and search process.\n\nGiven the abstract and title for a set of research articles, predict the topics for each article included in the test set. \n\nNote that a research article can possibly have more than 1 topic. The research article abstracts and titles are sourced from the following 6 topics: \n\n1. Computer Science\n\n2. Physics\n\n3. Mathematics\n\n4. Statistics\n\n5. Quantitative Biology\n\n6. Quantitative Finance\n\n### Data Dictionary \n<ul>train.csv</ul>\n\n| Column      | Description                               |\n|-------------|:------------------------------:|\n|ID                |Unique ID for each article        |\n|TITLE          |Title of the research article    |\n|ABSTRACT       |\tAbstract of the research article|\n|Computer Science          |Whether article belongs to topic computer science (1/0)|\n|Physics\t     |Whether article belongs to topic physics (1/0)   |\n|Mathematics\t      |Whether article belongs to topic Mathematics (1/0)   |\n|Statistics\t |Whether article belongs to topic Statistics (1/0)      ||\n|Quantitative Biology\t |Whether article belongs to topic Quantitative Biology (1/0)|\n|Quantitative Finance         |Whether article belongs to topic Quantitative Finance (1/0)  |\n\n\n\n|ID                         |Unique ID for each article     |\n|----------------------|:-----------------------:|\n|TITLE                |Title of the research article   |\n|ABSTRACT\t  |Abstract of the research article  |\n\n\n\n|ID                         |Unique ID for each article     |\n|----------------------|:-----------------------:|\n|TITLE          |Title of the research article    |\n|ABSTRACT       |\tAbstract of the research article|\n|Computer Science          |Whether article belongs to topic computer science (1/0)|\n|Physics\t     |Whether article belongs to topic physics (1/0)   |\n|Mathematics\t      |Whether article belongs to topic Mathematics (1/0)   |\n|Statistics\t |Whether article belongs to topic Statistics (1/0)      ||\n|Quantitative Biology\t |Whether article belongs to topic Quantitative Biology (1/0)|\n|Quantitative Finance         |Whether article belongs to topic Quantitative Finance (1/0)  |\n\n\n## Evaluation Metric\n\n- Submissions are evaluated on __micro F1 Score__ between the predicted and observed topics for each article in the test set.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 831288,
+  "datasetSlug": "janatahack-independence-day-2020-ml-hackathon",
+  "hasDatasetSlug": true,
+  "ownerUser": "vin1234",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.5882352941176471,
+  "hasUsabilityRating": true,
+  "totalViews": 6737,
+  "totalVotes": 14,
+  "totalDownloads": 628,
+  "title": "#Janatahack: Independence Day 2020 ML Hackathon",
+  "hasTitle": true,
+  "subtitle": "Topic Modeling for Research Articles",
+  "hasSubtitle": true,
+  "description": "## Problem Statement\nTopic Modeling for Research Articles\nResearchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more difficult. Tagging or topic modelling provides a way to give token of identification to research articles which facilitates recommendation and search process.\n\nGiven the abstract and title for a set of research articles, predict the topics for each article included in the test set. \n\nNote that a research article can possibly have more than 1 topic. The research article abstracts and titles are sourced from the following 6 topics: \n\n1. Computer Science\n\n2. Physics\n\n3. Mathematics\n\n4. Statistics\n\n5. Quantitative Biology\n\n6. Quantitative Finance\n\n### Data Dictionary \n<ul>train.csv</ul>\n\n| Column      | Description                               |\n|-------------|:------------------------------:|\n|ID                |Unique ID for each article        |\n|TITLE          |Title of the research article    |\n|ABSTRACT       |\tAbstract of the research article|\n|Computer Science          |Whether article belongs to topic computer science (1/0)|\n|Physics\t     |Whether article belongs to topic physics (1/0)   |\n|Mathematics\t      |Whether article belongs to topic Mathematics (1/0)   |\n|Statistics\t |Whether article belongs to topic Statistics (1/0)      ||\n|Quantitative Biology\t |Whether article belongs to topic Quantitative Biology (1/0)|\n|Quantitative Finance         |Whether article belongs to topic Quantitative Finance (1/0)  |\n\n\n\n|ID                         |Unique ID for each article     |\n|----------------------|:-----------------------:|\n|TITLE                |Title of the research article   |\n|ABSTRACT\t  |Abstract of the research article  |\n\n\n\n|ID                         |Unique ID for each article     |\n|----------------------|:-----------------------:|\n|TITLE          |Title of the research article    |\n|ABSTRACT       |\tAbstract of the research article|\n|Computer Science          |Whether article belongs to topic computer science (1/0)|\n|Physics\t     |Whether article belongs to topic physics (1/0)   |\n|Mathematics\t      |Whether article belongs to topic Mathematics (1/0)   |\n|Statistics\t |Whether article belongs to topic Statistics (1/0)      ||\n|Quantitative Biology\t |Whether article belongs to topic Quantitative Biology (1/0)|\n|Quantitative Finance         |Whether article belongs to topic Quantitative Finance (1/0)  |\n\n\n## Evaluation Metric\n\n- Submissions are evaluated on __micro F1 Score__ between the predicted and observed topics for each article in the test set.\n\n\n### Inspiration\n\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "beginner",
+    "nlp",
+    "text",
+    "gpu"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

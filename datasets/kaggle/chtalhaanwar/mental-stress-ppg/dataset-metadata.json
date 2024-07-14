@@ -1,0 +1,41 @@
+{
+  "id": "chtalhaanwar/mental-stress-ppg",
+  "id_no": 2184618,
+  "datasetSlugNullable": "mental-stress-ppg",
+  "ownerUserNullable": "chtalhaanwar",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "Mental Stress PPG",
+  "subtitleNullable": "PPG (PRV) signal to diagnose mental stress with Stroop test stimulus",
+  "descriptionNullable": "Mental stress is a natural response to life activities. However, acute and prolonged stress may cause psychological and heart diseases. Heart rate variability (HRV) is considered an indicator of mental stress and physical fitness. The standard way of obtaining HRV is using electrocardiography (ECG) as the time interval between two consecutive R-peaks.  Photoplethysmography (PPG) is considered an alternative for mental stress detection using pulse rate variability (PRV), the time interval between two successive peaks of PPG. \n\n\nTwenty-seven healthy bachelor students (15 male and 12 female) with a mean age of 21 \u00b1 2 participated in this study to collect PRV data. A highly sensitive, low cost, low power consumption, and RoHS compliant PPG sensor (available at [seeedstudio.com](https://wiki.seeedstudio.com/Grove-Ear-clip_Heart_Rate_Sensor/)) is used to collect data from the ear lobe of the subject. \nThe experimental protocol consisted of two stages: Baseline and during Stroop test. For the baseline stage, each participant is asked to sit in a comfortable position in the classroom during university time, and the sensor is attached to the subject's earlobe. Next, subjects are asked to take the color-word Stroop test using an [android app ](https://play.google.com/store/apps/details?id=com.mobelux.stroop_android)\n\nPlease cite the following paper, if you are using this data\n\n```\n@inproceedings{anwar2022machine,\n  title={Machine Learning Based Real-Time Diagnosis of Mental Stress Using Photoplethysmography},\n  author={Anwar, Talha and Zakir, Seemab},\n  booktitle={Journal of Biomimetics, Biomaterials and Biomedical Engineering},\n  volume={55},\n  pages={154--167},\n  year={2022},\n  organization={Trans Tech Publ},\n doi={https://doi.org/10.4028/p-01r9mn}\n}\n```",
+  "datasetId": 2184618,
+  "datasetSlug": "mental-stress-ppg",
+  "hasDatasetSlug": true,
+  "ownerUser": "chtalhaanwar",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 7837,
+  "totalVotes": 10,
+  "totalDownloads": 657,
+  "title": "Mental Stress PPG",
+  "hasTitle": true,
+  "subtitle": "PPG (PRV) signal to diagnose mental stress with Stroop test stimulus",
+  "hasSubtitle": true,
+  "description": "Mental stress is a natural response to life activities. However, acute and prolonged stress may cause psychological and heart diseases. Heart rate variability (HRV) is considered an indicator of mental stress and physical fitness. The standard way of obtaining HRV is using electrocardiography (ECG) as the time interval between two consecutive R-peaks.  Photoplethysmography (PPG) is considered an alternative for mental stress detection using pulse rate variability (PRV), the time interval between two successive peaks of PPG. \n\n\nTwenty-seven healthy bachelor students (15 male and 12 female) with a mean age of 21 \u00b1 2 participated in this study to collect PRV data. A highly sensitive, low cost, low power consumption, and RoHS compliant PPG sensor (available at [seeedstudio.com](https://wiki.seeedstudio.com/Grove-Ear-clip_Heart_Rate_Sensor/)) is used to collect data from the ear lobe of the subject. \nThe experimental protocol consisted of two stages: Baseline and during Stroop test. For the baseline stage, each participant is asked to sit in a comfortable position in the classroom during university time, and the sensor is attached to the subject's earlobe. Next, subjects are asked to take the color-word Stroop test using an [android app ](https://play.google.com/store/apps/details?id=com.mobelux.stroop_android)\n\nPlease cite the following paper, if you are using this data\n\n```\n@inproceedings{anwar2022machine,\n  title={Machine Learning Based Real-Time Diagnosis of Mental Stress Using Photoplethysmography},\n  author={Anwar, Talha and Zakir, Seemab},\n  booktitle={Journal of Biomimetics, Biomaterials and Biomedical Engineering},\n  volume={55},\n  pages={154--167},\n  year={2022},\n  organization={Trans Tech Publ},\n doi={https://doi.org/10.4028/p-01r9mn}\n}\n```",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "signal processing",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

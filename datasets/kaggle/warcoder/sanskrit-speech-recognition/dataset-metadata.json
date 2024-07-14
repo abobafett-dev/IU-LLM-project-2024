@@ -1,0 +1,44 @@
+{
+  "id": "warcoder/sanskrit-speech-recognition",
+  "id_no": 3639797,
+  "datasetSlugNullable": "sanskrit-speech-recognition",
+  "ownerUserNullable": "warcoder",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Sanskrit Speech Recognition",
+  "subtitleNullable": "Shrutilipi ASR corpus Sanskrit",
+  "descriptionNullable": "This contains **27 hours** of audio data from the **News Services Division** ([All India Radio](https://newsonair.gov.in/))\n\nThe transcripts and audio paths are provided in fairseq format, which can be directly used for training models using the fairseq library. It consists of 3 files -\n- train.tsv file - Each line in the file contains the relative path to an audio file and the number of frames in the audio separated by tabs. The file also contains a header which has the absolute path to the dataset.\n- train.wrd (word) file - each line contains the transcription for the audio file in the '.tsv' file which is corresponding to the same line number (ignoring the header in the '.tsv' file).\n- train.ltr (letter) file - Tokenized transcriptions for the corresponding sentences in 'wrd' file. (tokenized to characters)\n\n**Audio Dataset Format**\n\n- The audio files for each news bulletin are present in separate folders.\n- The audio files are stored in wav format sampled at 16KHz.\n- The audio filenames are numbered by sentence ids in the bulletin, eg. sent_1.wav\n\nLicensed under  Creative Commons CC0 license (\u201cno rights reserved\u201d)\n\nCiting:\n```cmd\n@misc{https://doi.org/10.48550/arxiv.2208.12666,\n  doi = {10.48550/ARXIV.2208.12666},\n  url = {https://arxiv.org/abs/2208.12666},\n  author = {Bhogale, Kaushal Santosh and Raman, Abhigyan and Javed, Tahir and Doddapaneni, Sumanth and Kunchukuttan, Anoop and Kumar, Pratyush and Khapra, Mitesh M.},\n  title = {Effectiveness of Mining Audio and Text Pairs from Public Data for Improving ASR Systems for Low-Resource Languages},\n  publisher = {arXiv},\n  year = {2022},\n  copyright = {arXiv.org perpetual, non-exclusive license}\n}\n```\n",
+  "datasetId": 3639797,
+  "datasetSlug": "sanskrit-speech-recognition",
+  "hasDatasetSlug": true,
+  "ownerUser": "warcoder",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 2237,
+  "totalVotes": 29,
+  "totalDownloads": 96,
+  "title": "Sanskrit Speech Recognition",
+  "hasTitle": true,
+  "subtitle": "Shrutilipi ASR corpus Sanskrit",
+  "hasSubtitle": true,
+  "description": "This contains **27 hours** of audio data from the **News Services Division** ([All India Radio](https://newsonair.gov.in/))\n\nThe transcripts and audio paths are provided in fairseq format, which can be directly used for training models using the fairseq library. It consists of 3 files -\n- train.tsv file - Each line in the file contains the relative path to an audio file and the number of frames in the audio separated by tabs. The file also contains a header which has the absolute path to the dataset.\n- train.wrd (word) file - each line contains the transcription for the audio file in the '.tsv' file which is corresponding to the same line number (ignoring the header in the '.tsv' file).\n- train.ltr (letter) file - Tokenized transcriptions for the corresponding sentences in 'wrd' file. (tokenized to characters)\n\n**Audio Dataset Format**\n\n- The audio files for each news bulletin are present in separate folders.\n- The audio files are stored in wav format sampled at 16KHz.\n- The audio filenames are numbered by sentence ids in the bulletin, eg. sent_1.wav\n\nLicensed under  Creative Commons CC0 license (\u201cno rights reserved\u201d)\n\nCiting:\n```cmd\n@misc{https://doi.org/10.48550/arxiv.2208.12666,\n  doi = {10.48550/ARXIV.2208.12666},\n  url = {https://arxiv.org/abs/2208.12666},\n  author = {Bhogale, Kaushal Santosh and Raman, Abhigyan and Javed, Tahir and Doddapaneni, Sumanth and Kunchukuttan, Anoop and Kumar, Pratyush and Khapra, Mitesh M.},\n  title = {Effectiveness of Mining Audio and Text Pairs from Public Data for Improving ASR Systems for Low-Resource Languages},\n  publisher = {arXiv},\n  year = {2022},\n  copyright = {arXiv.org perpetual, non-exclusive license}\n}\n```\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "music",
+    "beginner",
+    "intermediate",
+    "advanced",
+    "audio",
+    "sanskrit"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

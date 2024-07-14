@@ -1,0 +1,43 @@
+{
+  "id": "kaustubhrastogi17/manga-and-classic-comic-arts",
+  "id_no": 4702555,
+  "datasetSlugNullable": "manga-and-classic-comic-arts",
+  "ownerUserNullable": "kaustubhrastogi17",
+  "usabilityRatingNullable": 0.875,
+  "titleNullable": " Comic Art Dataset: Manga vs. Classic",
+  "subtitleNullable": "A Collection of Images for Manga and Classic Comic Art Classification",
+  "descriptionNullable": "# Comic Art Dataset: Manga vs. Classic\n\n## Description\n\nThe Comic Art Dataset consists of images categorized into two classes: Manga and Classic. These images are collected from various sources (Google, bing, and webscraped) and carefully labeled to distinguish between manga-style artwork and classic-style artwork.\n\n### Classes:\n\n1. **Manga**: This class includes images that represent artwork typical of manga, a style of Japanese comic books and graphic novels.\n   \n2. **Classic**: This class includes images that represent classic-style artwork, which may include Western comic book art or traditional comic illustrations.\n\n### Contents:\n\n**Images Folder**: The dataset is structured with an Images folder, under which there are two subdirectories:\n\n- Manga: This directory contains images representing manga-style artwork.\n- Classic: This directory contains images representing classic-style artwork.\n  \nThe images are organized into subdirectories corresponding to their respective classes.\n\n### Use Case:\n\nThis dataset can be used for various purposes, including but not limited to:\n\n- Training and testing machine learning models to classify comic art into manga or classic categories.\n- Research in computer vision, pattern recognition, and image classification.\n- Educational purposes for teaching image classification techniques and methodologies.\n\n## Acknowledgments\n\nWe would like to express our gratitude to the creators and artists whose works are included in this dataset. Without their contributions, this dataset would not have been possible.",
+  "datasetId": 4702555,
+  "datasetSlug": "manga-and-classic-comic-arts",
+  "hasDatasetSlug": true,
+  "ownerUser": "kaustubhrastogi17",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.875,
+  "hasUsabilityRating": true,
+  "totalViews": 403,
+  "totalVotes": 8,
+  "totalDownloads": 25,
+  "title": " Comic Art Dataset: Manga vs. Classic",
+  "hasTitle": true,
+  "subtitle": "A Collection of Images for Manga and Classic Comic Art Classification",
+  "hasSubtitle": true,
+  "description": "# Comic Art Dataset: Manga vs. Classic\n\n## Description\n\nThe Comic Art Dataset consists of images categorized into two classes: Manga and Classic. These images are collected from various sources (Google, bing, and webscraped) and carefully labeled to distinguish between manga-style artwork and classic-style artwork.\n\n### Classes:\n\n1. **Manga**: This class includes images that represent artwork typical of manga, a style of Japanese comic books and graphic novels.\n   \n2. **Classic**: This class includes images that represent classic-style artwork, which may include Western comic book art or traditional comic illustrations.\n\n### Contents:\n\n**Images Folder**: The dataset is structured with an Images folder, under which there are two subdirectories:\n\n- Manga: This directory contains images representing manga-style artwork.\n- Classic: This directory contains images representing classic-style artwork.\n  \nThe images are organized into subdirectories corresponding to their respective classes.\n\n### Use Case:\n\nThis dataset can be used for various purposes, including but not limited to:\n\n- Training and testing machine learning models to classify comic art into manga or classic categories.\n- Research in computer vision, pattern recognition, and image classification.\n- Educational purposes for teaching image classification techniques and methodologies.\n\n## Acknowledgments\n\nWe would like to express our gratitude to the creators and artists whose works are included in this dataset. Without their contributions, this dataset would not have been possible.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "art",
+    "neural networks",
+    "image",
+    "binary classification",
+    "anime and manga"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "MIT",
+      "name": "MIT",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

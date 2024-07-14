@@ -1,0 +1,39 @@
+{
+  "id": "satyajeetkumarraj/recipe-reviews-dataset",
+  "id_no": 4537654,
+  "datasetSlugNullable": "recipe-reviews-dataset",
+  "ownerUserNullable": "satyajeetkumarraj",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Recipe Reviews Dataset",
+  "subtitleNullable": "Recipe Reviews and User Feedback Dataset",
+  "descriptionNullable": "The \"Recipe Reviews and User Feedback Dataset\" is a comprehensive repository of data encompassing various aspects of recipe reviews and user interactions. It includes essential information such as the recipe name, its ranking on the top 100 recipes list, a unique recipe code, and user details like user ID, user name, and an internal user reputation score. Each review comment is uniquely identified with a comment ID and comes with additional attributes, including the creation timestamp, reply count, and the number of up-votes and down-votes received. Users' sentiment towards recipes is quantified on a 1 to 5 star rating scale, with a score of 0 denoting an absence of rating. This dataset is a valuable resource for researchers and data scientists, facilitating endeavors in sentiment analysis, user behavior analysis, recipe recommendation systems, and more. It offers a window into the dynamics of recipe reviews and user feedback within the culinary website domain.",
+  "datasetId": 4537654,
+  "datasetSlug": "recipe-reviews-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "satyajeetkumarraj",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 200,
+  "totalVotes": 7,
+  "totalDownloads": 20,
+  "title": "Recipe Reviews Dataset",
+  "hasTitle": true,
+  "subtitle": "Recipe Reviews and User Feedback Dataset",
+  "hasSubtitle": true,
+  "description": "The \"Recipe Reviews and User Feedback Dataset\" is a comprehensive repository of data encompassing various aspects of recipe reviews and user interactions. It includes essential information such as the recipe name, its ranking on the top 100 recipes list, a unique recipe code, and user details like user ID, user name, and an internal user reputation score. Each review comment is uniquely identified with a comment ID and comes with additional attributes, including the creation timestamp, reply count, and the number of up-votes and down-votes received. Users' sentiment towards recipes is quantified on a 1 to 5 star rating scale, with a score of 0 denoting an absence of rating. This dataset is a valuable resource for researchers and data scientists, facilitating endeavors in sentiment analysis, user behavior analysis, recipe recommendation systems, and more. It offers a window into the dynamics of recipe reviews and user feedback within the culinary website domain.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "cooking and recipes"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

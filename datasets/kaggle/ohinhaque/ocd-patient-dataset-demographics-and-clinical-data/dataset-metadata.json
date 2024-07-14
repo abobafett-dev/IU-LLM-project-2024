@@ -1,0 +1,43 @@
+{
+  "id": "ohinhaque/ocd-patient-dataset-demographics-and-clinical-data",
+  "id_no": 3980726,
+  "datasetSlugNullable": "ocd-patient-dataset-demographics-and-clinical-data",
+  "ownerUserNullable": "ohinhaque",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "OCD Patient Dataset: Demographics & Clinical Data",
+  "subtitleNullable": "OCD patients Clinical and Treatment Information for 1500 Individuals",
+  "descriptionNullable": "The \"OCD Patient Dataset: Demographics & Clinical Data\" is a comprehensive collection of information pertaining to 1500 individuals diagnosed with Obsessive-Compulsive Disorder (OCD). This dataset encompasses a wide range of parameters, providing a detailed insight into the demographic and clinical profiles of these individuals.\n\nIncluded in this dataset are key demographic details such as age, gender, ethnicity, marital status, and education level, offering a comprehensive overview of the sample population. Additionally, clinical information like the date of OCD diagnosis, duration of symptoms, and any previous psychiatric diagnoses are recorded, providing context to the patients' journeys.\n\nThe dataset also delves into the specific nature of OCD symptoms, categorizing them into obsession and compulsion types. Severity of these symptoms is assessed using the Yale-Brown Obsessive-Compulsive Scale (Y-BOCS) scores for both obsessions and compulsions. Furthermore, it documents any co-occurring mental health conditions, including depression and anxiety diagnoses.\n\nNotably, the dataset outlines the medications prescribed to patients, offering valuable insights into the treatment approaches employed. It also records whether there is a family history of OCD, shedding light on potential genetic or environmental factors.\n\nOverall, this dataset serves as a valuable resource for researchers, clinicians, and mental health professionals seeking to gain a deeper understanding of OCD and its manifestations within a diverse patient population.",
+  "datasetId": 3980726,
+  "datasetSlug": "ocd-patient-dataset-demographics-and-clinical-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "ohinhaque",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 12150,
+  "totalVotes": 43,
+  "totalDownloads": 2642,
+  "title": "OCD Patient Dataset: Demographics & Clinical Data",
+  "hasTitle": true,
+  "subtitle": "OCD patients Clinical and Treatment Information for 1500 Individuals",
+  "hasSubtitle": true,
+  "description": "The \"OCD Patient Dataset: Demographics & Clinical Data\" is a comprehensive collection of information pertaining to 1500 individuals diagnosed with Obsessive-Compulsive Disorder (OCD). This dataset encompasses a wide range of parameters, providing a detailed insight into the demographic and clinical profiles of these individuals.\n\nIncluded in this dataset are key demographic details such as age, gender, ethnicity, marital status, and education level, offering a comprehensive overview of the sample population. Additionally, clinical information like the date of OCD diagnosis, duration of symptoms, and any previous psychiatric diagnoses are recorded, providing context to the patients' journeys.\n\nThe dataset also delves into the specific nature of OCD symptoms, categorizing them into obsession and compulsion types. Severity of these symptoms is assessed using the Yale-Brown Obsessive-Compulsive Scale (Y-BOCS) scores for both obsessions and compulsions. Furthermore, it documents any co-occurring mental health conditions, including depression and anxiety diagnoses.\n\nNotably, the dataset outlines the medications prescribed to patients, offering valuable insights into the treatment approaches employed. It also records whether there is a family history of OCD, shedding light on potential genetic or environmental factors.\n\nOverall, this dataset serves as a valuable resource for researchers, clinicians, and mental health professionals seeking to gain a deeper understanding of OCD and its manifestations within a diverse patient population.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "mental health",
+    "diseases",
+    "public health",
+    "health",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

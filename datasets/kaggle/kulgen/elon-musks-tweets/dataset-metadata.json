@@ -1,0 +1,42 @@
+{
+  "id": "kulgen/elon-musks-tweets",
+  "id_no": 2931,
+  "datasetSlugNullable": "elon-musks-tweets",
+  "ownerUserNullable": "kulgen",
+  "usabilityRatingNullable": 0.7058823529411765,
+  "titleNullable": "Elon Musk's Tweets",
+  "subtitleNullable": "Tweets by @elonmusk from 2012 to 2017",
+  "descriptionNullable": "### Context\n\n[Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) is an American business magnate. He was one of the founders of PayPal in the past, and the founder and/or cofounder and/or CEO of SpaceX, Tesla, SolarCity, OpenAI, Neuralink, and The Boring Company in the present. He is known as much for his extremely forward-thinking ideas and huge media presence as he is for his extremely business savvy.\n\nMusk is famously active on Twitter. This dataset contains all tweets made by [@elonmusk](https://twitter.com/elonmusk), his official Twitter handle, between November 16, 2012 and September 29, 2017.\n\n### Content\n\nThis dataset includes the body of the tweet and the time it was made, as well as who it was re-tweeted from (if it is a retweet).\n\n### Inspiration\n\n* Can you figure out Elon Musk's opinions on various things by studying his Twitter statements?\n* How Elon Musk's post rate increased, decreased, or stayed about the same over time? ",
+  "datasetId": 2931,
+  "datasetSlug": "elon-musks-tweets",
+  "hasDatasetSlug": true,
+  "ownerUser": "kulgen",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.7058823529411765,
+  "hasUsabilityRating": true,
+  "totalViews": 27254,
+  "totalVotes": 67,
+  "totalDownloads": 3700,
+  "title": "Elon Musk's Tweets",
+  "hasTitle": true,
+  "subtitle": "Tweets by @elonmusk from 2012 to 2017",
+  "hasSubtitle": true,
+  "description": "### Context\n\n[Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) is an American business magnate. He was one of the founders of PayPal in the past, and the founder and/or cofounder and/or CEO of SpaceX, Tesla, SolarCity, OpenAI, Neuralink, and The Boring Company in the present. He is known as much for his extremely forward-thinking ideas and huge media presence as he is for his extremely business savvy.\n\nMusk is famously active on Twitter. This dataset contains all tweets made by [@elonmusk](https://twitter.com/elonmusk), his official Twitter handle, between November 16, 2012 and September 29, 2017.\n\n### Content\n\nThis dataset includes the body of the tweet and the time it was made, as well as who it was re-tweeted from (if it is a retweet).\n\n### Inspiration\n\n* Can you figure out Elon Musk's opinions on various things by studying his Twitter statements?\n* How Elon Musk's post rate increased, decreased, or stayed about the same over time? ",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "news",
+    "email and messaging",
+    "social networks"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

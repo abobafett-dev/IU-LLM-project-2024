@@ -1,0 +1,43 @@
+{
+  "id": "soumyadipghorai/all-ipo-stocks-of-moneycontrol",
+  "id_no": 1535670,
+  "datasetSlugNullable": "all-ipo-stocks-of-moneycontrol",
+  "ownerUserNullable": "soumyadipghorai",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "All Indian IPOs | Initial Public Offering :",
+  "subtitleNullable": "All IPOs in Indian stock market from 2010 ",
+  "descriptionNullable": "### Acknowledgements\n\nI have taken the data from Money Control. If you are someone who are into investing and stock market then you must have heard about Money Control, you can find details related Indian stock market on Money Control.\n\n[Dataset](https://www.moneycontrol.com/ipo/ipo-historic-table?classic=true) \n\n### Content\nThe dataset contains all the IPOs, and their information in Indian stock market from 2010 till date. The dataset has the following columns : \n* Date \n* IPO Name \n* Issue size\n* QIB - Qualified Institutional Buyer\n* HNI - High Networth Individuals\netc \n\n### Inspiration\n\nDuring 2021 lot of startups like Zomato, paytm and others are bringing their startups, so its a high time to analyze the returns of these IPOs through the historical data, and see if we can find some trend in these IPOS \n\nImage Link : [India TV News](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiatvnews.com%2Fbusiness%2Fmarkets-4-ipos-subscription-august-4-krsnaa-diagnostics-windlas-biotech-devyani-international-exxar-tiles-723964&psig=AOvVaw0HzCJVFkiUioyyOd1pela_&ust=1629292076873000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKi-5qSQuPICFQAAAAAdAAAAABAE)",
+  "datasetId": 1535670,
+  "datasetSlug": "all-ipo-stocks-of-moneycontrol",
+  "hasDatasetSlug": true,
+  "ownerUser": "soumyadipghorai",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 5549,
+  "totalVotes": 8,
+  "totalDownloads": 422,
+  "title": "All Indian IPOs | Initial Public Offering :",
+  "hasTitle": true,
+  "subtitle": "All IPOs in Indian stock market from 2010 ",
+  "hasSubtitle": true,
+  "description": "### Acknowledgements\n\nI have taken the data from Money Control. If you are someone who are into investing and stock market then you must have heard about Money Control, you can find details related Indian stock market on Money Control.\n\n[Dataset](https://www.moneycontrol.com/ipo/ipo-historic-table?classic=true) \n\n### Content\nThe dataset contains all the IPOs, and their information in Indian stock market from 2010 till date. The dataset has the following columns : \n* Date \n* IPO Name \n* Issue size\n* QIB - Qualified Institutional Buyer\n* HNI - High Networth Individuals\netc \n\n### Inspiration\n\nDuring 2021 lot of startups like Zomato, paytm and others are bringing their startups, so its a high time to analyze the returns of these IPOs through the historical data, and see if we can find some trend in these IPOS \n\nImage Link : [India TV News](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiatvnews.com%2Fbusiness%2Fmarkets-4-ipos-subscription-august-4-krsnaa-diagnostics-windlas-biotech-devyani-international-exxar-tiles-723964&psig=AOvVaw0HzCJVFkiUioyyOd1pela_&ust=1629292076873000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKi-5qSQuPICFQAAAAAdAAAAABAE)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "india",
+    "business",
+    "finance",
+    "exploratory data analysis",
+    "investing"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "DbCL-1.0",
+      "name": "DbCL-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

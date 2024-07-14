@@ -1,0 +1,39 @@
+{
+  "id": "dimanjung/movie-gross-data",
+  "id_no": 2402674,
+  "datasetSlugNullable": "movie-gross-data",
+  "ownerUserNullable": "dimanjung",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Movie Gross Data",
+  "subtitleNullable": "Movie Box Offices worldwide and in US",
+  "descriptionNullable": "Grosses by movies worldwide dataset from 1977 to 2022\nThis is a list of the highest-grossing films by year of initial release.\n\nFilms generate income from several revenue streams, including theatrical exhibition, home video, television broadcast rights, and merchandising. However, theatrical box-office earnings are the primary metric for trade publications in assessing the success of a film, mostly because of the availability of the data compared to sales figures for home video and broadcast rights, but also because of historical practice. \n\nSource:\nhttps://www.boxofficemojo.com/",
+  "datasetId": 2402674,
+  "datasetSlug": "movie-gross-data",
+  "hasDatasetSlug": true,
+  "ownerUser": "dimanjung",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 1000,
+  "totalVotes": 2,
+  "totalDownloads": 166,
+  "title": "Movie Gross Data",
+  "hasTitle": true,
+  "subtitle": "Movie Box Offices worldwide and in US",
+  "hasSubtitle": true,
+  "description": "Grosses by movies worldwide dataset from 1977 to 2022\nThis is a list of the highest-grossing films by year of initial release.\n\nFilms generate income from several revenue streams, including theatrical exhibition, home video, television broadcast rights, and merchandising. However, theatrical box-office earnings are the primary metric for trade publications in assessing the success of a film, mostly because of the availability of the data compared to sales figures for home video and broadcast rights, but also because of historical practice. \n\nSource:\nhttps://www.boxofficemojo.com/",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "movies and tv shows"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "datagator/wikinews-article-dataset",
+  "id_no": 2749628,
+  "datasetSlugNullable": "wikinews-article-dataset",
+  "ownerUserNullable": "datagator",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Wikinews Article Dataset",
+  "subtitleNullable": "News articles with headlines, dates, and categories.",
+  "descriptionNullable": "# Content\nThis JSON dataset contains 21,403 news articles from Wikinews. The JSON contains an array at the top level. Each array element contains data for a particular article and follows the general structure shown below.\n\n```python\n# Structure of array elements\n{\n    \"title\": \"Example title\",\n    \"text\": \"Example article body\\n\\nParagraphs are separated by two newline characters.\",\n    \"date\": \"yyyy-mm-dd\",\n    \"categories\": [\"example_categories\", \"are all\", \"lower case\"]\n}\n```\nAll data points are extracted automatically from the database dump. There are a total of unique 3,219 categories, and each article is labeled with, on average, 7.2 categories.\n\nNote: A small number of fields, about 0.11%, are missing.\n\n## News Article Writing Style\nNews articles are written in a style unlike other types of text. The headline, or title, gives a succinct description of the article content. Within the article body, paragraphs are ordered from most import to least important. The most important facts are always stated in the first paragraph, and the last paragraph generally contains only details. In this dataset paragraphs are separated by two newline characters. Note: The data preview below does not show new line characters.\n\n# License\nThe dataset itself falls under the [Creative Commons Attribution 2.5 License](https://creativecommons.org/licenses/by/2.5/)\nThe Wikinews Dataset logo is subject to the [Attribution-Share Alike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/deed.en)\n\nThe data was extracted from Wikimedia database dumps, cleaned, and converted to JSON by the Mega Rhyme Rhyming Dictionary. There is a blog article about it [here](https://www.megarhyme.com/blog/wikinews-dataset/). Please consider citing them where appropriate. Likewise, the Wikinews logo was also by them from a Wikimedia Commons image.",
+  "datasetId": 2749628,
+  "datasetSlug": "wikinews-article-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "datagator",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 404,
+  "totalVotes": 1,
+  "totalDownloads": 53,
+  "title": "Wikinews Article Dataset",
+  "hasTitle": true,
+  "subtitle": "News articles with headlines, dates, and categories.",
+  "hasSubtitle": true,
+  "description": "# Content\nThis JSON dataset contains 21,403 news articles from Wikinews. The JSON contains an array at the top level. Each array element contains data for a particular article and follows the general structure shown below.\n\n```python\n# Structure of array elements\n{\n    \"title\": \"Example title\",\n    \"text\": \"Example article body\\n\\nParagraphs are separated by two newline characters.\",\n    \"date\": \"yyyy-mm-dd\",\n    \"categories\": [\"example_categories\", \"are all\", \"lower case\"]\n}\n```\nAll data points are extracted automatically from the database dump. There are a total of unique 3,219 categories, and each article is labeled with, on average, 7.2 categories.\n\nNote: A small number of fields, about 0.11%, are missing.\n\n## News Article Writing Style\nNews articles are written in a style unlike other types of text. The headline, or title, gives a succinct description of the article content. Within the article body, paragraphs are ordered from most import to least important. The most important facts are always stated in the first paragraph, and the last paragraph generally contains only details. In this dataset paragraphs are separated by two newline characters. Note: The data preview below does not show new line characters.\n\n# License\nThe dataset itself falls under the [Creative Commons Attribution 2.5 License](https://creativecommons.org/licenses/by/2.5/)\nThe Wikinews Dataset logo is subject to the [Attribution-Share Alike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/deed.en)\n\nThe data was extracted from Wikimedia database dumps, cleaned, and converted to JSON by the Mega Rhyme Rhyming Dictionary. There is a blog article about it [here](https://www.megarhyme.com/blog/wikinews-dataset/). Please consider citing them where appropriate. Likewise, the Wikinews logo was also by them from a Wikimedia Commons image.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "text",
+    "news",
+    "json"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

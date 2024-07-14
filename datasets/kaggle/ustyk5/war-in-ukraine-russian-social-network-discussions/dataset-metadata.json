@@ -1,0 +1,43 @@
+{
+  "id": "ustyk5/war-in-ukraine-russian-social-network-discussions",
+  "id_no": 2124506,
+  "datasetSlugNullable": "war-in-ukraine-russian-social-network-discussions",
+  "ownerUserNullable": "ustyk5",
+  "usabilityRatingNullable": 0.6470588235294118,
+  "titleNullable": "War in Ukraine: Russian social network discussions",
+  "subtitleNullable": "War Discussion data from a Russian-based social media platform VK",
+  "descriptionNullable": "This dataset contains posts and discussions from a russian-based social media platform where a lot of **propaganda** is spread. Identifying the main patterns of fake news and the users' reaction is critical.\n\nWe challenge the Kaggle community to **discover the following**:\n- the difference between actual and fake news/information;\n- what propaganda methods are utilized;\n- users' reaction to various kinds of information shared;\n- how does the propaganda change over time;\n- the percentage of true/fake information;\n- text-processing techniques to obtain insights from the data;\n- methods to overcome the spread of propaganda;\n- possible approaches to help users understand what is propaganda/fake and what's not.\n\nThe text is in Russian, so a Translation API must be used to translate from one language to another.",
+  "datasetId": 2124506,
+  "datasetSlug": "war-in-ukraine-russian-social-network-discussions",
+  "hasDatasetSlug": true,
+  "ownerUser": "ustyk5",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.6470588235294118,
+  "hasUsabilityRating": true,
+  "totalViews": 5625,
+  "totalVotes": 34,
+  "totalDownloads": 413,
+  "title": "War in Ukraine: Russian social network discussions",
+  "hasTitle": true,
+  "subtitle": "War Discussion data from a Russian-based social media platform VK",
+  "hasSubtitle": true,
+  "description": "This dataset contains posts and discussions from a russian-based social media platform where a lot of **propaganda** is spread. Identifying the main patterns of fake news and the users' reaction is critical.\n\nWe challenge the Kaggle community to **discover the following**:\n- the difference between actual and fake news/information;\n- what propaganda methods are utilized;\n- users' reaction to various kinds of information shared;\n- how does the propaganda change over time;\n- the percentage of true/fake information;\n- text-processing techniques to obtain insights from the data;\n- methods to overcome the spread of propaganda;\n- possible approaches to help users understand what is propaganda/fake and what's not.\n\nThe text is in Russian, so a Translation API must be used to translate from one language to another.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "politics",
+    "nlp",
+    "text mining",
+    "text",
+    "online communities"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

@@ -161,3 +161,5 @@ cython_debug/
 
 # Custom
 *.bin
+datasets/kaggle
+datasets/kaggle_datasets_parse_by_tags

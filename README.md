@@ -12,6 +12,6 @@ In a current stage of project we are using the LLama-3-8b-Instruct model for tag
 
 ## 2. Details about the project and other
 
-[Project Proposal](https://www.overleaf.com/project/6687f96ebf95368706337428) - [overleaf link](https://www.overleaf.com/project/6687f96ebf95368706337428)
+[Project Report](https://www.overleaf.com/read/qfrkdtkcgrpn#4d989a)
 
 [Deploy Repo](https://gitlab.pg.innopolis.university/g.nesterov/tab-with-datasets-aes-ml-deploy/-/tree/main/tab_with_datasets_aes_ml_docker_compose/tags_generator?ref_type=heads)

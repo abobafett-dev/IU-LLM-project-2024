@@ -35,7 +35,7 @@ class PipelineTags:
             torch_dtype=torch.bfloat16,
             quantization_config=quantization_config
         )
-        model = PeftModel.from_pretrained(model, model_id="../saiga_lora2_ru", config=peft_config)
+        model = PeftModel.from_pretrained(model, model_id="XaPoHbomj/saiga_results_ru", config=peft_config, is_local_path=True)
         self.model = model.merge_and_unload()
 
     def predict_tags(self, description: str, title: str, subtitle: str = '') -> dict:

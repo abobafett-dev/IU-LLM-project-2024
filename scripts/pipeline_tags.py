@@ -1,6 +1,6 @@
 import torch
 import transformers
-from peft import LoraConfig, TaskType, PeftModel
+from peft import PeftModel
 import json
 
 
@@ -20,27 +20,27 @@ class PipelineTags:
         with open("../tags_ru.json", "r", encoding="UTF-8") as f:
             self.list_of_tags = json.load(f)
 
-        peft_config = LoraConfig(
-            lora_alpha=32,
-            lora_dropout=0.1,
-            r=8,
-            bias="none",
-            task_type=TaskType.CAUSAL_LM,
-            target_modules=["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
-        )
-        self.tokenizer = transformers.AutoTokenizer.from_pretrained("IlyaGusev/saiga_llama3_8b")
+        tokenizer = transformers.AutoTokenizer.from_pretrained("IlyaGusev/saiga_llama3_8b")
         model = transformers.AutoModelForCausalLM.from_pretrained(
             "IlyaGusev/saiga_llama3_8b",
-            device_map={'': 0},
+            device_map="auto",
             torch_dtype=torch.bfloat16,
-            quantization_config=quantization_config
+            quantization_config=quantization_config,
+            low_cpu_mem_usage=True
         )
-        model = PeftModel.from_pretrained(model, model_id="../saiga_lora2_ru", config=peft_config)
-        self.model = model.merge_and_unload()
+        model = PeftModel.from_pretrained(model, model_id="XaPoHbomj/saiga_results_ru")
+        model.eval()
 
-    def predict_tags(self, description: str, title: str, subtitle: str = '') -> dict:
+        self.pipeline = transformers.pipeline(
+            "text-generation",
+            model=model,
+            tokenizer=tokenizer,
+            max_new_tokens=2*12
+        )
+
+    def predict_tags(self, input_prompt: str) -> dict:
         system_prompt = """Задача: Как ведущий редактор компании мирового уровня, вам поручено выполнить ключевую задачу: провести детальный анализ предоставленного текста и выделить ключевые слова и фразы, которые наиболее точно отражают его содержание. Эти ключевые слова и фразы будут использованы для создания тегов, которые должны быть релевантными, конкретными и краткими. Теги помогут пользователям быстро понять основные темы и характеристики текста.
-        
+
         Контекст и мотивация: Успешное выполнение этой задачи имеет решающее значение для будущего компании, в которой вы работаете уже 20 лет. От вашей работы зависит не только имидж компании, но и ваша собственная карьера, включая премии и потенциальную долю в компании. Поэтому крайне важно подойти к задаче с максимальной тщательностью и профессионализмом.
         
         Инструкция по выполнению задачи:
@@ -61,39 +61,24 @@ class PipelineTags:
         Учитывайте, что теги должны быть понятны широкой аудитории и точно отражать основные идеи текста.
         Текст для анализа:
         """
-        input_text = f"Заголовок: {title}"
-        if subtitle != '':
-            input_text += f"\nПодзаголовок: {subtitle}"
-        input_text += f"\nОписание: {description}"
-        formatted_prompt = self.tokenizer.apply_chat_template([{
-            "role": "system",
-            "content": system_prompt
-        }, {
-            "role": "user",
-            "content": input_text
-        }], tokenize=False, add_generation_prompt=True)
 
-        model_inputs = self.tokenizer([formatted_prompt], return_tensors="pt").to('cuda')
-
-        generated_ids = self.model.generate(
-            input_ids=model_inputs.input_ids,
-            max_new_tokens=32,
-            eos_token_id=self.tokenizer.encode('<|eot_id|>')[0],
-        )
-        generated_ids = [
-            output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
+        messages = [
+            {
+                "role": "system",
+                "content": system_prompt
+            },
+            {
+                "role": "user",
+                "content": input_prompt
+            }
         ]
 
-        response = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
-        response = response.splitlines()[0].split(", ")
-        result = []
-        stop_suffix = 'assist'
-        for string in response:
-            if string.endswith(stop_suffix):
-                result.append(string[:-len(stop_suffix)])
-                break
-            else:
-                result.append(string)
+        response = self.pipeline(
+            messages,
+            pad_token_id=self.pipeline.tokenizer.eos_token_id
+        )[0]['generated_text'][-1]['content']
+
+        result = response.split(", ")
 
         tags = {
             "Тип данных": [],

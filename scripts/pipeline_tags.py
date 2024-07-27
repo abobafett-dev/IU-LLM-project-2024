@@ -35,7 +35,7 @@ class PipelineTags:
             "text-generation",
             model=model,
             tokenizer=tokenizer,
-            max_new_tokens=2*12
+            max_new_tokens=2**12
         )
 
     def predict_tags(self, input_prompt: str) -> dict:
